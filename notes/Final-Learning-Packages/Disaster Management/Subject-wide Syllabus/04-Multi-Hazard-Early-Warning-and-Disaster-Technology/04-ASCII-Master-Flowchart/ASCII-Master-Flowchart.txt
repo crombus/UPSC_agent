@@ -1,78 +1,66 @@
-ASCII MASTER FLOW — PANEL 1/12: End-to-end MHEWS rail
-1 RISK KNOWLEDGE
-2 MONITOR / OBSERVE / FORECAST
-3 AUTHORITATIVE WARNING
-4 DISSEMINATE -> 5 PREPARE / ACT -> 6 FEEDBACK
+ASCII MASTER FLOW — PANEL 1/12: End-to-end people-centred chain
+RISK KNOWLEDGE -> MONITOR / FORECAST -> AUTHORITATIVE WARNING
+-> MULTI-CHANNEL DISSEMINATION -> COMPREHENSION -> EARLY ACTION
+-> OUTCOME + FEEDBACK -> UPDATED RISK KNOWLEDGE
 
-ASCII MASTER FLOW — PANEL 2/12: Risk-knowledge stack
-HAZARD + EXPOSURE + VULNERABILITY + CAPACITY
-SPATIAL LAYERS + HISTORICAL / REAL-TIME DATA
-DECISION -> WHO WHERE WHEN WHAT ACTION
-UPDATE -> COMMUNITY AND EVENT FEEDBACK
+ASCII MASTER FLOW — PANEL 2/12: Risk-knowledge and GIS stack
+HAZARD + EXPOSURE + VULNERABILITY - CAPACITY = DISASTER RISK
+GIS overlays people, assets, lifelines, routes and shelters.
+Remote sensing observes; GIS integrates; institutions decide; field teams act.
 
-ASCII MASTER FLOW — PANEL 3/12: Observation-to-warning firewall
-SENSOR / REPORT -> QUALITY CONTROL
-MODEL + EXPERT ANALYSIS -> FORECAST / ASSESSMENT
-COMPETENT AUTHORITY -> WARNING
-PUBLIC ACTION -> NOT RAW DATA
+ASCII MASTER FLOW — PANEL 3/12: Forecast-warning-order firewall
+OBSERVATION -> FORECAST / ASSESSMENT -> AUTHORISED WARNING -> ACTION ORDER
+Nowcasting: conventionally present to ~6 h; IMD commonly ~3 h products.
+Five-to-thirty minutes is a narrow extrapolation example, not a universal rule.
 
-ASCII MASTER FLOW — PANEL 4/12: Dissemination redundancy
-CAP MESSAGE -> SMS / CELL / APP / WEB
-CAP MESSAGE -> RADIO / TV / SIREN
-LOCAL RELAY -> VOLUNTEER / PUBLIC ADDRESS
-BACKUP -> POWER + NETWORK + MANUAL PATH
+ASCII MASTER FLOW — PANEL 4/12: Hazard and lead-time matching
+EARTHQUAKE -> no deterministic prediction; rapid post-event parameters
+TSUNAMI -> under-10-min earthquake detection; longer public-action chain
+URBAN RAINFALL -> qualified 3-6 h source planning example
+CYCLONE -> longer tracking window; action still depends on preparedness
 
-ASCII MASTER FLOW — PANEL 5/12: Warning-to-action test
-RECEIVED? -> UNDERSTOOD?
-TRUSTED? -> ACTION FEASIBLE?
-ROUTE / TRANSPORT / SHELTER AVAILABLE?
-RESULT -> EARLY ACTION OR LAST-MILE FAILURE
+ASCII MASTER FLOW — PANEL 5/12: CAP-SACHET dissemination
+COMPETENT AGENCY -> ONE STRUCTURED CAP ALERT -> NDMA SACHET
+-> SMS / CELL BROADCAST / APP / WEB / RADIO / TV / SIREN
+-> ACCESSIBLE LOCAL RELAY -> RECEIPT TEST
+CAP solves format interoperability, not mandate or readiness.
 
-ASCII MASTER FLOW — PANEL 6/12: Agency ownership matrix
-IMD -> WEATHER / CYCLONE
-CWC -> RIVER FLOOD FORECAST
-INCOIS -> TSUNAMI
+ASCII MASTER FLOW — PANEL 6/12: Warning-to-action test
+DELIVERED? -> RECEIVED? -> UNDERSTOOD? -> TRUSTED? -> ACTION FEASIBLE?
+ROUTE + TRANSPORT + SHELTER + SUPPLIES + ASSISTANCE AVAILABLE?
+Success is the at-risk person protected, not the message sent.
+
+ASCII MASTER FLOW — PANEL 7/12: Agency ownership
+IMD -> WEATHER / CYCLONE | CWC -> RIVER FLOOD
+INCOIS / ITEWC -> TSUNAMI | NCS / MoES -> EARTHQUAKE PARAMETERS
 ISRO / NRSC -> EARTH OBSERVATION / GIS
-NDMA + STATE / LOCAL -> INTEGRATION AND ACTION
+NDMA + STATE / LOCAL -> INTEGRATION AND PROTECTIVE ACTION
 
-ASCII MASTER FLOW — PANEL 7/12: CAP and SACHET boundary
-CAP -> structured message format
-SACHET -> national alert portal / dissemination layer
-SOLVES -> channel-format interoperability
-DOES NOT SOLVE -> hazard ownership or local readiness
+ASCII MASTER FLOW — PANEL 8/12: Public applications
+MAUSAM / MEGHDOOT -> IMD | DAMINI -> IITM PUNE
+BHOOKAMP -> NCS / MoES | UMANG -> MeitY platform
+SACHET -> NDMA integrated alert portal
+APP EXISTENCE != UNIVERSAL REACH OR PROTECTIVE OUTCOME
 
-ASCII MASTER FLOW — PANEL 8/12: Geospatial decision cycle
-SATELLITE / AERIAL / FIELD DATA
-GIS LAYERS -> RISK MAP / ROUTE / SHELTER
-EVENT IMAGE -> DAMAGE / ACCESS ASSESSMENT
-RECOVERY MAP -> SAFER SITING
+ASCII MASTER FLOW — PANEL 9/12: Phailin and impact-based warning
+SATELLITE + RADAR + MODELS -> ACCURATE TRACK / INTENSITY FORECAST
+-> AUTHORISED IMPACT MESSAGE -> MASS PREPAREDNESS / EVACUATION
+Use "forecasting and tracking", not deterministic "exact prediction".
+Impact message names consequence and action, not only wind or rainfall.
 
-ASCII MASTER FLOW — PANEL 9/12: Sensor-hazard matching
-DOPPLER RADAR -> WEATHER STRUCTURE
-GAUGE -> RAIN / RIVER / SEA LEVEL
-BUOY / BPR -> OCEAN RESPONSE
-SEISMIC NETWORK -> EARTHQUAKE PARAMETERS
+ASCII MASTER FLOW — PANEL 10/12: Resilient architecture
+DIVERSE SENSORS + COMMON STANDARDS + BACKUP POWER / NETWORK
++ MAINTENANCE + CYBERSECURITY + MANUAL LOCAL PATH
+One failure should degrade the chain, not silence it.
 
-ASCII MASTER FLOW — PANEL 10/12: Emerging-technology safeguards
-DRONE -> local imagery | airspace + safety
-AI -> pattern / prioritisation | uncertainty + oversight
-CROWD REPORT -> local signal | verification + provenance
-DATA -> utility | privacy + minimisation
-MUST REMEMBER: An end-to-end early-warning chain runs observation -> detection ->...
-MUST REMEMBER: An end-to-end early-warning chain runs observation -> detection ->...
+ASCII MASTER FLOW — PANEL 11/12: Emerging-technology safeguards
+DRONE / AI / CROWD REPORT -> PROVENANCE + HUMAN VALIDATION
+-> UNCERTAINTY + NECESSITY + DATA MINIMISATION + ACCESS CONTROL
+-> INCLUSIVE NON-DIGITAL ALTERNATIVE
+TECHNICAL INPUT != VERIFIED OUTCOME
 
-ASCII MASTER FLOW — PANEL 11/12: Failure and redundancy map
-SENSOR FAIL | POWER FAIL | NETWORK FAIL
-AUTHORITY DELAY | FORMAT MISMATCH
-LANGUAGE / ACCESS BARRIER | NO TRANSPORT
-CONTROL -> REDUNDANT TECHNICAL AND HUMAN PATHS
-CLOSE DISTINCTION: Observation is not forecast; forecast is not watch; watch is not...
-CLOSE DISTINCTION: Observation is not forecast; forecast is not watch; watch is not...
-
-ASCII MASTER FLOW — PANEL 12/12: Technology answer spine
-MAP HAZARD + LEAD TIME -> NAME COMPETENT AGENCY
-TRACE DATA -> FORECAST -> WARNING -> DISSEMINATION
-ADD ACCESSIBLE ACTION + FEEDBACK
-QUALIFY UNCERTAINTY PRIVACY AND OUTCOME EVIDENCE
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute the competent agency and...
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute the competent agency and...
+ASCII MASTER FLOW — PANEL 12/12: EW4All answer spine
+TARGET 2027
+UNDRR -> RISK KNOWLEDGE | WMO -> DETECTION / FORECASTING
+ITU -> DISSEMINATION | IFRC -> PREPAREDNESS / RESPONSE
+Assess each pillar; do not present the target as achieved coverage.

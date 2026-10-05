@@ -1,0 +1,59 @@
+{
+  "topic": "01-Ecosystem-Structure-and-Function",
+  "title": "Ecosystem Structure and Function",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 65,
+      "answers": 65,
+      "keys": {
+        "A": 18,
+        "B": 17,
+        "C": 14,
+        "D": 16
+      },
+      "max_option_ratio": 1.515,
+      "findings": []
+    },
+    {
+      "revision": 2,
+      "questions": 70,
+      "answers": 70,
+      "keys": {
+        "A": 16,
+        "B": 21,
+        "C": 18,
+        "D": 15
+      },
+      "max_option_ratio": 1.421,
+      "findings": []
+    },
+    {
+      "revision": 3,
+      "questions": 70,
+      "answers": 70,
+      "keys": {
+        "A": 17,
+        "B": 17,
+        "C": 17,
+        "D": 19
+      },
+      "max_option_ratio": 1.564,
+      "findings": []
+    }
+  ],
+  "total_questions": 205,
+  "exact_pyqs_reproduced": 0,
+  "cross_revision_exact_stem_duplicates": 0,
+  "required_ledgers": [
+    "COVERAGE.md",
+    "SOURCE-AND-PYQ-HOLDS.md",
+    "STRUCTURAL-AUDIT.md",
+    "HOSTILE-AUDIT.md",
+    "AUDIT-REPORT.md",
+    "VALIDATION.json",
+    "INSTITUTIONAL-FACT-LEDGER.md"
+  ],
+  "generated": "2026-10-04"
+}

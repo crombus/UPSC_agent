@@ -1,6 +1,7 @@
 # GST COUNCIL — QUICK-GLANCE TREE
 
-**Control date:** 8 September 2026 | **Core idea:** negotiated GST coordination under Article 279A, implemented through competent legislation and notification.
+**Control date:** 8 September 2026 | **Core idea:** negotiated GST coordination under Article 279A, implemented
+   through competent legislation and notification.
 
 ```text
 GST COUNCIL
@@ -112,4 +113,7 @@ GST COUNCIL
 
 ## QUALIFIED CONCLUSION
 
-The Council harmonises GST through constitutional persuasion and structured interdependence. Parliament and State legislatures retain law-making power; administrations, GSTN and GSTAT perform separate functions. Cooperative federalism therefore depends on valid legal implementation, transparent fiscal adjustment and an operational intergovernmental dispute route.
+The Council harmonises GST through constitutional persuasion and structured interdependence. Parliament and
+   State legislatures retain law-making power; administrations, GSTN and GSTAT perform separate functions.
+   Cooperative federalism therefore depends on valid legal implementation, transparent fiscal adjustment and an
+   operational intergovernmental dispute route.

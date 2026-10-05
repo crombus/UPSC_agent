@@ -1,1324 +1,1252 @@
----
-title: "Vijayanagara & the Bahmani Kingdom (Deccan) — Solved Practice Workbook"
-topic_key: medieval-indian-history-09
----
 # Vijayanagara & the Bahmani Kingdom (Deccan) — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-#### Learning MCQ 01
+### Part I — 44 workbook MCQs (questions first; option-wise solutions in the separate key)
 
-Which formulation best explains the Vijayanagara–Bahmani rivalry?
+#### Workbook MCQ 1
 
-- A. Competition for revenue-bearing zones, strategic routes, ports and horse supply alongside political and cultural claims.
-
-- B. A peaceful commercial partnership without recurrent military competition.
-
-- C. A purely religious war in which trade and military resources were irrelevant.
-
-- D. A contest confined to a single fort with no coastal dimension.
-
-
-**Answer: A.**
-
-**Explanation:** The correct answer identifies the three-zone political economy; the closest distractor is the religious-only explanation, which ignores doab, basin and coastal evidence.
-
-#### Learning MCQ 02
-
-Which is the safest statement about the 1336 foundation?
-
-- A. It means Vijayanagara had no prehistory or contested origins.
-
-- B. It is a conventional political anchor, while Harihara–Bukka origin narratives require source caution.
-
-- C. It dates the Bahmani kingdom rather than Vijayanagara.
-
-- D. It proves every detail of a single later foundation story.
-
-
-**Answer: B.**
-
-**Explanation:** The correct answer balances chronology and historiography; the closest distractor is the full-proof claim, which confuses a conventional date with a settled biography.
-
-#### Learning MCQ 03
-
-Which succession list is correct for Vijayanagara?
-
-- A. Tuluva → Sangama → Bahmani → Aravidu.
-
-- B. Saluva → Lodi → Tuluva → Qutb Shahi.
-
-- C. Sangama → Saluva → Tuluva → Aravidu.
-
-- D. Aravidu → Sangama → Tuluva → Bahmani.
-
-
-**Answer: C.**
-
-**Explanation:** The correct sequence distinguishes dynasty from rival state; the closest distractor is the first alternative because it uses real names but reverses the historical order.
-
-#### Learning MCQ 04
-
-Why did Goa and the Konkan coast matter before Portuguese conquest?
-
-- A. They were the location of the Tungabhadra dam.
-
-- B. They mattered only for temple pilgrimage.
-
-- C. They had no connection to inland political rivalry.
-
-- D. They were nodes in commerce and the imported-horse supply essential to Deccan cavalry.
-
-
-**Answer: D.**
-
-**Explanation:** The coast linked trade and cavalry; the closest distractor is the inland-rivalry denial because it misses the horse–port chain.
-
-#### Learning MCQ 05
-
-Which ruler is associated with a dam across the Tungabhadra and a canal-cum-aqueduct to the capital?
-
-- A. Deva Raya I.
-
-- B. Rama Raya.
-
-- C. Mahmud Gawan.
-
-- D. Deva Raya II.
-
-
-**Answer: A.**
-
-**Explanation:** Deva Raya I is tied to irrigation; Deva Raya II is the closest distractor because he is also a major Vijayanagara ruler, but his source signature is military adaptation.
-
-#### Learning MCQ 06
-
-Which ruler is most closely associated with military recruitment and adaptation involving cavalrymen and archers?
-
-- A. Deva Raya I.
-
-- B. Deva Raya II.
-
-- C. Mahmud Gawan.
-
-- D. Ahmad Shah Bahmani.
-
-
-**Answer: B.**
-
-**Explanation:** Deva Raya II is the source-grounded answer; Deva Raya I is the closest distractor because both ruled Vijayanagara, but he is associated with irrigation.
-
-#### Learning MCQ 07
-
-What can Hampi’s enclosures, bazaars and water works most securely demonstrate?
-
-- A. That every resident shared the same wealth and legal status.
-
-- B. That the Bahmani capital was located inside Hampi.
-
-- C. An integrated urban landscape in which defence, market, ritual and water management were coordinated.
-
-- D. That travellers supplied exact population statistics.
-
-
-**Answer: C.**
-
-**Explanation:** The correct inference concerns urban organisation; the closest distractor is universal prosperity, an overclaim from real monumental evidence.
-
-#### Learning MCQ 08
-
-Which statement most accurately distinguishes amaram from an iqta comparison?
-
-- A. Amaram was a Portuguese customs concession at Bhatkal.
-
-- B. Amaram eliminated all local military intermediaries.
-
-- C. Amaram was a standard Bahmani taraf office appointed for a fixed salary.
-
-- D. Amaram linked hereditary nayaka service and territorial revenue; it should not be treated as a replica of a transferable iqta.
-
-
-**Answer: D.**
-
-**Explanation:** The correct statement preserves heredity and service; the closest distractor is the taraf option because both are territorial-fiscal terms, but they belong to different institutional settings.
-
-#### Learning MCQ 09
-
-Which combination best captures Krishnadeva Raya’s statecraft?
-
-- A. Campaigns, water and town building, literary patronage and pragmatic coastal diplomacy.
-
-- B. A withdrawal from all western-coast contact after 1509.
-
-- C. A rejection of all urban and cultural patronage in favour of warfare alone.
-
-- D. An eight-taraf reform that abolished nayaka service.
-
-
-**Answer: A.**
-
-**Explanation:** The correct answer integrates the main dimensions of the Tuluva ruler’s reign. The closest distractor is warfare-alone language because campaigns mattered but did not displace infrastructure, patronage or diplomacy.
-
-#### Learning MCQ 10
-
-How should the Bhatkal fact be handled in an answer?
-
-- A. Assign the permission to Yusuf Adil Shah because Goa was coastal.
-
-- B. Use the official 2024 answer for Krishnadevaraya and note that the exact fort claim is preserved mainly through Portuguese testimony.
-
-- C. Claim a detailed treaty formula without a cited source.
-
-- D. Reject the official key because travel accounts have limits.
-
-
-**Answer: B.**
-
-**Explanation:** The correct method combines exam verification and provenance caution; the closest distractor is automatic rejection, which mistakes source limitation for the absence of usable evidence.
-
-#### Learning MCQ 11
-
-Which evidence best supports a cautious statement about women in Vijayanagara?
-
-- A. A single account replaces all local evidence.
-
-- B. The list proves universal occupational equality across the empire.
-
-- C. A Portuguese account lists specialised activities, indicating visible roles in the observer’s courtly or urban field rather than all women’s status.
-
-- D. Women’s expertise can be inferred only from the Bahmani eight-taraf reform.
-
-
-**Answer: C.**
-
-**Explanation:** The correct reading uses the observation without making it a census; the closest distractor is universal equality because it overextends a real observation.
-
-#### Learning MCQ 12
-
-Which statement is correct about Bahmani formation and capital history?
-
-- A. Mahmud Gawan founded Vijayanagara at Hampi.
-
-- B. The kingdom was founded in 1565 after Talikota.
-
-- C. Bidar was the first capital of the Sangama dynasty.
-
-- D. The kingdom was founded in 1347; Gulbarga was an early capital and Ahmad Shah shifted the court to Bidar.
-
-
-**Answer: D.**
-
-**Explanation:** The correct statement preserves foundation, early capital and later shift. The closest distractor is the post-Talikota claim because it confuses a much later Vijayanagara rupture with Bahmani formation.
-
-#### Learning MCQ 13
-
-What was central to Mahmud Gawan’s administrative programme?
-
-- A. Division into eight tarafs, khalisa resources, fixed obligations and tighter fort oversight.
-
-- B. A shift of Vijayanagara’s capital to Hampi.
-
-- C. Replacement of every commander with hereditary nayakas.
-
-- D. A ban on coastal trade with Iran and Iraq.
-
-
-**Answer: A.**
-
-**Explanation:** Gawan’s reforms sought more legible noble obligations; the closest distractor is hereditary nayakas, a plausible fiscal-military term but a Vijayanagara institution.
-
-#### Learning MCQ 14
-
-Why did Deccani–Afaqi conflict matter?
-
-- A. It abolished all provincial territorial administration at once.
-
-- B. Competition over office and influence weakened elite coalition and contributed to the setting of Gawan’s execution.
-
-- C. It proves the Bahmani court had no Deccan roots.
-
-- D. It was a battle name for Talikota.
-
-
-**Answer: B.**
-
-**Explanation:** The correct answer treats faction as political competition; the closest distractor is the no-Deccan-roots claim, an essentialist misuse of the labels.
-
-#### Learning MCQ 15
-
-Why is the Bidar madrasa valuable evidence?
-
-- A. It was a Vijayanagara irrigation dam.
-
-- B. It proves all Bahmani revenues came from one institution.
-
-- C. It records courtly patronage of learning and material skill, while not proving the experience of every subject.
-
-- D. It establishes a complete absence of political faction.
-
-
-**Answer: C.**
-
-**Explanation:** The correct answer uses architecture with a limit; the closest distractor is the revenue claim, which overreads a genuine institutional monument.
-
-#### Learning MCQ 16
-
-What makes Talikota in 1565 a historically careful turning point?
-
-- A. It occurred before the Bahmani foundation of 1347.
-
-- B. It was simply a border raid with no urban consequence.
-
-- C. It immediately removed every Vijayanagara claimant and nayaka formation.
-
-- D. It destroyed the capital’s great-power position, while Aravidu and regional political continuities persisted.
-
-
-**Answer: D.**
-
-**Explanation:** The correct answer states destruction and persistence; the closest distractor is instant extinction, which overlooks Aravidu continuation.
-
-### Part V — Original broad-coverage MCQs (40; strict A → B → C → D rotation)
-
-#### Q1. Which combination best identifies the three recurrent strategic zones of Vijayanagara–Bahmani competition?
+**Question:** Which combination best identifies the three recurrent strategic zones of Vijayanagara–Bahmani competition?
 
 - A. Tungabhadra doab, Krishna–Godavari basin, and Konkan/Goa coast.
-
 - B. Kaveri delta, Punjab plain, and Kabul corridor.
-
 - C. Ganga–Yamuna doab, Kashmir valley, and Bengal delta.
-
 - D. Malwa plateau, Gujarat coast, and Mewar hills.
 
 
-**Answer: A.**
+#### Workbook MCQ 2
 
-**Explanation:** The correct combination follows the local source spine. The closest distractor is the Malwa–Gujarat set because it contains real medieval strategic regions, but not this Deccan triad.
-
-#### Q2. What is the most methodologically careful use of c. 1336?
+**Question:** What is the most methodologically careful use of c. 1336?
 
 - A. Use it to prove an unbroken and fully documented founder biography.
-
 - B. Use it as the conventional Vijayanagara foundation anchor while qualifying contested Harihara–Bukka origins.
-
 - C. Replace all Vijayanagara chronology with an undated legend.
-
 - D. Treat it as the exact date of Mahmud Gawan’s execution.
 
 
-**Answer: B.**
+#### Workbook MCQ 3
 
-**Explanation:** The correct answer separates chronology from origin narrative. The closest distractor is the fully documented biography because a foundation tradition is real but not an exhaustive proof.
-
-#### Q3. Which item is attached most securely to Deva Raya I?
+**Question:** Which item is attached most securely to Deva Raya I?
 
 - A. Employment of Muslim cavalrymen and archers as the signature reform.
-
 - B. The execution of Rama Raya at Talikota.
-
 - C. A Tungabhadra dam and canal works connected to cultivation and revenue.
-
 - D. The eight-taraf reform of Bahmani administration.
 
 
-**Answer: C.**
+#### Workbook MCQ 4
 
-**Explanation:** The correct association is irrigation. The closest distractor is cavalry reform because that belongs to another Deva Raya, Deva Raya II.
-
-#### Q4. Which statement best describes Deva Raya II’s military policy?
+**Question:** Which statement best describes Deva Raya II’s military policy?
 
 - A. He founded the Bahmani kingdom at Gulbarga.
-
 - B. He abolished cavalry in favour of temple guards.
-
 - C. He created five Deccan Sultanates after 1527.
-
 - D. He adapted to competitive warfare by employing Muslim cavalrymen and archers.
 
 
-**Answer: D.**
+#### Workbook MCQ 5
 
-**Explanation:** The correct answer identifies adaptation under military pressure. The closest distractor is cavalry abolition because it deliberately reverses the source’s emphasis on mounted capability.
-
-#### Q5. Why was the Tungabhadra doab politically valuable?
+**Question:** Why was the Tungabhadra doab politically valuable?
 
 - A. Its fertility and frontier position made it a revenue and strategic zone.
-
 - B. It was solely a Portuguese shipping station.
-
 - C. It was outside all Vijayanagara–Bahmani military interaction.
-
 - D. It contained the Bahmani madrasa at Bidar.
 
 
-**Answer: A.**
+#### Workbook MCQ 6
 
-**Explanation:** The correct answer joins agrarian and military value. The closest distractor is the shipping-station claim because coast and port logic is relevant elsewhere, not to the doab.
-
-#### Q6. What gave the Krishna–Godavari basin a distinctive stake in rivalry?
+**Question:** What gave the Krishna–Godavari basin a distinctive stake in rivalry?
 
 - A. It was merely a ceremonial capital without cultivation.
-
 - B. It combined fertile land with ports tied to regional foreign trade.
-
 - C. It ended the need for imported horses.
-
 - D. It was the original name for the Bidar madrasa.
 
 
-**Answer: B.**
+#### Workbook MCQ 7
 
-**Explanation:** The correct answer connects agrarian and commercial features. The closest distractor is ceremonial-capital language, plausible for a court city but inaccurate for the basin mechanism.
-
-#### Q7. Which chain best explains the strategic value of the Konkan coast?
+**Question:** Which chain best explains the strategic value of the Konkan coast?
 
 - A. Coastal temples eliminated the need for markets and merchants.
-
 - B. River dams made the coast independent of sea routes.
-
 - C. Ports connected trade and imported horses to the cavalry needs of inland states.
-
 - D. The coast was politically irrelevant until the nineteenth century.
 
 
-**Answer: C.**
+#### Workbook MCQ 8
 
-**Explanation:** The correct chain is port → commerce/horse supply → military capacity. The closest distractor is river-dam independence because it confuses inland water works with maritime access.
-
-#### Q8. What does a cautious comparison of amaram and iqta require?
+**Question:** What does a cautious comparison of amaram and iqta require?
 
 - A. Treating amaram as a Bahmani word for eight tarafs.
-
 - B. Calling both terms exactly identical because both involved revenue.
-
 - C. Describing iqta as a Portuguese fort privilege.
-
 - D. Attention to hereditary nayaka service and the non-transferable local stake of amaram.
 
 
-**Answer: D.**
+#### Workbook MCQ 9
 
-**Explanation:** The correct answer explains why a simple equation fails. The closest distractor is identity-by-revenue because both are fiscal terms but differ in tenure and political context.
-
-#### Q9. Which is a reasonable inference from hereditary nayaka control of amaram territories?
+**Question:** Which is a reasonable inference from hereditary nayaka control of amaram territories?
 
 - A. It could support mobilisation yet create limits on centralisation in crises.
-
 - B. It prevented any regional power after 1565.
-
 - C. It removed all local military authority from the empire.
-
 - D. It made Vijayanagara a directly ruled Portuguese colony.
 
 
-**Answer: A.**
+#### Workbook MCQ 10
 
-**Explanation:** The correct inference recognises both service and autonomy. The closest distractor is the removal-of-local-authority claim, the opposite of the hereditary intermediary logic.
-
-#### Q10. Which traveller is specifically associated in the source base with seven enclosures, bazaars and canals?
+**Question:** Which traveller is specifically associated in the source base with seven enclosures, bazaars and canals?
 
 - A. Hasan Gangu.
-
 - B. Abdur Razzaq.
-
 - C. Mahmud Gawan.
-
 - D. Firuz Shah Bahmani.
 
 
-**Answer: B.**
+#### Workbook MCQ 11
 
-**Explanation:** Razzaq is used for the urban image of Vijayanagara. The closest distractor is Firuz Shah Bahmani because he is a contemporary Deccan ruler, not a traveller source.
-
-#### Q11. How should traveller descriptions of wealth be handled?
+**Question:** How should traveller descriptions of wealth be handled?
 
 - A. As official revenue registers issued by the court.
-
 - B. As proof that every household had identical consumption.
-
 - C. As valuable observer evidence to be cross-checked, not as exact statistical surveys.
-
 - D. As reasons to ignore archaeology and inscriptions.
 
 
-**Answer: C.**
+#### Workbook MCQ 12
 
-**Explanation:** The correct answer specifies genre and limit. The closest distractor is official-register language because it mistakes a traveller’s narrative for an administrative record.
-
-#### Q12. What is the safest interpretation of Portuguese observations about women’s expertise?
+**Question:** What is the safest interpretation of Portuguese observations about women’s expertise?
 
 - A. They replace the need to identify author and genre.
-
 - B. They prove all women across the empire held the same occupations.
-
 - C. They prove women were absent from accounting and writing.
-
 - D. They indicate visible specialised roles in the observed social world but not universal conditions.
 
 
-**Answer: D.**
+#### Workbook MCQ 13
 
-**Explanation:** The correct answer preserves the evidence and its boundary. The closest distractor is universal-condition language because it overgeneralises a real list.
-
-#### Q13. Which relation is best supported for Krishnadeva Raya and Portuguese actors?
+**Question:** Which relation is best supported for Krishnadeva Raya and Portuguese actors?
 
 - A. Generally cooperative relations shaped by west-coast and horse-trade pragmatism.
-
 - B. Complete Portuguese command over Vijayanagara administration.
-
 - C. No contact because inland courts never used ports.
-
 - D. A Bahmani eight-taraf settlement at Bhatkal.
 
 
-**Answer: A.**
+#### Workbook MCQ 14
 
-**Explanation:** The correct answer is bounded cooperation. The closest distractor is no-contact language because it ignores the maritime links central to the topic.
-
-#### Q14. What is the official local status of UPSC Prelims 2024 Q56?
+**Question:** What is the official local status of UPSC Prelims 2024 Q56?
 
 - A. Official Set-A key unavailable locally.
-
 - B. Official Set-A key: option A, Krishnadevaraya.
-
 - C. A reconstructed question with no preserved options.
-
 - D. Official Set-A key: option B, Narasimha Saluva.
 
 
-**Answer: B.**
+#### Workbook MCQ 15
 
-**Explanation:** The local Series-A key gives Q56 = A. The closest distractor is Narasimha Saluva because it is a real Vijayanagara dynastic name listed in the question.
-
-#### Q15. What was the Bahmani kingdom’s foundation date and founder association?
+**Question:** What was the Bahmani kingdom’s foundation date and founder association?
 
 - A. 1336; Harihara and Bukka.
-
 - B. 1463; Mahmud Gawan.
-
 - C. 1347; Hasan Gangu/Alauddin Bahman Shah.
-
 - D. 1565; Rama Raya.
 
 
-**Answer: C.**
+#### Workbook MCQ 16
 
-**Explanation:** The correct pairing distinguishes Bahmani formation from Vijayanagara’s conventional anchor. The closest distractor is 1336 with Harihara–Bukka because it is the parallel Vijayanagara fact.
-
-#### Q16. Which capital sequence is correct for the Bahmani kingdom?
+**Question:** Which capital sequence is correct for the Bahmani kingdom?
 
 - A. Goa followed by Dabhol under Krishnadeva Raya.
-
 - B. Mandu followed by Ahmedabad under Mahmud Gawan.
-
 - C. Bidar followed by Hampi under Deva Raya I.
-
 - D. Gulbarga followed by Bidar under Ahmad Shah.
 
 
-**Answer: D.**
+#### Workbook MCQ 17
 
-**Explanation:** The correct sequence is Bahmani. The closest distractor is Mandu–Ahmedabad because both are real regional capitals, but not Bahmani.
-
-#### Q17. Which office most accurately describes Mahmud Gawan?
+**Question:** Which office most accurately describes Mahmud Gawan?
 
 - A. Wakil-i-sultanat or Bahmani prime minister.
-
 - B. Founder of the Sangama dynasty.
-
 - C. Hereditary nayaka of the Tungabhadra doab.
-
 - D. Portuguese captain at Goa.
 
 
-**Answer: A.**
+#### Workbook MCQ 18
 
-**Explanation:** The correct answer identifies Gawan’s central ministerial role. The closest distractor is nayaka because both relate to military-fiscal power but belong to distinct courts.
-
-#### Q18. What was the administrative number linked to Mahmud Gawan’s reform?
+**Question:** What was the administrative number linked to Mahmud Gawan’s reform?
 
 - A. Seven traveller enclosures.
-
 - B. Eight tarafs.
-
 - C. Five amaram districts.
-
 - D. Four Portuguese captaincies.
 
 
-**Answer: B.**
+#### Workbook MCQ 19
 
-**Explanation:** The source expressly identifies eight tarafs. The closest distractor is seven enclosures because it is a real Vijayanagara urban number but not an administrative reform.
-
-#### Q19. What was khalisa in the context of Gawan’s programme?
+**Question:** What was khalisa in the context of Gawan’s programme?
 
 - A. A name for the Tungabhadra canal.
-
 - B. A Portuguese warehouse at Bhatkal.
-
 - C. Land or resources reserved for the sultan’s direct fiscal base.
-
 - D. A hereditary nayaka title.
 
 
-**Answer: C.**
+#### Workbook MCQ 20
 
-**Explanation:** The correct answer identifies a central fiscal resource. The closest distractor is hereditary nayaka because both concern power over revenue but operate differently.
-
-#### Q20. Why did Gawan’s execution matter analytically?
+**Question:** Why did Gawan’s execution matter analytically?
 
 - A. It restored Vijayanagara’s capital after Talikota.
-
 - B. It immediately created the Sangama dynasty.
-
 - C. It ended all horse trade through west-coast ports.
-
 - D. It exposed how factional politics could undo a vulnerable centralising programme.
 
 
-**Answer: D.**
+#### Workbook MCQ 21
 
-**Explanation:** The correct answer links an event to institutional fragility. The closest distractor is a restored-capital claim because it uses a real later crisis but reverses chronology.
-
-#### Q21. Which pair correctly identifies the main Bahmani elite factions?
+**Question:** Which pair correctly identifies the main Bahmani elite factions?
 
 - A. Deccanis and Afaqis/gharibs.
-
 - B. Mamluks and Cholas.
-
 - C. Sangamas and Tuluvas.
-
 - D. Sharqis and Lodis.
 
 
-**Answer: A.**
+#### Workbook MCQ 22
 
-**Explanation:** The correct pair is the Bahmani factional vocabulary. The closest distractor is Sangamas–Tuluvas because they are real Vijayanagara dynasties.
-
-#### Q22. What should not be inferred from the terms Deccani and Afaqi?
+**Question:** What should not be inferred from the terms Deccani and Afaqi?
 
 - A. That factional rivalry affected court politics.
-
 - B. That each was an unchanging, uniform ethnic bloc with a single permanent interest.
-
 - C. That office and access to influence could be politically contested.
-
 - D. That Gawan’s enemies could exploit elite divisions.
 
 
-**Answer: B.**
+#### Workbook MCQ 23
 
-**Explanation:** The unsafe inference essentialises political labels. The closest distractor is office competition, which is exactly the historically useful way to interpret factions.
-
-#### Q23. What did Gawan’s coastal expansion towards Goa and Dabhol demonstrate?
+**Question:** What did Gawan’s coastal expansion towards Goa and Dabhol demonstrate?
 
 - A. That Vijayanagara abandoned all cavalry interests.
-
 - B. That coastal routes mattered only after the Mughal conquest.
-
 - C. That western ports had both commercial and strategic significance.
-
 - D. That Gulbarga was a Portuguese possession.
 
 
-**Answer: C.**
+#### Workbook MCQ 24
 
-**Explanation:** The correct answer connects port control to trade and military supply. The closest distractor is cavalry abandonment because it reverses the horse-supply mechanism.
-
-#### Q24. What is the evidence value of the Mahmud Gawan Madrasa?
+**Question:** What is the evidence value of the Mahmud Gawan Madrasa?
 
 - A. It proves every Bahmani subject was a scholar.
-
 - B. It proves Bidar was Vijayanagara’s first capital.
-
 - C. It is a source for the exact volume of every tax.
-
 - D. It is material evidence of courtly educational patronage and artistic skill at Bidar.
 
 
-**Answer: D.**
+#### Workbook MCQ 25
 
-**Explanation:** The correct answer is institutionally precise. The closest distractor is universal scholarship, an overclaim from a real learning institution.
-
-#### Q25. Which five successor states emerged from Bahmani disintegration?
+**Question:** Which five successor states emerged from Bahmani disintegration?
 
 - A. Ahmadnagar, Bijapur, Golconda, Berar and Bidar.
-
 - B. Hampi, Madurai, Kanchipuram, Thanjavur and Srirangam.
-
 - C. Delhi, Agra, Lahore, Kabul and Ajmer.
-
 - D. Gujarat, Malwa, Bengal, Jaunpur and Kashmir.
 
 
-**Answer: A.**
+#### Workbook MCQ 26
 
-**Explanation:** The correct list is the standard Deccan successor set. The closest distractor is the regional-kingdom list, which is medieval but belongs to another topic field.
-
-#### Q26. Which statement gives the best interpretation of Talikota?
+**Question:** Which statement gives the best interpretation of Talikota?
 
 - A. It was a Bahmani victory in 1347 before Vijayanagara formed.
-
 - B. It was a coalition victory that shattered Vijayanagara’s capital and great-power phase without instant political extinction.
-
 - C. It was a Portuguese naval battle at Bhatkal.
-
 - D. It permanently united all Deccan states under one dynasty.
 
 
-**Answer: B.**
+#### Workbook MCQ 27
 
-**Explanation:** The correct answer combines consequence with qualification. The closest distractor is permanent union because coalition success did not produce a single lasting unified state.
-
-#### Q27. Which individual was executed in the coalition context of 1565?
+**Question:** Which individual was executed in the coalition context of 1565?
 
 - A. Harihara I.
-
 - B. Hasan Gangu.
-
 - C. Rama Raya.
-
 - D. Mahmud Gawan.
 
 
-**Answer: C.**
+#### Workbook MCQ 28
 
-**Explanation:** Rama Raya is tied to Talikota. The closest distractor is Gawan because he too was executed in a major Deccan political crisis, but in 1482.
-
-#### Q28. What remained after the 1565 destruction?
+**Question:** What remained after the 1565 destruction?
 
 - A. A restored Bahmani kingdom at Gulbarga.
-
 - B. No Vijayanagara-connected authority anywhere in the south.
-
 - C. The immediate Mughal annexation of all southern territories.
-
 - D. Aravidu rule and regional nayaka political capacity in altered form.
 
 
-**Answer: D.**
+#### Workbook MCQ 29
 
-**Explanation:** The correct answer rejects instant extinction. The closest distractor is restored Bahmani rule because both are false return-to-earlier-order narratives.
-
-#### Q29. Which official live heritage source was used as a bounded current anchor?
+**Question:** Which official live heritage source was used as a bounded current anchor?
 
 - A. UNESCO World Heritage Centre’s Group of Monuments at Hampi property page.
-
 - B. A later fictional chronicle.
-
 - C. An unverified social-media map of medieval battlefields.
-
 - D. A coaching claim about visitor statistics.
 
 
-**Answer: A.**
+#### Workbook MCQ 30
 
-**Explanation:** The correct source is official and bounded to Hampi’s property description. The closest distractor is a coaching claim because it might mention Hampi but lacks authoritative provenance.
-
-#### Q30. What does the UNESCO Hampi page securely support for this package?
+**Question:** What does the UNESCO Hampi page securely support for this package?
 
 - A. A full account of every fifteenth-century court office.
-
 - B. The integrated survival of fortifications, water structures, royal and sacred complexes, markets and landscape at the capital site.
-
 - C. Exact medieval population totals for Hampi.
-
 - D. An official verdict on the founders’ disputed origin story.
 
 
-**Answer: B.**
+#### Workbook MCQ 31
 
-**Explanation:** The correct answer stays within heritage evidence. The closest distractor is office history because important state questions require texts and other sources, not a heritage page alone.
-
-#### Q31. Why is the phrase “Hindu bulwark” insufficient as a complete analysis of Vijayanagara?
+**Question:** Why is the phrase “Hindu bulwark” insufficient as a complete analysis of Vijayanagara?
 
 - A. It is a precise label for Mahmud Gawan’s reforms.
-
 - B. It shows why travel accounts need no criticism.
-
 - C. It obscures contested origin stories, pragmatic recruitment, political geography and regional interaction.
-
 - D. It accurately explains all cavalry recruitment and port politics.
 
 
-**Answer: C.**
+#### Workbook MCQ 32
 
-**Explanation:** The correct answer identifies what the phrase hides. The closest distractor is the all-cavalry-and-port claim because it exposes the problem: the phrase cannot explain those mechanisms.
-
-#### Q32. What does the 1367 Mudkal/Tungabhadra conflict add to a mature answer?
+**Question:** What does the 1367 Mudkal/Tungabhadra conflict add to a mature answer?
 
 - A. It marks the formal start of Portuguese rule at Goa.
-
 - B. It proves the final breakup into five Sultanates.
-
 - C. It establishes the Aravidu dynasty after 1565.
-
 - D. It shows recurrent conflict and a reported agreement against slaughter of helpless civilians.
 
 
-**Answer: D.**
+#### Workbook MCQ 33
 
-**Explanation:** The correct answer adds a bounded norm to war history. The closest distractor is successor-state breakup because both concern political conflict but are chronologically distinct.
+**Question:** An inscription lists a nayaka’s revenue assignment and obligation to furnish troops; later local records show his family’s influence. Which inference fits the amaram evidence?
 
-#### Q33. Which comparison is most defensible?
+- A. Service, revenue and negotiated power can coexist with hereditary tendencies without making every assignment private landownership.
+- B. Every nayaka held an identical, inalienable estate from the Sangama foundation onward.
+- C. A revenue assignment proves the central court never intervened in local politics.
+- D. The inscription alone establishes each cultivator’s net income.
 
-- A. Vijayanagara military adaptation under Deva Raya II and Bahmani centralising reform under Gawan were different responses to competition.
 
-- B. Gawan’s reform was a Vijayanagara temple programme.
+#### Workbook MCQ 34
 
-- C. Both states had identical transferable iqta systems.
+**Question:** Which evidence pair most directly tests Mahmud Gawan’s attempt to restrain provincial power?
 
-- D. Neither court used territorial revenue for military purposes.
+- A. A traveller’s praise for Hampi bazaars and the Vitthala complex.
+- B. Records of taraf subdivision and crown fort control set against evidence of factional resistance and local appointments.
+- C. The *Madhuravijayam* poem and the Virupaksha temple.
+- D. A pagoda coin and a sixteenth-century Portuguese port tariff.
 
 
-**Answer: A.**
+#### Workbook MCQ 35
 
-**Explanation:** The correct comparison notes shared pressure and different institutions. The closest distractor is identical-iqta language because it mistakes a broad functional comparison for an institutional identity.
+**Question:** Consider (1) Mahmud Gawan served as Bahmani minister, not sultan; (2) he sought to reorganise four larger tarafs into eight; (3) every tarafdar then permanently lost autonomous power. Which statements are supported?
 
-#### Q34. Which link best explains why markets belong in a political history of Hampi?
+- A. 1 and 3 only
+- B. 2 and 3 only
+- C. 1 and 2 only
+- D. 1, 2 and 3
 
-- A. Markets had no relation to water or road systems.
 
-- B. Markets connected urban consumption, ritual circulation, merchants and the capital’s provisioning.
+#### Workbook MCQ 36
 
-- C. Markets were identical to eight Bahmani tarafs.
+**Question:** Which itinerary–ruler–genre pairing is historically defensible?
 
-- D. Markets prove every commodity was imported from Portugal.
+- A. Nuniz–Deva Raya I–contemporary account of the first Tungabhadra dam.
+- B. Paes–Harihara I–eyewitness report of the conventional 1336 foundation.
+- C. Firishta–Hasan Bahman Shah–eyewitness to the 1347 declaration.
+- D. Abdur Razzaq–Deva Raya II–Timurid diplomatic observation of court and city.
 
 
-**Answer: B.**
+#### Workbook MCQ 37
 
-**Explanation:** The correct answer treats markets as urban infrastructure. The closest distractor is import-only language because commerce included local and regional production as well as external links.
+**Question:** How should excavated hydraulic works, temple grants and Paes’s description of Hampi be combined?
 
-#### Q35. What is a valid source-critical reading of a monument?
+- A. They support linked irrigation, patronage and urban consumption, but do not establish equal prosperity in every village.
+- B. They show every hydraulic work was built by Krishnadevaraya in a single campaign.
+- C. The traveller’s description alone dates and names each unearthed structure.
+- D. Grants prove temples had no economic role beyond ritual.
 
-- A. It supplies a complete census without textual support.
 
-- B. It settles all disputed dynastic origin narratives.
+#### Workbook MCQ 38
 
-- C. It can reveal patronage, material practice and spatial organisation, but not every resident’s belief or welfare.
+**Question:** Which sequence correctly orders the institutional contexts?
 
-- D. It is useless because it does not speak.
+- A. Krishnadevaraya’s Raichur campaign → Bahmani independence → Gawan’s reform → Talikota.
+- B. Bahmani independence → Gawan’s reform → Krishnadevaraya’s reign → Talikota.
+- C. Talikota → Bahmani independence → Saluva transition → Gawan’s reform.
+- D. Gawan’s reform → Harihara’s conventional foundation → Krishnadevaraya’s reign → Talikota.
 
 
-**Answer: C.**
+#### Workbook MCQ 39
 
-**Explanation:** The correct answer specifies evidence and limit. The closest distractor is a complete census, an attractive but unsupported extension from material remains.
+**Question:** Which account of the west-coast horse trade best links economy and political strategy?
 
-#### Q36. Which topic bridge is historically sound?
+- A. Imported horses proved Vijayanagara and Bahmani armies had no infantry.
+- B. Coastal access guaranteed victory even without fodder, forts or local allies.
+- C. Goa/Dabhol/Bhatkal routes connected maritime suppliers with inland cavalry, while training, logistics and patronage shaped actual effectiveness.
+- D. Vijayanagara could not employ Muslim archers because horses crossed an Islamic trade network.
 
-- A. Talikota made all Deccan courts disappear before Mughal expansion.
 
-- B. Deccan politics ended once coastal horses were imported.
+#### Workbook MCQ 40
 
-- C. The Mughals inherited an unchanging Bahmani bureaucracy directly in 1347.
+**Question:** A guide labels Hampi’s “Lotus Mahal” as an exclusively Muslim-built harem whose original function is fully known. What is the best response?
 
-- D. Bahmani successor states and changed Vijayanagara/nayaka politics form part of the setting for later Mughal–Deccan contests.
+- A. The modern name itself proves its original court function.
+- B. Shared motifs identify the religion of every building worker.
+- C. The structure should be attributed to Bahmani Gulbarga instead of Hampi.
+- D. Its modern label and function are uncertain; architectural form requires contextual corroboration, not communal attribution.
 
 
-**Answer: D.**
+#### Workbook MCQ 41
 
-**Explanation:** The correct bridge preserves a competitive field. The closest distractor is direct unchanging inheritance, which ignores fragmentation, adaptation and later change.
+**Question:** Compare the Raichur doab with the Krishna–Godavari basin. Which statement does the most explanatory work?
 
-#### Q37. What is the safest conclusion about Krishnadeva Raya’s cultural patronage?
+- A. Both mattered for forts, cultivation and routes, but the eastern basin also linked inland claims to eastern ports; control remained contested.
+- B. Both lay beyond all Vijayanagara and Bahmani political interest.
+- C. Only the western Konkan coast had agrarian value; neither basin supported cultivation.
+- D. Doab victories fixed permanent imperial borders regardless of garrison or supply.
 
-- A. It was an instrument of courtly legitimacy alongside campaigns, irrigation and diplomacy.
 
-- B. It proves all literary production was identical in language and audience.
+#### Workbook MCQ 42
 
-- C. It ended the importance of nayakas.
+**Question:** Which analysis best captures the Deccani–Afaqi divide?
 
-- D. It made administrative and military institutions irrelevant.
+- A. Two unchanging biological races with no intermarriage or patronage ties.
+- B. Faction labels involving regional networks, settlement and office; conflict around Gawan cannot alone explain the kingdom’s breakup.
+- C. Two exclusively religious camps corresponding exactly to Vijayanagara and Bahmani borders.
+- D. A military classification naming only infantry and elephants.
 
 
-**Answer: A.**
+#### Workbook MCQ 43
 
-**Explanation:** The correct answer locates patronage among other state practices. The closest distractor is all-literature-identical language because patronage need not erase regional diversity.
+**Question:** An observer sees ruin in Hampi’s royal core after 1565. Which follow-up evidence could most directly test the claim that the whole polity ceased immediately?
 
-#### Q38. What does political marriage in the Deccan warn an analyst against?
+- A. Later reports of ruined palace walls alone.
+- B. A court poem celebrating the original Sangama foundation.
+- C. Post-1565 Aravidu inscriptions and evidence of Penukonda government alongside changing Nayaka relations.
+- D. A single undated coin found at the old capital.
 
-- A. Treating marriage as an eight-taraf reform.
 
-- B. Assuming that recurrent rivals had no diplomatic or social interactions.
+#### Workbook MCQ 44
 
-- C. Dating the Bahmani foundation to 1565.
+**Question:** Which pairing of text and inference is properly limited?
 
-- D. Concluding that all warfare was fictional.
+- A. *Amuktamalyada* — proof of fixed empire-wide tax collection in every district.
+- B. *Madhuravijayam* — neutral contemporary census of the Madurai population.
+- C. Nuniz — certain eyewitness testimony to all fourteenth-century Vijayanagara events.
+- D. *Madhuravijayam* — Gangadevi’s Sanskrit representation of conquest and legitimacy; *Amuktamalyada* — normative royal counsel rather than an administrative gazette.
 
 
-**Answer: B.**
+### Separate answer key and option-wise solutions
 
-**Explanation:** The correct answer qualifies a war-only model. The closest distractor is warfare-fiction because interaction and conflict can coexist.
+#### Key 1
 
-#### Q39. Which fact most clearly separates a capital shift from a state’s origin?
+**Correct answer:** A
 
-- A. Vijayanagara was founded only when the Aravidu dynasty took power after 1565.
+**Option-wise explanations:**
+- **A. Tungabhadra doab, Krishna–Godavari basin, and Konkan/Goa coast.** — Correct. This is the exact Deccan triad in the topic spine: the Tungabhadra-Raichur doab, the Krishna-Godavari basin, and the Konkan-Goa coast.
+- **B. Kaveri delta, Punjab plain, and Kabul corridor.** — Incorrect. The Kaveri delta belongs to a different southern agrarian zone, while the Punjab plain and Kabul corridor are north-western theatres, not the recurrent Vijayanagara-Bahmani front.
+- **C. Ganga–Yamuna doab, Kashmir valley, and Bengal delta.** — Incorrect. The Ganga-Yamuna doab, Kashmir valley and Bengal delta belong to north Indian and eastern regional histories, not to the core conflict-geography of this Deccan topic.
+- **D. Malwa plateau, Gujarat coast, and Mewar hills.** — Incorrect. Malwa, Gujarat and Mewar are real medieval strategic regions, but they belong to the Topic 08 north-western state system rather than the Vijayanagara-Bahmani rivalry.
 
-- B. Bidar was the original Portuguese fort at Bhatkal.
+**Examiner trap:** founder myth without source caution
 
-- C. The Bahmani kingdom was founded in 1347, while Ahmad Shah later shifted its capital from Gulbarga to Bidar.
 
-- D. Mahmud Gawan shifted Vijayanagara from Hampi to Gulbarga.
+#### Key 2
 
+**Correct answer:** B
 
-**Answer: C.**
+**Option-wise explanations:**
+- **A. Use it to prove an unbroken and fully documented founder biography.** — Incorrect. c. 1336 is a usable chronological anchor, but it cannot prove a fully documented Harihara-Bukka biography because the Vidyaranya/conversion/origin narrative remains debated.
+- **B. Use it as the conventional Vijayanagara foundation anchor while qualifying contested Harihara–Bukka origins.** — Correct. This is the methodologically safe formula: retain c. 1336 as the conventional foundation marker and qualify the contested founder narrative.
+- **C. Replace all Vijayanagara chronology with an undated legend.** — Incorrect. Source criticism does not erase chronology; it only prevents a debated origin story from being treated as settled fact.
+- **D. Treat it as the exact date of Mahmud Gawan’s execution.** — Incorrect. Mahmud Gawan's execution belongs to 1482 Bahmani factional politics, not to Vijayanagara's conventional foundation date.
 
-**Explanation:** The correct statement separates state formation from a later capital reorientation. The closest distractor is the Aravidu claim because it uses a real later dynasty but collapses centuries of chronology.
+**Examiner trap:** dynasty-ruler mismatch
 
-#### Q40. Which answer best links source criticism to a Prelims option-elimination method?
 
-- A. Ignore author and genre whenever a traveller’s detail is memorable.
+#### Key 3
 
-- B. Replace original options with a generic ruler label to make the question easier.
+**Correct answer:** C
 
-- C. Treat an unavailable official key as officially confirmed if an online explanation agrees.
+**Option-wise explanations:**
+- **A. Employment of Muslim cavalrymen and archers as the signature reform.** — Incorrect. The recruitment of Muslim cavalrymen and archers is the signature adaptation associated with Deva Raya II, not Deva Raya I.
+- **B. The execution of Rama Raya at Talikota.** — Incorrect. Rama Raya's execution belongs to the Talikota crisis of 1565, far later than Deva Raya I's reign.
+- **C. A Tungabhadra dam and canal works connected to cultivation and revenue.** — Correct. Deva Raya I is tied in the topic ledger to Tungabhadra dam-canal works that are analysed through cultivation, provisioning and revenue growth.
+- **D. The eight-taraf reform of Bahmani administration.** — Incorrect. The eight-taraf administrative reform belongs to Mahmud Gawan's Bahmani programme, not to a Vijayanagara Deva Raya.
 
-- D. Preserve official option order for a verified PYQ, then test each ruler against chronology and evidence provenance.
+**Examiner trap:** zone named without mechanism
 
 
-**Answer: D.**
+#### Key 4
 
-**Explanation:** The correct method keeps the official paper intact and distinguishes verified from inferred answers. The closest distractor is the online-explanation shortcut because it may be useful for discovery but cannot substitute for the locally unavailable official key.
+**Correct answer:** D
 
+**Option-wise explanations:**
+- **A. He founded the Bahmani kingdom at Gulbarga.** — Incorrect. The Bahmani kingdom was founded in 1347 by Hasan Gangu/Alauddin Bahman Shah, so this statement misidentifies both ruler and polity.
+- **B. He abolished cavalry in favour of temple guards.** — Incorrect. Deva Raya II is remembered for strengthening cavalry and mounted-archery capacity, not for abolishing cavalry.
+- **C. He created five Deccan Sultanates after 1527.** — Incorrect. The five Deccan Sultanates emerged out of Bahmani disintegration; Deva Raya II did not create them.
+- **D. He adapted to competitive warfare by employing Muslim cavalrymen and archers.** — Correct. The source base treats Deva Raya II as a ruler who adapted to competitive warfare by employing Muslim cavalrymen and archers.
 
-**Independent answer-rotation audit — Part V — Original broad-coverage MCQs (40; strict A → B → C → D rotation):** `A B C D A B C D A B C D A B C D A B C D A B C D A B C D A B C D A B C D A B C D`
+**Examiner trap:** Deva Raya confusion
 
-### Part VI — Remedial trap MCQs (12; strict A → B → C → D rotation)
 
-#### Q1. Identify the unsafe statement about Vijayanagara’s foundation.
+#### Key 5
 
-- A. The conventional 1336 date proves every detail of Harihara and Bukka’s origin story.
+**Correct answer:** A
 
-- B. The foundation narrative contains disputed elements requiring source caution.
+**Option-wise explanations:**
+- **A. Its fertility and frontier position made it a revenue and strategic zone.** — Correct. The doab's fertility fed agrarian revenue, while its frontier position and forts made it a strategic military hinge between rival powers.
+- **B. It was solely a Portuguese shipping station.** — Incorrect. A Portuguese shipping station belongs to west-coast trade logic; the Tungabhadra doab is an inland agrarian-military corridor.
+- **C. It was outside all Vijayanagara–Bahmani military interaction.** — Incorrect. The doab was one of the principal theatres of Vijayanagara-Bahmani conflict, not a zone outside military interaction.
+- **D. It contained the Bahmani madrasa at Bidar.** — Incorrect. The Mahmud Gawan Madrasa stood at Bidar in the Bahmani capital context, not in the Raichur-Tungabhadra doab.
 
-- C. A conventional date can remain useful for chronology.
+**Examiner trap:** adaptation flattened into communal war
 
-- D. State formation can be studied through later institutions and evidence.
 
+#### Key 6
 
-**Answer: A.**
+**Correct answer:** B
 
-**Explanation:** The unsafe statement converts a chronological anchor into a complete biography. The closest distractor is the useful-date statement, which is correct but limited.
+**Option-wise explanations:**
+- **A. It was merely a ceremonial capital without cultivation.** — Incorrect. The Krishna-Godavari basin is not a mere ceremonial capital; it mattered because fertile tracts and ports were tied together there.
+- **B. It combined fertile land with ports tied to regional foreign trade.** — Correct. This basin mattered because agrarian strength and port-linked regional foreign trade were combined in the same contested zone.
+- **C. It ended the need for imported horses.** — Incorrect. Ports in the basin connected trade networks; they did not end the strategic importance of imported horses.
+- **D. It was the original name for the Bidar madrasa.** — Incorrect. Bidar Madrasa is a Bahmani educational monument, not an alternate name for the Krishna-Godavari basin.
 
-#### Q2. Identify the unsafe ruler association.
+**Examiner trap:** traveller praise treated as census
 
-- A. Deva Raya II is associated with military adaptation.
 
-- B. Deva Raya II is the ruler identified with the Tungabhadra dam and canal-cum-aqueduct.
+#### Key 7
 
-- C. Mahmud Gawan is associated with eight tarafs.
+**Correct answer:** C
 
-- D. Deva Raya I is associated with irrigation works.
+**Option-wise explanations:**
+- **A. Coastal temples eliminated the need for markets and merchants.** — Incorrect. Temples did not remove the need for merchants, ports and shipping; the coast mattered precisely because commerce moved through it.
+- **B. River dams made the coast independent of sea routes.** — Incorrect. Inland dams and canals could not substitute for maritime access to imported horses.
+- **C. Ports connected trade and imported horses to the cavalry needs of inland states.** — Correct. The key chain is port access -> horse imports and trade -> cavalry capacity for inland Deccan states.
+- **D. The coast was politically irrelevant until the nineteenth century.** — Incorrect. The Konkan coast was strategically important in the medieval Deccan; it was not a politically irrelevant shoreline awaiting the nineteenth century.
 
+**Examiner trap:** amaram equated with iqta
 
-**Answer: B.**
 
-**Explanation:** The unsafe statement swaps the two Deva Rayas. The closest distractor is Deva Raya II’s military association because it is a real but different fact.
+#### Key 8
 
-#### Q3. Identify the unsafe institutional equation.
+**Correct answer:** D
 
-- A. Amaram involved hereditary nayaka service and territorial revenue.
+**Option-wise explanations:**
+- **A. Treating amaram as a Bahmani word for eight tarafs.** — Incorrect. Taraf is a Bahmani provincial-administrative category, whereas amaram is tied to Vijayanagara's nayaka service structure.
+- **B. Calling both terms exactly identical because both involved revenue.** — Incorrect. Both concern revenue and power, but amaram cannot be flattened into iqta because hereditary local claims and service relations worked differently.
+- **C. Describing iqta as a Portuguese fort privilege.** — Incorrect. Iqta is a revenue assignment concept, not a Portuguese fort privilege.
+- **D. Attention to hereditary nayaka service and the non-transferable local stake of amaram.** — Correct. A cautious comparison must foreground nayaka service obligations and the more locally embedded, often hereditary character of amaram.
 
-- B. A comparison must attend to transferability and local political stakes.
+**Examiner trap:** golden-age padding without limits
 
-- C. Amaram was simply a transferable Sultanate iqta under another name.
 
-- D. Fiscal-military systems can be functionally compared without being identical.
+#### Key 9
 
+**Correct answer:** A
 
-**Answer: C.**
+**Option-wise explanations:**
+- **A. It could support mobilisation yet create limits on centralisation in crises.** — Correct. Hereditary control could help mobilisation in ordinary times yet make the centre bargain with powerful intermediaries in moments of crisis.
+- **B. It prevented any regional power after 1565.** — Incorrect. Post-1565 nayaka and regional political power is exactly why this sweeping claim fails.
+- **C. It removed all local military authority from the empire.** — Incorrect. The amaram system rested on local military authority; it did not abolish it.
+- **D. It made Vijayanagara a directly ruled Portuguese colony.** — Incorrect. Vijayanagara negotiated with Portuguese actors on the coast, but it never became a directly ruled Portuguese colony.
 
-**Explanation:** The unsafe statement erases the source’s explicit caution. The closest distractor is functional comparison because it is allowed only when institutional difference is retained.
+**Examiner trap:** Portuguese testimony turned into archival certainty
 
-#### Q4. Identify the unsafe Talikota conclusion.
 
-- A. The capital suffered severe destruction after the coalition victory.
+#### Key 10
 
-- B. Aravidu rule persisted in a reduced political setting.
+**Correct answer:** B
 
-- C. The battle ended Vijayanagara’s great-power phase.
+**Option-wise explanations:**
+- **A. Hasan Gangu.** — Incorrect. Hasan Gangu is remembered as the Bahmani founder, not as the traveller who described Vijayanagara's enclosures and bazaars.
+- **B. Abdur Razzaq.** — Correct. Abdur Razzaq is the traveller used in the source base for the urban image of seven enclosures, bazaars and canals.
+- **C. Mahmud Gawan.** — Incorrect. Mahmud Gawan was a Bahmani minister and reformer, not a travel observer of Vijayanagara.
+- **D. Firuz Shah Bahmani.** — Incorrect. Firuz Shah Bahmani was a ruling sultan, not the traveller source attached to this city description.
 
-- D. The 1565 battle instantly ended every Aravidu and nayaka political continuity.
+**Examiner trap:** elite roles generalised to all women
 
 
-**Answer: D.**
+#### Key 11
 
-**Explanation:** The unsafe statement is an instant-extinction error. The closest distractor is great-power-phase language because it is strong yet qualified.
+**Correct answer:** C
 
-#### Q5. Identify the unsafe reading of a Portuguese account.
+**Option-wise explanations:**
+- **A. As official revenue registers issued by the court.** — Incorrect. Traveller narratives are observer accounts, not official revenue registers issued by the court.
+- **B. As proof that every household had identical consumption.** — Incorrect. Visible wealth in a traveller's narrative cannot prove identical consumption across all households.
+- **C. As valuable observer evidence to be cross-checked, not as exact statistical surveys.** — Correct. Travel accounts are useful evidence, but only when cross-checked against inscriptions, archaeology and genre limits.
+- **D. As reasons to ignore archaeology and inscriptions.** — Incorrect. A source-critical answer uses travellers alongside archaeology and inscriptions; it does not discard those other evidence types.
 
-- A. A list of women’s specialised skills establishes the social condition of all women in the empire.
+**Examiner trap:** Bahmani stage chronology collapsed
 
-- B. The question’s precise author attribution should be preserved.
 
-- C. Travel writing has genre and access limits.
+#### Key 12
 
-- D. The list makes visible roles in the observer’s field of vision.
+**Correct answer:** D
 
+**Option-wise explanations:**
+- **A. They replace the need to identify author and genre.** — Incorrect. Portuguese testimony still has to be read through author, genre and observed setting.
+- **B. They prove all women across the empire held the same occupations.** — Incorrect. Nuniz-like observations cannot be turned into a universal occupational profile for every woman in the empire.
+- **C. They prove women were absent from accounting and writing.** — Incorrect. The route works the other way around: the source is used precisely because it notices women in accounting and related skilled roles.
+- **D. They indicate visible specialised roles in the observed social world but not universal conditions.** — Correct. The safe inference is visible specialisation in the observed courtly-urban world, not a claim about uniform empire-wide conditions.
 
-**Answer: A.**
+**Examiner trap:** Gawan made into a sultan
 
-**Explanation:** The unsafe statement turns an observation into a census. The closest distractor is the visible-roles statement, which is the proper narrow inference.
 
-#### Q6. Identify the unsafe statement about Bhatkal.
+#### Key 13
 
-- A. The exact fort wording is mainly preserved through Portuguese accounts.
+**Correct answer:** A
 
-- B. Because the 2024 official key is A, no provenance caution about Portuguese testimony is needed.
+**Option-wise explanations:**
+- **A. Generally cooperative relations shaped by west-coast and horse-trade pragmatism.** — Correct. The safest reading is pragmatic cooperation shaped by west-coast politics and the horse trade, not civilisational dependence.
+- **B. Complete Portuguese command over Vijayanagara administration.** — Incorrect. Portuguese actors influenced coastal commerce, but they did not command Vijayanagara's internal administration.
+- **C. No contact because inland courts never used ports.** — Incorrect. An inland imperial court still needed ports such as Bhatkal for overseas trade and horse supply.
+- **D. A Bahmani eight-taraf settlement at Bhatkal.** — Incorrect. Eight tarafs belong to Mahmud Gawan's Bahmani reforms, so this option confuses a Bahmani administrative term with Portuguese-Vijayanagara contact.
 
-- C. Exam verification and source criticism can be stated together.
+**Examiner trap:** faction labels treated as racial essences
 
-- D. The local official Series-A key gives Q56 as A, Krishnadevaraya.
 
+#### Key 14
 
-**Answer: B.**
+**Correct answer:** B
 
-**Explanation:** The unsafe statement falsely opposes examination verification and source analysis. The closest distractor is the official-key statement, correct but not exhaustive.
+**Option-wise explanations:**
+- **A. Official Set-A key unavailable locally.** — Incorrect. The local repository preserves the official matched answer route for this 2024 question, so it is not a key-unavailable case.
+- **B. Official Set-A key: option A, Krishnadevaraya.** — Correct. The locally verified official key route settles Q56 in favour of option A, Krishnadevaraya.
+- **C. A reconstructed question with no preserved options.** — Incorrect. The item is not an invented reconstruction; the option set and local key match are both preserved.
+- **D. Official Set-A key: option B, Narasimha Saluva.** — Incorrect. Narasimha Saluva is a real Vijayanagara dynastic name, but the official local key does not assign him as the answer to Q56.
 
-#### Q7. Identify the unsafe statement about Bahmani factions.
+**Examiner trap:** architecture read as pure harmony proof
 
-- A. They are useful labels for contested access to office and influence.
 
-- B. Court coalitions could be politically unstable.
+#### Key 15
 
-- C. Deccanis and Afaqis were timeless homogeneous peoples whose political interests never changed.
+**Correct answer:** C
 
-- D. Factional conflict helped make Gawan’s reforms vulnerable.
+**Option-wise explanations:**
+- **A. 1336; Harihara and Bukka.** — Incorrect. 1336 with Harihara and Bukka refers to Vijayanagara's conventional foundation anchor, not to the Bahmani kingdom.
+- **B. 1463; Mahmud Gawan.** — Incorrect. 1463 belongs to Mahmud Gawan's rise to prominence, not to Bahmani state formation.
+- **C. 1347; Hasan Gangu/Alauddin Bahman Shah.** — Correct. The Bahmani kingdom is conventionally dated to 1347 under Hasan Gangu, also styled Alauddin Bahman Shah.
+- **D. 1565; Rama Raya.** — Incorrect. 1565 with Rama Raya marks the Talikota crisis, not the founding of the Bahmani polity.
 
+**Examiner trap:** 1565 written as instant extinction
 
-**Answer: C.**
 
-**Explanation:** The unsafe statement essentialises faction labels. The closest distractor is the office-access reading because it explains their political relevance without reifying them.
+#### Key 16
 
-#### Q8. Identify the unsafe statement about architecture.
+**Correct answer:** D
 
-- A. A monument does not replace social evidence from other sources.
+**Option-wise explanations:**
+- **A. Goa followed by Dabhol under Krishnadeva Raya.** — Incorrect. Goa and Dabhol were strategic ports; they were never the Bahmani capital sequence.
+- **B. Mandu followed by Ahmedabad under Mahmud Gawan.** — Incorrect. Mandu and Ahmedabad are the signature capitals of Malwa and Gujarat, not of the Bahmani state.
+- **C. Bidar followed by Hampi under Deva Raya I.** — Incorrect. Hampi is Vijayanagara's capital, so pairing it as the second Bahmani capital collapses two different polities.
+- **D. Gulbarga followed by Bidar under Ahmad Shah.** — Correct. The Bahmani capitals are Gulbarga first and Bidar later, with the shift associated with Ahmad Shah.
 
-- B. It provides evidence of patronage and an educational institution.
+**Examiner trap:** Topic 09 expanded into later-Deccan essay
 
-- C. Material form should be read with patron and urban context.
 
-- D. The Bidar madrasa proves that every Bahmani subject received identical education and status.
+#### Key 17
 
+**Correct answer:** A
 
-**Answer: D.**
+**Option-wise explanations:**
+- **A. Wakil-i-sultanat or Bahmani prime minister.** — Correct. Mahmud Gawan is best identified as wakil-i-sultanat, the leading ministerial figure in Bahmani politics.
+- **B. Founder of the Sangama dynasty.** — Incorrect. The Sangama dynasty belongs to the Vijayanagara foundation story of Harihara and Bukka, not to Gawan.
+- **C. Hereditary nayaka of the Tungabhadra doab.** — Incorrect. A hereditary nayaka of the Tungabhadra doab belongs to Vijayanagara's intermediary order, not to Gawan's office.
+- **D. Portuguese captain at Goa.** — Incorrect. Gawan was a Bahmani statesman, not a Portuguese captain on the west coast.
 
-**Explanation:** The unsafe statement turns one institution into a social census. The closest distractor is the patronage statement, a secure inference from the building.
+**Examiner trap:** conventional date turned into settled biography
 
-#### Q9. Identify the unsafe statement about coast and cavalry.
 
-- A. Konkan and Goa mattered only after Portuguese conquest and had no earlier horse-trade relevance.
+#### Key 18
 
-- B. Imported horses made access to west-coast ports strategically valuable.
+**Correct answer:** B
 
-- C. Ports had commercial and military significance.
+**Option-wise explanations:**
+- **A. Seven traveller enclosures.** — Incorrect. Seven enclosures comes from traveller description of Vijayanagara's cityscape, not from Gawan's administrative reform.
+- **B. Eight tarafs.** — Correct. The numerical reform linked to Mahmud Gawan is the division into eight tarafs.
+- **C. Five amaram districts.** — Incorrect. The topic never defines an administrative package of five amaram districts under Gawan.
+- **D. Four Portuguese captaincies.** — Incorrect. Portuguese captaincies have nothing to do with the Bahmani internal reform associated with Gawan.
 
-- D. Coastal competition connected interior states to external circuits.
+**Examiner trap:** Aravidu continuity erased
 
 
-**Answer: A.**
+#### Key 19
 
-**Explanation:** The unsafe statement deletes the pre-Portuguese horse-port logic. The closest distractor is Portuguese-era relevance, which is true but incomplete.
+**Correct answer:** C
 
-#### Q10. Identify the unsafe statement about the Hampi heritage anchor.
+**Option-wise explanations:**
+- **A. A name for the Tungabhadra canal.** — Incorrect. The Tungabhadra canal is tied to Deva Raya I's irrigation works, not to khalisa.
+- **B. A Portuguese warehouse at Bhatkal.** — Incorrect. A warehouse at Bhatkal belongs to coastal trade imagery, whereas khalisa denotes resources reserved to the crown.
+- **C. Land or resources reserved for the sultan’s direct fiscal base.** — Correct. Khalisa refers to land or income kept under the sultan's direct fiscal control rather than left entirely to provincial magnates.
+- **D. A hereditary nayaka title.** — Incorrect. A hereditary nayaka title belongs to Vijayanagara's service structure, not to the Bahmani term khalisa.
 
-- A. The page describes surviving urban, sacred, royal and water structures.
+**Examiner trap:** Goa and horses omitted from rivalry logic
 
-- B. UNESCO’s property page supplies exact medieval population and revenue totals for the city.
 
-- C. The page is a bounded heritage source rather than a full political archive.
+#### Key 20
 
-- D. Traveller accounts and local history sources provide different evidence.
+**Correct answer:** D
 
+**Option-wise explanations:**
+- **A. It restored Vijayanagara’s capital after Talikota.** — Incorrect. Hampi's devastation followed Talikota in 1565; Gawan's execution happened in 1482 within Bahmani court politics.
+- **B. It immediately created the Sangama dynasty.** — Incorrect. The Sangama dynasty predates Gawan by well over a century, so his death cannot create it.
+- **C. It ended all horse trade through west-coast ports.** — Incorrect. Gawan's death exposed factional fragility; it did not terminate all horse trade through the west-coast ports.
+- **D. It exposed how factional politics could undo a vulnerable centralising programme.** — Correct. His execution showed how Deccani-Afaqi factional struggle could destroy a still-fragile centralising reform programme.
 
-**Answer: B.**
+**Examiner trap:** waterworks described as ornament only
 
-**Explanation:** The unsafe statement overreads the official heritage page. The closest distractor is the described-surviving-structures statement, which is what the page securely supports.
 
-#### Q11. Identify the unsafe statement about successor states.
+#### Key 21
 
-- A. Fragmentation did not make the region politically empty.
+**Correct answer:** A
 
-- B. Successor courts carried some Deccan political resources into later rivalry.
+**Option-wise explanations:**
+- **A. Deccanis and Afaqis/gharibs.** — Correct. Deccanis and Afaqis/gharibs are the main factional labels used for Bahmani elite conflict.
+- **B. Mamluks and Cholas.** — Incorrect. Mamluks and Cholas belong to very different imperial and regional settings, not to Bahmani factional vocabulary.
+- **C. Sangamas and Tuluvas.** — Incorrect. Sangamas and Tuluvas are Vijayanagara dynastic names, not Bahmani court factions.
+- **D. Sharqis and Lodis.** — Incorrect. Sharqis and Lodis are north Indian ruling houses, not the key factional pair inside the Bahmani sultanate.
 
-- C. The Bahmani breakup produced Ahmadnagar, Bijapur, Golconda, Berar and Bidar.
+**Examiner trap:** military borrowing ignored
 
-- D. The breakup produced Delhi, Agra, Lahore, Kabul and Ajmer.
 
+#### Key 22
 
-**Answer: C.**
+**Correct answer:** B
 
-**Explanation:** The unsafe statement is the Delhi–Mughal city list, not the Deccan successor set. The closest distractor is later rivalry, a correct consequence of fragmentation.
+**Option-wise explanations:**
+- **A. That factional rivalry affected court politics.** — Incorrect. This can be inferred safely: factional rivalry did shape Bahmani court politics.
+- **B. That each was an unchanging, uniform ethnic bloc with a single permanent interest.** — Correct. The mistake is to essentialise Deccani and Afaqi into frozen, uniform blocs with one permanent collective interest.
+- **C. That office and access to influence could be politically contested.** — Incorrect. Competition over office and access is exactly what these political labels help explain.
+- **D. That Gawan’s enemies could exploit elite divisions.** — Incorrect. Gawan's fall is unintelligible unless elite divisions could be mobilised against him.
 
-#### Q12. Identify the unsafe comparative conclusion.
+**Examiner trap:** city mistaken for monument list
 
-- A. Revenue zones and horse-port chains shaped strategic choices.
 
-- B. The two courts competed and interacted in a shared Deccan field.
+#### Key 23
 
-- C. Institutional comparisons require a source-based qualification.
+**Correct answer:** C
 
-- D. Vijayanagara and Bahmani politics can be fully explained without geography, trade, cavalry or elite institutions.
+**Option-wise explanations:**
+- **A. That Vijayanagara abandoned all cavalry interests.** — Incorrect. Coastal expansion to Goa and Dabhol mattered because horse and trade routes were valuable, not because cavalry ceased to matter.
+- **B. That coastal routes mattered only after the Mughal conquest.** — Incorrect. The whole point of Goa and Dabhol in this topic is that coastal routes were already strategically significant in the fifteenth century.
+- **C. That western ports had both commercial and strategic significance.** — Correct. Gawan's move towards Goa and Dabhol demonstrates that western ports were prized for both commerce and military supply logic.
+- **D. That Gulbarga was a Portuguese possession.** — Incorrect. Gulbarga was an early Bahmani capital, never a Portuguese possession.
 
+**Examiner trap:** ayagar projected unchanged across eras
 
-**Answer: D.**
 
-**Explanation:** The unsafe conclusion removes the mechanisms that make the comparison historical. The closest distractor is shared-field language, which acknowledges rivalry without an essentialist binary.
+#### Key 24
 
+**Correct answer:** D
 
-**Independent answer-rotation audit — Part VI — Remedial trap MCQs (12; strict A → B → C → D rotation):** `A B C D A B C D A B C D`
+**Option-wise explanations:**
+- **A. It proves every Bahmani subject was a scholar.** — Incorrect. One madrasa cannot prove universal scholarship across the whole population of the Bahmani kingdom.
+- **B. It proves Bidar was Vijayanagara’s first capital.** — Incorrect. Bidar became a Bahmani capital; it was not Vijayanagara's first capital.
+- **C. It is a source for the exact volume of every tax.** — Incorrect. The madrasa is valuable architectural evidence, but it does not function as a ledger of the exact volume of every tax.
+- **D. It is material evidence of courtly educational patronage and artistic skill at Bidar.** — Correct. The Mahmud Gawan Madrasa is best used as material evidence of elite educational patronage and artistic-architectural skill at Bidar.
 
-### Semantic-completeness coverage drills — Medieval Topic 09
+**Examiner trap:** literature detached from kingship
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Critique foundation narratives. | c.1336/1347 -> source/date -> Vidyaranya/Hasan traditions -> inscriptions/material state | settled legend |
-| B | Build the dynasty ladder. | Sangama -> Saluva -> Tuluva -> Aravidu -> named rulers/continuity | Krishnadevaraya as Sangama |
-| C | Explain Deccan rivalry. | Raichur/doab -> ports/horses -> forts/routes -> mixed alliances/recruitment | Hindu-Muslim duel |
-| D | Compare administration. | raya/council/provinces/amaram/ayagar -> taraf/khalisa/Gawan -> regional change | feudal identity |
-| E | Reconstruct economy/society. | water/revenue -> farms/towns/ports/coins -> groups/women/dependants -> source limit | traveller census |
-| F | Use architecture. | Hampi royal/sacred/water -> Gulbarga/Bidar/madrasa -> patron/function caution | motif proves syncretism |
-| G | Evaluate state models. | segmentary -> centralized -> military-fiscal -> integrative -> variable core/periphery | one timeless model |
-| H | Assess Talikota. | coalition/participants -> Rama Raya -> battle/sack -> Aravidu/nayaka continuity | instant end |
 
-**PYQ status:** three direct routed Prelims demands; the 2024 key is locally
-officially verified, while the 2021 and 2023 answers remain labelled inference.
-There is no direct routed Mains PYQ.
+#### Key 25
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A. Ahmadnagar, Bijapur, Golconda, Berar and Bidar.** — Correct. Ahmadnagar, Bijapur, Golconda, Berar and Bidar are the five standard successor states of Bahmani disintegration.
+- **B. Hampi, Madurai, Kanchipuram, Thanjavur and Srirangam.** — Incorrect. Hampi, Madurai, Kanchipuram, Thanjavur and Srirangam are important southern places, not the five Deccan successor sultanates.
+- **C. Delhi, Agra, Lahore, Kabul and Ajmer.** — Incorrect. Delhi, Agra, Lahore, Kabul and Ajmer are north Indian/Mughal-linked centres, not the Bahmani breakup sequence.
+- **D. Gujarat, Malwa, Bengal, Jaunpur and Kashmir.** — Incorrect. Gujarat, Malwa, Bengal, Jaunpur and Kashmir are Topic 08 regional kingdoms, not the post-Bahmani successor set.
+
+**Examiner trap:** coastal cooperation mistaken for dependence
+
+
+#### Key 26
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. It was a Bahmani victory in 1347 before Vijayanagara formed.** — Incorrect. 1347 is the Bahmani foundation date, so this option confuses a state's birth with the much later battle of Talikota.
+- **B. It was a coalition victory that shattered Vijayanagara’s capital and great-power phase without instant political extinction.** — Correct. Talikota is best read as a coalition victory that wrecked Hampi-centred great-power primacy without erasing all later Vijayanagara continuity.
+- **C. It was a Portuguese naval battle at Bhatkal.** — Incorrect. Talikota was a major inland Deccan battle, not a Portuguese naval action at Bhatkal.
+- **D. It permanently united all Deccan states under one dynasty.** — Incorrect. The coalition won, but it did not permanently unify all Deccan polities under one dynasty.
+
+**Examiner trap:** observer identity not specified
+
+
+#### Key 27
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. Harihara I.** — Incorrect. Harihara I belongs to Vijayanagara's foundation era, not to the 1565 coalition crisis.
+- **B. Hasan Gangu.** — Incorrect. Hasan Gangu belongs to Bahmani foundation history in 1347, not to the Talikota execution scene.
+- **C. Rama Raya.** — Correct. Rama Raya was captured and executed in the coalition context of 1565.
+- **D. Mahmud Gawan.** — Incorrect. Mahmud Gawan was executed in 1482 on a forged charge inside Bahmani factional politics, not at Talikota.
+
+**Examiner trap:** capital shift confused with foundation
+
+
+#### Key 28
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. A restored Bahmani kingdom at Gulbarga.** — Incorrect. By 1565 the Bahmani kingdom had already fragmented; there was no revived Bahmani state at Gulbarga waiting to replace Vijayanagara.
+- **B. No Vijayanagara-connected authority anywhere in the south.** — Incorrect. This is the textbook error the topic rejects: Vijayanagara-linked authority survived through the Aravidu line and empowered nayaka polities.
+- **C. The immediate Mughal annexation of all southern territories.** — Incorrect. The Mughals did not immediately annex all southern territories in 1565.
+- **D. Aravidu rule and regional nayaka political capacity in altered form.** — Correct. What remained was altered continuity-Aravidu rule from new centres and strengthened regional nayaka political capacity.
+
+**Examiner trap:** centralisation assumed complete after reform
+
+
+#### Key 29
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A. UNESCO World Heritage Centre’s Group of Monuments at Hampi property page.** — Correct. The package uses the UNESCO World Heritage Centre's Group of Monuments at Hampi page as its bounded current heritage anchor.
+- **B. A later fictional chronicle.** — Incorrect. A fictional later chronicle cannot serve as the package's official live heritage reference.
+- **C. An unverified social-media map of medieval battlefields.** — Incorrect. An unverified social-media battlefield map fails both the official-source and the heritage-status tests.
+- **D. A coaching claim about visitor statistics.** — Incorrect. Coaching-platform visitor statistics are neither official heritage documentation nor a source for this package's bounded current anchor.
+
+**Examiner trap:** Bidar monument used as social census
+
+
+#### Key 30
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. A full account of every fifteenth-century court office.** — Incorrect. UNESCO's property page is not a handbook of every fifteenth-century court office.
+- **B. The integrated survival of fortifications, water structures, royal and sacred complexes, markets and landscape at the capital site.** — Correct. The page securely supports Hampi as an integrated capital landscape of fortifications, water systems, sacred complexes, royal spaces and markets.
+- **C. Exact medieval population totals for Hampi.** — Incorrect. UNESCO does not provide exact medieval population totals for Hampi.
+- **D. An official verdict on the founders’ disputed origin story.** — Incorrect. A modern heritage page cannot settle the disputed founder-origin story of Harihara and Bukka.
+
+**Examiner trap:** Rama Raya omitted from Talikota chain
+
+
+#### Key 31
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. It is a precise label for Mahmud Gawan’s reforms.** — Incorrect. Mahmud Gawan's reforms belong to Bahmani administrative history, so they cannot define Vijayanagara with the phrase "Hindu bulwark."
+- **B. It shows why travel accounts need no criticism.** — Incorrect. Travel accounts remain situated observers and still require source criticism.
+- **C. It obscures contested origin stories, pragmatic recruitment, political geography and regional interaction.** — Correct. The label fails because it hides debated origins, pragmatic recruitment, port-horse political economy and sustained regional interaction.
+- **D. It accurately explains all cavalry recruitment and port politics.** — Incorrect. A single civilisational slogan cannot explain cavalry recruitment, coastal pragmatism and political geography all at once.
+
+**Examiner trap:** successor states listed without bounded scope
+
+
+#### Key 32
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. It marks the formal start of Portuguese rule at Goa.** — Incorrect. Portuguese Goa belongs to a later coastal phase and has nothing to do with the 1367 Mudkal-Tungabhadra conflict.
+- **B. It proves the final breakup into five Sultanates.** — Incorrect. The final breakup into five Deccan Sultanates belongs to the later Bahmani disintegration, not to the 1367 clash.
+- **C. It establishes the Aravidu dynasty after 1565.** — Incorrect. The Aravidu line emerges after the 1565 catastrophe, so this option is chronologically impossible for 1367.
+- **D. It shows recurrent conflict and a reported agreement against slaughter of helpless civilians.** — Correct. The 1367 conflict adds two mature-answer points: recurrent Deccan warfare and the reported agreement against slaughter of helpless civilians.
+
+**Examiner trap:** continuity minimised after Hampi sack
+
+
+#### Key 33
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A. Service, revenue and negotiated power can coexist with hereditary tendencies without making every assignment private landownership.** — later hereditary influence does not eliminate an originally service-linked, politically negotiated tie.
+- **B. Every nayaka held an identical, inalienable estate from the Sangama foundation onward.** — Neither uniform terms nor universal permanence across dynasties is established.
+- **C. A revenue assignment proves the central court never intervened in local politics.** — Assignments and royal interventions can operate simultaneously.
+- **D. The inscription alone establishes each cultivator’s net income.** — A grant inscription does not yield a complete peasant income account.
+
+**Examiner trap:** Do not convert service-linked access to revenue into soil ownership.
+
+
+#### Key 34
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. A traveller’s praise for Hampi bazaars and the Vitthala complex.** — These relate to Vijayanagara urban and ritual landscapes, not Bahmani provincial reform.
+- **B. Records of taraf subdivision and crown fort control set against evidence of factional resistance and local appointments.** — compare reform prescriptions with implementation and elite opposition.
+- **C. The *Madhuravijayam* poem and the Virupaksha temple.** — A Vijayanagara court poem and temple cannot document Bahmani taraf governance.
+- **D. A pagoda coin and a sixteenth-century Portuguese port tariff.** — Coins and later coastal prices alone cannot establish the eight-taraf reform.
+
+**Examiner trap:** An announced reform is not proof of completed centralisation.
+
+
+#### Key 35
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. 1 and 3 only** — His office is correctly identified, but the claim of permanent total success is unsound.
+- **B. 2 and 3 only** — Eight-taraf reorganisation is supported, not the blanket outcome claim.
+- **C. 1 and 2 only** — office and reform direction are supported; implementation remained contested.
+- **D. 1, 2 and 3** — The third claim wrongly treats an attempted reform as universal, enduring success.
+
+**Examiner trap:** Distinguish the design of Gawan’s reform from its uneven outcomes.
+
+
+#### Key 36
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. Nuniz–Deva Raya I–contemporary account of the first Tungabhadra dam.** — Nuniz visited much later and his early-history reporting is retrospective.
+- **B. Paes–Harihara I–eyewitness report of the conventional 1336 foundation.** — Paes wrote in the sixteenth century, not as an eyewitness to the foundation.
+- **C. Firishta–Hasan Bahman Shah–eyewitness to the 1347 declaration.** — Firishta wrote retrospectively rather than witnessing the Bahmani foundation.
+- **D. Abdur Razzaq–Deva Raya II–Timurid diplomatic observation of court and city.** — Razzaq’s 1440s embassy overlaps Deva Raya II’s reign; its numbers still need checks.
+
+**Examiner trap:** A narrative about an early event does not make its later author an eyewitness.
+
+
+#### Key 37
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A. They support linked irrigation, patronage and urban consumption, but do not establish equal prosperity in every village.** — distinct evidence converges on a complex urban-agrarian landscape with social limits.
+- **B. They show every hydraulic work was built by Krishnadevaraya in a single campaign.** — Hampi water systems grew across phases and cannot all be ascribed to one ruler.
+- **C. The traveller’s description alone dates and names each unearthed structure.** — Dating requires inscriptional and archaeological testing, not a visitor’s broad impression.
+- **D. Grants prove temples had no economic role beyond ritual.** — Temples could hold land, redistribute resources and attract markets.
+
+**Examiner trap:** Urban splendour is not an agrarian welfare census.
+
+
+#### Key 38
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. Krishnadevaraya’s Raichur campaign → Bahmani independence → Gawan’s reform → Talikota.** — The Bahmani foundation and Gawan’s reforms preceded Krishnadevaraya.
+- **B. Bahmani independence → Gawan’s reform → Krishnadevaraya’s reign → Talikota.** — 1347 precedes late Bahmani reform, then the Tuluva reign and 1565.
+- **C. Talikota → Bahmani independence → Saluva transition → Gawan’s reform.** — Talikota belongs after, not before, the foundation and dynastic transitions.
+- **D. Gawan’s reform → Harihara’s conventional foundation → Krishnadevaraya’s reign → Talikota.** — Vijayanagara’s conventional foundation precedes Gawan’s fifteenth-century work.
+
+**Examiner trap:** Sequence Bahmani reform before the Tuluva high phase; do not reverse dynastic time.
+
+
+#### Key 39
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. Imported horses proved Vijayanagara and Bahmani armies had no infantry.** — Both armies also deployed infantry and other units.
+- **B. Coastal access guaranteed victory even without fodder, forts or local allies.** — Imported mounts were only one part of the supply and military chain.
+- **C. Goa/Dabhol/Bhatkal routes connected maritime suppliers with inland cavalry, while training, logistics and patronage shaped actual effectiveness.** — maritime commerce, fiscal capacity and military organisation intersected.
+- **D. Vijayanagara could not employ Muslim archers because horses crossed an Islamic trade network.** — Recruitment crossed religious lines, as Deva Raya II’s adaptation illustrates.
+
+**Examiner trap:** A port advantage cannot alone account for a battlefield result.
+
+
+#### Key 40
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. The modern name itself proves its original court function.** — A conventional present-day label does not settle original naming or use.
+- **B. Shared motifs identify the religion of every building worker.** — Stylistic interactions do not establish identities of every patron or artisan.
+- **C. The structure should be attributed to Bahmani Gulbarga instead of Hampi.** — The building is part of Hampi’s landscape, not Gulbarga.
+- **D. Its modern label and function are uncertain; architectural form requires contextual corroboration, not communal attribution.** — architecture reveals hybrid craft and patronage but not an automatic social census.
+
+**Examiner trap:** Modern monument names are not contemporaneous records of function.
+
+
+#### Key 41
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A. Both mattered for forts, cultivation and routes, but the eastern basin also linked inland claims to eastern ports; control remained contested.** — geography shaped incentives without predetermining outcomes.
+- **B. Both lay beyond all Vijayanagara and Bahmani political interest.** — Both are explicitly recurrent contest zones in Deccan politics.
+- **C. Only the western Konkan coast had agrarian value; neither basin supported cultivation.** — Their agrarian potential was part of the strategic stakes.
+- **D. Doab victories fixed permanent imperial borders regardless of garrison or supply.** — Forts, local intermediaries and provisioning were necessary to retain control.
+
+**Examiner trap:** Winning a battle is not the same as maintaining a supplied frontier.
+
+
+#### Key 42
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. Two unchanging biological races with no intermarriage or patronage ties.** — The categories shifted and were never sealed racial identities.
+- **B. Faction labels involving regional networks, settlement and office; conflict around Gawan cannot alone explain the kingdom’s breakup.** — factional politics mattered alongside provincial autonomy and fiscal-military strains.
+- **C. Two exclusively religious camps corresponding exactly to Vijayanagara and Bahmani borders.** — These factions operated within Bahmani politics, not as opposed states.
+- **D. A military classification naming only infantry and elephants.** — They were court/elite affiliations, not troop-type labels.
+
+**Examiner trap:** Do not narrate Bahmani disintegration as one execution or a racial binary.
+
+
+#### Key 43
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. Later reports of ruined palace walls alone.** — Urban devastation alone does not test government at other centres.
+- **B. A court poem celebrating the original Sangama foundation.** — Foundation ideology cannot establish continued governance centuries later.
+- **C. Post-1565 Aravidu inscriptions and evidence of Penukonda government alongside changing Nayaka relations.** — dated successor evidence distinguishes the sack of the capital from survival of political networks.
+- **D. A single undated coin found at the old capital.** — Without dating/context a coin cannot establish the polity’s institutional afterlife.
+
+**Examiner trap:** Do not equate destruction of the imperial capital with an instant universal state extinction.
+
+
+#### Key 44
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. *Amuktamalyada* — proof of fixed empire-wide tax collection in every district.** — Literary counsel cannot certify uniform administrative execution.
+- **B. *Madhuravijayam* — neutral contemporary census of the Madurai population.** — A court poem is not a population enumeration.
+- **C. Nuniz — certain eyewitness testimony to all fourteenth-century Vijayanagara events.** — Later narrative material must not be treated as eyewitness evidence of earlier centuries.
+- **D. *Madhuravijayam* — Gangadevi’s Sanskrit representation of conquest and legitimacy; *Amuktamalyada* — normative royal counsel rather than an administrative gazette.** — provenance and genre allow claims about royal ideas but limit factual overreach.
+
+**Examiner trap:** Literary voice and eyewitness state record are not interchangeable.
+
 
 ## PYQS AND ANSWER PRACTICE
 
-### Part III — Solved locally routed UPSC Prelims PYQs
+### Part II — Verified direct and routed PYQs
 
-#### Direct PYQ 1 — UPSC Prelims GS-I 2024 Q56: Bhatkal fort
+#### PYQ 1 (2024, Prelims) — direct
 
-**Exact locally preserved question:** Who of the following rulers of medieval India gave permission to the Portuguese to build a fort at Bhatkal?
 
-A. Krishnadevaraya  
-B. Narasimha Saluva  
-C. Muhammad Shah III  
-D. Yusuf Adil Shah
+With reference to the history of India, consider the following statements:
 
-**OFFICIALLY VERIFIED — local UPSC CSP-2024 Series-A answer key:** **A. Krishnadevaraya.** The local `Ans-2024-GS1.txt` key records Q56 = A. The historical route is pragmatic cooperation with Portuguese actors in a coast shaped by trade and horse supply. **Provenance qualification:** the precise Bhatkal-fort claim is mainly transmitted through Portuguese testimony; preserve that boundary instead of inventing a grant text, date or fort specification.
+1. There was a game known as 'Chaturanga', which was a precursor to modern day chess, played in the court of Vijayanagara.
+2. Krishnadeva Raya used to play this game with Portuguese visitors.
 
-**Why the alternatives fail:** Narasimha Saluva is a real Vijayanagara dynastic name but not the keyed ruler; Muhammad Shah III belongs to Bahmani chronology; Yusuf Adil Shah belongs to the Bijapur successor-state setting. The question is designed to test chronology across related Deccan polities.
+Which of the statements given above is/are correct?
 
-#### Direct PYQ 2 — UPSC Prelims GS-I 2021 Q35: women’s expertise in Nuniz
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-**Exact locally preserved question:** According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas?
+**Answer:** D only.
 
-1. Wrestling  
-2. Astrology  
-3. Accounting  
+**How to think it through:** The local review instructions lock this as a provenance-sensitive route. The well-known chess anecdote belongs to later storytelling rather than secure court evidence, and no verified Portuguese travel record in the local package supports the claim that Krishnadeva Raya routinely played such games with Portuguese visitors. Since neither statement survives source checking, the safe answer is D.
+
+**Demand decoding:** This is a two-statement source-provenance question: each statement has to be tested separately against secure Vijayanagara-court evidence rather than against a familiar anecdote about chess.
+
+**Executable elimination plan:** Check Statement 1 for reliable evidence that Chaturanga was actually attested in the Vijayanagara court, then test Statement 2 for a verified Portuguese record of Krishnadeva Raya playing it with visitors. If both claims fail source-checking, the route ends at D.
+
+**Why this route earns marks:** It separates a later popular story from verifiable traveller evidence and therefore reaches the correct "neither" conclusion without fabricating a lost court source.
+
+**How to strengthen this route:** If a future local evidence pack isolates the exact Portuguese record or its absence more precisely, cite that named source directly instead of relying on general provenance caution alone.
+
+#### PYQ 2 (2024, Prelims) — direct
+
+
+With reference to Vijayanagara Empire, consider the following statements:
+
+1. It was ruled by a succession of dynasties from Sangama to Aravidu.
+2. The army consisted of large contingents of infantry, cavalry, and elephants.
+3. The Fort of Bhatkal was constructed by Krishnadeva Raya to protect the empire's overseas trade ports.
+
+How many of the statements given above are correct?
+
+- A. Only one
+- B. Only two
+- C. All the three
+- D. None
+
+**Answer:** B. Only two.
+
+**How to think it through:** Statements 1 and 2 are securely supported in the local knowledge files and review ledger. Statement 3 is the route that needs caution: the official answer key settles the exam in favour of the Krishnadeva Raya option, but the exact fort-construction phrasing survives via Portuguese testimony and should not be inflated beyond that provenance. Hence two statements are correct.
+
+**Demand decoding:** This is a three-statement count question in which two statements are standard core facts and the third is a provenance-sensitive construction claim; the task is to count accurately without over-reading Statement 3.
+
+**Executable elimination plan:** Lock Statement 1 first (Sangama to Aravidu dynastic succession) and Statement 2 next (infantry-cavalry-elephant military composition). Then test Statement 3 narrowly: the official key accepts the Krishnadeva Raya-Bhatkal route, but the answer must preserve the Portuguese-testimony caution before selecting "Only two."
+
+**Why this route earns marks:** It respects the verified 2024 official key while refusing to inflate Statement 3 into a source-unqualified architectural certainty.
+
+**How to strengthen this route:** If the locally held Portuguese testimony is later cited line-for-line in the package notes, append that exact provenance so the answer explains why Statement 3 passes exam-wise yet still needs historical caution.
+
+#### PYQ 3 (2021, Prelims) — routed social-history support
+
+
+According to Portuguese writer Nuniz, the women in Vijayanagara Empire were experts in which of the following areas?
+
+1. Wrestling
+2. Astrology
+3. Accounting
 4. Soothsaying
 
-Select the correct answer using the code given below.
+Select the correct answer using the code given below:
 
-A. 1, 2 and 3 only  
-B. 1, 3 and 4 only  
-C. 2 and 4 only  
-D. 1, 2, 3 and 4
+- A. 1, 2 and 3 only
+- B. 1, 3 and 4 only
+- C. 2 and 4 only
+- D. 1, 2, 3 and 4
 
-**INFERRED ANSWER — NOT OFFICIALLY VERIFIED. Confidence: high.** **D. 1, 2, 3 and 4.** The locally held official question paper is readable, but no official 2021 key is locally available. The local knowledge spine records the same four activities in connection with Portuguese travel writing. Eliminate A, B and C because each omits one activity explicitly included by the question’s evidence route.
+**Answer:** D. 1, 2, 3 and 4.
 
-**Source boundary:** an older repository note attributed a similar list to Domingo Paes whereas the official-paper wording and repaired canonical owner name Nuniz. This package preserves the paper’s exact wording and does not pretend the local source conflict has been independently settled. Use the PYQ for option elimination; use “Portuguese accounts” in a Mains answer unless author attribution is separately verified.
+**How to think it through:** This question is useful here because it enlarges Topic 09 beyond dynasties and warfare. The answer is not a claim about all women in the empire; it is a claim about what the Portuguese account noticed in a courtly and urban setting. Use it to write cautiously on specialised roles, visibility and evidence limits.
 
-#### Direct PYQ 3 — UPSC Prelims GS-I 2023 Q48: Tungabhadra dam and canal
+**Demand decoding:** This is a code-selection question about what Nuniz says he observed, not a general social-history question about all women in Vijayanagara.
 
-**Exact locally preserved question:** Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?
+**Executable elimination plan:** Attach each listed activity-wrestling, astrology, accounting and soothsaying-to Nuniz's observed courtly-urban description. Once none of the four drops out, the route resolves to the full combination in option D.
 
-A. Devaraya I  
-B. Mallikarjuna  
-C. Vira Vijaya  
-D. Virupaksha
+**Why this route earns marks:** It gets the code right while still guarding against the common error of turning one Portuguese observer's notice into a census-like statement about every woman in the empire.
 
-**INFERRED ANSWER — NOT OFFICIALLY VERIFIED. Confidence: high.** **A. Devaraya I.** The locally held 2023 paper preserves the exact option order; no official 2023 key is locally held. The repository’s source spine associates Deva Raya I with dam/canal works and Deva Raya II with cavalry and archer reorganisation. This makes A the defensible inference; the other rulers are historically plausible Vijayanagara distractors but do not carry this irrigation association in the source base.
+**How to strengthen this route:** Name Nuniz in the first sentence and add the phrase "observed courtly-urban setting" in revision notes so the source boundary stays visible during recall.
 
-**Learning route:** do not merely memorise A. Build the causal chain: Tungabhadra water work → cultivation reliability → revenue/provisioning → capital capacity. This also separates a hydraulic fact from Deva Raya II’s military-adaptation fact.
+#### PYQ 4 (2026, GS-I Q11, verified local official paper; routed architecture support)
 
-### Part IV — Original examiner-grade solved Mains practice
 
-#### M1. Analyse how political geography, rather than a communal binary, explains the Vijayanagara–Bahmani conflict. (10 marks, 150 words)
+**Vijayanagara architecture exemplifies the amalgamation of past traditions with contemporary practices. Elucidate with examples.** (15 marks, 250 words)
 
-**Demand decoded:** explain a causal mechanism and reject an insufficient frame.
+**Verification status:** Verified locally from `knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf.md`, derived from the official local scan `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`. The routing ledger `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` assigns primary ownership to Indian Art & Culture, so it is used here as a routed support PYQ rather than as Topic 09's primary architecture owner.
 
-**Model solution**
+**Model answer:** Vijayanagara architecture did not begin from scratch. It absorbed older South Indian temple and mandapa traditions, while adapting them to the political, ritual and urban needs of a large early-modern imperial capital. The result was continuity with innovation.
 
-**Claim.** The rivalry was organised around fiscal and strategic geography; religious idioms existed, but do not explain the recurring objects of contest by themselves.
+First, the empire inherited the Dravida temple base visible in sanctums, axial planning, enclosure walls and pillared halls. Yet these older forms were amplified through contemporary imperial scale. The Virupaksha complex and other Hampi temples show continuity with earlier sacred traditions, but the enlarged gopuras and ceremonial avenues projected a more expansive royal-ritual order.
 
-**Named evidence → analysis.** The fertile Tungabhadra doab offered revenue and a frontier position. The Krishna–Godavari basin joined cultivation to ports and regional overseas trade. Konkan/Goa mattered because imported horses from Iran and Iraq were crucial for cavalry. These three zones connect land, routes and military supply. Deva Raya II’s recruitment of Muslim cavalrymen and archers further shows pragmatic learning across political-religious labels.
+Second, the period developed distinctive hall architecture and sculptural treatment. The Vitthala temple is notable for its ornate mandapas, composite pillars and the celebrated stone chariot within a highly choreographed sacred-urban setting. The Hazara Rama temple, with its Ramayana panels and royal associations, shows how narrative sculpture, court ritual and kingship could be fused.
 
-**Qualification and verdict.** Geography did not mechanically determine outcomes: dynastic ambition, elite factions, artillery, local alliances and legitimacy claims mattered. Yet the resource-and-route framework explains why wars recurred in particular spaces and why coastal politics affected inland armies. The conflict was therefore a Deccan struggle for capacity, not a simple communal duel.
+Third, architecture in Vijayanagara was not confined to temples. Royal and metropolitan spaces such as audience zones, bazaars, tanks, canals and enclosures integrated sacred architecture with urban planning. This reflects contemporary practices of imperial display, provisioning and movement control.
 
-**Why this earns marks:** It answers “analyse,” uses four named evidence points, states the limit of the argument and ends with a direct verdict.
+Thus, Vijayanagara architecture represents an amalgamation: inherited southern forms were retained, but recast through new scales of monumentality, urban integration and imperial symbolism suited to the Deccan world of the fourteenth to sixteenth centuries.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “M1. Analyse how political geography, rather than a communal binary, explains the…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Why this earns marks:** It answers the word "amalgamation" rather than merely listing monuments: Virupaksha anchors inherited Dravida continuity, Vitthala and Hazara Rama show contemporary elaboration, and bazaars/tanks/enclosures extend the argument into imperial urban planning.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Demand decoding:** "Elucidate with examples" requires showing how older South Indian temple traditions were retained and transformed in Vijayanagara, not writing a generic appreciation note on Hampi. The answer must cover both halves of the claim-past traditions and contemporary practices-with named examples inside the 250-word limit.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable answer/compression plan:** 250 words = 1-sentence thesis on continuity with innovation; one block on inherited Dravida features (sanctum, axial plan, enclosure, gopura with Virupaksha), one on distinctive Vijayanagara elaboration (Vitthala mandapas, composite pillars, stone chariot, Hazara Rama panels), one on royal-urban integration (bazaars, tanks, canals, audience zones, enclosures), then a 1-sentence verdict.
 
-**How to improve this answer:** For “M1. Analyse how political geography, rather than a communal binary, explains the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one more named royal-centre example-such as the Mahanavami platform or another clearly bounded Hampi court space-to sharpen the "contemporary imperial practice" side without drifting into a full Art & Culture survey.
 
-#### M2. Examine Deva Raya I’s irrigation works as an instrument of Vijayanagara state capacity. (10 marks, 150 words)
+### Part III — Six original mains models (locked count)
 
-**Demand decoded:** explain institutional significance, not merely identify a work.
+#### Original Mains 1 — 10 marks (150 words)
 
-**Model solution**
 
-**Claim.** Deva Raya I’s Tungabhadra dam and canal works were instruments of state capacity because water control could connect cultivation to revenue and capital provisioning.
+**Question:** Explain why the Raichur doab remained central to Vijayanagara-Bahmani rivalry.
 
-**Named evidence → analysis.** The local source associates Deva Raya I with a dam across the Tungabhadra and canals; UPSC 2023 Q48 tests the dam-and-canal association. Water diverted towards fields and the capital could improve cultivation reliability, sustain food supply and enlarge the fiscal resources that supported a court and army. The location also matters: Hampi’s urban landscape combined river, water structures, markets and defended space, showing that infrastructure formed part of a city-region rather than an isolated engineering project.
+**Model answer:** The Raichur doab mattered because it lay between the Krishna and Tungabhadra rivers and combined fertile agrarian revenue with strategic military position. Whoever controlled it gained resources for armies and prestige on a visible frontier. Its forts also linked interior command to movement across the Deccan. Repeated campaigns there therefore reflected more than territorial pride: they were contests over revenue, provisioning and the balance of power. The doab also mattered symbolically because victories there advertised a ruler's capacity before nobles and rivals. Yet the conflict should not be reduced to one strip of land alone. Control of ports, horse supply and eastern routes also shaped Deccan rivalry. Thus the doab was central because it condensed the larger fiscal-military logic of the Deccan into a single contested frontier.
 
-**Qualification and verdict.** A canal does not prove equal benefit for cultivators or automatically explain imperial prosperity; assessment, labour, administration and security remained necessary. Nevertheless, the work shows how ecological management could become a political resource in a competitive Deccan.
+**Why this earns marks:** It converts location into explanation: Krishna-Tungabhadra position, agrarian revenue, fort-linked strategy and frontier prestige are all tied directly to why the doab kept returning to the centre of rivalry.
 
-**Why this earns marks:** It uses the named ruler, the material mechanism and a social-evidence qualification rather than treating irrigation as a decorative achievement.
+**Demand decoding:** "Explain why" asks for causal factors, not a mere list of campaigns in the Raichur zone. The answer has to move from geography to fiscal and military consequence.
 
-**Demand decoding:** The directive **examine** requires a direct position on “M2. Examine Deva Raya I’s irrigation works as an instrument of Vijayanagara state capacity.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/compression plan:** 150 words = a 1-sentence location definition, then three compact reasons (fertility/revenue, frontier forts/strategy, prestige/balance of power), followed by a 1-sentence qualification that ports and horse routes also mattered.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**How to improve this answer:** Insert one named campaign marker-such as Krishnadevaraya's 1520 Raichur success or a specific Raichur-fort contest-to give the causal explanation one memorable historical hook.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+#### Original Mains 2 — 10 marks (150 words)
 
-**How to improve this answer:** For “M2. Examine Deva Raya I’s irrigation works as an instrument of Vijayanagara state capacity.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-#### M3. Compare Vijayanagara’s amaram–nayaka arrangement with Mahmud Gawan’s Bahmani reforms. (15 marks, 200 words)
+**Question:** Why is Deva Raya II remembered as a ruler of adaptation rather than mere expansion?
 
-**Demand decoded:** compare institutional forms, their shared problem and their different limits.
+**Model answer:** Deva Raya II is remembered for adaptation because his reign shows how Vijayanagara responded pragmatically to competitive Deccan warfare. Sources associate him with the recruitment of Muslim cavalrymen and archers, indicating willingness to adopt effective military practices across political-religious boundaries. This is analytically more important than a mere list of victories, because it reveals learning under pressure. His reign is also connected with urban prosperity noticed by travellers, suggesting that military adjustment worked alongside broader metropolitan strength. The key point is that Vijayanagara did not survive by static tradition alone; it altered recruitment and fighting methods when needed. However, such adaptation should not be exaggerated into complete central control or social equality. Its importance lies in showing that Deccan rivalry generated institutional borrowing as well as battlefield conflict.
 
-**Model solution**
+**Why this earns marks:** The answer uses Deva Raya II's recruitment of Muslim cavalrymen and archers as named evidence, links it to learning under Bahmani pressure, and ends with a qualification against exaggerated claims of harmony or total control.
 
-**Claim.** Both systems addressed fiscal-military mobilisation, but amaram rested on hereditary service intermediaries while Gawan’s reforms sought to render territorial nobility more controllable from the centre.
+**Demand decoding:** The contrast word "rather than" matters: the examiner wants what made Deva Raya II adaptive in methods and recruitment, not a generic notice that his reign saw warfare or expansion.
 
-**Named evidence → analysis.** In Vijayanagara, amaram assigned territorial revenue to hereditary nayakas for troops and service. This enabled mobilisation through local power, but heredity gave nayakas an independent social base; it should not be equated with transferable iqta. In the Bahmani kingdom, Gawan’s eight tarafs, fixed salaries and troop obligations, khalisa resources, land-measurement effort and fort-governor control aimed to limit noble autonomy and protect a central fiscal base. Both show that armies depended on revenue and intermediaries, not only royal command.
+**Executable answer/compression plan:** 150 words = opening contrast sentence, one evidence block on cavalry/archery recruitment and military learning, one block on prosperity/metropolitan strength under his reign, and a closing qualification against over-reading the reform.
 
-**Qualification.** Neither system was a completed, uniform bureaucracy. Vijayanagara’s centre could be strong despite nayaka limits; Gawan’s programme depended on fragile court support and his execution in 1482 exposed factional constraints.
+**How to improve this answer:** Add Abdur Razzaq's notice of prosperity, or explicitly contrast Deva Raya II with Deva Raya I's irrigation signature, so the ruler-specific identity becomes even tighter.
 
-**Verdict.** The comparison reveals two distinct institutional answers to the same Deccan problem—turning land and elite service into military power—rather than two identical “feudal” systems.
+#### Original Mains 3 — 15 marks (250 words)
 
-**Why this earns marks:** It has six precise evidence points, makes a true comparison, avoids the amaram–iqta trap and gives a qualified conclusion.
 
-**Demand decoding:** The directive **compare** requires a direct position on “M3. Compare Vijayanagara’s amaram–nayaka arrangement with Mahmud Gawan’s Bahmani reforms.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** Evaluate the nayankara/amaram system as both a source of imperial strength and a structural limit on Vijayanagara centralisation.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Model answer:** The nayankara-amaram arrangement was one of the main supports of Vijayanagara expansion because it tied local military service to revenue assignments. Through this system, the centre could mobilise armed retainers and maintain regional control without financing every layer of command through a uniform cash bureaucracy. It therefore widened imperial reach and made conquest sustainable.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+Its strength lay in flexibility. Nayakas could raise troops, supervise local resources and connect the imperial court to diverse regions. In a frontier-heavy polity facing the Bahmanis and other rivals, this was a powerful fiscal-military device. It helped turn local landed power into imperial service.
 
-**How to improve this answer:** For “M3. Compare Vijayanagara’s amaram–nayaka arrangement with Mahmud Gawan’s Bahmani reforms.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+At the same time, the system limited complete centralisation. Because military and revenue authority were embedded in intermediaries, hereditary tendencies and local bases of support increased the bargaining power of nayakas. In moments of succession struggle or post-war stress, these intermediaries could act with greater autonomy. This is why historians describe Vijayanagara less as a uniformly centralised bureaucracy and more as a negotiated political order.
 
-#### M4. Discuss Krishnadeva Raya’s statecraft through the relationship between warfare, culture, water and maritime diplomacy. (15 marks, 200 words)
+The safest conclusion is therefore balanced. Amaram strengthened the empire by linking revenue and service, but it also made the centre dependent on regional holders of coercive power. Later references to ayagar-type local offices may illuminate village functions, yet they should not be projected uniformly across every dynasty and region. Thus imperial strength and structural limit were built into the same arrangement.
 
-**Demand decoded:** integrate four dimensions without turning them into an achievement list.
+**Why this earns marks:** It answers both sides of the directive by showing amaram as a revenue-for-service strength and hereditary nayaka power as the corresponding limit on full centralisation, then closes with a careful ayagar caution.
 
-**Model solution**
+**Demand decoding:** Because the question says "both," a one-sided definition of nayankara/amaram is insufficient; the answer must evaluate the same arrangement as a source of expansion and as a brake on uniform central control.
 
-**Claim.** Krishnadeva Raya’s reign was a high point of imperial assertion because campaigns, provisioning, patronage and coastal diplomacy reinforced one another.
+**Executable answer/compression plan:** 250 words = define nayankara/amaram in 1-2 sentences, then one body block on mobilisation and revenue advantages, one on hereditary/local bargaining power and crisis autonomy, then a balanced verdict with a brief caution against equating amaram with iqta or ayagar.
 
-**Named evidence → analysis.** The Tuluva ruler, dated 1509–29 in the repository chronology, restored internal order and defeated rivals, demonstrating military reassertion. The source also associates his reign with tanks and towns: water works and urban investment could support cultivation, provisioning and durable authority. Literary patronage and architectural activity, including the Hampi/Raya Gopura association on the UNESCO page, made sovereignty visible in courtly and sacred landscapes. Portuguese relations were broadly cooperative; the 2024 Bhatkal PYQ’s official answer is Krishnadevaraya, while the exact fort wording must be attributed cautiously to Portuguese testimony. This coastal engagement is intelligible because port access and imported horses affected Deccan strategy.
+**How to improve this answer:** Add one explicit comparison line that amaram was more locally embedded and often more hereditary than a transferable iqta, because that contrast is a likely examiner follow-up.
 
-**Qualification and verdict.** Courtly cultural evidence does not prove universal prosperity, and campaign success did not erase nayaka or factional constraints. Still, the combination of force, infrastructure, legitimacy and diplomacy explains why the reign is more than a list of victories.
+#### Original Mains 4 — 15 marks (250 words)
 
-**Why this earns marks:** It obeys the multidimensional demand, names evidence in each dimension and handles the Bhatkal source boundary accurately.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “M4. Discuss Krishnadeva Raya’s statecraft through the relationship between warfare,…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** Discuss Mahmud Gawan's importance in Bahmani history.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Model answer:** Mahmud Gawan was important because he represented the Bahmani attempt to convert a powerful but faction-ridden sultanate into a more disciplined territorial state. As wakil-i-sultanat, he combined expansion, reform and cultural patronage.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+On the military and territorial side, his period is associated with successful western coastal expansion, including the capture of places such as Goa and Dabhol from rival powers. This mattered because coastal access strengthened the kingdom's commercial and strategic position.
 
-**How to improve this answer:** For “M4. Discuss Krishnadeva Raya’s statecraft through the relationship between warfare,…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+More significant analytically were his administrative reforms. Gawan is linked with dividing the kingdom into eight tarafs, supervising fort command, enlarging khalisa lands and pressing for clearer fiscal obligations. These measures aimed to reduce the autonomy of provincial nobles and improve the crown's control over revenue and military resources. In this sense, he addressed the same fiscal-military problem that Vijayanagara handled differently through nayakas and amaram.
 
-#### M5. Evaluate foreign travellers as sources for Vijayanagara’s urban and social history. (15 marks, 200 words)
+He was also a major patron, with the Bidar madrasa standing as a visible expression of learning and cosmopolitan court culture.
 
-**Demand decoded:** assess utility and limitation with named observers and types of claim.
+Yet his career also shows the limits of reform. Hostile factional politics, especially conflict between Deccani and Afaqi groupings, culminated in his execution on a forged charge. Therefore Gawan's significance lies not only in reform but also in demonstrating how centralising ambition could be undone by a fractured elite coalition.
 
-**Model solution**
+**Why this earns marks:** The answer names Gawan's office, coastal expansion, eight-taraf and khalisa reforms, Bidar madrasa patronage and faction-driven execution, so his importance appears as both achievement and limit rather than as biography alone.
 
-**Claim.** Travellers are indispensable for the texture of Vijayanagara’s city and courtly life, but their observations require genre-aware cross-checking with material evidence and local sources.
+**Demand decoding:** "Discuss importance" requires a judgement on why Gawan mattered to Bahmani history-military, administrative, intellectual and political-not just a narrative of his life.
 
-**Named evidence → analysis.** Abdur Razzaq’s image of seven enclosures, bazaars, canals and wealth helps reconstruct an urban system rather than a palace alone. Nicolo Conti adds to the perception of scale and prosperity. Paes, Barbosa and Nuniz help pose questions about markets, court culture and social visibility. The 2021 Nuniz PYQ’s list of women’s expertise—wrestling, astrology, accounting and soothsaying—can indicate specialised roles in an observed elite or urban milieu. UNESCO’s Hampi description of forts, royal and sacred complexes, bazaars, water structures and suburban settlements provides a material cross-check for an integrated capital landscape.
+**Executable answer/compression plan:** 250 words = thesis on Gawan as centralising minister, one block on territorial/coastal significance, one on reforms (tarafs, forts, khalisa, fiscal control), one on patronage, then a concluding block on Deccani-Afaqi faction and the limits of reform.
 
-**Qualification.** A traveller may exaggerate, misunderstand terms, privilege spectacular spaces or lack access to ordinary households. The women list is not a social census, and “wealth” is not an exact revenue estimate. The repository also preserves an author-attribution discrepancy, so it must not be concealed.
+**How to improve this answer:** State the year 1482 and the title wakil-i-sultanat in the opening sentence so the answer signals factual precision immediately.
 
-**Verdict.** Used comparatively and with limits, travellers turn Hampi from a monument list into a social-urban question; used alone, they invite overclaim.
+#### Original Mains 5 — 20 marks (250 words)
 
-**Why this earns marks:** It evaluates evidence rather than merely quoting it, names multiple sources and turns each limitation into a method point.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “M5. Evaluate foreign travellers as sources for Vijayanagara’s urban and social history. (15…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** 'The Vijayanagara-Bahmani relationship cannot be understood only through warfare.' Examine.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Model answer:** To understand the Vijayanagara-Bahmani relationship only as warfare is to miss the deeper political economy of the Deccan. Conflict was undoubtedly frequent, especially in the Raichur doab and along strategic corridors. Yet war was only one part of a larger relationship shaped by trade, military borrowing, diplomacy and shared regional constraints.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+The repeated contest over the Raichur doab shows why warfare mattered: fertile land, forts and frontier prestige made the zone militarily and fiscally valuable. But the same rivalry extended to access to ports, horse imports and customs-rich coastal routes. That means both states operated within an interlinked Deccan system where commerce and war reinforced one another.
 
-**How to improve this answer:** For “M5. Evaluate foreign travellers as sources for Vijayanagara’s urban and social history. (15…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+The relationship also involved adaptation across political boundaries. Deva Raya II's employment of Muslim cavalrymen and archers demonstrates that effective military practices circulated despite hostility. Likewise, Portuguese testimony on Bhatkal and horse-trade connections indicates pragmatic dealings on the coast. Such evidence weakens any simplistic “Hindu empire versus Muslim kingdom” reading.
 
-#### M6. Assess Mahmud Gawan as a centraliser whose reforms were constrained by factional politics. (20 marks, 250 words)
+Cultural and material interaction further complicates the picture. Monuments, court languages, educational institutions and urban practices reveal coexistence of competition with exchange. Even architecture must be read as part of a shared Deccan field of techniques and patronage, though not as evidence of perfect harmony.
 
-**Demand decoded:** give a balanced judgement on reform, institutional mechanism and political failure.
+Therefore the most convincing interpretation is that warfare was central but not sufficient. Vijayanagara and the Bahmanis were adversaries within a connected fiscal-military world that also generated borrowing, trade and cultural interaction.
 
-**Model solution**
+**Why this earns marks:** It breaks the prompt into warfare, trade, borrowing and cultural interaction, then supports each layer with named evidence such as the Raichur doab, horse ports, Deva Raya II and Portuguese testimony.
 
-**Claim.** Mahmud Gawan was a major centralising statesman because he tried to align territory, revenue, nobles and forts with the sultanate; his fate shows that reform without a stable elite coalition remains fragile.
+**Demand decoding:** To "Examine" this claim you must challenge reductionism without denying that warfare was central. The answer therefore needs both the military core and the extra dimensions that made the relationship wider than battle alone.
 
-**Named evidence → analysis.** As wakil-i-sultanat from 1463 to 1482, Gawan expanded Bahmani influence towards Goa and Dabhol, connecting frontier policy with trade and horse circuits. His division into eight tarafs sought clearer provincial organisation. Fixed salaries and troop obligations aimed to prevent commanders from treating state resources as private entitlement. Khalisa land reserved a fiscal base for the sultan; land-measurement effort and tighter fort-governor control further targeted provincial autonomy. The three-storeyed madrasa at Bidar, with its scholarly function and coloured tiles, illustrates a court that combined administration, expansion and cultural patronage.
+**Executable answer/compression plan:** 250 words = opening thesis, one block on why warfare mattered (Raichur/frontier value), one on trade-horse-port logic, one on borrowing/diplomacy/cultural interaction, then a closing verdict that ties them into one connected Deccan system.
 
-**Qualification.** Centralisation was neither complete nor socially neutral. It depended on cooperation from competing Deccani and Afaqi/gharib elite networks. These labels should be read as factional-political categories, not permanent ethnic blocs. Gawan’s execution in 1482, amid factional hostility, removed a reforming minister and accelerated disintegration, but no single event alone explains the later successor states.
+**How to improve this answer:** Add one named Bahmani-side example-such as Gawan's coastal expansion towards Goa and Dabhol or the Deccani-Afaqi political setting-so the evidence is not weighted too heavily towards Vijayanagara.
 
-**Verdict.** Gawan’s achievement was to make central control more imaginable and administratively practicable; his failure was structural as much as personal. The subsequent Ahmadnagar, Bijapur, Golconda, Berar and Bidar formation demonstrates the cost of an unresolved coalition problem.
+#### Original Mains 6 — 20 marks (250 words)
 
-**Why this earns marks:** It gives seven named evidence units, explains how each reform worked, rejects essentialism and reaches a calibrated evaluation.
 
-**Demand decoding:** The directive **assess** requires a direct position on “M6. Assess Mahmud Gawan as a centraliser whose reforms were constrained by factional…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** Assess the significance of Talikota (1565) while rejecting the myth that Vijayanagara ended instantly after the battle.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Model answer:** Talikota was one of the most consequential turning points in medieval South Indian history because it shattered the metropolitan concentration of Vijayanagara power, yet it did not instantly erase the polity or all its successor formations.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+Its immediate significance was enormous. The Deccan sultanate coalition defeated the forces associated with Rama Raya, who was captured and killed. Hampi, the great capital, was then devastated. Since the city had concentrated ritual authority, market exchange, monumental legitimacy and political symbolism, its destruction affected the entire imperial structure. Talikota was therefore not just a battlefield defeat but a systemic rupture.
 
-**How to improve this answer:** For “M6. Assess Mahmud Gawan as a centraliser whose reforms were constrained by factional…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+However, the standard textbook line that “the empire ended in 1565” is inaccurate. The Aravidu line continued from Penukonda and later Chandragiri, while regional nayaka powers operated with greater autonomy. Political forms, claims to legitimacy and elements of imperial continuity survived beyond the sack of Hampi.
 
-#### M7. “Talikota was a transformation of the Vijayanagara political order, not a simple end-date.” Discuss. (20 marks, 250 words)
+The balanced judgement is thus twofold. First, Talikota decisively ended Vijayanagara's phase as the dominant Hampi-centred great power of the Deccan. Second, it did not produce instant civilisational extinction. Post-1565 history is better read as altered continuity: new centres emerged, old intermediaries gained room to manoeuvre, and the successor sultanates of Ahmadnagar, Bijapur, Golconda, Bidar and Berar shaped the next Deccan order. Talikota matters most when catastrophe and continuity are held together.
 
-**Demand decoded:** assess a turning point, preserve destruction and demonstrate continuity.
+**Why this earns marks:** It does the two tasks embedded in the question: Talikota is treated as a systemic rupture through Rama Raya's death and Hampi's sack, but the answer then corrects the myth of instant extinction by naming Aravidu, Penukonda and Chandragiri.
 
-**Model solution**
+**Demand decoding:** "Assess the significance ... while rejecting the myth" requires a two-part judgement: explain why 1565 mattered enormously and then explicitly disprove the textbook shorthand that Vijayanagara simply ended that same day.
 
-**Claim.** Talikota/Rakshasa-Tangadi/Bannihatti in 1565 was catastrophic because it destroyed the capital’s great-power infrastructure, but it did not erase every dynasty, regional network or service polity associated with Vijayanagara.
+**Executable answer/compression plan:** 250 words = opening thesis on rupture without total erasure, one block on battlefield outcome and metropolitan devastation, one block on post-1565 continuity under Aravidu and new centres, then a verdict distinguishing loss of Hampi-centred primacy from complete disappearance.
 
-**Named evidence → analysis.** A coalition of Deccan Sultanates defeated Vijayanagara and Rama Raya was executed. The capital was looted; UNESCO’s Hampi property page records massive destruction of its physical fabric after the battle. This mattered because Hampi was not merely a royal residence: its enclosures, markets, sacred complexes, water works and landscape coordination concentrated defence, provisioning and legitimacy. The loss therefore weakened imperial capacity far beyond a battle casualty count.
-
-**Continuity and qualification.** The Aravidu dynasty persisted with reduced territory, and nayaka formations retained or expanded regional importance. This shows that capital destruction is not the same as social or political disappearance. Conversely, persistence must not minimise the rupture: the great urban centre and imperial balance were profoundly altered. Rama Raya’s diplomatic balancing and the coalition context are explanatory factors, but they should not be made a single-cause story.
-
-**Verdict.** Talikota marks the end of Vijayanagara’s metropolitan and great-power phase, while opening a reconfigured southern political landscape. It is best written as a transformation in the relationship between centre, regions and successor powers.
-
-**Why this earns marks:** It directly tests the quotation, supplies material, dynastic and regional evidence, and avoids both instant-extinction and minimisation traps.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M7. “Talikota was a transformation of the Vijayanagara political order, not a simple end-…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M7. “Talikota was a transformation of the Vijayanagara political order, not a simple end-…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### M8. Compare the political legacies of Vijayanagara and the Bahmani kingdom for later Deccan history. (20 marks, 250 words)
-
-**Demand decoded:** compare selective legacies and connect them to a later field without retrojection.
-
-**Model solution**
-
-**Claim.** Vijayanagara and the Bahmani kingdom left distinct but intersecting legacies: both developed fiscal-military responses to Deccan geography, and their fragmentation produced the competitive environment of later Sultanate and Mughal-Deccan politics.
-
-**Named evidence → analysis.** Vijayanagara’s Hampi centre coordinated water, markets, sacred authority and defence; Deva Raya I’s irrigation and Deva Raya II’s cavalry adaptation show environmental and military responses. The amaram–nayaka arrangement converted territorial revenue into service while leaving enduring local power. Bahmani statecraft under Gawan attempted a different route: eight tarafs, khalisa, fixed obligations and fort control sought to make provincial authority more centralised. Its coastal interest in Goa and Dabhol reflects the shared importance of trade and horses. Bahmani factional conflict and Gawan’s execution contributed to the emergence of Ahmadnagar, Bijapur, Golconda, Berar and Bidar. Vijayanagara’s Talikota defeat shattered Hampi’s great-power role, yet Aravidu and nayaka continuity remained.
-
-**Qualification.** Later states did not mechanically inherit a uniform earlier system. Institutions, alliances and territorial scales changed, and Mughal policies should not be projected backward. What persisted were strategic problems—ports, cavalry, fortified routes, elite service and regional legitimacy.
-
-**Verdict.** The enduring legacy was a plural Deccan political field: successor Sultanates, regional nayaka power and residual imperial claims shaped the terrain that later Mughal expansion had to negotiate, confront and incorporate.
-
-**Why this earns marks:** It compares, supplies eight named examples, maintains chronology and produces a forward-looking but non-teleological conclusion.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M8. Compare the political legacies of Vijayanagara and the Bahmani kingdom for later Deccan…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M8. Compare the political legacies of Vijayanagara and the Bahmani kingdom for later Deccan…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Move Penukonda and Chandragiri into the main body rather than leaving them implicit in the conclusion, so the continuity evidence appears as concrete proof rather than as a final assertion.

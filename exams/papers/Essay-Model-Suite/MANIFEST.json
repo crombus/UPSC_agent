@@ -1,0 +1,44 @@
+{
+  "suite": "Essay-Model-Suite",
+  "generated_on": "2026-10-04",
+  "source_corpus": "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md",
+  "counts": {
+    "pyq_prompt_rows": 100,
+    "pyq_v1_rows": 64,
+    "pyq_v2_hold_rows": 36,
+    "pyq_model_answers": 6,
+    "new_topic_prompts": 6,
+    "new_topic_model_answers": 6,
+    "answer_target_words": "1000-1200"
+  },
+  "answer_word_counts": {
+    "pyq": {
+      "PYQ-01": 1069,
+      "PYQ-02": 1033,
+      "PYQ-03": 1037,
+      "PYQ-04": 1028,
+      "PYQ-05": 1007,
+      "PYQ-06": 1000
+    },
+    "new": {
+      "NEW-01": 1020,
+      "NEW-02": 1002,
+      "NEW-03": 1029,
+      "NEW-04": 1000,
+      "NEW-05": 1010,
+      "NEW-06": 1001
+    }
+  },
+  "files": {
+    "pyq_prompt_bank_md": "exams\\papers\\Essay-Model-Suite\\Essay_PYQ-Prompt-Bank.md",
+    "new_prompt_bank_md": "exams\\papers\\Essay-Model-Suite\\Essay_New-Topic-Practice-Bank.md",
+    "pyq_answers_md": "exams\\answer-keys\\Essay-Model-Suite\\Essay_PYQ-Model-Answers.md",
+    "new_answers_md": "exams\\answer-keys\\Essay-Model-Suite\\Essay_New-Topic-Model-Answers.md",
+    "pyq_prompt_bank_pdf": "exams\\papers\\Essay-Model-Suite\\Essay_PYQ-Prompt-Bank_QP.pdf",
+    "new_prompt_bank_pdf": "exams\\papers\\Essay-Model-Suite\\Essay_New-Topic-Practice-Bank_QP.pdf",
+    "pyq_answers_pdf": "exams\\answer-keys\\Essay-Model-Suite\\Essay_PYQ-Model-Answers_AK.pdf",
+    "new_answers_pdf": "exams\\answer-keys\\Essay-Model-Suite\\Essay_New-Topic-Model-Answers_AK.pdf"
+  },
+  "rights_boundary": "No full official or coaching essay is reproduced; V2 exact wording remains on hold.",
+  "approved": false
+}

@@ -1,0 +1,244 @@
+{
+  "generated": "2026-10-04",
+  "source_policy": "Original synthesis; no exact PYQ reproduction.",
+  "special_case": "CSAT-Hard-Suite",
+  "difficulty": {
+    "label": "Very Hard",
+    "level": "CSAT-Hard-Suite / Very Hard",
+    "rubric": {
+      "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+      "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+      "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+      "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+      "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+    }
+  },
+  "revision_folders": [
+    {
+      "name": "Revision-01-Comprehension-and-Decision",
+      "questions": 40,
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-01-Comprehension-and-Decision",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-01-Comprehension-and-Decision\\Revision-01-Comprehension-and-Decision_QP.pdf",
+      "key_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-01-Comprehension-and-Decision\\Revision-01-Comprehension-and-Decision_AK.pdf",
+      "solutions_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-01-Comprehension-and-Decision\\Revision-01-Comprehension-and-Decision_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-01-Comprehension-and-Decision\\Revision-01-Comprehension-and-Decision_QP_data.py",
+      "key_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-01-Comprehension-and-Decision\\Revision-01-Comprehension-and-Decision_AK_data.json"
+    },
+    {
+      "name": "Revision-02-Numeracy-and-DI",
+      "questions": 40,
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-02-Numeracy-and-DI",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-02-Numeracy-and-DI\\Revision-02-Numeracy-and-DI_QP.pdf",
+      "key_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-02-Numeracy-and-DI\\Revision-02-Numeracy-and-DI_AK.pdf",
+      "solutions_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-02-Numeracy-and-DI\\Revision-02-Numeracy-and-DI_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-02-Numeracy-and-DI\\Revision-02-Numeracy-and-DI_QP_data.py",
+      "key_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-02-Numeracy-and-DI\\Revision-02-Numeracy-and-DI_AK_data.json"
+    },
+    {
+      "name": "Revision-03-Logical-and-Analytical",
+      "questions": 40,
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-03-Logical-and-Analytical",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-03-Logical-and-Analytical\\Revision-03-Logical-and-Analytical_QP.pdf",
+      "key_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-03-Logical-and-Analytical\\Revision-03-Logical-and-Analytical_AK.pdf",
+      "solutions_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-03-Logical-and-Analytical\\Revision-03-Logical-and-Analytical_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-03-Logical-and-Analytical\\Revision-03-Logical-and-Analytical_QP_data.py",
+      "key_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-03-Logical-and-Analytical\\Revision-03-Logical-and-Analytical_AK_data.json"
+    },
+    {
+      "name": "Revision-04-Communication-and-Problem-Solving",
+      "questions": 40,
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-04-Communication-and-Problem-Solving",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-04-Communication-and-Problem-Solving\\Revision-04-Communication-and-Problem-Solving_QP.pdf",
+      "key_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-04-Communication-and-Problem-Solving\\Revision-04-Communication-and-Problem-Solving_AK.pdf",
+      "solutions_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-04-Communication-and-Problem-Solving\\Revision-04-Communication-and-Problem-Solving_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-04-Communication-and-Problem-Solving\\Revision-04-Communication-and-Problem-Solving_QP_data.py",
+      "key_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-04-Communication-and-Problem-Solving\\Revision-04-Communication-and-Problem-Solving_AK_data.json"
+    },
+    {
+      "name": "Revision-05-Mixed-Hard-Revision",
+      "questions": 40,
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-05-Mixed-Hard-Revision",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-05-Mixed-Hard-Revision\\Revision-05-Mixed-Hard-Revision_QP.pdf",
+      "key_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-05-Mixed-Hard-Revision\\Revision-05-Mixed-Hard-Revision_AK.pdf",
+      "solutions_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-05-Mixed-Hard-Revision\\Revision-05-Mixed-Hard-Revision_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-05-Mixed-Hard-Revision\\Revision-05-Mixed-Hard-Revision_QP_data.py",
+      "key_data_path": "exams\\papers\\CSAT-Hard-Suite\\revision-folders\\Revision-05-Mixed-Hard-Revision\\Revision-05-Mixed-Hard-Revision_AK_data.json"
+    }
+  ],
+  "papers": [
+    {
+      "name": "Paper-01-CSAT-Hard-120min",
+      "questions": 80,
+      "time": "120 minutes",
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "paper_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-01-CSAT-Hard-120min",
+      "key_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-01-CSAT-Hard-120min",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-01-CSAT-Hard-120min\\Paper-01-CSAT-Hard-120min_QP.pdf",
+      "key_pdf_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-01-CSAT-Hard-120min\\Paper-01-CSAT-Hard-120min_AK.pdf",
+      "solutions_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-01-CSAT-Hard-120min\\Paper-01-CSAT-Hard-120min_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-01-CSAT-Hard-120min\\Paper-01-CSAT-Hard-120min_QP_data.py",
+      "key_data_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-01-CSAT-Hard-120min\\Paper-01-CSAT-Hard-120min_AK_data.json"
+    },
+    {
+      "name": "Paper-02-CSAT-Hard-120min",
+      "questions": 80,
+      "time": "120 minutes",
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "paper_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-02-CSAT-Hard-120min",
+      "key_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-02-CSAT-Hard-120min",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-02-CSAT-Hard-120min\\Paper-02-CSAT-Hard-120min_QP.pdf",
+      "key_pdf_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-02-CSAT-Hard-120min\\Paper-02-CSAT-Hard-120min_AK.pdf",
+      "solutions_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-02-CSAT-Hard-120min\\Paper-02-CSAT-Hard-120min_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-02-CSAT-Hard-120min\\Paper-02-CSAT-Hard-120min_QP_data.py",
+      "key_data_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-02-CSAT-Hard-120min\\Paper-02-CSAT-Hard-120min_AK_data.json"
+    },
+    {
+      "name": "Paper-03-CSAT-Hard-120min",
+      "questions": 80,
+      "time": "120 minutes",
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "paper_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-03-CSAT-Hard-120min",
+      "key_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-03-CSAT-Hard-120min",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-03-CSAT-Hard-120min\\Paper-03-CSAT-Hard-120min_QP.pdf",
+      "key_pdf_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-03-CSAT-Hard-120min\\Paper-03-CSAT-Hard-120min_AK.pdf",
+      "solutions_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-03-CSAT-Hard-120min\\Paper-03-CSAT-Hard-120min_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-03-CSAT-Hard-120min\\Paper-03-CSAT-Hard-120min_QP_data.py",
+      "key_data_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-03-CSAT-Hard-120min\\Paper-03-CSAT-Hard-120min_AK_data.json"
+    },
+    {
+      "name": "Paper-04-CSAT-Hard-120min",
+      "questions": 80,
+      "time": "120 minutes",
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "paper_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-04-CSAT-Hard-120min",
+      "key_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-04-CSAT-Hard-120min",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-04-CSAT-Hard-120min\\Paper-04-CSAT-Hard-120min_QP.pdf",
+      "key_pdf_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-04-CSAT-Hard-120min\\Paper-04-CSAT-Hard-120min_AK.pdf",
+      "solutions_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-04-CSAT-Hard-120min\\Paper-04-CSAT-Hard-120min_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-04-CSAT-Hard-120min\\Paper-04-CSAT-Hard-120min_QP_data.py",
+      "key_data_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-04-CSAT-Hard-120min\\Paper-04-CSAT-Hard-120min_AK_data.json"
+    },
+    {
+      "name": "Paper-05-CSAT-Hard-120min",
+      "questions": 80,
+      "time": "120 minutes",
+      "difficulty": {
+        "label": "Very Hard",
+        "level": "CSAT-Hard-Suite / Very Hard",
+        "rubric": {
+          "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+          "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+          "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+          "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+          "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+        }
+      },
+      "paper_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-05-CSAT-Hard-120min",
+      "key_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-05-CSAT-Hard-120min",
+      "qp_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-05-CSAT-Hard-120min\\Paper-05-CSAT-Hard-120min_QP.pdf",
+      "key_pdf_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-05-CSAT-Hard-120min\\Paper-05-CSAT-Hard-120min_AK.pdf",
+      "solutions_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-05-CSAT-Hard-120min\\Paper-05-CSAT-Hard-120min_Solutions.md",
+      "source_data_path": "exams\\papers\\CSAT-Hard-Suite\\complete-papers\\Paper-05-CSAT-Hard-120min\\Paper-05-CSAT-Hard-120min_QP_data.py",
+      "key_data_path": "exams\\answer-keys\\CSAT-Hard-Suite\\Paper-05-CSAT-Hard-120min\\Paper-05-CSAT-Hard-120min_AK_data.json"
+    }
+  ],
+  "readme_path": "exams\\papers\\CSAT-Hard-Suite\\README.md",
+  "validation_report_path": "exams\\papers\\CSAT-Hard-Suite\\VALIDATION-REPORT.json",
+  "strict_audit_path": "exams\\papers\\CSAT-Hard-Suite\\SPECIAL-CASE-AUDIT.json",
+  "strict_audit_report_path": "exams\\papers\\CSAT-Hard-Suite\\SPECIAL-CASE-AUDIT.md"
+}

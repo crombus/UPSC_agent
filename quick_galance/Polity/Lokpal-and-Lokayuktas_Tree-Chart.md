@@ -111,9 +111,13 @@ LOKPAL AND LOKAYUKTAS
 
 ## PYQ route
 
-- **2025 Prelims GS-I, Set A, Q98:** test section 1(3), Chairperson eligibility, minimum age 45 and PM jurisdiction. Official local Set-A key: **A (III only)**.
-- **Mains route:** statutory status -> composition/independence -> qualified jurisdiction -> complaint-to-court process -> institutional boundaries -> federal variation -> measured reform.
+- **2025 Prelims GS-I, Set A, Q98:** test section 1(3), Chairperson eligibility, minimum age 45 and PM
+   jurisdiction. Official local Set-A key: **A (III only)**.
+- **Mains route:** statutory status -> composition/independence -> qualified jurisdiction -> complaint-to-court
+   process -> institutional boundaries -> federal variation -> measured reform.
 
 ## Final one-line recall
 
-> Lokpal is a broad but bounded statutory ombudsman: it routes and supervises anti-corruption process, while agencies investigate, prosecutors prosecute, Special Courts adjudicate and State laws determine Lokayukta design.
+> Lokpal is a broad but bounded statutory ombudsman: it routes and supervises anti-corruption process, while
+   agencies investigate, prosecutors prosecute, Special Courts adjudicate and State laws determine Lokayukta
+   design.

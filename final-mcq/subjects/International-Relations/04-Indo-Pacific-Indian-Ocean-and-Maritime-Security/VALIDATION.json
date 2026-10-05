@@ -1,0 +1,45 @@
+{
+  "topic": "international-relations-04",
+  "audit_date": "2026-10-04",
+  "banks": {
+    "1": {
+      "questions": 54,
+      "answers": 54,
+      "coverage_rows": 54,
+      "key_counts": {
+        "A": 10,
+        "D": 11,
+        "C": 21,
+        "B": 12
+      },
+      "contiguous": true,
+      "answer_free": true
+    },
+    "2": {
+      "questions": 54,
+      "answers": 54,
+      "coverage_rows": 54,
+      "key_counts": {
+        "C": 15,
+        "D": 11,
+        "B": 13,
+        "A": 15
+      },
+      "contiguous": true,
+      "answer_free": true
+    },
+    "3": {
+      "questions": 54,
+      "answers": 54,
+      "coverage_rows": 54,
+      "key_counts": {
+        "D": 17,
+        "B": 15,
+        "A": 13,
+        "C": 9
+      },
+      "contiguous": true,
+      "answer_free": true
+    }
+  }
+}

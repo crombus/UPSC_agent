@@ -1,0 +1,60 @@
+{
+  "topic": "international-relations-03",
+  "title": "India, China, Major Powers and Resilient Supply Chains",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "question_count_per_revision": {
+    "1": 52,
+    "2": 51,
+    "3": 43
+  },
+  "total_questions": 146,
+  "revisions": {
+    "1": {
+      "questions": 52,
+      "answers": 52,
+      "coverage_rows": 52,
+      "option_balance": "pass",
+      "hostile_audit": "pass",
+      "key_counts": {
+        "A": 18,
+        "C": 9,
+        "D": 14,
+        "B": 11
+      }
+    },
+    "2": {
+      "questions": 51,
+      "answers": 51,
+      "coverage_rows": 51,
+      "option_balance": "pass",
+      "hostile_audit": "pass",
+      "key_counts": {
+        "C": 22,
+        "B": 12,
+        "D": 10,
+        "A": 7
+      }
+    },
+    "3": {
+      "questions": 43,
+      "answers": 43,
+      "coverage_rows": 43,
+      "option_balance": "pass",
+      "hostile_audit": "pass",
+      "key_counts": {
+        "B": 11,
+        "C": 9,
+        "D": 14,
+        "A": 9
+      }
+    }
+  },
+  "exact_pyqs": 0,
+  "rights_holds": [
+    "2019 Prelims objective key/provenance and reproduction permission",
+    "2026 India-Germany objective key remains provisional; no answer inferred",
+    "2019/2021/2024 Mains wording used only as neutral ownership/demand context"
+  ],
+  "next_pending_catalogue_topic": "Indo-Pacific, Indian Ocean and Maritime Security"
+}

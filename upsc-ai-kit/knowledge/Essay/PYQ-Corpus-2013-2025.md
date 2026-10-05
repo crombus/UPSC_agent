@@ -129,7 +129,7 @@ by attributing any other prompt.
 
 | Label | Prompt (V1) | Route |
 |---|---|---|
-| 2020-A1 | Life is a long journey between human being and being humane. | Q |
+| 2020-A1 | Life is long journey between human being and being humane | Q |
 | 2020-A2 | Mindful manifesto is the catalyst to a tranquil self. | Q |
 | 2020-A3 | Ships do not sink because of water around them, ships sink because of water that gets into them. | Q |
 | 2020-A4 | Simplicity is the ultimate sophistication. | Q |

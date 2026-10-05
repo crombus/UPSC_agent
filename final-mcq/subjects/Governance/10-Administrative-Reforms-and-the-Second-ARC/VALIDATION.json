@@ -1,0 +1,27 @@
+{
+  "topic": "10",
+  "title": "Administrative Reforms and the Second ARC",
+  "status": "complete for original banks with explicit holds",
+  "counts": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45,
+    "total": 135
+  },
+  "owner_focuses": 45,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "2021 objective key provenance",
+    "exact PYQ reproduction rights",
+    "Mains routing",
+    "recommendation-specific implementation status",
+    "unsupported institutional fields"
+  ],
+  "audits": {
+    "structural": "PASS",
+    "option_balance": "PASS",
+    "source_routing": "PASS",
+    "institutional_fact": "PASS",
+    "hostile": "PASS"
+  }
+}

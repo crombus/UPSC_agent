@@ -13,25 +13,25 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 6 |
+| Original MCQs — 24 core, 8 remedial, 1 targeted extension | 33 |
+| Question-specific option explanations | 132 |
+| Unique examiner traps | 33 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 7 |
 | Supporting routed parts that name Hegel but are owned elsewhere | 3 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Original solved Mains models — including an added Absolute-Spirit question | 7 |
 
 ### How to use it
 
 1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected.
 2. Attempt the eight remedial drills only after the core set; each targets a confusion that recurs in scripts every year.
 3. Write each PYQ under time before reading its solution, and check your script against the demand-decoding table rather than against the model answer's wording.
-4. Finish with the six original Mains models, two at each mark value, to test the same doctrine at three different lengths.
+4. Finish with the seven original Mains models, including the additional art–religion–philosophy problem under-tested by the PYQs.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+### 33 original MCQs — 24 core diagnostics, 8 remedial drills and 1 targeted 2026 extension
 
-**Answer placement:** each correct option was fixed independently, so the key sequence is unpatterned rather than rotated. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Dialectical Method; Absolute Idealism* — together with the immanent critique of Kant's residual oppositions, determinate negation, mediation, contradiction and sublation, the T-A-S provenance, Being–Nothing–Becoming, the concrete universal, identity-in-difference and the three moments of the Concept, the bad and true infinite, the Logic–Nature–Spirit architecture, the three forms of Spirit and ethical life, substance-as-subject, the actuality/existence discrimination, the three prongs against the thing in itself, the mediated reality of the phenomenal world, lordship and bondage, the Stoicism–Scepticism–Unhappy Consciousness sequence, and the Logic-to-Nature transition with its section numbers. The eight remedial drills attack the specific confusions that cost marks every year.
 
@@ -39,23 +39,10 @@ variant: learner-v2
 
 Which one of the following best states the form of Hegel's objection to Kant's thing in itself?
 
-A. Hegel appeals to an independently established metaphysics of the Absolute and shows that Kant's boundary conflicts with it.
-
-B. Hegel claims a form of intellectual intuition that Kant denied, and uses it to inspect what lies beyond appearances.
-
-C. Hegel argues that Kant's boundary is refuted by the findings of the natural sciences available in Hegel's own lifetime.
-
-D. Hegel uses a premise Kant already granted, that the limit is determinately drawn, and shows it cannot stay external.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: an external metaphysical standard is precisely what is unavailable after the critical philosophy, and using one would abandon immanent critique.
-- **B:** Incorrect: Hegel never claims acquaintance with a hidden object, and an appeal to intellectual intuition would concede the two-world picture he is attacking.
-- **C:** Incorrect: the argument is conceptual, not empirical, and no scientific result is invoked at any stage of it.
-- **D:** Correct: the premise that the limit is *determinately* known is Kant's own, which is why the collapse is internal rather than imported.
-
-**Examiner trap 1:** Presenting Hegel as attacking Kant from an already-assumed Absolute inverts the argument. The Absolute is what the limit argument opens space for, never the premise it starts from.
+A. Hegel uses a premise Kant already granted, that the limit is determinately drawn, and shows it cannot stay external.
+B. Hegel appeals to an independently established metaphysics of the Absolute and shows that Kant's boundary conflicts with it.
+C. Hegel claims a form of intellectual intuition that Kant denied, and uses it to inspect what lies beyond appearances.
+D. Hegel argues that Kant's boundary is refuted by the findings of the natural sciences available in Hegel's own lifetime.
 
 #### MCQ 2. The three prongs, and what each does
 
@@ -68,110 +55,45 @@ Consider the following statements about Hegel's critique of the phenomena/noumen
 Which of the statements given above is/are correct?
 
 A. 1 and 3 only
-
 B. 1 and 2 only
-
 C. 2 and 3 only
-
 D. 1, 2 and 3
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: it preserves the relational-limit prong but attaches the positive-knowledge claim, which converts Hegel's denial of a remainder into an assertion about a hidden object.
-- **B:** Correct: the relational limit and the empty abstraction are two of the three prongs; the third is that a fixed dualism cannot explain the relation it asserts.
-- **C:** Incorrect: statement 2 is accurate, but pairing it with statement 3 leaves Hegel claiming exactly the acquaintance he denies is needed.
-- **D:** Incorrect: statements 1 and 2 are correct, so including statement 3 spoils an otherwise accurate set.
-
-**Examiner trap 2:** "Hegel knows the thing in itself" and "Hegel denies there is a permanently external remainder" are different claims. Only the second is his.
 
 #### MCQ 3. What makes a negation *determinate*
 
 Which one of the following is **correct** about determinate negation (*bestimmte Negation*)?
 
-A. It is the negation of a specific content, so the successor must answer the precise defect that was disclosed.
-
-B. It is the negation of a proposition by its contradictory, yielding whatever remains compatible with the denial.
-
-C. It is the refusal of the whole preceding system, so that thought may begin again without presuppositions.
-
-D. It is the negation of experience by thought, so that the resulting category owes nothing to intuition.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: because the negation is of *this* content, what emerges is fixed by what failed, which is what stops the sequence from being arbitrary.
-- **B:** Incorrect: an indeterminate negation yields only "not-X", that is, everything else whatever, and would make the movement unconstrained.
-- **C:** Incorrect: sublation preserves valid content rather than discarding a preceding position wholesale, so nothing is simply begun again.
-- **D:** Incorrect: this describes a rationalist purification of thought, not Hegel's account of how one determination generates its successor.
-
-**Examiner trap 3:** If you cannot say why the successor had to be *that* one, you have written a triad and not a dialectic. Determinate negation is the word that shows you can.
+A. It is the refusal of the whole preceding system, so that thought may begin again without presuppositions.
+B. It is the negation of experience by thought, so that the resulting category owes nothing to intuition.
+C. It is the negation of a specific content, so the successor must answer the precise defect that was disclosed.
+D. It is the negation of a proposition by its contradictory, yielding whatever remains compatible with the denial.
 
 #### MCQ 4. The three senses of *Aufhebung*
 
 Which one of the following correctly gives the triple sense of sublation and its consequence?
 
-A. Cancel, replace and repeat; the consequence is that each stage is discarded once its successor appears.
-
-B. Deny, abstract and generalise; the consequence is that the result is progressively emptier and more universal.
-
-C. Cancel, preserve and raise; the consequence is that development is cumulative rather than merely destructive.
-
-D. Suspend, postpone and resolve; the consequence is that contradiction is deferred until the system is complete.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: dropping "preserve" turns dialectic into refutation-and-collapse and destroys Hegel's cumulative history of philosophy.
-- **B:** Incorrect: this is the procedure of the abstract universal, which Hegel calls a shadow precisely because it grows emptier as it grows wider.
-- **C:** Correct: *aufheben* cancels the claim to isolated sufficiency, preserves the valid determinate content and raises it into a richer mediated unity, so nothing valid is lost.
-- **D:** Incorrect: contradiction is resolved at each transition by the emergence of a determinate successor, not held in suspense until the end.
-
-**Examiner trap 4:** Reporting only "cancel" is the commonest compression error in a *Aufhebung* answer. All three senses operate simultaneously, and the third is what makes the movement a development.
+A. Suspend, postpone and resolve; the consequence is that contradiction is deferred until the system is complete.
+B. Cancel, replace and repeat; the consequence is that each stage is discarded once its successor appears.
+C. Deny, abstract and generalise; the consequence is that the result is progressively emptier and more universal.
+D. Cancel, preserve and raise; the consequence is that development is cumulative rather than merely destructive.
 
 #### MCQ 5. The status of "thesis–antithesis–synthesis"
 
 Which one of the following statements about the triadic formula is **accurate**?
 
-A. Hegel introduces it in the Preface to the *Phenomenology* as the general schema of his method.
-
-B. It appears in the printed wording of several verified Philosophy Paper I questions between 2018 and 2025.
-
-C. It is not Hegel's general schema; it runs through Fichte and was popularised by Chalybäus in 1837.
-
-D. It is Hegel's own formula for the *Logic* alone, and does not extend to the *Phenomenology*.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the Preface supplies "the True is the Whole" and the substance-and-subject formula, not a three-label schema.
-- **B:** Incorrect: the routed questions ask about "the dialectical method" and never print the formula, which is why the provenance clause is safe to give.
-- **C:** Correct: the triad is a nineteenth-century teaching device commonly traced through Fichte and popularised by Heinrich Moritz Chalybäus in 1837.
-- **D:** Incorrect: it is not Hegel's operative vocabulary in either work; his own terms are moment, determinate negation and sublation.
-
-**Examiner trap 5:** Using the triad is permissible as shorthand only if a provenance clause and a demonstrated transition follow immediately. Using it alone signals a guidebook rather than a text.
+A. It is not Hegel's general schema; it runs through Fichte and was popularised by Chalybäus in 1837.
+B. It is Hegel's own formula for the *Logic* alone, and does not extend to the *Phenomenology*.
+C. Hegel introduces it in the Preface to the *Phenomenology* as the general schema of his method.
+D. It appears in the printed wording of several verified Philosophy Paper I questions between 2018 and 2025.
 
 #### MCQ 6. Contradiction, with its qualifier
 
 Which one of the following is the marks-safe formulation of Hegelian contradiction?
 
-A. The self-opposition of a finite determination that has been absolutised beyond its proper limits.
-
-B. The simultaneous assertion of a proposition and its denial in the same respect and at the same time.
-
-C. A disagreement between two philosophers that the system afterwards reconciles at a higher level.
-
-D. A logical inconsistency from which, by the classical rule, any proposition whatever may be inferred.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: this formulation states the instability of an over-extended finite determination without committing Hegel to a formal inconsistency.
-- **B:** Incorrect: this is exactly the formal-logical reading Hegel's defenders deny, and adopting it invites the *ex falso* objection unanswered.
-- **C:** Incorrect: dialectic is not debate; the tension is internal to a concept, not between two persons holding different views.
-- **D:** Incorrect: this states the objection rather than the doctrine, and Hegel's reply is that his contradiction is not truth-functional.
-
-**Examiner trap 6:** ❓ Whether Hegel also commits himself to genuine ontological contradiction remains contested. Write the qualified formulation and mark the dispute; do not assert either side.
+A. A logical inconsistency from which, by the classical rule, any proposition whatever may be inferred.
+B. The self-opposition of a finite determination that has been absolutised beyond its proper limits.
+C. The simultaneous assertion of a proposition and its denial in the same respect and at the same time.
+D. A disagreement between two philosophers that the system afterwards reconciles at a higher level.
 
 #### MCQ 7. What the first triad establishes, and what it does not
 
@@ -184,89 +106,37 @@ Consider the following statements about Being, Nothing and Becoming.
 
 Which of the statements given above are correct?
 
-A. 1, 2 and 3 only
-
-B. 2, 3 and 4 only
-
-C. 1, 3 and 4 only
-
-D. 1 and 2 only
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: statements 1 and 2 are right, but statement 3 converts a logical demonstration into a cosmogony with a "before".
-- **B:** Incorrect: it retains the accurate statement 2 while adding both the temporal error and the overstatement about later transitions.
-- **C:** Incorrect: it keeps the correct opening premise and then adds the two errors that the passage is explicitly guarded against.
-- **D:** Correct: the emptiness premise and the survival of both terms as moments of becoming are exactly what the passage establishes.
-
-**Examiner trap 7:** ❓ A critic may grant indistinguishability and still deny that it licenses a *transition*. Concede that the triad exhibits the method rather than proving the system.
+A. 2, 3 and 4 only
+B. 1, 3 and 4 only
+C. 1 and 2 only
+D. 1, 2 and 3 only
 
 #### MCQ 8. Why the *Logic* opens where it does
 
 Which one of the following best explains Hegel's choice of pure being as the beginning of the *Science of Logic*?
 
-A. Being is the concept that ordinary language most frequently employs, so it needs no technical introduction.
-
-B. The system claims to presuppose nothing, so it must begin from a determination that contains no content.
-
-C. Being is the highest category of the Aristotelian tradition, and Hegel begins where that tradition ended.
-
-D. Being is the category most directly given in sense perception, so it needs no prior justification.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: frequency of ordinary use is irrelevant to a claim about logical priority, and Hegel's *Sein* is a technical term in any case.
-- **B:** Correct: any determinate content at the start would be an imported presupposition, which is why the beginning must be wholly indeterminate.
-- **C:** Incorrect: the ordering is dictated by the presuppositionlessness requirement, not by the history of the concept of being.
-- **D:** Incorrect: pure being is expressly the concept with nothing to point at, so it is not something perception delivers.
-
-**Examiner trap 8:** Stating *why* the *Logic* must begin with an empty determination is worth a mark on its own, because it converts a strange-looking passage into a forced consequence of the system's own claim.
+A. Being is the highest category of the Aristotelian tradition, and Hegel begins where that tradition ended.
+B. Being is the category most directly given in sense perception, so it needs no prior justification.
+C. Being is the concept that ordinary language most frequently employs, so it needs no technical introduction.
+D. The system claims to presuppose nothing, so it must begin from a determination that contains no content.
 
 #### MCQ 9. Abstract and concrete universals
 
 Which one of the following is **correct** about Hegel's contrast between the two kinds of universal?
 
 A. The abstract universal is obtained by omitting differences; the concrete universal organises its own.
-
 B. The abstract universal is a mental image; the concrete universal is the corresponding object outside the mind.
-
 C. The abstract universal belongs to logic; the concrete universal belongs exclusively to the philosophy of nature.
-
 D. The abstract universal applies to species; the concrete universal applies only to the genera standing above them.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the first purchases unity by subtraction and so cannot explain what it deleted, while the second is actual only through its own differentiation.
-- **B:** Incorrect: the contrast is between two structures of universality, not between an inner representation and an outer thing.
-- **C:** Incorrect: the concrete universal is a doctrine of the *Logic* and runs through the whole system, not one division of it.
-- **D:** Incorrect: the distinction is not a matter of taxonomic level; a genus reached by subtraction is exactly the abstract case.
-
-**Examiner trap 9:** "Concrete" here does not mean tangible. It means containing its own determinations, which is why an abstract universal can be a physical kind and a concrete universal can be a logical structure.
 
 #### MCQ 10. The full form of the most quoted sentence
 
 Which one of the following reproduces the sense of the Preface formula completely?
 
-A. The True is the Whole, and the Whole is simply the sum of all the parts that have ever existed.
-
-B. The True is the Whole, and the Whole is given immediately to a purely philosophical intuition.
-
-C. The True is the Whole, and the Whole is the abstract unity beneath all determinate differences.
-
-D. The True is the Whole, and the Whole is the essence completing itself through its development.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: aggregation is precisely the abstract picture Hegel rejects, since a sum has no internal articulation.
-- **B:** Incorrect: immediacy is what the whole *Logic* argues against; the Whole is a result reached through mediation.
-- **C:** Incorrect: an abstract unity beneath differences is the shadow universal, not the concrete universal the sentence intends.
-- **D:** Correct: the Preface adds that the Whole is the essence completing itself through its development, which makes truth a result.
-
-**Examiner trap 10:** Quoting the first clause alone makes the sentence sound like mysticism about totality. The second clause is what turns it into a structural claim.
+A. The True is the Whole, and the Whole is the abstract unity beneath all determinate differences.
+B. The True is the Whole, and the Whole is the essence completing itself through its development.
+C. The True is the Whole, and the Whole is simply the sum of all the parts that have ever existed.
+D. The True is the Whole, and the Whole is given immediately to a purely philosophical intuition.
 
 #### MCQ 11. The moments of the Concept
 
@@ -278,89 +148,37 @@ Consider the following statements about the Concept (*Begriff*).
 
 Which of the statements given above is/are correct?
 
-A. 1 and 3 only
-
-B. 1, 2 and 3
-
-C. 2 and 3 only
-
-D. 1 and 2 only
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: it omits particularity, which is the moment that explains how a universal becomes determinate at all.
-- **B:** Correct: all three are accurately stated, and the sequence is an argument that universality is actual only through the other two.
-- **C:** Incorrect: dropping universality removes the common structure that particularity is supposed to be a differentiation of.
-- **D:** Incorrect: without individuality the account stops short of the moment in which universal and particular are actual together.
-
-**Examiner trap 11:** The triad belongs primarily to the logical register. Illustrating it with a state or a historical period is permissible; identifying it with them is not.
+A. 1 and 2 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 2 and 3 only
 
 #### MCQ 12. Identity-in-difference
 
 Which one of the following states Hegel's identity-in-difference correctly?
 
-A. Opposites are numerically identical, so that a thing and its contrary are one and the same item.
-
-B. Identity is an illusion, and only difference is real, so unity must be projected onto experience.
-
-C. Genuine identity is maintained through determinate difference rather than by erasing that difference.
-
-D. Identity and difference are two independent categories that no philosophical account can ever reconcile.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: numerical identity of opposites is the misreading the doctrine is most often confused with, and Hegel's claim is structural rather than numerical.
-- **B:** Incorrect: an adequate whole includes the relation that unifies the terms as well as the difference that makes each determinate.
-- **C:** Correct: the claim is that unity is achieved through, and preserves, determinate difference rather than dissolving it.
-- **D:** Incorrect: the irreconcilability of the two is precisely the fixed opposition Hegel's doctrine is designed to overcome.
-
-**Examiner trap 12:** ⚠️ The 1801 formula is rendered variously as the "identity of identity and non-identity" or "…and difference". Paraphrase as identity-in-difference unless you can name your edition.
+A. Identity and difference are two independent categories that no philosophical account can ever reconcile.
+B. Opposites are numerically identical, so that a thing and its contrary are one and the same item.
+C. Identity is an illusion, and only difference is real, so unity must be projected onto experience.
+D. Genuine identity is maintained through determinate difference rather than by erasing that difference.
 
 #### MCQ 13. The bad infinite and the true infinite
 
 Which one of the following correctly states why Hegel rejects the spurious infinite?
 
-A. Because an endless series cannot be completed, and Hegel requires that every series in the system terminate.
-
-B. Because an infinite defined by standing beyond the finite is bounded by what it excludes, and so is limited.
-
-C. Because the finite is unreal, so an infinite that includes it would inherit that unreality.
-
-D. Because mathematics had already shown that actual infinities generate paradoxes of set membership.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the objection concerns the *structure* of the definition rather than the practical impossibility of completing a series.
-- **B:** Correct: exclusion supplies a border, and having a border is being limited, so an infinite defined by exclusion is finite after all.
-- **C:** Incorrect: the finite is real for Hegel as a moment; the true infinite includes it rather than shunning it as unreal.
-- **D:** Incorrect: the argument is a conceptual one internal to the *Logic* and is not derived from mathematical results.
-
-**Examiner trap 13:** This distinction is what stops "Absolute" from meaning "very large". An Absolute with anything outside it would be a bad infinite, so the point belongs in any answer that uses the word.
+A. Because an infinite defined by standing beyond the finite is bounded by what it excludes, and so is limited.
+B. Because the finite is unreal, so an infinite that includes it would inherit that unreality.
+C. Because mathematics had already shown that actual infinities generate paradoxes of set membership.
+D. Because an endless series cannot be completed, and Hegel requires that every series in the system terminate.
 
 #### MCQ 14. The three-stage unfolding
 
 Which one of the following matches each stage to its correct description?
 
-A. Logic — the Idea in itself; Nature — the Idea outside itself; Spirit — the Idea returned to itself.
-
-B. Logic — the Idea returned to itself; Nature — the Idea in itself; Spirit — the Idea outside itself.
-
-C. Logic — the Idea outside itself; Nature — the Idea returned to itself; Spirit — the Idea in itself.
-
-D. Logic — the Idea in itself; Nature — the Idea returned to itself; Spirit — the Idea outside itself.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: pure categories are the Idea in itself, externality is the Idea in the form of otherness, and self-conscious rational life is the return.
-- **B:** Incorrect: it makes the completed return the starting point, which would leave the *Logic* nothing to develop toward.
-- **C:** Incorrect: it inverts the whole sequence, placing pure thought in externality and externality in the return.
-- **D:** Incorrect: it correctly identifies Logic but then exchanges Nature and Spirit, making self-conscious life the moment of externality.
-
-**Examiner trap 14:** Nature is the Idea *in the form of otherness*, not a fall or a punishment. Treating it as a lapse from thought imports a theological narrative Hegel is careful to avoid.
+A. Logic — the Idea in itself; Nature — the Idea returned to itself; Spirit — the Idea outside itself.
+B. Logic — the Idea in itself; Nature — the Idea outside itself; Spirit — the Idea returned to itself.
+C. Logic — the Idea returned to itself; Nature — the Idea in itself; Spirit — the Idea outside itself.
+D. Logic — the Idea outside itself; Nature — the Idea returned to itself; Spirit — the Idea in itself.
 
 #### MCQ 15. Objective Spirit and ethical life
 
@@ -373,66 +191,27 @@ Consider the following statements about the ladder of objective Spirit.
 Which of the statements given above are correct?
 
 A. 2 and 3 only
-
 B. 1 and 3 only
-
 C. 1 and 2 only
-
 D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: statement 2 is right, but statement 3 exchanges the two descriptions and so misstates both institutions.
-- **B:** Incorrect: the sequence in statement 1 is accurate, yet statement 3 reverses the characterisations attached to family and civil society.
-- **C:** Correct: the ladder runs abstract right → morality → ethical life, which is differentiated into family, civil society and state.
-- **D:** Incorrect: statements 1 and 2 are correct, so adding the reversed statement 3 spoils the set.
-
-**Examiner trap 15:** The family gives *immediate* ethical unity and civil society organises *differentiated* needs, work and legal dependence. Swapping them is a quick way to lose a mark you had already earned.
 
 #### MCQ 16. Substance and Subject
 
 Which one of the following states what "Subject" adds in the *Phenomenology* Preface formula?
 
 A. It adds consciousness in the psychological sense, so that the Absolute becomes a thinking individual.
-
 B. It adds a personal creator standing behind the world and directing its historical development.
-
 C. It adds the denial of Spinoza's immanence, replacing it with a transcendent cause of finite things.
-
 D. It adds active self-mediation: the Absolute differentiates itself and returns to itself in Spirit.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: "Subject" names a structure of self-differentiation and self-return, not an ego or a psychological state.
-- **B:** Incorrect: a personal creator behind the world is exactly the reification Hegel's account of Spirit is designed to avoid.
-- **C:** Incorrect: the text says "not only… but equally", which corrects Spinozist immanence rather than discarding it.
-- **D:** Correct: the addition is self-differentiation with self-return, proceeding through determinate negation and sublation.
-
-**Examiner trap 16:** Hegel greatly admired Spinoza. Writing the formula as a dismissal misreads "equally" and forfeits the chance to show what precisely the correction adds.
 
 #### MCQ 17. Actuality and existence
 
 Which one of the following is **correct** about the sentence "what is rational is actual, and what is actual is rational"?
 
-A. It asserts that every existing institution is justified, which is why Hegel is called a philosopher of the status quo.
-
-B. It asserts that reason is powerless before existence, so philosophy must confine itself to describing what is.
-
-C. It uses *Dasein* in its technical sense, so that "actual" means simply whatever happens to be the case.
-
-D. It uses *Wirklichkeit*, the realised operation of a concept, which is not the same as bare determinate existence.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: this is the mistranslation the technical term is designed to block, and it inverts the sentence's critical potential.
-- **B:** Incorrect: the formula asserts a positive relation between reason and actuality, not reason's impotence before facts.
-- **C:** Incorrect: *Dasein* is the term the sentence is *contrasted* with; substituting it produces exactly the misreading in option A.
-- **D:** Correct: actuality is the effective unity of essence and existence, so an institution may exist without being actual.
-
-**Examiner trap 17:** ⚠️ The distinction blocks the slogan but does not clear Hegel of the conservatism charge; critics can still ask whether he applies his own criterion too gently to the modern state. Say both.
+A. It uses *Wirklichkeit*, the realised operation of a concept, which is not the same as bare determinate existence.
+B. It asserts that every existing institution is justified, which is why Hegel is called a philosopher of the status quo.
+C. It asserts that reason is powerless before existence, so philosophy must confine itself to describing what is.
+D. It uses *Dasein* in its technical sense, so that "actual" means simply whatever happens to be the case.
 
 #### MCQ 18. What Absolute Idealism denies
 
@@ -444,89 +223,37 @@ Consider the following statements about Hegel's Absolute Idealism.
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: statement 1 is right, but statement 2 makes the Absolute one object among others, which reproduces the bad infinite.
-- **B:** Incorrect: statement 3 is accurate, yet pairing it with statement 2 leaves the whole standing over against its own moments.
-- **C:** Correct: nature and finite spirit are real as moments, and intelligibility is immanent with no unknowable remainder.
-- **D:** Incorrect: statements 1 and 3 are correct, so including the reifying statement 2 spoils an otherwise accurate set.
-
-**Examiner trap 18:** Absolute Idealism is a thesis about intelligibility rather than about existence. Nothing in it denies that nature is there; what it denies is that nature is self-explanatory.
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 #### MCQ 19. The axis of the Hegel–Berkeley contrast
 
 Which one of the following fixes the correct criterion for distinguishing Hegel's idealism from Berkeley's?
 
-A. What is ultimate — a finite perceiving mind and its ideas, or a self-developing intelligible whole.
-
-B. Whether the philosopher accepts the existence of God as the ground of the order of experience.
-
-C. Whether material substance is admitted, since Berkeley denies it and Hegel affirms it unchanged.
-
-D. Whether the philosopher writes in English or in German, which fixes the tradition that each belongs to.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the axis is what is ultimate; everything else in the contrast — development, the status of nature, the role of the individual mind — follows from it.
-- **B:** Incorrect: both admit a divine or absolute dimension in some form, so this criterion does not discriminate between the positions.
-- **C:** Incorrect: Hegel does not simply reinstate material substance; nature is real as Spirit's own self-externalisation, not as independent matter.
-- **D:** Incorrect: language of composition is not a philosophical criterion and would not organise a single row of the comparison.
-
-**Examiner trap 19:** A "distinguish" directive demands a criterion-led contrast. Two parallel summaries with no stated axis is the specific failure this question targets.
+A. Whether material substance is admitted, since Berkeley denies it and Hegel affirms it unchanged.
+B. Whether the philosopher writes in English or in German, which fixes the tradition that each belongs to.
+C. What is ultimate — a finite perceiving mind and its ideas, or a self-developing intelligible whole.
+D. Whether the philosopher accepts the existence of God as the ground of the order of experience.
 
 #### MCQ 20. The reality of the phenomenal world
 
 Which one of the following states Hegel's position on the phenomenal world most accurately?
 
-A. It is a private mental illusion, since only the Absolute itself possesses any genuine reality.
-
-B. It is a finite, mediated manifestation of the Absolute — real as a moment, not ultimate as isolated.
-
-C. It is an independent thing in itself whose relation to the Absolute is permanently unknowable.
-
-D. It is a divinely sustained sequence of ideas whose entire existence consists in their being perceived.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: illusion is exactly what the doctrine denies; appearance possesses mediated reality rather than none at all.
-- **B:** Correct: appearance is neither independent nor illusory but a finite mediated moment of the self-developing whole.
-- **C:** Incorrect: an independent in-itself with an unknowable relation is the Kantian picture Hegel's three prongs are directed against.
-- **D:** Incorrect: this is Berkeley's immaterialism, in which existence depends on perception rather than on mediated intelligibility.
-
-**Examiner trap 20:** The 2020 demand is met by rejecting *both* horns — illusion and independent in-itself — and then explaining determinate negation, mediation and the overcoming of the finite/infinite opposition.
+A. It is an independent thing in itself whose relation to the Absolute is permanently unknowable.
+B. It is a divinely sustained sequence of ideas whose entire existence consists in their being perceived.
+C. It is a private mental illusion, since only the Absolute itself possesses any genuine reality.
+D. It is a finite, mediated manifestation of the Absolute — real as a moment, not ultimate as isolated.
 
 #### MCQ 21. Lordship and bondage — the structure of the reversal
 
 Which one of the following best states why the lord's position collapses?
 
-A. The bondsman eventually overpowers him in a second struggle, so the two positions are simply exchanged.
-
-B. An external moral standard condemns domination, and the lord is finally judged by that same standard.
-
-C. Recognition from a dependent consciousness is worthless, and he depends on the bondsman's work.
-
-D. The lord's fear of death returns, and he discovers that he too had never been willing to risk his life.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the relation is destabilised rather than inverted, and nothing in the passage turns on a second physical struggle.
-- **B:** Incorrect: no external criterion is applied anywhere in the *Phenomenology*; the shape fails by its own standard.
-- **C:** Correct: the lord obtains exactly what he demanded and thereby destroys its value, while also becoming dependent on the bondsman's labour.
-- **D:** Incorrect: it was the bondsman who declined the risk of death, and the lord's difficulty concerns recognition rather than a returning fear.
-
-**Examiner trap 21:** The roles are a *result* of the struggle, not two fixed personality types. Candidates who present them as characters have converted a dialectical transition into a story.
+A. Recognition from a dependent consciousness is worthless, and he depends on the bondsman's work.
+B. The lord's fear of death returns, and he discovers that he too had never been willing to risk his life.
+C. The bondsman eventually overpowers him in a second struggle, so the two positions are simply exchanged.
+D. An external moral standard condemns domination, and the lord is finally judged by that same standard.
 
 #### MCQ 22. The bondsman's route, in order
 
@@ -539,12 +266,368 @@ Consider the following elements of the bondsman's transformation.
 Which one of the following gives Hegel's order?
 
 A. 1, then 3, then 2
-
 B. 2, then 3, then 1
-
 C. 3, then 2, then 1
-
 D. 1, then 2, then 3
+
+#### MCQ 23. Stoicism, Scepticism and the Unhappy Consciousness
+
+Which one of the following correctly pairs each shape with the contradiction that destroys it?
+
+A. Stoicism fails by denying the body; Scepticism fails by trusting the senses; the Unhappy Consciousness by despair.
+B. Stoicism fails by political quietism; Scepticism fails by covert dogmatism; the Unhappy Consciousness by superstition.
+C. Stoicism fails by emptiness; Scepticism by performative contradiction; the Unhappy Consciousness by self-diremption.
+D. Stoicism fails by performative self-contradiction; Scepticism fails by emptiness; the Unhappy Consciousness by pride.
+
+#### MCQ 24. The Logic-to-Nature transition and its section numbers
+
+Which one of the following pairs each *Encyclopaedia* section with its correct content?
+
+A. §244 the impotence of nature; §247 the Idea freely releases itself; §250 Nature as the Idea in the form of otherness.
+B. §244 Nature as the Idea in otherness; §247 the impotence of nature; §250 the Idea freely releases itself.
+C. §244 the cunning of reason; §247 the Idea freely releases itself; §250 Nature as the Idea in otherness.
+D. §244 the Idea freely releases itself; §247 Nature as the Idea in otherness; §250 the impotence of nature.
+
+#### MCQ 25. Remedial — the sentence most often mistranslated
+
+A candidate writes: "Hegel's dictum that the real is the rational shows that he regarded every existing institution as justified." Which one of the following is the correct diagnosis?
+
+A. The error is the substitution of *Dasein* for *Wirklichkeit*, which reverses the sentence's critical force.
+B. The error is factual: the sentence appears in the *Phenomenology* Preface and not in the *Philosophy of Right*.
+C. The error is that Hegel wrote about rationality in nature rather than about institutions at all.
+D. The error is chronological: the sentence dates from the Jena period and was later withdrawn.
+
+#### MCQ 26. Remedial — the Berkeley conflation
+
+A candidate writes: "Hegel, like Berkeley, holds that the world exists only in so far as it is perceived." Which one of the following corrections is **accurate**?
+
+A. Hegel accepts the claim for nature but rejects it for finite spirits, so the comparison holds only in part.
+B. Hegel's claim concerns mediated intelligibility within the Absolute, not dependence on any finite perceiver.
+C. Berkeley and Hegel agree on the doctrine, and the two are distinguished only by their theory of God.
+D. Berkeley in fact denies that perception is involved, so the comparison misstates his position as well as Hegel's.
+
+#### MCQ 27. Remedial — contradiction and the *ex falso* objection
+
+A candidate writes: "Hegel accepts that a concept can be both P and not-P, so contradiction drives the system forward." Which one of the following is the safest correction?
+
+A. Hegel treats contradiction as a subjective confusion that disappears once the concept is properly defined.
+B. Hegel accepts the formal contradiction but restricts inference by adopting a paraconsistent logic of his own devising.
+C. Hegel's contradiction is a tension of opposed determinations within a concept, not a truth-functional conjunction.
+D. Hegel denies that contradiction plays any role, and the appearance of it is a translator's artefact.
+
+#### MCQ 28. Remedial — the source status of the history lectures
+
+A candidate writes: "Hegel wrote that world history is the progress of the consciousness of freedom, and proved that history is a linear advance." Which one of the following identifies **both** errors?
+
+A. The sentence is from the *Philosophy of Right*, and Hegel's claim there concerns morality and legality rather than history.
+B. The sentence is from the *Science of Logic*, and Hegel's claim is about categories rather than events.
+C. The sentence is from the *Phenomenology*, and Hegel's claim is confined to shapes of consciousness.
+D. The sentence is from posthumously edited lectures, and the claim is retrospective, not a law of linear advance.
+
+#### MCQ 29. Remedial — retrojecting Marx into the *Phenomenology*
+
+A candidate writes: "In the master–slave dialectic Hegel shows that the proletariat will overthrow the bourgeoisie through labour." Which one of the following is the correct correction?
+
+A. Marx transforms broader Hegelian resources; the passage itself concerns recognition, dependence and self-formation.
+B. Hegel accepts the class reading but locates the reversal in the state rather than in economic production.
+C. The passage is about the relation of God to the creature, and its social readings are all later inventions.
+D. The passage concerns two nations rather than two individuals, so the class reading merely mistakes the scale involved.
+
+#### MCQ 30. Remedial — the "deduced the planets" charge
+
+A candidate writes: "Hegel discredited himself by deducing the number of the planets from the Idea." Which one of the following is the accurate response?
+
+A. The charge is unanswerable, since Hegel's method commits him to deducing every natural particular.
+B. The charge is a caricature: at §250 Hegel concedes the impotence of nature and deduces no natural particulars.
+C. The charge is correct, and Hegel later withdrew the deduction in the second edition of the *Encyclopaedia*.
+D. The charge is correct in substance but concerns the *Philosophy of Right* rather than the philosophy of nature.
+
+#### MCQ 31. Remedial — answering in the wrong register
+
+A candidate answers "What is the dialectical method?" entirely through the master–slave story. Which one of the following states the defect most precisely?
+
+A. The story is inaccurate, so the answer rests on a misreport of Chapter IV of the *Phenomenology*.
+B. The story is too well known, and examiners deduct marks for illustrations used by many candidates.
+C. The primary register of the method is the logical one; the phenomenological episode is one illustration.
+D. The story belongs to the historical register, so it should have been replaced by the one/some/all schema.
+
+#### MCQ 32. Remedial — the owner boundary in a Hegel answer
+
+Which one of the following best states how far the syllabus item licenses discussion of the state, art and religion?
+
+A. As far as a complete exposition of the *Philosophy of Right* and of the lectures on aesthetics normally requires.
+B. Not at all, since the printed clause names only the dialectical method and Absolute Idealism.
+C. As far as the comparison with Marx's theory of the state and with religious alienation requires.
+D. Only as far as an executable account of objective and absolute Spirit and the actuality formula requires.
+
+#### MCQ 33. What pure being's becoming does not show
+
+Hegel's transition from pure being and pure nothing to becoming establishes, at this stage, that
+
+A. indeterminate immediacy is unstable as a final determination, not that a physical deity changes over time.
+B. pure being is already determinate nothing, and becoming therefore concludes that being cannot be an intelligible concept at all.
+C. pure being passes into pure nothing because Hegel postulates temporal change as the original condition of every concept.
+D. the transition proves the determinate sequence of every later category because becoming is identical to the completed Absolute.
+
+### Why this MCQ count fits this clause
+
+**33, coverage-driven:** the core questions and remedial traps require recognizing immanent/determinate negation, sublation, concrete universality, the first logical transition, subject–substance and historical embodiment rather than repeating "thesis–antithesis–synthesis". The added item checks what 2026's being/becoming demand actually establishes. Original Mains practice extends the examination to the *Phenomenology*, social actuality and art/religion/philosophy; the seven owned PYQs carry the dialectical-method and Absolute Idealism directives.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the premise that the limit is *determinately* known is Kant's own, which is why the collapse is internal rather than imported.
+- **B:** Incorrect: an external metaphysical standard is precisely what is unavailable after the critical philosophy, and using one would abandon immanent critique.
+- **C:** Incorrect: Hegel never claims acquaintance with a hidden object, and an appeal to intellectual intuition would concede the two-world picture he is attacking.
+- **D:** Incorrect: the argument is conceptual, not empirical, and no scientific result is invoked at any stage of it.
+
+**Examiner trap 1:** Presenting Hegel as attacking Kant from an already-assumed Absolute inverts the argument. The Absolute is what the limit argument opens space for, never the premise it starts from.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: it preserves the relational-limit prong but attaches the positive-knowledge claim, which converts Hegel's denial of a remainder into an assertion about a hidden object.
+- **B:** Correct: the relational limit and the empty abstraction are two of the three prongs; the third is that a fixed dualism cannot explain the relation it asserts.
+- **C:** Incorrect: statement 2 is accurate, but pairing it with statement 3 leaves Hegel claiming exactly the acquaintance he denies is needed.
+- **D:** Incorrect: statements 1 and 2 are correct, so including statement 3 spoils an otherwise accurate set.
+
+**Examiner trap 2:** "Hegel knows the thing in itself" and "Hegel denies there is a permanently external remainder" are different claims. Only the second is his.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: sublation preserves valid content rather than discarding a preceding position wholesale, so nothing is simply begun again.
+- **B:** Incorrect: this describes a rationalist purification of thought, not Hegel's account of how one determination generates its successor.
+- **C:** Correct: because the negation is of *this* content, what emerges is fixed by what failed, which is what stops the sequence from being arbitrary.
+- **D:** Incorrect: an indeterminate negation yields only "not-X", that is, everything else whatever, and would make the movement unconstrained.
+
+**Examiner trap 3:** If you cannot say why the successor had to be *that* one, you have written a triad and not a dialectic. Determinate negation is the word that shows you can.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: contradiction is resolved at each transition by the emergence of a determinate successor, not held in suspense until the end.
+- **B:** Incorrect: dropping "preserve" turns dialectic into refutation-and-collapse and destroys Hegel's cumulative history of philosophy.
+- **C:** Incorrect: this is the procedure of the abstract universal, which Hegel calls a shadow precisely because it grows emptier as it grows wider.
+- **D:** Correct: *aufheben* cancels the claim to isolated sufficiency, preserves the valid determinate content and raises it into a richer mediated unity, so nothing valid is lost.
+
+**Examiner trap 4:** Reporting only "cancel" is the commonest compression error in a *Aufhebung* answer. All three senses operate simultaneously, and the third is what makes the movement a development.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the triad is a nineteenth-century teaching device commonly traced through Fichte and popularised by Heinrich Moritz Chalybäus in 1837.
+- **B:** Incorrect: it is not Hegel's operative vocabulary in either work; his own terms are moment, determinate negation and sublation.
+- **C:** Incorrect: the Preface supplies "the True is the Whole" and the substance-and-subject formula, not a three-label schema.
+- **D:** Incorrect: the routed questions ask about "the dialectical method" and never print the formula, which is why the provenance clause is safe to give.
+
+**Examiner trap 5:** Using the triad is permissible as shorthand only if a provenance clause and a demonstrated transition follow immediately. Using it alone signals a guidebook rather than a text.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: this states the objection rather than the doctrine, and Hegel's reply is that his contradiction is not truth-functional.
+- **B:** Correct: this formulation states the instability of an over-extended finite determination without committing Hegel to a formal inconsistency.
+- **C:** Incorrect: this is exactly the formal-logical reading Hegel's defenders deny, and adopting it invites the *ex falso* objection unanswered.
+- **D:** Incorrect: dialectic is not debate; the tension is internal to a concept, not between two persons holding different views.
+
+**Examiner trap 6:** ❓ Whether Hegel also commits himself to genuine ontological contradiction remains contested. Write the qualified formulation and mark the dispute; do not assert either side.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: it retains the accurate statement 2 while adding both the temporal error and the overstatement about later transitions.
+- **B:** Incorrect: it keeps the correct opening premise and then adds the two errors that the passage is explicitly guarded against.
+- **C:** Correct: the emptiness premise and the survival of both terms as moments of becoming are exactly what the passage establishes.
+- **D:** Incorrect: statements 1 and 2 are right, but statement 3 converts a logical demonstration into a cosmogony with a "before".
+
+**Examiner trap 7:** ❓ A critic may grant indistinguishability and still deny that it licenses a *transition*. Concede that the triad exhibits the method rather than proving the system.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the ordering is dictated by the presuppositionlessness requirement, not by the history of the concept of being.
+- **B:** Incorrect: pure being is expressly the concept with nothing to point at, so it is not something perception delivers.
+- **C:** Incorrect: frequency of ordinary use is irrelevant to a claim about logical priority, and Hegel's *Sein* is a technical term in any case.
+- **D:** Correct: any determinate content at the start would be an imported presupposition, which is why the beginning must be wholly indeterminate.
+
+**Examiner trap 8:** Stating *why* the *Logic* must begin with an empty determination is worth a mark on its own, because it converts a strange-looking passage into a forced consequence of the system's own claim.
+
+#### MCQ 9 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the first purchases unity by subtraction and so cannot explain what it deleted, while the second is actual only through its own differentiation.
+- **B:** Incorrect: the contrast is between two structures of universality, not between an inner representation and an outer thing.
+- **C:** Incorrect: the concrete universal is a doctrine of the *Logic* and runs through the whole system, not one division of it.
+- **D:** Incorrect: the distinction is not a matter of taxonomic level; a genus reached by subtraction is exactly the abstract case.
+
+**Examiner trap 9:** "Concrete" here does not mean tangible. It means containing its own determinations, which is why an abstract universal can be a physical kind and a concrete universal can be a logical structure.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: an abstract unity beneath differences is the shadow universal, not the concrete universal the sentence intends.
+- **B:** Correct: the Preface adds that the Whole is the essence completing itself through its development, which makes truth a result.
+- **C:** Incorrect: aggregation is precisely the abstract picture Hegel rejects, since a sum has no internal articulation.
+- **D:** Incorrect: immediacy is what the whole *Logic* argues against; the Whole is a result reached through mediation.
+
+**Examiner trap 10:** Quoting the first clause alone makes the sentence sound like mysticism about totality. The second clause is what turns it into a structural claim.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: without individuality the account stops short of the moment in which universal and particular are actual together.
+- **B:** Incorrect: it omits particularity, which is the moment that explains how a universal becomes determinate at all.
+- **C:** Correct: all three are accurately stated, and the sequence is an argument that universality is actual only through the other two.
+- **D:** Incorrect: dropping universality removes the common structure that particularity is supposed to be a differentiation of.
+
+**Examiner trap 11:** The triad belongs primarily to the logical register. Illustrating it with a state or a historical period is permissible; identifying it with them is not.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the irreconcilability of the two is precisely the fixed opposition Hegel's doctrine is designed to overcome.
+- **B:** Incorrect: numerical identity of opposites is the misreading the doctrine is most often confused with, and Hegel's claim is structural rather than numerical.
+- **C:** Incorrect: an adequate whole includes the relation that unifies the terms as well as the difference that makes each determinate.
+- **D:** Correct: the claim is that unity is achieved through, and preserves, determinate difference rather than dissolving it.
+
+**Examiner trap 12:** ⚠️ The 1801 formula is rendered variously as the "identity of identity and non-identity" or "…and difference". Paraphrase as identity-in-difference unless you can name your edition.
+
+#### MCQ 13 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: exclusion supplies a border, and having a border is being limited, so an infinite defined by exclusion is finite after all.
+- **B:** Incorrect: the finite is real for Hegel as a moment; the true infinite includes it rather than shunning it as unreal.
+- **C:** Incorrect: the argument is a conceptual one internal to the *Logic* and is not derived from mathematical results.
+- **D:** Incorrect: the objection concerns the *structure* of the definition rather than the practical impossibility of completing a series.
+
+**Examiner trap 13:** This distinction is what stops "Absolute" from meaning "very large". An Absolute with anything outside it would be a bad infinite, so the point belongs in any answer that uses the word.
+
+#### MCQ 14 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: it correctly identifies Logic but then exchanges Nature and Spirit, making self-conscious life the moment of externality.
+- **B:** Correct: pure categories are the Idea in itself, externality is the Idea in the form of otherness, and self-conscious rational life is the return.
+- **C:** Incorrect: it makes the completed return the starting point, which would leave the *Logic* nothing to develop toward.
+- **D:** Incorrect: it inverts the whole sequence, placing pure thought in externality and externality in the return.
+
+**Examiner trap 14:** Nature is the Idea *in the form of otherness*, not a fall or a punishment. Treating it as a lapse from thought imports a theological narrative Hegel is careful to avoid.
+
+#### MCQ 15 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: statement 2 is right, but statement 3 exchanges the two descriptions and so misstates both institutions.
+- **B:** Incorrect: the sequence in statement 1 is accurate, yet statement 3 reverses the characterisations attached to family and civil society.
+- **C:** Correct: the ladder runs abstract right → morality → ethical life, which is differentiated into family, civil society and state.
+- **D:** Incorrect: statements 1 and 2 are correct, so adding the reversed statement 3 spoils the set.
+
+**Examiner trap 15:** The family gives *immediate* ethical unity and civil society organises *differentiated* needs, work and legal dependence. Swapping them is a quick way to lose a mark you had already earned.
+
+#### MCQ 16 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: "Subject" names a structure of self-differentiation and self-return, not an ego or a psychological state.
+- **B:** Incorrect: a personal creator behind the world is exactly the reification Hegel's account of Spirit is designed to avoid.
+- **C:** Incorrect: the text says "not only… but equally", which corrects Spinozist immanence rather than discarding it.
+- **D:** Correct: the addition is self-differentiation with self-return, proceeding through determinate negation and sublation.
+
+**Examiner trap 16:** Hegel greatly admired Spinoza. Writing the formula as a dismissal misreads "equally" and forfeits the chance to show what precisely the correction adds.
+
+#### MCQ 17 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: actuality is the effective unity of essence and existence, so an institution may exist without being actual.
+- **B:** Incorrect: this is the mistranslation the technical term is designed to block, and it inverts the sentence's critical potential.
+- **C:** Incorrect: the formula asserts a positive relation between reason and actuality, not reason's impotence before facts.
+- **D:** Incorrect: *Dasein* is the term the sentence is *contrasted* with; substituting it produces exactly the misreading in option B.
+
+**Examiner trap 17:** ⚠️ The distinction blocks the slogan but does not clear Hegel of the conservatism charge; critics can still ask whether he applies his own criterion too gently to the modern state. Say both.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: statement 3 is accurate, yet pairing it with statement 2 leaves the whole standing over against its own moments.
+- **B:** Correct: nature and finite spirit are real as moments, and intelligibility is immanent with no unknowable remainder.
+- **C:** Incorrect: statements 1 and 3 are correct, so including the reifying statement 2 spoils an otherwise accurate set.
+- **D:** Incorrect: statement 1 is right, but statement 2 makes the Absolute one object among others, which reproduces the bad infinite.
+
+**Examiner trap 18:** Absolute Idealism is a thesis about intelligibility rather than about existence. Nothing in it denies that nature is there; what it denies is that nature is self-explanatory.
+
+#### MCQ 19 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Hegel does not simply reinstate material substance; nature is real as Spirit's own self-externalisation, not as independent matter.
+- **B:** Incorrect: language of composition is not a philosophical criterion and would not organise a single row of the comparison.
+- **C:** Correct: the axis is what is ultimate; everything else in the contrast — development, the status of nature, the role of the individual mind — follows from it.
+- **D:** Incorrect: both admit a divine or absolute dimension in some form, so this criterion does not discriminate between the positions.
+
+**Examiner trap 19:** A "distinguish" directive demands a criterion-led contrast. Two parallel summaries with no stated axis is the specific failure this question targets.
+
+#### MCQ 20 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: an independent in-itself with an unknowable relation is the Kantian picture Hegel's three prongs are directed against.
+- **B:** Incorrect: this is Berkeley's immaterialism, in which existence depends on perception rather than on mediated intelligibility.
+- **C:** Incorrect: illusion is exactly what the doctrine denies; appearance possesses mediated reality rather than none at all.
+- **D:** Correct: appearance is neither independent nor illusory but a finite mediated moment of the self-developing whole.
+
+**Examiner trap 20:** The 2020 demand is met by rejecting *both* horns — illusion and independent in-itself — and then explaining determinate negation, mediation and the overcoming of the finite/infinite opposition.
+
+#### MCQ 21 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the lord obtains exactly what he demanded and thereby destroys its value, while also becoming dependent on the bondsman's labour.
+- **B:** Incorrect: it was the bondsman who declined the risk of death, and the lord's difficulty concerns recognition rather than a returning fear.
+- **C:** Incorrect: the relation is destabilised rather than inverted, and nothing in the passage turns on a second physical struggle.
+- **D:** Incorrect: no external criterion is applied anywhere in the *Phenomenology*; the shape fails by its own standard.
+
+**Examiner trap 21:** The roles are a *result* of the struggle, not two fixed personality types. Candidates who present them as characters have converted a dialectical transition into a story.
+
+#### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -556,61 +639,31 @@ D. 1, then 2, then 3
 
 **Examiner trap 22:** Reporting labour without fear and service is the standard compression error. Hegel's claim is not that work liberates but that work liberates a consciousness that has already been dissolved and disciplined.
 
-#### MCQ 23. Stoicism, Scepticism and the Unhappy Consciousness
+#### MCQ 23 — solution
 
-Which one of the following correctly pairs each shape with the contradiction that destroys it?
+**Answer: C.**
 
-A. Stoicism fails by performative self-contradiction; Scepticism fails by emptiness; the Unhappy Consciousness by pride.
+**Option explanations:**
+- **A:** Incorrect: neither denial of the body nor trust in the senses is the internal defect Hegel identifies in these shapes.
+- **B:** Incorrect: quietism and superstition are external moral judgements rather than failures by each shape's own criterion.
+- **C:** Correct: Stoic freedom is abstract and can specify no content; Scepticism asserts that nothing can be asserted; the unhappy consciousness knows itself as divided.
+- **D:** Incorrect: it exchanges the first two diagnoses, attaching the performative failure to Stoicism and emptiness to Scepticism.
 
-B. Stoicism fails by denying the body; Scepticism fails by trusting the senses; the Unhappy Consciousness by despair.
+**Examiner trap 23:** ⚠️ The sequence is logical, not chronological. Stoicism, Scepticism and medieval piety are historical illustrations of a conceptual order, not a claim about how history ran.
 
-C. Stoicism fails by political quietism; Scepticism fails by covert dogmatism; the Unhappy Consciousness by superstition.
-
-D. Stoicism fails by emptiness; Scepticism by performative contradiction; the Unhappy Consciousness by self-diremption.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: it exchanges the first two diagnoses, attaching the performative failure to Stoicism and emptiness to Scepticism.
-- **B:** Incorrect: neither denial of the body nor trust in the senses is the internal defect Hegel identifies in these shapes.
-- **C:** Incorrect: quietism and superstition are external moral judgements rather than failures by each shape's own criterion.
-- **D:** Correct: Stoic freedom is abstract and can specify no content; Scepticism asserts that nothing can be asserted; the unhappy consciousness knows itself as divided.
-
-**Examiner trap 23:** ⚠️ The sequence is logical, not chronological. Stoicism, Scepticism and medieval piety are historical illustrations of a conceptual order, not a claim about how history ran.
-
-#### MCQ 24. The Logic-to-Nature transition and its section numbers
-
-Which one of the following pairs each *Encyclopaedia* section with its correct content?
-
-A. §244 the Idea freely releases itself; §247 Nature as the Idea in otherness; §250 the impotence of nature.
-
-B. §244 the impotence of nature; §247 the Idea freely releases itself; §250 Nature as the Idea in the form of otherness.
-
-C. §244 Nature as the Idea in otherness; §247 the impotence of nature; §250 the Idea freely releases itself.
-
-D. §244 the cunning of reason; §247 the Idea freely releases itself; §250 Nature as the Idea in otherness.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: §244 states the free release, §247 defines Nature as the Idea in the form of otherness, and §250 concedes nature's impotence.
-- **B:** Incorrect: it places the concession before the transition it is supposed to qualify, reversing the order of the argument.
-- **C:** Incorrect: it moves the release to the end, so that Nature would be defined before anything licensed the passage to it.
-- **D:** Incorrect: the cunning of reason belongs to the history lectures and to §209, not to the transition into the Philosophy of Nature.
+- **A:** Incorrect: it places the concession before the transition it is supposed to qualify, reversing the order of the argument.
+- **B:** Incorrect: it moves the release to the end, so that Nature would be defined before anything licensed the passage to it.
+- **C:** Incorrect: the cunning of reason belongs to the history lectures and to §209, not to the transition into the Philosophy of Nature.
+- **D:** Correct: §244 states the free release, §247 defines Nature as the Idea in the form of otherness, and §250 concedes nature's impotence.
 
 **Examiner trap 24:** §250 is the fact that disposes of the "Hegel deduced the planets" caricature. Citing it converts a defensive paragraph into a controlling one.
 
-#### MCQ 25. Remedial — the sentence most often mistranslated
-
-A candidate writes: "Hegel's dictum that the real is the rational shows that he regarded every existing institution as justified." Which one of the following is the correct diagnosis?
-
-A. The error is the substitution of *Dasein* for *Wirklichkeit*, which reverses the sentence's critical force.
-
-B. The error is factual: the sentence appears in the *Phenomenology* Preface and not in the *Philosophy of Right*.
-
-C. The error is that Hegel wrote about rationality in nature rather than about institutions at all.
-
-D. The error is chronological: the sentence dates from the Jena period and was later withdrawn.
+#### MCQ 25 — solution
 
 **Answer: A.**
 
@@ -622,61 +675,31 @@ D. The error is chronological: the sentence dates from the Jena period and was l
 
 **Examiner trap 25:** Put the *Wirklichkeit*/*Dasein* discrimination in line two of any answer that quotes this sentence. Delaying it to the conclusion looks like an afterthought rather than control.
 
-#### MCQ 26. Remedial — the Berkeley conflation
-
-A candidate writes: "Hegel, like Berkeley, holds that the world exists only in so far as it is perceived." Which one of the following corrections is **accurate**?
-
-A. Berkeley in fact denies that perception is involved, so the comparison misstates his position as well as Hegel's.
-
-B. Hegel accepts the claim for nature but rejects it for finite spirits, so the comparison holds only in part.
-
-C. Hegel's claim concerns mediated intelligibility within the Absolute, not dependence on any finite perceiver.
-
-D. Berkeley and Hegel agree on the doctrine, and the two are distinguished only by their theory of God.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: perception is central to Berkeley's account, so this misdescribes him while leaving Hegel's position unexplained.
-- **B:** Incorrect: Hegel does not accept perceiver-dependence for any region; nature is real as Spirit's own self-externalisation.
-- **C:** Correct: the axis is what is ultimate, and Hegel's nature and finite spirit are mediated moments rather than contents of a mind.
-- **D:** Incorrect: the theory of God is not the discriminating axis, and the underlying doctrines are not the same to begin with.
-
-**Examiner trap 26:** Berkeley rejects matter but not spirits, God or experienced order. A correction that caricatures Berkeley in order to rescue Hegel loses the mark it was trying to save.
-
-#### MCQ 27. Remedial — contradiction and the *ex falso* objection
-
-A candidate writes: "Hegel accepts that a concept can be both P and not-P, so contradiction drives the system forward." Which one of the following is the safest correction?
-
-A. Hegel accepts the formal contradiction but restricts inference by adopting a paraconsistent logic of his own devising.
-
-B. Hegel's contradiction is a tension of opposed determinations within a concept, not a truth-functional conjunction.
-
-C. Hegel denies that contradiction plays any role, and the appearance of it is a translator's artefact.
-
-D. Hegel treats contradiction as a subjective confusion that disappears once the concept is properly defined.
+#### MCQ 26 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: importing a modern paraconsistent apparatus is anachronistic, and the owner-safe reply does not require it.
-- **B:** Correct: this states the doctrine in a way that answers the *ex falso* objection without asserting a formal inconsistency.
-- **C:** Incorrect: contradiction is central to the method, so denying its role removes the engine the question is asking about.
-- **D:** Incorrect: for Hegel the tension is objective to the determination, not a subjective muddle that better definition removes.
+- **A:** Incorrect: Hegel does not accept perceiver-dependence for any region; nature is real as Spirit's own self-externalisation.
+- **B:** Correct: the axis is what is ultimate, and Hegel's nature and finite spirit are mediated moments rather than contents of a mind.
+- **C:** Incorrect: the theory of God is not the discriminating axis, and the underlying doctrines are not the same to begin with.
+- **D:** Incorrect: perception is central to Berkeley's account, so this misdescribes him while leaving Hegel's position unexplained.
+
+**Examiner trap 26:** Berkeley rejects matter but not spirits, God or experienced order. A correction that caricatures Berkeley in order to rescue Hegel loses the mark it was trying to save.
+
+#### MCQ 27 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: for Hegel the tension is objective to the determination, not a subjective muddle that better definition removes.
+- **B:** Incorrect: importing a modern paraconsistent apparatus is anachronistic, and the owner-safe reply does not require it.
+- **C:** Correct: this states the doctrine in a way that answers the *ex falso* objection without asserting a formal inconsistency.
+- **D:** Incorrect: contradiction is central to the method, so denying its role removes the engine the question is asking about.
 
 **Examiner trap 27:** ❓ Whether Hegel's reply is finally coherent remains debated. Give the reply and mark the residual; asserting that the objection is fully answered overstates the case.
 
-#### MCQ 28. Remedial — the source status of the history lectures
-
-A candidate writes: "Hegel wrote that world history is the progress of the consciousness of freedom, and proved that history is a linear advance." Which one of the following identifies **both** errors?
-
-A. The sentence is from the *Philosophy of Right*, and Hegel's claim there concerns morality and legality rather than history.
-
-B. The sentence is from the *Science of Logic*, and Hegel's claim is about categories rather than events.
-
-C. The sentence is from the *Phenomenology*, and Hegel's claim is confined to shapes of consciousness.
-
-D. The sentence is from posthumously edited lectures, and the claim is retrospective, not a law of linear advance.
+#### MCQ 28 — solution
 
 **Answer: D.**
 
@@ -688,61 +711,31 @@ D. The sentence is from posthumously edited lectures, and the claim is retrospec
 
 **Examiner trap 28:** Say "in the lectures on the philosophy of history" rather than "Hegel wrote". The provenance clause costs four words and demonstrates source discipline.
 
-#### MCQ 29. Remedial — retrojecting Marx into the *Phenomenology*
+#### MCQ 29 — solution
 
-A candidate writes: "In the master–slave dialectic Hegel shows that the proletariat will overthrow the bourgeoisie through labour." Which one of the following is the correct correction?
+**Answer: A.**
 
-A. The passage concerns two nations rather than two individuals, so the class reading merely mistakes the scale involved.
+**Option explanations:**
+- **A:** Correct: Marx's accounts of labour, alienation and class are transformations of Hegelian resources rather than a transcription of Chapter IV A.
+- **B:** Incorrect: Hegel offers no class analysis at all here, so there is nothing for him to relocate into the state.
+- **C:** Incorrect: the theological reading is not the passage's subject, and its social receptions, while later, are not therefore baseless.
+- **D:** Incorrect: the difficulty is not one of scale; the passage is about a structure of recognition, not about collective political agents at any size.
 
-B. Marx transforms broader Hegelian resources; the passage itself concerns recognition, dependence and self-formation.
+**Examiner trap 29:** Name the receptions — Marxist, Kojèvian, feminist, anti-colonial — and say that they are transformations. Naming them shows range; retrojecting them shows carelessness.
 
-C. Hegel accepts the class reading but locates the reversal in the state rather than in economic production.
-
-D. The passage is about the relation of God to the creature, and its social readings are all later inventions.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the difficulty is not one of scale; the passage is about a structure of recognition, not about collective political agents at any size.
-- **B:** Correct: Marx's accounts of labour, alienation and class are transformations of Hegelian resources rather than a transcription of Chapter IV A.
-- **C:** Incorrect: Hegel offers no class analysis at all here, so there is nothing for him to relocate into the state.
-- **D:** Incorrect: the theological reading is not the passage's subject, and its social receptions, while later, are not therefore baseless.
-
-**Examiner trap 29:** Name the receptions — Marxist, Kojèvian, feminist, anti-colonial — and say that they are transformations. Naming them shows range; retrojecting them shows carelessness.
-
-#### MCQ 30. Remedial — the "deduced the planets" charge
-
-A candidate writes: "Hegel discredited himself by deducing the number of the planets from the Idea." Which one of the following is the accurate response?
-
-A. The charge is correct, and Hegel later withdrew the deduction in the second edition of the *Encyclopaedia*.
-
-B. The charge is correct in substance but concerns the *Philosophy of Right* rather than the philosophy of nature.
-
-C. The charge is unanswerable, since Hegel's method commits him to deducing every natural particular.
-
-D. The charge is a caricature: at §250 Hegel concedes the impotence of nature and deduces no natural particulars.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: no such deduction is being defended and withdrawn; the story is a garbled version of a passage in the 1801 *Dissertation*.
-- **B:** Incorrect: the *Philosophy of Right* concerns objective Spirit and has nothing to do with the number of the planets.
-- **C:** Incorrect: the method does not commit Hegel to deducing particulars, which is exactly what the admission of contingency establishes.
-- **D:** Correct: §250 states that nature cannot hold fast to the Concept, which is why it teems with contingency, imprecision and monstrosity.
+- **A:** Incorrect: the method does not commit Hegel to deducing particulars, which is exactly what the admission of contingency establishes.
+- **B:** Correct: §250 states that nature cannot hold fast to the Concept, which is why it teems with contingency, imprecision and monstrosity.
+- **C:** Incorrect: no such deduction is being defended and withdrawn; the story is a garbled version of a passage in the 1801 *Dissertation*.
+- **D:** Incorrect: the *Philosophy of Right* concerns objective Spirit and has nothing to do with the number of the planets.
 
 **Examiner trap 30:** Answer this charge with a section number rather than an assurance. "*Encyclopaedia* §250" ends the discussion; "Hegel did not really mean that" does not.
 
-#### MCQ 31. Remedial — answering in the wrong register
-
-A candidate answers "What is the dialectical method?" entirely through the master–slave story. Which one of the following states the defect most precisely?
-
-A. The story is inaccurate, so the answer rests on a misreport of Chapter IV of the *Phenomenology*.
-
-B. The story is too well known, and examiners deduct marks for illustrations used by many candidates.
-
-C. The primary register of the method is the logical one; the phenomenological episode is one illustration.
-
-D. The story belongs to the historical register, so it should have been replaced by the one/some/all schema.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
@@ -754,37 +747,41 @@ D. The story belongs to the historical register, so it should have been replaced
 
 **Examiner trap 31:** Three registers, one method: logical (primary), phenomenological (one illustration), historical (required only for 2023). Naming the register you are working in is itself evidence of control.
 
-#### MCQ 32. Remedial — the owner boundary in a Hegel answer
+#### MCQ 32 — solution
 
-Which one of the following best states how far the syllabus item licenses discussion of the state, art and religion?
+**Answer: D.**
 
-A. Only as far as an executable account of objective and absolute Spirit and the actuality formula requires.
+**Option explanations:**
+- **A:** Incorrect: detailed political philosophy and the full philosophy of art remain optional enrichment and displace the printed core if expanded.
+- **B:** Incorrect: excluding them entirely makes 2023 Q1(b) unanswerable and leaves the actuality formula without its institutional application.
+- **C:** Incorrect: the Marxist theory of the state is cross-owned and belongs to Paper II rather than to this printed clause.
+- **D:** Correct: these appear to owned depth only — the bounded ladder of ethical life for the history question, and art and religion as the sensuous and representational forms of the same content.
 
-B. As far as a complete exposition of the *Philosophy of Right* and of the lectures on aesthetics normally requires.
+**Examiner trap 32:** "Bounded orientation" is a real category, not a hedge. Two or three sentences on ethical life earn marks; two or three paragraphs on the *Philosophy of Right* spend the time the printed clause needed.
 
-C. Not at all, since the printed clause names only the dialectical method and Absolute Idealism.
-
-D. As far as the comparison with Marx's theory of the state and with religious alienation requires.
+#### MCQ 33 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: these appear to owned depth only — the bounded ladder of ethical life for the history question, and art and religion as the sensuous and representational forms of the same content.
-- **B:** Incorrect: detailed political philosophy and the full philosophy of art remain optional enrichment and displace the printed core if expanded.
-- **C:** Incorrect: excluding them entirely makes 2023 Q1(b) unanswerable and leaves the actuality formula without its institutional application.
-- **D:** Incorrect: the Marxist theory of the state is cross-owned and belongs to Paper II rather than to this printed clause.
+- **A:** Correct: the opening of the *Logic* is conceptual and demands subsequent mediation.
+- **B:** Incorrect: the first transition diagnoses an **empty abstraction** and leads to determinate being, not the abolition of any coherent concept of being.
+- **C:** Incorrect: this is a logical transition in the *Logic*, not an inference from empirical or chronological flux.
+- **D:** Incorrect: the first move does not supply the immanent demonstrations needed for the subsequent categorical transitions.
 
-**Examiner trap 32:** "Bounded orientation" is a real category, not a hedge. Two or three sentences on ethical life earn marks; two or three paragraphs on the *Philosophy of Right* spend the time the printed clause needed.
+**Examiner trap 33:** "The Absolute becomes" is not a temporal biography of an evolving supernatural individual.
 
 ## PYQS AND ANSWER PRACTICE
+
+**Timed practice:** Use the printed mark value and directive to budget time, then cover every subpart with claim, named evidence, argument, objection or reply, and a qualified verdict. The following examiner checklists are study aids, not word-count ceilings or guarantees of marks.
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key. Question wording is reproduced exactly as printed in the official papers. The 2018, 2019, 2020, 2021, 2022, 2023, 2024 and 2025 Paper I texts are held locally in `books\philosophy_optional\`, and the English wording of every Hegel part below — including the three supporting parts owned by other topics — was read directly from those PDFs. Where the OCR of a mark column was unreliable, the mark value follows the repository's verified Western Philosophy PYQ ledger and is flagged. Doctrinal claims are attributed by **work and division**, and interpretive disputes — whether the Absolute is a metaphysical structure or historically achieved collective self-comprehension, whether dialectical contradiction is a real contradiction or the self-instability of one-sided categories, whether recognition is central to Hegelian freedom — are flagged as contested rather than settled.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper I parts are written longer than General Studies answers. The working bands are **10 marks — about 150 to 200 words**, **15 marks — about 250 to 300 words**, and **20 marks — about 340 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the verdict heading and the "why this earns marks" notes are teaching apparatus that sit **outside** the timed word count.
+**Answer-depth convention.** The mark value indicates relative argumentative scope, not a workbook word cap. Develop each demanded claim with named textual evidence, reasoning, an objection or qualification where appropriate, and a defensible verdict; the demand-decoding and examiner notes are study apparatus, not prescribed answer lengths.
 
-**Coverage:** six directly owned Hegel PYQs from 2018 to 2025 — every part the ledger routes to this syllabus item — three supporting parts that name Hegel but are owned by Topics 03, 04 and 10, and six original solved Mains models, two each at 10, 15 and 20 marks. ⚠️ **Corpus signal:** Hegel owns **6 of 112** Western Philosophy question-parts in the 2018–2025 corpus, with **2018 and 2024 the only years without a Hegel-owned part**; the topic is nevertheless the most concentrated in the paper, because two sub-themes dominate — the mechanism of dialectic and how it leads to the Absolute, and the challenge to Kant's phenomena/noumena distinction.
+**Coverage:** six directly owned Hegel PYQs from 2018 to 2025, one primary-owned 2026 part, three earlier supporting routed parts and seven original solved Mains models; the added original probes the three forms of Absolute Spirit. ⚠️ **Corpus signal (2018–2025 only):** Hegel owns **6 of 112** Western Philosophy parts, with **2018 and 2024 without Hegel-owned parts**. Dialectical method and the Absolute dominate; the later 2026 Kant–Hegel comparison is primarily Kant-owned and cross-linked here.
 
 **Citation discipline used in every answer.** The *Encyclopaedia* is cited by **§ number**, which is edition-invariant: §209 (the cunning of reason), §244 (the free release of the Idea), §247 (Nature as the Idea in the form of otherness), §250 (the impotence of nature). The *Phenomenology of Spirit* is cited by Preface paragraph — ¶17 ("not only as Substance, but equally as Subject") and ¶20 ("the True is the Whole") — or by chapter, Ch. IV A for lordship and bondage and Ch. IV B for Stoicism, Scepticism and the Unhappy Consciousness. The *Science of Logic* is cited by division; the *Philosophy of Right* by its Preface. The history lectures are cited **as lectures**, since they are posthumously edited student transcripts (Gans 1837; Karl Hegel 1840).
 
@@ -818,7 +815,6 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 **Answer-writing focus — 2019 Q1(c):** the question asks for a *role*, so the answer must connect the mechanism to a conception of truth. A script that defines dialectic and stops has described the tool without saying what it is for.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** thesis in two lines; mechanism in four; truth in three; worked case in two; verdict in two.
 
 - **Structure:** truth as result → mechanism → why preservation matters → one transition → qualification.
 - **Doctrine:** determinate negation; the triple sense of *Aufhebung*; the Whole as completion.
@@ -858,7 +854,6 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 **Answer-writing focus — 2020 Q1(d):** "Examine" requires the two rejected horns to be named as horns. Stating only what Hegel affirms leaves the examiner unable to see what the affirmation is *against*.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** horns in three lines; doctrine in three; distinction in three; objection and reply in two; verdict in one.
 
 - **Structure:** reject both horns → mediated moment → distinguish from Berkeley and from two-world Kant → objection and reply → qualified close.
 - **Doctrine:** finite appearance as a real mediated moment; identity-in-difference.
@@ -898,7 +893,6 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 **Answer-writing focus — 2021 Q2(a):** the second limb is the whole question. A script that explains dialectic and then separately describes Absolute Idealism has answered two questions and connected neither.
 
-**Exam-length execution — 20 marks, about 340 to 400 words:** frame in two lines; method in six; worked case in two; system in six; Kant in three; assessment in three; close in one.
 
 - **Structure:** frame → mechanism with provenance clause → worked transition → cumulative truth → the three domains → substance-as-subject → Kant → two named critics → qualified close.
 - **Doctrine:** determinate negation; sublation; concrete universal; Logic/Nature/Spirit; Subject as self-return.
@@ -936,7 +930,6 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 **Answer-writing focus — 2022 Q3(b):** "How does this method *help in realising*" is a functional question. The word that answers it is *cumulative*: preservation is what allows a sequence to constitute a whole.
 
-**Exam-length execution — 15 marks, about 250 to 300 words:** frame in one line; mechanism in five; realisation in five; critique in three; close in one.
 
 - **Structure:** immanent development → determinate negation and sublation → provenance clause and a demonstrated transition → cumulative truth → the three domains → substance-as-subject → three named critics → graded close.
 - **Doctrine:** *Aufhebung*'s triple sense; the Whole as result; Subject as self-return.
@@ -974,7 +967,6 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 **Answer-writing focus — 2023 Q1(b):** the fatal error named by the source is offering the civilisation list *as proof*. Mechanism first, list second, qualification third.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** mechanism in three lines; the claim in two; schema in three; cunning of reason in two; verdict in three.
 
 - **Structure:** mechanism → the consciousness-of-freedom claim with provenance → schema with a named example per stage → cunning of reason → required criticism.
 - **Doctrine:** norm, restriction, more adequate institution; *List der Vernunft*.
@@ -1012,7 +1004,6 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 **Answer-writing focus — 2025 Q1(e):** "Discuss" makes a one-sided demolition of Kant a partial answer. The verdict grid is what converts the criticism into an adjudication.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** Kant in two lines; three prongs in six; result in two; reply in one; verdict in two.
 
 - **Structure:** Kant stated fairly → three numbered prongs → result → Kant's reply → graded verdict.
 - **Doctrine:** relational limit; empty abstraction; unexplainable dualism; identity-in-difference.
@@ -1050,9 +1041,21 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 
 ⚠️ Berkeley rejects **matter** but not spirits, God or experienced order. Hegel's claim concerns the mediated intelligibility of nature and finite spirit within the Absolute, not dependence on one finite perceiver. Stating that in one sentence prevents the whole contrast from collapsing into "both are idealists".
 
+### 2026 verified primary-owned PYQ
+
+Q1(c) is Hegel-owned. Q4(b), Kant against Hegel on reality and thought, is primarily Kant-owned; its Hegelian half is a cross-reference, not a second Hegel PYQ.
+
+#### 2026 · Q1(c) · 10 marks
+
+**Question:** Explain Hegel's idea that the concept of the Absolute as being is the concept of the Absolute as becoming as a process of self-development.
+
+**Model answer.** A merely immediate, wholly indeterminate **pure being** has no content that could distinguish it from **pure nothing**. In the opening of Hegel's *Science of Logic*, their truth is **becoming**: not the external addition of motion to an inert Absolute, but a conceptual transition that reveals the insufficiency of an abstract starting point. Determinate being subsequently emerges; the logical exposition does not stop at the first triad.
+
+Likewise, the Absolute is not a finished object lying behind finite appearances. In the *Phenomenology of Spirit* (Preface), "the true is the whole", but the whole is the result of its development. Consciousness tests its own criteria; contradictions in its partial claims generate more adequate determinations, culminating in a standpoint that understands their mediation. To say that the Absolute "becomes" therefore means its truth is intelligible **through** self-articulation and reconciliation of partial forms, not that a transcendent god is physically growing in chronological time. For Hegel, the process is immanent: determinations are criticised by the demands they themselves generate, not by an externally imposed formula of thesis–antithesis–synthesis. An objection remains: showing abstract being insufficient does not by itself establish that the entire development necessarily reaches an all-inclusive Absolute. The claim must be defended through the transitions, not stipulated at the start.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the UPSC idiom — two at 10 marks, two at 15 and two at 20 — with complete model answers inside the declared bands. These are learner practice, not past papers.
+> Seven original questions: six earlier questions at different mark values plus an added Absolute-Spirit problem. Write for doctrinal completeness. These are learner practice, not past papers.
 
 #### Original 1 · 10 marks
 
@@ -1141,3 +1144,19 @@ D. As far as the comparison with Marx's theory of the state and with religious a
 **How far the claim holds.** ⚠️ The internal generation is genuine, and the analytic charge that this is literary description underestimates the performative contradiction in Scepticism. But the necessity is retrospective in both cases, and neither episode shows that its successor was the *only* available one.
 
 **Verdict.** ⚠️ They demonstrate more than illustration and less than necessity. That Feuerbach and Marx took the diagnosis while dropping the resolution, and Kierkegaard took the diagnosis while denying any resolution, is the best evidence both that Hegel identified something real and that he resolved it too quickly.
+
+#### Original 7 · 15 marks · untested Absolute-Spirit demand
+
+**Question:** Analyse why Hegel's Absolute Spirit manifests itself through art, religion and philosophy rather than being known by private intuition alone. Does the philosophical form render the others dispensable?
+
+##### Independent model answer
+
+**Thesis.** Hegel's Absolute is not an object concealed behind consciousness and suddenly apprehended by a solitary mind. **Spirit (Geist)** comes to understand its own freedom through objective practices and successive modes of self-presentation. Art, religion and philosophy are related modes of **Absolute Spirit**, not three unrelated theories of three different gods (*Encyclopaedia*, Philosophy of Spirit, §§553–577).
+
+**Three forms and their evidence.** In **art**, the Idea is presented to sensibility in a shaped work: classical sculpture, for example, can make human freedom visible in the bodily presentation of divinity. Its truth is not reducible to pigment or marble, yet its expression depends on sensuous particularity. In **religion**, the same reconciliation is represented (*Vorstellung*) in images and narratives of divine and human relation; Christianity's Incarnation functions within Hegel's interpretation as a representational expression of reconciliation. In **philosophy**, thought comprehends in the **concept (Begriff)** what those forms give to intuition or representation, making explicit the immanent relations that the image presupposes. The progression is a change in the **form of grasping** one truth, not a mechanical erasure of aesthetic or religious experience.
+
+**Why not private intuition?** If the claim were "I simply see the Absolute", no account would show how its content is justified, communicated or mediated through determinate experience. Hegel's critique of immediate knowledge parallels the *Phenomenology*'s lesson that putative immediate certainties acquire meaning only through conceptual mediation. Institutional and historical expressions of Spirit likewise resist Berkeley's picture of finite minds and divinely sustained ideas: Hegel's Absolute Idealism concerns the intelligibility of objective social and historical life, not the thesis that my perceptions alone produce the world.
+
+**Critical verdict.** Philosophy claims **conceptual priority** in articulating the shared content, not the practical power to replace an artwork with a definition or to prove that every believer must abandon religion. A critic may doubt Hegel's ranking: the form of a tragedy or religious practice might disclose something that cannot be translated without residue into system. Hegel can answer that philosophical comprehension preserves (*aufhebt*) what earlier forms achieve while overcoming their opacity. That answer establishes an ambitious account of mediation, but its necessity must be argued from the forms themselves; declaring philosophy final in advance would beg the question.
+
+**Why this earns marks:** Names the three forms and their distinct media, explains the need for mediation, distinguishes conceptual priority from aesthetic abolition, and tests the hierarchy against a substantive objection.

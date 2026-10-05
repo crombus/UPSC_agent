@@ -8,8 +8,8 @@ Geography supplied differentiated opportunities, constraints and hazards.
 Technology + labour + institutions + power selected and transformed them.
 |
 +-- 1. SUBCONTINENTAL FRAME
-|   +-- Himalayas / valleys / passes -> bounded connectivity, not isolation
-|   +-- Indus-Thar-Ganga-Brahmaputra -> alluvium, wetlands, routes and risk
+|   +-- Himalayas / valleys / passes -> climate, rivers and selective contact; not isolation
+|   +-- Indus / Thar / Ganga-Brahmaputra -> plains, arid margins, alluvium, wetlands, routes and risk
 |   +-- Vindhya-Satpura / Narmada-Tapi -> resources and north-south corridors
 |   +-- Deccan / Ghats / coasts / islands -> regional ecologies and maritime links
 |
@@ -20,7 +20,7 @@ Technology + labour + institutions + power selected and transformed them.
 |   +-- date channel activity and settlement occupation independently
 |
 +-- 3. MONSOON AND ECOLOGY
-|   +-- south-west + north-east + winter-rain regimes
+|   +-- south-west monsoon + north-east monsoon + winter-rain/disturbance regimes
 |   +-- seasonality + timing/uncertainty -> crops, pasture, storage, travel and navigation
 |   +-- soils: alluvial / black / red-lateritic -> different crop-water choices
 |   +-- forests = inhabited resource frontiers; grazing often overlaps farming
@@ -37,11 +37,12 @@ Technology + labour + institutions + power selected and transformed them.
 |   +-- trap: no one-river/one-civilisation simplification
 |
 +-- 6. UNEVEN CHRONOLOGY
-|   +-- prehistory: water, food and raw-stone landscapes
-|   +-- food production: regional; Koldihwa-Mahagara rice/date caution
+|   +-- prehistory: water, food, plants, animals and raw-stone landscapes
+|   +-- food production: regional; Koldihwa-Mahagara -> date + wild/domesticated-rice caution
 |   +-- Harappan: basin-piedmont-desert-coast urban-rural network
 |   +-- Vedic/post-Vedic: gradual north-west -> upper-Ganga reorientation
 |   +-- early historic: Ganga states + Deccan corridors + coastal networks
+|   +-- Tamilakam tiṇai: mountain / pastoral / riverine / seashore / arid; poetic-cultural, not administrative map
 |   +-- rule: asynchronous but interconnected, never one all-India ladder
 |
 +-- 7. GANGA / IRON / WET RICE / STATE
@@ -56,6 +57,7 @@ Technology + labour + institutions + power selected and transformed them.
 |
 +-- 9. ENVIRONMENTAL CHANGE
 |   +-- proxies: pollen, seeds, fauna, sediment, isotopes, palaeochannels, GIS
+|   +-- aDNA/genomics -> ancestry/relatedness only; not direct language/caste/religion proof
 |   +-- method: observation -> date/scale -> corroboration -> qualified inference
 |   +-- equifinality: drought/flood/conflict/disease/route shift may look alike
 |   +-- resilience: mobility, storage, crop choice, herding, exchange, institutions
@@ -63,7 +65,8 @@ Technology + labour + institutions + power selected and transformed them.
 +-- 10. UPSC ANSWER ROUTE
     +-- selective map: label only evidence used
     +-- factor -> named evidence -> mechanism -> outcome -> mediator -> limit
-    +-- 2023 GS-I Q1: explain role, do not list physical features
+    +-- 2023 GS-I Q1 (10 marks/150 words):
+    |   “Explain the role of geographical factors towards the development of Ancient India.”
     +-- conclusion: geography set the field; human agency produced uneven outcomes
 ```
 

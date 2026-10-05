@@ -1,808 +1,346 @@
 # Cold War End and New World Order — Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-01. Uses the same verified ownership and strict A-B-C-D rotation as the learning source.
-
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Gorbachev's reform intent, 1985?
+**Original hard and remedial bank.** Attempt questions first. Distinguish the 1989–91 transition from later Balkan and integration tests; check the separate key only afterwards.
 
-A. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-B. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-C. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-D. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
+### Q1. Gorbachev took office in 1985. Which sequence best captures the reform paradox?
 
-**Answer: A.**
-**Explanation:** Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union. The remaining options belong to different chronology, actor or analytical categories.
+A. Glasnost legitimised criticism before perestroika repaired economic performance or secured alternative institutions
+B. Perestroika completed a functioning market before public criticism became possible
+C. Glasnost meant military reinforcement of each Eastern European regime
+D. Gorbachev’s first declared aim was to dissolve the fifteen-republic union
 
-### Q2. Which chronology card should be filed under Gorbachev's reform intent, 1985?
+### Q2. Which policy distinction between glasnost and perestroika is correct?
 
-A. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-B. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-C. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-D. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
+A. Openness and restructuring both mean forcible reunification of Germany
+B. Openness widened public debate; restructuring tried to change political and economic organisation
+C. Restructuring was only a programme of banning newspapers
+D. Glasnost was the 1999 NATO campaign; perestroika the Dayton treaty
 
-**Answer: B.**
-**Explanation:** Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. A structural explanation stresses Soviet stagnation and defence burdens. What additional evidence is needed to explain the 1989–91 timing?
 
-### Q3. Which option preserves the source-bounded meaning of Gorbachev's reform intent, 1985?
+A. The claim that every armed stagnant state falls in the same year
+B. An assertion that NATO annexed all Soviet republics
+C. Gorbachev’s non-coercion, organised opposition and republican exit converted long-term weakness into immediate change
+D. Proof that no economic or nationality problems existed before 1991
 
-A. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-B. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-C. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-D. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
+### Q4. Which Poland–Hungary comparison preserves distinct national routes in 1988–89?
 
-**Answer: C.**
-**Explanation:** Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union. The remaining options belong to different chronology, actor or analytical categories.
+A. Hungary’s Sandinistas toppled Poland’s regime in 1979
+B. Poland opened the Austrian border while Hungarian Solidarity negotiated
+C. Both states waited until the Soviet Union dissolved in 1991 to begin reform
+D. Solidarity strikes forced negotiation in Poland; reform communists and border opening shaped change in Hungary
 
-### Q4. Which statement avoids a close-option trap about Gorbachev's reform intent, 1985?
+### Q5. Which country pairing falsifies “all 1989 transitions were equally peaceful”?
 
-A. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-B. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-C. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-D. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
+A. Czechoslovakia’s largely nonviolent Velvet Revolution versus Romania’s violent overthrow
+B. Poland’s Gulf coalition versus Hungary’s Kosovo campaign
+C. Romania’s treaty-led German reunification versus Poland’s 2004 enlargement
+D. Czechoslovakia’s violent 1999 bombing versus Romania’s Velvet Revolution
 
-**Answer: D.**
-**Explanation:** Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. Select the correctly ordered milestones in the German settlement.
 
-### Q5. Which statement correctly identifies Glasnost?
+A. Two Plus Four 1985 → reunification 1989 → Wall opened 1991
+B. Wall opened 9 November 1989 → Two Plus Four signed 12 September 1990 → reunification took effect 3 October 1990
+C. Wall opened October 1990 → treaty November 1990 → unity 1991
+D. Reunification September 1990 → treaty October 1990 → Wall opened 1991
 
-A. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-B. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-C. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-D. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
+### Q7. Why did street protest alone not settle German reunification?
 
-**Answer: A.**
-**Explanation:** Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed. The remaining options belong to different chronology, actor or analytical categories.
+A. Protest automatically ended the Four Powers’ legal role on 9 November 1989
+B. The Gulf War coalition drew Germany’s borders under Resolution 678
+C. The two German states and four former occupying powers negotiated external status, boundaries and sovereignty
+D. The ECSC in 1951 immediately merged East and West Germany
 
-### Q6. Which chronology card should be filed under Glasnost?
+### Q8. The USSR was a fifteen-republic federation. How could this institutional form accelerate disintegration?
 
-A. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-B. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-C. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-D. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
+A. All republican institutions were abolished before glasnost began
+B. A federation by definition cannot contain nationalist movements
+C. Every republic was simply a district of Yeltsin’s post-1991 Russia
+D. Republican governing structures became platforms for sovereignty when central party control weakened
 
-**Answer: B.**
-**Explanation:** Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. How does Lithuania’s March 1990 independence declaration fit the dissolution sequence?
 
-### Q7. Which option preserves the source-bounded meaning of Glasnost?
+A. Baltic restoration claims preceded the August 1991 coup and widened the challenge to union authority
+B. It occurred only after Gorbachev resigned in December 1991
+C. It legally reunited Germany in October 1990
+D. It marked the signing of Maastricht in 1993
 
-A. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-B. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-C. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-D. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
+### Q10. What made Yeltsin a consequential rival to Gorbachev before Soviet dissolution?
 
-**Answer: C.**
-**Explanation:** Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed. The remaining options belong to different chronology, actor or analytical categories.
+A. He was the sole former occupying power at Two Plus Four
+B. Leadership of the Russian republic created an alternative territorial source of legitimacy inside the union
+C. He led Poland’s Solidarity strikes of August 1988
+D. He commanded the Gulf coalition on behalf of NATO
 
-### Q8. Which statement avoids a close-option trap about Glasnost?
+### Q11. Which account of the August–December 1991 sequence is accurate?
 
-A. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-B. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-C. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-D. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
+A. The coup succeeded and permanently reasserted CPSU control
+B. Gorbachev resigned before the coup of August 1991
+C. A failed hard-line coup undermined party authority, accelerated republican exit, and preceded Gorbachev’s 25 December resignation
+D. Germany’s October 1990 unity ended the Soviet federation immediately
 
-**Answer: D.**
-**Explanation:** Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. What is the safest formulation of US unipolarity after Soviet dissolution?
 
-### Q9. Which statement correctly identifies Perestroika?
+A. The USA became the legal government of every postcolonial state
+B. A single hegemon removed all ethnic conflict in Europe
+C. Security Council approval of one coalition made a permanent UN army
+D. Predominant US military capability did not guarantee universal legitimacy, consent or control
 
-A. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-B. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-C. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-D. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
+### Q13. What exactly did UN Security Council Resolution 678 of 29 November 1990 enable?
 
-**Answer: A.**
-**Explanation:** Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed. The remaining options belong to different chronology, actor or analytical categories.
+A. Cooperating member states could use all necessary means if Iraq failed to withdraw from Kuwait after the deadline
+B. The UN directly commanded a standing blue-helmet army to invade Iraq
+C. NATO received permission to divide Yugoslavia in 1999
+D. The Council dissolved the USSR in December 1991
 
-### Q10. Which chronology card should be filed under Perestroika?
+### Q14. Why was the 1990–91 Gulf War an incomplete test of a “new world order”?
 
-A. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-B. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-C. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-D. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
+A. It established a permanent Security Council-commanded force
+B. Reversing interstate aggression with Council alignment did not solve internally fragmented states or justify every later intervention
+C. It proved the UN could not agree on any use of force in 1990
+D. It ended European nationalism and refugee displacement
 
-**Answer: B.**
-**Explanation:** Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Perestroika?
-
-A. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-B. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-C. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-D. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-
-**Answer: C.**
-**Explanation:** Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Perestroika?
-
-A. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-B. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-C. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-D. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-
-**Answer: D.**
-**Explanation:** Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Structural burdens?
-
-A. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-B. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-C. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-D. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-
-**Answer: A.**
-**Explanation:** Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Structural burdens?
-
-A. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-B. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-C. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-D. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-
-**Answer: B.**
-**Explanation:** Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Structural burdens?
-
-A. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-B. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-C. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-D. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-
-**Answer: C.**
-**Explanation:** Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Structural burdens?
-
-A. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-B. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-C. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-D. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-
-**Answer: D.**
-**Explanation:** Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Multi-causal end debate?
-
-A. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-B. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-C. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-D. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-
-**Answer: A.**
-**Explanation:** Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Multi-causal end debate?
-
-A. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-B. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-C. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-D. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-
-**Answer: B.**
-**Explanation:** Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Multi-causal end debate?
-
-A. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-B. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-C. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-D. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-
-**Answer: C.**
-**Explanation:** Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Multi-causal end debate?
-
-A. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-B. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-C. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-D. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-
-**Answer: D.**
-**Explanation:** Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Poland and Hungary, 1988-89?
-
-A. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-B. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-C. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-D. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-
-**Answer: A.**
-**Explanation:** Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Poland and Hungary, 1988-89?
-
-A. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-B. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-C. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-D. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-
-**Answer: B.**
-**Explanation:** Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Poland and Hungary, 1988-89?
-
-A. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-B. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-C. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-D. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-
-**Answer: C.**
-**Explanation:** Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Poland and Hungary, 1988-89?
-
-A. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-B. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-C. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-D. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-
-**Answer: D.**
-**Explanation:** Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Eastern Europe and the Wall, 1989?
-
-A. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-B. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-C. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-D. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-
-**Answer: A.**
-**Explanation:** East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Eastern Europe and the Wall, 1989?
-
-A. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-B. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-C. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-D. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-
-**Answer: B.**
-**Explanation:** East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Eastern Europe and the Wall, 1989?
-
-A. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-B. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-C. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-D. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-
-**Answer: C.**
-**Explanation:** East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Eastern Europe and the Wall, 1989?
-
-A. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-B. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-C. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-D. East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-
-**Answer: D.**
-**Explanation:** East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies German reunification, 1990?
-
-A. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-B. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-C. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-D. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-
-**Answer: A.**
-**Explanation:** The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under German reunification, 1990?
-
-A. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-B. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-C. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-D. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-
-**Answer: B.**
-**Explanation:** The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of German reunification, 1990?
-
-A. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-B. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-C. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-D. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-
-**Answer: C.**
-**Explanation:** The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about German reunification, 1990?
-
-A. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-B. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-C. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-D. The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-
-**Answer: D.**
-**Explanation:** The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Republican sovereignty?
-
-A. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-B. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-C. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-D. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-
-**Answer: A.**
-**Explanation:** Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Republican sovereignty?
-
-A. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-B. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-C. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-D. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-
-**Answer: B.**
-**Explanation:** Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Republican sovereignty?
-
-A. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-B. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-C. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-D. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-
-**Answer: C.**
-**Explanation:** Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Republican sovereignty?
-
-A. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-B. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-C. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-D. Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-
-**Answer: D.**
-**Explanation:** Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Yeltsin as rival centre?
-
-A. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-B. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-C. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-D. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-
-**Answer: A.**
-**Explanation:** Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Yeltsin as rival centre?
-
-A. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-B. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-C. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-D. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-
-**Answer: B.**
-**Explanation:** Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Yeltsin as rival centre?
-
-A. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-B. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-C. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-D. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-
-**Answer: C.**
-**Explanation:** Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Yeltsin as rival centre?
-
-A. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-B. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-C. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-D. Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-
-**Answer: D.**
-**Explanation:** Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Failed coup, August 1991?
-
-A. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-B. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-C. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-D. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-
-**Answer: A.**
-**Explanation:** The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Failed coup, August 1991?
-
-A. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-B. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-C. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-D. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-
-**Answer: B.**
-**Explanation:** The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Failed coup, August 1991?
-
-A. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-B. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-C. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-D. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-
-**Answer: C.**
-**Explanation:** The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Failed coup, August 1991?
-
-A. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-B. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-C. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-D. The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-
-**Answer: D.**
-**Explanation:** The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Soviet dissolution, December 1991?
-
-A. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-B. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-C. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-D. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-
-**Answer: A.**
-**Explanation:** Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Soviet dissolution, December 1991?
-
-A. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-B. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-C. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-D. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-
-**Answer: B.**
-**Explanation:** Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Soviet dissolution, December 1991?
-
-A. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-B. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-C. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-D. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-
-**Answer: C.**
-**Explanation:** Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Soviet dissolution, December 1991?
-
-A. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-B. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-C. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-D. Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
-
-**Answer: D.**
-**Explanation:** Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Gulf War order test, 1990-91?
-
-A. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-B. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-C. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-D. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-
-**Answer: A.**
-**Explanation:** Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Gulf War order test, 1990-91?
-
-A. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-B. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-C. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-D. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-
-**Answer: B.**
-**Explanation:** Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Gulf War order test, 1990-91?
-
-A. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-B. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-C. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-D. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-
-**Answer: C.**
-**Explanation:** Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Gulf War order test, 1990-91?
-
-A. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-B. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-C. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-D. Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-
-**Answer: D.**
-**Explanation:** Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies US unipolar moment and limits?
-
-A. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-B. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-C. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-D. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-
-**Answer: A.**
-**Explanation:** The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under US unipolar moment and limits?
-
-A. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-B. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-C. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-D. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-
-**Answer: B.**
-**Explanation:** The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of US unipolar moment and limits?
-
-A. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-B. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-C. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-D. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-
-**Answer: C.**
-**Explanation:** The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about US unipolar moment and limits?
-
-A. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-B. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-C. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-D. The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-
-**Answer: D.**
-**Explanation:** The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Yugoslav fragmentation?
-
-A. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-B. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-C. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-D. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-
-**Answer: A.**
-**Explanation:** Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Yugoslav fragmentation?
-
-A. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-B. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-C. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-D. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-
-**Answer: B.**
-**Explanation:** Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Yugoslav fragmentation?
-
-A. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-B. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-C. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-D. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-
-**Answer: C.**
-**Explanation:** Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Yugoslav fragmentation?
-
-A. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-B. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-C. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-D. Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-
-**Answer: D.**
-**Explanation:** Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies NATO after bipolarity?
-
-A. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-B. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-C. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-D. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-
-**Answer: A.**
-**Explanation:** Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under NATO after bipolarity?
-
-A. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-B. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-C. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-D. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-
-**Answer: B.**
-**Explanation:** Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of NATO after bipolarity?
-
-A. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-B. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-C. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-D. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-
-**Answer: C.**
-**Explanation:** Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about NATO after bipolarity?
-
-A. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-B. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-C. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-D. Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
-
-**Answer: D.**
-**Explanation:** Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies European Union settlement?
-
-A. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-B. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-C. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-D. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-
-**Answer: A.**
-**Explanation:** ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under European Union settlement?
-
-A. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-B. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-C. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-D. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-
-**Answer: B.**
-**Explanation:** ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of European Union settlement?
-
-A. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-B. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-C. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-D. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-
-**Answer: C.**
-**Explanation:** ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about European Union settlement?
-
-A. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-B. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-C. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-D. ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-
-**Answer: D.**
-**Explanation:** ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Globalisation within the order?
-
-A. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-B. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-C. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-D. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-
-**Answer: A.**
-**Explanation:** Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Globalisation within the order?
-
-A. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-B. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-C. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-D. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-
-**Answer: B.**
-**Explanation:** Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Globalisation within the order?
-
-A. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-B. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-C. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-D. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-
-**Answer: C.**
-**Explanation:** Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Globalisation within the order?
-
-A. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-B. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-C. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-D. Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-
-**Answer: D.**
-**Explanation:** Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Global South agency?
-
-A. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-B. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-C. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-D. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-
-**Answer: A.**
-**Explanation:** Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Global South agency?
-
-A. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-B. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-C. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-D. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-
-**Answer: B.**
-**Explanation:** Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Global South agency?
-
-A. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-B. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-C. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-D. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-
-**Answer: C.**
-**Explanation:** Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Global South agency?
-
-A. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-B. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-C. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-D. Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-
-**Answer: D.**
-**Explanation:** Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies India's bounded relevance?
-
-A. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-B. Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-C. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-D. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-
-**Answer: A.**
-**Explanation:** For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under India's bounded relevance?
-
-A. Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-B. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-C. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-D. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-
-**Answer: B.**
-**Explanation:** For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of India's bounded relevance?
-
-A. Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-B. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-C. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-D. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-
-**Answer: C.**
-**Explanation:** For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about India's bounded relevance?
-
-A. Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-B. Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-C. Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-D. For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
-
-**Answer: D.**
-**Explanation:** For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. Which causal account of the Yugoslav wars avoids the “ancient hatreds” shortcut?
+
+A. Ethnic conflict was biologically inevitable without political leadership
+B. German reunification directly ordered ethnic cleansing in Bosnia
+C. Federal weakness interacted with Milošević’s and Tuđman’s nationalist choices and Bosnia’s mixed demography
+D. All conflicts began only when NATO acted in 1999
+
+### Q16. Which Bosnia–Kosovo distinction is historically correct?
+
+A. Dayton ended both conflicts permanently before 1991
+B. Kosovo 1995 was the treaty ending Bosnia; Dayton began in 1999
+C. The Gulf coalition’s 1990 mandate automatically authorised the Kosovo campaign
+D. Dayton ended the Bosnian war in 1995; NATO intervened over Kosovo in 1999 amid contested authorisation
+
+### Q17. Which close-option statement about 1999 NATO action is defensible?
+
+A. Kosovo intervention extended alliance practice beyond territorial defence and raised sovereignty and authorisation disputes
+B. NATO was founded in 1999 specifically to enforce Resolution 678
+C. The intervention proves the Security Council smoothly commanded every Balkan operation
+D. Bosnia’s Dayton treaty was signed after NATO’s Kosovo campaign
+
+### Q18. Which integration sequence is historically correct?
+
+A. Maastricht 1951 → EEC 2004 → ECSC 1992
+B. ECSC 1951–52 → Treaty of Rome/EEC 1957 → Maastricht signed 1992, effective 1993 → eastern enlargement 2004
+C. EU began only after the Soviet dissolution with no postwar roots
+D. Treaty of Rome created NATO and ended the Bosnian war
+
+### Q19. What was the ECSC’s strategic logic before the end of the Cold War?
+
+A. It authorised member-state use of force to restore Kuwait
+B. It settled Soviet republican claims in December 1991
+C. Pooling coal and steel made renewed Franco-German conflict harder while integrating strategic industries
+D. It launched the Kosovo intervention in 1999
+
+### Q20. Which distinction best describes EU “deepening” and “widening” after 1991?
+
+A. Maastricht and enlargement both mean dissolving all member-state sovereignty
+B. Widening referred only to the 1957 founding six, not new entrants
+C. Deepening meant replacing the European Union with the UN
+D. Maastricht expanded political and monetary cooperation; 2004 admitted former communist members
+
+### Q21. Which evidence most directly challenges a deterministic “liberal end of history”?
+
+A. Post-Soviet shock therapy brought social hardship, while Yugoslav wars and uneven globalisation followed regime collapse
+B. German reunification alone proved every republic democratised identically
+C. UN Council action in Kuwait settled Bosnia without delay
+D. Maastricht compelled all postcolonial countries to enter the EU
+
+### Q22. How should globalisation enter a Topic 21 answer rather than displacing Topic 20?
+
+A. As an excuse to replace the 1989–91 sequence with a complete history of WTO quotas
+B. As one component of post-1991 liberal-order confidence, qualified by unequal capacity and continuing policy constraints
+C. As proof that debt and unequal starting capacities vanished in 1991
+D. As evidence that every postcolonial state became a passive policy recipient
+
+### Q23. What is the source-bounded India linkage to 1991?
+
+A. India’s reform details can be inferred solely from German unification
+B. India’s 1991 crisis meant it surrendered all foreign-policy agency
+C. Soviet collapse changed the strategic setting while India’s balance-of-payments crisis prompted domestic economic recalibration
+D. The 1990 Gulf resolution was India’s new constitution
+
+### Q24. Which final verdict captures both the new-order promise and its early limits?
+
+A. The Council’s Kuwait action guaranteed prompt agreement over every civil war
+B. Soviet dissolution eliminated all claims to national sovereignty
+C. The 2004 EU enlargement occurred before Maastricht and Warsaw Pact decline
+D. The Gulf coalition displayed exceptional alignment and US capability, whereas Balkan wars, sovereignty disputes and unequal adjustment exposed a contested order
+
+### Separate answer key and option-by-option explanations
+
+**Q1 — A.**
+- **A:** Political opening moved faster than systemic restructuring.
+- **B:** The reforms did not deliver a stable market first.
+- **C:** Openness and non-intervention moved away from that policy.
+- **D:** He sought to rescue a humane reformed socialism.
+- **Trap:** Intended rescue and eventual dissolution must be kept distinct.
+
+**Q2 — B.**
+- **A:** They were Soviet domestic reforms.
+- **B:** Their different mechanisms compounded a sequencing problem.
+- **C:** Opening discussion is closer to glasnost.
+- **D:** Neither is a Balkan intervention.
+- **Trap:** Do not use the two reform names as synonyms.
+
+**Q3 — C.**
+- **A:** Stagnation is not sufficient for a dated collapse.
+- **B:** No such sequence occurred in the owner.
+- **C:** Structures explain vulnerability; agency and institutional alternatives help explain timing.
+- **D:** The source identifies both earlier pressures.
+- **Trap:** Do not replace a multi-causal explanation with an inevitability claim.
+
+**Q4 — D.**
+- **A:** This imports an unrelated Latin American movement.
+- **B:** This exchanges the two national mechanisms.
+- **C:** Their decisive openings preceded dissolution.
+- **D:** Moscow’s restraint enabled, but local actors specified, each path.
+- **Trap:** Eastern European change was a wave, not one uniform script.
+
+**Q5 — A.**
+- **A:** The contrast establishes route-specific levels of violence.
+- **B:** Neither episode describes their 1989 transitions.
+- **C:** These belong to different states and periods.
+- **D:** The assignments and dates are wrong.
+- **Trap:** Do not universalise the Velvet label across 1989.
+
+**Q6 — B.**
+- **A:** Each step has been moved to an incorrect date.
+- **B:** Popular opening preceded treaty resolution and legal state merger.
+- **C:** The opening was in November 1989.
+- **D:** A treaty cannot follow the legal merger in this sequence.
+- **Trap:** Opening a border is not the same event as reunifying two states.
+
+**Q7 — C.**
+- **A:** Legal external questions still required agreement.
+- **B:** The resolution concerned Kuwait.
+- **C:** The Two Plus Four settlement supplied a legal-diplomatic solution.
+- **D:** The ECSC was an earlier Western European integration project.
+- **Trap:** Do not conflate popular causation with treaty-based legal completion.
+
+**Q8 — D.**
+- **A:** The source describes republican sovereignty claims.
+- **B:** Nationality mobilisation was central to the process.
+- **C:** The USSR dissolved into multiple independent states.
+- **D:** Territorial institutions provided alternatives to the union centre.
+- **Trap:** The USSR did not simply change its name to Russia.
+
+**Q9 — A.**
+- **A:** Republican sovereignty did not originate solely in the failed coup.
+- **B:** March 1990 precedes his resignation.
+- **C:** Lithuanian independence and German reunification are different events.
+- **D:** Maastricht concerns the European Union.
+- **Trap:** The failed coup accelerated an already developing national challenge.
+
+**Q10 — B.**
+- **A:** Four former powers and two German states signed.
+- **B:** Russian republican power competed with the union presidency.
+- **C:** Solidarity was a Polish opposition movement.
+- **D:** The Gulf coalition is a distinct US-led operation.
+- **Trap:** The Russian republic and the USSR were not institutionally identical.
+
+**Q11 — C.**
+- **A:** The coup failed.
+- **B:** His resignation was in December.
+- **C:** Failed restoration weakened rather than rescued the centre.
+- **D:** The USSR dissolved more than a year later.
+- **Trap:** A coup, republican exit and a resignation are connected but distinct events.
+
+**Q12 — D.**
+- **A:** Sovereign agency persisted.
+- **B:** Yugoslav wars followed.
+- **C:** Coalition authorisation was case-specific.
+- **D:** Distribution of power alone does not constitute a durable order.
+- **Trap:** Unipolar capability and uncontested world government are not equivalent.
+
+**Q13 — A.**
+- **A:** Council authority underpinned member-state coalition enforcement.
+- **B:** The campaign was coalition enforcement, not UN-commanded peacekeeping.
+- **C:** That was a distinct disputed intervention.
+- **D:** Republican and union processes ended the USSR.
+- **Trap:** Resolution 678 was conditional authorisation, not a general licence for future interventions.
+
+**Q14 — B.**
+- **A:** The coalition was led by member states.
+- **B:** Kuwait and Yugoslavia posed different political-legal problems.
+- **C:** Resolution 678 reflects unusual alignment.
+- **D:** The later Balkan conflicts disprove this.
+- **Trap:** Successful enforcement against one invasion is not universal order.
+
+**Q15 — C.**
+- **A:** The source rejects inevitability.
+- **B:** No such causal link is established.
+- **C:** Political mobilisation and compromised institutions shaped violence.
+- **D:** Bosnia’s war and settlement preceded Kosovo.
+- **Trap:** Name the agents and institutions instead of naturalising violence.
+
+**Q16 — D.**
+- **A:** Neither date nor scope fits.
+- **B:** The order is reversed.
+- **C:** The legal categories and geography differ.
+- **D:** The settlement and later crisis were separate stages.
+- **Trap:** Dayton did not settle Kosovo.
+
+**Q17 — A.**
+- **A:** Military capacity and legal-political legitimacy must be analysed separately.
+- **B:** The resolution concerns Kuwait, and NATO predated 1999.
+- **C:** The source describes contested authorisation.
+- **D:** Dayton was in 1995.
+- **Trap:** Humanitarian justification does not settle an authorisation dispute by itself.
+
+**Q18 — B.**
+- **A:** The institutional chronology is reversed.
+- **B:** Peace, common market, broader union and widening were distinct stages.
+- **C:** ECSC and EEC preceded 1991.
+- **D:** Neither was the treaty’s function.
+- **Trap:** The EU was not merely an EEC renaming.
+
+**Q19 — C.**
+- **A:** That was a 1990 UN resolution.
+- **B:** The ECSC was a Western European institution.
+- **C:** An economic institution served a security purpose.
+- **D:** Kosovo involved NATO, not the ECSC.
+- **Trap:** European integration began before post-1991 enlargement.
+
+**Q20 — D.**
+- **A:** Member states retained and contested powers.
+- **B:** The 2004 enlargement expanded membership.
+- **C:** The EU and UN remained distinct institutions.
+- **D:** Integration changed both competence and geographic reach.
+- **Trap:** Neither expansion nor deeper cooperation implies inevitable federation.
+
+**Q21 — A.**
+- **A:** Divergent outcomes refute automatic democratic and equitable convergence.
+- **B:** One negotiated case cannot stand for all states.
+- **C:** Balkan response was hesitant.
+- **D:** No such universal mechanism existed.
+- **Trap:** Collapse of a Soviet regime type does not prove the failure of every socialist idea.
+
+**Q22 — B.**
+- **A:** Thematic economic history belongs to Topic 20.
+- **B:** Here it tests a political order claim, not the full history of world trade.
+- **C:** The owner explicitly retains these limits.
+- **D:** Global South actors continued bargaining.
+- **Trap:** Use economic integration as bounded context, not the entire topic.
+
+**Q23 — C.**
+- **A:** The detailed 1991 reforms have a separate Economy owner.
+- **B:** The source stresses continued strategic choice.
+- **C:** Two distinct shocks underlay diversification and reform.
+- **D:** International coalition enforcement does not rewrite domestic law.
+- **Trap:** Do not confuse a world-history context with India’s separately sourced policy detail.
+
+**Q24 — D.**
+- **A:** Bosnia and Kosovo show uneven intervention.
+- **B:** Successor states and the Global South maintained sovereignty.
+- **C:** The actual sequence runs the other way.
+- **D:** A real unipolar moment did not establish permanent consensual rules.
+- **Trap:** Do not read later diplomatic arrangements back into the short 1990–91 moment.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -853,220 +391,74 @@ D. For India, Soviet collapse and the 1991 balance-of-payments crisis required s
 
 **Question:** Why did Gorbachev's reforms destabilise the system he intended to save? Answer in about 150 words.
 
-**Model thesis:** Openness legalised criticism while partial restructuring disrupted command without quickly supplying prosperity, institutional trust or a stable replacement order.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+Gorbachev took power in 1985 intending to renew Soviet socialism, not abolish communism or dissolve the union. His reforms nonetheless loosened controls faster than they produced a credible alternative. *Glasnost* legitimised criticism and political debate, exposing the Communist Party's failures; *perestroika* attempted to decentralise party, state and economy but disrupted command arrangements without rapidly improving daily life. Competitive elements weakened the CPSU monopoly, while republican institutions offered nationalist movements a means of asserting sovereignty.
 
-- Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union.
-- Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed.
-- Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed.
-
-**Qualified conclusion:** Openness legalised criticism while partial restructuring disrupted command without quickly supplying prosperity, institutional trust or a stable replacement order.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did Gorbachev's reforms destabilise the system he intended to save? Answer in about 150…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Openness legalised criticism while partial restructuring disrupted command without quickly supplying prosperity, institutional trust or a stable replacement order.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Gorbachev sought to reform and save Soviet socialism rather than deliberately destroy communism or dissolve the union. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Glasnost widened openness, public criticism and political participation before a trusted replacement order had formed. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Perestroika tried to restructure party, state and economy but disrupted command mechanisms before a functioning market or decentralised system existed. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Openness legalised criticism while partial restructuring disrupted command without quickly supplying prosperity, institutional trust or a stable replacement order.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did Gorbachev's reforms destabilise the system he intended to save? Answer in about 150…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
+Externally, his refusal to use old-style force to save East European communist governments removed a crucial guarantee of their survival. Polish Solidarity exploited this opening through strikes and negotiations. Yet Soviet stagnation and defence and Afghan-war burdens preceded Gorbachev: reform did not invent the underlying weaknesses, nor did it predetermine every national outcome. The decisive sequencing problem was that openness widened opposition and raised expectations before economic restructuring or a trusted political order could restore legitimacy.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Why was German reunification both a popular revolution and a diplomatic settlement? Answer in about 150 words.
 
-**Model thesis:** Protest and the Wall opening ended enforced division, while Two Plus Four diplomacy settled borders, sovereignty and the external legal framework before 3 October 1990.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+German reunification required two different kinds of change. East German demonstrations and divisions among rulers, reinforced by Hungary's opening toward Austria, undermined the barriers to exit. The Berlin Wall opened on 9 November 1989: popular mobilisation had ended enforced separation, but had not yet made one sovereign German state.
 
-- East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
-- The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy.
-
-**Qualified conclusion:** Protest and the Wall opening ended enforced division, while Two Plus Four diplomacy settled borders, sovereignty and the external legal framework before 3 October 1990.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why was German reunification both a popular revolution and a diplomatic settlement? Answer in…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Protest and the Wall opening ended enforced division, while Two Plus Four diplomacy settled borders, sovereignty and the external legal framework before 3 October 1990.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Two Plus Four Treaty was signed on 12 September 1990 and legal reunification followed on 3 October, joining popular revolution to great-power diplomacy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Protest and the Wall opening ended enforced division, while Two Plus Four diplomacy settled borders, sovereignty and the external legal framework before 3 October 1990.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why was German reunification both a popular revolution and a diplomatic settlement? Answer in…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
+Borders, security and the former occupying powers' rights remained international questions. The two German states and four powers signed the Two Plus Four Treaty on 12 September 1990, settling external status; reunification took legal effect on 3 October. Negotiators could not have supplied the legitimacy created by protest, while protesters alone could not settle the diplomatic and legal conditions. The wider 1989 wave was not uniform: Czechoslovakia's transition was largely peaceful, Romania's violent. The German outcome accordingly should not be projected onto all of Eastern Europe. Its sequence joins revolution from below to agreement among states, without confusing the Wall's opening with legal reunification.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Why did the Cold War end? Answer in about 250 words.
 
-**Model thesis:** Structural burdens created vulnerability; Gorbachev's reforms and restraint changed the rules; organised societies, national movements and diplomacy converted crisis into a largely negotiated ending.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The Cold War ended through the interaction of Soviet weakness, political choice and mobilisation, rather than a single Western victory. Economic stagnation, technological lag and consumer shortages eroded the Soviet system's performance claim; defence competition and Afghanistan burdened resources and legitimacy. These pressures made reform attractive, but armed states can survive prolonged stagnation, so they do not explain the specific timing.
 
-- Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform.
-- Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult.
-- Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route.
-- East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script.
+From 1985 Gorbachev sought to rescue socialism through *glasnost* and *perestroika*. Openness exposed failures faster than economic restructuring improved living standards. Arms diplomacy and his decision not to use old-style Soviet force to preserve Eastern European client regimes removed the guarantee on which their rulers relied. Reagan-era pressure affected Soviet calculations; diplomacy was not simply coercion.
 
-**Qualified conclusion:** Structural burdens created vulnerability; Gorbachev's reforms and restraint changed the rules; organised societies, national movements and diplomacy converted crisis into a largely negotiated ending.
+Societies used the resulting opening differently. Polish Solidarity's strikes in 1988 pushed the government toward negotiation and 1989 elections. Hungarian reformers permitted competitive change and opened the Austrian border; East German demonstrators helped bring down the Wall on 9 November 1989. Czechoslovakia's change was comparatively peaceful, whereas Romania's overthrow was violent. Nationality mobilisation inside the Soviet federation and Yeltsin's rival Russian political centre subsequently weakened union authority.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the Cold War end? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Structural burdens created vulnerability; Gorbachev's reforms and restraint changed the rules; organised societies, national movements and diplomacy converted crisis into a largely negotiated ending.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Economic stagnation, technological weakness, consumer shortages, defence expenditure and the Afghan war narrowed Soviet legitimacy and room for reform. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Structural weakness made reform urgent; reform, mobilisation, nationality politics, diplomacy and non-use of mass force made reversal increasingly difficult. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Solidarity forced negotiation and elections in Poland, while Hungarian reform and border opening weakened the regional system through a different route. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** East German protest and elite division opened the Berlin Wall on 9 November, Czechoslovakia changed peacefully, and Romania's violent overthrow disproved a single 1989 script. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Structural burdens created vulnerability; Gorbachev's reforms and restraint changed the rules; organised societies, national movements and diplomacy converted crisis into a largely negotiated ending.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did the Cold War end? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
+Structural weakness explains why change was necessary; Gorbachev's decisions explain the loss of coercive guarantees; organised national actors explain the routes of regime change. The Cold War's ending should therefore not be collapsed into the separate December 1991 dissolution of the Soviet state, nor treated as proof that every successor would adopt one liberal model.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Explain the dissolution dynamics of the Soviet Union. Answer in about 250 words.
 
-**Model thesis:** Republican sovereignty claims, Yeltsin's rival Russian centre and the failed August coup destroyed union and party authority, culminating in republican exit and Gorbachev's resignation.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The USSR's dissolution was the breakdown of a fifteen-republic federal state, not just the replacement of its leader. Stagnation and party legitimacy problems prompted Gorbachev's reforms after 1985. *Glasnost* permitted public criticism and *perestroika* disturbed central economic control without quickly producing a reliable replacement. As Moscow weakened, republican institutions gave nationalist claims territorial form: Lithuania declared restored independence in March 1990, and other republics pursued greater sovereignty.
 
-- Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened.
-- Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU.
-- The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union.
-- Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change.
+This process generated rival centres of authority. Boris Yeltsin led the Russian republic, whose elected institutions could challenge both the CPSU and Gorbachev's union presidency. Independence movements therefore acquired more than a protest vocabulary: they had political organs through which to make exit plausible. Reform and republican mobilisation interacted; neither economic failure nor nationality feeling alone fixes the timing of collapse.
 
-**Qualified conclusion:** Republican sovereignty claims, Yeltsin's rival Russian centre and the failed August coup destroyed union and party authority, culminating in republican exit and Gorbachev's resignation.
+The attempted hard-line coup in August 1991 was intended to restore central rule but failed. Instead of reversing secession, it discredited remaining party authority and accelerated republican departures. Decisions by the republics ended the union in December; Gorbachev resigned on 25 December 1991. The distinction between loss of party monopoly, transfer of power to republics and formal end of the union matters: these were linked stages, not one coup or one resignation.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the dissolution dynamics of the Soviet Union. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Republican sovereignty claims, Yeltsin's rival Russian centre and the failed August coup destroyed union and party authority, culminating in republican exit and Gorbachev's resignation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Baltic and other union republics used territorial institutions to move from autonomy demands toward sovereign exit as Moscow weakened. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Boris Yeltsin used the Russian republic as a competing democratic and territorial centre against Gorbachev's union presidency and the CPSU. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The hard-line coup failed, shattered remaining Communist Party authority and accelerated republican departures instead of restoring the union. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Republican exits ended the fifteen-republic union; Gorbachev resigned on 25 December, so dissolution was more than a Moscow government change. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Republican sovereignty claims, Yeltsin's rival Russian centre and the failed August coup destroyed union and party authority, culminating in republican exit and Gorbachev's resignation.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain the dissolution dynamics of the Soviet Union. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
+Nor did the USSR simply become Russia: several successor states emerged from the former federal units. Western pressure and Soviet stagnation form part of the setting, but institutional exits, Yeltsin's rival centre, reform sequencing and the coup's failure explain how that setting became actual dissolution.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Did the Gulf War inaugurate a durable new world order? Answer in about 300 words.
 
-**Model thesis:** Council alignment and US-led capability reversed interstate aggression, but Yugoslavia and NATO's contested adaptation showed that civil wars, legitimacy and sovereignty lacked one accepted enforcement formula.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The Gulf War displayed exceptional post-Cold-War cooperation, but not a universally accepted or durable enforcement system. Iraq's invasion of Kuwait furnished a clear case of interstate aggression. Security Council Resolution 678, adopted on 29 November 1990, authorised member states cooperating with Kuwait to use all necessary means if Iraq did not withdraw after the deadline. In 1990–91 a broad US-led coalition reversed the occupation. Agreement in the Council and American military reach together made collective action effective in this instance.
 
-- Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait.
-- The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government.
-- Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred.
-- Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation.
+The legal category matters: coalition forces acted with Council authorisation; they were neither a standing UN army nor ordinary UN blue-helmet peacekeepers. US predominance after Soviet collapse was a distribution of capability, not a general power to secure consent or govern every conflict. Within Europe, Yugoslavia exposed those limits. The failure of its communist federal structure, Milošević's Serbian and Tuđman's Croatian nationalism, and Bosnia's mixed population made compromise difficult. Ethnic cleansing and displacement followed while international action was hesitant; reducing these wars to ancient hatreds would conceal leadership and institutional failure.
 
-**Qualified conclusion:** Council alignment and US-led capability reversed interstate aggression, but Yugoslavia and NATO's contested adaptation showed that civil wars, legitimacy and sovereignty lacked one accepted enforcement formula.
+Dayton ended the Bosnian war in 1995 but did not settle Kosovo. NATO intervention in Kosovo in 1999 went beyond territorial defence and reopened questions of sovereignty, authorisation and selective humanitarian enforcement. A method effective against an invading army could not automatically resolve a civil war or establish settled rules for intervention. Post-Soviet disruption also complicated expectations that the collapse of a regime would yield stable liberal democracy. European integration advanced through Maastricht and later eastern enlargement, yet its negotiated sovereignty bargain was different from Gulf coalition action.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Did the Gulf War inaugurate a durable new world order? Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Council alignment and US-led capability reversed interstate aggression, but Yugoslavia and NATO's contested adaptation showed that civil wars, legitimacy and sovereignty lacked one accepted enforcement formula.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Security Council Resolution 678 authorised cooperating member states to use all necessary means after the deadline, enabling a US-led coalition to reverse Iraq's occupation of Kuwait. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The United States possessed unmatched global reach after Soviet collapse, but predominant capability did not create universal legitimacy, unlimited control or world government. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Communist federal breakdown, leadership choices, mixed settlement and territorial nationalism produced wars and ethnic cleansing rather than an inevitable release of ancient hatred. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Dayton ended the Bosnian war in 1995 but not Kosovo; NATO's 1999 intervention showed adaptation beyond territorial defence and controversy over sovereignty and authorisation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Council alignment and US-led capability reversed interstate aggression, but Yugoslavia and NATO's contested adaptation showed that civil wars, legitimacy and sovereignty lacked one accepted enforcement formula.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Did the Gulf War inaugurate a durable new world order? Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
+The War therefore supports a *limited* new-order claim: Security Council alignment and unipolar capability briefly coincided. Its Balkan counter-test demonstrates that legitimate, predictable rules for diverse conflicts did not follow. Durability requires institutional consent as well as force, neither of which one coalition victory could guarantee.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Assess the post-1991 order from a Global South and Indian perspective. Answer in about 300 words.
 
-**Model thesis:** EU enlargement and globalisation widened integration, but unequal capacity and sovereign bargaining survived; India recalibrated partnerships and economic policy without accepting a single Western endpoint.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The end of bipolarity enlarged diplomatic possibilities for postcolonial states but did not equalise power or dictate one liberal endpoint. Soviet dissolution left the USA with unmatched military reach. Security Council authorisation for the Kuwait coalition showed what temporary agreement among major powers could achieve; delayed action in Bosnia and contested NATO intervention in Kosovo showed that legitimacy and sovereignty still constrained intervention. These are different conflicts, not evidence of a consistent new global constitution.
 
-- ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states.
-- Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived.
-- Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order.
-- For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned.
+Market opening and networks of trade, finance and production widened after 1991, supporting claims of liberal convergence. Yet inherited industrial capacity, commodity dependence and debt shaped which countries could profit and which faced pressure on policy autonomy. The “Global South” was neither one economic bloc nor a passive audience: states could bargain through the UN, regional organisations and issue-based coalitions. Integration offered opportunity while leaving unequal starting conditions and distributional conflict intact.
 
-**Qualified conclusion:** EU enlargement and globalisation widened integration, but unequal capacity and sovereign bargaining survived; India recalibrated partnerships and economic policy without accepting a single Western endpoint.
+European integration reinforces the distinction between historical institutions and a supposed sudden Western victory. The ECSC and EEC began in the 1950s as Franco-German peace and common-market projects. Maastricht, signed in 1992 and effective in 1993, broadened political and monetary cooperation; the 2004 enlargement incorporated former communist states. Such widening reshaped Europe's geopolitical map, but member states continued to contest sovereignty and adjustment. India's 1991 conjuncture joined the loss of a familiar Soviet strategic setting to its own balance-of-payments crisis. Economic recalibration and diversified major-power relations were responses to these separate pressures, not evidence that Indian foreign policy became externally dictated. Detailed reform measures and contemporary strategic choices belong to Economy and International Relations, rather than being invented for this historical comparison.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the post-1991 order from a Global South and Indian perspective. Answer in about 300…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** EU enlargement and globalisation widened integration, but unequal capacity and sovereign bargaining survived; India recalibrated partnerships and economic policy without accepting a single Western endpoint.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ECSC and EEC roots preceded 1991; Maastricht deepened union in 1992-93 and the 2004 enlargement incorporated many former communist states. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Expanding trade, finance and production networks strengthened liberal-convergence claims while unequal capacity, adjustment costs and policy-space conflicts survived. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Postcolonial states continued bargaining through the UN, regional organisations and issue coalitions; they were neither a uniform bloc nor passive recipients of Western order. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** For India, Soviet collapse and the 1991 balance-of-payments crisis required strategic and economic recalibration, while detailed liberalisation and strategic-autonomy content remains Economy- and IR-owned. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** EU enlargement and globalisation widened integration, but unequal capacity and sovereign bargaining survived; India recalibrated partnerships and economic policy without accepting a single Western endpoint.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Assess the post-1991 order from a Global South and Indian perspective. Answer in about 300…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
+Thus the order was unipolar in capability but plural in political agency. New institutions and markets changed bargaining conditions; they did not erase sovereignty, uneven development or the ability of countries such as India to seek strategic autonomy.

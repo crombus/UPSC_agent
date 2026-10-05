@@ -1,0 +1,28 @@
+{
+  "suite": "Essay-Model-Suite",
+  "audit": "strict-special-case",
+  "status": "passed",
+  "actionable_findings": [],
+  "observed_word_counts": {
+    "PYQ-01": 1069,
+    "PYQ-02": 1033,
+    "PYQ-03": 1037,
+    "PYQ-04": 1028,
+    "PYQ-05": 1007,
+    "PYQ-06": 1000,
+    "NEW-01": 1020,
+    "NEW-02": 1002,
+    "NEW-03": 1029,
+    "NEW-04": 1000,
+    "NEW-05": 1010,
+    "NEW-06": 1001
+  },
+  "duplicate_large_paragraph_groups": 0,
+  "authoritative_2020_a1": "Life is long journey between human being and being humane",
+  "v1_v2_holds": {
+    "v1": 64,
+    "v2": 36
+  },
+  "prompt_answer_separation": true,
+  "ordinary_final_mcq_and_csat_modified": false
+}

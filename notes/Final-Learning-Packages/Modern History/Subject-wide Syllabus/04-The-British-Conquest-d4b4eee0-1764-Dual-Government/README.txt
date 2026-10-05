@@ -1,19 +1,18 @@
 FINAL LEARNING PACKAGE
 ======================
 
-Topic: The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)
+Topic: The British Conquest of Bengal (Plassey, Buxar and Dual Government)
 Subject: Modern History
 Section: Subject-wide Syllabus
 Catalogue number: 04
-Source record ID: modern-indian-history-04:learner-v2:g4
-Source generation: 4
-Approval: Approval pending
+Approval: approved: true
 
 Deliverables
 ------------
-1. Complete Learning Session — PDF
-2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
+1. Complete Learning Session - PDF
+2. Solved Practice Workbook - PDF
+3. ASCII Master Flowchart - text and PDF
 
-Navigation command: Open final package: Modern History — Subject-wide Syllabus — The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)
+Graphical flowchart intentionally omitted by user export preference.
+
+Navigation command: Open final package: Modern History - Subject-wide Syllabus - The British Conquest of Bengal

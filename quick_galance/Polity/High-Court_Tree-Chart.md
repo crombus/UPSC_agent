@@ -1,6 +1,7 @@
 # Polity 21 - High Court and Subordinate Courts - Self-Contained Quick-Glance Tree
 
-> Stable sequence: core concept -> origin/timeline -> decoded constitutional and statutory spine -> mechanisms -> cases/reforms -> traps -> answer spine.
+> Stable sequence: core concept -> origin/timeline -> decoded constitutional and statutory spine -> mechanisms
+   -> cases/reforms -> traps -> answer spine.
 
 ## 1. Constitutional location and origin
 
@@ -59,7 +60,8 @@
 ## 7. Article 226 writ jurisdiction
 
 ```text
-+-- Article 226 covers Fundamental Rights and any other legal purpose; Article 32 is a Fundamental Right for FR enforcement.
++-- Article 226 covers Fundamental Rights and any other legal purpose; Article 32 is a Fundamental Right for FR
+   enforcement.
 +-- Article 226(2): material cause of action wholly or partly in territory; residence alone is insufficient.
 +-- Whirlpool (1998)/Radha Krishan (2021): alternative remedy is restraint, not jurisdictional extinction.
 \-- Five writs: habeas corpus, mandamus, prohibition, certiorari and quo warranto; PIL relaxes standing.
@@ -89,7 +91,8 @@
 +-- Article 233: Governor plus High Court consultation; direct route has seven-year advocacy and recommendation.
 +-- Article 233A: Twentieth Amendment, 1966 validation of specified past appointments and judgments.
 +-- Article 234: Governor rules after SPSC and High Court consultation; Article 235: High Court career control.
-\-- Articles 236-237 define judicial service and permit notified application to classes of magistrates; Article 50 separates.
+\-- Articles 236-237 define judicial service and permit notified application to classes of magistrates; Article
+   50 separates.
 ```
 
 ## 11. Recruitment, access and specialised courts
@@ -104,7 +107,8 @@
 ## 12. Reform, traps and answer spine
 
 ```text
-+-- Article 312 can create AIJS only after Rajya Sabha resolution and law; Article 312(3) excludes posts below district judge.
++-- Article 312 can create AIJS only after Rajya Sabha resolution and law; Article 312(3) excludes posts below
+   district judge.
 +-- e-Courts Phase III: 2023-2027, Rs 7,210 crore; NJDG is dated administrative evidence, not adjudication.
 +-- High Court Bar Association Allahabad (2024): no automatic six-month vacation of all interim stays.
 \-- Answer spine: source -> mechanism -> named authority -> consequence -> limitation -> targeted reform.
@@ -143,23 +147,37 @@
 
 ## Amendment decoder
 
-- **Seventh Amendment (1956):** reorganised Articles 230-231 for Union Territory jurisdiction and common High Courts and repealed Article 232.
-- **Twentieth Amendment (1966):** inserted Article 233A to validate specified past district-judge appointments, postings, promotions, transfers and judgments.
-- **Forty-second Amendment (1976):** amended Article 312(1) to expressly include an All India Judicial Service and inserted Article 312(3), excluding posts below district judge.
-- **Forty-fourth Amendment (1978), section 30:** substituted the present Article 226(3) ex parte interim-order mechanism and renumbered the preserved Supreme Court clause as Article 226(4), effective 1 August 1979.
+- **Seventh Amendment (1956):** reorganised Articles 230-231 for Union Territory jurisdiction and common High
+   Courts and repealed Article 232.
+- **Twentieth Amendment (1966):** inserted Article 233A to validate specified past district-judge appointments,
+   postings, promotions, transfers and judgments.
+- **Forty-second Amendment (1976):** amended Article 312(1) to expressly include an All India Judicial Service
+   and inserted Article 312(3), excluding posts below district judge.
+- **Forty-fourth Amendment (1978), section 30:** substituted the present Article 226(3) ex parte interim-order
+   mechanism and renumbered the preserved Supreme Court clause as Article 226(4), effective 1 August 1979.
 
 ## High-yield case and institution decoder
 
 - **Second Judges Case (1993):** converted consultation into judicial primacy and created the collegium foundation.
-- **Third Judges Presidential Reference (1998):** required plural collegium consultation and clarified appointment/transfer procedure.
-- **NJAC judgment (2015):** invalidated the 99th Amendment and NJAC Act design for damaging judicial independence; it did not immunise the collegium from reform.
-- **L. Chandra Kumar (1997):** preserved High Court review over tribunals under Articles 226/227 as part of the Basic Structure.
-- **Chandra Mohan (1966):** protected the judicial-service route from executive-service entry and linked it to Article 50 separation.
-- **State of Assam v. Ranga Muhammad (1967):** placed transfer of serving district judges within Article 235 High Court control.
-- **All India Judges Association series:** developed national service-condition, promotion and professionalisation standards; the 2025 ruling restored prospective three-year Bar practice for Civil Judge entry.
-- **Malik Mazhar Sultan (2006 onward):** prescribed recurring recruitment timelines for subordinate-judiciary vacancies.
-- **Madras Bar Association cases:** require tribunal design to respect judicial independence, tenure and selection safeguards.
-- **High Court Bar Association Allahabad (2024):** rejected universal automatic six-month vacation of interim stays; continuation or vacation requires judicial control.
+- **Third Judges Presidential Reference (1998):** required plural collegium consultation and clarified
+   appointment/transfer procedure.
+- **NJAC judgment (2015):** invalidated the 99th Amendment and NJAC Act design for damaging judicial
+   independence; it did not immunise the collegium from reform.
+- **L. Chandra Kumar (1997):** preserved High Court review over tribunals under Articles 226/227 as part of the
+   Basic Structure.
+- **Chandra Mohan (1966):** protected the judicial-service route from executive-service entry and linked it to
+   Article 50 separation.
+- **State of Assam v. Ranga Muhammad (1967):** placed transfer of serving district judges within Article 235
+   High Court control.
+- **All India Judges Association series:** developed national service-condition, promotion and
+   professionalisation standards; the 2025 ruling restored prospective three-year Bar practice for Civil Judge
+   entry.
+- **Malik Mazhar Sultan (2006 onward):** prescribed recurring recruitment timelines for subordinate-judiciary
+   vacancies.
+- **Madras Bar Association cases:** require tribunal design to respect judicial independence, tenure and
+   selection safeguards.
+- **High Court Bar Association Allahabad (2024):** rejected universal automatic six-month vacation of interim
+   stays; continuation or vacation requires judicial control.
 - **e-Committee / e-Courts:** technology and policy architecture for digitisation and court-process modernisation.
 - **NALSA:** statutory legal-services network implementing Article 39A through legal aid and Lok Adalats.
 
@@ -187,4 +205,6 @@ Define the High Court's constitutional role
         -> give a targeted reform and qualified conclusion
 ```
 
-**Qualified conclusion:** High Courts preserve constitutional legality locally and subordinate-court independence institutionally; their effectiveness depends on lawful appointments, protected control, clear jurisdiction and accessible capacity.
+**Qualified conclusion:** High Courts preserve constitutional legality locally and subordinate-court
+   independence institutionally; their effectiveness depends on lawful appointments, protected control, clear
+   jurisdiction and accessible capacity.

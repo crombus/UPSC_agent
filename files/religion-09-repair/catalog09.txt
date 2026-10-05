@@ -1,0 +1,36 @@
+{
+  "subject": {
+    "key": "Philosophy",
+    "display_name": "Philosophy Optional",
+    "order": 23
+  },
+  "section": {
+    "key": "paper-ii-philosophy-of-religion",
+    "name": "Philosophy Paper II � Philosophy of Religion",
+    "basis": "official-philosophy-paper-section",
+    "order": 4
+  },
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+  "topic_order": 9,
+  "source_number": 9,
+  "display_title": "Religious Pluralism and Absolute Truth",
+  "learner_v2_command": "Generate learner-v2 topic: Philosophy Optional � Philosophy Paper II � Philosophy of Religion � Religious Pluralism and Absolute Truth",
+  "export_mapping": {
+    "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+    "command": "Export PDF for Philosophy Paper II � Philosophy of Religion 09 � Religious Pluralism and Absolute Truth",
+    "source": "EXPORT-PDF-COMMAND-INDEX.md"
+  },
+  "source_basic": null,
+  "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Pluralism.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+  "syllabus_sources": [
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md"
+  ],
+  "index_sources": [
+    "upsc-ai-kit\\knowledge\\Philosophy\\LEARNING-SESSION-COMMAND-INDEX.md"
+  ],
+  "discovery_status": "source-ready",
+  "ambiguity_warning": null,
+  "tracker_topic_keys": []
+}

@@ -1,0 +1,551 @@
+
+ASCII MASTER FLOW — PANEL 16/31: Absolute truth without epistemic absolutism
+THE ALLEGED INFERENCE (2022 stem, reconstructed)
+  P1  There is exactly ONE Absolute Truth.
+  P2  [SUPPRESSED]  A finite formulation CAN EXHAUST it.
+  P3  [SUPPRESSED]  MY tradition's formulation is that one.
+  ---------------------------------------------------------------------
+  C   Therefore every other tradition is simply mistaken  ==> EXCLUSIVISM
+  THE ARGUMENT IS VALID. It is UNSOUND if P2 or P3 fails.
+CONCEDE FIRST: if "absolute truth" MEANS "my religion's propositions are the sole truth",
+  the inference succeeds - trivially, because exclusivism was built into the premise.
+DENY P2 - THREE INDEPENDENT TRADITIONS ALREADY DO
+  ADVAITA  nirguna Brahman (WITHOUT QUALITIES) is beyond exhaustive predication, while
+           saguna forms (WITH QUALITIES) structure real devotional paths
+  JAINISM  syadvada indexes every assertion to a standpoint (Panel 15)
+  HICK     the Real an sich is transcategorial (Panel 7)
+  ==> ABSOLUTE REFERENT  +  PLURALIST ACCESS. The link is BROKEN.
+FOUR THINGS AN ABSOLUTE-TRUTH ANSWER MUST SEPARATE
+  1 REFERENT     what the truth is ABOUT            (one)
+  2 FORMULATION  how it is STATED                   (many, non-exhaustive)
+  3 ACCESS       who can KNOW it, and how well      (partial, corrigible)
+  4 SALVATION    who is LIBERATED by it             (a FURTHER question)
+THREE THESES THAT DO NOT ENTAIL ONE ANOTHER
+  ONTOLOGICAL ABSOLUTISM  |  EPISTEMIC FALLIBILISM  |  POLITICAL TOLERANCE
+  ==> an exclusivist may consistently defend religious freedom (Locke); and tolerance
+      cannot be inferred from metaphysics without an ADDITIONAL premise.
+PRESUPPOSITION THE REPLY ITSELF MAKES: truth permits DEGREES OF ADEQUACY or NON-LITERAL
+  MEDIATION without collapsing into relativism. State it - a critic who denies it reinstates
+  the inference, and that is where the argument properly continues.
+SELF-REFERENCE WORRY: "there is one absolute Truth" is itself a finite formulation.
+  REPLY: the claim is FORMAL (a single referent), not substantive - the same move as Hick's,
+  with the same cost (thinness). What it does establish is that the position must be held
+  CORRIGIBLY, which is what epistemic fallibilism asserts.
+TEMPLATE: "Ontological absolutism entails epistemic exclusivism ONLY IF one adds the premise
+  that a finite formulation can exhaust the absolute. Deny that premise - as Advaita's nirguna
+  and Jain anekantavada both do - and the inference from absolute truth to exclusivism fails."
+2024 STEM ("notion of absolute truth"): a NOTION question - the four-way separation IS the
+  analysis, and the compatibility result is the note's conclusion.
+
+ASCII MASTER FLOW — PANEL 17/31: What pluralism cannot dissolve - hard contradiction
+APPARENT CONFLICT BETWEEN TRADITIONS - four legitimate reinterpretive moves, and the residue
+  +-----------+-----------+------------+----------------+------------------------------+
+  | LEVEL     | SYMBOL    | STANDPOINT | SOTERIOLOGICAL | RESIDUE                      |
+  |           |           |            | END            |                              |
+  | nirguna / | non-      | syat-      | different REAL | SAME question, SAME respect  |
+  | saguna;   | literal   | indexed    | ends (Heim):   | ---------------------------- |
+  | ultimate /| predi-    | assertion  | communion =/=  | "a personal creator exists"  |
+  | conven-   | cation;   | (Jain)     | non-dual =/=   | vs "no such being exists"    |
+  | tional    | symbolic  |            | nirvana        | "the self is permanent"      |
+  | truth     | reference |            |                | vs "there is no such self"   |
+  |-----------+-----------+------------+----------------|------------------------------|
+  |     these dissolve APPARENT conflict                | NOT DISSOLVABLE -            |
+  |                                                     | ACKNOWLEDGE IT               |
+  +-----------------------------------------------------+------------------------------+
+THE CONTROL, VERBATIM IN SUBSTANCE: a personal creator cannot both exist and not exist in the
+  same respect; the self cannot both be permanent and denied in the same sense. Pluralism may
+  reinterpret level, symbol, standpoint or end, BUT IT MUST ACKNOWLEDGE ANY CONTRADICTION
+  THAT REMAINS.
+WHY CONCEDING THE RESIDUE STRENGTHENS THE ANSWER
+  a pluralism that concedes irreducible conflict at some points but maintains authentic plural
+  response at others is a DETERMINATE position that can be argued for; a pluralism that
+  harmonises everything is UNFALSIFIABLE and, by D'Costa's argument, is quietly imposing its
+  own framework on traditions that assert contradictories DELIBERATELY.
+OBJECTION: if contradictions remain, at most one tradition is right about them, so pluralism
+  has collapsed into exclusivism about those claims.
+REPLY: yes - ABOUT THOSE CLAIMS, and that is the correct result, not a defeat. Pluralism is a
+  thesis about traditions as wholes and about the availability of truth and transformation
+  beyond one's own; it is NOT the thesis that no religious proposition is false. Alethic
+  exclusivity on a specific proposition is compatible with soteriological and political
+  pluralism - which is exactly what the four axes of Panel 1 were designed to permit.
+VERDICT-LADDER NOTE: "explicit acknowledgement of hard contradictions that pluralism cannot
+  dissolve" is a TOP-BAND requirement.
+
+ASCII MASTER FLOW — PANEL 18/31: The 2023 stem - two allegations, answered separately
+  +--------------------------------------+--------------------------------------------+
+  | (a) PLURALISM INVITES INTER-RELIGIOUS | (b) PLURALISM DESTROYS THE TRUTH OF        |
+  |     CONFLICT                          |     RELIGION                               |
+  +--------------------------------------+--------------------------------------------+
+  | THE THOUGHT: relativising commitment  | THE THOUGHT: equal validity erases truth   |
+  | provokes dispute rather than settling |                                            |
+  | it                                    |                                            |
+  |--------------------------------------|--------------------------------------------|
+  | REPLY: conflict is NOT caused by      | REPLY: pluralism does not deny truth - it  |
+  | plurality alone. Power, identity and  | RELOCATES absoluteness in the transcendent |
+  | exclusivist certainty MEDIATE it.     | Real and treats religions as culturally    |
+  | Use cause / marker / mobiliser /      | conditioned but GENUINE responses.         |
+  | legitimiser (Panel 27); Sen's         | Distinguish EQUAL DIGNITY or SALVIFIC      |
+  | singular-affiliation fallacy locates  | EFFICACY from IDENTICAL PROPOSITIONAL      |
+  | the real danger. If anything, the     | TRUTH. COEXISTENCE DOES NOT MEAN           |
+  | combination pluralism OPPOSES is the  | "ANYTHING GOES".                           |
+  | conflict-generating one.              |                                            |
+  +--------------------------------------+--------------------------------------------+
+ALSO: political coexistence does not REQUIRE agreement about truth; it requires reciprocity
+  and harm-limitation (Panels 21-23).
+TWO CONCESSIONS THAT KEEP THE ANSWER HONEST
+  (i)  HARD CONTRADICTIONS survive reinterpretation (Panel 17) - acknowledge them
+  (ii) the IDENTITY AND MISSION objection is reasonable, and D'Costa sharpens it into the
+       covert-exclusivism charge (Panel 10)
+CLOSING FORMULA: "Pluralism neither invites conflict nor destroys religious truth; it
+  RELOCATES truth and REASSIGNS the sources of conflict. What it cannot do is harmonise every
+  contradiction - and a pluralism that pretends otherwise is rhetoric, not philosophy."
+DIRECTIVE NOTE: "Does X invite A and destroy B?" buys TWO answers. A merged reply forfeits
+  the structure the directive is grading.
+
+ASCII MASTER FLOW — PANEL 19/31: Peer disagreement - conciliationism against steadfastness
+DEFINITION: an EPISTEMIC PEER is one roughly equal in EVIDENCE and REASONING ABILITY.
+  +----------------------------------------+----------------------------------------------+
+  | CONCILIATIONISM / EQUAL WEIGHT         | STEADFASTNESS                                |
+  | Richard Feldman - David Christensen    | Thomas Kelly - Peter van Inwagen             |
+  |----------------------------------------|----------------------------------------------|
+  | on discovering that a peer disagrees,  | one MAY retain one's belief, since one's OWN |
+  | REDUCE confidence, often toward        | reasoning is part of one's evidence          |
+  | suspension                             |                                              |
+  |----------------------------------------|----------------------------------------------|
+  | NEEDS the INDEPENDENCE PRINCIPLE:      | DENIES the independence principle            |
+  | assess the disagreement WITHOUT relying|                                              |
+  | on the reasoning under dispute         |                                              |
+  +----------------------------------------+----------------------------------------------+
+VAN INWAGEN'S WELL-KNOWN CLAIM: it is not irrational to retain one's belief even when one
+  cannot show that the other party is wrong.
+WHY NAMING THE INDEPENDENCE PRINCIPLE MATTERS: it shows WHY the two camps disagree rather than
+  merely THAT they do - the whole dispute turns on whether the disputed reasoning may be used
+  in assessing the dispute.
+CONNECTION TO PANEL 9: Plantinga's third reply - awareness of disagreement REDUCES but does
+  not EXTINGUISH warrant - is a steadfast position, and gets its technical backing here.
+DISTINCTION TO PROTECT: PEER disagreement assumes a SHARED FRAMEWORK and asks what to do about
+  a peer. DEEP disagreement (Panel 20) DENIES the shared framework. Conflating them makes both
+  positions unstatable.
+
+ASCII MASTER FLOW — PANEL 20/31: Deep disagreement - Fogelin, hinges, and four consequences
+WHY THE MODULE IS NEEDED: the pluralism debate ASSUMES rival truth-claims could in principle be
+  settled by argument. The epistemology of disagreement asks whether that assumption is true -
+  and its answer RESHAPES THE WHOLE CLAUSE.
+FOGELIN 1985, "The Logic of Deep Disagreement"
+  some disagreements are NOT RESOLVABLE BY ARGUMENT IN PRINCIPLE, because the parties do not
+  share the FRAMEWORK PROPOSITIONS - Wittgenstein's HINGE commitments from ON CERTAINTY -
+  against which evidence would count.
+  ==> when backgrounds diverge, THE SAME EVIDENCE IS NOT EVIDENCE FOR THE SAME THING,
+      and argument has NO SHARED FULCRUM.
+MICHAEL LYNCH extends this to disagreement about EPISTEMIC PRINCIPLES themselves - which
+  sources are reliable - where any defence is CIRCULAR.
+APPLICATION TO RELIGION - the parties differ over
+  * SOURCES of evidence      which scripture, which experience, which inference
+  * CRITERIA of adequacy     salvation? liberation? cessation?
+  * the FRAMEWORK            within which any datum would count at all
+FOUR CONSEQUENCES - WRITE THEM AS FOUR, AND NOTE THAT THEY CUT BOTH WAYS
+  1 the failure of rational convergence is PREDICTED, not scandalous
+    ==> it is WEAK EVIDENCE FOR RELATIVISM
+  2 exclusivism CANNOT BE CONVICTED OF IRRATIONALITY merely for persisting
+  3 pluralism CANNOT BE ESTABLISHED merely by pointing at persistence
+  4 what CAN be rationally required are PROCEDURAL VIRTUES - fallibilism, intellectual
+    humility, epistemic charity, and willingness to MAKE ONE'S FRAMEWORK EXPLICIT
+THE INDIAN RESOURCE: anekantavada / nayavada / syadvada is in effect a FORMAL APPARATUS for
+  exactly this - it makes the standpoint (naya) explicit and prefixes every assertion with
+  syat, so framework-relativity is marked INSIDE the proposition. Saying it that way is worth
+  more than describing the elephant parable.
+OBJECTION: if deep disagreement is unresolvable, pluralism collapses into relativism.
+REPLY: UNRESOLVABILITY IS EPISTEMIC, NOT ALETHIC - one party may still be RIGHT; what fails is
+  our ability to DEMONSTRATE which.                          <== THE PAYOFF SENTENCE
+SECOND OBJECTION: this licenses complacency.
+REPLY: it licenses only the RETENTION of belief, not the refusal of dialogue - and it makes the
+  procedural virtues OBLIGATORY rather than optional.
+VERDICT FORMULA: "Religious disagreement is deep in Fogelin's technical sense: it lacks a
+  shared framework against which evidence could adjudicate. That EXPLAINS the persistence of
+  exclusivism WITHOUT VINDICATING it, and supports pluralism as an ETHIC OF ENGAGEMENT rather
+  than as a demonstrated metaphysics."
+PROMOTION NOTE: the Advanced dossier's ledger of 15 AUGUST 2026 records deep disagreement
+  about Hick's Real as PROMOTED TO CORE. It is not optional enrichment.
+
+ASCII MASTER FLOW — PANEL 21/31: Toleration - three components and one paradox
+WHAT TOLERATION IS - three conditions, ALL required
+  (i)   OBJECTION   I genuinely disapprove of, or believe false, what is tolerated
+  (ii)  ACCEPTANCE  I have reasons that OUTWEIGH but do not CANCEL the objection
+  (iii) POWER       I COULD interfere, and deliberately REFRAIN
+  remove (i)   ==> INDIFFERENCE or APPROVAL, not toleration
+  remove (iii) ==> MERE ENDURANCE, not toleration
+  ==> TOLERATION IS NOT INDIFFERENCE.
+THE PARADOX OF TOLERATION
+  to tolerate is to ALLOW WHAT ONE HOLDS WRONG
+     -> looks WEAK-WILLED  if the objection is serious
+     -> looks INSINCERE    if it is not
+RESOLUTION BY LEVELS
+  FIRST-ORDER   : your doctrine is false
+  SECOND-ORDER  : coercing belief is wrong, ineffective, or destructive of the very good
+                  at stake
+  ==> the reasons for ACCEPTANCE sit at a DIFFERENT LEVEL from the objection.
+WHY THE DEFINITION DOES THE WORK: the 2020 stem asks for the IMPORTANCE of tolerance and says
+  "justify". Define it by the three components first, and the importance FOLLOWS from the
+  definition instead of having to be asserted.
+CONSEQUENCE OF (i): the objection component is what makes toleration a MORAL ACHIEVEMENT
+  rather than mere indifference - so a society of genuine disagreement cannot be built on
+  esteem alone.
+CONSEQUENCE OF (iii): toleration is always exercised by someone who COULD HAVE DONE OTHERWISE
+  - which is why tolerance from the strong to the weak is PERMISSION, NOT EQUALITY (Panel 22).
+TRAP: do not treat "tolerance" as one thing. Grade it (Panel 22) before praising any example.
+
+ASCII MASTER FLOW — PANEL 22/31: Forst's ladder and the Western argument-stock
+FORST, TOLERATION IN CONFLICT - four conceptions. GRADE EVERY CLAIM ON THIS LADDER.
+  4 ESTEEM       positively valuing the other's beliefs as containing something worthwhile
+  3 RESPECT      reciprocal recognition as equal moral-political persons DESPITE deep
+                 ethical disagreement
+  ------------   ONLY 3 AND 4 ARE COMPATIBLE WITH EQUAL CITIZENSHIP
+  2 COEXISTENCE  mutual, pragmatic modus vivendi to avoid conflict
+  1 PERMISSION   the powerful permit a minority to exist on sufferance
+                 ==> MOST HISTORICAL "TOLERANCE" WAS THIS
+THE WESTERN ARGUMENT-STOCK
+  LOCKE, A Letter Concerning Toleration (1689) - THREE arguments
+     (a) the magistrate has NO COMMISSION over souls
+     (b) FORCE CANNOT PRODUCE BELIEF, only profession
+     (c) even if it could, coerced conformity WOULD NOT SAVE
+     ==> (b) is a claim about the PSYCHOLOGY OF BELIEF, so it is available to an EXCLUSIVIST
+  MILL, On Liberty (1859)
+     (a) the HARM PRINCIPLE
+     (b) the EPISTEMIC argument: suppressing an opinion robs us of either the truth or
+         "the clearer perception of truth produced by its collision with error"
+  POPPER, The Open Society and Its Enemies, note to ch. 7 - THE PARADOX OF TOLERANCE
+     unlimited tolerance leads to the disappearance of tolerance, so a tolerant society must
+     retain the right to refuse to tolerate the intolerant
+     ==> POPPER'S OWN FORMULATION RESERVES THIS FOR THOSE WHO REFUSE RATIONAL ARGUMENT AND
+         ANSWER WITH VIOLENCE. Do NOT state it as a general licence to suppress.
+  RAWLS - an OVERLAPPING CONSENSUS on political principles allows citizens with incompatible
+     comprehensive doctrines to share a stable polity.
+LIMITS MUST BE DRAWN BY HARM AND RECIPROCITY, NOT BY DOCTRINAL CONTENT - otherwise the
+  limit-drawing becomes the intolerance it was meant to prevent.
+OBJECTION: toleration is second-best; respect and esteem are what a plural society needs, and
+  toleration keeps the tolerator in the position of JUDGE.
+REPLY: correct as a critique of LEVEL 1 - but the objection component is what makes toleration
+  a moral achievement, and a society of genuine disagreement cannot be built on esteem alone.
+
+ASCII MASTER FLOW — PANEL 23/31: The Indian toleration stock, and the verdict
+  ASOKA, ROCK EDICT XII                                <== EARLIEST VERIFIABLE STATE-LEVEL
+    * do NOT honour your own sect while DISPARAGING others                       ARGUMENT
+    * whoever does so out of devotion to his own sect INJURES HIS OWN SECT MORE GRAVELY
+    * commends CONCORD (SAMAVAYA) and listening to one another's dharma
+    ==> the strongest verifiable ANCIENT anchor in the entire clause
+  AKBAR - SULH-I KULL ("universal peace / reconciliation"); the IBADAT KHANA debates
+    ==> A HISTORICAL POLICY, NOT A PHILOSOPHICAL DOCTRINE. SAY SO WHEN YOU CITE IT.
+  GANDHI - SARVA-DHARMA-SAMABHAVA: equal respect for all religions, combined with a
+    FALLIBILIST insistence that one's own grasp of truth is PARTIAL
+    ==> use as a MODERN SUMMARY FORMULA, not an unverified verbatim slogan
+  VIVEKANANDA, Chicago 1893 - ACCEPTANCE, NOT MERELY TOLERATION; "toleration" still condescends
+    ==> on Forst's ladder he is REFUSING level 1 and demanding level 3 or 4
+  JAIN ANEKANTAVADA - the EPISTEMIC GROUND: if every judgement is standpoint-relative, then
+    dogmatic suppression of another standpoint is an EPISTEMIC as well as a MORAL error
+  CONSTITUTIONAL EXPRESSION: Articles 25-28 and the "freedom of conscience" formula
+    ==> cite as the constitutional expression; this clause does not own litigation
+THE VERDICT FORMULA (write it whole)
+  "Toleration is INDISPENSABLE BUT INSUFFICIENT. Its indispensability lies in the OBJECTION
+   COMPONENT - it is precisely tolerance OF WHAT ONE THINKS WRONG that a plural society
+   requires. Its insufficiency lies in the POWER COMPONENT: a tolerance granted by the strong
+   to the weak is PERMISSION, NOT EQUALITY, and only respect-based toleration is compatible
+   with equal citizenship."
+PARITY POINT: Forst and Vivekananda reach the SAME conclusion by DIFFERENT ROUTES - one by
+  analysing the concept, the other by refusing the condescension it carries.
+
+ASCII MASTER FLOW — PANEL 24/31: Religious freedom - the bundle and its four justifications
+THE BUNDLE - different members, different protection
+  CONSCIENCE (the inner forum) ------------------------------- ABSOLUTELY PROTECTED
+  PROFESS   (declare)      \
+  PRACTISE  (act)           >-- LIMITABLE by PUBLIC ORDER, MORALITY and HEALTH
+  PROPAGATE (persuade)     /
+  CHANGE OR LEAVE a religion ------------------------------- follows from conscience
+  FREEDOM FROM compelled religious observance
+  ASSOCIATIONAL right of communities to order their internal affairs
+  ==> "possible?" must be answered DIFFERENTLY for different members of the bundle.
+WHY IT IS PHILOSOPHICALLY DEFENSIBLE - four INDEPENDENT arguments
+  1 LOCKE'S INCOERCIBILITY  belief is not directly voluntary, so coercion produces
+                            HYPOCRISY, not faith
+  2 AUTONOMY                matters of ultimate concern are the PARADIGM CASE in which a
+                            person must judge FOR HERSELF
+  3 EPISTEMIC               given deep disagreement and fallibility, NO INSTITUTION is
+                            entitled to the certainty that suppression presupposes
+  4 SOCIAL                  in a plural society, enforced uniformity is a CAUSE of conflict
+                            rather than its cure
+OBJECTION: religious freedom is a LIBERAL value being universalised, and traditions that
+  reject liberal individualism have not consented to it.
+REPLY: the incoercibility argument is NOT DISTINCTIVELY LIBERAL - it is a claim about the
+  PSYCHOLOGY OF BELIEF - and traditions from Asoka's edicts to Sufi and Bhakti universalism
+  reach comparable conclusions ON THEIR OWN GROUNDS.
+SECOND OBJECTION: unlimited freedom of practice makes governance impossible.
+REPLY: the limits are REAL; the philosophical task is to justify them by HARM AND RECIPROCITY
+  rather than by ORTHODOXY.
+OPENING LINE: "Religious freedom is possible in a multireligious society, and is more nearly
+  NECESSARY there than in a homogeneous one. What is not possible is an UNLIMITED or a
+  PERFECTLY NEUTRAL version of it."
+
+ASCII MASTER FLOW — PANEL 25/31: Religious freedom - the five hard problems
+  1 PRACTICE / BELIEF ASYMMETRY
+      belief ABSOLUTELY protected; PRACTICE is not, because it can HARM
+      every constitutional order limits practice by PUBLIC ORDER, MORALITY and HEALTH
+      DIFFICULTY: those limits are stated in terms whose CONTENT IS CONTESTED
+  2 PROPAGATION AND CONVERSION
+      if profession is free, propagation FOLLOWS
+      but conversion is experienced by communities as LOSS, and "inducement" is hard to
+      distinguish from "persuasion"
+      THE PRINCIPLED LINE: COERCION AND FRAUD - not persuasion as such
+  3 INTERNAL MINORITIES - AYELET SHACHAR'S "PARADOX OF MULTICULTURAL VULNERABILITY"
+      group rights granted to protect a community FROM the majority can ENTRENCH the power of
+      that community's DOMINANT members over its own WEAKER members, typically women
+      accommodating a GROUP may thus REDUCE the freedom of PERSONS INSIDE IT
+      ==> THE SINGLE MOST EXAMINABLE TENSION IN THE CLAUSE
+  4 STATE NEUTRALITY - two models
+      WALL OF SEPARATION      the state abstains entirely
+      PRINCIPLED DISTANCE     RAJEEV BHARGAVA - the Indian model: the state may engage with or
+      (the Indian model)      abstain from religions DIFFERENTIALLY, guided by FREEDOM and
+                              EQUALITY rather than by a uniform rule of non-engagement
+      ==> principled distance PERMITS REFORM (temple-entry, abolition of untouchability)
+          that strict separation would FORBID
+  5 JUDICIAL DETERMINATION OF WHAT COUNTS AS RELIGION
+      the "essential religious practices" doctrine makes the state an ARBITER OF THEOLOGY
+      philosophically this sits uneasily with neutrality, whichever way particular cases go
+      ==> NOTE THE TENSION; DO NOT LITIGATE CASES
+VERDICT FORMULA: "Religious freedom is POSSIBLE in a multireligious society, and is more nearly
+  NECESSARY there. What is not possible is an unlimited or perfectly neutral version: every
+  regime must limit practice, and every limit embodies a judgement. The defensible position is
+  a PRINCIPLED DISTANCE justified by freedom and equality, with the INTERNAL-MINORITIES problem
+  treated as A STANDING COST, NOT A SOLVED ONE."
+TRAP: do not answer with a list of constitutional articles. The philosophy is the asymmetry,
+  the conversion line, the internal minorities, the neutrality models and the arbiter problem.
+
+ASCII MASTER FLOW — PANEL 26/31: Is the history of religions the history of conflicts? - the claim
+STEP 1 - GRADE THE CLAIM INTO THREE VERSIONS
+  (a) religions have been INVOLVED in conflict           TRIVIALLY TRUE
+  (b) religion is a SIGNIFICANT CAUSE of conflict        <== THE ARGUMENT IS ABOUT THIS
+  (c) religion is THE DEFINING ENGINE of human conflict  FALSE
+STEP 2 - THE CASE FOR (b), STATED FAIRLY
+  absolute truth-claims + exclusivist soteriology + strong group identity + sacralised
+  authority is IN PRINCIPLE a conflict-generating combination:
+     what is at stake is held INFINITE
+     dissent is HERESY
+     compromise looks like BETRAYAL
+  CHARLES KIMBALL'S MARKERS of religion "becoming evil" - a usable CHECKLIST
+     1 absolute truth-claims
+     2 blind obedience
+     3 establishing the "ideal" time
+     4 the end justifying any means
+     5 declaring holy war
+  ==> A TYPOLOGY, NOT A LAW. Say so.
+STEP 3 - WHY THE STRONG VERSION FAILS BEFORE ANY EVIDENCE IS COUNTED
+  version (c) requires "religion" to be an ISOLABLE INDEPENDENT VARIABLE across all periods
+  and cultures - and Panel 27 shows that assumption is exactly what is contested.
+NOTE ON METHOD: the question is about the STRUCTURE OF A HISTORICAL CLAIM, not about a
+  catalogue of wars. A list of conflicts answers a DIFFERENT question and cannot be graded
+  above the average band.
+
+ASCII MASTER FLOW — PANEL 27/31: Conflict history - the case against, the four roles, the evidence
+THE CASE AGAINST
+  WILLIAM CAVANAUGH, The Myth of Religious Violence (2009)
+     the very distinction between "religious" and "secular" violence is a MODERN WESTERN
+     CONSTRUCTION; there is no trans-historical ESSENCE "religion" that can be isolated as a
+     variable; and the myth FUNCTIONS to license the secular state's own violence as rational
+  KAREN ARMSTRONG, Fields of Blood (2014)
+     PRE-MODERN RELIGION WAS NOT A SEPARABLE SPHERE at all, so labelling agrarian-state
+     warfare "religious" is ANACHRONISTIC
+  AMARTYA SEN, Identity and Violence (2006)
+     THE SINGULAR-AFFILIATION FALLACY - reducing persons to ONE identity among the many they
+     actually have - is what turns identity LETHAL
+THE ANALYTIC MOVE THAT EARNS MARKS - FOUR ROLES
+  +--------------+--------------------------------------------------------------+
+  | CAUSE        | religion GENERATES the conflict                       (rare)  |
+  | MARKER       | religion LABELS an antagonism generated by land, power,       |
+  |              | economics                                                     |
+  | MOBILISER    | religion RECRUITS for a pre-existing grievance                 |
+  | LEGITIMISER  | religion SANCTIFIES a decision taken on other grounds          |
+  +--------------+--------------------------------------------------------------+
+  MOST HISTORICAL CASES ARE THE LAST THREE. A claim of type CAUSE must be argued CASE BY CASE.
+THE COUNTER-EVIDENCE (a history that counts only the wars is a SELECTED history)
+  Asoka's dhamma policy after KALINGA | monastic preservation of learning | hospitals and
+  famine relief | abolitionism | the American civil-rights movement | Gandhi's satyagraha |
+  the Bhakti and Sufi traditions' social universalism | the modern interfaith movement
+SYMMETRY OBJECTION (concede it in one clause): if "religion" cannot be isolated as a variable,
+  it also cannot be CREDITED with the charity and reform above. CORRECT CONCLUSION: the
+  deconstruction weakens BOTH the indictment AND the defence, and what survives on both sides
+  is the narrower, testable claim about SPECIFIC MECHANISMS.
+VERDICT FORMULA: "The claim is HISTORICALLY SELECTIVE and CONCEPTUALLY CONFUSED. Selective,
+  because it counts conflict and not the reconciliation, charity and reform the same traditions
+  produced; confused, because 'religion' is not a stable independent variable separable from
+  politics, land and identity. What is true is NARROWER and worth conceding: EXCLUSIVIST
+  CERTAINTY JOINED TO SINGULAR IDENTITY IS DANGEROUS, and religions supply both more readily
+  than most other institutions."
+
+ASCII MASTER FLOW — PANEL 28/31: Is religion a uniting force in a globalising world?
+  FOR UNIFICATION                          AGAINST UNIFICATION
+  -------------------------------------    -------------------------------------------------
+  DURKHEIM: religion's primary social      1 DURKHEIM CUTS BOTH WAYS - his integration is
+    function is INTEGRATIVE; shared rites    IN-GROUP integration; the mechanism that unites
+    generate COLLECTIVE EFFERVESCENCE and    also DEMARCATES
+    constitute a MORAL COMMUNITY; a        2 HUNTINGTON'S clash-of-civilizations THESIS -
+    "church" just IS the community united    in a globalised world fault-lines become
+    by relation to sacred things             cultural-religious
+  UNIVERSALIST ETHICS in every tradition:    ==> HEAVILY CRITICISED (Sen and others) for
+    the golden rule; vasudhaiva kutumbakam;      treating civilisations as internally
+    the Buddhist four abodes (brahmavihara);     homogeneous and externally sealed
+    ummah; the image of God                  ==> CITE AS A THESIS UNDER CRITICISM,
+  INSTITUTIONAL EVIDENCE:                        NEVER AS A FINDING
+    1893 PARLIAMENT OF THE WORLD'S         3 OLIVIER ROY - globalisation DETERRITORIALISES
+    RELIGIONS; its 1993 CENTENARY adopting   religion, detaching it from local culture and
+    the DECLARATION TOWARD A GLOBAL ETHIC,   producing BOTH cosmopolitan AND reactive-
+    drafted principally by HANS KUNG:        fundamentalist forms (deculturated religiosity)
+    "no peace among the nations without    4 INSTRUMENTALISATION by electoral and
+    peace among the religions; no peace      geopolitical actors
+    among the religions without dialogue
+    between the religions"
+  TRANSNATIONAL NETWORKS - relief,
+    migration support, diaspora solidarity
+    at a scale states often cannot match
+THE SYNTHESIS - RELIGION UNITES WHEN, AND ONLY WHEN
+  1 its ETHICS are UNIVERSALIST rather than communal in SCOPE
+  2 its EPISTEMOLOGY is FALLIBILIST enough to permit DIALOGUE
+  3 its IDENTITY-FUNCTION is NOT POLITICALLY MONOPOLISED
+  It DIVIDES when ANY of the three fails.
+WHY THIS IS THE RIGHT SHAPE OF ANSWER: each condition names a variable that CAN VARY and is
+  INDEPENDENTLY CHECKABLE against a case - and it lets you answer without naming any
+  contemporary community.
+VERDICT FORMULA: "Religion is neither intrinsically unifying nor intrinsically divisive. It is
+  a HIGH-AMPLITUDE social force whose direction is set by the SCOPE OF ITS ETHICS, the HUMILITY
+  OF ITS EPISTEMOLOGY and the POLITICS OF ITS IDENTITY - which is why the same traditions
+  produce both the Parliament of Religions and communal violence."
+
+ASCII MASTER FLOW — PANEL 29/31: The parity bench - six problems, two traditions
+  +----------------+----------------------+----------------------+------------------------+
+  | PROBLEM        | WESTERN RESOURCE     | INDIAN RESOURCE      | DISCRIMINATING POINT   |
+  +----------------+----------------------+----------------------+------------------------+
+  | Rival truth-   | Hick's transcategor- | ekam sad ... bahudha | the Vedic verse is     |
+  | claims         | ial Real; Heim's     | vadanti (RV 1.164.46)| about NAMES OF DEITIES;|
+  |                | plural ends          | Vivekananda's paths  | the pluralist          |
+  |                |                      |                      | extension is MODERN    |
+  +----------------+----------------------+----------------------+------------------------+
+  | Framework-     | Fogelin's deep       | anekantavada,        | Jainism marks          |
+  | relativity of  | disagreement;        | nayavada, syadvada   | standpoint-relativity  |
+  | judgement      | Wittgenstein's hinges|                      | INSIDE the proposition |
+  +----------------+----------------------+----------------------+------------------------+
+  | Grounds of     | Locke (incoercibil-  | Asoka RE XII;        | Asoka's is the         |
+  | toleration     | ity), Mill (harm,    | Akbar's sulh-i kull; | EARLIEST VERIFIABLE    |
+  |                | epistemic), Rawls    | Gandhi's sarva-      | STATE-LEVEL argument   |
+  |                | (overlapping         | dharma-samabhava     |                        |
+  |                | consensus)           |                      |                        |
+  +----------------+----------------------+----------------------+------------------------+
+  | Tolerance vs   | Forst's four         | Vivekananda's        | both reach the SAME    |
+  | acceptance     | conceptions          | explicit demand for  | conclusion by          |
+  |                |                      | ACCEPTANCE over      | DIFFERENT ROUTES       |
+  |                |                      | tolerance            |                        |
+  +----------------+----------------------+----------------------+------------------------+
+  | Ultimate       | nirguna/apophatic    | nirguna / saguna two | Advaita has a BUILT-IN |
+  | reality vs its | theology; Hick's Real| levels; neti neti    | two-level semantics    |
+  | descriptions   |                      |                      |                        |
+  +----------------+----------------------+----------------------+------------------------+
+  | Salvific ends  | communion with God   | moksa, kaivalya,     | HEIM'S differential    |
+  |                |                      | nirvana, apavarga    | pluralism fits the     |
+  |                |                      |                      | Indian plurality       |
+  |                |                      |                      | BETTER THAN HICK'S     |
+  +----------------+----------------------+----------------------+------------------------+
+THE RIGHT-HAND COLUMN IS WHAT CONVERTS A COMPARISON INTO AN ARGUMENT. A bench without
+  discriminating points is a list; a bench with them is analysis.
+
+ASCII MASTER FLOW — PANEL 30/31: The inter-thinker grid, and the four standing criticisms
+  +---------------------+----------------+-------------------+-----------------+---------------+
+  | MODEL               | ONE ULTIMATE?  | STATUS OF         | CRITERION       | MAIN          |
+  |                     |                | TRADITIONS        |                 | OBJECTION     |
+  +---------------------+----------------+-------------------+-----------------+---------------+
+  | Exclusivism         | YES            | one uniquely true | revelation /    | arbitrariness/|
+  |                     |                |                   | orthodoxy       | intolerance   |
+  | Inclusivism         | YES            | others partial /  | home-tradition  | patronising   |
+  |                     |                | fulfilled         | norm            | assimilation  |
+  | Hick                | YES - the Real | plural authentic  | soteriological  | empty Real /  |
+  |                     |                | responses         | transformation  | revisionism   |
+  | Vivekananda         | YES - Brahman  | many valid paths  | realisation     | neo-Vedantic  |
+  |                     |                |                   |                 | assimilation  |
+  | Radhakrishnan       | YES - spiritual| doctrinal         | integral        | perennialist  |
+  |                     | Real           | interpretations   | experience      | reduction     |
+  | Jain approach       | YES - many-    | partial           | conditional     | hard contra-  |
+  |                     | sided reality  | standpoints       | predication     | dictions      |
+  | Heim (differential) | NO - plural    | each attains its  | fidelity to     | gives up a    |
+  |                     | religious ENDS | own real end      | self-understand.| single ultim. |
+  | Plantinga           | YES            | one uniquely true | warrant, not    | contingency   |
+  | (exclusivism def.)  |                |                   | neutrality      | of birth      |
+  | D'Costa (critic)    | --             | pluralism is      | self-           | diagnostic,   |
+  |                     |                | covert exclusivism| consistency     | not construct.|
+  +---------------------+----------------+-------------------+-----------------+---------------+
+  READ A ROW ACROSS to state a position; READ A COLUMN DOWN to compare positions on one variable.
+THE FOUR STANDING CRITICISMS AND THEIR REPLIES
+  1 RELATIVISM            equal validity erases truth
+    REPLY: distinguish EQUAL DIGNITY / SALVIFIC EFFICACY from IDENTICAL PROPOSITIONAL TRUTH
+  2 SELF-REFERENCE        pluralism becomes an exclusive meta-truth
+    REPLY: hold it as a DEFEASIBLE HYPOTHESIS.  REJOINDER: it still judges first-order traditions
+  3 CONFLICTING SALVATION GOALS  communion, non-dual knowledge and nirvana are not obviously
+    one end
+    REPLY: family resemblance or the transformation criterion.  CRITICS: this is FLATTENING
+  4 CONFLICT CLAIM        pluralism may CREATE dispute by relativising commitment
+    REPLY: conflict is not caused by plurality alone; POWER, IDENTITY and EXCLUSIVIST CERTAINTY
+           mediate it
+
+ASCII MASTER FLOW — PANEL 31/31: Decoder, ladder, answer spine and the qualified conclusion
+DIRECTIVE DECODER - eleven printed demands, and what each is buying
+  DISTINGUISH A, B, C with regard to X   -> three clean differentiae on ONE axis; FIX the axis
+                                            first                            [2018 Q6(a)]
+  "QUOTATION" + present Indian context   -> the quotation PLUS a live Indian application;
+                                            the context clause CARRIES MARKS  [2018 Q6(b)]
+  Is X a uniting force? Discuss          -> CONDITIONAL verdict with the conditions STATED
+                                                                              [2019 Q5(b)]
+  Expound the CENTRAL problem between    -> the SINGLE issue, named in one sentence, then
+  A and B                                   unfolded                          [2019 Q7(a)]
+  Is it acceptable that...? Discuss      -> GRADE the claim into versions; refute the strong,
+                                            concede the weak                  [2020 Q5(c)]
+  What is the importance of X? Justify   -> importance ARGUED; DEFINE X first - the definition
+                                            does the work                     [2020 Q5(e)]
+  Discuss the POSSIBILITY of X in Y      -> show the COMPATIBILITY MECHANISM: absolute referent
+                                            + perspectival access             [2021 Q5(b)]
+  Is X possible in a Y society? Explain  -> FEASIBILITY with the HARD CASES faced: practice/
+                                            belief asymmetry; internal minorities [2021 Q5(c)]
+  "CLAIM." Discuss                       -> test the INFERENCE, not the mood: ontological
+                                            absolutism =/= epistemic exclusivism  [2022 Q7(a)]
+  Does X invite A and destroy B?         -> TWO allegations, answered SEPARATELY  [2023 Q8(b)]
+  How does [tradition] address...? with  -> FIDELITY to the NAMED THINKER: Vivekananda's own
+  reference to [thinker]                    theses, not generic Vedanta          [2025 Q7(a)]
+  THE RULE: separate TRUTH | SALVATION | EPISTEMIC ACCESS | POLITICAL COEXISTENCE. Positions
+  differ across these INDEPENDENTLY.
+GRADED VERDICT LADDER
+  WEAK   ~40%   "all religions lead to the same God"; E-I-P named
+  AVG    ~50%   E-I-P distinguished; Hick and Vivekananda; exclusivism shown only as bigotry
+  GOOD   ~60%   truth/salvation/access/coexistence separated; one objection answered
+  STRONG ~65-70 Plantinga stated AND MET; RV 1.164.46 and Cyprian handled correctly;
+                anekantavada used as a LOGIC, not a parable
+  TOP    ~70+   all the above + ONE discriminating distinction (Forst's ladder; Heim vs Hick;
+                D'Costa's covert-exclusivism charge; epistemic vs alethic unresolvability)
+                + EXPLICIT acknowledgement of hard contradictions pluralism cannot dissolve
+ANSWER ARCHITECTURE
+  10 MARKS  define -> one model -> referent vs access -> one objection -> non-relativist verdict
+  15 MARKS  E-I-P -> thinker's argument and presupposition -> Indian/Western comparator ->
+            conflict or relativism objection and reply
+  20 MARKS  frame conflicting truth-claims -> strongest pluralist model -> absolute referent vs
+            conditioned formulations -> HARD CONTRADICTIONS -> two objections and replies ->
+            graded conclusion on truth AND coexistence
+CORPUS SIGNAL: 12 PRIMARY-OWNED PARTS OF 112 - two in each of 2018, 2019, 2020, 2021;
+  one in each of 2022, 2023, 2024, 2025.
+SAFE FORMULATIONS
+  * "Pluralism need not deny absolute reality; it denies EXHAUSTIVE POSSESSION of it by a
+     finite perspective."
+  * "Hard contradiction must be ROUTED, not rhetorically harmonised."
+  * "Toleration granted by the strong to the weak is PERMISSION, NOT EQUALITY."
+  * "Religion is a HIGH-AMPLITUDE social force whose direction is set by the scope of its
+     ethics and the politics of its identity."
+  * "Unresolvability is EPISTEMIC, NOT ALETHIC - deep disagreement explains persistence
+     without vindicating any party."
+THE QUALIFIED CONCLUSION, WITH ITS DEFEATER
+  DEFENSIBLE: no finite tradition exhaustively possesses the absolute; hard contradictions must
+    be acknowledged rather than harmonised; deep disagreement makes the procedural virtues
+    OBLIGATORY. That supports pluralism as an ETHIC OF ENGAGEMENT.
+  THE DEFEATER THAT MUST BE CARRIED: D'Costa's charge that the pluralist's own second-order
+    account is itself a privileged framework. NO POSITION IN THIS CLAUSE IS NEUTRAL - which is
+    why the final question is not WHO IS NEUTRAL but WHOSE COMMITMENT IS HELD CORRIGIBLY.

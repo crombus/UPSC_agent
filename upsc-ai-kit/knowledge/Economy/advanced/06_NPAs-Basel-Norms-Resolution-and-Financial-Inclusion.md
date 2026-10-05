@@ -70,6 +70,14 @@ rather than account counts.
 
 - ✅ **RBI:** sets prudential recognition, provisioning, capital and resolution-related
   banking rules.
+- ✅ **Borrower relief versus regulatory permission:** Under the
+  [RBI Commercial Banks - Resolution of Stressed Assets Directions, 2025](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13145)
+  (updated 1 July 2026), restructuring may modify the payment period, payable
+  amount, instalments or interest where financial difficulty warrants a
+  concession; compromise settlement is also recognised. The bank must act
+  through its Board-approved resolution policy. RBI does not guarantee every
+  job-loss borrower a tenure extension, reduced EMI, payment holiday,
+  settlement or waiver.
 - ✅ **Insolvency and Bankruptcy Board of India and NCLT:** administer the corporate
   insolvency framework.
 - ✅ **Asset reconstruction companies:** acquire and resolve stressed financial assets under
@@ -118,6 +126,9 @@ prolonged concealment creates zombie borrowers and misallocated credit.
 
 - ❌ Every restructured loan is fraud. -> Restructuring can be legitimate when viability is
   restored transparently.
+- ❌ RBI-mandated restructuring means every unemployed borrower must receive an EMI
+  holiday. -> The framework permits lender-specific resolution under Board-approved policy;
+  it does not create a universal job-loss entitlement.
 - ❌ Provisioning is the same as write-off. -> Provisioning recognises expected loss; write-
   off removes the asset from active books.
 - ❌ A write-off waives the borrower's liability. -> Recovery rights can continue after an

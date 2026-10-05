@@ -1,6 +1,7 @@
 # UPSC AND SPSC - QUICK-GLANCE TREE
 
-**Control date:** 8 September 2026 | **Core idea:** independent constitutional recruitment advice, bounded executive decision and visible legislative accountability.
+**Control date:** 8 September 2026 | **Core idea:** independent constitutional recruitment advice, bounded
+   executive decision and visible legislative accountability.
 
 ```text
 PUBLIC SERVICE COMMISSIONS
@@ -125,16 +126,24 @@ PUBLIC SERVICE COMMISSIONS
 
 ## DECODED AUTHORITIES
 
-- **UPSC:** Union Public Service Commission; constitutional Union examination and consultation institution under Article 315.
-- **SPSC:** State Public Service Commission; constitutional State institution, appointed by Governor but removable only by President.
-- **Joint PSC:** common Commission for consenting States after State resolutions and parliamentary law; age ceiling 62.
+- **UPSC:** Union Public Service Commission; constitutional Union examination and consultation institution under
+   Article 315.
+- **SPSC:** State Public Service Commission; constitutional State institution, appointed by Governor but
+   removable only by President.
+- **Joint PSC:** common Commission for consenting States after State resolutions and parliamentary law; age
+   ceiling 62.
 - **SSC:** Staff Selection Commission; executive Union recruitment organisation under DoPT, not a constitutional PSC.
-- **DoPT:** Department of Personnel and Training; Union personnel-policy, cadre and service-rule institution, distinct from UPSC.
-- **CVC/CVO:** Central Vigilance Commission/Chief Vigilance Officer; covered vigilance scrutiny and advice, distinct from PSC consultation and departmental decision.
+- **DoPT:** Department of Personnel and Training; Union personnel-policy, cadre and service-rule institution,
+   distinct from UPSC.
+- **CVC/CVO:** Central Vigilance Commission/Chief Vigilance Officer; covered vigilance scrutiny and advice,
+   distinct from PSC consultation and departmental decision.
 - **CFI:** Consolidated Fund of India.
 - **CAT:** Central Administrative Tribunal; adjudicates covered service disputes and does not recruit.
-- **Public Examinations Act/Rules 2024:** central unfair-means framework expressly covering UPSC/listed central authorities; not automatic universal SPSC law.
+- **Public Examinations Act/Rules 2024:** central unfair-means framework expressly covering UPSC/listed central
+   authorities; not automatic universal SPSC law.
 
 ## QUALIFIED CONCLUSION
 
-Public Service Commissions are credible when constitutional tenure is joined to transparent entry, professional capacity, lawful reservation, impartial selection, reasoned reporting and timely correction. They advise and select within rules; they do not replace government, vigilance bodies or courts.
+Public Service Commissions are credible when constitutional tenure is joined to transparent entry, professional
+   capacity, lawful reservation, impartial selection, reasoned reporting and timely correction. They advise and
+   select within rules; they do not replace government, vigilance bodies or courts.

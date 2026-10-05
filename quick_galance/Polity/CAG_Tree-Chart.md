@@ -133,4 +133,8 @@ CAG: CONSTITUTIONAL AUDIT, NOT EXECUTIVE COMMAND
 
 ## Qualified conclusion
 
-The CAG is constitutionally insulated and legally powerful in gathering and reporting audit evidence, but deliberately non-punitive and predominantly ex post. Its effectiveness depends on a precise public-money gateway, timely records, balanced findings, legislative scrutiny and reasoned executive follow-up.
+The CAG is constitutionally insulated and legally powerful in gathering and
+reporting audit evidence, but deliberately non-punitive and predominantly
+ex post. Its effectiveness depends on a precise public-money gateway, timely
+records, balanced findings, legislative scrutiny and reasoned executive
+follow-up.

@@ -6,821 +6,185 @@ topic_key: modern-indian-history-26
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies First INA of 1942 under Mohan Singh?
+### Q1. An account claims that Bose founded the first INA in 1943. Which correction preserves the two organisational phases?
 
-A. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-B. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-C. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-D. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
+A. Mohan Singh organised the first INA from prisoners of war in 1942; Bose revived it in 1943.
+B. Bose raised the first INA at the 1945 Red Fort trials after Mohan Singh resigned.
+C. Rash Behari Bose commanded the first INA's 1944 Imphal campaign after Subhas Bose left.
+D. The first INA began only with the February 1946 naval ratings' revolt.
 
-**Answer: A.**
-**Explanation:** The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q2. What did Rash Behari Bose contribute to the early INA project?
 
-### Q2. Which chronology card should be filed under First INA of 1942 under Mohan Singh?
+A. Drafting the Cabinet Mission's scheme for provincial grouping in 1946.
+B. Political organisation through the Indian Independence League rather than field command in the 1944 campaign.
+C. Convening Wavell's 1945 Simla Conference as Viceroy.
+D. Commanding the RIN ratings at HMIS Talwar in Bombay.
 
-A. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-B. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-C. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-D. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
+### Q3. Identify the 1943 claimant government and its place of proclamation.
 
-**Answer: B.**
-**Explanation:** The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Congress Interim Government at Delhi under Mohan Singh.
+B. All-India Constituent Assembly at Bombay under Wavell.
+C. Provisional Government of Azad Hind at Singapore under Subhas Chandra Bose.
+D. Rani of Jhansi provisional cabinet at Simla under Lakshmi Sahgal.
 
-### Q3. Which option should a candidate retain when revising First INA of 1942 under Mohan Singh?
+### Q4. Which pairing combines an INA symbol with a defensible limit on the campaign?
 
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-C. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-D. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
+A. Rani of Jhansi Regiment — Sarojini Naidu; Imphal-Kohima — INA's decisive liberation of Delhi.
+B. HMIS Talwar — Lakshmi Sahgal; Imphal-Kohima — site of the 1946 RIN uprising.
+C. Red Fort trials — all-women field command; Imphal-Kohima — Cabinet Mission venue.
+D. Rani of Jhansi Regiment — Lakshmi Sahgal; Imphal-Kohima campaign — failed to defeat the Raj militarily.
 
-**Answer: C.**
-**Explanation:** The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q5. What made the Red Fort INA trials politically more than a case against three soldiers?
 
-### Q4. Which statement avoids a common matching trap about First INA of 1942 under Mohan Singh?
+A. Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon attracted cross-community sympathy despite INA military defeat.
+B. They constituted the entire 1946 Constituent Assembly's elected leadership.
+C. All three were the British Cabinet Mission's constitutional negotiators.
+D. Their acquittal immediately brought complete Indian independence in 1945.
 
-A. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-B. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-C. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-D. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
+### Q6. A proposal offered a plebiscite among adults in contiguous Muslim-majority districts after transfer of power, plus joint essential services. Identify it.
 
-**Answer: D.**
-**Explanation:** The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Cripps's 1942 offer allowing any province to refuse the post-war constitution.
+B. C. Rajagopalachari's 1944 formula, subsequently used as the basis for Gandhi–Jinnah talks.
+C. Wavell's 1945 proposal to reconstitute his Executive Council.
+D. The Cabinet Mission's 1946 plan for three provincial sections.
 
-### Q5. Which statement correctly identifies Rash Behari Bose's political role?
+### Q7. Why did the 1944 Gandhi–Jinnah talks not settle sovereignty through the C.R. Formula?
 
-A. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-B. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-C. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-D. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
+A. Both agreed that the 1946 Cabinet Mission had already guaranteed a sovereign Pakistan.
+B. Gandhi demanded that every British Indian province join Pakistan automatically.
+C. Gandhi envisaged separation with continuing shared services after transfer; Jinnah demanded complete sovereignty and rejected those terms.
+D. Jinnah accepted the district plebiscite but refused to meet Gandhi until after the 1947 transfer.
 
-**Answer: A.**
-**Explanation:** Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q8. What precisely derailed the Simla Conference of June–July 1945?
 
-### Q6. Which chronology card should be filed under Rash Behari Bose's political role?
+A. Congress rejected the very principle of Indian members serving on an Executive Council.
+B. Wavell demanded immediate partition and refused to convene an all-Indian council.
+C. A plebiscite of the entire adult population rejected Wavell's plan.
+D. The League's claim to nominate all Muslim Executive Council members conflicted with Congress's claim to represent Indians across communities.
 
-A. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-B. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-C. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-D. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
+### Q9. What distinguishes the 1945–46 elections from a constitutionally binding partition referendum?
 
-**Answer: B.**
-**Explanation:** Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Restricted-franchise elections in separate constituencies yielded strong Congress general and League Muslim mandates, not a universal plebiscite.
+B. Every adult Indian voted directly between an independent India and Pakistan.
+C. The results gave the League an absolute majority of all general constituencies.
+D. The electorate simultaneously ratified the 3 June 1947 partition plan.
 
-### Q7. Which option should a candidate retain when revising Rash Behari Bose's political role?
+### Q10. Which conclusion from the Congress and League electoral sweeps is defensible?
 
-A. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-B. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-C. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-D. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
+A. The League's Muslim-constituency sweep proved every Muslim wanted territorial partition.
+B. Both parties acquired powerful but differently constituted mandates, complicating any claim that one alone represented all Indians.
+C. Congress's general-constituency sweep deprived the League of any bargaining role.
+D. The elections created an elected national cabinet with immediate British withdrawal.
 
-**Answer: C.**
-**Explanation:** Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q11. What was the immediate institutional setting of the RIN revolt in February 1946?
 
-### Q8. Which statement avoids a common matching trap about Rash Behari Bose's political role?
+A. INA prisoners at the Red Fort in Delhi, followed by Imphal.
+B. Constituent Assembly members in Delhi demanding an elected Speaker.
+C. Ratings at HMIS Talwar in Bombay, followed by spread to other ships and shore establishments.
+D. Provinces grouped under the Cabinet Mission at Simla.
 
-A. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-B. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-C. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-D. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
+### Q12. Why is 'the RIN revolt single-handedly ended British rule' a weak inference?
 
-**Answer: D.**
-**Explanation:** Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It was the Cabinet Mission's first elected Parliament and enacted independence.
+B. It occurred before the Second World War and produced the August Offer.
+C. It was wholly directed by Congress provincial ministries still in office.
+D. It was short-lived and service-centred; it signalled weakened coercive loyalty alongside broader post-war pressures.
 
-### Q9. Which statement correctly identifies Bose's reorganisation and Azad Hind, 1943?
+### Q13. Which trio actually comprised the 1946 Cabinet Mission?
 
-A. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-B. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-C. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-D. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
+A. Pethick-Lawrence, Stafford Cripps and A.V. Alexander.
+B. Wavell, Mountbatten and C. Rajagopalachari.
+C. Jinnah, Nehru and Maulana Azad.
+D. Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon.
 
-**Answer: A.**
-**Explanation:** Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q14. What was the 16 May 1946 Cabinet Mission's constitutional compromise?
 
-### Q10. Which chronology card should be filed under Bose's reorganisation and Azad Hind, 1943?
+A. Immediate partition into two fully sovereign states with no union tier.
+B. A union with limited central subjects, provincial groups and a Constituent Assembly, without accepting sovereign Pakistan.
+C. Compulsory accession to the 1935 federation without fresh constitution-making.
+D. Transfer of defence to HMIS Talwar's naval central committee.
 
-A. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-B. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-C. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-D. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
+### Q15. What should a candidate infer from the Mission's grouping controversy?
 
-**Answer: B.**
-**Explanation:** Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Both parties unconditionally accepted provincial freedom to leave every group at the first meeting.
+B. The plan dissolved every provincial assembly before electing any constituent representatives.
+C. Congress and League differed over whether provinces could decline initial grouping, undermining common acceptance of a union scheme.
+D. The League objected because the Mission had expressly granted a sovereign Pakistan.
 
-### Q11. Which option should a candidate retain when revising Bose's reorganisation and Azad Hind, 1943?
+### Q16. Which mapping of Cabinet Mission sections best preserves their geographical distinction?
 
-A. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-B. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-C. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-D. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
+A. A comprised Punjab and Sind; B comprised Madras and Bombay; C comprised Bihar and Orissa.
+B. A comprised Bengal and Assam; B comprised all princely states; C comprised the North-West Frontier Province alone.
+C. Each section comprised identical provinces but elected different communal representatives.
+D. A grouped predominantly Hindu-majority provinces; B grouped northwestern provinces; C comprised Bengal and Assam.
 
-**Answer: C.**
-**Explanation:** Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q17. What is wrong with treating the 16 June 1946 proposal as the original Cabinet Mission long-term plan?
 
-### Q12. Which statement avoids a common matching trap about Bose's reorganisation and Azad Hind, 1943?
+A. The three-tier long-term plan was issued on 16 May; 16 June addressed Interim Government formation separately.
+B. Both dates describe the July 1945 Simla Conference.
+C. 16 June announced independence for two Dominions under the Mountbatten Plan.
+D. The 16 May document merely recorded the INA trial defendants' verdict.
 
-A. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-B. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-C. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-D. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
+### Q18. Which order best fits the July–September 1946 breakdown?
 
-**Answer: D.**
-**Explanation:** Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Congress-only Interim Government → Direct Action Day → Cabinet Mission arrives → Nehru's July speech.
+B. Nehru's July interpretation of Constituent Assembly freedom → League withdrawal → Direct Action Day → Congress-only Interim Government.
+C. Direct Action Day → February 1946 Talwar revolt → League withdrawal → Simla Conference.
+D. December grouping clarification → 3 June partition plan → July League withdrawal → elections.
 
-### Q13. Which statement correctly identifies Azad Hind symbols and the Rani of Jhansi Regiment?
+### Q19. Which assertion about the 16 August 1946 Direct Action Day is sustainable?
 
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-C. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-D. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
+A. It was an instruction within the Cabinet Mission plan to conduct a peaceful partition plebiscite.
+B. It followed the League's December refusal to join the Constituent Assembly.
+C. It was a League political call after the constitutional impasse and preceded formation of the Congress-only Interim Government.
+D. It was declared by the RIN ratings as their February 1946 strike date.
 
-**Answer: A.**
-**Explanation:** The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q20. What changed on 26 October 1946 in the Interim Government?
 
-### Q14. Which chronology card should be filed under Azad Hind symbols and the Rani of Jhansi Regiment?
+A. The first Congress-only Interim Government was inaugurated after the Assembly had met.
+B. The Cabinet Mission arrived in India and conceded Pakistan.
+C. Jinnah became president of the Constituent Assembly with unanimous League support.
+D. The League joined a government formed on 2 September with Congress members alone, without joining the Constituent Assembly.
 
-A. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-B. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-C. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-D. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
+### Q21. Why is 'grouping ambiguity alone sank the entire Mission by December' insufficient?
 
-**Answer: B.**
-**Explanation:** The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Britain conceded the League's compulsory-grouping reading on 6 December, yet the League boycotted the Assembly on 9 December.
+B. The British refused to discuss grouping at any point in 1946.
+C. Congress and League both signed a binding 1946 partition treaty after December.
+D. The Assembly first met in July before any disagreement emerged.
 
-### Q15. Which option should a candidate retain when revising Azad Hind symbols and the Rani of Jhansi Regiment?
+### Q22. What distinguishes Attlee's March 1946 statement from the February 1947 announcement?
 
-A. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-B. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-C. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
+A. March enacted immediate independence; February founded the first INA.
+B. March challenged a minority veto on majority progress; February fixed a transfer-of-power deadline no later than June 1948.
+C. March dissolved the RIN; February accepted all Cabinet Mission provincial sections.
+D. Both announced the final boundaries of Bengal and Punjab.
 
-**Answer: C.**
-**Explanation:** The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q23. Which research claim about INA trials and naval revolt is most carefully limited?
 
-### Q16. Which statement avoids a common matching trap about Azad Hind symbols and the Rani of Jhansi Regiment?
+A. Because naval unrest spread, all three armed services jointly overthrew British command nationwide.
+B. Since INA was defeated in Burma, its trial generated no political mobilisation.
+C. Both amplified popular and service unrest, but neither alone establishes that British departure was caused solely by military defeat.
+D. The League's election sweep proves every naval rating endorsed partition.
 
-A. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-B. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-C. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-D. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
+### Q24. To answer how wartime nationalism became a 1946 constitutional crisis, which spine is strongest?
 
-**Answer: D.**
-**Explanation:** The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. INA's battlefield victory → immediate universal plebiscite → uncontested single-party cabinet.
+B. The 1942 Quit India resolution → immediate sovereign Pakistan → abolition of all provinces.
+C. Red Fort trials → 1947 border award → 1944 Gandhi–Jinnah negotiations.
+D. INA trials and RIN unrest → competing 1945–46 electoral mandates → grouping dispute → Direct Action and an unworkable coalition.
 
-### Q17. Which statement correctly identifies Imphal-Kohima and the military verdict?
+### Source-and-interpretation coverage drills — Modern Topic 26
 
-A. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-B. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-C. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-D. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-
-**Answer: A.**
-**Explanation:** The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q18. Which chronology card should be filed under Imphal-Kohima and the military verdict?
-
-A. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-B. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-C. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: B.**
-**Explanation:** The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q19. Which option should a candidate retain when revising Imphal-Kohima and the military verdict?
-
-A. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-B. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-C. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-D. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-
-**Answer: C.**
-**Explanation:** The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q20. Which statement avoids a common matching trap about Imphal-Kohima and the military verdict?
-
-A. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-B. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-C. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-D. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-
-**Answer: D.**
-**Explanation:** The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q21. Which statement correctly identifies C.R. Formula, April 1944?
-
-A. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-B. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-C. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: A.**
-**Explanation:** In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q22. Which chronology card should be filed under C.R. Formula, April 1944?
-
-A. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-B. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-C. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: B.**
-**Explanation:** In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q23. Which option should a candidate retain when revising C.R. Formula, April 1944?
-
-A. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-B. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-C. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: C.**
-**Explanation:** In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q24. Which statement avoids a common matching trap about C.R. Formula, April 1944?
-
-A. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-D. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-
-**Answer: D.**
-**Explanation:** In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q25. Which statement correctly identifies Gandhi-Jinnah talks, September 1944?
-
-A. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-B. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-C. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: A.**
-**Explanation:** Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q26. Which chronology card should be filed under Gandhi-Jinnah talks, September 1944?
-
-A. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-B. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-C. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: B.**
-**Explanation:** Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q27. Which option should a candidate retain when revising Gandhi-Jinnah talks, September 1944?
-
-A. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-D. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-
-**Answer: C.**
-**Explanation:** Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q28. Which statement avoids a common matching trap about Gandhi-Jinnah talks, September 1944?
-
-A. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-B. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-C. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-D. Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty.
-
-**Answer: D.**
-**Explanation:** Gandhi opened talks with Jinnah on the basis of that formula in July 1944, and the Gandhi-Jinnah talks broke down in September 1944 on what Gandhi himself described as a difference of perspective between separation within the family and Jinnah's demand for complete dissolution with sovereignty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q29. Which statement correctly identifies Wavell's Simla Conference of 1945?
-
-A. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-B. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-C. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-D. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-
-**Answer: A.**
-**Explanation:** Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q30. Which chronology card should be filed under Wavell's Simla Conference of 1945?
-
-A. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-B. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-C. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-D. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-
-**Answer: B.**
-**Explanation:** Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q31. Which option should a candidate retain when revising Wavell's Simla Conference of 1945?
-
-A. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-D. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-
-**Answer: C.**
-**Explanation:** Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q32. Which statement avoids a common matching trap about Wavell's Simla Conference of 1945?
-
-A. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-D. Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president.
-
-**Answer: D.**
-**Explanation:** Wavell, who had replaced Linlithgow as Viceroy in 1943, convened the Simla Conference of 25 June - 14 July 1945 to create an entirely Indian Executive Council; it broke down on Jinnah's demand for parity and his claim that the Muslim League alone could nominate every Muslim member, a claim the Congress refused while Maulana Abul Kalam Azad was its president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q33. Which statement correctly identifies Bose's officially reported death, August 1945?
-
-A. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-D. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-
-**Answer: A.**
-**Explanation:** Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q34. Which chronology card should be filed under Bose's officially reported death, August 1945?
-
-A. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-B. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-C. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-D. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-
-**Answer: B.**
-**Explanation:** Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q35. Which option should a candidate retain when revising Bose's officially reported death, August 1945?
-
-A. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-B. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-C. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-D. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-
-**Answer: C.**
-**Explanation:** Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Bose's officially reported death, August 1945?
-
-A. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-B. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-C. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-D. Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership.
-
-**Answer: D.**
-**Explanation:** Subhas Chandra Bose was officially reported to have died in an air crash in August 1945, and no account of his death beyond that official report may be asserted; the INA's post-war political impact therefore ran through the Red Fort trials rather than through his continued leadership. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies The first Red Fort trial and its three defendants?
-
-A. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-B. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-C. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-D. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-
-**Answer: A.**
-**Explanation:** The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under The first Red Fort trial and its three defendants?
-
-A. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-B. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-C. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-D. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-
-**Answer: B.**
-**Explanation:** The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising The first Red Fort trial and its three defendants?
-
-A. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-B. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-C. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-D. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-
-**Answer: C.**
-**Explanation:** The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about The first Red Fort trial and its three defendants?
-
-A. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-B. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-C. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-D. The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee.
-
-**Answer: D.**
-**Explanation:** The first and most prominent INA trial at the Red Fort in 1945-46 tried Shah Nawaz Khan, Prem Sahgal (also spelt Sehgal) and Gurbaksh Singh Dhillon together — a Muslim, a Hindu and a Sikh — and the defence was conducted by Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Jawaharlal Nehru and Asaf Ali, with the Congress running an INA Relief and Enquiry Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Sentences remitted, not carried out?
-
-A. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-D. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-
-**Answer: A.**
-**Explanation:** The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Sentences remitted, not carried out?
-
-A. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-B. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-C. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-D. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-
-**Answer: B.**
-**Explanation:** The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Sentences remitted, not carried out?
-
-A. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-B. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-C. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-D. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-
-**Answer: C.**
-**Explanation:** The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Sentences remitted, not carried out?
-
-A. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-B. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-C. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-D. The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed.
-
-**Answer: D.**
-**Explanation:** The three officers were convicted of waging war against the King and sentenced to transportation for life, but the Commander-in-Chief remitted the sentences and the officers were released; the sentences of the first Red Fort trial were not carried out, and no officer tried in that case was executed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Political effect inside a multi-causal endgame?
-
-A. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-B. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-C. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-D. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-
-**Answer: A.**
-**Explanation:** The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Political effect inside a multi-causal endgame?
-
-A. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-B. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-C. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-D. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-
-**Answer: B.**
-**Explanation:** The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Political effect inside a multi-causal endgame?
-
-A. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-B. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-C. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-D. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-
-**Answer: C.**
-**Explanation:** The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Political effect inside a multi-causal endgame?
-
-A. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-B. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-C. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-D. The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock.
-
-**Answer: D.**
-**Explanation:** The INA's decisive effect was political rather than military: the trials made prosecution look like the punishment of patriotism and forced the government to abandon the wider prosecutions, but INA and RIN pressure must be weighed together with post-war British wartime exhaustion, four decades of mass nationalism, economic depletion, international decolonisation pressure and constitutional deadlock. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Elections of the winter of 1945-46?
-
-A. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-B. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-C. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-D. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-
-**Answer: A.**
-**Explanation:** In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Elections of the winter of 1945-46?
-
-A. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-B. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-C. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-D. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-
-**Answer: B.**
-**Explanation:** In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Elections of the winter of 1945-46?
-
-A. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-B. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-C. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-D. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-
-**Answer: C.**
-**Explanation:** In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Elections of the winter of 1945-46?
-
-A. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-B. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-C. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-D. In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable.
-
-**Answer: D.**
-**Explanation:** In the elections of the winter of 1945-46 the Congress won over 90 per cent of the general seats provincially and 80.9 per cent of the general-constituency votes, while the Muslim League took 74.7 per cent of the votes cast in Muslim constituencies; because the poll was fought on separate electorates with an electorate of about 10 per cent of the population, it produced a representative mandate and was not a plebiscite that made Partition automatically inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Mission decided 22 January 1946, uprising began 18 February?
-
-A. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-B. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-C. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-D. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-
-**Answer: A.**
-**Explanation:** The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Mission decided 22 January 1946, uprising began 18 February?
-
-A. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-B. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-C. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-D. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-
-**Answer: B.**
-**Explanation:** The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Mission decided 22 January 1946, uprising began 18 February?
-
-A. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-B. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-C. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-D. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-
-**Answer: C.**
-**Explanation:** The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Mission decided 22 January 1946, uprising began 18 February?
-
-A. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-B. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-C. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-D. The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy.
-
-**Answer: D.**
-**Explanation:** The British Cabinet took the decision to send the Cabinet Mission on 22 January 1946, almost a month before the Royal Indian Navy uprising began on 18 February 1946 at HMIS Talwar in Bombay out of demobilisation anxiety, poor rations and service conditions, racial insult and a set of demands that included better conditions, non-victimisation of strikers and free trials for INA detainees, and Attlee's House of Commons announcement of 19 February 1946 had already been slated a week earlier; the uprising therefore did not cause or trigger the dispatch of the Cabinet Mission, and on the repository's local Bipan Chandra text the immediate dispatch-causation claim is explicitly untenable even though the uprising remains central to the wider crisis of coercive legitimacy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Scale of the uprising as commonly cited estimates?
-
-A. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-B. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-C. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-D. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-
-**Answer: A.**
-**Explanation:** The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Scale of the uprising as commonly cited estimates?
-
-A. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-B. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-C. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-D. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-
-**Answer: B.**
-**Explanation:** The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Scale of the uprising as commonly cited estimates?
-
-A. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-B. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-C. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-D. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-
-**Answer: C.**
-**Explanation:** The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Scale of the uprising as commonly cited estimates?
-
-A. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-D. The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count.
-
-**Answer: D.**
-**Explanation:** The uprising spread from Bombay to other naval stations and, on commonly cited estimates that are source-dependent rather than settled, involved roughly 20,000 ratings, 78 ships and 20 shore establishments; the repository's own Basic owner cautions against asserting ship numbers as fixed fact, so these figures must always be presented as commonly cited estimates and never as a verified count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Short-lived, urban and service-centred?
-
-A. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-B. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-C. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-D. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-
-**Answer: A.**
-**Explanation:** The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Short-lived, urban and service-centred?
-
-A. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-B. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-C. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-D. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-
-**Answer: B.**
-**Explanation:** The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Short-lived, urban and service-centred?
-
-A. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-D. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-
-**Answer: C.**
-**Explanation:** The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Short-lived, urban and service-centred?
-
-A. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-D. The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India.
-
-**Answer: D.**
-**Explanation:** The uprising was serious but short-lived, concentrated in urban naval stations and the service population, and it was surrendered within days; it was not a Congress-led nationwide revolution and it did not by itself end British rule in India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Divided political responses to the uprising?
-
-A. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-D. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-
-**Answer: A.**
-**Explanation:** Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Divided political responses to the uprising?
-
-A. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-B. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-C. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-D. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-
-**Answer: B.**
-**Explanation:** Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Divided political responses to the uprising?
-
-A. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-D. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-
-**Answer: C.**
-**Explanation:** Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Divided political responses to the uprising?
-
-A. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-B. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-C. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-D. Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings.
-
-**Answer: D.**
-**Explanation:** Political responses were differentiated rather than uniform: the Congress lauded the spirit of the people and condemned the government's repression but did not officially support the struggle because it judged the tactics and the timing wrong, Vallabhbhai Patel asked the ratings to surrender because he saw the overwhelming British mobilisation for repression in Bombay and wrote to Nehru on 22 February 1946 that the assembled naval and military force could exterminate them altogether, Muhammad Ali Jinnah's advice to surrender was addressed to Muslim ratings alone rather than to every rating, and organised sympathy strikes by workers and students in Bombay with support from communist and left organisations gave the uprising a civilian dimension, so no answer may claim that every national leader backed it or that one undifferentiated appeal was made to all ratings. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Cabinet Mission's long-term plan of 16 May 1946?
-
-A. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-B. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-C. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-D. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-
-**Answer: A.**
-**Explanation:** The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Cabinet Mission's long-term plan of 16 May 1946?
-
-A. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-B. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-C. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-D. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-
-**Answer: B.**
-**Explanation:** The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Cabinet Mission's long-term plan of 16 May 1946?
-
-A. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-B. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-C. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-D. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-
-**Answer: C.**
-**Explanation:** The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Cabinet Mission's long-term plan of 16 May 1946?
-
-A. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-B. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-C. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-D. The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects.
-
-**Answer: D.**
-**Explanation:** The Cabinet Mission of Pethick-Lawrence, Stafford Cripps and A.V. Alexander published its long-term constitutional plan on 16 May 1946: it rejected a sovereign Pakistan and proposed a united three-tier scheme of a Union, groups of provinces and provinces, in which the Union would deal with foreign affairs, defence and communications and would have the power to raise the finances required for those subjects. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Sections A, B and C and the separate 16 June proposal?
-
-A. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-D. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-
-**Answer: A.**
-**Explanation:** Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Sections A, B and C and the separate 16 June proposal?
-
-A. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-B. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-C. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-D. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-
-**Answer: B.**
-**Explanation:** Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Sections A, B and C and the separate 16 June proposal?
-
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-C. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-D. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-
-**Answer: C.**
-**Explanation:** Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Sections A, B and C and the separate 16 June proposal?
-
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-C. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-D. Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan.
-
-**Answer: D.**
-**Explanation:** Under that plan the provinces were placed in three sections — Section A comprising Madras, Bombay, the United Provinces, Bihar, the Central Provinces and Orissa; Section B comprising Punjab, the North-West Frontier Province, Sind and British Baluchistan; and Section C comprising Bengal and Assam — so grouping was not Partition but a federal device inside a single union, and the Mission's separate interim-government proposal of 16 June 1946 is a different document from the 16 May long-term plan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Incompatible readings and the endgame to December 1946?
-
-A. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-B. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-C. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-D. The first Indian National Army was raised in 1942 from Indian prisoners of war captured in Malaya and Singapore, with Mohan Singh as its military organiser and Japanese support behind it; this first experiment had effectively collapsed by early 1943 when Mohan Singh pressed for allied rather than subsidiary status and was removed and arrested.
-
-**Answer: A.**
-**Explanation:** Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Incompatible readings and the endgame to December 1946?
-
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-C. Rash Behari Bose, the veteran revolutionary long resident in Japan, supplied the first INA's political cover through the Indian Independence League and its Tokyo and Bangkok conferences; his contribution was political sponsorship, organisation and negotiation, and he was not a field commander of the INA in Burma or Manipur.
-D. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-
-**Answer: B.**
-**Explanation:** Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Incompatible readings and the endgame to December 1946?
-
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-C. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-D. Subhas Chandra Bose reached Southeast Asia in May 1943, revived and reorganised a second and much larger INA, and in October 1943 proclaimed the Provisional Government of Azad Hind at Singapore as supreme commander with the slogans 'Dilli Chalo' and 'Give me blood and I will give you freedom'; the 1942 army under Mohan Singh and the 1943 army under Bose must never be treated as one continuous force.
-
-**Answer: C.**
-**Explanation:** Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Incompatible readings and the endgame to December 1946?
-
-A. The Rani of Jhansi Regiment, associated with Lakshmi Sahgal, symbolised women's participation in militant nationalism, and the Andaman and Nicobar islands were renamed Shaheed and Swaraj under the Azad Hind setup; these are symbolic and organisational facts about a claimant government, not evidence of military success.
-B. In April 1944 C. Rajagopalachari proposed the C.R. Formula, under which a post-war commission would demarcate contiguous districts of absolute Muslim majority where a plebiscite of the adult population would decide on Pakistan, with mutual arrangements for essential services and implementation deferred until after the full transfer of power; it was Rajagopalachari's personal initiative and not an official Congress offer.
-C. The Imphal campaign was launched on 8 March 1944 alongside Japanese forces and the INA's advance was broken at Imphal-Kohima; the INA's military record was one of defeat, and no answer may claim that the INA defeated British forces in the field or that it secured India's freedom by arms.
-D. Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it.
-
-**Answer: D.**
-**Explanation:** Both parties used the plan on incompatible readings: the League announced acceptance on 6 June 1946 in so far as compulsory grouping implied the basis of Pakistan, Nehru's All-India Congress Committee statement of 7 July 1946 asserted that the Congress was bound only to enter the Constituent Assembly, and Jinnah withdrew the League's acceptance on 29 July 1946 after that constitutional dispute; Direct Action Day followed on 16 August 1946, the Interim Government was formed on 2 September 1946 with Congress members alone, the League joined it on 26 October 1946, His Majesty's Government conceded the League's compulsory-grouping reading on 6 December 1946, and the Constituent Assembly met for the first time on 9 December 1946 with the League boycotting it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Semantic-completeness coverage drills — Topic 26
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Why is AD 750 not a universal break? | multiple criteria → regional phases → continuity/change | one date for all India |
-| B | Does every grant prove feudalism? | recipient/right/formula → ground effect → alternative integration | grant equals feudalism |
-| C | What changed under samanta relations? | title history → tribute/service/local power → scale | fixed legal class |
-| D | Did trade and towns collapse? | coin/town/import evidence → regional contraction → new nodes/revival | universal decline |
-| E | How did temples and monasteries matter? | ritual + land + labour + redistribution + archive + local variation | merely religious |
-| F | Was Brahmanization passive assimilation? | grant/cult/status → localization → tribal/local agency → unequal reciprocity | one-way replacement |
-| G | Evaluate social change. | varna text → jati/occupation/exclusion → gender/property/labour → source limits | prescription equals practice |
-| H | Compare regions. | north + east + Deccan + south/frontier → different sequences | one pan-Indian model |
-
-**PYQ status drill:** all ten retained PYQs are adjacent-owned; none is routed
-directly to Topic 26.
+| Drill | Required evidence and reasoning | Fatal trap |
+|---|---|---|
+| INA's phases | Mohan Singh and Rash Behari Bose in 1942 → Subhas Bose's 1943 leadership → 1944 military failure → trial impact | Claim the trials proved battlefield success |
+| Women and trial symbolism | Lakshmi Sahgal and Rani of Jhansi Regiment; Shah Nawaz–Sahgal–Dhillon trial and cross-community response | Confuse a regiment with the three defendants |
+| Negotiations before election | Rajaji formula's limited deferred plebiscite → Gandhi–Jinnah disagreement → Wavell's Simla representation impasse | Describe Simla as an already decided partition |
+| Electoral mandates | Restricted-franchise general/Muslim-constituency sweeps, each party's leverage and limits | Call elections a universal partition referendum |
+| Service disaffection | HMIS Talwar and spread of February ratings' revolt; short-lived nature | Claim armed forces nationwide overthrew the Raj |
+| Cabinet Mission design | 16 May weak centre, provincial groups and Assembly versus 16 June executive proposal | Equate grouping with sovereign Pakistan |
+| Endgame | July withdrawal → 16 August Direct Action → 2 September government → October League entry → December Assembly boycott | Say October executive entry ended the Assembly boycott |
 
 ### Semantic-completeness coverage drills — Modern Topic 26
 
@@ -1092,3 +456,197 @@ directly to Topic 26.
 **Why this earns marks:** The answer obeys the directive, distinguishes dates and policy stages, connects evidence to mechanism, recognises regional/social variation and avoids teleology or hero worship.
 
 **How to improve this answer:** For “Assess the contribution of the post-war upsurge of 1945-46 to the British decision to…”, replace the weakest generalisation with one additional named primary/official record or attributed scholarly interpretation and state exactly what it cannot prove.
+
+## MCQ ANSWER KEY AND OPTION-SPECIFIC EXPLANATIONS
+
+### Q1 — A
+
+- **A:** The first INA preceded Bose's Southeast Asian leadership.
+- **B:** Red Fort trials followed the campaigns and did not found the INA.
+- **C:** Rash Behari provided political sponsorship, not command at Imphal.
+- **D:** The RIN revolt was a separate later naval action.
+- **Trap:** Distinguish military organiser, political sponsor and later leader.
+
+### Q2 — B
+
+- **A:** The Mission was a British Cabinet delegation.
+- **B:** His league supplied the political umbrella for the first force.
+- **C:** Wavell, not Rash Behari Bose, convened Simla.
+- **D:** Talwar ratings revolted years later.
+- **Trap:** Do not confuse Rash Behari and Subhas Chandra Bose.
+
+### Q3 — C
+
+- **A:** The Congress-led Interim Government dates to 1946.
+- **B:** The Constituent Assembly first met in Delhi in December 1946.
+- **C:** Bose proclaimed Azad Hind after taking INA leadership.
+- **D:** Lakshmi Sahgal is associated with the women's regiment, not Simla.
+- **Trap:** A government-in-exile did not control all of India.
+
+### Q4 — D
+
+- **A:** Incorrect commander and claim of decisive military success.
+- **B:** Talwar was the naval ratings' establishment in Bombay.
+- **C:** Trials were legal-political events; Cabinet Mission was a 1946 delegation.
+- **D:** Symbolic participation and battlefield result must be assessed separately.
+- **Trap:** A political legacy need not imply victory in battle.
+
+### Q5 — A
+
+- **A:** The trial's symbolic effect crossed the defendants' communal identities.
+- **B:** An Assembly was proposed later and represented different institutions.
+- **C:** Mission membership was Pethick-Lawrence, Cripps and Alexander.
+- **D:** Political pressure did not produce immediate independence.
+- **Trap:** Separate political resonance from courtroom and battlefield results.
+
+### Q6 — B
+
+- **A:** Cripps offered a provincial constitutional option, not this district plebiscite.
+- **B:** Rajaji proposed district delimitation and a deferred popular vote.
+- **C:** Wavell addressed representation in the executive.
+- **D:** Mission grouping was not Rajaji's proposed district plebiscite.
+- **Trap:** This was not an official Congress offer accepting Jinnah's full terms.
+
+### Q7 — C
+
+- **A:** The Cabinet Mission had not yet arrived and never guaranteed Pakistan.
+- **B:** The proposal was limited to contiguous Muslim-majority districts.
+- **C:** Disagreement concerned terms, timing and meaning of separation.
+- **D:** The talks occurred in 1944, before transfer.
+- **Trap:** Do not project the eventual partition settlement backwards.
+
+### Q8 — D
+
+- **A:** Congress accepted Indianisation but opposed the League's exclusive nomination claim.
+- **B:** Wavell sought a coalition, not immediate partition.
+- **C:** Simla did not hold a popular plebiscite.
+- **D:** The issue was monopoly of representation, not simply a seat count.
+- **Trap:** Maulana Azad's Congress presidency makes the 'only caste Hindus' premise particularly contentious.
+
+### Q9 — A
+
+- **A:** Electoral success changed negotiating legitimacy but not the legal nature of the ballot.
+- **B:** The franchise was limited and options were candidates, not a national binary referendum.
+- **C:** Congress dominated general constituencies.
+- **D:** The Mountbatten plan came later.
+- **Trap:** Distinguish party rhetoric about a plebiscite from actual voting rules.
+
+### Q10 — B
+
+- **A:** A restricted constituency vote cannot establish universal individual consent.
+- **B:** Separate-electorate results sharpened rival claims to representation.
+- **C:** League's mandate made exclusion less plausible.
+- **D:** Elections did not themselves transfer sovereignty.
+- **Trap:** Mandate and constitutional solution are different questions.
+
+### Q11 — C
+
+- **A:** Red Fort trials involved INA prisoners, not naval ratings.
+- **B:** The Assembly first convened later in 1946.
+- **C:** The revolt began within the navy and spread beyond the initial establishment.
+- **D:** Neither grouping nor Simla describes a naval workplace.
+- **Trap:** Local trigger and wider solidarity are not identical.
+
+### Q12 — D
+
+- **A:** The revolt was naval; the Mission proposed, rather than enacted, a constitution.
+- **B:** Chronology places the revolt in 1946.
+- **C:** Congress ministries resigned in 1939.
+- **D:** Political alarm need not equal a nationally coordinated military victory.
+- **Trap:** Do not infer unilateral causation from contemporaneous alarm.
+
+### Q13 — A
+
+- **A:** These British ministers negotiated a constitutional plan.
+- **B:** Wavell was Viceroy; Mountbatten arrived later.
+- **C:** Indian party leaders negotiated with the Mission, not as its members.
+- **D:** The trio were Red Fort INA defendants.
+- **Trap:** The Mission is not identical with the Interim Government.
+
+### Q14 — B
+
+- **A:** The 3 June 1947 partition plan is separate.
+- **B:** A weak centre and groups sought to bridge competing sovereign claims.
+- **C:** A Constituent Assembly was envisaged.
+- **D:** The naval ratings were not constitution-makers.
+- **Trap:** Provincial grouping is not already territorial partition.
+
+### Q15 — C
+
+- **A:** The parties held incompatible interpretations.
+- **B:** Existing assemblies provided an electoral basis for the Constituent Assembly.
+- **C:** The groups' initial status became a decisive interpretive dispute.
+- **D:** The Mission refused Pakistan.
+- **Trap:** Distinguish accession to a group from a later reconsideration of membership.
+
+### Q16 — D
+
+- **A:** Northwestern and other provinces have been exchanged.
+- **B:** Princely states were not substituted for a provincial section.
+- **C:** The sections grouped different territories.
+- **D:** Grouping reflected regionally differentiated provincial blocks.
+- **Trap:** Section C's Bengal–Assam pairing is a recurring trap.
+
+### Q17 — A
+
+- **A:** Separate the constitutional plan from subsequent executive negotiations.
+- **B:** Simla happened the previous year.
+- **C:** Dominion partition was announced in June 1947.
+- **D:** INA trials were a distinct post-war development.
+- **Trap:** The same delegation issued different proposals at different stages.
+
+### Q18 — B
+
+- **A:** The cabinet took office after, not before, Direct Action.
+- **B:** Withdrawal in late July preceded 16 August violence and 2 September government.
+- **C:** The naval revolt and Simla were earlier.
+- **D:** December 1946 and June 1947 occurred later.
+- **Trap:** Direct Action did not respond to an already existing September ministry.
+
+### Q19 — C
+
+- **A:** The Mission did not mandate Direct Action or a partition vote.
+- **B:** December boycott occurred months afterwards.
+- **C:** Calcutta violence and political deadlock predated 2 September government.
+- **D:** Ratings revolted in February, not August.
+- **Trap:** Do not turn an organisational call into a constitutional clause.
+
+### Q20 — D
+
+- **A:** The government existed before October; Assembly first met in December.
+- **B:** The Mission came earlier and rejected Pakistan.
+- **C:** League boycotted the Assembly.
+- **D:** Entry into the executive did not resolve the constitution-making boycott.
+- **Trap:** Executive participation is not constitutional consent.
+
+### Q21 — A
+
+- **A:** The continued boycott after clarification indicates a deeper sovereignty dispute.
+- **B:** HMG explicitly addressed grouping in December.
+- **C:** No such treaty resolved their claims.
+- **D:** The Assembly first sat on 9 December.
+- **Trap:** A trigger for rupture need not be a full explanation for final collapse.
+
+### Q22 — B
+
+- **A:** Neither March 1946 independence nor a new INA followed.
+- **B:** The former concerns negotiation procedure, the latter the timetable to leave.
+- **C:** These events had different actors and purposes.
+- **D:** Boundaries were decided later through partition processes.
+- **Trap:** Different years and purposes make these statements non-interchangeable.
+
+### Q23 — C
+
+- **A:** The RIN revolt was not a unified all-service national revolution.
+- **B:** Trial sympathy was strong despite battlefield defeat.
+- **C:** Their political impact must be weighed with legitimacy, elections and negotiation.
+- **D:** Election outcomes do not measure individual naval opinions.
+- **Trap:** Avoid monocausal explanations of decolonisation.
+
+### Q24 — D
+
+- **A:** INA did not win militarily, nor was a universal plebiscite held.
+- **B:** Quit India did not partition India in 1942.
+- **C:** This reverses chronology.
+- **D:** The sequence joins social mobilisation to contested representation and executive power.
+- **Trap:** Separate post-war upheaval, electoral mandate and constitutional mechanism.

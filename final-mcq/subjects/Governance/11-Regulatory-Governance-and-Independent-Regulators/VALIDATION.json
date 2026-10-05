@@ -1,0 +1,28 @@
+{
+  "topic": "11",
+  "title": "Regulatory Governance and Independent Regulators",
+  "status": "complete for original banks with explicit holds",
+  "counts": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45,
+    "total": 135
+  },
+  "owner_focuses": 45,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "2018 FSSAI key/provenance",
+    "2019 PNGRB key/provenance",
+    "2023 CCI Mains routing and rights",
+    "2025 tribunal Mains routing",
+    "National Tribunals Commission current status",
+    "unsupported institutional fields"
+  ],
+  "audits": {
+    "structural": "PASS",
+    "option_balance": "PASS",
+    "source_routing": "PASS",
+    "institutional_fact": "PASS",
+    "hostile": "PASS"
+  }
+}

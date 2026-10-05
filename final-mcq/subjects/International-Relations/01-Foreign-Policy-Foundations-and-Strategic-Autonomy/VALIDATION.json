@@ -1,0 +1,32 @@
+{
+  "topic": "international-relations-01",
+  "title": "Foreign-Policy Foundations and Strategic Autonomy",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "revisions": {
+    "revision-1": {
+      "questions": 108,
+      "answers": 108,
+      "option_balance": "pass",
+      "hostile_audit": "pass"
+    },
+    "revision-2": {
+      "questions": 108,
+      "answers": 108,
+      "option_balance": "pass",
+      "hostile_audit": "pass"
+    },
+    "revision-3": {
+      "questions": 108,
+      "answers": 108,
+      "option_balance": "pass",
+      "hostile_audit": "pass"
+    }
+  },
+  "exact_pyqs": 0,
+  "rights_holds": [
+    "2024 GS-I Series A Q86 provenance and UPSC reproduction permission",
+    "31 October 2025 US-India framework claim excluded pending primary instrument"
+  ],
+  "next_pending_catalogue_topic": "Foreign-Policy Foundations and Strategic Autonomy"
+}

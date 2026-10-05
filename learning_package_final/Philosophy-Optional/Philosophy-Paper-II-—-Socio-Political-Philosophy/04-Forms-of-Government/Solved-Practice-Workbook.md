@@ -13,24 +13,28 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 10 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Baseline diagnostic MCQs | 32 |
+| Question-specific option explanations (all MCQs) | 132 |
+| Examiner traps (all MCQs) | 33 |
+| Supplementary 2026 conceptual MCQs (four option explanations and a trap) | 1 |
+| Total MCQs (baseline plus coverage-driven supplements; not a quota) | 33 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 11 |
+| Original solved Mains models — six baseline plus targeted syllabus-gap practice | 7 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so that the answer cannot be spotted by shape.
+1. Attempt all diagnostic and supplementary MCQs without notes; read every option explanation after attempting the question.
 2. Work the eight remedial drills only after the core set. They target Schumpeter read as an opponent of democracy, Michels quoted as an iron law, the three contested accounts of populism collapsed into one definition, propaganda answers that end at content regulation, continued elections treated as proof of democracy, imports from Sovereignty and the other owners, mis-dated provenance, and comparison answers written as three disconnected mini-essays.
 3. Attempt each previous-year part under time before reading its solution. **Decide the family from the stem first**: five owned parts concern democracy, three concern monarchy, three concern theocracy, and 2022 Q4(c) belongs to both monarchy and theocracy.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 to 220 words, 15 marks about 250 to 330, 20 marks about 330 to 400**.
+4. Write all seven original models, including the targeted syllabus-gap question; prioritise directive, argument and evidence rather than a preset length limit. The number of practice models follows coverage, not a marks quota.
 5. Check every answer against the traps: monarchy judged undivided, Aristotle's "democracy" read as the modern kind, theocracy defined as religion influencing politics, "how far" answered with an absolute, propaganda answered with censorship, Weber's "legitimate" read as "justified", Michels quoted as a law, one definition of populism presented as settled, any Indian actor characterised, and any comparison written as three sequential essays instead of eight shared axes.
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+**Count rationale (33; not a fixed target):** Classical rule/benefit classifications and Plato/Aristotle, absolute/constitutional monarchy, theocracy's source of law, procedural/substantive democracy, minority rights and democratic backsliding have distinct diagnostics. The extra hard case distinguishes elections from protected revocability in the 2026 dictatorship comparison. Eleven primary-owned PYQs and seven original Mains models test comparative judgments beyond MCQ elimination. First-principles classification items scaffold later close-option questions; they are not presented as uniformly hard.
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+### Baseline MCQs — core diagnostics and remedial error-targeting drills
+
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Forms of Government : Monarchy; Theocracy and Democracy* — together with the four classificatory axes and the description/evaluation split, Plato's degeneration sequence and his three arguments against democracy, Aristotle's two variables and the polity as middle course, the regime families that locate the printed three, absolute against constitutional monarchy, the case for monarchy and its four objections, divine right as the bridge to theocracy, the 2021 freedom question and the 2023 systematicity question, theocracy's five features and the interpretation problem, the constitutive-authority line against secularism, the difference between the 2019 status stem and the 2025 validity stem, procedural against substantive democracy, the institutional and territorial design axes, liberal democracy and minority protection, the distinctiveness of liberty and equality, deliberative democracy with the epistemic defence, and Weber's three types of legitimate authority. The eight remedial drills attack the errors that cost marks every year on this clause: reading Schumpeter as an opponent of democracy, quoting Michels's "law" as though institutional design were irrelevant, collapsing the three contested accounts of populism into one settled definition, ending a propaganda answer at content regulation, treating continued elections as proof that a regime remains democratic, importing material owned by Sovereignty, Individual and State, Political Ideologies or Social and Political Ideals, mis-dating the provenance items the paper can actually punish, and writing three disconnected mini-essays instead of running the eight shared comparison axes.
 
@@ -38,101 +42,352 @@ variant: learner-v2
 
 A candidate opens an answer with "monarchy is rule by one, theocracy is rule by priests, democracy is rule by the people". On the account developed in this package, what has that opening failed to supply?
 
-A. The historical sequence in which the three forms actually emerged, without which no comparison between them can be properly grounded.
-
-B. The economic base of each form, since the class that controls production determines which arrangement of rule will be adopted.
-
-C. The remaining three axes — for whose good, by what title and under what limits — without which the names carry no evaluative content at all.
-
-D. The regional distribution of each form, since a classification must be tested against the variety of states that actually exist today.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the classification is analytical rather than chronological, and the printed forms are compared as rival titles to rule, not as stages of political development.
-- **B:** Incorrect: the economic reading belongs to Political Ideologies, and importing it here replaces the classificatory question with a different theory's answer to it.
-- **C:** Correct: naming the ruler answers only the first axis, whereas the purpose, title and limits axes are what convert a description of who holds office into a judgment about whether the holding is justified.
-- **D:** Incorrect: geographical spread is contingent evidence about frequency, and no distributional fact can establish whether an arrangement of rule deserves obedience.
-
-**Examiner trap 1:** Opening a Forms of Government answer with three one-line definitions spends the introduction on the first axis alone and leaves the examiner with no indication that the candidate knows a form of government is a claim to rule rather than a label.
+A. The remaining three axes — for whose good, by what title and under what limits — without which the names carry no evaluative content at all.
+B. The regional distribution of each form, since a classification must be tested against the variety of states that actually exist today.
+C. The historical sequence in which the three forms actually emerged, without which no comparison between them can be properly grounded.
+D. The economic base of each form, since the class that controls production determines which arrangement of rule will be adopted.
 
 #### MCQ 2. Descriptive classification against normative verdict
 
 Aristotle is said to fuse two operations that most classifications keep apart. Which pair does he fuse, and how?
 
-A. He fuses the descriptive record of how many rule with the normative test of whose advantage that rule serves, so each number yields a right form and a deviant one.
-
-B. He fuses the legal description of how offices are filled with the sociological finding that wealth and poverty determine which class captures those offices in practice.
-
-C. He fuses the metaphysical account of human nature with the empirical study of constitutions, so that political forms are graded by their fidelity to the natural end of man.
-
-D. He fuses the historical narrative of constitutional change with the prescriptive claim that stability is the highest political good a legislator can pursue.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: number of rulers is the descriptive variable and orientation to the common or a private advantage is the normative one, and crossing them produces the three pairs of the six-fold grid.
-- **B:** Incorrect: the observation that the few are wealthy and the many poor is a consequence Aristotle draws from the grid, not the pair of operations the grid itself combines.
-- **C:** Incorrect: the natural-end argument informs Aristotle's wider ethics, but the classification is generated by the two stated criteria and not by a metaphysics of human nature.
-- **D:** Incorrect: stability is the argument for polity specifically, and the six-fold classification is prior to and independent of that recommendation.
-
-**Examiner trap 2:** Praising Aristotle for "combining theory and practice" without naming the two variables reproduces a textbook compliment rather than the analytical move that makes the classification usable in an answer.
+A. He fuses the historical narrative of constitutional change with the prescriptive claim that stability is the highest political good a legislator can pursue.
+B. He fuses the descriptive record of how many rule with the normative test of whose advantage that rule serves, so each number yields a right form and a deviant one.
+C. He fuses the legal description of how offices are filled with the sociological finding that wealth and poverty determine which class captures those offices in practice.
+D. He fuses the metaphysical account of human nature with the empirical study of constitutions, so that political forms are graded by their fidelity to the natural end of man.
 
 #### MCQ 3. Plato's sequence and the engine that drives it
 
 In Plato's account of constitutional decline, what explains each transition from one form to the next?
 
-A. The exhaustion of the material resources on which the previous constitution depended, which forces a redistribution of political power.
-
-B. The intervention of an external conqueror, whose victory installs a new ruling group with a different conception of political order.
-
-C. The failure of the ruling group to reproduce itself biologically, so that offices must be opened to a wider and less competent class.
-
-D. The slippage of the ordering principle from reason towards appetite, so that the constitution mirrors the disordering of the soul it expresses.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: resource exhaustion plays no part in the account, which turns on the value that organises each regime rather than on its material conditions.
-- **B:** Incorrect: conquest is an external cause, whereas Plato's sequence is deliberately internal — each form generates the conditions of its own successor.
-- **C:** Incorrect: this reverses the argument, since the widening of office follows from the change in ruling value and is not the cause of it.
-- **D:** Correct: the sequence is normative rather than historical, and the descent from aristocracy through timocracy, oligarchy and democracy to tyranny tracks the fall of the ruling principle from reason to appetite.
-
-**Examiner trap 3:** Presenting the sequence as the actual constitutional history of Greek city-states converts a moral model into an empirical claim that ordinary political history immediately refutes.
+A. The intervention of an external conqueror, whose victory installs a new ruling group with a different conception of political order.
+B. The failure of the ruling group to reproduce itself biologically, so that offices must be opened to a wider and less competent class.
+C. The slippage of the ordering principle from reason towards appetite, so that the constitution mirrors the disordering of the soul it expresses.
+D. The exhaustion of the material resources on which the previous constitution depended, which forces a redistribution of political power.
 
 #### MCQ 4. What Plato's critique of democracy actually targets
 
 For a 2025-pattern stem, which formulation states Plato's target with the precision that earns marks?
 
-A. Participation itself, since Plato holds that political decisions should never be submitted to any body wider than a trained governing class.
-
-B. Rule driven by unrestrained appetite and unexamined opinion, in which an equal right to rule is treated as though it were an equal capacity to rule.
-
-C. Poverty as such, since Plato regards the propertyless many as structurally incapable of forming any judgment about the common interest.
-
-D. Legal equality before the courts, which Plato treats as the specific institutional device by which democratic cities dissolve their own authority.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: participation is the consequence Plato objects to rather than the target of the objection, and stating it this way loses the competence argument that supports the conclusion.
-- **B:** Correct: naming the target as unrestrained appetite and unexamined opinion keeps together the craft argument, the levelling argument and the degeneration argument that follows from them.
-- **C:** Incorrect: the property criterion is Aristotle's sociological observation about oligarchy and democracy, and Plato's argument turns on knowledge rather than on wealth.
-- **D:** Incorrect: legal equality is not the object of the critique, which concerns the qualification to rule rather than the treatment of citizens before the courts.
-
-**Examiner trap 4:** Reducing the critique to "Plato thought the masses were foolish" replaces a three-step mechanism with a prejudice, and a "Comment on" directive then has nothing left to adjudicate.
+A. Poverty as such, since Plato regards the propertyless many as structurally incapable of forming any judgment about the common interest.
+B. Legal equality before the courts, which Plato treats as the specific institutional device by which democratic cities dissolve their own authority.
+C. Participation itself, since Plato holds that political decisions should never be submitted to any body wider than a trained governing class.
+D. Rule driven by unrestrained appetite and unexamined opinion, in which an equal right to rule is treated as though it were an equal capacity to rule.
 
 #### MCQ 5. What the ship-of-state analogy establishes, and what it does not
 
 The analogy compares choosing rulers with choosing a navigator. Which statement about its argumentative reach is correct?
 
 A. It establishes that political rule is a skill not conferred by numbers, but it does not establish that any procedure can reliably identify who possesses that skill.
-
 B. It establishes that political questions have determinate technical answers, so that disagreement about political ends is always a symptom of ignorance rather than of value conflict.
-
 C. It establishes that hereditary rulers are preferable to elected ones, since inherited office guarantees the continuity of training that a craft necessarily requires.
-
 D. It establishes that expert advisers should replace elected assemblies, so that the authorisation of policy passes from citizens to those qualified to assess it.
+
+#### MCQ 6. Aristotle's two variables in operation
+
+Monarchy and tyranny are both government by a single person. On Aristotle's grid, what distinguishes them?
+
+A. The legality of the ruler's accession, since a monarch inherits or is lawfully installed while a tyrant seizes power by force or by fraud.
+B. The advantage the rule serves, since the pair is identical in number and differs only in whether government is directed to the common or to a private interest.
+C. The severity of the ruler's methods, since a monarch governs through persuasion and custom while a tyrant governs through fear and coercion.
+D. The scale of the territory governed, since a single ruler can serve the common advantage only where the political community remains small.
+
+#### MCQ 7. The name of the good form of the many
+
+A script states: "Aristotle's six forms are monarchy, aristocracy and democracy, each with a corrupt counterpart." What exactly has gone wrong?
+
+A. The error is chronological: those three names belong to Plato's classification, and Aristotle's own list uses entirely different terms for the same arrangements.
+B. The error is in the corrupt counterparts: Aristotle pairs each good form with a further good form rather than with a deviation serving a private interest.
+C. The error is that democracy is Aristotle's deviant many-form, so naming it as the good one collapses the purpose axis and destroys the classification.
+D. Nothing substantive: Aristotle used the three names interchangeably with their alternatives, and the terminology varies between the books of the *Politics*.
+
+#### MCQ 8. Polity, and the exact limit of its modern analogy
+
+How should the relation between Aristotle's polity and modern constitutional democracy be stated?
+
+A. As an opposition, since polity is designed to restrain the many whereas modern constitutional democracy is designed to empower them without institutional restraint.
+B. As a coincidence of names, since polity concerns the distribution of property while modern constitutional democracy concerns the distribution of political authority.
+C. As an identity, since both rest on popular authorisation under law and differ only in the technology available for conducting elections and counting votes.
+D. As an institutional precursor rather than an identity, since polity anticipates mixed and limited government while excluding most residents from citizenship altogether.
+
+#### MCQ 9. Keeping the non-democratic regime families apart
+
+Which set of distinctions correctly separates dictatorship, authoritarianism and totalitarianism?
+
+A. Dictatorship names concentrated decision without competitive accountability, authoritarianism names restricted contestation with residual plurality, and totalitarianism names comprehensive penetration.
+B. Dictatorship is rule by one person, authoritarianism is rule by a single party, and totalitarianism is rule by a bureaucracy, so the three simply differ in the number of rulers involved.
+C. Dictatorship is military in origin, authoritarianism is monarchical in origin, and totalitarianism is religious in origin, so each names a different historical source of unaccountable rule.
+D. Dictatorship suspends a constitution temporarily, authoritarianism replaces it permanently, and totalitarianism dispenses with written constitutions altogether as instruments of bourgeois legality.
+
+#### MCQ 10. Absolute against constitutional monarchy
+
+Which statement correctly describes the difference that decides both owned monarchy stems?
+
+A. In absolute monarchy the monarch is bound only by custom while in constitutional monarchy he is bound by written law, so the two differ in the form rather than the fact of limitation.
+B. In absolute monarchy the crown concentrates governing functions with weak institutional accountability, whereas in constitutional monarchy the monarch reigns and accountability shifts to parliament.
+C. In absolute monarchy the crown is hereditary while in constitutional monarchy it is elective, so the two differ only in the manner by which the office of head of state is filled and vacated.
+D. In absolute monarchy the monarch claims divine sanction and in constitutional monarchy the monarch claims popular consent, so the two differ in the source of the crown's own legitimacy.
+
+#### MCQ 11. The four objections to monarchy, kept distinct
+
+Which pairing correctly matches an objection to monarchy with the ground on which it rests?
+
+A. The merit objection rests on the tendency of monarchies toward despotism, and the freedom objection rests on the monarch's inability to command specialised administrative expertise.
+B. The equality objection rests on the accidental quality of hereditary competence, and the merit objection rests on the closure of public office to equal claimants.
+C. The equality objection rests on the closure of public office to equal claimants, and the accountability objection rests on the arbitrariness invited by concentrated power.
+D. The freedom objection rests on the absence of a written constitution, and the accountability objection rests on the monarch's exemption from taxation and ordinary civil obligations.
+
+#### MCQ 12. Divine right, and the 2022 question about necessity
+
+How should the relation between monarchy and theocracy be stated for a stem asking whether they are *necessarily* related?
+
+A. They are necessarily related, since every monarchy has historically claimed some form of divine sanction for the authority its ruler exercises over subjects.
+B. They are unrelated, since monarchy concerns the number of rulers while theocracy concerns the religious character of the population that is governed.
+C. They are identical in principle, since in both cases political authority is exercised by a single person claiming an authority that no earthly body may review.
+D. They are conceptually distinct but historically intersecting, since divine right makes monarchy theologically legitimated while theocracy makes theology politically constitutive.
+
+#### MCQ 13. The 2021 conclusion on monarchy and individual freedom
+
+Which formulation states the balanced conclusion the freedom question requires?
+
+A. Monarchy can coexist with individual freedom only where it is constitutionalised and politically limited, and monarchy as a principle of rule does not itself ground freedom.
+B. Monarchy is incompatible with individual freedom in every variant, since the existence of a hereditary head of state extinguishes the equal civic status freedom presupposes.
+C. Monarchy secures individual freedom more reliably than democracy, since a hereditary ruler stands outside faction and can therefore protect minorities against majorities.
+D. Monarchy is neutral with respect to individual freedom, since the question depends entirely on the personal character of the reigning monarch rather than on institutions.
+
+#### MCQ 14. The two senses of "above politics" in the 2023 stem
+
+Why does the phrase "above politics" have to be disambiguated before the systematicity question can be answered?
+
+A. Because the phrase refers only to the monarch's ceremonial duties, and systematicity concerns whether those duties are performed consistently across successive reigns.
+B. Because in one sense it means standing above partisan competition, which a constitutional order accommodates, and in another above constitutional accountability, which destroys that order.
+C. Because the phrase originates in monarchical apologetics, so a philosophical answer must reject it outright before any assessment of systematicity can properly begin.
+D. Because the phrase is a constitutional term of art with one fixed meaning in every monarchy, so the stem merely asks whether that fixed meaning has been correctly reported here.
+
+#### MCQ 15. What makes a polity a theocracy
+
+Which condition is necessary for a regime to count as a theocracy on the definition used in this package?
+
+A. That the state restricts the public activity of religions other than the one professed by the ruling group and its recognised clerical establishment.
+B. That a majority of the population practises a single religion and expects public life to reflect the moral commitments of that religion.
+C. That the ultimate source of sovereignty is held to be divine, with sacred law and its authorised interpreters exercising constitutive political authority.
+D. That religious functionaries receive public funds and enjoy formal precedence at ceremonies of state alongside elected political officeholders.
+
+#### MCQ 16. The interpretation problem inside theocracy
+
+Why is the question "who speaks for God?" described as a structural problem rather than as a complaint about particular clergy?
+
+A. Because clerical office has historically been open to corruption, and the historical record supplies abundant evidence of interpreters abusing their position for gain.
+B. Because sacred texts are ancient and their languages are imperfectly understood, so interpretation is unavoidably uncertain even for the most learned reader.
+C. Because rival religions offer incompatible revelations, so no interpreter can establish that his own tradition rather than another supplies the correct divine command.
+D. Because divine law must be applied by human beings, so the interpreter acquires political power that is insulated from criticism once objection to him can be recast as impiety.
+
+#### MCQ 17. The line that decides every theocracy stem
+
+Which distinction is the mark-bearing move on a theocracy question?
+
+A. Between religiously informed public reasoning, which constitutional democracy accommodates, and theocratic sovereignty, which claims constitutive authority for religious law.
+B. Between religions that possess a codified legal tradition and religions that do not, since only the former can supply the sacred law that a theocracy requires.
+C. Between states that fund religious institutions and states that maintain strict fiscal separation, since establishment is the practical test of theocratic government.
+D. Between societies in which religion remains publicly visible and societies in which it has been confined entirely to the private conscience of individual believers.
+
+#### MCQ 18. The 2019 stem and the 2025 stem are different questions
+
+How do the two owned theocracy parts differ in what they demand?
+
+A. The 2019 part is answered by describing constitutional provisions on religious freedom and the 2025 part by describing the internal organisation of clerical hierarchies.
+B. The 2019 part asks where theocracy stands in a modern secular order and yields a residual-status judgment, while the 2025 part asks whether it is valid and needs the test named first.
+C. The 2019 part asks for a historical survey of theocratic states and the 2025 part asks for a comparison between theocracy and monarchy under the doctrine of divine right.
+D. The 2019 part asks whether secular states should tolerate religious parties and the 2025 part asks whether religious citizens may vote according to their convictions.
+
+#### MCQ 19. Procedural against substantive democracy
+
+A regime holds regular, competitive and correctly counted elections while large groups remain socially excluded and politically ineffective. What does this show?
+
+A. That elections are an unreliable instrument and should be supplemented by direct democratic devices such as referenda and recall in every large modern state.
+B. That the regime is not a democracy at all, since the presence of social exclusion establishes that the electoral machinery must itself have been manipulated.
+C. That a polity may satisfy the procedural test of fairly chosen rulers while failing the substantive test of whether people actually govern under fair social conditions.
+D. That substantive democracy is unattainable in practice, so procedural criteria are the only workable standard by which democratic quality can be assessed.
+
+#### MCQ 20. What the institutional and territorial design axes establish
+
+What is the correct philosophical status of the parliamentary/presidential and unitary/federal distinctions in this clause?
+
+A. They are the primary classification of modern government, having replaced the classical monarchy–theocracy–democracy division as the working taxonomy of political forms.
+B. They are constitutional-law material that a Philosophy Paper II answer should avoid entirely, since offices and procedures belong exclusively to the Polity syllabus.
+C. They are proxies for democratic quality, since fusion of powers and federal division are the two arrangements that reliably indicate a genuinely democratic regime.
+D. They are secondary form-axes stating genuine trade-offs, and no single axis by itself establishes that a regime is democratic or that it is not.
+
+#### MCQ 21. The verdict a "how far" minority-protection stem requires
+
+Which conclusion correctly answers the question how far liberal democracies safeguard the interests of minorities?
+
+A. Liberal democracy is normatively committed to minority protection, but its actual success depends on constitutional culture, social equality and institutional independence.
+B. Liberal democracy fully safeguards minorities wherever a written constitution guarantees their rights and an independent judiciary is empowered to enforce those guarantees.
+C. Liberal democracy cannot safeguard minorities at all, since majority rule is its organising principle and every constitutional limit is ultimately revisable by that majority.
+D. Liberal democracy safeguards minorities in proportion to their electoral weight, so protection is a function of numbers rather than of the constitutional order itself.
+
+#### MCQ 22. The distinctiveness test for liberty and equality
+
+A stem asks how far liberty and equality are distinctive features of democracy. What must the answer establish beyond showing that democracy affirms both?
+
+A. That liberty and equality are conceptually compatible, since a distinctiveness claim fails if the two values it names cannot be held together within one political order.
+B. That rival forms cannot institutionalise what democracy does — the equal authorisation of rule and the peaceful replacement of rulers — since limited monarchies also protect liberties.
+C. That democracy realises liberty and equality more completely than any historical regime has managed, which requires comparative evidence drawn from actual states.
+D. That liberty and equality were first formulated by democratic theorists, so their intellectual provenance establishes the distinctive claim the stem is asking about.
+
+#### MCQ 23. Deliberative democracy and the epistemic defence
+
+Which statement correctly reports what these two constructive defences claim?
+
+A. That public reasoning should replace voting altogether, since legitimacy derives from the quality of argument offered rather than from the counting of citizens' preferences.
+B. That deliberation guarantees consensus, so a properly conducted democratic process removes any need for majority decision and for institutional conflict resolution.
+C. That legitimacy grows where laws emerge through communication approximating freedom and reciprocity, and that democratic procedures allow error-detection and revision of mistakes.
+D. That majorities are more likely than experts to reach true conclusions, so democratic decisions should be treated as authoritative on questions of fact as well as of value.
+
+#### MCQ 24. Weber's three types, and the crossing that earns depth
+
+How does the typology of traditional, charismatic and legal-rational authority relate to the classical classification of forms of government?
+
+A. It presupposes the classical classification, since the ground of a regime's legitimacy can be identified only after the number of its rulers has already been fixed.
+B. It replaces the classical classification, since the number of rulers is an obsolete criterion superseded by the sociological study of belief in rightfulness.
+C. It duplicates the classical classification, since traditional authority maps onto monarchy, charismatic onto theocracy and legal-rational onto democracy one to one.
+D. It cuts across the classical classification, since a democracy is normally legal-rational yet may be captured by a plebiscitary-charismatic leader while retaining its legal forms.
+
+#### MCQ 25. Remedial — what Schumpeter's definition actually claims
+
+Which statement correctly reports the competitive definition of democracy?
+
+A. Democracy is the institutional arrangement in which individuals acquire the power to decide through a competitive struggle for the people's vote, so the people produce a government.
+B. Democracy is the institutional arrangement in which the will of the people is discovered by election and then executed by representatives who are bound to carry out that will faithfully.
+C. Democracy is the institutional arrangement in which competing elites agree to share office proportionally, so that no single group can monopolise the machinery of the state.
+D. Democracy is the institutional arrangement in which public policy is settled by referendum, so that the electorate decides questions directly rather than delegating them to leaders.
+
+#### MCQ 26. Remedial — the iron law, stated defensibly
+
+How should Michels's thesis be presented once the standard objection has been taken into account?
+
+A. As a claim confined to socialist parties, since the argument depends on features peculiar to organisations founded upon explicitly egalitarian commitments.
+B. As a resistible tendency rather than an iron law, since organisations differ measurably and rules on term limits, internal elections and transparency alter outcomes.
+C. As a demonstrated empirical law, since every mass organisation studied since 1911 has been shown to fall under the control of a permanent leadership group.
+D. As a claim about bad faith, since leaders of democratic organisations conceal oligarchic intentions behind egalitarian rhetoric from the moment of foundation.
+
+#### MCQ 27. Remedial — the three accounts of populism
+
+How should a candidate handle the definition of populism in a 15- or 20-mark answer?
+
+A. Adopt Mudde's minimal definition as settled, since a thin-centred ideology opposing a pure people to a corrupt elite is the standard formulation in the literature.
+B. Avoid the term entirely, since it is used as a partisan label and no analytically respectable definition of it has yet been proposed by any political theorist.
+C. State the contest between Mudde's thin-centred ideology, Müller's criterion of exclusive moral representation and Laclau's logic of articulation, then adopt a position with reasons.
+D. Treat the three accounts as complementary descriptions of one phenomenon, since each captures a different empirical aspect of the same political movements.
+
+#### MCQ 28. Remedial — why "regulate misinformation" is not an answer
+
+What does the regulator's dilemma establish about remedies for propaganda?
+
+A. That the problem is technological rather than political, so remedies belong to platform engineering and lie outside the competence of political philosophy altogether.
+B. That citizens are responsible for their own credulity, so the appropriate remedy is individual scepticism rather than any institutional intervention by public authority.
+C. That propaganda cannot be countered at all, since any measure adopted by a government will simply be turned to the advantage of whoever happens to control that government.
+D. That content-based remedies hand the state power over public truth, so defensible responses must be structural — plurality, transparency, independent adjudication and education.
+
+#### MCQ 29. Remedial — why continued elections do not settle the question
+
+A regime holds elections, maintains courts, permits a press and allows opposition parties. Why is this insufficient to establish that it remains a constitutional democracy?
+
+A. Because the form of each institution can be retained while the substantive condition it secures — fair contest, limits on majorities, judicial independence, alternation — is eroded.
+B. Because constitutional democracy additionally requires a written constitution containing an entrenched bill of rights that cannot be amended by ordinary legislative majorities.
+C. Because constitutional democracy additionally requires proportional representation, without which the composition of the legislature cannot reflect the distribution of opinion.
+D. Because constitutional democracy additionally requires a federal division of powers, without which no institutional counterweight to the central executive can exist at all.
+
+#### MCQ 30. Remedial — what this clause does not own
+
+Which item belongs to another owner and should be routed rather than developed in a Forms of Government answer?
+
+A. The regulator's dilemma about content-based remedies for propaganda, which is the mark-bearing move on the twenty-mark propaganda stem of 2022.
+B. Austin's command theory and the legal location of final authority, which belong to Sovereignty and are admitted here only as a question of title to rule.
+C. The distinction between absolute and constitutional monarchy, which is the split on which both owned monarchy stems in this clause actually turn.
+D. Weber's three types of legitimate authority, which supply the grid that explains why regimes are obeyed and crosses the classical classification.
+
+#### MCQ 31. Remedial — the provenance items the paper can punish
+
+Which set of attributions is stated correctly?
+
+A. Michels, *Political Parties*, 1904; Mudde, "The Populist Zeitgeist", 1911; Laclau, *On Populist Reason*, 2016; Müller, *What Is Populism?*, 2005.
+B. Michels, *Political Parties*, 1916; Mudde, "The Populist Zeitgeist", 2005; Laclau, *On Populist Reason*, 2004; Müller, *What Is Populism?*, 2011.
+C. Michels, *Political Parties*, 1911; Mudde, "The Populist Zeitgeist", 2004; Laclau, *On Populist Reason*, 2005; Müller, *What Is Populism?*, 2016.
+D. Michels, *Political Parties*, 1911; Mudde, "The Populist Zeitgeist", 2016; Laclau, *On Populist Reason*, 2004; Müller, *What Is Populism?*, 2005.
+
+#### MCQ 32. Remedial — how a comparison stem must be structured
+
+A stem asks the candidate to compare monarchy, theocracy and democracy. What structure earns the marks?
+
+A. A ranking of the three forms from best to worst, supported by the number of contemporary states that currently exhibit each of the arrangements described.
+B. A chronological account tracing the historical replacement of monarchy by theocracy and of theocracy by democracy in the development of political institutions.
+C. Three sequential mini-essays, each covering the definition, history, strengths and weaknesses of one form before the next form is introduced.
+D. Eight shared axes run across all three forms in parallel — authority, legitimacy type, succession, accountability, law, dissent, equal citizenship and error-correction.
+
+### Supplementary 2026 conceptual diagnostic — 1 MCQ
+
+#### MCQ 33. Shared concentration, different authorisation
+
+Which feature most decisively distinguishes constitutional democracy from dictatorship despite the possibility of charismatic leadership in both?
+
+A. Protected opposition can contest and replace rulers under enforceable rules.
+B. The governing party receives a large electoral majority and therefore speaks for the whole population.
+C. The executive follows formally enacted laws even when those laws eliminate competitive parties.
+D. The ruler promises to surrender emergency authority once public order has been restored.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: naming the ruler answers only the first axis, whereas the purpose, title and limits axes are what convert a description of who holds office into a judgment about whether the holding is justified.
+- **B:** Incorrect: geographical spread is contingent evidence about frequency, and no distributional fact can establish whether an arrangement of rule deserves obedience.
+- **C:** Incorrect: the classification is analytical rather than chronological, and the printed forms are compared as rival titles to rule, not as stages of political development.
+- **D:** Incorrect: the economic reading belongs to Political Ideologies, and importing it here replaces the classificatory question with a different theory's answer to it.
+
+**Examiner trap 1:** Opening a Forms of Government answer with three one-line definitions spends the introduction on the first axis alone and leaves the examiner with no indication that the candidate knows a form of government is a claim to rule rather than a label.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: stability is the argument for polity specifically, and the six-fold classification is prior to and independent of that recommendation.
+- **B:** Correct: number of rulers is the descriptive variable and orientation to the common or a private advantage is the normative one, and crossing them produces the three pairs of the six-fold grid.
+- **C:** Incorrect: the observation that the few are wealthy and the many poor is a consequence Aristotle draws from the grid, not the pair of operations the grid itself combines.
+- **D:** Incorrect: the natural-end argument informs Aristotle's wider ethics, but the classification is generated by the two stated criteria and not by a metaphysics of human nature.
+
+**Examiner trap 2:** Praising Aristotle for "combining theory and practice" without naming the two variables reproduces a textbook compliment rather than the analytical move that makes the classification usable in an answer.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: conquest is an external cause, whereas Plato's sequence is deliberately internal — each form generates the conditions of its own successor.
+- **B:** Incorrect: this reverses the argument, since the widening of office follows from the change in ruling value and is not the cause of it.
+- **C:** Correct: the sequence is normative rather than historical, and the descent from aristocracy through timocracy, oligarchy and democracy to tyranny tracks the fall of the ruling principle from reason to appetite.
+- **D:** Incorrect: resource exhaustion plays no part in the account, which turns on the value that organises each regime rather than on its material conditions.
+
+**Examiner trap 3:** Presenting the sequence as the actual constitutional history of Greek city-states converts a moral model into an empirical claim that ordinary political history immediately refutes.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the property criterion is Aristotle's sociological observation about oligarchy and democracy, and Plato's argument turns on knowledge rather than on wealth.
+- **B:** Incorrect: legal equality is not the object of the critique, which concerns the qualification to rule rather than the treatment of citizens before the courts.
+- **C:** Incorrect: participation is the consequence Plato objects to rather than the target of the objection, and stating it this way loses the competence argument that supports the conclusion.
+- **D:** Correct: naming the target as unrestrained appetite and unexamined opinion keeps together the craft argument, the levelling argument and the degeneration argument that follows from them.
+
+**Examiner trap 4:** Reducing the critique to "Plato thought the masses were foolish" replaces a three-step mechanism with a prejudice, and a "Comment on" directive then has nothing left to adjudicate.
+
+#### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -144,149 +399,79 @@ D. It establishes that expert advisers should replace elected assemblies, so tha
 
 **Examiner trap 5:** Using the analogy as a knock-down argument and then declaring the case closed forfeits the mark, because the whole modern reply concerns the identification of experts rather than the existence of expertise.
 
-#### MCQ 6. Aristotle's two variables in operation
+#### MCQ 6 — solution
 
-Monarchy and tyranny are both government by a single person. On Aristotle's grid, what distinguishes them?
+**Answer: B.**
 
-A. The scale of the territory governed, since a single ruler can serve the common advantage only where the political community remains small.
+**Option explanations:**
+- **A:** Incorrect: mode of accession describes how the office was obtained, and the grid's distinguishing variable concerns the purpose for which it is exercised.
+- **B:** Correct: within any row the two forms are structurally identical, so the purpose axis alone converts the descriptive fact of one-person rule into a normative verdict.
+- **C:** Incorrect: cruelty is a familiar accompaniment of tyranny but is not its defining criterion, and a mild ruler serving only his own interest remains a tyrant on the grid.
+- **D:** Incorrect: territorial scale plays no part in the six-fold classification, which is generated by number of rulers crossed with the interest served.
 
-B. The legality of the ruler's accession, since a monarch inherits or is lawfully installed while a tyrant seizes power by force or by fraud.
+**Examiner trap 6:** Distinguishing monarchy from tyranny by cruelty or by illegitimate accession abandons the purpose axis and therefore abandons the only variable that gives Aristotle's classification normative force.
 
-C. The advantage the rule serves, since the pair is identical in number and differs only in whether government is directed to the common or to a private interest.
-
-D. The severity of the ruler's methods, since a monarch governs through persuasion and custom while a tyrant governs through fear and coercion.
+#### MCQ 7 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: territorial scale plays no part in the six-fold classification, which is generated by number of rulers crossed with the interest served.
-- **B:** Incorrect: mode of accession describes how the office was obtained, and the grid's distinguishing variable concerns the purpose for which it is exercised.
-- **C:** Correct: within any row the two forms are structurally identical, so the purpose axis alone converts the descriptive fact of one-person rule into a normative verdict.
-- **D:** Incorrect: cruelty is a familiar accompaniment of tyranny but is not its defining criterion, and a mild ruler serving only his own interest remains a tyrant on the grid.
+- **A:** Incorrect: the classification with its two variables is Aristotle's, and Plato's contribution is the degeneration sequence rather than a rival six-fold list.
+- **B:** Incorrect: each right form is expressly paired with a deviant one, which is what produces three pairs rather than six independent types.
+- **C:** Correct: the good many-form is polity and democracy is its deviant twin, so the misnaming removes the very axis on which the classification's normative content depends.
+- **D:** Incorrect: the terminology is not interchangeable, since polity and democracy occupy opposite cells of the same row and mark precisely the distinction the grid exists to draw.
 
-**Examiner trap 6:** Distinguishing monarchy from tyranny by cruelty or by illegitimate accession abandons the purpose axis and therefore abandons the only variable that gives Aristotle's classification normative force.
+**Examiner trap 7:** Reading Aristotle's "democracy" as the modern constitutional kind and then reporting that he opposed democracy is the standing anachronism of this clause and misrepresents both his position and the modern one.
 
-#### MCQ 7. The name of the good form of the many
-
-A script states: "Aristotle's six forms are monarchy, aristocracy and democracy, each with a corrupt counterpart." What exactly has gone wrong?
-
-A. Nothing substantive: Aristotle used the three names interchangeably with their alternatives, and the terminology varies between the books of the *Politics*.
-
-B. The error is chronological: those three names belong to Plato's classification, and Aristotle's own list uses entirely different terms for the same arrangements.
-
-C. The error is in the corrupt counterparts: Aristotle pairs each good form with a further good form rather than with a deviation serving a private interest.
-
-D. The error is that democracy is Aristotle's deviant many-form, so naming it as the good one collapses the purpose axis and destroys the classification.
+#### MCQ 8 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: the terminology is not interchangeable, since polity and democracy occupy opposite cells of the same row and mark precisely the distinction the grid exists to draw.
-- **B:** Incorrect: the classification with its two variables is Aristotle's, and Plato's contribution is the degeneration sequence rather than a rival six-fold list.
-- **C:** Incorrect: each right form is expressly paired with a deviant one, which is what produces three pairs rather than six independent types.
-- **D:** Correct: the good many-form is polity and democracy is its deviant twin, so the misnaming removes the very axis on which the classification's normative content depends.
-
-**Examiner trap 7:** Reading Aristotle's "democracy" as the modern constitutional kind and then reporting that he opposed democracy is the standing anachronism of this clause and misrepresents both his position and the modern one.
-
-#### MCQ 8. Polity, and the exact limit of its modern analogy
-
-How should the relation between Aristotle's polity and modern constitutional democracy be stated?
-
-A. As an identity, since both rest on popular authorisation under law and differ only in the technology available for conducting elections and counting votes.
-
-B. As an institutional precursor rather than an identity, since polity anticipates mixed and limited government while excluding most residents from citizenship altogether.
-
-C. As an opposition, since polity is designed to restrain the many whereas modern constitutional democracy is designed to empower them without institutional restraint.
-
-D. As a coincidence of names, since polity concerns the distribution of property while modern constitutional democracy concerns the distribution of political authority.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the citizenship difference is not technological but constitutive, since modern democracy claims universal equal citizenship and Aristotle's polity does not.
-- **B:** Correct: the analogy holds at the institutional level — mixed composition, rule under law, distrust of both wealth-rule and unrestrained number — and fails at the level of who counts as a citizen.
-- **C:** Incorrect: modern constitutional democracy is defined precisely by the limits it places on majority power, so the supposed opposition misdescribes both terms.
-- **D:** Incorrect: property enters polity as a moderating condition rather than as its subject matter, and the shared concern of both is the authorisation and limitation of rule.
+- **A:** Incorrect: modern constitutional democracy is defined precisely by the limits it places on majority power, so the supposed opposition misdescribes both terms.
+- **B:** Incorrect: property enters polity as a moderating condition rather than as its subject matter, and the shared concern of both is the authorisation and limitation of rule.
+- **C:** Incorrect: the citizenship difference is not technological but constitutive, since modern democracy claims universal equal citizenship and Aristotle's polity does not.
+- **D:** Correct: the analogy holds at the institutional level — mixed composition, rule under law, distrust of both wealth-rule and unrestrained number — and fails at the level of who counts as a citizen.
 
 **Examiner trap 8:** Writing that "Aristotle's polity is modern democracy" wins a superficial comparison and loses the mark, because the exclusion of most residents from citizenship is exactly the disanalogy an examiner is testing for.
 
-#### MCQ 9. Keeping the non-democratic regime families apart
-
-Which set of distinctions correctly separates dictatorship, authoritarianism and totalitarianism?
-
-A. Dictatorship is military in origin, authoritarianism is monarchical in origin, and totalitarianism is religious in origin, so each names a different historical source of unaccountable rule.
-
-B. Dictatorship suspends a constitution temporarily, authoritarianism replaces it permanently, and totalitarianism dispenses with written constitutions altogether as instruments of bourgeois legality.
-
-C. Dictatorship names concentrated decision without competitive accountability, authoritarianism names restricted contestation with residual plurality, and totalitarianism names comprehensive penetration.
-
-D. Dictatorship is rule by one person, authoritarianism is rule by a single party, and totalitarianism is rule by a bureaucracy, so the three simply differ in the number of rulers involved.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: dictatorship may be personal, military, party-based or emergency in origin, so origin is precisely the variable that does not distinguish the families.
-- **B:** Incorrect: the constitutional-document test misses the point, since the operative criterion is whether limits on power can be enforced rather than whether a text exists.
-- **C:** Correct: the three name different failures — concentration of decision, suppression of contestation, and penetration of political and social life — and totalitarianism is the more ambitious of the three.
-- **D:** Incorrect: number of rulers is the classical axis, whereas these families are distinguished by reach and by the availability of accountability rather than by headcount.
-
-**Examiner trap 9:** Using the three words as synonyms conceals the differences on which any comparative verdict depends and makes the vocabulary useless for the 2023 stem on challenges to a democratic state.
-
-#### MCQ 10. Absolute against constitutional monarchy
-
-Which statement correctly describes the difference that decides both owned monarchy stems?
-
-A. In absolute monarchy the crown concentrates governing functions with weak institutional accountability, whereas in constitutional monarchy the monarch reigns and accountability shifts to parliament.
-
-B. In absolute monarchy the crown is hereditary while in constitutional monarchy it is elective, so the two differ only in the manner by which the office of head of state is filled and vacated.
-
-C. In absolute monarchy the monarch claims divine sanction and in constitutional monarchy the monarch claims popular consent, so the two differ in the source of the crown's own legitimacy.
-
-D. In absolute monarchy the monarch is bound only by custom while in constitutional monarchy he is bound by written law, so the two differ in the form rather than the fact of limitation.
+#### MCQ 9 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the difference is the location of governing power and of accountability, which is why the freedom and systematicity questions receive opposite answers in the two variants.
-- **B:** Incorrect: constitutional monarchy remains hereditary, and heredity concerns how the office is filled while absoluteness concerns whether the office is limited.
-- **C:** Incorrect: divine sanction is one possible title among heredity, conquest and tradition, and a constitutional monarch's legitimacy combines historic continuity with constitutional limitation rather than popular consent.
-- **D:** Incorrect: this understates absolutism, since the absolute monarch claims final power not institutionally answerable to ordinary subjects rather than merely a different kind of limit.
+- **A:** Correct: the three name different failures — concentration of decision, suppression of contestation, and penetration of political and social life — and totalitarianism is the more ambitious of the three.
+- **B:** Incorrect: number of rulers is the classical axis, whereas these families are distinguished by reach and by the availability of accountability rather than by headcount.
+- **C:** Incorrect: dictatorship may be personal, military, party-based or emergency in origin, so origin is precisely the variable that does not distinguish the families.
+- **D:** Incorrect: the constitutional-document test misses the point, since the operative criterion is whether limits on power can be enforced rather than whether a text exists.
 
-**Examiner trap 10:** Writing that a constitutional monarch "has no power" without saying where the power went — to cabinet and parliament — omits the half of the sentence that carries the analytical content.
+**Examiner trap 9:** Using the three words as synonyms conceals the differences on which any comparative verdict depends and makes the vocabulary useless for the 2023 stem on challenges to a democratic state.
 
-#### MCQ 11. The four objections to monarchy, kept distinct
-
-Which pairing correctly matches an objection to monarchy with the ground on which it rests?
-
-A. The equality objection rests on the accidental quality of hereditary competence, and the merit objection rests on the closure of public office to equal claimants.
-
-B. The equality objection rests on the closure of public office to equal claimants, and the accountability objection rests on the arbitrariness invited by concentrated power.
-
-C. The freedom objection rests on the absence of a written constitution, and the accountability objection rests on the monarch's exemption from taxation and ordinary civil obligations.
-
-D. The merit objection rests on the tendency of monarchies toward despotism, and the freedom objection rests on the monarch's inability to command specialised administrative expertise.
+#### MCQ 10 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the two grounds have been swapped, since equality concerns open access to public authority while merit concerns the fact that birth guarantees neither wisdom nor virtue.
-- **B:** Correct: equality attacks hereditary closure of office, and accountability attacks the arbitrariness that follows when power is concentrated in one person beyond institutional answer.
-- **C:** Incorrect: the freedom objection turns on whether law, rights and institutions restrain the crown rather than on the existence of a document, and fiscal privilege is not the accountability point.
-- **D:** Incorrect: the drift toward despotism belongs to the accountability objection, and administrative expertise is not among the four grounds at all.
+- **A:** Incorrect: this understates absolutism, since the absolute monarch claims final power not institutionally answerable to ordinary subjects rather than merely a different kind of limit.
+- **B:** Correct: the difference is the location of governing power and of accountability, which is why the freedom and systematicity questions receive opposite answers in the two variants.
+- **C:** Incorrect: constitutional monarchy remains hereditary, and heredity concerns how the office is filled while absoluteness concerns whether the office is limited.
+- **D:** Incorrect: divine sanction is one possible title among heredity, conquest and tradition, and a constitutional monarch's legitimacy combines historic continuity with constitutional limitation rather than popular consent.
+
+**Examiner trap 10:** Writing that a constitutional monarch "has no power" without saying where the power went — to cabinet and parliament — omits the half of the sentence that carries the analytical content.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the drift toward despotism belongs to the accountability objection, and administrative expertise is not among the four grounds at all.
+- **B:** Incorrect: the two grounds have been swapped, since equality concerns open access to public authority while merit concerns the fact that birth guarantees neither wisdom nor virtue.
+- **C:** Correct: equality attacks hereditary closure of office, and accountability attacks the arbitrariness that follows when power is concentrated in one person beyond institutional answer.
+- **D:** Incorrect: the freedom objection turns on whether law, rights and institutions restrain the crown rather than on the existence of a document, and fiscal privilege is not the accountability point.
 
 **Examiner trap 11:** Merging the four objections into a single complaint that monarchy is "undemocratic" forfeits the analytical credit, because each objection identifies a distinct principle that a defence would have to answer separately.
 
-#### MCQ 12. Divine right, and the 2022 question about necessity
-
-How should the relation between monarchy and theocracy be stated for a stem asking whether they are *necessarily* related?
-
-A. They are necessarily related, since every monarchy has historically claimed some form of divine sanction for the authority its ruler exercises over subjects.
-
-B. They are unrelated, since monarchy concerns the number of rulers while theocracy concerns the religious character of the population that is governed.
-
-C. They are identical in principle, since in both cases political authority is exercised by a single person claiming an authority that no earthly body may review.
-
-D. They are conceptually distinct but historically intersecting, since divine right makes monarchy theologically legitimated while theocracy makes theology politically constitutive.
+#### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -298,17 +483,7 @@ D. They are conceptually distinct but historically intersecting, since divine ri
 
 **Examiner trap 12:** Answering the 2022 stem with a bare "yes" or "no" ignores the word *necessarily*, which is the only word in the stem that fixes what kind of answer is being demanded.
 
-#### MCQ 13. The 2021 conclusion on monarchy and individual freedom
-
-Which formulation states the balanced conclusion the freedom question requires?
-
-A. Monarchy can coexist with individual freedom only where it is constitutionalised and politically limited, and monarchy as a principle of rule does not itself ground freedom.
-
-B. Monarchy is incompatible with individual freedom in every variant, since the existence of a hereditary head of state extinguishes the equal civic status freedom presupposes.
-
-C. Monarchy secures individual freedom more reliably than democracy, since a hereditary ruler stands outside faction and can therefore protect minorities against majorities.
-
-D. Monarchy is neutral with respect to individual freedom, since the question depends entirely on the personal character of the reigning monarch rather than on institutions.
+#### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -320,61 +495,31 @@ D. Monarchy is neutral with respect to individual freedom, since the question de
 
 **Examiner trap 13:** Answering the 2021 stem with a single word loses the mark in the first line, because the answer is conditional on the type of monarchy and on the sense of freedom being used.
 
-#### MCQ 14. The two senses of "above politics" in the 2023 stem
-
-Why does the phrase "above politics" have to be disambiguated before the systematicity question can be answered?
-
-A. Because the phrase is a constitutional term of art with one fixed meaning in every monarchy, so the stem merely asks whether that fixed meaning has been correctly reported here.
-
-B. Because the phrase refers only to the monarch's ceremonial duties, and systematicity concerns whether those duties are performed consistently across successive reigns.
-
-C. Because in one sense it means standing above partisan competition, which a constitutional order accommodates, and in another above constitutional accountability, which destroys that order.
-
-D. Because the phrase originates in monarchical apologetics, so a philosophical answer must reject it outright before any assessment of systematicity can properly begin.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the phrase is not a fixed term of art, and the stem's force comes precisely from the ambiguity between its two available readings.
-- **B:** Incorrect: ceremonial consistency is a matter of protocol, whereas systematicity concerns principles of legitimacy, continuity and role clarity.
-- **C:** Correct: the first sense is compatible with a systematic constitutional monarchy, while the second removes the accountability without which the system ceases to be constitutional.
-- **D:** Incorrect: rejecting the phrase outright refuses the stem's premise instead of analysing it, and the mark lies in the distinction rather than in the refusal.
-
-**Examiner trap 14:** Granting "above politics" its strong sense without noticing produces an answer in which the stem's own premise has already destroyed the system whose systematicity is being assessed.
-
-#### MCQ 15. What makes a polity a theocracy
-
-Which condition is necessary for a regime to count as a theocracy on the definition used in this package?
-
-A. That a majority of the population practises a single religion and expects public life to reflect the moral commitments of that religion.
-
-B. That the ultimate source of sovereignty is held to be divine, with sacred law and its authorised interpreters exercising constitutive political authority.
-
-C. That religious functionaries receive public funds and enjoy formal precedence at ceremonies of state alongside elected political officeholders.
-
-D. That the state restricts the public activity of religions other than the one professed by the ruling group and its recognised clerical establishment.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: widespread religiosity describes a society rather than a form of government, and this definition would make almost every historical polity a theocracy.
-- **B:** Correct: theocracy is defined by the location of sovereignty and by the constitutive political authority of divine law and its interpreters, not by the visibility of religion.
-- **C:** Incorrect: public funding and ceremonial precedence are establishment arrangements that occur in states which are not theocracies at all.
-- **D:** Incorrect: restriction of rival religions is a frequent consequence of theocratic rule rather than the criterion by which the form is identified.
+- **A:** Incorrect: ceremonial consistency is a matter of protocol, whereas systematicity concerns principles of legitimacy, continuity and role clarity.
+- **B:** Correct: the first sense is compatible with a systematic constitutional monarchy, while the second removes the accountability without which the system ceases to be constitutional.
+- **C:** Incorrect: rejecting the phrase outright refuses the stem's premise instead of analysing it, and the mark lies in the distinction rather than in the refusal.
+- **D:** Incorrect: the phrase is not a fixed term of art, and the stem's force comes precisely from the ambiguity between its two available readings.
+
+**Examiner trap 14:** Granting "above politics" its strong sense without noticing produces an answer in which the stem's own premise has already destroyed the system whose systematicity is being assessed.
+
+#### MCQ 15 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: restriction of rival religions is a frequent consequence of theocratic rule rather than the criterion by which the form is identified.
+- **B:** Incorrect: widespread religiosity describes a society rather than a form of government, and this definition would make almost every historical polity a theocracy.
+- **C:** Correct: theocracy is defined by the location of sovereignty and by the constitutive political authority of divine law and its interpreters, not by the visibility of religion.
+- **D:** Incorrect: public funding and ceremonial precedence are establishment arrangements that occur in states which are not theocracies at all.
 
 **Examiner trap 15:** Defining theocracy as "religion influencing politics" dissolves the concept, and an answer built on that definition cannot address either the 2019 status stem or the 2025 validity stem.
 
-#### MCQ 16. The interpretation problem inside theocracy
-
-Why is the question "who speaks for God?" described as a structural problem rather than as a complaint about particular clergy?
-
-A. Because clerical office has historically been open to corruption, and the historical record supplies abundant evidence of interpreters abusing their position for gain.
-
-B. Because sacred texts are ancient and their languages are imperfectly understood, so interpretation is unavoidably uncertain even for the most learned reader.
-
-C. Because rival religions offer incompatible revelations, so no interpreter can establish that his own tradition rather than another supplies the correct divine command.
-
-D. Because divine law must be applied by human beings, so the interpreter acquires political power that is insulated from criticism once objection to him can be recast as impiety.
+#### MCQ 16 — solution
 
 **Answer: D.**
 
@@ -386,61 +531,31 @@ D. Because divine law must be applied by human beings, so the interpreter acquir
 
 **Examiner trap 16:** Treating the interpretation problem as an accusation of clerical corruption converts a structural argument into a moral complaint that a defender can answer simply by producing an honest interpreter.
 
-#### MCQ 17. The line that decides every theocracy stem
-
-Which distinction is the mark-bearing move on a theocracy question?
-
-A. Between societies in which religion remains publicly visible and societies in which it has been confined entirely to the private conscience of individual believers.
-
-B. Between religiously informed public reasoning, which constitutional democracy accommodates, and theocratic sovereignty, which claims constitutive authority for religious law.
-
-C. Between religions that possess a codified legal tradition and religions that do not, since only the former can supply the sacred law that a theocracy requires.
-
-D. Between states that fund religious institutions and states that maintain strict fiscal separation, since establishment is the practical test of theocratic government.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: public visibility is compatible with constitutional democracy, and the privatisation of belief is not what secularism as defined here requires.
-- **B:** Correct: the first offers reasons that citizens of other faiths and none may contest as equals, while the second makes equal contestation itself a form of impiety.
-- **C:** Incorrect: the presence of a codified legal tradition is a feature of some traditions and is not the criterion distinguishing theocratic from non-theocratic rule.
-- **D:** Incorrect: funding arrangements vary widely among states that are not theocracies, so establishment is neither necessary nor sufficient for the form.
-
-**Examiner trap 17:** Condemning theocracy without drawing the constitutive-authority line produces a conclusion without an argument, and it also implies the indefensible position that religious citizens may not reason publicly from their convictions.
-
-#### MCQ 18. The 2019 stem and the 2025 stem are different questions
-
-How do the two owned theocracy parts differ in what they demand?
-
-A. The 2019 part asks where theocracy stands in a modern secular order and yields a residual-status judgment, while the 2025 part asks whether it is valid and needs the test named first.
-
-B. The 2019 part asks for a historical survey of theocratic states and the 2025 part asks for a comparison between theocracy and monarchy under the doctrine of divine right.
-
-C. The 2019 part asks whether secular states should tolerate religious parties and the 2025 part asks whether religious citizens may vote according to their convictions.
-
-D. The 2019 part is answered by describing constitutional provisions on religious freedom and the 2025 part by describing the internal organisation of clerical hierarchies.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: status is a question about place and yields the residual-or-contested judgment, whereas validity is a question about a criterion and requires consent, equal citizenship, public reason and accountability to be named before the verdict.
-- **B:** Incorrect: the divine-right comparison belongs to the 2022 part, and neither owned theocracy stem asks for a historical survey of theocratic states.
-- **C:** Incorrect: neither stem concerns the toleration of religious parties or the private voting conduct of believers.
-- **D:** Incorrect: constitutional provisions illustrate rather than answer, and clerical organisation is not what either stem is asking about.
+- **A:** Correct: the first offers reasons that citizens of other faiths and none may contest as equals, while the second makes equal contestation itself a form of impiety.
+- **B:** Incorrect: the presence of a codified legal tradition is a feature of some traditions and is not the criterion distinguishing theocratic from non-theocratic rule.
+- **C:** Incorrect: funding arrangements vary widely among states that are not theocracies, so establishment is neither necessary nor sufficient for the form.
+- **D:** Incorrect: public visibility is compatible with constitutional democracy, and the privatisation of belief is not what secularism as defined here requires.
+
+**Examiner trap 17:** Condemning theocracy without drawing the constitutive-authority line produces a conclusion without an argument, and it also implies the indefensible position that religious citizens may not reason publicly from their convictions.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: constitutional provisions illustrate rather than answer, and clerical organisation is not what either stem is asking about.
+- **B:** Correct: status is a question about place and yields the residual-or-contested judgment, whereas validity is a question about a criterion and requires consent, equal citizenship, public reason and accountability to be named before the verdict.
+- **C:** Incorrect: the divine-right comparison belongs to the 2022 part, and neither owned theocracy stem asks for a historical survey of theocratic states.
+- **D:** Incorrect: neither stem concerns the toleration of religious parties or the private voting conduct of believers.
 
 **Examiner trap 18:** Answering the 2019 stem as though it were the 2025 stem produces an evaluation where a location was requested, and the resulting answer never states where theocracy actually stands in a modern secular order.
 
-#### MCQ 19. Procedural against substantive democracy
-
-A regime holds regular, competitive and correctly counted elections while large groups remain socially excluded and politically ineffective. What does this show?
-
-A. That elections are an unreliable instrument and should be supplemented by direct democratic devices such as referenda and recall in every large modern state.
-
-B. That the regime is not a democracy at all, since the presence of social exclusion establishes that the electoral machinery must itself have been manipulated.
-
-C. That a polity may satisfy the procedural test of fairly chosen rulers while failing the substantive test of whether people actually govern under fair social conditions.
-
-D. That substantive democracy is unattainable in practice, so procedural criteria are the only workable standard by which democratic quality can be assessed.
+#### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -452,17 +567,7 @@ D. That substantive democracy is unattainable in practice, so procedural criteri
 
 **Examiner trap 19:** Defining democracy as periodic election announces the procedural conception as though it were the whole concept, and the answer then has no resources for any stem containing the words "how far" or "critically".
 
-#### MCQ 20. What the institutional and territorial design axes establish
-
-What is the correct philosophical status of the parliamentary/presidential and unitary/federal distinctions in this clause?
-
-A. They are the primary classification of modern government, having replaced the classical monarchy–theocracy–democracy division as the working taxonomy of political forms.
-
-B. They are constitutional-law material that a Philosophy Paper II answer should avoid entirely, since offices and procedures belong exclusively to the Polity syllabus.
-
-C. They are proxies for democratic quality, since fusion of powers and federal division are the two arrangements that reliably indicate a genuinely democratic regime.
-
-D. They are secondary form-axes stating genuine trade-offs, and no single axis by itself establishes that a regime is democratic or that it is not.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
@@ -474,17 +579,7 @@ D. They are secondary form-axes stating genuine trade-offs, and no single axis b
 
 **Examiner trap 20:** Writing that parliamentary systems are democratic and presidential ones authoritarian converts a distinction about executive–legislative relations and tenure into an evaluative ranking it cannot support.
 
-#### MCQ 21. The verdict a "how far" minority-protection stem requires
-
-Which conclusion correctly answers the question how far liberal democracies safeguard the interests of minorities?
-
-A. Liberal democracy is normatively committed to minority protection, but its actual success depends on constitutional culture, social equality and institutional independence.
-
-B. Liberal democracy fully safeguards minorities wherever a written constitution guarantees their rights and an independent judiciary is empowered to enforce those guarantees.
-
-C. Liberal democracy cannot safeguard minorities at all, since majority rule is its organising principle and every constitutional limit is ultimately revisable by that majority.
-
-D. Liberal democracy safeguards minorities in proportion to their electoral weight, so protection is a function of numbers rather than of the constitutional order itself.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -496,17 +591,7 @@ D. Liberal democracy safeguards minorities in proportion to their electoral weig
 
 **Examiner trap 21:** Answering "how far" with either "completely" or "not at all" refuses the degree judgment the directive demands and abandons the achievements-against-limits structure that carries the marks.
 
-#### MCQ 22. The distinctiveness test for liberty and equality
-
-A stem asks how far liberty and equality are distinctive features of democracy. What must the answer establish beyond showing that democracy affirms both?
-
-A. That liberty and equality are conceptually compatible, since a distinctiveness claim fails if the two values it names cannot be held together within one political order.
-
-B. That rival forms cannot institutionalise what democracy does — the equal authorisation of rule and the peaceful replacement of rulers — since limited monarchies also protect liberties.
-
-C. That democracy realises liberty and equality more completely than any historical regime has managed, which requires comparative evidence drawn from actual states.
-
-D. That liberty and equality were first formulated by democratic theorists, so their intellectual provenance establishes the distinctive claim the stem is asking about.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -518,61 +603,31 @@ D. That liberty and equality were first formulated by democratic theorists, so t
 
 **Examiner trap 22:** Proving that democracy affirms liberty and equality and stopping there answers a question about possession when the stem asked about distinctiveness, which is the commonest structural failure on the 2018 pattern.
 
-#### MCQ 23. Deliberative democracy and the epistemic defence
-
-Which statement correctly reports what these two constructive defences claim?
-
-A. That majorities are more likely than experts to reach true conclusions, so democratic decisions should be treated as authoritative on questions of fact as well as of value.
-
-B. That public reasoning should replace voting altogether, since legitimacy derives from the quality of argument offered rather than from the counting of citizens' preferences.
-
-C. That deliberation guarantees consensus, so a properly conducted democratic process removes any need for majority decision and for institutional conflict resolution.
-
-D. That legitimacy grows where laws emerge through communication approximating freedom and reciprocity, and that democratic procedures allow error-detection and revision of mistakes.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the epistemic defence is procedural and does not claim that majority opinion tracks truth, which would revive precisely the objection Plato raises.
-- **B:** Incorrect: deliberative democracy deepens voting by adding public justification and expressly does not replace the institutions of aggregation.
-- **C:** Incorrect: consensus is not promised, and the deliberative claim concerns the revisability and justifiability of decisions rather than their unanimity.
-- **D:** Correct: Habermas grounds legitimacy in communication under conditions approximating freedom, reciprocity and absence of domination, and the epistemic defence adds error-correction and dispersed social knowledge.
-
-**Examiner trap 23:** Stating the epistemic defence as "the majority is usually right" hands Plato the argument, because the defence's whole force lies in procedures for correcting error rather than in the reliability of opinion.
-
-#### MCQ 24. Weber's three types, and the crossing that earns depth
-
-How does the typology of traditional, charismatic and legal-rational authority relate to the classical classification of forms of government?
-
-A. It replaces the classical classification, since the number of rulers is an obsolete criterion superseded by the sociological study of belief in rightfulness.
-
-B. It duplicates the classical classification, since traditional authority maps onto monarchy, charismatic onto theocracy and legal-rational onto democracy one to one.
-
-C. It cuts across the classical classification, since a democracy is normally legal-rational yet may be captured by a plebiscitary-charismatic leader while retaining its legal forms.
-
-D. It presupposes the classical classification, since the ground of a regime's legitimacy can be identified only after the number of its rulers has already been fixed.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: the two grids answer different questions — who decides, and why they are obeyed — so neither supersedes the other and a complete assessment requires both.
-- **B:** Incorrect: a monarchy may be traditional or charismatic, a theocracy typically joins traditional to charismatic, and no one-to-one mapping survives contact with actual mixtures.
-- **C:** Correct: the crossing is exactly what the monarchy and theocracy stems reward, and it also explains how a regime can be electorally democratic and constitutionally illiberal at the same time.
-- **D:** Incorrect: the ground of legitimacy is identified from the belief on which compliance rests, which can be established independently of how many persons hold office.
+- **A:** Incorrect: deliberative democracy deepens voting by adding public justification and expressly does not replace the institutions of aggregation.
+- **B:** Incorrect: consensus is not promised, and the deliberative claim concerns the revisability and justifiability of decisions rather than their unanimity.
+- **C:** Correct: Habermas grounds legitimacy in communication under conditions approximating freedom, reciprocity and absence of domination, and the epistemic defence adds error-correction and dispersed social knowledge.
+- **D:** Incorrect: the epistemic defence is procedural and does not claim that majority opinion tracks truth, which would revive precisely the objection Plato raises.
+
+**Examiner trap 23:** Stating the epistemic defence as "the majority is usually right" hands Plato the argument, because the defence's whole force lies in procedures for correcting error rather than in the reliability of opinion.
+
+#### MCQ 24 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the ground of legitimacy is identified from the belief on which compliance rests, which can be established independently of how many persons hold office.
+- **B:** Incorrect: the two grids answer different questions — who decides, and why they are obeyed — so neither supersedes the other and a complete assessment requires both.
+- **C:** Incorrect: a monarchy may be traditional or charismatic, a theocracy typically joins traditional to charismatic, and no one-to-one mapping survives contact with actual mixtures.
+- **D:** Correct: the crossing is exactly what the monarchy and theocracy stems reward, and it also explains how a regime can be electorally democratic and constitutionally illiberal at the same time.
 
 **Examiner trap 24:** Treating "legitimate" in Weber as equivalent to "justified" imports a normative verdict into a sociological category and makes the propaganda argument of the final session unintelligible.
 
-#### MCQ 25. Remedial — what Schumpeter's definition actually claims
-
-Which statement correctly reports the competitive definition of democracy?
-
-A. Democracy is the institutional arrangement in which individuals acquire the power to decide through a competitive struggle for the people's vote, so the people produce a government.
-
-B. Democracy is the institutional arrangement in which the will of the people is discovered by election and then executed by representatives who are bound to carry out that will faithfully.
-
-C. Democracy is the institutional arrangement in which competing elites agree to share office proportionally, so that no single group can monopolise the machinery of the state.
-
-D. Democracy is the institutional arrangement in which public policy is settled by referendum, so that the electorate decides questions directly rather than delegating them to leaders.
+#### MCQ 25 — solution
 
 **Answer: A.**
 
@@ -584,39 +639,19 @@ D. Democracy is the institutional arrangement in which public policy is settled 
 
 **Examiner trap 25:** Presenting Schumpeter as an opponent of democracy misses that he is redefining it, and that his critics concede the competitive minimum while disputing its sufficiency.
 
-#### MCQ 26. Remedial — the iron law, stated defensibly
+#### MCQ 26 — solution
 
-How should Michels's thesis be presented once the standard objection has been taken into account?
-
-A. As a demonstrated empirical law, since every mass organisation studied since 1911 has been shown to fall under the control of a permanent leadership group.
-
-B. As a claim about bad faith, since leaders of democratic organisations conceal oligarchic intentions behind egalitarian rhetoric from the moment of foundation.
-
-C. As a claim confined to socialist parties, since the argument depends on features peculiar to organisations founded upon explicitly egalitarian commitments.
-
-D. As a resistible tendency rather than an iron law, since organisations differ measurably and rules on term limits, internal elections and transparency alter outcomes.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: uniformity is exactly what the objection denies, and a thesis that institutional design can defeat is not a law in the sense claimed.
-- **B:** Incorrect: Michels expressly derives oligarchy from the requirements of organisation itself rather than from the motives of leaders.
-- **C:** Incorrect: socialist parties and trade unions are his hardest cases precisely because they are egalitarian by commitment, so the argument is general rather than confined.
-- **D:** Correct: the defensible version treats oligarchic drift as the default that must be actively resisted, which concedes that a tendency defeasible by design is no longer *iron*.
+- **A:** Incorrect: socialist parties and trade unions are his hardest cases precisely because they are egalitarian by commitment, so the argument is general rather than confined.
+- **B:** Correct: the defensible version treats oligarchic drift as the default that must be actively resisted, which concedes that a tendency defeasible by design is no longer *iron*.
+- **C:** Incorrect: uniformity is exactly what the objection denies, and a thesis that institutional design can defeat is not a law in the sense claimed.
+- **D:** Incorrect: Michels expressly derives oligarchy from the requirements of organisation itself rather than from the motives of leaders.
 
 **Examiner trap 26:** Quoting "who says organisation says oligarchy" as a settled finding invites the immediate objection from measurable variation in internal democracy, and an answer that has not anticipated it loses the exchange.
 
-#### MCQ 27. Remedial — the three accounts of populism
-
-How should a candidate handle the definition of populism in a 15- or 20-mark answer?
-
-A. Adopt Mudde's minimal definition as settled, since a thin-centred ideology opposing a pure people to a corrupt elite is the standard formulation in the literature.
-
-B. Avoid the term entirely, since it is used as a partisan label and no analytically respectable definition of it has yet been proposed by any political theorist.
-
-C. State the contest between Mudde's thin-centred ideology, Müller's criterion of exclusive moral representation and Laclau's logic of articulation, then adopt a position with reasons.
-
-D. Treat the three accounts as complementary descriptions of one phenomenon, since each captures a different empirical aspect of the same political movements.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
@@ -628,83 +663,43 @@ D. Treat the three accounts as complementary descriptions of one phenomenon, sin
 
 **Examiner trap 27:** Writing a single confident definition of populism forfeits the depth marks and leaves the answer defenceless against the objection that the term is merely a weapon used by incumbents.
 
-#### MCQ 28. Remedial — why "regulate misinformation" is not an answer
-
-What does the regulator's dilemma establish about remedies for propaganda?
-
-A. That propaganda cannot be countered at all, since any measure adopted by a government will simply be turned to the advantage of whoever happens to control that government.
-
-B. That content-based remedies hand the state power over public truth, so defensible responses must be structural — plurality, transparency, independent adjudication and education.
-
-C. That the problem is technological rather than political, so remedies belong to platform engineering and lie outside the competence of political philosophy altogether.
-
-D. That citizens are responsible for their own credulity, so the appropriate remedy is individual scepticism rather than any institutional intervention by public authority.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the dilemma narrows the class of defensible remedies rather than establishing that none exists, and structural measures survive it.
-- **B:** Correct: restrictions on false speech, platform control and licensing confer exactly the power a propagandising state abuses, so the remedies must operate on conditions rather than on content.
-- **C:** Incorrect: the argument is about the conditions of autonomous judgment and of democratic authorisation, which is a political-philosophical question rather than an engineering one.
-- **D:** Incorrect: individual scepticism cannot restore access to information, exposure to rival argument or freedom from manipulation, which are structural conditions of opinion-formation.
-
-**Examiner trap 28:** Ending a 20-mark propaganda answer at "fake news should be regulated" shows that the candidate has not seen the problem, since the proposed cure is the very power whose abuse the question is about.
-
-#### MCQ 29. Remedial — why continued elections do not settle the question
-
-A regime holds elections, maintains courts, permits a press and allows opposition parties. Why is this insufficient to establish that it remains a constitutional democracy?
-
-A. Because constitutional democracy additionally requires a written constitution containing an entrenched bill of rights that cannot be amended by ordinary legislative majorities.
-
-B. Because constitutional democracy additionally requires proportional representation, without which the composition of the legislature cannot reflect the distribution of opinion.
-
-C. Because constitutional democracy additionally requires a federal division of powers, without which no institutional counterweight to the central executive can exist at all.
-
-D. Because the form of each institution can be retained while the substantive condition it secures — fair contest, limits on majorities, judicial independence, alternation — is eroded.
+#### MCQ 28 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: entrenchment is one device among several, and the argument concerns whether limits are effective rather than whether they take a particular textual form.
-- **B:** Incorrect: electoral system design is a further question, and both proportional and majoritarian systems are compatible with constitutional democracy.
-- **C:** Incorrect: federal division supports the dispersal of power but is neither necessary nor sufficient, since unitary states may be constitutional democracies.
-- **D:** Correct: the form/substance grid records exactly this pattern, in which elections, courts, press and opposition all persist while the conditions that make electoral defeat survivable are hollowed out.
+- **A:** Incorrect: the argument is about the conditions of autonomous judgment and of democratic authorisation, which is a political-philosophical question rather than an engineering one.
+- **B:** Incorrect: individual scepticism cannot restore access to information, exposure to rival argument or freedom from manipulation, which are structural conditions of opinion-formation.
+- **C:** Incorrect: the dilemma narrows the class of defensible remedies rather than establishing that none exists, and structural measures survive it.
+- **D:** Correct: restrictions on false speech, platform control and licensing confer exactly the power a propagandising state abuses, so the remedies must operate on conditions rather than on content.
 
-**Examiner trap 29:** Treating the continuation of elections as decisive evidence answers the procedural question and leaves the substantive one untouched, which is precisely the confusion the illiberal-democracy analysis exists to prevent.
+**Examiner trap 28:** Ending a 20-mark propaganda answer at "fake news should be regulated" shows that the candidate has not seen the problem, since the proposed cure is the very power whose abuse the question is about.
 
-#### MCQ 30. Remedial — what this clause does not own
-
-Which item belongs to another owner and should be routed rather than developed in a Forms of Government answer?
-
-A. Austin's command theory and the legal location of final authority, which belong to Sovereignty and are admitted here only as a question of title to rule.
-
-B. The distinction between absolute and constitutional monarchy, which is the split on which both owned monarchy stems in this clause actually turn.
-
-C. Weber's three types of legitimate authority, which supply the grid that explains why regimes are obeyed and crosses the classical classification.
-
-D. The regulator's dilemma about content-based remedies for propaganda, which is the mark-bearing move on the twenty-mark propaganda stem of 2022.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Austin, Bodin, Laski and Kautilya belong to Sovereignty, and this owner admits sovereignty only as popular authorisation, divine title or the legal location of governmental power.
-- **B:** Incorrect: the absolute/constitutional split is owned here and is the analytical basis of both the 2021 and 2023 answers.
-- **C:** Incorrect: the authority typology is developed within this owner because the monarchy and theocracy stems reward the crossing of the two grids.
-- **D:** Incorrect: the propaganda module including the regulator's dilemma is owned here and answers a directly owned twenty-mark part.
+- **A:** Correct: the form/substance grid records exactly this pattern, in which elections, courts, press and opposition all persist while the conditions that make electoral defeat survivable are hollowed out.
+- **B:** Incorrect: entrenchment is one device among several, and the argument concerns whether limits are effective rather than whether they take a particular textual form.
+- **C:** Incorrect: electoral system design is a further question, and both proportional and majoritarian systems are compatible with constitutional democracy.
+- **D:** Incorrect: federal division supports the dispersal of power but is neither necessary nor sufficient, since unitary states may be constitutional democracies.
+
+**Examiner trap 29:** Treating the continuation of elections as decisive evidence answers the procedural question and leaves the substantive one untouched, which is precisely the confusion the illiberal-democracy analysis exists to prevent.
+
+#### MCQ 30 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the propaganda module including the regulator's dilemma is owned here and answers a directly owned twenty-mark part.
+- **B:** Correct: Austin, Bodin, Laski and Kautilya belong to Sovereignty, and this owner admits sovereignty only as popular authorisation, divine title or the legal location of governmental power.
+- **C:** Incorrect: the absolute/constitutional split is owned here and is the analytical basis of both the 2021 and 2023 answers.
+- **D:** Incorrect: the authority typology is developed within this owner because the monarchy and theocracy stems reward the crossing of the two grids.
 
 **Examiner trap 30:** Importing Austin's command theory, the full theory of rights, or anarchism and Marxism as complete ideologies spends the word budget on another owner's material and leaves the printed forms under-argued.
 
-#### MCQ 31. Remedial — the provenance items the paper can punish
-
-Which set of attributions is stated correctly?
-
-A. Michels, *Political Parties*, 1904; Mudde, "The Populist Zeitgeist", 1911; Laclau, *On Populist Reason*, 2016; Müller, *What Is Populism?*, 2005.
-
-B. Michels, *Political Parties*, 1916; Mudde, "The Populist Zeitgeist", 2005; Laclau, *On Populist Reason*, 2004; Müller, *What Is Populism?*, 2011.
-
-C. Michels, *Political Parties*, 1911; Mudde, "The Populist Zeitgeist", 2004; Laclau, *On Populist Reason*, 2005; Müller, *What Is Populism?*, 2016.
-
-D. Michels, *Political Parties*, 1911; Mudde, "The Populist Zeitgeist", 2016; Laclau, *On Populist Reason*, 2004; Müller, *What Is Populism?*, 2005.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
@@ -716,36 +711,39 @@ D. Michels, *Political Parties*, 1911; Mudde, "The Populist Zeitgeist", 2016; La
 
 **Examiner trap 31:** Inventing a page, chapter, edition or quotation for Weber, Schumpeter, Habermas, Rousseau, Mill or Tocqueville converts a strong answer into a fabrication risk, since this clause verifies year-level provenance only for the four items above and the two Indian legal instruments.
 
-#### MCQ 32. Remedial — how a comparison stem must be structured
+#### MCQ 32 — solution
 
-A stem asks the candidate to compare monarchy, theocracy and democracy. What structure earns the marks?
-
-A. Three sequential mini-essays, each covering the definition, history, strengths and weaknesses of one form before the next form is introduced.
-
-B. Eight shared axes run across all three forms in parallel — authority, legitimacy type, succession, accountability, law, dissent, equal citizenship and error-correction.
-
-C. A ranking of the three forms from best to worst, supported by the number of contemporary states that currently exhibit each of the arrangements described.
-
-D. A chronological account tracing the historical replacement of monarchy by theocracy and of theocracy by democracy in the development of political institutions.
-
-**Answer: B.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: sequential mini-essays are the structural failure the comparison rule expressly forbids, since nothing in them is actually compared.
-- **B:** Correct: fixing shared axes and running every form down each of them is what produces a comparison, and error-correction is the axis that most often decides the verdict.
-- **C:** Incorrect: counting states substitutes contingent frequency for argument, and a ranking without a named criterion is an assertion rather than a judgment.
-- **D:** Incorrect: no such historical succession occurred, and the three forms are rival titles to rule rather than stages in institutional development.
+- **A:** Incorrect: counting states substitutes contingent frequency for argument, and a ranking without a named criterion is an assertion rather than a judgment.
+- **B:** Incorrect: no such historical succession occurred, and the three forms are rival titles to rule rather than stages in institutional development.
+- **C:** Incorrect: sequential mini-essays are the structural failure the comparison rule expressly forbids, since nothing in them is actually compared.
+- **D:** Correct: fixing shared axes and running every form down each of them is what produces a comparison, and error-correction is the axis that most often decides the verdict.
 
 **Examiner trap 32:** Omitting the error-correction axis is the specific and repeated failure on comparison stems, because it is the axis on which democracy's comparative claim rests and on which monarchy and theocracy are weakest.
 
 ---
+
+#### MCQ 33 — solution
+
+**Answer: A.** **Option explanations:**
+- **A:** Correct: genuinely revocable authority with effective contestation distinguishes the constitutional case.
+- **B:** Wrong: a majority mandate does not authorise extinguishing the equal standing of opponents.
+- **C:** Wrong: formal legality without genuinely contestable power can legalise authoritarian closure.
+- **D:** Wrong: a promise of future restraint is not a present institutional means of checking arbitrary rule.
+
+**Examiner trap 33:** Neither hereditary succession nor a popular election alone tells whether rule is dictatorial.
+
+---
+
 ## PYQS AND ANSWER PRACTICE
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key; UPSC publishes no descriptive model answer for Philosophy Paper II. Question wording is reproduced exactly as printed in the official papers, including the paper's own capitalisation in **"Comment on Plato's critique of Democracy"** and in **"Can Theocracy be accepted as a valid form of Government?"**, which are preserved verbatim inside the question lines. The 2018 to 2025 Paper II texts are held locally, and the English wording of every part below follows the repository's verified Socio-Political PYQ ledger. Provenance is treated as examinable: **Michels, *Political Parties*, 1911**; **Mudde, "The Populist Zeitgeist", *Government and Opposition*, 2004**; **Laclau, *On Populist Reason*, 2005**; **Müller, *What Is Populism?*, 2016**; **the Representation of the People Act, 1951**; **the Constitution (Seventy-third and Seventy-fourth Amendment) Acts, 1992, inserting Parts IX and IX-A**; **Articles 19(1)(a) and 19(2)**; **Articles 25–28**. No page, chapter, edition or invented quotation is asserted for Plato, Aristotle, Weber, Schumpeter, Habermas, Rousseau, Mill, Tocqueville, Linz, Arendt or Ambedkar, and the only quoted phrases are the short ones the sources themselves fix — Michels's "who says organisation says oligarchy" and the populist opposition of "the pure people" to "the corrupt elite". ⚠️ Interpretive disputes — whether Plato's degeneration sequence is a historical claim or an idealised model, whether populism is a pathology or a democratising logic, whether Weber's belief-based legitimacy can be separated cleanly from normative justification, and whether the constraint of public reason is genuinely neutral among traditions — are flagged as contested rather than settled. ❌ No empirical claim is made about any Indian government, party, leader or period, and no Indian actor is characterised as populist, illiberal or propagandist.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper II parts are written longer than General Studies answers. The working bands used here are **10 marks — about 150 to 220 words**, **15 marks — about 250 to 330 words**, and **20 marks — about 330 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the verdict heading and the "why this earns marks" notes are teaching apparatus that sit **outside** the timed word count.
+**Timed-practice convention.** Scale time and detail to the marks and directive, but do not impose a preset word limit on these learning models. Demand decoding and examiner notes are study aids; no answer earns marks merely by reaching a length.
 
 **Coverage.** ⚠️ **Corpus signal:** this clause owns **10 of 112** Socio-Political question-parts in the 2018–2025 corpus, distributed **2018: 1, 2019: 1, 2020: 1, 2021: 1, 2022: 2, 2023: 2, 2024: 0, 2025: 2**. All ten are solved in full below, followed by **six original solved Mains models**, two each at 10, 15 and 20 marks. The internal distribution is worth knowing before the examination: **democracy** carries five parts (2018 Q1(a), 2020 Q1(b), 2022 Q4(a), 2023 Q4(b), and the 2025 Plato part which attacks it); **monarchy** carries three (2021 Q1(d), 2022 Q4(c), 2023 Q1(e)); and **theocracy** carries three (2019 Q1(b), 2022 Q4(c) jointly with monarchy, 2025 Q4(b)). ⚠️ Ownership discipline: Austin, Bodin, Laski and Kautilya belong to **Sovereignty**; rights, duties, accountability and political obligation to **Individual and State**; anarchism, Marxism and socialism as full doctrines to **Political Ideologies**; equality, justice and liberty themselves to **Social and Political Ideals**; the full theory of secularism to **Humanism, Secularism and Multiculturalism**; and article-by-article doctrine to Polity. None of those parts is counted here. ❌ Do not route every occurrence of the word "state" or "government" to this owner: ownership turns on the printed forms — monarchy, theocracy and democracy — and on the classification and legitimacy questions they generate.
 
@@ -779,7 +777,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** the stem has two halves and a locational instruction. Scripts that define liberal democracy and then discuss "challenges" have answered a different question; the second half must take a position, and the reasons must come from the Indian context rather than from a general theory.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** definition three lines; the question behind the question two; the argued position three; the Indian reason two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** definition three lines; the question behind the question two; the argued position three; the Indian reason two; verdict two.
 
 - **Structure:** definition → why protection is not attachment → cohesion principles named → Indian reason → qualified verdict.
 - **Doctrine:** liberal democracy as bounded majority rule; fraternity and constitutional morality as cohesion principles.
@@ -817,7 +815,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** this stem asks about **place**, and the commonest failure is to answer the validity question instead. Locate theocracy, explain why it is displaced, then explain why displacement is not disappearance.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** definition three lines; status claim two; three residual importances three; the accommodation line two; judgment one.
+**Timed answer route — 10 marks (adapt to the directive):** definition three lines; status claim two; three residual importances three; the accommodation line two; judgment one.
 
 - **Structure:** definition by sovereignty → displacement → three residual importances → the constitutive-authority line → residual-status judgment.
 - **Doctrine:** popular sovereignty, rights, legal equality and accountability as the displacing commitments.
@@ -855,7 +853,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** "how far" forbids both "completely" and "not at all". The mark-bearing move is the asymmetry — institutional achievement against social limitation — because it explains how sincere constitutional design and failed protection can coexist.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** constitutive claim three lines; achievements two; limits three; counterweights two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** constitutive claim three lines; achievements two; limits three; counterweights two; verdict two.
 
 - **Structure:** why protection is constitutive → achievements → limits → counterweights with their own limit → conditional verdict.
 - **Doctrine:** bounded majority rule; the tyranny-of-the-majority problem.
@@ -893,7 +891,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** the stem invites a one-word answer and punishes it. The distinction between *coexisting with* freedom and *grounding* freedom is the whole examinable content, and it can only be drawn after the absolute/constitutional split.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** two variables three lines; case in favour two; case against three; conceptual point one; conclusion two.
+**Timed answer route — 10 marks (adapt to the directive):** two variables three lines; case in favour two; case against three; conceptual point one; conclusion two.
 
 - **Structure:** fix type and meaning → favourable case → adverse case → who supplies the freedom → conditional conclusion.
 - **Doctrine:** absolute and constitutional monarchy; freedom as accountability, rights and equal citizenship.
@@ -937,7 +935,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** the mark-bearing move at twenty marks is the **regulator's dilemma**. An answer that ends at "regulate misinformation" has proposed as a cure the power whose abuse the question is about, and no amount of description of fake news repairs that.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis two lines; value at stake two; mechanism five; where it leads three; objection and reply three; dilemma and remedies five; India two; verdict two.
+**Timed answer route — 20 marks (adapt to the directive):** thesis two lines; value at stake two; mechanism five; where it leads three; objection and reply three; dilemma and remedies five; India two; verdict two.
 
 - **Structure:** thesis → value of authorisation → five-step mechanism → form/substance link → objection and reply → regulator's dilemma with structural remedies → dated Indian illustration → verdict.
 - **Doctrine:** manufactured consent; Weber's sociological legitimacy; Habermas on public reasoning.
@@ -977,7 +975,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** the stem's operative word is *necessarily*. Both "yes" and "no" lose; the three-step structure — distinct, historically intersecting, directionally bridged — is what the directive rewards, and the named doctrine must be used rather than mentioned.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** thesis two lines; doctrine three; distinction three; answerability chains four; objection and reply three; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** thesis two lines; doctrine three; distinction three; answerability chains four; objection and reply three; verdict two.
 
 - **Structure:** thesis → Divine Right stated → the two forms distinguished → answerability chains and characteristic crises → objection and reply → verdict on necessity.
 - **Doctrine:** Divine Right as a theory of legitimation, not a fourth form of government.
@@ -1015,7 +1013,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** the stem grants a premise, and the candidate must decide in which sense to grant it. Answers that accept the strong sense have allowed the premise to destroy the system whose systematicity they are assessing.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** systematicity two lines; case for three; disambiguation three; reservations two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** systematicity two lines; case for three; disambiguation three; reservations two; verdict two.
 
 - **Structure:** define systematicity → constitutional case with routinisation → two senses of the phrase → reservations → conditional verdict.
 - **Doctrine:** legitimacy, continuity and role clarity; routinisation of charisma.
@@ -1061,7 +1059,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** the directive is a pair, so every challenge must arrive with its remedy. The move that lifts the answer is the residue attached to each remedy, which converts a list into an argument about why the pathologies recur.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** framing one line; six pathologies twelve; pattern two; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** framing one line; six pathologies twelve; pattern two; verdict two.
 
 - **Structure:** framing → six mechanism–reply–residue triads → the form/substance pattern → graded verdict.
 - **Doctrine:** the six pathologies; the majority-rule against constitutional-democracy distinction.
@@ -1099,7 +1097,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** "Comment on" is the most compressed directive in the paper. One line of argument, fully worked, beats a survey — and the asymmetric verdict is the single most efficient closing shape available on this clause.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** target one line; three arguments five; correction two; reply two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** target one line; three arguments five; correction two; reply two; verdict two.
 
 - **Structure:** exact target → three cumulative arguments → the anti-hereditary correction → four-point reply → asymmetric verdict.
 - **Doctrine:** rule as craft; liberty mistaken for qualification; degeneration into tyranny.
@@ -1139,7 +1137,7 @@ D. A chronological account tracing the historical replacement of monarchy by the
 
 **Answer-writing focus:** "Can X be accepted?" scores the **criterion**. An unargued rejection earns little, and the strongest scripts concede the moral-limitation point before showing that rights can supply it without confessional sovereignty.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** test two lines; case in favour four; case against four; structural point three; objection and reply three; verdict four.
+**Timed answer route — 15 marks (adapt to the directive):** test two lines; case in favour four; case against four; structural point three; objection and reply three; verdict four.
 
 - **Structure:** name the test → charitable case for → case against → the structural defect → objection and reply → two-sided verdict.
 - **Doctrine:** sovereignty of God; clerical mediation; equal citizenship and public reason as tests.
@@ -1147,9 +1145,33 @@ D. A chronological account tracing the historical replacement of monarchy by the
 - **Distinction:** internal validity against general validity.
 - **Criticism:** the question-begging objection answered by the plurality premise rather than by liberal assertion.
 
+### 2026 verified primary-owned PYQ — supplementary solution
+
+The official-paper supplement `_PYQ-SocioPolitical-2026-Supplement.md` adds this part beyond the ten 2018–2025 parts; this is a practice solution, not an official answer.
+
+#### Solved PYQ 11 · 2026 · Q3(b) · 15 marks
+
+**Printed question:** “The two antagonistic state structures — monarchy and democracy, both share some common features with dictatorship”. Do you agree with this view ? Give reasons and justifications for your answer.
+
+**Demand:** Agree or disagree with reasons, identifying similarities *without* collapsing distinct forms of authorisation.
+
+**Model solution:** A monarchy typically locates the head of state in hereditary office, whereas a democracy requires political authority to be accountable to an equal citizenry. Dictatorship concentrates power without effective institutional contestation or the possibility of removal by those ruled. The comparison is nevertheless illuminating. A monarch may personalise rule and command a bureaucracy, armed forces and ceremonial loyalty; without constitutional limits, monarchic power may become dictatorial. A democratic leader can also accumulate emergency powers, invoke the people's will as a personal mandate and intimidate dissent, creating an illiberal or authoritarian drift. All three forms need administrative instruments and may mobilise symbols of legitimacy; these similarities concern the **exercise and presentation** of power, not its rightful source. The differences remain decisive. Constitutional monarchy can limit the monarch to symbolic functions and subject government to law. Constitutional democracy requires competitive elections, an effective opposition, protected rights and institutional checks: a popular election alone does not suffice to maintain those safeguards. A dictatorship lacks genuinely revocable authority and can render opposition politically ineffective regardless of whether its leader claims popular or sacred sanction. **Verdict:** I partly agree: each can display concentration and personalisation, but dictatorship is defined by unaccountable and insufficiently limited power, not by hereditary succession or majoritarian decision alone. The test is who can challenge, constrain and peacefully replace the ruler.
+
+**Why this earns marks:** Gives a graded verdict, reciprocal examples, and explicit checks on authority rather than treating monarchy as dictatorship by definition.
+
+### ADDITIONAL ORIGINAL MAINS PRACTICE — uncovered syllabus demands
+
+#### Gap practice A · 15 marks · monarchy and liberty
+
+**Question:** “A hereditary monarch can be constitutionally neutral, while an elected head can govern dictatorially.” Analyse what this contrast establishes—and does not establish—about monarchy and democracy.
+
+**Independent model solution:** Heredity identifies the mode of selection of a monarch, not the extent of the monarch's power. A constitutional monarchy can assign a largely ceremonial head of state while elected representatives exercise government under legal limits; neutrality here means restraint from partisan executive intervention, not immunity from criticism or unlimited discretion. Absolute monarchy, by contrast, may combine hereditary succession with concentrated unanswerable government. An elected head can also centralise executive authority, weaken courts, suppress opposition and invoke a popular mandate to remove the very checks that make citizens equal participants. Election is thus a necessary selection device in many democracies but not a sufficient condition for constitutional democracy. One must ask whether opposition can compete, rights protect dissent, officials obey general law and incumbents can be peacefully removed. The hereditary element nevertheless poses its own equality problem: inherited public status confers symbolic privilege without equal access, even when the office-holder lacks policymaking power. A democracy's authority is stronger when citizens participate as equals and can contest government, but a bare majoritarian vote cannot authorise permanent minority exclusion. **Verdict:** the quotation usefully separates selection from the distribution and review of governing powers; it does not make hereditary office democratically equivalent to equal civic eligibility or condemn every elected government as dictatorial. Liberty depends on effective legal limits and avenues of challenge, not the office title alone.
+
+**Why this earns marks:** Distinguishes constitutional and absolute monarchy, election and accountability, then concedes the residual equality objection.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the paper's own idiom — two at 10 marks, two at 15 and two at 20 — each solved to the same standard as the previous-year parts above. None reproduces an owned stem; each targets a route the corpus has tested indirectly or is likely to test again.
+> The six baseline original questions and the additional monarchy–democracy comparison above give seven independent solved models. The baseline marks distribution is descriptive, not a limit on topic-driven practice.
 
 #### Original 1 · 10 marks
 

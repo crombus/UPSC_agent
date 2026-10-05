@@ -1,0 +1,354 @@
+{
+  "generated": "2026-10-04",
+  "all_question_counts_valid": true,
+  "all_expected_files_exist": true,
+  "all_papers_balanced": true,
+  "checks": [
+    {
+      "name": "Revision-01-Comprehension-and-Decision",
+      "questions": 40,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 11,
+        "B": 5,
+        "C": 11,
+        "D": 13
+      }
+    },
+    {
+      "name": "Revision-02-Numeracy-and-DI",
+      "questions": 40,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 8,
+        "B": 16,
+        "C": 6,
+        "D": 10
+      }
+    },
+    {
+      "name": "Revision-03-Logical-and-Analytical",
+      "questions": 40,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 12,
+        "B": 13,
+        "C": 8,
+        "D": 7
+      }
+    },
+    {
+      "name": "Revision-04-Communication-and-Problem-Solving",
+      "questions": 40,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 9,
+        "B": 14,
+        "C": 8,
+        "D": 9
+      }
+    },
+    {
+      "name": "Revision-05-Mixed-Hard-Revision",
+      "questions": 40,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 10,
+        "B": 10,
+        "C": 12,
+        "D": 8
+      }
+    },
+    {
+      "name": "Paper-01-CSAT-Hard-120min",
+      "questions": 80,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 19,
+        "B": 15,
+        "C": 19,
+        "D": 27
+      }
+    },
+    {
+      "name": "Paper-02-CSAT-Hard-120min",
+      "questions": 80,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 17,
+        "B": 21,
+        "C": 25,
+        "D": 17
+      }
+    },
+    {
+      "name": "Paper-03-CSAT-Hard-120min",
+      "questions": 80,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 17,
+        "B": 16,
+        "C": 27,
+        "D": 20
+      }
+    },
+    {
+      "name": "Paper-04-CSAT-Hard-120min",
+      "questions": 80,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 13,
+        "B": 20,
+        "C": 21,
+        "D": 26
+      }
+    },
+    {
+      "name": "Paper-05-CSAT-Hard-120min",
+      "questions": 80,
+      "qp_pdf": true,
+      "ak_pdf": true,
+      "source_data": true,
+      "key_data": true,
+      "solutions": true,
+      "qp_source_answer_free": true,
+      "distinct_options": true,
+      "contiguous_q": true,
+      "balanced_categories": true,
+      "difficulty_very_hard": true,
+      "option_balance": {
+        "max_word_length_ratio": 1.333,
+        "flagged_question_numbers": [],
+        "balanced": true
+      },
+      "key_positions": {
+        "A": 18,
+        "B": 24,
+        "C": 16,
+        "D": 22
+      }
+    }
+  ],
+  "strict_special_case_audit": {
+    "schema_version": 1,
+    "suite": "CSAT-Hard-Suite",
+    "generated": "2026-10-04",
+    "result": "passed",
+    "actionable_findings": [],
+    "template_reuse_warnings": [
+      "Template reuse: Paper-01-CSAT-Hard-120min Q21 repeats Revision-01-Comprehension-and-Decision Q11.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q22 repeats Revision-01-Comprehension-and-Decision Q12.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q23 repeats Revision-01-Comprehension-and-Decision Q13.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q24 repeats Revision-01-Comprehension-and-Decision Q14.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q25 repeats Revision-01-Comprehension-and-Decision Q15.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q26 repeats Revision-01-Comprehension-and-Decision Q16.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q27 repeats Revision-01-Comprehension-and-Decision Q17.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q28 repeats Revision-01-Comprehension-and-Decision Q18.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q29 repeats Revision-01-Comprehension-and-Decision Q19.",
+      "Template reuse: Paper-01-CSAT-Hard-120min Q30 repeats Revision-01-Comprehension-and-Decision Q20.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q21 repeats Revision-02-Numeracy-and-DI Q11.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q22 repeats Revision-02-Numeracy-and-DI Q12.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q23 repeats Revision-02-Numeracy-and-DI Q13.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q24 repeats Revision-02-Numeracy-and-DI Q14.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q25 repeats Revision-02-Numeracy-and-DI Q15.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q26 repeats Revision-02-Numeracy-and-DI Q16.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q27 repeats Revision-02-Numeracy-and-DI Q17.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q28 repeats Revision-02-Numeracy-and-DI Q18.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q29 repeats Revision-02-Numeracy-and-DI Q19.",
+      "Template reuse: Paper-02-CSAT-Hard-120min Q30 repeats Revision-02-Numeracy-and-DI Q20.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q21 repeats Revision-03-Logical-and-Analytical Q11.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q22 repeats Revision-03-Logical-and-Analytical Q12.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q23 repeats Revision-03-Logical-and-Analytical Q13.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q24 repeats Revision-03-Logical-and-Analytical Q14.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q25 repeats Revision-03-Logical-and-Analytical Q15.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q26 repeats Revision-03-Logical-and-Analytical Q16.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q27 repeats Revision-03-Logical-and-Analytical Q17.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q28 repeats Revision-03-Logical-and-Analytical Q18.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q29 repeats Revision-03-Logical-and-Analytical Q19.",
+      "Template reuse: Paper-03-CSAT-Hard-120min Q30 repeats Revision-03-Logical-and-Analytical Q20.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q5 repeats Revision-01-Comprehension-and-Decision Q1.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q6 repeats Revision-01-Comprehension-and-Decision Q2.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q7 repeats Revision-01-Comprehension-and-Decision Q3.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q8 repeats Revision-01-Comprehension-and-Decision Q4.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q9 repeats Revision-01-Comprehension-and-Decision Q5.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q10 repeats Revision-01-Comprehension-and-Decision Q6.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q11 repeats Revision-01-Comprehension-and-Decision Q7.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q12 repeats Revision-01-Comprehension-and-Decision Q8.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q13 repeats Revision-01-Comprehension-and-Decision Q9.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q14 repeats Revision-01-Comprehension-and-Decision Q10.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q21 repeats Revision-04-Communication-and-Problem-Solving Q11.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q22 repeats Revision-04-Communication-and-Problem-Solving Q12.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q23 repeats Revision-04-Communication-and-Problem-Solving Q13.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q24 repeats Revision-04-Communication-and-Problem-Solving Q14.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q25 repeats Revision-04-Communication-and-Problem-Solving Q15.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q26 repeats Revision-04-Communication-and-Problem-Solving Q16.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q27 repeats Revision-04-Communication-and-Problem-Solving Q17.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q28 repeats Revision-04-Communication-and-Problem-Solving Q18.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q29 repeats Revision-04-Communication-and-Problem-Solving Q19.",
+      "Template reuse: Paper-04-CSAT-Hard-120min Q30 repeats Revision-04-Communication-and-Problem-Solving Q20.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q5 repeats Revision-02-Numeracy-and-DI Q1.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q6 repeats Revision-02-Numeracy-and-DI Q2.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q7 repeats Revision-02-Numeracy-and-DI Q3.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q8 repeats Revision-02-Numeracy-and-DI Q4.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q9 repeats Revision-02-Numeracy-and-DI Q5.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q10 repeats Revision-02-Numeracy-and-DI Q6.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q11 repeats Revision-02-Numeracy-and-DI Q7.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q12 repeats Revision-02-Numeracy-and-DI Q8.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q13 repeats Revision-02-Numeracy-and-DI Q9.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q14 repeats Revision-02-Numeracy-and-DI Q10.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q21 repeats Revision-05-Mixed-Hard-Revision Q11.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q22 repeats Revision-05-Mixed-Hard-Revision Q12.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q23 repeats Revision-05-Mixed-Hard-Revision Q13.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q24 repeats Revision-05-Mixed-Hard-Revision Q14.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q25 repeats Revision-05-Mixed-Hard-Revision Q15.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q26 repeats Revision-05-Mixed-Hard-Revision Q16.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q27 repeats Revision-05-Mixed-Hard-Revision Q17.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q28 repeats Revision-05-Mixed-Hard-Revision Q18.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q29 repeats Revision-05-Mixed-Hard-Revision Q19.",
+      "Template reuse: Paper-05-CSAT-Hard-120min Q30 repeats Revision-05-Mixed-Hard-Revision Q20."
+    ],
+    "difficulty": {
+      "label": "Very Hard",
+      "level": "CSAT-Hard-Suite / Very Hard",
+      "rubric": {
+        "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+        "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+        "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+        "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+        "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+      }
+    },
+    "counts": {
+      "revision_folders": 5,
+      "revision_questions": 200,
+      "complete_papers": 5,
+      "paper_questions": 400
+    }
+  }
+}

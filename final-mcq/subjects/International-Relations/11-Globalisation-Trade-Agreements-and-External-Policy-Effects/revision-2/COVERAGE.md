@@ -1,0 +1,53 @@
+# Revision 2 item-level coverage
+
+| Item | Root decision | Evidence source | Status |
+|---:|---|---|---|
+| 1 | R01 | S14 | covered |
+| 2 | R02 | S2 | covered |
+| 3 | R03 | S1 | covered |
+| 4 | R04 | S1 | covered |
+| 5 | R05 | S1 | covered |
+| 6 | R06 | S3 | covered |
+| 7 | R07 | S4 | covered |
+| 8 | R08 | S5 | covered |
+| 9 | R09 | H1 | covered |
+| 10 | R10 | S6 | covered |
+| 11 | R11 | S6 | covered |
+| 12 | R12 | S1 | covered |
+| 13 | R13 | S1 | covered |
+| 14 | R14 | S7 | covered |
+| 15 | R15 | S8 | covered |
+| 16 | R16 | S9 | covered |
+| 17 | R17 | S14 | covered |
+| 18 | R18 | S12 | covered |
+| 19 | R19 | S2 | covered |
+| 20 | R20 | S10 | covered |
+| 21 | R21 | S10 | covered |
+| 22 | R22 | S2 | covered |
+| 23 | R23 | S2 | covered |
+| 24 | R24 | S2 | covered |
+| 25 | R25 | S10 | covered |
+| 26 | R26 | S11 | covered |
+| 27 | R27 | S2 | covered |
+| 28 | R28 | S1 | covered |
+| 29 | R29 | S4 | covered |
+| 30 | R30 | S4 | covered |
+| 31 | R31 | S1 | covered |
+| 32 | R32 | S2 | covered |
+| 33 | R33 | S2 | covered |
+| 34 | R34 | S2 | covered |
+| 35 | R35 | S10 | covered |
+| 36 | R36 | S13 | covered |
+| 37 | R37 | S13 | covered |
+| 38 | R38 | S14 | covered |
+| 39 | R39 | S14 | covered |
+| 40 | R40 | S2 | covered |
+| 41 | R41 | S14 | covered |
+| 42 | R42 | S1 | covered |
+| 43 | R43 | S15 | covered |
+| 44 | R44 | S15 | covered |
+| 45 | R45 | S16 | covered |
+| 46 | R46 | S15 | covered |
+| 47 | R47 | S17 | covered |
+| 48 | R48 | S15 | covered |
+| 49 | R49 | S16 | covered |

@@ -96,22 +96,31 @@ CURRENT-SOURCE CUTOFF: 10 September 2026
 
 | Item | Exact meaning / dated status |
 |---|---|
-| Absolute / relative / transient / chronic | Fixed-real minimum / distribution-relative / temporary shock / persistent deprivation |
+| Absolute / relative / transient / chronic | Fixed-real minimum / distribution-relative / temporary shock /
+   persistent deprivation |
 | HCR / poverty gap / squared gap | Incidence / depth / severity among poor |
-| Tendulkar 2011-12 | Rs 816 rural and Rs 1,000 urban monthly per capita; HCR 21.9%; historical Planning Commission estimate |
-| Rangarajan 2011-12 | Rs 972 rural and Rs 1,407 urban; HCR 29.5%; report released 7 August 2014, not a timeless current line |
+| Tendulkar 2011-12 | Rs 816 rural and Rs 1,000 urban monthly per capita; HCR 21.9%; historical Planning
+   Commission estimate |
+| Rangarajan 2011-12 | Rs 972 rural and Rs 1,407 urban; HCR 29.5%; report released 7 August 2014, not a timeless
+   current line |
 | HCES | Household Consumption Expenditure Survey; MPCE is monthly per-capita consumption expenditure |
 | HCES 2023-24 | No-imputation MPCE Rs 4,122 rural / Rs 6,996 urban; consumption Gini 0.237 / 0.284 |
 | World Bank June 2025 | USD 3.00 / 4.20 / 8.30 daily lines at 2021 purchasing power parity |
-| India 2022-23 World Bank | 5.3% below USD 3.00; 23.9% below USD 4.20; international estimates, not domestic eligibility |
+| India 2022-23 World Bank | 5.3% below USD 3.00; 23.9% below USD 4.20; international estimates, not domestic
+   eligibility |
 | National MPI | NITI Aayog's 12-indicator Alkire-Foster index; MPI = headcount H x intensity A |
 | MPI vintage | 14.96% observed from NFHS-5, 2019-21; 11.28% for 2022-23 is estimated |
 | Lorenz / Gini / Palma | Cumulative curve / whole-distribution summary / top-10 share divided by bottom-40 share |
-| MGNREGA | Mahatma Gandhi National Rural Employment Guarantee Act: at least 100 days per rural household; demand-driven |
-| NFSA | National Food Security Act: PHH 5 kg/person/month; AAY 35 kg/household/month; free grain through December 2028 |
-| AB-PMJAY | Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana: specified hospitalisation cover, Rs 5 lakh/family/year; 70+ expansion Sep-Oct 2024 |
-| NSAP / NSP | National Social Assistance Programme / National Scholarship Portal; scheme-specific eligibility and adequacy |
-| JAM / DBT | Jan Dhan-Aadhaar-Mobile delivery infrastructure / Direct Benefit Transfer mode; exception handling remains essential |
+| MGNREGA | Mahatma Gandhi National Rural Employment Guarantee Act: at least 100 days per rural household;
+   demand-driven |
+| NFSA | National Food Security Act: PHH 5 kg/person/month; AAY 35 kg/household/month; free grain through
+   December 2028 |
+| AB-PMJAY | Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana: specified hospitalisation cover, Rs 5
+   lakh/family/year; 70+ expansion Sep-Oct 2024 |
+| NSAP / NSP | National Social Assistance Programme / National Scholarship Portal; scheme-specific eligibility
+   and adequacy |
+| JAM / DBT | Jan Dhan-Aadhaar-Mobile delivery infrastructure / Direct Benefit Transfer mode; exception handling
+   remains essential |
 
 ## Prelims traps
 

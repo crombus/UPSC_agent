@@ -201,4 +201,6 @@ define exact trigger and dated perimeter
 `-- conclude with responsible inclusion and credible exit
 ```
 
-> **Qualified conclusion:** Honest recognition, adequate loss absorption and credible resolution protect the same trust on which durable financial inclusion depends.
+> **Qualified conclusion:** Honest recognition, adequate loss absorption and
+> credible resolution protect the same trust on which durable financial
+> inclusion depends.

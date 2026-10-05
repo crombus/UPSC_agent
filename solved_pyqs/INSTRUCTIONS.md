@@ -2,8 +2,11 @@
 
 ## 1. Objective
 
-Build a paper-wise, examiner-grade solved PYQ library inside this folder for the latest maximum
-eight available years of UPSC papers present in this repository.
+Build a paper-wise, examiner-grade solved PYQ library inside this folder with two coverage tiers:
+
+- Complete corpus, 2019-2026: all eleven instructed paper families.
+- Historical merit expansion, 2013-2018: Prelims GS-I, CSAT, Essay, GS-I to GS-IV, and
+  Philosophy Optional Papers I and II.
 
 The library must support both:
 
@@ -15,7 +18,7 @@ to its topic route, and every topic catalogue must link back to the exact solved
 
 ## 2. Included Papers
 
-Cover every available paper in scope:
+The complete 2019-2026 corpus covers:
 
 - Prelims General Studies Paper I.
 - Prelims CSAT Paper II.
@@ -29,8 +32,12 @@ Cover every available paper in scope:
 - Philosophy Optional Paper I.
 - Philosophy Optional Paper II.
 
-Use the latest eight available years only after inventorying the actual source papers. Never
-invent a missing paper or silently substitute a mock paper for an official PYQ.
+The 2013-2018 historical expansion covers the same list except Mains Qualifying Hindi and
+English. This creates nine merit paper families per historical year.
+
+Never invent a missing paper or silently substitute a mock paper for an official PYQ. Reuse held
+verified sources instead of downloading duplicates. Record direct official, archived-official,
+and fallback-mirror provenance distinctly.
 
 ## 3. Source Priority and Fidelity
 
@@ -269,6 +276,5 @@ A paper is complete only when:
 - Counts reconcile with the source paper.
 - The mandatory review is recorded as `PASS`.
 
-The overall library is complete only when all available in-scope papers for the selected maximum
-eight years meet these criteria and the catalogues permit reliable paper-wise, topic-wise, and
-concentration-based study.
+The overall library is complete only when all in-scope papers in both coverage tiers meet these
+criteria and the catalogues permit reliable paper-wise, topic-wise, and concentration-based study.

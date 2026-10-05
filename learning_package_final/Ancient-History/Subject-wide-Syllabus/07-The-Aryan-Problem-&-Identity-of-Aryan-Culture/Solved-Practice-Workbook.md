@@ -4,16 +4,15 @@ topic_key: ancient-indian-history-07
 ---
 # The Aryan Problem and Identity of Aryan Culture: Solved Practice Workbook
 
-> **Exact practice contract:** 32 original hard MCQs appear before PYQs; keys rotate A -> B -> C -> D exactly eight times; 128 option explanations and 32 traps are unique. Direct PYQ ownership is audited honestly, adjacent routes retain key-status discipline, and six original Mains models are independently word-counted.
+> **Practice contract:** 40 original coverage-driven MCQs appear before the separate matching key; correct options rotate A -> B -> C -> D ten times. This key applies only to original practice questions, not to adjacent PYQs with unverified official keys. Direct PYQ ownership is audited honestly, and the six original Mains questions and models are retained.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 ORIGINAL HARD MCQS
+### 40 ORIGINAL MCQS — QUESTIONS
 
-> Correct options rotate strictly A -> B -> C -> D, repeated eight times. All 128 option explanations and 32 traps are question-specific.
+> Attempt all questions before consulting the separate answer key below.
 
 #### Q1
-1
 Which formulation is methodologically safest?
 
 - A. Arya is contextual, while Indo-Aryan is a linguistic category.
@@ -24,20 +23,7 @@ Which formulation is methodologically safest?
 
 - D. Arya denotes every Indo-European speaker.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: it preserves the distinction between textual self-designation and linguistic classification. [Q1-A]
-- **B:** Incorrect: Race cannot be read from the word *arya*. [Q1-B]
-- **C:** Incorrect: Language does not equal pottery. [Q1-C]
-- **D:** Incorrect: The textual term is narrower than the whole language family. [Q1-D]
-
-> **Examiner trap 1:** Separate textual identity from language and biology.
-
-
 #### Q2
-2
 In Rigvedic usage, *arya* is best understood as
 
 - A. a fixed skin-colour category
@@ -48,20 +34,7 @@ In Rigvedic usage, *arya* is best understood as
 
 - D. a genetic ancestry component
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: The texts do not supply a stable phenotype definition. [Q2-A]
-- **B:** Correct: usage varies by passage, alliance and ritual-political context. [Q2-B]
-- **C:** Incorrect: Archaeological cultures are modern analytical groupings. [Q2-C]
-- **D:** Incorrect: Genetic components are statistical and modern analytical labels. [Q2-D]
-
-> **Examiner trap 2:** Read *arya* by context, not as a timeless race.
-
-
 #### Q3
-3
 Which colonial-era move created the central racial distortion?
 
 - A. Treating the whole Rigvedic corpus as a late and internally uniform composition
@@ -72,20 +45,7 @@ Which colonial-era move created the central racial distortion?
 
 - D. Dating PGW before the Mature Harappan phase
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Textual dating debate is not the defining racial conversion. [Q3-A]
-- **B:** Incorrect: Avestan comparison was central to philology. [Q3-B]
-- **C:** Correct: speech history was transformed into a superior racial type. [Q3-C]
-- **D:** Incorrect: The chronology is wrong but is not the core historiographical move. [Q3-D]
-
-> **Examiner trap 3:** The valid linguistic discovery must be separated from racial typology.
-
-
 #### Q4
-4
 Comparative linguistics establishes Indo-European relationship chiefly through
 
 - A. a small cluster of similar divine names and isolated lexical resemblances across texts
@@ -96,20 +56,7 @@ Comparative linguistics establishes Indo-European relationship chiefly through
 
 - D. regular sound correspondences, grammar and inherited vocabulary
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: A single resemblance may be accidental or borrowed. [Q4-A]
-- **B:** Incorrect: Modern borders are irrelevant to prehistoric language descent. [Q4-B]
-- **C:** Incorrect: Material style cannot demonstrate phonological descent. [Q4-C]
-- **D:** Correct: repeated structural correspondences support genealogical relationship. [Q4-D]
-
-> **Examiner trap 4:** Patterns, not isolated word resemblance, establish language descent.
-
-
 #### Q5
-5
 Vedic Sanskrit belongs to which nested sequence?
 
 - A. Indo-Aryan -> Indo-Iranian -> Indo-European
@@ -120,20 +67,7 @@ Vedic Sanskrit belongs to which nested sequence?
 
 - D. BMAC -> Indo-Iranian -> Vedic Sanskrit
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: this is the accepted linguistic hierarchy. [Q5-A]
-- **B:** Incorrect: Iranian and Indo-Aryan are sister developments, not parent and child. [Q5-B]
-- **C:** Incorrect: Dravidian is a distinct language family. [Q5-C]
-- **D:** Incorrect: BMAC is archaeological, not a linguistic parent. [Q5-D]
-
-> **Examiner trap 5:** Keep linguistic branches separate from archaeological complexes.
-
-
 #### Q6
-6
 The Mitanni evidence most securely demonstrates
 
 - A. that the Rig Veda was composed in Syria
@@ -144,20 +78,7 @@ The Mitanni evidence most securely demonstrates
 
 - D. a direct military migration from Mitanni to Punjab
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: External attestation does not locate Rigvedic composition. [Q6-A]
-- **B:** Correct: treaty names and technical vocabulary provide bounded external attestation. [Q6-B]
-- **C:** Incorrect: Hurrian was the majority language. [Q6-C]
-- **D:** Incorrect: No direct route or military event follows from the texts. [Q6-D]
-
-> **Examiner trap 6:** Mitanni adds chronology, not a complete route.
-
-
 #### Q7
-7
 Which evidence-class pairing is correct?
 
 - A. Genetics - spoken language of a sampled person
@@ -168,20 +89,7 @@ Which evidence-class pairing is correct?
 
 - D. Rigvedic poetry - exact census data
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: DNA does not record language. [Q7-A]
-- **B:** Incorrect: Objects do not self-identify ethnicity. [Q7-B]
-- **C:** Correct: sound, grammar and vocabulary establish relationship and borrowing. [Q7-C]
-- **D:** Incorrect: Ritual poetry is not a statistical census. [Q7-D]
-
-> **Examiner trap 7:** Each evidence class has a different object.
-
-
 #### Q8
-8
 Before combining two datasets, the first requirement is to
 
 - A. assume they describe one people
@@ -192,44 +100,18 @@ Before combining two datasets, the first requirement is to
 
 - D. match chronology, geography, scale and independence
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Shared labels cannot substitute for proof. [Q8-A]
-- **B:** Incorrect: Novelty does not determine evidentiary weight. [Q8-B]
-- **C:** Incorrect: Contradictions must be preserved and explained. [Q8-C]
-- **D:** Correct: convergence is meaningful only after these controls. [Q8-D]
-
-> **Examiner trap 8:** Triangulation begins with compatibility, not fusion.
-
-
 #### Q9
-9
 The Rig Veda is most accurately described as
 
 - A. a layered ritual-poetic corpus with historical clues
 
-- B. a securely dated royal chronicle recording successive rulers, battles and migrations
+- B. a chronologically uniform corpus whose river references all describe one moment
 
-- C. an archaeological field report
+- C. a compilation of battle memories sufficient to reconstruct a complete migration itinerary
 
-- D. a complete census of early society
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: genre, oral transmission and layering define its use. [Q9-A]
-- **B:** Incorrect: It has no annalistic year-by-year structure. [Q9-B]
-- **C:** Incorrect: Material context must come from archaeology. [Q9-C]
-- **D:** Incorrect: Elite ritual poetry cannot enumerate the whole population. [Q9-D]
-
-> **Examiner trap 9:** Use the Rig Veda intensively but not literally.
-
+- D. a purely mythical corpus from which no historical evidence can be extracted
 
 #### Q10
-10
 Which statement about Sarasvati/Ghaggar-Hakra is best?
 
 - A. Their identity proves Harappan language.
@@ -240,20 +122,7 @@ Which statement about Sarasvati/Ghaggar-Hakra is best?
 
 - D. Every Harappan site belonged to one river system.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: The Harappan script remains undeciphered. [Q10-A]
-- **B:** Correct: hydrology, archaeology and textual layering are independent controls. [Q10-B]
-- **C:** Incorrect: A hydronym cannot establish one migration itinerary. [Q10-C]
-- **D:** Incorrect: Harappan sites occupied several ecological zones. [Q10-D]
-
-> **Examiner trap 10:** A palaeochannel is not automatically a named Vedic river.
-
-
 #### Q11
-11
 Rigvedic economic vocabulary supports
 
 - A. exclusive urban commerce
@@ -264,20 +133,7 @@ Rigvedic economic vocabulary supports
 
 - D. an iron-centred agrarian state
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: The corpus does not depict Harappan-style urbanism. [Q11-A]
-- **B:** Incorrect: Ploughing, wells and harvest vocabulary contradict exclusive nomadism. [Q11-B]
-- **C:** Correct: cattle-centred values coexist with cultivation and craft. [Q11-C]
-- **D:** Incorrect: Early *ayas* should not be converted automatically into iron. [Q11-D]
-
-> **Examiner trap 11:** Pastoral emphasis and agriculture can coexist.
-
-
 #### Q12
-12
 In an early Rigvedic context, *ayas* should
 
 - A. always be translated as iron and used to assign every hymn to an iron-using agrarian society
@@ -288,20 +144,7 @@ In an early Rigvedic context, *ayas* should
 
 - D. be treated cautiously, often within a copper/bronze material world
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Iron-centred development is later and regionally variable. [Q12-A]
-- **B:** Incorrect: Oral texts remain valuable with source criticism. [Q12-B]
-- **C:** Incorrect: A word cannot identify a pottery assemblage. [Q12-C]
-- **D:** Correct: translation depends on context and chronology. [Q12-D]
-
-> **Examiner trap 12:** Do not back-project later iron into every early reference.
-
-
 #### Q13
-13
 Which sequence correctly handles horse/chariot evidence?
 
 - A. species -> context -> frequency/use -> vehicle form -> chronology
@@ -312,20 +155,7 @@ Which sequence correctly handles horse/chariot evidence?
 
 - D. equid fragment -> ethnic identity
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: every inferential step must be demonstrated. [Q13-A]
-- **B:** Incorrect: Textual importance does not prove a military event. [Q13-B]
-- **C:** Incorrect: Wheel construction is a decisive distinction. [Q13-C]
-- **D:** Incorrect: Animal identification cannot establish ethnicity. [Q13-D]
-
-> **Examiner trap 13:** Presence, centrality and technology are separate claims.
-
-
 #### Q14
-14
 Surkotada is used cautiously because
 
 - A. it has a deciphered horse inscription
@@ -336,20 +166,7 @@ Surkotada is used cautiously because
 
 - D. it proves horses were absent throughout South Asia before later second-millennium movements
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: No deciphered Harappan inscription supplies that label. [Q14-A]
-- **B:** Correct: morphology, context and representativeness remain disputed. [Q14-B]
-- **C:** Incorrect: Sintashta is a separate steppe context. [Q14-C]
-- **D:** Incorrect: A disputed find cannot prove universal absence. [Q14-D]
-
-> **Examiner trap 14:** A debated equid is neither proof of centrality nor proof of absence.
-
-
 #### Q15
-15
 Sintashta-Petrovka is important chiefly for
 
 - A. a Harappan urban script
@@ -360,20 +177,7 @@ Sintashta-Petrovka is important chiefly for
 
 - D. a direct Rigvedic manuscript
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: It is not Harappan. [Q15-A]
-- **B:** Incorrect: That description fits neither location nor vehicle evidence. [Q15-B]
-- **C:** Correct: chariot technology and metallurgy make it a key comparative horizon. [Q15-C]
-- **D:** Incorrect: No Rigvedic manuscript comes from the site. [Q15-D]
-
-> **Examiner trap 15:** Technology strengthens a model but does not itself identify language.
-
-
 #### Q16
-16
 The safest statement about Sanauli is that
 
 - A. horse sacrifice is proven
@@ -384,20 +188,7 @@ The safest statement about Sanauli is that
 
 - D. two-wheeled solid-wheel vehicles occur; draught animal and identity remain unsettled
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: No horse remains securely establish the claim. [Q16-A]
-- **B:** Incorrect: Burial identity cannot be read directly. [Q16-B]
-- **C:** Incorrect: The vehicles have solid rather than demonstrated spoked wheels. [Q16-C]
-- **D:** Correct: this distinguishes observation from interpretation. [Q16-D]
-
-> **Examiner trap 16:** Media use of “chariot” must not erase wheel and draught evidence.
-
-
 #### Q17
-17
 Which statement best fits Harappan decline?
 
 - A. It was a regionally varied transformation with no civilisation-wide invasion horizon.
@@ -408,20 +199,7 @@ Which statement best fits Harappan decline?
 
 - D. It was simultaneous at every site.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: urban contraction, localisation and continuity varied regionally. [Q17-A]
-- **B:** Incorrect: The skeletons do not form one massacre context. [Q17-B]
-- **C:** Incorrect: Rejection of invasion does not prove zero migration. [Q17-C]
-- **D:** Incorrect: Site chronologies differ. [Q17-D]
-
-> **Examiner trap 17:** Do not use Harappan decline as a shortcut verdict on later migration.
-
-
 #### Q18
-18
 Cemetery H most usefully demonstrates
 
 - A. a named Indo-Aryan tribe whose language and migration route can be read directly from its burials
@@ -432,20 +210,7 @@ Cemetery H most usefully demonstrates
 
 - D. the language of Harappa
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Burial assemblages do not provide a self-name. [Q18-A]
-- **B:** Correct: continuity and changed urn practices must be assessed together. [Q18-B]
-- **C:** Incorrect: The record does not show total replacement. [Q18-C]
-- **D:** Incorrect: Harappan writing remains undeciphered. [Q18-D]
-
-> **Examiner trap 18:** Mortuary change is not an ethnic label.
-
-
 #### Q19
-19
 The Gandhara Grave/Swat evidence should be treated as
 
 - A. one brief invasion event
@@ -456,20 +221,7 @@ The Gandhara Grave/Swat evidence should be treated as
 
 - D. a direct translation of Rigvedic burial rules
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Its broad chronology contradicts a single event. [Q19-A]
-- **B:** Incorrect: Burial practices do not define race. [Q19-B]
-- **C:** Correct: varied rites and contacts make corridor analysis safer. [Q19-C]
-- **D:** Incorrect: Text and graves cannot be equated automatically. [Q19-D]
-
-> **Examiner trap 19:** Chronological breadth defeats a one-wave interpretation.
-
-
 #### Q20
-20
 OCP and copper hoards cannot be equated with Aryans mainly because
 
 - A. copper was unknown in South Asia
@@ -480,20 +232,7 @@ OCP and copper hoards cannot be equated with Aryans mainly because
 
 - D. associations and contexts vary, while objects do not identify language
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Copper use is well attested. [Q20-A]
-- **B:** Incorrect: OCP is associated with the upper Ganga-Yamuna region. [Q20-B]
-- **C:** Incorrect: Functions vary and many finds lack context. [Q20-C]
-- **D:** Correct: heterogeneous context blocks an ethnic equation. [Q20-D]
-
-> **Examiner trap 20:** An antennae sword is not a linguistic fossil.
-
-
 #### Q21
-21
 Painted Grey Ware is best used as
 
 - A. a later Vedic/early Iron Age archaeological comparison with regional limits
@@ -504,44 +243,18 @@ Painted Grey Ware is best used as
 
 - D. a Mature Harappan urban marker
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: its chronology and geography fit later transformations better. [Q21-A]
-- **B:** Incorrect: PGW cannot identify speakers and is generally later. [Q21-B]
-- **C:** Incorrect: Some PGW contexts lack iron. [Q21-C]
-- **D:** Incorrect: It post-dates Mature Harappan urbanism. [Q21-D]
-
-> **Examiner trap 21:** PGW is a correlate, not “the Aryans”.
-
-
 #### Q22
-22
 BMAC is best understood as
 
-- A. a single Indo-Iranian nation
+- A. an archaeological complex whose material unity independently establishes Indo-Iranian speech
 
 - B. an oasis interaction world linked with mobile groups
 
-- C. a Harappan colony
+- C. an extension of Harappan urban settlement into Central Asia that fixes the route of Vedic language spread
 
-- D. a genetic ancestry component
-
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Archaeology cannot supply that national-language identity. [Q22-A]
-- **B:** Correct: settlement, craft and ritual networks interacted with steppe groups. [Q22-B]
-- **C:** Incorrect: No evidence supports simple colonial identity. [Q22-C]
-- **D:** Incorrect: BMAC names an archaeological complex, not DNA. [Q22-D]
-
-> **Examiner trap 22:** Use BMAC as a network node, not a conveyor belt.
-
+- D. a steppe-only migration horizon that excludes exchange with settled oasis communities
 
 #### Q23
-23
 Why can archaeology not identify Vedic Sanskrit speakers by itself?
 
 - A. Sites have no chronology.
@@ -552,20 +265,7 @@ Why can archaeology not identify Vedic Sanskrit speakers by itself?
 
 - D. texts are always more accurate than objects and can assign speech to any contemporary assemblage
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Archaeological chronology is often strong. [Q23-A]
-- **B:** Incorrect: Classification is possible but remains analytical. [Q23-B]
-- **C:** Correct: trade, imitation, marriage and mobility break one-to-one mapping. [Q23-C]
-- **D:** Incorrect: Texts and objects answer different questions; neither is automatically superior. [Q23-D]
-
-> **Examiner trap 23:** An assemblage is not a language community.
-
-
 #### Q24
-24
 A migration model differs from an invasion model because migration
 
 - A. excludes conflict
@@ -576,20 +276,7 @@ A migration model differs from an invasion model because migration
 
 - D. can be gradual, multi-phase and compatible with local continuity
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Conflict may occur without defining the whole process. [Q24-A]
-- **B:** Incorrect: Migration necessarily involves mobility. [Q24-B]
-- **C:** Incorrect: Several social mechanisms are possible. [Q24-C]
-- **D:** Correct: movement need not be conquest or replacement. [Q24-D]
-
-> **Examiner trap 24:** Do not make invasion and migration synonyms.
-
-
 #### Q25
-25
 A rigorous indigenous/Out-of-India model must explain
 
 - A. Indo-European branching, Indo-Iranian innovations, Mitanni and later ancestry evidence
@@ -600,44 +287,18 @@ A rigorous indigenous/Out-of-India model must explain
 
 - D. only the absence of a massacre horizon
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: a full model must address all contrary evidence classes. [Q25-A]
-- **B:** Incorrect: One river claim cannot settle the family history. [Q25-B]
-- **C:** Incorrect: Continuity does not determine language origin. [Q25-C]
-- **D:** Incorrect: No massacre excludes mass invasion, not all mobility. [Q25-D]
-
-> **Examiner trap 25:** A model is tested by the evidence it can explain, not by one favoured fact.
-
-
 #### Q26
-26
 Ancient DNA can directly establish
 
-- A. the language spoken by a skeleton when its ancestry matches a historically attested population
+- A. the language spoken by a sampled person when modelled ancestry resembles a later speaker population
 
 - B. ancestry relationships in a dated sampled individual
 
-- C. the caste of a Bronze Age community
+- C. the social status of the sampled person when grave goods accompany the genome
 
-- D. the religious identity of a burial
-
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Language is not encoded in DNA. [Q26-A]
-- **B:** Correct: this is the method’s proper object. [Q26-B]
-- **C:** Incorrect: Caste is historical and cannot be read directly from one genome. [Q26-C]
-- **D:** Incorrect: Burial meaning needs cultural evidence. [Q26-D]
-
-> **Examiner trap 26:** Ancestry is biological evidence with sample limits.
-
+- D. the community's religious affiliation when several related individuals share a burial ground
 
 #### Q27
-27
 The strongest safe conclusion from the published Rakhigarhi genome is
 
 - A. all Harappans lacked Steppe ancestry
@@ -648,20 +309,7 @@ The strongest safe conclusion from the published Rakhigarhi genome is
 
 - D. no later Steppe-related movement occurred
 
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: One person cannot represent all Harappans. [Q27-A]
-- **B:** Incorrect: Language was not recovered. [Q27-B]
-- **C:** Correct: the claim is bounded by person, context and date. [Q27-C]
-- **D:** Incorrect: Later movement is a different chronological question. [Q27-D]
-
-> **Examiner trap 27:** Always state “one published individual”.
-
-
 #### Q28
-28
 Narasimhan et al. 2019 is most accurately used to support
 
 - A. a pure Aryan race
@@ -672,20 +320,7 @@ Narasimhan et al. 2019 is most accurately used to support
 
 - D. later Steppe-related movement plus extensive IVC-related continuity and mixture
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: The study rejects pure-race framing. [Q28-A]
-- **B:** Incorrect: Admixture is modelled over ranges. [Q28-B]
-- **C:** Incorrect: Genomes do not speak. [Q28-C]
-- **D:** Correct: the regional dataset supports movement and mixture together. [Q28-D]
-
-> **Examiner trap 28:** The study models population history, not an Aryan gene.
-
-
 #### Q29
-29
 Absence of archaeological evidence is strongest when
 
 - A. preservation, survey coverage and expected visibility are considered
@@ -696,20 +331,7 @@ Absence of archaeological evidence is strongest when
 
 - D. one excavated site lacks an artefact expected from a text, regardless of regional preservation
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: patterned absence requires an expectation of survival and discovery. [Q29-A]
-- **B:** Incorrect: Unsearched ground makes absence weak. [Q29-B]
-- **C:** Incorrect: Textual expectation does not create material evidence. [Q29-C]
-- **D:** Incorrect: One local absence rarely supports a regional universal. [Q29-D]
-
-> **Examiner trap 29:** Absence is evidence only after a visibility test.
-
-
 #### Q30
-30
 Which process best explains early Vedic identity formation?
 
 - A. complete replacement of local populations
@@ -720,44 +342,18 @@ Which process best explains early Vedic identity formation?
 
 - D. one royal decree imposing language
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: The evidence supports substantial local continuity. [Q30-A]
-- **B:** Correct: several social mechanisms can spread language and practices. [Q30-B]
-- **C:** Incorrect: Contact features contradict sealed preservation. [Q30-C]
-- **D:** Incorrect: No such decree is known. [Q30-D]
-
-> **Examiner trap 30:** Identity formed through interaction, not purity.
-
-
 #### Q31
-31
 Which three-level conclusion is best?
 
-- A. Every issue is unresolved.
+- A. Linguistic descent and exact migration routes are equally unresolved because neither can be excavated directly.
 
-- B. all linguistic, archaeological, textual and genetic evidence proves the same migration event
+- B. Linguistic descent and ancestry movement are secure enough to establish the language of every sampled migrant.
 
 - C. Secure linguistic relationship; probable multi-phase movement; exact route and scale unresolved.
 
-- D. One archaeological culture settles the debate.
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Incorrect: Several conclusions are high-confidence. [Q31-A]
-- **B:** Incorrect: Evidence classes have different objects. [Q31-B]
-- **C:** Correct: this grades facts, interpretations and open questions. [Q31-C]
-- **D:** Incorrect: No assemblage has that power. [Q31-D]
-
-> **Examiner trap 31:** Neutrality ranks evidence rather than flattening it.
-
+- D. Invasion is unsupported, so inward mobility and language contact can also be ruled out securely.
 
 #### Q32
-32
 Which answer sequence is most defensible?
 
 - A. Genetics -> race -> ownership claim
@@ -768,7 +364,446 @@ Which answer sequence is most defensible?
 
 - D. define categories -> order chronology -> triangulate -> compare models -> qualify
 
-**Answer: D.**
+#### Q33
+A hymn names a *dāsa* adversary, while another describes conflict among groups called *ārya*. Which inference best respects both observations?
+
+- A. These terms can mark shifting political and ritual boundaries; neither fixes biological ancestry.
+- B. *Dāsa* consistently identifies an archaeological population whose speech is independently attested.
+- C. Every conflict involving *ārya* must describe opposition between genetically distinct populations.
+- D. A shared *ārya* label makes internal conflict merely metaphorical rather than historically interpretable.
+
+#### Q34
+The Vedic *soma* / Avestan *haoma* comparison is most useful when testing which proposition?
+
+- A. Identical ritual vocabulary proves identical institutions in every Vedic and Iranian community.
+- B. Related Indo-Iranian forms support shared linguistic inheritance, not a common pottery type or identical religion.
+- C. A similar cult term independently determines the direction of a prehistoric migration into South Asia.
+- D. The comparison dates every Rigvedic hymn to the period of any surviving Avestan manuscript.
+
+#### Q35
+An investigator treats every Rigvedic hymn as equally early and extracts one precise date for its entire river geography. Which correction is strongest?
+
+- A. Ritual poetry contains no recoverable geographical clues, so all river references must be discarded.
+- B. The later Vedic Kuru-Panchala focus fixes the date of every earlier north-western river reference.
+- C. The family books are conventionally older, but internal layering and oral transmission still require context-sensitive comparison.
+- D. A single river name establishes the composition date once a modern channel of the same name is mapped.
+
+#### Q36
+A study identifies an old Ghaggar-Hakra channel and a Harappan settlement nearby. What further test is essential before linking these to a Rigvedic Sarasvati passage?
+
+- A. Demonstrating that a channel existed at any time, irrespective of settlement or textual chronology.
+- B. Assuming that all nearby inhabitants used the same river name and spoke the text's language.
+- C. Inferring textual contemporaneity from geographical proximity without separately dating either record.
+- D. Comparing channel activity, settlement phases and the passage's linguistic/textual layer independently.
+
+#### Q37
+What is the best interpretation of an ancient Iranian-related component in the published Rakhigarhi individual's ancestry?
+
+- A. Genetic affinity to a deep lineage does not by itself imply recent migration of sampled Iranian farmers.
+- B. An Iranian-related statistical component demonstrates that the individual spoke an Iranian language.
+- C. Its presence establishes the date and direction of every western contact with Harappan settlements.
+- D. It identifies a uniform biological profile for all Harappan people and their descendants.
+
+#### Q38
+A new ancient-DNA dataset disproportionately samples one cemetery in a single region. Which conclusion best addresses the sampling problem?
+
+- A. Its admixture estimates can be extended uniformly to every social stratum if the graves are well preserved.
+- B. The sampled ancestry pattern may be informative locally, but burial selection and geographic gaps constrain population-wide claims.
+- C. Uneven sampling invalidates all biological inferences, including those about the sampled individuals.
+- D. The archaeological identity of a cemetery independently reveals each buried person's mother tongue.
+
+#### Q39
+Non-Indo-European words and retroflex sounds are identified in an early Indo-Aryan corpus. Which interpretation is methodologically strongest?
+
+- A. Every such feature proves a single Dravidian-speaking mass migration at a precisely identifiable moment.
+- B. Retroflexion proves that the entire corpus was first composed in one known Harappan language.
+- C. Contact and borrowing are plausible, but specific donor languages and transmission paths need word-by-word evidence.
+- D. Loanwords exclude all language shift, since only isolated words can travel between speech communities.
+
+#### Q40
+Consider two competing claims: a pure incoming race founded early Indian culture, or an unchanged indigenous race accounts for every linguistic and material continuity. Which response avoids replacing one essentialism with another?
+
+- A. Accept the first if the comparative language family is securely reconstructed.
+- B. Accept the second if continuity is visible in a single post-Harappan settlement.
+- C. Treat both as equally evidenced because political neutrality forbids weighing claims.
+- D. Test each claim across independently dated evidence while allowing local continuity, mobility and historically changing identities.
+
+### ANSWER KEY, OPTION-WISE EXPLANATIONS AND TRAPS
+
+#### Q1
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: it preserves the distinction between textual self-designation and linguistic classification. [Q1-A]
+- **B:** Incorrect: Race cannot be read from the word *arya*. [Q1-B]
+- **C:** Incorrect: Language does not equal pottery. [Q1-C]
+- **D:** Incorrect: The textual term is narrower than the whole language family. [Q1-D]
+
+> **Examiner trap 1:** Separate textual identity from language and biology.
+
+#### Q2
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: The texts do not supply a stable phenotype definition. [Q2-A]
+- **B:** Correct: usage varies by passage, alliance and ritual-political context. [Q2-B]
+- **C:** Incorrect: Archaeological cultures are modern analytical groupings. [Q2-C]
+- **D:** Incorrect: Genetic components are statistical and modern analytical labels. [Q2-D]
+
+> **Examiner trap 2:** Read *arya* by context, not as a timeless race.
+
+#### Q3
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Textual dating debate is not the defining racial conversion. [Q3-A]
+- **B:** Incorrect: Avestan comparison was central to philology. [Q3-B]
+- **C:** Correct: speech history was transformed into a superior racial type. [Q3-C]
+- **D:** Incorrect: The chronology is wrong but is not the core historiographical move. [Q3-D]
+
+> **Examiner trap 3:** The valid linguistic discovery must be separated from racial typology.
+
+#### Q4
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: A single resemblance may be accidental or borrowed. [Q4-A]
+- **B:** Incorrect: Modern borders are irrelevant to prehistoric language descent. [Q4-B]
+- **C:** Incorrect: Material style cannot demonstrate phonological descent. [Q4-C]
+- **D:** Correct: repeated structural correspondences support genealogical relationship. [Q4-D]
+
+> **Examiner trap 4:** Patterns, not isolated word resemblance, establish language descent.
+
+#### Q5
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: this is the accepted linguistic hierarchy. [Q5-A]
+- **B:** Incorrect: Iranian and Indo-Aryan are sister developments, not parent and child. [Q5-B]
+- **C:** Incorrect: Dravidian is a distinct language family. [Q5-C]
+- **D:** Incorrect: BMAC is archaeological, not a linguistic parent. [Q5-D]
+
+> **Examiner trap 5:** Keep linguistic branches separate from archaeological complexes.
+
+#### Q6
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: External attestation does not locate Rigvedic composition. [Q6-A]
+- **B:** Correct: treaty names and technical vocabulary provide bounded external attestation. [Q6-B]
+- **C:** Incorrect: Hurrian was the majority language. [Q6-C]
+- **D:** Incorrect: No direct route or military event follows from the texts. [Q6-D]
+
+> **Examiner trap 6:** Mitanni adds chronology, not a complete route.
+
+#### Q7
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: DNA does not record language. [Q7-A]
+- **B:** Incorrect: Objects do not self-identify ethnicity. [Q7-B]
+- **C:** Correct: sound, grammar and vocabulary establish relationship and borrowing. [Q7-C]
+- **D:** Incorrect: Ritual poetry is not a statistical census. [Q7-D]
+
+> **Examiner trap 7:** Each evidence class has a different object.
+
+#### Q8
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Shared labels cannot substitute for proof. [Q8-A]
+- **B:** Incorrect: Novelty does not determine evidentiary weight. [Q8-B]
+- **C:** Incorrect: Contradictions must be preserved and explained. [Q8-C]
+- **D:** Correct: convergence is meaningful only after these controls. [Q8-D]
+
+> **Examiner trap 8:** Triangulation begins with compatibility, not fusion.
+
+#### Q9
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: genre, oral transmission and layering define its use. [Q9-A]
+- **B:** Incorrect: oral layering defeats a single synchronous reading; the hymns also lack an annalistic year-by-year structure. [Q9-B]
+- **C:** Incorrect: remembered battles are not a complete migration itinerary; material contexts require archaeology rather than poetic description. [Q9-C]
+- **D:** Incorrect: source criticism yields historical clues, even though elite ritual poetry is neither a complete census nor an archaeological field report. [Q9-D]
+
+> **Examiner trap 9:** Use the Rig Veda intensively but not literally.
+
+#### Q10
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: The Harappan script remains undeciphered. [Q10-A]
+- **B:** Correct: hydrology, archaeology and textual layering are independent controls. [Q10-B]
+- **C:** Incorrect: A hydronym cannot establish one migration itinerary. [Q10-C]
+- **D:** Incorrect: Harappan sites occupied several ecological zones. [Q10-D]
+
+> **Examiner trap 10:** A palaeochannel is not automatically a named Vedic river.
+
+#### Q11
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: The corpus does not depict Harappan-style urbanism. [Q11-A]
+- **B:** Incorrect: Ploughing, wells and harvest vocabulary contradict exclusive nomadism. [Q11-B]
+- **C:** Correct: cattle-centred values coexist with cultivation and craft. [Q11-C]
+- **D:** Incorrect: Early *ayas* should not be converted automatically into iron. [Q11-D]
+
+> **Examiner trap 11:** Pastoral emphasis and agriculture can coexist.
+
+#### Q12
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Iron-centred development is later and regionally variable. [Q12-A]
+- **B:** Incorrect: Oral texts remain valuable with source criticism. [Q12-B]
+- **C:** Incorrect: A word cannot identify a pottery assemblage. [Q12-C]
+- **D:** Correct: translation depends on context and chronology. [Q12-D]
+
+> **Examiner trap 12:** Do not back-project later iron into every early reference.
+
+#### Q13
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: every inferential step must be demonstrated. [Q13-A]
+- **B:** Incorrect: Textual importance does not prove a military event. [Q13-B]
+- **C:** Incorrect: Wheel construction is a decisive distinction. [Q13-C]
+- **D:** Incorrect: Animal identification cannot establish ethnicity. [Q13-D]
+
+> **Examiner trap 13:** Presence, centrality and technology are separate claims.
+
+#### Q14
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: No deciphered Harappan inscription supplies that label. [Q14-A]
+- **B:** Correct: morphology, context and representativeness remain disputed. [Q14-B]
+- **C:** Incorrect: Sintashta is a separate steppe context. [Q14-C]
+- **D:** Incorrect: A disputed find cannot prove universal absence. [Q14-D]
+
+> **Examiner trap 14:** A debated equid is neither proof of centrality nor proof of absence.
+
+#### Q15
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: It is not Harappan. [Q15-A]
+- **B:** Incorrect: That description fits neither location nor vehicle evidence. [Q15-B]
+- **C:** Correct: chariot technology and metallurgy make it a key comparative horizon. [Q15-C]
+- **D:** Incorrect: No Rigvedic manuscript comes from the site. [Q15-D]
+
+> **Examiner trap 15:** Technology strengthens a model but does not itself identify language.
+
+#### Q16
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: No horse remains securely establish the claim. [Q16-A]
+- **B:** Incorrect: Burial identity cannot be read directly. [Q16-B]
+- **C:** Incorrect: The vehicles have solid rather than demonstrated spoked wheels. [Q16-C]
+- **D:** Correct: this distinguishes observation from interpretation. [Q16-D]
+
+> **Examiner trap 16:** Media use of “chariot” must not erase wheel and draught evidence.
+
+#### Q17
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: urban contraction, localisation and continuity varied regionally. [Q17-A]
+- **B:** Incorrect: The skeletons do not form one massacre context. [Q17-B]
+- **C:** Incorrect: Rejection of invasion does not prove zero migration. [Q17-C]
+- **D:** Incorrect: Site chronologies differ. [Q17-D]
+
+> **Examiner trap 17:** Do not use Harappan decline as a shortcut verdict on later migration.
+
+#### Q18
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Burial assemblages do not provide a self-name. [Q18-A]
+- **B:** Correct: continuity and changed urn practices must be assessed together. [Q18-B]
+- **C:** Incorrect: The record does not show total replacement. [Q18-C]
+- **D:** Incorrect: Harappan writing remains undeciphered. [Q18-D]
+
+> **Examiner trap 18:** Mortuary change is not an ethnic label.
+
+#### Q19
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Its broad chronology contradicts a single event. [Q19-A]
+- **B:** Incorrect: Burial practices do not define race. [Q19-B]
+- **C:** Correct: varied rites and contacts make corridor analysis safer. [Q19-C]
+- **D:** Incorrect: Text and graves cannot be equated automatically. [Q19-D]
+
+> **Examiner trap 19:** Chronological breadth defeats a one-wave interpretation.
+
+#### Q20
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Copper use is well attested. [Q20-A]
+- **B:** Incorrect: OCP is associated with the upper Ganga-Yamuna region. [Q20-B]
+- **C:** Incorrect: Functions vary and many finds lack context. [Q20-C]
+- **D:** Correct: heterogeneous context blocks an ethnic equation. [Q20-D]
+
+> **Examiner trap 20:** An antennae sword is not a linguistic fossil.
+
+#### Q21
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: its chronology and geography fit later transformations better. [Q21-A]
+- **B:** Incorrect: PGW cannot identify speakers and is generally later. [Q21-B]
+- **C:** Incorrect: Some PGW contexts lack iron. [Q21-C]
+- **D:** Incorrect: It post-dates Mature Harappan urbanism. [Q21-D]
+
+> **Examiner trap 21:** PGW is a correlate, not “the Aryans”.
+
+#### Q22
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: archaeological patterning does not independently supply speech or a single Indo-Iranian national identity. [Q22-A]
+- **B:** Correct: settlement, craft and ritual networks interacted with steppe groups. [Q22-B]
+- **C:** Incorrect: BMAC is not a simple Harappan colony, and an oasis assemblage cannot specify an India-bound language route. [Q22-C]
+- **D:** Incorrect: it includes settled oasis networks and interactions rather than a single mobile Steppe colony or genetic component. [Q22-D]
+
+> **Examiner trap 22:** Use BMAC as a network node, not a conveyor belt.
+
+#### Q23
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Archaeological chronology is often strong. [Q23-A]
+- **B:** Incorrect: Classification is possible but remains analytical. [Q23-B]
+- **C:** Correct: trade, imitation, marriage and mobility break one-to-one mapping. [Q23-C]
+- **D:** Incorrect: Texts and objects answer different questions; neither is automatically superior. [Q23-D]
+
+> **Examiner trap 23:** An assemblage is not a language community.
+
+#### Q24
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Conflict may occur without defining the whole process. [Q24-A]
+- **B:** Incorrect: Migration necessarily involves mobility. [Q24-B]
+- **C:** Incorrect: Several social mechanisms are possible. [Q24-C]
+- **D:** Correct: movement need not be conquest or replacement. [Q24-D]
+
+> **Examiner trap 24:** Do not make invasion and migration synonyms.
+
+#### Q25
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: a full model must address all contrary evidence classes. [Q25-A]
+- **B:** Incorrect: One river claim cannot settle the family history. [Q25-B]
+- **C:** Incorrect: Continuity does not determine language origin. [Q25-C]
+- **D:** Incorrect: No massacre excludes mass invasion, not all mobility. [Q25-D]
+
+> **Examiner trap 25:** A model is tested by the evidence it can explain, not by one favoured fact.
+
+#### Q26
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Language is not encoded in DNA. [Q26-A]
+- **B:** Correct: this is the method’s proper object. [Q26-B]
+- **C:** Incorrect: grave goods require social interpretation; neither status nor caste is read directly from a genome. [Q26-C]
+- **D:** Incorrect: relatedness does not specify religion; burial meaning requires independent cultural evidence. [Q26-D]
+
+> **Examiner trap 26:** Ancestry is biological evidence with sample limits.
+
+#### Q27
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: One person cannot represent all Harappans. [Q27-A]
+- **B:** Incorrect: Language was not recovered. [Q27-B]
+- **C:** Correct: the claim is bounded by person, context and date. [Q27-C]
+- **D:** Incorrect: Later movement is a different chronological question. [Q27-D]
+
+> **Examiner trap 27:** Always state “one published individual”.
+
+#### Q28
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: The study rejects pure-race framing. [Q28-A]
+- **B:** Incorrect: Admixture is modelled over ranges. [Q28-B]
+- **C:** Incorrect: Genomes do not speak. [Q28-C]
+- **D:** Correct: the regional dataset supports movement and mixture together. [Q28-D]
+
+> **Examiner trap 28:** The study models population history, not an Aryan gene.
+
+#### Q29
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: patterned absence requires an expectation of survival and discovery. [Q29-A]
+- **B:** Incorrect: Unsearched ground makes absence weak. [Q29-B]
+- **C:** Incorrect: Textual expectation does not create material evidence. [Q29-C]
+- **D:** Incorrect: One local absence rarely supports a regional universal. [Q29-D]
+
+> **Examiner trap 29:** Absence is evidence only after a visibility test.
+
+#### Q30
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: The evidence supports substantial local continuity. [Q30-A]
+- **B:** Correct: several social mechanisms can spread language and practices. [Q30-B]
+- **C:** Incorrect: Contact features contradict sealed preservation. [Q30-C]
+- **D:** Incorrect: No such decree is known. [Q30-D]
+
+> **Examiner trap 30:** Identity formed through interaction, not purity.
+
+#### Q31
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: regular linguistic correspondences establish relationship much more securely than any exact route. [Q31-A]
+- **B:** Incorrect: genetic movement can be studied without identifying the language of sampled individuals. [Q31-B]
+- **C:** Correct: this grades facts, interpretations and open questions. [Q31-C]
+- **D:** Incorrect: rejecting a civilisation-wide assault does not rule out gradual movement or contact; no archaeological assemblage settles identity by itself. [Q31-D]
+
+> **Examiner trap 31:** Neutrality ranks evidence rather than flattening it.
+
+#### Q32
+**Correct answer: D.**
 
 **Option-wise explanation:**
 
@@ -778,6 +813,113 @@ Which answer sequence is most defensible?
 - **D:** Correct: this sequence makes the reasoning auditable. [Q32-D]
 
 > **Examiner trap 32:** A source-critical answer is an argument, not a slogan or catalogue.
+
+#### Q33
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: the two kinds of conflict show that textual boundary-making cannot be converted into immutable racial divisions.
+- **B:** Incorrect: an opponent term supplies neither excavated material identity nor independently attested speech.
+- **C:** Incorrect: an *ārya* label in both camps prevents a simple insider-versus-biological-outsider reading.
+- **D:** Incorrect: conflict within a named group need not be metaphorical; it can reflect real rivalries and alliances.
+
+> **Examiner trap 33:** Neither *dāsa/dasyu* nor *ārya* is a genome label; interpret passage and opponent together.
+
+#### Q34
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: related words can coexist with diverging ritual practices and meanings.
+- **B:** Correct: *soma/haoma* is evidence of Indo-Iranian linguistic relationship, not of one uniform archaeological or religious population.
+- **C:** Incorrect: shared vocabulary alone cannot locate a homeland or decide the direction of travel.
+- **D:** Incorrect: surviving manuscript dates cannot date every orally transmitted composition or its earlier linguistic strata.
+
+> **Examiner trap 34:** A cognate gains force inside systematic sound, morphology and lexical comparison; it does not identify pots or routes.
+
+#### Q35
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: clusters of north-western river references can locate a broad remembered or composed landscape.
+- **B:** Incorrect: later eastward textual emphasis does not make every earlier hymn coeval with that later focus.
+- **C:** Correct: relative textual layering, including the conventional status of books 2–7, is useful without becoming an exact calendar.
+- **D:** Incorrect: similar hydronyms and modern channels cannot automatically date a hymn.
+
+> **Examiner trap 35:** "Conventionally older" is a relative source-critical claim, not a date for every line in a book.
+
+#### Q36
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: an undated or differently dated channel cannot establish the passage's referent.
+- **B:** Incorrect: a nearby settlement reveals neither its inhabitants' river name nor their language.
+- **C:** Incorrect: spatial overlap is not temporal synchrony; each dataset requires its own chronology.
+- **D:** Correct: palaeohydrology, occupation and textual stratification must converge without being defined by each other.
+
+> **Examiner trap 36:** Date the watercourse, occupation and text independently before correlating a river name.
+
+#### Q37
+**Correct answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: the source distinguishes older Iranian-related hunter-gatherer affinity from an automatically recent Iranian farmer influx.
+- **B:** Incorrect: ancestry components record genetic relationships, not spoken language.
+- **C:** Incorrect: one genome cannot specify all western-contact events or their directions.
+- **D:** Incorrect: the published genome represents a sampled individual, not a civilisation-wide or timeless genetic type.
+
+> **Examiner trap 37:** "Iranian-related" is a modelled ancestry affinity, not a passport or ethnolinguistic name.
+
+#### Q38
+**Correct answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: grave access and preservation can select particular social groups even within a well-preserved cemetery.
+- **B:** Correct: a local sample constrains local biological inference while leaving regional and social representation open.
+- **C:** Incorrect: biased sampling limits extrapolation but does not erase evidence from the sampled individuals.
+- **D:** Incorrect: burial goods and a genome cannot independently determine a person's language.
+
+> **Examiner trap 38:** Ask "who was sampled, where and when?" before extending aDNA models to whole populations.
+
+#### Q39
+**Correct answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: contact features do not date or prove one mass movement, and not every item has an agreed Dravidian origin.
+- **B:** Incorrect: areal phonology does not decipher Harappan writing or establish an original language of composition.
+- **C:** Correct: substrate and borrowing proposals require item-level linguistic analysis and allow multiple contact mechanisms.
+- **D:** Incorrect: bilingualism and language shift can transmit vocabulary as well as structural features.
+
+> **Examiner trap 39:** A contact signal is not an automatic donor-language identification or a one-way migration arrow.
+
+#### Q40
+**Correct answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: a reconstructed language relationship does not validate an incoming biologically superior race.
+- **B:** Incorrect: continuity at one site cannot establish an unchanged people across all regions and periods.
+- **C:** Incorrect: neutral method ranks evidence and preserves uncertainty rather than granting equal support to opposite assertions.
+- **D:** Correct: chronological, category-specific triangulation can recognise both change and continuity without racial ownership claims.
+
+> **Examiner trap 40:** Critique colonial racialisation without turning an indigenous-origin argument into a mirror-image pure-race claim.
+
+### REMEDIATION ROUTES
+
+| If your wrong answer concerned... | Revisit | Corrective test |
+|---|---|---|
+| Ancient self-names versus race | Q1–3, Q33, Q40 | Explain why conflict among *ārya* groups defeats a fixed race reading without denying historical conflict. |
+| Linguistic descent versus identical cultures | Q4–6, Q34 | State what *soma/haoma* supports and what Mitanni does **not** locate. |
+| Textual and environmental dating | Q8–10, Q35–36 | Independently order textual layers, settlement phases and palaeochannel activity. |
+| Material correlates versus language | Q13–23 | Identify an observation and an unsupported identity inference for each debated assemblage. |
+| Population sampling versus identity | Q26–28, Q37–38 | Distinguish one Rakhigarhi individual, later regional admixture and unknown spoken language. |
+| Contact mechanisms versus one-way replacement | Q24–25, Q30–31, Q39 | Offer bilingualism, marriage or borrowing as possible mechanisms, not as events proven in every case. |
 
 ## PYQS AND ANSWER PRACTICE
 

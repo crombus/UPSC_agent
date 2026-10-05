@@ -1,910 +1,985 @@
 ---
 title: "The Deccan & the Mughals (to 1657) — Solved Practice Workbook"
 topic_key: medieval-indian-history-18
+cover_image: assets/topic18_cover.png
 ---
 # The Deccan & the Mughals (to 1657) — Solved Practice Workbook
 
+![Topic 18 workbook cover](assets/topic18_cover.png)
+
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQ Loop (18)
-
-The correct options rotate independently. Solve before opening each explanation; every explanation identifies the deciding distinction.
-
-#### Q1. Which formulation best captures Akbar's initial Deccan objective?
-- A. Obtain recognition of Mughal over-lordship while allowing local rule under conditions
-- B. A permanent equality treaty among sovereign states
-- C. Immediate provincial annexation of every sultanate
-- D. Withdrawal from all western-coast concerns
-
-**Answer: A.**
-**Explanation:** The Rajasthan-style suzerainty model explains why diplomacy preceded selective force.
-
-#### Q2. Why was Khandesh strategically important?
-- A. It was the only source of Deccani horses
-- B. Burhanpur and Asirgarh connected routes, markets and a gateway to the plateau
-- C. It eliminated the need for siege logistics
-- D. It contained the capital of Golconda
-
-**Answer: B.**
-**Explanation:** The closest distractor is 'horse supply'; route and gateway logic is the source-grounded reason.
-
-#### Q3. The 1596 Ahmadnagar settlement did which of the following?
-- A. Transferred Bijapur to Mughal rule
-- B. Ended all Nizam Shahi authority
-- C. Ceded Berar while recognising Bahadur under Chand Bibi's regency and Mughal suzerainty
-- D. Made Ahmadnagar a Mughal province
-
-**Answer: C.**
-**Explanation:** It was a negotiated survival arrangement, not a full conquest.
-
-#### Q4. The 1597 battle called Sonepat/Supa/Sonpet in the assigned source should be handled how?
-- A. As a certain location with a fixed modern spelling
-- B. As an unimportant coastal skirmish
-- C. As a battle at Sonipat in Haryana
-- D. As a Deccan/Berar campaign event whose nomenclature must not be confused with Sonipat
-
-**Answer: D.**
-**Explanation:** Source nomenclature is uncertain; the secure context is the combined Deccani response in Berar.
-
-#### Q5. Which statement about Chand Bibi is most defensible?
-- A. She was a political actor who defended, negotiated and governed under factional constraint
-- B. She independently annexed Bijapur
-- C. She ended Mughal interest in Berar
-- D. She was only a romantic battlefield icon
-
-**Answer: A.**
-**Explanation:** Her Bijapur and Ahmadnagar links make the 'only warrior-queen' description inadequate.
-
-#### Q6. Akbar's 1600-01 gains are best described as:
-- A. The permanent conquest of all Deccan sultanates
-- B. A foothold in Ahmadnagar/Balaghat plus Khandesh/Asirgarh, not complete Deccan control
-- C. A treaty that made Golconda a Mughal province
-- D. A coastal Portuguese alliance
-
-**Answer: B.**
-**Explanation:** The key discriminator is partial control: Bijapur and Golconda still did not submit.
-
-#### Q7. Malik Ambar should be identified as:
-- A. A Maratha king who founded Shivaji's state
-- B. A Mughal mansabdar permanently loyal to Jahangir
-- C. A Habshi leader in Nizam Shahi politics who used a multi-group coalition including Maratha cavalry
-- D. A Portuguese commander at Surat
-
-**Answer: C.**
-**Explanation:** His Ethiopian/Habshi origin and Nizam Shahi office rule out the Maratha-ruler shortcut.
-
-#### Q8. Why is 'guerrilla warfare' a cautious label for Ambar's methods?
-- A. It means Ambar never used forts or diplomacy
-- B. It describes European naval tactics
-- C. It proves a modern nationalist insurgency
-- D. It is shorthand for mobility and supply disruption, not a modern equivalence
-
-**Answer: D.**
-**Explanation:** The source describes rapid cavalry and supply cutting; present-day political meanings should not be projected backward.
-
-#### Q9. What is the safest account of Ambar's revenue policy?
-- A. Later Marathi evidence attributes measurement and zabti-type changes, but uniform details are uncertain
-- B. No revenue policy is associated with him
-- C. He copied Todar Mal's system exactly everywhere
-- D. It established a modern cash tax state
-
-**Answer: A.**
-**Explanation:** The source limit is the point: attribution is useful without claiming identical, universal reform.
-
-#### Q10. Jahangir's restraint after 1617 primarily indicates:
-- A. That he lacked any army in the Deccan
-- B. A deliberate wish to avoid enlarged commitments after recovering Akbar-era gains
-- C. That he annexed Bijapur
-- D. That Malik Ambar permanently surrendered
-
-**Answer: B.**
-**Explanation:** Satish Chandra explicitly treats restraint as policy rather than simple military failure.
-
-#### Q11. The painting of Jahangir shooting Malik Ambar's image is best used as:
-- A. A report of an actual assassination
-- B. A neutral map of Deccan boundaries
-- C. Evidence of imperial symbolism and claimed dominance
-- D. Proof that Ambar never fought the Mughals
-
-**Answer: C.**
-**Explanation:** A court painting can reveal representation; it cannot be read as literal event reportage.
-
-#### Q12. Bhaturi (1624) matters because:
-- A. It was an English factory treaty
-- B. It marked Daulatabad's surrender
-- C. It ended all Mughal campaigns in India
-- D. It raised Ambar's prestige after victory over a combined Mughal-Adil Shahi force in the source narrative
-
-**Answer: D.**
-**Explanation:** The closest distractor is Daulatabad, but that belongs to 1633 and Shah Jahan's phase.
-
-#### Q13. The fall of Daulatabad in 1633 demonstrates:
-- A. Dynastic extinction did not automatically end local resistance or claimant politics
-- B. That Shahji stopped changing service
-- C. That Bijapur was annexed
-- D. That 1636 terms had already been imposed
-
-**Answer: A.**
-**Explanation:** Shahji's subsequent claimant project shows why fort fall and field control must be separated.
-
-#### Q14. The 1636 arrangements with Bijapur and Golconda are best classified as:
-- A. An equal modern treaty without hierarchy
-- B. Coercive Mughal suzerainty/protection leaving buffer states intact
-- C. A direct annexation settlement
-- D. A Portuguese maritime alliance
-
-**Answer: B.**
-**Explanation:** Khutba, tribute and arbitration denote hierarchy, while the sultanates retained their courts.
-
-#### Q15. Which is an accurate Golconda term in the assigned source?
-- A. Golconda abolished all Persianate links
-- B. Golconda ceded every port to the Mughals
-- C. Shah Jahan's name entered the khutba while the Iranian sovereign's was removed, alongside tribute/protection
-- D. Golconda became a Mughal province in 1636
-
-**Answer: C.**
-**Explanation:** The political signal was changed sovereign recognition, not immediate provincial administration.
-
-#### Q16. Why was the 1636 settlement statesmanlike in the source's assessment?
-- A. It eliminated every local elite network
-- B. It stopped all Deccan expansion southward
-- C. It required no military pressure
-- D. It stabilised a frontier through buffers and hierarchy at lower direct Mughal cost
-
-**Answer: D.**
-**Explanation:** The settlement combined coercion with limited aims; its advantages were strategic and fiscal.
-
-#### Q17. The 1656-57 interventions should be interpreted as:
-- A. A break in the restraint that had sustained the 1636 spirit
-- B. A war of succession episode after 1658
-- C. A completed later-Aurangzeb conquest
-- D. Proof that 1636 had annexed Bijapur and Golconda
-
-**Answer: A.**
-**Explanation:** They undermined the buffer compact before the later succession war and full annexation era.
-
-#### Q18. Which conclusion best fits the whole topic?
-- A. The Deccan was isolated until Mughal armies arrived
-- B. Mughal policy was always uniform conquest
-- C. Maratha nationalism was created by one person
-- D. B. Entry, partial control, mobile resistance, treaty and renewed intervention formed a changing capacity problem
-
-**Answer: B.**
-**Explanation:** This causal sequence explains both imperial gains and the costs of keeping them.
-
-### Broad Topic MCQs (40)
-
-The correct options rotate independently. Solve before opening each explanation; every explanation identifies the deciding distinction.
-
-#### Q1. Which statement best expresses the principal lesson of north-south connectivity?
-- A. A purely coastal relationship
-- B. A sealed boundary at the Vindhyas
-- C. A connected corridor system of trade, migration, pilgrimage and war
-- D. No pre-Mughal interaction
-
-**Answer: C.**
-**Explanation:** Long-distance movement preceded the Mughals; the false 'sealed Vindhyan boundary' option erases routes, migration and pilgrimage.
-
-#### Q2. Which statement best expresses the Faruqi Khandesh location in strategy?
-- A. A Golconda port
-- B. Burhanpur-Asirgarh gateway to routes and operations
-- C. A Maratha capital
-- D. A substitute for Berar revenue
-
-**Answer: D.**
-**Explanation:** Burhanpur and Asirgarh mattered as a linked gateway. Horse supply was important in Deccan politics but is not the reason assigned to Khandesh here.
-
-#### Q3. Which statement best expresses the risk of treating sect as a full explanation?
-- A. It makes all alliances easy to predict
-- B. It removes factional competition
-- C. It proves all Deccan courts were identical
-- D. It ignores office, local rivalry and cross-label alliances
-
-**Answer: A.**
-**Explanation:** Sectarian affiliation mattered in some courts, yet office, rivalry and expediency changed partnerships; 'alliance is predictable' is therefore the faulty shortcut.
-
-#### Q4. Which statement best expresses the 1591 mission outcome?
-- A. Khandesh clearly submitted while other responses were limited/courteous
-- B. Every court accepted direct annexation
-- C. Bijapur became a Mughal province
-- D. Portugal joined the Mughals
-
-**Answer: B.**
-**Explanation:** The 1591 missions produced one clear Khandesh acceptance, not annexation or a Portuguese alliance; courtesy elsewhere did not equal submission.
-
-#### Q5. Which statement best expresses the main political error in a Chand Bibi answer?
-- A. Treating her only as a romantic heroine
-- B. Not calling Berar a port
-- C. Mentioning factionalism
-- D. Recognising her negotiation
-
-**Answer: C.**
-**Explanation:** Calling Chand Bibi only a romantic heroine suppresses regency and negotiation; her political work is the exact missing dimension.
-
-#### Q6. Which statement best expresses the significance of Berar?
-- A. It ended Ahmadnagar immediately
-- B. It supplied a Mughal foothold that alarmed Deccani neighbours
-- C. It was equivalent to all the Deccan
-- D. It became a permanent Portuguese base
-
-**Answer: D.**
-**Explanation:** Berar mattered because it supplied a forward Mughal foothold; the claim that it ended Ahmadnagar immediately confuses cession with extinction.
-
-#### Q7. Which statement best expresses the secure reading of 1600?
-- A. Ahmadnagar fort fell but Nizam Shahi resistance continued
-- B. Golconda was annexed
-- C. Akbar had ceased to intervene
-- D. All Nizam Shahi territory was pacified
-
-**Answer: A.**
-**Explanation:** The fort's fall did not exhaust Nizam Shahi legitimacy or territory; the option saying resistance ended ignores the claimant-Ambar recovery.
-
-#### Q8. Which statement best expresses the source-critical Asirgarh conclusion?
-- A. Only a bribery story can be mentioned
-- B. Every capture story has identical evidence
-- C. Siege/pestilence/surrender are in the assigned account; alternatives need provenance
-- D. The fort did not matter
-
-**Answer: B.**
-**Explanation:** The assigned siege-pestilence-surrender narrative can be used, but exclusive reliance on a bribery story ignores the source-critical problem.
-
-#### Q9. Which statement best expresses Ambar's coalition?
-- A. Nizam Shahi legitimacy, Habshis, Deccanis, Bijapur support and Maratha networks
-- B. Only Maratha rulers
-- C. Only Habshi troops and no allies
-- D. Only Portuguese naval aid
-
-**Answer: C.**
-**Explanation:** Ambar's coalition joined legitimacy, Habshi leadership, Bijapuri support and Maratha resources; 'only Maratha rulers' makes the key category error.
-
-#### Q10. Which statement best expresses a Mughal logistical weakness?
-- A. Total absence of cavalry
-- B. Lack of forts in India
-- C. No access to revenue
-- D. Distance, supply, monsoon and command coordination
-
-**Answer: D.**
-**Explanation:** A campaign's supplies, weather and command coherence are concrete constraints; 'absence of cavalry' is neither the source's point nor plausible.
-
-#### Q11. Which statement best expresses the value of deshmukh networks?
-- A. They were irrelevant to revenue or mobilisation
-- B. They were European companies
-- C. They joined local authority to service and armed following
-- D. They ended court faction
-
-**Answer: A.**
-**Explanation:** Deshmukh ties connected local authority with revenue and mobilisation; calling them irrelevant removes the interface that made service networks valuable.
-
-#### Q12. Which statement best expresses the safe claim about Khirki?
-- A. It proves a verified uniform water reform
-- B. It is associated with an Ambar-era Nizam Shahi centre
-- C. It was a Mughal capital under Akbar
-- D. It was founded by Shivaji in 1674
-
-**Answer: B.**
-**Explanation:** Khirki is safely an Ambar-era Nizam Shahi centre; a verified universal water reform is an unsupported escalation from an urban association.
-
-#### Q13. Which statement best expresses the 1616-17 sequence?
-- A. Ambar died
-- B. Jahangir annexed every Deccan state
-- C. Mughal victories recovered gains, yet did not end resistance
-- D. the 1636 treaty occurred
-
-**Answer: C.**
-**Explanation:** The 1616-17 sequence illustrates recovery without final resolution; 'Jahangir annexed every state' makes a limited campaign into total conquest.
-
-#### Q14. Which statement best expresses Jahangir's farzand language?
-- A. A Portuguese title
-- B. A declaration of equality without claims
-- C. a revenue survey
-- D. A diplomatic effort to manage Bijapur within hierarchy
-
-**Answer: D.**
-**Explanation:** Farzand was hierarchical diplomacy aimed at managing Bijapur; it was not a declaration that Mughal claims had vanished.
-
-#### Q15. Which statement best expresses the 1621 cycle?
-- A. Shows repeated military pressure and unstable settlements
-- B. Creates the Nizam Shahi dynasty
-- C. Shows a final peace after 1596
-- D. occurs after 1636
-
-**Answer: A.**
-**Explanation:** The 1621 cycle belongs to recurring pressure and unstable settlement; it cannot be treated as a final peace after 1596.
-
-#### Q16. Which statement best expresses the balanced Ambar assessment?
-- A. Resistance/state reconstruction alongside shifting alliances and inability to save Ahmadnagar permanently
-- B. Only heroism; no political limits
-- C. Only betrayal; no achievement
-- D. A simple modern nationalist story
-
-**Answer: B.**
-**Explanation:** Ambar's reconstruction and resistance were real, but permanent survival failed; the 'only heroism' option loses the necessary limitation.
-
-#### Q17. Which statement best expresses Shahji's historical value here?
-- A. He is interchangeable with Shivaji
-- B. He ended all Bijapuri links
-- C. He illustrates shifting service and claimant politics
-- D. He was an independent Mughal emperor
-
-**Answer: C.**
-**Explanation:** Shahji demonstrates shifting service and claimant politics; he was neither a Mughal emperor nor a static opponent of every court.
-
-#### Q18. Which statement best expresses the primary aim of Shah Jahan's early policy?
-- A. Return Berar
-- B. Give up Khandesh
-- C. Annex every southern state immediately
-- D. Extinguish Ahmadnagar as a persistent source of instability
-
-**Answer: D.**
-**Explanation:** Shah Jahan's early target was Ahmadnagar as an unresolved security problem, not immediate absorption of all southern kingdoms.
-
-#### Q19. Which statement best expresses the Daulatabad result?
-- A. Nizam Shahi dynastic end in 1633 but not instant social/military pacification
-- B. the 1657 settlement
-- C. Mughal departure from Khandesh
-- D. Golconda annexed in 1633
-
-**Answer: A.**
-**Explanation:** Daulatabad ended the dynasty but did not dissolve resistance; equating the event with Golconda's annexation is a chronology and category error.
-
-#### Q20. Which statement best expresses Bijapur's 1636 relation to Golconda?
-- A. a union of the two states
-- B. Non-interference plus future imperial arbitration
-- C. withdrawal from Karnataka
-- D. Full annexation of Golconda
-
-**Answer: B.**
-**Explanation:** Bijapur's promise of non-interference and arbitration arranged relations with Golconda; it did not empower Bijapur to annex it.
-
-#### Q21. Which statement best expresses the political import of khutba/sikka?
-- A. They automatically prove modern citizenship
-- B. They are only artistic forms
-- C. They can signal hierarchy and sovereign recognition
-- D. They end local administration
-
-**Answer: C.**
-**Explanation:** Khutba and sikka indicate recognised hierarchy in political language; they do not automatically create modern citizenship or erase administration.
-
-#### Q22. Which statement best expresses the buffer-state argument?
-- A. It guarantees loyalty forever
-- B. It is annexation
-- C. It removes all need for diplomacy
-- D. It can lower direct administrative costs while sustaining hierarchy
-
-**Answer: D.**
-**Explanation:** Buffers could transmit tribute and hierarchy at less direct cost; their value is not a guarantee of permanent loyalty.
-
-#### Q23. Which statement best expresses post-1636 southern expansion?
-- A. Bijapur and Golconda expanded into Karnataka under treaty space
-- B. The Deccan became economically inactive
-- C. Europeans controlled all internal routes
-- D. Mughals directly ruled every southern town
-
-**Answer: A.**
-**Explanation:** Post-1636 southern campaigns by the buffer states are central; the claim of economic inactivity reverses the treaty-space consequence.
-
-#### Q24. Which statement best expresses the use of European commercial reports?
-- A. Treat them as neutral nationwide census
-- B. Use them with a coastal/commercial provenance caution
-- C. Use them to prove every fort capture
-- D. Ignore all Mughal sources
-
-**Answer: B.**
-**Explanation:** European commercial reports must be read through their coastal-commercial lens, not treated as a neutral census of inland Deccan.
-
-#### Q25. Which statement best expresses the 1656 Golconda trigger?
-- A. a 1591 embassy
-- B. A mature Shivaji treaty
-- C. A mix of tribute/exchange, compensation and Mir Jumla context
-- D. Daulatabad's 1633 siege
-
-**Answer: C.**
-**Explanation:** Golconda intervention combined tribute/exchange and compensation claims with the Mir Jumla setting; it is not a retrospective Shivaji episode.
-
-#### Q26. Which statement best expresses the 1657 Bijapur crisis?
-- A. It came after Aurangzeb's 1687 conquest
-- B. It ended the war of succession
-- C. Direct annexation had already been completed
-- D. Muhammad Adil Shah's death and Mughal claims enabled pressure
-
-**Answer: D.**
-**Explanation:** Muhammad Adil Shah's death created a usable Bijapur crisis; full annexation had not already occurred and would belong to later history.
-
-#### Q27. Which statement best expresses Shah Jahan's late aims?
-- A. They were contested and could fall short of Aurangzeb's full-annexation ambition
-- B. They are known only from European reports
-- C. They never involved territory
-- D. They were proven identical to Aurangzeb's
-
-**Answer: A.**
-**Explanation:** The source separates Aurangzeb's expansive preference from Shah Jahan's variable aims; asserting identity erases that policy debate.
-
-#### Q28. Which statement best expresses the state-capacity causal loop?
-- A. Sect -> automatic annexation
-- B. Factional opening -> foothold -> resistance -> costly partial control -> treaty -> renewed intervention
-- C. Trade -> no politics
-- D. Conquest -> permanent peace without cost
-
-**Answer: B.**
-**Explanation:** The causal loop includes resistance and treaty after entry; the 'permanent peace' alternative misses why 1656-57 mattered.
-
-#### Q29. Which statement best expresses the right overextension conclusion by 1657?
-- A. No fiscal issue existed
-- B. The Mughal Empire had ended
-- C. A growing risk and process, not an already inevitable completed collapse
-- D. The Deccan had no effect on administration
-
-**Answer: C.**
-**Explanation:** By 1657 overextension was a developing risk, not an empire already ended; the answer must preserve this temporal distinction.
-
-#### Q30. Which statement best expresses a limitation of Persian court chronicles?
-- A. They have no chronology at all
-- B. They can never be used
-- C. They are European coastal sources
-- D. Patronage can privilege imperial success and hierarchy
-
-**Answer: D.**
-**Explanation:** Court patronage can encourage a success narrative, not make Persian chronicles worthless; the latter is an overcorrection.
-
-#### Q31. Which statement best expresses a limitation of later bakhars?
-- A. Retrospection and local loyalty require provenance checks
-- B. They are automatically fabricated
-- C. They are all contemporary battle maps
-- D. They are Mughal farmans
-
-**Answer: A.**
-**Explanation:** Later bakhars can preserve useful local memory, but retrospective loyalty requires checking; automatic fabrication is not method.
-
-#### Q32. Which statement best expresses a material source contribution?
-- A. They prove every motive
-- B. Forts, inscriptions, coins and water works can complement texts
-- C. They make texts unnecessary
-- D. They have no chronology
-
-**Answer: B.**
-**Explanation:** Material remains complement texts by locating claims in forts, coins and works; they do not remove the need for textual comparison.
-
-#### Q33. Which statement best expresses a memory/history distinction?
-- A. Only nationalist frames matter
-- B. Memory must always replace evidence
-- C. Heroic remembrance can coexist with evidence-based qualification
-- D. Sources have no genre
-
-**Answer: C.**
-**Explanation:** Remembrance can illuminate why a figure matters, but it cannot replace evidence; the correct option combines both rather than choosing one.
-
-#### Q34. Which statement best expresses the Topic 18 boundary?
-- A. Narrate Aurangzeb to 1707 fully
-- B. End at Talikota
-- C. Ignore Maratha bridge
-- D. Stop at 1657 and route later annexation/mature Shivaji to later topics
-
-**Answer: D.**
-**Explanation:** Topic 18 ends at 1657, so later Aurangzeb and mature Shivaji material is a route, not its narrative endpoint.
-
-#### Q35. Which statement best expresses the best Mains structure?
-- A. Thesis, named evidence, causal analysis, qualification and verdict
-- B. A date list alone
-- C. A single heroic anecdote
-- D. Unqualified generalisation
-
-**Answer: A.**
-**Explanation:** A direct thesis plus evidence, analysis and qualification answers an unfamiliar directive; a date list offers no causal judgement.
-
-#### Q36. Which statement best expresses the function of forts?
-- A. They make diplomacy redundant
-- B. They are nodes in route-market-logistics systems, not decorative points
-- C. They belong only to culture
-- D. They remove all supply needs
-
-**Answer: B.**
-**Explanation:** Forts are strategic nodes because they relate to corridors, markets and supplies; treating them as decorations loses their operational function.
-
-#### Q37. Which statement best expresses the significance of Burhanpur?
-- A. It was Golconda's port
-- B. It was outside Khandesh
-- C. It was a capital/gateway and provisioning-commercial node
-- D. It did not matter to campaigns
-
-**Answer: C.**
-**Explanation:** Burhanpur combined capital/gateway/provisioning functions; it was not Golconda's port and cannot be omitted from Khandesh strategy.
-
-#### Q38. Which statement best expresses the distinction between occupation and annexation?
-- A. Occupation is a cultural term
-- B. They always mean the same thing
-- C. Annexation means only tribute
-- D. An occupied fort can precede or differ from durable administrative incorporation
-
-**Answer: D.**
-**Explanation:** Occupation can be militarily real before administration is durable; the options treating it as identical to annexation or mere culture fail.
-
-#### Q39. Which statement best expresses the prerequisite for claiming a direct PYQ?
-- A. Exact verified wording and provenance
-- B. A coaching recollection
-- C. A similar generic Deccan geography question
-- D. A mature Shivaji question
-
-**Answer: A.**
-**Explanation:** A direct PYQ requires exact wording and provenance; similarity to generic geography or a coaching recollection is not verification.
-
-#### Q40. Which statement best expresses the correct closing boundary?
-- A. Topic 18 must narrate events through Aurangzeb's death
-- B. The 1656-57 crisis is analysed, then later full annexation and mature Shivaji conflict are routed forward
-- C. The narrative ends at 1636 because treaties never changed
-- D. The 1657 events are irrelevant to later dilemmas
-
-**Answer: B.**
-**Explanation:** The 1656-57 breach is the final analysed event because it creates, rather than completes, the later Deccan dilemma; the alternatives either overrun or truncate the set boundary.
-
-### Remedial MCQs (12)
-
-The correct options rotate independently. Solve before opening each explanation; every explanation identifies the deciding distinction.
-
-#### Q1. Did Akbar conquer the whole Deccan?
-- A. Yes, by the 1591 missions
-- B. Yes, in 1601
-- C. No. His gains were important but partial: Khandesh, Berar/Balaghat and Ahmadnagar fort did not equal Bijapur/Golconda submission.
-- D. A. No: he secured a foothold, not the whole Deccan
-
-**Answer: C.**
-**Explanation:** Yes, through 1636
-
-#### Q2. What is wrong with a 'warrior-queen only' account of Chand Bibi?
-- A. It hides regency, factional management, correspondence and negotiation under pressure.
-- B. It overstates her links with Bijapur
-- C. B. It erases her political agency beyond battlefield memory
-- D. She had no political role
-
-**Answer: D.**
-**Explanation:** It makes Berar too important
-
-#### Q3. Was Malik Ambar a Maratha ruler?
-- A. He was a Mughal prince
-- B. No. He was a Habshi leader in Nizam Shahi politics who mobilised Maratha military networks.
-- C. C. No: coalition leadership is not the same as Maratha rulership
-- D. He was Shahji
-
-**Answer: A.**
-**Explanation:** He was a Portuguese captain
-
-#### Q4. Does 'guerrilla' mean modern insurgency here?
-- A. It describes a twentieth-century ideology
-- B. It proves nationalism
-- C. It excludes diplomacy
-- D. No. It is a limited analytic label for mobility, terrain and supply disruption.
-
-**Answer: B.**
-**Explanation:** D. No: it is shorthand, not a modern equivalence
-
-#### Q5. Did 1636 annex Bijapur and Golconda?
-- A. Yes, because tribute equals province
-- B. A. No: suzerainty/protection is not direct annexation
-- C. No. The arrangements imposed hierarchy, tribute/protection and arbitration while leaving buffer states intact.
-- D. Yes, because of khutba alone
-
-**Answer: C.**
-**Explanation:** Yes, because of later wars
-
-#### Q6. Did Shah Jahan always seek full Deccan conquest?
-- A. No. His early policy was bounded by Ahmadnagar; later objectives became more expansive and contested.
-- B. B. No: aims changed from a bounded settlement to later demands
-- C. He annexed all states in 1633
-- D. He never intervened
-
-**Answer: D.**
-**Explanation:** He left all claims to Bijapur
-
-#### Q7. Was Jahangir's Deccan policy simple military failure?
-- A. He ended all campaigns
-- B. No. Satish Chandra treats post-success restraint as a deliberate avoidance of deeper commitments.
-- C. He had no commanders
-- D. C. No: deliberate restraint followed recovery of gains
-
-**Answer: A.**
-**Explanation:** He had no interest in hierarchy
-
-#### Q8. Is Sonepat/Sonpet the Haryana city Sonipat?
-- A. It is a Portuguese port
-- B. It is Daulatabad
-- C. No. The source's variable name belongs to a Deccan/Berar campaign and must be locationally cautioned.
-- D. Yes, it is the Haryana city
-
-**Answer: B.**
-**Explanation:** D. No: do not convert source nomenclature into a false modern location
-
-#### Q9. Did Ahmadnagar fort's fall end resistance?
-- A. Yes, all territory surrendered
-- B. A. No: state capacity persisted beyond the fort
-- C. No. Claimants, mobile forces and local networks continued after a fort/dynastic centre fell.
-- D. Yes, Shahji vanished
-
-**Answer: C.**
-**Explanation:** Yes, Bijapur was annexed
-
-#### Q10. Did one person create Maratha nationalism?
-- A. Shah Jahan created it
-- B. B. No: avoid a one-man nationalist origin story
-- C. No. Ambar, Shahji and later Shivaji belong to different stages of employment, networks and state formation.
-- D. Ambar alone created it
-
-**Answer: D.**
-**Explanation:** The Portuguese created it
-
-#### Q11. Were Deccan alliances simply Sunni versus Shia?
-- A. They had no sectarian dimension
-- B. C. No: sect mattered, but never explains the whole field alone
-- C. They were always sectarian
-- D. No. Office, faction, rivalry and strategic interest repeatedly crossed religious/ethnic labels.
-
-**Answer: A.**
-**Explanation:** Only Europeans chose alliances
-
-#### Q12. Do 1657 events belong to the later full Aurangzeb wars?
-- A. They settle the Deccan permanently
-- B. They are unrelated to the 1636 compact
-- C. They are after 1687
-- D. They are the boundary and bridge: they reopened the dilemma but precede the succession war and later annexations.
-
-**Answer: B.**
-**Explanation:** D. They are a pre-succession spillover, not the later-war narrative
-
-### Semantic-completeness coverage drills — Medieval Topic 18
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Map the post-Bahmani field. | Ahmadnagar/Bijapur/Golconda + Bidar/Berar + Khandesh gateway | all Muslim bloc |
-| B | Explain Akbar's opening. | routes/sovereignty/Portuguese context -> 1591 -> 1596/1600/1601 -> remnant | whole Deccan conquered |
-| C | Assess Chand Bibi. | claimant/factions -> siege -> constrained treaty -> murder/fort fall | lone romantic heroine |
-| D | Explain Ambar's capacity. | legitimacy/coalition -> bargis/supply -> forts/revenue -> reverses | invincible guerrilla |
-| E | Assess Jahangir. | 1610 loss -> 1616/17/21 recovery -> limited settlement | simple weakness |
-| F | Trace Shah Jahan to 1636. | Khan-i-Jahan/Fath Khan/Shahji -> 1633 -> partition/ahdnamas | extinction ended resistance |
-| G | Decode 1636. | Bijapur and Golconda terms -> tribute/protection/arbitration -> autonomy | full annexation |
-| H | Explain incorporation limits. | viceroy/fort/jagir/local elite -> jama-hasil/supply/monsoon | map equals control |
-| I | Compare Aurangzeb's tenures. | 1636-44 implementation -> 1652-57 deficit/Murshid Quli/intervention | later reign projected backward |
-| J | Explain 1656-57. | Mir Jumla/tribute/Karnataka -> Golconda -> Bijapur succession/lands | one prince's impulse |
-| K | Critique source classes. | Mughal/Deccan/Marathi/European/document/material -> claim limits | transparent chronicle |
-| L | Write the full evolution. | Akbar -> Jahangir -> Shah Jahan -> viceroyalties -> breach -> stop 1657 | Topic 23 imported |
-
-**PYQ status:** zero direct CSE routes for 2018-2026. The 2020 Persian-source
-Mains demand and 2024 Bhatkal Prelims demand are adjacent and remain with
-Topics 24/source bank and 09 respectively. Mains has no objective key.
+### Questions — all questions precede the matching key
+
+#### Workbook MCQ 1
+
+**Question:** Which grouping correctly identifies the principal Deccan powers in Mughal politics after the Bahmani break-up?
+
+A. Ahmadnagar, Bijapur and Golconda, with Khandesh as the northern gateway.
+B. Delhi, Lahore and Kabul, with Khandesh as a Himalayan corridor.
+C. Madurai, Kochi and Travancore, with Khandesh as their coastal port.
+D. Mewar, Malwa and Gujarat, with Khandesh as a Rajput buffer.
+
+#### Workbook MCQ 2
+
+**Question:** Why did Khandesh matter so much to Mughal Deccan policy?
+
+A. It was the first capital of the Qutb Shahis.
+B. Burhanpur and Asirgarh made it the route-and-fort gateway to the plateau.
+C. It removed the need for diplomacy with Ahmadnagar.
+D. It was the only region in the Deccan with cavalry horses.
+
+#### Workbook MCQ 3
+
+**Question:** The 1591 Mughal missions to the Deccan are best understood as
+
+A. ceremonial exchanges among equal sovereigns.
+B. the formal annexation of Bijapur and Golconda.
+C. coercive diplomacy seeking acceptance of Mughal over-lordship.
+D. a Portuguese-backed sea treaty.
+
+#### Workbook MCQ 4
+
+**Question:** Which statement best captures Chand Bibi's political role?
+
+A. She founded the Nizam Shahi dynasty.
+B. She was merely a romantic warrior with no negotiation role.
+C. She surrendered Bijapur to the Mughals in 1596.
+D. She defended Ahmadnagar and negotiated Berar cession to preserve Bahadur's regency.
+
+#### Workbook MCQ 5
+
+**Question:** How should the 1597 battle printed as Sonepat in one source be handled?
+
+A. As a Berar-Deccan campaign episode whose nomenclature should not be confused with Sonipat.
+B. As the definitive proof that all naming variants are false except one.
+C. As a north Indian Haryana battle detached from the Deccan crisis.
+D. As an unimportant event outside Mughal-Deccan relations.
+
+#### Workbook MCQ 6
+
+**Question:** Which statement best captures Mughal success in 1600-01?
+
+A. Bijapur and Golconda were turned into Mughal provinces.
+B. The Mughals secured Ahmadnagar fort and Khandesh, but a Nizam Shahi remnant still survived.
+C. The Deccan question ended permanently.
+D. Portuguese power on the west coast disappeared.
+
+#### Workbook MCQ 7
+
+**Question:** Malik Ambar is identified most safely as
+
+A. the founder of the Mughal Deccan viceroyalty.
+B. a Portuguese governor at Goa.
+C. an Ethiopian or Habshi figure who became Nizam Shahi Peshwa.
+D. a Maratha sovereign who ruled from Raigad.
+
+#### Workbook MCQ 8
+
+**Question:** Which chain best explains Malik Ambar's strength?
+
+A. Portuguese naval aid plus Kabul horses plus direct Mughal subsidy.
+B. Only sectarian solidarity inside one fixed Shia bloc.
+C. Only fort walls without mobile cavalry.
+D. Nizam Shahi legitimacy plus Habshi-Deccani-Afghan manpower plus Maratha mobility plus opportunistic Bijapuri support.
+
+#### Workbook MCQ 9
+
+**Question:** Why is “guerrilla” only a guarded label for Ambar's military style?
+
+A. Because it names mobility and supply-cutting but should not be equated with a modern ideological insurgency.
+B. Because it refers here to Atlantic naval raiding.
+C. Because Ambar refused to use intelligence or terrain.
+D. Because the Deccan had no forts.
+
+#### Workbook MCQ 10
+
+**Question:** What is the safest claim about Malik Ambar's revenue measures?
+
+A. No fiscal reconstruction is associated with his regime at all.
+B. Later Marathi evidence links him with measurement and zabti-type changes, though exact uniformity cannot be assumed.
+C. He copied Todar Mal without change in every district.
+D. He abolished all landed intermediaries overnight.
+
+#### Workbook MCQ 11
+
+**Question:** Khirki matters in Topic 18 mainly as
+
+A. a Portuguese fort on the Konkan coast.
+B. a Mughal capital founded after 1707.
+C. a Nizam Shahi urban and logistical centre associated with Malik Ambar.
+D. the original Bahmani capital at Gulbarga.
+
+#### Workbook MCQ 12
+
+**Question:** The main lesson of the failed 1611 Mughal operation is that
+
+A. sheer numbers solved the Deccan problem once and for all.
+B. Bhaturi had already been won by the Mughals.
+C. Jahangir abandoned the Deccan permanently in 1611.
+D. rivalry and poor coordination could undo even a large imperial advance.
+
+#### Workbook MCQ 13
+
+**Question:** How should Jahangir's 1616-17 recovery be qualified?
+
+A. It restored leverage, but Jahangir still avoided a wider annexation drive.
+B. It permanently annexed Bijapur and Golconda.
+C. It ended Malik Ambar's career immediately.
+D. It made Deccan finance irrelevant.
+
+#### Workbook MCQ 14
+
+**Question:** Why does Bhaturi (1624) deserve mention?
+
+A. It marked Daulatabad's surrender to Shah Jahan.
+B. It was a late peak of Malik Ambar's prestige after victory over Mughal-Adil Shahi forces.
+C. It was the treaty that inserted Shah Jahan's name in the Golconda khutba.
+D. It inaugurated Aurangzeb's second viceroyalty.
+
+#### Workbook MCQ 15
+
+**Question:** Which statement best explains the Maratha bridge inside Topic 18?
+
+A. Marathas never served Mughal or Bijapuri interests.
+B. A unified nationalist Maratha kingdom already existed under Malik Ambar.
+C. Maratha service networks supplied cavalry, local knowledge and negotiable allegiance before Shivaji's later state.
+D. The topic must narrate the whole later Maratha war to make sense.
+
+#### Workbook MCQ 16
+
+**Question:** Shahji Bhonsale matters in Topic 18 chiefly because
+
+A. he abolished the Nizam Shahi claimant after 1633.
+B. he annexed Golconda for Shah Jahan.
+C. he served only one state throughout his career.
+D. he sustained claimant politics and mobile resistance after dynastic extinction.
+
+#### Workbook MCQ 17
+
+**Question:** Why did Shah Jahan harden policy against Ahmadnagar?
+
+A. Because Ahmadnagar sheltered enemies such as Khan-i-Jahan Lodi and kept the northern Deccan unstable.
+B. Because Jahangir had already annexed Bijapur.
+C. Because the Portuguese demanded Daulatabad.
+D. Because Mir Jumla ruled Ahmadnagar.
+
+#### Workbook MCQ 18
+
+**Question:** What did the fall of Daulatabad in 1633 actually do?
+
+A. It annexed Bijapur.
+B. It ended the ruling Nizam Shahi line.
+C. It resolved every Deccan deficit.
+D. It forced the Portuguese out of Goa.
+
+#### Workbook MCQ 19
+
+**Question:** Which pair best captures the 1636 Bijapur terms?
+
+A. Immediate provincial annexation and abolition of the Adil Shahi court.
+B. Transfer of Delhi to Bijapur and cancellation of all tribute.
+C. Recognition of Mughal suzerainty plus indemnity and arbitration obligations.
+D. Mandatory union with Golconda under one crown.
+
+#### Workbook MCQ 20
+
+**Question:** What is the key Golconda signal in the 1636 settlement?
+
+A. The destruction of the Qutb Shahi court.
+B. The cession of every Karnataka interest at once.
+C. The appointment of Malik Ambar as governor.
+D. The insertion of Shah Jahan's name in the khutba under Mughal-protective hierarchy.
+
+#### Workbook MCQ 21
+
+**Question:** Why is the 1636 settlement called statesmanlike in the assigned interpretation?
+
+A. Because it reduced direct administrative cost by using subordinate buffers.
+B. Because it ended every future Deccan dispute permanently.
+C. Because it created religious equality among all states.
+D. Because it required no military pressure at all.
+
+#### Workbook MCQ 22
+
+**Question:** What does khutba or sikka recognition prove most safely in Topic 18?
+
+A. Complete district-level administration everywhere under Mughal officers.
+B. A sovereign claim or accepted superiority, not full effective control by itself.
+C. The disappearance of local courts.
+D. A guaranteed stable revenue yield.
+
+#### Workbook MCQ 23
+
+**Question:** Which statement best fits Mughal provincial incorporation in the Deccan?
+
+A. Every Deccan jagir immediately paid more than expected.
+B. Fort garrisons made local elites irrelevant.
+C. Paper jama could exceed real hasil, so conquest did not automatically finance itself.
+D. Distance from court improved coordination by itself.
+
+#### Workbook MCQ 24
+
+**Question:** Aurangzeb's first Deccan viceroyalty should be described as
+
+A. the later full annexation programme already completed in the 1630s.
+B. the moment when Bijapur vanished as a state.
+C. an interval before Mughal power entered the Deccan at all.
+D. the implementation phase of the post-1636 order.
+
+#### Workbook MCQ 25
+
+**Question:** What changed in Aurangzeb's second Deccan viceroyalty?
+
+A. Deficit and low realization sharpened demands for indemnity or territory.
+B. The region was already fully annexed, so no policy issue remained.
+C. Mughal contact with Golconda ended altogether.
+D. Nothing; it repeated the first phase without fiscal strain.
+
+#### Workbook MCQ 26
+
+**Question:** Mir Jumla enters Topic 18 chiefly through
+
+A. the foundation of the Bahmani kingdom in 1347.
+B. his break with Golconda and the wealth-politics of Karnataka in 1656.
+C. the 1596 Berar settlement with Chand Bibi.
+D. the execution of Malik Ambar.
+
+#### Workbook MCQ 27
+
+**Question:** Why did the 1656 Golconda settlement matter?
+
+A. It abolished Mughal claims in the Deccan.
+B. It restored Ahmadnagar as an independent dynasty.
+C. It brought money and Ramgir but also widened pressure beyond the spirit of 1636.
+D. It solved the Bijapur succession crisis.
+
+#### Workbook MCQ 28
+
+**Question:** What is the safest description of the 1657 Bijapur outcome?
+
+A. The whole Adil Shahi state was annexed permanently.
+B. The settlement recreated the exact confidence of 1636.
+C. The Mughal state withdrew from the Deccan thereafter.
+D. Bijapur surrendered former Nizam Shahi lands without losing its entire separate court.
+
+#### Workbook MCQ 29
+
+**Question:** Which boundary statement is correct for Topic 18?
+
+A. It ends with the breach of the 1636 order by 1657 and stops before the later full wars.
+B. It must narrate the entire later reign of Aurangzeb.
+C. It ignores Shah Jahan completely and jumps from Akbar to Shivaji.
+D. It treats 1687 as the natural climax of the same narrative.
+
+#### Workbook MCQ 30
+
+**Question:** How should Persian court chronicles be used in this topic?
+
+A. As neutral photographs of every event and motive.
+B. As indispensable campaign and diplomatic evidence read with patronage bias in mind.
+C. As irrelevant once architecture survives.
+D. As replacements for all local and material evidence.
+
+#### Workbook MCQ 31
+
+**Question:** What is the main limit of later bakhars and regional memories in Topic 18?
+
+A. They can never be used for any purpose.
+B. They prove Portuguese naval policy exactly.
+C. They are later testimonies, so they must not be treated as unfiltered seventeenth-century administrative files.
+D. They remove the need to cite Persian texts.
+
+#### Workbook MCQ 32
+
+**Question:** What is the best overall conclusion for Topic 18?
+
+A. The Mughals solved Deccan governance once they won a few major sieges.
+B. The topic is only about one ruler, Malik Ambar.
+C. Everything after Akbar belongs outside the syllabus.
+D. The Deccan question moved from embassy to foothold to coalition resistance to buffer settlement to renewed breach.
+
+#### Workbook MCQ 33
+
+**Question:** Which statements hold? 1. Khandesh was a Bahmani successor; 2. Ahmadnagar was Nizam Shahi; 3. Berar had been absorbed by Ahmadnagar before the Mughal intervention.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. All three
+
+#### Workbook MCQ 34
+
+**Question:** Place these in order: 1. Asirgarh annexation; 2. Chand Bibi’s Berar compromise; 3. Ahmadnagar fort captured; 4. Mughal missions.
+
+A. 2–4–3–1
+B. 4–2–3–1
+C. 4–3–2–1
+D. 4–2–1–3
+
+#### Workbook MCQ 35
+
+**Question:** Which of the following 1636 pairings are sound? 1. Bijapur — arbitration and limiting Shahji near the frontier; 2. Golconda — khutba and payment under protection; 3. Both — directly incorporated as subas.
+
+A. 1 only
+B. 2 and 3
+C. 1 and 2
+D. All three
+
+#### Workbook MCQ 36
+
+**Question:** A captured fort is supplied precariously because neighbouring deshmukhs cut grain routes; jagir hasil trails jama. What follows?
+
+A. A garrison proves uniform control of all villages.
+B. The empire had no claim to the territory.
+C. Artillery could not have been used in the siege.
+D. Fort possession need not secure countryside, supply or actual receipts.
+
+#### Workbook MCQ 37
+
+**Question:** Assertion: Bijapur aided Malik Ambar at one point and joined the Mughals against him at another. Reason: buffer interests, rivalries and patronage shaped shifting alliances.
+
+A. Both are true and the reason explains the assertion.
+B. Both are true but unrelated.
+C. The assertion is true but the reason false.
+D. The assertion is false but the reason true.
+
+#### Workbook MCQ 38
+
+**Question:** How should Malik Ambar’s reported replacement of ijara by a zabti-type settlement be tested?
+
+A. Assume later Marathi texts record every contemporary village precisely.
+B. Use later testimony and records cautiously without claiming uniform rates or universal implementation.
+C. Treat Khirki waterworks as proof of an exact Todar Mal replica.
+D. Dismiss fiscal measures as irrelevant to mobile warfare.
+
+#### Workbook MCQ 39
+
+**Question:** Which combination best explains renewed Mughal intervention in 1656–57 after the 1636 compact?
+
+A. Both Deccan courts had been annexed in 1636.
+B. Portuguese withdrawal ended all inland fiscal issues.
+C. Karnataka expansion, payment disputes, low Deccan hasil, Mir Jumla and Bijapur succession altered incentives.
+D. Shivaji had already conquered every Mughal province.
+
+#### Workbook MCQ 40
+
+**Question:** Which contrast between the 1656 Golconda and 1657 Bijapur outcomes is most defensible?
+
+A. Both ended with complete annexation.
+B. Golconda lost its whole coast while Bijapur retained all former Nizam Shahi lands.
+C. Shah Jahan and Aurangzeb agreed unconditionally on Golconda annexation.
+D. Golconda paid money and ceded Ramgir amid Mir Jumla’s disputed claims; Bijapur surrendered former Nizam Shahi lands without total annexation.
+
+### Matching answer key and remediation
+
+#### Workbook MCQ 1 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct. These are the principal Deccan interlocutors here, while Khandesh functions as the corridor into the plateau rather than as a Bahmani successor.
+- **B:** This shifts the story to the Indo-Afghan north-west. Khandesh is no Himalayan approach.
+- **C:** These belong to a different southern frame. Topic 18 is centred on the Deccan successor states reached through Khandesh.
+- **D:** Malwa and Gujarat mattered strategically, but they do not replace the Ahmadnagar-Bijapur-Golconda triangle that structures this topic.
+
+**Examiner trap:** gateway misread as successor-state list
+
+#### Workbook MCQ 2 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** Golconda's history is being imported here by mistake. Khandesh mattered for access and staging, not because it housed the Qutb Shahi capital.
+- **B:** Correct. Burhanpur and Asirgarh tied together movement, stores and military access.
+- **C:** Control of a gateway increased pressure, but it did not make diplomacy unnecessary. The 1591 missions and later settlements show that negotiation remained integral.
+- **D:** Horse supply mattered widely in the Deccan. Khandesh's decisive value lay in corridor control.
+
+**Examiner trap:** economic detail substituted for corridor logic
+
+#### Workbook MCQ 3 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** That makes the missions too polite. Presents and courtesy existed, but the political demand was hierarchy, not parity.
+- **B:** Annexation did not occur in 1591. Even in 1636 Bijapur and Golconda were subordinated rather than annexed outright.
+- **C:** Correct. The embassies tested whether Deccan rulers would accept Mughal suzerainty before wider force was used.
+- **D:** No sea treaty defines the episode. The missions belonged to inland imperial diplomacy aimed at Deccan courts.
+
+**Examiner trap:** courtesy answer mistaken for submission
+
+#### Workbook MCQ 4 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** The dynasty long predated her crisis-management role. Chand Bibi entered this story as regent and defender.
+- **B:** A battlefield-only portrait leaves out the central fact that she bargained under pressure to keep the regency alive.
+- **C:** The settlement concerned Ahmadnagar, Bahadur and Berar. Bijapur remained a separate court.
+- **D:** Correct. Her importance lies in combining fort defence, regency politics and negotiated territorial concession.
+
+**Examiner trap:** heroic memory replacing regency politics
+
+#### Workbook MCQ 5 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** This is the secure contextual reading, even if one printed form resembles Sonipat.
+- **B:** The careful move is the opposite: note the nomenclature issue and preserve only what the source lets you say securely.
+- **C:** No. The name can mislead, but the event belongs to the Berar-Ahmadnagar struggle, not to north India.
+- **D:** Its significance is not minor. The battle shows the Deccani effort to reverse the Berar cession.
+
+**Examiner trap:** name similarity turned into geographical certainty
+
+#### Workbook MCQ 6 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** Neither state was annexed in 1600-01. That came nowhere near the actual scope of Akbar's gains.
+- **B:** Correct. This answer preserves both achievement and limit.
+- **C:** The survival of a Nizam Shahi remnant is enough to overturn that sweeping conclusion.
+- **D:** Coastal Portuguese power was not erased because Ahmadnagar fort and Asirgarh fell.
+
+**Examiner trap:** foothold mistaken for final conquest
+
+#### Workbook MCQ 7 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** The Mughal viceroyalty was an imperial institution, not something created by Ambar from within Ahmadnagar.
+- **B:** Goa belonged to a completely different polity. Ambar's world was the inland Deccan court and campaign field.
+- **C:** Correct. His origin, service trajectory and office are the secure identifiers.
+- **D:** This turns a coalition leader inside Nizam Shahi politics into a later Maratha monarch.
+
+**Examiner trap:** Ambar collapsed into later Maratha kingship
+
+#### Workbook MCQ 8 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** No such chain anchors his power in the assigned sources. Ambar's leverage came from inland coalition and logistics.
+- **B:** Sect mattered in Deccan politics, yet this strips away the service, office and military dimensions that actually made the coalition work.
+- **C:** Forts mattered, but Ambar's edge came from combining them with movement, intelligence and supply disruption.
+- **D:** Correct. This formula keeps together legitimacy, personnel, mobility and contingent interstate backing.
+
+**Examiner trap:** single-cause coalition reading
+
+#### Workbook MCQ 9 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** This is the historically careful use of the label.
+- **B:** No. The campaigns were inland, not Atlantic. Naval language misses the logistical environment of the plateau and fort network.
+- **C:** Terrain knowledge and intelligence were central to Ambar's method, so this reverses the evidence.
+- **D:** Forts remained vital throughout the contest; the point is that mobility challenged the armies besieging or supplying them.
+
+**Examiner trap:** modern insurgency projected backward
+
+#### Workbook MCQ 10 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** That throws away a real evidentiary strand. The safer move is not denial but bounded acceptance.
+- **B:** Correct. This preserves the association while keeping the source problem visible.
+- **C:** The assigned sources do not authorise that level of certainty. Similarity does not prove an exact empire-wide replica.
+- **D:** Local intermediaries remained important in Deccan politics; they were not erased by a single administrative stroke.
+
+**Examiner trap:** administrative resemblance inflated into identity
+
+#### Workbook MCQ 11 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** Khirki is inland and tied to Deccan state-building, not to a Portuguese coastal fort.
+- **B:** That date and function belong to a later period entirely.
+- **C:** Correct. Its waterworks and urban setting help explain how resistance was supported materially.
+- **D:** Gulbarga belongs to Bahmani capital history, not to the Malik Ambar-Khirki association.
+
+**Examiner trap:** urban evidence shifted to the wrong polity
+
+#### Workbook MCQ 12 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** The failure teaches the opposite: manpower alone did not secure the field.
+- **B:** Bhaturi belongs to Malik Ambar's 1624 success, not to the failed Mughal effort of 1611.
+- **C:** Jahangir continued to intervene, which is why the later 1616-17 and 1621 recoveries matter.
+- **D:** Correct. The Deccan repeatedly exposed the penalty of divided command and loose coordination.
+
+**Examiner trap:** numerical strength mistaken for command success
+
+#### Workbook MCQ 13 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** This is the balanced reading of recovery with restraint.
+- **B:** No. Neither state became Mughal provinces in 1616-17. That wording overshoots the evidence.
+- **C:** Ambar returned again after Mughal successes; the reversibility of gains is part of the lesson.
+- **D:** Finance remained central because the Deccan was hard to hold and expensive to campaign in.
+
+**Examiner trap:** recovery written as irreversible conquest
+
+#### Workbook MCQ 14 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** Daulatabad fell in 1633, almost a decade later and in a different phase.
+- **B:** Correct. Bhaturi shows that Ambar still retained operational force even after Mughal recoveries.
+- **C:** The Golconda khutba change belongs to the 1636 settlement, not to Bhaturi.
+- **D:** Aurangzeb's second viceroyalty begins in 1652, far beyond this campaign moment.
+
+**Examiner trap:** late-Ambar peak mixed up with Shah Jahan chronology
+
+#### Workbook MCQ 15 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** The record shows the opposite: Maratha families served different Deccan and Mughal masters.
+- **B:** That imports a later political form too early.
+- **C:** This is the secure bridge from Deccan service politics to later Maratha power.
+- **D:** The bridge is real, but Topic 18 stops before the later full-scale Mughal-Maratha war.
+
+**Examiner trap:** later nationalism projected onto service society
+
+#### Workbook MCQ 16 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** Shahji did not extinguish claimant politics; he prolonged them by backing a claimant.
+- **B:** Golconda was not annexed by Shahji or by Shah Jahan in this phase.
+- **C:** His significance lies partly in shifting service alignments, so the one-state-only claim misses the point.
+- **D:** Correct. His career shows how service networks could keep the Deccan field alive even after Daulatabad fell.
+
+**Examiner trap:** dynastic extinction confused with political extinction
+
+#### Workbook MCQ 17 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct. The asylum issue and persistent instability made Ahmadnagar intolerable from Shah Jahan's perspective.
+- **B:** Bijapur had not been annexed under Jahangir; that premise is historically false.
+- **C:** Portuguese pressure forms part of wider context elsewhere, not the specific reason for Shah Jahan's Ahmadnagar policy.
+- **D:** Mir Jumla belongs to the later Golconda crisis, not to Ahmadnagar in the early 1630s.
+
+**Examiner trap:** cause assigned from the wrong decade
+
+#### Workbook MCQ 18 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** Bijapur remained outside Mughal direct rule; the later 1636 arrangement preserved it as a subordinate court.
+- **B:** Correct. Daulatabad's surrender ended the ruling dynasty, though not every form of resistance.
+- **C:** Fiscal and administrative strain persisted long after 1633.
+- **D:** Goa belongs to a different strategic context and was unaffected in this way by Daulatabad's fall.
+
+**Examiner trap:** capital fall turned into total settlement
+
+#### Workbook MCQ 19 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** Bijapur was not annexed in 1636; the court survived under a subordinate arrangement.
+- **B:** No such reversal of imperial geography or tribute occurred.
+- **C:** Correct. Suzerainty, indemnity and arbitration conditions define the relationship most safely.
+- **D:** The settlement regulated relations among states; it did not fuse Bijapur and Golconda into one monarchy.
+
+**Examiner trap:** treaty hierarchy mistaken for annexation
+
+#### Workbook MCQ 20 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** Golconda remained a ruling house after 1636, so this is far too absolute.
+- **B:** Karnataka disputes mattered later, especially in the Mir Jumla crisis, but not in this total form in 1636.
+- **C:** Malik Ambar died long before the Golconda terms and had no such office there.
+- **D:** Correct. The khutba shift signalled sovereign subordination while leaving the local court intact.
+
+**Examiner trap:** symbolic recognition confused with direct takeover
+
+#### Workbook MCQ 21 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct. The value of 1636 lay in matching imperial superiority to a cheaper and more governable frontier structure.
+- **B:** The later 1656-57 breach is enough to show that permanence was not achieved.
+- **C:** The settlement concerned hierarchy and strategic order, not a modern programme of interstate equality.
+- **D:** Force had already created the negotiating environment, so a no-pressure reading is inaccurate.
+
+**Examiner trap:** favourable verdict stripped of coercive context
+
+#### Workbook MCQ 22 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** That reads symbolic recognition as if it were a cadastral survey and district report.
+- **B:** Correct. Khutba and similar markers signal hierarchy, but they still need revenue, garrison and cooperation to become durable control.
+- **C:** Local courts could survive within a suzerain relationship, as 1636 itself shows.
+- **D:** Revenue realization depended on much more than symbolic recognition.
+
+**Examiner trap:** symbol translated into administration
+
+#### Workbook MCQ 23 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** The opposite pattern is the real caution. The Deccan was often deficit-prone rather than instantly lucrative.
+- **B:** Local elites remained crucial for intelligence, collection and stability.
+- **C:** Correct. This is the fiscal heart of the Deccan problem.
+- **D:** Distance usually complicated rather than automatically improved coordination.
+
+**Examiner trap:** jama figures treated as actual income
+
+#### Workbook MCQ 24 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** That projects the later emperor's wars backward into a different conjuncture.
+- **B:** Bijapur survived the 1630s settlement and remained a negotiated power.
+- **C:** Mughal entry into the Deccan long predated Aurangzeb's service there.
+- **D:** Correct. The first tenure belongs to supervision and implementation of the newly arranged frontier.
+
+**Examiner trap:** later emperor read into earlier viceroyalty
+
+#### Workbook MCQ 25 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct. Weak realization and deficit made harder remedies look attractive in the 1650s.
+- **B:** Full annexation had not occurred; the unresolved fiscal burden is part of the evidence.
+- **C:** Golconda became more important in the 1650s, especially through the Mir Jumla crisis.
+- **D:** The second tenure is defined precisely by greater pressure, not by calm repetition.
+
+**Examiner trap:** second viceroyalty detached from fiscal context
+
+#### Workbook MCQ 26 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** This jumps back three centuries to a different polity altogether.
+- **B:** Correct. Mir Jumla matters because his rupture and interests widened the Golconda crisis under Aurangzeb.
+- **C:** Mir Jumla had nothing to do with the Ahmadnagar compromise of 1596.
+- **D:** Malik Ambar died in 1626; Mir Jumla belongs to a later field of conflict.
+
+**Examiner trap:** Mir Jumla inserted into the wrong phase
+
+#### Workbook MCQ 27 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** The settlement moved in the opposite direction: Mughal demands grew more exacting rather than disappearing.
+- **B:** Ahmadnagar's ruling line had ended in 1633, so this is impossible.
+- **C:** Correct. Compensation and territorial gain came with a broader political cost—the weakening of the earlier compact.
+- **D:** Bijapur's succession issue was separate and followed its own path into 1657.
+
+**Examiner trap:** financial settlement mistaken for restored equilibrium
+
+#### Workbook MCQ 28 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** The state survived; the 1657 pressure stopped short of total annexation.
+- **B:** Confidence in the 1636 order was precisely what had been damaged, not restored.
+- **C:** The Deccan remained central to imperial politics after 1657.
+- **D:** Correct. Territory was yielded, but the distinction between pressure and complete absorption still mattered.
+
+**Examiner trap:** territorial concession inflated into total annexation
+
+#### Workbook MCQ 29 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct. The topic closes at the breach-point, not at the later annexation endgame.
+- **B:** That would erase the topic boundary fixed in the owner files and the audit brief.
+- **C:** Shah Jahan is central because 1633, 1636 and 1656-57 all belong to his Deccan policy.
+- **D:** 1687 belongs to a later topic because by then the whole political situation had changed.
+
+**Examiner trap:** later-war hindsight replacing syllabus boundary
+
+#### Workbook MCQ 30 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** Court chronicles are rich, but they are not motive-free snapshots of reality.
+- **B:** Correct. They are essential for sequence and imperial language, yet they must be checked against genre and patronage.
+- **C:** Material remains help, but they do not make textual evidence unnecessary.
+- **D:** No single source family can replace all the others in a topic built on comparison and qualification.
+
+**Examiner trap:** court narrative mistaken for transparent record
+
+#### Workbook MCQ 31 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** Total rejection wastes useful remembered administrative and service traditions.
+- **B:** Bakhars are not the route for exact Portuguese naval policy.
+- **C:** Correct. The right method is controlled use, not blind acceptance or blanket dismissal.
+- **D:** Persian sources remain central; later Marathi memory supplements them rather than replacing them.
+
+**Examiner trap:** later memory treated as contemporary file copy
+
+#### Workbook MCQ 32 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** Sieges mattered, but the topic shows repeatedly why control outstripped consolidation.
+- **B:** Malik Ambar is crucial, yet the topic also requires Chand Bibi, Jahangir, Shah Jahan, 1636 and the 1650s crises.
+- **C:** Akbar opens the topic, but Jahangir and Shah Jahan carry it to the 1657 stopping point.
+- **D:** Correct. This sequence preserves policy change, regional agency and the unresolved cost-control dilemma by 1657.
+
+**Examiner trap:** one-phase summary replacing the full policy arc
+
+#### Workbook MCQ 33 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct: Khandesh was a Faruqi-ruled gateway, not a Bahmani successor.
+- **B:** The Khandesh claim is false and Berar absorption should not be omitted.
+- **C:** Statement 1 is false although the dynastic identification is true.
+- **D:** Geographic proximity does not establish a shared Bahmani genealogy.
+
+**Examiner trap:** Political geography must not be mistaken for dynastic genealogy.
+
+#### Workbook MCQ 34 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** The missions preceded the Berar compromise.
+- **B:** Correct: 1591, 1595–96, 1600, 1601.
+- **C:** The fort fell after the earlier compromise.
+- **D:** Asirgarh fell after Ahmadnagar fort.
+
+**Examiner trap:** Submission, cession and capture were distinct stages.
+
+#### Workbook MCQ 35 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** Golconda’s recognition and payment are also attested.
+- **B:** Direct annexation did not occur in either court.
+- **C:** Correct: distinct obligations framed graded suzerainty.
+- **D:** The third pairing conflates suzerainty with provincial incorporation.
+
+**Examiner trap:** Tribute and khutba do not automatically mean annexation.
+
+#### Workbook MCQ 36 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** Fort and countryside control are separate.
+- **B:** A claim and garrison can coexist with weak collection.
+- **C:** Revenue shortfalls reveal nothing about whether artillery was deployed.
+- **D:** Correct: local cooperation and collections decide durable control.
+
+**Examiner trap:** A captured fort is not a verified revenue ledger.
+
+#### Workbook MCQ 37 — A
+
+**Correct answer:** A
+
+**Option-wise explanation:**
+- **A:** Correct: contingent interests explain changing alignments.
+- **B:** The reason directly accounts for the change.
+- **C:** A fixed communal-bloc account cannot explain these shifts.
+- **D:** Both alignments appear in the source narrative.
+
+**Examiner trap:** Changing coalitions are not permanent sectarian armies.
+
+#### Workbook MCQ 38 — B
+
+**Correct answer:** B
+
+**Option-wise explanation:**
+- **A:** Later narratives need corroboration and are not comprehensive surveys.
+- **B:** Correct: the evidence supports bounded reforms, not complete replication.
+- **C:** Urban infrastructure alone cannot establish a universal revenue formula.
+- **D:** Cultivation and local intermediaries helped support cavalry and forts.
+
+**Examiner trap:** Evidence of a reform is not evidence of universal enforcement.
+
+#### Workbook MCQ 39 — C
+
+**Correct answer:** C
+
+**Option-wise explanation:**
+- **A:** The subordinate courts survived the earlier settlement.
+- **B:** Maritime context did not resolve treasury or tribute questions.
+- **C:** Correct: intersecting fiscal and political causes reopened the bargain.
+- **D:** A later conflict is wrongly pushed into this pre-1657 scope.
+
+**Examiner trap:** A useful settlement can unravel under changed conditions.
+
+#### Workbook MCQ 40 — D
+
+**Correct answer:** D
+
+**Option-wise explanation:**
+- **A:** The courts survived.
+- **B:** Neither territorial claim describes the documented settlements.
+- **C:** Shah Jahan’s immediate goal was more limited than the viceroy’s wish.
+- **D:** Correct: separate imperial outcomes from expansive proposals.
+
+**Examiner trap:** Do not substitute Aurangzeb’s preference for the actual negotiated result.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q39. Which statement best expresses the prerequisite for claiming a direct PYQ?”, coverage of every clause, evidence-led analysis and a qualified verdict.
+### Verified/routed 2026 status for Topic 18
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+- Searched the mandated 2026 official-paper and routing roots listed in the audit brief.
+- Checked `books\mains\2026\`, `knowledge-export\Mains PYQ\`, `exams\papers\`, `new_papers\`, `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`, `upsc-ai-kit\knowledge\_PYQ-GS1-GS3-Static-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2026.md` and `upsc-ai-kit\knowledge\PYQ-MAINS-COVERAGE-AUDIT-2026.md`.
+- Result: **no direct Topic 18-owned 2026 prelims or mains item** on Mughal-Deccan policy to 1657, Ahmadnagar, Chand Bibi, Malik Ambar, the 1636 settlement, Mir Jumla or the 1656-57 Deccan breach was verified locally.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+### PYQ 1 — UPSC Mains GS-I 2020 (adjacent source-method route)
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**Paper route evidence:** `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` routes 2020 GS-I Q12 — “Persian literary sources of medieval India and the spirit of the age” — to Topic 24. It is retained here as an adjacent support item because Mughal and Deccani Persian chronicles are indispensable source families for Topic 18 answers.
 
-**How to improve this answer:** For “Q39. Which statement best expresses the prerequisite for claiming a direct PYQ?”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Question:** *Persian literary sources of medieval India reflect the spirit of the age. Comment.* (15 marks, 250 words)
 
-### PART V - PYQ AUDIT, ROUTING AND PRACTICE
+**Model answer:** Persian literary sources reflect the spirit of medieval India because they preserve the political language through which courts understood sovereignty, hierarchy and regional rivalry. For the Mughal-Deccan field, Abu'l Fazl helps reveal Akbar's claim to all-India over-lordship; Jahangir's memoirs and Shah Jahan-period chronicles illuminate imperial campaign sequence, diplomatic idiom and the limits of consolidation. On the Deccan side, narratives such as Ferishta preserve rival state perspectives, factional memory and the importance of Berar, Ahmadnagar, Bijapur and Golconda. Read together, these texts show an age shaped not by a simple north-south binary but by competing courts, negotiated suzerainty, service mobility and the political use of history itself. Yet the same sources have clear limits. Mughal chronicles reward victory and hierarchy; Deccani chronicles carry regional patronage and retrospective framing. Therefore Persian literary sources do reflect the spirit of the age, but only when they are read comparatively and with attention to genre, patronage and the distinction between imperial claim and actual control.
 
-#### Transparent PYQ audit: 2018-2026 CSE
+**Demand decoding:** “Comment” requires interpretation, not a list of texts. For Topic 18 use, the answer must connect source value with court ideology, campaign sequence and bias.
 
-**Audit result:** No direct, exact and verifiably worded CSE Prelims or GS-I question for 2018-2026 was located in the repository's official/OCR/routing material on Mughal Deccan policy, Chand Bibi, Ahmadnagar, Malik Ambar, Khandesh/Asirgarh, Bijapur/Golconda, the 1636 treaties or early Maratha military groups.
+**Executable answer/elimination plan:** Open with what Persian chronicles reveal, then use one Mughal and one Deccani evidentiary strand, and end by separating narrative claim from patronage-driven exaggeration.
 
-This is a **PYQ gap**, not permission to invent a question, invent a key, or misroute a generic Deccan Plateau question. Mature Shivaji/Maratha questions belong primarily to Topic 23; broad Mughal administration questions belong to Topics 16/21; Qandahar belongs to Topic 19. No external/coaching wording is reproduced here as a CSE PYQ. If a future official paper is added, preserve original option order and label an absent official key as **INFERRED ANSWER - NOT OFFICIALLY VERIFIED** with source, confidence and elimination.
+**Why this earns marks / route earns marks:** This adjacent route earns marks because it converts source names into a method. It also fits Topic 18 honestly: you are not pretending the item directly belongs to Mughal-Deccan policy, but you are using the exact source family that shapes those answers.
 
-#### Adjacent routes (not direct Topic 18 PYQs)
+**How to improve/strengthen:** Add one material counter-check such as forts, khutba/sikka or treaty evidence if extra space allows, so the answer shows how chronicles are tested against non-literary evidence.
 
-| Route | Owner | Why it is adjacent, not duplicated |
-|---|---|---|
-| Bahmani break-up, Deccani-afaqi setting, Talikota | Topic 09 | Background political field; do not repeat its full Vijayanagara/Bahmani content |
-| Akbar's northern consolidation and late expansion | Topic 15 | Provides bridge to Khandesh/Deccan; Topic 18 owns the detailed southern policy |
-| Qandahar/Safavid balance | Topic 19 | Parallel frontier policy; use only for comparison of strategy and resources |
-| Jahangir court and Nur Jahan | Topic 20 | Court context; Topic 18 owns the Deccan command/policy analysis |
-| Shah Jahan/mansabdari and jagir strain | Topic 21 | Fiscal architecture; Topic 18 owns Deccan application and settlement |
-| Aurangzeb's religious policy, north India and Rajputs | Topic 22 | Separate reign-wide political-religious owner |
-| Shivaji, mature Maratha state, Aurangzeb's later Deccan-Maratha war and jagirdari crisis | Topic 23 | Topic 18 supplies only the service-network bridge and stops in 1657 |
+### PYQ 2 — UPSC Prelims GS-I 2024 Q56 (adjacent maritime-context route)
 
-#### Current-affairs verification
+**Paper route evidence:** `_PYQ-ROUTING-PRELIMS-2024-2025.md` routes 2024 Prelims Q56 — “Medieval ruler who allowed the Portuguese a fort at Bhatkal” — to Topic 09. The locally refreshed Topic 09 learner-v2 session preserves the exact official Set-A wording and notes that the official key marks **A = Krishnadevaraya** while the provenance of the Bhatkal-fort wording is discussed with caution.
 
-No material recent official current-affairs anchor found; static and heritage relevance retained. A live official/UNESCO search covering 18 February-18 August 2026 found the UNESCO Tentative List description of *Monuments and Forts of the Deccan Sultanate* but no date-specific official conservation, status or policy development materially linked to this topic in the requested period. It is therefore heritage context, not a forced current-affairs card.
+**Question:** *Who of the following rulers of medieval India gave permission to the Portuguese to build a fort at Bhatkal?*
 
-**Static teaching link:** History -> Medieval India -> Deccan Sultanates, route systems, state capacity and heritage-source method.
+- A. Krishnadevaraya
+- B. Narasimha Saluva
+- C. Muhammad Shah III
+- D. Yusuf Adil Shah
 
-### Examiner-grade Original Mains Practice (10 solved answers)
+**Answer:** A
 
-#### Mains 1. 10 marks | Examine the motives and evolution of Mughal policy in the Deccan up to 1636. Answer in 150 words.
+**Model explanation:** The official Set-A key preserved locally marks **A. Krishnadevaraya**. Topic 18 keeps this item only as an adjacent support route because the west-coast and Vijayanagara-Portuguese setting belongs primarily to Topic 09. Its limited value here is contextual: the Deccan was linked to horse trade, coastal commerce and Portuguese pressure, so maritime facts could influence inland statecraft. The careful exam move is to preserve the official answer while also remembering that the exact Bhatkal-fort wording is discussed in the repository with source-provenance caution.
 
-**Directive alignment:** explain motives and change, not a list of battles.
+**Demand decoding:** This is a direct factual prelims question. In Topic 18 it functions only as a bounded reminder that maritime context mattered to Deccan politics.
 
-**Model solution:** Mughal policy evolved from an all-India claim of hierarchy toward selective force and a low-cost settlement. Akbar's 1591 missions show that over-lordship was first sought by diplomacy; Khandesh's response, unlike the limited courtesy elsewhere, gave a corridor foothold. The Burhanpur-Asirgarh route and Gujarat-Surat connection made security and commerce material motives, while Deccani factionalism offered opportunities. The 1596 Berar cession and 1600-01 gains secured positions but did not create full rule: Bijapur and Golconda remained outside submission, and Ahmadnagar resistance revived.
+**Executable answer/elimination plan:** Eliminate Muhammad Shah III and Yusuf Adil Shah as Deccan-sultanate distractors once the question explicitly asks for the ruler associated with Portuguese Bhatkal permission in the preserved UPSC route. Do not over-extend the fact into a whole essay on Mughal policy.
 
-Jahangir recovered gains but, after Khurram's 1617 campaign, deliberately avoided enlarged commitments. Shah Jahan then treated independent Ahmadnagar as the unresolved source of instability, ended its dynasty at Daulatabad (1633), and used the 1636 ahdnamas to make Bijapur and Golconda accept suzerainty. Thus policy was neither a timeless conquest drive nor mere glory: it balanced hierarchy, security, routes and cost. **Qualification:** military pressure made the settlement coercive, not an equal compact.
+**Why this earns marks / route earns marks:** It earns marks because it preserves official exam routing honestly while keeping ownership boundaries clear. The route earns marks in Topic 18 only when used as supporting coastal context, not as a falsely direct Mughal-Deccan PYQ.
 
-**Why this earns marks:** It answers evolution with four named anchors and distinguishes suzerainty from annexation.
+**How to improve/strengthen:** If you use this fact in a mains answer, immediately relate it back to the horse-trade and western-coast strategic setting instead of leaving it as isolated trivia.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Mains 1. 10 marks | Examine the motives and evolution of Mughal policy in the Deccan up to…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+### Original Mains 1 — 10 marks, 150 words
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Question:** Why did Mughal victory in 1600-01 fail to produce durable control in the Deccan? (Answer in 150 words)
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Model answer:** Mughal victory in 1600-01 created a serious foothold but not durable Deccan control because fort capture and corridor annexation did not automatically pacify the wider political field. Ahmadnagar fort fell in 1600 and Asirgarh-Khandesh in 1601, giving the empire Berar, a major stronghold and the northern gateway through Burhanpur. Yet a Nizam Shahi remnant survived, and the countryside beyond garrisons remained contested. Malik Ambar later showed how local legitimacy, mobile cavalry, forts and supply disruption could outlast imperial map claims. The deeper limit was administrative and fiscal: assessed authority still needed routes, grain, fodder, local cooperation and revenue realization. Thus the Mughal state won nodes of command, but not the durable integration needed to turn victory into stable Deccan rule.
 
-**How to improve this answer:** For “Mains 1. 10 marks | Examine the motives and evolution of Mughal policy in the Deccan up to…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Demand decoding:** The word “why” asks for causes, not a narrative of campaigns alone. The answer must move from victory to limit.
 
-#### Mains 2. 10 marks | Assess Chand Bibi's role in the Ahmadnagar crisis of 1595-1600. Answer in 150 words.
+**Executable answer/elimination plan:** Begin with the exact gains of 1600-01, then explain three limits: remnant legitimacy, logistics and revenue-local cooperation.
 
-**Directive alignment:** assess agency within constraints rather than write a heroic biography.
+**Why this earns marks / route earns marks:** It earns marks because the answer does not stop at “Malik Ambar resisted.” It explains structurally why fort victory was insufficient.
 
-**Model solution:** Chand Bibi was a political actor whose agency was real but constrained by succession conflict and imperial pressure. After Burhan Nizam Shah's death and Ibrahim's death in war, Miyan Manju backed a pretender while Chand Bibi, linked to both Ahmadnagar and Bijapur, supported infant Bahadur with the Habshi party. Her defence during the 1595-96 siege, appeal for support and acceptance of the Berar settlement show command, diplomacy and regency rather than a merely romantic warrior image.
+**How to improve/strengthen:** Add Berar and Burhanpur by name if you want sharper geography within the same word limit.
 
-The settlement preserved Bahadur under her guardianship but conceded Berar and Mughal suzerainty. It was a survival bargain made amid a strong Bijapur-Golconda presence, not proof of free choice. Later noble divisions, disputes over Berar and the combined response in 1597 made the arrangement untenable. During the second siege she explored a subordinate settlement for Bahadur and was killed by a hostile faction on a charge of treachery. **Verdict:** Chand Bibi delayed collapse and displayed political judgement, but could not overcome the internal fragmentation that enabled Mughal intervention.
+### Original Mains 2 — 10 marks, 150 words
 
-**Why this earns marks:** It integrates succession, treaty, agency and factional qualification.
+**Question:** Explain Chand Bibi's place in Mughal-Deccan relations. (Answer in 150 words)
 
-**Demand decoding:** The directive **assess** requires a direct position on “Mains 2. 10 marks | Assess Chand Bibi's role in the Ahmadnagar crisis of 1595-1600. Answer…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Model answer:** Chand Bibi occupies a central place in Mughal-Deccan relations because she turned regency, fort defence and negotiated compromise into one political strategy. During the Ahmadnagar succession crisis of 1595-96, she backed the infant Bahadur, drew support from important factions and held off the Mughal siege for months. Her significance lies not only in resistance but also in settlement: the 1596 compromise ceded Berar while preserving Bahadur's regency under Mughal suzerainty. This gave the Mughals their first durable foothold without immediately destroying the Nizam Shahi state. Chand Bibi therefore cannot be reduced either to a romantic warrior-queen or to a surrender figure. She exemplifies constrained but active statecraft inside a fragmented Deccan field.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Demand decoding:** “Explain” requires role and significance together. A one-dimensional heroic sketch will not be enough.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable answer/elimination plan:** Use the three anchors: succession crisis -> defence -> Berar settlement and regency survival.
 
-**How to improve this answer:** For “Mains 2. 10 marks | Assess Chand Bibi's role in the Ahmadnagar crisis of 1595-1600. Answer…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Why this earns marks / route earns marks:** It earns marks because Chand Bibi is presented as a political actor under constraint, not as a decorative anecdote.
 
-#### Mains 3. 10 marks | Explain why Khandesh and Asirgarh mattered more than as mere conquests. Answer in 150 words.
+**How to improve/strengthen:** Mention Habshi backing or Bijapur-Golconda appeal if you want to show the wider coalition setting more clearly.
 
-**Directive alignment:** explain strategic function through geography and logistics.
+### Original Mains 3 — 15 marks, 250 words
 
-**Model solution:** Khandesh was a gateway system, not a decorative northern edge of the Deccan. Its capital Burhanpur lay on the corridor linking northern Mughal power to the plateau and on the Agra-Surat/western trade route. Asirgarh, reputed a formidable fort, protected access to this route-and-market complex. Their capture in 1601 therefore gave the Mughals a base for provisioning, movement, intelligence and pressure on Deccani states.
+**Question:** Assess Malik Ambar's significance in Mughal-Deccan relations. (Answer in 250 words)
 
-The point is demonstrated by the contrast with Ahmadnagar: capturing a fort did not itself create durable regional control, whereas a corridor could sustain campaigns only if routes, supplies and allies remained available. Satish Chandra's account of siege, pestilence and surrender supports the capture narrative; competing traditions should be marked source-dependent. **Qualification:** Khandesh reduced entry costs but did not solve monsoon, distance, local resistance or command coordination. Thus it enabled a foothold, not automatic mastery of the entire Deccan.
+**Model answer:** Malik Ambar was the single most important intermediary figure between Akbar's incomplete Deccan foothold and Shah Jahan's later reorganisation of the region. His significance began with office and coalition. An Ethiopian or Habshi figure who rose in Deccan service, he became Peshwa of the restored Nizam Shahi regime and tied together dynastic legitimacy, Habshi-Deccani-Afghan manpower, opportunistic Bijapuri support and Maratha bargi mobility. Militarily, he exposed Mughal weakness in terrain, communication and supply. Instead of offering the kind of decisive battle the empire preferred, he relied on movement, harassment, intelligence and the cutting of grain and fodder lines. Administratively, later evidence associates him with measurement and zabti-type agrarian reconstruction; even with source caution, this shows that resistance required fiscal rebuilding, not merely cavalry raiding. His limitations matter too. Mughal recoveries in 1616-17 and 1621, his difficult relations with Bijapur and the eventual extinction of the Nizam Shahi line after his death show that he did not permanently solve the Ahmadnagar problem. His largest historical importance lies in delaying consolidation, revealing the cost of direct rule and deepening the service-military world from which later Maratha power would draw.
 
-**Why this earns marks:** It uses Burhanpur, Asirgarh and the route-supply mechanism instead of a bare location fact.
+**Demand decoding:** “Assess” needs balanced significance, not hero worship or dismissal.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Mains 3. 10 marks | Explain why Khandesh and Asirgarh mattered more than as mere conquests.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/elimination plan:** Move through coalition -> warfare -> revenue -> limitation -> legacy. Keep one sentence for qualification.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Why this earns marks / route earns marks:** It earns marks because each claim is attached to named evidence and because the answer resists the two easy extremes: permanent saviour or marginal spoiler.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve/strengthen:** Add Khirki and Bhaturi if you want sharper evidence of urban capacity and late prestige within the same structure.
 
-**How to improve this answer:** For “Mains 3. 10 marks | Explain why Khandesh and Asirgarh mattered more than as mere conquests.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### Original Mains 4 — 15 marks, 250 words
 
-#### Mains 4. 15 marks | Evaluate Malik Ambar as both a defender of Ahmadnagar and a maker of Deccan political possibilities. Answer in 200 words.
+**Question:** How should the 1636 Deccan settlement be understood: annexation or graded suzerainty? (Answer in 250 words)
 
-**Directive alignment:** evaluate achievement, mechanism and limitation.
+**Model answer:** The 1636 Deccan settlement should be understood as graded Mughal suzerainty, not as direct annexation of the surviving Deccan sultanates. Shah Jahan had already ended the ruling Nizam Shahi line at Daulatabad in 1633, but he did not extend the same mode of direct incorporation to Bijapur and Golconda. Instead, he created a layered political order. Bijapur accepted Mughal superiority, paid indemnity, came under imperial arbitration in disputes and was bound by conditions relating to Shahji. Golconda accepted protection and hierarchy through tribute and the khutba shift toward Shah Jahan. These markers mattered because they proclaimed superiority without extinguishing the local courts. That is why the settlement can be called statesmanlike: it stabilised the frontier more cheaply than total annexation would have done. Yet “statesmanlike” should not be romanticised. The compact was imposed from a position of force, remained unequal, and depended on continuing capacity and trust. Therefore the most accurate formulation is coercive buffer management under Mughal over-lordship rather than full provincial absorption.
 
-**Model solution:** Malik Ambar defended Nizam Shahi survival by converting fragmented resources into a working coalition, while his methods widened the political space available to Maratha military elites. An Ethiopian/Habshi who rose through Deccan service, he became chief minister/regent for a Nizam Shahi claimant and drew together Habshi leadership, disbanded Deccani soldiers, Bijapuri support at key moments, Maratha bargis and local deshmukh links. By about 1610, this coalition had reversed Akbar's recent gains in the assigned account.
+**Demand decoding:** The binary in the question is the key. You must define both terms before judging the settlement.
 
-His military method used rapid cavalry, terrain, intelligence and attacks on supplies. It exposed Mughal vulnerabilities of distance, monsoon, forage, siege needs and divided commands; the failed 1611 converging operation is evidence. Later Marathi evidence also attributes measurement, rates and limits on ijara to him, suggesting state reconstruction, though it cannot establish a uniform Todar Mal copy. Bhaturi (1624) demonstrates his peak prestige.
+**Executable answer/elimination plan:** Define annexation and suzerainty in the opening line, then assign Bijapur and Golconda evidence to the correct side and close with the cost argument.
 
-Yet Ambar did not permanently secure Ahmadnagar. His shifting alliances, conflict with Bijapur and refusal to stabilise settlements weakened a united front; Shah Jahan ended the dynasty in 1633. **Verdict:** he was neither a simple national precursor nor only an adventurer: he was an exceptional coalition-builder whose success delayed consolidation and developed regional military capacity, but could not settle the structural contest.
+**Why this earns marks / route earns marks:** It earns marks because it resolves the conceptual distinction clearly instead of mixing symbolic recognition with direct administration.
 
-**Why this earns marks:** It treats origin respectfully, names evidence and balances recovery with failure.
+**How to improve/strengthen:** Add one sentence on direct Mughal provinces in the northern Deccan if you want to sharpen the contrast between what was annexed and what was subordinated.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Mains 4. 15 marks | Evaluate Malik Ambar as both a defender of Ahmadnagar and a maker of…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+### Original Mains 5 — 20 marks, 250 words
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Question:** Trace the evolution of Mughal Deccan policy from the 1591 missions to the 1636 settlement. (Answer in 250 words)
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Model answer:** Mughal Deccan policy evolved from pressure for recognition to selective annexation and finally to graded suzerainty. In 1591 Akbar's missions demanded acceptance of Mughal over-lordship. Khandesh complied, but the major Deccan states did not. The Ahmadnagar succession crisis then opened the way for intervention. Chand Bibi's 1596 compromise preserved Bahadur's regency but ceded Berar, giving the Mughals their first durable foothold. The next stage was harder conquest: Ahmadnagar fort fell in 1600 and Asirgarh-Khandesh in 1601. Yet this did not produce complete control because a Nizam Shahi remnant survived and Malik Ambar reorganised resistance through coalition and mobility. Jahangir's reign therefore mixed recovery with restraint. Mughal victories in 1616-17 and 1621 restored leverage, but the empire still avoided limitless annexation. Shah Jahan hardened policy against Ahmadnagar, using the Khan-i-Jahan Lodi issue, Fath Khan's defection and the siege of Daulatabad to extinguish the ruling Nizam Shahi line in 1633. The final adjustment came in 1636, when Bijapur and Golconda were subordinated without being annexed. Thus Mughal policy moved from embassy to foothold to direct pressure and then to a buffer-state settlement designed to match power with administrative capacity.
 
-**How to improve this answer:** For “Mains 4. 15 marks | Evaluate Malik Ambar as both a defender of Ahmadnagar and a maker of…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Demand decoding:** “Trace” needs chronology plus policy shifts. Dates should support transitions, not become a bare list.
 
-#### Mains 5. 15 marks | How did mobile warfare expose limits in Mughal state capacity in the Deccan? Answer in 200 words.
+**Executable answer/elimination plan:** Divide the answer into four turns: missions, Akbar's foothold, Jahangir's restrained recovery, Shah Jahan's 1633-36 reordering.
 
-**Directive alignment:** connect military method to capacity rather than call every raid guerrilla warfare.
+**Why this earns marks / route earns marks:** It earns marks because every stage changes the policy form: diplomacy, foothold, limited recovery and suzerainty settlement.
 
-**Model solution:** Mobile warfare did not prove that Mughal arms were ineffective; it showed that battlefield victory and durable control required different capacities. Ambar's forces used rapid mounted movement, local intelligence, terrain and supply-cutting, often avoiding a set battle on unfavourable terms. Satish Chandra associates this mode with Maratha bargis and notes that Mughals were less accustomed to it. The result was delay, re-routing and higher cost for imperial columns dependent on grain, fodder, pay, messages and siege stores.
+**How to improve/strengthen:** Add Burhanpur-Khandesh route logic in the introduction if you want a stronger geographical frame from the first line.
 
-Distance from northern bases, monsoon conditions and the fort-route-market system magnified this effect. The 1611 plan of Khan Jahan Lodi and Abdullah Khan shows a second weakness: mutual wrangling and failed coordination could undo numerical strength. Conversely, the 1616-17 Mughal successes show that alliances, capable command and concentrated pressure could recover territory. Thus the argument is not environmental determinism.
+### Original Mains 6 — 20 marks, 250 words
 
-**Qualification:** 'guerrilla' is a cautious analytic shorthand, not a modern insurgency label. **Verdict:** the Deccan tested logistics, jagir-backed military resources, command integration and local alliances; it made conquest possible but consolidation contingent and expensive.
+**Question:** Analyse the causes and consequences of the breakdown of the 1636 Deccan settlement by 1657. (Answer in 250 words)
 
-**Why this earns marks:** It gives a causal mechanism, named campaign evidence and a conceptual caution.
+**Model answer:** The 1636 Deccan settlement broke down by 1657 because a frontier designed around subordinate buffers came under pressure from fiscal weakness, changing regional opportunity and more demanding Mughal intervention. The original compact had worked by combining direct Mughal control in the northern Deccan with subordinate but surviving courts in Bijapur and Golconda. Over time, however, two strains deepened. First, the Mughal Deccan remained fiscally difficult: assessed income exceeded realisation, and the region could require support from richer northern centres. Second, Bijapur and Golconda expanded into Karnataka and the Coromandel, increasing both their resources and their strategic weight. Aurangzeb's second viceroyalty from 1652 sharpened these tensions. With Murshid Quli Khan, he pressed for revenue improvement and looked more favourably on territorial or indemnity solutions. Mir Jumla's rupture with Golconda in 1656 and the dispute over tribute, exchange and Karnataka wealth created one opening; Muhammad Adil Shah's death and the Bijapur succession crisis created another. The resulting interventions won Ramgir from Golconda and former Nizam Shahi lands from Bijapur, but they also destroyed confidence in the 1636 order. By 1657 the Mughals had reopened the annexation question without resolving the cost of direct rule. That unresolved dilemma forms the immediate background to the later imperial-Deccan wars.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Mains 5. 15 marks | How did mobile warfare expose limits in Mughal state capacity in the…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** “Analyse” requires causation and consequence together. Do not stop at the list of 1656-57 events.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Explain the original compact first, then give fiscal and political causes, then show why the outcome was breach rather than finished conquest.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It earns marks because it connects event triggers to structural strain and closes at the correct 1657 boundary instead of drifting into the later succession war.
 
-**How to improve this answer:** For “Mains 5. 15 marks | How did mobile warfare expose limits in Mughal state capacity in the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 6. 15 marks | Discuss the pre-Shivaji Maratha bridge without reading later nationalism backward. Answer in 200 words.
-
-**Directive alignment:** explain continuity and discontinuity.
-
-**Model solution:** Pre-Shivaji Maratha power developed through service, local authority and regional competition rather than a ready-made nationalist programme. Deccani courts employed Maratha bargis as mobile cavalry and relied on deshmukh networks that joined landed influence, revenue claims and armed followers. Ahmadnagar, Bijapur and Mughal courts all offered office and jagir, allowing families to shift service in response to opportunity and threat.
-
-Malik Ambar's coalition created employment, military experience and confidence for such groups, but he was a Habshi leader in Nizam Shahi politics, not a Maratha ruler. Shahji Bhonsale illustrates the bridge: he moved among Nizam Shahi, Mughal and Bijapuri contexts; the assigned source places a 5000 mansab and Poona jagirs in a particular Shah Jahan episode, while later claimant resistance operated with Bijapuri support. These are networks of service, not proof of permanent loyalty.
-
-**Qualification:** local roots did not automatically yield a sovereign state, and later Shivaji's fort politics, legitimacy and administration need separate analysis. **Verdict:** the bridge explains resources and political learning; it should not erase contingency, diverse actors or the later distinctness of Maratha state formation.
-
-**Why this earns marks:** It uses bargis, deshmukhs and Shahji while explicitly policing anachronism.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Mains 6. 15 marks | Discuss the pre-Shivaji Maratha bridge without reading later…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 6. 15 marks | Discuss the pre-Shivaji Maratha bridge without reading later…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 7. 15 marks | Was Jahangir's Deccan policy a failure? Answer in 200 words.
-
-**Directive alignment:** assess both reverses and stated policy.
-
-**Model solution:** Jahangir's Deccan record contains reverses, but describing it as simple failure misses a deliberate limited policy. Malik Ambar's recovery by 1610, Prince Parvez's inability to settle the contest and the 1611 command failure reveal the difficulty of consolidating Akbar's gains. Yet Khan-i-Khanan's alliance work and the 1616 victory over a combined Deccani force, followed by Prince Khurram's 1617 campaign, recovered Balaghat and brought the Ahmadnagar fort key.
-
-Satish Chandra stresses that Jahangir did not enlarge Akbar's conquests after these successes because he sought to avoid deeper commitments and hoped moderation would stabilise neighbouring states. Diplomatic efforts to detach Bijapur, including farzand language, supported this design. This is a strategic choice with a cost: Malik Ambar resumed resistance and the political field remained unsettled; Bhaturi in 1624 exposed how quickly alliances could change.
-
-**Qualification:** restraint did not erase logistical or fiscal constraints, and 'deliberate policy' should not become a claim that campaigns were easy. **Verdict:** Jahangir achieved limited recovery and wisely avoided annexation, but could not turn partial military success into a durable regional settlement.
-
-**Why this earns marks:** It answers the evaluative directive using reverses, victories and the historian's policy interpretation.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Mains 7. 15 marks | Was Jahangir's Deccan policy a failure? Answer in 200 words.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 7. 15 marks | Was Jahangir's Deccan policy a failure? Answer in 200 words.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 8. 20 marks | Examine the 1636 Deccan settlement as a statesmanlike yet coercive system. Answer in 250 words.
-
-**Directive alignment:** explain terms, system, benefits and limits.
-
-**Model solution:** The 1636 settlement was statesmanlike because it replaced an expensive pursuit of direct expansion with a hierarchical buffer system; it was coercive because force and the extinction of Ahmadnagar structured the bargaining power. Shah Jahan had first ended the Nizam Shahi dynasty at Daulatabad in 1633, removing the principal unresolved northern-Deccan rival. He then did not annex Bijapur or Golconda.
-
-Bijapur recognised Mughal suzerainty, paid an indemnity, promised non-interference in Golconda, accepted imperial arbitration of future disputes and agreed to cooperate in reducing Shahji or employ him away from the frontier. It received territory from Ahmadnagar. Golconda placed Shah Jahan's name in the khutba, removed the Iranian sovereign's name, accepted tribute and received Mughal protection. These terms display hierarchy without the province-level administration of direct annexation.
-
-The arrangement lowered direct Mughal cost, stabilised the frontier and allowed Bijapur and Golconda to expand southward into Karnataka. It also gave the emperor an arbiter's role. However, the same ambiguity contained risk: tribute, protection and arbitration could be reinterpreted as claims to compensation and territorial extraction. The states retained military resources, courts and regional ambitions; they were buffers, not inert dependencies.
-
-**Qualification:** no exact sum should be supplied without the treaty source, and khutba/sikka recognition alone must not be equated with total control. **Verdict:** 1636 was a pragmatic apex of limited imperialism, but its coercive hierarchy and unclear future limits made it vulnerable to the late 1650s reversal.
-
-**Why this earns marks:** It explains both ahdnamas through a suzerainty-annexation distinction and reaches a graded conclusion.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Mains 8. 20 marks | Examine the 1636 Deccan settlement as a statesmanlike yet coercive…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 8. 20 marks | Examine the 1636 Deccan settlement as a statesmanlike yet coercive…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 9. 20 marks | Analyse why the 1656-57 interventions reopened the Deccan problem. Answer in 250 words.
-
-**Directive alignment:** trace breakdown from settlement to dilemma and stop at 1657.
-
-**Model solution:** The 1656-57 interventions reopened the Deccan problem because they abandoned the restraint that made the 1636 buffer settlement workable. In the decade after 1636, Bijapur and Golconda expanded southward, while the Mughals sometimes maintained neutrality and arbitrated disputes. By the late 1640s, Mughal financial strains in the Deccan, demands for a share of southern gains and the wish to draw powerful servants such as Shahji or Mir Jumla into imperial service altered incentives.
-
-Against Golconda, dispute over tribute/exchange rates and compensation became a pretext for intervention in the Mir Jumla context. Against Bijapur, Muhammad Adil Shah's death, alleged arrears and political disorder opened a crisis. Aurangzeb pressed for more extensive annexation, whereas Shah Jahan's objectives were more variable; the source finds no conclusive basis for resolving every claim about Dara's role. The 1657 result compelled Bijapur to yield former Ahmadnagar areas, while Golconda faced demands over Karnataka-linked claims.
-
-This was more than a campaign sequence: it told buffer states that protection could turn into extraction. It undermined trust, widened Mughal ambition and made a 'union of hearts' psychologically difficult in J. N. Sarkar's formulation.
-
-**Qualification:** do not narrate the later succession war or Aurangzeb's full Deccan wars as though completed here. **Verdict:** Shah Jahan inherited a settlement he had made workable, but late intervention converted its ambiguity into a longer dilemma of annexation versus cost.
-
-**Why this earns marks:** It links finance, strategy, political debate and treaty credibility within the stipulated end date.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Mains 9. 20 marks | Analyse why the 1656-57 interventions reopened the Deccan problem.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 9. 20 marks | Analyse why the 1656-57 interventions reopened the Deccan problem.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 10. 20 marks | How should historians use sources to assess Mughal state capacity in the Deccan? Answer in 250 words.
-
-**Directive alignment:** discuss method and apply it to capacity, not merely list sources.
-
-**Model solution:** Mughal state capacity in the Deccan is best reconstructed by triangulation because each source type records a different claim rather than the whole field. Mughal Persian chronicles show how emperors represented hierarchy, victory and benevolent order; Abul Fazl's universal sovereignty language and Jahangir's court perspective are crucial, but court patronage can compress resistance. Deccani Persian histories recover rival courts and negotiations; Ferishta-like boundary claims need provenance rather than automatic cartographic acceptance.
-
-Marathi records and later bakhars illuminate deshmukhs, revenue memories and mobile service networks. The attribution of measurement and zabti-type arrangements to Malik Ambar is valuable evidence of remembered state reconstruction, but later retrospective testimony cannot prove exact uniform assessment or a direct Todar Mal copy. Portuguese, Dutch and English reports help with ports, textiles and diplomacy yet privilege coastal commerce over inland command.
-
-Material evidence checks narratives: Asirgarh and Daulatabad explain why siege and route control mattered; coins and khutba language illuminate sovereign claims; inscriptions and water systems can test urban or administrative assertions. Jahangir shooting Ambar's image should be read as imperial symbolism, not an event report.
-
-**Qualification:** no source is discarded simply for bias; bias identifies purpose. **Verdict:** capacity was uneven and relational - strong enough to take forts and impose hierarchy, but dependent on supplies, local allies and credible settlements - a conclusion available only when textual claims are tested against one another and material settings.
-
-**Why this earns marks:** It moves from genre to what it can/cannot prove and then applies the method to the historical argument.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Mains 10. 20 marks | How should historians use sources to assess Mughal state capacity in…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 10. 20 marks | How should historians use sources to assess Mughal state capacity in…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** Add the phrase “suzerainty without annexation” early if you want the contrast with 1656-57 pressure to stand out more sharply.

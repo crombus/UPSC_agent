@@ -127,4 +127,7 @@ AGRICULTURAL TECHNOLOGY MISSIONS
     -> verdict: continue | scale | redesign | mainstream | close
 ```
 
-**Qualified conclusion:** Mission mode should mean coordinated, time-bound capability-building that converts research into inclusive and sustainable net value. It should not mean a renamed scheme, an activity target or an indefinite administrative label.
+**Qualified conclusion:** Mission mode should mean coordinated, time-bound
+capability-building that converts research into inclusive and sustainable net
+value. It should not mean a renamed scheme, an activity target or an indefinite
+administrative label.

@@ -1,0 +1,58 @@
+{
+  "topic": "31-Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 48,
+      "answers": 48,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 12,
+        "A": 13,
+        "D": 11,
+        "C": 12
+      },
+      "fingerprint": "0d284ecddead15fe"
+    },
+    {
+      "bank": 2,
+      "questions": 48,
+      "answers": 48,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 12,
+        "B": 16,
+        "D": 10,
+        "A": 10
+      },
+      "fingerprint": "37e71abe12c7715c"
+    },
+    {
+      "bank": 3,
+      "questions": 48,
+      "answers": 48,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 14,
+        "D": 8,
+        "B": 16,
+        "C": 10
+      },
+      "fingerprint": "417b4ec22962782d"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

@@ -6,805 +6,369 @@ topic_key: world-history-16
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Dumbarton Oaks, 1944?
+The following source-grounded questions test distinct mechanisms, legal categories and case comparisons. Attempt all questions before consulting the separate solved key. Historical cases do not imply a present-day institutional status.
 
-A. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-B. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-C. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-D. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
+### Q1. A 1944 plan is described as the moment the UN Charter entered into force. What correction is needed?
 
-**Answer: A.**
-**Explanation:** The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations. The remaining options belong to different chronology, actor or analytical categories.
+A. Dumbarton Oaks proposed a blueprint; San Francisco framed the Charter and the UN began in October 1945.
+B. Dumbarton Oaks adopted the Charter; San Francisco merely inaugurated ECOSOC.
+C. The UN began at San Francisco in 1944 before the proposals were circulated.
+D. October 1945 marks the creation of the League rather than the UN.
 
-### Q2. Which chronology card should be filed under Dumbarton Oaks, 1944?
+### Q2. Which League-to-UN comparison respects both institutional innovation and continuing constraint?
 
-A. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-B. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-C. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-D. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
+A. The UN removed great-power privileges by requiring unanimity of all members.
+B. Wider membership and social work coexisted with veto dependence and no standing UN army.
+C. The UN abandoned humanitarian work to concentrate exclusively on coercion.
+D. The League had universal membership; the UN restricted membership to Europe.
 
-**Answer: B.**
-**Explanation:** The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. A diplomat calls the International Criminal Court the seventh principal Charter organ. Which response is sound?
 
-### Q3. Which option preserves the source-bounded meaning of Dumbarton Oaks, 1944?
+A. Both courts are subsidiary bodies of the Security Council.
+B. The ICC is principal and the ICJ is an independent treaty court.
+C. The ICJ is a principal UN organ; the ICC is an independent treaty-based court.
+D. Both courts became principal organs when the Trusteeship Council ceased activity.
 
-A. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-B. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-C. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-D. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
+### Q4. A state requests a binding peace-and-security decision rather than a broad deliberative resolution. Which institutional route is most relevant?
 
-**Answer: C.**
-**Explanation:** The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations. The remaining options belong to different chronology, actor or analytical categories.
+A. General Assembly primary responsibility; Council confines itself to the UN budget.
+B. Secretariat alone authorizes member-state force under its administrative mandate.
+C. Trusteeship Council now directs military enforcement in all disputed territories.
+D. Security Council primary responsibility; the Assembly remains a forum for debate and political recommendations.
 
-### Q4. Which statement avoids a close-option trap about Dumbarton Oaks, 1944?
+### Q5. Which account of permanent-member power avoids a misleading numerical inference?
 
-A. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-B. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-C. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-D. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
+A. Five permanent members hold veto power within a fifteen-member Council also containing ten non-permanent members.
+B. All fifteen Council members exercise the same individual veto.
+C. Ten permanent members exercise veto while five non-permanent members rotate.
+D. Veto attaches to the Secretary-General when permanent members abstain.
 
-**Answer: D.**
-**Explanation:** The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. Korea and Suez are both called ordinary UN blue-helmet operations. What distinguishes them?
 
-### Q5. Which statement correctly identifies San Francisco and October 1945?
+A. Suez was a Council-authorized conquest; Korea exclusively used unarmed observers.
+B. Korea involved Council-authorized member-state enforcement during Soviet absence; Suez became a ceasefire-and-peacekeeping case.
+C. Both campaigns were fought by the UN permanent army.
+D. Neither involved any UN role because the Cold War disabled all action.
 
-A. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-B. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-C. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-D. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
+### Q7. Why could the Security Council act in the Korean War despite superpower rivalry?
 
-**Answer: A.**
-**Explanation:** The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945. The remaining options belong to different chronology, actor or analytical categories.
+A. The General Assembly repealed all permanent-member vetoes permanently.
+B. The Trusteeship Council commanded the operation independently.
+C. The Soviet delegation was absent during the relevant Council action.
+D. The Soviet Union joined the member-state coalition against North Korea.
 
-### Q6. Which chronology card should be filed under San Francisco and October 1945?
+### Q8. The Council is blocked but an Assembly resolution urges collective responses. What is the defensible interpretation of Uniting for Peace?
 
-A. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-B. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-C. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-D. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
+A. It grants every Assembly recommendation automatic binding force against states.
+B. It converts the ICC into the military arm of the Assembly.
+C. It authorizes the Secretary-General to suspend the permanent-member veto.
+D. It can mobilize Assembly recommendations and political pressure without transferring Council coercive powers.
 
-**Answer: B.**
-**Explanation:** The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. What explains the contrast between UN action at Suez and at Hungary in 1956?
 
-### Q7. Which option preserves the source-bounded meaning of San Francisco and October 1945?
+A. Ceasefire and peacekeeping were possible at Suez; Soviet force and veto politics obstructed effective action in Hungary.
+B. Both cases ended in Council-led military defeat of a permanent member.
+C. Hungary succeeded because a Council coalition enforced withdrawal there.
+D. Suez failed because the UN refused even to pursue a ceasefire.
 
-A. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-D. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
+### Q10. Which evaluation of the Congo operation avoids a binary verdict?
 
-**Answer: C.**
-**Explanation:** The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945. The remaining options belong to different chronology, actor or analytical categories.
+A. It was effortless because all internal actors accepted the same settlement.
+B. The 1960–64 intervention was complex and costly yet restored some order.
+C. It was exclusively a trade-agency operation without security tasks.
+D. It definitively resolved all regional and internal conflict.
 
-### Q8. Which statement avoids a close-option trap about San Francisco and October 1945?
+### Q11. A chronology of UN successes treats ceasefire supervision in Kashmir and Cyprus as final conflict resolution. Which revision is justified?
 
-A. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-D. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
+A. Both were settled by a permanent UN army after Trusteeship Council orders.
+B. Neither has ever involved ceasefire-related UN activity.
+C. Both illustrate containment and supervision without a final political settlement.
+D. Both were solved solely through the ICJ exercising criminal jurisdiction.
 
-**Answer: D.**
-**Explanation:** The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. West New Guinea illustrates which narrower institutional capacity?
 
-### Q9. Which statement correctly identifies Three founding aims?
+A. Ordering permanent annexation through a binding ECOSOC resolution.
+B. Defeating a permanent member by deploying a UN standing army.
+C. Replacing diplomacy with an ICC criminal judgment on territorial title.
+D. Assisting negotiations and supervising transfer where compromise was possible.
 
-A. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-B. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-C. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-D. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
+### Q13. The 1991 Gulf War is used to prove that the UN commands its own army. What is the best correction?
 
-**Answer: A.**
-**Explanation:** The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations. The remaining options belong to different chronology, actor or analytical categories.
+A. The Council authorized force by a member-state coalition; authorization did not create a UN standing army.
+B. The Secretariat raised its own permanent force without Council approval.
+C. The operation was exclusively consent-based observer peacekeeping.
+D. The General Assembly made all armed action illegal in the crisis.
 
-### Q10. Which chronology card should be filed under Three founding aims?
+### Q14. Cambodia and Mozambique appear beside Somalia and Bosnia in a post-Cold-War case matrix. What is the reason?
 
-A. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-B. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-C. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-D. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
+A. Every post-Cold-War mission succeeded because veto politics ended permanently.
+B. Transitions could be stabilized in the former; civil-war complexity and inadequate backing limited the latter.
+C. Somalia and Bosnia were ordinary inter-state ceasefires identical to the Suez model.
+D. Cambodia and Mozambique were exclusively Council sanctions with no transition-support role.
 
-**Answer: B.**
-**Explanation:** The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. Why is the 2003 Iraq crisis relevant to UN institutional authority?
 
-### Q11. Which option preserves the source-bounded meaning of Three founding aims?
+A. The Council unanimously ordered a UN-commanded invasion in 2003.
+B. The ICJ replaced the Council as the only authorizing organ for armed force.
+C. The US-UK invasion without clear Council authorization demonstrated limits over powerful states.
+D. The crisis conclusively ended all UN humanitarian activity.
 
-A. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-D. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
+### Q16. A report groups WHO, FAO and UNESCO with UNICEF as identical specialized agencies. Which classification is sound?
 
-**Answer: C.**
-**Explanation:** The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations. The remaining options belong to different chronology, actor or analytical categories.
+A. UNICEF and WHO are principal Charter organs while FAO is a court.
+B. All four are Security Council military departments.
+C. UNESCO is an ICC subsidiary and UNICEF an ECOSOC veto-holder.
+D. WHO, FAO and UNESCO are specialized agencies; UNICEF is a UN fund.
 
-### Q12. Which statement avoids a close-option trap about Three founding aims?
+### Q17. Which global-governance grouping respects institutional boundaries?
 
-A. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-D. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
+A. IMF and World Bank are specialized agencies; UNCTAD is a UN body; WTO is outside the specialized-agency category.
+B. WTO and ICC are two principal UN organs overseeing trade and justice.
+C. UNCTAD is the UN standing army and IMF the principal court.
+D. All four are Assembly-created funds analogous to UNICEF.
 
-**Answer: D.**
-**Explanation:** The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations. The remaining options belong to different chronology, actor or analytical categories.
+### Q18. An essay infers from failures in Hungary and Bosnia that the UN had no consequential nonmilitary record. Which rebuttal is evidenced?
 
-### Q13. Which statement correctly identifies Six principal Charter bodies?
+A. All health and food programmes depended on a veto-free Council military mandate.
+B. Rights advocacy, ILO labour standards, WHO health and FAO food work form a separate performance domain.
+C. The Universal Declaration functioned as an automatic standing-army deployment order.
+D. UNESCO alone assumed sole control of all member states educational policy.
 
-A. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-B. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-C. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-D. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
+### Q19. Trusteeship Council inactivity is offered as proof it was never a principal organ. Which response is best?
 
-**Answer: A.**
-**Explanation:** The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies. The remaining options belong to different chronology, actor or analytical categories.
+A. It became the seventh organ only after the ICC joined the UN.
+B. It always administered every independent former colony directly.
+C. It remains among six principal Charter organs despite historical oversight work now being inactive.
+D. Its inactivity transferred its membership veto to ECOSOC.
 
-### Q14. Which chronology card should be filed under Six principal Charter bodies?
+### Q20. What structural tension can be inferred from decolonization without making a current negotiation claim?
 
-A. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-B. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-C. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-D. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
+A. Decolonization abolished permanent Council seats through an automatic Charter clause.
+B. Every newly independent state inherited a permanent veto.
+C. The Council ceased to exist once the Trusteeship Council became inactive.
+D. Expanded General Assembly membership coexists with a permanent-seat structure rooted in the 1945 settlement.
 
-**Answer: B.**
-**Explanation:** The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies. The remaining options belong to different chronology, actor or analytical categories.
+### Q21. A reform proposal attributes to Lowe a detailed 2026 budget and personnel target. How should it be handled?
 
-### Q15. Which option preserves the source-bounded meaning of Six principal Charter bodies?
+A. Use his historically situated concerns about financing, coordination and faster response without inventing contemporary figures.
+B. Treat Lowe as a current negotiator whose post-2012 estimates are binding.
+C. Assume a newly created UN army already replaced member-state forces.
+D. Conclude that reform can only mean closing WHO and UNESCO.
 
-A. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-D. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
+### Q22. Which paired examples most directly test the proposition that great-power cooperation conditions security outcomes?
 
-**Answer: C.**
-**Explanation:** The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies. The remaining options belong to different chronology, actor or analytical categories.
+A. UNICEF child welfare and UNESCO literacy prove that vetoes never matter.
+B. Suez ceasefire and Hungary deadlock provide contrasting 1956 cases.
+C. ECOSOC coordination and the ICJ statute demonstrate success in all wars.
+D. Trusteeship Council inactivity and WHO health work prove every invasion was authorized.
 
-### Q16. Which statement avoids a close-option trap about Six principal Charter bodies?
+### Q23. Which diagnosis best distinguishes a weak mandate from a blocked Council?
 
-A. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-B. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-C. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-D. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
+A. Hungary failed only because WHO had no medical officers in Budapest.
+B. Somalia and Bosnia failed because the Trusteeship Council exercised its veto.
+C. Somalia/Bosnia illustrate insufficient force and political backing; Hungary illustrates direct great-power collision.
+D. All three had identical causes: permanent-member absence allowed enforcement.
 
-**Answer: D.**
-**Explanation:** The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies. The remaining options belong to different chronology, actor or analytical categories.
+### Q24. A GS-I answer lists only the Council veto and calls the UN a failed world government. What is the stronger verdict?
 
-### Q17. Which statement correctly identifies Security Council composition?
+A. It has no forum function because only permanent members attend the Assembly.
+B. Its social work proves it can always coerce any veto-holding state.
+C. Its peacekeeping setbacks erase all historically documented human-rights activity.
+D. It is consequential as forum, norm-setter and humanitarian coordinator but constrained when hard enforcement collides with major powers.
 
-A. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-D. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
+## SEPARATE SOLVED KEY AND REMEDIATION
 
-**Answer: A.**
-**Explanation:** The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five. The remaining options belong to different chronology, actor or analytical categories.
+### Q1 — A
 
-### Q18. Which chronology card should be filed under Security Council composition?
+- **A (correct):** Separates planning, framing and institutional commencement.
+- **B (incorrect):** Dumbarton Oaks was not the Charter-adoption conference.
+- **C (incorrect):** San Francisco and Dumbarton Oaks belong to different years and stages.
+- **D (incorrect):** The League preceded the UN.
+- **Diagnostic trap:** Confusing a proposal with establishment erases the founding sequence.
 
-A. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-B. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-C. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-D. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
+### Q2 — B
 
-**Answer: B.**
-**Explanation:** The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** The permanent-member veto is not universal unanimity.
+- **B (correct):** Lowe couples broader legitimacy with enduring enforcement weaknesses.
+- **C (incorrect):** Human rights and development are central UN work.
+- **D (incorrect):** The League was not a universal European-only predecessor of a restricted UN.
+- **Diagnostic trap:** Success on scope does not establish independence from powerful states.
 
-### Q19. Which option preserves the source-bounded meaning of Security Council composition?
+### Q3 — C
 
-A. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-B. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-C. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-D. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
+- **A (incorrect):** Neither court has this claimed common status.
+- **B (incorrect):** The labels invert their legal positions.
+- **C (correct):** The Charter has six principal organs; judicial roles must be separated.
+- **D (incorrect):** Inactivity does not revise the six-organs list.
+- **Diagnostic trap:** A historical textbook list cannot override the Charter classification.
 
-**Answer: C.**
-**Explanation:** The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five. The remaining options belong to different chronology, actor or analytical categories.
+### Q4 — D
 
-### Q20. Which statement avoids a close-option trap about Security Council composition?
+- **A (incorrect):** Reverses Council and Assembly roles.
+- **B (incorrect):** Administration is not independent coercive authority.
+- **C (incorrect):** Trusteeship was about trust territories, not universal command.
+- **D (correct):** Distinguishes Council mandate from Assembly deliberation.
+- **Diagnostic trap:** Do not turn deliberative influence into binding enforcement power.
 
-A. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-B. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-C. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-D. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
+### Q5 — A
 
-**Answer: D.**
-**Explanation:** The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** Composition and veto location are distinct facts.
+- **B (incorrect):** Non-permanent members lack the permanent-member veto.
+- **C (incorrect):** The permanent/non-permanent numbers are reversed.
+- **D (incorrect):** The Secretariat has no such substituted veto.
+- **Diagnostic trap:** Council size is not the number of veto holders.
 
-### Q21. Which statement correctly identifies ICJ and ICC distinction?
+### Q6 — B
 
-A. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-D. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
+- **A (incorrect):** Reverses enforcement and peacekeeping roles.
+- **B (correct):** The institutional mechanisms differ despite both being security cases.
+- **C (incorrect):** The UN has no permanent standing army.
+- **D (incorrect):** The Korean Council action and Suez peacekeeping are documented.
+- **Diagnostic trap:** Authorization and peacekeeping are not synonyms.
 
-**Answer: A.**
-**Explanation:** The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ. The remaining options belong to different chronology, actor or analytical categories.
+### Q7 — C
 
-### Q22. Which chronology card should be filed under ICJ and ICC distinction?
+- **A (incorrect):** Uniting for Peace did not abolish vetoes.
+- **B (incorrect):** Trusteeship had no such military role.
+- **C (correct):** Absence explains this particular opening, not a lasting veto reform.
+- **D (incorrect):** The claimed coalition membership is inconsistent with the episode.
+- **Diagnostic trap:** A contingent absence should not be generalized into a new Charter rule.
 
-A. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-B. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-C. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-D. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
+### Q8 — D
 
-**Answer: B.**
-**Explanation:** The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Recommendation is not the same as binding enforcement.
+- **B (incorrect):** The ICC is not a military institution.
+- **C (incorrect):** The Secretary-General cannot cancel Charter voting privileges.
+- **D (correct):** Assembly relevance survives Council deadlock but powers differ.
+- **Diagnostic trap:** Neither Assembly irrelevance nor omnipotence follows from a veto.
 
-### Q23. Which option preserves the source-bounded meaning of ICJ and ICC distinction?
+### Q9 — A
 
-A. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-B. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-C. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-D. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
+- **A (correct):** Opposed great-power posture helps account for divergent outcomes.
+- **B (incorrect):** The UN did not defeat Soviet power in Hungary.
+- **C (incorrect):** Hungary illustrates the limit rather than a successful enforcement.
+- **D (incorrect):** The Suez ceasefire and force are the opposite of this claim.
+- **Diagnostic trap:** The same year does not imply equivalent UN capacity.
 
-**Answer: C.**
-**Explanation:** The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ. The remaining options belong to different chronology, actor or analytical categories.
+### Q10 — B
 
-### Q24. Which statement avoids a close-option trap about ICJ and ICC distinction?
+- **A (incorrect):** Complexity and cost rule out the effortless characterization.
+- **B (correct):** The qualified mixed assessment fits the case evidence.
+- **C (incorrect):** The Congo operation had a security dimension.
+- **D (incorrect):** Partial order is not final comprehensive settlement.
+- **Diagnostic trap:** A costly partial gain should not be scored as total failure or cure.
 
-A. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-B. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-C. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-D. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
+### Q11 — C
 
-**Answer: D.**
-**Explanation:** The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** No standing army or such trusteeship role exists.
+- **B (incorrect):** The source identifies ceasefire and supervision roles.
+- **C (correct):** Limited supervision does not entail settlement.
+- **D (incorrect):** ICJ is not a criminal court and did not produce the claimed settlement.
+- **Diagnostic trap:** Operational stabilization must not be equated with political settlement.
 
-### Q25. Which statement correctly identifies UN compared with League?
+### Q12 — D
 
-A. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-B. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-C. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-D. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
+- **A (incorrect):** ECOSOC does not settle territorial sovereignty this way.
+- **B (incorrect):** No such UN army or great-power defeat is evidenced.
+- **C (incorrect):** ICC criminal jurisdiction is not a territorial settlement device.
+- **D (correct):** Mediation and supervised transition are the documented mechanisms.
+- **Diagnostic trap:** Do not inflate mediation into sovereign command.
 
-**Answer: A.**
-**Explanation:** The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army. The remaining options belong to different chronology, actor or analytical categories.
+### Q13 — A
 
-### Q26. Which chronology card should be filed under UN compared with League?
+- **A (correct):** Authority and command must be distinguished.
+- **B (incorrect):** The Secretariat had no permanent independent army.
+- **C (incorrect):** Enforcement differs from consent-based observation.
+- **D (incorrect):** The Council did authorize the member-state operation.
+- **Diagnostic trap:** UN-backed does not mean UN-commanded.
 
-A. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-B. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-C. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-D. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
+### Q14 — B
 
-**Answer: B.**
-**Explanation:** The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** The end of bipolar confrontation did not guarantee success.
+- **B (correct):** The contrast tests mission design and political backing, not an era-wide verdict.
+- **C (incorrect):** Complex civil-war environments complicate the classic model.
+- **D (incorrect):** Transition support is the distinctive contribution of the former pair.
+- **Diagnostic trap:** Periodization alone cannot predict outcomes.
 
-### Q27. Which option preserves the source-bounded meaning of UN compared with League?
+### Q15 — C
 
-A. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-B. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-C. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
-D. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
+- **A (incorrect):** Clear Council authorization is exactly what the source does not assert.
+- **B (incorrect):** The ICJ did not inherit Council security authority.
+- **C (correct):** It is a test of being bypassed, not of nonexistent military institutions.
+- **D (incorrect):** A security setback cannot establish cessation of other work.
+- **Diagnostic trap:** Avoid inventing a definitive Council mandate.
 
-**Answer: C.**
-**Explanation:** The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army. The remaining options belong to different chronology, actor or analytical categories.
+### Q16 — D
 
-### Q28. Which statement avoids a close-option trap about UN compared with League?
+- **A (incorrect):** None of the claimed Charter/court statuses fits.
+- **B (incorrect):** Their health, food, culture and child mandates are not military departments.
+- **C (incorrect):** Neither claimed institutional relationship exists.
+- **D (correct):** Legal categories differ even where mandates complement each other.
+- **Diagnostic trap:** A common humanitarian purpose does not make legal status identical.
 
-A. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-D. The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army.
+### Q17 — A
 
-**Answer: D.**
-**Explanation:** The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** The source separates treaty, specialized agency and UN-body statuses.
+- **B (incorrect):** WTO is not a principal UN organ, nor is ICC.
+- **C (incorrect):** UNCTAD and IMF have neither alleged role.
+- **D (incorrect):** These entities do not all share fund status.
+- **Diagnostic trap:** Participation in multilateralism does not imply the same UN legal category.
 
-### Q29. Which statement correctly identifies Korea and Uniting for Peace, 1950?
+### Q18 — B
 
-A. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-B. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-C. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-D. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
+- **A (incorrect):** These roles are not reducible to military authorization.
+- **B (correct):** Distinct social and humanitarian roles survive security failures.
+- **C (incorrect):** A rights declaration is not an army order.
+- **D (incorrect):** UNESCO supports education and culture but not sole national control.
+- **Diagnostic trap:** Do not measure a multi-mandate institution only by wars stopped.
 
-**Answer: A.**
-**Explanation:** Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping. The remaining options belong to different chronology, actor or analytical categories.
+### Q19 — C
 
-### Q30. Which chronology card should be filed under Korea and Uniting for Peace, 1950?
+- **A (incorrect):** ICC never became a principal UN organ.
+- **B (incorrect):** Trust-territory oversight is narrower than ruling all ex-colonies.
+- **C (correct):** Present inactivity and Charter classification are different questions.
+- **D (incorrect):** No veto was transferred by inactivity.
+- **Diagnostic trap:** Institutional dormancy does not retrospectively erase founding status.
 
-A. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-B. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-C. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-D. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
+### Q20 — D
 
-**Answer: B.**
-**Explanation:** Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** No automatic elimination of permanent seats is sourced.
+- **B (incorrect):** Assembly membership is not a Council veto.
+- **C (incorrect):** The two councils have different mandates and histories.
+- **D (correct):** This describes a durable representation mismatch, not an asserted reform outcome.
+- **Diagnostic trap:** Historical mismatch is not evidence of completed seat reform.
 
-### Q31. Which option preserves the source-bounded meaning of Korea and Uniting for Peace, 1950?
+### Q21 — A
 
-A. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
-D. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
+- **A (correct):** The source supplies a reform logic, not live numerical targets.
+- **B (incorrect):** His account is situated in an earlier period.
+- **C (incorrect):** No standing army was created by his recommendation.
+- **D (incorrect):** Agency abolition is not the proposed response.
+- **Diagnostic trap:** A historical prescription is not a verified present-day status update.
 
-**Answer: C.**
-**Explanation:** Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping. The remaining options belong to different chronology, actor or analytical categories.
+### Q22 — B
 
-### Q32. Which statement avoids a close-option trap about Korea and Uniting for Peace, 1950?
+- **A (incorrect):** Nonmilitary achievements cannot show veto irrelevance in security.
+- **B (correct):** The shared-year security contrast isolates political limits.
+- **C (incorrect):** Institutional existence cannot prove universal war prevention.
+- **D (incorrect):** These facts do not validate every military action.
+- **Diagnostic trap:** Choose comparisons that actually test the causal claim.
 
-A. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-D. Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping.
+### Q23 — C
 
-**Answer: D.**
-**Explanation:** Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Health staffing is not the documented security blockage.
+- **B (incorrect):** Trusteeship has no veto over Council action.
+- **C (correct):** Different failure mechanisms call for different remedies.
+- **D (incorrect):** Soviet absence explains Korea, not all these cases.
+- **Diagnostic trap:** A shared label of failure is not a shared causal mechanism.
 
-### Q33. Which statement correctly identifies Suez success, 1956?
+### Q24 — D
 
-A. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-B. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-C. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-D. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-
-**Answer: A.**
-**Explanation:** The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Suez success, 1956?
-
-A. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-B. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-C. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-D. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-
-**Answer: B.**
-**Explanation:** The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Suez success, 1956?
-
-A. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-D. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-
-**Answer: C.**
-**Explanation:** The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Suez success, 1956?
-
-A. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-B. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-C. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-D. The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances.
-
-**Answer: D.**
-**Explanation:** The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Hungary failure, 1956?
-
-A. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-B. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-C. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-D. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-
-**Answer: A.**
-**Explanation:** Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Hungary failure, 1956?
-
-A. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-B. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-C. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-D. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-
-**Answer: B.**
-**Explanation:** Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Hungary failure, 1956?
-
-A. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-D. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-
-**Answer: C.**
-**Explanation:** Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Hungary failure, 1956?
-
-A. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-B. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-C. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-D. Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit.
-
-**Answer: D.**
-**Explanation:** Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Congo operation, 1960-64?
-
-A. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-D. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-
-**Answer: A.**
-**Explanation:** The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Congo operation, 1960-64?
-
-A. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-B. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-C. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-D. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-
-**Answer: B.**
-**Explanation:** The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Congo operation, 1960-64?
-
-A. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-B. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-C. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-D. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-
-**Answer: C.**
-**Explanation:** The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Congo operation, 1960-64?
-
-A. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-B. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-C. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-D. The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record.
-
-**Answer: D.**
-**Explanation:** The Congo operation was complex and costly but restored some order, giving the UN a mixed rather than simply failed record. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Cyprus and Kashmir?
-
-A. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-B. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-C. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-D. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-
-**Answer: A.**
-**Explanation:** The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Cyprus and Kashmir?
-
-A. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-B. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-C. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-D. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-
-**Answer: B.**
-**Explanation:** The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Cyprus and Kashmir?
-
-A. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-B. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-C. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-D. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-
-**Answer: C.**
-**Explanation:** The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Cyprus and Kashmir?
-
-A. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-B. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-C. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-D. The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements.
-
-**Answer: D.**
-**Explanation:** The UN helped supervise ceasefires in Cyprus and Kashmir but did not deliver final political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies West New Guinea?
-
-A. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-B. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-C. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-D. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-
-**Answer: A.**
-**Explanation:** UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under West New Guinea?
-
-A. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-B. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-C. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-D. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-
-**Answer: B.**
-**Explanation:** UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of West New Guinea?
-
-A. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-B. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-C. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-D. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-
-**Answer: C.**
-**Explanation:** UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about West New Guinea?
-
-A. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-B. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-C. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-D. UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation.
-
-**Answer: D.**
-**Explanation:** UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Gulf War enforcement, 1991?
-
-A. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-B. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-C. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-D. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-
-**Answer: A.**
-**Explanation:** The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Gulf War enforcement, 1991?
-
-A. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-B. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-C. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-D. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-
-**Answer: B.**
-**Explanation:** The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Gulf War enforcement, 1991?
-
-A. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-B. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-C. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-D. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-
-**Answer: C.**
-**Explanation:** The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Gulf War enforcement, 1991?
-
-A. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-B. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-C. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-D. The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army.
-
-**Answer: D.**
-**Explanation:** The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Cambodia and Mozambique?
-
-A. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-B. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-C. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-D. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-
-**Answer: A.**
-**Explanation:** Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Cambodia and Mozambique?
-
-A. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-B. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-C. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-D. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-
-**Answer: B.**
-**Explanation:** Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Cambodia and Mozambique?
-
-A. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-B. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-C. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-D. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-
-**Answer: C.**
-**Explanation:** Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Cambodia and Mozambique?
-
-A. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-B. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-C. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-D. Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions.
-
-**Answer: D.**
-**Explanation:** Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Somalia and Bosnia?
-
-A. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-B. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-C. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-D. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-
-**Answer: A.**
-**Explanation:** Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Somalia and Bosnia?
-
-A. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-B. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-C. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-D. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-
-**Answer: B.**
-**Explanation:** Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Somalia and Bosnia?
-
-A. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-B. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-C. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-D. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-
-**Answer: C.**
-**Explanation:** Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Somalia and Bosnia?
-
-A. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-B. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-C. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-D. Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia.
-
-**Answer: D.**
-**Explanation:** Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Iraq crisis, 2003?
-
-A. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-B. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-C. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-D. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-
-**Answer: A.**
-**Explanation:** The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Iraq crisis, 2003?
-
-A. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-B. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-C. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-D. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-
-**Answer: B.**
-**Explanation:** The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Iraq crisis, 2003?
-
-A. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-B. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-C. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-D. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-
-**Answer: C.**
-**Explanation:** The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Iraq crisis, 2003?
-
-A. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-B. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-C. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-D. The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states.
-
-**Answer: D.**
-**Explanation:** The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Non-military work?
-
-A. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-B. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-C. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-D. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-
-**Answer: A.**
-**Explanation:** Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Non-military work?
-
-A. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-B. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-C. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-D. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-
-**Answer: B.**
-**Explanation:** Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Non-military work?
-
-A. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-B. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-C. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-D. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-
-**Answer: C.**
-**Explanation:** Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Non-military work?
-
-A. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-B. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-C. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-D. Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance.
-
-**Answer: D.**
-**Explanation:** Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Institutional category discipline?
-
-A. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-B. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-C. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-D. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-
-**Answer: A.**
-**Explanation:** WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Institutional category discipline?
-
-A. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-B. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-C. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-D. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-
-**Answer: B.**
-**Explanation:** WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Institutional category discipline?
-
-A. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-B. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-C. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-D. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-
-**Answer: C.**
-**Explanation:** WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Institutional category discipline?
-
-A. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-B. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-C. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-D. WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency.
-
-**Answer: D.**
-**Explanation:** WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Balanced reform verdict?
-
-A. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-B. The Dumbarton Oaks proposals of 1944 supplied an institutional blueprint for the postwar United Nations.
-C. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-D. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-
-**Answer: A.**
-**Explanation:** The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Balanced reform verdict?
-
-A. The Charter was framed at San Francisco in 1945 and the United Nations came into existence in October 1945.
-B. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-C. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-D. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-
-**Answer: B.**
-**Explanation:** The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Balanced reform verdict?
-
-A. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-B. The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations.
-C. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-D. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-
-**Answer: C.**
-**Explanation:** The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Balanced reform verdict?
-
-A. The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies.
-B. The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five.
-C. The ICJ is the UN's principal judicial organ; the ICC is an independent treaty-based court and not a principal UN organ.
-D. The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership.
-
-**Answer: D.**
-**Explanation:** The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** The Assembly is a broad membership forum.
+- **B (incorrect):** Normative and humanitarian influence does not eliminate coercive limits.
+- **C (incorrect):** Security limits do not delete human-rights work.
+- **D (correct):** A domain-sensitive assessment weighs both achievements and constraints.
+- **Diagnostic trap:** Judge each function by its mandate and evidence, not a world-government ideal.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -837,16 +401,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** It widened membership, rights and social functions and enabled more decisive procedures, while retaining veto dependence and no permanent army.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The UN aimed to preserve peace, remove causes of conflict through social-economic progress, and safeguard the rights of individuals, peoples and nations. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It widened membership, rights and social functions and enabled more decisive procedures, while retaining veto dependence and no permanent army.
+The UN improved on the League by keeping great powers inside a wider institution and extending its mandate beyond the prevention of war. The 1944 Dumbarton Oaks proposals and the 1945 San Francisco Charter responded to League-era paralysis; unlike the League, the UN could deliberate through a broad Assembly and assign primary security responsibility to a smaller Council. Its commitment to human rights and economic and social cooperation gave WHO, FAO and UNESCO-type work a place alongside security. Suez showed that a ceasefire and peacekeeping force could work when political conditions allowed. Yet Hungary in the same year showed that Soviet force and veto politics could thwart action. Nor did the UN acquire its own standing army. Thus the UN improved the scale, scope and occasional effectiveness of collective action, not the capacity to coerce a determined major power.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
@@ -873,16 +428,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Peacekeeping rests on consent and separation, whereas Korea and the Gulf involved Security Council-authorised member-state force.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Security Council action in Korea was possible during Soviet absence and involved member-state collective enforcement, not ordinary blue-helmet peacekeeping. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Peacekeeping rests on consent and separation, whereas Korea and the Gulf involved Security Council-authorised member-state force.
+Peacekeeping generally seeks consent, impartial separation and supervision rather than victory over a belligerent. After Suez in 1956, a UN peacekeeping force helped uphold a ceasefire: its practical task was to keep antagonists apart, not conquer territory. Cyprus and Kashmir similarly illustrate supervision without final political settlement. Collective enforcement, by contrast, uses authorized coercion against a breach of peace. During Korea, Soviet absence permitted Security Council action, but member states supplied the fighting forces. In the 1991 Gulf War the Council authorized a coalition of member states; it did not command a permanent UN army. Distinguishing authorization from command also distinguishes both enforcement cases from consent-based observation. Neither tool is automatically effective: peacekeeping needs an implementable settlement, whereas enforcement needs political backing and available force.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
@@ -913,20 +459,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Suez, West New Guinea and transitions show success under cooperation; Hungary, Somalia, Bosnia and Iraq show dependence on great-power agreement and adequate mandates.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Suez crisis produced a ceasefire and peacekeeping force, becoming one of the UN's strongest Cold War security performances. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** UN mediation and supervision assisted negotiated transfer in West New Guinea where major-power interests permitted cooperation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Post-Cold-War operations in Cambodia and Mozambique helped stabilise political transitions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Civil-war complexity, inadequate force and weak political support produced grave limits in Somalia and Bosnia. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** The US-UK invasion without clear Security Council authorisation exposed the limits of UN authority over powerful states. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Suez, West New Guinea and transitions show success under cooperation; Hungary, Somalia, Bosnia and Iraq show dependence on great-power agreement and adequate mandates.
+The UN's security record is conditional rather than a simple tally of wars prevented. At Suez in 1956 it promoted a ceasefire and a peacekeeping force; in West New Guinea, negotiation and supervision assisted transfer. Cambodia and Mozambique later showed how support for political transitions could stabilize agreements. These successes depended on workable bargains and international backing. Korea is different: Soviet absence enabled Council-authorized member-state enforcement, not ordinary blue-helmet peacekeeping. Congo in 1960–64 was costly and complex, though some order was restored; Cyprus and Kashmir demonstrate that monitoring a ceasefire does not settle the underlying dispute. At Hungary and Czechoslovakia, Soviet power and veto politics frustrated action. Somalia and Bosnia exposed the mismatch between civil-war tasks and force or backing provided. The 2003 Iraq invasion without clear Council authorization revealed a further limit: powerful states can bypass the institution. The Council's veto and absence of a standing army make security dependent on members' consent, resources and interests. A fair assessment credits containment and transitions while refusing to present the UN as either a sovereign world government or an irrelevant bystander.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
@@ -953,16 +486,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Rights, health, labour, food, education, children and refugees generate broad effects without requiring the coercive consensus peace enforcement demands.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Rights, health, labour, food, education, children and refugees generate broad effects without requiring the coercive consensus peace enforcement demands.
+The proposition is persuasive if “strength” means sustained functions beyond a single military crisis, but it should not dismiss peacekeeping successes. The UN has offered smaller states a deliberative forum and strengthened rights language through the Universal Declaration of Human Rights. Its social network addresses causes and consequences of conflict: the ILO works on labour standards, WHO on health, FAO on food, UNESCO on education and culture, UNICEF on children, and UNRWA on relief for Palestinian refugees. These are not interchangeable institutions: WHO, FAO and UNESCO are specialized agencies, UNICEF a fund, while the ICC is not a principal Charter organ. ECOSOC coordinates economic and social concerns; OCHA coordinates humanitarian relief. Such tasks can continue even when Security Council coercion is blocked, though they still need money, coordination and state cooperation. Suez, West New Guinea and the Cambodian and Mozambican transitions show that security action also matters. Hungary, Somalia and Bosnia expose veto or mandate limits. Therefore the strongest case for the UN rests in its combined normative and humanitarian reach; the record of battlefield success is real but more contingent on great-power politics and resources.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
@@ -992,19 +516,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Keeping the great powers inside made universal action possible but required the veto price that blocks action against them.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The UN widened membership, human-rights commitment and social work while retaining dependence on great-power cooperation and lacking a permanent army. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Soviet force and veto politics made the UN ineffective during the Hungarian rising, illustrating the great-power collision limit. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Security Council authorised force by a member-state coalition in 1991; this was collective enforcement, not a UN-commanded standing army. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Keeping the great powers inside made universal action possible but required the veto price that blocks action against them.
+The UN is both stronger and more constrained because its founders addressed one League defect by institutionalizing another. The League struggled with limited membership and weak enforcement; the UN's 1945 settlement brought major powers into a broader body, gave the Security Council primary security responsibility and enlarged the social and human-rights agenda. Assembly deliberation gives even smaller states a voice; specialized agencies support health, food and education. Yet the five permanent Council members hold vetoes, and the organization has no permanent army. Keeping the powerful inside thus secured a forum and occasional enforcement while making coercion against them exceptionally difficult. Compare Suez, where ceasefire and peacekeeping were possible, with Hungary, where Soviet force and veto politics blocked effective action. Korea's Council-authorized response during Soviet absence and the Council-backed member-state coalition in the 1991 Gulf War show contingent cooperation, not UN command of an army. West New Guinea and postwar transitions illustrate mediation and implementation; Cyprus and Kashmir show containment without final settlement. Somalia and Bosnia warn against mandates beyond available backing; Iraq in 2003 shows how a major power may bypass Council authorization. A larger, decolonized Assembly now exists alongside a permanent-seat structure rooted in 1945. This is a historical representation problem, not proof that reform has already occurred. The UN therefore surpassed the League in legitimacy, social scope and some interventions, while its security constraint remains the price of sustained major-power membership.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
@@ -1034,16 +546,4 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** A Security Council reflecting 1945 authority coexists with a General Assembly transformed by decolonisation, while institutional effectiveness varies by function and power alignment.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The General Assembly, Security Council, ECOSOC, Trusteeship Council, International Court of Justice and Secretariat are the six principal bodies. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Security Council has fifteen members, including five permanent and ten non-permanent members, with veto power held by the permanent five. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Human rights, ILO labour standards, WHO health work, FAO food support, UNESCO education, UNICEF and refugee relief form a major part of UN performance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** WHO, FAO and UNESCO are specialised agencies; UNICEF is a fund, UNRWA a General Assembly-created body, and the WTO is not a UN specialised agency. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The UN is strongest as forum, norm-setter and humanitarian coordinator and weakest when enforcement collides with veto-bearing power; its 1945 authority structure sits inside a decolonised membership. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** A Security Council reflecting 1945 authority coexists with a General Assembly transformed by decolonisation, while institutional effectiveness varies by function and power alignment.
+Reform follows from the gap between the UN's widening tasks and the political design of its founding settlement. The 1945 Charter established six principal organs; the Security Council has primary security responsibility and five veto-holding permanent members. Decolonization widened Assembly membership without erasing that permanent-seat structure. Representation and authority consequently diverge, although no particular seat-reform outcome follows automatically. Institutional performance supplies a second argument. Suez and West New Guinea show what cooperative diplomacy and supervised implementation can achieve; Hungary and Czechoslovakia show what great-power opposition prevents. Korea and the 1991 Gulf War required member-state enforcement rather than a standing UN army. Somalia and Bosnia show that complex civil wars can exceed weak mandates and resources. Third, global governance includes rights, health, food, education, refugees and relief. WHO, FAO, UNESCO, UNICEF and OCHA have different legal roles; coordination and dependable financing matter alongside military capacity. Lowe's historically situated reform logic emphasized faster responses, funding and inter-agency coordination, especially in the post-Cold-War and Iraq 2003 context. One should not convert those proposals into claims about current staffing or a completed Council expansion. Reform should improve representation, financing and realistic mandates while preserving the forum and nonmilitary capacities that already work. No institutional redesign alone can abolish political conflict among sovereign states.

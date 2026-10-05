@@ -1,0 +1,55 @@
+{
+  "topic": "08 Transparency, Accountability, RTI, Grievance Redress and Social Audit",
+  "status": "complete for original banks with explicit holds",
+  "counts": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45
+  },
+  "total": 135,
+  "key_counts": {
+    "1": {
+      "A": 12,
+      "D": 11,
+      "C": 11,
+      "B": 11
+    },
+    "2": {
+      "A": 12,
+      "D": 11,
+      "C": 11,
+      "B": 11
+    },
+    "3": {
+      "A": 12,
+      "C": 11,
+      "B": 11,
+      "D": 11
+    }
+  },
+  "owner_focuses": 45,
+  "affirmative_coverage": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45
+  },
+  "exact_pyqs_live": 0,
+  "holds": [
+    "objective-key",
+    "Mains-routing",
+    "current-status",
+    "reproduction-rights",
+    "dated-CPGRAMS-benchmark",
+    "RTI-amendment-challenge",
+    "Whistle-Blowers-commencement"
+  ],
+  "audits": {
+    "structural": "PASS",
+    "option": "PASS",
+    "leakage": "PASS",
+    "distinctness": "PASS",
+    "source_date": "PASS",
+    "institutional_facts": "PASS",
+    "hostile": "PASS"
+  }
+}

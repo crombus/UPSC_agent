@@ -1,0 +1,54 @@
+{
+  "topic": "geography-33",
+  "title": "Transport Trade and the Indian Space Programme",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "banks": {
+    "1": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "D": 11,
+        "B": 11,
+        "A": 11,
+        "C": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "2": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "D": 11,
+        "A": 11,
+        "C": 11,
+        "B": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "3": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "B": 11,
+        "C": 11,
+        "D": 11,
+        "A": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    }
+  },
+  "total_originals": 132,
+  "exact_pyqs": 0,
+  "cross_bank_exact_stem_overlap": 0,
+  "option_length_cues": 0,
+  "generic_rationale_findings": 0,
+  "pyq_status": "held for provenance and reproduction rights",
+  "source_digest": "cbb5b915ec5d453d44860fdcecfe7e40a3d3e549534db4a2aa224d7df80e3fd7"
+}

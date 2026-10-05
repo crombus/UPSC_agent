@@ -1,371 +1,871 @@
-ASCII MASTER FLOW — PANEL 1/12: 1. Where values come from and how they become character
-CENTRAL FOCUS
-1. Where values come from and how they become character
-  [1] Values are enduring beliefs about what is worthwhile.
-        |
-        v
-  [2] Family provides early models of honesty and care.
-        |
-        v
-  [3] Schools translate ideals into repeated fair practice.
-        |
-        v
-  [4] Culture and peers can reinforce or corrode values.
-        |
-        v
-  [5] Leaders offer memorable examples rather than complete solutions.
-        |
-        v
-  [6] Lived hardship can test and revise inherited commitments.
-        |
-        v
-  [7] Institutions reward some conduct and discourage other conduct.
-        |
-        v
-  [8] Internalisation is visible when conduct remains ethical unobserved.
-        |
-        v
-VERDICT -> Values are socially formed, repeatedly tested, and never safely assumed to be
-             fixed.
-ANSWER USE -> Use as the opening mechanism for value-inculcation answers.
+====================================================================================================
+                     ETHICS - TOPIC 02 - HUMAN VALUES AND LESSONS FROM LEADERS                      
+                       ASCII MASTER FLOW DIAGRAM - COMPLETE EXAMINABLE SPINE                        
+Syllabus: "Human Values- lessons from the lives and teachings of great leaders,
+reformers and administrators; role of family society and educational institutions
+in inculcating values."
+Primary source: 2nd ARC, 4th Report, Ethics in Governance, January 2007;
+official GS-IV papers of 2024 and 2025; Articles 21A and 51A of the Constitution.
+====================================================================================================
 
-ASCII MASTER FLOW — PANEL 2/12: 2. Turning values into public-service choices
-CENTRAL FOCUS
-2. Turning values into public-service choices
-  [1] Honesty requires accurate records rather than favourable figures.
-        |
-        v
-  [2] Compassion requires fair access rather than discretionary favour.
-        |
-        v
-  [3] Courage requires resisting improper pressure through lawful channels.
-        |
-        v
-  [4] Self-discipline requires refusing temptation under discretion.
-        |
-        v
-  [5] Duty requires timely and competent service to citizens.
-        |
-        v
-  [6] Reasoned records make values reviewable in public office.
-        |
-        v
-  [7] Procedures protect values when pressure becomes intense.
-        |
-        v
-  [8] Citizen outcomes test whether ethical intent became public value.
-        |
-        v
-VERDICT -> A value earns administrative meaning only when it changes a defensible decision.
-ANSWER USE -> Convert any abstract value into a named administrative action.
-MUST REMEMBER: Human values are learned through family, society, education, institutions,...
+READ TOP TO BOTTOM. Stages 00-23 form one continuous argument: what a value is, how it
+is formed and transmitted (Limb B), what leaders actually teach and where each lesson
+stops (Limb A), how the two combine, and how the combination is written in an answer.
+Every quotation carries its provenance label P1-P4. Facts are traceable to the sources
+named in the learning session; analysis is marked as such in the session, not here.
 
-ASCII MASTER FLOW — PANEL 3/12: 3. Gandhi: keeping means and ends ethically connected
-CENTRAL FOCUS
-3. Gandhi: keeping means and ends ethically connected
-  [1] Politics without principles detaches power from public purpose.
-        |
-        v
-  [2] Wealth without work detaches gain from fair contribution.
-        |
-        v
-  [3] Pleasure or leisure without conscience detaches enjoyment from restraint.
-        |
-        v
-  [4] Knowledge without character detaches learning from responsibility.
-        |
-        v
-  [5] Commerce without morality detaches exchange from fairness.
-        |
-        v
-  [6] Science without humanity detaches capability from dignity.
-        |
-        v
-  [7] Worship without sacrifice detaches belief from ethical conduct.
-        |
-        v
-  [8] ARC prints leisure while the 1925 note uses pleasure.
-        |
-        v
-VERDICT -> Test not merely whether an end was achieved, but whether its means respected
-             conscience.
-ANSWER USE -> Apply to procurement, data consent, political conduct, or target-driven
-             governance.
+ASCII MASTER FLOW — PANEL 1/40: CENTRAL QUESTION AND THE PRINTED SYLLABUS SPINE
++-- [00] CENTRAL QUESTION AND THE PRINTED SYLLABUS SPINE ------------------------------------------+
+| OFFICIAL CLAUSE, VERBATIM: "Human Values- lessons from the lives and teachings of                |
+| great leaders, reformers and administrators; role of family society and educational              |
+| institutions in inculcating values."                                                             |
+|--------------------------------------------------------------------------------------------------|
+| TWO LIMBS, ONE ARGUMENT:                                                                         |
+|   LIMB A (EXEMPLAR)      lessons from lives and teachings of leaders/reformers/                  |
+|                          administrators                                                          |
+|   LIMB B (INCULCATION)   role of family, society and educational institutions                    |
+|--------------------------------------------------------------------------------------------------|
+| WHY ONE ARGUMENT: a value sits ABOVE attitude and BELOW codified law. It cannot be               |
+| legislated into existence (so it must be FORMED -> Limb B) and a standard nobody has             |
+| been seen to keep is not believed (so it must be MODELLED -> Limb A).                            |
+|--------------------------------------------------------------------------------------------------|
+| CENTRAL QUESTION: how does a public servant acquire, keep and apply a standard that              |
+| operates exactly where the rulebook runs out?                                                    |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 2/40: WHAT A VALUE IS - THE FIVE-LEVEL LADDER
++-- [01] WHAT A VALUE IS - THE FIVE-LEVEL LADDER --------------------------------------------------+
+| L5 LAW / RULE / CODE      'you must'      external, enforceable, sanction attached               |
+| L4 NORM                   'we do'         social expectation, stigma attached                    |
+| L3 VALUE                  'this is worth' ENDURING + TRANS-SITUATIONAL  <- SYLLABUS              |
+| L2 ATTITUDE               'I favour X'    OBJECT-SPECIFIC  -> owned by Topic 03                  |
+| L1 BELIEF + FEELING       'I think/feel'  momentary, unstable                                    |
+|--------------------------------------------------------------------------------------------------|
+| DEFINING FEATURES OF L3: enduring (not a mood) + trans-situational (not object-bound)            |
+| + evaluative (ranks options rather than describing them).                                        |
+| ADJACENT TERMS KEPT SEPARATE: norm (shared expectation) / virtue (settled excellence)            |
+| / interest (what benefits me) / aptitude (capacity to perform -> Topic 04).                      |
+|--------------------------------------------------------------------------------------------------|
+| PRIMARY AUTHORITY BOTH WAYS:                                                                     |
+|   ARC 2.2.1  values UPSTREAM of law - 'Ethics provides the basis for the creation of             |
+|              such laws and rules ... Our legal system emanates from a shared vision              |
+|              of what is good and just.'                                                          |
+|   ARC 2.2.4  values INDISPENSABLE DOWNSTREAM - rules 'cannot provide for all                     |
+|              situations'; 'the higher the echelon ... the greater is the ambit of                |
+|              discretion'.                                                                        |
+|   PREFACE    'One cannot mandate honesty. The rule of law can only defeat the perverse           |
+|              mind. However, it cannot defeat the perversity of the heart.'                       |
+|--------------------------------------------------------------------------------------------------|
+| TRAP -> defining a value as 'a good moral quality such as honesty' gives an EXAMPLE,             |
+| not a definition, and collapses value into virtue.                                               |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 3/40: CONCEPTUAL ORIGIN AND THE INSTITUTIONAL TIMELINE (part 1 of 2)
++-- [02] CONCEPTUAL ORIGIN AND THE INSTITUTIONAL TIMELINE (PART 1 OF 2) ---------------------------+
+| CONCEPTUAL ORIGIN (state it; do not date it):                                                    |
+|   'ethics' <- Greek ethikos = 'arising from habit'  [ARC 1.2]  -> a habit is built by            |
+|   repetition inside a community, which is why Limb B names family/society/school.                |
+|   MINIMUM DATING RULE: a classical teacher DIAGNOSED an incentive problem; he did not            |
+|   DESIGN a modern institution.                                                                   |
+|--------------------------------------------------------------------------------------------------|
+| INSTITUTIONAL CHAIN (each item dated from a source read directly):                               |
+|   1869-1920  piecemeal conduct prohibitions under the Fundamental Rules and Civil                |
+|              Service Regulations: habitual lending / indiscriminate borrowing (1869),            |
+|              gifts (1876), buying-selling property (1881), commercial investments                |
+|              (1885), promoting companies (1885), post-retirement commercial                      |
+|              employment (1920)                                        [ARC 2.7.3]                |
+|   1930s      'do's and don'ts' compendium called Conduct Rules      [ARC 2.7.4]                  |
+|   1947       Prevention of Corruption Act - new set of offences created                          |
+|   1955       compendium converted into distinct rules                                            |
+|   1964       SANTHANAM COMMITTEE (Committee on Prevention of Corruption) [ARC 2.7.1]             |
+|   1964       CCS (Conduct) Rules, 1964 - the Santhanam enlargement                               |
+|   1976       42nd AMENDMENT - Part IVA, Article 51A, TEN duties (Swaran Singh Cttee)             |
+|   2002       86th AMENDMENT - Article 21A (fundamental right) AND the ELEVENTH duty              |
+|              51A(k) (parent/guardian, child aged 6-14)                                           |
+|   2006       1 SEPTEMBER: National Colloquium 'Ethics and Governance - Moving from               |
+|              Rhetoric to Results'; Chairman M. Veerappa Moily's speech = Annexure-I(2)           |
+|   2006       draft Public Service Bill lists generic civil-service 'values'                      |
+|   2007       JANUARY: 2nd ARC, 4th Report, Ethics in Governance                                  |
+|   2020       2 SEPTEMBER: Cabinet approves Mission Karmayogi (NPCSCB)                            |
+|   2021       1 APRIL: Capacity Building Commission established                                   |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 4/40: CONCEPTUAL ORIGIN AND THE INSTITUTIONAL TIMELINE (part 2 of 2)
++-- [02] CONCEPTUAL ORIGIN AND THE INSTITUTIONAL TIMELINE (PART 2 OF 2) ---------------------------+
+|   2026       6 FEBRUARY: PIB reports 1.49 cr users, 4,342 courses, 7.26 cr course                |
+|              completions, 23 languages  (DATED POSITION, NOT A PROGRAMME TOTAL)                  |
+|--------------------------------------------------------------------------------------------------|
+| WHAT THE CHAIN PROVES: the state moved steadily UPSTREAM - prohibition -> constitutional         |
+| duty -> designed adult behaviour formation - because each stage arrived too late.                |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 5/40: FOUR CUTS THROUGH THE SAME WORD 'VALUE'
++-- [03] FOUR CUTS THROUGH THE SAME WORD 'VALUE' --------------------------------------------------+
+| CUT 1  TERMINAL (end-state: justice, dignity, security, welfare)                                 |
+|        vs INSTRUMENTAL (mode of conduct: honesty, punctuality, courage, impartiality)            |
+|        USE -> an answer listing only instrumental values has not said what they are FOR.         |
+| CUT 2  WIDENING CIRCLES: personal -> family -> social/community -> professional ->               |
+|        constitutional.  USE -> GS-IV Section B conflicts are clashes BETWEEN circles.            |
+| CUT 3  INTRINSIC (dignity: balanced only against another intrinsic claim)                        |
+|        vs EXTRINSIC (efficiency: tradeable against a competing gain).                            |
+| CUT 4  ESPOUSED (what the organisation prints) vs ENACTED (what it rewards).                     |
+|        USE -> the gap between the two IS the diagnosis in most integrity questions.              |
+|--------------------------------------------------------------------------------------------------|
+| CONSTITUTIONAL CIRCLE IS TEXTUAL, NOT A MATTER OF OPINION:                                       |
+|   51A(b) cherish and follow the noble ideals that inspired the national struggle for             |
+|          freedom                                   <- THE EXEMPLAR DUTY                          |
+|   51A(e) promote harmony and the spirit of common brotherhood ... transcending                   |
+|          religious, linguistic and regional or sectional diversities; renounce                   |
+|          practices derogatory to the dignity of women                                            |
+|   51A(h) develop scientific temper, humanism and the spirit of inquiry and reform                |
+|   51A(j) strive towards excellence in all spheres of individual and collective activity          |
+|   51A(k) provide opportunities for education to his child or ward aged 6-14                      |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 6/40: FIVE TRANSMISSION MECHANISMS - AND THE FAILURE MODE OF EACH
++-- [04] FIVE TRANSMISSION MECHANISMS - AND THE FAILURE MODE OF EACH ------------------------------+
+| 1 MODELLING       copied from an observed actor; 'what is done here' beats 'what is              |
+|                   said here'.  ARC PREFACE (Confucius): the ruler who governs by his             |
+|                   virtues 'may be compared to the Pole star which keeps its place and            |
+|                   all other stars turn towards it'.                                              |
+|                   FAILS WHEN: the model is unrepresentative or copied selectively.               |
+| 2 REINFORCEMENT   conduct that is rewarded is repeated (incentives, appraisal,                   |
+|                   promotion, stigma).  FAILS WHEN: espoused != rewarded (Cut 4).                 |
+| 3 IDENTIFICATION  'people like us behave like this'.  ARC Annexure-I(2), p.217:                  |
+|                   dismissal 'means disgrace for the entire family, and therefore,                |
+|                   members of the family have an incentive to discourage corruption'.             |
+|                   FAILS WHEN: the reference group's own norm is corrupt.                         |
+| 4 INSTRUCTION     explicit teaching of a standard and its reasons (curriculum, code,             |
+|                   iGOT module).  WEAKEST ALONE.  FAILS WHEN: taught as recall.                   |
+| 5 REFLECTIVE      inherited values tested against experience.  ARC BOX 2.7                       |
+|   REVISION        (Vivekananda): 'as knowledge comes, person grows, morality is                  |
+|                   evolved, and idea of non-separateness begins.'                                 |
+|                   FAILS WHEN: revision without an anchor = rationalised convenience.             |
+|--------------------------------------------------------------------------------------------------|
+| DIAGNOSTIC RULE -> name WHICH mechanism failed. A modelling failure is not cured by a            |
+| curriculum; a reinforcement failure is not cured by a website statement.                         |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 7/40: LIMB B(i) - FAMILY: FIRST SCHOOL, LEAST REGULABLE INSTITUTION
++-- [05] LIMB B(i) - FAMILY: FIRST SCHOOL, LEAST REGULABLE INSTITUTION ----------------------------+
+| FOUR CHANNELS                         RISK WHEN INVERTED                                         |
+| 1 earliest modelling (pre-verbal)     models deceit as competence                                |
+| 2 reputational identification         shields wrongdoing to protect family honour                |
+|   [ARC: dismissal = disgrace for the  (LOYALTY CAPTURE = the first school of nepotism)           |
+|   entire family; a bar on later                                                                  |
+|   private employment raises the cost]                                                            |
+| 3 allocation of opportunity           reproduces caste and gender hierarchy                      |
+|   (who eats first, who is schooled)                                                              |
+| 4 constitutionally named duty         NON-JUSTICIABLE; no legal sanction                         |
+|   Art. 51A(k); also 51A(e)                                                                       |
+|--------------------------------------------------------------------------------------------------|
+| THE PARADOX -> strongest transmitter, least regulable institution. The state cannot              |
+| script the content; it can set the CONDITIONS: (i) make office prestigious and                   |
+| dismissal credible, which activates the ARC's reputational mechanism; (ii) guarantee             |
+| the Art. 21A entitlement so schooling a girl is not a household decision alone;                  |
+| (iii) remove the material barriers - distance, escort, toilets, cost of the uniform.             |
+|--------------------------------------------------------------------------------------------------|
+| MECHANISM CONDITION -> the ARC's family incentive works ONLY where office carries                |
+| prestige AND dismissal is credible. Slow or reversible sanction flips the incentive.             |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 8/40: LIMB B(ii) - SOCIETY, COMMUNITY, RELIGION, PEER GROUP, MEDIA
++-- [06] LIMB B(ii) - SOCIETY, COMMUNITY, RELIGION, PEER GROUP, MEDIA -----------------------------+
+| WHO IS ACTUALLY TEACHING:                                                                        |
+|   community/neighbourhood -> everyday repeated interaction                                       |
+|   religion/tradition      -> cosmology + prescribed conduct (durable: instruction +              |
+|                              modelling + identification + ritual repetition in one)              |
+|   peer group / cadre      -> 'what people like us do'  <- STRONGEST ADULT TRANSMITTER            |
+|   media / public discourse-> sets SALIENCE: what counts as success, what is scandal              |
+|   civil society / associations -> 'LAW MERCHANTS'                                                |
+|--------------------------------------------------------------------------------------------------|
+| PRIMARY FINDINGS [ARC Annexure-I(2), report p.216, reporting Cooter]:                            |
+|   'where people freely interact on a repeated basis, they are more likely to form                |
+|    strong and legitimate norms'                                                                  |
+|   'most citizens judge civil servants by social norms learned in these everyday                  |
+|    interactions'                                                                                 |
+|   in low-corruption countries 'trade and professional associations, or community                 |
+|    groups' have functioned as 'law merchants', promulgating codes of good practice               |
+|    and imposing anti-corruption sanctions                                                        |
+|--------------------------------------------------------------------------------------------------|
+| THE MECHANISM RUNS BOTH WAYS [ARC 1.3]: interventions 'are seen as mere posturing';              |
+| 'most people regard corruption as inevitable and any effort to fight it as futile.'              |
+| 'This cynicism is spreading so fast that it bodes ill for our democratic system.'                |
+|--------------------------------------------------------------------------------------------------|
+| ADMINISTRATIVE PAYOFF -> the tehsil counter IS the classroom. Service-delivery quality           |
+| is itself a value-transmission instrument. RELIGION BOUNDARY: personal motivation may            |
+| come from a tradition; the JUSTIFICATION must be accessible to citizens of every                 |
+| tradition - the constitutional form of that boundary is Art. 51A(e).                             |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 9/40: LIMB B(iii) - EDUCATIONAL INSTITUTIONS: THREE LAYERS AND A LEGAL FLOOR (part 1 of 2)
++-- [07] LIMB B(iii) - EDUCATIONAL INSTITUTIONS: THREE LAYERS AND A LEGAL FLOOR (PART 1 OF 2) -----+
+| L3 HIDDEN CURRICULUM   who sits where; who cleans; whose language is corrected;                  |
+|    (STRONGEST)         whether the mid-day meal is eaten together                                |
+|                        -> teaches EQUALITY or HIERARCHY whatever the textbook says               |
+| L2 PEDAGOGY/PRACTICE   fair assessment, transparent selection, working redressal,                |
+|                        real-stakes project work -> PROCEDURAL FAIRNESS as experience             |
+| L1 EXPLICIT CURRICULUM moral-science period, value module, civics chapter                        |
+|    (WEAKEST ALONE)     -> teaches CONTENT of a value, not the HABIT                              |
+|--------------------------------------------------------------------------------------------------|
+| LEGAL FLOOR (both from the 86th Amendment, 2002):                                                |
+|   Art. 21A   elementary education = FUNDAMENTAL RIGHT (JUSTICIABLE)                              |
+|   Art. 51A(k) parent/guardian duty, child aged 6-14 (NON-JUSTICIABLE)                            |
+|   Art. 51A(h) scientific temper, humanism, spirit of inquiry and reform                          |
+|   Art. 51A(b) noble ideals of the national struggle  <- CONSTITUTIONALISES LIMB A                |
+|--------------------------------------------------------------------------------------------------|
+| THE GOVERNING PRIMARY QUOTATIONS:                                                                |
+|   SANTHANAM 1964 [ARC 2.7.1]: find 'ways and means ... to ensure that idealism and               |
+|   patriotism have the proper place in the ambition of our youth'; 'the lack of moral             |
+|   earnestness ... is perhaps the greatest single factor which hampers the growth of              |
+|   strong traditions of integrity and efficiency.'                                                |
+|   ARC 2.7.2: inculcation of values enabling 'subordination of the self to a larger,              |
+|   societal good' and 'a spirit of empathy for those in need of ameliorative state                |
+|   interventions' are 'not skills which could be easily imbibed after joining the civil           |
+|   services ... need nurturing over not merely individual life-times, but through                 |
+|   successive generations - the 'right' ethos takes long to evolve.'                              |
+|--------------------------------------------------------------------------------------------------|
+| TWO EDGES OF 2.7.2 -> (i) FOR school-stage formation, because the window closes early;           |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 10/40: LIMB B(iii) - EDUCATIONAL INSTITUTIONS: THREE LAYERS AND A LEGAL FLOOR (part 2 of 2)
++-- [07] LIMB B(iii) - EDUCATIONAL INSTITUTIONS: THREE LAYERS AND A LEGAL FLOOR (PART 2 OF 2) -----+
+| (ii) AGAINST promising results in one policy cycle, because the ethos takes generations.         |
+| CURRENT VEHICLE: NEP 2020 (policy text not held locally; no clause is quoted here).              |
+| HONEST LIMIT -> schools REPRODUCE inequality where enrolment, retention, language and            |
+| teacher attention track caste, gender and income.                                                |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 11/40: AFTER FORMATION - INTERNALISATION, PERFORMANCE AND FOUR CORROSION PATHS
++-- [08] AFTER FORMATION - INTERNALISATION, PERFORMANCE AND FOUR CORROSION PATHS ------------------+
+| THE OBSERVABILITY TEST                                                                           |
+|   unobserved AND conduct unchanged        -> INTERNALISED (robust under discretion)              |
+|   unobserved AND conduct changes          -> PERFORMANCE (display for appraisal,                 |
+|                                              publicity or fear of sanction)                      |
+|   observed                                -> UNINFORMATIVE: both look identical                  |
+| STRUCTURAL CONSEQUENCE -> any system that relies on observation can only ever detect             |
+| PERFORMANCE. This is why vigilance cannot manufacture integrity.                                 |
+|--------------------------------------------------------------------------------------------------|
+| FOUR CORROSION PATHWAYS            MATCHING COUNTER-MOVE                                         |
+| 1 NORMALISATION 'everyone does it'  make the deviation visible and countable                     |
+|   [ARC 1.3 records this as the                                                                   |
+|    prevailing Indian condition]                                                                  |
+| 2 INCREMENTALISM small steps       declare a BRIGHT LINE (gift ceiling, mandatory                |
+|                                     recusal trigger): converts gradient -> threshold             |
+| 3 EUPHEMISM 'facilitation',        restore ACCURATE NAMING in the record: the                    |
+|   'adjustment', 'courtesy'          prohibition was attached to the honest word                  |
+| 4 DIFFUSED AGENCY 'I only signed'  fix PERSONAL ATTRIBUTION: one named officer per               |
+|                                     decision, with recorded reasons                              |
+|--------------------------------------------------------------------------------------------------|
+| PROXIES, NOT PROOF -> conduct under low observability; consistency across differently            |
+| placed beneficiaries; willingness to record a reason a hostile reader will see.                  |
+| TRAP -> a completed training module or a signed integrity pledge is exactly what                 |
+| PERFORMANCE produces.                                                                            |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 12/40: USING VALUES IN A DECISION - CONFLICT, HIERARCHY AND THE TRADE-OFF (part 1 of 2)
++-- [09] USING VALUES IN A DECISION - CONFLICT, HIERARCHY AND THE TRADE-OFF (PART 1 OF 2) ---------+
+| TWO SHAPES:                                                                                      |
+|   TYPE A CIRCLE vs CIRCLE   family loyalty vs impartiality; community custom vs                  |
+|                             constitutional equality; conscience vs lawful order                  |
+|   TYPE B CLAIM vs CLAIM     transparency vs privacy; speed vs due process;                       |
+|                             compassion vs equal treatment; many vs the rights of few             |
+|--------------------------------------------------------------------------------------------------|
+| FOUR-STEP RESOLUTION SPINE:                                                                      |
+|   1 NAME BOTH VALUES PRECISELY - not 'a dilemma', say WHICH two                                  |
+|   2 APPLY THE LEXICAL FILTER IN ORDER: (i) constitutional value / fundamental right              |
+|     (ii) binding statute or rule (iii) institutional mandate and code                            |
+|     (iv) professional norm (v) personal conscience                                               |
+|     -> a lower tier NEVER overrides a higher one; it chooses among options the                   |
+|        higher tier leaves open. Where conscience cannot: recorded dissent, lawful                |
+|        escalation or resignation - never quiet non-compliance.                                   |
+|   3 SEEK THE OPTION THAT DISSOLVES THE CLASH BEFORE TRADING: redact and disclose;                |
+|     interim order with a short-dated review; grant relief AND record it as a CLASS               |
+|     rule so the next similarly placed claimant also receives it                                  |
+|   4 IF A TRADE-OFF IS UNAVOIDABLE: state the THRESHOLD crossed, the SAFEGUARD                    |
+|     attached and the RESIDUAL RISK accepted                                                      |
+|--------------------------------------------------------------------------------------------------|
+| DIRECTION-SETTING AUTHORITY [ARC 2.2.2]: 'all persons holding authority derive it from           |
+| the people ... all public functionaries are trustees of the people', and authority must          |
+| be exercised 'in the best interest of the people or in "public interest"'.                       |
+| -> A PRIVATE CLAIM IS DISQUALIFIED, NOT MERELY OUTWEIGHED. Hence RECUSAL, not careful            |
+|    personal balancing.                                                                           |
+| LOSES MARKS -> 'a balance must be struck between the two': no threshold, no safeguard,           |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 13/40: USING VALUES IN A DECISION - CONFLICT, HIERARCHY AND THE TRADE-OFF (part 2 of 2)
++-- [09] USING VALUES IN A DECISION - CONFLICT, HIERARCHY AND THE TRADE-OFF (PART 2 OF 2) ---------+
+| no residual risk = no decision.  [Case-study ARCHITECTURE is owned by Topic 22.]                 |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 14/40: LIMB A - THE EXEMPLAR METHOD BEFORE ANY EXEMPLAR
++-- [10] LIMB A - THE EXEMPLAR METHOD BEFORE ANY EXEMPLAR -----------------------------------------+
+| FIVE-SLOT TEMPLATE (every leader must fill ALL FIVE):                                            |
+|   1 VALUE at stake  2 ACTION or citable TEXT  3 CONTEXT and when                                 |
+|   4 ADMINISTRATIVE LESSON that follows TODAY  5 LIMITATION / TRANSFER CONDITION                  |
+|   -> a leader filling only slot 2 is a scrapbook entry, not an examinable exemplar.              |
+|--------------------------------------------------------------------------------------------------|
+| PROVENANCE LADDER - attach ONE label to every quotation:                                         |
+|   P1 READ IN A PRIMARY/OFFICIAL TEXT HELD LOCALLY   -> cite it                                   |
+|      e.g. the five Arthasastra propositions, ARC Annexure-I(2), pp.214-215                       |
+|   P2 ATTRIBUTED BY AN OFFICIAL REPORT, NO CITATION  -> 'as the ARC prints it'                    |
+|      e.g. Box 2.8 Seven Social Sins; Preface 'Be the change you wish to see'                     |
+|   P3 PRINTED BY UPSC, UNTRACEABLE                   -> 'as set by UPSC'                          |
+|      e.g. 2024 Patel line; 2025 William James line; 2025 Vivekananda law/morality                |
+|   P4 WIDELY CIRCULATED, NO TRACEABLE SOURCE         -> 'widely attributed to'                    |
+|      e.g. the Potter Stewart line; the Dalai Lama success/sacrifice line                         |
+|   RULE -> ANSWER THE IDEA AT EVERY LEVEL. NEVER INVENT A CITATION AT ANY LEVEL.                  |
+|--------------------------------------------------------------------------------------------------|
+| THE EXEMPLAR FALLACY: 'admired person said X' ==> 'X is the right administrative rule'           |
+|   INVALID. A life is evidence about what is POSSIBLE, not proof about what is                    |
+|   INSTITUTIONALLY CORRECT.                                                                       |
+| THREE FAILURE MODES: selective quotation (name the institutional context) /                      |
+| anachronism (diagnosis yes, institutional design no) / moral substitution (a quotation           |
+| that could be deleted without weakening the argument was ornamental).                            |
+|--------------------------------------------------------------------------------------------------|
+| THE POSITIVE CASE, WHICH MUST ALSO BE MADE: exemplars supply a MEMORABLE and PORTABLE            |
+| standard, CREDIBILITY (a real person kept it under pressure), and MORAL IMAGINATION              |
+| beyond the current rulebook. Art. 51A(b) writes that function into the Constitution.             |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 15/40: EXEMPLAR 1 - GANDHI: MEANS-ENDS DECOUPLING (part 1 of 2)
++-- [11] EXEMPLAR 1 - GANDHI: MEANS-ENDS DECOUPLING (PART 1 OF 2) ---------------------------------+
+| ARC BOX 2.8 (report p.45), heading verbatim: 'The Seven Social Sins, as quoted by                |
+| Mahatma Gandhi in "Young India," 1925'                                                           |
+|   END PURSUED      WITHOUT ITS ETHICAL MEANS   GOVERNANCE FAILURE                                |
+|   1 Politics   ... without principles      capture; policy for sale                              |
+|   2 Wealth     ... without work            rent-seeking; unearned gain                           |
+|   3 Leisure    ... without conscience      indifference to those served                          |
+|   4 Knowledge  ... without character       expertise used to conceal                             |
+|   5 Commerce   ... without morality        under-invoicing; collusion                            |
+|   6 Science    ... without humanity        technically legal harm                                |
+|   7 Worship    ... without sacrifice       displayed piety, nothing given up                     |
+| READ THE COLUMN, NOT THE LIST -> ONE structural fault repeated seven times.                      |
+|--------------------------------------------------------------------------------------------------|
+| FOUR ARC-PRINTED GANDHI ANCHORS (all P2):                                                        |
+|   PREFACE epigraph: 'our greatness lies not so much in being able to remake the world            |
+|     - that is the myth of the atomic age - as in being able to remake ourselves'                 |
+|   PREFACE body: 'Be the change you wish to see in the world' (NO primary citation                |
+|     given; nearest documented theme, Indian Opinion 1913, 'if we could change                    |
+|     ourselves, the tendencies in the world would also change')                                   |
+|   BOX 2.2: 'Corruption and hypocrisy ought not to be inevitable products of democracy,           |
+|     as they undoubtedly are today.'                                                              |
+|   BOX 2.8: the Seven Social Sins                                                                 |
+|--------------------------------------------------------------------------------------------------|
+| TEXTUAL VARIANCE (one clause in an answer): ARC prints 'LEISURE without conscience';             |
+| Young India, 22 October 1925 (Collected Works Vol. XXVIII) reads 'PLEASURE without               |
+| conscience'; Gandhi introduced the list as one sent by a correspondent.                          |
+| -> 'a list Gandhi PUBLISHED AND ENDORSED', not 'Gandhi's list'.                                  |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 16/40: EXEMPLAR 1 - GANDHI: MEANS-ENDS DECOUPLING (part 2 of 2)
++-- [11] EXEMPLAR 1 - GANDHI: MEANS-ENDS DECOUPLING (PART 2 OF 2) ---------------------------------+
+|--------------------------------------------------------------------------------------------------|
+| TRUSTEESHIP -> office is held, not owned; maps onto ARC 2.2.2's 'trustees of the people'.        |
+| LIMITATION -> a DIAGNOSTIC checklist with NO enforcement mechanism; pair with the design         |
+| approach of ARC 1.4.  TRANSFER CONDITION -> restraint must become a RECORDABLE act               |
+| (a declared recusal, a refused hospitality entered in a register, a reasoned rejection).         |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 17/40: EXEMPLAR 2 - VIVEKANANDA: SELECTIVE BORROWING AND EVOLVING MORALITY (part 1 of 2)
++-- [12] EXEMPLAR 2 - VIVEKANANDA: SELECTIVE BORROWING AND EVOLVING MORALITY (PART 1 OF 2) --------+
+| TEXT A [P1] 'Learn everything that is good from others, but bring it in, and in your own         |
+|   way absorb it, do not become others.'  2024 GS-IV Q3(a); traceable to Complete Works           |
+|   Vol. III, 'The Common Bases of Hinduism', Lahore, 1897.                                        |
+|   RULE -> ADAPTATION, NOT TRANSPLANT. Identify the MECHANISM that produced the result            |
+|   elsewhere; preserve it; redesign everything downstream for Indian federal structure,           |
+|   political competition and scale.  TEST CASE: importing an anti-corruption agency               |
+|   model (Hong Kong ICAC / Singapore CPIB -> Topic 23) fails on appointment and                   |
+|   prosecution architecture, not on nomenclature.                                                 |
+|   DOUBLE-EDGE -> 'adaptation' is also the standard vocabulary of DILUTION. Honest test:          |
+|   did the CAUSAL MECHANISM survive?                                                              |
+|--------------------------------------------------------------------------------------------------|
+| TEXT B [P1 - inside the primary report] ARC BOX 2.7 'Evolution of Morality', p.44:               |
+|   '...as knowledge comes, person grows, morality is evolved, and idea of                         |
+|   non-separateness begins ... they are impelled by that power behind to become                   |
+|   unselfish. That is the foundation of morality. It is the quintessence of all ethics,           |
+|   preached in any language, or any religion, or by any prophet in the world...'                  |
+|   -> A THEORY OF VALUE FORMATION: morality EVOLVES as the boundary of the self widens.           |
+|      This is Mechanism 5 (reflective revision) and the bridge to Limb B.                         |
+|--------------------------------------------------------------------------------------------------|
+| TEXT C [P3] 'The strength of a society is not in its laws, but in the morality of its            |
+|   people.'  2025 GS-IV Q3(c). NOT traceable to the Complete Works. Nearest documented            |
+|   theme, 'Our Duty to the Masses', 23 June 1894: 'No country on earth has so many laws,          |
+|   and in no country are they so little regarded.'                                                |
+|   SUBSTANTIVE REPLY -> read strictly it UNDERSTATES the ARC's own diagnosis, which               |
+|   locates official corruption in opportunity, monopoly and unobservability.                      |
+|   SYNTHESIS -> law without internalised morality is UNDER-ENFORCED because enforcement           |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 18/40: EXEMPLAR 2 - VIVEKANANDA: SELECTIVE BORROWING AND EVOLVING MORALITY (part 2 of 2)
++-- [12] EXEMPLAR 2 - VIVEKANANDA: SELECTIVE BORROWING AND EVOLVING MORALITY (PART 2 OF 2) --------+
+|   itself needs honest enforcers; morality without law is UNENFORCEABLE AT SCALE.                 |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 19/40: EXEMPLAR 3 - KAUTILYA: THE FIVE PROPOSITIONS AND THE ASYMMETRIC REMEDY (part 1 of 2)
++-- [13] EXEMPLAR 3 - KAUTILYA: THE FIVE PROPOSITIONS AND THE ASYMMETRIC REMEDY (PART 1 OF 2) -----+
+| SOURCE READ DIRECTLY: ARC Annexure-I(2), National Colloquium speech of Chairman                  |
+| M. Veerappa Moily, 1 SEPTEMBER 2006, report pp.214-215. The ARC spells it 'Arthasastra'          |
+| and dates it to 'the Maurya era'. Kangle numbering for the first three: 2.9.32-2.9.34.           |
+|--------------------------------------------------------------------------------------------------|
+| DIAGNOSTIC [1] HONEY ON THE TONGUE - 'Just as it is not possible not to taste honey or           |
+|   poison placed on the surface of the tongue, even so it is not possible for one                 |
+|   dealing with the money of the king not to taste the money in however small a                   |
+|   quantity.'                                        -> CUSTODY CREATES TEMPTATION                |
+| DIAGNOSTIC [2] FISH DRINKING WATER - 'Just as fish moving inside water cannot be known           |
+|   when drinking water, even so officers appointed for carrying out works cannot be               |
+|   known when appropriating money.'                  -> THE OFFENCE IS UNOBSERVABLE               |
+| DIAGNOSTIC [3] PATH OF BIRDS - 'It is possible to know even the path of birds flying             |
+|   in the sky, but not the ways of officers moving with their intentions concealed.'              |
+|                                                      -> INTENT IS OPAQUE                         |
+| REMEDY [4] DISGORGE AND ROTATE - 'he should make those who have amassed (money                   |
+|   wrongfully) yield it up and should change them in (their) works'                               |
+| REMEDY [5] PERMANENCE FOR THE HONEST - 'those who do not consume (the king's) goods              |
+|   and increase them in just ways, should be made permanent in their offices'                     |
+|--------------------------------------------------------------------------------------------------|
+| SHAPE OF THE ARGUMENT -> 3 DIAGNOSTIC + 2 PRESCRIPTIVE, and the two prescriptions are            |
+| DELIBERATELY ASYMMETRIC: recovery + reassignment for the dishonest, SECURITY OF TENURE           |
+| for the honest. QUOTING ONLY [1] REPORTS A CYNICISM AND MISSES THE DESIGN.                       |
+|--------------------------------------------------------------------------------------------------|
+| STRUCTURAL, NOT MORAL -> causation is in the situation (custody, unobservability,                |
+| opacity), roughly two millennia before modern institutional economics.                           |
+| LIMITATION -> [1] alone licenses pervasive surveillance whose Indian cost is                     |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 20/40: EXEMPLAR 3 - KAUTILYA: THE FIVE PROPOSITIONS AND THE ASYMMETRIC REMEDY (part 2 of 2)
++-- [13] EXEMPLAR 3 - KAUTILYA: THE FIVE PROPOSITIONS AND THE ASYMMETRIC REMEDY (PART 2 OF 2) -----+
+| decision-avoidance and harassment of the officers who leave records.                             |
+| TRANSFER CONDITION -> rotation is an integrity device ONLY where the transfer policy is          |
+| RULE-BOUND, PUBLISHED and REVIEWABLE; otherwise it is the punitive transfer.                     |
+| ANACHRONISM CAUTION -> diagnosis and incentive logic yes; constitutional vigilance               |
+| architecture, judicial review, free press and citizen rights, no.                                |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 21/40: EXEMPLAR 4 - MAHAVIR: VOWS PLUS AN ADMINISTRATIVE EPISTEMOLOGY (part 1 of 2)
++-- [14] EXEMPLAR 4 - MAHAVIR: VOWS PLUS AN ADMINISTRATIVE EPISTEMOLOGY (PART 1 OF 2) -------------+
+| FIVE MAHAVRATAS            ADMINISTRATIVE TRANSLATION                                            |
+|   AHIMSA (non-injury)      minimum-harm and proportionality test in enforcement,                 |
+|                            eviction and crowd control                                            |
+|   SATYA (truthfulness)     accurate reporting; refusal to improve a figure                       |
+|   ASTEYA (non-stealing)    no appropriation of public resource, public time or credit            |
+|   BRAHMACHARYA (restraint) discipline over appetite in a position of advantage                   |
+|   APARIGRAHA (non-        conflict-of-interest and anti-nepotism norms; office is                |
+|     possessiveness)        HELD, NOT OWNED  <- the ethical core of probity                       |
+|--------------------------------------------------------------------------------------------------|
+| ANEKANTAVADA (many-sidedness): reality is many-sided; no single standpoint captures it           |
+|   whole.  -> consultation is an EPISTEMIC REQUIREMENT (you are missing information),             |
+|   not a courtesy and not box-ticking.                                                            |
+| SYADVADA (conditional predication): every assertion prefixed by SYAT, 'in some respect           |
+|   / from a standpoint'.  -> STATE THE STANDPOINT OF EVERY FINDING. 'The project is               |
+|   viable' -> 'viable on the revenue projection at current tariffs, not viable on the             |
+|   displacement-cost estimate.'  A note that states its standpoints is AUDITABLE.                 |
+|--------------------------------------------------------------------------------------------------|
+| PRECISION POINT -> Jain tradition contrasts PARSHVANATHA's FOUR restraints with                  |
+| MAHAVIR's FIVE. Brahmacharya is the vow Mahavir's tradition SEPARATELY ENUMERATED,               |
+| having earlier been understood within aparigraha - NOT an ethical idea he is                     |
+| documented to have INVENTED.                                                                     |
+| DECISIVE TRAP -> anekantavada != moral relativism. It is a claim about the COMPLEXITY            |
+| OF TRUTH-CLAIMS, not a denial that some acts are wrong, and NOT a licence to defer.              |
+| TRANSFER CONDITION -> BOUNDED consultation: a stated closing date, a published record            |
+| of what was heard, and a reasoned statement of which representations changed the                 |
+| decision. Without these three, many-sidedness becomes a QUEUE OF VETOES.                         |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 22/40: EXEMPLAR 4 - MAHAVIR: VOWS PLUS AN ADMINISTRATIVE EPISTEMOLOGY (part 2 of 2)
++-- [14] EXEMPLAR 4 - MAHAVIR: VOWS PLUS AN ADMINISTRATIVE EPISTEMOLOGY (PART 2 OF 2) -------------+
+| [Doctrinal depth is owned by Topic 06 and by Philosophy/paper-1/indian/Jainism.]                 |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 23/40: EXEMPLAR 5 - AMBEDKAR: CONSTITUTIONAL MORALITY AGAINST GRADED INEQUALITY (part 1 of 2)
++-- [15] EXEMPLAR 5 - AMBEDKAR: CONSTITUTIONAL MORALITY AGAINST GRADED INEQUALITY (PART 1 OF 2) ---+
+| METHOD NOTE -> the canonical owner deliberately STATES THE DOCTRINE rather than                  |
+| attaching an unverified internet quotation. That editorial choice IS the Session-10              |
+| lesson applied.                                                                                  |
+|--------------------------------------------------------------------------------------------------|
+| DIAGNOSIS: GRADED INEQUALITY - inequality is not a single line but an ASCENDING SCALE            |
+|   OF REVERENCE and a DESCENDING SCALE OF CONTEMPT, in which each stratum has someone             |
+|   below it -> THE EXCLUDED DO NOT AUTOMATICALLY COMBINE.                                         |
+|   ADMINISTRATIVE CONSEQUENCE -> a scheme designed for 'the poor' can be captured by the          |
+|   least excluded among them. DISAGGREGATE; do not assume solidarity.                             |
+| INSTRUMENT: CONSTITUTIONAL MORALITY - disciplined fidelity to constitutional values and          |
+|   lawful procedure rather than to personal preference, majority sentiment or official            |
+|   convenience. Content: equality before law, dignity, liberty, fair procedure,                   |
+|   accountability - applied precisely when locally unpopular.                                     |
+| SOCIAL DEMOCRACY -> political democracy without social democracy is a 'top dressing';            |
+|   formal legal equality is the FLOOR, not the achievement.                                       |
+|--------------------------------------------------------------------------------------------------|
+| THE OPERATIONAL TEST -> take the procedure that LOOKS NEUTRAL and ask whether its                |
+| EFFECTS reproduce the existing hierarchy. Examples: a tender condition requiring three           |
+| years of prior supply experience; a hearing fixed at district HQ at 11 a.m.                      |
+| RULE -> PERSONAL BENEVOLENCE CANNOT SUBSTITUTE FOR INSTITUTIONAL JUSTICE.                        |
+|--------------------------------------------------------------------------------------------------|
+| CROSS-TOPIC ANCHOR: 2025 GS-IV Q1(b) premise - 'Constitutional morality is not a natural         |
+| sentiment but a product of civil education and adherance of the rule of law' (printed            |
+| spelling preserved). ROUTED TO TOPICS 13 AND 14 - not claimed here - but its premise IS          |
+| Limb B stated in constitutional language.                                                        |
+| LIMITATION -> constitutional morality FRAMES conflicts between two constitutional values         |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 24/40: EXEMPLAR 5 - AMBEDKAR: CONSTITUTIONAL MORALITY AGAINST GRADED INEQUALITY (part 2 of 2)
++-- [15] EXEMPLAR 5 - AMBEDKAR: CONSTITUTIONAL MORALITY AGAINST GRADED INEQUALITY (PART 2 OF 2) ---+
+| (liberty vs equality, privacy vs transparency); it does not RESOLVE them. Use Stage 09.          |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 25/40: EXEMPLAR 6 - SAVITRIBAI PHULE: BUILD THE MISSING INSTITUTION (part 1 of 2)
++-- [16] EXEMPLAR 6 - SAVITRIBAI PHULE: BUILD THE MISSING INSTITUTION (PART 1 OF 2) ---------------+
+| THE PROBLEM IS SELF-REPRODUCING, NOT ATTITUDINAL:                                                |
+|   denial of girls' education + child marriage + caste-linked exclusion + widow stigma            |
+|   -> each element makes the others RATIONAL from a household's point of view.                    |
+|   (if a girl will marry early and not earn, schooling looks like a cost with no return;          |
+|    if she is unschooled, early marriage looks like the only available security)                  |
+|--------------------------------------------------------------------------------------------------|
+| TWO POSSIBLE RESPONSES:                                                                          |
+|   A EXHORTATION       condemn the practice, wait for attitudes -> system intact                  |
+|   B INSTITUTION-      build the thing that does not exist -> CHANGES THE HOUSEHOLD'S             |
+|     BUILDING          ACTUAL OPTION SET                                                          |
+|--------------------------------------------------------------------------------------------------|
+| VERIFIED FACTS [canonical Basic owner]:                                                          |
+|   * with JYOTIRAO PHULE, co-founded India's first girls' school at BHIDE WADA, PUNE,             |
+|     in 1848                                                                                      |
+|   * faced social hostility for teaching girls                                                    |
+|   * later worked on widow-remarriage support, and against child marriage and caste               |
+|     discrimination                                                                               |
+|   * conventionally regarded as India's first woman teacher/headmistress in the modern            |
+|     sense                                                                                        |
+| SOURCE LIMITATION, STATED -> the local OCR-searchable books contain NO substantive               |
+| passage on her; a full-text scan returns only Bipan Chandra p.86 naming JYOTIBA Phule            |
+| with Narayana Guru as 'two unrelenting critics of the caste system'. NO QUOTATION IS             |
+| ATTRIBUTED TO HER IN THIS PACKAGE, because none is locally verifiable.                           |
+|--------------------------------------------------------------------------------------------------|
+| LESSON -> structural exclusion is corrected by BUILDING THE MISSING INSTITUTION, not by          |
+| condemning the attitude the missing institution produced.                                        |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 26/40: EXEMPLAR 6 - SAVITRIBAI PHULE: BUILD THE MISSING INSTITUTION (part 2 of 2)
++-- [16] EXEMPLAR 6 - SAVITRIBAI PHULE: BUILD THE MISSING INSTITUTION (PART 2 OF 2) ---------------+
+| CONSTITUTIONAL DESCENDANTS -> Art. 21A (entitlement), 51A(k) (parental duty),                    |
+| 51A(e) (dignity of women).                                                                       |
+| LIMITATION -> one school did not resolve 19th-century gender inequality; it required             |
+| sustained, generation-spanning reform - the same horizon as ARC 2.7.2.                           |
+| TRANSFER CONDITION -> the built institution must be SUSTAINED AND STAFFED. A school              |
+| without teachers or a shelter without a budget line REPRODUCES the exclusion while               |
+| appearing to have addressed it.                                                                  |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 27/40: EXEMPLARS 7-12 - MODERN LEADERS AND ADMINISTRATORS, WITH PROVENANCE (part 1 of 2)
++-- [17] EXEMPLARS 7-12 - MODERN LEADERS AND ADMINISTRATORS, WITH PROVENANCE (PART 1 OF 2) --------+
+| SARDAR PATEL [P3, 2024 GS-IV Q3(b)] 'Faith is of no avail in the absence of strength.            |
+|   Faith and strength, both are essential to accomplish any great work-'                          |
+|   RULE -> CONVICTION x CAPACITY (multiplicative, not additive). A values statement with          |
+|   no capability plan is a press note; capability with no value is coercion looking for           |
+|   a target.  [printed artefact: 'Anslotte sarfre' precedes the quotation in the paper]           |
+| THIRUVALLUVAR [P3 wording / P1 underlying, 2025 GS-IV Q3(a)] 'Those who in trouble               |
+|   untroubled are, Will trouble trouble itself.'  A MODERN PARAPHRASE of TIRUKKURAL 623           |
+|   (Ch.63, Itukkan Aliyamai, 'not being distressed by adversity'); G.U. Pope: 'Who                |
+|   griefs confront with meek, ungrieving heart, / From them griefs, put to grief,                 |
+|   depart.'  RULE -> EQUANIMITY IS OPERATIONAL: composure preserves accurate assessment           |
+|   and humane communication.  LIMIT -> equanimity is NOT passivity; serenity without              |
+|   rescue is failure.                                                                             |
+| WILLIAM JAMES [P3, 2025 GS-IV Q3(b)] 'The greatest discovery of my generation is that a          |
+|   human being can alter his life by altering his attitudes.'  NOT traceable to James;            |
+|   popularised by Norman Vincent Peale (1952). Genuine James line (1895): 'Believe that           |
+|   life is worth living, and your belief will help create the fact.'  RULE -> ATTITUDES           |
+|   ARE MALLEABLE, so adult training is not futile -> hands off to Topic 03.                       |
+|   LIMIT -> attitude change cannot dissolve STRUCTURAL constraint.                                |
+|   [printed artefact: the Hindi text renders the name 'William Jones']                            |
+| A.P.J. ABDUL KALAM (i) [P2, 2019 GS-IV Q6(c)] the righteousness chain: righteousness in          |
+|   the heart -> beauty in the character -> harmony in the home -> order in the nation ->          |
+|   peace in the world. Kalam POPULARISED it (April 2007 address to the European                   |
+|   Parliament) but EXPLICITLY CREDITED IT THERE TO SATHYA SAI BABA.                               |
+|   RULE -> a BOTTOM-UP THEORY OF ORDER: personal integrity is not 'merely private'.               |
+|   LIMIT -> a RHETORICAL CHAIN, not a demonstrated causal claim.                                  |
+|   DOCUMENTED ANALOGUE -> ARC PREFACE (Confucius): the virtuous ruler 'may be compared to         |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 28/40: EXEMPLARS 7-12 - MODERN LEADERS AND ADMINISTRATORS, WITH PROVENANCE (part 2 of 2)
++-- [17] EXEMPLARS 7-12 - MODERN LEADERS AND ADMINISTRATORS, WITH PROVENANCE (PART 2 OF 2) --------+
+|   the Pole star which keeps its place and all other stars turn towards it'.                      |
+| A.P.J. ABDUL KALAM (ii) [P3, 2022 GS-IV Q3(b)] a corruption-free nation through youth,           |
+|   education and personal integrity multiplied across society (theme echoed in                    |
+|   Indomitable Spirit).  RULE -> anti-corruption as a GENERATIONAL, education-driven              |
+|   movement COMPLEMENTING, not replacing, enforcement.                                            |
+| POTTER STEWART [P4, 2022 GS-IV Q3(a)] 'ethics is knowing the difference between what you         |
+|   have a right to do and what is right to do.' NO primary opinion, speech or writing             |
+|   traced.  RULE -> THE LEGALITY-ETHICS GAP.  USE THE DOCUMENTED VERSION INSTEAD:                 |
+|   ARC BOX 2.3 (Fulbright) - those 'who, under the guise of friendship, accept favors,            |
+|   which offend the spirit of the law but do not violate its letter'; 'among so many              |
+|   influential people, morality has become identical with legality'. [Topic 10 owns the           |
+|   full law-vs-conscience treatment.]                                                             |
+| DALAI LAMA [P4, 2022 GS-IV Q3(c)] 'Judge your success by what you had to give up in order        |
+|   to get it.'  RULE -> REDEFINE ADMINISTRATIVE SUCCESS: a target met by compromising due         |
+|   process, colleagues' rights or truthful reporting is a RECORDED COST, not an                   |
+|   achievement - a direct check against results-only performance evaluation.                      |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 29/40: SYNTHESIS - CHARACTER OR SYSTEM? THE DIVISION OF LABOUR (part 1 of 2)
++-- [18] SYNTHESIS - CHARACTER OR SYSTEM? THE DIVISION OF LABOUR (PART 1 OF 2) --------------------+
+| ARC 1.4 SETS OUT BOTH APPROACHES AND THE REPORT USES BOTH:                                       |
+|   APPROACH 1 VALUES AND CHARACTER - 'overemphasis on values and character. Many people           |
+|     lament the decline in values ... The implicit assumption is that until values are            |
+|     restored, nothing much can be done to improve the conduct of human beings.'                  |
+|     EXEMPLAR: GANDHI                                                                             |
+|   APPROACH 2 DESIGN AND INCENTIVE - 'most human beings are fundamentally decent and              |
+|     socially conscious, but there is always a small proportion ... If good behaviour is          |
+|     consistently rewarded and bad behaviour consistently punished, the bulk of the               |
+|     people follow the straight and narrow path.'   EXEMPLAR: KAUTILYA                            |
+|--------------------------------------------------------------------------------------------------|
+| WHY NEITHER WINS ALONE:                                                                          |
+|   CHARACTER covers what the system CANNOT SEE  -> ARC 2.2.4 (rules cannot provide for            |
+|     all situations; discretion widens with echelon) + Kautilya's own proposition [3]             |
+|     (concealed intent is unobservable)                                                           |
+|   SYSTEM covers what character CANNOT SUSTAIN   -> ARC 1.3 (corruption regarded as               |
+|     'inevitable', resistance as 'futile'): individual virtue inside a corrosive norm is          |
+|     expensive and unreliable at scale                                                            |
+|--------------------------------------------------------------------------------------------------|
+| THE VERDICT LINE FOR ANY QUESTION IN THIS TOPIC:                                                 |
+|   VALUES DECIDE CONDUCT IN THE SPACE RULES CANNOT REACH;                                         |
+|   RULES DECIDE HOW LARGE THAT SPACE IS.                                                          |
+| THE THIRD TERM MOST ANSWERS OMIT -> THE EXEMPLAR supplies CREDIBILITY: a demonstration           |
+| that the standard has been kept by a real person under real pressure. Neither a code nor         |
+| a sanction can do this. Art. 51A(b) is the constitutional acknowledgement.                       |
+|--------------------------------------------------------------------------------------------------|
+| DEPLOYMENT BY QUESTION TYPE -> personal conduct: lead character, close with the                  |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 30/40: SYNTHESIS - CHARACTER OR SYSTEM? THE DIVISION OF LABOUR (part 2 of 2)
++-- [18] SYNTHESIS - CHARACTER OR SYSTEM? THE DIVISION OF LABOUR (PART 2 OF 2) --------------------+
+| institutional limit. System design: lead design, close with the discretionary residue.           |
+| Inculcation: use both plus the exemplar term.                                                    |
+| FAILURE MODES -> character-first alone = MORALISING that leaves incentives untouched;            |
+| design-first alone = SURVEILLANCE that demoralises and induces decision-avoidance.               |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 31/40: THE FOUR CODIFIED VALUE TEXTS - ADDRESSEE AND ENFORCEABILITY (part 1 of 2)
++-- [19] THE FOUR CODIFIED VALUE TEXTS - ADDRESSEE AND ENFORCEABILITY (PART 1 OF 2) ---------------+
+| TEXT 1  ARTICLE 51A - addressed to CITIZENS                                                      |
+|   Part IVA inserted by the 42nd Amendment 1976 (Swaran Singh Cttee) with TEN duties;             |
+|   ELEVENTH added by the 86th Amendment 2002. 'Some are moral duties while others are             |
+|   civic duties'; they codify 'values which have been a part of the Indian tradition';            |
+|   confined to citizens, not extending to foreigners.                                             |
+|   STATUS: NON-JUSTICIABLE. No direct enforcement by courts; no legal sanction for                |
+|   violation; Parliament free to enforce by suitable legislation.                                 |
+|   PROOF OF DESIGN INTENT -> Parliament REJECTED three Swaran Singh proposals: a penalty          |
+|   for non-compliance; immunity of such a penalty law from challenge; a duty to pay taxes.        |
+|   INDIRA GANDHI'S STATED JUSTIFICATION: 'the moral value of fundamental duties would be          |
+|   not to smoother rights but to establish a democratic balance by making the people              |
+|   conscious of their duties equally as they are conscious of their rights' (printed              |
+|   form 'smoother' preserved).                                                                    |
+| TEXT 2  DRAFT PUBLIC SERVICE BILL, 2006 - addressed to CIVIL SERVANTS [ARC 2.7.5]                |
+|   allegiance to the ideals in the Preamble; apolitical functioning; good governance for          |
+|   betterment of the people as the primary goal; duty to act objectively and                      |
+|   impartially; accountability and transparency in decision-making; highest ethical               |
+|   standards; merit in selection consistent with cultural, ethnic and other diversities;          |
+|   economy and avoidance of wastage; healthy and congenial work environment;                      |
+|   communication, consultation and cooperation in performance of functions.                       |
+|   STATUS: A DRAFT BILL'S LIST as recorded in January 2007. NOT ENACTED LAW. The ARC also         |
+|   envisaged a Public Service Code, a Public Service Management Code and a Public                 |
+|   Service Authority.                                                                             |
+| TEXT 3  CCS (CONDUCT) RULES, 1964 - the ENFORCEABLE floor                                        |
+|   general norms ('maintaining integrity and absolute devotion to duty'; 'conduct                 |
+|   unbecoming of a government servant') but 'generally directed towards cataloguing               |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 32/40: THE FOUR CODIFIED VALUE TEXTS - ADDRESSEE AND ENFORCEABILITY (part 2 of 2)
++-- [19] THE FOUR CODIFIED VALUE TEXTS - ADDRESSEE AND ENFORCEABILITY (PART 2 OF 2) ---------------+
+|   specific activities deemed undesirable'. ARC's verdict: 'There is no Code of Ethics            |
+|   prescribed for civil servants in India ... These Conduct Rules do serve a purpose,             |
+|   but they do not constitute a Code of Ethics.' (position of January 2007)                       |
+| TEXT 4  NOLAN PRINCIPLES - the ARC's chosen international reference [ARC 2.2.5]                  |
+|   'one of the most comprehensive statements of what constitutes ethical standards for            |
+|   holders of public office'; first principle SELFLESSNESS - 'Holders of public office            |
+|   should take decisions solely in terms of public interest.'                                     |
+|--------------------------------------------------------------------------------------------------|
+| ARC'S OWN RECOMMENDATION [2.7.9 and 2.7.12(a)] -> Public Service Values 'should be               |
+| stipulated by law', applicable to all tiers of Government and parastatal organizations,          |
+| with 'any transgression of these values ... treated as misconduct, inviting punishment'.         |
+| Model cited: the Australian Public Service Act 1999, where the Public Service                    |
+| Commissioner evaluates agencies and reports annually to Parliament. STATUS: RECOMMENDED.         |
+|--------------------------------------------------------------------------------------------------|
+| EXAM MOVE -> never write 'Indian values'. Write WHICH TEXT, WHOM IT BINDS, AND WHETHER           |
+| IT IS ENFORCEABLE.                                                                               |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 33/40: INSTITUTIONAL APPLICATION - THE VALUE-EDUCATION CHAIN AND ITS THREE BREAKS (part 1 of 2)
++-- [20] INSTITUTIONAL APPLICATION - THE VALUE-EDUCATION CHAIN AND ITS THREE BREAKS (PART 1 OF 2) -+
+| [1] SOURCE          family, society, religion, peer group, school   (Stages 05-07)               |
+| [2] SELECTION       recruitment tests aptitude and knowledge                                     |
+|     BREAK A         it CANNOT test internalisation (Stage 08). Consequence: assume a             |
+|                     normal distribution of dispositions and design accordingly - which           |
+|                     is Kautilya's premise stated without cynicism.                               |
+| [3] FORMATION       foundation course, in-service training, Mission Karmayogi FRAC               |
+|     BREAK B         competencies, iGOT modules. Instruction is Mechanism 4, the                  |
+|                     WEAKEST alone; ARC 2.7.2 says the attitudes are 'not skills which            |
+|                     could be easily imbibed after joining the civil services'.                   |
+| [4] REINFORCEMENT   appraisal, posting, promotion, recognition                                   |
+|     BREAK C         THE DECISIVE BREAK: the ESPOUSED value and the REWARDED conduct              |
+|     (DECISIVE)      diverge. The organisation is still teaching - just not the printed           |
+|                     value. NO TRAINING BUDGET DEFEATS AN APPRAISAL FORM.                         |
+| [5] SANCTION        ARC 1.1 requires bodies that investigate AND 'impose sanctions               |
+|                     quickly'. A sanction arriving after retirement teaches nothing.              |
+| [6] CONDUCT UNDER DISCRETION  <- the only place any of this is actually tested                   |
+|--------------------------------------------------------------------------------------------------|
+| MISSION KARMAYOGI AGAINST THE CHAIN - THE HONEST ASSESSMENT                                      |
+|   CAN DO: make competencies explicit (FRAC); make learning continuous rather than                |
+|     one-off at induction; make it role-specific; reach scale - 1.49 cr users, 4,342              |
+|     courses, 7.26 cr course completions, 23 languages, AS ON 6 FEBRUARY 2026.                    |
+|   MUST NOT BE CLAIMED: that completions prove internalisation; a general APAR linkage            |
+|     absent a service-specific DoPT order naming scope; that reach figures are a                  |
+|     programme total rather than a dated position; that training substitutes for the              |
+|     appraisal redesign at BREAK C.                                                               |
+|   VERDICT: STRONG at Step 3, WEAK at Step 4 unless what is rewarded changes too.                 |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 34/40: INSTITUTIONAL APPLICATION - THE VALUE-EDUCATION CHAIN AND ITS THREE BREAKS (part 2 of 2)
++-- [20] INSTITUTIONAL APPLICATION - THE VALUE-EDUCATION CHAIN AND ITS THREE BREAKS (PART 2 OF 2) -+
+|--------------------------------------------------------------------------------------------------|
+| THE ONE HIGH-LEVERAGE MOVE AVAILABLE WITHOUT NEW LEGISLATION -> add ONE graded appraisal         |
+| item for 'quality of recorded reasoning in discretionary decisions', audited on a                |
+| sample. It costs nothing, it is observable, and it closes Break C.                               |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 35/40: CRITICISM AND LIMITS - SIX FAILURE MODES AND THE COUNTER-CRITICISM (part 1 of 2)
++-- [21] CRITICISM AND LIMITS - SIX FAILURE MODES AND THE COUNTER-CRITICISM (PART 1 OF 2) ---------+
+| 1 QUOTATION SCRAPBOOK   sayings replace rules                                                    |
+|   -> FIVE-SLOT TEST. Delete any quotation removable without weakening the argument.              |
+| 2 SELECTIVE QUOTATION   the same leader justifies opposite choices                               |
+|   -> name the SPECIFIC INSTITUTIONAL CONTEXT; an unbounded teaching proves nothing.              |
+| 3 ANACHRONISM           'Kautilya recommended a vigilance commission'                            |
+|   -> MINIMUM DATING RULE: classical sources supply diagnoses and incentive logic.                |
+| 4 HERO-WORSHIP          admired character treated as a warrant for inferred positions            |
+|   -> a life is evidence about what is POSSIBLE, not proof about what is CORRECT.                 |
+| 5 MORAL SUBSTITUTION    'we need a change of values' REPLACES naming the incentive,              |
+|   the discretion and the accountability gap                                                      |
+|   -> ARC 1.4's warning against 'overemphasis on values and character', whose implicit            |
+|      assumption is that until values are restored 'nothing much can be done' - a                 |
+|      COUNSEL OF POSTPONEMENT. Every value claim must terminate in a MECHANISM.                   |
+| 6 FABRICATED PROVENANCE inventing a source for an untraceable line                               |
+|   -> the PROVENANCE LADDER. 'Widely attributed' costs three words and protects the               |
+|      whole answer. THIS IS THE ONE UNRECOVERABLE ERROR.                                          |
+|--------------------------------------------------------------------------------------------------|
+| COUNTER-CRITICISM (must also be made): dismissing exemplars entirely is its own error.           |
+| Codes and sanctions cannot make a standard MEMORABLE, CREDIBLE or IMAGINABLE beyond the          |
+| current rulebook. Only a kept example can. Art. 51A(b) makes cherishing the ideals of            |
+| the national struggle a citizen duty.                                                            |
+| INDIAN CAUTION -> invoking a leader's name is itself a contested political act, and              |
+| different constituencies claim the same figure for incompatible programmes. SAFEGUARD:           |
+| translate into a PROCEDURAL obligation (published criterion, recorded reason, declared           |
+| recusal), because a procedure can be reviewed on its own terms.                                  |
+| HONEST LIMIT ON THE WHOLE TOPIC -> no source used here establishes that studying an              |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 36/40: CRITICISM AND LIMITS - SIX FAILURE MODES AND THE COUNTER-CRITICISM (part 2 of 2)
++-- [21] CRITICISM AND LIMITS - SIX FAILURE MODES AND THE COUNTER-CRITICISM (PART 2 OF 2) ---------+
+| admirable life predicts admirable conduct. Exemplars are INPUTS to conduct, not                  |
+| guarantees of it.                                                                                |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 37/40: PYQ OWNERSHIP LEDGER - THE CORRECTION THIS REVIEW MADE (part 1 of 2)
++-- [22] PYQ OWNERSHIP LEDGER - THE CORRECTION THIS REVIEW MADE (PART 1 OF 2) ---------------------+
+| DIRECTLY OWNED (routing ledgers assign Topic 02 as an owner):                                    |
+|   2024 GS-IV Q2(a) peace: talk -> belief -> action; weapon industries      VERBATIM              |
+|   2024 GS-IV Q2(b) global warming as human greed in the name of development VERBATIM             |
+|   2024 GS-IV Q6(a) equal opportunity irrespective of gender identity;      VERBATIM              |
+|                    gender-specific challenges of female public servants                          |
+|   2024 GS-IV Q6(b) Mission Karmayogi and grassroots service delivery       VERBATIM              |
+|   2022 GS-IV Q3(a) Potter Stewart: right to do vs right to do       NEUTRAL DEMAND               |
+|   2022 GS-IV Q3(b) Kalam on a corruption-free nation               NEUTRAL DEMAND                |
+|   2022 GS-IV Q3(c) Dalai Lama on success and sacrifice             NEUTRAL DEMAND                |
+|   2020 GS-IV Q5(a) gender inequality + Savitribai Phule            NEUTRAL DEMAND                |
+|   2020 GS-IV Q1(b) education as pervasive tool; NEP 2020           NEUTRAL DEMAND                |
+|   -> 9 OWNED ITEMS: 4 verbatim-verified from locally held official PDFs, 5 neutral               |
+|      renderings because the 2020 and 2022 papers are NOT held locally.                           |
+|--------------------------------------------------------------------------------------------------|
+| CROSS-TOPIC ANCHORS (taught here, NOT counted as owned):                                         |
+|   2024 GS-IV Q3(a) Vivekananda / Q3(b) Patel            -> routed to TOPICS 06 and 07            |
+|   2025 GS-IV Q3(a) Thiruvalluvar / Q3(b) William James                                           |
+|                    / Q3(c) Vivekananda                  -> routed to TOPICS 06 and 07            |
+|   2025 GS-IV Q4(b) teachings of Mahavir                 -> routed to TOPICS 04 and 06            |
+|   2019 GS-IV Q6(c) Kalam righteousness chain            -> routed to TOPICS 06 and 07            |
+|--------------------------------------------------------------------------------------------------|
+| WHY THIS MATTERS -> the previous generation of this package presented the eight                  |
+| quotation questions as OWNED and omitted every question this topic actually owns.                |
+| OWNERSHIP IS DECIDED BY THE LEDGER, NOT BY FAMILIARITY.                                          |
+|--------------------------------------------------------------------------------------------------|
+| VERIFIED MARKS CONTRACT (read directly from both locally held official papers):                  |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 38/40: PYQ OWNERSHIP LEDGER - THE CORRECTION THIS REVIEW MADE (part 2 of 2)
++-- [22] PYQ OWNERSHIP LEDGER - THE CORRECTION THIS REVIEW MADE (PART 2 OF 2) ---------------------+
+|   SECTION A -> every sub-question 10 marks, '(Answer in 150 words)'                              |
+|   SECTION B -> every case study 20 marks, '(Answer in 250 words)'                                |
+|   GS-IV SETS NO 15-MARK QUESTION. Any 15-mark practice is EXTENDED ANALYTICAL                    |
+|   PRACTICE and is labelled as such.                                                              |
++--------------------------------------------------------------------------------------------------+
+                                                  |
+                                                  v
+ASCII MASTER FLOW — PANEL 39/40: ANSWER SPINE AND QUALIFIED VERDICT (part 1 of 2)
++-- [23] ANSWER SPINE AND QUALIFIED VERDICT (PART 1 OF 2) -----------------------------------------+
+| ARCHITECTURE 1 - QUOTATION ANSWER (10 marks / 150 words)                                         |
+|   restate the idea (~20w) -> thinker's context + attribution caution IN ONE CLAUSE               |
+|   (~20w) -> NAMED ADMINISTRATIVE MECHANISM (~45w) -> ONE CONCRETE INDIAN EXAMPLE                 |
+|   (~40w) -> one-line limit + takeaway (~25w).   BIOGRAPHY GETS ZERO WORDS.                       |
+| ARCHITECTURE 2 - INCULCATION ANSWER (10 marks / 150 words)                                       |
+|   define the transmission problem -> NAME THE MECHANISM for each institution asked               |
+|   about -> ONE NAMED TEXT OR FINDING each (family: the ARC disgrace incentive and                |
+|   51A(k); society: Cooter's everyday-norms finding; school: Art. 21A, 51A(b)/(h),                |
+|   ARC 2.7.2) -> the FAILURE MODE of each -> qualified verdict with the generational              |
+|   horizon.                                                                                       |
+| ARCHITECTURE 3 - CASE STUDY (20 marks / 250 words) [architecture owned by Topic 22]              |
+|   facts/assumptions -> stakeholders -> values in conflict -> at least three options              |
+|   with consequences -> lawful ethical decision -> implementation -> safeguard and                |
+|   residual risk.  THIS TOPIC SUPPLIES: precise value naming, the lexical ordering of             |
+|   Stage 09, and an explicit statement of what the decision COSTS.                                |
+|--------------------------------------------------------------------------------------------------|
+| SELECTABLE EVIDENCE POOL - PICK 1-2, NEVER EXHAUST IT:                                           |
+|   E1 values are transmitted, not innate | Gandhi's Seven Social Sins, ARC Box 2.8 |              |
+|      LIMIT: the leisure/pleasure variance shows canonical lists have transmission gaps           |
+|   E2 selective learning beats imitation | Vivekananda, Lahore 1897 |                             |
+|      LIMIT: over-applied, it resists legitimate reform                                           |
+|   E3 institution-building corrects structural inequality | Bhide Wada, 1848 |                    |
+|      LIMIT: one school did not resolve the system                                                |
+|   E4 personal integrity scales into order | Kalam's chain (credited to Sathya Sai                |
+|      Baba); ARC's Confucian Pole star | LIMIT: rhetorical, not demonstrated                      |
+|   E5 equanimity is administratively valuable | Tirukkural 623 |                                  |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 40/40: ANSWER SPINE AND QUALIFIED VERDICT (part 2 of 2)
++-- [23] ANSWER SPINE AND QUALIFIED VERDICT (PART 2 OF 2) -----------------------------------------+
+|      LIMIT: equanimity is not passivity                                                          |
+|   E6 corruption is structural | Kautilya's five propositions, ARC Annexure-I(2) |                |
+|      LIMIT: alone it licenses harmful surveillance                                               |
+|   E7 values must be inculcated early | ARC 2.7.2; Santhanam 1964 |                               |
+|      LIMIT: the ethos takes successive generations                                               |
+|--------------------------------------------------------------------------------------------------|
+| COUNTERPOINT TEMPLATE -> 'This teaching is administratively valuable because [named              |
+| mechanism], but its limitation is [X]; it should therefore be applied alongside [named           |
+| institutional safeguard], not relied on alone.'                                                  |
+|--------------------------------------------------------------------------------------------------|
+| QUALIFIED VERDICT FOR THE WHOLE TOPIC:                                                           |
+|   Human values are formed socially and remain revisable; they are transmitted by five            |
+|   mechanisms of which instruction is the weakest; family, society and school each                |
+|   transmit and each can invert; leaders supply memorability, credibility and moral               |
+|   imagination but never a warrant; and the operative rule is that VALUES DECIDE                  |
+|   CONDUCT IN THE SPACE RULES CANNOT REACH, WHILE RULES DECIDE HOW LARGE THAT SPACE IS.           |
+|--------------------------------------------------------------------------------------------------|
+| HAND-OFFS -> attitude change: Topic 03 | foundational civil-service values and aptitude:         |
+| Topic 04 | emotional intelligence and crisis composure: Topic 05 | thinker-level                 |
+| doctrinal depth: Topics 06 and 07 | public-service values and dilemmas: Topic 09 |               |
+| law vs conscience as a source of guidance: Topic 10 | probity: Topic 14 | codes:                 |
+| Topic 16 | vigilance and protecting honest officers: Topic 21 | case-study                       |
+| architecture: Topic 22.                                                                          |
++--------------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: 4. Learning courage and calm from Indian exemplars
-CENTRAL FOCUS
-4. Learning courage and calm from Indian exemplars
-  [1] Vivekananda favours learning from others without becoming them.
-        |
-        v
-  [2] Adaptation preserves a useful reform while fitting local conditions.
-        |
-        v
-  [3] Sardar Patel's UPSC-attributed line joins faith to strength.
-        |
-        v
-  [4] Conviction needs competence, courage and organised capacity.
-        |
-        v
-  [5] Thiruvalluvar values composure amid adversity.
-        |
-        v
-  [6] Equanimity improves assessment and communication during crisis.
-        |
-        v
-  [7] Calm leadership must still act decisively and lawfully.
-        |
-        v
-  [8] Quotation attribution must not be overstated without primary evidence.
-        |
-        v
-VERDICT -> Learn openly, act capably, and remain composed without confusing calm with
-             inaction.
-ANSWER USE -> Use for reform adaptation, disaster leadership, and courage-under-pressure
-             answers.
-
-ASCII MASTER FLOW — PANEL 5/12: 5. Mahavir: many-sided truth and non-possession
-CENTRAL FOCUS
-5. Mahavir: many-sided truth and non-possession
-  [1] Mahavir's five Mahavratas include Ahimsa and Satya.
-        |
-        v
-  [2] Asteya rejects taking what is not rightfully due.
-        |
-        v
-  [3] Brahmacharya is separately enumerated in Mahavir's tradition.
-        |
-        v
-  [4] Aparigraha requires non-possessiveness and restraint.
-        |
-        v
-  [5] Anekantavada treats complex truth-claims as many-sided.
-        |
-        v
-  [6] Syadvada requires conditional and standpoint-aware assertion.
-        |
-        v
-  [7] Consultation improves evidence before a public decision.
-        |
-        v
-  [8] Many-sidedness does not cancel moral or legal judgement.
-        |
-        v
-VERDICT -> Listen widely and restrain private gain, then decide with reasons.
-ANSWER USE -> Apply to land, environment, conflict of interest, and pluralism questions.
-CLOSE DISTINCTION: Anecdote is not doctrine, admired character is not infallibility,...
-
-ASCII MASTER FLOW — PANEL 6/12: 6. Kautilya and the design of corruption controls
-CENTRAL FOCUS
-6. Kautilya and the design of corruption controls
-  [1] Officials handling money face temptation like honey on a tongue.
-        |
-        v
-  [2] Concealed embezzlement resembles fish drinking water.
-        |
-        v
-  [3] Opportunity and secrecy make character-only solutions inadequate.
-        |
-        v
-  [4] Separation of duties reduces concentrated discretion.
-        |
-        v
-  [5] Reconciliation and risk-based audit improve detectability.
-        |
-        v
-  [6] Transparent criteria constrain arbitrary transfer and reward.
-        |
-        v
-  [7] Wrongful accumulation requires due-process investigation.
-        |
-        v
-  [8] Just wealth creation merits continuity and positive recognition.
-        |
-        v
-VERDICT -> Vigilance should reduce opportunity while protecting and rewarding honest service.
-ANSWER USE -> Build a balanced anti-corruption paragraph with systems and incentives.
-EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named India-centric episodes only when...
-
-ASCII MASTER FLOW — PANEL 7/12: 7. Duty without craving credit: Nishkama karma
-CENTRAL FOCUS
-7. Duty without craving credit: Nishkama karma
-  [1] Nishkama karma requires action without attachment to personal fruit.
-        |
-        v
-  [2] It preserves effort even when recognition is uncertain.
-        |
-        v
-  [3] It requires concern for whether citizens receive the service.
-        |
-        v
-  [4] It rejects personal credit as the purpose of public work.
-        |
-        v
-  [5] It does not authorise indifference to outcomes.
-        |
-        v
-  [6] It does not require compliance with unlawful orders.
-        |
-        v
-  [7] It does not make chronic burnout an ethical ideal.
-        |
-        v
-  [8] Fulfilment arises from meaningful and accountable service.
-        |
-        v
-VERDICT -> Serve fully, measure public outcomes, and remain unattached to private reward.
-ANSWER USE -> Use for duty, responsibility, fulfilment, and work-culture answers.
-
-ASCII MASTER FLOW — PANEL 8/12: 8. Reform through education: Savitribai Phule and Kalam
-CENTRAL FOCUS
-8. Reform through education: Savitribai Phule and Kalam
-  [1] Savitribai Phule co-founded the Bhide Wada girls' school in 1848.
-        |
-        v
-  [2] Education attacks exclusion through durable access and institutions.
-        |
-        v
-  [3] Gender equality needs safety, support and opportunity beyond slogans.
-        |
-        v
-  [4] Kalam used a righteousness-to-peace ethical chain.
-        |
-        v
-  [5] Kalam credited that chain to Sathya Sai Baba in 2007.
-        |
-        v
-  [6] Personal integrity can influence family and civic conduct.
-        |
-        v
-  [7] Individual virtue alone cannot prove national causation.
-        |
-        v
-  [8] Institutional reform converts aspiration into sustained equality.
-        |
-        v
-VERDICT -> Ethical transformation begins with persons but endures through inclusive
-             institutions.
-ANSWER USE -> Use for gender equality, education, social reform, and integrity answers.
-
-ASCII MASTER FLOW — PANEL 9/12: 9. How to use a leader without hero-worship
-CENTRAL FOCUS
-9. How to use a leader without hero-worship
-  [1] State the teaching precisely before applying it.
-        |
-        v
-  [2] Identify the public value and competing duty involved.
-        |
-        v
-  [3] Translate the teaching into a concrete decision rule.
-        |
-        v
-  [4] Use a specific Indian administrative illustration.
-        |
-        v
-  [5] Name the procedure that checks discretionary misuse.
-        |
-        v
-  [6] Distinguish a source-grounded fact from analytical inference.
-        |
-        v
-  [7] Acknowledge a provenance or contextual limitation where relevant.
-        |
-        v
-  [8] Conclude with a qualified rather than absolute verdict.
-        |
-        v
-VERDICT -> An exemplar guides judgement; it does not replace evidence, law, or institutional
-             design.
-ANSWER USE -> Use as the quality-control sequence for quotation and thinker answers.
-
-ASCII MASTER FLOW — PANEL 10/12: 10. Writing quotation answers that earn GS-IV marks
-CENTRAL FOCUS
-10. Writing quotation answers that earn GS-IV marks
-  [1] Restate the quotation's ethical core in one clear sentence.
-        |
-        v
-  [2] Give only the brief context needed for the present question.
-        |
-        v
-  [3] Translate the idea into a governance mechanism.
-        |
-        v
-  [4] Show one Indian illustration doing analytical work.
-        |
-        v
-  [5] Explain how the mechanism benefits citizens or public trust.
-        |
-        v
-  [6] State the limit, trade-off, or attribution caution.
-        |
-        v
-  [7] Do not replace analysis with a leader's biography.
-        |
-        v
-  [8] Close with an ethical rule joined to institutional safeguards.
-        |
-        v
-VERDICT -> Quotation questions reward applied ethics, not memory or reverence.
-ANSWER USE -> Follow this sequence for every 10-mark quotation response.
-
-ASCII MASTER FLOW — PANEL 11/12: 11. MCQ and trap repair
-CENTRAL FOCUS
-11. MCQ and trap repair
-  [1] Internalisation is not conduct displayed only for appraisal.
-        |
-        v
-  [2] Values are broader than object-specific attitudes.
-        |
-        v
-  [3] Anekantavada is not moral relativism or indecision.
-        |
-        v
-  [4] Aparigraha is not neglect of legitimate public spending.
-        |
-        v
-  [5] Nishkama karma is not indifference to citizen outcomes.
-        |
-        v
-  [6] Kautilya is not a warrant for arbitrary surveillance.
-        |
-        v
-  [7] Gandhi's list has a pleasure and leisure textual variation.
-        |
-        v
-  [8] UPSC attribution does not by itself prove primary provenance.
-        |
-        v
-VERDICT -> Close options fail when they turn a qualified ethical concept into an absolute
-             claim.
-ANSWER USE -> Use for prelims elimination and final answer self-audit.
-
-ASCII MASTER FLOW — PANEL 12/12: 12. PYQ and answer synthesis
-CENTRAL FOCUS
-12. PYQ and answer synthesis
-  [1] 2024 tested Vivekananda, Patel and Kant through present-context translation.
-        |
-        v
-  [2] 2025 tested Thiruvalluvar, William James and Vivekananda quotations.
-        |
-        v
-  [3] 2025 also tested Mahavir's teachings and devotion to duty.
-        |
-        v
-  [4] Use traceable provenance when the owner provides it.
-        |
-        v
-  [5] Treat disputed wording as a UPSC attribution rather than a primary citation.
-        |
-        v
-  [6] Pair Gandhi's character warning with Kautilya's control design.
-        |
-        v
-  [7] Pair Mahavir's consultation with a lawful recorded decision.
-        |
-        v
-  [8] Pair Mission Karmayogi learning reach with conduct-based safeguards.
-        |
-        v
-VERDICT -> The highest-scoring answer moves from idea to mechanism, example, qualification and
-             verdict.
-ANSWER USE -> Use as the final revision map before PYQ practice.
+====================================================================================================
+                   END OF ASCII MASTER FLOW DIAGRAM - 24 STAGES - ETHICS TOPIC 02                   
+====================================================================================================

@@ -1,0 +1,182 @@
+GRAPHICAL FLOWCHART PACKAGE - EXECUTOR SELF-CHECK RECORD
+Topic: Medieval History 22 - Aurangzeb: Religious Policy, North India & the Rajputs
+Status: approved: false
+Generated: 2026-09-21 (sixth reopened-correction pass)
+
+0. WHAT CHANGED IN THIS PASS
+   The graphical master was redrawn so that two facts already taught in
+   Learning-Session.md and in the standalone ASCII master flowchart are now carried as
+   substantive graphical content rather than being absent:
+     (a) the regulation of coin formulae, added to stage 02 "Court-symbolic periodisation"
+         as a full bullet inside the Phase 2 card, as a rail pill, and as a line in the
+         evidence-control band;
+     (b) the mishandled claims of the ranis and the Rathor sardars, and the Rathor
+         restoration of Ajit Singh's tika at Jodhpur as a rival investiture, added to
+         stage 08 "Marwar-Mewar rupture" as ladder steps 6 and 8 and echoed in the
+         evidence-base card.
+   High-Resolution-Master.png, At-a-Glance-Poster.pdf, Printable-Tiled-Version.pdf, every
+   preview (sheet previews, poster-fit, poster-page-001) and contact-sheet-01.png were all
+   regenerated from the new master in this pass. Section 7 below also corrects a provenance
+   statement that earlier builds of this report got wrong.
+
+1. PRINT-SIZE CONVENTION
+   Master canvas ................ 4800 x 17273 px, RGB
+   Target sheet ................. A3 landscape (420 x 297 mm)
+   Print margin ................. 8 mm on every edge -> printable area 404 x 281 mm
+   Image width on the sheet ..... 1145.20 pt = 404.0 mm (measured from the tiled PDF)
+   Effective resolution ......... 4800 px / 15.906 in = 301.8 dpi
+   Pixel-to-point factor ........ 1 pt = 4.192 px at 301.8 dpi
+
+2. TYPOGRAPHY AT THAT RESOLUTION (px em -> printed pt)
+   Document title ............... 176 px -> 42.0 pt (auto-shrunk to fit the canvas width)
+   Document subtitle ............ 60 px  -> 14.3 pt
+   Stage title .................. 108 px -> 25.8 pt
+   Stage badge number ........... 62 px  -> 14.8 pt
+   Card / band / matrix header .. 56 px  -> 13.4 pt (auto-shrinks, floor 36 px = 8.6 pt, only
+                                  used when a header would otherwise overrun its own card)
+   Body text .................... 46 px  -> 11.0 pt
+   Pills and small labels ....... 42 px  -> 10.0 pt
+   Answer line .................. 48 px  -> 11.5 pt
+   Ladder step number ........... 52 px  -> 12.4 pt
+   Minimum body size anywhere ... 10.0 pt. Nothing on the canvas prints below 10 pt except
+   an auto-shrunk header, and no header actually shrank below 48 px (11.5 pt) in this build.
+   The two facts added in this pass were set at the ordinary 46 px body size; no text was
+   shrunk anywhere to make room for them. The extra height was absorbed by reflowing the
+   affected panels, not by reducing type.
+
+3. LAYOUT DENSITY
+   Every card, band, matrix row, ladder step and answer strip is measured from its own
+   wrapped content before it is drawn; no fixed row heights are used. Rows of cards are
+   ragged-bottom (a row is only as tall as the tallest card in that row).
+   Non-background pixel fraction per printed sheet, measured on the regenerated master:
+     sheet 1 0.776   sheet 2 0.873   sheet 3 0.873
+     sheet 4 0.873   sheet 5 0.872   sheet 6 0.834
+   No sheet is mostly blank and no sheet is overcrowded. Sheet 6 is the short tail sheet
+   (1878 px of master content) and carries the expected end-of-document margin.
+
+4. STAGES (continuous numbered rail, top to bottom, all present)
+   01 Chronology and ownership
+   02 Court-symbolic periodisation          (now carries the coin-formula regulation)
+   03 Law, sovereignty and jizyah
+   04 Temple-policy evidence ladder
+   05 North Indian unrest and the Sikh case
+   06 Rajput alliance before the breach
+   07 Differentiated incorporation          (full substantive panel, not a footnote)
+   08 Marwar-Mewar rupture                  (now carries the ranis'/sardars' mishandled
+                                             claims and the Rathor tika restoration)
+   09 Historiography and the verdict
+   10 Prelims and Mains application
+   The cyan rail runs unbroken from the stage-01 badge to the stage-10 badge.
+
+5. LAYOUT DIVERSITY (no generic three-column card repeated across stages)
+   Timeline chips ............... stage 01
+   Phase cards .................. stage 02
+   Two-row card grid + bands .... stage 03
+   Numbered ladder + cards ...... stage 04
+   Four cards + two-column band . stage 05
+   Exchange matrix + band ....... stage 06
+   Two cards + replacement matrix stage 07
+   Ten-step ladder + cards ...... stage 08
+   Position matrix + cards ...... stage 09
+   Trap/spine cards + band ...... stage 10
+
+6. TILING AND POSTER INTEGRITY
+   Tile height .................. 3339 px (= 4800 x 281/404, the printable aspect)
+   Overlap ...................... 260 px between consecutive sheets
+   Tile origins ................. 0, 3079, 6158, 9237, 12316, 15395 px
+   Tiled PDF .................... 6 pages, A3 landscape 1190.55 x 841.89 pt
+   Poster PDF ................... 1 page, 1145.20 x 4121.05 pt, single full-height image
+   Pixel identity ............... each tile image was extracted from the regenerated tiled
+   PDF and compared with numpy against the corresponding master crop: tiles 1-6 all
+   byte-identical (True for every tile). Executor self-check confirms the tiled PDF is
+   cropped from this exact master and from no other source.
+
+7. PREVIEWS AND CONTACT SHEET - GENERATION METHOD
+   Provenance correction. Earlier builds of this report described the sheet previews and
+   the poster preview as "1:1 crops" of the master canvas. That description was wrong and
+   is withdrawn. None of the preview images in previews/ is a 1:1 pixel crop. Every one of
+   them is a reduced-resolution resample of a larger source, produced as follows.
+
+   previews/page-001.png ... previews/page-006.png
+     One per printed sheet. Each is produced by cropping that sheet's region out of the
+     4800 px-wide master and then resampling the crop down to 1400 px wide with PIL's
+     bicubic filter (Image.resize(..., Image.BICUBIC)), i.e. a scale factor of
+     1400 / 4800 = 0.29167. They are downscaled renders, not 1:1 crops.
+     page-001 to page-005 are 1400 x 974 px; page-006 is 1400 x 548 px (short tail sheet).
+
+   previews/poster-page-001.png
+     652 x 2347 px (measured with PIL after generation). Rendered in this pass directly
+     from the regenerated At-a-Glance-Poster.pdf with PyMuPDF, using
+     Page.get_pixmap(matrix=fitz.Matrix(z, z)) with z = 652 / 1145.20 = 0.56933 applied to
+     the single 1145.20 x 4121.05 pt poster page. This is a full-page rasterisation of the
+     whole poster at a reduced zoom - PyMuPDF's own downsampling rasteriser - and it is
+     therefore a downscaled whole-page render, not a 1:1 crop of any region.
+     Its aspect ratio 1 : 3.60 matches the poster page aspect
+     (1145.20 : 4121.05 = 1 : 3.60), which is the arithmetic signature of a whole-page
+     reduction rather than a crop. Opened and read by the executor: the reduced image shows
+     the document title block, all ten numbered stages 01 to 10 in order and the unbroken
+     cyan rail running the full height.
+
+   previews/poster-fit.png
+     1141 x 4106 px. Regenerated in this pass by bicubic-resampling the whole 4800 x 17273
+     master down to 1141 px wide (scale factor 1141 / 4800 = 0.23771). Also a downscaled
+     whole-poster render, not a crop.
+
+   previews/contact-sheet-01.png
+     2560 x 902 px. Regenerated in this pass from the six new sheet previews. Each sheet
+     preview is further bicubic-thumbnailed into a 620 x 431 px cell and pasted into a
+     4-column x 2-row grid (margin 10 px, gap 20 px, two empty cells at the end) on the
+     document background colour. Every cell is therefore a twice-downscaled render of a
+     sheet region; no cell is a 1:1 crop and no cell contains the poster preview.
+
+   Sheets 1, 2, 3, 4, 5 and 6 were opened and read by the executor on the regenerated
+   package. Headers fit inside their cards, no text crosses a card boundary, no column
+   overruns its neighbour, and both facts added in this pass are legible at reading size.
+
+8. SOURCE AND REFERENCE IMMUTABILITY
+   Content is drawn from the Basic and Advanced owners for Medieval-Indian-History 22 only.
+   No canonical knowledge file, shared tool, manifest or tracker was edited while producing
+   this package. Every file written in this pass lies inside
+   notes/Final-Learning-Packages/.../22-.../03-Graphical-Flowchart.
+   The package carries no statistics, quotations or PYQ attributions that the owners do not
+   support.
+
+9. COMPANION ARTIFACTS - RE-MEASURED WITH PyMuPDF (2026-09-21, seventh reopened
+   four-item defect-ledger pass). The counts below supersede the "as measured in this
+   pass" figures this section previously carried (86129 / 44553), which were stale by
+   the time of this remeasurement. This pass's own Topic-22-local, post-render page-1
+   patch (see the review report and the controlling ledger) removed the two hardcoded
+   caption lines "Original deterministic study visual; labels are explanatory, not
+   textual quotations." and "Source order: repository knowledge -> official current
+   linkage -> clearly marked analysis. No fabricated PYQs or statistics." from page 1 of
+   both learner PDFs by redacting only that page; every other page, the page count and
+   the bookmark outline are unchanged, so the character counts below are lower than the
+   pre-patch figures by exactly the length of the two removed lines.
+     01-Complete-Learning-Session/Complete-Learning-Session.pdf
+       30 pages, 86021 extracted characters, 32 outline entries (3 levels),
+       0 blank pages, 0 replacement glyphs, cover image present on page 1
+     02-Solved-Practice-Workbook/Solved-Practice-Workbook.pdf
+       17 pages, 44442 extracted characters, 6 outline entries (3 levels),
+       0 blank pages, 0 replacement glyphs, cover image present on page 1.
+       Originally re-rendered (in the preceding, final scope-correction pass) with the shared
+       renderer in its original, unmodified state; the truthful page-1 descriptor is supplied
+       as a call-time cover_descriptor override from the Topic-22-local render invocation, so
+       the shared tool itself carries no Topic-22 special case. Page 1 still reads "Solved
+       practice workbook | Solved mains practice with answer frameworks, option-wise MCQ
+       explanations and model Mains answers" and does not claim previous-year questions,
+       because this topic's workbook carries no verified routed PYQ. This pass then applied a
+       further, Topic-22-local, post-render patch to page 1 only (see above), which is why the
+       extracted-character count differs from that prior pass's figure.
+     03-Graphical-Flowchart/High-Resolution-Master.png .... 4800 x 17273 px (regenerated)
+     03-Graphical-Flowchart/At-a-Glance-Poster.pdf ........ 1 page   (regenerated)
+     03-Graphical-Flowchart/Printable-Tiled-Version.pdf ... 6 pages  (regenerated)
+     04-ASCII-Master-Flowchart/ASCII-Master-Flowchart.txt . 170 lines, longest line 90 chars
+     04-ASCII-Master-Flowchart/ASCII-Master-Flowchart.pdf . 3 pages, 8471 extracted
+       characters, 0 replacement glyphs. Unchanged in this pass; it already carried both
+       facts, and the graphical master has now been brought into agreement with it.
+
+10. OUTSTANDING
+   approved: false is retained. This package remains unapproved until the user approves it.
+   Stale global indexes and manifests elsewhere in the repository that still point at an
+   older Topic 22 path are a pre-existing condition outside this package's locked
+   modification scope and were deliberately not altered by this pass.

@@ -2,7 +2,8 @@
 
 ## Quick-Glance Tree Chart
 
-> Source voices, fortification, taxation and gana-sangha are always read through chronology, genre and regional variation.
+> Source voices, fortification, taxation and gana-sangha are always read through
+> chronology, genre and regional variation.
 
 ```text
 STATE AND VARNA SOCIETY IN THE AGE OF THE BUDDHA
@@ -127,5 +128,4 @@ The Buddha-age horizon linked territorial state growth, agrarian-urban surplus a
 hierarchy, while new economic actors and renunciant institutions complicated rather than
 abolished inherited structures; every conclusion remains source- and region-bounded.
 ```
-
 

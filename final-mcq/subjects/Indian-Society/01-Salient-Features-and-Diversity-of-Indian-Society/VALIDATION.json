@@ -1,0 +1,43 @@
+{
+  "catalogue_key": "indian-society-01",
+  "title": "01 — Salient Features and Diversity of Indian Society",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "status_scope": "original banks",
+  "original_questions_total": 133,
+  "revision_counts": {
+    "revision-1": 43,
+    "revision-2": 44,
+    "revision-3": 46
+  },
+  "coverage_each_revision": true,
+  "answer_free_questions": true,
+  "answer_position_counts_each_revision": {
+    "revision-1": {
+      "A": 11,
+      "B": 11,
+      "C": 10,
+      "D": 11
+    },
+    "revision-2": {
+      "A": 11,
+      "B": 11,
+      "C": 11,
+      "D": 11
+    },
+    "revision-3": {
+      "A": 12,
+      "B": 11,
+      "C": 12,
+      "D": 11
+    }
+  },
+  "distinct_stems_total": 133,
+  "exact_pyqs_live": 0,
+  "pyq_status": "held for official same-paper key, provenance and reproduction rights",
+  "source_audit": "pass",
+  "structural_audit": "pass",
+  "hostile_audit": "pass",
+  "learner_blind_review": "pending",
+  "remaining_subject_topic": "02 — Caste System: Structure and Contemporary Dynamics"
+}

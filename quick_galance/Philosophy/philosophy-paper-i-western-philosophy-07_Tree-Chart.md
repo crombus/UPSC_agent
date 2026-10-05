@@ -5,8 +5,13 @@
 > graphical at-a-glance package; it is the thirty-second refresher that carries
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
-> **Syllabus, verbatim:** *Logical Positivism : Verification Theory of Meaning; Rejection of Metaphysics; Linguistic Theory of Necessary Propositions.*
-> **Terminology and citation:** English concept first, source term immediately after in parentheses — *pseudo-statement (Scheinsatz)*, *protocol sentence (Protokollsatz)*, *affirmation (Konstatierung)*, *the nothing nothings (das Nichts nichtet)*. Works are cited by **author, title and year**, and where German and English publication dates differ **both** are given, because the examiner can test the gap.
+> **Syllabus, verbatim:** *Logical Positivism: Verification Theory of Meaning;
+> Rejection of Metaphysics; Linguistic Theory of Necessary Propositions.*
+> **Terminology and citation:** English concept first, source term immediately
+> after in parentheses—*pseudo-statement (Scheinsatz)*, *protocol sentence
+> (Protokollsatz)*, *affirmation (Konstatierung)*, *the nothing nothings (das
+> Nichts nichtet)*. Works are cited by **author, title and year**; where German
+> and English publication dates differ **both** are given.
 
 ## Quick-Glance Tree Chart
 

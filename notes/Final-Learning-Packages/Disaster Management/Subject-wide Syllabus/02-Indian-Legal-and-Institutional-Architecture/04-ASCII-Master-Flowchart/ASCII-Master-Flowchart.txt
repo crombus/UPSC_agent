@@ -1,77 +1,59 @@
-ASCII MASTER FLOW — PANEL 1/12: Statutory chronology
-2005 -> DISASTER MANAGEMENT ACT
-2009 -> NATIONAL POLICY
-2016 -> FIRST NDMP | 2019 -> REVISED NDMP
-2025 -> AMENDMENT | IN FORCE 9 APRIL 2025
+INDIAN LEGAL AND INSTITUTIONAL ARCHITECTURE
+==============================================
 
-ASCII MASTER FLOW — PANEL 2/12: National tier
-NDMA -> policy, plans, guidelines
-NEC -> coordination, monitoring, implementation
-NCMC -> major disasters with national ramifications
-HLC -> statutory financial-assistance role
+1. LEGAL EVOLUTION
+Relief administration -> DM Act 2005 -> NPDM 2009 -> NDMP 2016/2019 -> 2025 amendment
 
-ASCII MASTER FLOW — PANEL 3/12: State tier
-SDMA -> state policy and State Plan
-SEC -> coordination and monitoring
-STATE DEPARTMENTS -> hazard and sector functions
-STATE FORCE / FUND -> distinct instruments
+2. FEDERAL CASCADE
+NDMA/NEC -> SDMA/SEC -> DDMA -> local authorities
 
-ASCII MASTER FLOW — PANEL 4/12: District-local cascade
-DDMA -> District Plan and coordination
-COLLECTOR / MAGISTRATE -> Chair
-ELECTED LOCAL REPRESENTATIVE -> Co-Chair
-PRI / ULB -> last-mile implementation
+3. ROLE SEPARATION
+Authority: policy and plan direction
+Executive committee: coordination, monitoring and implementation
+Operational arm: specialist response
+Knowledge arm: training, research and capacity building
 
-ASCII MASTER FLOW — PANEL 5/12: NDRF acronym firewall
-FORCE -> specialist personnel and response teams
-FUND -> eligible response and relief expenditure
-STATE FORCE -> section 44A enabling power
-STATE FUND -> section 48 finance
+4. NATIONAL TIER
+Prime Minister -> NDMA
+Union Home Secretary -> NEC
+Cabinet Secretary -> NCMC
+HLC -> specified financial assistance
 
-ASCII MASTER FLOW — PANEL 6/12: NIDM knowledge chain
-RESEARCH -> DOCUMENTATION -> TRAINING
-CAPACITY BUILDING -> POLICY ADVOCACY
-STATE / LOCAL SUPPORT -> CULTURE OF PREVENTION
-TRAP -> knowledge institute is not response command
+5. STATE TIER
+Chief Minister -> SDMA
+Chief Secretary -> SEC
+State may notify UDMA under s.41A
+State may constitute specialist response force under s.44A
 
-ASCII MASTER FLOW — PANEL 7/12: 2025 amendment map
-8A NCMC | 8B HLC
-41A URBAN AUTHORITY | 44A STATE FORCE
-PLAN RESPONSIBILITY + DATABASE DUTIES
-ENACTMENT -> NOTIFICATION -> IMPLEMENTATION -> OUTCOME
+6. DISTRICT AND LOCAL TIER
+Collector/Magistrate -> DDMA
+Elected local representative -> Co-Chair
+DDMA -> District Plan -> local execution
 
-ASCII MASTER FLOW — PANEL 8/12: Plan responsibility matrix
-NATIONAL PLAN -> NDMA preparation / approval architecture
-STATE PLAN -> SDMA preparation / approval architecture
-DISTRICT PLAN -> DDMA
-EXECUTIVE COMMITTEES -> implementation and monitoring
+7. SPECIALIST CAPACITY
+NDRF force -> search, rescue, pre-positioning
+NIDM -> training, research, documentation
+NPDRR -> multi-stakeholder policy review
 
-ASCII MASTER FLOW — PANEL 9/12: Fund architecture
-NATIONAL -> response s46 | mitigation s47
-STATE -> response | mitigation
-DISTRICT -> response | mitigation
-RULE -> statutory design is not constitution or expenditure proof
+8. PLANNING
+National Plan -> State Plan -> District Plan -> local/facility plans
+2016: first NDMP
+2019: latest published revision
 
-ASCII MASTER FLOW — PANEL 10/12: Federal operating chain
-NATIONAL GUIDANCE -> STATE ADAPTATION
-DISTRICT PLAN -> LOCAL EXECUTION
-FEEDBACK / DATA -> PLAN REVISION
-BOTTLENECK -> weakest implementation tier
-MUST REMEMBER: The Disaster Management Act, 2005 distributes policy, coordination,...
-MUST REMEMBER: The Disaster Management Act, 2005 distributes policy, coordination,...
+9. FINANCE
+s.46 response fund
+s.47 mitigation fund
+s.48 state and district response/mitigation funds
+Force != fund
 
-ASCII MASTER FLOW — PANEL 11/12: Evidence-rung ladder
-ACT -> RULE / NOTIFICATION -> AUTHORITY / PLAN
-ALLOCATION -> RELEASE -> EXPENDITURE
-DEPLOYMENT -> SERVICE DELIVERY -> VERIFIED OUTCOME
-NO AUTOMATIC JUMP BETWEEN RUNGS
-CLOSE DISTINCTION: NDMA is not NEC, NIDM is not NDRF, SDMA is not DDMA, a National Plan...
-CLOSE DISTINCTION: NDMA is not NEC, NIDM is not NDRF, SDMA is not DDMA, a National Plan...
+10. 2025 DATA AND ACCOUNTABILITY
+s.2(da) database definition
+s.6(2)(v) national database
+s.18(2)(p) state databases
+plan review every 3 years; update at least every 5 years
 
-ASCII MASTER FLOW — PANEL 12/12: Institutional answer spine
-CITE CURRENT LAW -> NAME TIER -> STATE MANDATE
-MAP PLAN + FORCE / FUND + LOCAL IMPLEMENTER
-IDENTIFY COORDINATION OR CAPACITY GAP
-QUALIFY ENABLING POWER AND OUTCOME CLAIM
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State the enacted, amended, notified,...
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State the enacted, amended, notified,...
+11. EVIDENCE LADDER
+law -> notification -> staff/budget -> plan/drill/expenditure -> output -> outcome
+
+12. ANSWER SPINE
+law + tiers + plan + capacity + finance + data + local implementation + measured outcome

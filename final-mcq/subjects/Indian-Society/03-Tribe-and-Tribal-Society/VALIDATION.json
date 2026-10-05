@@ -1,0 +1,28 @@
+{
+  "catalogue_key": "indian-society-03",
+  "title": "Tribe and Tribal Society",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "original_questions_total": 96,
+  "revision_counts": {
+    "revision-1": 32,
+    "revision-2": 32,
+    "revision-3": 32
+  },
+  "coverage_roots": 32,
+  "coverage_each_revision": true,
+  "answer_free_questions": true,
+  "answer_position_counts_each_revision": {
+    "A": 8,
+    "B": 8,
+    "C": 8,
+    "D": 8
+  },
+  "distinct_stems_total": 96,
+  "exact_pyqs_live": 0,
+  "pyq_status": "held for official same-paper key and reproduction rights",
+  "source_audit": "pass",
+  "structural_audit": "pass",
+  "hostile_audit": "pass",
+  "next_pending": "Family, Marriage and Kinship"
+}

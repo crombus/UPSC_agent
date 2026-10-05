@@ -1,0 +1,49 @@
+{
+  "topic_key": "indian-society-07",
+  "title": "Women and Women's Organisations",
+  "status": "complete_for_original_banks",
+  "revisions": {
+    "revision-1": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "B": 12,
+        "C": 12,
+        "A": 12,
+        "D": 12
+      },
+      "roots": 48
+    },
+    "revision-2": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "B": 12,
+        "A": 12,
+        "C": 12,
+        "D": 12
+      },
+      "roots": 48
+    },
+    "revision-3": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "A": 12,
+        "B": 12,
+        "D": 12,
+        "C": 12
+      },
+      "roots": 48
+    }
+  },
+  "coverage_roots": 48,
+  "pyqs_included": 0,
+  "exact_pyq_status": "held_for_provenance_and_reproduction_rights",
+  "learner_blind_review": "pending",
+  "source_order": [
+    "canonical Markdown owners",
+    "official NFHS/MoHFW boundaries",
+    "OCR/official GS-I demand routing"
+  ]
+}

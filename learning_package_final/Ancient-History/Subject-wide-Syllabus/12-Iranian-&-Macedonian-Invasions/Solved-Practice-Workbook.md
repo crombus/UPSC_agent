@@ -4,13 +4,10 @@ topic_key: ancient-indian-history-12
 ---
 # Iranian and Macedonian Invasions: Solved Practice Workbook
 
-> **Practice contract:** exactly 32 original hard/remedial MCQs precede the PYQ audit; strict ABCD rotation repeats eight times; 128 option explanations and 32 traps are unique.
 
-## BASIC MCQS / REMEDIATION
+## PRACTICE QUESTIONS — NO INLINE ANSWERS
 
-### 32 ORIGINAL HARD MCQS
-
-> These are original questions, not UPSC PYQs. Correct keys rotate A -> B -> C -> D exactly eight times.
+### 48 ORIGINAL MCQS / REMEDIATION
 
 #### Q1
 
@@ -21,17 +18,6 @@ Which statement best uses Darius I's DNa inscription?
 - C. It records Alexander's appointment of Porus after Hydaspes.
 - D. It dates the invention of Kharoshthi to one named royal scribe.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: DNa securely attests both eastern names inside Darius's claimed imperial geography. [Q1-A]
-- **B:** A royal list gives no uniform assessment schedule or locality-by-locality administrative map. [Q1-B]
-- **C:** Alexander's campaign belongs to the fourth century BCE and later classical narratives. [Q1-C]
-- **D:** No Achaemenid inscription identifies a single inventor or foundation date for Kharoshthi. [Q1-D]
-
-> **Examiner trap 1:** Country-list inclusion is stronger than border or bureaucracy reconstruction.
-
 #### Q2
 
 Why is c. 518/516 BCE written with caution?
@@ -41,36 +27,14 @@ Why is c. 518/516 BCE written with caution?
 - C. It dates Xerxes's invasion of Greece and therefore cannot concern India.
 - D. It is the year Cyrus certainly conquered the whole Indus and Ganga basins.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Behistun names Gandara but does not supply this exact annexation date or a Punjab charter. [Q2-A]
-- **B:** Correct: The date is useful chronology, while process, border and administrative depth remain reconstructed. [Q2-B]
-- **C:** Xerxes invaded Greece in 480 BCE; the Darius convention concerns an earlier eastern extension. [Q2-C]
-- **D:** Cyrus's exact Indian conquests are uncertain and no Ganga-wide claim is defensible. [Q2-D]
-
-> **Examiner trap 2:** A conventional date organises chronology; it must not manufacture precision.
-
 #### Q3
 
 Which pairing is correct?
 
-- A. Hydaspes-Beas and Hyphasis-Jhelum while treating both names as exact synonyms in every classical itinerary.
+- A. Hydaspes-Beas and Hyphasis-Jhelum.
 - B. Hydaspes-Ravi and Hyphasis-Chenab
 - C. Hydaspes-Jhelum and Hyphasis-Beas
 - D. Hydaspes-Indus delta and Hyphasis-Makran
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** This reverses the battle river and the limit-of-advance river. [Q3-A]
-- **B:** Ravi is Hydraotes and Chenab is Acesines in the standard nomenclature. [Q3-B]
-- **C:** Correct: Porus fought at Hydaspes/Jhelum; the army stopped at Hyphasis/Beas. [Q3-C]
-- **D:** Patala and Makran belong to the return route, not these Punjab river names. [Q3-D]
-
-> **Examiner trap 3:** Similar Greek H-names are a deliberate map trap.
 
 #### Q4
 
@@ -81,17 +45,6 @@ What is the safest claim about Cyrus II?
 - C. His conquest date is fixed by a surviving Indus expedition diary.
 - D. He may have approached the eastern frontier, but firm Indian incorporation is first defensible under Darius.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** No evidence supports a Ganga-wide Cyrus province or a uniform frontier grid. [Q4-A]
-- **B:** Ashokan inscriptions are third-century BCE Mauryan documents, long after Cyrus. [Q4-B]
-- **C:** No Cyrus-era Indus expedition diary survives to provide such precision. [Q4-C]
-- **D:** Correct: Later eastern traditions are possible antecedents, while Darius supplies firmer inscriptions. [Q4-D]
-
-> **Examiner trap 4:** Do not upgrade an antecedent tradition into a securely mapped conquest.
-
 #### Q5
 
 Behistun is most useful here because it:
@@ -100,17 +53,6 @@ Behistun is most useful here because it:
 - B. Lists Hindush alone and omits every other eastern land and identifies each listed eastern people as one identical fiscal province.
 - C. Provides audited tribute receipts from the twentieth district.
 - D. Narrates the Battle of Hydaspes from Porus's perspective.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: Gandara is attested, but the inscription's political-rhetorical purpose still matters. [Q5-A]
-- **B:** Behistun lists many lands; Hindush is clearer in later Darius lists such as DNa. [Q5-B]
-- **C:** The tribute-district report is Herodotus, not a Behistun account ledger. [Q5-C]
-- **D:** Hydaspes occurred much later and survives mainly through Greek and Roman authors. [Q5-D]
-
-> **Examiner trap 5:** Contemporaneity increases value but does not cancel royal ideology.
 
 #### Q6
 
@@ -121,17 +63,6 @@ How should Herodotus's 360 talents of gold dust be treated?
 - C. As the official pay bill of Indian troops at Thermopylae.
 - D. As proof that Gandara and Hindush were one identical province.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Ancient talents, purity, conversion and collection cannot be reduced to a modern audited sum. [Q6-A]
-- **B:** Correct: The figure signals exceptional fiscal reputation while retaining unit and rhetoric limits. [Q6-B]
-- **C:** Tribute and troop catalogues are separate passages and the figure is not a payroll. [Q6-C]
-- **D:** Herodotus can distinguish Gandarians and Indians; his categories do not erase the distinction. [Q6-D]
-
-> **Examiner trap 6:** A famous number earns marks only when its evidentiary status travels with it.
-
 #### Q7
 
 What do Xerxes-era troop references most securely indicate?
@@ -140,17 +71,6 @@ What do Xerxes-era troop references most securely indicate?
 - B. Indian troops alone defeated the Greeks.
 - C. Eastern peoples participated in imperial military obligations, possibly through locally mediated contingents.
 - D. Xerxes directly administered every village east of the Beas.
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Imperial contingents could be supplied through diverse subjects and local authorities. [Q7-A]
-- **B:** Herodotus's catalogue does not make Indian troops the sole or decisive force. [Q7-B]
-- **C:** Correct: Participation supports military incorporation without a uniform standing-army model. [Q7-C]
-- **D:** Troop service cannot map universal direct administration or a Beas frontier. [Q7-D]
-
-> **Examiner trap 7:** Contingent service proves obligation more readily than administrative uniformity.
 
 #### Q8
 
@@ -161,17 +81,6 @@ Which conclusion about Achaemenid satrapy is best?
 - C. No palace found in India proves there was no Achaemenid power at all.
 - D. Provincial supervision, tribute and levies could coexist with local mediation and variable control.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** A vast diverse empire normally relied on local structures as well as appointed supervision. [Q8-A]
-- **B:** Different source classifications serve different purposes and cannot be overlaid mechanically. [Q8-B]
-- **C:** Architectural absence limits reconstruction but does not erase inscriptions, coins and troop evidence. [Q8-C]
-- **D:** Correct: This graded model explains real incorporation without inventing uniform depth. [Q8-D]
-
-> **Examiner trap 8:** Avoid the false binary of total bureaucracy versus no rule.
-
 #### Q9
 
 Kharoshthi is best described as:
@@ -180,17 +89,6 @@ Kharoshthi is best described as:
 - B. A Greek alphabet created personally by Alexander at Taxila for a uniform Greek-speaking administration extending across the entire subcontinent.
 - C. A south-Indian script derived directly from Tamil-Brahmi.
 - D. A Persian language rather than a writing system.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: Direction and sign relationships support Aramaic derivation with adaptation to local speech. [Q9-A]
-- **B:** Alexander neither created the script nor turned it into a Greek alphabet. [Q9-B]
-- **C:** Its core zone is the north-west; this derivation reverses geography and chronology. [Q9-C]
-- **D:** Kharoshthi is a script that wrote languages, not itself the Persian language. [Q9-D]
-
-> **Examiner trap 9:** Script, language, direction and region are four separate elimination checks.
 
 #### Q10
 
@@ -201,17 +99,6 @@ Which claim avoids blanket Persianisation?
 - C. Indian trade began only after Darius and stopped after Xerxes.
 - D. Punch-marked coinage was merely imported Persian currency.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Parallels do not demonstrate line-by-line institutional descent. [Q10-A]
-- **B:** Correct: Contact widened repertoires without erasing local agency or prior networks. [Q10-B]
-- **C:** Routes and exchange predated Achaemenid expansion and survived its decline. [Q10-C]
-- **D:** Achaemenid coins circulated, but Indian punch-marked traditions cannot be reduced to imports. [Q10-D]
-
-> **Examiner trap 10:** Influence is not copying; contact is not cultural replacement.
-
 #### Q11
 
 Which sequence correctly orders Alexander's campaign?
@@ -220,17 +107,6 @@ Which sequence correctly orders Alexander's campaign?
 - B. Hydaspes -> Hindu Kush -> Indus -> Beas
 - C. Hindu Kush/highlands -> Indus/Taxila -> Hydaspes -> Beas
 - D. Beas -> Aornos -> Taxila -> Patala
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Gedrosia belongs to the return after the Punjab and lower-Indus phases. [Q11-A]
-- **B:** The Hindu Kush approach preceded the Indus crossing and Hydaspes. [Q11-B]
-- **C:** Correct: The sequence moves from highland security to the Punjab limit. [Q11-C]
-- **D:** Aornos and Taxila preceded the Beas; Patala followed it during the descent. [Q11-D]
-
-> **Examiner trap 11:** Chronology must be read as a route, not memorised as disconnected names.
 
 #### Q12
 
@@ -241,17 +117,6 @@ Ambhi's response to Alexander shows:
 - C. That all north-western rulers passively surrendered.
 - D. A regional alliance choice shaped by local rivalry, supply and political calculation.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** No modern-national command united the frontier polities. [Q12-A]
-- **B:** Taxila's ruler acted precisely because local interests and rivalries mattered. [Q12-B]
-- **C:** Porus, highland communities and Malloi provide clear counter-evidence. [Q12-C]
-- **D:** Correct: Alliance was agency, not proof of collective Indian submission. [Q12-D]
-
-> **Examiner trap 12:** Judge ancient actors within regional politics, not modern patriotic categories.
-
 #### Q13
 
 At Hydaspes, the first operational problem was:
@@ -260,17 +125,6 @@ At Hydaspes, the first operational problem was:
 - B. Capturing the Ganga delta before the monsoon where Alexander expected Porus to deploy before any crossing of the Jhelum was required.
 - C. Destroying a Persian fleet in the Arabian Sea.
 - D. Defending Taxila from Seleucus I.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: River surveillance and conditions made deception and crossing central to the battle plan. [Q13-A]
-- **B:** Alexander never reached the Ganga delta; the battle was in the Punjab. [Q13-B]
-- **C:** Hydaspes was a land-river campaign against Porus, not a Persian naval battle. [Q13-C]
-- **D:** Seleucus belongs to a later successor phase after Alexander's death. [Q13-D]
-
-> **Examiner trap 13:** Start battle analysis with terrain and the tactical problem it created.
 
 #### Q14
 
@@ -281,17 +135,6 @@ Which statement about elephants at Hydaspes is safest?
 - C. They alone defeated Alexander and forced the Beas mutiny during the battle and immediately converted the later troop refusal into a battlefield defeat at Hydaspes.
 - D. They prove every Indian army used one identical tactical doctrine.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Major Greek accounts give elephants a central role in Porus's deployment. [Q14-A]
-- **B:** Correct: Elephants were significant without being either invincible or useless. [Q14-B]
-- **C:** The Beas refusal occurred later and cannot be collapsed into the Hydaspes outcome. [Q14-C]
-- **D:** One battle does not establish a universal subcontinental doctrine. [Q14-D]
-
-> **Examiner trap 14:** Close options often force a false choice between decisive and irrelevant.
-
 #### Q15
 
 Why was Porus restored after Hydaspes?
@@ -300,17 +143,6 @@ Why was Porus restored after Hydaspes?
 - B. Because Alexander abolished indirect rule everywhere else.
 - C. Retaining a capable local ruler reduced occupation costs and stabilised a contested region.
 - D. Because Porus became king of the entire Ganga plain.
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Greek narratives claim Macedonian battlefield success despite admiring Porus. [Q15-A]
-- **B:** Alexander repeatedly used local rulers and changing subordinate arrangements. [Q15-B]
-- **C:** Correct: Restoration served political control after a costly battle. [Q15-C]
-- **D:** Porus's enlarged authority remained north-western and did not cover the Ganga plain. [Q15-D]
-
-> **Examiner trap 15:** Separate a battlefield verdict from the political logic of settlement.
 
 #### Q16
 
@@ -321,17 +153,6 @@ The Alexander-Porus medallion should be used as:
 - C. An uncontested dated record naming both rulers in its inscription.
 - D. Suggestive victory iconography whose production, attribution and scene require qualification.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Coin imagery constructs sovereignty and does not photograph a single encounter. [Q16-A]
-- **B:** Issuer and mint cannot be transferred to Porus without evidence. [Q16-B]
-- **C:** The famous type lacks the simple named caption imagined here and its context is debated. [Q16-C]
-- **D:** Correct: It supports ideology and commemoration more safely than literal event detail. [Q16-D]
-
-> **Examiner trap 16:** Numismatic images prove representation before narrative literalism.
-
 #### Q17
 
 Which factor belongs in the Hyphasis explanation?
@@ -340,17 +161,6 @@ Which factor belongs in the Hyphasis explanation?
 - B. A single battle at the Beas in which a united Indian army destroyed Alexander followed by a decisive field battle in which a common Indian command expelled the army.
 - C. A royal decree from Darius ordering Macedonian withdrawal.
 - D. The sudden appearance of Indo-Greek kings from the second century BCE.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: The halt emerged from interacting operational and morale pressures. [Q17-A]
-- **B:** No such united battle occurred; the troops refused further advance. [Q17-B]
-- **C:** Darius III was dead and no Achaemenid decree controlled Alexander's army. [Q17-C]
-- **D:** Indo-Greek kingdoms belong to a much later successor history. [Q17-D]
-
-> **Examiner trap 17:** Cumulative causation defeats hero myths and single-factor memorisation.
 
 #### Q18
 
@@ -361,17 +171,6 @@ How should Nanda army figures in Greek accounts be used?
 - C. As Mauryan statistics from Ashoka's inscriptions.
 - D. As proof Alexander had already fought the Nandas.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** The figures vary among authors and are not audited manpower returns. [Q18-A]
-- **B:** Correct: Reputation affected expectations even when exact totals are unreliable. [Q18-B]
-- **C:** Ashoka's edicts do not provide these Nanda army tables. [Q18-C]
-- **D:** Alexander stopped at the Beas and did not fight the Nanda state. [Q18-D]
-
-> **Examiner trap 18:** An unreliable number can still reveal a reliable perception.
-
 #### Q19
 
 What does the Malloi episode demonstrate?
@@ -380,17 +179,6 @@ What does the Malloi episode demonstrate?
 - B. Alexander never descended the Indus.
 - C. Return through conquered space still required hard fighting and nearly produced a command catastrophe.
 - D. The Malloi were a Persian satrapy loyal to Xerxes.
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Malloi resistance is counter-evidence to smooth pacification. [Q19-A]
-- **B:** The river descent is a major phase after the Beas halt. [Q19-B]
-- **C:** Correct: Alexander's serious wound exposes continuing military risk. [Q19-C]
-- **D:** The episode belongs to the Macedonian return, not Xerxes's empire. [Q19-D]
-
-> **Examiner trap 19:** Do not let the famous Hydaspes battle erase later resistance.
 
 #### Q20
 
@@ -401,17 +189,6 @@ Patala is most relevant as:
 - C. The origin city of Kharoshthi in a surviving foundation charter.
 - D. A lower-Indus delta node for arrangements, reconnaissance and fleet preparation, with geographical caution.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Porus's power is normally placed between Jhelum and Chenab, not at the delta. [Q20-A]
-- **B:** Behistun is in western Iran, not the Indus delta. [Q20-B]
-- **C:** No Patala charter records the invention of Kharoshthi. [Q20-C]
-- **D:** Correct: Delta strategy matters while ancient channels and exact location remain debated. [Q20-D]
-
-> **Examiner trap 20:** Ancient delta geography cannot be plotted with modern coastline certainty.
-
 #### Q21
 
 Nearchus is important because:
@@ -420,17 +197,6 @@ Nearchus is important because:
 - B. He wrote the Behistun inscription for Darius and left a complete autograph route text from the coastal voyage.
 - C. He was Porus's elephant commander at Hydaspes.
 - D. His surviving autograph gives exact casualty totals for Gedrosia.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: Participant proximity combines with later textual transmission. [Q21-A]
-- **B:** Behistun predates Nearchus, and no complete Nearchus autograph survives. [Q21-B]
-- **C:** Nearchus was a Macedonian naval commander, not Porus's officer. [Q21-C]
-- **D:** The original work does not survive and exact loss totals remain disputed. [Q21-D]
-
-> **Examiner trap 21:** Always name both the early witness and the later transmitter.
 
 #### Q22
 
@@ -441,17 +207,6 @@ Why must Onesicritus be read cautiously?
 - C. His text survives as a complete neutral ship log independently preserved from the voyage without later editing, quotation or hostile criticism.
 - D. He alone provides an Indian-language narrative of the campaign.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Onesicritus accompanied Alexander and wrote about the expedition. [Q22-A]
-- **B:** Correct: Proximity does not erase literary self-fashioning or fabulous material. [Q22-B]
-- **C:** The original work is lost and what survives is mediated. [Q22-C]
-- **D:** He wrote in Greek within the Alexander tradition, not as an Indian chronicler. [Q22-D]
-
-> **Examiner trap 22:** Eyewitness is not a synonym for complete, unbiased or independently surviving.
-
 #### Q23
 
 Arrian's value and limit are best paired as:
@@ -460,17 +215,6 @@ Arrian's value and limit are best paired as:
 - B. Eyewitness diary; no literary agenda composed during the campaign and checked line by line against an Indian royal archive.
 - C. Detailed synthesis using participant sources; second-century CE selection and heroic-military framing
 - D. Achaemenid tax tablet; exact satrapy map
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Arrian supplies abundant route detail but not an Indian royal archive. [Q23-A]
-- **B:** He lived centuries later and wrote a crafted history. [Q23-B]
-- **C:** Correct: Earlier-source access and temporal or genre distance must be held together. [Q23-C]
-- **D:** Arrian is neither an Achaemenid tablet nor a cadastral cartographer. [Q23-D]
-
-> **Examiner trap 23:** A late source may preserve early information without becoming contemporary.
 
 #### Q24
 
@@ -481,17 +225,6 @@ Plutarch's famous Porus dialogue is safest as:
 - C. An exact treaty clause fixing every territorial boundary.
 - D. A biographical scene expressing exemplary kingship, not guaranteed verbatim speech.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** No bilingual transcript or matching Indian inscription establishes verbatim wording. [Q24-A]
-- **B:** The dialogue concerns royal conduct after battle, not Macedonian succession. [Q24-B]
-- **C:** It cannot function as a surveyed settlement document. [Q24-C]
-- **D:** Correct: Biography preserves memory while shaping character and moral example. [Q24-D]
-
-> **Examiner trap 24:** Memorable ancient speech is usually the highest-risk evidence class.
-
 #### Q25
 
 Alexander's arrangements relied chiefly on:
@@ -500,17 +233,6 @@ Alexander's arrangements relied chiefly on:
 - B. A uniform Mauryan-style bureaucracy across the whole subcontinent organised through permanent departments identical to those later described for the Mauryas.
 - C. Only direct Macedonian village administration with no local intermediaries.
 - D. Permanent Indo-Greek dynasties already ruling Gandhara art centres.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: Layered indirect and military controls economised force. [Q25-A]
-- **B:** Mauryan institutions belong to later consolidation and cannot be projected backward. [Q25-B]
-- **C:** Porus, Ambhi and Abhisara contradict the no-intermediary claim. [Q25-C]
-- **D:** Later Indo-Greek states did not exist as Alexander's permanent system. [Q25-D]
-
-> **Examiner trap 25:** List the control instruments, then test how long each survived.
 
 #### Q26
 
@@ -521,17 +243,6 @@ Why did Macedonian control fragment rapidly?
 - C. Darius I reconquered the Indus after 323 BCE.
 - D. The whole army settled permanently at Taxila and abandoned politics.
 
-**Answer: B.**
-
-**Option-wise explanation:**
-
-- **A:** Script choice does not explain imperial succession and military fragmentation. [Q26-A]
-- **B:** Correct: Alexander's death exposed a corridor system dependent on personal supremacy. [Q26-B]
-- **C:** Darius I had died more than a century before Alexander. [Q26-C]
-- **D:** Forces and officers followed diverse routes; no universal Taxila settlement occurred. [Q26-D]
-
-> **Examiner trap 26:** Rapid collapse is evidence about institutional depth, not proof nothing happened.
-
 #### Q27
 
 Which formulation best links Alexander to the Mauryas?
@@ -540,17 +251,6 @@ Which formulation best links Alexander to the Mauryas?
 - B. Chandragupta certainly trained as a Macedonian officer.
 - C. Fragmentation was one favourable condition later exploited by an independently rooted Magadhan-Mauryan power.
 - D. Seleucus was Alexander's governor of Pataliputra in 326 BCE.
-
-**Answer: C.**
-
-**Option-wise explanation:**
-
-- **A:** Mauryan formation followed separate Magadhan and Chandragupta processes. [Q27-A]
-- **B:** Late traditions do not establish this specific military career. [Q27-B]
-- **C:** Correct: The wording recognises opportunity without deterministic causation. [Q27-C]
-- **D:** Seleucus's later eastern role belongs to successor conflict. [Q27-D]
-
-> **Examiner trap 27:** Use one condition rather than the cause when linking the invasion to Mauryan expansion.
 
 #### Q28
 
@@ -561,17 +261,6 @@ Which consequence is overclaimed?
 - C. The 326-325 BCE sequence provides a useful chronological anchor.
 - D. Alexander personally created mature Gandhara art and all later Indo-Greek coinage.
 
-**Answer: D.**
-
-**Option-wise explanation:**
-
-- **A:** Route narratives are a genuine informational consequence, though source-critical. [Q28-A]
-- **B:** Intensified is safer than invented because earlier contacts already existed. [Q28-B]
-- **C:** The campaign gives an important external date for connected events. [Q28-C]
-- **D:** Correct: Those mature forms belong to later patrons, states and workshops. [Q28-D]
-
-> **Examiner trap 28:** Do not collapse a long Hellenistic afterlife into one conqueror's agency.
-
 #### Q29
 
 Which answer framework is strongest?
@@ -580,17 +269,6 @@ Which answer framework is strongest?
 - B. List Alexander legends, quote army totals and end with national unity while leaving the geographical sequence, source classes and causal hierarchy unspecified.
 - C. Treat Darius, Seleucus and Indo-Greeks as one continuous invasion.
 - D. Discuss only art and omit territory, chronology and sources.
-
-**Answer: A.**
-
-**Option-wise explanation:**
-
-- **A:** Correct: This sequence answers scale, evidence, causation and comparison together. [Q29-A]
-- **B:** Legends and totals without criticism convert rhetoric into evidence. [Q29-B]
-- **C:** The episodes are chronologically and institutionally distinct. [Q29-C]
-- **D:** Art is one bounded legacy and cannot replace the campaign spine. [Q29-D]
-
-> **Examiner trap 29:** A framework is a safeguard against map, chronology and source errors.
 
 #### Q30
 
@@ -601,7 +279,607 @@ Which statement best distinguishes later Indo-Greeks?
 - C. They ruled India before the Achaemenids.
 - D. Their portrait coins prove Alexander invented Kharoshthi.
 
-**Answer: B.**
+#### Q31
+
+What does no blanket Persianisation mean?
+
+- A. Achaemenid contact had no effects whatsoever despite the inscriptional, numismatic and scribal evidence for selective eastern connections.
+- B. Every Iranian parallel is fictional.
+- C. Specific scripts, coins, vocabulary or forms could travel without uniform cultural replacement.
+- D. Only Greek contact influenced the north-west.
+
+#### Q32
+
+Which qualified verdict is most defensible?
+
+- A. Foreign invasions directly unified India under Alexander.
+- B. Limited territorial reach eliminates every political and cultural effect.
+- C. Achaemenid and Macedonian rule were identical and permanent.
+- D. They were bounded interventions with variable control and selective longer effects on scripts, routes and knowledge.
+
+#### Q33
+
+What can mixed coin contexts at Chaman-i Hazouri and Bhir Mound establish?
+
+- A. Coin circulation and interaction alongside local forms, not a single-origin story for Indian coinage.
+- B. That Alexander minted all coins in both deposits.
+- C. That Persia invented every Indian punch-marked coin.
+- D. That all local bent-bar pieces were royal Achaemenid issues.
+
+#### Q34
+
+Which conclusion follows most safely from Aornos in campaign narratives?
+
+- A. It proved uninterrupted Macedonian control of all India.
+- B. It was a contested north-western stronghold in the advance, distinct from later Punjab battles.
+- C. It was the place of Porus’s river crossing.
+- D. It was the site of the Hyphasis refusal.
+
+#### Q35
+
+Which source pairing is most accurate for Achaemenid eastern claims?
+
+- A. DNa dates Chandragupta’s treaty with Seleucus; Behistun records Nanda tribute.
+- B. Both are surveys of every Indus village and its assessed tax.
+- C. Behistun attests Gandara; DNa also names Hindush among Darius’s subject lands.
+- D. Behistun narrates Alexander at Hydaspes; DNa records a Mauryan conquest.
+
+#### Q36
+
+Which statement keeps Alexander’s return-route evidence in its correct phase?
+
+- A. The fleet crossed the Hyphasis and annexed the Ganga valley.
+- B. Patala lay at the Aornos mountain stronghold.
+- C. Gedrosia was the battlefield where Porus was defeated.
+- D. Nearchus’s fleet followed a maritime return while the land force faced Gedrosian hardship.
+
+#### Q37
+
+What is the strongest source-critical description of Arrian’s Indian campaign account?
+
+- A. It is a later selection drawing on now-lost earlier accounts including Ptolemy and Aristobulus.
+- B. It is identical to every speech attributed by Plutarch.
+- C. It is an eyewitness journal directly written at Hydaspes.
+- D. It replaces the need for Indian archaeology.
+
+#### Q38
+
+What follows from silence or scarcity in surviving Indian accounts of Hydaspes?
+
+- A. Alexander conquered all of Magadha.
+- B. The reconstruction relies heavily on later Greek/Roman narratives, which need independent checks and explicit limits.
+- C. Porus never existed.
+- D. The Greek narrative is therefore an audited neutral transcript.
+
+#### Q39
+
+Which sequence correctly places Alexander’s campaign within Persian and Mauryan chronology?
+
+- A. Seleucid diplomacy → Hydaspes → Xerxes → Chandragupta.
+- B. Indo-Greek kingdom → Darius I → Alexander → Cyrus.
+- C. Darius I’s eastern claims → fall of Darius III → Alexander’s north-west campaign → Mauryan–Seleucid diplomacy.
+- D. Alexander → Darius I → Ashoka → Nandas.
+
+#### Q40
+
+What may the later Mauryan–Seleucid settlement establish about Alexander’s Indian legacy?
+
+- A. The Indus satrapies remained one stable Macedonian kingdom for centuries.
+- B. A Seleucid agreement proves all Gandhara art was produced under Alexander.
+- C. Alexander founded the Mauryan Empire by decree.
+- D. Post-Alexander successor politics shaped a north-western frontier that Mauryan diplomacy later negotiated.
+
+#### Q41
+
+What is the best reading of Hindush in Achaemenid royal lists?
+
+- A. A royal designation for an eastern imperial land, not a surveyed synonym for the entire modern Indian subcontinent.
+- B. A reliable name for every Ganga-basin mahajanapada under direct Persian tax control.
+- C. An inscriptional name for Alexander’s Macedonian headquarters.
+- D. A term that proves the whole Deccan paid identical tribute to Darius.
+
+#### Q42
+
+Why should Herodotus’s twentieth tribute district not be equated mechanically with every land called Hindush?
+
+- A. Royal inscriptions and Greek ethnography are identical administrative registers.
+- B. The sources use different naming and reporting conventions; a tribute district is not automatically coextensive with each listed royal country.
+- C. Herodotus wrote a surviving Mauryan annual budget.
+- D. The district proves no part of the north-west had ever entered an empire.
+
+#### Q43
+
+Which inference from right-to-left Kharoshthi and imperial Aramaic is defensible?
+
+- A. All Brahmi letters were copied unchanged from Aramaic.
+- B. One named Achaemenid official invented Kharoshthi in a known year.
+- C. North-western scribal contact and adaptation are plausible without proving a single inventor or wholesale script copying.
+- D. The script could only have appeared after Indo-Greek rule.
+
+#### Q44
+
+What does Ambhi’s support for Alexander show about the north-western political landscape?
+
+- A. All local rulers resisted as a single Indian federation.
+- B. Porus had already lost at the Beas.
+- C. Ambhi was appointed ruler of Magadha by the Nandas.
+- D. Local rulers pursued different strategies and rivalries; neither collaboration nor resistance represents all polities.
+
+#### Q45
+
+Which reading of Porus’s restoration after Hydaspes is strategically sound?
+
+- A. A battlefield victory could coexist with restoring a defeated ruler as an intermediary for shallow territorial control.
+- B. Restoration proves Porus defeated Alexander and occupied Macedonia.
+- C. Restoration shows the Macedonians abolished all local kingship.
+- D. Restoration proves identical Greek political arrangements throughout the Ganga valley.
+
+#### Q46
+
+Which caution belongs to the Greek settlements called Boukephala and Nikaia?
+
+- A. Their names show Alexander controlled the whole Deccan permanently.
+- B. Founding or naming settlements can record a campaign, but durability, location and later development require separate checks.
+- C. They were Persian satrapal capitals founded under Cyrus.
+- D. Their existence proves later Indo-Greek coins were struck personally by Alexander.
+
+#### Q47
+
+Which distinction best protects the evidentiary status of the Alexander–Porus medallion?
+
+- A. The medallion is a contemporary Indian eyewitness chronicle of every battle movement.
+- B. Its image fixes an exact Macedonian and Indian casualty count.
+- C. It can illuminate victory imagery, while attribution, date and interpretation of its scenes remain debated.
+- D. It establishes precise modern borders of Porus’s restored realm.
+
+#### Q48
+
+Why should later Greco-Bactrian and Gandharan artistic developments not be attributed simply to Alexander?
+
+- A. They all predated Cyrus’s Persian frontier campaign.
+- B. Every Gandharan statue was made at the Hydaspes battle site.
+- C. Alexander’s rule extended unchanged through every later kingdom.
+- D. They belong to later contacts and production contexts, though his campaign formed part of an earlier history of exchange.
+
+### SIX ORIGINAL MAINS QUESTIONS
+
+#### ORIGINAL MAINS 1 — 10 MARKS — 150 WORDS
+
+**Question:** Explain why Achaemenid rule in north-western India should be described as real but uneven.
+
+#### ORIGINAL MAINS 2 — 10 MARKS — 150 WORDS
+
+**Question:** Why did Alexander's army stop at the Hyphasis? Give a multi-causal explanation.
+
+#### ORIGINAL MAINS 3 — 15 MARKS — 250 WORDS
+
+**Question:** Assess the importance and limits of Achaemenid influence on ancient India.
+
+#### ORIGINAL MAINS 4 — 15 MARKS — 250 WORDS
+
+**Question:** Reconstruct the Battle of Hydaspes with attention to geography, tactics and source criticism.
+
+#### ORIGINAL MAINS 5 — 20 MARKS — 250 WORDS
+
+**Question:** Compare the Iranian and Macedonian interventions in north-western India in terms of nature, evidence and consequences.
+
+#### ORIGINAL MAINS 6 — 20 MARKS — 250 WORDS
+
+**Question:** 'The history of these invasions is also a history of sources.' Critically examine.
+
+## SEPARATE ANSWER KEY AND SOLVED PRACTICE
+
+### ORIGINAL MCQ KEY — A → B → C → D
+
+#### Q1 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: DNa securely attests both eastern names inside Darius's claimed imperial geography. [Q1-A]
+- **B:** A royal list gives no uniform assessment schedule or locality-by-locality administrative map. [Q1-B]
+- **C:** Alexander's campaign belongs to the fourth century BCE and later classical narratives. [Q1-C]
+- **D:** No Achaemenid inscription identifies a single inventor or foundation date for Kharoshthi. [Q1-D]
+
+> **Examiner trap 1:** Country-list inclusion is stronger than border or bureaucracy reconstruction.
+
+
+#### Q2 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** Behistun names Gandara but does not supply this exact annexation date or a Punjab charter. [Q2-A]
+- **B:** Correct: The date is useful chronology, while process, border and administrative depth remain reconstructed. [Q2-B]
+- **C:** Xerxes invaded Greece in 480 BCE; the Darius convention concerns an earlier eastern extension. [Q2-C]
+- **D:** Cyrus's exact Indian conquests are uncertain and no Ganga-wide claim is defensible. [Q2-D]
+
+> **Examiner trap 2:** A conventional date organises chronology; it must not manufacture precision.
+
+
+#### Q3 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** This reverses the battle river and the limit-of-advance river. [Q3-A]
+- **B:** Ravi is Hydraotes and Chenab is Acesines in the standard nomenclature. [Q3-B]
+- **C:** Correct: Porus fought at Hydaspes/Jhelum; the army stopped at Hyphasis/Beas. [Q3-C]
+- **D:** Patala and Makran belong to the return route, not these Punjab river names. [Q3-D]
+
+> **Examiner trap 3:** Similar Greek H-names are a deliberate map trap.
+
+
+#### Q4 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** No evidence supports a Ganga-wide Cyrus province or a uniform frontier grid. [Q4-A]
+- **B:** Ashokan inscriptions are third-century BCE Mauryan documents, long after Cyrus. [Q4-B]
+- **C:** No Cyrus-era Indus expedition diary survives to provide such precision. [Q4-C]
+- **D:** Correct: Later eastern traditions are possible antecedents, while Darius supplies firmer inscriptions. [Q4-D]
+
+> **Examiner trap 4:** Do not upgrade an antecedent tradition into a securely mapped conquest.
+
+
+#### Q5 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: Gandara is attested, but the inscription's political-rhetorical purpose still matters. [Q5-A]
+- **B:** Behistun lists many lands; Hindush is clearer in later Darius lists such as DNa. [Q5-B]
+- **C:** The tribute-district report is Herodotus, not a Behistun account ledger. [Q5-C]
+- **D:** Hydaspes occurred much later and survives mainly through Greek and Roman authors. [Q5-D]
+
+> **Examiner trap 5:** Contemporaneity increases value but does not cancel royal ideology.
+
+
+#### Q6 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** Ancient talents, purity, conversion and collection cannot be reduced to a modern audited sum. [Q6-A]
+- **B:** Correct: The figure signals exceptional fiscal reputation while retaining unit and rhetoric limits. [Q6-B]
+- **C:** Tribute and troop catalogues are separate passages and the figure is not a payroll. [Q6-C]
+- **D:** Herodotus can distinguish Gandarians and Indians; his categories do not erase the distinction. [Q6-D]
+
+> **Examiner trap 6:** A famous number earns marks only when its evidentiary status travels with it.
+
+
+#### Q7 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** Imperial contingents could be supplied through diverse subjects and local authorities. [Q7-A]
+- **B:** Herodotus's catalogue does not make Indian troops the sole or decisive force. [Q7-B]
+- **C:** Correct: Participation supports military incorporation without a uniform standing-army model. [Q7-C]
+- **D:** Troop service cannot map universal direct administration or a Beas frontier. [Q7-D]
+
+> **Examiner trap 7:** Contingent service proves obligation more readily than administrative uniformity.
+
+
+#### Q8 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** A vast diverse empire normally relied on local structures as well as appointed supervision. [Q8-A]
+- **B:** Different source classifications serve different purposes and cannot be overlaid mechanically. [Q8-B]
+- **C:** Architectural absence limits reconstruction but does not erase inscriptions, coins and troop evidence. [Q8-C]
+- **D:** Correct: This graded model explains real incorporation without inventing uniform depth. [Q8-D]
+
+> **Examiner trap 8:** Avoid the false binary of total bureaucracy versus no rule.
+
+
+#### Q9 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: Direction and sign relationships support Aramaic derivation with adaptation to local speech. [Q9-A]
+- **B:** Alexander neither created the script nor turned it into a Greek alphabet. [Q9-B]
+- **C:** Its core zone is the north-west; this derivation reverses geography and chronology. [Q9-C]
+- **D:** Kharoshthi is a script that wrote languages, not itself the Persian language. [Q9-D]
+
+> **Examiner trap 9:** Script, language, direction and region are four separate elimination checks.
+
+
+#### Q10 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** Parallels do not demonstrate line-by-line institutional descent. [Q10-A]
+- **B:** Correct: Contact widened repertoires without erasing local agency or prior networks. [Q10-B]
+- **C:** Routes and exchange predated Achaemenid expansion and survived its decline. [Q10-C]
+- **D:** Achaemenid coins circulated, but Indian punch-marked traditions cannot be reduced to imports. [Q10-D]
+
+> **Examiner trap 10:** Influence is not copying; contact is not cultural replacement.
+
+
+#### Q11 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** Gedrosia belongs to the return after the Punjab and lower-Indus phases. [Q11-A]
+- **B:** The Hindu Kush approach preceded the Indus crossing and Hydaspes. [Q11-B]
+- **C:** Correct: The sequence moves from highland security to the Punjab limit. [Q11-C]
+- **D:** Aornos and Taxila preceded the Beas; Patala followed it during the descent. [Q11-D]
+
+> **Examiner trap 11:** Chronology must be read as a route, not memorised as disconnected names.
+
+
+#### Q12 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** No modern-national command united the frontier polities. [Q12-A]
+- **B:** Taxila's ruler acted precisely because local interests and rivalries mattered. [Q12-B]
+- **C:** Porus, highland communities and Malloi provide clear counter-evidence. [Q12-C]
+- **D:** Correct: Alliance was agency, not proof of collective Indian submission. [Q12-D]
+
+> **Examiner trap 12:** Judge ancient actors within regional politics, not modern patriotic categories.
+
+
+#### Q13 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: River surveillance and conditions made deception and crossing central to the battle plan. [Q13-A]
+- **B:** Alexander never reached the Ganga delta; the battle was in the Punjab. [Q13-B]
+- **C:** Hydaspes was a land-river campaign against Porus, not a Persian naval battle. [Q13-C]
+- **D:** Seleucus belongs to a later successor phase after Alexander's death. [Q13-D]
+
+> **Examiner trap 13:** Start battle analysis with terrain and the tactical problem it created.
+
+
+#### Q14 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** Major Greek accounts give elephants a central role in Porus's deployment. [Q14-A]
+- **B:** Correct: Elephants were significant without being either invincible or useless. [Q14-B]
+- **C:** The Beas refusal occurred later and cannot be collapsed into the Hydaspes outcome. [Q14-C]
+- **D:** One battle does not establish a universal subcontinental doctrine. [Q14-D]
+
+> **Examiner trap 14:** Close options often force a false choice between decisive and irrelevant.
+
+
+#### Q15 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** Greek narratives claim Macedonian battlefield success despite admiring Porus. [Q15-A]
+- **B:** Alexander repeatedly used local rulers and changing subordinate arrangements. [Q15-B]
+- **C:** Correct: Restoration served political control after a costly battle. [Q15-C]
+- **D:** Porus's enlarged authority remained north-western and did not cover the Ganga plain. [Q15-D]
+
+> **Examiner trap 15:** Separate a battlefield verdict from the political logic of settlement.
+
+
+#### Q16 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** Coin imagery constructs sovereignty and does not photograph a single encounter. [Q16-A]
+- **B:** Issuer and mint cannot be transferred to Porus without evidence. [Q16-B]
+- **C:** The famous type lacks the simple named caption imagined here and its context is debated. [Q16-C]
+- **D:** Correct: It supports ideology and commemoration more safely than literal event detail. [Q16-D]
+
+> **Examiner trap 16:** Numismatic images prove representation before narrative literalism.
+
+
+#### Q17 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: The halt emerged from interacting operational and morale pressures. [Q17-A]
+- **B:** No such united battle occurred; the troops refused further advance. [Q17-B]
+- **C:** Darius III was dead and no Achaemenid decree controlled Alexander's army. [Q17-C]
+- **D:** Indo-Greek kingdoms belong to a much later successor history. [Q17-D]
+
+> **Examiner trap 17:** Cumulative causation defeats hero myths and single-factor memorisation.
+
+
+#### Q18 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** The figures vary among authors and are not audited manpower returns. [Q18-A]
+- **B:** Correct: Reputation affected expectations even when exact totals are unreliable. [Q18-B]
+- **C:** Ashoka's edicts do not provide these Nanda army tables. [Q18-C]
+- **D:** Alexander stopped at the Beas and did not fight the Nanda state. [Q18-D]
+
+> **Examiner trap 18:** An unreliable number can still reveal a reliable perception.
+
+
+#### Q19 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** Malloi resistance is counter-evidence to smooth pacification. [Q19-A]
+- **B:** The river descent is a major phase after the Beas halt. [Q19-B]
+- **C:** Correct: Alexander's serious wound exposes continuing military risk. [Q19-C]
+- **D:** The episode belongs to the Macedonian return, not Xerxes's empire. [Q19-D]
+
+> **Examiner trap 19:** Do not let the famous Hydaspes battle erase later resistance.
+
+
+#### Q20 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** Porus's power is normally placed between Jhelum and Chenab, not at the delta. [Q20-A]
+- **B:** Behistun is in western Iran, not the Indus delta. [Q20-B]
+- **C:** No Patala charter records the invention of Kharoshthi. [Q20-C]
+- **D:** Correct: Delta strategy matters while ancient channels and exact location remain debated. [Q20-D]
+
+> **Examiner trap 20:** Ancient delta geography cannot be plotted with modern coastline certainty.
+
+
+#### Q21 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: Participant proximity combines with later textual transmission. [Q21-A]
+- **B:** Behistun predates Nearchus, and no complete Nearchus autograph survives. [Q21-B]
+- **C:** Nearchus was a Macedonian naval commander, not Porus's officer. [Q21-C]
+- **D:** The original work does not survive and exact loss totals remain disputed. [Q21-D]
+
+> **Examiner trap 21:** Always name both the early witness and the later transmitter.
+
+
+#### Q22 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** Onesicritus accompanied Alexander and wrote about the expedition. [Q22-A]
+- **B:** Correct: Proximity does not erase literary self-fashioning or fabulous material. [Q22-B]
+- **C:** The original work is lost and what survives is mediated. [Q22-C]
+- **D:** He wrote in Greek within the Alexander tradition, not as an Indian chronicler. [Q22-D]
+
+> **Examiner trap 22:** Eyewitness is not a synonym for complete, unbiased or independently surviving.
+
+
+#### Q23 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** Arrian supplies abundant route detail but not an Indian royal archive. [Q23-A]
+- **B:** He lived centuries later and wrote a crafted history. [Q23-B]
+- **C:** Correct: Earlier-source access and temporal or genre distance must be held together. [Q23-C]
+- **D:** Arrian is neither an Achaemenid tablet nor a cadastral cartographer. [Q23-D]
+
+> **Examiner trap 23:** A late source may preserve early information without becoming contemporary.
+
+
+#### Q24 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** No bilingual transcript or matching Indian inscription establishes verbatim wording. [Q24-A]
+- **B:** The dialogue concerns royal conduct after battle, not Macedonian succession. [Q24-B]
+- **C:** It cannot function as a surveyed settlement document. [Q24-C]
+- **D:** Correct: Biography preserves memory while shaping character and moral example. [Q24-D]
+
+> **Examiner trap 24:** Memorable ancient speech is usually the highest-risk evidence class.
+
+
+#### Q25 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: Layered indirect and military controls economised force. [Q25-A]
+- **B:** Mauryan institutions belong to later consolidation and cannot be projected backward. [Q25-B]
+- **C:** Porus, Ambhi and Abhisara contradict the no-intermediary claim. [Q25-C]
+- **D:** Later Indo-Greek states did not exist as Alexander's permanent system. [Q25-D]
+
+> **Examiner trap 25:** List the control instruments, then test how long each survived.
+
+
+#### Q26 — B
+
+**Answer: B.
+
+**Option-wise explanation:**
+
+- **A:** Script choice does not explain imperial succession and military fragmentation. [Q26-A]
+- **B:** Correct: Alexander's death exposed a corridor system dependent on personal supremacy. [Q26-B]
+- **C:** Darius I had died more than a century before Alexander. [Q26-C]
+- **D:** Forces and officers followed diverse routes; no universal Taxila settlement occurred. [Q26-D]
+
+> **Examiner trap 26:** Rapid collapse is evidence about institutional depth, not proof nothing happened.
+
+
+#### Q27 — C
+
+**Answer: C.
+
+**Option-wise explanation:**
+
+- **A:** Mauryan formation followed separate Magadhan and Chandragupta processes. [Q27-A]
+- **B:** Late traditions do not establish this specific military career. [Q27-B]
+- **C:** Correct: The wording recognises opportunity without deterministic causation. [Q27-C]
+- **D:** Seleucus's later eastern role belongs to successor conflict. [Q27-D]
+
+> **Examiner trap 27:** Use one condition rather than the cause when linking the invasion to Mauryan expansion.
+
+
+#### Q28 — D
+
+**Answer: D.
+
+**Option-wise explanation:**
+
+- **A:** Route narratives are a genuine informational consequence, though source-critical. [Q28-A]
+- **B:** Intensified is safer than invented because earlier contacts already existed. [Q28-B]
+- **C:** The campaign gives an important external date for connected events. [Q28-C]
+- **D:** Correct: Those mature forms belong to later patrons, states and workshops. [Q28-D]
+
+> **Examiner trap 28:** Do not collapse a long Hellenistic afterlife into one conqueror's agency.
+
+
+#### Q29 — A
+
+**Answer: A.
+
+**Option-wise explanation:**
+
+- **A:** Correct: This sequence answers scale, evidence, causation and comparison together. [Q29-A]
+- **B:** Legends and totals without criticism convert rhetoric into evidence. [Q29-B]
+- **C:** The episodes are chronologically and institutionally distinct. [Q29-C]
+- **D:** Art is one bounded legacy and cannot replace the campaign spine. [Q29-D]
+
+> **Examiner trap 29:** A framework is a safeguard against map, chronology and source errors.
+
+
+#### Q30 — B
+
+**Answer: B.
 
 **Option-wise explanation:**
 
@@ -612,16 +890,10 @@ Which statement best distinguishes later Indo-Greeks?
 
 > **Examiner trap 30:** Later Hellenistic does not mean immediate Macedonian continuity.
 
-#### Q31
 
-What does no blanket Persianisation mean?
+#### Q31 — C
 
-- A. Achaemenid contact had no effects whatsoever despite the inscriptional, numismatic and scribal evidence for selective eastern connections.
-- B. Every Iranian parallel is fictional.
-- C. Specific scripts, coins, vocabulary or forms could travel without uniform cultural replacement.
-- D. Only Greek contact influenced the north-west.
-
-**Answer: C.**
+**Answer: C.
 
 **Option-wise explanation:**
 
@@ -632,16 +904,10 @@ What does no blanket Persianisation mean?
 
 > **Examiner trap 31:** Rejecting totalisation must not become denial of specific evidence.
 
-#### Q32
 
-Which qualified verdict is most defensible?
+#### Q32 — D
 
-- A. Foreign invasions directly unified India under Alexander.
-- B. The episodes were irrelevant because territorial reach was limited so their limited territorial reach eliminates every political, cultural and informational effect.
-- C. Achaemenid and Macedonian rule were identical and permanent.
-- D. They were bounded interventions with variable control and selective longer effects on scripts, routes and knowledge.
-
-**Answer: D.**
+**Answer: D.
 
 **Option-wise explanation:**
 
@@ -652,7 +918,200 @@ Which qualified verdict is most defensible?
 
 > **Examiner trap 32:** Reject both conquest romance and dismissive minimalism.
 
-## PYQS AND ANSWER PRACTICE
+
+#### Q33 — A
+
+**Answer: A.** Mixed hoards illuminate monetary contact without demonstrating complete institutional imitation.
+
+**Option-wise explanation:**
+- **A:** Circulation is stronger evidence than universal derivation.
+- **B:** The contexts cannot all originate with Alexander.
+- **C:** Persian coins do not prove origins of all Indian issues.
+- **D:** Local forms cannot be assigned wholesale to imperial mints.
+
+> **Examiner trap 33:** A coin found together with another does not establish the origin of an entire monetary tradition.
+
+#### Q34 — B
+
+**Answer: B.** Aornos belongs to the mountainous approach, not the Jhelum battle or Beas halt.
+
+**Option-wise explanation:**
+- **A:** One siege cannot demonstrate pan-Indian rule.
+- **B:** Separating campaign phases avoids geographical compression.
+- **C:** Hydaspes is the Porus encounter.
+- **D:** Hyphasis marks the army’s later refusal.
+
+> **Examiner trap 34:** Keep the approach through the north-west distinct from battles farther into the Punjab.
+
+#### Q35 — C
+
+**Answer: C.** Contemporary royal lists attest claimed inclusion but not detailed frontiers.
+
+**Option-wise explanation:**
+- **A:** Seleucid diplomacy belongs to a later period.
+- **B:** Royal country lists are not village-level cadasters.
+- **C:** The inscriptions name eastern lands with different scope.
+- **D:** These Persian inscriptions predate Alexander and Mauryan rule.
+
+> **Examiner trap 35:** Distinguish Gandara’s appearance from the additional Hindush attestation without drawing precise borders.
+
+#### Q36 — D
+
+**Answer: D.** Separate the descent toward the Indus mouth, the fleet and the overland return.
+
+**Option-wise explanation:**
+- **A:** The army refused to proceed beyond the Beas.
+- **B:** Patala belongs to the Indus delta setting.
+- **C:** The Porus battle was at Hydaspes/Jhelum.
+- **D:** Different return routes generated distinct logistical experiences.
+
+> **Examiner trap 36:** A sea voyage and a desert return are not the same campaign episode.
+
+#### Q37 — A
+
+**Answer: A.** Late preservation can contain valuable earlier testimony without making speeches or troop totals secure.
+
+**Option-wise explanation:**
+- **A:** The distinction between author and earlier sources explains both value and risk.
+- **B:** Literary genres and reported speeches differ.
+- **C:** Arrian wrote centuries after the campaign.
+- **D:** Material evidence remains an independent control.
+
+> **Examiner trap 37:** An account drawing on eyewitnesses is not itself contemporaneous eyewitness testimony.
+
+#### Q38 — B
+
+**Answer: B.** Asymmetrical survival of sources increases caution; silence cannot settle a battle by itself.
+
+**Option-wise explanation:**
+- **A:** The army stopped at the Beas before reaching Magadha.
+- **B:** Sources differ in genre, survival and proximity.
+- **C:** Absence of a matching text is not proof of nonexistence.
+- **D:** Greek writers also shaped victory narratives.
+
+> **Examiner trap 38:** Do not turn the lack of a parallel Indian battle account into automatic corroboration.
+
+#### Q39 — C
+
+**Answer: C.** Achaemenid expansion predates Alexander; the Seleucid-Mauryan encounter follows him.
+
+**Option-wise explanation:**
+- **A:** Seleucid diplomacy postdates Hydaspes.
+- **B:** Indo-Greek kingdoms developed later than Achaemenid contact.
+- **C:** This preserves the distinct imperial generations.
+- **D:** Darius I lived long before Alexander, and Nandas preceded Ashoka.
+
+> **Examiner trap 39:** Do not confuse Darius I of expansion with Darius III defeated by Alexander.
+
+#### Q40 — D
+
+**Answer: D.** Successor fragmentation and subsequent diplomacy differ from Alexander’s personal occupation.
+
+**Option-wise explanation:**
+- **A:** Alexander’s officers and successor rulers did not create permanent unified occupation.
+- **B:** Art-historical synthesis is chronologically later and not reducible to one campaign.
+- **C:** Magadhan consolidation had its own local causes.
+- **D:** A later interstate agreement follows changing control.
+
+> **Examiner trap 40:** Later Seleucid diplomacy is evidence of a successor frontier, not Alexander’s permanent Indian empire.
+
+#### Q41 — A
+
+**Answer: A.** The name attests an imperial claim while territorial precision remains limited.
+
+**Option-wise explanation:**
+- **A:** Named inclusion is not a map of modern India.
+- **B:** Eastern Gangetic direct rule is not attested by this label.
+- **C:** Achaemenid inscriptions predate Alexander’s campaign.
+- **D:** There is no basis for an empire-wide uniform Deccan assessment.
+
+> **Examiner trap 41:** Imperial country names cannot simply be enlarged to modern state borders.
+
+#### Q42 — B
+
+**Answer: B.** Correlate source genres before aligning fiscal descriptions with royal territorial lists.
+
+**Option-wise explanation:**
+- **A:** Different texts do not automatically share identical units.
+- **B:** This avoids fabricating exact borders from heterogeneous sources.
+- **C:** Herodotus does not supply Mauryan accounting.
+- **D:** Contemporary Persian lists still attest eastern claims.
+
+> **Examiner trap 42:** A fiscal unit and a royal country label cannot be assumed identical without corroboration.
+
+#### Q43 — C
+
+**Answer: C.** Structural relationship and local phonetic adaptation coexist.
+
+**Option-wise explanation:**
+- **A:** The claim is about Kharoshthi, not universal Brahmi derivation.
+- **B:** A founder name and date are not supplied by the evidence.
+- **C:** Adaptation to local language matters as much as contact.
+- **D:** Achaemenid context predates the later Indo-Greek kingdoms.
+
+> **Examiner trap 43:** Contact does not erase local adaptation or supply an unattested founding decree.
+
+#### Q44 — D
+
+**Answer: D.** Taxila’s accommodation contrasts with Porus’s battle and other local resistance.
+
+**Option-wise explanation:**
+- **A:** Responses were not uniform across the frontier.
+- **B:** Porus fought at Hydaspes/Jhelum, not the Beas.
+- **C:** No Nanda appointment to Magadha is involved.
+- **D:** Local agency shaped the campaign’s route and settlements.
+
+> **Examiner trap 44:** Avoid both a unified-national-resistance story and a universal-collaboration story.
+
+#### Q45 — A
+
+**Answer: A.** Accommodation helped administer contested territory without deep occupation.
+
+**Option-wise explanation:**
+- **A:** Victory narratives and indirect local rule are compatible.
+- **B:** No Macedonian occupation by Porus follows from reinstatement.
+- **C:** A restored king refutes abolition of local kingship.
+- **D:** The army halted before entering the Ganga valley.
+
+> **Examiner trap 45:** Military victory does not entail replacement of every local ruler.
+
+#### Q46 — B
+
+**Answer: B.** A commemorative settlement name is not a comprehensive history of its later occupation.
+
+**Option-wise explanation:**
+- **A:** Settlement evidence cannot establish Deccan-wide control.
+- **B:** A named foundation and long-term settlement trajectory are distinct claims.
+- **C:** The names relate to Macedonian campaign memory.
+- **D:** Indo-Greek coinages belong to later rulers and phases.
+
+> **Examiner trap 46:** Do not read centuries of later Hellenistic history back into a named Alexander foundation.
+
+#### Q47 — C
+
+**Answer: C.** Material iconography needs dating and comparison before being treated as a literal battle report.
+
+**Option-wise explanation:**
+- **A:** An image is not a full first-hand narrative.
+- **B:** No accurate loss register is encoded in a symbolic scene.
+- **C:** Ideological representation and unresolved chronology both matter.
+- **D:** Political boundaries are not furnished by the object.
+
+> **Examiner trap 47:** Images can commemorate a victory without independently documenting tactical detail.
+
+#### Q48 — D
+
+**Answer: D.** Separate a brief fourth-century campaign from later north-western political and artistic phases.
+
+**Option-wise explanation:**
+- **A:** These later formations did not all precede Achaemenid expansion.
+- **B:** Production histories cannot be restricted to one battlefield.
+- **C:** Successor control fragmented after Alexander.
+- **D:** Continuity of contact does not make every later work an immediate campaign product.
+
+> **Examiner trap 48:** Later Indo-Greek states and Gandhara art need their own chronology and sources.
+
+### VERIFIED PYQ ROUTING — NO DIRECT OWNED PYQ
 
 ### VERIFIED PYQ ROUTING AND KEY DISCIPLINE
 
@@ -660,11 +1119,11 @@ Which qualified verdict is most defensible?
 - The verified 2019 GS-I demand on Central Asian and Greco-Bactrian elements in Gandhara art is routed to the Central Asian Contacts/Kushanas and art owners. It is not relabelled as an Alexander PYQ here.
 - The questions below are explicitly original. UPSC publishes no official descriptive model answers; these are examiner-oriented instructional models.
 
+### ORIGINAL MAINS MODEL ANSWERS
+
 ### ORIGINAL MAINS PRACTICE — EXACTLY SIX SOLVED QUESTIONS
 
 #### ORIGINAL MAINS 1 — 10 MARKS — 150 WORDS
-
-**Question:** Explain why Achaemenid rule in north-western India should be described as real but uneven.
 
 **Model answer:**
 
@@ -674,8 +1133,6 @@ Achaemenid power in the north-west was real because contemporary royal evidence 
 
 #### ORIGINAL MAINS 2 — 10 MARKS — 150 WORDS
 
-**Question:** Why did Alexander's army stop at the Hyphasis? Give a multi-causal explanation.
-
 **Model answer:**
 
 The Hyphasis refusal was a cumulative operational and morale crisis, not a battle defeat or sudden fear of one Indian king. The army had campaigned for years from the Balkans through the Achaemenid world and Central Asia, producing fatigue, homesickness and replacement shortages. Punjab's monsoon, swollen rivers, humidity, sickness and lengthening supply lines made further advance costlier. Highland warfare and the difficult Hydaspes battle against Porus had corrected expectations about resistance and war elephants. Greek authors add reports of powerful Gangetic and Nanda forces; their troop totals are rhetorical, but the reputation itself could influence morale. Alexander's appeals and Coenus's speech are later literary constructions, so no single motive should be treated as a transcript. Fatigue reduced willingness, logistics enlarged risk, resistance supplied experience and eastern reports darkened the horizon. Their interaction, rather than Indian political unity, forced command to accept the Beas as the limit.
@@ -683,8 +1140,6 @@ The Hyphasis refusal was a cumulative operational and morale crisis, not a battl
 **Why this earns marks:** It answers the directive, uses named evidence, explains what the evidence proves, and carries chronology, source or causation qualifications into the verdict.
 
 #### ORIGINAL MAINS 3 — 15 MARKS — 250 WORDS
-
-**Question:** Assess the importance and limits of Achaemenid influence on ancient India.
 
 **Model answer:**
 
@@ -698,8 +1153,6 @@ Economically, imperial routes could intensify movement of soldiers, merchants, s
 
 #### ORIGINAL MAINS 4 — 15 MARKS — 250 WORDS
 
-**Question:** Reconstruct the Battle of Hydaspes with attention to geography, tactics and source criticism.
-
 **Model answer:**
 
 Hydaspes in 326 BCE was first a river-crossing problem. Porus watched the Jhelum during difficult seasonal water and expected Alexander to cross from the visible main camp. In the surviving Greek tradition, Alexander used repeated feints, left Craterus opposite Porus and moved a selected force upstream under storm or darkness. After crossing, Macedonian cavalry engaged Porus's advance force and pressured the flanks, while infantry confronted a line organised around elephants. Coenus's manoeuvre and cavalry superiority are presented as decisive; elephants caused shock and disorder but, when wounded, could also disrupt Porus's formations. Wet ground is said to have reduced chariot effectiveness.
@@ -712,8 +1165,6 @@ The safest conclusion is a costly Macedonian battlefield success followed by pol
 
 #### ORIGINAL MAINS 5 — 20 MARKS — 250 WORDS
 
-**Question:** Compare the Iranian and Macedonian interventions in north-western India in terms of nature, evidence and consequences.
-
 **Model answer:**
 
 The interventions shared a connected north-western frontier but differed in duration, mechanism and evidence. Achaemenid incorporation developed from the sixth century BCE and is firmest under Darius I. Behistun names Gandara; DNa includes Gandara and Hindush; Xerxes's lists and Herodotus's contingents suggest continuing obligation. Its mechanisms were satrapal supervision, tribute, levies, routes and local mediation. Contemporary inscriptions are authoritative for claimed inclusion but too formulaic to map uniform control.
@@ -725,8 +1176,6 @@ Legacies differ. Imperial Aramaic supplies the strongest context for Kharoshthi,
 **Why this earns marks:** It answers the directive, uses named evidence, explains what the evidence proves, and carries chronology, source or causation qualifications into the verdict.
 
 #### ORIGINAL MAINS 6 — 20 MARKS — 250 WORDS
-
-**Question:** 'The history of these invasions is also a history of sources.' Critically examine.
 
 **Model answer:**
 

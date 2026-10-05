@@ -1,0 +1,58 @@
+{
+  "topic": "01-National-Income-GDP-GVA-and-Measurement",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 52,
+      "answers": 52,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 11,
+        "C": 15,
+        "D": 13,
+        "B": 13
+      },
+      "fingerprint": "4202ddeb7ef9d387"
+    },
+    {
+      "bank": 2,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 13,
+        "A": 8,
+        "D": 15,
+        "B": 15
+      },
+      "fingerprint": "e9f22837ed3f8636"
+    },
+    {
+      "bank": 3,
+      "questions": 52,
+      "answers": 52,
+      "max_option_spread": 25,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 15,
+        "A": 11,
+        "C": 13,
+        "D": 13
+      },
+      "fingerprint": "94b37ddd3326cfdf"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

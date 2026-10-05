@@ -1,0 +1,48 @@
+# Topic 14 — Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture
+
+**Status:** complete for three independent original-only revision banks after structural and hostile audit.
+
+| Bank | Originals | Exact PYQs | Status |
+|---|---:|---:|---|
+| [revision-1](revision-1/COVERAGE.md) | 47 | 0 | complete |
+| [revision-2](revision-2/COVERAGE.md) | 47 | 0 | complete |
+| [revision-3](revision-3/COVERAGE.md) | 47 | 0 | complete |
+| **Total** | **141** | **0** | **complete** |
+
+## Mandatory source record
+- Canonical learner-v2 owner: `upsc-ai-kit/knowledge/Economy/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture_Learner-V2-Complete-Topic-Package.md` read completely.
+- Basic owner: `upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` read completely.
+- Advanced owner: `upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` read completely.
+- Cross-topic/PYQ Markdown read: `notes/Economy/Ref_RameshSingh_Economy.md`, `notes/Economy/Ref_EconomicSurvey_2025-26.md`, all local Economy Prelims ledgers for 2024-2026, and `notes/Economy/PYQ_Mains_Economy_2024-2025.md`.
+- Mandated OCR read: `books/Indian economy ramesh singh.pdf (local OCR PDF pp.394-407)` and `books/economic-survey-2025-26.pdf (local OCR PDF pp.277-292; published January 2026)`.
+
+## Coverage spine
+- Irrigation potential versus utilisation; major/medium/minor schemes; PMKSY access and efficiency; micro-irrigation, water productivity, canal limits, watershed and Jal Shakti Abhiyan.
+- Groundwater common-pool and water-energy-crop nexus; crop choice, electricity, aquifer governance and rebound effects.
+- KCC, NABARD, cooperative credit, seasonal liquidity versus investment credit, tenant/documentation exclusion and extension services.
+- PMFBY premium structure, notified risk, area-yield basis risk, assessment technology and settlement limits.
+- Seed quality, open-pollinated/hybrid distinction, fertiliser balance/NBS/soil testing/micronutrients, IPM, bio-inputs, mechanisation and custom hiring.
+- Sustainable agriculture, NMSA, integrated farming systems, conservation agriculture, zero tillage, biochar, fertigation, Sikkim and Survey 2025-26 anchors.
+
+## PYQ and rights/provenance holds
+- No exact PYQ wording or options are reproduced. Routed 2018-2026 Prelims and 2018-2025 Mains demands are used only as conceptual coverage anchors.
+- Objective-key, same-series provenance and UPSC reproduction rights remain blocked for exact PYQ inclusion; no coaching key is treated as official.
+
+## Dated-fact holds
+- PMFBY rates/terms, JSA evolution, Sikkim dates, PMKSY/NMSA implementation and Economic Survey 2025-26 figures carry source/date holds and require official recheck before future delivery.
+- The 2026 local objective key is provisional; the neutral demand is covered without inferring an answer letter.
+
+## Audit state
+- Structural audit: PASS after audit repair.
+- Hostile audit: PASS after answer-leakage, source-hold, distinctness and later-topic checks.
+- Later-topic contamination: PASS; no Economy topic 15+ directory was generated.
+- Available validation was run last after audit repair.
+
+## Final-MCQ compliance reconciliation
+
+- Audit date: **2026-10-04**; repository-wide independent reparse status: **PASS**.
+- Three revision banks are retained as original-only practice; exact UPSC wording/options are not reproduced.
+- Every bank has answer-free questions, separate detailed answers, explicit source/date and PYQ holds, balanced visible options, and independent rendered fingerprints.
+- revision-1: 47 questions; fingerprint `9224792099e40b72`; max option spread 30.
+- revision-2: 47 questions; fingerprint `c13e499699000767`; max option spread 30.
+- revision-3: 47 questions; fingerprint `3f8076628836e5be`; max option spread 30.

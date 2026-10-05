@@ -10,7 +10,7 @@ variant: learner-v2
 
 ### How to use this workbook
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** using a length-balanced, non-patterned assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap. The previous-year questions reproduce the official printed wording exactly; **the model answers are independent learner practice and are never official UPSC keys.**
+The 32 baseline diagnostics are followed by two concept-driven extensions. Read every option explanation and examiner trap. The previous-year stems reproduce audited wording; **model answers are independent learner practice, never official UPSC keys.**
 
 ### What is inside
 
@@ -18,58 +18,349 @@ Attempt every item before reading its key. The correct option position was fixed
 |---|---|---:|
 | 1 | Core diagnostic MCQs | 24 |
 | 2 | Remedial diagnostic MCQs | 8 |
-| — | Question-specific option explanations | 128 |
-| — | Unique examiner traps | 32 |
-| 3 | Verified previous-year questions, fully solved | 11 |
-| 4 | Original solved Mains models (2 × 10, 2 × 15, 2 × 20) | 6 |
+| — | Additional hard discriminators | 2 |
+| — | Question-specific option explanations | 136 |
+| — | Unique examiner traps | 34 |
+| 3 | Verified previous-year questions, fully solved (2018–2026) | 13 |
+| 4 | Original solved Mains models (six baseline; supra-rationality extension) | 7 |
 
 ### Marking and timing conventions
 
-- Word bands: 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words.
+- Plan timed attempts around the marks and directive; do not cap the depth of worked PYQ solutions.
 - Every model answer follows **claim → named evidence → analysis → qualification**.
 - Every model answer closes with a decided verdict, and the twenty-mark models additionally name the **defeater** that would change that verdict.
 
 ## BASIC MCQS / REMEDIATION
 
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
+
 ### Practice protocol
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** using a length-balanced, non-patterned assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and the four positions each carry exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap.
+The final two of 34 questions test Tillich's existential doubt and the reason/experience evidential boundary; all options have explanations and each item has an examiner trap.
 
 #### CORE DIAGNOSTIC MCQS — 24
 
-#### MCQ 1. Regulative rather than constitutive reason
+#### MCQ 1. Regulative reason when revelation conflicts with an ethical prohibition
 
-Reason is said to be *regulative* rather than *constitutive* of religious belief. Which statement states that claim most exactly?
+A believer accepts revelation as a source of content but finds one apparent command inconsistent with a basic moral prohibition. Which reply exercises *regulative* reason without silently treating reason as the author of the entire revelation?
 
-A. Reason converts religious commitment into demonstrative knowledge of its object.
-
-B. Reason becomes relevant only once a doctrine has been accepted as infallible.
-
-C. Reason vetoes contradiction and disciplines interpretation without authoring content.
-
-D. Reason deduces every revealed mystery from premises that are self-evident.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Conversion into demonstration is exactly what Aquinas denies of faith, which has firmness without vision; this option describes knowledge, not regulation.
-- **B:** Incorrect: Deferring reason until after infallibility has been granted removes its veto, which is the one power the regulative model insists on retaining.
-- **C:** Correct: Regulation is the negative and corrective power to veto incoherence, weigh testimony, discipline reading and name defeaters, while constitution would be the productive power to supply content.
-- **D:** Incorrect: Deducing the mysteries from self-evident premises is constitutive rationalism, the position the regulative model is defined against.
-
-**Examiner trap 1:** The 2021 stem prints the word "regulative"; scripts that answer with "reason and faith are both important" have not engaged the printed term at all.
+A. Test whether the proposed interpretation is consistent and morally defensible, consider rival readings and testimony, and withhold assent to the harmful reading without claiming to have produced the revelatory event.
+B. Accept the command as exceptionless because reason's only task is to derive consequences after accepting the reported source.
+C. Deduce the whole revelatory tradition from the moral prohibition, making historical testimony unnecessary.
+D. Suspend ethical assessment because apparently revealed content must be certified before reason may examine it.
 
 #### MCQ 2. The two axes of revelation are independent
 
 Consider the following statements about the two axes of revelation. (i) The general/special distinction concerns scope and medium. (ii) The propositional/non-propositional distinction concerns what revelation is. (iii) The two distinctions are two names for one ladder. Which are correct?
 
 A. (i) and (iii) only
-
 B. (i) and (ii) only
-
 C. (ii) and (iii) only
-
 D. (i), (ii) and (iii)
+
+#### MCQ 3. Where Aquinas locates the act of faith
+
+For Aquinas, faith is best located as which of the following?
+
+A. A probable opinion that still retains the fear that the opposite may be true.
+B. An emotional condition that operates entirely independently of the intellect.
+C. Firm intellectual assent to unseen divine truth, commanded by the will under grace.
+D. Demonstrative knowledge of the mysteries derived from purely natural premises.
+
+#### MCQ 4. Hick's four-step chain, in order
+
+Which sequence correctly states Hick's non-propositional model of revelation?
+
+A. Linguistic analysis, then elimination of experience, then delivery of revealed propositions.
+B. Natural theology, then scientific confirmation, then doctrine, then religious encounter.
+C. Infallible scripture, then deductive proof, then divine action, then private feeling.
+D. Ambiguous event, then faith's experiencing-as, then communal interpretation, then doctrine.
+
+#### MCQ 5. Matching an authentication test to its limit
+
+Which pairing of an authentication test with its correct built-in limit is accurate?
+
+A. Testimony — a report can transmit error just as reliably as it transmits truth.
+B. Coherence — a fully coherent claim is thereby shown to be of divine origin.
+C. Moral fruit — beneficial effects are impossible under a false belief system.
+D. Tradition — long communal endurance is by itself a direct proof of truth.
+
+#### MCQ 6. The two printed deliverables of the 2020 stem
+
+In the 2020 fifteen-mark stem, "What are the basic tenets of faith? Distinguish between faith and belief", the structurally correct response is to:
+
+A. Present the faith–belief distinction only, since the tenets follow from it automatically.
+B. Enumerate the tenets first, then run the differentia table between faith and belief.
+C. Define faith as belief without evidence and then contrast it with scientific belief.
+D. Discuss Aquinas at length and treat the tenets as an implied conclusion.
+
+#### MCQ 7. Mīmāṃsā's authorless scripture
+
+Which statement most precisely captures Mīmāṃsā's position on scriptural authority?
+
+A. The Veda derives its authority from Nyāya-style inference to a reliable speaker.
+B. Mīmāṃsā rejects the authority of the Veda in favour of perception alone.
+C. The Veda is authorless, so it has authority without any revealer, human or divine.
+D. The Veda is the speech of a creator God and is authenticated by miracles.
+
+#### MCQ 8. The exact analogue of proper basicality
+
+Which is the closest classical Indian analogue of Plantinga's proper basicality?
+
+A. Nyāya's extrinsic validity, on which validity must be established by something further.
+B. Cārvāka's restriction of the means of knowledge to perception alone.
+C. The Advaita triad of hearing, reasoning and assimilation taken as a whole.
+D. Mīmāṃsā's intrinsic validity, on which a cognition is valid until it is defeated.
+
+#### MCQ 9. The load-bearing step against evidentialism
+
+Which statement correctly describes the load-bearing step in Plantinga's argument against the evidentialist objection?
+
+A. He argues classical foundationalism is self-referentially incoherent and too narrow.
+B. He claims that the proposition "God exists" is self-evident to any rational person.
+C. He denies that religious belief can ever be defeated by any counter-consideration.
+D. He shows by demonstration that God exists and therefore that belief is warranted.
+
+#### MCQ 10. What restricts James's will-to-believe
+
+Which of the following states the restriction that keeps James's will-to-believe from licensing wishful thinking?
+
+A. The proposition must first be shown probable on the balance of available evidence.
+B. The option must be living, forced and momentous, with evidence genuinely inconclusive.
+C. The belief must be endorsed by an established religious community before adoption.
+D. The believer must show that the belief produces measurable psychological benefit.
+
+#### MCQ 11. What Hume's argument actually concludes
+
+Which statement about Hume's argument in "Of Miracles" is accurate?
+
+A. He treats miracles as coincidences that observers subsequently misdescribe.
+B. He demonstrates that divine action upon the natural order is metaphysically impossible.
+C. He argues that testimony faces an evidential burden it cannot ordinarily discharge.
+D. He accepts any report supported by witnesses of good moral character.
+
+#### MCQ 12. Why Swinburne redefines a miracle
+
+Swinburne's recasting of "miracle" as a non-repeatable counter-instance is deployed in order to:
+
+A. Prove that at least one miracle report in history has been conclusively established.
+B. Demonstrate that laws of nature admit no exceptions of any description whatever.
+C. Replace testimony with direct perception as the sole ground of miracle-claims.
+D. Show that Hume's definition of a miracle as a law-violation is itself contestable.
+
+#### MCQ 13. Matching a Barbour model to its cost
+
+Which pairing of a Barbour model with its stated cost is correct?
+
+A. Independence — it purchases peace by silencing both parties on contestable claims.
+B. Conflict — it establishes conversation but never reaches any firm conclusions.
+C. Dialogue — it ties theology to the scientific theories of the present day.
+D. Integration — it forbids either domain to make claims the other could contest.
+
+#### MCQ 14. The status of the Draper–White warfare thesis
+
+Which statement about the Draper–White "warfare thesis" should appear in a strong 2020-type answer?
+
+A. It concerns only the Islamic and Indian traditions rather than the European material.
+B. It is now rejected by most historians of science as a polemical nineteenth-century construction.
+C. It is the settled consensus among modern historians of science and needs no further comment.
+D. It was formulated in the mid-twentieth century as a direct response to logical positivism.
+
+#### MCQ 15. Supra-rational against irrational
+
+Which formulation correctly distinguishes the supra-rational from the irrational?
+
+A. The supra-rational applies to scripture; the irrational applies to unaided philosophical argument.
+B. The supra-rational is a weaker degree of the rational; the irrational is its complete absence.
+C. The supra-rational exceeds what proof establishes; the irrational contradicts coherence or decisive evidence.
+D. The supra-rational is a feeling; the irrational is a proposition that has been falsified by observation.
+
+#### MCQ 16. What separates natural from revealed theology
+
+On the propositional model, the distinction between natural and revealed theology is fundamentally a distinction in:
+
+A. Historical period, since natural theology preceded revealed theology in time.
+B. Religious importance, since revealed truths always matter more than natural ones.
+C. Emotional intensity, since revealed truths are received with greater fervour.
+D. Epistemic access, since the two differ in where their premises can be obtained.
+
+#### MCQ 17. Why circularity is not automatically fatal
+
+Which statement best explains why the circularity objection to scriptural authority is not automatically fatal?
+
+A. Many epistemic practices use reciprocal support; the issue is whether the circle is vicious.
+B. Circularity is a formal fallacy only in mathematics, so it does not apply to theology.
+C. Divine authorship guarantees that the circle is closed in a way no critic can examine.
+D. Communities are entitled to accept their own founding documents without further inquiry.
+
+#### MCQ 18. The two-sided reading of the 2022 stem
+
+Which reading of the 2022 stem, "Is the notion of faith indispensable for the idea of revelation?", earns the highest marks?
+
+A. Faith is dispensable, since a propositional revelation is true whether or not it is received.
+B. Faith is indispensable for reception and efficacy, though not for objective occurrence.
+C. Faith is indispensable in every sense, since without faith no disclosure can occur at all.
+D. The question is unanswerable, since revelation and faith are defined in terms of each other.
+
+#### MCQ 19. Why natural theology is the narrower field
+
+Which of the following is the strongest reason for treating natural theology as narrower than philosophy of religion?
+
+A. Philosophy of religion is confined to describing the beliefs of existing communities.
+B. Natural theology is a modern discipline whereas philosophy of religion is ancient.
+C. Philosophy of religion also analyses religious language, experience and warrant.
+D. Natural theology alone employs deductive reasoning about the divine nature.
+
+#### MCQ 20. Alston's parity of doxastic practices
+
+Alston's argument from doxastic practices is best summarised as which of the following?
+
+A. Religious practice is rational only when independently confirmed by natural theology.
+B. Doxastic practices are rational only where a community has publicly agreed on them.
+C. Religious experience yields the same degree of certainty as ordinary sense perception.
+D. No doxastic practice, sense perception included, can be validated non-circularly.
+
+#### MCQ 21. Ordering the permissions from strictest to loosest
+
+Which sequence correctly orders permissions from strictest to loosest?
+
+A. Evidentialism, then critical rationalism, then James's will-to-believe, then insulated fideism.
+B. Insulated fideism, then critical rationalism, then strict evidentialism, then Pascal's wager.
+C. Pascal's wager, then evidentialism, then insulated fideism, then critical rationalism.
+D. Critical rationalism, then insulated fideism, then Pascal's wager, then evidentialism.
+
+#### MCQ 22. What Kierkegaard actually denies
+
+Which claim about Kierkegaard is defensible on the controlling sources?
+
+A. He holds that objective argument is irrelevant to every question, religious or not.
+B. He denies that an objective system can replace the individual's existential decision.
+C. He treats Abraham as a general model for suspending ethical obligations at will.
+D. He argues that a religious claim is more credible in proportion as it is absurd.
+
+#### MCQ 23. The Indian treatment of the marvellous
+
+Which contrast between Western and Indian treatments of the marvellous is accurate?
+
+A. Both traditions treat extraordinary powers as the decisive test of a genuine disclosure.
+B. Neither tradition records extraordinary powers, so no comparison can be constructed.
+C. Western apologetics authenticates revelation by miracles; Indian systems largely decline it.
+D. Indian systems rest scriptural authority on miracles; Western apologetics rests it on inference.
+
+#### MCQ 24. What lifts a script into the top band
+
+A top-band script on this clause is distinguished above the "strong" band chiefly by which addition?
+
+A. A larger number of Sanskrit and Pali terms supplied without their English glosses.
+B. A longer list of thinkers, arranged in chronological order of their publications.
+C. A more detailed narrative of the historical episodes linking science and religion.
+D. A discriminating distinction plus a statement of what would change the stated verdict.
+
+#### REMEDIAL DIAGNOSTIC MCQS — 8
+
+#### MCQ 25. Remedial — 'faith is belief without any evidence'
+
+A candidate writes: "Faith is belief without any evidence." Which correction is best?
+
+A. Faith is trustful commitment beyond conclusive proof and remains answerable to defeaters.
+B. Faith is demonstrative knowledge and is therefore epistemically stronger than reason.
+C. Faith is a weaker degree of belief, differing from it only in the confidence attached.
+D. Faith is an emotion with no cognitive content and therefore no relation to evidence.
+
+#### MCQ 26. Remedial — 'Aquinas lets faith contradict reason'
+
+A candidate writes: "Aquinas allows faith to contradict reason where the mystery demands it." Which correction is best?
+
+A. Faith is entitled to accept a logical contradiction when the doctrine is sufficiently important.
+B. Genuine reason and revelation cannot conflict; apparent clash signals a defect in reasoning.
+C. Every revealed mystery can in principle be demonstrated once the right premises are found.
+D. Reason becomes unnecessary once a scripture accepted as authoritative is available.
+
+#### MCQ 27. Remedial — revelation, inspiration and infallibility
+
+A candidate writes: "Revelation, inspiration and infallibility all mean the same thing." Which correction is best?
+
+A. All three describe the same event under different denominational vocabularies.
+B. Revelation is the record, inspiration is the disclosure, and infallibility is the community's assent.
+C. Revelation is the disclosure, inspiration the authorship of the record, infallibility freedom from error.
+D. Only infallibility is a genuine notion; the other two are pre-critical descriptions of it.
+
+#### MCQ 28. Remedial — 'Hume proved miracles impossible'
+
+A candidate writes: "Hume proved that miracles are impossible." Which correction is best?
+
+A. Hume denied that laws of nature have any evidential standing in questions of this kind.
+B. Hume treated the four Part II considerations as a proof of divine non-intervention.
+C. Hume held that only reports from educated witnesses can establish an extraordinary event.
+D. Hume argued that testimony normally cannot overcome the evidence for natural regularities.
+
+#### MCQ 29. Remedial — 'Plantinga says God's existence is self-evident'
+
+A candidate writes: "Plantinga says God's existence is self-evident." Which correction is best?
+
+A. Plantinga holds that theistic belief can be properly basic — grounded, warranted and defeasible.
+B. Plantinga rejects every cognitive faculty other than sense perception as a source of belief.
+C. Plantinga argues that theistic belief must be inferred from the design argument to be rational.
+D. Plantinga holds that religious belief is immune to criticism once it has been formed.
+
+#### MCQ 30. Remedial — narrating Galileo for the science stem
+
+A candidate answers the 2020 science stem with a narrative of the Galileo affair. Which correction is best?
+
+A. Replace it with an account of contemporary scientific consensus on cosmology.
+B. Replace it with Barbour's four models, each with its cost, and a domain-sensitive verdict.
+C. Replace it with a defence of non-overlapping magisteria as the settled solution.
+D. Replace it with a narrative of the nineteenth-century evolution controversies instead.
+
+#### MCQ 31. Remedial — trust (*śraddhā*) read as blind faith
+
+A candidate writes that Indian trust (*śraddhā*) is simply the Indian word for blind faith. Which correction is best?
+
+A. Trust (*śraddhā*) is exactly identical to the faith by which one believes in the scholastic sense.
+B. Trust (*śraddhā*) is a purely emotional attachment to a teacher with no cognitive role.
+C. Trust (*śraddhā*) is graded and verification-directed: it enables inquiry rather than replacing it.
+D. Trust (*śraddhā*) denotes ritual correctness and has no epistemic dimension whatever.
+
+#### MCQ 32. Remedial — closing with 'both are important'
+
+A candidate concludes a twenty-mark answer with "thus both reason and faith are important". Which correction is best?
+
+A. Replace it with a longer restatement of the four stances already covered in the body.
+B. Replace it with a quotation from Tertullian on believing because the doctrine is absurd.
+C. Replace it with a declaration that the question cannot be settled by philosophical means.
+D. Replace it with a graded verdict that decides and names the defeater that would change it.
+
+#### Hard coverage extensions — MCQs 33–34
+
+#### MCQ 33. Which claim states Tillich's account of existential doubt without treating doubt as either unbelief or an instrument guaranteeing truth?
+
+A. Existential doubt belongs to finite faith, whose courage commits amid uncertainty; particular ultimate concerns can still be criticised as idolatrous.
+B. Ecstasy preserves practical calculation but replaces ontological reason with a purely irrational encounter.
+C. Faith's unconditional orientation confers certainty on each finite doctrinal formulation, leaving doubt only to revisable *technical* reasoning.
+D. Existential doubt can question the content of faith but cannot belong to the act of faith itself without suspending ultimate concern.
+
+#### MCQ 34. What is the strongest reason not to infer from “reason cannot deduce mystical experience” that experience alone establishes its religious object's reality?
+
+A. James's noetic quality is a felt claim to knowledge, while ineffability limits its expression; therefore the subject's feeling must be discounted altogether.
+B. Distinct traditions interpret apparently similar experiences differently, so identifying an independent object requires defeasible public and conceptual scrutiny.
+C. Rational coherence among doctrines can settle an experience's interpretation without any independent evidence about its purported object.
+D. The feeling of absolute dependence identifies an authentic religious attitude and therefore verifies whichever theological explanation its subject supplies.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. Critical scrutiny can reject an interpretation or withhold assent while leaving the claimed revelation as a distinct possible source of content.
+- **B:** Incorrect. Calculating implications after accepting a disputed command cannot test whether that reading should be accepted at all.
+- **C:** Incorrect. Rationally deducing all content is *constitutive* reason and cannot substitute for the claimed historical disclosure.
+- **D:** Incorrect. An infallibility presupposition used to exclude criticism removes reason's regulative veto at the decisive point.
+
+**Examiner trap 1:** “Reason regulates revelation” means defeasible assessment of its *interpretation and warrant*, not rational derivation of revelation or blind inference from an unquestioned command.
+
+#### MCQ 2 — solution
 
 **Answer: B.**
 
@@ -81,17 +372,7 @@ D. (i), (ii) and (iii)
 
 **Examiner trap 2:** Collapsing scope into nature makes the 2025 fifteen-marker unanswerable, because natural and revealed theology are then indistinguishable from general and special revelation.
 
-#### MCQ 3. Where Aquinas locates the act of faith
-
-For Aquinas, faith is best located as which of the following?
-
-A. A probable opinion that still retains the fear that the opposite may be true.
-
-B. An emotional condition that operates entirely independently of the intellect.
-
-C. Firm intellectual assent to unseen divine truth, commanded by the will under grace.
-
-D. Demonstrative knowledge of the mysteries derived from purely natural premises.
+#### MCQ 3 — solution
 
 **Answer: C.**
 
@@ -103,325 +384,175 @@ D. Demonstrative knowledge of the mysteries derived from purely natural premises
 
 **Examiner trap 3:** "Certainty without evidence" is the wrong gloss. It is firmness without *vision*, resting on testimony and motives of credibility.
 
-#### MCQ 4. Hick's four-step chain, in order
+#### MCQ 4 — solution
 
-Which sequence correctly states Hick's non-propositional model of revelation?
-
-A. Infallible scripture, then deductive proof, then divine action, then private feeling.
-
-B. Ambiguous event, then faith's experiencing-as, then communal interpretation, then doctrine.
-
-C. Linguistic analysis, then elimination of experience, then delivery of revealed propositions.
-
-D. Natural theology, then scientific confirmation, then doctrine, then religious encounter.
-
-**Answer: B.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: This reverses the model: it begins with the propositions Hick treats as the community's later interpretation.
-- **B:** Correct: Events are religiously ambiguous, faith perceives them as divine action, communities conceptualise the encounter, and doctrinal diversity then reflects interpretive schemes.
-- **C:** Incorrect: Elimination of experience belongs to the verificationist debate owned by the religious-language clause, not to Hick's account of revelation.
-- **D:** Incorrect: Making scientific confirmation a step in revelation misdescribes both natural theology and the non-propositional model.
+- **A:** Incorrect: Elimination of experience belongs to the verificationist debate owned by the religious-language clause, not to Hick's account of revelation.
+- **B:** Incorrect: Making scientific confirmation a step in revelation misdescribes both natural theology and the non-propositional model.
+- **C:** Incorrect: This reverses the model: it begins with the propositions Hick treats as the community's later interpretation.
+- **D:** Correct: Events are religiously ambiguous, faith perceives them as divine action, communities conceptualise the encounter, and doctrinal diversity then reflects interpretive schemes.
 
 **Examiner trap 4:** "Experiencing-as" is a perceptual structure under a concept, not a synonym for an intense feeling.
 
-#### MCQ 5. Matching an authentication test to its limit
+#### MCQ 5 — solution
 
-Which pairing of an authentication test with its correct built-in limit is accurate?
-
-A. Coherence — a fully coherent claim is thereby shown to be of divine origin.
-
-B. Moral fruit — beneficial effects are impossible under a false belief system.
-
-C. Tradition — long communal endurance is by itself a direct proof of truth.
-
-D. Testimony — a report can transmit error just as reliably as it transmits truth.
-
-**Answer: D.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: Coherence cannot establish divine origin; a consistent fiction remains consistent, which is exactly the stated limit.
-- **B:** Incorrect: The owner states the opposite: useful effects can occur under false beliefs, which is why fruit is defeasible evidence.
-- **C:** Incorrect: Communal endurance may preserve power or bias rather than truth, so endurance is not proof.
-- **D:** Correct: Testimony's limit is precisely that it transmits error as well as truth, which is why witness competence, sincerity, placement and independent support all have to be assessed.
+- **A:** Correct: Testimony's limit is precisely that it transmits error as well as truth, which is why witness competence, sincerity, placement and independent support all have to be assessed.
+- **B:** Incorrect: Coherence cannot establish divine origin; a consistent fiction remains consistent, which is exactly the stated limit.
+- **C:** Incorrect: The owner states the opposite: useful effects can occur under false beliefs, which is why fruit is defeasible evidence.
+- **D:** Incorrect: Communal endurance may preserve power or bias rather than truth, so endurance is not proof.
 
 **Examiner trap 5:** Listing the six tests without their limits forfeits the analytical marks in the 2024 fifteen-marker, where the stem asks for your own comments.
 
-#### MCQ 6. The two printed deliverables of the 2020 stem
+#### MCQ 6 — solution
 
-In the 2020 fifteen-mark stem, "What are the basic tenets of faith? Distinguish between faith and belief", the structurally correct response is to:
-
-A. Enumerate the tenets first, then run the differentia table between faith and belief.
-
-B. Define faith as belief without evidence and then contrast it with scientific belief.
-
-C. Discuss Aquinas at length and treat the tenets as an implied conclusion.
-
-D. Present the faith–belief distinction only, since the tenets follow from it automatically.
-
-**Answer: A.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Correct: The stem prints two separate deliverables, and the owner's decoder requires enumeration of the seven tenets followed by a differentia table.
-- **B:** Incorrect: Defining faith as evidence-free belief makes the second half of the stem unanswerable and is a listed trap.
-- **C:** Incorrect: Aquinas supports the distinction through the faith which is believed and the faith by which one believes, but he is evidence, not the structure.
-- **D:** Incorrect: Deriving the tenets from the distinction inverts the printed order and leaves the first deliverable unaddressed.
+- **A:** Incorrect: Deriving the tenets from the distinction inverts the printed order and leaves the first deliverable unaddressed.
+- **B:** Correct: The stem prints two separate deliverables, and the owner's decoder requires enumeration of the seven tenets followed by a differentia table.
+- **C:** Incorrect: Defining faith as evidence-free belief makes the second half of the stem unanswerable and is a listed trap.
+- **D:** Incorrect: Aquinas supports the distinction through the faith which is believed and the faith by which one believes, but he is evidence, not the structure.
 
 **Examiner trap 6:** Two printed obligations mean two visible sections. An examiner scanning for the tenets should not have to hunt for them inside a comparison.
 
-#### MCQ 7. Mīmāṃsā's authorless scripture
+#### MCQ 7 — solution
 
-Which statement most precisely captures Mīmāṃsā's position on scriptural authority?
-
-A. The Veda is the speech of a creator God and is authenticated by miracles.
-
-B. The Veda derives its authority from Nyāya-style inference to a reliable speaker.
-
-C. Mīmāṃsā rejects the authority of the Veda in favour of perception alone.
-
-D. The Veda is authorless, so it has authority without any revealer, human or divine.
-
-**Answer: D.**
+**Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: Attributing the Veda to a creator God's speech destroys the very feature that makes the comparison valuable.
-- **B:** Incorrect: Inference to a reliable speaker is the Nyāya route; Mīmāṃsā's authorless doctrine is designed to avoid needing one.
-- **C:** Incorrect: Rejecting scriptural authority in favour of perception alone is the Cārvāka position, not the Mīmāṃsā position.
-- **D:** Correct: The authorless (*apauruṣeya*) Veda is authoritative without an author, which is why India offers a form of scriptural authority with no revealer.
+- **A:** Incorrect: Inference to a reliable speaker is the Nyāya route; Mīmāṃsā's authorless doctrine is designed to avoid needing one.
+- **B:** Incorrect: Rejecting scriptural authority in favour of perception alone is the Cārvāka position, not the Mīmāṃsā position.
+- **C:** Correct: The authorless (*apauruṣeya*) Veda is authoritative without an author, which is why India offers a form of scriptural authority with no revealer.
+- **D:** Incorrect: Attributing the Veda to a creator God's speech destroys the very feature that makes the comparison valuable.
 
 **Examiner trap 7:** This is a listed trap in the owner. Calling the authorless Veda "revelation from a personal God" reverses the one point the comparison exists to make.
 
-#### MCQ 8. The exact analogue of proper basicality
+#### MCQ 8 — solution
 
-Which is the closest classical Indian analogue of Plantinga's proper basicality?
-
-A. Mīmāṃsā's intrinsic validity, on which a cognition is valid until it is defeated.
-
-B. Nyāya's extrinsic validity, on which validity must be established by something further.
-
-C. Cārvāka's restriction of the means of knowledge to perception alone.
-
-D. The Advaita triad of hearing, reasoning and assimilation taken as a whole.
-
-**Answer: A.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Correct: Intrinsic validity (*svataḥ-prāmāṇya*) holds a cognition valid on its own until defeated, which is structurally what proper basicality claims.
-- **B:** Incorrect: Extrinsic validity (*parataḥ-prāmāṇya*) requires further certification, so it is the analogue of evidentialism, not of proper basicality.
-- **C:** Incorrect: Cārvāka's restriction to perception is the strict evidentialist limit case at the far end of the same spectrum.
-- **D:** Incorrect: The pedagogic triad describes a route from scripture to realisation; it is not a theory of when a cognition counts as valid.
+- **A:** Incorrect: Extrinsic validity (*parataḥ-prāmāṇya*) requires further certification, so it is the analogue of evidentialism, not of proper basicality.
+- **B:** Incorrect: Cārvāka's restriction to perception is the strict evidentialist limit case at the far end of the same spectrum.
+- **C:** Incorrect: The pedagogic triad describes a route from scripture to realisation; it is not a theory of when a cognition counts as valid.
+- **D:** Correct: Intrinsic validity (*svataḥ-prāmāṇya*) holds a cognition valid on its own until defeated, which is structurally what proper basicality claims.
 
 **Examiner trap 8:** The owner forbids a looser parallel. Write the exact pair — intrinsic validity with proper basicality, extrinsic validity with evidentialism.
 
-#### MCQ 9. The load-bearing step against evidentialism
+#### MCQ 9 — solution
 
-Which statement correctly describes the load-bearing step in Plantinga's argument against the evidentialist objection?
-
-A. He shows by demonstration that God exists and therefore that belief is warranted.
-
-B. He argues classical foundationalism is self-referentially incoherent and too narrow.
-
-C. He claims that the proposition "God exists" is self-evident to any rational person.
-
-D. He denies that religious belief can ever be defeated by any counter-consideration.
-
-**Answer: B.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: Plantinga's argument is epistemological and does not run through a demonstration of God's existence.
-- **B:** Correct: The criterion of classical foundationalism satisfies none of its own conditions and cannot accommodate memory, other minds or beliefs about the past, so basicality is not confined to its list.
-- **C:** Incorrect: Self-evidence is precisely what Plantinga does *not* claim; that is a listed trap in the owner file.
-- **D:** Incorrect: He insists on defeasibility, naming evil, projection theories and cognitive-science explanations as potential defeaters.
+- **A:** Correct: The criterion of classical foundationalism satisfies none of its own conditions and cannot accommodate memory, other minds or beliefs about the past, so basicality is not confined to its list.
+- **B:** Incorrect: Self-evidence is precisely what Plantinga does *not* claim; that is a listed trap in the owner file.
+- **C:** Incorrect: He insists on defeasibility, naming evil, projection theories and cognitive-science explanations as potential defeaters.
+- **D:** Incorrect: Plantinga's argument is epistemological and does not run through a demonstration of God's existence.
 
 **Examiner trap 9:** Do not write that Plantinga makes God's existence self-evident. He makes theistic belief properly basic, grounded, warranted and defeasible.
 
-#### MCQ 10. What restricts James's will-to-believe
-
-Which of the following states the restriction that keeps James's will-to-believe from licensing wishful thinking?
-
-A. The belief must be endorsed by an established religious community before adoption.
-
-B. The believer must show that the belief produces measurable psychological benefit.
-
-C. The proposition must first be shown probable on the balance of available evidence.
-
-D. The option must be living, forced and momentous, with evidence genuinely inconclusive.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Communal endorsement is a criterion in the authentication debate, not James's restriction.
-- **B:** Incorrect: Measurable benefit is closer to a fruit test; James's restriction is about the structure of the option.
-- **C:** Incorrect: If the proposition could be shown probable, evidence would decide and the passional decision would be unnecessary.
-- **D:** Correct: The permission applies only to a living, forced and momentous option where the evidence is genuinely inconclusive, and it never licenses belief against evidence.
-
-**Examiner trap 10:** Quoting Clifford without James, or James without the three conditions, is the standard way to lose the analytical mark in a justification question.
-
-#### MCQ 11. What Hume's argument actually concludes
-
-Which statement about Hume's argument in "Of Miracles" is accurate?
-
-A. He demonstrates that divine action upon the natural order is metaphysically impossible.
-
-B. He argues that testimony faces an evidential burden it cannot ordinarily discharge.
-
-C. He accepts any report supported by witnesses of good moral character.
-
-D. He treats miracles as coincidences that observers subsequently misdescribe.
+#### MCQ 10 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: Hume's conclusion concerns the force of testimony, not the metaphysical possibility of divine action, and treating it otherwise is a listed trap.
-- **B:** Correct: Part I sets uniform experience against non-uniform testimony and issues the maxim that testimony suffices only if its falsehood would be more miraculous than the reported fact.
-- **C:** Incorrect: Good character is only one of the four Part II considerations, and Hume denies that any actual case has satisfied the full set.
-- **D:** Incorrect: Hume defines a miracle as a violation of a law of nature by a particular divine volition, not as a misdescribed coincidence.
+- **A:** Incorrect: If the proposition could be shown probable, evidence would decide and the passional decision would be unnecessary.
+- **B:** Correct: The permission applies only to a living, forced and momentous option where the evidence is genuinely inconclusive, and it never licenses belief against evidence.
+- **C:** Incorrect: Communal endorsement is a criterion in the authentication debate, not James's restriction.
+- **D:** Incorrect: Measurable benefit is closer to a fruit test; James's restriction is about the structure of the option.
+
+**Examiner trap 10:** Quoting Clifford without James, or James without the three conditions, is the standard way to lose the analytical mark in a justification question.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Hume defines a miracle as a violation of a law of nature by a particular divine volition, not as a misdescribed coincidence.
+- **B:** Incorrect: Hume's conclusion concerns the force of testimony, not the metaphysical possibility of divine action, and treating it otherwise is a listed trap.
+- **C:** Correct: Part I sets uniform experience against non-uniform testimony and issues the maxim that testimony suffices only if its falsehood would be more miraculous than the reported fact.
+- **D:** Incorrect: Good character is only one of the four Part II considerations, and Hume denies that any actual case has satisfied the full set.
 
 **Examiner trap 11:** Hume raised the bar; he did not prove it unclearable. Say so, then bring in Swinburne's redefinition and Earman's Bayesian objection.
 
-#### MCQ 12. Why Swinburne redefines a miracle
+#### MCQ 12 — solution
 
-Swinburne's recasting of "miracle" as a non-repeatable counter-instance is deployed in order to:
-
-A. Show that Hume's definition of a miracle as a law-violation is itself contestable.
-
-B. Prove that at least one miracle report in history has been conclusively established.
-
-C. Demonstrate that laws of nature admit no exceptions of any description whatever.
-
-D. Replace testimony with direct perception as the sole ground of miracle-claims.
-
-**Answer: A.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Correct: If a law is an exceptionless regularity, a genuine exception shows the law was mis-stated, so the redefinition prevents miracles from being defined out of existence.
-- **B:** Incorrect: The redefinition is conceptual; it establishes no particular historical report.
-- **C:** Incorrect: The point is the reverse: it makes room for a non-repeatable exception to an otherwise well-confirmed law.
-- **D:** Incorrect: Swinburne strengthens testimony through the principles of credulity and testimony rather than replacing it.
+- **A:** Incorrect: The redefinition is conceptual; it establishes no particular historical report.
+- **B:** Incorrect: The point is the reverse: it makes room for a non-repeatable exception to an otherwise well-confirmed law.
+- **C:** Incorrect: Swinburne strengthens testimony through the principles of credulity and testimony rather than replacing it.
+- **D:** Correct: If a law is an exceptionless regularity, a genuine exception shows the law was mis-stated, so the redefinition prevents miracles from being defined out of existence.
 
 **Examiner trap 12:** Accepting Hume's definition without contest concedes the argument before it begins, because the definitional reply is available and cheap.
 
-#### MCQ 13. Matching a Barbour model to its cost
-
-Which pairing of a Barbour model with its stated cost is correct?
-
-A. Dialogue — it ties theology to the scientific theories of the present day.
-
-B. Integration — it forbids either domain to make claims the other could contest.
-
-C. Independence — it purchases peace by silencing both parties on contestable claims.
-
-D. Conflict — it establishes conversation but never reaches any firm conclusions.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Hostage-taking by current science is the cost of Integration, not of Dialogue.
-- **B:** Incorrect: Enforced mutual silence is the cost of Independence, which is exactly what non-overlapping magisteria prescribes.
-- **C:** Correct: Independence, of which Gould's non-overlapping magisteria is the named form, avoids conflict by forbidding either side to say anything the other could contest.
-- **D:** Incorrect: Being fruitful but non-committal is the cost of Dialogue; Conflict's problem is that it overgeneralises from distorted history.
-
-**Examiner trap 13:** Treating non-overlapping magisteria as the obvious solution loses marks. State the price it charges.
-
-#### MCQ 14. The status of the Draper–White warfare thesis
-
-Which statement about the Draper–White "warfare thesis" should appear in a strong 2020-type answer?
-
-A. It is the settled consensus among modern historians of science and needs no further comment.
-
-B. It was formulated in the mid-twentieth century as a direct response to logical positivism.
-
-C. It concerns only the Islamic and Indian traditions rather than the European material.
-
-D. It is now rejected by most historians of science as a polemical nineteenth-century construction.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: The owner records the opposite, and repeating the thesis uncritically is the characteristic weak-band move.
-- **B:** Incorrect: The two works are dated 1874 and 1896 respectively, so the mid-twentieth-century framing is simply wrong.
-- **C:** Incorrect: Draper's and White's books address the European and Christian material directly.
-- **D:** Correct: Draper (1874) and White (1896) supply the historiography of the Conflict model, and its rejection by most historians of science is a mark-earning qualification rather than a digression.
-
-**Examiner trap 14:** Narrating Galileo instead of using the typology is the single most common failure in this question.
-
-#### MCQ 15. Supra-rational against irrational
-
-Which formulation correctly distinguishes the supra-rational from the irrational?
-
-A. The supra-rational exceeds what proof establishes; the irrational contradicts coherence or decisive evidence.
-
-B. The supra-rational is a feeling; the irrational is a proposition that has been falsified by observation.
-
-C. The supra-rational applies to scripture; the irrational applies to unaided philosophical argument.
-
-D. The supra-rational is a weaker degree of the rational; the irrational is its complete absence.
+#### MCQ 13 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Exceeding proof and contradicting reason are different relations, and this middle category is precisely what the 2023 fifteen-marker is buying.
-- **B:** Incorrect: Reducing the supra-rational to feeling abandons the cognitive claim that makes it a third epistemic category.
-- **C:** Incorrect: The distinction is about the relation of a claim to proof, not about the type of source it comes from.
-- **D:** Incorrect: Treating it as a weaker rationality returns to the two-term scale the distinction exists to break.
+- **A:** Correct: Independence, of which Gould's non-overlapping magisteria is the named form, avoids conflict by forbidding either side to say anything the other could contest.
+- **B:** Incorrect: Being fruitful but non-committal is the cost of Dialogue; Conflict's problem is that it overgeneralises from distorted history.
+- **C:** Incorrect: Hostage-taking by current science is the cost of Integration, not of Dialogue.
+- **D:** Incorrect: Enforced mutual silence is the cost of Independence, which is exactly what non-overlapping magisteria prescribes.
 
-**Examiner trap 15:** A two-column answer to the 2023 stem loses the question. The middle term is the answer.
+**Examiner trap 13:** Treating non-overlapping magisteria as the obvious solution loses marks. State the price it charges.
 
-#### MCQ 16. What separates natural from revealed theology
+#### MCQ 14 — solution
 
-On the propositional model, the distinction between natural and revealed theology is fundamentally a distinction in:
+**Answer: B.**
 
-A. Religious importance, since revealed truths always matter more than natural ones.
+**Option explanations:**
+- **A:** Incorrect: Draper's and White's books address the European and Christian material directly.
+- **B:** Correct: Draper (1874) and White (1896) supply the historiography of the Conflict model, and its rejection by most historians of science is a mark-earning qualification rather than a digression.
+- **C:** Incorrect: The owner records the opposite, and repeating the thesis uncritically is the characteristic weak-band move.
+- **D:** Incorrect: The two works are dated 1874 and 1896 respectively, so the mid-twentieth-century framing is simply wrong.
 
-B. Emotional intensity, since revealed truths are received with greater fervour.
+**Examiner trap 14:** Narrating Galileo instead of using the typology is the single most common failure in this question.
 
-C. Epistemic access, since the two differ in where their premises can be obtained.
-
-D. Historical period, since natural theology preceded revealed theology in time.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: Importance is not the criterion; both theologies speak about God and both matter within the system.
-- **B:** Incorrect: Intensity belongs to the phenomenology of religious experience, which the firewall assigns to another owner.
-- **C:** Correct: Natural theology argues from publicly accessible premises, while revealed theology proceeds from premises the propositional model says could only be received through disclosure.
-- **D:** Incorrect: No chronological priority is asserted; the distinction is systematic rather than developmental.
+- **A:** Incorrect: The distinction is about the relation of a claim to proof, not about the type of source it comes from.
+- **B:** Incorrect: Treating it as a weaker rationality returns to the two-term scale the distinction exists to break.
+- **C:** Correct: Exceeding proof and contradicting reason are different relations, and this middle category is precisely what the 2023 fifteen-marker is buying.
+- **D:** Incorrect: Reducing the supra-rational to feeling abandons the cognitive claim that makes it a third epistemic category.
 
-**Examiner trap 16:** Answering the 2025 stem with a two-column table that never mentions the propositional view drops the third printed term, which carries marks.
+**Examiner trap 15:** A two-column answer to the 2023 stem loses the question. The middle term is the answer.
 
-#### MCQ 17. Why circularity is not automatically fatal
-
-Which statement best explains why the circularity objection to scriptural authority is not automatically fatal?
-
-A. Circularity is a formal fallacy only in mathematics, so it does not apply to theology.
-
-B. Divine authorship guarantees that the circle is closed in a way no critic can examine.
-
-C. Communities are entitled to accept their own founding documents without further inquiry.
-
-D. Many epistemic practices use reciprocal support; the issue is whether the circle is vicious.
+#### MCQ 16 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: Circularity is a defect wherever a conclusion is smuggled into its own support, and no discipline is exempt.
-- **B:** Incorrect: Appealing to divine authorship to close the circle is precisely the move that makes the circle vicious.
-- **C:** Incorrect: Entitlement without inquiry converts a defeasible warrant into insulated fideism.
-- **D:** Correct: Reciprocal support is common in epistemology, so the live question is whether this circle is vicious or a coherent web, which turns on whether independent support enters it.
+- **A:** Incorrect: No chronological priority is asserted; the distinction is systematic rather than developmental.
+- **B:** Incorrect: Importance is not the criterion; both theologies speak about God and both matter within the system.
+- **C:** Incorrect: Intensity belongs to the phenomenology of religious experience, which the firewall assigns to another owner.
+- **D:** Correct: Natural theology argues from publicly accessible premises, while revealed theology proceeds from premises the propositional model says could only be received through disclosure.
+
+**Examiner trap 16:** Answering the 2025 stem with a two-column table that never mentions the propositional view drops the third printed term, which carries marks.
+
+#### MCQ 17 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Reciprocal support is common in epistemology, so the live question is whether this circle is vicious or a coherent web, which turns on whether independent support enters it.
+- **B:** Incorrect: Circularity is a defect wherever a conclusion is smuggled into its own support, and no discipline is exempt.
+- **C:** Incorrect: Appealing to divine authorship to close the circle is precisely the move that makes the circle vicious.
+- **D:** Incorrect: Entitlement without inquiry converts a defeasible warrant into insulated fideism.
 
 **Examiner trap 17:** State the criterion for viciousness — a circle that is the *only* support offered — or the reply looks like special pleading.
 
-#### MCQ 18. The two-sided reading of the 2022 stem
-
-Which reading of the 2022 stem, "Is the notion of faith indispensable for the idea of revelation?", earns the highest marks?
-
-A. Faith is dispensable, since a propositional revelation is true whether or not it is received.
-
-B. Faith is indispensable for reception and efficacy, though not for objective occurrence.
-
-C. Faith is indispensable in every sense, since without faith no disclosure can occur at all.
-
-D. The question is unanswerable, since revelation and faith are defined in terms of each other.
+#### MCQ 18 — solution
 
 **Answer: B.**
 
@@ -433,195 +564,103 @@ D. The question is unanswerable, since revelation and faith are defined in terms
 
 **Examiner trap 18:** "Critically comment" at ten marks wants one distinction, one objection and one verdict — not a survey of revelation theories.
 
-#### MCQ 19. Why natural theology is the narrower field
+#### MCQ 19 — solution
 
-Which of the following is the strongest reason for treating natural theology as narrower than philosophy of religion?
-
-A. Philosophy of religion also analyses religious language, experience and warrant.
-
-B. Natural theology alone employs deductive reasoning about the divine nature.
-
-C. Philosophy of religion is confined to describing the beliefs of existing communities.
-
-D. Natural theology is a modern discipline whereas philosophy of religion is ancient.
-
-**Answer: A.**
+**Answer: C.**
 
 **Option explanations:**
-- **A:** Correct: Natural theology argues toward theological conclusions, while philosophy of religion has the wider analytical field of language, experience and warrant and may reach negative conclusions.
-- **B:** Incorrect: Both fields use deductive reasoning, so the difference cannot lie there.
-- **C:** Incorrect: Confining philosophy of religion to description would make it sociology rather than philosophy.
-- **D:** Incorrect: No such chronological claim is made in the controlling sources, and it would not establish the difference in scope.
+- **A:** Incorrect: Confining philosophy of religion to description would make it sociology rather than philosophy.
+- **B:** Incorrect: No such chronological claim is made in the controlling sources, and it would not establish the difference in scope.
+- **C:** Correct: Natural theology argues toward theological conclusions, while philosophy of religion has the wider analytical field of language, experience and warrant and may reach negative conclusions.
+- **D:** Incorrect: Both fields use deductive reasoning, so the difference cannot lie there.
 
 **Examiner trap 19:** In the 2024 ten-marker the marks sit in reason's testing, interpreting and defending functions, not only in its constructive one.
 
-#### MCQ 20. Alston's parity of doxastic practices
-
-Alston's argument from doxastic practices is best summarised as which of the following?
-
-A. Religious experience yields the same degree of certainty as ordinary sense perception.
-
-B. No doxastic practice, sense perception included, can be validated non-circularly.
-
-C. Religious practice is rational only when independently confirmed by natural theology.
-
-D. Doxastic practices are rational only where a community has publicly agreed on them.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Parity of epistemic situation is claimed, not parity of certainty.
-- **B:** Correct: Since we rationally engage in practices that cannot be non-circularly validated, socially established religious practice is in the same epistemic boat, and engaging in it is practically rational absent sufficient reason to think it unreliable.
-- **C:** Incorrect: Requiring confirmation by natural theology reinstates precisely the evidentialist demand Alston is answering.
-- **D:** Incorrect: Public agreement features as social establishment, but agreement is not the ground of rationality in the argument.
-
-**Examiner trap 20:** Alston is the bridge to the religious-experience owner; use him for the parity argument, not for the phenomenology of experience.
-
-#### MCQ 21. Ordering the permissions from strictest to loosest
-
-Which sequence correctly orders permissions from strictest to loosest?
-
-A. Insulated fideism, then critical rationalism, then strict evidentialism, then Pascal's wager.
-
-B. Pascal's wager, then evidentialism, then insulated fideism, then critical rationalism.
-
-C. Critical rationalism, then insulated fideism, then Pascal's wager, then evidentialism.
-
-D. Evidentialism, then critical rationalism, then James's will-to-believe, then insulated fideism.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: This begins at the loosest position and ends in the middle, inverting the requested ordering.
-- **B:** Incorrect: Prudential permission is looser than the evidentialist demand, so it cannot come first.
-- **C:** Incorrect: Insulated fideism is the loosest position available and cannot sit second.
-- **D:** Correct: The demand for sufficient evidence is strictest, critical rationalism permits commitment under continuing criticism, James permits it for a narrowly specified option, and insulated fideism permits it without any check.
+- **A:** Incorrect: Requiring confirmation by natural theology reinstates precisely the evidentialist demand Alston is answering.
+- **B:** Incorrect: Public agreement features as social establishment, but agreement is not the ground of rationality in the argument.
+- **C:** Incorrect: Parity of epistemic situation is claimed, not parity of certainty.
+- **D:** Correct: Since we rationally engage in practices that cannot be non-circularly validated, socially established religious practice is in the same epistemic boat, and engaging in it is practically rational absent sufficient reason to think it unreliable.
 
-**Examiner trap 21:** Kierkegaard does not belong at the loose end. His claim concerns who must decide, not how much evidence may be dispensed with.
+**Examiner trap 20:** Alston is the bridge to the religious-experience owner; use him for the parity argument, not for the phenomenology of experience.
 
-#### MCQ 22. What Kierkegaard actually denies
-
-Which claim about Kierkegaard is defensible on the controlling sources?
-
-A. He argues that a religious claim is more credible in proportion as it is absurd.
-
-B. He holds that objective argument is irrelevant to every question, religious or not.
-
-C. He denies that an objective system can replace the individual's existential decision.
-
-D. He treats Abraham as a general model for suspending ethical obligations at will.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: The "because it is absurd" slogan is not a verified quotation from Tertullian and is not Kierkegaard's thesis either.
-- **B:** Incorrect: His argument is about religious appropriation, not a general scepticism about objective reasoning.
-- **C:** Correct: Faith is passionate commitment under objective uncertainty, and his attack is on the claim that an objective philosophical system can substitute for existential decision.
-- **D:** Incorrect: Abraham dramatises the paradox as a limit-case; reading him as a general licence is the caricature the owner warns against.
-
-**Examiner trap 22:** Always pair the Kierkegaard exposition with the disclaimer that he licenses neither contradiction nor irresponsibility.
-
-#### MCQ 23. The Indian treatment of the marvellous
-
-Which contrast between Western and Indian treatments of the marvellous is accurate?
-
-A. Western apologetics authenticates revelation by miracles; Indian systems largely decline it.
-
-B. Indian systems rest scriptural authority on miracles; Western apologetics rests it on inference.
-
-C. Both traditions treat extraordinary powers as the decisive test of a genuine disclosure.
-
-D. Neither tradition records extraordinary powers, so no comparison can be constructed.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: *Yoga-sūtra* 3.37 declares the accomplishments obstacles, the *Kevaddha Sutta* has the Buddha refuse displays as a means of conversion, and Mīmāṃsā's authorless Veda needs no miraculous authentication at all.
-- **B:** Incorrect: This inverts the position: Mīmāṃsā's doctrine exists precisely so that no miraculous authentication is required.
-- **C:** Incorrect: Only the Western apologetic tradition gives the marvellous that evidential role.
-- **D:** Incorrect: Both traditions record such powers; the difference lies in the evidential use made of them.
+- **A:** Correct: The demand for sufficient evidence is strictest, critical rationalism permits commitment under continuing criticism, James permits it for a narrowly specified option, and insulated fideism permits it without any check.
+- **B:** Incorrect: This begins at the loosest position and ends in the middle, inverting the requested ordering.
+- **C:** Incorrect: Prudential permission is looser than the evidentialist demand, so it cannot come first.
+- **D:** Incorrect: Insulated fideism is the loosest position available and cannot sit second.
 
-**Examiner trap 23:** Present this as a contrast, not a parallel. Claiming an Indian parallel here misdescribes both sides.
+**Examiner trap 21:** Kierkegaard does not belong at the loose end. His claim concerns who must decide, not how much evidence may be dispensed with.
 
-#### MCQ 24. What lifts a script into the top band
-
-A top-band script on this clause is distinguished above the "strong" band chiefly by which addition?
-
-A. A longer list of thinkers, arranged in chronological order of their publications.
-
-B. A more detailed narrative of the historical episodes linking science and religion.
-
-C. A discriminating distinction plus a statement of what would change the stated verdict.
-
-D. A larger number of Sanskrit and Pali terms supplied without their English glosses.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Additional names without discrimination do not move a script past the strong band.
-- **B:** Incorrect: Historical narrative is what the owner's traps warn against, particularly in the science stem.
-- **C:** Correct: The top band requires a discriminating distinction, such as the faith which is believed against the faith by which one believes, together with a statement of what would change the verdict.
-- **D:** Incorrect: Untranslated terminology violates the English-first rule and adds no analytical value.
-
-**Examiner trap 24:** The defeater sentence is the cheapest top-band marker available and should be the last thing cut under time pressure.
-
-#### REMEDIAL DIAGNOSTIC MCQS — 8
-
-#### MCQ 25. Remedial — 'faith is belief without any evidence'
-
-A candidate writes: "Faith is belief without any evidence." Which correction is best?
-
-A. Faith is an emotion with no cognitive content and therefore no relation to evidence.
-
-B. Faith is trustful commitment beyond conclusive proof and remains answerable to defeaters.
-
-C. Faith is demonstrative knowledge and is therefore epistemically stronger than reason.
-
-D. Faith is a weaker degree of belief, differing from it only in the confidence attached.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: Denying cognitive content contradicts tenet two, which requires assent to some content.
-- **B:** Correct: The error conflates non-demonstrative assent with groundlessness; faith may be rationally supported, supra-rational in commitment, and still open to defeat.
-- **C:** Incorrect: Faith lacks the demonstrative vision that knowledge has, so it cannot be the stronger of the two in that sense.
-- **D:** Incorrect: A difference in degree is exactly what the failure-mode test refutes, since betrayal is not a species of falsehood.
+- **A:** Incorrect: His argument is about religious appropriation, not a general scepticism about objective reasoning.
+- **B:** Correct: Faith is passionate commitment under objective uncertainty, and his attack is on the claim that an objective philosophical system can substitute for existential decision.
+- **C:** Incorrect: Abraham dramatises the paradox as a limit-case; reading him as a general licence is the caricature the owner warns against.
+- **D:** Incorrect: The "because it is absurd" slogan is not a verified quotation from Tertullian and is not Kierkegaard's thesis either.
 
-**Examiner trap 25:** This definition also destroys the second half of the 2020 stem, because it makes faith and belief indistinguishable except by confidence.
+**Examiner trap 22:** Always pair the Kierkegaard exposition with the disclaimer that he licenses neither contradiction nor irresponsibility.
 
-#### MCQ 26. Remedial — 'Aquinas lets faith contradict reason'
+#### MCQ 23 — solution
 
-A candidate writes: "Aquinas allows faith to contradict reason where the mystery demands it." Which correction is best?
+**Answer: C.**
 
-A. Genuine reason and revelation cannot conflict; apparent clash signals a defect in reasoning.
+**Option explanations:**
+- **A:** Incorrect: Only the Western apologetic tradition gives the marvellous that evidential role.
+- **B:** Incorrect: Both traditions record such powers; the difference lies in the evidential use made of them.
+- **C:** Correct: *Yoga-sūtra* 3.37 declares the accomplishments obstacles, the *Kevaddha Sutta* has the Buddha refuse displays as a means of conversion, and Mīmāṃsā's authorless Veda needs no miraculous authentication at all.
+- **D:** Incorrect: This inverts the position: Mīmāṃsā's doctrine exists precisely so that no miraculous authentication is required.
 
-B. Every revealed mystery can in principle be demonstrated once the right premises are found.
+**Examiner trap 23:** Present this as a contrast, not a parallel. Claiming an Indian parallel here misdescribes both sides.
 
-C. Reason becomes unnecessary once a scripture accepted as authoritative is available.
+#### MCQ 24 — solution
 
-D. Faith is entitled to accept a logical contradiction when the doctrine is sufficiently important.
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Untranslated terminology violates the English-first rule and adds no analytical value.
+- **B:** Incorrect: Additional names without discrimination do not move a script past the strong band.
+- **C:** Incorrect: Historical narrative is what the owner's traps warn against, particularly in the science stem.
+- **D:** Correct: The top band requires a discriminating distinction, such as the faith which is believed against the faith by which one believes, together with a statement of what would change the verdict.
+
+**Examiner trap 24:** The defeater sentence is the cheapest top-band marker available and should be the last thing cut under time pressure.
+
+#### MCQ 25 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Both routes issue from God, so an apparent clash indicates a defect in the reasoning or in the interpretation, never a true contradiction in reality.
-- **B:** Incorrect: Demonstrable mysteries would be preambles, which would collapse the two-storey structure.
-- **C:** Incorrect: Reason retains the preambles, the coherence test, interpretation and apologetics, so it does not become redundant.
-- **D:** Incorrect: Accepting a contradiction is the irrational, not the supra-rational; the distinction is precisely what Aquinas needs.
+- **A:** Correct: The error conflates non-demonstrative assent with groundlessness; faith may be rationally supported, supra-rational in commitment, and still open to defeat.
+- **B:** Incorrect: Faith lacks the demonstrative vision that knowledge has, so it cannot be the stronger of the two in that sense.
+- **C:** Incorrect: A difference in degree is exactly what the failure-mode test refutes, since betrayal is not a species of falsehood.
+- **D:** Incorrect: Denying cognitive content contradicts tenet two, which requires assent to some content.
+
+**Examiner trap 25:** This definition also destroys the second half of the 2020 stem, because it makes faith and belief indistinguishable except by confidence.
+
+#### MCQ 26 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Accepting a contradiction is the irrational, not the supra-rational; the distinction is precisely what Aquinas needs.
+- **B:** Correct: Both routes issue from God, so an apparent clash indicates a defect in the reasoning or in the interpretation, never a true contradiction in reality.
+- **C:** Incorrect: Demonstrable mysteries would be preambles, which would collapse the two-storey structure.
+- **D:** Incorrect: Reason retains the preambles, the coherence test, interpretation and apologetics, so it does not become redundant.
 
 **Examiner trap 26:** Write "above reason, never against reason". Those five words are worth more than a paragraph of paraphrase.
 
-#### MCQ 27. Remedial — revelation, inspiration and infallibility
-
-A candidate writes: "Revelation, inspiration and infallibility all mean the same thing." Which correction is best?
-
-A. All three describe the same event under different denominational vocabularies.
-
-B. Revelation is the record, inspiration is the disclosure, and infallibility is the community's assent.
-
-C. Revelation is the disclosure, inspiration the authorship of the record, infallibility freedom from error.
-
-D. Only infallibility is a genuine notion; the other two are pre-critical descriptions of it.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
@@ -633,121 +672,97 @@ D. Only infallibility is a genuine notion; the other two are pre-critical descri
 
 **Examiner trap 27:** These three terms can come apart in practice, and noticing that is a cheap discriminator in a revelation question.
 
-#### MCQ 28. Remedial — 'Hume proved miracles impossible'
+#### MCQ 28 — solution
 
-A candidate writes: "Hume proved that miracles are impossible." Which correction is best?
-
-A. Hume held that only reports from educated witnesses can establish an extraordinary event.
-
-B. Hume argued that testimony normally cannot overcome the evidence for natural regularities.
-
-C. Hume denied that laws of nature have any evidential standing in questions of this kind.
-
-D. Hume treated the four Part II considerations as a proof of divine non-intervention.
-
-**Answer: B.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: Witness quality is one Part II consideration, not the whole argument, and Hume denies any actual case satisfies the full set.
-- **B:** Correct: The conclusion concerns the evidential force of testimony, and Swinburne and Earman both contest the strength of that bar.
-- **C:** Incorrect: The argument depends on laws of nature having the strongest evidential standing available.
-- **D:** Incorrect: Part II offers considerations of evidential caution, not a proof about divine action.
+- **A:** Incorrect: The argument depends on laws of nature having the strongest evidential standing available.
+- **B:** Incorrect: Part II offers considerations of evidential caution, not a proof about divine action.
+- **C:** Incorrect: Witness quality is one Part II consideration, not the whole argument, and Hume denies any actual case satisfies the full set.
+- **D:** Correct: The conclusion concerns the evidential force of testimony, and Swinburne and Earman both contest the strength of that bar.
 
 **Examiner trap 28:** State what survives — Part II as a checklist of caution — and what does not — Part I, which would exclude testimony for any sufficiently improbable event.
 
-#### MCQ 29. Remedial — 'Plantinga says God's existence is self-evident'
-
-A candidate writes: "Plantinga says God's existence is self-evident." Which correction is best?
-
-A. Plantinga rejects every cognitive faculty other than sense perception as a source of belief.
-
-B. Plantinga argues that theistic belief must be inferred from the design argument to be rational.
-
-C. Plantinga holds that religious belief is immune to criticism once it has been formed.
-
-D. Plantinga holds that theistic belief can be properly basic — grounded, warranted and defeasible.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: His proper-function account depends on a wider range of faculties, including a sense of the divine.
-- **B:** Incorrect: Proper basicality is defined by *not* being inferred from other beliefs, so inference from design is beside the point.
-- **C:** Incorrect: He insists on defeasibility and names evil, projection and cognitive-science explanations as potential defeaters.
-- **D:** Correct: The claim is proper basicality with grounding, warrant through proper function, and openness to defeat, not self-evidence.
-
-**Examiner trap 29:** "Properly basic" means non-inferred, not obvious. Those are different claims and the examiner is checking which one you hold.
-
-#### MCQ 30. Remedial — narrating Galileo for the science stem
-
-A candidate answers the 2020 science stem with a narrative of the Galileo affair. Which correction is best?
-
-A. Replace it with a narrative of the nineteenth-century evolution controversies instead.
-
-B. Replace it with an account of contemporary scientific consensus on cosmology.
-
-C. Replace it with Barbour's four models, each with its cost, and a domain-sensitive verdict.
-
-D. Replace it with a defence of non-overlapping magisteria as the settled solution.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Substituting one narrative for another repeats the same structural error.
-- **B:** Incorrect: A survey of scientific results does not answer a question about the relation between two domains.
-- **C:** Correct: The stem asks for significance vis-à-vis scientific and technological development, which is a relation and therefore calls for a typology with costs and a verdict.
-- **D:** Incorrect: Non-overlapping magisteria is one model among four and carries the cost of enforced mutual silence.
-
-**Examiner trap 30:** Add the normative point: technology settles what we can do, not what we should do, and not what a life is for.
-
-#### MCQ 31. Remedial — trust (*śraddhā*) read as blind faith
-
-A candidate writes that Indian trust (*śraddhā*) is simply the Indian word for blind faith. Which correction is best?
-
-A. Trust (*śraddhā*) denotes ritual correctness and has no epistemic dimension whatever.
-
-B. Trust (*śraddhā*) is exactly identical to the faith by which one believes in the scholastic sense.
-
-C. Trust (*śraddhā*) is a purely emotional attachment to a teacher with no cognitive role.
-
-D. Trust (*śraddhā*) is graded and verification-directed: it enables inquiry rather than replacing it.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Denying it any epistemic dimension contradicts its pedagogic role in initiating inquiry.
-- **B:** Incorrect: The scholastic pair is a useful comparison, but identity would erase the graded typology of the *Gītā*.
-- **C:** Incorrect: Reducing it to emotion loses precisely the feature that makes the Indian comparison valuable.
-- **D:** Correct: The *Gītā* 17.2–3 grades it and makes it constitutive of the person, Advaita treats it as the trust that makes inquiry possible and is replaced by realisation, and the *Kālāma Sutta* directs Buddhist trust toward testing in experience.
-
-**Examiner trap 31:** The comparative advantage is that Indian trust *initiates* verification, whereas Western faith often has to defend itself as trust that replaces it.
-
-#### MCQ 32. Remedial — closing with 'both are important'
-
-A candidate concludes a twenty-mark answer with "thus both reason and faith are important". Which correction is best?
-
-A. Replace it with a graded verdict that decides and names the defeater that would change it.
-
-B. Replace it with a longer restatement of the four stances already covered in the body.
-
-C. Replace it with a quotation from Tertullian on believing because the doctrine is absurd.
-
-D. Replace it with a declaration that the question cannot be settled by philosophical means.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Every directive in this clause rewards a decision, and the top band additionally requires a statement of what would change the verdict.
-- **B:** Incorrect: Restating the body adds length without adding evaluation, which is what the verdict is for.
-- **C:** Incorrect: That slogan is not a verified Tertullian quotation and should be used only as a later fideist label.
-- **D:** Incorrect: Declaring the question unsettleable abandons the directive rather than answering it.
+- **A:** Correct: The claim is proper basicality with grounding, warrant through proper function, and openness to defeat, not self-evidence.
+- **B:** Incorrect: His proper-function account depends on a wider range of faculties, including a sense of the divine.
+- **C:** Incorrect: Proper basicality is defined by *not* being inferred from other beliefs, so inference from design is beside the point.
+- **D:** Incorrect: He insists on defeasibility and names evil, projection and cognitive-science explanations as potential defeaters.
+
+**Examiner trap 29:** "Properly basic" means non-inferred, not obvious. Those are different claims and the examiner is checking which one you hold.
+
+#### MCQ 30 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: A survey of scientific results does not answer a question about the relation between two domains.
+- **B:** Correct: The stem asks for significance vis-à-vis scientific and technological development, which is a relation and therefore calls for a typology with costs and a verdict.
+- **C:** Incorrect: Non-overlapping magisteria is one model among four and carries the cost of enforced mutual silence.
+- **D:** Incorrect: Substituting one narrative for another repeats the same structural error.
+
+**Examiner trap 30:** Add the normative point: technology settles what we can do, not what we should do, and not what a life is for.
+
+#### MCQ 31 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: The scholastic pair is a useful comparison, but identity would erase the graded typology of the *Gītā*.
+- **B:** Incorrect: Reducing it to emotion loses precisely the feature that makes the Indian comparison valuable.
+- **C:** Correct: The *Gītā* 17.2–3 grades it and makes it constitutive of the person, Advaita treats it as the trust that makes inquiry possible and is replaced by realisation, and the *Kālāma Sutta* directs Buddhist trust toward testing in experience.
+- **D:** Incorrect: Denying it any epistemic dimension contradicts its pedagogic role in initiating inquiry.
+
+**Examiner trap 31:** The comparative advantage is that Indian trust *initiates* verification, whereas Western faith often has to defend itself as trust that replaces it.
+
+#### MCQ 32 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Restating the body adds length without adding evaluation, which is what the verdict is for.
+- **B:** Incorrect: That slogan is not a verified Tertullian quotation and should be used only as a later fideist label.
+- **C:** Incorrect: Declaring the question unsettleable abandons the directive rather than answering it.
+- **D:** Correct: Every directive in this clause rewards a decision, and the top band additionally requires a statement of what would change the verdict.
 
 **Examiner trap 32:** "Both are important" is the single most reliable way to cap a script in the average band, however good the preceding material.
 
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. Courage and existential doubt coexist without making finite concerns immune to criticism.
+- **B:** Incorrect. Ecstasy fulfils rather than abolishes ontological reason; it is not Tillich's licence for irrationality.
+- **C:** Incorrect. It confuses unconditional *orientation* with certainty about finite doctrines and misplaces Tillich's doubt.
+- **D:** Incorrect. The *act* of finite faith itself contains risk and existential doubt; merely locating doubt outside that act weakens Tillich's claim.
+
+**Examiner trap 33:** Tillich does not declare every intense commitment an authentic ultimate concern.
+
+#### MCQ 34 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect. Neither noetic seeming nor ineffability suffices to verify an object, but the feeling need not be *discounted altogether*.
+- **B:** Correct. A genuine occurrence can admit rival interpretations; identification of its object needs further assessment.
+- **C:** Incorrect. Coherence can screen an interpretation but does not establish that the posited independent object exists.
+- **D:** Incorrect. Genuine dependence-feeling can support a religious attitude without verifying its particular doctrinal explanation.
+
+**Examiner trap 34:** Distinguish occurrence of an experience from truth of an interpretation without dismissing either inquiry.
+
+**Coverage decision (34, not a quota):** The set tests regulative reason, forms and authentication of revelation, faith/belief/assent, Indian scriptural warrant, evidentialism and justification. The distinct 2026 Tillich and reason-alone/experience demands require two extra comparisons, giving diagnostic routes through all 13 verified owner parts without reducing faith to irrational assent.
+
 ## PYQS AND ANSWER PRACTICE
 
-### Verified previous-year questions — 11 complete solutions
+### Verified 2018–2025 previous-year questions — 11 complete solutions (plus two 2026 supplements)
 
-**Word bands used throughout.** 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words. Every question below is reproduced in its exact printed wording from the audited Philosophy of Religion previous-year ledger, 2018–2025. **The model answers are independent learner practice and are never official UPSC keys.**
+**Timed-paper planning, not an answer cap.** The eleven baseline stems below reproduce the audited 2018–2025 ledger; two more 2026 stems follow the original Mains practice. Models are independent learner practice, never official UPSC keys.
 
 #### PYQ 1 — 2019, Q5(a), 10 marks
 
@@ -968,9 +983,31 @@ On the propositional model, revelation communicates divinely authorised **truths
 
 **Why this earns marks:** all three printed terms are used; the access criterion is stated explicitly; the revelation/inspiration/infallibility trio is separated; and the Indian material does argumentative work.
 
-### Original solved Mains practice — 6 models
+### 2026 primary-owned PYQ supplement — two solved parts (2018–2026 total: 13)
 
-These are **original** questions written for practice; they are not previous-year questions. Word bands are as declared above.
+The stems and marks reproduce the verified 2026 Section B supplement; the solutions are independent practice, not official UPSC keys. The experiential content in Q5(e) is a bounded cross-link, not an additional Religious Experience owner question.
+
+#### 2026 Q5(c) · 10 marks
+
+> How does Paul Tillich's idea of faith as ultimate concern address the relation between faith, doubt and reason? Evaluate.
+
+**Model solution.** In *Dynamics of Faith*, Tillich defines faith as being grasped by an **ultimate concern**, an unconditional commitment engaging the whole personality, not mere assent to uncertain propositions. Its concrete content must not be mistaken for the ultimate itself: making a finite nation or institution unconditional is idolatrous faith. Distinguish the act of trusting (*fides qua*) from the formulation believed (*fides quae*); doubt may test the latter without simply abolishing the former.
+
+Tillich distinguishes methodological doubt, sceptical doubt and **existential doubt**. Existential doubt belongs to finite faith because no finite formulation possesses the ultimate without risk. Courage to affirm the ultimate *through* uncertainty differs from credulous refusal to question. Faith does not suppress reason: technical reason calculates relations, whereas ontological reason asks about being and meaning; religious ecstasy is meant to fulfil rather than destroy rationality. His symbolic account cautions against treating any formulation as a literal container of the ultimate, without making every symbol immune from criticism.
+
+**Evaluation:** Tillich makes honest doubt internal to faith and protects reason against authoritarian claims. Yet defining faith as ultimate concern may embrace secular absolute commitments as well as religions, and it remains unclear how to discriminate warranted from idolatrous concern without independent rational criteria. Thus the reconciliation is fruitful, not an automatic vindication of every belief held in faith.
+
+#### 2026 Q5(e) · 10 marks
+
+> "If religion were a subject of reason alone, it would have lacked an experiential account." Do you agree with this statement? Give reasons in support of your answer.
+
+**Model solution.** I agree **if “reason alone” means exhaustive deduction**, not if reason is merely one indispensable participant. A religion of natural theology or Deism can infer a creator or moral order and formulate duties; Kant's religion within the bounds of reason alone preserves the rational primacy of morality. Yet these resources do not, by themselves, supply the lived experience of dependence, awe, prayer and transformation. Schleiermacher's feeling of absolute dependence, Otto's numinous encounter and William James's noetic quality of mystical states identify distinct phenomenological claims that cannot be deduced from a syllogism proving a first cause.
+
+But experience alone does not certify a supernatural object: conflicting experiences, psychological explanations and interpretive frameworks require reason's critical assessment. Tillich's view that reason is a precondition of faith points to a both/and account; rational scrutiny can judge coherence without manufacturing the existential encounter it assesses. Neither a rational proof of God nor a bare report of feeling alone yields a complete religion. **Verdict:** The conditional holds against reduction of religion to demonstration; it does not require an irrational religion or imply that every experience is veridical.
+
+### Original solved Mains practice — six baseline models plus a supra-rationality model
+
+These are **original** questions written for timed practice; they are not previous-year questions. Answer every demanded subpart without a prescribed word ceiling.
 
 #### Original 1 · 10 marks
 
@@ -1066,3 +1103,13 @@ The view proposes a reordering of the standard objections. It is largely correct
 **Reply.** True, and no one holds diversity is easily answered. But an explanation of rivals offered from inside a practice is precisely what a rival can also offer.
 
 **Verdict.** The view is correct in its ordering. Once justification is located inside a doxastic practice, evidential insufficiency ceases to be the live problem and incompatible practices take its place. The defeater would be a tradition-neutral criterion that discriminates among mature practices; the absence of such a criterion, rather than any shortage of evidence, is what makes diversity decisive.
+
+#### Further original Mains practice — differentiating faith's limits
+
+**Original 7 · 15 marks — Is faith beyond reason necessarily faith against reason? Critically distinguish supra-rational commitment from irrational immunity to evidence.**
+
+**Model solution.** “Beyond” marks a possible limit on the *source* or *scope* of demonstration; “against” marks an actual conflict with reasons that have evidential or moral force. Aquinas argues that reason can investigate creation and certain attributes, while mysteries such as the Trinity are not derivable from unaided reason. Acceptance on testimony can exceed proof without affirming a formal contradiction. An intellectual act of assent and an act of trust can also be distinct: not being able to compel assent by syllogism need not mean deliberately disregarding every defeater.
+
+Kierkegaard's Abraham in *Fear and Trembling* puts the strongest case for the irreducibility of faith to public ethical calculation: the individual stands in an absolute relation to the Absolute. Yet the proposed suspension of the ethical threatens an inability to distinguish a claimed divine command from a delusion or rationalisation of violence. If no evidence, moral criticism or interpretive correction could ever count against an alleged revelation, “supra-rational” has become insulation of a genuinely irrational commitment. Conversely an evidentialist who requires demonstrative proof for every ordinary reliance on testimony imposes a standard that many justified beliefs cannot meet.
+
+**Indian comparison:** Testimony (*śabda*) in Nyāya or scripture for Vedānta may be warranted within a framework, but disagreement about reliable speakers or interpretations requires independent critical scrutiny. **Verdict:** Faith may responsibly transcend what reason can *derive* while remaining answerable to reason's checks on consistency, interpretation and harms. Its distinctive commitment is not a license to bypass those checks.

@@ -1,810 +1,464 @@
 ---
-title: "World in 1914 and Outbreak of WWI — Solved Practice Workbook"
+title: "World in 1914 and the Outbreak of WWI — Solved Practice Workbook"
 topic_key: world-history-09
 ---
-# World in 1914 and Outbreak of WWI — Solved Practice Workbook
+# World in 1914 and the Outbreak of WWI — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Triple Alliance, 1882?
+### Questions — conceptual, comparative and remedial
 
-A. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-B. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
+One best answer per item; the separate key below explains all four options and isolates the trap.
 
-**Answer: A.**
-**Explanation:** The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915. The remaining options belong to different chronology, actor or analytical categories.
+#### Q1. Which chronological alignment sequence is fully supported?
 
-### Q2. Which chronology card should be filed under Triple Alliance, 1882?
+A. Triple Alliance 1882 → Franco-Russian alliance 1894 → Entente Cordiale 1904 → Anglo-Russian agreement 1907
+B. Entente Cordiale 1882 → Triple Alliance 1894 → Franco-Russian alliance 1907
+C. Franco-Russian alliance 1882 → Anglo-Russian agreement 1894 → Triple Alliance 1907
+D. Triple Alliance 1907 → Entente Cordiale 1911 → Franco-Russian alliance 1914
 
-A. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-B. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-C. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-D. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
+#### Q2. Which 1914 bloc membership statement also recognises the limit of static alliance maps?
 
-**Answer: B.**
-**Explanation:** The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915. The remaining options belong to different chronology, actor or analytical categories.
+A. Italy immediately declared war for Germany on 1 August 1914
+B. The Triple Alliance included Italy, but Italy did not fight beside its partners from the outset and joined the Allied side in 1915
+C. The Triple Alliance consisted of Britain, France and Russia and bound Italy to neutrality forever
+D. The Entente was Germany, Austria-Hungary and Italy, all of which attacked Serbia in 1914
 
-### Q3. Which option preserves the source-bounded meaning of Triple Alliance, 1882?
+#### Q3. What does the 1905–06 Moroccan Crisis chiefly show in Lowe’s prewar sequence?
 
-A. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-B. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-C. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-D. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
+A. It immediately caused the British invasion of Belgium
+B. It ended French interest in Alsace-Lorraine forever
+C. German diplomacy tested the Anglo-French understanding and suffered a setback, without immediately producing general war
+D. It was the Sarajevo assassination under another name
 
-**Answer: C.**
-**Explanation:** The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915. The remaining options belong to different chronology, actor or analytical categories.
+#### Q4. Which event strengthens Russia’s post-crisis sensitivity to Balkan prestige?
 
-### Q4. Which statement avoids a close-option trap about Triple Alliance, 1882?
+A. The 1911 Agadir Crisis was a Russo-Serbian annexation of Bosnia
+B. The 1894 Franco-Russian alliance annexed Belgium
+C. The 1912–13 Balkan Wars dissolved the Habsburg state
+D. Austria-Hungary’s annexation of Bosnia in 1908 humiliated Serbia and Russia
 
-A. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-B. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-C. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-D. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
+#### Q5. How did the 1912–13 Balkan Wars change Austria-Hungary’s calculation?
 
-**Answer: D.**
-**Explanation:** The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915. The remaining options belong to different chronology, actor or analytical categories.
+A. They strengthened Serbia, making South Slav aspirations appear a threat to a multi-national Habsburg empire
+B. They proved Austria had annexed Serbia peacefully in 1908
+C. They turned French revanchism into a Serbian naval programme
+D. They guaranteed Russia would abandon Serbia in every later crisis
 
-### Q5. Which statement correctly identifies Franco-Russian alliance, 1894?
+#### Q6. Which date-event pairing distinguishes spark from first formal Austro-Serb war declaration?
 
-A. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-B. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-C. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-D. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
+A. Both events occurred in 1908 during the Bosnia Crisis
+B. Sarajevo assassination: 28 June 1914; Austria-Hungary declares war: 28 July 1914
+C. Sarajevo assassination: 28 July; Austria declares war: 28 June
+D. Sarajevo assassination: 4 August; Austria declares war: 1915
 
-**Answer: A.**
-**Explanation:** The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement. The remaining options belong to different chronology, actor or analytical categories.
+#### Q7. Which statement correctly identifies the immediate Sarajevo actors without treating them as sufficient explanation?
 
-### Q6. Which chronology card should be filed under Franco-Russian alliance, 1894?
+A. The assassination itself legally forced all alliance partners into war
+B. It occurred in 1911 and immediately drew Britain against France
+C. Gavrilo Princip assassinated Archduke Franz Ferdinand; Austria used the event against Serbia amid existing tensions
+D. Franz Ferdinand assassinated Gavrilo Princip and ordered British mobilisation
 
-A. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-B. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-C. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-D. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
+#### Q8. Which interpretation of the Austro-Serb struggle does more than restate great-power balance?
 
-**Answer: B.**
-**Explanation:** The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement. The remaining options belong to different chronology, actor or analytical categories.
+A. Austria feared that Serbia was about to seize the British navy
+B. The quarrel began with Germany’s move through Belgium
+C. Neither Austria nor Serbia possessed political aims beyond stabilising all existing borders
+D. Serbian South Slav nationalism threatened Austria-Hungary’s internal cohesion, not only its external prestige
 
-### Q7. Which option preserves the source-bounded meaning of Franco-Russian alliance, 1894?
+#### Q9. Which pairing states the 1914 standing of Germany and Britain most precisely?
 
-A. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-B. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
+A. Germany was the leading continental military-economic power; Britain remained a naval power with a global empire
+B. Britain was a minor landlocked state; Germany had no industrial capacity
+C. Russia commanded the British navy while Germany lacked an army
+D. Germany and Britain had identical strategic positions without rivalry
 
-**Answer: C.**
-**Explanation:** The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement. The remaining options belong to different chronology, actor or analytical categories.
+#### Q10. How does France’s post-1871 grievance complicate the claim that all belligerents sought equilibrium?
 
-### Q8. Which statement avoids a close-option trap about Franco-Russian alliance, 1894?
+A. French revanchism alone explains Britain’s legal concern for Belgium
+B. Alsace-Lorraine supplied a revanchist territorial-national aim distinct from preservation of the status quo
+C. France sought only to prevent Italy’s entry into the Triple Alliance
+D. The loss of Alsace-Lorraine occurred at Sarajevo in 1914
 
-A. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-B. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-C. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-D. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
+#### Q11. What role did Anglo-German naval rivalry play compared with colonial rivalry in Lowe’s account?
 
-**Answer: D.**
-**Explanation:** The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement. The remaining options belong to different chronology, actor or analytical categories.
+A. Naval rivalry was invented after Britain entered in August
+B. Because naval friction had eased, Balkan nationalism vanished
+C. Naval competition was serious Anglo-German friction, while colonial competition is less convincing as a direct cause
+D. Colonial disputes alone determined every July declaration
 
-### Q9. Which statement correctly identifies Entente Cordiale, 1904?
+#### Q12. Which analysis of German “encirclement” addresses the structural level?
 
-A. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-B. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-C. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-D. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
+A. The term means Serbia surrounded Germany geographically in 1908
+B. It establishes that every Entente member promised automatic military action
+C. It describes only the assassination location in Bosnia
+D. German fear of Britain, France and Russia as counterweights encouraged insecurity, without proving an unavoidable war
 
-**Answer: A.**
-**Explanation:** Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation. The remaining options belong to different chronology, actor or analytical categories.
+#### Q13. Which connection between German backing and Vienna’s agency is best supported?
 
-### Q10. Which chronology card should be filed under Entente Cordiale, 1904?
+A. Berlin’s “blank cheque” emboldened Austria-Hungary, but Vienna still made its own decision for a hard line against Serbia
+B. Berlin’s support proves Austria never issued an ultimatum
+C. Vienna acted without any German diplomatic backing
+D. All blame must be assigned to Russia because Germany supported Austria
 
-A. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-B. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-C. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
+#### Q14. What distinguishes Russian mobilisation from Russia’s earlier diplomatic backing of Serbia?
 
-**Answer: B.**
-**Explanation:** Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation. The remaining options belong to different chronology, actor or analytical categories.
+A. Russian support for Serbia proves Russia annexed Bosnia
+B. General mobilisation during the July escalation added an operational pressure to an older Balkan-prestige concern
+C. The two are identical military acts in 1894
+D. Russia mobilised only after Britain entered on 4 August
 
-### Q11. Which option preserves the source-bounded meaning of Entente Cordiale, 1904?
+#### Q15. Which August chronology follows the owner’s declaration dates?
 
-A. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-B. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-C. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
+A. Germany declares war on France 28 June, Russia 28 July
+B. Russia and France both enter only after Italy joins in 1915
+C. Germany declares war on Russia 1 August, France 3 August; Britain enters 4 August
+D. Britain enters 1 August, Germany declares war on France 4 August
 
-**Answer: C.**
-**Explanation:** Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation. The remaining options belong to different chronology, actor or analytical categories.
+#### Q16. Why did Germany’s attack on France through Belgium change Britain’s decision?
 
-### Q12. Which statement avoids a close-option trap about Entente Cordiale, 1904?
+A. Britain had a binding Franco-British alliance that alone mechanically compelled war
+B. Britain wished to defend Austria-Hungary against Serbia
+C. Belgium attacked Germany to protect a colonial market
+D. Violation of Belgian neutrality supplied the immediate legal-political issue, alongside British strategic fears of a hostile Channel power
 
-A. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-B. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-C. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-D. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
+#### Q17. What can be inferred from Italy’s position about the inevitability thesis?
 
-**Answer: D.**
-**Explanation:** Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation. The remaining options belong to different chronology, actor or analytical categories.
+A. A prewar alliance did not automatically impose identical wartime decisions on every signatory
+B. The Triple Alliance never included Italy
+C. No alliance shaped expectations in 1914
+D. Austria-Hungary and Germany were neutral in August
 
-### Q13. Which statement correctly identifies Anglo-Russian agreement, 1907?
+#### Q18. Which distinction most directly answers why a Balkan conflict became a general war?
 
-A. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-B. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-C. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
+A. Italy’s 1915 entry caused Austria’s July 1914 ultimatum
+B. Sarajevo and Austro-Serb rivalry supplied ignition; Russian mobilisation, German backing and westward planning transmitted it across blocs
+C. Serbia’s aims alone forced Britain to mobilise on 28 June
+D. Colonial borders in Africa mechanically required a European declaration
 
-**Answer: A.**
-**Explanation:** The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia. The remaining options belong to different chronology, actor or analytical categories.
+#### Q19. Which assessment of mobilisation timetables and the “Schlieffen Plan” is safest?
 
-### Q14. Which chronology card should be filed under Anglo-Russian agreement, 1907?
+A. Railway timetables alone created Balkan nationalism
+B. Plans were irrelevant because armies did not mobilise
+C. German planning through Belgium constricted diplomacy, but a single rigid prewritten Schlieffen blueprint is disputed
+D. Zuber proved Germany never entered Belgium
 
-A. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-B. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-C. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-D. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
+#### Q20. Which comparison best differentiates a preventive-war logic from preservation of balance?
 
-**Answer: B.**
-**Explanation:** The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia. The remaining options belong to different chronology, actor or analytical categories.
+A. Preventive war means waiting indefinitely while a rival grows stronger
+B. Preserving balance necessarily means acquiring Alsace-Lorraine in 1871
+C. Preventive calculations prove every German policymaker had one fixed plan for years
+D. Acting before a rival’s projected rise seeks advantage in a changing future balance, rather than merely restoring an existing equilibrium
 
-### Q15. Which option preserves the source-bounded meaning of Anglo-Russian agreement, 1907?
+#### Q21. Which reading of earlier prewar crises most directly counters claims of inevitability?
 
-A. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-B. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-C. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
+A. Moroccan, Bosnia and Agadir tensions were severe but did not themselves culminate in general war
+B. The crises prove the alliances did not exist
+C. The crises ended all Balkan and naval friction by 1914
+D. They show no power ever miscalculated
 
-**Answer: C.**
-**Explanation:** The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia. The remaining options belong to different chronology, actor or analytical categories.
+#### Q22. Which historiographical attribution is matched correctly?
 
-### Q16. Which statement avoids a close-option trap about Anglo-Russian agreement, 1907?
+A. George Kennan dismissed all alliance effects as imaginary
+B. Fritz Fischer emphasised German leaders’ deliberate risk; Samuel Williamson stressed Vienna’s independent choices
+C. Fritz Fischer argued that Serbia alone invaded Belgium
+D. Samuel Williamson said Austria had no agency after Berlin’s support
 
-A. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-B. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-C. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-D. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
+#### Q23. Which pairing correctly represents opposed readings of military planning?
 
-**Answer: D.**
-**Explanation:** The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia. The remaining options belong to different chronology, actor or analytical categories.
+A. Turner proved a single blueprint inevitable; Lowe endorsed unanimity
+B. Mulligan established railway timetables as the only cause
+C. Ritter emphasised rigid German planning; Zuber challenged the picture of a single fixed Schlieffen Plan
+D. Zuber said no German forces entered Belgium; Ritter denied mobilisation
 
-### Q17. Which statement correctly identifies Anglo-German naval rivalry?
+#### Q24. Which attribution correctly treats the miscalculation argument?
 
-A. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-B. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-C. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
+A. Fischer claimed no German decision had consequences
+B. Kennan denied the existence of Franco-Russian alignment
+C. Williamson attributed all July decisions to Britain alone
+D. L. C. F. Turner called attention to errors by Austria, Germany and Russia in judging others’ reactions
 
-**Answer: A.**
-**Explanation:** Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did. The remaining options belong to different chronology, actor or analytical categories.
+#### Q25. Which conclusion best follows Lowe’s treatment of colonial and economic competition?
 
-### Q18. Which chronology card should be filed under Anglo-German naval rivalry?
+A. They contributed to background tensions, but neither alone convincingly explains the immediate 1914 outbreak
+B. All powers fought exclusively for identical commercial profits
+C. The Balkan crisis was merely an effect of Congo concessions
+D. Because colonies were involved, Belgian neutrality was irrelevant
+
+#### Q26. For the verified 2024 GS-I PYQ, which thesis addresses “how far” rather than a simple yes/no?
 
-A. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-B. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-C. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-D. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-
-**Answer: B.**
-**Explanation:** Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Anglo-German naval rivalry?
-
-A. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-B. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-C. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-D. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-
-**Answer: C.**
-**Explanation:** Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Anglo-German naval rivalry?
-
-A. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-B. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-C. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-D. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-
-**Answer: D.**
-**Explanation:** Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Alsace-Lorraine and revanchism?
-
-A. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-B. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-C. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-
-**Answer: A.**
-**Explanation:** French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Alsace-Lorraine and revanchism?
-
-A. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-B. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-C. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-D. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-
-**Answer: B.**
-**Explanation:** French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Alsace-Lorraine and revanchism?
-
-A. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-B. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-C. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-D. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-
-**Answer: C.**
-**Explanation:** French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Alsace-Lorraine and revanchism?
-
-A. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-B. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-C. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-D. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-
-**Answer: D.**
-**Explanation:** French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Bosnia Crisis, 1908?
-
-A. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-B. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-C. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-D. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-
-**Answer: A.**
-**Explanation:** Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Bosnia Crisis, 1908?
-
-A. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-B. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-C. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-D. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-
-**Answer: B.**
-**Explanation:** Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Bosnia Crisis, 1908?
-
-A. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-B. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-C. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-D. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-
-**Answer: C.**
-**Explanation:** Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Bosnia Crisis, 1908?
-
-A. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-B. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-C. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-D. Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-
-**Answer: D.**
-**Explanation:** Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Agadir Crisis, 1911?
-
-A. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-B. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-C. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-D. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-
-**Answer: A.**
-**Explanation:** The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Agadir Crisis, 1911?
-
-A. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-B. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-C. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-D. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-
-**Answer: B.**
-**Explanation:** The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Agadir Crisis, 1911?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-C. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-D. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-
-**Answer: C.**
-**Explanation:** The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Agadir Crisis, 1911?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-C. Germany declared war on Russia on 1 August and France on 3 August 1914.
-D. The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust.
-
-**Answer: D.**
-**Explanation:** The Agadir Crisis of 1911 strengthened British support for France and deepened German mistrust. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Balkan Wars, 1912-13?
-
-A. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-B. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-C. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-D. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-
-**Answer: A.**
-**Explanation:** The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Balkan Wars, 1912-13?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-C. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-D. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-
-**Answer: B.**
-**Explanation:** The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Balkan Wars, 1912-13?
-
-A. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-B. Germany declared war on Russia on 1 August and France on 3 August 1914.
-C. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-D. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-
-**Answer: C.**
-**Explanation:** The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Balkan Wars, 1912-13?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-C. Germany declared war on Russia on 1 August and France on 3 August 1914.
-D. The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-
-**Answer: D.**
-**Explanation:** The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Sarajevo, 28 June 1914?
-
-A. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-B. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-C. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-D. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-
-**Answer: A.**
-**Explanation:** Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Sarajevo, 28 June 1914?
-
-A. Germany declared war on Russia on 1 August and France on 3 August 1914.
-B. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-C. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-D. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-
-**Answer: B.**
-**Explanation:** Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Sarajevo, 28 June 1914?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. Germany declared war on Russia on 1 August and France on 3 August 1914.
-C. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-D. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-
-**Answer: C.**
-**Explanation:** Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Sarajevo, 28 June 1914?
-
-A. Germany declared war on Russia on 1 August and France on 3 August 1914.
-B. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-C. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-D. Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-
-**Answer: D.**
-**Explanation:** Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Austria declares war, 28 July 1914?
-
-A. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-B. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-C. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-D. Germany declared war on Russia on 1 August and France on 3 August 1914.
-
-**Answer: A.**
-**Explanation:** Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Austria declares war, 28 July 1914?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-C. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-D. Germany declared war on Russia on 1 August and France on 3 August 1914.
-
-**Answer: B.**
-**Explanation:** Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Austria declares war, 28 July 1914?
-
-A. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-B. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-C. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-D. Germany declared war on Russia on 1 August and France on 3 August 1914.
-
-**Answer: C.**
-**Explanation:** Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Austria declares war, 28 July 1914?
-
-A. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-B. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-C. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-D. Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-
-**Answer: D.**
-**Explanation:** Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies German blank cheque?
-
-A. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-B. Germany declared war on Russia on 1 August and France on 3 August 1914.
-C. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-D. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-
-**Answer: A.**
-**Explanation:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under German blank cheque?
-
-A. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-B. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-C. Germany declared war on Russia on 1 August and France on 3 August 1914.
-D. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-
-**Answer: B.**
-**Explanation:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of German blank cheque?
-
-A. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-B. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-C. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: C.**
-**Explanation:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about German blank cheque?
-
-A. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-B. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-C. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-D. German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-
-**Answer: D.**
-**Explanation:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Russian mobilisation?
-
-A. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-B. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-C. Germany declared war on Russia on 1 August and France on 3 August 1914.
-D. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-
-**Answer: A.**
-**Explanation:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Russian mobilisation?
-
-A. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-B. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-C. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: B.**
-**Explanation:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Russian mobilisation?
-
-A. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-B. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-C. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: C.**
-**Explanation:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Russian mobilisation?
-
-A. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-B. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-C. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-D. Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-
-**Answer: D.**
-**Explanation:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Germany declares war, 1 and 3 August?
-
-A. Germany declared war on Russia on 1 August and France on 3 August 1914.
-B. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-C. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-D. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-
-**Answer: A.**
-**Explanation:** Germany declared war on Russia on 1 August and France on 3 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Germany declares war, 1 and 3 August?
-
-A. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-B. Germany declared war on Russia on 1 August and France on 3 August 1914.
-C. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-D. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-
-**Answer: B.**
-**Explanation:** Germany declared war on Russia on 1 August and France on 3 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Germany declares war, 1 and 3 August?
-
-A. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-B. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-C. Germany declared war on Russia on 1 August and France on 3 August 1914.
-D. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-
-**Answer: C.**
-**Explanation:** Germany declared war on Russia on 1 August and France on 3 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Germany declares war, 1 and 3 August?
-
-A. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-B. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-C. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-D. Germany declared war on Russia on 1 August and France on 3 August 1914.
-
-**Answer: D.**
-**Explanation:** Germany declared war on Russia on 1 August and France on 3 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Belgium and British entry, 4 August?
-
-A. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-B. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-C. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: A.**
-**Explanation:** German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Belgium and British entry, 4 August?
-
-A. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-B. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-C. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: B.**
-**Explanation:** German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Belgium and British entry, 4 August?
-
-A. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-B. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-C. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-D. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-
-**Answer: C.**
-**Explanation:** German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Belgium and British entry, 4 August?
-
-A. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-B. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-C. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-D. German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-
-**Answer: D.**
-**Explanation:** German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Balkan nationalism?
-
-A. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-B. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-C. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: A.**
-**Explanation:** Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Balkan nationalism?
-
-A. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-B. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-C. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-D. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-
-**Answer: B.**
-**Explanation:** Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Balkan nationalism?
-
-A. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-B. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-C. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-D. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-
-**Answer: C.**
-**Explanation:** Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Balkan nationalism?
-
-A. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-B. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-C. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-D. Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-
-**Answer: D.**
-**Explanation:** Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Balance-of-power structure?
-
-A. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-B. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-C. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-D. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-
-**Answer: A.**
-**Explanation:** Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Balance-of-power structure?
-
-A. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-B. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-C. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-D. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-
-**Answer: B.**
-**Explanation:** Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Balance-of-power structure?
-
-A. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-B. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-C. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-D. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-
-**Answer: C.**
-**Explanation:** Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Balance-of-power structure?
-
-A. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-B. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Answer: D.**
-**Explanation:** Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Mobilisation rigidity and miscalculation?
-
-A. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-B. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-C. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-D. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-
-**Answer: A.**
-**Explanation:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Mobilisation rigidity and miscalculation?
-
-A. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-B. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-
-**Answer: B.**
-**Explanation:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Mobilisation rigidity and miscalculation?
-
-A. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-B. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-C. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-D. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-
-**Answer: C.**
-**Explanation:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Mobilisation rigidity and miscalculation?
-
-A. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-B. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-C. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-D. Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-
-**Answer: D.**
-**Explanation:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Responsibility at two levels?
-
-A. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-B. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-
-**Answer: A.**
-**Explanation:** Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Responsibility at two levels?
-
-A. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-B. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-C. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-D. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-
-**Answer: B.**
-**Explanation:** Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Responsibility at two levels?
-
-A. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-B. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-C. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-D. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-
-**Answer: C.**
-**Explanation:** Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Responsibility at two levels?
-
-A. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-B. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-C. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-D. Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-
-**Answer: D.**
-**Explanation:** Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Balance-of-power verdict?
-
-A. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-B. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-
-**Answer: A.**
-**Explanation:** Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Balance-of-power verdict?
-
-A. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-B. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-C. The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-D. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-
-**Answer: B.**
-**Explanation:** Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Balance-of-power verdict?
-
-A. Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-B. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-C. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-D. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-
-**Answer: C.**
-**Explanation:** Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Balance-of-power verdict?
-
-A. Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-B. The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-C. French resentment over Alsace-Lorraine, lost in 1871, remained a national-territorial source of tension.
-D. Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-
-**Answer: D.**
-**Explanation:** Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered. The remaining options belong to different chronology, actor or analytical categories.
+A. The question requires narrating only treaty dates
+B. Balance of power explains bloc structure and part of Britain’s entry, but not all belligerents’ motives or the timing of July choices
+C. Every combatant fought only to restore the prewar power ratio
+D. Balance mattered nowhere because Sarajevo was the sole cause
+
+#### Q27. Which allocation distinguishes Austria’s, Serbia’s, Germany’s and Britain’s immediate concerns?
+
+A. Austria—restoration of French Alsace; Serbia—British naval supremacy; Germany—Belgian independence
+B. All four powers sought precisely the same territorial settlement
+C. Austria—imperial cohesion; Serbia—South Slav cause; Germany—ally and encirclement; Britain—Belgian neutrality and Channel security
+D. Austria—Haitian emancipation; Serbia—naval empire; Germany—Brazilian monarchy; Britain—Bosnia annexation
+
+#### Q28. Which source-bounded overview situates 1914 beyond Europe without importing Topic 10’s war narrative?
+
+A. Japan had no modernised armed power after 1904–05
+B. China controlled all European imperial concessions in 1914
+C. The war’s 1919 settlement caused the Sarajevo assassination
+D. Europe’s rivalries dominated decisions but the USA and Japan were rising and empires drew the wider world into the conflict
+
+#### Q29. Which function did the 1904 Entente Cordiale serve in the developing European alignments?
+
+A. Britain and France resolved colonial disputes, enabling closer strategic cooperation without creating an automatic war obligation
+B. It was a 1904 treaty binding Britain to invade Germany whenever France mobilised
+C. It joined Germany, Italy and Austria-Hungary in 1882
+D. It guaranteed French recovery of Alsace-Lorraine before 1907
+
+#### Q30. What is the most defensible reading of the 1911 Agadir Crisis?
+
+A. It directly forced Russia to declare war on France in 1911
+B. British backing of France sharpened German mistrust and Anglo-German tension, without itself starting general war
+C. It was Austria’s annexation of Bosnia in 1908
+D. It was the 1914 assassination of Franz Ferdinand
+
+#### Q31. Which political-system contrast in Lowe’s 1914 snapshot is accurately qualified?
+
+A. The USA and Britain were both autocracies without representative institutions
+B. Russia and Austria-Hungary were identical constitutional democracies
+C. Britain, France and the USA had democratic institutions; Germany, Italy and Japan had elected bodies with limited democracy; Russia and Austria-Hungary were more autocratic
+D. All elected bodies in Germany, Italy and Japan were as effective as those in Britain
+
+#### Q32. Which global-context inference is consistent with the 1914 world snapshot?
+
+A. Japan was defeated by Russia in 1904–05 and then ceased to modernise
+B. China’s concessions prove it had conquered every European colony
+C. The USA had not emerged as a world power by 1914
+D. Japan’s victory over Russia in 1904–05 and outside concessions in China show that global power relations extended beyond European territory
+
+### Separate answer key — four-option reasoning
+
+**Q1 — A.**
+- **A:** The dates mark the progressive formation of rival alignments
+- **B:** The Entente Cordiale belongs to 1904, not 1882
+- **C:** Every treaty-year pairing is displaced
+- **D:** The blocs were formed well before the July Crisis
+- **Trap:** Diplomatic alignment formed over decades; it was not invented after Sarajevo.
+
+**Q2 — B.**
+- **A:** Italy was not an initial belligerent alongside Germany
+- **B:** Membership in 1882 did not automatically determine wartime alignment
+- **C:** That list describes the Triple Entente and invents a permanent Italian obligation
+- **D:** The Triple Alliance members did not behave identically
+- **Trap:** A prewar treaty list is not a list of identical combatants in August 1914.
+
+**Q3 — C.**
+- **A:** Belgian neutrality became the issue during the 1914 escalation
+- **B:** French revanchism remained a source of friction
+- **C:** The crisis sharpened mistrust yet also demonstrates that crisis did not entail war
+- **D:** Sarajevo belongs to 28 June 1914
+- **Trap:** An earlier managed crisis undercuts inevitability, not the reality of mounting tension.
+
+**Q4 — D.**
+- **A:** Agadir was a different imperial-diplomatic crisis
+- **B:** Belgium was invaded by Germany during 1914
+- **C:** Austria-Hungary survived but felt more threatened by Serbia
+- **D:** The Bosnia Crisis intensified Austro-Serb enmity and Russian determination
+- **Trap:** Separate the Bosnia annexation from the later Balkan Wars.
+
+**Q5 — A.**
+- **A:** The owner connects Serbian success to Austrian fear for internal survival
+- **B:** The 1908 annexation concerned Bosnia
+- **C:** No such link is supported
+- **D:** Russian support for Serbia became an escalation factor
+- **Trap:** Habsburg anxiety was not merely loss of an external military balance.
+
+**Q6 — B.**
+- **A:** The Bosnia annexation is a separate earlier crisis
+- **B:** The interval encompasses the political decisions of the July Crisis
+- **C:** The two dates are reversed
+- **D:** 4 August marks British entry, not the assassination
+- **Trap:** The month between Sarajevo and the declaration makes diplomatic agency visible.
+
+**Q7 — C.**
+- **A:** Alliance obligations were not mechanically binding
+- **B:** 1911 is the Agadir year; Britain entered in 1914
+- **C:** The named assassination triggered a crisis rooted in earlier Balkan antagonism
+- **D:** The victim and assassin are reversed and Britain’s action misdescribed
+- **Trap:** A proximate trigger does not explain why several powers subsequently chose escalation.
+
+**Q8 — D.**
+- **A:** This is not the Balkan issue in the source
+- **B:** Belgium became part of later westward escalation
+- **C:** Serbian national aspiration and Habsburg survival conflicted
+- **D:** The internal multi-national empire problem is a distinct motive
+- **Trap:** “Preservation of balance” cannot subsume an empire’s fear of national dissolution.
+
+**Q9 — A.**
+- **A:** The owner distinguishes continental and maritime strengths
+- **B:** Both descriptions contradict the snapshot
+- **C:** No such command or military absence is sourced
+- **D:** Naval competition and empire gave them different concerns
+- **Trap:** Do not mistake one kind of great-power strength for all kinds.
+
+**Q10 — B.**
+- **A:** Britain’s immediate entry involved Belgian neutrality
+- **B:** The lost territory explains a positive French grievance
+- **C:** That does not account for Alsace-Lorraine
+- **D:** The source places the loss in 1871
+- **Trap:** Aims to revise territory should not be renamed preservation of the existing order.
+
+**Q11 — C.**
+- **A:** The rivalry preceded war
+- **B:** A change in one rivalry does not erase another
+- **C:** This ranks causal evidence without denying either source of mistrust
+- **D:** July escalation also involved Balkan aims and mobilisations
+- **Trap:** Do not equate the Africa scramble with the immediate mechanism of 1914.
+
+**Q12 — D.**
+- **A:** The concern involved the Entente powers
+- **B:** Alignments were not mechanical obligations
+- **C:** Encirclement is a strategic perception, not a Sarajevo detail
+- **D:** Perceived relative power helps explain alignment and preventive reasoning
+- **Trap:** Security perceptions matter without making any one July decision inevitable.
+
+**Q13 — A.**
+- **A:** Enabling support and autonomous Austrian policy are compatible
+- **B:** The ultimatum was a decisive Austrian step
+- **C:** Lowe treats German support as crucial
+- **D:** Russian actions matter but do not erase German enabling support
+- **Trap:** Shared responsibility is not an instruction to distribute equal responsibility.
+
+**Q14 — B.**
+- **A:** Austria-Hungary annexed Bosnia in 1908
+- **B:** It shortened the time available for compromise and affected German decisions
+- **C:** The Franco-Russian alliance predates the 1914 mobilisation
+- **D:** The source places Russian mobilisation earlier in the escalation chain
+- **Trap:** Identify where a long-standing position becomes a time-sensitive military choice.
+
+**Q15 — C.**
+- **A:** Those dates belong to Sarajevo and Austrian declaration
+- **B:** Both were drawn into the 1914 escalation
+- **C:** These dates distinguish escalation against eastern, western and British opponents
+- **D:** This reverses the British and French stages
+- **Trap:** Do not conflate the August declarations with the June assassination.
+
+**Q16 — D.**
+- **A:** The owner explicitly rejects that treaty-obligation claim
+- **B:** Its entry was against Germany following the Belgian invasion
+- **C:** The source describes German movement through Belgium
+- **D:** The Belgian route linked German operational planning to British entry
+- **Trap:** A strategic concern and a specific neutrality trigger can coexist.
+
+**Q17 — A.**
+- **A:** Italy’s later Allied entry rebuts mechanical determinism
+- **B:** Italy was a member before war
+- **C:** The blocs were important structural conditions
+- **D:** They were belligerents during July–August
+- **Trap:** Refuting automatic obligations is not denying the political weight of alignments.
+
+**Q18 — B.**
+- **A:** This reverses chronology
+- **B:** The causal chain adds specific decisions and operations to the regional trigger
+- **C:** The chain includes later great-power choices and Belgium
+- **D:** Imperial rivalry is background, not a self-executing July mechanism
+- **Trap:** Explain escalation between states, not only reasons Austria opposed Serbia.
+
+**Q19 — C.**
+- **A:** Operational rigidity does not explain underlying national grievance
+- **B:** Mobilisation was a central escalation mechanism
+- **C:** The owner separates operational effect from Zuber’s challenge to plan orthodoxy
+- **D:** The historical German route through Belgium is established in the owner
+- **Trap:** Disagreement about a fixed blueprint is not denial that plans narrowed choices.
+
+**Q20 — D.**
+- **A:** That is opposite to acting early
+- **B:** Territorial revanchism is distinct from balancing
+- **C:** The intent and blueprint remain historically contested
+- **D:** The owner describes German concern about future Russian strength as qualified interpretation
+- **Trap:** Do not treat an interpretive strategic motive as a universally proved master plan.
+
+**Q21 — A.**
+- **A:** Earlier containment demonstrates that 1914 needed contingent choices
+- **B:** Alliance formation and earlier crises overlapped
+- **C:** Those frictions persisted
+- **D:** The later July Crisis involved miscalculation
+- **Trap:** Growing likelihood is not logical inevitability.
+
+**Q22 — B.**
+- **A:** He instead emphasised Franco-Russian alliance consequences
+- **B:** The Advanced owner records both positions without merging them
+- **C:** His responsibility argument centred on German policy
+- **D:** His view emphasises Vienna’s autonomy
+- **Trap:** Attribution matters: two complementary blame emphases are not identical.
+
+**Q23 — C.**
+- **A:** Turner stressed miscalculation and Lowe notes debate
+- **B:** Mulligan concerns Russia’s rearmament and policy
+- **C:** The Advanced owner records rigidity and the later blueprint dispute separately
+- **D:** Neither position appears in the owner
+- **Trap:** The critique of one fixed plan does not establish operational flexibility in all respects.
+
+**Q24 — D.**
+- **A:** His analysis places weight on German calculated risk
+- **B:** He assigned importance to the alliance
+- **C:** He stressed Vienna’s autonomous role
+- **D:** This is a multi-actor account of how political risks escalated
+- **Trap:** Multi-actor miscalculation need not imply morally equal responsibility.
+
+**Q25 — A.**
+- **A:** The Advanced owner treats colonial rivalry as less direct and the economic thesis cautiously
+- **B:** The owner identifies nationality and imperial-survival aims
+- **C:** No such direct causal link is supported
+- **D:** The immediate British issue remained Belgium
+- **Trap:** Rank indirect structures separately from proximate diplomatic decisions.
+
+**Q26 — B.**
+- **A:** It asks for a graded judgement about what the war was fought for
+- **B:** This grants the strongest evidence and then qualifies its explanatory reach
+- **C:** Austria feared dissolution and Serbia sought national gains
+- **D:** Entente encirclement and naval rivalry make the structural dimension real
+- **Trap:** Explain why “fought essentially for” is stronger than “occurred within a balance-of-power system”.
+
+**Q27 — C.**
+- **A:** These interests are wrongly assigned
+- **B:** The source stresses divergent national and strategic aims
+- **C:** The owner differentiates state purposes rather than equating them
+- **D:** None belongs to the four 1914 decisions
+- **Trap:** Different motives can converge in one escalatory chain without becoming identical.
+
+**Q28 — D.**
+- **A:** Japan had modernised and defeated Russia
+- **B:** The owner records repeated outside concessions in China
+- **C:** Postwar settlement is Topic 10 and cannot cause 1914 events
+- **D:** The Basic owner notes the two non-European powers and the imperial setting
+- **Trap:** The world snapshot is context; detailed wartime course belongs to the next topic.
+
+**Q29 — A.**
+- **A:** The source associates the 1904 understanding with an evolving Entente, not a compulsory battle plan
+- **B:** The owner rejects an automatic Franco-British war obligation
+- **C:** That is the Triple Alliance with an earlier date
+- **D:** The grievance survived until war
+- **Trap:** Closer diplomatic cooperation does not equal a binding offensive alliance.
+
+**Q30 — B.**
+- **A:** No general European war began in 1911
+- **B:** The owner dates Agadir to 1911 and situates it among managed prewar crises
+- **C:** The Bosnia Crisis is a different regional episode
+- **D:** Sarajevo occurred on 28 June 1914
+- **Trap:** A crisis can raise the temperature while remaining short of war.
+
+**Q31 — C.**
+- **A:** Both are placed among states with democratic institutions
+- **B:** Both are instead described as substantially more autocratic
+- **C:** The Basic owner distinguishes three different levels of effective democratic power
+- **D:** The source calls democracy in those states limited
+- **Trap:** An elected body alone does not establish effective democratic government.
+
+**Q32 — D.**
+- **A:** The outcome is reversed
+- **B:** Outside powers imposed concessions on China
+- **C:** The owner identifies the USA as a world power
+- **D:** The owner includes non-European rising powers and imperial pressure in Asia
+- **Trap:** Context beyond Europe does not replace the July escalation mechanism centred in Europe.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -834,274 +488,96 @@ D. Balance of power explains the structure and Britain's strategic concern, but 
 
 **Status:** Exact wording verified in the local owner.
 
-**Model solution:** Balance of power explains the framework: two counterweighted alignments, German encirclement fears, Anglo-German naval ratios, Russian-Austrian rivalry and Britain's concern over Belgium. Yet it does not fully explain purpose or timing. Austria-Hungary sought imperial survival against South Slav nationalism; Serbia sought national expansion; France retained the Alsace-Lorraine grievance; Germany considered preventive advantage; and Russian mobilisation, German operational planning and specific July decisions converted danger into war. Thus balance of power was the structure through which competing motives were transmitted, not the essential motive shared by every belligerent.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-I · 15 marks · 250 words”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-I · 15 marks · 250 words”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Balance of power explains the framework: two counterweighted alignments, German encirclement fears, Anglo-German naval ratios, Russian-Austrian rivalry and Britain's concern over Belgium. Yet it does not fully explain purpose or timing. Austria-Hungary sought imperial survival against South Slav nationalism; Serbia sought national expansion; France retained the Alsace-Lorraine grievance; Germany considered preventive advantage; and Russian mobilisation, German operational planning and specific July decisions converted danger into war. Thus balance of power was the structure through which competing motives were transmitted, not the essential motive shared by every belligerent.
+Balance of power was an important logic of the diplomatic system that made a Balkan war general, but it was not an essential war aim shared by all belligerents. The Triple Alliance of 1882 and the Franco-Russian alliance of 1894, followed by Britain's understandings with France in 1904 and Russia in 1907, structured competing fears of domination. Germany read this alignment as encirclement; its naval challenge troubled Britain. Bosnia's annexation in 1908 and Serbia's growth after the Balkan Wars made shifts in Balkan influence a great-power concern.
 
-**Qualification:** Treat the stated causal weight as bounded by the question's period, geography and evidence status; do not convert it into inevitability or a universal civilisational claim.
+Yet Austria-Hungary saw South Slav nationalism as a threat to its multinational empire, not merely to Europe's equilibrium. Serbia pursued national ambitions; Russia backed Serbia and wished to avoid another diplomatic retreat. France had the Alsace-Lorraine grievance, while German support for Vienna and preventive calculations concerned the future balance as much as its preservation. Sarajevo's assassination on 28 June 1914 provided the trigger, not those longer-term motives. Vienna's declaration on Serbia on 28 July, Russian mobilisation and German declarations on Russia and France transformed the crisis. Germany's advance through Belgium brought Britain into war on 4 August, combining a concrete legal issue with strategic anxieties over the Channel.
+
+Earlier crises, including Morocco and Bosnia, had not produced general war; the alliance pattern did not dictate July's decisions, as Italy's initial non-participation also shows. Balance of power thus explains the system's capacity to transmit conflict and part of Britain's reasoning, not the full purposes or timing of the war.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Why did the Balkans become the ignition zone of the First World War? Answer in about 150 words.
 
-**Model thesis:** Serbian national expansion threatened Habsburg imperial survival while Russia and Germany converted the regional dispute into a great-power test.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-- The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-- Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-- Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-
-**Qualified conclusion:** Serbian national expansion threatened Habsburg imperial survival while Russia and Germany converted the regional dispute into a great-power test.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the Balkans become the ignition zone of the First World War? Answer in about 150…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did the Balkans become the ignition zone of the First World War? Answer in about 150…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Serbian national expansion threatened Habsburg imperial survival while Russia and Germany converted the regional dispute into a great-power test.
+The Balkans became the ignition zone where competing national and imperial projects met. Austria-Hungary's annexation of Bosnia in 1908 intensified Serbian hostility and Russia's fear of another diplomatic retreat. The Balkan Wars of 1912–13 strengthened Serbia, making its South Slav ambitions more threatening to the multinational Habsburg Empire.
 
-**Analytical body:**
+Sarajevo's assassination of Archduke Franz Ferdinand on 28 June 1914 gave Vienna an occasion to confront Serbia, not a sufficient cause of war. German support for Austria-Hungary and Russian backing for Serbia turned a local quarrel into a test of great-power credibility. Rival alignments made retreat costly, while military planning narrowed negotiation. Britain and France had interests beyond the Balkans; regional nationalism alone cannot explain escalation.
 
-1. **Claim and named evidence:** Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Serbian national expansion threatened Habsburg imperial survival while Russia and Germany converted the regional dispute into a great-power test.
+The Balkans were therefore the point where unresolved local disputes entered a fragile European power system; particular choices in July, not geography or assassination alone, ignited general war.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** How did mobilisation planning widen the July Crisis? Answer in about 150 words.
 
-**Model thesis:** Russian mobilisation and German planning through Belgium compressed diplomacy and drew France and Britain into a local Austro-Serb war.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-- Germany declared war on Russia on 1 August and France on 3 August 1914.
-- German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-- Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-
-**Qualified conclusion:** Russian mobilisation and German planning through Belgium compressed diplomacy and drew France and Britain into a local Austro-Serb war.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How did mobilisation planning widen the July Crisis? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How did mobilisation planning widen the July Crisis? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Russian mobilisation and German planning through Belgium compressed diplomacy and drew France and Britain into a local Austro-Serb war.
+Mobilisation turned threats over Serbia into urgent decisions about European war. After Austria-Hungary declared war on Serbia on 28 July 1914, Russian mobilisation for Serbia confronted Germany with a possible two-front conflict. Berlin interpreted these preparations as danger; Germany declared war on Russia on 1 August and France on 3 August.
 
-**Analytical body:**
+German planning linked war against Russia to an attack on France through neutral Belgium. This widened the conflict westward; violation of Belgian neutrality contributed to Britain's entry on 4 August. Britain did not enter because its earlier understanding with France was an automatic military obligation: the Belgian issue provided a concrete legal and political reason for intervention.
 
-1. **Claim and named evidence:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Germany declared war on Russia on 1 August and France on 3 August 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Russian mobilisation and German planning through Belgium compressed diplomacy and drew France and Britain into a local Austro-Serb war.
+Plans did not act independently of leaders. German backing for Vienna, Russian mobilisation and the Belgian route were choices; the Franco-Russian alignment did not compel Britain's entry. Earlier crises had been contained. Timetables compressed diplomacy and magnified miscalculation without making war inevitable.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** How far did alliances cause the First World War? Answer in about 250 words.
 
-**Model thesis:** Alliances structured escalation and encirclement fears but did not compel war; specific July decisions, nationalism and imperial insecurity remained decisive.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915.
-- The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement.
-- Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation.
-- The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia.
-- German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-- Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-
-**Qualified conclusion:** Alliances structured escalation and encirclement fears but did not compel war; specific July decisions, nationalism and imperial insecurity remained decisive.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How far did alliances cause the First World War? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How far did alliances cause the First World War? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Alliances structured escalation and encirclement fears but did not compel war; specific July decisions, nationalism and imperial insecurity remained decisive.
+Alliances made a local war more likely to become continental, but they did not themselves command every signatory to fight. The Triple Alliance linked Germany, Austria-Hungary and Italy in 1882. The Franco-Russian alliance of 1894, Britain's Entente Cordiale with France in 1904 and its agreement with Russia in 1907 produced opposing alignments and sharpened German fears of encirclement. Their importance lay in expectations: a setback for one partner could alter the position of all.
 
-**Analytical body:**
+During the July Crisis German support enabled Austria-Hungary to press Serbia after the Sarajevo assassination. Russia's mobilisation for Serbia then made the dispute a direct German-Russian confrontation. German military planning linked that confrontation to war against France through Belgium; violating Belgian neutrality brought Britain into the war on 4 August. These steps explain escalation more precisely than an abstract diagram of two blocs.
 
-1. **Claim and named evidence:** The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy, though Italy did not fight with them at the war's opening and entered on the Allied side in 1915. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The 1894 Franco-Russian alliance helped organise Europe into counterweighted blocs and intensified German fear of encirclement. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Britain and France reached the Entente Cordiale in 1904, resolving colonial disputes and enabling closer strategic cooperation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The 1907 British-Russian agreement completed the alignment commonly called the Triple Entente of Britain, France and Russia. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+But alliances are an incomplete explanation of why leaders took those steps. Bosnia's annexation in 1908 and the Balkan Wars of 1912–13 intensified Serbia's South Slav ambitions and Habsburg fear of disintegration. German naval expansion troubled Britain; imperial competition and military planning fostered distrust. Neither Britain nor Italy behaved as a mechanically bound alliance partner: Britain entered after the Belgian violation, while Italy did not fight alongside its Triple Alliance partners at the outbreak and joined the other side in 1915. Earlier crises had also been managed without general war.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Alliances structured escalation and encirclement fears but did not compel war; specific July decisions, nationalism and imperial insecurity remained decisive.
+Alliances structured expectations and transmitted conflict, but nationalism, imperial insecurity and contingent July decisions explain its occasion and pace.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Who bears responsibility for the outbreak of war? Answer in about 250 words.
 
-**Model thesis:** Vienna chose war against Serbia and Berlin enabled it, while Russian mobilisation and a militarised alliance system widened responsibility without erasing agency.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-- German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-- Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-- Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics.
-
-**Qualified conclusion:** Vienna chose war against Serbia and Berlin enabled it, while Russian mobilisation and a militarised alliance system widened responsibility without erasing agency.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Who bears responsibility for the outbreak of war? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Who bears responsibility for the outbreak of war? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Vienna chose war against Serbia and Berlin enabled it, while Russian mobilisation and a militarised alliance system widened responsibility without erasing agency.
+Responsibility must distinguish July's decisions from the tensions behind them. Gavrilo Princip's assassination of Archduke Franz Ferdinand at Sarajevo on 28 June 1914 triggered the crisis; it did not require general war.
 
-**Analytical body:**
+Austria-Hungary used the killing to confront Serbia and declared war on 28 July. Vienna feared that Serbia and South Slav nationalism threatened its multinational empire. Germany's backing strengthened Vienna's hard line, placing substantial immediate responsibility on Berlin too. German leaders chose support amid fears about their future strategic position.
 
-1. **Claim and named evidence:** Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Immediate responsibility centres on Vienna's decision for war and Berlin's support, while systemic responsibility lies in militarised blocs, nationalism and prestige politics. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Other choices widened the conflict. Russia mobilised for Serbia, compressing Germany's decision time; Germany declared war on Russia on 1 August and France on 3 August. German military planning sent forces through neutral Belgium, and Britain entered on 4 August. These decisions widen responsibility without equalising Vienna's initial choice and Berlin's sponsorship. Britain was not automatically obliged to fight by an entente.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Systemic responsibility lies in rival alliances, an arms and naval race, imperial mistrust and earlier Balkan crises, especially Bosnia in 1908 and Serbia's advance after the Balkan Wars. Yet earlier crises were contained, while Italy's initial abstention shows alliances did not eliminate discretion. These comparisons rule out an account that treats mobilisation as fate.
 
-**Qualified conclusion:** Vienna chose war against Serbia and Berlin enabled it, while Russian mobilisation and a militarised alliance system widened responsibility without erasing agency.
+Vienna and Berlin bear particular responsibility for initiating the chain, while Russian mobilisation and German operational choices widened it. Structural pressures conditioned, but never absolved, leaders' decisions.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** How far was the First World War fought for preservation of balance of power? Answer in about 300 words.
 
-**Model thesis:** Balance of power organised the blocs and Britain's intervention but cannot absorb national, imperial and preventive motives; it was the transmission system, not the complete purpose.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did.
-- Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat.
-- Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire.
-- Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing.
-- Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered.
-
-**Qualified conclusion:** Balance of power organised the blocs and Britain's intervention but cannot absorb national, imperial and preventive motives; it was the transmission system, not the complete purpose.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How far was the First World War fought for preservation of balance of power? Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How far was the First World War fought for preservation of balance of power? Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Balance of power organised the blocs and Britain's intervention but cannot absorb national, imperial and preventive motives; it was the transmission system, not the complete purpose.
+Balance-of-power thinking explains why a Balkan dispute threatened Europe, but 'essentially for preservation' overstates a shared war aim. The Triple Alliance, Franco-Russian alliance and Britain's understandings with France and Russia created rival alignments. Germany feared encirclement; its naval growth alarmed Britain.
 
-**Analytical body:**
+Austria-Hungary's annexation of Bosnia in 1908 antagonised Serbia and Russia; Serbia's gains after the Balkan Wars altered regional influence. Yet Vienna feared South Slav nationalism because it challenged Habsburg survival, not merely a power ratio. Serbia's national aspirations sought change, not equilibrium. Russia's Balkan policy combined strategy with prestige. German support for Vienna involved fear of a less favourable future balance: preventive advantage is not preservation. France's Alsace-Lorraine grievance was another distinct national concern.
 
-1. **Claim and named evidence:** Germany's naval rise directly challenged Britain's relative sea power and strategic security more than colonial rivalry alone did. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Austria-Hungary annexed Bosnia in 1908, deepening Serbian hostility and convincing Russia not to accept another humiliating retreat. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Serbian and South Slav nationalism aimed at political unification while Austria-Hungary fought to preserve a multinational empire. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Alliance blocs, encirclement fears, naval ratios and Balkan shifts made local conflict a test of great-power standing. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Balance of power explains the structure and Britain's strategic concern, but not the full motives: Habsburg survival, South Slav nationalism, revanchism and preventive calculation also mattered. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Sarajevo on 28 June 1914 triggered a crisis already conditioned by these rivalries. Vienna chose war against Serbia on 28 July; Russia mobilised; Germany declared war on Russia and France. German planning through Belgium then brought Britain into the war on 4 August. Belgian neutrality was a concrete legal-political issue, while an unfriendly power on the Channel coast raised British strategic fears. Britain was not automatically bound to fight by a French alliance. Italy, a Triple Alliance member, also did not join its partners at the outbreak; treaty blocs were not automatic war machines.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Earlier crises, including Morocco and Bosnia, had ended short of general war. July's decisions and compressed mobilisation changed that. As war widened, imperial resources and further national aims came into play.
 
-**Qualified conclusion:** Balance of power organised the blocs and Britain's intervention but cannot absorb national, imperial and preventive motives; it was the transmission system, not the complete purpose.
+Balance of power describes the organising system and part of Britain's motive; imperial survival, nationalism, preventive calculation and July choices prevent its elevation into the war's single essential purpose for all combatants.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Why did a Balkan crisis become a world war in 1914? Answer in about 300 words.
 
-**Model thesis:** A local assassination activated Austro-Serb hostility, German support, Russian mobilisation, operational rigidity and Belgian intervention inside a mistrustful imperial system.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival.
-- Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause.
-- Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914.
-- German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna.
-- Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time.
-- Germany declared war on Russia on 1 August and France on 3 August 1914.
-- German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914.
-- Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable.
-
-**Qualified conclusion:** A local assassination activated Austro-Serb hostility, German support, Russian mobilisation, operational rigidity and Belgian intervention inside a mistrustful imperial system.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did a Balkan crisis become a world war in 1914? Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did a Balkan crisis become a world war in 1914? Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** A local assassination activated Austro-Serb hostility, German support, Russian mobilisation, operational rigidity and Belgian intervention inside a mistrustful imperial system.
+A Balkan crisis became a world war because a local assassination occurred within nationalist conflicts, imperial rivalry, competing alignments and military plans. The trigger must be separated from long-term causes and escalatory decisions.
 
-**Analytical body:**
+Austria-Hungary's annexation of Bosnia in 1908 deepened Serbian hostility and Russian concern. The Balkan Wars of 1912–13 strengthened Serbia, intensifying Vienna's fear that South Slav nationalism could undermine its empire. The Triple Alliance, Franco-Russian alliance and Britain's ententes made a partner's fate consequential across Europe. German naval growth and imperial rivalry reinforced mistrust; none made war compulsory.
 
-1. **Claim and named evidence:** The Balkan Wars strengthened Serbia and alarmed Austria-Hungary, which saw South Slav nationalism as a threat to imperial survival. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914; the assassination was the trigger, not the complete cause. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Austria-Hungary used the assassination and ultimatum crisis to declare war on Serbia on 28 July 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** German backing enabled Austria-Hungary's hard line and is central to arguments assigning heavy responsibility to Berlin and Vienna. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Russian mobilisation for Serbia transformed the Austro-Serb conflict into a direct great-power confrontation and compressed German decision time. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Germany declared war on Russia on 1 August and France on 3 August 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** German mobilisation planning required an attack through Belgium, and violation of Belgian neutrality brought Britain into war on 4 August 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-8. **Claim and named evidence:** Military timetables shortened diplomacy while leaders misjudged Russian, British and German responses; likelihood increased without making war inevitable. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Gavrilo Princip assassinated Archduke Franz Ferdinand at Sarajevo on 28 June 1914. Vienna used the killing and ensuing ultimatum crisis to declare war on Serbia on 28 July. German backing emboldened its hard line; Russian mobilisation to protect Serbia made the confrontation a great-power one. Germany declared war on Russia on 1 August and France on 3 August. German planning envisaged an advance against France through Belgium. The violation of Belgian neutrality, together with Britain's strategic concerns, brought Britain into the war on 4 August. The dispute was thus internationalised through successive decisions, not a single automatic alliance clause; Italy did not immediately fight beside its Triple Alliance partners.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Mobilisation timetables reduced time for compromise, and leaders misread reactions. But earlier crises in Morocco and Bosnia had been contained. Different choices over Vienna, mobilisation or Belgium might have changed the outcome. European empires' wider territories and resources gave war global reach; this expansion was not the Sarajevo trigger.
 
-**Qualified conclusion:** A local assassination activated Austro-Serb hostility, German support, Russian mobilisation, operational rigidity and Belgian intervention inside a mistrustful imperial system.
+The assassination opened the July Crisis; Habsburg insecurity, Serbian nationalism and great-power fears prepared it, while decisions in Vienna, Berlin, St Petersburg and London determined how far it spread. War became more likely under these conditions, never inevitable.

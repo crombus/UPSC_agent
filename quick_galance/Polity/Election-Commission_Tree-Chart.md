@@ -1,6 +1,7 @@
 # ELECTION COMMISSION - QUICK-GLANCE TREE
 
-**Control date:** 7 September 2026 | **Core idea:** broad Article 324 supervision, bounded by enacted law, federal allocation and judicial remedy.
+**Control date:** 7 September 2026 | **Core idea:** broad Article 324 supervision, bounded by enacted law,
+   federal allocation and judicial remedy.
 
 ```text
 ELECTION COMMISSION OF INDIA
@@ -102,8 +103,10 @@ ELECTION COMMISSION OF INDIA
 
 ## DECODED AUTHORITIES
 
-- **Act 49 of 2023:** current appointment, term, salary, removal restatement and business statute; the official Gazette, not Bill-stage summaries, controls.
-- **1991 Act:** former service-condition and transaction-of-business law, repealed with savings by section 21 of the 2023 Act.
+- **Act 49 of 2023:** current appointment, term, salary, removal restatement and business statute; the official
+   Gazette, not Bill-stage summaries, controls.
+- **1991 Act:** former service-condition and transaction-of-business law, repealed with savings by section 21 of
+   the 2023 Act.
 - **RPA 1950:** representation and roll infrastructure.
 - **RPA 1951:** conduct, candidature, parties, expenses, corrupt practices, disqualification and petitions.
 - **Conduct of Elections Rules, 1961:** operational rules including EVM-VVPAT procedures.
@@ -114,4 +117,5 @@ ELECTION COMMISSION OF INDIA
 
 ## QUALIFIED CONCLUSION
 
-The ECI is strongest not when its power is described as unlimited, but when independent supervision is joined to exact law, transparent reasons, auditable procedure and timely correction.
+The ECI is strongest not when its power is described as unlimited, but when independent supervision is joined to
+   exact law, transparent reasons, auditable procedure and timely correction.

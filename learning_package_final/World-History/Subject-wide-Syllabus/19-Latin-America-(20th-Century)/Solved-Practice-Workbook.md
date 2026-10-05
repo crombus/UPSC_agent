@@ -6,805 +6,345 @@ topic_key: world-history-19
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Informal empire?
+**Original, source-bounded practice.** Attempt all questions before opening the separate key. Options deliberately test nearby chronology, mechanism and evidence limits; no historical question assumes a later political status.
 
-A. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-B. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-C. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-D. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
+### Q1. A historian calls twentieth-century US influence an informal empire. Which evidence would best substantiate that precise claim?
 
-**Answer: A.**
-**Explanation:** Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule. The remaining options belong to different chronology, actor or analytical categories.
+A. Guatemala retained formal sovereignty even as external anti-communist intervention overturned reform in 1954
+B. All Latin American governments became formal US colonial administrations
+C. The Mexican PRI was legally a branch of the US government
+D. Latin American armies ceased to intervene after independence
 
-### Q2. Which chronology card should be filed under Informal empire?
+### Q2. Which causal chain best explains why concentrated land ownership could help reproduce foreign influence?
 
-A. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-B. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-C. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-D. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
+A. Oligarchic resistance → universal land reform → no demand for external allies
+B. Oligarchic resistance to redistribution → elite search for outside support → narrower reform space
+C. Equal holdings → domestic market collapse → automatic foreign annexation
+D. Foreign leverage → disappearance of domestic class conflict → stable equality
 
-**Answer: B.**
-**Explanation:** Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. A commodity-dependent treasury loses export receipts when a world price falls. What is the most defensible inference?
 
-### Q3. Which option preserves the source-bounded meaning of Informal empire?
+A. A price fall automatically removes military influence from politics
+B. Oil-producing Venezuela necessarily became politically stable
+C. Reduced fiscal room can intensify employment and political strain without proving identical outcomes everywhere
+D. Every Latin American country depended on the same commodity
 
-A. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-B. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-C. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-D. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
+### Q4. What is the best continuity claim connecting nineteenth-century caudillismo to twentieth-century army interventions?
 
-**Answer: C.**
-**Explanation:** Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule. The remaining options belong to different chronology, actor or analytical categories.
+A. Every army officer in the twentieth century was a named nineteenth-century caudillo
+B. The PRI and Sandinistas were the same type of military junta
+C. Military pressure proved that foreign power alone caused each coup
+D. Personalist military arbitration could reappear through more institutionalised armed forces, without making every coup identical
 
-### Q4. Which statement avoids a close-option trap about Informal empire?
+### Q5. Mexico experienced revolution from 1910. Which observation best tests whether revolution necessarily yielded pluralist democracy?
 
-A. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-B. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-C. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-D. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
+A. The PRI subsequently dominated for a long period and political opening was gradual
+B. A revolution in Mexico immediately established unrestricted multiparty alternation
+C. Mexico underwent the Sandinista victory of 1979
+D. Mexico’s 1982 debt episode marked the start of its 1910 revolution
 
-**Answer: D.**
-**Explanation:** Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. A land-reform government was reversed in the Cold War climate of 1954. Which country and inference belong together?
 
-### Q5. Which statement correctly identifies Unequal landholding?
+A. Cuba; the 1962 missile crisis immediately overthrew its revolution
+B. Guatemala; reform met US-backed anti-communist intervention, but domestic conflict also mattered
+C. Nicaragua; 1954 was the Sandinista victory
+D. Brazil; PRI rule was reversed by an agrarian coup
 
-A. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-B. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-C. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-D. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
+### Q7. Place the Cuban revolutionary break and its global escalation in the defensible sequence.
 
-**Answer: A.**
-**Explanation:** Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality. The remaining options belong to different chronology, actor or analytical categories.
+A. 1962 missile crisis → 1959 revolution → Soviet alignment
+B. 1954 Guatemalan overthrow → 1979 Cuban revolution → 1982 missile crisis
+C. 1959 revolution → US hostility and Soviet alignment → 1962 missile crisis
+D. 1998 Chávez election → 1959 Soviet collapse → Cuban revolution
 
-### Q6. Which chronology card should be filed under Unequal landholding?
+### Q8. Which comparison of Cuba and Guatemala is most defensible for a question on challenges to US primacy?
 
-A. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-B. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-C. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-D. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
+A. Both had Soviet-backed revolutions that survived US hostility
+B. Guatemala’s reform survived whereas Cuba was overturned in 1954
+C. Both became formal US colonies after agrarian reform
+D. Cuba survived external hostility with Soviet backing; Guatemala’s reform was overturned in 1954
 
-**Answer: B.**
-**Explanation:** Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. How should the 1979 Sandinista victory be used as historical evidence?
 
-### Q7. Which option preserves the source-bounded meaning of Unequal landholding?
+A. As a local revolutionary success followed by counter-revolutionary pressure
+B. As proof that no revolutionary movement could attain power
+C. As the date when Guatemala’s reform government fell
+D. As evidence that US pressure removed all Nicaraguan agency
 
-A. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-B. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-C. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-D. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
+### Q10. Brazil industrialised under phases of authoritarian politics. What does this evidence refute?
 
-**Answer: C.**
-**Explanation:** Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality. The remaining options belong to different chronology, actor or analytical categories.
+A. The possibility that some Latin American economies diversified
+B. The claim that industrial growth necessarily produces social equality and democratic rule
+C. The existence of export dependence anywhere in the region
+D. The long political dominance of Mexico’s PRI
 
-### Q8. Which statement avoids a close-option trap about Unequal landholding?
+### Q11. Which conclusion from Venezuelan oil politics respects the source’s limits?
 
-A. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-B. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-C. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-D. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
+A. Oil eliminated Venezuela’s exposure to global price movements
+B. Venezuela followed Mexico’s post-1910 PRI trajectory
+C. Oil supplied political resources but price vulnerability and conflict remained; Chávez became an anti-US symbol from 1998
+D. Chávez’s emergence proves every Latin American state rejected Washington
 
-**Answer: D.**
-**Explanation:** Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. Match the instrument of US influence to the strongest regional evidence.
 
-### Q9. Which statement correctly identifies Commodity export dependence?
+A. Formal colonial administration — all post-1959 Cuban ministries
+B. Guaranteed debt cancellation — Mexico’s 1982 IMF request
+C. PRI electoral administration — Chávez’s 1998 Venezuela
+D. Covert or proxy resistance to reform — Guatemala 1954 and pressure on post-1979 Nicaragua
 
-A. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-B. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-C. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-D. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
+### Q13. A country protects infant domestic manufacturing behind tariffs and licensing. What is the strategy, and its relevant constraint?
 
-**Answer: A.**
-**Explanation:** Reliance on narrow export bases made world price movements into fiscal, employment and political crises. The remaining options belong to different chronology, actor or analytical categories.
+A. Import-substituting industrialisation; capital-goods imports and small markets can limit the protected sector
+B. Export laissez-faire; tariffs ensure unlimited access to foreign currency
+C. Direct colonial administration; licensing abolishes sovereignty
+D. Debt repudiation; protection automatically ends all borrowing
 
-### Q10. Which chronology card should be filed under Commodity export dependence?
+### Q14. Which sequence best captures the economic arc in the Basic owner without claiming every state followed it identically?
 
-A. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-B. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-C. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-D. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
+A. Austerity → 1910 revolution → tariff protection → 1954 missile crisis
+B. Commodity vulnerability → protected industrialisation → borrowing pressures → 1980s debt crisis → austerity and opening
+C. Permanent export stability → zero borrowing → universal social equality
+D. Post-1998 liberalisation → 1979 debt crisis → ISI only in Cuba
 
-**Answer: B.**
-**Explanation:** Reliance on narrow export bases made world price movements into fiscal, employment and political crises. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Commodity export dependence?
-
-A. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-B. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-C. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-D. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-
-**Answer: C.**
-**Explanation:** Reliance on narrow export bases made world price movements into fiscal, employment and political crises. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Commodity export dependence?
-
-A. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-B. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-C. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-D. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-
-**Answer: D.**
-**Explanation:** Reliance on narrow export bases made world price movements into fiscal, employment and political crises. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Militarised politics?
-
-A. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-B. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-C. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-D. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-
-**Answer: A.**
-**Explanation:** Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Militarised politics?
-
-A. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-B. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-C. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-D. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-
-**Answer: B.**
-**Explanation:** Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Militarised politics?
-
-A. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-B. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-C. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-D. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-
-**Answer: C.**
-**Explanation:** Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Militarised politics?
-
-A. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-B. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-C. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-D. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-
-**Answer: D.**
-**Explanation:** Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies External and internal power interacted?
-
-A. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-B. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-C. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-D. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-
-**Answer: A.**
-**Explanation:** US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under External and internal power interacted?
-
-A. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-B. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-C. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-D. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-
-**Answer: B.**
-**Explanation:** US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of External and internal power interacted?
-
-A. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-B. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-C. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-D. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-
-**Answer: C.**
-**Explanation:** US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about External and internal power interacted?
-
-A. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-B. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-C. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-D. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-
-**Answer: D.**
-**Explanation:** US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Mexican Revolution and PRI?
-
-A. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-B. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-C. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-D. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-
-**Answer: A.**
-**Explanation:** The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Mexican Revolution and PRI?
-
-A. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-B. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-C. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-D. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-
-**Answer: B.**
-**Explanation:** The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Mexican Revolution and PRI?
-
-A. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-B. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-C. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-D. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-
-**Answer: C.**
-**Explanation:** The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Mexican Revolution and PRI?
-
-A. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-B. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-C. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-D. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-
-**Answer: D.**
-**Explanation:** The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Guatemala, 1954?
-
-A. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-B. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-C. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-D. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-
-**Answer: A.**
-**Explanation:** A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Guatemala, 1954?
-
-A. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-B. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-C. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-D. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-
-**Answer: B.**
-**Explanation:** A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Guatemala, 1954?
-
-A. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-B. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-C. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-D. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-
-**Answer: C.**
-**Explanation:** A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Guatemala, 1954?
-
-A. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-B. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-C. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-D. A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-
-**Answer: D.**
-**Explanation:** A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Cuban Revolution, 1959-62?
-
-A. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-B. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-C. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-D. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-
-**Answer: A.**
-**Explanation:** Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Cuban Revolution, 1959-62?
-
-A. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-B. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-C. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-D. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-
-**Answer: B.**
-**Explanation:** Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Cuban Revolution, 1959-62?
-
-A. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-B. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-C. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-D. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-
-**Answer: C.**
-**Explanation:** Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Cuban Revolution, 1959-62?
-
-A. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-B. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-C. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-D. Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
-
-**Answer: D.**
-**Explanation:** Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Nicaragua, 1979?
-
-A. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-B. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-C. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-D. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-
-**Answer: A.**
-**Explanation:** The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Nicaragua, 1979?
-
-A. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-B. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-C. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-D. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-
-**Answer: B.**
-**Explanation:** The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Nicaragua, 1979?
-
-A. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-B. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-C. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-D. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-
-**Answer: C.**
-**Explanation:** The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Nicaragua, 1979?
-
-A. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-B. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-C. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-D. The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-
-**Answer: D.**
-**Explanation:** The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Brazilian pattern?
-
-A. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-B. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-C. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-D. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-
-**Answer: A.**
-**Explanation:** Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Brazilian pattern?
-
-A. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-B. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-C. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-D. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-
-**Answer: B.**
-**Explanation:** Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Brazilian pattern?
-
-A. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-B. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-C. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-D. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-
-**Answer: C.**
-**Explanation:** Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Brazilian pattern?
-
-A. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-B. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-C. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-D. Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable.
-
-**Answer: D.**
-**Explanation:** Brazil combined industrial growth with inequality and authoritarian phases, proving that development and social justice are separable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Venezuela and oil politics?
-
-A. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-B. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-C. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-D. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-
-**Answer: A.**
-**Explanation:** Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Venezuela and oil politics?
-
-A. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-B. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-C. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-D. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-
-**Answer: B.**
-**Explanation:** Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Venezuela and oil politics?
-
-A. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-B. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-C. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-D. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-
-**Answer: C.**
-**Explanation:** Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Venezuela and oil politics?
-
-A. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-B. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-C. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-D. Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-
-**Answer: D.**
-**Explanation:** Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies US intervention instruments?
-
-A. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-B. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-C. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-D. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-
-**Answer: A.**
-**Explanation:** Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under US intervention instruments?
-
-A. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-B. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-C. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-D. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-
-**Answer: B.**
-**Explanation:** Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of US intervention instruments?
-
-A. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-B. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-C. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-D. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-
-**Answer: C.**
-**Explanation:** Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about US intervention instruments?
-
-A. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-B. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-C. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-D. Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-
-**Answer: D.**
-**Explanation:** Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Import-substituting industrialisation?
-
-A. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-B. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-C. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-D. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-
-**Answer: A.**
-**Explanation:** Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Import-substituting industrialisation?
-
-A. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-B. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-C. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-D. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-
-**Answer: B.**
-**Explanation:** Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Import-substituting industrialisation?
-
-A. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-B. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-C. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-D. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-
-**Answer: C.**
-**Explanation:** Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Import-substituting industrialisation?
-
-A. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-B. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-C. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-D. Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-
-**Answer: D.**
-**Explanation:** Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Limits of ISI?
-
-A. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-B. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-C. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-D. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-
-**Answer: A.**
-**Explanation:** Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Limits of ISI?
-
-A. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-B. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-C. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-D. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-
-**Answer: B.**
-**Explanation:** Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Limits of ISI?
-
-A. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-B. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-C. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-D. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-
-**Answer: C.**
-**Explanation:** Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Limits of ISI?
-
-A. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-B. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-C. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-D. Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-
-**Answer: D.**
-**Explanation:** Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Debt crisis of the 1980s?
-
-A. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-B. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-C. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-D. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-
-**Answer: A.**
-**Explanation:** Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Debt crisis of the 1980s?
-
-A. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-B. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-C. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-D. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-
-**Answer: B.**
-**Explanation:** Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Debt crisis of the 1980s?
-
-A. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-B. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-C. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-D. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-
-**Answer: C.**
-**Explanation:** Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Debt crisis of the 1980s?
-
-A. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-B. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-C. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-D. Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-
-**Answer: D.**
-**Explanation:** Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Mexico's debt vulnerability?
-
-A. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-B. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-C. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-D. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-
-**Answer: A.**
-**Explanation:** Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Mexico's debt vulnerability?
-
-A. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-B. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-C. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-D. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-
-**Answer: B.**
-**Explanation:** Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Mexico's debt vulnerability?
-
-A. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-B. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-C. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-D. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-
-**Answer: C.**
-**Explanation:** Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Mexico's debt vulnerability?
-
-A. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-B. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-C. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-D. Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-
-**Answer: D.**
-**Explanation:** Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Argentina's inflation example?
-
-A. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-B. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-C. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-D. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-
-**Answer: A.**
-**Explanation:** Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Argentina's inflation example?
-
-A. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-B. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-C. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-D. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-
-**Answer: B.**
-**Explanation:** Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Argentina's inflation example?
-
-A. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-B. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-C. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-D. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-
-**Answer: C.**
-**Explanation:** Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Argentina's inflation example?
-
-A. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-B. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-C. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-D. Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-
-**Answer: D.**
-**Explanation:** Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Neoliberal turn?
-
-A. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-B. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-C. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-D. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-
-**Answer: A.**
-**Explanation:** Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Neoliberal turn?
-
-A. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-B. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-C. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-D. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-
-**Answer: B.**
-**Explanation:** Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Neoliberal turn?
-
-A. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-B. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-C. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-D. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-
-**Answer: C.**
-**Explanation:** Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Neoliberal turn?
-
-A. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-B. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-C. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-D. Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-
-**Answer: D.**
-**Explanation:** Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Regional diversity?
-
-A. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-B. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-C. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-D. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-
-**Answer: A.**
-**Explanation:** Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Regional diversity?
-
-A. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-B. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-C. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-D. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-
-**Answer: B.**
-**Explanation:** Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Regional diversity?
-
-A. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-B. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-C. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-D. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-
-**Answer: C.**
-**Explanation:** Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Regional diversity?
-
-A. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-B. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-C. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-D. Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
-
-**Answer: D.**
-**Explanation:** Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Dependency verdict?
-
-A. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-B. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-C. Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-D. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-
-**Answer: A.**
-**Explanation:** Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Dependency verdict?
-
-A. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-B. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-C. Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-D. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-
-**Answer: B.**
-**Explanation:** Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Dependency verdict?
-
-A. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-B. Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-C. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-D. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-
-**Answer: C.**
-**Explanation:** Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Dependency verdict?
-
-A. The Mexican Revolution began in 1910, but its institutional outcome became long PRI dominance and only gradual political opening.
-B. Armies repeatedly entered politics through coups or pressure, becoming a twentieth-century institutional successor to caudillismo.
-C. US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-D. Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
-
-**Answer: D.**
-**Explanation:** Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. Why did ISI not automatically eliminate external financial vulnerability?
+
+A. Tariff protection made machines free to import
+B. ISI meant only agricultural export expansion
+C. Protected production still needed imported capital goods while limited home markets and deficits encouraged external borrowing
+D. Domestic market size was irrelevant to industrial scale
+
+### Q16. Mexico sought an IMF loan and rescheduling in 1982. Which additional source-bounded statement is correct?
+
+A. The $96 billion figure represents all Latin American countries’ debt
+B. Mexico repaid half its debt without refinancing or IMF contact
+C. Mexico’s 1982 crisis inaugurated the Mexican Revolution
+D. Its overseas debt was about $96 billion and it sought to reschedule half; earlier borrowing presumed durable oil receipts
+
+### Q17. What mechanism made unpaid interest politically important in the 1979–81 debt period?
+
+A. Interest added to principal compelled further borrowing and reduced fiscal room for services
+B. Interest disappears when debtors cannot pay and frees the budget
+C. Rescheduling always abolishes the creditor’s policy conditions
+D. Loan distress only affected commercial balance sheets, not public choices
+
+### Q18. Argentina’s roughly 900% inflation is introduced in this workbook for what limited purpose?
+
+A. As the average inflation for every Latin American economy
+B. As a country-specific example of how a debt and price crisis could erode wages and savings
+C. As proof that Argentina never later repaid IMF debts
+D. As a Ghanaian figure transferred into a Latin American dataset
+
+### Q19. Which distinction correctly separates the later neoliberal turn from mid-century ISI?
+
+A. Both labels mean the nationalisation of every export commodity
+B. ISI began only after Chávez’s 1998 challenge to US power
+C. Trade opening, privatisation and fiscal austerity followed debt pressure, whereas ISI had shielded and financed domestic production
+D. Trade opening necessarily resolved land inequality
+
+### Q20. What is the safest comparative verdict about Latin American political trajectories?
+
+A. Each country experienced the identical Sandinista victory in 1979
+B. Industrialisation always produced pluralism in all three
+C. All three were governed directly by Washington throughout the century
+D. Mexico’s institutionalised revolution, Brazil’s industrial-authoritarian phases and Cuba’s external alignment followed different routes
+
+### Q21. Which statement treats dependency as an analytical interpretation rather than a denial of local agency?
+
+A. External trade and finance narrowed options while domestic elites, parties and movements still shaped outcomes
+B. Every regional event had only one cause: Washington’s orders
+C. Domestic governance alone caused the entire 1980s debt crisis
+D. Dependency means no Latin American revolution or reform ever occurred
+
+### Q22. Which evidence use would best support a qualified conclusion about responses to austerity?
+
+A. One Mexican loan proves every economy experienced identical austerity
+B. Mexico’s 1982 rescheduling illustrates immediate constraint; Argentina’s later IMF repayment illustrates possible but uneven recovery
+C. Argentina’s later repayment proves the 1980s crisis had no social effect
+D. Ghana’s 1981 inflation establishes the Latin American regional average
+
+### Q23. Which chronology best preserves the separate political and financial turning points?
+
+A. Nicaragua 1979 → Guatemala 1954 → Mexico 1910 → Cuba 1959
+B. Cuba 1962 revolution → Mexico 1982 revolution → Chávez 1910
+C. Mexico’s 1910 revolution → Guatemala’s 1954 reversal → Cuba’s 1959 break → Nicaragua’s 1979 victory → Mexico’s 1982 debt crisis
+D. Mexico 1982 debt crisis → Guatemala 1954 → Nicaragua 1979
+
+### Q24. A Mains answer asserts “US power alone made the entire region unstable.” What is the best repair?
+
+A. Replace all country cases with a regional debt average absent from the source
+B. Remove Guatemala and Nicaragua because outside power never intervened
+C. Conclude that all left-wing challenges started with Chávez
+D. Pair US leverage with land inequality, export shocks, armies and divergent country outcomes
+
+### Separate answer key and option-by-option explanations
+
+**Q1 — A.**
+- **A:** Sovereignty survived legally while outside power constrained reform in practice.
+- **B:** This confuses informal influence with direct colonial administration.
+- **C:** The source describes domestic single-party dominance, not US ownership.
+- **D:** Militarised politics persisted across the twentieth century.
+- **Trap:** Do not mistake constrained sovereignty for the abolition of local government.
+
+**Q2 — B.**
+- **A:** The first arrow contradicts landholding elites blocking reform.
+- **B:** Internal landholding and external leverage reinforced each other.
+- **C:** The starting condition is unequal holdings, and annexation is unsupported.
+- **D:** Local elites and social movements remained active.
+- **Trap:** Do not substitute an exclusively external explanation for a joint mechanism.
+
+**Q3 — C.**
+- **A:** No such automatic political consequence follows from export receipts.
+- **B:** Resource income did not guarantee political stability.
+- **C:** Export dependence transmits price changes into budgets, but exposure varies.
+- **D:** The source stresses regional variation in export bases.
+- **Trap:** Vulnerability is a mechanism, not a uniform country-by-country outcome.
+
+**Q4 — D.**
+- **A:** The source licenses a category comparison, not individual identification.
+- **B:** They represent different political trajectories.
+- **C:** The source also identifies domestic actors and interests.
+- **D:** The institutional successor is a comparison, not an identity.
+- **Trap:** Successor does not mean the same personnel or the same social base.
+
+**Q5 — A.**
+- **A:** Revolutionary legitimacy could institutionalise without prompt party competition.
+- **B:** This contradicts the long PRI dominance.
+- **C:** The Sandinistas came to power in Nicaragua.
+- **D:** Debt crisis and revolutionary origins belong to separate periods.
+- **Trap:** Distinguish revolutionary origins from subsequent regime form.
+
+**Q6 — B.**
+- **A:** Cuba survived, and 1962 refers to international confrontation.
+- **B:** The case illustrates external intervention interacting with local reform.
+- **C:** The Sandinista victory belongs to 1979.
+- **D:** PRI dominance belongs to Mexico, not Brazil.
+- **Trap:** Guatemala 1954 should not be conflated with Nicaragua 1979.
+
+**Q7 — C.**
+- **A:** This reverses the dated events.
+- **B:** Only the Guatemala date is correctly located.
+- **C:** The missile crisis internationalised an already unfolding confrontation.
+- **D:** This mixes different histories and puts 1998 before 1959.
+- **Trap:** The missile crisis was not the date of the Cuban Revolution.
+
+**Q8 — D.**
+- **A:** The Guatemala reform experiment was overturned.
+- **B:** The outcomes and date are reversed.
+- **C:** Neither example proves formal colonial rule.
+- **D:** Different outcomes reflect unequal ability to withstand outside pressure.
+- **Trap:** A contrast in outcomes does not erase domestic agency in either state.
+
+**Q9 — A.**
+- **A:** The sequence connects domestic change to external Cold War hostility.
+- **B:** The Sandinistas did come to power.
+- **C:** The Guatemala event was in 1954.
+- **D:** Local revolution and resistance remained consequential.
+- **Trap:** Victory at one point is not proof of unopposed consolidation.
+
+**Q10 — B.**
+- **A:** Brazil illustrates industrial growth.
+- **B:** Economic change and political inclusion are separate variables.
+- **C:** A Brazilian case cannot invalidate all other countries.
+- **D:** Brazilian development and Mexican party rule are different cases.
+- **Trap:** Development indicators cannot stand in for distributive or political outcomes.
+
+**Q11 — C.**
+- **A:** The source explicitly notes falling oil revenue.
+- **B:** PRI is the Mexican case.
+- **C:** Resource wealth and populist contestation can coexist.
+- **D:** The source stresses regional diversity.
+- **Trap:** A country example cannot prove a region-wide political shift.
+
+**Q12 — D.**
+- **A:** Cuba’s revolutionary government broke with US predominance.
+- **B:** Mexico sought a loan and rescheduling, not guaranteed cancellation.
+- **C:** The PRI was Mexico’s ruling party.
+- **D:** These cases link reform and revolution with external counteraction.
+- **Trap:** Do not label all instruments intervention by force; finance and trade also matter.
+
+**Q13 — A.**
+- **A:** ISI replaces manufactured imports but may still require imported machinery.
+- **B:** Tariffs mark protection, not laissez-faire.
+- **C:** Licensing a domestic industry is not colonial annexation.
+- **D:** Protected industrialisation can instead draw on external borrowing.
+- **Trap:** Import substitution does not imply eliminating all imports.
+
+**Q14 — B.**
+- **A:** The chronology and named episodes are incompatible.
+- **B:** This is the qualified regional trajectory given in the source.
+- **C:** Each link denies documented vulnerabilities.
+- **D:** This invents a date and an exclusive national locus.
+- **Trap:** A regional analytical arc is not a universal national timetable.
+
+**Q15 — C.**
+- **A:** Protection cannot erase foreign exchange costs.
+- **B:** ISI describes domestic manufacture replacing imports.
+- **C:** Industrial substitution could require foreign exchange and finance.
+- **D:** Small markets are explicitly identified as a constraint.
+- **Trap:** The ISI → borrowing link is causal, not a claim that protection itself caused all debt.
+
+**Q16 — D.**
+- **A:** It is a Mexico-specific figure.
+- **B:** The source states an IMF request and rescheduling.
+- **C:** That revolution began in 1910.
+- **D:** Oil expectations exposed Mexico when revenue assumptions failed.
+- **Trap:** Never turn a Mexico-specific debt figure into a regional total.
+
+**Q17 — A.**
+- **A:** Compounding and rollover transmit debt pressure to social budgets.
+- **B:** Unpaid interest was added to existing debt.
+- **C:** Agreements could involve conditions.
+- **D:** The source links austerity to jobs and social services.
+- **Trap:** Show the budget transmission belt; do not treat debt as purely financial.
+
+**Q18 — B.**
+- **A:** The source attributes the figure to Argentina alone.
+- **B:** The figure illustrates a social channel in Argentina.
+- **C:** A later repayment is explicitly noted.
+- **D:** Ghana supplies separate illustrative figures.
+- **Trap:** Case-specific figures must not be promoted into regional averages.
+
+**Q19 — C.**
+- **A:** Neither is defined by universal nationalisation.
+- **B:** The source treats ISI as mid-century.
+- **C:** These are different policy directions in a connected sequence.
+- **D:** The source explicitly warns inequality was unresolved.
+- **Trap:** Austerity after crisis should not be described as an entirely unconstrained choice.
+
+**Q20 — D.**
+- **A:** The 1979 Sandinista case belongs to Nicaragua.
+- **B:** Brazil and Mexico illustrate why that conclusion fails.
+- **C:** Informal influence differs from formal government.
+- **D:** Distinct paths undermine a uniform regional narrative.
+- **Trap:** Use country comparisons to test rather than assume regional uniformity.
+
+**Q21 — A.**
+- **A:** Structural constraint and agency can be analysed together.
+- **B:** The source rejects a purely external explanation.
+- **C:** Global financial shocks and fragile export earnings also matter.
+- **D:** The named Cuban, Mexican and Nicaraguan cases refute that.
+- **Trap:** Structural dependency is not equivalent to political passivity.
+
+**Q22 — B.**
+- **A:** Country-specific evidence cannot bear a universal claim.
+- **B:** The two cases prevent a deterministic claim of permanent dependency.
+- **C:** Later recovery does not undo earlier hardship.
+- **D:** Ghana is an African mechanism illustration, not regional evidence.
+- **Trap:** Distinguish crisis effects from later trajectories.
+
+**Q23 — C.**
+- **A:** The order is reversed in several places.
+- **B:** The dates and event types are conflated.
+- **C:** Every dated episode occupies its own place in the Basic timeline.
+- **D:** A late crisis cannot precede mid-century events.
+- **Trap:** Do not merge the Cuban revolution with the 1962 missile crisis.
+
+**Q24 — D.**
+- **A:** Unsourced aggregates obscure variation.
+- **B:** These are the strongest named intervention cases.
+- **C:** Earlier Cuban and Nicaraguan challenges preceded 1998.
+- **D:** The sources identify interacting internal and external causes.
+- **Trap:** A strong verdict qualifies scope and attributes local agency.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -816,234 +356,68 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Question:** What made US influence in Latin America an informal empire? Answer in about 150 words.
 
-**Model thesis:** Sovereign governments remained, but strategic, commercial, financial and intervention capacity constrained the range of policies they could sustain.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+US influence was *informal* because legally sovereign Latin American states faced constraints without being ruled as US colonies. Washington's commercial, financial and strategic weight shaped the choices available to their governments; domestic elites also sought US support, making local collaboration, rather than the disappearance of local agency, central to the relationship.
 
-- Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule.
-- US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-- Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
+Guatemala illustrates the political mechanism: US-backed covert anti-communist intervention overturned a reform experiment in 1954. Nicaragua's Sandinistas took power in 1979, yet faced counter-revolutionary proxy pressure; proxy conflict could check a sovereign revolutionary government without annexation. Financial power was another channel: after borrowing against expected oil receipts, Mexico sought IMF assistance and debt rescheduling in 1982, showing how creditor dependence could restrict economic policy, without equating IMF creditors with Washington.
 
-**Qualified conclusion:** Sovereign governments remained, but strategic, commercial, financial and intervention capacity constrained the range of policies they could sustain.
-
-**Demand decoding:** The directive **answer** requires a direct position on “What made US influence in Latin America an informal empire? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “What made US influence in Latin America an informal empire? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Sovereign governments remained, but strategic, commercial, financial and intervention capacity constrained the range of policies they could sustain.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Twentieth-century US influence in Latin America usually operated through strategic, commercial, financial and political leverage rather than direct colonial rule. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Sovereign governments remained, but strategic, commercial, financial and intervention capacity constrained the range of policies they could sustain.
+Cuba's survival despite US diplomatic hostility and Mexico's distinct party system show that influence was neither uniform nor absolute. “Empire” therefore identifies unequal power over policy, not direct administration or the extinction of Latin American political initiative.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Why did commodity wealth not guarantee political stability? Answer in about 150 words.
 
-**Model thesis:** Narrow export dependence exposed budgets and social contracts to price shocks, while concentrated control of resource income intensified political conflict.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+A commodity boom can fund government, but dependence on one export exposes its budget, employment and political bargains to world prices. Venezuela's oil revenue fell when world oil prices weakened: resource abundance had not removed vulnerability to external demand. Oil income also became an object of political contest; Chávez's anti-US politics from 1998 shows a later struggle over power, not a claim that a price fall caused his rise.
 
-- Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-- Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics.
-
-**Qualified conclusion:** Narrow export dependence exposed budgets and social contracts to price shocks, while concentrated control of resource income intensified political conflict.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did commodity wealth not guarantee political stability? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did commodity wealth not guarantee political stability? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Narrow export dependence exposed budgets and social contracts to price shocks, while concentrated control of resource income intensified political conflict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Reliance on narrow export bases made world price movements into fiscal, employment and political crises. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Oil wealth produced vulnerability as well as revenue, while Hugo Chavez from 1998 became a major symbol of anti-US regional politics. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Narrow export dependence exposed budgets and social contracts to price shocks, while concentrated control of resource income intensified political conflict.
+Mexico offers a second mechanism. Confidence in future oil earnings accompanied extensive borrowing; in 1982 it sought an IMF loan and rescheduling of half its $96 billion overseas debt. Falling expected receipts thus converted a resource advantage into a financing constraint. Who paid the adjustment costs depended on institutions, creditors and domestic distribution, not prices alone. Commodity wealth offers resources for stability; it guarantees neither steady receipts nor a fair, legitimate way to share them.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Why did the Cuban Revolution matter regionally? Answer in about 250 words.
 
-**Model thesis:** It was the durable revolutionary break with US predominance, but survived through Soviet alignment and therefore exchanged rather than abolished external patronage.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The Cuban Revolution mattered as a sustained challenge to US predominance, not simply as a change of government on one island. Castro's revolution in 1959 broke with the US-aligned order. That break demonstrated that a Latin American movement could seize power and pursue a different course despite the region's prevailing outside influence. It also exposed how difficult it was to sustain such a choice under US hostility.
 
-- Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation.
+Compare Guatemala: reform there was overturned amid US-backed anti-communist intervention in 1954. Cuba's survival, in contrast, depended in part on Soviet alignment. Its autonomy from Washington thus entailed a new patron relationship; independence from one great power was not independence from Cold War constraints. The missile crisis of 1962 then internationalised the confrontation: a local revolution became a focus of global rivalry, increasing its strategic significance well beyond its territorial size.
 
-**Qualified conclusion:** It was the durable revolutionary break with US predominance, but survived through Soviet alignment and therefore exchanged rather than abolished external patronage.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the Cuban Revolution matter regionally? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did the Cuban Revolution matter regionally? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** It was the durable revolutionary break with US predominance, but survived through Soviet alignment and therefore exchanged rather than abolished external patronage.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Cuba's revolution survived US hostility by aligning with the Soviet Union, and the missile crisis internationalised the confrontation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It was the durable revolutionary break with US predominance, but survived through Soviet alignment and therefore exchanged rather than abolished external patronage.
+Cuba also provided a point of comparison for later revolutionary challenges. Nicaragua's Sandinistas won power in 1979 but faced counter-revolutionary pressure, showing that revolution elsewhere was possible while its durability remained contested. Nor does Cuba's experience account for Mexico's long PRI dominance or Brazil's industrialisation alongside authoritarian phases. Its importance lies precisely in making the limits of US hegemony visible while showing that external alliances and local institutions still shaped the price and outcome of resistance.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** How did the 1980s debt crisis transform Latin American politics? Answer in about 250 words.
 
-**Model thesis:** Compounding debt, rescheduling and conditionality transmitted financial crisis into austerity, weakened developmental legitimacy and narrowed democratic policy choice.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+Debt became a political issue when servicing obligations narrowed governments' freedom to choose development and social policy. In 1979–81 many debtor states could not meet even interest payments. Unpaid interest added to debt, and new borrowing to service old obligations reduced fiscal room before any fresh public investment could be considered.
 
-- Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-- Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt.
-- Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings.
-- Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-
-**Qualified conclusion:** Compounding debt, rescheduling and conditionality transmitted financial crisis into austerity, weakened developmental legitimacy and narrowed democratic policy choice.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How did the 1980s debt crisis transform Latin American politics? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How did the 1980s debt crisis transform Latin American politics? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Compounding debt, rescheduling and conditionality transmitted financial crisis into austerity, weakened developmental legitimacy and narrowed democratic policy choice.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Mexico borrowed against expected oil revenue and in 1982 sought an IMF loan and rescheduling of half its ninety-six-billion-dollar overseas debt. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Argentina's foreign-debt crisis coincided with inflation around nine hundred per cent, illustrating the destruction of wages and savings. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Compounding debt, rescheduling and conditionality transmitted financial crisis into austerity, weakened developmental legitimacy and narrowed democratic policy choice.
+Mexico illustrates the interaction of domestic decisions and an external shock. Having borrowed on the expectation of continued oil income, it sought an IMF loan in 1982 and rescheduling of half its $96 billion overseas debt. This is a Mexican figure, not a regional aggregate. Rescheduling under outside conditions meant that creditors gained leverage over budgets; cuts to services, jobs and subsidies could transfer adjustment costs to households. Argentina's foreign-debt crisis coincided with inflation around 900 per cent, a different national channel by which fixed wages and cash savings lost purchasing power. The crisis discredited or curtailed aspects of state-led import-substituting industrialisation. Its protected industries had depended on imported capital goods, state finance and borrowing in markets that could be narrow. Trade opening, privatisation and fiscal austerity followed in parts of the region: policy moved toward liberalisation without automatically remedying inequality. Yet the shift was not mechanically imposed everywhere or permanent: domestic borrowing choices mattered, exposure varied and Argentina later repaid IMF debts. The enduring transformation was the conversion of financial dependence into a struggle over sovereignty, distribution and the legitimacy of the developmental state.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Explain the interaction of domestic inequality and US influence. Answer in about 300 words.
 
-**Model thesis:** Landholding and elite power created allies for intervention, while external support preserved social structures that repeatedly generated reform and revolution.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+Internal hierarchy and outside power reinforced each other, but neither explains every Latin American outcome by itself. Concentrated landholding vested political influence in oligarchic elites opposed to redistribution. It also restricted broader domestic demand, while reliance on narrow commodity exports exposed employment and revenues to foreign markets. Some elites therefore had reasons to seek external backing; US commercial and strategic power, in turn, could help preserve unequal arrangements.
 
-- Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality.
-- US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty.
-- A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict.
-- The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention.
-- Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices.
-- Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor.
+Guatemala reveals this two-way connection. Its reform experiment was overturned amid US-backed anti-communist intervention in 1954. Land reform was a domestic struggle over social power, but Cold War priorities turned that struggle into an international one. To attribute the reversal solely to Washington would erase local opponents; to call it purely domestic would obscure outside leverage. Nicaragua supplies a different sequence: the Sandinistas took power in 1979 through local revolutionary action, then faced counter-revolutionary pressure. Outside support or opposition could alter the costs of a domestic project without determining that project's origins or identical outcomes elsewhere.
 
-**Qualified conclusion:** Landholding and elite power created allies for intervention, while external support preserved social structures that repeatedly generated reform and revolution.
+US influence also took less visible forms. Trade and investment affected the range of viable policies, while borrowing could make budgets answerable to external lenders. Mexico's 1982 debt distress after borrowing against hoped-for oil receipts illustrates financial constraint, but creditor leverage must not be confused with direct US government rule. Cuba's 1959 revolution survived US hostility partly through Soviet alignment; its resistance demonstrates agency while revealing a different external dependence.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the interaction of domestic inequality and US influence. Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain the interaction of domestic inequality and US influence. Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Landholding and elite power created allies for intervention, while external support preserved social structures that repeatedly generated reform and revolution.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Oligarchic land concentration narrowed domestic markets, blocked reform and tied political power to social inequality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** US leverage preserved domestic elites, while domestic elites sought external backing; local agency therefore remained central within constrained sovereignty. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** A reform experiment in Guatemala was overturned with US-backed anti-communist intervention, showing how land reform became an international conflict. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Sandinistas took power in 1979 and faced counter-revolutionary pressure, joining local revolution to Cold War intervention. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Covert action, proxy pressure, diplomatic hostility, financial leverage and commercial weight set limits on domestic reform without eliminating local choices. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Latin American instability arose from interaction among domestic inequality, commodity dependence, militarised politics and outside leverage, not from any one factor. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Landholding and elite power created allies for intervention, while external support preserved social structures that repeatedly generated reform and revolution.
+Mexico's long PRI dominance, Brazil's industrial growth alongside authoritarian phases and inequality, and the political role of armies cannot be read simply as products of US intervention. The strongest explanation is therefore interactive: inequality created allies and grievances; external leverage could protect some incumbents and constrain reformers. Neither an omnipotent Washington nor a self-contained national history captures this uneven relationship.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Trace Latin America's economic arc from commodities to liberalisation. Answer in about 300 words.
 
-**Model thesis:** Commodity vulnerability encouraged ISI; its import and fiscal constraints encouraged borrowing; debt crisis then drove market opening without settling inequality.
+**Model answer (original practice; not a UPSC PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The broad economic sequence runs from vulnerable commodity exports through state-led import substitution to debt-driven market opening. It is an analytical arc, not a claim that every country moved through identical policies at the same speed. Narrow export bases meant that a world-price fall could disrupt foreign earnings, public budgets and employment. Venezuela's dependence on oil receipts illustrates why natural-resource wealth itself did not end exposure to price shifts.
 
-- Reliance on narrow export bases made world price movements into fiscal, employment and political crises.
-- Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry.
-- Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s.
-- Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state.
-- Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality.
-- Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure.
+Disruptions to export earnings and imported supplies encouraged mid-century *import-substituting industrialisation* (ISI): governments protected domestic manufacturing with tariffs and licensing, state investment and subsidised credit. This sought to replace imported finished goods, but did not eliminate foreign-exchange needs. Factories required imported capital goods; narrow domestic markets and fiscal deficits limited the strategy's reach. Brazil's industrial expansion demonstrates real productive change, although inequality and authoritarian phases persisted. External borrowing sustained development ambitions in many economies during the 1970s. Mexico borrowed confidently against anticipated oil income, then sought an IMF loan and rescheduling of half its $96 billion overseas debt in 1982. Across many debtor states, unpaid interest in 1979–81 compounded their obligations. Argentine inflation around 900 per cent supplies a distinct example of the social costs accompanying debt distress; it cannot serve as a regional rate. With repayment and rescheduling came greater creditor leverage and austerity, weakening the developmental state's capacity to fund services and jobs.
 
-**Qualified conclusion:** Commodity vulnerability encouraged ISI; its import and fiscal constraints encouraged borrowing; debt crisis then drove market opening without settling inequality.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace Latin America's economic arc from commodities to liberalisation. Answer in about 300…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Trace Latin America's economic arc from commodities to liberalisation. Answer in about 300…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Commodity vulnerability encouraged ISI; its import and fiscal constraints encouraged borrowing; debt crisis then drove market opening without settling inequality.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Reliance on narrow export bases made world price movements into fiscal, employment and political crises. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Mid-century ISI sought to replace imported manufactures through protection, state investment and subsidised domestic industry. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Small markets, capital-goods import costs and fiscal deficits pushed many economies toward external borrowing during the 1970s. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Compounding interest, rescheduling and outside conditions reduced policy autonomy, intensified austerity and weakened the developmental state. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Trade opening, privatisation and fiscal austerity followed the debt crisis, restoring openness without automatically resolving inequality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Brazil, Mexico, Venezuela, Guatemala, Nicaragua and Cuba followed distinct combinations of industrialisation, revolution, authoritarianism and external pressure. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Commodity vulnerability encouraged ISI; its import and fiscal constraints encouraged borrowing; debt crisis then drove market opening without settling inequality.
+Subsequent trade opening, privatisation and fiscal restraint were thus partly responses to financing constraints, not proof that ISI had produced no gains. They reopened economies without necessarily correcting concentrated landholding or unequal income. Guatemala’s reform, Nicaragua’s Sandinistas and Cuba’s revolution caution against imposing one political timetable on these economic phases. The movement from dependence to industrialisation and then liberalisation altered the *form* of outside constraint rather than abolishing it; domestic choices and nationally varied outcomes remained decisive.

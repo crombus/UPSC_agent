@@ -6,373 +6,7 @@ topic_key: medieval-indian-history-06
 
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQ 01
-
-**Question:** Which statement best captures the post-1388 crisis inherited by Topic 06?
-
-- A. It grew from succession disorder combined with hereditary office, factional elites and shrinking central reach.
-- B. It was caused only by Timur's later raid.
-- C. It resulted mainly from Delhi's conversion into a maritime state.
-- D. It was solved immediately by the Sayyids.
-
-**Answer: A.**
-
-**Explanation:** Topic 06 begins with internal weakening already underway before Timur entered north India.
-
-### Learning MCQ 02
-
-**Question:** Which explanatory move is most unsafe for a GS-I answer on the Sultanate's fragmentation?
-
-- A. Connecting fiscal-military strain with noble autonomy.
-- B. Explaining everything simply by saying "weak successors followed Firuz".
-- C. Treating disintegration as a multi-causal process.
-- D. Noting that geography and regional agrarian bases mattered.
-
-**Answer: B.**
-
-**Explanation:** The unsafe move is the reduction of a structural crisis to the lazy weak-successor cliché; the other three are stronger analytical approaches.
-
-### Learning MCQ 03
-
-**Question:** Which one-line summary best fits the fifteenth century in north India?
-
-- A. A complete absence of states after Delhi weakened.
-- B. A purely religious civil war everywhere.
-- C. Delhi's contraction combined with a wider regional balance-of-power system.
-- D. A century without urban culture or court patronage.
-
-**Answer: C.**
-
-**Explanation:** Topic 06 consistently distinguishes the weakening of Delhi from the vitality of regional states.
-
-### Learning MCQ 04
-
-**Question:** Which description of Timur's 1398 action is safest for UPSC use?
-
-- A. A settled conquest of all India with durable empire-wide administration.
-- B. A maritime expedition launched from Gujarat.
-- C. A peaceful pilgrimage with no political purpose.
-- D. A north-western plundering raid dressed in legitimising language and aimed at a weakened Delhi.
-
-**Answer: D.**
-
-**Explanation:** The safest answer separates Timur's justificatory language from the historically clearer pattern of raid, plunder and withdrawal.
-
-### Learning MCQ 05
-
-**Question:** What is the safest numerical approach to Timur's violence at Delhi?
-
-- A. Treat large chronicler numbers as reported claims and keep the core point on real devastation.
-- B. Say only Hindus suffered and no Muslims did.
-- C. Deny mass violence because exact totals are uncertain.
-- D. Quote every body-count literally as verified demographic fact.
-
-**Answer: A.**
-
-**Explanation:** Source criticism requires neither denial nor blind literalism.
-
-### Learning MCQ 06
-
-**Question:** Which statement best captures the Tuzuk/Malfuzat problem?
-
-- A. It is irrelevant because all text sources are useless.
-- B. It is best treated with authenticity caution and read against Yazdi, Indian chronicles and material evidence.
-- C. It was written by Babur after Panipat.
-- D. It is unquestionably Timur's autograph diary and needs no checking.
-
-**Answer: B.**
-
-**Explanation:** Topic 06 uses the text as a source problem, not as an unquestioned archive.
-
-### Learning MCQ 07
-
-**Question:** Which conclusion about Timur's consequences is the most balanced?
-
-- A. The raid created a durable Timurid all-India administration.
-- B. The raid permanently ended all urban life in north India.
-- C. The raid caused severe disruption in Delhi and helped enlarge the political vacuum, but it did not erase regional vitality across India.
-- D. The raid mattered only symbolically and caused no material damage.
-
-**Answer: C.**
-
-**Explanation:** Topic 06 balances Delhi's severe disruption with the continued vitality of regional political and economic worlds.
-
-### Learning MCQ 08
-
-**Question:** Which statement about Khizr Khan is the safest?
-
-- A. He was entirely independent of all symbolic Timurid connection from the first day.
-- B. He ruled Bengal from Gaur as Timur's naval governor.
-- C. He destroyed Jaunpur before entering Delhi.
-- D. He recovered Delhi under the shadow of Timurid legitimacy, but his rule rested on local north-Indian bargaining rather than direct Timurid control.
-
-**Answer: D.**
-
-**Explanation:** This is the safe middle line between "pure Timurid dependency" and "no Timurid link at all."
-
-### Learning MCQ 09
-
-**Question:** Which ruler order of the Sayyid dynasty is correct?
-
-- A. Khizr Khan -> Mubarak Shah -> Muhammad Shah -> Alauddin Alam Shah
-- B. Mubarak Shah -> Khizr Khan -> Alauddin Alam Shah -> Muhammad Shah
-- C. Alauddin Alam Shah -> Khizr Khan -> Muhammad Shah -> Mubarak Shah
-- D. Khizr Khan -> Muhammad Shah -> Mubarak Shah -> Alauddin Alam Shah
-
-**Answer: A.**
-
-**Explanation:** The secure Sayyid sequence runs from Khizr Khan to Alauddin Alam Shah through Mubarak and Muhammad Shah.
-
-### Learning MCQ 10
-
-**Question:** Which phrase best defines the Sayyid state?
-
-- A. A fully restored all-India monarchy.
-- B. Delhi-centred weak sovereignty sustained by negotiation, tribute and limited coercive reach.
-- C. Complete disappearance of Delhi as a political symbol.
-- D. A maritime customs state centred on Bengal's ports.
-
-**Answer: B.**
-
-**Explanation:** The Sayyids mattered because Delhi's symbol survived, but without wide stable control.
-
-### Learning MCQ 11
-
-**Question:** Which statement best uses "Afghan political traditions" safely?
-
-- A. Afghan political culture meant modern democratic equality for all subjects.
-- B. Afghan nobles had no sense of hierarchy or office in India at all.
-- C. Afghan nobles often expected consultation, honour and a share in power, but these norms operated inside changing Indian state conditions.
-- D. Afghan rule was automatically weaker because Afghans disliked all monarchy.
-
-**Answer: C.**
-
-**Explanation:** Topic 06 uses Afghan political culture analytically, not as a timeless stereotype.
-
-### Learning MCQ 12
-
-**Question:** What was Bahlul Lodi's most durable political achievement?
-
-- A. Turning Delhi into a naval empire.
-- B. Re-establishing Tughlaq rule in the Deccan.
-- C. Destroying Bengal's port trade.
-- D. Building an Afghan north-Indian power-base and ending Sharqi Jaunpur through annexation.
-
-**Answer: D.**
-
-**Explanation:** Bahlul's real strength lay in Punjab-Afghan mobilisation and the defeat of Jaunpur.
-
-### Learning MCQ 13
-
-**Question:** Which measure most clearly belongs to Sikandar Lodi's effort to centralise authority over Afghan nobles?
-
-- A. Requiring nobles to honour farmans formally and submit jagir accounts.
-- B. Moving the capital permanently to Kabul.
-- C. Abandoning all audit and leaving accounts unexamined.
-- D. Ending all provincial command in favour of temple corporations.
-
-**Answer: A.**
-
-**Explanation:** Court ritual and fiscal audit were tools to reduce noble equality claims.
-
-### Learning MCQ 14
-
-**Question:** Which line best captures Sikandar Lodi's reign?
-
-- A. No Hindu entered service or Persian learning in his time.
-- B. Strong administration and literary patronage coexisted with sharper juristic and coercive religious policies.
-- C. Pure tolerance without any coercive religious policy.
-- D. Total administrative collapse with no urban growth.
-
-**Answer: B.**
-
-**Explanation:** Topic 06 insists on this mixed, source-bounded reading.
-
-### Learning MCQ 15
-
-**Question:** Which explanation of Babur's victory at Panipat is strongest?
-
-- A. Ibrahim lost only because his army was numerically smaller.
-- B. The battle ended because Delhi's troops refused to enter the field at all.
-- C. Babur combined artillery, carts, tactical gaps, tulughma manoeuvre, leadership and a more coherent political-military coalition.
-- D. Guns automatically defeat all pre-modern armies regardless of leadership.
-
-**Answer: C.**
-
-**Explanation:** Topic 06 explicitly rejects the "guns alone" story and stresses a multi-causal war system.
-
-### Learning MCQ 16
-
-**Question:** Which statement best captures the significance of 1526?
-
-- A. It changed nothing except coin design.
-- B. It had no importance because only one battle was fought.
-- C. It instantly produced uncontested Mughal rule over all India.
-- D. It ended Lodi dynastic rule at Delhi-Agra but left major work of consolidation, coalition-building and further warfare still to be done.
-
-**Answer: D.**
-
-**Explanation:** This is the safest line for both Prelims elimination and GS-I analytical writing.
-
-### Original broad-coverage MCQs
-
-#### Broad MCQ 01
-
-**Question:** Which statement best explains the crisis after Firuz Shah Tughlaq's death?
-
-- A. It emerged from succession conflict layered over hereditary office, factional elites and weakening central military-fiscal control.
-- B. It began only after Agra was founded.
-- C. It was caused solely by Babur's artillery.
-- D. It reflected a sudden shift of Delhi to maritime trade.
-
-**Answer: A.**
-
-**Explanation:** The breakdown predates Timur and Panipat; it is rooted in structural and political weakening after 1388.
-
-#### Broad MCQ 02
-
-**Question:** Why did hereditary offices and assignments matter in the late Tughlaq phase?
-
-- A. They converted iqtas into temples.
-- B. They strengthened office-holding families and made later central discipline harder.
-- C. They abolished military service.
-- D. They made every province a republic.
-
-**Answer: B.**
-
-**Explanation:** Hereditary claims reduced the centre's ability to reshuffle and discipline service elites.
-
-#### Broad MCQ 03
-
-**Question:** Which statement best reflects the fifteenth-century political pattern?
-
-- A. No stable court culture survived outside Delhi.
-- B. Timur governed India permanently from Delhi after 1398.
-- C. Delhi contracted while regional states such as Bengal, Gujarat, Malwa and Jaunpur remained active and durable.
-- D. Delhi expanded while all regional states disappeared.
-
-**Answer: C.**
-
-**Explanation:** Topic 06 insists on regional vitality alongside Delhi's contraction.
-
-#### Broad MCQ 04
-
-**Question:** Timur's 1398 Indian invasion is most safely described as:
-
-- A. a full annexation of the subcontinent.
-- B. a peaceful pilgrimage.
-- C. a Gujarati naval expedition.
-- D. a plundering raid on a weakened Delhi, clothed in legitimising language and followed by withdrawal.
-
-**Answer: D.**
-
-**Explanation:** This wording captures motive, method and the absence of durable all-India occupation.
-
-#### Broad MCQ 05
-
-**Question:** What is the safest way to handle chronicler numbers for Timur's killings and captives?
-
-- A. Treat them as reported and often exaggerated claims while retaining the fact of real devastation.
-- B. Use only modern round figures with no sources.
-- C. Reject all violence because numbers differ.
-- D. Quote them all literally as verified census data.
-
-**Answer: A.**
-
-**Explanation:** Source criticism means caution with numbers, not denial of violence.
-
-#### Broad MCQ 06
-
-**Question:** Which specific outcome of Timur's raid is securely supported in the local OCR?
-
-- A. He introduced the gazz-i-Sikandari.
-- B. He carried away Indian artisans who were later employed in Samarqand.
-- C. He permanently ruled Jaunpur.
-- D. He founded Agra.
-
-**Answer: B.**
-
-**Explanation:** The artisan-transfer point is a core secure fact linking plunder to imperial construction elsewhere.
-
-#### Broad MCQ 07
-
-**Question:** What is the safest statement about Khizr Khan's legitimacy?
-
-- A. He was Timur's permanent viceroy over all India.
-- B. He ruled exactly like Alauddin Khalji without any legitimacy problem.
-- C. He used Timurid association symbolically while ruling through local north-Indian bargaining.
-- D. He had no Timurid connection at all.
-
-**Answer: C.**
-
-**Explanation:** The Sayyid founder sat between symbolic Timurid connection and practical local rule.
-
-#### Broad MCQ 08
-
-**Question:** The Sayyid state is best described as:
-
-- A. a maritime customs regime.
-- B. a strong empire from Bengal to the Deccan.
-- C. an all-India agrarian democracy.
-- D. a Delhi-centred weak sovereignty dependent on tribute, negotiation and limited coercive reach.
-
-**Answer: D.**
-
-**Explanation:** Delhi's symbol survived, but not the wide command structure of the high Sultanate.
-
-#### Broad MCQ 09
-
-**Question:** The *Tarikh-i-Mubarak Shahi* is associated with:
-
-- A. Yahya bin Ahmad Sirhindi.
-- B. Ibn Battuta.
-- C. Abbas Sarwani.
-- D. Sharaf al-Din Yazdi.
-
-**Answer: A.**
-
-**Explanation:** Yahya bin Ahmad Sirhindi is the key named chronicler for the later Tughlaq-early Sayyid world.
-
-#### Broad MCQ 10
-
-**Question:** Which phrase best captures Afghan elite political expectations under the Lodis?
-
-- A. Complete absence of lineage politics.
-- B. The ruler as first among powerful equals, with consultation and honour-sharing claims among nobles.
-- C. Automatic acceptance of Balban-like distance.
-- D. Absolute rejection of monarchy in every form.
-
-**Answer: B.**
-
-**Explanation:** Afghan nobles often expected status, consultation and a distributive share in power.
-
-#### Broad MCQ 11
-
-**Question:** Why is Abbas Sarwani's "came like locusts" line used cautiously?
-
-- A. Because it refers to Portuguese traders.
-- B. Because it proves Afghans never came to India.
-- C. Because it is later rhetorical language that may exaggerate the scale while still preserving memory of strong Afghan inflow.
-- D. Because it was written by Timur.
-
-**Answer: C.**
-
-**Explanation:** Later Afghan histories can preserve memory but also heighten effect.
-
-#### Broad MCQ 12
-
-**Question:** Which achievement is most securely associated with Bahlul Lodi?
-
-- A. Building Firozabad.
-- B. Conquering Vijayanagara.
-- C. Replacing Babur at Kabul.
-- D. Defeating and annexing Sharqi Jaunpur after building an Afghan Punjab-Delhi base.
-
-**Answer: D.**
-
-**Explanation:** Bahlul's major durable success was the consolidation of Lodi power through the defeat of Jaunpur.
-
-#### Broad MCQ 13
+### Workbook MCQ 01
 
 **Question:** Why was the founding of Agra under Sikandar Lodi historically significant?
 
@@ -381,11 +15,7 @@ topic_key: medieval-indian-history-06
 - C. It abolished all rivalry with Afghan nobles.
 - D. It marked Sikandar's withdrawal from north India.
 
-**Answer: A.**
-
-**Explanation:** Agra was chosen for military-geographical reasons, not as a decorative urban project alone.
-
-#### Broad MCQ 14
+### Workbook MCQ 02
 
 **Question:** The gazz-i-Sikandari refers to:
 
@@ -394,11 +24,7 @@ topic_key: medieval-indian-history-06
 - C. a field artillery unit.
 - D. a Timurid cavalry formation.
 
-**Answer: B.**
-
-**Explanation:** It is a classic administrative-marker fact tied to measurement and revenue supervision.
-
-#### Broad MCQ 15
+### Workbook MCQ 03
 
 **Question:** Which description best captures Sikandar Lodi's religious-cultural profile?
 
@@ -407,11 +33,7 @@ topic_key: medieval-indian-history-06
 - C. An administratively able ruler whose orthodoxy coexisted with significant literary patronage and cultural activity.
 - D. A ruler who excluded all Hindus from office and language learning completely.
 
-**Answer: C.**
-
-**Explanation:** The safe reading is mixed and source-bounded, not one-word moral labelling.
-
-#### Broad MCQ 16
+### Workbook MCQ 04
 
 **Question:** Which factor most directly opened the way for Babur's intervention against Ibrahim Lodi?
 
@@ -420,11 +42,7 @@ topic_key: medieval-indian-history-06
 - C. The instant collapse of all regional states.
 - D. Conflict between Ibrahim and major Afghan nobles such as Daulat Khan and Alam Khan.
 
-**Answer: D.**
-
-**Explanation:** Internal Lodi fracture created the political corridor through which Babur advanced.
-
-#### Broad MCQ 17
+### Workbook MCQ 05
 
 **Question:** Which statement about Panipat is correct?
 
@@ -433,11 +51,7 @@ topic_key: medieval-indian-history-06
 - C. Ibrahim Lodi had no elephants at all.
 - D. The battle was won before armies met.
 
-**Answer: A.**
-
-**Explanation:** Coordination, not mere numbers, explains Babur's battlefield success.
-
-#### Broad MCQ 18
+### Workbook MCQ 06
 
 **Question:** The tulughma/tulghuma tactic is best understood as:
 
@@ -446,11 +60,7 @@ topic_key: medieval-indian-history-06
 - C. grain taxation under Sikandar.
 - D. temple endowment under the Sayyids.
 
-**Answer: B.**
-
-**Explanation:** Tulughma refers to mobile divisions used to envelop and outmanoeuvre the enemy.
-
-#### Broad MCQ 19
+### Workbook MCQ 07
 
 **Question:** Which explanation best rejects the "guns alone" myth?
 
@@ -459,11 +69,7 @@ topic_key: medieval-indian-history-06
 - C. Babur's success came from firearms integrated with leadership, fortification, manoeuvre and Lodi political weakness.
 - D. Ibrahim lacked war elephants.
 
-**Answer: C.**
-
-**Explanation:** Topic 06 treats technology as effective only when embedded in organisation and command.
-
-#### Broad MCQ 20
+### Workbook MCQ 08
 
 **Question:** Which statement about the date of Panipat is safest in this repository's usage?
 
@@ -472,11 +78,7 @@ topic_key: medieval-indian-history-06
 - C. The exact date is unknowable and must never be mentioned.
 - D. The battle is commonly given as 21 April 1526, but repository caution notes that some local source handling has also preserved 20 April; the key is to flag the variance honestly if needed.
 
-**Answer: D.**
-
-**Explanation:** The export follows repository caution rather than pretending there is no date-variant issue in the local source trail.
-
-#### Broad MCQ 21
+### Workbook MCQ 09
 
 **Question:** Which statement best captures the immediate result of Babur's victory?
 
@@ -485,11 +87,7 @@ topic_key: medieval-indian-history-06
 - C. It erased all Afghan resistance immediately.
 - D. It transferred power directly to the Portuguese.
 
-**Answer: A.**
-
-**Explanation:** Panipat was decisive dynastically, not immediately final territorially.
-
-#### Broad MCQ 22
+### Workbook MCQ 10
 
 **Question:** Which administrative feature is most visible in the Lodi recovery of the Delhi-Agra core?
 
@@ -498,11 +96,7 @@ topic_key: medieval-indian-history-06
 - C. Complete abandonment of revenue supervision.
 - D. Replacement of cavalry by an all-infantry militia.
 
-**Answer: B.**
-
-**Explanation:** Lodi recovery worked through military-fiscal rebuilding, not administrative withdrawal.
-
-#### Broad MCQ 23
+### Workbook MCQ 11
 
 **Question:** Which statement about Sayyid-Lodi architecture is safest?
 
@@ -511,11 +105,7 @@ topic_key: medieval-indian-history-06
 - C. It includes square and octagonal tomb forms, high platforms and transitional features important for later Mughal funerary architecture.
 - D. It had no connection with later Mughal garden-tomb development.
 
-**Answer: C.**
-
-**Explanation:** The late Sultanate-Lodi phase is an architectural bridge, especially in tomb design and landscape setting.
-
-#### Broad MCQ 24
+### Workbook MCQ 12
 
 **Question:** Why should Bara Gumbad and Shish Gumbad be handled carefully in Topic 06?
 
@@ -524,11 +114,7 @@ topic_key: medieval-indian-history-06
 - C. Because they were built by Babur in Kabul.
 - D. Because exact attribution and chronology debates require caution even when they illustrate the broader Lodi architectural world.
 
-**Answer: D.**
-
-**Explanation:** Topic 06 uses them as bounded examples, not as a licence for overconfident monument trivia.
-
-#### Broad MCQ 25
+### Workbook MCQ 13
 
 **Question:** Which source is most closely associated with the Timurid courtly victory tradition?
 
@@ -537,11 +123,7 @@ topic_key: medieval-indian-history-06
 - C. Yahya bin Ahmad Sirhindi's *Tarikh-i-Mubarak Shahi*.
 - D. Afif's *Tarikh-i Firuz Shahi*.
 
-**Answer: A.**
-
-**Explanation:** Yazdi is central to the Timurid courtly narrative, though still agenda-laden.
-
-#### Broad MCQ 26
+### Workbook MCQ 14
 
 **Question:** What is the safest statement about the *Tuzuk-i-Timuri / Malfuzat-i-Timuri* tradition?
 
@@ -550,11 +132,7 @@ topic_key: medieval-indian-history-06
 - C. It is Babur's memoir under another name.
 - D. It is a Mughal land-revenue manual.
 
-**Answer: B.**
-
-**Explanation:** The source is valuable chiefly as a source problem and ideological tradition, not as transparent self-authored fact.
-
-#### Broad MCQ 27
+### Workbook MCQ 15
 
 **Question:** Which statement best uses the *Baburnama* safely for Topic 06?
 
@@ -563,24 +141,16 @@ topic_key: medieval-indian-history-06
 - C. It is a vivid first-person source for campaign detail and self-representation, best checked against politics, material evidence and later outcomes.
 - D. It is useless because memoirs are always false.
 
-**Answer: C.**
+### Workbook MCQ 16
 
-**Explanation:** The memoir is exceptionally valuable, but still a ruler's account.
-
-#### Broad MCQ 28
-
-**Question:** Which summary best fits fifteenth-century north India?
+**Question:** A student writes that the fifteenth century was either a restored Delhi empire or uniform collapse. Which correction is safest?
 
 - A. A fully restored unitary Delhi empire.
 - B. A timeless war of races.
 - C. Uniform economic collapse from Bengal to Gujarat.
 - D. Political fragmentation at the old centre combined with regional state vitality and selective economic recovery.
 
-**Answer: D.**
-
-**Explanation:** This is the core interpretive sentence of the topic.
-
-#### Broad MCQ 29
+### Workbook MCQ 17
 
 **Question:** Which statement about the economy and society of the age is strongest?
 
@@ -589,11 +159,7 @@ topic_key: medieval-indian-history-06
 - C. Persian ceased to matter in administration.
 - D. Urban life vanished from north India for a century.
 
-**Answer: A.**
-
-**Explanation:** Topic 06 avoids confusing political contraction with total economic death.
-
-#### Broad MCQ 30
+### Workbook MCQ 18
 
 **Question:** What is the best distinction between symbolic claim and durable rule?
 
@@ -602,11 +168,7 @@ topic_key: medieval-indian-history-06
 - C. They are always identical in medieval history.
 - D. Symbols never mattered politically.
 
-**Answer: B.**
-
-**Explanation:** This distinction is crucial for reading the Sayyids and also Timur's shadow over Delhi.
-
-#### Broad MCQ 31
+### Workbook MCQ 19
 
 **Question:** The "Delhi to Palam" trope is mainly used to indicate:
 
@@ -615,11 +177,7 @@ topic_key: medieval-indian-history-06
 - C. the dramatic shrinkage of the Delhi sultan's effective authority and prestige.
 - D. Delhi's maritime expansion.
 
-**Answer: C.**
-
-**Explanation:** It is a literary image of contraction and humiliation, not a cartographic measurement.
-
-#### Broad MCQ 32
+### Workbook MCQ 20
 
 **Question:** Which concluding thesis is most appropriate for Topic 06?
 
@@ -628,13 +186,7 @@ topic_key: medieval-indian-history-06
 - C. Panipat was purely a gunpowder miracle.
 - D. The decline of Delhi was a long structural and political transition in which regionalisation, elite fracture, fiscal-military strain, Timur's raid and Babur's organised intervention all mattered.
 
-**Answer: D.**
-
-**Explanation:** This is the full multi-causal conclusion expected in a high-quality GS-I answer.
-
-### Remedial trap MCQs
-
-#### Remedial MCQ 01
+### Workbook MCQ 21
 
 **Question:** Which statement is false?
 
@@ -643,11 +195,7 @@ topic_key: medieval-indian-history-06
 - C. A shrinking centre and resilient provinces can coexist.
 - D. Political fragmentation and selective economic recovery are compatible.
 
-**Answer: A.**
-
-**Explanation:** The main trap of the topic is to confuse Delhi's contraction with India-wide death.
-
-#### Remedial MCQ 02
+### Workbook MCQ 22
 
 **Question:** Which statement is the strongest correction to the phrase "Timur conquered India"?
 
@@ -656,11 +204,7 @@ topic_key: medieval-indian-history-06
 - C. He was defeated before reaching Punjab.
 - D. He ruled from Agra for twenty years.
 
-**Answer: B.**
-
-**Explanation:** Topic 06 distinguishes raid, plunder and symbolic aftermath from settled conquest.
-
-#### Remedial MCQ 03
+### Workbook MCQ 23
 
 **Question:** Which statement is correct?
 
@@ -669,11 +213,7 @@ topic_key: medieval-indian-history-06
 - C. The Sayyid polity is best seen as weak sovereignty centred on Delhi rather than as a massive reconquest empire.
 - D. The Sayyids restored the empire of Alauddin Khalji in full.
 
-**Answer: C.**
-
-**Explanation:** The Sayyids mattered symbolically, but their coercive reach remained limited.
-
-#### Remedial MCQ 04
+### Workbook MCQ 24
 
 **Question:** Which statement best corrects the phrase "Afghan equality"?
 
@@ -682,11 +222,7 @@ topic_key: medieval-indian-history-06
 - C. Afghan rulers always partitioned India peacefully.
 - D. Afghan elite culture often involved strong claims to consultation and shared honour among nobles, but it was still embedded in hierarchical state politics.
 
-**Answer: D.**
-
-**Explanation:** "Equality" here is an elite political idiom, not a modern social doctrine.
-
-#### Remedial MCQ 05
+### Workbook MCQ 25
 
 **Question:** Which statement about Sikandar Lodi is most misleading?
 
@@ -695,11 +231,7 @@ topic_key: medieval-indian-history-06
 - C. His reign mixed stronger administration with sharper juristic-religious policies.
 - D. He founded Agra for strategic reasons.
 
-**Answer: A.**
-
-**Explanation:** Topic 06 rejects flat moral binaries; the other three statements are defensible and source-grounded.
-
-#### Remedial MCQ 06
+### Workbook MCQ 26
 
 **Question:** Which statement best corrects the image of Ibrahim Lodi as merely a passive weakling?
 
@@ -708,11 +240,7 @@ topic_key: medieval-indian-history-06
 - C. He voluntarily surrendered to Babur before battle.
 - D. He ruled only Kashmir.
 
-**Answer: B.**
-
-**Explanation:** Ibrahim's failure came partly from an assertive but politically costly centralising push.
-
-#### Remedial MCQ 07
+### Workbook MCQ 27
 
 **Question:** Which statement about Panipat is correct?
 
@@ -721,11 +249,7 @@ topic_key: medieval-indian-history-06
 - C. Panipat shows how firearms mattered when combined with fortification, manoeuvre and leadership.
 - D. Firearms were irrelevant to the battle.
 
-**Answer: C.**
-
-**Explanation:** The trap is to isolate guns from the battle-system that made them effective.
-
-#### Remedial MCQ 08
+### Workbook MCQ 28
 
 **Question:** Which statement best corrects the phrase "1526 instantly created the Mughal Empire in all India"?
 
@@ -734,11 +258,7 @@ topic_key: medieval-indian-history-06
 - C. Panipat was a small skirmish of no consequence.
 - D. Panipat ended Lodi dynastic rule at the centre, but Babur still faced Rajput and Afghan resistance before wider consolidation.
 
-**Answer: D.**
-
-**Explanation:** Topic 06 repeatedly distinguishes dynastic victory from full imperial consolidation.
-
-#### Remedial MCQ 09
+### Workbook MCQ 29
 
 **Question:** Which statement is correct?
 
@@ -747,11 +267,7 @@ topic_key: medieval-indian-history-06
 - C. It is unquestionably Timur's autograph manuscript.
 - D. It completely replaces Yazdi and Indian chronicles.
 
-**Answer: A.**
-
-**Explanation:** Source criticism is central to this topic.
-
-#### Remedial MCQ 10
+### Workbook MCQ 30
 
 **Question:** Which statement best distinguishes Jaunpur in Topic 06?
 
@@ -760,11 +276,7 @@ topic_key: medieval-indian-history-06
 - C. It functioned only as a temple town without state power.
 - D. It was conquered by Timur and ruled from Samarqand.
 
-**Answer: B.**
-
-**Explanation:** Jaunpur is a serious regional-state actor, not a decorative footnote.
-
-#### Remedial MCQ 11
+### Workbook MCQ 31
 
 **Question:** Which statement is correct?
 
@@ -773,11 +285,7 @@ topic_key: medieval-indian-history-06
 - C. Political fragmentation did not prevent roads, agrarian recovery and urban revival in parts of north India.
 - D. Persian stopped spreading in administration.
 
-**Answer: C.**
-
-**Explanation:** Recovery in the Delhi-Agra-doab core is a major counter-trap in the topic.
-
-#### Remedial MCQ 12
+### Workbook MCQ 32
 
 **Question:** Which statement best captures the architectural value of the Sayyid-Lodi phase?
 
@@ -786,25 +294,704 @@ topic_key: medieval-indian-history-06
 - C. It has no relation to Mughal architecture.
 - D. It offers transitional tomb forms, platform use and garden settings that help explain later Mughal funerary developments.
 
+### Workbook MCQ 33
+
+**Question:** A court account attributes the fall of Delhi entirely to Timur. Which counter-evidence most directly challenges the word "entirely"?
+
+- A. Rival Tughlaq claimants and autonomous provinces already constrained Delhi before the invasion.
+- B. Babur used defensive carts at Panipat more than a century later.
+- C. Sikandar Lodi later established Agra as a strategic centre.
+- D. Sayyid tombs continued to be built after Khizr Khan reached Delhi.
+
+### Workbook MCQ 34
+
+**Question:** Timur's victory tradition claims a vast Indian conquest; which evidence would be needed to infer durable Timurid rule in Delhi after his departure?
+
+- A. A single sack narrative and a description of booty transported west.
+- B. Continuing locally supervised offices, fiscal extraction and garrisons under Timurid authority.
+- C. Timurid religious justification recorded before crossing the Indus.
+- D. The later inclusion of Timurid names in some Sayyid legitimacy practices.
+
+### Workbook MCQ 35
+
+**Question:** Consider: (1) Khizr Khan had a Punjab/Multan power base before Delhi. (2) His Timurid relationship made Delhi a directly administered Timurid province. (3) His claimed Sayyid genealogy needs source caution. Which are defensible?
+
+- A. 1 and 2 only
+- B. 2 and 3 only
+- C. 1 and 3 only
+- D. 1, 2 and 3
+
+### Workbook MCQ 36
+
+**Question:** Arrange the political transitions: (i) Timur's sack of Delhi; (ii) Khizr Khan enters Delhi; (iii) Bahlul's accession; (iv) Babur defeats Ibrahim.
+
+- A. (ii), (i), (iii), (iv)
+- B. (i), (iii), (ii), (iv)
+- C. (i), (ii), (iv), (iii)
+- D. (i), (ii), (iii), (iv)
+
+### Workbook MCQ 37
+
+**Question:** How can Jaunpur be described accurately while Delhi's Sayyid rulers claimed wider authority?
+
+- A. As a viable Sharqi political-cultural centre contesting Delhi, not simply a lost Delhi district.
+- B. As a territory directly administered by Timur throughout Sayyid rule.
+- C. As a kingdom without political significance because it cultivated Persianate culture.
+- D. As a Lodi foundation that existed only after Panipat.
+
+### Workbook MCQ 38
+
+**Question:** Which comparison best explains the friction between Sikandar's administrative measures and Afghan noble practice?
+
+- A. All Afghan subjects elected the sultan, whereas Sikandar banned elections.
+- B. Chiefs accustomed to bargaining and lineage claims faced demands for attendance, respect for farmans and audited accounts.
+- C. Hereditary tribal chiefs had no military role, whereas the state used only hired artillery.
+- D. Sikandar abolished all Afghan assignments before moving Delhi to Agra.
+
+### Workbook MCQ 39
+
+**Question:** Which inference from Sikandar's grain-octroi abolition and gazz-i-Sikandari remains within the evidence?
+
+- A. Both measures prove that prices fell uniformly in every regional kingdom.
+- B. The measure of land automatically eliminated all jagir accounting disputes.
+- C. Movement of grain and assessment could be managed more systematically without proving universal prosperity or implementation.
+- D. Road security and revenue measurement were identical taxes on transported grain.
+
+### Workbook MCQ 40
+
+**Question:** If Ibrahim removed powerful chiefs while Daulat Khan and Alam Khan sought Babur's support, which reading is strongest?
+
+- A. Ibrahim never attempted to govern independently of the chiefs.
+- B. Babur entered an unoccupied north India without any factional alliances.
+- C. Punjab chiefs agreed unanimously to give Ibrahim unrestricted monarchical authority.
+- D. Crown centralization collided with Afghan elite bargains; outside intervention exploited an active coalition crisis.
+
+### Workbook MCQ 41
+
+**Question:** Babur's memoir attributes Panipat to a planned battlefield system. Which inference is the most appropriately bounded?
+
+- A. Carts, firepower, flanking cavalry and Lodi political fissures interacted; exact numbers and royal claims require caution.
+- B. Artillery makes troop deployment and political defections irrelevant by definition.
+- C. The memoir supplies an independently verified census of casualties on each side.
+- D. The battle immediately subjected all surviving Indian regional states to Babur's administration.
+
+### Workbook MCQ 42
+
+**Question:** What does the coexistence of Sayyid-Lodi tombs and changing coins most usefully show for a historian of decline?
+
+- A. Every Delhi institution ceased to exist after Timur.
+- B. Urban patronage and assertions of authority continued in altered forms despite reduced imperial reach.
+- C. All tombs belong to Babur because he conquered Delhi.
+- D. Coins prove each ruler controlled every regional court named in chronicles.
+
+### Workbook MCQ 43
+
+**Question:** A writer quotes exact casualty figures from a Timurid victory narrative. Which source-critical response best preserves what can still be established?
+
+- A. Deny that Delhi was attacked because exact casualty figures are insecure.
+- B. Accept the exact numbers because a court-sponsored account is contemporaneous.
+- C. Recognize extensive violence and captive-taking, while treating numerical totals as unverified court claims.
+- D. Infer exact numbers instead from a later Sayyid tomb inscription.
+
+### Workbook MCQ 44
+
+**Question:** How should a Mains answer relate the Delhi-to-Palam remark, Bahlul's Jaunpur campaigns and Panipat?
+
+- A. As three proofs that the entire subcontinent was continuously ruled by Delhi.
+- B. As evidence that Jaunpur was only a battlefield and never a cultural centre.
+- C. As proof that Timur's rule over Delhi persisted until Babur defeated him.
+- D. As shorthand for contraction, partial Lodi recovery, then dynastic defeat without instant all-India Mughal control.
+
+### MCQ KEY AND EXPLANATIONS
+
+### Workbook MCQ 01 — Key
+**Answer: A.**
+
+**Explanation:** Agra was chosen for military-geographical reasons, not as a decorative urban project alone.
+
+**Option-wise explanation:**
+- A. **Correct.** Agra was chosen for military-geographical reasons, not as a decorative urban project alone.
+- B. **Incorrect.** Agra is an inland Yamuna-side site controlling the doab-Rajasthan-Malwa axis; no source records it as a coastal harbour for Indian Ocean trade.
+- C. **Incorrect.** Agra's founding was a strategic-administrative move; Afghan noble rivalry persisted through Sikandar's own reign and sharpened further under Ibrahim, so no rivalry was abolished.
+- D. **Incorrect.** Founding a forward strategic base toward Rajasthan and Malwa strengthened, not withdrew, Lodi control of north India.
+
+**Trap:** Do not treat Agra as a decorative or coastal foundation; its significance is inland strategy.
+
+### Workbook MCQ 02 — Key
+**Answer: B.**
+
+**Explanation:** It is a classic administrative-marker fact tied to measurement and revenue supervision.
+
+**Option-wise explanation:**
+- A. **Incorrect.** It is a Lodi-era measurement standard, not a Sayyid coin; measurement units and coinage belong to different administrative categories.
+- B. **Correct.** It is a classic administrative-marker fact tied to measurement and revenue supervision.
+- C. **Incorrect.** Field-artillery vocabulary (carts, tulughma) belongs to Babur's Panipat battlefield system, not to Sikandar's revenue administration.
+- D. **Incorrect.** Cavalry manoeuvre formations belong to Babur's Panipat vocabulary, a full generation after Sikandar's measurement reform.
+
+**Trap:** Do not confuse the gazz-i-Sikandari with artillery, coinage or cavalry formations.
+
+### Workbook MCQ 03 — Key
+**Answer: C.**
+
+**Explanation:** The safe reading is mixed and source-bounded, not one-word moral labelling.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Sources record Sikandar's patronage of Persian learning and poetry, the opposite of literary hostility.
+- B. **Incorrect.** Sources also report orthodox and temple-restrictive episodes, so a "purely liberal" label erases half the evidence.
+- C. **Correct.** The safe reading is mixed and source-bounded, not one-word moral labelling.
+- D. **Incorrect.** This overstates exclusion into an absolute claim the sources do not support; it converts a mixed record into a flattened one.
+
+**Trap:** Avoid one-word moral labels for Sikandar Lodi's religious-cultural profile.
+
+### Workbook MCQ 04 — Key
+**Answer: D.**
+
+**Explanation:** Internal Lodi fracture created the political corridor through which Babur advanced.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Daulat Khan's appeal reached Babur in Kabul, a Central Asian land power; Portuguese naval activity on the western coast has no connection to this Punjab-Delhi crisis.
+- B. **Incorrect.** Punjab politics did not disappear; Daulat Khan's governorship and eventual defection is precisely what stayed active and opened the corridor.
+- C. **Incorrect.** Regional states such as Mewar, Gujarat and Bengal remained active players, not collapsed actors, at this moment.
+- D. **Correct.** Internal Lodi fracture created the political corridor through which Babur advanced.
+
+**Trap:** Do not detach Babur's intervention from the political corridor opened by Lodi elite fracture.
+
+### Workbook MCQ 05 — Key
+**Answer: A.**
+
+**Explanation:** Coordination, not mere numbers, explains Babur's battlefield success.
+
+**Option-wise explanation:**
+- A. **Correct.** Coordination, not mere numbers, explains Babur's battlefield success.
+- B. **Incorrect.** Babur's cart/*araba* barrier and prepared defensive line are direct evidence of deliberate field preparation, not its absence.
+- C. **Incorrect.** Chronicled accounts describe a sizeable Lodi force including elephants; the safe point is about Babur's integration, not a claim that Ibrahim had none.
+- D. **Incorrect.** This denies the actual manoeuvre and fighting (artillery, carts, tulughma, cavalry) that decided the engagement.
+
+**Trap:** Do not convert Panipat into a simple head-count story; its force lay in integrated battle-planning.
+
+### Workbook MCQ 06 — Key
+**Answer: B.**
+
+**Explanation:** Tulughma refers to mobile divisions used to envelop and outmanoeuvre the enemy.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Yahya bin Ahmad Sirhindi wrote the *Tarikh-i Mubarak Shahi*, a text, not a battlefield manoeuvre.
+- B. **Correct.** Tulughma refers to mobile divisions used to envelop and outmanoeuvre the enemy.
+- C. **Incorrect.** Grain-octroi abolition is a Sikandar Lodi revenue measure, unrelated to Babur's battlefield tactics decades later.
+- D. **Incorrect.** Temple endowment is a religious-institutional matter, not a military manoeuvre term.
+
+**Trap:** Do not mistake a tactical term for a chronicle, tax or architectural label.
+
+### Workbook MCQ 07 — Key
+**Answer: C.**
+
+**Explanation:** Topic 06 treats technology as effective only when embedded in organisation and command.
+
+**Option-wise explanation:**
+- A. **Incorrect.** This swings to the opposite extreme; artillery mattered, just not in isolation from organisation and leadership.
+- B. **Incorrect.** Lineage claims do not explain battlefield coordination, fortification and manoeuvre.
+- C. **Correct.** Topic 06 treats technology as effective only when embedded in organisation and command.
+- D. **Incorrect.** A narrow logistical claim about elephants does not by itself reject or explain the "guns alone" myth.
+
+**Trap:** Technology mattered at Panipat only through organisation, manoeuvre and leadership.
+
+### Workbook MCQ 08 — Key
+**Answer: D.**
+
+**Explanation:** The export follows repository caution rather than pretending there is no date-variant issue in the local source trail.
+
+**Option-wise explanation:**
+- A. **Incorrect.** The repository does not reject dates outright; it flags one specific day-variant caution while retaining the commonly given date.
+- B. **Incorrect.** 1498 predates Sikandar Lodi's own reign and Babur's Kabul base, making it chronologically impossible for this event.
+- C. **Incorrect.** The commonly given date can and should be stated, with the variance flagged honestly rather than suppressed as unknowable.
+- D. **Correct.** The battle is commonly given as 21 April 1526, but repository caution notes that some local source handling has also preserved 20 April; the key is to flag the variance honestly if needed.
+
+**Trap:** A repository caution note on the Panipat date must be reported honestly rather than suppressed or invented away.
+
+### Workbook MCQ 09 — Key
+**Answer: A.**
+
+**Explanation:** Panipat was decisive dynastically, not immediately final territorially.
+
+**Option-wise explanation:**
+- A. **Correct.** Panipat was decisive dynastically, not immediately final territorially.
+- B. **Incorrect.** Bengal remained an independent eastern sultanate well beyond 1526, entirely untouched by the Panipat outcome.
+- C. **Incorrect.** Afghan resistance continued for years and later resurfaced strongly under the Surs; it was not erased immediately.
+- D. **Incorrect.** The Portuguese were a coastal trading power with no connection to this inland dynastic succession.
+
+**Trap:** Dynastic victory is not the same as immediate, uncontested territorial consolidation.
+
+### Workbook MCQ 10 — Key
+**Answer: B.**
+
+**Explanation:** Lodi recovery worked through military-fiscal rebuilding, not administrative withdrawal.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Agra's founding is direct evidence of urban centre-building, the opposite of refusing to found or support cities.
+- B. **Correct.** Lodi recovery worked through military-fiscal rebuilding, not administrative withdrawal.
+- C. **Incorrect.** Rent-rolls, account-checking and jagir-accounting show tightened, not abandoned, revenue supervision.
+- D. **Incorrect.** Cavalry remained central to Lodi and later Panipat-era warfare; no all-infantry replacement is recorded.
+
+**Trap:** Administrative recovery means more supervision, not state withdrawal.
+
+### Workbook MCQ 11 — Key
+**Answer: C.**
+
+**Explanation:** The late Sultanate-Lodi phase is an architectural bridge, especially in tomb design and landscape setting.
+
+**Option-wise explanation:**
+- A. **Incorrect.** The surviving Sayyid-Lodi tombs are stone/rubble masonry structures, not wooden ones.
+- B. **Incorrect.** Tomb building is precisely what defines this phase's architectural record, not its abandonment.
+- C. **Correct.** The late Sultanate-Lodi phase is an architectural bridge, especially in tomb design and landscape setting.
+- D. **Incorrect.** Platform and garden-tomb features are usually read as a direct bridge toward later Mughal funerary architecture such as Humayun's tomb.
+
+**Trap:** Do not push Sayyid-Lodi architecture out of the larger transition toward Mughal funerary design.
+
+### Workbook MCQ 12 — Key
+**Answer: D.**
+
+**Explanation:** Topic 06 uses them as bounded examples, not as a licence for overconfident monument trivia.
+
+**Option-wise explanation:**
+- A. **Incorrect.** These are Lodi-era medieval monuments, not structures belonging to the ancient period.
+- B. **Incorrect.** They are Lodi-period built tomb/mosque complexes, not rock-cut Jain monasteries.
+- C. **Incorrect.** They are Delhi-based Lodi constructions, unconnected to Babur's Kabul career.
+- D. **Correct.** Topic 06 uses them as bounded examples, not as a licence for overconfident monument trivia.
+
+**Trap:** Illustrative monuments still require attribution and chronology caution.
+
+### Workbook MCQ 13 — Key
+**Answer: A.**
+
+**Explanation:** Yazdi is central to the Timurid courtly narrative, though still agenda-laden.
+
+**Option-wise explanation:**
+- A. **Correct.** Yazdi is central to the Timurid courtly narrative, though still agenda-laden.
+- B. **Incorrect.** Abbas Sarwani's narrative belongs to the later Sur-Afghan historiographical tradition, not the Timurid court.
+- C. **Incorrect.** Sirhindi's chronicle is a Sayyid-era Delhi-centred work, not a Timurid courtly victory narrative.
+- D. **Incorrect.** Afif's work covers Firuz Shah Tughlaq's reign, a generation before Timur's invasion.
+
+**Trap:** One court chronicle cannot be read as transparent fact without agenda-awareness.
+
+### Workbook MCQ 14 — Key
+**Answer: B.**
+
+**Explanation:** The source is valuable chiefly as a source problem and ideological tradition, not as transparent self-authored fact.
+
+**Option-wise explanation:**
+- A. **Incorrect.** The memoir tradition is court self-justification, not proof of a settled-empire intention, and Timur's actual conduct of raid-then-withdrawal contradicts it.
+- B. **Correct.** It must be treated with authenticity caution and used comparatively, not literally as unquestioned autobiography.
+- C. **Incorrect.** Babur's own memoir is the separate *Baburnama*, a different text from a different generation.
+- D. **Incorrect.** It is a conqueror's memoir/chronicle tradition, not an administrative revenue document.
+
+**Trap:** Treat memoir traditions as source problems, not automatic autobiography.
+
+### Workbook MCQ 15 — Key
+**Answer: C.**
+
+**Explanation:** The memoir is exceptionally valuable, but still a ruler's account.
+
+**Option-wise explanation:**
+- A. **Incorrect.** As a ruler's memoir it carries self-representation, so calling it neutral with "no self-fashioning" overstates its objectivity.
+- B. **Incorrect.** Ibrahim Lodi died at Panipat; the text is Babur's own account, not his defeated opponent's.
+- C. **Correct.** It is a vivid first-person source for campaign detail and self-representation, best checked against politics, material evidence and later outcomes.
+- D. **Incorrect.** This is an overcorrection; once cross-checked the memoir remains valuable first-person evidence, not automatically false.
+
+**Trap:** A vivid first-person text still demands cross-checking against politics and outcomes.
+
+### Workbook MCQ 16 — Key
+**Answer: D.**
+
+**Explanation:** This is the core interpretive sentence of the topic.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Delhi's fifteenth-century reach was contracted, not restored to unitary empire scale.
+- B. **Incorrect.** This replaces political-structural explanation with an essentialist ethnic frame the topic explicitly rejects.
+- C. **Incorrect.** Bengal, Gujarat, Malwa and Jaunpur show continued economic and cultural vitality, not uniform collapse.
+- D. **Correct.** Political fragmentation at the old centre combined with regional state vitality and selective economic recovery.
+
+**Trap:** Do not collapse regional vitality into an all-India story of death and emptiness.
+
+### Workbook MCQ 17 — Key
+**Answer: A.**
+
+**Explanation:** Topic 06 avoids confusing political contraction with total economic death.
+
+**Option-wise explanation:**
+- A. **Correct.** Topic 06 avoids confusing political contraction with total economic death.
+- B. **Incorrect.** Timur's raid disrupted Delhi but did not permanently erase regional and long-distance trade routes.
+- C. **Incorrect.** Persian chancery practice continued through the Sayyid-Lodi period into Mughal administration.
+- D. **Incorrect.** Agra's founding and Delhi's continued function as a capital contradict a century-long urban vanishing.
+
+**Trap:** Political fragmentation did not erase agrarian and urban recovery everywhere.
+
+### Workbook MCQ 18 — Key
+**Answer: B.**
+
+**Explanation:** This distinction is crucial for reading the Sayyids and also Timur's shadow over Delhi.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Durable rule depended precisely on stable revenue and military capacity, the opposite of needing none.
+- B. **Correct.** A ruler could possess khutba, coin or dynastic symbolism without commanding deep and stable coercive control everywhere.
+- C. **Incorrect.** The Sayyid case shows symbolic authority and durable coercive control diverging, not merging into identity.
+- D. **Incorrect.** Khutba and coinage carried real legitimacy value; the caution concerns their limits, not their irrelevance.
+
+**Trap:** Khutba, coin or dynastic shadow are not identical to deep and stable coercive control.
+
+### Workbook MCQ 19 — Key
+**Answer: C.**
+
+**Explanation:** It is a literary image of contraction and humiliation, not a cartographic measurement.
+
+**Option-wise explanation:**
+- A. **Incorrect.** The phrase describes contraction of authority, the opposite of a conquest claim.
+- B. **Incorrect.** No canal project is associated with this phrase; it is a rhetorical image, not an infrastructure record.
+- C. **Correct.** It is a literary image of contraction and humiliation, not a cartographic measurement.
+- D. **Incorrect.** Delhi is an inland city; the phrase concerns a nearby inland locality, not maritime expansion.
+
+**Trap:** The 'Delhi to Palam' image is rhetorical contraction, not cartographic measurement.
+
+### Workbook MCQ 20 — Key
+**Answer: D.**
+
+**Explanation:** This is the full multi-causal conclusion expected in a high-quality GS-I answer.
+
+**Option-wise explanation:**
+- A. **Incorrect.** This is an essentialist ethnic explanation the topic explicitly rejects in favour of political-structural analysis.
+- B. **Incorrect.** This is the single-cause trap the topic corrects; pre-existing fragmentation predates Timur's 1398 raid.
+- C. **Incorrect.** This isolates artillery from the organisational and political factors the topic insists must accompany it.
+- D. **Correct.** The decline of Delhi was a long structural and political transition in which regionalisation, elite fracture, fiscal-military strain, Timur's raid and Babur's organised intervention all mattered.
+
+**Trap:** A strong conclusion must keep structural, political, military and regional causes in one frame.
+
+### Workbook MCQ 21 — Key
+**Answer: A.**
+
+**Explanation:** The main trap of the topic is to confuse Delhi's contraction with India-wide death.
+
+**Option-wise explanation:**
+- A. **Correct.** Delhi's decline automatically meaning total India-wide collapse in the same way is the false statement; the main trap of the topic is to confuse Delhi's contraction with India-wide death.
+- B. **Incorrect as an answer.** This statement is true: regional states did remain active while Delhi weakened, so it is not the false one being sought.
+- C. **Incorrect as an answer.** This statement is true: a shrinking centre and resilient provinces coexisted throughout this period.
+- D. **Incorrect as an answer.** This statement is true: Agra's founding and Jaunpur's cultural florescence show fragmentation and selective recovery are compatible.
+
+**Trap:** Never equate Delhi's decline with identical collapse across all of India.
+
+### Workbook MCQ 22 — Key
+**Answer: B.**
+
+**Explanation:** Topic 06 distinguishes raid, plunder and symbolic aftermath from settled conquest.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Timur did enter India and reached Delhi in 1398; this denies a well-established event.
+- B. **Correct.** He conducted a devastating raid on Delhi and the north-west, then withdrew rather than building durable all-India rule.
+- C. **Incorrect.** No defeat is recorded before Punjab; his forces advanced through Punjab to Delhi and prevailed there.
+- D. **Incorrect.** Timur withdrew soon after the sack of Delhi and never established a twenty-year administered rule from any Indian city.
+
+**Trap:** Timur raided and withdrew; he did not build durable all-India rule.
+
+### Workbook MCQ 23 — Key
+**Answer: C.**
+
+**Explanation:** The Sayyids mattered symbolically, but their coercive reach remained limited.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Khizr Khan's rule is explicitly linked to a Timurid relationship and assignment in the sources, so "no relation at all" overstates the opposite.
+- B. **Incorrect.** Jaunpur and Malwa remained active regional powers through the Sayyid period; Jaunpur's elimination came later, under Bahlul Lodi.
+- C. **Correct.** The Sayyid polity is best seen as weak sovereignty centred on Delhi rather than as a massive reconquest empire.
+- D. **Incorrect.** Sayyid authority was territorially restricted around Delhi, far short of Alauddin Khalji's earlier extensive conquests.
+
+**Trap:** Sayyid importance was symbolic-political, not imperial reconquest.
+
+### Workbook MCQ 24 — Key
+**Answer: D.**
+
+**Explanation:** "Equality" here is an elite political idiom, not a modern social doctrine.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Afghan politics still recognised chiefs and hierarchy among lineages; rejecting "every kind of rank" is too absolute.
+- B. **Incorrect.** This anachronistically imports a modern political concept onto elite noble bargaining among armed chiefs.
+- C. **Incorrect.** Bahlul's own partition among sons and relations created later succession strain, not a guaranteed peaceful outcome.
+- D. **Correct.** Afghan elite culture often involved strong claims to consultation and shared honour among nobles, but it was still embedded in hierarchical state politics.
+
+**Trap:** Afghan consultation does not mean modern mass democracy.
+
+### Workbook MCQ 25 — Key
+**Answer: A.**
+
+**Explanation:** Topic 06 rejects flat moral binaries; the other three statements are defensible and source-grounded.
+
+**Option-wise explanation:**
+- A. **Correct.** Describing his reign as either complete tolerance or total civilisational darkness is the most misleading statement; Topic 06 rejects flat moral binaries.
+- B. **Incorrect as an answer.** The gazz-i-Sikandari was a measurement standard, and Sikandar also pressed chiefs to submit jagir accounts; both are documented policies rather than misleading claims.
+- C. **Incorrect as an answer.** This balanced framing is exactly the source-grounded reading the topic endorses, not a misleading one.
+- D. **Incorrect as an answer.** This is an accurate, well-evidenced statement about Agra's founding, not a misleading one.
+
+**Trap:** Sikandar should not be flattened into pure tolerance or pure darkness.
+
+### Workbook MCQ 26 — Key
+**Answer: B.**
+
+**Explanation:** Ibrahim's failure came partly from an assertive but politically costly centralising push.
+
+**Option-wise explanation:**
+- A. **Incorrect.** His active drive to discipline and centralise over Afghan nobles is itself evidence of political will, not its absence.
+- B. **Correct.** He attempted to strengthen monarchy, but this sharpened conflict with Afghan nobles and relatives.
+- C. **Incorrect.** Ibrahim died fighting at Panipat rather than surrendering to Babur beforehand.
+- D. **Incorrect.** Ibrahim ruled the Delhi-based Lodi Sultanate, not a Kashmir-confined territory.
+
+**Trap:** Ibrahim failed through conflict-ridden assertion, not through simple passivity.
+
+### Workbook MCQ 27 — Key
+**Answer: C.**
+
+**Explanation:** The trap is to isolate guns from the battle-system that made them effective.
+
+**Option-wise explanation:**
+- A. **Incorrect.** The cart/*araba* barrier and *tulughma* manoeuvre are direct evidence of deliberate preparation and innovation, not its absence.
+- B. **Incorrect.** Ibrahim's army was weakened by noble defection and factional conflict, the opposite of political unity.
+- C. **Correct.** Panipat shows how firearms mattered when combined with fortification, manoeuvre and leadership.
+- D. **Incorrect.** This denies the documented role of field artillery within Babur's integrated battle-system.
+
+**Trap:** Firearms mattered through battle-system integration, not isolation.
+
+### Workbook MCQ 28 — Key
+**Answer: D.**
+
+**Explanation:** Topic 06 repeatedly distinguishes dynastic victory from full imperial consolidation.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Babur's victory at Panipat led directly to his occupation of Delhi; he did take the city.
+- B. **Incorrect.** Ibrahim Lodi was killed at Panipat in 1526, ending his rule immediately, not ten years later.
+- C. **Incorrect.** Panipat ended Lodi dynastic rule at the centre, a consequence far beyond a minor skirmish.
+- D. **Correct.** Panipat ended Lodi dynastic rule at the centre, but Babur still faced Rajput and Afghan resistance before wider consolidation.
+
+**Trap:** 1526 ended Lodi central rule but not all Afghan and Rajput resistance.
+
+### Workbook MCQ 29 — Key
+**Answer: A.**
+
+**Explanation:** Source criticism is central to this topic.
+
+**Option-wise explanation:**
+- A. **Correct.** Source criticism is central to this topic.
+- B. **Incorrect.** It is a memoir/chronicle tradition, not a fiscal survey, and predates the Lodi-era founding of Agra.
+- C. **Incorrect.** Its authenticity and transmission are themselves disputed, so "unquestionably autograph" overstates a certainty the topic withholds.
+- D. **Incorrect.** The topic treats it as one source among several to be cross-checked, not a replacement for other chronicle traditions.
+
+**Trap:** Source criticism is core method here, not decorative garnish.
+
+### Workbook MCQ 30 — Key
+**Answer: B.**
+
+**Explanation:** Jaunpur is a serious regional-state actor, not a decorative footnote.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Jaunpur under the Sharqis was Delhi's major eastern rival, the opposite of irrelevant.
+- B. **Correct.** It was the strongest eastern rival whose defeat mattered to Bahlul Lodi's consolidation.
+- C. **Incorrect.** Jaunpur was a functioning Sharqi kingdom with its own court and military power, not merely a temple town.
+- D. **Incorrect.** Timur's 1398 campaign targeted Delhi and the north-west; Jaunpur's conquest came later, by Bahlul Lodi, not Timur.
+
+**Trap:** Jaunpur was a real rival state, not a decorative appendix to Delhi.
+
+### Workbook MCQ 31 — Key
+**Answer: C.**
+
+**Explanation:** Recovery in the Delhi-Agra-doab core is a major counter-trap in the topic.
+
+**Option-wise explanation:**
+- A. **Incorrect.** This overstates Timur's raid into a permanent, total economic death the sources do not support.
+- B. **Incorrect.** Agra's later founding and Delhi's continued function as a capital contradict a permanent urban vanishing.
+- C. **Correct.** Political fragmentation did not prevent roads, agrarian recovery and urban revival in parts of north India.
+- D. **Incorrect.** Persian chancery practice continued through the Lodi period, not halted after Timur's raid.
+
+**Trap:** Selective recovery can coexist with fragmentation.
+
+### Workbook MCQ 32 — Key
 **Answer: D.**
 
 **Explanation:** Caution about individual monuments does not cancel the broader architectural significance of the phase.
 
-### Semantic-completeness coverage drills — Medieval Topic 06
+**Option-wise explanation:**
+- A. **Incorrect.** Attribution and chronology debates call for caution in detail, not for ignoring the phase altogether.
+- B. **Incorrect.** The phase's main architectural significance lies in tomb forms and garden settings, not fort walls specifically.
+- C. **Incorrect.** Platform and garden-tomb features are read as a direct bridge to later Mughal funerary architecture.
+- D. **Correct.** It offers transitional tomb forms, platform use and garden settings that help explain later Mughal funerary developments.
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Was Timur the cause of decline? | pre-1388 structures → route/sack → effects → regional continuity | sole cause |
-| B | Read Timur sources. | Timurid memoir/court claim → Indian chronicle → coin/architecture → number caution | casualty audit |
-| C | Assess Sayyid rule. | legitimacy → ruler ladder → tribute/revenue → territorial limits → regional powers | non-history |
-| D | Explain Bahlul's recovery. | Afghan networks → accession → alliances → Jaunpur → limits | inherent democracy |
-| E | Evaluate Sikandar. | Agra + revenue/market + noble discipline + culture/religion → source limits | tolerant/intolerant binary |
-| F | Explain Ibrahim's crisis. | centralization → chiefs/rebellions → Daulat/Alam/Rana Sanga → Babur | personal failure alone |
-| G | Analyse Panipat. | route → artillery/carts/tulughma/cavalry → command/politics → numbers caution | artillery alone |
-| H | Trace continuity. | revenue/chancery/cities/coinage/local staff → Mughal adaptation | instant 1526 rupture |
+**Trap:** Chronology caution does not erase the transitional architectural value of the Sayyid-Lodi phase.
 
-**PYQ status:** all four retained questions are adjacent-owned; none is routed
-directly to Topic 06.
+### Workbook MCQ 33 — Key
+**Answer: A.**
+
+**Explanation:** Fragmentation preceded the raid, which intensified rather than created it.
+
+**Option-wise explanation:**
+- A. **Correct.** Pre-1398 faction and provincial autonomy refute a sole-cause explanation without minimizing the sack.
+- B. **Incorrect.** Later battlefield tactics do not establish the condition of Delhi before Timur.
+- C. **Incorrect.** Later Lodi recovery does not by itself prove the pre-invasion fragmentation.
+- D. **Incorrect.** Later architecture demonstrates continuing urban culture, not the prior structural cause.
+
+**Trap:** Confusing a severe catalytic shock with the origin of every prior weakness.
+
+### Workbook MCQ 34 — Key
+**Answer: B.**
+
+**Explanation:** Campaign claims and sovereign administration require different evidence.
+
+**Option-wise explanation:**
+- A. **Incorrect.** A raid and carried booty establish violence and plunder, not an enduring administration.
+- B. **Correct.** Sustained appointments, revenue and coercive capacity would support a claim of continuing territorial rule.
+- C. **Incorrect.** A conqueror's rationale for invasion is not evidence of post-withdrawal administration.
+- D. **Incorrect.** Sayyid invocation of Timurid legitimacy did not make Delhi a continuously governed Timurid province.
+
+**Trap:** Equating Timurid symbolic claims or an invasion route with a lasting Indian empire.
+
+### Workbook MCQ 35 — Key
+**Answer: C.**
+
+**Explanation:** Regional base and cautious genealogy do not imply direct Timurid administration.
+
+**Option-wise explanation:**
+- A. **Incorrect.** A Timurid connection did not make Delhi a provincial unit administered from Samarqand.
+- B. **Incorrect.** Statement 2 is unsupported even if the ancestry claim also merits caution.
+- C. **Correct.** Khizr's north-western base preceded his capture of Delhi; claimed descent is legitimating tradition rather than proven genealogy.
+- D. **Incorrect.** Statement 2 conflates relationship and direct sovereignty.
+
+**Trap:** Treating genealogy and external patronage as independently verified administrative facts.
+
+### Workbook MCQ 36 — Key
+**Answer: D.**
+
+**Explanation:** The source sequence is invasion, Sayyid capture, Lodi accession, Panipat.
+
+**Option-wise explanation:**
+- A. **Incorrect.** The invasion preceded Khizr Khan's Delhi entry.
+- B. **Incorrect.** Bahlul replaced the Sayyid line after Khizr Khan's accession.
+- C. **Incorrect.** Babur's victory followed, rather than preceded, the Lodi founding.
+- D. **Correct.** These steps span the raid, Sayyid phase, Afghan Lodi phase and the Lodi defeat.
+
+**Trap:** Turning Timur's connection with Khizr into an immediate Sayyid accession at the time of the sack.
+
+### Workbook MCQ 37 — Key
+**Answer: A.**
+
+**Explanation:** Regional state formation and cultural production coexisted with Delhi's claim-making.
+
+**Option-wise explanation:**
+- A. **Correct.** Jaunpur was a substantial eastern rival and cultural centre amid Delhi's reduced reach.
+- B. **Incorrect.** The Sharqis operated as a regional polity, not Timurid provincial officers.
+- C. **Incorrect.** Jaunpur's learning and architecture did not negate its military-political weight.
+- D. **Incorrect.** The Sharqi phase preceded Bahlul's Lodi reconquest and Babur's arrival.
+
+**Trap:** Reading a Delhi-centred chronicle's formal territorial claims as actual control of Jaunpur.
+
+### Workbook MCQ 38 — Key
+**Answer: B.**
+
+**Explanation:** Noble bargaining and monarchical discipline were in tension within the Afghan polity.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Elite consultation is not popular electoral equality.
+- B. **Correct.** Sikandar tried to strengthen royal supervision without eliminating chiefs' negotiation power.
+- C. **Incorrect.** Afghan armed noble networks were central to Lodi rule.
+- D. **Incorrect.** Neither total abolition of assignments nor total replacement of Delhi is supported.
+
+**Trap:** Converting 'first among equals' noble politics into democratic government for all subjects.
+
+### Workbook MCQ 39 — Key
+**Answer: C.**
+
+**Explanation:** Economic measures can improve movement and assessment without guaranteeing empire-wide outcomes.
+
+**Option-wise explanation:**
+- A. **Incorrect.** A Lodi core policy cannot establish results for independent regional states.
+- B. **Incorrect.** A measurement standard did not remove all elite-accounting conflict.
+- C. **Correct.** Octroi abolition facilitated grain trade; a gazz aided measurement, but local reach and outcomes remain uncertain.
+- D. **Incorrect.** Measurement, toll policy and road security are distinct interventions.
+
+**Trap:** Reading a named administrative instrument as proof of its complete social outcome.
+
+### Workbook MCQ 40 — Key
+**Answer: D.**
+
+**Explanation:** Neither passive kingship nor an empty political field explains the intervention.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Ibrahim's discipline and punishments show an active centralizing project.
+- B. **Incorrect.** The named Lodi dissidents and other powers demonstrate a contested political field.
+- C. **Incorrect.** Daulat Khan's and Alam Khan's appeals reveal dissension, not unanimous submission.
+- D. **Correct.** Ibrahim's relations with chiefs and Babur's opportunity are linked without assigning sole causation to one invitation.
+
+**Trap:** Describing Ibrahim as merely weak, rather than analysing the costs of his own centralizing strategy.
+
+### Workbook MCQ 41 — Key
+**Answer: A.**
+
+**Explanation:** A proximate royal narrative is valuable for tactics but not an independent audit of totals or subsequent sovereignty.
+
+**Option-wise explanation:**
+- A. **Correct.** Defensive frontage and manoeuvre worked together in a context of Afghan elite conflict; memoir numbers need scrutiny.
+- B. **Incorrect.** Artillery was integrated with carts, cavalry and command rather than acting alone.
+- C. **Incorrect.** A ruler's memoir does not independently certify precise losses.
+- D. **Incorrect.** Panipat ended Lodi rule but consolidation remained contested afterward.
+
+**Trap:** Turning battlefield technology and royal narrative into technological determinism or an instant empire.
+
+### Workbook MCQ 42 — Key
+**Answer: B.**
+
+**Explanation:** Material continuities check a picture of total collapse, without proving unlimited rule.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Surviving building and minting contradict total institutional extinction.
+- B. **Correct.** Tombs and coins document continued urban-cultural activity and changing claims at Delhi.
+- C. **Incorrect.** A later victor does not become patron of all earlier structures.
+- D. **Incorrect.** A mint's coin proves an act of authority, not effective government in every claimed province.
+
+**Trap:** Treating cultural continuity as either impossible under decline or proof of recovered all-India empire.
+
+### Workbook MCQ 43 — Key
+**Answer: C.**
+
+**Explanation:** Qualifying unverified numerical claims need not erase well-attested events.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Uncertain totals do not make the sack fictitious.
+- B. **Incorrect.** Court proximity and patronage are not independent verification of numerical precision.
+- C. **Correct.** The invasion's violence is secure; exact deaths and captives are not independently audited.
+- D. **Incorrect.** A later tomb's attribution does not count casualties of the earlier raid.
+
+**Trap:** Choosing between precise credulity and total skepticism instead of graded source confidence.
+
+### Workbook MCQ 44 — Key
+**Answer: D.**
+
+**Explanation:** The phases show changing scales of power, not uninterrupted empire or uniform ruin.
+
+**Option-wise explanation:**
+- A. **Incorrect.** Delhi-to-Palam is a rhetorical image of narrow reach, not proof of continuous vast territory.
+- B. **Incorrect.** The Sharqi state was both a political rival and a cultural centre.
+- C. **Incorrect.** Timur withdrew; Babur later defeated Ibrahim Lodi, not Timur.
+- D. **Correct.** Delhi contracted, Lodis restored part of the upper-Ganga reach, and Panipat left later consolidation unresolved.
+
+**Trap:** Flattening contraction, selective recovery and succession into one static 'decline' state.
+
+### Remediation map — predictable errors and their correcting Workbook MCQs
+
+| Predictable learner error | Correcting Workbook MCQs |
+| --- | --- |
+| Treating Agra as decorative, coastal or politically marginal | 01, 10 |
+| Confusing gazz-i-Sikandari with military technology or coinage | 02 |
+| Flattening Sikandar Lodi into a single moral label | 03, 25 |
+| Ignoring Ibrahim Lodi's conflict with Afghan nobles and relatives | 04, 26 |
+| Treating Panipat as guns-alone determinism | 05, 06, 07, 27 |
+| Treating 1526 as instant all-India Mughal consolidation | 08, 28 |
+| Mishandling Timurid, Baburnama or memoir-source evidence | 13, 14, 15, 29 |
+| Equating Delhi's decline with India-wide collapse | 16, 21, 31 |
+| Confusing symbolic claim with durable sovereignty | 18, 22, 23, 30 |
+| Downgrading Jaunpur and the regional-state system | 04, 16, 30 |
+| Forgetting selective recovery in the Delhi-Agra-doab core | 09, 16, 17, 31 |
+| Missing the transitional value of Sayyid-Lodi architecture | 11, 12, 32 |
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -826,13 +1013,11 @@ directly to Topic 06.
 
 **Why this earns marks:** It secures chronology and prevents the common error of attaching every north-west frontier episode to Muhammad bin Tughlaq.
 
-**Demand decoding:** Treat “PYQ 01 - UPSC Prelims GS-I 2021 (adjacent chronology route; wording verified locally,…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** Frame a decline answer that links succession politics, elite fragmentation, fiscal-military strain, provincial assertion, Timur's catalytic raid and Panipat's limited finality without collapsing the whole story into one cause.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Verify each statement independently, eliminate by chronology, and state clearly that the key used here is inferred from locally preserved wording rather than an officially held answer row in this package.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**How to improve this answer:** For “PYQ 01 - UPSC Prelims GS-I 2021 (adjacent chronology route; wording verified locally,…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**How to improve this answer:** Add one sentence showing why the closest distractor fails on chronology so the elimination method becomes explicit, not assumed.
 
 #### Adjacent PYQ 02 - UPSC Prelims GS-I 2022 (adjacent frontier chronology; wording verified locally)
 
@@ -855,13 +1040,11 @@ Which of the statements given above is/are correct?
 
 **Why this earns marks:** It separates early frontier pressure from the famous Delhi-siege moment and trains ruler-event discipline.
 
-**Demand decoding:** Treat “With reference to Indian history, consider the following statements: 1. The first Mongol…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** Answer comparatively: define the chronology problem, verify each frontier statement separately, and avoid projecting Timur or later Lodi-Babur events back onto earlier Mongol episodes.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Test each statement against ruler chronology, then eliminate options one by one; finish by separating what is securely supported from what the repository does not endorse in this topic's bounded scope.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**How to improve this answer:** For “With reference to Indian history, consider the following statements: 1. The first Mongol…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**How to improve this answer:** Name the exact ruler-event mismatch in the rejected statement so the examiner sees a specific chronological correction rather than a guess.
 
 #### Adjacent PYQ 03 - UPSC GS-I 2020 (adjacent but highly useful source-criticism question; wording preserved in repository)
 
@@ -879,13 +1062,11 @@ Hence Persian literary sources do reflect the spirit of the age - but mainly the
 
 **Why this earns marks:** It turns the word *reflect* into a method question, names applicable source families and shows both value and limitation.
 
-**Demand decoding:** The directive **comment** requires a direct position on “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Treat this as a source-method question: explain why Persian literary texts are indispensable yet agenda-laden, then show how Topic 06 reads Timurid, Sayyid and Babur-era texts critically.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with a thesis on value plus limitation; then move through Timurid narratives, Sirhindi, the Baburnama and earlier Persian chronicles before closing with coins, inscriptions and architecture as material checks.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Strengthen the answer by adding one explicit line on whose experience Persian courtly texts do not represent well.
 
 #### Adjacent PYQ 04 - UPSC GS-I 2023 (adjacent Sultanate-wide technology question; wording preserved in repository)
 
@@ -903,13 +1084,11 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It connects technology with irrigation, architecture, administration and Panipat without reducing the issue to weapons alone.
 
-**Demand decoding:** The directive **answer** requires a direct position on “What were the major technological changes introduced during the Sultanate period? How did…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Treat technology as a society-and-state question: identify the main technological changes, then explain their social effect without reducing the answer to guns alone.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Group the answer into architecture, irrigation, administration and warfare; use Panipat only as a bounded example of how technology mattered through organisation and state capacity.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “What were the major technological changes introduced during the Sultanate period? How did…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one sentence separating technological adoption from automatic social progress so the answer remains analytical rather than celebratory.
 
 ### PYQ verification ledger and scope honesty
 
@@ -934,13 +1113,11 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It moves beyond the cliché of weak successors and builds a five-factor answer with causation.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the structural causes of the fragmentation of the Delhi Sultanate after 1388.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The demand is explanatory and bounded: define why Firuz's later arrangements hardened elite interests and then show how that weakened post-1388 central discipline without wandering into Timur or Panipat.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Use a three-step structure—hereditary office and assignments, stronger service families and factional autonomy, then reduced capacity of the centre to reshuffle, punish and command. End by linking these changes to the later fragmentation problem.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Explain the structural causes of the fragmentation of the Delhi Sultanate after 1388.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name the institutional channel more sharply—iqta/assignment control, office-holding families, slave-noble power—so the answer reads as mechanism, not generic decline language.
 
 #### Mains 02 - 10 marks
 
@@ -957,13 +1134,11 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It balances devastation, causation and continuity without either minimising or apocalyptic exaggeration.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the impact of Timur's invasion on the Delhi Sultanate. (Answer in 150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This is an assessment question: measure Timur's impact by combining immediate devastation, prestige collapse and political openings with the longer structural weakness that predated the raid.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with the thesis that Timur was a devastating catalyst, then move through sack and plunder, prestige collapse, openings for actors such as Khizr Khan, and a final qualification that India as a whole was not conquered or uniformly destroyed.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the impact of Timur's invasion on the Delhi Sultanate. (Answer in 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Make the numerical caution explicit by noting that casualty and loot figures are reported claims, while the fact of severe devastation is secure.
 
 #### Mains 03 - 15 marks
 
@@ -980,13 +1155,11 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It defines symbolism and substance separately and uses them as analytical categories, not rhetoric.
 
-**Demand decoding:** The directive **examine** requires a direct position on “"The Sayyid dynasty preserved the symbol of Delhi more than the substance of empire."…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The command is analytical, not descriptive: explain why the Sayyid dynasty preserved the symbol of Delhi more than the substance of empire by separating prestige from coercive reach.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Start with Khizr Khan's Timurid shadow and Delhi recovery, then explain tribute politics, limited territorial depth, regional pressures and the distinction between symbolic centrality and strong empire.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “"The Sayyid dynasty preserved the symbol of Delhi more than the substance of empire."…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** A stronger answer also states that Sayyid descent was claimed rather than proven and avoids language implying either no authority at all or a restored empire.
 
 #### Mains 04 - 15 marks
 
@@ -1003,13 +1176,11 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It joins political authority, revenue supervision and urban geography in one integrated answer.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse Sikandar Lodi's contribution to the reconstruction of north-Indian monarchy.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This asks for comparison inside one reign: show how Sikandar combined administrative strengthening with a religious-cultural record that cannot be flattened to one label.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Organise the answer into administration (Agra, accounts, gazz-i-Sikandari, octroi, roads/justice), then religion/culture (orthodoxy, coercive episodes, Persian learning and patronage), and end with a balanced judgement.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Analyse Sikandar Lodi's contribution to the reconstruction of north-Indian monarchy.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one sentence explaining why the same reign could sustain literary culture and sharper juristic policy simultaneously; that analytical bridge raises the answer above a list.
 
 #### Mains 05 - 20 marks
 
@@ -1027,13 +1198,11 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It directly addresses the word "alone" and integrates technology with tactics, leadership and politics.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Panipat (1526) was won by Babur not because of firearms alone, but because of a superior…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The question asks for causal integration: show how Babur's tactical superiority worked together with Ibrahim's political isolation rather than replacing politics with technology.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Use two paired halves—first Ibrahim's conflict with Afghan nobles and the Punjab opening; then Babur's artillery, araba, tulughma, cavalry and disciplined command. The conclusion must state why 'guns alone' is insufficient.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Panipat (1526) was won by Babur not because of firearms alone, but because of a superior…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Make the coalition dimension explicit by naming Daulat Khan or Alam Khan and by noting that Panipat's success rested on a more coherent political-military system, not only better equipment.
 
 #### Mains 06 - 20 marks
 
@@ -1050,10 +1219,8 @@ Thus Sultanate technology influenced society chiefly by enlarging **state capaci
 
 **Why this earns marks:** It avoids both collapse-romance and progress-romance, which is exactly what examiners reward in higher-order answers.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “"The decline of the Delhi Sultanate was also an age of regionalisation, selective recovery…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This is a concluding synthesis: you must explain why 1526 marks dynastic replacement and transition while still preserving institutional continuity and unfinished consolidation.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with Panipat as a watershed; then show Lodi central collapse, Babur's inheritance of administrative forms, regionalisation plus selective recovery, and the need for further warfare before wider consolidation. Close with continuity through change.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “"The decline of the Delhi Sultanate was also an age of regionalisation, selective recovery…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** The answer improves when it names the surviving institutional forms—Persian chancery, revenue assignments, mints, qazis—and pairs them with later battles to prove that continuity and incompleteness coexisted.

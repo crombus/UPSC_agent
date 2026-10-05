@@ -98,28 +98,43 @@ READ: CLASSIFY -> IDENTIFY RAIL/ACTOR -> TRACE MECHANISM -> TEST RISK -> EVALUAT
 
 | Item | Exact meaning / dated status |
 |---|---|
-| Services | Heterogeneous trade, transport, tourism, finance, real estate, professional, public, health, education and personal activities |
+| Services | Heterogeneous trade, transport, tourism, finance, real estate, professional, public, health,
+   education and personal activities |
 | H1 FY26 | Services share in GDP 53.6%; services GVA growth 9.3%, Economic Survey 2025-26 |
 | Employment | About 30% of total employment; 61.9% of urban employment in Q1-Q2 FY26 average |
-| IT-BPM / GCC | Information Technology-Business Process Management / Global Capability Centre; tradable knowledge services |
+| IT-BPM / GCC | Information Technology-Business Process Management / Global Capability Centre; tradable
+   knowledge services |
 | Servicification | Design, finance, software, logistics, maintenance and after-sales embedded in manufacturing |
 | DPI | Digital public infrastructure: interoperable identity, payment, document or data rails |
 | Aadhaar / DigiLocker | Identity-authentication rail / issuer-sourced digital-document rail |
-| PSS Act / RBI | Payment and Settlement Systems Act, 2007 / Reserve Bank of India; RBI authorises and regulates payment systems |
-| UPI / NPCI / PSP / TPAP | Unified Payments Interface / National Payments Corporation of India / payment service provider bank / third-party application provider |
-| IMPS / NEFT / RTGS | Immediate Payment Service / National Electronic Funds Transfer: 24x7 batch from 16 Dec 2019 / Real-Time Gross Settlement: 24x7 from 14 Dec 2020 |
+| PSS Act / RBI | Payment and Settlement Systems Act, 2007 / Reserve Bank of India; RBI authorises and regulates
+   payment systems |
+| UPI / NPCI / PSP / TPAP | Unified Payments Interface / National Payments Corporation of India / payment
+   service provider bank / third-party application provider |
+| IMPS / NEFT / RTGS | Immediate Payment Service / National Electronic Funds Transfer: 24x7 batch from 16 Dec
+   2019 / Real-Time Gross Settlement: 24x7 from 14 Dec 2020 |
 | MDR / NFS | Merchant Discount Rate / National Financial Switch for interbank ATMs |
-| Digital lending abbreviations | RE: regulated entity; LSP: lending service provider; DLA: digital lending app; KFS: Key Fact Statement; APR: annual percentage rate |
-| Digital lending status | RBI Directions 8 May 2025; RE remains liable for LSP; direct flows, KFS/APR, cooling-off and grievance |
+| Digital lending abbreviations | RE: regulated entity; LSP: lending service provider; DLA: digital lending app;
+   KFS: Key Fact Statement; APR: annual percentage rate |
+| Digital lending status | RBI Directions 8 May 2025; RE remains liable for LSP; direct flows, KFS/APR,
+   cooling-off and grievance |
 | DLG / FLDG | Default or First Loss Default Guarantee; eligible cover capped at 5% of specified portfolio |
-| NBFC-AA / FIP / FIU | Non-Banking Financial Company-Account Aggregator / financial information provider / financial information user |
-| Account Aggregator status | RBI Directions 28 Nov 2025; consented data transfer, no transaction support or customer financial-information residence |
-| CBDC / e-rupee | RBI liability and legal tender; retail and wholesale pilots continued in RBI FAQ updated 29 Apr 2026 |
-| VDA / PMLA / FIU-IND | Virtual Digital Asset / Prevention of Money Laundering Act / Financial Intelligence Unit-India; tax sections 115BBH/194S and reporting duties do not confer legal-tender status |
-| ONDC / DPIIT | Open Network for Digital Commerce / Department for Promotion of Industry and Internal Trade; open protocols across buyer, seller and service applications, not one marketplace |
-| Platform market | Multi-sided matching with network effects, switching costs, data advantages and possible winner-take-most dynamics |
-| CCI / draft digital law | Competition Commission of India enforces existing law; March 2024 ex-ante draft not enacted by cutoff |
-| DPDP / MeitY | Digital Personal Data Protection Act, 2023 / Ministry of Electronics and Information Technology; Rules notified 13 Nov 2025 with phased commencement |
+| NBFC-AA / FIP / FIU | Non-Banking Financial Company-Account Aggregator / financial information provider /
+   financial information user |
+| Account Aggregator status | RBI Directions 28 Nov 2025; consented data transfer, no transaction support or
+   customer financial-information residence |
+| CBDC / e-rupee | RBI liability and legal tender; retail and wholesale pilots continued in RBI FAQ updated 29
+   Apr 2026 |
+| VDA / PMLA / FIU-IND | Virtual Digital Asset / Prevention of Money Laundering Act / Financial Intelligence
+   Unit-India; tax sections 115BBH/194S and reporting duties do not confer legal-tender status |
+| ONDC / DPIIT | Open Network for Digital Commerce / Department for Promotion of Industry and Internal Trade;
+   open protocols across buyer, seller and service applications, not one marketplace |
+| Platform market | Multi-sided matching with network effects, switching costs, data advantages and possible
+   winner-take-most dynamics |
+| CCI / draft digital law | Competition Commission of India enforces existing law; March 2024 ex-ante draft not
+   enacted by cutoff |
+| DPDP / MeitY | Digital Personal Data Protection Act, 2023 / Ministry of Electronics and Information
+   Technology; Rules notified 13 Nov 2025 with phased commencement |
 | Data localisation | RBI's 6 Apr 2018 payment-data rule has a sector-specific perimeter |
 
 ## Prelims traps

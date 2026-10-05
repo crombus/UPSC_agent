@@ -6,927 +6,662 @@ topic_key: medieval-indian-history-02
 
 ## BASIC MCQS / REMEDIATION
 
-### Hard MCQ 01
+### Workbook MCQ 01
+Which background most plausibly explains why Ghazni could become the seat of a new frontier power in the tenth century?
+
+- A. Samanid use of Turkic military commanders allowed a frontier office at Ghazni to turn into dynastic power.
+- B. Ghazni had already been the capital of the Delhi Sultanate.
+- C. Ghazni emerged only after Muizz al-Din's victory at Tarain II.
+- D. Ghazni rose because the Cholas sought an Afghan alliance.
 
-**Question:** Which statement best distinguishes the three political phases?
+### Workbook MCQ 02
+Which statement best captures Sabuktigin's place in Topic 02?
+
+- A. He annexed the whole Ganga valley after 1018.
+- B. He consolidated Ghazni and fought Jayapala before Mahmud expanded the state.
+- C. He wrote Kitab al-Hind to justify the Somnath raid.
+- D. He was the Ghurid commander defeated in Gujarat in 1178.
 
-- A. Mahmud's Ghaznavids held Punjab but did not found the Delhi Sultanate; Muizz al-Din's Ghurids opened wider conquest; post-1206 rulers consolidated an Indian-centred Sultanate.
-- B. Aibak ruled independently before Tarain.
-- C. The Ghurids were a branch of the Delhi Sultanate created by Iltutmish.
-- D. Mahmud and Muizz al-Din were titles of one ruler.
+### Workbook MCQ 03
+Consider the following sequence of events: 1. Somnath raid 2. Defeat of Jayapala near Peshawar 3. Mathura-Kanauj raid 4. Defeat of Anandapala and overrun of Nandana. Which is the correct chronological order?
+
+- A. 2-3-4-1
+- B. 4-2-3-1
+- C. 2-4-3-1
+- D. 3-2-4-1
 
-**Answer: A** - Mahmud's Ghaznavids held Punjab but did not found the Delhi Sultanate; Muizz al-Din's Ghurids opened wider conquest; post-1206 rulers consolidated an Indian-centred Sultanate.
+### Workbook MCQ 04
+Which campaign-outcome pairing is correctly matched?
+
+- A. 1018 Mathura-Kanauj raid - permanent Ghaznavid province in the middle Ganga valley
+- B. 1025 Somnath raid - durable annexation of Gujarat
+- C. 1191 Tarain I - extinction of Chahamana military capacity
+- D. 1194 Chandawar - defeat of Jaichandra and opening toward the upper Ganga region
 
-**Explanation:** Dynasty, objective and chronology must be separated.
+### Workbook MCQ 05
+How should the textbook statement that Mahmud made "seventeen" Indian expeditions be used in an exam answer?
+
+- A. As a conventional count that signals repeated campaigning, while noting that the counting of separate operations is not perfectly uniform.
+- B. As proof that every expedition is equally documented with exact figures.
+- C. As evidence that all campaigns occurred after Somnath.
+- D. As an official Delhi Sultanate administrative classification.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 06
+Which set contains only territories that became Mahmud's more durable Indian gains rather than deep-plains raid targets?
+
+- A. Mathura, Kanauj and Somnath
+- B. Punjab and Multan
+- C. Gujarat and Bengal
+- D. Ajmer and Delhi
 
-### Hard MCQ 02
+### Workbook MCQ 07
+A historian emphasises roads, forts, remounts and intelligence between Ghazni and the Kabul-Jalalabad-Punjab zone. What is the best inference?
+
+- A. Mountain geography by itself mechanically guaranteed victory.
+- B. Religious zeal mattered more than all material factors combined.
+- C. Frontier conquest became sustainable only when geography was turned into usable infrastructure.
+- D. Once roads existed, interior Indian politics ceased to matter.
 
-**Question:** What best explains the Samanid connection to Ghaznavid rise?
+### Workbook MCQ 08
+Which statement about the 1025 Somnath raid is most defensible?
+
+- A. It can be reconstructed from one uncontested contemporary eyewitness record.
+- B. It proves that all temple attacks in medieval India had identical motives.
+- C. It ended with the immediate installation of a Ghaznavid governor at Anhilwara.
+- D. It joined wealth, prestige and religious-political symbolism, but its later memory far exceeds any simple one-source narrative.
 
-- A. The Samanids conquered Delhi in the tenth century.
-- B. The Samanid military-political order employed Turkic commanders within a Persianate court world.
-- C. The Samanids were a Rajput dynasty ruling Lahore.
-- D. The Samanids abolished military slavery throughout Central Asia.
+### Workbook MCQ 09
+Which evidentiary practice is safest when using later Persian narratives about Somnath?
+
+- A. Separate early evidence, later amplification, local traditions and modern political memory before making claims.
+- B. Assume every later dramatic speech or loot total is audited fact because it appears in Persian prose.
+- C. Treat one silence in a donor inscription as proof that nothing disruptive occurred.
+- D. Read Prithviraj Raso as the earliest and most direct Somnath report.
 
-**Answer: B** - The Samanid military-political order employed Turkic commanders within a Persianate court world.
+### Workbook MCQ 10
+Which limitation most clearly qualifies al-Biruni as a source?
+
+- A. He never engaged with Sanskrit learning.
+- B. His social observations are sharpened by learning yet narrowed by elite textual access and a north-western vantage.
+- C. He wrote only a battle chronicle for Mahmud's court.
+- D. He described only South Indian temple networks.
 
-**Explanation:** Alp-tigin's career grew from this mixed Persianate-Turkic setting.
+### Workbook MCQ 11
+Which source-description pair is correctly matched?
+
+- A. Bayhaqi - later Rajput heroic romance about Tarain
+- B. Hasan Nizami - Ghaznavid eyewitness account ending before Somnath
+- C. Minhaj-us-Siraj - thirteenth-century dynastic history preserving Ghurid genealogy and early Sultanate sequence
+- D. Prithviraj Raso - contemporary administrative register of Delhi
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 12
+How should Firishta be used in this topic?
+
+- A. As a direct contemporary auditor of Mahmud's eleventh-century army figures
+- B. As the best evidence that al-Utbi personally saw Somnath
+- C. As proof that all Rajput legends are historically exact
+- D. As a much later compilational witness whose narratives need checking against earlier texts and material evidence
 
-### Hard MCQ 03
+### Workbook MCQ 13
+Which piece of evidence most directly weakens a religion-alone explanation of Mahmud's Indian campaigns?
+
+- A. Ghaznavid armies could include Hindu officers or Jat soldiers even while court rhetoric used ghazi language.
+- B. The Cholas controlled the Khyber Pass.
+- C. al-Biruni served as Prithviraj's general.
+- D. Somnath became a Mughal mint town immediately after 1025.
 
-**Question:** Which is the safest reading of frontier geography?
+### Workbook MCQ 14
+Match the event with the description: 1. 1001 2. c.1008-09 3. 1015 4. 1025; a. campaign frustrated by Kashmir terrain and weather b. Jayapala defeated near Peshawar/Waihind c. Somnath raid d. Anandapala defeated; Salt Range/Nandana overrun. Which option is correct?
+
+- A. 1-a, 2-b, 3-d, 4-c
+- B. 1-b, 2-d, 3-a, 4-c
+- C. 1-d, 2-a, 3-b, 4-c
+- D. 1-b, 2-a, 3-c, 4-d
 
-- A. Every army used one identical route.
-- B. Mountains permanently sealed India from Central Asia.
-- C. Routes became militarily effective only when combined with bases, roads, logistics, intelligence and political opportunity.
-- D. The Khyber alone made conquest inevitable.
+### Workbook MCQ 15
+Which statement best captures the textbook's treatment of Rajput resistance?
+
+- A. Rajput polities offered no serious frontier resistance before 1192.
+- B. Rajput defeat is explained sufficiently by a lack of personal bravery.
+- C. Resistance was real and sometimes successful, but supra-regional coordination and strategic follow-through were uneven.
+- D. The Shahis, Chauhans and Gahadavalas always fought as a permanent united command.
 
-**Answer: C** - Routes became militarily effective only when combined with bases, roads, logistics, intelligence and political opportunity.
+### Workbook MCQ 16
+Which statement about the fall of the Hindu Shahis is correct?
+
+- A. It occurred in a single battle and ended all frontier resistance at once.
+- B. It followed immediately after Tarain II.
+- C. It was caused by Bengal's naval decline.
+- D. It was a prolonged frontier struggle in which defeats of Jayapala and Anandapala were major steps rather than the whole story.
 
-**Explanation:** Geography enabled and constrained; it did not decide outcomes by itself.
+### Workbook MCQ 17
+Which use of Kitab al-Hind is methodologically strongest?
+
+- A. Using it comparatively for religion, science and social categories while still flagging its elite, textual and regional limits.
+- B. Treating it as a neutral census of all Indian communities.
+- C. Using it as a later Sufi malfuz collection.
+- D. Ignoring its conceptual vocabulary because it offers only military numbers.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 18
+Why did the Ghurid move into north India intensify after the western-centred option narrowed?
+
+- A. Because the Delhi Sultanate invited Muizz al-Din eastward.
+- B. Rivalry with Ghaznavids, pressure in the west and the opening through Punjab made India the more viable field of expansion.
+- C. Because Ghur already ruled Kannauj through matrimonial alliance.
+- D. Because the Chahamanas occupied Ghazni on the Ghurids' behalf.
 
-### Hard MCQ 04
+### Workbook MCQ 19
+What was the chief analytical significance of Muizz al-Din's defeat in Gujarat in 1178?
+
+- A. It ended all Ghurid interest in India permanently.
+- B. It immediately transferred Delhi to the Ghurids.
+- C. It demonstrated that the desert-Gujarat route could fail badly and encouraged a Punjab-first strategy instead.
+- D. It proved Rajput states never lost a later battle.
 
-**Question:** Why is military slavery historically significant here?
+### Workbook MCQ 20
+Which sequence best represents the main Ghurid route to wider conquest in India?
+
+- A. Chandawar -> Tarain II -> Gujarat victory -> capture of Multan
+- B. Bengal raids -> Somnath -> Lahore -> Tarain I
+- C. Tarain II -> Gujarat defeat -> Multan/Uchch -> Tarain I
+- D. Multan/Uchch -> Gujarat defeat -> Lahore/Punjab base -> Tarain I -> Tarain II -> Chandawar
 
-- A. It meant all cavalrymen were chattel with no political agency.
-- B. It was unique to India and unknown in West Asia.
-- C. It eliminated succession conflict.
-- D. It created trained service commanders dependent on rulers, though such commanders could later found their own powers.
+### Workbook MCQ 21
+What made Tabarhinda especially important in the run-up to Tarain?
+
+- A. Its seizure threatened the Chahamana frontier and forced Prithviraj into a major response.
+- B. It was the port from which Mahmud sailed to Somnath.
+- C. It housed al-Biruni's Sanskrit school.
+- D. It was Jaichandra's capital on the Ganga.
 
-**Answer: D** - It created trained service commanders dependent on rulers, though such commanders could later found their own powers.
+### Workbook MCQ 22
+Which factor most clearly explains the reversal between 1191 and 1192 without resorting to inevitabilism?
+
+- A. Prithviraj never fielded a serious force in 1191.
+- B. The Ghurids returned after defeat with reorganised forces, tactical learning and better use of mounted harassment and reserves.
+- C. Tarain II was won solely because gunpowder reached north India.
+- D. Muizz al-Din was absent from the second campaign.
 
-**Explanation:** Aibak's career shows both dependence and mobility.
+### Workbook MCQ 23
+Which interpretation of Prithviraj's defeat is most defensible?
+
+- A. The Sanyogita romance by itself explains the loss.
+- B. Tarain II shows Rajput armies had no battlefield capacity whatsoever.
+- C. Political rivalry, fragmented coordination and Ghurid adaptation matter more than later romantic legend.
+- D. Jaichandra commanded the Chahamana cavalry wing at Tarain II.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 24
+What did Chandawar in 1194 do most directly?
+
+- A. Restore Ghaznavid authority in Lahore.
+- B. Create instant uniform control from Gujarat to Bihar.
+- C. Replace every local elite in the doab overnight.
+- D. Break Jaichandra's power and open the upper Ganga valley to deeper Ghurid advance and plunder.
 
-### Hard MCQ 05
+### Workbook MCQ 25
+Which early post-Tarain policy is described most accurately?
+
+- A. The Ghurids initially used vassalage and retained local rulers in places such as Delhi-Ajmer before rebellions pushed fuller occupation.
+- B. They abolished every intermediary immediately after Tarain II and administered every village directly.
+- C. They withdrew from Delhi to focus only on Khurasan.
+- D. They declared Bakhtiyar Khalji king of Ajmer in 1192.
 
-**Question:** Which source is a panegyrical court narrative of early Ghaznavid campaigns?
+### Workbook MCQ 26
+Which set of places best fits the fort-and-route strategy associated with Aibak's Indian operations before 1206?
+
+- A. Madurai, Kanchi and Tanjavur
+- B. Hansi, Samana, Bayana and Gwalior
+- C. Somnath, Dwarka and Cambay
+- D. Waihind, Ghazni and Bukhara
 
-- A. al-Utbi's Kitab al-Yamini.
-- B. Prithviraj Raso.
-- C. al-Biruni's Kitab al-Hind.
-- D. Tabaqat-i Nasiri.
+### Workbook MCQ 27
+Which statement about Bakhtiyar Khalji's eastern thrust is most accurate?
+
+- A. It instantly ended every Sena successor centre in Bengal.
+- B. It was a naval campaign coordinated from Somnath.
+- C. It damaged major monasteries in Bihar and displaced the Sena court from Nadia, but control remained uneven and contested.
+- D. It belongs to Mahmud's eleventh-century phase.
 
-**Answer: A** - al-Utbi's Kitab al-Yamini.
+### Workbook MCQ 28
+What does the temporary inability to retain Anhilwara after a Ghurid force reached it best illustrate?
+
+- A. That Gujarat had never been invaded from the north-west.
+- B. That Muizz al-Din preferred naval expansion.
+- C. That Rajput states always fought as a single coordinated union.
+- D. That operational reach could exceed garrison capacity and long-term consolidation.
 
-**Explanation:** al-Utbi is valuable but shaped by courtly victory rhetoric.
+### Workbook MCQ 29
+A student says, "The Rajputs lost because Turks simply had better horses." Which correction is strongest?
+
+- A. Horses mattered, but the larger issue was an interacting military system of mobility, command, reserves, finance, intelligence and frontier bases.
+- B. The problem was only that Rajputs never used cavalry at all.
+- C. Elephants always defeated mounted archers, so the premise is impossible.
+- D. Weapons technology was identical, so no explanation is needed.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 30
+Which source judgement is incorrect?
+
+- A. Chahamana inscriptions help reconstruct royal claims but remain eulogistic.
+- B. Prithviraj Raso is a near-contemporary eyewitness battle report usable as literal chronology.
+- C. Coins and inscriptions can corroborate titles, occupation and negotiated authority.
+- D. Hasan Nizami reflects conquest politics through a courtly lens rather than neutral reportage.
 
-### Hard MCQ 06
+### Workbook MCQ 31
+Which historiographical approach is most defensible for this topic?
+
+- A. Use only court chronicles because inscriptions are silent on ideas.
+- B. Reduce every campaign to communal hatred and dismiss revenue or logistics.
+- C. Triangulate chronicles, inscriptions, coins, archaeology and later memory, while asking what each genre can and cannot prove.
+- D. Treat later nationalist memory as sufficient evidence for eleventh-century operational detail.
 
-**Question:** Which source-method statement is correct?
+### Workbook MCQ 32
+Which conclusion best respects the topic boundary at 1206?
+
+- A. The death of Muizz al-Din is irrelevant because Topic 02 continues through the whole Mamluk Sultanate.
+- B. Aibak's independent reign after 1206 is the central subject of Topic 02.
+- C. Iltutmish's consolidation should replace discussion of Tarain and Chandawar here.
+- D. Topic 02 ends with the Ghurid conquest-phase opening; the independent Sultanate consolidation after 1206 belongs to Topic 03.
 
-- A. Later chronicles are worthless by definition.
-- B. A source's date, genre, patron and distance from the event must be established before using its report.
-- C. Inscriptions always provide complete social history.
-- D. Contemporary sources need no corroboration.
+### Workbook MCQ 33
+A researcher quotes al-Utbi's Kitab al-Yamini as direct evidence for events inside the Somnath shrine in 1025–26. What is the decisive chronological objection?
+
+- A. Al-Utbi's court narrative ends before Somnath; its Ghaznavid panegyric cannot directly report that campaign.
+- B. Al-Utbi was a later Deccan compiler writing after the Mughal period.
+- C. Somnath was a Ghurid conquest after the Second Battle of Tarain.
+- D. Kitab al-Yamini is al-Biruni's Sanskrit ethnography rather than a court narrative.
 
-**Answer: B** - A source's date, genre, patron and distance from the event must be established before using its report.
+### Workbook MCQ 34
+Why is Bayhaqi particularly useful for reconstructing Ghaznavid institutions but insufficient as a full narrative of Mahmud's Indian campaigns?
+
+- A. He wrote a complete archaeological survey of every Punjab garrison but no court history.
+- B. His chancery position illuminated court and fiscal practice, while his surviving work centres largely on the period after Mahmud.
+- C. He composed the contemporary Sanskrit Prithviraja Vijaya.
+- D. His only evidence consists of nineteenth-century nationalist retellings.
 
-**Explanation:** Source criticism ranks and cross-checks rather than automatically accepting or rejecting.
+### Workbook MCQ 35
+Which chain best captures how the Ghaznavid defeat at Dandanqan affected their Indian frontier strategy?
+
+- A. Seljuq victory → immediate foundation of the Delhi Sultanate by Mahmud.
+- B. Dandanqan → immediate Ghurid conquest of Bengal before Tarain.
+- C. Seljuq victory in the west → territorial contraction → greater Ghaznavid orientation toward Lahore and Punjab.
+- D. Dandanqan → durable Ghaznavid annexation of Gujarat after Somnath.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 36
+How did the roles of Ghiyath al-Din and Muizz al-Din differ within the Ghurid expansion?
+
+- A. Ghiyath founded the Delhi Sultanate after 1206 while Muizz ruled only Sind under the Umayyads.
+- B. Both were Ghaznavid heirs jointly ruling Lahore after Mahmud's death.
+- C. Muizz governed only the Deccan while Ghiyath led Tarain I.
+- D. Ghiyath concentrated on western theatres while Muizz used Ghazni to develop the Indian theatre.
 
-### Hard MCQ 07
+### Workbook MCQ 37
+An excavated fort yielded occupation layers consistent with Ghurid operations, but no continuous revenue records. Which conclusion is warranted?
+
+- A. A Ghurid military foothold is plausible, but dense, continuous fiscal control remains unproven.
+- B. The entire surrounding region paid uninterrupted revenue to Delhi from that date.
+- C. The fort alone establishes the precise size of Muizz al-Din's field army.
+- D. Material occupation disproves any subsequent local rebellion.
 
-**Question:** Why can al-Utbi not serve as the direct account of Somnath 1025?
+### Workbook MCQ 38
+Which comparison best avoids both denial of Somnath's religious rhetoric and an exceptionalist account of every temple attack?
+
+- A. Assume that because Indian rulers also attacked temples, Mahmud's iconoclastic rhetoric was invented.
+- B. Study its Ghaznavid religious and court language alongside wealth and political symbolism, and compare case-specific intra-Indian attacks on rival shrines.
+- C. Assume every temple attack in every polity had exactly one motive and identical consequences.
+- D. Conclude that a raid on a prestigious shrine necessarily created a Gujarat revenue administration.
 
-- A. He wrote only in Sanskrit.
-- B. He lived in the sixteenth century.
-- C. His narrative closes before that campaign.
-- D. He was a Gahadavala court poet.
+### Workbook MCQ 39
+A later Raso recension supplies a detailed betrayal story about Tarain. Which research design best tests that story?
+
+- A. Accept the recension as a contemporary dispatch because it uses Prithviraj's name.
+- B. Reject all inscriptions because they also praise kings.
+- C. Compare dated Chahamana inscriptions and nearer court poetry with positioned Persian narratives, treating Raso as layered later memory.
+- D. Let a later epic's silence or detail settle precise battlefield manoeuvres alone.
 
-**Answer: C** - His narrative closes before that campaign.
+### Workbook MCQ 40
+Why does Khokhar resistance near Muizz al-Din's last campaigns matter to a model of conquest?
+
+- A. It proves the Ghaznavids never lost their Punjab base to the Ghurids.
+- B. It proves that no Ghurid commander ever held an Indian fort.
+- C. It dates the first Arab conquest of Sind to the thirteenth century.
+- D. It shows that even after Tarain and Chandawar, Punjabi control still required military enforcement and remained contested.
 
-**Explanation:** Chronology is the first source check.
+## MATCHING MCQ ANSWER KEY AND REMEDIATION
+
+### Workbook MCQ 01 — A
+- A. Correct. The Ghaznavid rise grew out of the Samanid frontier world in which military commanders such as Alp-tigin could convert office into rule.
+- B. Incorrect. Delhi became a conquest-centre only in the later Ghurid-Sultanate sequence, not in tenth-century Ghazni.
+- C. Incorrect. Tarain II belongs to 1192, whereas Ghazni had been a power centre since Alp-tigin and Sabuktigin long before that.
+- D. Incorrect. South Indian Chola politics had no role in creating the Ghazni frontier state described in this topic.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+**Trap:** reading Ghazni backward through Sultanate history instead of placing it in the Samanid-Afghan frontier setting.
+
+### Workbook MCQ 02 — B
+- A. Incorrect. The 1018 Ganga-valley raid was Mahmud's and did not create a whole-valley annexation in any case.
+- B. Correct. Sabuktigin stands between Alp-tigin and Mahmud as the ruler who stabilised Ghazni and pushed the Shahi frontier struggle forward.
+- C. Incorrect. Kitab al-Hind is associated with al-Biruni, not with Sabuktigin.
+- D. Incorrect. The Gujarat defeat of 1178 belongs to Muizz al-Din's Ghurid phase, almost two centuries later.
 
-### Hard MCQ 08
+**Trap:** collapsing Sabuktigin into either Mahmud's later raids or Muizz al-Din's much later Ghurid campaigns.
+
+### Workbook MCQ 03 — C
+- A. Incorrect. This places the 1018 raid before the Anandapala-Nandana frontier phase, which reverses the sequence.
+- B. Incorrect. Anandapala's defeat came after Jayapala's, not before it.
+- C. Correct. The secure order is 1001, c.1008-09, 1018, then 1025.
+- D. Incorrect. The Mathura-Kanauj raid followed the early Shahi wars rather than preceding them.
 
-**Question:** What is the principal limit of Prithviraj Raso for Tarain?
+**Trap:** memorising famous raids while losing the frontier-war chronology that made them possible.
+
+### Workbook MCQ 04 — D
+- A. Incorrect. The 1018 operation produced plunder and shock, not a lasting middle-Ganga province.
+- B. Incorrect. Mahmud returned after Somnath and did not hold Gujarat as a durable Ghaznavid possession.
+- C. Incorrect. Tarain I was a Ghurid defeat, so it cannot stand for Chahamana extinction.
+- D. Correct. Chandawar broke Jaichandra's power and widened Ghurid access into the upper Ganga zone.
 
-- A. It is a securely dated 1192 inscription.
-- B. It is an Arabic Ghaznavid fiscal manual.
-- C. It contains no mention of Prithviraj.
-- D. It is a layered later literary tradition, not a contemporary battle report.
+**Trap:** equating every spectacular victory or raid with immediate territorial incorporation.
+
+### Workbook MCQ 05 — A
+- A. Correct. The number is best handled as a textbook shorthand for frequency, not as a fully audited spreadsheet of identical operations.
+- B. Incorrect. Chronicle traditions do not verify every campaign with the same precision or numerical reliability.
+- C. Incorrect. Somnath came late in Mahmud's career, not before all the other expeditions.
+- D. Incorrect. The phrase describes Mahmud's raids, not a later Sultanate bureaucratic category.
 
-**Answer: D** - It is a layered later literary tradition, not a contemporary battle report.
+**Trap:** treating a conventional campaign count as if it were an uncontested administrative dataset.
+
+### Workbook MCQ 06 — B
+- A. Incorrect. These were famous raid targets, but Mahmud did not turn them into stable inland provinces.
+- B. Correct. Punjab and Multan formed the durable frontier base that outlasted the one-strike raids.
+- C. Incorrect. Gujarat was raided and Bengal was not a Ghaznavid gain under Mahmud.
+- D. Incorrect. Ajmer and Delhi enter the story through later Ghurid advances, not Mahmud's durable acquisitions.
 
-**Explanation:** It is valuable for memory, not unfiltered chronology.
+**Trap:** mistaking the most famous raid destinations for the areas of longest Ghaznavid control.
+
+### Workbook MCQ 07 — C
+- A. Incorrect. Terrain offered possibilities, but it had to be organised through roads, forts and supply systems.
+- B. Incorrect. The point of this evidence is logistical capacity, not the cancellation of every other motive.
+- C. Correct. The frontier became strategically usable when routes and bases converted physical space into repeatable campaigning capacity.
+- D. Incorrect. Infrastructure improved access, yet local coalitions, forts and rival dynasties still shaped outcomes.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+**Trap:** turning logistical explanation either into geographical determinism or into the denial of political contingency.
+
+### Workbook MCQ 08 — D
+- A. Incorrect. Somnath must be pieced together from layered evidence rather than a single transparent eyewitness chronicle.
+- B. Incorrect. Temple warfare had overlapping but not identical political, fiscal and symbolic contexts across cases.
+- C. Incorrect. Mahmud returned after the raid, so Gujarat was not secured as a regular Ghaznavid province.
+- D. Correct. This option preserves both the event's violence and the need to separate 1025 from later ideological memory.
 
-### Hard MCQ 09
+**Trap:** letting the fame of Somnath erase the difference between a raid, its source layers and its later political afterlife.
+
+### Workbook MCQ 09 — A
+- A. Correct. Source criticism begins by sorting chronology, genre and memory layers before drawing conclusions.
+- B. Incorrect. Literary elaboration and panegyric style prevent later Persian prose from functioning as automatic numerical proof.
+- C. Incorrect. Silence in a donor or genealogical record cannot by itself settle the scale or meaning of a violent event.
+- D. Incorrect. Prithviraj Raso is a later heroic tradition unrelated to being the earliest Somnath testimony.
 
-**Question:** Which sequence is correct?
+**Trap:** promoting a later narrative flourish into primary evidence without first checking date, genre and borrowing.
+
+### Workbook MCQ 10 — B
+- A. Incorrect. Al-Biruni is valuable precisely because he did engage deeply with Sanskrit knowledge traditions.
+- B. Correct. His comparative brilliance coexists with limits of interlocutor base, regional location and social reach.
+- C. Incorrect. Kitab al-Hind is a comparative scholarly work, not merely a campaign chronicle.
+- D. Incorrect. His interests ranged across religion, science, calendars and social categories, not only southern temples.
 
-- A. Alp-tigin at Ghazni -> Sabuktigin -> Mahmud.
-- B. Sabuktigin -> Muizz al-Din -> Alp-tigin.
-- C. Mahmud -> Alp-tigin -> Sabuktigin.
-- D. Jayapala -> Alp-tigin -> Mahmud.
+**Trap:** swinging from uncritical praise of al-Biruni to total trust in his representativeness for all of India.
+
+### Workbook MCQ 11 — C
+- A. Incorrect. Bayhaqi is a Persian chancery insider tied mainly to Ghaznavid administrative and court politics, not Rajput romance.
+- B. Incorrect. Hasan Nizami belongs to the early Indo-Persian conquest milieu, not the earlier Ghaznavid phase ending before Somnath.
+- C. Correct. Minhaj's Tabaqat-i Nasiri is crucial for Ghurid lineage, commanders and early Sultanate sequencing.
+- D. Incorrect. Prithviraj Raso is a layered later epic tradition rather than a contemporaneous Delhi register.
 
-**Answer: A** - Alp-tigin at Ghazni -> Sabuktigin -> Mahmud.
+**Trap:** memorising famous book names without fixing their dynasty, date and genre.
+
+### Workbook MCQ 12 — D
+- A. Incorrect. Firishta wrote centuries later and cannot function as a contemporary eleventh-century observer.
+- B. Incorrect. A later compiler cannot retroactively prove what al-Utbi did or did not witness.
+- C. Incorrect. Later compilations preserve memory and tradition, not blanket authentication of all legends.
+- D. Correct. Firishta is useful for later historiographical transmission, but only with careful corroboration.
 
-**Explanation:** This is the basic Ghaznavid rise sequence.
+**Trap:** mistaking a readable late synthesis for direct access to eleventh- or twelfth-century facts.
+
+### Workbook MCQ 13 — A
+- A. Correct. Mixed service personnel show that political and military practice was more complex than a simple civilisational bloc model.
+- B. Incorrect. The Cholas were not the frontier power determining Mahmud's north-western campaigns.
+- C. Incorrect. Al-Biruni was a scholar in the Ghaznavid world, not a Chahamana military commander.
+- D. Incorrect. The option invents a later Mughal institutional outcome unrelated to Mahmud's raid.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+**Trap:** confusing the presence of religious rhetoric with proof that every institutional choice followed a single motive.
+
+### Workbook MCQ 14 — B
+- A. Incorrect. This wrongly gives the Kashmir setback to 1001 and shifts Jayapala out of place.
+- B. Correct. Jayapala belongs to 1001, Anandapala/Nandana to c.1008-09, the Kashmir frustration to 1015, and Somnath to 1025.
+- C. Incorrect. It moves Anandapala ahead of Jayapala and scrambles the frontier chronology.
+- D. Incorrect. It turns the 1015 Kashmir attempt into the Somnath raid, which distorts both theatre and date.
 
-### Hard MCQ 10
+**Trap:** remembering isolated dates while losing the campaign map that links each date to a different theatre.
+
+### Workbook MCQ 15 — C
+- A. Incorrect. The Shahis, Tarain I and multiple regional battles show genuine resistance.
+- B. Incorrect. Satish Chandra rejects moralistic reduction to courage and instead analyses organisation and strategy.
+- C. Correct. This wording retains both Indian military capacity and the limits of wider coordination.
+- D. Incorrect. Alliances could form, but there was no permanent all-India unified command structure.
 
-**Question:** What does the Hindu Shahi resistance demonstrate?
+**Trap:** forcing the evidence into either total collapse or perfect unity, instead of a graded picture of capacity and limits.
+
+### Workbook MCQ 16 — D
+- A. Incorrect. The Shahi collapse was cumulative and stretched across multiple campaigns and leaders.
+- B. Incorrect. Tarain II belongs to the later Ghurid phase, long after the Shahi wars.
+- C. Incorrect. Bengal's maritime history does not explain the Afghan-Punjab frontier contest.
+- D. Correct. The Shahis fell through a sustained process of war, territorial loss and repeated pressure.
 
-- A. All Rajput states fought under one permanent command.
-- B. The frontier struggle was prolonged and included offensive coalitions, battles, forts and setbacks.
-- C. The Shahis defeated Mahmud permanently in 1001.
-- D. The Shahis surrendered without battle.
+**Trap:** compressing a long frontier attrition story into one dramatic battle label.
+
+### Workbook MCQ 17 — A
+- A. Correct. This captures both the text's analytical value and the cautions needed for representativeness.
+- B. Incorrect. Al-Biruni did not produce an all-India enumerative census in the modern sense.
+- C. Incorrect. Kitab al-Hind is neither a Sufi conversation record nor a devotional compilation.
+- D. Incorrect. The work is concept-rich and not reducible to campaign statistics.
 
-**Answer: B** - The frontier struggle was prolonged and included offensive coalitions, battles, forts and setbacks.
+**Trap:** using an analytical text either as a flawless survey or as if it were a completely different genre.
+
+### Workbook MCQ 18 — B
+- A. Incorrect. The Delhi Sultanate did not yet exist to issue such an invitation.
+- B. Correct. Strategic pressure and opportunity shifted Ghurid attention eastward toward Punjab and the Gangetic plain.
+- C. Incorrect. There was no prior Ghurid possession of Kannauj through marriage politics.
+- D. Incorrect. The Chahamanas were opponents on the frontier, not custodians of Ghazni for the Ghurids.
 
-**Explanation:** Jayapala and Anandapala complicate passive-collapse narratives.
+**Trap:** explaining the Ghurid turn to India by later institutions instead of twelfth-century strategic pressures.
+
+### Workbook MCQ 19 — C
+- A. Incorrect. Muizz al-Din remained active in India and later achieved major successes through another route.
+- B. Incorrect. Delhi became relevant only after the later Tarain-Chandawar sequence.
+- C. Correct. The defeat redirected strategy toward Punjab, where firmer bases and lines of operation could be built.
+- D. Incorrect. One Ghurid defeat in 1178 does not erase later reversals in 1192 and 1194.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+**Trap:** reading Gujarat 1178 either as a final stoppage or as an irrelevant hiccup instead of a strategic lesson.
+
+### Workbook MCQ 20 — D
+- A. Incorrect. It begins with the late consequence and inserts a Gujarat victory that never occurred.
+- B. Incorrect. Somnath belongs to Mahmud, not to Muizz al-Din's route of conquest.
+- C. Incorrect. The order is reversed; Multan/Uchch and Gujarat came before the Tarain battles.
+- D. Correct. This sequence tracks the eastward build-up from frontier footholds to the decisive Gangetic opening.
 
-### Hard MCQ 11
+**Trap:** mixing Mahmud's and Muizz al-Din's campaigns into one false conquest sequence.
+
+### Workbook MCQ 21 — A
+- A. Correct. Tabarhinda mattered because it turned frontier pressure into a direct Chahamana military confrontation.
+- B. Incorrect. Mahmud's Somnath route was not a sea voyage launched from Tabarhinda.
+- C. Incorrect. The fort has strategic significance here, not a scholarly institutional role in al-Biruni's career.
+- D. Incorrect. Jaichandra's sphere lay around Kannauj, not at Tabarhinda.
 
-**Question:** How should the 'seventeen invasions' formula be treated?
+**Trap:** missing how a single fort seizure can trigger a major field battle in frontier politics.
+
+### Workbook MCQ 22 — B
+- A. Incorrect. Tarain I itself proves that Prithviraj fielded a capable force able to defeat Muizz al-Din.
+- B. Correct. The key is learning after defeat, not a myth of automatic superiority.
+- C. Incorrect. Gunpowder is anachronistic for explaining Tarain II.
+- D. Incorrect. Muizz al-Din led the return campaign rather than sitting it out.
 
-- A. As a precisely audited contemporary number.
-- B. As proof that all campaigns had one motive.
-- C. As a conventional count whose total varies with the grouping of operations.
-- D. As a count of Ghurid battles after 1175.
+**Trap:** turning Tarain II into a miracle weapon story instead of a study in adaptation after defeat.
+
+### Workbook MCQ 23 — C
+- A. Incorrect. Romantic legend cannot replace analysis of coalition politics, campaign response and tactics.
+- B. Incorrect. Tarain I demonstrates substantial Rajput battlefield capacity against the same opponent.
+- C. Correct. This explanation keeps the focus on political-military structure rather than literary myth.
+- D. Incorrect. Jaichandra was a rival ruler, not Prithviraj's field commander at Tarain II.
 
-**Answer: C** - As a conventional count whose total varies with the grouping of operations.
+**Trap:** substituting later romance and folklore for the harder work of political explanation.
+
+### Workbook MCQ 24 — D
+- A. Incorrect. Chandawar advanced Ghurid fortunes; it did not revive Ghaznavid authority.
+- B. Incorrect. Even after Chandawar, conquest and consolidation remained uneven and staged.
+- C. Incorrect. Major victories disrupted coordination centres but did not erase all local elites at once.
+- D. Correct. The battle's immediate significance lay in crippling Jaichandra and widening access into the upper Ganga region.
 
-**Explanation:** Use key campaigns and a date range, not false precision.
+**Trap:** mistaking a decisive regional battle for instant total administrative transformation.
+
+### Workbook MCQ 25 — A
+- A. Correct. Early control often moved through subordinate arrangements before repeated rebellions demanded heavier occupation.
+- B. Incorrect. Scarce manpower made instant direct administration of every locality unrealistic.
+- C. Incorrect. Delhi-Ajmer became more central after Tarain rather than being abandoned.
+- D. Incorrect. Bakhtiyar's eastern role had nothing to do with a coronation at Ajmer.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+**Trap:** assuming conquest automatically produced fully centralised direct rule from the first month.
+
+### Workbook MCQ 26 — B
+- A. Incorrect. Those southern centres lie outside the north Indian conquest corridor of Topic 02.
+- B. Correct. These forts illustrate the north-western and doab-linked chain through which occupation was extended and secured.
+- C. Incorrect. These Gujarat coastal sites do not represent Aibak's fort-grid in the post-Tarain phase.
+- D. Incorrect. Waihind and Ghazni belong to the earlier frontier story, while Bukhara is outside this Indian fort sequence.
 
-### Hard MCQ 12
+**Trap:** losing the geography of consolidation and thereby confusing raided sites with held forts.
+
+### Workbook MCQ 27 — C
+- A. Incorrect. Sena power and regional resistance did not vanish in one blow everywhere.
+- B. Incorrect. Bakhtiyar's eastern drive was a fast cavalry-led land campaign, not a naval operation from western India.
+- C. Correct. The thrust was highly disruptive, yet it did not create uniform Bengal control overnight.
+- D. Incorrect. Bakhtiyar belongs to the later Ghurid expansion, not to Mahmud's era.
 
-**Question:** Which was Mahmud's most durable Indian territorial result?
+**Trap:** mistaking a dramatic strike on courts and monasteries for immediate, homogeneous state formation across the east.
+
+### Workbook MCQ 28 — D
+- A. Incorrect. The issue was not impossibility of invasion but difficulty of holding what had been reached.
+- B. Incorrect. The example concerns land campaigning and retention limits, not naval preference.
+- C. Incorrect. Failure to hold a city does not prove a timeless pan-Rajput unified command.
+- D. Correct. A force may win access or even capture, yet still lack the manpower and institutions for durable occupation.
 
-- A. Permanent annexation of Gujarat.
-- B. Direct rule over Bengal.
-- C. A Ghaznavid capital at Delhi.
-- D. Control in Punjab/Multan and the Lahore-linked frontier sphere.
+**Trap:** confusing demonstrable military penetration with completed consolidation.
 
-**Answer: D** - Control in Punjab/Multan and the Lahore-linked frontier sphere.
+### Workbook MCQ 29 — A
+- A. Correct. A single-animal explanation misses the wider organisational system that converted mobility into victory.
+- B. Incorrect. Rajput forces did use cavalry; the issue is comparative organisation, not total absence.
+- C. Incorrect. Elephants could be important, but they did not automatically negate mobile archery and reserve tactics.
+- D. Incorrect. The question demands a layered explanation, not a refusal to explain defeat at all.
 
-**Explanation:** Operational reach into the plains exceeded administrative reach.
+**Trap:** reducing a system-level military comparison to one vivid but incomplete battlefield image.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 30 — B
+- A. Incorrect. This judgement is sound because inscriptions illuminate claims while still needing genre caution.
+- B. Correct. Prithviraj Raso is a later layered epic tradition and cannot be treated as literal battlefield chronology.
+- C. Incorrect. Material evidence often helps verify authority, titles and sequences that literary texts exaggerate.
+- D. Incorrect. Hasan Nizami is indeed shaped by patronage and literary display rather than detached reporting.
 
-### Hard MCQ 13
+**Trap:** elevating a famous heroic text into an eyewitness war diary simply because it is culturally influential.
 
-**Question:** What does the 1018 Mathura-Kanauj campaign best illustrate?
+### Workbook MCQ 31 — C
+- A. Incorrect. Court chronicles are essential but incomplete without material and non-court comparison.
+- B. Incorrect. One-factor communal reduction erases strategic, fiscal and logistical evidence central to the topic.
+- C. Correct. Triangulation respects the different evidentiary reach and limits of each archive.
+- D. Incorrect. Later memory may matter for reception history, but it cannot substitute for contemporary operational evidence.
 
-- A. Deep rapid raiding could produce plunder and political shock without lasting annexation.
-- B. Ghaznavid settlement of the entire Ganga valley.
-- C. The end of all Pratihara and Gahadavala politics.
-- D. A Ghurid cavalry defeat.
+**Trap:** using one archive or one ideology to cancel the rest of the evidentiary field.
 
-**Answer: A** - Deep rapid raiding could produce plunder and political shock without lasting annexation.
+### Workbook MCQ 32 — D
+- A. Incorrect. The topic intentionally stops before the full Mamluk-Sultanate consolidation story.
+- B. Incorrect. Aibak's post-1206 independent reign belongs to the next topic, not the bounded invasion phase here.
+- C. Incorrect. Tarain and Chandawar are core to Topic 02 and cannot be displaced by later Sultanate developments.
+- D. Correct. This boundary keeps the workbook focused on invasion, conquest-opening and delegated expansion up to 1206.
 
-**Explanation:** Raid and rule must be separated.
+**Trap:** bleeding Topic 03's Sultanate consolidation backward into a workbook that should stop at the conquest threshold.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 33 — A
+- A. Correct. The source's narrative terminus excludes direct eyewitness description of the later raid.
+- B. Incorrect. Firishta, not al-Utbi, is the much later Deccan historian.
+- C. Incorrect. Somnath was raided by Mahmud in 1025–26, long before Tarain.
+- D. Incorrect. Al-Utbi wrote court panegyric; al-Biruni's comparative work is a different text.
 
-### Hard MCQ 14
+**Trap:** Before accepting vivid campaign details, check whether a source actually covers that campaign.
 
-**Question:** Which is the best multi-causal thesis on Mahmud?
+### Workbook MCQ 34 — B
+- A. Incorrect. The source is court/chancery history, not a comprehensive material survey.
+- B. Correct. An insider bureaucratic view supplies institutional detail, constrained by survival and period coverage.
+- C. Incorrect. Prithviraja Vijaya is a Chahamana Sanskrit court work, not Bayhaqi's.
+- D. Incorrect. Bayhaqi is a Ghaznavid-era author, not a modern retrospective account.
 
-- A. Only commercial trade explains the raids.
-- B. Frontier strategy, political legitimacy, revenue, Central Asian wars and religious rhetoric interacted in changing proportions.
-- C. Mahmud had no political interest in Punjab.
-- D. Religion was the sole cause of every campaign.
+**Trap:** Matching an author to genre is not enough: also test coverage dates and survival.
 
-**Answer: B** - Frontier strategy, political legitimacy, revenue, Central Asian wars and religious rhetoric interacted in changing proportions.
+### Workbook MCQ 35 — C
+- A. Incorrect. The independent Delhi Sultanate developed later, after Ghurid campaigns and 1206.
+- B. Incorrect. Eastern Ghurid expansion belongs to the much later late-twelfth/early-thirteenth-century sequence.
+- C. Correct. The western reversal narrowed Ghaznavid holdings and shifted their centre of gravity toward Punjab.
+- D. Incorrect. Somnath did not produce a durable Ghaznavid Gujarat province.
 
-**Explanation:** A ranked synthesis outperforms single-cause answers.
+**Trap:** A western defeat altered strategic geography; it did not instantly create a new Indian regime.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 36 — D
+- A. Incorrect. Neither brother was an Umayyad Sind commander or post-1206 Delhi founder.
+- B. Incorrect. The Ghurids were a distinct house from the Ghaznavids, not Mahmud's heirs.
+- C. Incorrect. The Indian frontier, not the Deccan, was Muizz's main theatre.
+- D. Correct. Division of strategic effort between the brothers supported simultaneous western and Indian operations.
 
-### Hard MCQ 15
+**Trap:** Do not confuse strategic cooperation between brothers with identical campaigns or dynasties.
 
-**Question:** Why were temples attractive campaign targets in some cases?
+### Workbook MCQ 37 — A
+- A. Correct. Military presence need not equal repeated tax extraction throughout a region.
+- B. Incorrect. Forts cannot by themselves prove the reach or duration of revenue administration.
+- C. Incorrect. A site layer does not quantify a field army.
+- D. Incorrect. Later resistance can coexist with an earlier garrison or occupation.
 
-- A. Every temple was attacked uniformly.
-- B. They were the only places with wealth in India.
-- C. They could combine wealth, royal patronage, urban centrality and religious symbolism.
-- D. Their destruction automatically transferred land administration.
+**Trap:** Evidence of possession at one point is not evidence of uniform sovereignty across space and time.
 
-**Answer: C** - They could combine wealth, royal patronage, urban centrality and religious symbolism.
+### Workbook MCQ 38 — B
+- A. Incorrect. Comparable political practices do not erase the raid's recorded religious claims.
+- B. Correct. A contextual comparison permits overlapping motives without making all episodes identical.
+- C. Incorrect. Mixed motives and distinct source settings bar a universal single-cause rule.
+- D. Incorrect. Symbolic attack and durable governance require different kinds of evidence.
 
-**Explanation:** Temple targeting requires contextual political economy.
+**Trap:** Contextualisation neither excuses nor erases a source's expressed legitimating language.
 
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
+### Workbook MCQ 39 — C
+- A. Incorrect. Named participants do not date the composition or verify its details.
+- B. Incorrect. Panegyric inscriptions need critical use, not automatic dismissal.
+- C. Correct. Independent near-contemporary checks and genre criticism distinguish event reconstruction from remembrance.
+- D. Incorrect. A layered literary tradition cannot alone authenticate tactical specifics.
 
-### Hard MCQ 16
+**Trap:** Hero-memory is historical evidence about memory, not automatically eyewitness reportage.
 
-**Question:** What evidence weakens a civilisation-war explanation of Ghaznavid armies?
+### Workbook MCQ 40 — D
+- A. Incorrect. Ghurids had displaced Ghaznavid remnants in Punjab before the later resistance.
+- B. Incorrect. Local resistance does not erase earlier Ghurid garrisons or commanders.
+- C. Incorrect. Sind's Umayyad-era conquest occurred centuries before Muizz's final campaign.
+- D. Correct. Continued resistance exposes the gap between battlefield breakthroughs and secure routine rule.
 
-- A. Ghaznavids avoided all conflict with Muslim rulers.
-- B. Punjab had no mixed population.
-- C. Mahmud never used religious rhetoric.
-- D. Hindu commanders and Jat soldiers served in Ghaznavid forces.
+**Trap:** A conquest can be consequential without being uncontested or fully consolidated.
 
-**Answer: D** - Hindu commanders and Jat soldiers served in Ghaznavid forces.
-
-**Explanation:** Composite service networks coexisted with coercion and ideology.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 17
-
-**Question:** Which statement on Somnath sources is correct?
-
-- A. Later Persian, Sanskrit, Jain, epigraphic and modern memory layers must be distinguished from early evidence.
-- B. One source silence proves no disruption.
-- C. al-Utbi personally witnessed the 1025 raid.
-- D. Prithviraj Raso is the primary Somnath source.
-
-**Answer: A** - Later Persian, Sanskrit, Jain, epigraphic and modern memory layers must be distinguished from early evidence.
-
-**Explanation:** The event and its memories form different evidentiary layers.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 18
-
-**Question:** Which statement best describes al-Biruni's method?
-
-- A. A later Rajput heroic poem.
-- B. Comparative inquiry using Sanskrit learning across religion, science and social thought.
-- C. Court panegyric devoted only to Mahmud's battles.
-- D. A tax register of Lahore.
-
-**Answer: B** - Comparative inquiry using Sanskrit learning across religion, science and social thought.
-
-**Explanation:** Kitab al-Hind is analytical rather than a conquest chronicle.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 19
-
-**Question:** What is a major limit of al-Biruni's India account?
-
-- A. He provides a complete village census.
-- B. He wrote before contact with India.
-- C. Its access is strongest to learned Brahmanical texts and north-western intellectual settings.
-- D. He knew no Indian language.
-
-**Answer: C** - Its access is strongest to learned Brahmanical texts and north-western intellectual settings.
-
-**Explanation:** Exceptional scholarship still had social and regional blind spots.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 20
-
-**Question:** What does Persianate most accurately describe?
-
-- A. A Rajput clan system.
-- B. A religion separate from Islam.
-- C. Only ethnic Persian kings.
-- D. A transregional Persian language, literary and administrative culture used by rulers of varied origins.
-
-**Answer: D** - A transregional Persian language, literary and administrative culture used by rulers of varied origins.
-
-**Explanation:** Ghaznavid Turkic rulers were major Persianate patrons.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 21
-
-**Question:** What is the safest interpretation of Lahore's role?
-
-- A. It became a territorial, cultural and logistical bridge between Ghaznavid, Ghurid and early Sultanate phases.
-- B. It was founded by Muizz al-Din after 1206.
-- C. It was the site of Tarain II.
-- D. It remained irrelevant to Indian campaigns.
-
-**Answer: A** - It became a territorial, cultural and logistical bridge between Ghaznavid, Ghurid and early Sultanate phases.
-
-**Explanation:** Lahore is the key continuity without dynastic collapse.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 22
-
-**Question:** Which factor pushed the Ghurids toward India?
-
-- A. A command from the Delhi Sultanate.
-- B. A combination of rivalry with Ghaznavids, western pressure and opportunity through Punjab.
-- C. The absence of any interests in Ghazni.
-- D. A permanent alliance with the Khwarazmians.
-
-**Answer: B** - A combination of rivalry with Ghaznavids, western pressure and opportunity through Punjab.
-
-**Explanation:** Constraint and opportunity interacted.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 23
-
-**Question:** What was distinctive about Ghiyas al-Din and Muizz al-Din?
-
-- A. They fought each other throughout their reigns.
-- B. They ruled only after 1206.
-- C. Their fraternal partnership divided western and eastern strategic labour.
-- D. They were both sons of Mahmud of Ghazni.
-
-**Answer: C** - Their fraternal partnership divided western and eastern strategic labour.
-
-**Explanation:** The partnership strengthened Ghurid reach.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 24
-
-**Question:** Why must early Ghur be studied critically?
-
-- A. It was always a major urban capital equal to Baghdad.
-- B. Archaeology proves every chronicle false.
-- C. No source mentions Ghur.
-- D. Later dynastic sources can caricature its pre-imperial society and religion.
-
-**Answer: D** - Later dynastic sources can caricature its pre-imperial society and religion.
-
-**Explanation:** Read Tabaqat against the grain, not literally or dismissively.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 25
-
-**Question:** Which sequence of Muizz al-Din's early campaigns is correct?
-
-- A. Multan/Uch -> Gujarat setback -> Punjab/Lahore consolidation.
-- B. Somnath -> Chandawar -> Lahore.
-- C. Tarain II -> Multan -> Gujarat.
-- D. Delhi -> Ghazni -> Uch.
-
-**Answer: A** - Multan/Uch -> Gujarat setback -> Punjab/Lahore consolidation.
-
-**Explanation:** The sequence reveals strategic adaptation.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 26
-
-**Question:** What was the chief lesson of the 1178 Gujarat defeat?
-
-- A. Muizz al-Din abandoned India permanently.
-- B. Long lines and prepared resistance required a shift toward a Punjab-first strategy.
-- C. Ghurid cavalry could never fight in India.
-- D. Gujarat was immediately annexed the next year.
-
-**Answer: B** - Long lines and prepared resistance required a shift toward a Punjab-first strategy.
-
-**Explanation:** Defeat produced route and base revision.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 27
-
-**Question:** Which statement best explains Ghurid learning?
-
-- A. He relied on one unchanged desert route.
-- B. He never lost a battle.
-- C. Muizz al-Din changed routes and preparation after defeats in Gujarat and Tarain I.
-- D. He withdrew from Punjab after 1186.
-
-**Answer: C** - Muizz al-Din changed routes and preparation after defeats in Gujarat and Tarain I.
-
-**Explanation:** Adaptation, not inherent superiority, is the key.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 28
-
-**Question:** What does Tarain I prove?
-
-- A. Mounted archery guaranteed Ghurid victory.
-- B. Jaichandra led the Ghurid army.
-- C. Tarain I founded the Sultanate.
-- D. Rajput forces could defeat the Ghurids in open battle, rejecting inevitability.
-
-**Answer: D** - Rajput forces could defeat the Ghurids in open battle, rejecting inevitability.
-
-**Explanation:** 1191 is the essential counter-example.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 29
-
-**Question:** Which tactical description is associated with Tarain II in Satish Chandra?
-
-- A. Mounted archers harassed slower forces through movement and attacks from multiple directions.
-- B. The Ghurids won without manoeuvre or reserves.
-- C. A purely naval battle.
-- D. Only infantry fought on both sides.
-
-**Answer: A** - Mounted archers harassed slower forces through movement and attacks from multiple directions.
-
-**Explanation:** Organisation and movement mattered more than one weapon.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 30
-
-**Question:** Why is the Sanyogita story unsafe as the main explanation for Jaichandra's absence?
-
-- A. No rivalry existed between the dynasties.
-- B. It is a later romance; political rivalry is better established than the abduction narrative.
-- C. The story appears in al-Utbi before 1020.
-- D. Jaichandra fought at Tarain for Muizz al-Din.
-
-**Answer: B** - It is a later romance; political rivalry is better established than the abduction narrative.
-
-**Explanation:** Later memory cannot replace contemporary corroboration.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 31
-
-**Question:** What was the immediate political effect of Tarain II?
-
-- A. It instantly created uniform rule from Gujarat to Bengal.
-- B. It restored Ghaznavid power.
-- C. It opened the Delhi-Ajmer zone to Ghurid occupation, vassalage and later direct control.
-- D. It ended every Chahamana line.
-
-**Answer: C** - It opened the Delhi-Ajmer zone to Ghurid occupation, vassalage and later direct control.
-
-**Explanation:** Battlefield victory required political follow-through.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 32
-
-**Question:** What did Chandawar in 1194 primarily disrupt?
-
-- A. The Seljuk state in Khurasan.
-- B. The Ghaznavid court at Ghazni.
-- C. The Chola navy.
-- D. The Gahadavala coordinating centre under Jaichandra and access to the upper Ganga region.
-
-**Answer: D** - The Gahadavala coordinating centre under Jaichandra and access to the upper Ganga region.
-
-**Explanation:** It was a regional dynastic-political turning point.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 33
-
-**Question:** Why is Chandawar not the end of the conquest story?
-
-- A. Forts, local chiefs, revenue networks and rebellions still had to be managed for decades.
-- B. No territory changed hands.
-- C. Muizz al-Din immediately retired to Somnath.
-- D. The battle occurred before Tarain I.
-
-**Answer: A** - Forts, local chiefs, revenue networks and rebellions still had to be managed for decades.
-
-**Explanation:** Conquest and consolidation are distinct.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 34
-
-**Question:** What was Aibak's central historical role before 1206?
-
-- A. He wrote Kitab al-Hind.
-- B. He converted Ghurid victories into bases, garrisons, tribute arrangements and further campaigns.
-- C. He was the last Ghaznavid at Lahore.
-- D. He commanded Prithviraj at Tarain I.
-
-**Answer: B** - He converted Ghurid victories into bases, garrisons, tribute arrangements and further campaigns.
-
-**Explanation:** Delegated continuity mattered.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 35
-
-**Question:** Which is an example of the limit of distant occupation?
-
-- A. Bayana lay outside India.
-- B. Delhi was never occupied.
-- C. The Turks could not hold Anhilwara for long after taking it.
-- D. Lahore immediately returned to the Ghaznavids after 1186.
-
-**Answer: C** - The Turks could not hold Anhilwara for long after taking it.
-
-**Explanation:** Operational success could exceed garrison capacity.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 36
-
-**Question:** How should Bakhtiyar Khalji's eastern campaigns be framed?
-
-- A. As Mahmud's 1018 campaign.
-- B. As the peaceful annexation of all eastern India.
-- C. As a naval conquest from Gujarat.
-- D. As rapid, delegated and disruptive thrusts that did not instantly produce uniform Bihar-Bengal control.
-
-**Answer: D** - As rapid, delegated and disruptive thrusts that did not instantly produce uniform Bihar-Bengal control.
-
-**Explanation:** Speed and surprise require a consolidation caveat.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 37
-
-**Question:** Which statement on Buddhist monasteries is safest?
-
-- A. Attacks on major Bihar monasteries were severe, but one commander cannot explain the whole long decline of Buddhism.
-- B. No monastery was attacked.
-- C. Every monastery in India ended in one year.
-- D. The attacks created Buddhism in Bengal.
-
-**Answer: A** - Attacks on major Bihar monasteries were severe, but one commander cannot explain the whole long decline of Buddhism.
-
-**Explanation:** Long-term institutional change is multi-causal.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 38
-
-**Question:** Why did the Ghurids use vassal arrangements?
-
-- A. They had no interest in territory.
-- B. They reduced immediate administrative burdens and used local authority while garrisons were limited.
-- C. Vassalage proves no conquest occurred.
-- D. They rejected all tribute.
-
-**Answer: B** - They reduced immediate administrative burdens and used local authority while garrisons were limited.
-
-**Explanation:** Accommodation and coercion often alternated.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 39
-
-**Question:** Which statement best describes the military comparison?
-
-- A. One religious identity determined tactical skill.
-- B. Rajputs lacked horses entirely.
-- C. The key gap was an interacting system of mobility, command, reserves, finance and logistics, not courage or race.
-- D. Turks possessed iron weapons unknown in India.
-
-**Answer: C** - The key gap was an interacting system of mobility, command, reserves, finance and logistics, not courage or race.
-
-**Explanation:** Systemic comparison avoids essentialism.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 40
-
-**Question:** What is the safest statement about elephants?
-
-- A. They automatically caused defeat at every battle.
-- B. They were always useless.
-- C. Only Ghurids used them.
-- D. They could provide shock and stability but required coordinated cavalry and command.
-
-**Answer: D** - They could provide shock and stability but required coordinated cavalry and command.
-
-**Explanation:** Combined-arms use determines value.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 41
-
-**Question:** Why were feudatory contingents a potential command problem?
-
-- A. Separate leadership could hinder unified manoeuvre, reserves and re-concentration.
-- B. They were all disloyal in every battle.
-- C. They supplied no soldiers.
-- D. Turkish armies had no factionalism.
-
-**Answer: A** - Separate leadership could hinder unified manoeuvre, reserves and re-concentration.
-
-**Explanation:** A potential organisational cost is not a moral judgement.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 42
-
-**Question:** Which counter-example is essential against military determinism?
-
-- A. The building of Jam Minaret.
-- B. Prithviraj's victory at Tarain I.
-- C. Firdausi's poetry.
-- D. Mahmud's death in Ghazni.
-
-**Answer: B** - Prithviraj's victory at Tarain I.
-
-**Explanation:** The same broad military cultures produced different outcomes.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 43
-
-**Question:** Why did Ghurids establish wider Gangetic rule than Ghaznavids?
-
-- A. Rajput forces disappeared after 1030.
-- B. They had an entirely different religion.
-- C. They combined a closer base, territorial objective, delegation and an institutional successor with favourable but contingent opportunities.
-- D. Mahmud never controlled Punjab.
-
-**Answer: C** - They combined a closer base, territorial objective, delegation and an institutional successor with favourable but contingent opportunities.
-
-**Explanation:** Objective and organisation explain more than identity.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 44
-
-**Question:** What does post-1206 history add to the comparison?
-
-- A. The Ghaznavids returned under Balban.
-- B. No further consolidation was needed.
-- C. Muizz al-Din personally ruled Delhi until 1236.
-- D. Endurance depended on Aibak and Iltutmish building an Indian-centred state after Ghurid fragmentation.
-
-**Answer: D** - Endurance depended on Aibak and Iltutmish building an Indian-centred state after Ghurid fragmentation.
-
-**Explanation:** A battle opening became durable only through later state formation.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 45
-
-**Question:** Which consequence came earliest and most directly?
-
-- A. Political-military disruption, tribute, loot and new garrisons in selected regions.
-- B. Immediate replacement of all village institutions.
-- C. Uniform social transformation across India.
-- D. The end of Persian culture.
-
-**Answer: A** - Political-military disruption, tribute, loot and new garrisons in selected regions.
-
-**Explanation:** Time horizons must be separated.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 46
-
-**Question:** How should temple destruction be contextualised?
-
-- A. Context proves no destruction occurred.
-- B. State rivalry, wealth, symbolism and religious legitimation can interact without denying violence.
-- C. It should be omitted from history.
-- D. It always had one identical cause.
-
-**Answer: B** - State rivalry, wealth, symbolism and religious legitimation can interact without denying violence.
-
-**Explanation:** Explanation is neither denial nor monocausal accusation.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 47
-
-**Question:** What does the UNESCO Jam-Qutb linkage demonstrate?
-
-- A. Architecture proves uniform political control.
-- B. Jam and Qutb are the same monument.
-- C. Ghurid architectural forms and ornament travelled into early Islamic architecture in India.
-- D. Qutb Minar was built by Mahmud in 1025.
-
-**Answer: C** - Ghurid architectural forms and ornament travelled into early Islamic architecture in India.
-
-**Explanation:** Influence is not identity.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Hard MCQ 48
-
-**Question:** Which historiographical synthesis is strongest?
-
-- A. Adopt one communal narrative as total explanation.
-- B. Treat all later legends as eyewitness fact.
-- C. Ignore chronicles completely.
-- D. Combine source criticism, political economy, religious rhetoric, military systems, frontier geography and contingency.
-
-**Answer: D** - Combine source criticism, political economy, religious rhetoric, military systems, frontier geography and contingency.
-
-**Explanation:** The problem is multi-source and multi-causal.
-
-**Why the distractors fail:** Each wrong option collapses chronology, dynasty, source genre, operational outcome or a required qualification.
-
-### Remedial MCQ 49
-
-**Question:** Which ruler is correctly matched?
-
-- A. Mahmud - Ghaznavid ruler, 998-1030.
-- B. Aibak - ruler of Ghur in 1163.
-- C. Muizz al-Din - founder of Ghaznavid dynasty in 963.
-- D. Jayapala - Ghurid commander at Tarain II.
-
-**Answer: A** - Mahmud - Ghaznavid ruler, 998-1030.
-
-**Explanation:** Fix the ruler-dynasty distinction first.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 50
-
-**Question:** Which date pair is correct?
-
-- A. Tarain I 1178; Tarain II 1186.
-- B. Tarain I 1191; Tarain II 1192.
-- C. Tarain I 1192; Tarain II 1194.
-- D. Tarain I 1025; Tarain II 1030.
-
-**Answer: B** - Tarain I 1191; Tarain II 1192.
-
-**Explanation:** The sequence is Prithviraj victory then defeat.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 51
-
-**Question:** Which statement on Somnath is correct?
-
-- A. al-Utbi witnessed the raid.
-- B. The raid founded the Delhi Sultanate.
-- C. Mahmud raided it in 1025 and did not establish lasting Ghaznavid rule in Gujarat.
-- D. The site was never rebuilt or remembered again.
-
-**Answer: C** - Mahmud raided it in 1025 and did not establish lasting Ghaznavid rule in Gujarat.
-
-**Explanation:** Retain date, raid and non-annexation.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 52
-
-**Question:** Which is the correct source match?
-
-- A. Minhaj - eyewitness at Tarain I.
-- B. Hasan Nizami - Ghaznavid chronicle ending before 1020.
-- C. al-Utbi - Prithviraj's Sanskrit court poem.
-- D. al-Biruni - comparative study of India.
-
-**Answer: D** - al-Biruni - comparative study of India.
-
-**Explanation:** Know genre and chronology.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 53
-
-**Question:** What follows from campaign-count variation?
-
-- A. Use a conventional count cautiously and focus on secure campaigns.
-- B. Treat seventeen as an official audited total.
-- C. Discard every campaign as fictional.
-- D. Assume all operations were annexations.
-
-**Answer: A** - Use a conventional count cautiously and focus on secure campaigns.
-
-**Explanation:** Uncertain counting is not absence of campaigning.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 54
-
-**Question:** Which is the best motive answer?
-
-- A. Only plunder mattered in Punjab.
-- B. Multiple motives operated, and their weight varied by campaign.
-- C. Every temple attack had identical context.
-- D. Religion was always irrelevant.
-
-**Answer: B** - Multiple motives operated, and their weight varied by campaign.
-
-**Explanation:** Reject single-cause extremes.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 55
-
-**Question:** Why did the 1178 defeat matter?
-
-- A. It occurred after Chandawar.
-- B. It ended Ghurid power permanently.
-- C. It pushed Muizz al-Din toward a Punjab-first strategy.
-- D. It made Gujarat a Ghurid province.
-
-**Answer: C** - It pushed Muizz al-Din toward a Punjab-first strategy.
-
-**Explanation:** Defeat and learning belong together.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 56
-
-**Question:** Which statement on Tarain II is safest?
-
-- A. Jaichandra's romantic grievance is proven as the sole cause.
-- B. Rajputs had no cavalry.
-- C. Ghurid victory was inevitable after 1178.
-- D. Mobility, command, reserves and preparation interacted; no one weapon explains the outcome.
-
-**Answer: D** - Mobility, command, reserves and preparation interacted; no one weapon explains the outcome.
-
-**Explanation:** Use a system explanation.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 57
-
-**Question:** What does conquest not automatically equal?
-
-- A. Consolidation through garrisons, revenue, alliances and administration.
-- B. A chronicle.
-- C. A battle.
-- D. A campaign route.
-
-**Answer: A** - Consolidation through garrisons, revenue, alliances and administration.
-
-**Explanation:** The conceptual distinction is essential.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 58
-
-**Question:** Which statement on Aibak is correct?
-
-- A. He led Mahmud's Somnath raid.
-- B. He managed and extended Ghurid conquests before becoming an independent ruler after 1206.
-- C. He wrote Kitab al-Hind.
-- D. He was defeated by Prithviraj at Tarain I as Ghurid sovereign.
-
-**Answer: B** - He managed and extended Ghurid conquests before becoming an independent ruler after 1206.
-
-**Explanation:** Aibak is commander/manager first, Sultan later.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 59
-
-**Question:** How should source silence be treated?
-
-- A. As conclusive proof of no event.
-- B. As more reliable than archaeology in every case.
-- C. As a problem requiring explanation, not proof that an event did not matter.
-- D. As permission to invent missing details.
-
-**Answer: C** - As a problem requiring explanation, not proof that an event did not matter.
-
-**Explanation:** Absence is evidence only after preservation and genre are assessed.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Remedial MCQ 60
-
-**Question:** Which final verdict is most accurate?
-
-- A. Tarain II instantly created rule over all India.
-- B. Rajput resistance ended permanently in 1192.
-- C. Mahmud and Muizz al-Din had identical objectives.
-- D. Ghurid victory opened a new political order, but uniform Sultanate rule emerged only through later consolidation.
-
-**Answer: D** - Ghurid victory opened a new political order, but uniform Sultanate rule emerged only through later consolidation.
-
-**Explanation:** Keep the transition staged and contingent.
-
-**Remedial target:** Correct the common error before attempting the comparison and source-criticism questions again.
-
-### Semantic-completeness coverage drills — Medieval Topic 02
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Distinguish Ghaznavid outcomes. | raid/tribute/annexation/Punjab incorporation → evidence | every campaign equals conquest |
-| B | Explain Mahmud's motives. | fiscal + political + strategic + legitimating + religious → campaign variation | solely iconoclastic/economic |
-| C | Use Somnath sources. | event → source date/genre → numbers caution → later memory | court chronicle as audit |
-| D | Assess al-Biruni. | language/method → contribution → elite/textual/regional limit | unbiased ethnography |
-| E | Trace Ghurid campaigns. | Multan/Uch → Gujarat defeat → Punjab → Tarain I/II → Chandawar | inevitable turning point |
-| F | Explain delegated conquest. | Aibak/Bakhtiyar → garrison/vassal/revenue → next-topic boundary | instant Sultanate |
-| G | Explain campaign outcomes. | cavalry/reserve/command/intelligence/forts/finance → contingency | racial or unity stereotype |
-| H | Assess consequences. | Punjab/Ganga bases → elite/town/religious change → local continuity | total social replacement |
-
-**PYQ status:** all three retained questions are adjacent-owned; none is routed
-directly to Topic 02.
 
 ## PYQS AND ANSWER PRACTICE
 
+| Component | Count |
+|---|---:|
+| Retained adjacent PYQs | 3 |
+| Retained original 10-mark models | 2 |
+| Retained original 15-mark models | 2 |
+| Retained original 20-mark models | 2 |
+
+
 ### Adjacent PYQ 01 - 2022 Prelims GS-I Q96: Somnath Temple and al-Biruni
 
-**Status:** The authoritative route is Indian Art and Culture Topic 13; wording is retained here only for adjacent Somnath/al-Biruni practice. The official key is unavailable in the local repository; answer is labelled inferred.
+**Status:** adjacent — official wording is locally verifiable through the repository route under Indian Art and Culture Topic 13; the local repository does not preserve the official key, so the answer key here remains inferred from statement-wise verification.
 
 **Question:** The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple? (1) Somnath Temple is one of the Jyotirlinga shrines. (2) A description of Somnath Temple was given by Al-Biruni. (3) Pran Pratishtha of Somnath Temple (installation of the present day temple) was done by President S. Radhakrishnan.
 
@@ -949,15 +684,13 @@ directly to Topic 02.
 
 **Demand decoding:** Treat “The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
 **Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
 
 **How to improve this answer:** For “The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
 
 ### Adjacent PYQ 02 - 2018 GS-I Mains: Chinese and Arab travellers
 
-**Status:** The authoritative route is Ancient History Sources Topic 02; this package retains the question only as adjacent al-Biruni source practice.
+**Status:** adjacent — official wording is routed to Ancient History Sources Topic 02, but the question is retained here because al-Biruni is a core Arab-source anchor for Topic 02.
 
 **Question:** Assess the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India. (10 marks, 150 words)
 
@@ -971,17 +704,15 @@ directly to Topic 02.
 
 **Why this earns marks:** It fulfils 'assess', compares three named source clusters, explains what each reconstructs, supplies a limitation for each and ends with a graded corroboration-based judgement.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the importance of the accounts of the Chinese and Arab travellers in the…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The question asks you to weigh, not merely list, the Chinese and Arab travellers named in the syllabus tradition — Xuanzang, Sulaiman/al-Masudi and al-Biruni — against India's own textual, inscriptional and archaeological record, so the answer must show what each traveller adds and where each is compromised by genre or vantage point.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with a two-line thesis on comparative corroboration; take Xuanzang, the Arab geographers and al-Biruni in turn as claim -> evidence -> significance -> limit; close by naming the two or three domains (polity, trade, religion/science) where these outsiders reconstruct history that Indian sources alone would leave thinner.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the importance of the accounts of the Chinese and Arab travellers in the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one more traveller or text this answer omits — for example Fa-Hien for an earlier baseline or Marco Polo/Ibn Battuta for a later comparison — and state precisely which additional fact only that source supplies, to push the answer from three evidence units toward the full available range.
 
 ### Adjacent PYQ 03 - 2020 GS-I Mains: Persian literary sources
 
-**Status:** The authoritative route is Medieval History Topic 24; this package retains the question only as adjacent Ghaznavid/Ghurid source practice.
+**Status:** adjacent — official wording is routed to Medieval History Topic 24, but the question is retained here because Ghaznavid and Ghurid Persian chronicles are indispensable to Topic 02's source base.
 
 **Question:** Persian literary sources of medieval India reflect the spirit of the age. Comment. (15 marks, 250 words)
 
@@ -997,43 +728,21 @@ directly to Topic 02.
 
 **Why this earns marks:** It comments rather than lists, spans early Ghaznavid/Ghurid to Sultanate/Mughal genres, links six named evidence clusters to social reach and patronage limits, and gives a qualified verdict.
 
-**Demand decoding:** The directive **comment** requires a direct position on “Persian literary sources of medieval India reflect the spirit of the age. Comment. (15…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Comment' here means take a position on whether 'spirit of the age' is a safe generalisation, then test it against the five named genre-clusters (Ghaznavid panegyric, Ghurid-Delhi chronicle, Sultanate normative history, Mughal court/dissent writing, Sufi-poetic literature) rather than restating the prompt.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** State the thesis that 'spirit of the age' is plural, not singular; move chronologically through al-Utbi, Hasan Nizami/Minhaj, Barani, Abul Fazl/Badauni and Amir Khusrau/Sufi conversations as five claim -> evidence -> significance -> limit units; close by naming the patronage bias that runs through all five.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Persian literary sources of medieval India reflect the spirit of the age. Comment. (15…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Strengthen the weakest unit — Amir Khusrau/Sufi conversations — with one more concrete text (for example Barani's own admission of bias, or a specific Khusrau masnavi) and state exactly which social group's 'spirit' that addition still leaves unrecovered.
 
 #### PYQ search conclusion
 
 - No narrowly battle-specific GS Mains PYQ was located in the bounded repository paper/routing set.
-- No verified PYQ is routed directly to Topic 02. These three questions are retained only as adjacent applications with their true owners.
+- Topic 02 therefore retains three adjacent applications rather than any exact-topic routed GS Mains PYQ.
 
-### Mains 10M-1 - Frontier setting and Ghaznavid rise
 
-**Question:** Explain how the Central Asian-Afghan political setting enabled the rise of the Ghaznavids on India's north-western frontier. (10 marks, 150 words)
+### Mains 10M-1 - Mahmud's motives
 
-#### Model answer
-
-- Direct thesis: Ghaznavid power arose from the intersection of Samanid fragmentation, Turkic military service, Persianate court culture and the strategic conversion of Ghazni into a road-linked frontier base.
-- Claim -> evidence -> significance -> limit: The Samanids employed Turkic military slaves and commanders; Alp-tigin established himself at Ghazni in 963. This shows how service office could become dynastic power, though military slaves were never automatically loyal.
-- Claim -> evidence -> significance -> limit: Sabuktigin's wars and the c. 990-91 Shahi defeat brought Kabul-Jalalabad into the Ghazni sphere. Strategic depth shifted, but Shahi resistance continued under Jayapala and Anandapala.
-- Claim -> evidence -> significance -> limit: Road improvement from Ghazni toward Kabul and Jalalabad supported intelligence, remounts and repeated campaigning. Geography became usable infrastructure, not an inevitable invasion funnel.
-- Claim -> evidence -> significance -> limit: Persian language and Samanid-Iranian administrative culture shaped the Turkic court. The result was a Persianate military state, not an ethnically homogeneous army.
-- Conclusion: Ghaznavid rise was therefore institutional and logistical as much as martial; the Punjab breach was created through a long frontier struggle rather than one sudden invasion.
-
-**Why this earns marks:** It answers the enabling setting, uses three precise evidence chains, distinguishes corridor from inevitability and closes with a causal verdict proportional to 10 marks.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how the Central Asian-Afghan political setting enabled the rise of the Ghaznavids…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Explain how the Central Asian-Afghan political setting enabled the rise of the Ghaznavids…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 10M-2 - Mahmud's motives
+**Status:** inferred — this is an original in-package model on Mahmud's motives; no official UPSC key exists for a question of this exact wording.
 
 **Question:** Mahmud of Ghazni's Indian campaigns cannot be explained by religious zeal alone. Explain. (10 marks, 150 words)
 
@@ -1048,15 +757,15 @@ directly to Topic 02.
 
 **Why this earns marks:** It preserves religious agency without monocausality, contrasts territorial and raiding objectives and uses four named evidence units in a concise structure.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Mahmud of Ghazni's Indian campaigns cannot be explained by religious zeal alone. Explain.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Explain' requires you to concede the religious-zeal claim only partially, then build a ranked multi-causal account — this question fails any answer that either denies religious rhetoric outright or treats it as the sole driver.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Thesis first: religion supplied idiom, not the whole calculus; take al-Utbi's ghazi framing, the Punjab/Multan territorial aim versus the non-annexing raids, the 1018/1025 wealth flows, and Hindu-Jat service together as four claim -> evidence -> significance -> limit units; close by ranking security and revenue above rhetoric for the pattern as a whole.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve this answer:** Add the Central Asian wars/Khurasan-Transoxiana dimension as a fifth explicit unit — this answer names it in the thesis but never evidences it — citing one specific rival (for example the Qarakhanids) whose pressure Mahmud's Indian wealth helped him counter.
 
-**How to improve this answer:** For “Mahmud of Ghazni's Indian campaigns cannot be explained by religious zeal alone. Explain.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### Mains 10M-2 - Tarain comparison
 
-### Mains 10M-3 - Tarain comparison
+**Status:** inferred — this is an original in-package model on the Tarain reversal; no official UPSC key exists for a question of this exact wording.
 
 **Question:** What explains the reversal between the First and Second Battles of Tarain? (10 marks, 150 words)
 
@@ -1071,15 +780,15 @@ directly to Topic 02.
 
 **Why this earns marks:** It directly compares both battles, uses 1191 as counter-evidence, explains mechanisms and rejects numbers, betrayal and weapon monocausality.
 
-**Demand decoding:** The directive **answer** requires a direct position on “What explains the reversal between the First and Second Battles of Tarain? (10 marks, 150…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The question wants a mechanism-level explanation of the reversal, not a battle narrative — you must show what changed between 1191 and 1192 on both sides, using Tarain I itself as the compulsory counter-evidence against inevitability.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Thesis: contingent reversal, not innate superiority; sequence Prithviraj's 1191 victory and its incomplete follow-through, Muizz al-Din's reorganisation, the mounted-archery/reserve tactics of 1192, and Chahamana coalition fragmentation as four claim -> evidence -> significance -> limit units; close by naming command integration as the deciding variable.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “What explains the reversal between the First and Second Battles of Tarain? (10 marks, 150…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** This answer under-uses the political-aftermath dimension — add one line on what happened to Prithviraj's polity immediately after 1192 (capture/execution traditions and their source problems) to complete the causal chain beyond the battlefield.
 
 ### Mains 15M-1 - Somnath source criticism and memory
+
+**Status:** inferred — this is an original in-package model on Somnath source criticism and memory; no official UPSC key exists for a question of this exact wording.
 
 **Question:** Discuss the Somnath raid through source criticism and explain why its later memory cannot be treated as a simple mirror of 1025. (15 marks, 250 words)
 
@@ -1095,39 +804,15 @@ directly to Topic 02.
 
 **Why this earns marks:** It answers both event and memory, ranks five evidence layers, names al-Utbi/al-Biruni/Thapar, states non-annexation and excludes embellished detail.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the Somnath raid through source criticism and explain why its later memory cannot…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Discuss' plus the explicit two-part question (source criticism AND why memory is not a mirror) means you must budget marks across both halves — an answer that only narrates the 1025 raid without a memory-politics section will lose half its marks.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Thesis: event and memory are separable analytical layers; work through event/motive, source chronology (al-Utbi's silence, al-Biruni, later Persian elaboration), local/material evidence, and the colonial-nationalist-communal memory sequence as five claim -> evidence -> significance -> limit units; close by naming Romila Thapar's multi-voice reading as the synthesising move.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve this answer:** The material-evidence unit is the thinnest — add one named site/inscription/temple-phase detail (rather than a general reference to 'epigraphic traditions') to make the evidentiary layer as concrete as the textual one.
 
-**How to improve this answer:** For “Discuss the Somnath raid through source criticism and explain why its later memory cannot…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### Mains 15M-2 - Conquest versus consolidation
 
-### Mains 15M-2 - Military systems without essentialism
-
-**Question:** Compare Ghurid and Rajput military systems and assess the causes of Ghurid success without civilisational stereotypes. (15 marks, 250 words)
-
-#### Model answer
-
-- Direct thesis: Ghurid success reflected an interacting military-fiscal system - mobility, mounted archery, reserves, command, intelligence and bases - while Rajput armies possessed courage, cavalry, elephants and large resources but faced particular coordination problems.
-- Mobility and fire: At Tarain II, mounted archers reportedly harassed slower Chahamana formations from several directions. This demonstrates manoeuvre and distance fighting; it does not prove Rajputs lacked bows or horses.
-- Command and finance: Mamluk/amirs trained in service and revenue assignments helped rulers maintain concentrated forces. Feudatory Rajput contingents mobilised major resources and local knowledge, but separate command could impede reserves and rapid re-concentration. Turkish polities also suffered factionalism, so the contrast is relative.
-- Combined arms: Elephants supplied shock and stability when coordinated with cavalry. They became vulnerable under harassment or loss of control; they were not inherently obsolete. Iron stirrups and imported horses were known in India, refuting a secret-weapon explanation.
-- Logistics and bases: Ghazni-Kabul roads and, later, Lahore/Punjab shortened Ghurid lines. Yet Gujarat 1178, Kashmir 1015 and Bakhtiyar's failed eastern expedition show that supply and terrain could reverse mobile forces.
-- Contingency and politics: Tarain I proves Indian forces could win. Prithviraj's political isolation and failure to recover Punjab after 1191 increased risk but should not be converted into timeless 'Rajput disunity.'
-- Conclusion: The Ghurid advantage was organisational and situational, not racial, religious or mechanically technological.
-
-**Why this earns marks:** It covers weapons, command, finance, logistics, politics and counter-evidence, with qualifications in every paragraph and a clear assessed verdict.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Ghurid and Rajput military systems and assess the causes of Ghurid success without…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Compare Ghurid and Rajput military systems and assess the causes of Ghurid success without…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 15M-3 - Conquest versus consolidation
+**Status:** inferred — this is an original in-package model on conquest versus consolidation; no official UPSC key exists for a question of this exact wording.
 
 **Question:** Distinguish conquest from consolidation in the Ghurid expansion, with special reference to Aibak and the eastern campaigns. (15 marks, 250 words)
 
@@ -1143,15 +828,15 @@ directly to Topic 02.
 
 **Why this earns marks:** It defines both concepts, uses Aibak, forts, vassalage, Anhilwara and Bakhtiyar as evidence, and maintains the Bihar-Bengal source caution.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish conquest from consolidation in the Ghurid expansion, with special reference to…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Distinguish' demands two clearly separated definitions before any narrative — conquest as battlefield defeat of a coordinating power, consolidation as the administrative-military mechanism that follows — with Aibak and the eastern campaigns used as the compulsory worked examples, not optional colour.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Define both terms in the thesis; move through the battlefield opening (Tarain II/Chandawar), Aibak's fort-and-route mechanism, accommodation/vassalage evidence, the Anhilwara distance limit, and Bakhtiyar's bounded eastern thrust as five claim -> evidence -> significance -> limit units; close by naming the Delhi Sultanate, not the Ghurids, as consolidation's real completion.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Distinguish conquest from consolidation in the Ghurid expansion, with special reference to…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** The accommodation unit hedges with 'coin reading and sequence remain debated' — replace the hedge with one named numismatic or textual detail (a specific coin type or a Hasan Nizami passage) so the qualification reads as informed caution rather than an unfilled gap.
 
 ### Mains 20M-1 - Why Ghurid rule became wider and more durable
+
+**Status:** inferred — this is an original in-package model comparing Ghaznavid and Ghurid durability; no official UPSC key exists for a question of this exact wording.
 
 **Question:** Why did the Ghurids establish wider and more durable rule in the Gangetic plain than the Ghaznavids? Analyse. (20 marks, 300 words)
 
@@ -1169,41 +854,15 @@ directly to Topic 02.
 
 **Why this earns marks:** It ranks causes across objective, base, timing, learning, delegation and succession, compares precise campaigns and ends with a graded rather than triumphalist verdict.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Why did the Ghurids establish wider and more durable rule in the Gangetic plain than the…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Analyse' at 20 marks requires a genuinely comparative structure across both dynasties on every axis (objective, base, timing, delegation, succession) — a chronological retelling of Ghurid campaigns without matching each point back to the Ghaznavids will read as description, not analysis.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Thesis names five comparative axes; take objectives, base/route, learning/timing, delegation and institutional succession as five paired claim -> evidence -> significance -> limit units, each naming both the Ghaznavid and Ghurid side; close with the qualification that Mahmud was often the abler general even though his dynasty produced the less durable outcome.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve this answer:** The 'political mechanisms' unit is the most generic of the six — replace 'vassal arrangements, tribute, garrisons' with one named instance already available elsewhere in this package (Aibak's Bayana-Gwalior garrisons) to keep every unit at the same evidentiary density.
 
-**How to improve this answer:** For “Why did the Ghurids establish wider and more durable rule in the Gangetic plain than the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### Mains 20M-2 - Sources and historiography
 
-### Mains 20M-2 - Consequences and limits
-
-**Question:** Assess the political, social, economic and cultural consequences of the Ghaznavid-Ghurid incursions and conquests in north India. (20 marks, 300 words)
-
-#### Model answer
-
-- Direct thesis: The most immediate consequences were political-military disruption and fiscal transfer; wider social and cultural changes emerged unevenly through Punjab-Lahore settlement, Persianate networks, delegated administration and the later Sultanate.
-- Political: Shahi defeat and Ghaznavid Punjab removed strategic depth; Tarain and Chandawar broke Chahamana and Gahadavala coordinating centres. Delhi became a Ghurid base. Yet Rajput successor centres, forts and local chiefs persisted, and consolidation took decades.
-- Military: Mobile cavalry, mounted archery, integrated reserves and route-garrison strategy gained importance. Indian forces did not simply disappear; Tarain I and regional resistance show adaptation and continued capacity.
-- Economic: Mathura-Kanauj, Somnath, Asni/Banaras and other centres suffered plunder or tribute claims, transferring portable wealth to conquering networks. Punjab also yielded recurring revenue and coin circulation. Effects were regionally unequal; agrarian and commercial life continued beyond attacked nodes.
-- Social: New military-service groups, migrants, scholars and merchants interacted with local chiefs, warriors, artisans and revenue intermediaries. Hindu commanders and Jat soldiers in Ghaznavid service reveal composite armies. Chronicle bias, however, leaves non-elite experience obscure.
-- Religious institutions: Selected wealthy temples and Bihar monasteries suffered attack for overlapping political, fiscal and ideological reasons. Contextualisation does not deny destruction, while one raid cannot explain all religious change.
-- Cultural: Ghazni and Lahore transmitted Persian language, literature and court practice; Firdausi and al-Biruni represent different dimensions of that world. UNESCO's Jam-Qutb comparison illustrates architectural transmission, but Indian craftsmen, materials and motifs transformed the forms.
-- State transition: Ghurid victories created an opening, not a completed Sultanate. Post-1206 rulers institutionalised the new order.
-- Conclusion: The period was simultaneously coercive, extractive and connective; its consequences were profound but staged, negotiated and regionally varied.
-
-**Why this earns marks:** It answers every dimension, uses more than eight named evidence clusters, preserves violence and interaction, and repeatedly distinguishes immediate impact from long-term transition.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the political, social, economic and cultural consequences of the Ghaznavid-Ghurid…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the political, social, economic and cultural consequences of the Ghaznavid-Ghurid…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 20M-3 - Sources and historiography
+**Status:** inferred — this is an original in-package model on sources and historiography; no official UPSC key exists for a question of this exact wording.
 
 **Question:** Evaluate the sources and historiographical approaches used to reconstruct the Ghaznavid and Ghurid invasions of India. (20 marks, 300 words)
 
@@ -1220,10 +879,8 @@ directly to Topic 02.
 
 **Why this earns marks:** It evaluates seven named source clusters and five historiographical approaches, states what each proves and limits, and concludes with a defensible method.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the sources and historiographical approaches used to reconstruct the Ghaznavid and…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Evaluate' requires a judgement on the relative reliability and reach of each source class, not just a list — the answer must end by ranking which combination of sources is least distorted, which this question is specifically testing.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Thesis on layered, mutually correcting evidence; take Ghaznavid chronicles, al-Biruni, Ghurid-Delhi chronicles, Indic textual/epigraphic sources and material evidence as five claim -> evidence -> significance -> limit units; close by ranking material/epigraphic evidence as the most independent check on all four textual traditions.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Evaluate the sources and historiographical approaches used to reconstruct the Ghaznavid and…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** The historiography paragraph names five schools in one sentence without evidence for each — pick the two most exam-relevant (colonial and materialist) and give one named historian or argument for each, rather than a single unsupported list.

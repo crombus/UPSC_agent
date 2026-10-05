@@ -1,0 +1,55 @@
+{
+  "topic": "international-relations-02",
+  "title": "India and the Neighbourhood",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "question_count_per_revision": 53,
+  "total_questions": 159,
+  "revisions": {
+    "1": {
+      "questions": 53,
+      "answers": 53,
+      "coverage_rows": 53,
+      "option_balance": "pass",
+      "hostile_audit": "pass",
+      "key_counts": {
+        "A": 13,
+        "B": 14,
+        "C": 13,
+        "D": 13
+      }
+    },
+    "2": {
+      "questions": 53,
+      "answers": 53,
+      "coverage_rows": 53,
+      "option_balance": "pass",
+      "hostile_audit": "pass",
+      "key_counts": {
+        "A": 13,
+        "B": 14,
+        "C": 13,
+        "D": 13
+      }
+    },
+    "3": {
+      "questions": 53,
+      "answers": 53,
+      "coverage_rows": 53,
+      "option_balance": "pass",
+      "hostile_audit": "pass",
+      "key_counts": {
+        "A": 13,
+        "B": 14,
+        "C": 13,
+        "D": 13
+      }
+    }
+  },
+  "exact_pyqs": 0,
+  "rights_holds": [
+    "2020/2023 objective PYQ official key/provenance and reproduction permission",
+    "2026 objective key remains provisional; no answer letter inferred"
+  ],
+  "next_pending_catalogue_topic": "India, China, Major Powers and Resilient Supply Chains"
+}

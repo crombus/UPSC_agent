@@ -31,8 +31,10 @@ Field saving != basin saving: lower water per hectare may expand irrigated area 
 
 ## 3. PMKSY DECODED
 
-- 2021-26 approved architecture: **AIBP** (Accelerated Irrigation Benefit Programme), **HKKP** (Har Khet Ko Pani) and **WDC** (Watershed Development Component).
-- HKKP includes **CADWM** (Command Area Development and Water Management), Surface Minor Irrigation and Repair, Renovation and Restoration of water bodies.
+- 2021-26 approved architecture: **AIBP** (Accelerated Irrigation Benefit Programme), **HKKP** (Har Khet Ko
+   Pani) and **WDC** (Watershed Development Component).
+- HKKP includes **CADWM** (Command Area Development and Water Management), Surface Minor Irrigation and Repair,
+   Renovation and Restoration of water bodies.
 - **PDMC** (Per Drop More Crop) supports micro-irrigation under **RKVY** from **2022-23**.
 - Official June 2026 material continues PMKSY programme context; component period/location must still be dated.
 - WUA = Water Users Association; creation does not prove participation.
@@ -62,7 +64,8 @@ NUCLEUS -> BREEDER (golden yellow)
 
 ## 6. MECHANISATION
 
-- Mechanisation includes sowing, transplanting, weeding, harvesting, residue and post-harvest operations—not tractors alone.
+- Mechanisation includes sowing, transplanting, weeding, harvesting, residue and post-harvest operations—not
+   tractors alone.
 - CHC = Custom Hiring Centre: shared machinery services for farmers who cannot efficiently own equipment.
 - Sanctioned asset != maintained, timely service.
 
@@ -76,28 +79,34 @@ RBI -> BANK REGULATION + PSL DIRECTIONS
 ```
 
 - Institutional credit differs from moneylender/trader/landlord credit.
-- RBI PSL Directions 2025, updated **7 August 2026**: agriculture **18%** of ANBC/CEOBSE; within it NCF **14%**, SMF **10%** for applicable banks.
+- RBI PSL Directions 2025, updated **7 August 2026**: agriculture **18%** of ANBC/CEOBSE; within it NCF **14%**,
+   SMF **10%** for applicable banks.
 - KCC = Kisan Credit Card product for crop/allied working capital.
 - Budget 2025-26 announced Rs **5 lakh** overall KCC limit.
-- FY2025-26 MISS retained **7%** concessional short-term loans up to Rs **3 lakh**; **3%** prompt repayment incentive yields **4%** for eligible timely payers.
+- FY2025-26 MISS retained **7%** concessional short-term loans up to Rs **3 lakh**; **3%** prompt repayment
+   incentive yields **4%** for eligible timely payers.
 - JLG/SHG routes can help tenants, but documentation and appraisal remain.
 
 ## 8. CROP INSURANCE
 
 - Insurance: premium -> pooled risk -> specified trigger -> assessment -> claim.
-- PMFBY August 2026 farmer premium shares: **2% Kharif / 1.5% Rabi food-oilseed / 5% annual commercial-horticultural**.
+- PMFBY August 2026 farmer premium shares: **2% Kharif / 1.5% Rabi food-oilseed / 5% annual
+   commercial-horticultural**.
 - Farmer enrolment voluntary since Kharif 2020.
 - Widespread yield loss: insurance-unit area approach using CCEs.
 - Localised/post-harvest events: separate reporting and assessment.
 - Basis risk: individual loss differs from area-yield or weather-index result.
-- YES-TECH = technology-based yield estimation; WINDS = Weather Information Network and Data System; CROPIC = crop photo/observation technology initiative.
+- YES-TECH = technology-based yield estimation; WINDS = Weather Information Network and Data System; CROPIC =
+   crop photo/observation technology initiative.
 - Insurance covers specified production risk, not every price or household-income loss.
 
 ## 9. SUSTAINABLE AGRICULTURE
 
 - Conservation agriculture: minimum disturbance + permanent cover + crop diversity/rotation.
-- Organic: production/certification standards. Natural farming: distinct low-external-input approach. Permaculture: ecological design.
-- NMNF = National Mission on Natural Farming, approved **25 November 2024** through **2025-26**; later status needs fresh official authority.
+- Organic: production/certification standards. Natural farming: distinct low-external-input approach.
+   Permaculture: ecological design.
+- NMNF = National Mission on Natural Farming, approved **25 November 2024** through **2025-26**; later status
+   needs fresh official authority.
 - Sikkim: 2003 resolution -> phased transition -> January 2016 full-organic declaration.
 - Agroforestry integrates trees; IFS integrates crops and allied enterprises.
 - Rainfed Area Development under NMSA promotes Integrated Farming Systems.

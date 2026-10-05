@@ -4,16 +4,15 @@ topic_key: ancient-indian-history-09
 ---
 # The Later Vedic Phase: Solved Practice Workbook
 
-> **Exact practice contract:** 32 original hard MCQs appear before PYQs; keys rotate A -> B -> C -> D exactly eight times; 128 option explanations and 32 examiner traps are unique. Verified PYQs retain official/provisional-key discipline. Six original Mains models are independently word-counted.
+> **Exact practice contract:** 48 original hard MCQs precede PYQ and Mains prompts; all solutions follow the complete question set in a separate key. Correct options rotate A -> B -> C -> D exactly twelve times; 192 option explanations and 48 examiner traps are item-specific. Verified PYQs retain official/provisional-key discipline. Six original Mains models are independently word-counted.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 ORIGINAL HARD MCQS
+### 48 ORIGINAL HARD MCQS
 
-> **Exact practice contract:** These 32 questions appear before every PYQ. Correct keys rotate A -> B -> C -> D exactly eight times. All 128 option explanations and all 32 examiner traps are question-specific.
+> **Exact practice contract:** Answer-free prompts appear before the separate answer key. Correct keys rotate A -> B -> C -> D exactly twelve times. All 192 option explanations and 48 examiner traps are question-specific.
 
 #### Q1
-
 1
 
 Which formulation most safely defines the Later Vedic source base?
@@ -25,6 +24,613 @@ Which formulation most safely defines the Later Vedic source base?
 - C. A census that records every region and social group uniformly
 
 - D. A material-culture catalogue independent of ritual authorship
+
+#### Q2
+2
+
+The main historical significance of the Samaveda is that it
+
+- A. records a regular territorial tax system with fixed rates
+
+- B. reworks many Rigvedic verses for specialised liturgical chant
+
+- C. catalogues PGW settlements and their iron assemblages
+
+- D. systematises the four ashramas in their final classical form
+
+#### Q3
+3
+
+Why is the Yajurveda especially valuable for Later Vedic reconstruction?
+
+- A. It is the earliest securely dated Indian coin catalogue.
+
+- B. It consists only of philosophical dialogues on atman.
+
+- C. It connects sacrificial formulae with prescribed ritual actions.
+
+- D. It provides a neutral account of every household's daily practice.
+
+#### Q4
+4
+
+Which statement about the Atharvaveda is most defensible?
+
+- A. It is only a manual for horse sacrifice and royal conquest. and excludes all domestic or healing concerns
+
+- B. It proves a fully monetised economy through named coins.
+
+- C. It is later than the entire Puranic corpus.
+
+- D. It preserves charms and household concerns involving health, marriage and fertility.
+
+#### Q5
+5
+
+Brahmana texts should primarily be read as
+
+- A. priestly expositions of ritual, status, cosmology and kingship
+
+- B. verbatim transcripts of village assemblies across north India issued by territorial royal secretaries
+
+- C. archaeological field reports on PGW stratigraphy
+
+- D. legal codes already identical to mature Dharmashastra
+
+#### Q6
+6
+
+The conventional c. 1000-600 BCE range is best used as
+
+- A. an exact date stamped on every Brahmana and Upanishadic passage
+
+- B. a broad working horizon containing internal textual and regional sequences
+
+- C. proof that all PGW levels were occupied by one Vedic-speaking people
+
+- D. the completed chronology of second urbanisation
+
+#### Q7
+7
+
+Which sequence most accurately represents the geographical reorientation?
+
+- A. Videha to Punjab to Kurukshetra as one westward movement
+
+- B. The entire subcontinent becoming Kuru territory simultaneously
+
+- C. North-western baseline to Kuru-Panchala, followed by later eastern extensions
+
+- D. A direct shift from Harappan cities to Magadhan imperial provinces under a continuous imperial administration
+
+#### Q8
+8
+
+What can PGW establish most securely?
+
+- A. The Vedic language spoken at every excavated settlement and the ritual affiliation of all residents
+
+- B. A single ethnic identity extending across all sites
+
+- C. The exact historicity of every epic episode
+
+- D. A material chronology of pottery, habitation and associated finds
+
+#### Q9
+9
+
+In Later Vedic contexts, shyama-ayas or krishna-ayas most safely indicate
+
+- A. dark or black metal commonly associated with iron
+
+- B. a standard silver coin issued by Kuru kings
+
+- C. a uniform iron ploughshare found at every PGW site
+
+- D. a textual name for Northern Black Polished Ware
+
+#### Q10
+10
+
+Why is an iron-determinist explanation inadequate?
+
+- A. Iron was unknown anywhere in the subcontinent before c. 600 BCE.
+
+- B. Its effects depended on labour, fuel, traction, crops, settlement and institutions.
+
+- C. Iron objects occur only in ritual texts and never in archaeology.
+
+- D. Every early iron artefact was an agricultural ploughshare.
+
+#### Q11
+11
+
+The best description of Later Vedic agriculture is
+
+- A. the first appearance of cultivation anywhere in Vedic society through a sudden prohibition on cattle keeping
+
+- B. a complete replacement of cattle by rice cultivation
+
+- C. greater stability and scale of plough agriculture with crop and cattle continuity
+
+- D. a plantation system based on coined wages
+
+#### Q12
+12
+
+Why did surplus become politically important?
+
+- A. It ended all subsistence risks and ecological variation.
+
+- B. It proved private landownership was universal.
+
+- C. It immediately produced large cities throughout the Ganga basin. with monetised markets and permanent fortifications
+
+- D. Stored or appropriable production could sustain rulers, priests and specialists.
+
+#### Q13
+13
+
+Long lists of Later Vedic occupations most directly support
+
+- A. increasing craft and service specialisation
+
+- B. fully hereditary urban guilds in every settlement
+
+- C. a universal salaried labour market
+
+- D. the disappearance of household production
+
+#### Q14
+14
+
+Which statement about nishka, satamana and krishnala is safest?
+
+- A. They were all standard struck coins with royal portraits.
+
+- B. They could denote valuables, weights or value units without proving coinage.
+
+- C. They show that barter and gift exchange had disappeared.
+
+- D. They belonged exclusively to Mauryan fiscal terminology.
+
+#### Q15
+15
+
+The jana-to-janapada transition refers primarily to
+
+- A. the replacement of every lineage by a salaried bureaucracy
+
+- B. the conversion of PGW pottery into a political constitution through a standard constitution written on pottery
+
+- C. growing attachment of a people and ruler to a territorial domain
+
+- D. the disappearance of pastoral mobility from all regions
+
+#### Q16
+16
+
+Kuru formation is most defensibly associated with
+
+- A. a Mauryan province governed from Pataliputra
+
+- B. the first fully urban republic of the middle Ganga valley with elected magistrates and minted civic coinage
+
+- C. a single archaeologically proven epic war
+
+- D. the coalescence of Bharata-Puru traditions in an upper-doab territorial centre
+
+#### Q17
+17
+
+Ratnins are best understood as
+
+- A. ritual-political associates and functionaries whose lists reveal transitional kingship
+
+- B. a fixed cabinet with identical ministries in every kingdom whose departments and salaries were fixed across kingdoms
+
+- C. elected delegates of a universal peasant assembly
+
+- D. coin-minting guild heads recognised by PGW pottery
+
+#### Q18
+18
+
+Which fiscal formulation is most accurate?
+
+- A. Bali was always a voluntary gift with no coercive tendency.
+
+- B. Bali and bhaga became more regular, but no mature assessed bureaucracy is proved.
+
+- C. Shulka was a universal one-sixth land tax administered by provinces.
+
+- D. Dakshina replaced all political revenue and war booty.
+
+#### Q19
+19
+
+What happened to sabha and samiti in the Later Vedic phase?
+
+- A. They became identical to modern elected legislatures. with universal adult franchise and written statutes
+
+- B. They disappeared everywhere as soon as iron appeared.
+
+- C. They continued with changing or narrowing influence as royal power grew.
+
+- D. They were names for sacrificial coins paid to priests.
+
+#### Q20
+20
+
+References to ten-generation kingdoms most directly suggest
+
+- A. that all succession disputes had ended
+
+- B. that kingship remained purely temporary and non-hereditary renewed separately at every seasonal assembly
+
+- C. that every ruler controlled an empire
+
+- D. a strengthening hereditary tendency still open to ratification or exceptional expulsion
+
+#### Q21
+21
+
+The chief political function of royal sacrifices was to
+
+- A. stage legitimacy, hierarchy, alliance and sovereignty through costly ritual
+
+- B. measure exact administrative borders with cadastral precision through an official horse-route cadastral survey
+
+- C. replace all warfare and tribute with prayer
+
+- D. abolish dependence on priests and ratnins
+
+#### Q22
+22
+
+Which varna statement is most accurate?
+
+- A. Later Vedic society already possessed every later jati and untouchability rule. and already fixed by uniform local endogamy
+
+- B. Fourfold hierarchy sharpened as ideology, but lived groups and occupations remained more varied.
+
+- C. Varna disappeared because territorial kingship replaced social status.
+
+- D. The Purusha Sukta is an archaeological inscription from a PGW site.
+
+#### Q23
+23
+
+The Brahmana-Kshatriya relationship is best described as
+
+- A. complete separation between ritual and political power without any overlap of patronage or ritual
+
+- B. permanent warfare that prevented royal sacrifice
+
+- C. mutual dependence in rule and ritual combined with status competition
+
+- D. equality with Vaishyas and Shudras in privilege and extraction
+
+#### Q24
+24
+
+Which pairing is historically safest?
+
+- A. Vaishya-ritual exemption; Shudra-exclusive Vedic learning under a universal tax-free priestly settlement
+
+- B. Vaishya-imperial governor; Shudra-PGW priest
+
+- C. Vaishya-non-producer; Shudra-tax-free noble
+
+- D. Vaishya-producer and tribute payer; Shudra-subordinated with restricted ritual access
+
+#### Q25
+25
+
+Gotra in the Later Vedic context most safely indicates
+
+- A. a developing patrilineal descent marker connected with exogamy
+
+- B. a provincial tax district surveyed by the Kuru state
+
+- C. a guild monopoly over cattle markets
+
+- D. a fully unchanged marriage code applied to every community
+
+#### Q26
+26
+
+Which conclusion about women is most defensible?
+
+- A. Gargi and Maitreyi prove universal female education.
+
+- B. Patriarchal norms strengthened, while work, ritual roles and elite debate show uneven agency.
+
+- C. All women were excluded from every ritual and economic activity. including household production and philosophical instruction
+
+- D. The Maitrayani assembly statement is a census of all Indian regions.
+
+#### Q27
+27
+
+The ashrama system should be described as
+
+- A. fully fixed into four compulsory stages for everyone by c. 1000 BCE with no household stage or teacher-pupil discipline
+
+- B. absent until the Gupta period
+
+- C. developing from student and householder anchors toward later forest and renunciant systematisation
+
+- D. an archaeological sequence defined by four pottery styles
+
+#### Q28
+28
+
+Which priest-function match is correct?
+
+- A. Hotri-physical Yajurvedic procedure; adhvaryu-Samavedic singing and an entirely separate priestly bureaucracy
+
+- B. Udgatri-Rigvedic recitation; brahman-chariot command
+
+- C. Adhvaryu-philosophical debate only; hotri-tax collection
+
+- D. Hotri-Rigvedic recitation; udgatri-Samavedic chant; adhvaryu-ritual procedure
+
+#### Q29
+29
+
+Which religious change is best framed?
+
+- A. Prajapati, Vishnu and Rudra gained prominence while older deities continued.
+
+- B. Indra and Agni vanished from all later texts. while older gods were prohibited from ritual recitation
+
+- C. Classical Puranic sects appeared fully formed by c. 1000 BCE.
+
+- D. Ritual ceased as soon as Upanishadic speculation began.
+
+#### Q30
+30
+
+The early Upanishadic turn is most accurately described as
+
+- A. a complete rejection of every Vedic text and ritual
+
+- B. an internal critique and reinterpretation centred on knowledge, self and ultimate reality
+
+- C. one uniform doctrine written at a single date whose wording, chronology and conclusions never differ
+
+- D. the beginning of Puranic temple worship
+
+#### Q31
+31
+
+The Rig-to-Later Vedic comparison is best expressed as
+
+- A. a change from no hierarchy to the first social inequality
+
+- B. an overnight replacement of all kin and pastoral forms
+
+- C. a gradual regional reweighting toward agrarian, territorial and stratified institutions
+
+- D. a direct transition from village chiefship to Mauryan empire under one universal dynastic conquest and legal code
+
+#### Q32
+32
+
+How should Later Vedic society be related to the Mahajanapada and second-urbanisation horizon?
+
+- A. As exactly the same political and material formation with no later regional or institutional transformations
+
+- B. As proof that coinage and NBPW were universal before c. 1000 BCE
+
+- C. As unrelated, with no agrarian or territorial continuity
+
+- D. As a precursor supplying some conditions but not the complete later outcome
+
+#### Q33
+Which comparison best respects the distinction between Aranyakas and early Upanishads?
+
+- A. Aranyakas develop symbolic/contemplative readings of ritual; early Upanishads extend inquiry into self and ultimate reality.
+- B. Aranyakas constitute a single dated philosophical school; early Upanishads merely reproduce its uniform position.
+- C. Aranyakas are primarily manuals for assessed tribute; early Upanishads describe its collection by ratnins.
+- D. Aranyakas universally reject sacrifice; early Upanishads then reinstate external rite without reinterpretation.
+
+#### Q34
+Consider two claims about the eastward Later Vedic horizon: (1) Kuru-Panchala anchors the core; (2) references to Kosala-Videha prove simultaneous Kuru rule over all eastern regions. Which assessment is strongest?
+
+- A. Both claims are supported because eastern geographical references also date every passage to the Kuru core.
+- B. Claim 1 is supported; claim 2 confuses later eastern textual extension with political control.
+- C. Claim 1 is unsupported because PGW cannot itself prove Vedic language; claim 2 is supported by textual geography.
+- D. Claim 1 is supported only for late eastern layers; claim 2 is supported only for the oldest north-western layer.
+
+#### Q35
+An excavation yields fine grey painted bowls, a few iron objects and perishable house traces. Which conclusion follows?
+
+- A. The assemblage demonstrates that the inhabitants spoke the language of all nearby Brahmana texts.
+- B. The material overlap by itself fixes a single Kuru administrative boundary at the site.
+- C. Material overlap with an early-Iron-Age/PGW horizon is plausible, but literary and ethnic identification need independent evidence.
+- D. The absence of masonry establishes that no local hierarchy could have organised production.
+
+#### Q36
+Which pair would provide the strongest *site-specific* evidence for local iron production rather than merely iron use?
+
+- A. A dated iron axe and several associated domestic ceramic vessels, but no production waste.
+- B. Multiple dated iron weapons and textual terminology for dark metal, but no workshop context.
+- C. Dated painted bowls and tools from habitation levels, but no slag or furnace.
+- D. Dated furnace/slag contexts together with metallurgical debris from the site.
+
+#### Q37
+Which reconstruction best uses the evidence for two-crop patterns and multi-animal ploughing?
+
+- A. Some settlements could support more intensive cultivation, while crop, labour and draught-animal requirements varied.
+- B. Two-crop evidence at some sites fixes an identical annual schedule for every Kuru-Panchala household.
+- C. More intensive cropping implies that cattle ceased to supply traction even where multi-animal ploughing is described.
+- D. Ritual descriptions of ploughing establish the distribution and metal composition of actual ploughs at all sites.
+
+#### Q38
+Match the ratnin with the most appropriate *textual-ritual* role. Which pairing is safest?
+
+- A. *Bhagadugha*—custodian of ritual fires; *suta*—collector of the ruler's share.
+- B. *Bhagadugha*—associated with the ruler's share; *suta*—charioteer/herald.
+- C. *Bhagadugha*—village/group leader; *suta*—queen's ritual counterpart.
+- D. *Bhagadugha*—war leader; *suta*—chief household priest.
+
+#### Q39
+Which statement best discriminates *vidatha* from *sabha* and *samiti* in this phase?
+
+- A. *Vidatha* alone becomes an elite adjudicatory body, whereas *sabha* and *samiti* vanish from later texts.
+- B. *Vidatha* gains prominence as a territorial court, while *sabha* is consistently a general gathering.
+- C. *Vidatha* loses later textual prominence, while *sabha* and *samiti* remain visible with shifting functions and weight.
+- D. *Vidatha* remains the sole royal council; both *sabha* and *samiti* become terms for ritual fees.
+
+#### Q40
+Which ritual-political pairing avoids turning a prescribed claim into a map of effective administration?
+
+- A. *Rajasuya*—territorial census; *ashvamedha*—a surveyed record of effective borders; *vajapeya*—assessed revenue.
+- B. *Rajasuya*—renewal of kingship; *ashvamedha*—evidence of control wherever the horse travels; *vajapeya*—prestige.
+- C. *Rajasuya*—royal consecration; *ashvamedha*—paramountcy claim; *vajapeya*—the end of priestly mediation.
+- D. *Rajasuya*—royal consecration/renewal; *ashvamedha*—paramountcy claim; *vajapeya*—prestige and abundance.
+
+#### Q41
+How should a reference to a *dasa/dasi* dependant be used in a social history answer?
+
+- A. As evidence of servile or captive dependency in some contexts, with the term's meanings and lived arrangements needing qualification.
+- B. As a fixed synonym for Shudra status throughout all textual layers and households.
+- C. As evidence that every dependant was acquired exclusively through war captivity.
+- D. As evidence of dependence whose precise frequency can be calculated from ritual lists alone.
+
+#### Q42
+Consider (1) the *grihapati* as head of household production and ritual and (2) son-preference prescriptions as proof of identical inheritance practice among all communities. Choose the best assessment.
+
+- A. Both follow equally because prescriptions accurately describe every household's succession.
+- B. Claim 1 describes a visible household ideal; claim 2 overgeneralises prescriptive evidence.
+- C. Claim 1 is a ritual ideal only and therefore historically unusable; claim 2 follows from son preference.
+- D. Claim 1 proves an identical economic structure everywhere; claim 2 requires archaeological confirmation.
+
+#### Q43
+Which claim about oral education is supported without turning a specialist curriculum into mass schooling?
+
+- A. Skilled recitation proves equally accessible training to every status and gender.
+- B. Correct phonetics shows memorisation had been replaced by uniform written instruction.
+- C. Teacher-pupil recitation, metre and accurate performance encouraged specialist training, with access unequal by status and gender.
+- D. A teacher-pupil curriculum demonstrates that ritual roles had no differentiated training.
+
+#### Q44
+Which fourth priest completes the distinction among *hotri*, *adhvaryu* and *udgatri* in an idealised major sacrifice?
+
+- A. *Purohita*, royal adviser who must also be the fourth specialist at every sacrifice.
+- B. *Ritvij*, a general designation for an officiating priest uniquely tasked with correcting the others.
+- C. *Acharya*, teacher of recitation who necessarily supervises every royal offering.
+- D. *Brahman*, supervising and correcting the ritual performance.
+
+#### Q45
+Which contrast best captures a source-safe Upanishadic argument about ritual?
+
+- A. Some passages interiorise sacrificial correspondences and explore *atman/brahman* without claiming every Vedic rite ceased.
+- B. Every early dialogue replaces sacrificial vocabulary with one fully systematic doctrine of liberation.
+- C. The concern with *atman* and *brahman* dates every Upanishadic passage to the same textual layer.
+- D. Internalised sacrifice implies that all communities had stopped practising external ritual.
+
+#### Q46
+What can the named Upanishadic debaters Gargi and Maitreyi establish most directly?
+
+- A. That named elite participation implies equal access to specialist debate for all women.
+- B. That some elite women appear as intellectual participants in particular textual settings, not that patriarchal constraints vanished.
+- C. That their dialogues disprove the normative evidence for stronger patriliny.
+- D. That their visibility fixes the actual frequency of women's participation in public assemblies.
+
+#### Q47
+Which is the most defensible historical inference from perishable houses, storage evidence and some settlement hierarchy in PGW-associated contexts?
+
+- A. Missing masonry shows that permanent settlement was impossible despite storage evidence.
+- B. Settlement differentiation by itself establishes full monetisation across all PGW sites.
+- C. More persistent, differentiated settlements are plausible, but preservation and region limit any claim of full urbanisation.
+- D. Overlap in ceramic horizons fixes political allegiance even when settlements vary materially.
+
+#### Q48
+A Mains answer claims that iron automatically produced kingship, and kingship inevitably produced Jainism and Buddhism. What is the best repair *within Topic 09*?
+
+- A. Treat iron finds as sufficient proof of identical kingship in every region, then infer uniform reform.
+- B. Use a royal ritual prescription to date all later renunciant movements as its immediate consequence.
+- C. Retain the social and ritual context but describe the spread of heterodox movements as inevitable.
+- D. Trace conditional links among tools, labour, surplus, extraction and ritual critique, then reserve complete heterodox histories for later topics.
+
+## PYQS AND ANSWER PRACTICE
+
+### VERIFIED PYQ OWNERSHIP AND KEY DISCIPLINE
+
+> The 2024 Prelims Set-A wording and official Series-A key are locally verified. The 2026 Set-A wording is locally verified, but the locally held Series-A key is **provisional, not an official final UPSC key**. UPSC publishes no official descriptive model answers for the Mains questions below.
+
+
+> Answer-free PYQ and Mains prompts follow; original answer-status tables and all model answers remain in the separate key.
+
+### VERIFIED PRELIMS PYQ - 2024 GS-I Q58: UPANISHADS AND PURANAS
+
+**Question as printed:** Consider the following statements:
+
+1. There are no parables in Upanishads.
+2. Upanishads were composed earlier than the Puranas.
+
+Which of the statements given above is/are correct?
+
+| Option | Combination |
+|---|---|
+| A | 1 only |
+| B | 2 only |
+| C | Both 1 and 2 |
+| D | Neither 1 nor 2 |
+
+### ADJACENT PRELIMS PYQ - 2026 GS-I Q20: KSHETRA-PATNI
+
+**Question as printed:** In which one among the following texts does the term *kshetra-patni* ('mistress of the field') originate?
+
+| Option | Text |
+|---|---|
+| A | Rigveda |
+| B | Atharvaveda |
+| C | Ashtadhyayi |
+| D | Arthashastra |
+
+### SOLVED MAINS PYQ - 2024 GS-I Q1
+
+**Verified wording:** Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words.)
+
+### SOLVED MAINS PYQ - 2023 GS-I Q11
+
+**Verified wording:** What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society? (Answer in 250 words.)
+
+### SIX ORIGINAL MAINS QUESTIONS — QUESTIONS
+
+### ORIGINAL MAINS 1 - 10 MARKS
+
+**Question:** Assess the usefulness and limitations of Later Vedic texts for reconstructing society. (Answer in 150 words.)
+
+### ORIGINAL MAINS 2 - 10 MARKS
+
+**Question:** Why should iron be treated as an enabling rather than determining factor in Later Vedic change? (Answer in 150 words.)
+
+### ORIGINAL MAINS 3 - 15 MARKS
+
+**Question:** Analyse Kuru state formation and the changing character of Later Vedic kingship. (Answer in 250 words.)
+
+### ORIGINAL MAINS 4 - 15 MARKS
+
+**Question:** Critically examine varna, household and gender relations in the Later Vedic phase. (Answer in 250 words.)
+
+### ORIGINAL MAINS 5 - 20 MARKS
+
+**Question:** Examine the relationship among agrarian surplus, extraction and ritual sovereignty in the Later Vedic phase. (Answer in 250 words.)
+
+### ORIGINAL MAINS 6 - 20 MARKS
+
+**Question:** Discuss the Upanishadic turn as both a critique and a transformation of Later Vedic ritualism. (Answer in 250 words.)
+
+## SEPARATE SOLUTIONS AND ANSWER KEY
+
+### ORIGINAL MCQ KEY AND OPTION-WISE REMEDIATION
+
+#### Q1
 
 **Answer: A.**
 
@@ -39,18 +645,6 @@ Which formulation most safely defines the Later Vedic source base?
 
 #### Q2
 
-2
-
-The main historical significance of the Samaveda is that it
-
-- A. records a regular territorial tax system with fixed rates
-
-- B. reworks many Rigvedic verses for specialised liturgical chant
-
-- C. catalogues PGW settlements and their iron assemblages
-
-- D. systematises the four ashramas in their final classical form
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -63,18 +657,6 @@ The main historical significance of the Samaveda is that it
 > **Examiner trap 2:** Do not confuse a text's ritual function with later social or archaeological information.
 
 #### Q3
-
-3
-
-Why is the Yajurveda especially valuable for Later Vedic reconstruction?
-
-- A. It is the earliest securely dated Indian coin catalogue.
-
-- B. It consists only of philosophical dialogues on atman.
-
-- C. It connects sacrificial formulae with prescribed ritual actions.
-
-- D. It provides a neutral account of every household's daily practice.
 
 **Answer: C.**
 
@@ -89,18 +671,6 @@ Why is the Yajurveda especially valuable for Later Vedic reconstruction?
 
 #### Q4
 
-4
-
-Which statement about the Atharvaveda is most defensible?
-
-- A. It is only a manual for horse sacrifice and royal conquest. and excludes all domestic or healing concerns
-
-- B. It proves a fully monetised economy through named coins.
-
-- C. It is later than the entire Puranic corpus.
-
-- D. It preserves charms and household concerns involving health, marriage and fertility.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -113,18 +683,6 @@ Which statement about the Atharvaveda is most defensible?
 > **Examiner trap 4:** Household visibility broadens evidence but still does not create a social census.
 
 #### Q5
-
-5
-
-Brahmana texts should primarily be read as
-
-- A. priestly expositions of ritual, status, cosmology and kingship
-
-- B. verbatim transcripts of village assemblies across north India issued by territorial royal secretaries
-
-- C. archaeological field reports on PGW stratigraphy
-
-- D. legal codes already identical to mature Dharmashastra
 
 **Answer: A.**
 
@@ -139,18 +697,6 @@ Brahmana texts should primarily be read as
 
 #### Q6
 
-6
-
-The conventional c. 1000-600 BCE range is best used as
-
-- A. an exact date stamped on every Brahmana and Upanishadic passage
-
-- B. a broad working horizon containing internal textual and regional sequences
-
-- C. proof that all PGW levels were occupied by one Vedic-speaking people
-
-- D. the completed chronology of second urbanisation
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -163,18 +709,6 @@ The conventional c. 1000-600 BCE range is best used as
 > **Examiner trap 6:** Periodisation is a scaffold, not permission to flatten every source into one date.
 
 #### Q7
-
-7
-
-Which sequence most accurately represents the geographical reorientation?
-
-- A. Videha to Punjab to Kurukshetra as one westward movement
-
-- B. The entire subcontinent becoming Kuru territory simultaneously
-
-- C. North-western baseline to Kuru-Panchala, followed by later eastern extensions
-
-- D. A direct shift from Harappan cities to Magadhan imperial provinces under a continuous imperial administration
 
 **Answer: C.**
 
@@ -189,18 +723,6 @@ Which sequence most accurately represents the geographical reorientation?
 
 #### Q8
 
-8
-
-What can PGW establish most securely?
-
-- A. The Vedic language spoken at every excavated settlement and the ritual affiliation of all residents
-
-- B. A single ethnic identity extending across all sites
-
-- C. The exact historicity of every epic episode
-
-- D. A material chronology of pottery, habitation and associated finds
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -213,18 +735,6 @@ What can PGW establish most securely?
 > **Examiner trap 8:** Pottery labels material practice; people, language and texts require separate evidence.
 
 #### Q9
-
-9
-
-In Later Vedic contexts, shyama-ayas or krishna-ayas most safely indicate
-
-- A. dark or black metal commonly associated with iron
-
-- B. a standard silver coin issued by Kuru kings
-
-- C. a uniform iron ploughshare found at every PGW site
-
-- D. a textual name for Northern Black Polished Ware
 
 **Answer: A.**
 
@@ -239,18 +749,6 @@ In Later Vedic contexts, shyama-ayas or krishna-ayas most safely indicate
 
 #### Q10
 
-10
-
-Why is an iron-determinist explanation inadequate?
-
-- A. Iron was unknown anywhere in the subcontinent before c. 600 BCE.
-
-- B. Its effects depended on labour, fuel, traction, crops, settlement and institutions.
-
-- C. Iron objects occur only in ritual texts and never in archaeology.
-
-- D. Every early iron artefact was an agricultural ploughshare.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -263,18 +761,6 @@ Why is an iron-determinist explanation inadequate?
 > **Examiner trap 10:** One technology cannot serve as a self-acting cause of agrarian or political transformation.
 
 #### Q11
-
-11
-
-The best description of Later Vedic agriculture is
-
-- A. the first appearance of cultivation anywhere in Vedic society through a sudden prohibition on cattle keeping
-
-- B. a complete replacement of cattle by rice cultivation
-
-- C. greater stability and scale of plough agriculture with crop and cattle continuity
-
-- D. a plantation system based on coined wages
 
 **Answer: C.**
 
@@ -289,18 +775,6 @@ The best description of Later Vedic agriculture is
 
 #### Q12
 
-12
-
-Why did surplus become politically important?
-
-- A. It ended all subsistence risks and ecological variation.
-
-- B. It proved private landownership was universal.
-
-- C. It immediately produced large cities throughout the Ganga basin. with monetised markets and permanent fortifications
-
-- D. Stored or appropriable production could sustain rulers, priests and specialists.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -313,18 +787,6 @@ Why did surplus become politically important?
 > **Examiner trap 12:** Surplus is a social relation of storage and appropriation, not merely a bigger harvest.
 
 #### Q13
-
-13
-
-Long lists of Later Vedic occupations most directly support
-
-- A. increasing craft and service specialisation
-
-- B. fully hereditary urban guilds in every settlement
-
-- C. a universal salaried labour market
-
-- D. the disappearance of household production
 
 **Answer: A.**
 
@@ -339,18 +801,6 @@ Long lists of Later Vedic occupations most directly support
 
 #### Q14
 
-14
-
-Which statement about nishka, satamana and krishnala is safest?
-
-- A. They were all standard struck coins with royal portraits.
-
-- B. They could denote valuables, weights or value units without proving coinage.
-
-- C. They show that barter and gift exchange had disappeared.
-
-- D. They belonged exclusively to Mauryan fiscal terminology.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -363,18 +813,6 @@ Which statement about nishka, satamana and krishnala is safest?
 > **Examiner trap 14:** A unit of value or metal object is not automatically a coin.
 
 #### Q15
-
-15
-
-The jana-to-janapada transition refers primarily to
-
-- A. the replacement of every lineage by a salaried bureaucracy
-
-- B. the conversion of PGW pottery into a political constitution through a standard constitution written on pottery
-
-- C. growing attachment of a people and ruler to a territorial domain
-
-- D. the disappearance of pastoral mobility from all regions
 
 **Answer: C.**
 
@@ -389,18 +827,6 @@ The jana-to-janapada transition refers primarily to
 
 #### Q16
 
-16
-
-Kuru formation is most defensibly associated with
-
-- A. a Mauryan province governed from Pataliputra
-
-- B. the first fully urban republic of the middle Ganga valley with elected magistrates and minted civic coinage
-
-- C. a single archaeologically proven epic war
-
-- D. the coalescence of Bharata-Puru traditions in an upper-doab territorial centre
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -413,18 +839,6 @@ Kuru formation is most defensibly associated with
 > **Examiner trap 16:** Kuru political history should not be reduced to literal epic reconstruction.
 
 #### Q17
-
-17
-
-Ratnins are best understood as
-
-- A. ritual-political associates and functionaries whose lists reveal transitional kingship
-
-- B. a fixed cabinet with identical ministries in every kingdom whose departments and salaries were fixed across kingdoms
-
-- C. elected delegates of a universal peasant assembly
-
-- D. coin-minting guild heads recognised by PGW pottery
 
 **Answer: A.**
 
@@ -439,18 +853,6 @@ Ratnins are best understood as
 
 #### Q18
 
-18
-
-Which fiscal formulation is most accurate?
-
-- A. Bali was always a voluntary gift with no coercive tendency.
-
-- B. Bali and bhaga became more regular, but no mature assessed bureaucracy is proved.
-
-- C. Shulka was a universal one-sixth land tax administered by provinces.
-
-- D. Dakshina replaced all political revenue and war booty.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -463,18 +865,6 @@ Which fiscal formulation is most accurate?
 > **Examiner trap 18:** Do not borrow later tax rates or administrative machinery to fill evidentiary gaps.
 
 #### Q19
-
-19
-
-What happened to sabha and samiti in the Later Vedic phase?
-
-- A. They became identical to modern elected legislatures. with universal adult franchise and written statutes
-
-- B. They disappeared everywhere as soon as iron appeared.
-
-- C. They continued with changing or narrowing influence as royal power grew.
-
-- D. They were names for sacrificial coins paid to priests.
 
 **Answer: C.**
 
@@ -489,18 +879,6 @@ What happened to sabha and samiti in the Later Vedic phase?
 
 #### Q20
 
-20
-
-References to ten-generation kingdoms most directly suggest
-
-- A. that all succession disputes had ended
-
-- B. that kingship remained purely temporary and non-hereditary renewed separately at every seasonal assembly
-
-- C. that every ruler controlled an empire
-
-- D. a strengthening hereditary tendency still open to ratification or exceptional expulsion
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -513,18 +891,6 @@ References to ten-generation kingdoms most directly suggest
 > **Examiner trap 20:** Hereditary tendency is not absolute primogeniture or unlimited sovereignty.
 
 #### Q21
-
-21
-
-The chief political function of royal sacrifices was to
-
-- A. stage legitimacy, hierarchy, alliance and sovereignty through costly ritual
-
-- B. measure exact administrative borders with cadastral precision through an official horse-route cadastral survey
-
-- C. replace all warfare and tribute with prayer
-
-- D. abolish dependence on priests and ratnins
 
 **Answer: A.**
 
@@ -539,18 +905,6 @@ The chief political function of royal sacrifices was to
 
 #### Q22
 
-22
-
-Which varna statement is most accurate?
-
-- A. Later Vedic society already possessed every later jati and untouchability rule. and already fixed by uniform local endogamy
-
-- B. Fourfold hierarchy sharpened as ideology, but lived groups and occupations remained more varied.
-
-- C. Varna disappeared because territorial kingship replaced social status.
-
-- D. The Purusha Sukta is an archaeological inscription from a PGW site.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -563,18 +917,6 @@ Which varna statement is most accurate?
 > **Examiner trap 22:** Varna is a macro-schema; jati histories require later and local evidence.
 
 #### Q23
-
-23
-
-The Brahmana-Kshatriya relationship is best described as
-
-- A. complete separation between ritual and political power without any overlap of patronage or ritual
-
-- B. permanent warfare that prevented royal sacrifice
-
-- C. mutual dependence in rule and ritual combined with status competition
-
-- D. equality with Vaishyas and Shudras in privilege and extraction
 
 **Answer: C.**
 
@@ -589,18 +931,6 @@ The Brahmana-Kshatriya relationship is best described as
 
 #### Q24
 
-24
-
-Which pairing is historically safest?
-
-- A. Vaishya-ritual exemption; Shudra-exclusive Vedic learning under a universal tax-free priestly settlement
-
-- B. Vaishya-imperial governor; Shudra-PGW priest
-
-- C. Vaishya-non-producer; Shudra-tax-free noble
-
-- D. Vaishya-producer and tribute payer; Shudra-subordinated with restricted ritual access
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -613,18 +943,6 @@ Which pairing is historically safest?
 > **Examiner trap 24:** Normative subordination is real evidence, but it is not a complete occupational census.
 
 #### Q25
-
-25
-
-Gotra in the Later Vedic context most safely indicates
-
-- A. a developing patrilineal descent marker connected with exogamy
-
-- B. a provincial tax district surveyed by the Kuru state
-
-- C. a guild monopoly over cattle markets
-
-- D. a fully unchanged marriage code applied to every community
 
 **Answer: A.**
 
@@ -639,18 +957,6 @@ Gotra in the Later Vedic context most safely indicates
 
 #### Q26
 
-26
-
-Which conclusion about women is most defensible?
-
-- A. Gargi and Maitreyi prove universal female education.
-
-- B. Patriarchal norms strengthened, while work, ritual roles and elite debate show uneven agency.
-
-- C. All women were excluded from every ritual and economic activity. including household production and philosophical instruction
-
-- D. The Maitrayani assembly statement is a census of all Indian regions.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -663,18 +969,6 @@ Which conclusion about women is most defensible?
 > **Examiner trap 26:** Exceptional visibility qualifies a trend without cancelling structural patriarchy.
 
 #### Q27
-
-27
-
-The ashrama system should be described as
-
-- A. fully fixed into four compulsory stages for everyone by c. 1000 BCE with no household stage or teacher-pupil discipline
-
-- B. absent until the Gupta period
-
-- C. developing from student and householder anchors toward later forest and renunciant systematisation
-
-- D. an archaeological sequence defined by four pottery styles
 
 **Answer: C.**
 
@@ -689,18 +983,6 @@ The ashrama system should be described as
 
 #### Q28
 
-28
-
-Which priest-function match is correct?
-
-- A. Hotri-physical Yajurvedic procedure; adhvaryu-Samavedic singing and an entirely separate priestly bureaucracy
-
-- B. Udgatri-Rigvedic recitation; brahman-chariot command
-
-- C. Adhvaryu-philosophical debate only; hotri-tax collection
-
-- D. Hotri-Rigvedic recitation; udgatri-Samavedic chant; adhvaryu-ritual procedure
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -713,18 +995,6 @@ Which priest-function match is correct?
 > **Examiner trap 28:** Priestly labels refer to ritual work; avoid modern administrative translations.
 
 #### Q29
-
-29
-
-Which religious change is best framed?
-
-- A. Prajapati, Vishnu and Rudra gained prominence while older deities continued.
-
-- B. Indra and Agni vanished from all later texts. while older gods were prohibited from ritual recitation
-
-- C. Classical Puranic sects appeared fully formed by c. 1000 BCE.
-
-- D. Ritual ceased as soon as Upanishadic speculation began.
 
 **Answer: A.**
 
@@ -739,18 +1009,6 @@ Which religious change is best framed?
 
 #### Q30
 
-30
-
-The early Upanishadic turn is most accurately described as
-
-- A. a complete rejection of every Vedic text and ritual
-
-- B. an internal critique and reinterpretation centred on knowledge, self and ultimate reality
-
-- C. one uniform doctrine written at a single date whose wording, chronology and conclusions never differ
-
-- D. the beginning of Puranic temple worship
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -763,18 +1021,6 @@ The early Upanishadic turn is most accurately described as
 > **Examiner trap 30:** Do not project later Vedanta uniformity onto diverse early dialogues.
 
 #### Q31
-
-31
-
-The Rig-to-Later Vedic comparison is best expressed as
-
-- A. a change from no hierarchy to the first social inequality
-
-- B. an overnight replacement of all kin and pastoral forms
-
-- C. a gradual regional reweighting toward agrarian, territorial and stratified institutions
-
-- D. a direct transition from village chiefship to Mauryan empire under one universal dynastic conquest and legal code
 
 **Answer: C.**
 
@@ -789,18 +1035,6 @@ The Rig-to-Later Vedic comparison is best expressed as
 
 #### Q32
 
-32
-
-How should Later Vedic society be related to the Mahajanapada and second-urbanisation horizon?
-
-- A. As exactly the same political and material formation with no later regional or institutional transformations
-
-- B. As proof that coinage and NBPW were universal before c. 1000 BCE
-
-- C. As unrelated, with no agrarian or territorial continuity
-
-- D. As a precursor supplying some conditions but not the complete later outcome
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -812,21 +1046,217 @@ How should Later Vedic society be related to the Mahajanapada and second-urbanis
 
 > **Examiner trap 32:** Teleology is avoided by naming enabling conditions and additional later causes.
 
+#### Q33
 
-## PYQS AND ANSWER PRACTICE
+**Answer: A.**
 
-### VERIFIED PYQ OWNERSHIP AND KEY DISCIPLINE
+**Option-wise explanation:**
 
-> The 2024 Prelims Set-A wording and official Series-A key are locally verified. The 2026 Set-A wording is locally verified, but the locally held Series-A key is **provisional, not an official final UPSC key**. UPSC publishes no official descriptive model answers for the Mains questions below.
+- **A:** Correct: the two related, layered genres illuminate a shift in emphasis without a sharp universal rupture. [Q33-A]
+- **B:** Incorrect: both families contain layered positions rather than a single dated doctrinal school. [Q33-B]
+- **C:** Incorrect: symbolic ritual and inquiry into the self are not manuals of assessed royal tribute. [Q33-C]
+- **D:** Incorrect: symbolic reflection does not establish uniform abolition or restoration of ritual. [Q33-D]
+
+> **Examiner trap 33:** Distinguish genres without assigning each a single date or universal position. Source: Basic §1.
+
+#### Q34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: eastern mentions neither make the corpus simultaneous nor prove a single ruler's reach. [Q34-A]
+- **B:** Correct: core and later eastern extensions are distinguishable without inventing an empire. [Q34-B]
+- **C:** Incorrect: PGW's limits do not erase independent textual evidence for Kuru-Panchala; eastern mention does not prove conquest. [Q34-C]
+- **D:** Incorrect: the Kuru-Panchala core and later eastern references belong to different geographical claims, not the proposed reversed layers. [Q34-D]
+
+> **Examiner trap 34:** A place's appearance in a later layer does not date all layers or establish annexation. Source: Basic §2; paired session §2.
+
+#### Q35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: vessels and tools cannot independently disclose speech. [Q35-A]
+- **B:** Incorrect: ceramics and a few tools do not trace the limits of Kuru administration. [Q35-B]
+- **C:** Correct: archaeological description and textual attribution operate at different evidentiary levels. [Q35-C]
+- **D:** Incorrect: building material and preservation constrain claims from absent monuments. [Q35-D]
+
+> **Examiner trap 35:** Site assemblage, population identity and narrative historicity are three separate questions. Source: Basic §§3, 20.
+
+#### Q36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: even a securely dated axe can have arrived from another producer. [Q36-A]
+- **B:** Incorrect: weapons establish use, while a regional metal word does not locate a workshop. [Q36-B]
+- **C:** Incorrect: dated habitation artefacts alone do not identify the production process. [Q36-C]
+- **D:** Correct: secure production debris and context directly address where and when iron was made. [Q36-D]
+
+> **Examiner trap 36:** Iron presence is not iron production, and one dated site does not fix a regional adoption date. Source: Basic §4.
+
+#### Q37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: evidence for agricultural intensification remains regional and mediated by resources. [Q37-A]
+- **B:** Incorrect: a pattern at some settlements is not a universal household schedule. [Q37-B]
+- **C:** Incorrect: multi-animal ploughing itself requires cattle traction; intensification does not cancel pastoral resources. [Q37-C]
+- **D:** Incorrect: textual prescription neither counts cultivators nor specifies a uniform metal implement. [Q37-D]
+
+> **Examiner trap 37:** Translate a cultivation possibility into a conditional mechanism, not a population-wide statistic. Source: Basic §5; Advanced §1.
+
+#### Q38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: the share role is not fire custody, and the charioteer/herald is not its collector. [Q38-A]
+- **B:** Correct: these representative roles occur in variable royal ritual lists. [Q38-B]
+- **C:** Incorrect: village leadership is associated with *gramani*, while the queen is a separate participant. [Q38-C]
+- **D:** Incorrect: military leadership and household priesthood belong to *senani* and *purohita* associations. [Q38-D]
+
+> **Examiner trap 38:** Functional label does not guarantee a permanent, uniformly staffed department. Source: Basic §8.
+
+#### Q39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: later *sabha* and *samiti* references persist, and *vidatha* loses prominence. [Q39-A]
+- **B:** Incorrect: a debated gathering cannot be certified as a territorial court; *sabha* is not consistently the general body. [Q39-B]
+- **C:** Correct: differing prominence supports change without a universal disappearance claim. [Q39-C]
+- **D:** Incorrect: *sabha* and *samiti* remain assembly terms, not ritual fees; *vidatha* is not the sole council. [Q39-D]
+
+> **Examiner trap 39:** Declining textual prominence is not proof that every local gathering ceased. Source: Basic §10.
+
+#### Q40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: none of these prescribed rites supplies a census, assessed revenue or cadastral border. [Q40-A]
+- **B:** Incorrect: *ashvamedha* expresses a sovereignty claim, not effective control along every part of a route. [Q40-B]
+- **C:** Incorrect: *vajapeya* stages prestige and abundance through specialist ritual; it does not end priestly mediation. [Q40-C]
+- **D:** Correct: these are qualified political readings of the distinct royal ceremonies. [Q40-D]
+
+> **Examiner trap 40:** Ceremonial sovereignty is evidence of a claim, not a measured state footprint. Source: Basic §11.
+
+#### Q41
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: the term can shift across opponent, captive and servile senses; context matters. [Q41-A]
+- **B:** Incorrect: servile dependence and Shudra status are not interchangeable terms in every layer. [Q41-B]
+- **C:** Incorrect: a reference to a dependant does not establish one exclusive route into dependency. [Q41-C]
+- **D:** Incorrect: ritual lists do not count dependent persons in the wider population. [Q41-D]
+
+> **Examiner trap 41:** Do not equate changing social terms with immutable ethnic or legal categories. Source: Basic §13.
+
+#### Q42
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: textual ideals do not record each family's property transfers. [Q42-A]
+- **B:** Correct: the householder role is visible, while universal inheritance inference is not. [Q42-B]
+- **C:** Incorrect: prescriptive ideals are evidence of claims about household authority, not useless records. [Q42-C]
+- **D:** Incorrect: archaeological confirmation cannot make the householder ideal universal; textual son preference alone does not prove it. [Q42-D]
+
+> **Examiner trap 42:** Patrilineal aspiration is not a verified property ledger for every social group. Source: Basic §14.
+
+#### Q43
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: corpus transmission does not demonstrate universal equal enrolment. [Q43-A]
+- **B:** Incorrect: oral memorisation and recitation remained central. [Q43-B]
+- **C:** Correct: technique, institutional relationship and access limits are all source-consistent. [Q43-C]
+- **D:** Incorrect: specialised recitation, chanting, procedure and oversight imply differentiated training. [Q43-D]
+
+> **Examiner trap 43:** Elaborate oral scholarship does not imply universal literacy or equal eligibility. Source: Basic §17.
+
+#### Q44
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: a *purohita* advises or serves the ruler; that association does not define the omitted specialist function. [Q44-A]
+- **B:** Incorrect: *ritvij* designates a ritual officiant generally, not specifically the overseeing fourth priest. [Q44-B]
+- **C:** Incorrect: teacher status is not the distinctive supervisory slot in the four-priest scheme. [Q44-C]
+- **D:** Correct: the supervisory *brahman* complements recitation, chant and procedure. [Q44-D]
+
+> **Examiner trap 44:** Distinguish the priest *brahman* from the philosophical *brahman* as ultimate reality. Source: Basic §18.
+
+#### Q45
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: conceptual redirection grows inside layered Vedic textual traditions. [Q45-A]
+- **B:** Incorrect: early dialogues vary and retain symbolic sacrificial vocabulary rather than one completed liberation system. [Q45-B]
+- **C:** Incorrect: shared terms do not make distinct texts and passages contemporaneous. [Q45-C]
+- **D:** Incorrect: interiorisation does not demonstrate an end to external rites in all communities. [Q45-D]
+
+> **Examiner trap 45:** Internal critique must not be converted into anachronistic complete renunciation. Source: Basic §19.
+
+#### Q46
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: named participants do not quantify population-wide access. [Q46-A]
+- **B:** Correct: exceptional textual visibility qualifies, but does not erase, normative inequality. [Q46-B]
+- **C:** Incorrect: particular elite debates coexist with evidence of stronger patrilineal prescriptions. [Q46-C]
+- **D:** Incorrect: two named figures cannot measure participation rates in political assemblies. [Q46-D]
+
+> **Examiner trap 46:** Counterexamples to total exclusion do not imply universal equality. Source: Basic §15; paired session.
+
+#### Q47
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: houses of perishable material and storage already indicate settlement despite absent masonry. [Q47-A]
+- **B:** Incorrect: rural settlements do not establish universal coinage or urban functions. [Q47-B]
+- **C:** Correct: this matches the material indicators without erasing evidentiary limits. [Q47-C]
+- **D:** Incorrect: pottery affiliation does not define political allegiance. [Q47-D]
+
+> **Examiner trap 47:** Distinguish increasing settlement complexity from the later second-urbanisation horizon. Source: Basic §20.
+
+#### Q48
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: iron finds differ by region and cannot establish a uniform political or doctrinal sequence. [Q48-A]
+- **B:** Incorrect: a prescription cannot date the immediate emergence of later religious movements. [Q48-B]
+- **C:** Incorrect: even with contextual links, an inevitable heterodox outcome remains a teleological overclaim. [Q48-C]
+- **D:** Correct: a qualified bridge respects causality and the topic-ownership boundary. [Q48-D]
+
+> **Examiner trap 48:** Preconditions are not inevitable outcomes; full heterodox doctrine belongs to Topic 10. Source: Basic §22.
+
+### PYQ KEYS AND MODEL ANSWERS
 
 ### VERIFIED PRELIMS PYQ - 2024 GS-I Q58: UPANISHADS AND PURANAS
-
-**Question as printed:** Consider the following statements:
-
-1. There are no parables in Upanishads.
-2. Upanishads were composed earlier than the Puranas.
-
-Which of the statements given above is/are correct?
 
 | Option | Combination | Status |
 |---|---|---|
@@ -841,8 +1271,6 @@ Which of the statements given above is/are correct?
 
 ### ADJACENT PRELIMS PYQ - 2026 GS-I Q20: KSHETRA-PATNI
 
-**Question as printed:** In which one among the following texts does the term *kshetra-patni* ('mistress of the field') originate?
-
 | Option | Text | Status |
 |---|---|---|
 | A | Rigveda | Distinguish masculine *kshetra-pati* in Rigveda 4.57 |
@@ -856,8 +1284,6 @@ Which of the statements given above is/are correct?
 
 ### SOLVED MAINS PYQ - 2024 GS-I Q1
 
-**Verified wording:** Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words.)
-
 **Demand decoding:** "Underline" requires compact paired changes. Society and economy must organise the answer; geography, polity and religion should appear only where they explain those changes.
 
 **Instructional model answer (125 words):**
@@ -867,8 +1293,6 @@ Rigvedic society was organised chiefly through *jana*, *vis* and mobile or semi-
 **Why this earns marks:** It uses explicit change verbs, named institutions, one continuity line and a fiscal/coinage limit within 150 words.
 
 ### SOLVED MAINS PYQ - 2023 GS-I Q11
-
-**Verified wording:** What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society? (Answer in 250 words.)
 
 **Demand decoding:** Answer both society and religion across Early and Later Vedic horizons, then test persistence as transformed continuity rather than unchanged survival.
 
@@ -886,8 +1310,6 @@ Some repertoires persist in Vedic recitation, fire ritual, kinship idioms and so
 
 ### ORIGINAL MAINS 1 - 10 MARKS
 
-**Question:** Assess the usefulness and limitations of Later Vedic texts for reconstructing society. (Answer in 150 words.)
-
 **Model answer (115 words):**
 
 Later Vedic texts are indispensable because the Yajurveda links formula to ritual action, the Atharvaveda preserves household concerns, the Brahmanas explain kingship and sacrifice, and early Upanishads record philosophical debate. Together they reveal the vocabulary of rajan, ratnins, bali, varna, gotra, household authority and priestly specialisation. Their limits are equally important. The corpus is layered, orally transmitted, regionally concentrated and largely produced by male ritual specialists. Prescriptions about Vaishyas, Shudras or women reveal elite ideology more securely than uniform practice. PGW settlements, crops and iron can test material plausibility but cannot identify Vedic language or ethnicity. Used by genre, layer and region, the texts reconstruct institutional trends; treated literally, they become a false social census.
@@ -901,8 +1323,6 @@ Later Vedic texts are indispensable because the Yajurveda links formula to ritua
 **How to improve under exam conditions:** Underline the thesis, one named evidence item in each paragraph and the final qualification.
 
 ### ORIGINAL MAINS 2 - 10 MARKS
-
-**Question:** Why should iron be treated as an enabling rather than determining factor in Later Vedic change? (Answer in 150 words.)
 
 **Model answer (109 words):**
 
@@ -918,8 +1338,6 @@ Later textual references to shyama-ayas or krishna-ayas and regional iron tools 
 
 ### ORIGINAL MAINS 3 - 15 MARKS
 
-**Question:** Analyse Kuru state formation and the changing character of Later Vedic kingship. (Answer in 250 words.)
-
 **Model answer (175 words):**
 
 Kuru state formation joined older kin identities to a more durable territorial and ritual centre. Bharata and Puru traditions are associated with Kuru consolidation in the upper Ganga-Yamuna doab, while Panchala became another major cultural-political focus. Repeated settlement and agrarian surplus made territory and producers more important, encouraging a movement from jana-centred identity toward janapada tendencies. Kingship became more hereditary: the Shatapatha and Aitareya Brahmanas refer to multi-generation kingdoms, although selection motifs and the expulsion of a king preserve collective ratification and exceptional resistance. The ratnahavimshi ceremony incorporated purohita, senani, gramani, queen, suta, bhagadugha and sangrahitri, showing widening capacity as well as royal dependence on kin, household and functionaries. Bali and bhaga became more regular sources of extraction, while rajasuya, ashvamedha and vajapeya converted surplus and priestly expertise into public sovereignty claims. Yet sabha and samiti continued, ratnin lists varied, and no assessed territorial bureaucracy or standing army is securely demonstrated. Kuru polity was therefore a transitional state: more territorial, hereditary and extractive than Rigvedic chiefship, but still embedded in lineage, assembly and ritual networks.
@@ -933,8 +1351,6 @@ Kuru state formation joined older kin identities to a more durable territorial a
 **How to improve under exam conditions:** Underline the thesis, one named evidence item in each paragraph and the final qualification.
 
 ### ORIGINAL MAINS 4 - 15 MARKS
-
-**Question:** Critically examine varna, household and gender relations in the Later Vedic phase. (Answer in 250 words.)
 
 **Model answer (171 words):**
 
@@ -950,8 +1366,6 @@ Later Vedic texts articulate a sharper hierarchy linking social rank to ritual a
 
 ### ORIGINAL MAINS 5 - 20 MARKS
 
-**Question:** Examine the relationship among agrarian surplus, extraction and ritual sovereignty in the Later Vedic phase. (Answer in 250 words.)
-
 **Model answer (181 words):**
 
 A more stable agrarian base in Kuru-Panchala linked settlement, production and political authority. Plough cultivation, rice, barley, wheat, pulses, ox traction and storage made harvests more regularly available beyond immediate household consumption. This did not end pastoralism: cattle remained crucial for traction, food, prestige and sacrifice. Persistent villages and specialised crafts nevertheless increased the resources that could sustain priests, retainers and rulers. Extraction translated production into power. Bali moved toward obligatory tribute, bhaga denoted a ruler's share, and dana and dakshina channelled wealth through patron-priest relations. Such mechanisms were forming revenue institutions, not a Mauryan assessed bureaucracy. Ritual then converted appropriation into legitimacy. The rajasuya consecrated and renewed kingship; the ashvamedha advertised paramountcy; the vajapeya displayed strength and abundance. Ratnins tied these ceremonies to the royal household, military leadership, local mobilisation and collection. Grand sacrifice redistributed animals, grain and valuables while presenting hierarchy as cosmic order. However, ritual prescriptions may exaggerate actual scale, and a horse's route cannot map effective administration. Agrarian surplus, extraction and yajna therefore formed a reinforcing political economy, but their reach remained regional, negotiated and institutionally incomplete.
@@ -965,8 +1379,6 @@ A more stable agrarian base in Kuru-Panchala linked settlement, production and p
 **How to improve under exam conditions:** Underline the thesis, one named evidence item in each paragraph and the final qualification.
 
 ### ORIGINAL MAINS 6 - 20 MARKS
-
-**Question:** Discuss the Upanishadic turn as both a critique and a transformation of Later Vedic ritualism. (Answer in 250 words.)
 
 **Model answer (204 words):**
 

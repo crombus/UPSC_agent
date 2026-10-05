@@ -115,7 +115,8 @@ CENTRAL THESIS
 
 ## PYQ answer route
 
-- 2018 communalism: define -> power struggle -> relative deprivation -> political framing -> illustrations -> institutional prevention.
+- 2018 communalism: define -> power struggle -> relative deprivation
+  -> political framing -> illustrations -> institutional prevention.
 - 2022 BIMSTEC/SAARC: similarities -> differences -> Indian objectives -> delivery limits -> complementarity.
 - 2023 post-liberal identity: opportunities + uneven gains + migration/media -> political mediation -> balanced reforms.
 - 2023 diaspora: economic + political benefits -> consular/plural legitimacy -> autonomy and non-instrumentalisation.

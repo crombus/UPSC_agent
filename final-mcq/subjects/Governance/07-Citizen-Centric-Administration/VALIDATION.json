@@ -1,0 +1,52 @@
+{
+  "topic": "07 Citizen-Centric Administration",
+  "status": "complete for original banks with explicit holds",
+  "counts": {
+    "revision-1": 42,
+    "revision-2": 42,
+    "revision-3": 42,
+    "total": 126
+  },
+  "key_counts": {
+    "1": {
+      "A": 11,
+      "B": 10,
+      "C": 11,
+      "D": 10
+    },
+    "2": {
+      "A": 10,
+      "B": 11,
+      "C": 10,
+      "D": 11
+    },
+    "3": {
+      "A": 11,
+      "B": 10,
+      "C": 11,
+      "D": 10
+    }
+  },
+  "owner_focuses": 42,
+  "affirmative_coverage": {
+    "revision-1": 42,
+    "revision-2": 42,
+    "revision-3": 42
+  },
+  "exact_pyqs_live": 0,
+  "holds": [
+    "objective-key",
+    "Mains-routing",
+    "current-status",
+    "reproduction-rights"
+  ],
+  "audits": {
+    "structural": "PASS",
+    "option": "PASS",
+    "leakage": "PASS",
+    "distinctness": "PASS",
+    "source_date": "PASS",
+    "institutional_facts": "PASS",
+    "hostile": "PASS"
+  }
+}

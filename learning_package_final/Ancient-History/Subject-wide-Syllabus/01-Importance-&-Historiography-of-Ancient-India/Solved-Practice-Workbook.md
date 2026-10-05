@@ -6,22 +6,18 @@ topic_key: ancient-indian-history-01
 
 ## BASIC MCQS / REMEDIATION
 
-> **Original diagnostic practice.** All 32 questions below are original, method-focused diagnostics. Keys rotate strictly **A -> B -> C -> D** eight times; explanations and trap logic follow every item. The remedial drills target the exact error families revealed by the diagnostics.
+> **Original diagnostic practice.** Attempt all 48 original method-focused diagnostics before consulting the separate answer key below them. Keys rotate strictly **A → B → C → D** twelve times. The remedial drills target the error families revealed by the diagnostics.
 
-### PART III — 32 ORIGINAL HARD MCQs
+### PART III — 48 ORIGINAL HARD MCQs
 
-> ⚠️ **Key rotation.** Strict **A → B → C → D**, repeated exactly **eight** times: Q1 = A, Q2 = B, Q3 = C, Q4 = D, Q5 = A, Q6 = B, Q7 = C, Q8 = D, and so on through Q32 = D. Every question has four plausible options, a detailed explanation and stated trap logic. ⚠️ Difficulty is set at or slightly above actual UPSC level, with heavy use of the reversal, universal-quantifier, attribution-swap and inference-overreach constructions.
+> ⚠️ **Key rotation.** Strict **A → B → C → D**, repeated twelve times through Q48. Answers, four option-specific explanations and examiner traps appear only after all 48 questions.
 
 #### Q1
 Which one of the following statements about the beginning of modern research into the history of ancient India is correct?
-(a) It began in the second half of the eighteenth century to serve the needs of the British colonial administration, the immediate difficulty being the administration of the Hindu law of inheritance after Bengal and Bihar came under East India Company rule in 1765
+(a) It began in the second half of the eighteenth century partly to serve British administrative needs, including the administration of Hindu personal law after the Company acquired revenue authority in Bengal and Bihar in 1765
 (b) It began with the publication of V.A. Smith's *Early History of India* in 1904
 (c) It began with the establishment of the Archaeological Survey of India in 1871
 (d) It began with the nationalist response to colonial writing in the late nineteenth century
-
-> ✅ **Answer: (A).**
-> **Explanation.** R.S. Sharma states that although educated Indians retained traditional history in handwritten epics, Puranas and semi-biographical works, "modern research in the history of ancient India began only in the second half of the eighteenth century to serve the needs of the British colonial administration", and that when Bengal and Bihar fell to the Company in 1765 the administrators "found it difficult to administer the Hindu law of inheritance", leading to the 1776 translation of the *Manu Smriti* as *A Code of Gentoo Laws*.
-> ⚠️ **Trap logic.** (c), (b) and (d) are all real and datable events **within** the story, which makes them attractive; each is a **later** milestone. The question tests whether you hold the sequence, not just the dates.
 
 #### Q2
 Consider the following pairs:
@@ -39,10 +35,6 @@ How many of the above pairs are correctly matched?
 (c) All four
 (d) Only two
 
-> ✅ **Answer: (B).**
-> **Explanation.** Pairs 1, 2 and 3 are correct: the Asiatic Society of Bengal was founded at Calcutta in **1784** by Sir William Jones; the Bombay Asiatic Society in **1804**; the Archaeological Survey of India in **1871**. Pair 4 is wrong: **1823** is the year of the **Asiatic Society of Great Britain** in London; the **Archaeological Survey of Ceylon** was established in **1890**.
-> ⚠️ **Trap logic.** The 1823 date is genuine and belongs to this cluster of facts — it is simply attached to the wrong institution. Date-transplant across a plausible neighbour is the standard construction for institutional-chronology items.
-
 #### Q3
 With reference to V.A. Smith's *Early History of India*, consider the following statements:
 1. It was written in 1904 and was the first systematic history of ancient India.
@@ -55,20 +47,12 @@ Which of the statements given above are correct?
 (c) 1 and 2 only
 (d) 1, 2 and 3
 
-> ✅ **Answer: (C).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 **inverts** Smith's central thesis: "India was presented as a land of despotism which had **not experienced political unity until the establishment of British rule**", and his signature line runs, "Autocracy is substantially the only form of government with which the historian of India is concerned."
-> ⚠️ **Trap logic.** The counter-claim — that Chakravarti-type unity was attained "at least twice", under Ashoka in the third century BC and Samudragupta in the fourth century AD — is **R.S. Sharma's rebuttal to Smith**, and is here re-attributed to Smith himself. Whenever a statement matches something you know, verify **whose** claim it is.
-
 #### Q4
 Which one of the following was **not** among the generalisations about ancient India made by Max Mueller and other Western scholars, as recorded by R.S. Sharma?
 (a) That Indians had experienced neither a sense of nationhood nor any form of self-government
 (b) That the ancient Indians lacked a sense of history, especially of the element of time and chronology
 (c) That Indians were accustomed to despotic rule
 (d) That Indian society had undergone rapid transformation in its social structure over the centuries
-
-> ✅ **Answer: (D).**
-> **Explanation.** The recorded generalisations are that Indians lacked a sense of history and chronology, were accustomed to despotic rule, were so engrossed in spiritualism or the next world that they felt no concern for this one, and had experienced neither nationhood nor self-government. Option (d) states the **opposite** of the colonial position: Indological writing presented Indian society as **static** and its political systems as **unwaveringly despotic**.
-> ⚠️ **Trap logic.** A "not among" question rewards the candidate who has memorised the list as a **list**. The distractor here is the negation of the load-bearing colonial claim, which makes it feel unfamiliar in the right way — but for the wrong reason.
 
 #### Q5
 Consider the following statements about the objections raised against the division of Indian history into Hindu, Muslim and British periods:
@@ -82,10 +66,6 @@ Which of the statements given above are correct?
 (c) 1, 2 and 3
 (d) 1 and 3 only
 
-> ✅ **Answer: (A).**
-> **Explanation.** Statements 1 and 2 are among the objections stated explicitly — "Why is the third period described as the British and not the Christian period?" and "What about polities ruled by non-Muslim elites after the advent of Turkish rule?" Statement 3 reverses the history: the classification **took root in the colonial period**, and was subsequently **retained** by nationalist historians, where it "coalesced with a communal tendency to valorize the 'Hindu period'".
-> ⚠️ **Trap logic.** The comfortable narrative is that nationalists overturned everything colonial. The uncomfortable and correct finding is that they overturned the **verdict** and kept the **frame** — which is why statement 3 is the discriminator.
-
 #### Q6
 With reference to the Nationalist school of ancient Indian historiography, consider the following statements:
 1. Rajendra Lal Mitra published some Vedic texts and produced a tract showing that in ancient times people ate beef.
@@ -98,10 +78,6 @@ Which of the statements given above are correct?
 (c) 2 and 3 only
 (d) 1, 2 and 3
 
-> ✅ **Answer: (B).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 is contradicted by the source's own qualification: "most historians were guided by the nationalist ideas of Hindu revivalism, **but there was no dearth of scholars who adopted a rationalist and objective approach**" — Mitra being the named instance of the second category.
-> ⚠️ **Trap logic.** "Without exception" is a **universal quantifier**, and the source has taken care to insert an exception clause precisely at this point. Universal claims about a school of historians are almost always the wrong statement.
-
 #### Q7
 K.P. Jayaswal's principal contribution to the historiography of ancient India is best described as
 (a) the first systematic political history of ancient India, based on an in-depth study of the available sources
@@ -109,20 +85,12 @@ K.P. Jayaswal's principal contribution to the historiography of ancient India is
 (c) the demonstration, through articles written as early as 1910–12 and later through *Hindu Polity* (1924), that republics existed in ancient times and enjoyed a measure of self-government
 (d) the first survey volume to show the stages of social and economic development in terms of tribal and class processes
 
-> ✅ **Answer: (C).**
-> **Explanation.** Sharma writes that "the greatest merit of K.P. Jayaswal lay in exploding the myth of Indian despotism", that as early as **1910–12** he wrote several articles showing that republics existed and enjoyed a measure of self-government, and that his findings appeared in ***Hindu Polity* in 1924**, now in its sixth edition and considered a classic.
-> ⚠️ **Trap logic.** (a) is **V.A. Smith**, (d) is **D.D. Kosambi**, and (b) is **P.V. Kane's** *History of Dharmasastra*. Each distractor is a correct description of a **different** scholar — the standard construction for historiography MCQs, and the reason author–work–contribution triples must be learned as triples.
-
 #### Q8
 Which one of the following statements about the reception of K.P. Jayaswal's work is correct?
 (a) He was criticised only by British scholars and never by Indian historians
 (b) His thesis on the republican experiment was universally accepted from the outset and attracted no criticism
 (c) His work was ignored by later scholarship and *Hindu Polity* went out of print
 (d) He was charged with projecting modern nationalist ideas into ancient institutions and was attacked by writers including U.N. Ghoshal, yet his basic thesis regarding the practice of the republican experiment is widely accepted
-
-> ✅ **Answer: (D).**
-> **Explanation.** Sharma records precisely this mixed position: the anachronism charge, the attack by "many writers including U.N. Ghoshal (1886–1969)", **and** that "his basic thesis regarding the practice of the republican experiment is widely accepted", with *Hindu Polity* "now in its sixth edition… considered a classic".
-> ⚠️ **Trap logic.** Options (b), (c) and (a) are the three **pure** positions — total acceptance, total rejection, and a nationality-based split. The correct answer is the only **mixed** one. In historiography, a uniformly positive or uniformly negative option is almost always the distractor.
 
 #### Q9
 Consider the following statements about A.L. Basham:
@@ -136,20 +104,12 @@ Which of the statements given above are correct?
 (c) 2 and 3 only
 (d) 1 and 3 only
 
-> ✅ **Answer: (A).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 describes **A.A. Kosambi**, whose treatment "follows a materialist interpretation of history, which is derived from the writings of Karl Marx". Basham was not a Marxist; indeed Sharma records that Kosambi "was criticized by many scholars, **including Basham**".
-> ⚠️ **Trap logic.** Because Basham and Kosambi are discussed in the same section as parts of the same "shift", candidates fuse them. The disagreement between them is the fact that keeps them apart.
-
 #### Q10
 Which one of the following is stated as a limitation of left-oriented historians of ancient and early medieval India up to around the 1980s?
 (a) They refused to make use of inscriptions and coins
 (b) Although archaeological data was included, the basic framework of the historical narrative remained text-centric
 (c) They confined their work to the political history of dynasties
 (d) They rejected the possibility of studying social and economic structures
-
-> ✅ **Answer: (B).**
-> **Explanation.** Upinder Singh's criticism is precisely this: "Archaeological data was included, but the basic framework of the historical narrative remained **text-centric**", alongside unilinear models derived from Western writings, texts sometimes read uncritically, and religion and culture sidelined or mechanically presented as reflections.
-> ⚠️ **Trap logic.** (a) is a crude exaggeration of the real criticism. (c) and (d) are the **opposite** of the school's defining achievements — shifting focus from dynastic history to social and economic structures and processes. Knowing the criticism accurately is what allows you to reject its caricature.
 
 #### Q11
 With reference to the classification of the Indian past into ancient/early, early medieval, medieval and modern periods, consider the following statements:
@@ -163,20 +123,12 @@ Which of the statements given above are correct?
 (c) 1 and 2 only
 (d) 1 and 3 only
 
-> ✅ **Answer: (C).**
-> **Explanation.** Statements 1 and 2 reproduce the scheme exactly. Statement 3 contradicts its own author: "The **dividing lines may vary**", "Periodization is convenient but it is important to remember that **these are not hard lines**", and "Some of the most exciting themes in Indian history require taking a long-term view and **breaking through the lines of periodization**."
-> ⚠️ **Trap logic.** The scheme is reproduced so uniformly in textbooks that its self-limiting clause is treated as decoration. It is not: it is part of the scheme.
-
 #### Q12
 Which one of the following best explains why the Harappan civilization is classified within protohistory rather than history?
 (a) The Harappans had no system of writing of any kind
 (b) The Harappans are known only through the written records of contemporary literate societies elsewhere
 (c) The Harappan period precedes the beginning of food production
 (d) The Harappans were a literate people, but their script has not yet been deciphered, so historians cannot use their written material to reconstruct history
-
-> ✅ **Answer: (D).**
-> **Explanation.** The source is explicit: "the Harappan civilization — a **literate culture with an undeciphered script** — is included in protohistory", and "Although the Harappans were a literate people, their script has not yet been deciphered. So, historians cannot use the written material they left behind to reconstruct history."
-> ⚠️ **Trap logic.** (a) is the popular misconception. (c) inverts the archaeologists' usage of protohistory, which **begins** at food production. (d) is the **European** usage of the term — a correct definition, but not the reason the Harappans are so classified. Three of the four options are true statements about *something*.
 
 #### Q13
 Consider the following statements about writing in the Indian subcontinent:
@@ -190,20 +142,12 @@ Which of the statements given above are correct?
 (c) 1 and 3 only
 (d) 1, 2 and 3
 
-> ✅ **Answer: (A).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 overreaches: the source explicitly allows that "it is possible that people continued to write, although on **perishable material**". This is the textbook application of the rule that absence of evidence is not evidence of absence unless survivability, adequate search and patterned silence are all established.
-> ⚠️ **Trap logic.** Statement 3 is the most common inference candidates draw from statement 2, and drawing it converts two correct facts into a wrong answer. "Hardly any surviving specimens" is a statement about **preservation**, not about **practice**.
-
 #### Q14
 The beginning of the historical period in South India has been placed by scholars during the third or second centuries BCE on the basis of Tamil-Brahmi inscriptions and Sangam literature. Which one of the following considerations has been advanced for pushing this date back to at least the fourth century BCE?
 (a) The decipherment of the Harappan script
 (b) The evidence of earlier Brahmi inscriptions from Anuradhapura in Sri Lanka and, more recently, from Kodumanal and Keezhadi in Tamil Nadu
 (c) The radiocarbon dating of the Vedic corpus
 (d) The discovery of punch-marked coins in the Ganga valley
-
-> ✅ **Answer: (B).**
-> **Explanation.** The source names exactly these three sites: "the evidence of earlier Brahmi inscriptions from **Anuradhapura in Sri Lanka** and more recently, from **Kodumanal and Keezhadi in Tamil Nadu**, suggest that the date needs to be pushed back to at least the fourth century BCE."
-> ⚠️ **Trap logic.** (a) is a **hypothetical** in the same passage — decipherment *would* push northern India's date to the third millennium BCE **if** it occurred; it has not. (b) is a category error, since radiocarbon dates organic samples and not orally transmitted texts. The question rewards distinguishing what **has** been found from what **would** matter.
 
 #### Q15
 With reference to radiocarbon dating as used in archaeology, consider the following statements:
@@ -217,20 +161,12 @@ Which of the statements given above are correct?
 (c) 1, 2 and 3
 (d) 2 and 3 only
 
-> ✅ **Answer: (C).**
-> **Explanation.** All three are stated in the source. The method "provides approximate, not exact dates, and a standard error margin (known as the standard deviation) is recognized"; "'BP' stands for 'Before Present', and the year 1950… is taken as the base line"; and scientists "have known for some time that the amount of radiocarbon produced in the atmosphere has not been constant over time", so "some calibrations, i.e., corrections, have to be made".
-> ⚠️ **Trap logic.** Candidates trained to hunt for the false statement will invent one. Where a technical process is described accurately in all three particulars, "all of the above" is the answer — and the calibration point is the one most often missed, which is why it is placed last.
-
 #### Q16
 Which one of the following inferences may legitimately be drawn from the finding that soil in the courtyards at the chalcolithic site of Inamgaon had a higher nitrogen content than the soil inside the houses?
 (a) That the inhabitants of Inamgaon spoke a particular language
 (b) That the inhabitants of Inamgaon practised intensive irrigated agriculture
 (c) That Inamgaon was a fortified settlement with a defensive ditch
 (d) That the inhabitants tied their animals in their courtyards, since the decomposition of animal excreta increases the nitrogen content of the soil
-
-> ✅ **Answer: (D).**
-> **Explanation.** The chain is stated in the source: decomposition of animal excreta raises soil nitrogen; courtyard soil at Inamgaon showed higher nitrogen than house interiors; therefore "people tied their animals in their courtyards".
-> ⚠️ **Trap logic.** (a) is the identity fallacy in miniature — no chemical measurement licenses a linguistic inference. (d) and (c) are archaeologically plausible-sounding but are simply not what nitrogen measures. The question tests whether you can trace the **specific** inferential chain rather than reaching for a general association.
 
 #### Q17
 Consider the following statements about ethno-archaeology:
@@ -244,20 +180,12 @@ Which of the statements given above are correct?
 (c) 1 and 3 only
 (d) 1, 2 and 3
 
-> ✅ **Answer: (A).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 contradicts the stated caution: ethno-archaeological evidence "must be used cautiously, and it should be seen as **suggesting possible and not necessarily conclusive** ways of interpreting the archaeological data, always keeping in mind the **differences between the present and past contexts**".
-> ⚠️ **Trap logic.** "Survived unchanged" is a **continuity overclaim** — the same error as assuming Vedic prescriptions describe living practice. Ethno-archaeology generates **analogies**, not identities.
-
 #### Q18
 Which one of the following statements about visual sources for ancient and early medieval Indian history is correct?
 (a) Artists in ancient India worked exclusively within a single religious tradition and did not move between patrons
 (b) Idealised bodily forms in ancient Indian art should not be seen as direct reflections of what ordinary people looked like
 (c) Ancient Indian artists are generally better documented than the patrons who financed their work
 (d) Visual sources are of interest only to art historians and have no evidential value for social or political history
-
-> ✅ **Answer: (B).**
-> **Explanation.** The source states it with an exclamation: "Of course, the idealized bodily forms in ancient Indian art should **not** be seen as direct reflections of what ordinary people looked like!"
-> ⚠️ **Trap logic.** (c) inverts the actual position — "much more is known about **patrons** who financed works of art compared to the **artists** who created them". (b) contradicts the statement that artists were "often peripatetic… commissioned by different patrons to execute works that **cut across religious boundaries**". (d) contradicts the recognition that "visual sources have an importance **beyond art history**".
 
 #### Q19
 Consider the following statements regarding what ancient DNA (aDNA) and genome analysis can establish about past populations:
@@ -271,20 +199,12 @@ Which of the statements given above are correct?
 (c) 1 and 3 only
 (d) 1 and 2 only
 
-> ✅ **Answer: (C).**
-> **Explanation.** Statement 1 is supported: genome analysis has "especially contributed towards understanding patterns of migration and changes in population". Statement 3 states the sampling discipline correctly. Statement 2 is false: caste and religion are **social** categories with histories; they are not biologically encoded and cannot be read from a genome.
-> ⚠️ **Trap logic.** This is the most consequential single discrimination in contemporary Indian historiography and the one most often violated in public discussion. Note also that the same prohibition covers **language**, for the same reason: it is learned, not inherited.
-
 #### Q20
 The salvage operation carried out at Nagarjunakonda in the Guntur district of Andhra Pradesh between 1954 and 1960 involved which one of the following?
 (a) The relocation of the entire site to a museum in Hyderabad before the monsoon
 (b) The abandonment of the valley without documentation because of the pace of construction
 (c) The excavation of the site by a foreign archaeological mission under a bilateral agreement
 (d) Thorough exploration, excavation and documentation by officers of the Archaeological Survey of India, followed by the transplantation and rebuilding of nine of the most important structures and the making of replicas of fourteen others
-
-> ✅ **Answer: (D).**
-> **Explanation.** The account is exact: before the valley was submerged by the Nagarjunasagar dam across the Krishna, ASI officers "thoroughly explored, excavated, and documented the valley" between 1954 and 1960; then "nine of the most important structures were transplanted and re-built" on the hill and the reservoir banks, and "replicas of 14 other structures were made".
-> ⚠️ **Trap logic.** The two numbers — **nine transplanted**, **fourteen replicated** — are the discriminators, and they are the kind of specific detail UPSC likes because it separates reading from familiarity. ⚠️ Note the historiographical point behind the fact: transplantation preserves **structure** and destroys **context**.
 
 #### Q21
 Consider the following statements about source criticism:
@@ -298,10 +218,6 @@ Which of the statements given above are correct?
 (c) 1 and 3 only
 (d) 2 and 3 only
 
-> ✅ **Answer: (A).**
-> **Explanation.** Statements 1 and 2 express the core method. Statement 3 is false: bias is a coordinate that tells us where a source stands; it changes what the source is good evidence for, but does not automatically disqualify it.
-> ⚠️ **Trap logic.** UPSC often converts a sensible caution into an absolute rejection. The correct move is to specify the source's evidential reach.
-
 #### Q22
 Which one of the following correctly distinguishes *provenance* from *ownership*?
 (a) Provenance concerns artistic style, while ownership concerns insured value
@@ -309,20 +225,12 @@ Which one of the following correctly distinguishes *provenance* from *ownership*
 (c) Provenance applies only to excavated objects, while ownership applies only to manuscripts
 (d) Provenance is determined by the present museum, while ownership follows automatically from place of manufacture
 
-> ✅ **Answer: (B).**
-> **Explanation.** Provenance asks where an object came from, where it has been and how that chain is known. Ownership asks who is legally entitled to possess it. Historical interpretation may remain weak even when legal title is clear if findspot, association and recovery context are lost.
-> ⚠️ **Trap logic.** The two questions often travel together, but they are not interchangeable: one concerns evidence, the other law.
-
 #### Q23
 Which one of the following best describes an *estampage* used in epigraphic study?
 (a) A translation of an inscription prepared by a court historian
 (b) A high-resolution digital photograph that automatically preserves stratigraphic context
 (c) An inked paper impression taken from an inscribed surface so that the text can be studied away from the original
 (d) A three-dimensional cast made only from copper-plate charters
-
-> ✅ **Answer: (C).**
-> **Explanation.** An estampage is a paper impression of an inscription. It is a valuable surrogate for reading and comparison, but it does not preserve every feature of the original object's archaeological context.
-> ⚠️ **Trap logic.** A surrogate can preserve text while losing material, spatial and contextual information; digitising a surrogate does not restore what was never captured.
 
 #### Q24
 Consider the following statements about the writing of history as a discipline:
@@ -336,20 +244,12 @@ Which of the statements given above are correct?
 (c) 1, 2 and 3
 (d) 1 and 2 only
 
-> ✅ **Answer: (D).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 is precisely what the source's guard clause forbids: "**All histories are partial and provisional and subject to revision, but all histories are not equally reliable or acceptable.** They have to be supported by evidence from the sources and must stand up to scrutiny when subjected to rigorous analysis."
-> ⚠️ **Trap logic.** Statement 3 is the relativist slide, and it follows *plausibly* from statements 1 and 2 unless the guard clause is held in mind. This is the single most important logical discrimination in the whole topic, and it recurs in every "critically examine" answer.
-
 #### Q25
 An archaeologist reports that a particular pottery type is distributed across a wide region. Which one of the following conclusions may legitimately be drawn from this fact alone?
 (a) None of the conclusions below follows from the distribution alone; an archaeological culture need not correspond to a linguistic group, political unit, lineage, clan or tribe
 (b) The population of the region spoke a common language
 (c) The region formed a single political unit
 (d) The region was inhabited by a single tribe or clan
-
-> ✅ **Answer: (A).**
-> **Explanation.** The bar is stated in terms: "There are many problems involved in translating archaeological cultures into history. **An archaeological culture need not necessarily correspond to a linguistic group, political unit, or a social group such as a lineage, clan, or tribe.**"
-> ⚠️ **Trap logic.** Options (c), (a) and (d) are the three classic identity inferences — political, linguistic and kin-based — and each has done real damage in the historiography of early India. The correct answer is the one that refuses all three.
 
 #### Q26
 Which one of the following is identified as a feature of Indological writing of the eighteenth and nineteenth centuries?
@@ -358,10 +258,6 @@ Which one of the following is identified as a feature of Indological writing of 
 (c) The systematic acknowledgement of the Indian scholars who supplied information to European researchers
 (d) A careful separation of the categories of race, religion and ethnicity from one another
 
-> ✅ **Answer: (B).**
-> **Explanation.** It is the first item on the list of colonial features: "The Brahmanical perspective of ancient Sanskrit texts was often **uncritically taken** as reflecting the Indian past."
-> ⚠️ **Trap logic.** (b) reverses the actual feature — race, religion and ethnicity "were often **confused** with each other". (a) is a feature of **Nationalist** writing. (c) reverses the record — Indologists "depended heavily on information provided by Indians, whose contribution was **rarely acknowledged**". Every distractor is a truth relocated.
-
 #### Q27
 With reference to the contribution of gender history to the study of ancient India, which one of the following is correct?
 (a) It has concluded that gender relations left no trace in the material record
@@ -369,20 +265,12 @@ With reference to the contribution of gender history to the study of ancient Ind
 (c) It has broken the artificial divide between the private and political domains, revealed power hierarchies within the family and household, and demonstrated the close relationship between gender, class, caste and political power
 (d) It has established that ancient Indian texts were composed primarily by women for a female audience
 
-> ✅ **Answer: (C).**
-> **Explanation.** These are the achievements listed in the source, together with the observation that women and gender "are now recognized as important parts of social history".
-> ⚠️ **Trap logic.** (c) reverses the elite-male authorship of the textual corpus, which is the *difficulty* gender history had to work around. (a) is refuted by bioarchaeology, where comparing nutritional inputs in the bones of men and women at a site "can indicate whether there were marked status differences… between men and women".
-
 #### Q28
 R.S. Sharma's discussion of approaches to ancient Indian history since 1980 characterises the contemporary situation as a struggle between
 (a) archaeology and textual scholarship
 (b) regional history and pan-Indian history
 (c) colonialism and nationalism
 (d) communalism and irrationalism on one side, and rationalism and professionalism on the other, while noting that most writers are rational and professional
-
-> ✅ **Answer: (D).**
-> **Explanation.** The passage is explicit: under British rule the struggle was "between colonialism and nationalism"; "Now the situation has undergone a change. The struggle now is between **communalism and irrationalism**, on the one hand, and **rationalism and professionalism**, on the other. **Though most writers are rational and professional**, some have become communal and irrational."
-> ⚠️ **Trap logic.** (c) describes the **earlier** struggle, which the same passage names — the question tests whether you registered the word "now". The qualifying clause in (a) is also the clause most often dropped when this passage is quoted, and dropping it produces a sweeping claim the source does not make.
 
 #### Q29
 Consider the following statements about the historiography of the early medieval period in India:
@@ -396,20 +284,12 @@ Which of the statements given above are correct?
 (c) 1, 2 and 3
 (d) 2 and 3 only
 
-> ✅ **Answer: (A).**
-> **Explanation.** Statements 1 and 2 are exact. Statement 3 is contradicted: "while the heartlands of great empires and kingdoms are well represented, **many regions, for instance the Northeast, are not**. Greater effort needs to be made to redress this balance."
-> ⚠️ **Trap logic.** A candidate impressed by the achievements described in statements 1 and 2 may assume the coverage problem has been solved. The source pairs the achievement with the named gap in the same passage.
-
 #### Q30
 Human remains from an excavated burial are transferred to a laboratory for multidisciplinary analysis. Which statement most accurately describes the methodological status of that event?
 (a) It establishes a final conclusion about the ancestry of the settlement
 (b) It marks a stage in a research process; conclusions require results, publication, scrutiny and contextual interpretation
 (c) It fixes the absolute chronology of the entire site
 (d) It has no relevance to historical reconstruction
-
-> ✅ **Answer: (B).**
-> **Explanation.** Sampling and laboratory transfer are research stages, not findings. Historical claims arise only after methods, results, uncertainties and archaeological context are published and tested.
-> ⚠️ **Trap logic.** Options (a) and (c) overclaim; option (b) understates. Methodological discipline occupies the middle.
 
 #### Q31
 Which one of the following pairs of works and authors is correctly matched?
@@ -418,10 +298,6 @@ Which one of the following pairs of works and authors is correctly matched?
 (c) *An Introduction to the Study of Indian History* — D.D. Kosambi
 (d) *History and Culture of the Indian People* — K.A. Nilakanta Sastri
 
-> ✅ **Answer: (C).**
-> **Explanation.** *An Introduction to the Study of Indian History* (1957) is **D.D. Kosambi's**, later popularised in *The Civilisation of Ancient India in Historical Outline* (1965).
-> ⚠️ **Trap logic.** (c) belongs to **C.L. Basham** (1951) — and Basham was one of Kosambi's critics, so the pairing is doubly wrong. (b) belongs to **K.P. Jayaswal** (1924) — U.N. Ghoshal was among its **critics**, which is the sharpest form of this trap: the name is genuinely attached to the book, but on the wrong side of it. (d) belongs to **R.A. Majumdar** as general editor; Nilakanta Sastri wrote *C History of South India*.
-
 #### Q32
 Which one of the following sentences is methodologically acceptable in an ancient-history answer?
 (a) Biological ancestry establishes the language and religion of a population
@@ -429,11 +305,554 @@ Which one of the following sentences is methodologically acceptable in an ancien
 (c) Archaeology confirms a literary narrative wholesale
 (d) A reconstruction should state its claim, named evidence, strongest alternative, limitation and residual uncertainty
 
-> ✅ **Answer: (D).**
-> **Explanation.** Option (c) turns evidence into a qualified historical argument. The other options confuse prescription with practice, corroboration with proof, and biological ancestry with learned social identities.
-> ⚠️ **Trap logic.** The safest answer is not the weakest claim; it is the strongest claim that the evidence actually licenses.
+#### Q33
+Consider the following claims about historical consciousness in ancient India:
+1. Accounts of successive dynasties and named genealogies can express linear historical time.
+2. The four *yugas* forming a *mahāyuga* express cyclical time.
+3. The presence of cyclical time proves that ancient authors could not conceive a sequence of rulers.
 
-> ⚠️ **Rotation audit.** B: Q1, Q5, Q9, Q13, Q17, Q21, Q25, Q29 (8). D: Q2, Q6, Q10, Q14, Q18, Q22, Q26, Q30 (8). A: Q3, Q7, Q11, Q15, Q19, Q23, Q27, Q31 (8). C: Q4, Q8, Q12, Q16, Q20, Q24, Q28, Q32 (8). **Total 32, strict B → D → A → C repeated eight times.**
+Which of the claims are defensible?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+#### Q34
+An historian has a list of kings preserved in a *purāṇa* and a royal eulogy naming one ruler. Which is the most defensible first step toward a connected history?
+(a) Treat the list as a complete, contemporaneous chronological register and fill its gaps with the eulogy
+(b) Examine the layers and purposes of both records, then test their sequence against independent, securely contextualised evidence
+(c) Reject both records because religious narrative and praise are incapable of preserving historical information
+(d) Treat the eulogy as popular testimony that independently establishes the entire list
+
+#### Q35
+Match the intervention to the scholar:
+
+| Intervention | Scholar |
+|---|---|
+| 1. Reconstructed a connected political narrative | H.C. Raychaudhuri |
+| 2. Advanced rational textual work with a reformist argument | Rajendra Lal Mitra |
+| 3. Expanded southern regional political history | K.A. Nilakanta Sastri |
+| 4. Wrote *The Wonder That Was India* | R.C. Majumdar |
+
+How many pairs are correctly matched?
+(a) One
+(b) Two
+(c) Three
+(d) Four
+
+#### Q36
+For a research question about changing rights over land, which sequence best distinguishes a materialist *question* from an unsupported stage label?
+(a) Name a mode of production first → classify every region by it → ignore land grants inconsistent with the label
+(b) Read a normative text as a direct census of landholders → assume all regions followed the same chronology
+(c) Count kings and wars → infer fiscal relations from the number of dynasties alone
+(d) Ask how grants and fiscal rights affected control of surplus → compare regions and counter-evidence → qualify any proposed structural transition
+
+#### Q37
+A current social institution resembles an institution named in an ancient text. What follows from that resemblance alone?
+(a) A hypothesis of possible continuity requiring evidence for changes of form, reach and meaning
+(b) Proof that its current function and membership were unchanged throughout the ancient period
+(c) Proof that the ancient institution existed uniformly throughout the subcontinent
+(d) Proof that preserving the institution also requires restoring every old hierarchy associated with it
+
+#### Q38
+Consider the following statements about the Nationalist response:
+1. Challenges to colonial despotism narratives could coexist with serious manuscript and inscriptional research.
+2. Retention of a colonial religious period-frame could enable communal glorification even when a historian intended to recover Indian agency.
+3. Because some nationalist work used revivalist motifs, Rajendra Lal Mitra's reformist intervention must be reclassified as imperial history.
+
+Which are defensible?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+#### Q39
+Which critical assessment of a materialist account of ancient India is **best supported**?
+(a) It cannot explain society because production has no bearing on power.
+(b) It is always false because its historians never considered material remains.
+(c) It can illuminate production, caste and agrarian relations, yet its application must test textual genre, regional variation and the independent force of religion and culture.
+(d) Its focus on class proves that all ancient Indian religious practices were identical economic reflexes.
+
+#### Q40
+Which pairing distinguishes two frequently confused period labels without turning either into an absolute cut-off?
+(a) “Early historic” = a fixed religious age; “early medieval” = all pre-literate communities
+(b) “Early historic” = British colonial rule; “early medieval” = the Harappan urban phase
+(c) “Early historic” = only the period of royal inscriptions; “early medieval” = only the period of foreign travelogues
+(d) “Early historic” = a context-dependent evidence/process label; “early medieval” = a debated structural and chronological transition
+
+#### Q41
+Place the following historiographical developments in their broad chronological order:
+1. James Mill's Hindu–Muslim–British framing and the growth of imperial political history
+2. Colonial-era Orientalist collection, translation and institutional study
+3. Materialist and social-history interventions associated with Kosambi and Sharma
+4. Nationalist challenges to imperial generalisations about Indian agency
+
+(a) 2 → 1 → 4 → 3
+(b) 1 → 2 → 3 → 4
+(c) 2 → 4 → 3 → 1
+(d) 4 → 2 → 1 → 3
+
+#### Q42
+A historian finds that an imperial edict repeatedly portrays the ruler as benevolent. Which distinction best prevents an elite-source error?
+(a) Repetition proves that every subject accepted the ruler's self-description.
+(b) The inscription directly establishes an intended public image; independent evidence is required to assess reception and practice.
+(c) A public inscription is never usable for reconstructing political ideals.
+(d) An inscription's physical survival makes its self-presentation more objective than any other kind of trace.
+
+#### Q43
+An excavated region shows settlement change alongside a reconstructed climatic shift. What further step is needed before asserting environmental causation?
+(a) Assume chronology is sufficient: events occurring near one another have the same cause.
+(b) Discard climate evidence because historical changes can only be political.
+(c) Compare the timing and resolution of the datasets, plausible mechanisms and competing social or economic explanations.
+(d) Infer the language and political identity of the settlers from the climate series.
+
+#### Q44
+Which programme is most consistent with inclusive ancient social history when surviving texts are chiefly elite and male-authored?
+(a) Supply imagined first-person testimony to replace the absent voices.
+(b) Assume every prescriptive restriction was uniformly experienced by all women and labourers.
+(c) Limit historical explanation to court politics because household and work are unrecorded.
+(d) Read prescriptive texts against their genre; compare material and other evidence; specify whose experiences remain inaccessible.
+
+#### Q45
+An inscription naming a royal donation and an excavated change in settlement pattern are near in date. Which conclusion is methodologically strongest?
+(a) They may address different scales of change; date, find context and independent corroboration must be tested before linking the donation causally to settlement change.
+(b) The inscription proves that the ruler ordered the entire settlement change.
+(c) The settlement evidence invalidates the inscription because material and textual traces cannot both be true.
+(d) Their approximate chronological overlap establishes a common cause without any further evidence.
+
+#### Q46
+Consider the following pairs of interpretive claims and their *strongest* immediate evidential caution:
+
+| Claim | Caution |
+|---|---|
+| 1. A genealogy records an exact succession | Check layered transmission and interpolation |
+| 2. A court biography represents a ruler | Check patronage and eulogistic selection |
+| 3. A normative text reports actual household conduct | Check prescription against practice |
+| 4. No surviving record mentions a practice | Infer immediately that the practice never existed |
+
+How many pairs correctly state a caution?
+(a) Two
+(b) Three
+(c) Four
+(d) One
+
+#### Q47
+Which comparison best captures an analytical gain **and** a limit of regional historiography?
+(a) Regional histories are unreliable because only an all-India political narrative can represent ancient society.
+(b) Once a region has inscriptional studies, all sub-regions and marginalised groups have been equally covered.
+(c) Regional studies can trace uneven agrarian, linguistic and political trajectories, but a region is itself an analytical construct and coverage (including the Northeast) is uneven.
+(d) Regional evidence establishes that land rights and political legitimation were identical in every early-medieval polity.
+
+#### Q48
+In a Mains answer, the candidate writes, “Because histories are provisional, the colonial despotism thesis and a source-tested critique of it deserve equal confidence.” Which revision best meets the discipline's objectivity standard?
+(a) Keep the sentence: all interpretations have equal standing once a historian states a point of view.
+(b) Replace it with an unqualified claim that historians can recover the entire past exactly.
+(c) Remove all interpretive statements and list only dynasties and dates.
+(d) Rank the competing claims by named evidence, contextualisation, counter-evidence and explicit limits; provisional does not mean equally reliable.
+
+### PART III ANSWER KEY — consult only after Q1–Q48
+
+#### Q1 — A
+> **Original explanation (preserved).** R.S. Sharma links the beginning of modern research in the second half of the eighteenth century to British administrative needs and difficulties administering Hindu inheritance law. The Company's 1765 acquisition of the *diwani* (revenue authority) in Bengal, Bihar and Orissa is a marker, not proof that every part of the region came immediately under uniform Company administration. *A Code of Gentoo Laws* (1776) was a pandit-compiled digest translated by Nathaniel Brassey Halhed via Persian, **not** an English translation of the *Manu Smriti*; Jones's translation of the latter came later.
+> **Bibliographic check:** The [1776 edition's catalogue description](https://archive.org/details/codeofgentoolaws00halh) identifies its source as the pandit-compiled *Vivādārṇavasetu* and Halhed as the English translator; it does not identify this book as a translation of the *Manu Smriti*.
+> **Original examiner trap (preserved).** (c), (b) and (d) are all real and datable events **within** the story, which makes them attractive; each is a **later** milestone. The question tests whether you hold the sequence, not just the dates.
+
+- **(a) Correct:** Colonial-era research and legal administration belong to the same late-eighteenth-century setting.
+- **(b) Incorrect:** Smith's 1904 synthesis is later than the start of modern research.
+- **(c) Incorrect:** The ASI's later institutional milestone cannot inaugurate eighteenth-century research.
+- **(d) Incorrect:** Nationalist responses followed, rather than founded, colonial-era investigation.
+
+#### Q2 — B
+> **Original explanation (preserved).** Pairs 1, 2 and 3 are correct: the Asiatic Society of Bengal was founded at Calcutta in **1784** by Sir William Jones; the Bombay Asiatic Society in **1804**; the Archaeological Survey of India in **1871**. Pair 4 is wrong: **1823** is the year of the **Asiatic Society of Great Britain** in London; the **Archaeological Survey of Ceylon** was established in **1890**.
+> **Original examiner trap (preserved).** The 1823 date is genuine and belongs to this cluster of facts — it is simply attached to the wrong institution. Date-transplant across a plausible neighbour is the standard construction for institutional-chronology items.
+
+- **(a) Incorrect:** Only one excludes the correctly dated Bombay society and ASI.
+- **(b) Correct:** Three institutions have the stated years; the Ceylon date is transplanted.
+- **(c) Incorrect:** All four improperly accepts the Ceylon–1823 pairing.
+- **(d) Incorrect:** Only two omits one of the three correct institutional pairings.
+
+#### Q3 — C
+> **Original explanation (preserved).** Statements 1 and 2 are exact. Statement 3 **inverts** Smith's central thesis: "India was presented as a land of despotism which had **not experienced political unity until the establishment of British rule**", and his signature line runs, "Autocracy is substantially the only form of government with which the historian of India is concerned."
+> **Original examiner trap (preserved).** The counter-claim — that Chakravarti-type unity was attained "at least twice", under Ashoka in the third century BC and Samudragupta in the fourth century AD — is **R.S. Sharma's rebuttal to Smith**, and is here re-attributed to Smith himself. Whenever a statement matches something you know, verify **whose** claim it is.
+
+- **(a) Incorrect:** Statement 3 is Smith's thesis inverted, not a second correct Smith claim.
+- **(b) Incorrect:** Statement 3 remains false despite statement 2 being true.
+- **(c) Correct:** Smith's 1904 work and ICS imperial outlook make both 1 and 2 correct.
+- **(d) Incorrect:** Adding statement 3 imports a rebuttal into Smith's own position.
+
+#### Q4 — D
+> **Original explanation (preserved).** The recorded generalisations are that Indians lacked a sense of history and chronology, were accustomed to despotic rule, were so engrossed in spiritualism or the next world that they felt no concern for this one, and had experienced neither nationhood nor self-government. Option (d) states the **opposite** of the colonial position: Indological writing presented Indian society as **static** and its political systems as **unwaveringly despotic**.
+> **Original examiner trap (preserved).** A "not among" question rewards the candidate who has memorised the list as a **list**. The distractor here is the negation of the load-bearing colonial claim, which makes it feel unfamiliar in the right way — but for the wrong reason.
+
+- **(a) Incorrect:** Lack of nationhood and self-government was among the recorded colonial generalisations.
+- **(b) Incorrect:** Lack of chronological consciousness was likewise a colonial generalisation, not the examiner's verdict.
+- **(c) Incorrect:** The despotism claim also occurs in the recorded list.
+- **(d) Correct:** Rapid transformation contradicts the colonial claim of an essentially static society.
+
+#### Q5 — A
+> **Original explanation (preserved).** Statements 1 and 2 are among the objections stated explicitly — "Why is the third period described as the British and not the Christian period?" and "What about polities ruled by non-Muslim elites after the advent of Turkish rule?" Statement 3 reverses the history: the classification **took root in the colonial period**, and was subsequently **retained** by nationalist historians, where it "coalesced with a communal tendency to valorize the 'Hindu period'".
+> **Original examiner trap (preserved).** The comfortable narrative is that nationalists overturned everything colonial. The uncomfortable and correct finding is that they overturned the **verdict** and kept the **frame** — which is why statement 3 is the discriminator.
+
+- **(a) Correct:** Statements 1 and 2 each identify a structural defect in Mill's period labels.
+- **(b) Incorrect:** The assertion of colonial abandonment in 3 is false.
+- **(c) Incorrect:** The correct first two cannot rescue the false third statement.
+- **(d) Incorrect:** Statement 1 is right but 3 falsely attributes the frame's survival only to nationalists.
+
+#### Q6 — B
+> **Original explanation (preserved).** Statements 1 and 2 are exact. Statement 3 is contradicted by the source's own qualification: "most historians were guided by the nationalist ideas of Hindu revivalism, **but there was no dearth of scholars who adopted a rationalist and objective approach**" — Mitra being the named instance of the second category.
+> **Original examiner trap (preserved).** "Without exception" is a **universal quantifier**, and the source has taken care to insert an exception clause precisely at this point. Universal claims about a school of historians are almost always the wrong statement.
+
+- **(a) Incorrect:** Statement 3's exceptionless revivalism misrepresents Mitra and other rational scholars.
+- **(b) Correct:** Mitra's reformist research and Bhandarkar's Satavahana work are the supported pair.
+- **(c) Incorrect:** The true Bhandarkar statement cannot validate the false universal claim.
+- **(d) Incorrect:** Adding statement 3 turns a tendency into a supposed rule without exceptions.
+
+#### Q7 — C
+> **Original explanation (preserved).** Sharma writes that "the greatest merit of K.P. Jayaswal lay in exploding the myth of Indian despotism", that as early as **1910–12** he wrote several articles showing that republics existed and enjoyed a measure of self-government, and that his findings appeared in ***Hindu Polity* in 1924**, now in its sixth edition and considered a classic.
+> **Original examiner trap (preserved).** (a) is **V.A. Smith**, (d) is **D.D. Kosambi**, and (b) is **P.V. Kane's** *History of Dharmasastra*. Each distractor is a correct description of a **different** scholar — the standard construction for historiography MCQs, and the reason author–work–contribution triples must be learned as triples.
+
+- **(a) Incorrect:** The first systematic political synthesis here is attributed to V.A. Smith.
+- **(b) Incorrect:** The encyclopaedic work on dharmasastra is associated with P.V. Kane.
+- **(c) Correct:** Jayaswal challenged the despotism thesis with non-monarchical polities and Hindu Polity.
+- **(d) Incorrect:** A materialist account of tribal and class development describes Kosambi instead.
+
+#### Q8 — D
+> **Original explanation (preserved).** Sharma records precisely this mixed position: the anachronism charge, the attack by "many writers including U.N. Ghoshal (1886–1969)", **and** that "his basic thesis regarding the practice of the republican experiment is widely accepted", with *Hindu Polity* "now in its sixth edition… considered a classic".
+> **Original examiner trap (preserved).** Options (b), (c) and (a) are the three **pure** positions — total acceptance, total rejection, and a nationality-based split. The correct answer is the only **mixed** one. In historiography, a uniformly positive or uniformly negative option is almost always the distractor.
+
+- **(a) Incorrect:** Ghoshal, an Indian scholar, was among Jayaswal's critics.
+- **(b) Incorrect:** His republican thesis faced criticism even though its core was widely accepted.
+- **(c) Incorrect:** The book's reception and continuing editions contradict neglect.
+- **(d) Correct:** The answer retains both anachronism criticism and the acceptance of a qualified core.
+
+#### Q9 — A
+> **Original explanation (preserved).** Statements 1 and 2 are correct. Statement 3 describes **D.D. Kosambi**, whose treatment follows a materialist interpretation; Basham was not a Marxist, and Sharma records that Kosambi was criticised by scholars including Basham.
+> **Original examiner trap (preserved).** Because Basham and Kosambi are discussed in the same section as parts of the same "shift", candidates fuse them. The disagreement between them is the fact that keeps them apart.
+
+- **(a) Correct:** Basham's intervention is non-political but not Kosambi's materialist programme.
+- **(b) Incorrect:** Statement 3 confuses Basham's shift with Kosambi's Marxist categories.
+- **(c) Incorrect:** The true second claim cannot turn the false third into a Basham fact.
+- **(d) Incorrect:** Statement 1 is sound but 3 belongs to a different historian.
+
+#### Q10 — B
+> **Original explanation (preserved).** Upinder Singh's criticism is precisely this: "Archaeological data was included, but the basic framework of the historical narrative remained **text-centric**", alongside unilinear models derived from Western writings, texts sometimes read uncritically, and religion and culture sidelined or mechanically presented as reflections.
+> **Original examiner trap (preserved).** (a) is a crude exaggeration of the real criticism. (c) and (d) are the **opposite** of the school's defining achievements — shifting focus from dynastic history to social and economic structures and processes. Knowing the criticism accurately is what allows you to reject its caricature.
+
+- **(a) Incorrect:** Text-centric framework does not mean complete refusal of inscriptions or coins.
+- **(b) Correct:** Upinder Singh identifies this as a specific limitation of some left-oriented writing.
+- **(c) Incorrect:** Dynastic political exclusivity is the opposite of its social-history shift.
+- **(d) Incorrect:** Social and economic structures were precisely among its concerns.
+
+#### Q11 — C
+> **Original explanation (preserved).** Statements 1 and 2 reproduce the scheme exactly. Statement 3 contradicts its own author: "The **dividing lines may vary**", "Periodization is convenient but it is important to remember that **these are not hard lines**", and "Some of the most exciting themes in Indian history require taking a long-term view and **breaking through the lines of periodization**."
+> **Original examiner trap (preserved).** The scheme is reproduced so uniformly in textbooks that its self-limiting clause is treated as decoration. It is not: it is part of the scheme.
+
+- **(a) Incorrect:** Statement 3 makes variable period boundaries falsely fixed.
+- **(b) Incorrect:** The true ancient and medieval spans are both needed, but 3 is false.
+- **(c) Correct:** The two indicative spans are right and the boundary disclaimer is essential.
+- **(d) Incorrect:** The third claim cannot be rescued by the correct ancient span.
+
+#### Q12 — D
+> **Original explanation (preserved).** The source is explicit: "the Harappan civilization — a **literate culture with an undeciphered script** — is included in protohistory", and "Although the Harappans were a literate people, their script has not yet been deciphered. So, historians cannot use the written material they left behind to reconstruct history."
+> **Examiner trap (corrected).** (a) confuses an undeciphered script with no writing; (c) puts urban Harappan society before food production. (b) invokes a different usage of protohistory that does not explain the Harappan case. Only (d) describes the relevant evidence.
+
+- **(a) Incorrect:** An undeciphered script is still writing; Harappan culture was literate.
+- **(b) Incorrect:** A definition involving other societies does not explain the Harappan classification here.
+- **(c) Incorrect:** Harappan urbanism follows food production rather than preceding it.
+- **(d) Correct:** Literate but undeciphered records explain the protohistorical classification.
+
+#### Q13 — A
+> **Original explanation (preserved).** Statements 1 and 2 are exact. Statement 3 overreaches: the source explicitly allows that "it is possible that people continued to write, although on **perishable material**". This is the textbook application of the rule that absence of evidence is not evidence of absence unless survivability, adequate search and patterned silence are all established.
+> **Original examiner trap (preserved).** Statement 3 is the most common inference candidates draw from statement 2, and drawing it converts two correct facts into a wrong answer. "Hardly any surviving specimens" is a statement about **preservation**, not about **practice**.
+
+- **(a) Correct:** The two script/survival observations do not license an inference of cessation.
+- **(b) Incorrect:** Adding cessation to the true survival observation is an evidential overreach.
+- **(c) Incorrect:** The true script observation cannot make non-survival proof of non-use.
+- **(d) Incorrect:** Statements 1 and 2 are right but 3 turns an archive gap into certainty.
+
+#### Q14 — B
+> **Original explanation (preserved).** The source names exactly these three sites: "the evidence of earlier Brahmi inscriptions from **Anuradhapura in Sri Lanka** and more recently, from **Kodumanal and Keezhadi in Tamil Nadu**, suggest that the date needs to be pushed back to at least the fourth century BCE."
+> **Examiner trap (corrected).** (a) is a **hypothetical**: decipherment *would* change how the Harappan period is classified, but it has not occurred. (c) mistakes dating an organic sample for directly dating an orally transmitted text. Distinguish what **has** been found from what **would** matter.
+
+- **(a) Incorrect:** Undeciphered Harappan signs cannot support this proposed South Indian inscriptional shift.
+- **(b) Correct:** The named inscriptional sites supply the cited basis for reconsideration.
+- **(c) Incorrect:** Radiocarbon measures appropriate organic samples, not an orally transmitted corpus itself.
+- **(d) Incorrect:** Ganga-valley coins cannot by themselves establish this South Indian inscriptional date.
+
+#### Q15 — C
+> **Original explanation (preserved).** All three are stated in the source. The method "provides approximate, not exact dates, and a standard error margin (known as the standard deviation) is recognized"; "'BP' stands for 'Before Present', and the year 1950… is taken as the base line"; and scientists "have known for some time that the amount of radiocarbon produced in the atmosphere has not been constant over time", so "some calibrations, i.e., corrections, have to be made".
+> **Examiner trap (corrected).** Candidates trained to hunt for a false statement may invent one. All three statements hold, so choose the option **1, 2 and 3**; calibration is easy to overlook.
+
+- **(a) Incorrect:** Both 1 and 2 hold, but atmospheric variation also calls for calibration.
+- **(b) Incorrect:** Both 1 and 3 hold, but BP uses 1950 as its baseline too.
+- **(c) Correct:** Approximation, BP baseline and calibration all describe different aspects of dating.
+- **(d) Incorrect:** Both 2 and 3 hold, but standard error in statement 1 must not be omitted.
+
+#### Q16 — D
+> **Original explanation (preserved).** The chain is stated in the source: decomposition of animal excreta raises soil nitrogen; courtyard soil at Inamgaon showed higher nitrogen than house interiors; therefore "people tied their animals in their courtyards".
+> **Original examiner trap (preserved).** (a) is an identity fallacy: no chemical measurement licenses a linguistic inference. (b) and (c) are archaeologically plausible-sounding but not what courtyard nitrogen measures. Trace the **specific** inferential chain rather than a general association.
+
+- **(a) Incorrect:** Courtyard nitrogen cannot encode a spoken language.
+- **(b) Incorrect:** Courtyard nitrogen alone does not establish an irrigated farming regime.
+- **(c) Incorrect:** A chemical contrast inside and outside houses cannot prove fortification.
+- **(d) Correct:** Animal waste offers the specific plausible explanation for elevated courtyard nitrogen.
+
+#### Q17 — A
+> **Original explanation (preserved).** Statements 1 and 2 are exact. Statement 3 contradicts the stated caution: ethno-archaeological evidence "must be used cautiously, and it should be seen as **suggesting possible and not necessarily conclusive** ways of interpreting the archaeological data, always keeping in mind the **differences between the present and past contexts**".
+> **Original examiner trap (preserved).** "Survived unchanged" is a **continuity overclaim** — the same error as assuming Vedic prescriptions describe living practice. Ethno-archaeology generates **analogies**, not identities.
+
+- **(a) Correct:** Living-practice analogy and the Khambhat example are sound; unchanged survival is not.
+- **(b) Incorrect:** The certainty claim in 3 is false even though Khambhat is an apt analogy.
+- **(c) Incorrect:** The certainty claim in 3 remains false despite the valid methodological definition.
+- **(d) Incorrect:** Two true claims cannot save the unsupported universal continuity claim.
+
+#### Q18 — B
+> **Original explanation (preserved).** The source states it with an exclamation: "Of course, the idealized bodily forms in ancient Indian art should **not** be seen as direct reflections of what ordinary people looked like!"
+> **Original examiner trap (preserved).** (c) inverts the actual position — much more is known about **patrons** than **artists**. (a) contradicts the mobility of artists across patrons and religious boundaries. (d) overlooks the social and political evidential value of visual sources.
+
+- **(a) Incorrect:** Mobile artisans and cross-religious patronage contradict exclusivity.
+- **(b) Correct:** Idealised depictions are not photographs of ordinary bodies.
+- **(c) Incorrect:** Patrons are often better documented than artists, not the reverse.
+- **(d) Incorrect:** Visuals can inform social and political history beyond art-historical style.
+
+#### Q19 — C
+> **Original explanation (preserved).** Statement 1 is supported: genome analysis has "especially contributed towards understanding patterns of migration and changes in population". Statement 3 states the sampling discipline correctly. Statement 2 is false: caste and religion are **social** categories with histories; they are not biologically encoded and cannot be read from a genome.
+> **Original examiner trap (preserved).** This is the most consequential single discrimination in contemporary Indian historiography and the one most often violated in public discussion. Note also that the same prohibition covers **language**, for the same reason: it is learned, not inherited.
+
+- **(a) Incorrect:** Statement 2 falsely treats social affiliation as a genetic readout.
+- **(b) Incorrect:** The true migration and sampling cautions cannot rescue claim 2.
+- **(c) Correct:** Migration analysis plus individual/contextual sampling limits are defensible.
+- **(d) Incorrect:** The correct migration claim cannot establish caste or religious identity.
+
+#### Q20 — D
+> **Original explanation (preserved).** The account is exact: before the valley was submerged by the Nagarjunasagar dam across the Krishna, ASI officers "thoroughly explored, excavated, and documented the valley" between 1954 and 1960; then "nine of the most important structures were transplanted and re-built" on the hill and the reservoir banks, and "replicas of 14 other structures were made".
+> **Original examiner trap (preserved).** The two numbers — **nine transplanted**, **fourteen replicated** — are the discriminators, and they are the kind of specific detail UPSC likes because it separates reading from familiarity. ⚠️ Note the historiographical point behind the fact: transplantation preserves **structure** and destroys **context**.
+
+- **(a) Incorrect:** The entire site was not simply moved to a Hyderabad museum.
+- **(b) Incorrect:** Documented salvage preceded inundation; abandonment without records is wrong.
+- **(c) Incorrect:** ASI officers, not an alleged foreign bilateral mission, conducted the work.
+- **(d) Correct:** Exploration, salvage and the separately recorded transplanted and replica structures match the account.
+
+#### Q21 — A
+> **Original explanation (preserved).** Statements 1 and 2 express the core method. Statement 3 is false: bias is a coordinate that tells us where a source stands; it changes what the source is good evidence for, but does not automatically disqualify it.
+> **Original examiner trap (preserved).** UPSC often converts a sensible caution into an absolute rejection. The correct move is to specify the source's evidential reach.
+
+- **(a) Correct:** Source authentication and co-relation remain necessary despite a source's bias.
+- **(b) Incorrect:** Statement 3 wrongly renders every biased text unusable.
+- **(c) Incorrect:** The false blanket rejection in 3 cannot be saved by the true dating requirement.
+- **(d) Incorrect:** Statement 2 is sound but blanket exclusion of biased evidence is not.
+
+#### Q22 — B
+> **Original explanation (preserved).** Provenance asks where an object came from, where it has been and how that chain is known. Ownership asks who is legally entitled to possess it. Historical interpretation may remain weak even when legal title is clear if findspot, association and recovery context are lost.
+> **Original examiner trap (preserved).** The two questions often travel together, but they are not interchangeable: one concerns evidence, the other law.
+
+- **(a) Incorrect:** Style and insured value are not the provenance-versus-title distinction.
+- **(b) Correct:** Documented history/context and legal entitlement ask related but different questions.
+- **(c) Incorrect:** Both issues can arise for excavated objects or manuscripts.
+- **(d) Incorrect:** Current display or manufacturing place alone does not establish chain of custody or legal title.
+
+#### Q23 — C
+> **Original explanation (preserved).** An estampage is a paper impression of an inscription. It is a valuable surrogate for reading and comparison, but it does not preserve every feature of the original object's archaeological context.
+> **Original examiner trap (preserved).** A surrogate can preserve text while losing material, spatial and contextual information; digitising a surrogate does not restore what was never captured.
+
+- **(a) Incorrect:** A translation is an interpretation, not a physical impression.
+- **(b) Incorrect:** A photograph is not the paper impression named by the technical term.
+- **(c) Correct:** An estampage copies the inscribed surface onto paper for off-site reading.
+- **(d) Incorrect:** It is not a cast restricted to copper-plate charters.
+
+#### Q24 — D
+> **Original explanation (preserved).** Statements 1 and 2 are exact. Statement 3 is precisely what the source's guard clause forbids: "**All histories are partial and provisional and subject to revision, but all histories are not equally reliable or acceptable.** They have to be supported by evidence from the sources and must stand up to scrutiny when subjected to rigorous analysis."
+> **Original examiner trap (preserved).** Statement 3 is the relativist slide, and it follows *plausibly* from statements 1 and 2 unless the guard clause is held in mind. This is the single most important logical discrimination in the whole topic, and it recurs in every "critically examine" answer.
+
+- **(a) Incorrect:** Statement 3 destroys the source's distinction between provisional and equally reliable.
+- **(b) Incorrect:** Statements 1 and 2 are true; 3 is not.
+- **(c) Incorrect:** The three together incorrectly endorse equivalence of accounts.
+- **(d) Correct:** History requires critical analysis and is revisable, but accounts remain rankable.
+
+#### Q25 — A
+> **Original explanation (preserved).** The bar is stated in terms: "There are many problems involved in translating archaeological cultures into history. **An archaeological culture need not necessarily correspond to a linguistic group, political unit, or a social group such as a lineage, clan, or tribe.**"
+> **Original examiner trap (preserved).** Options (c), (b) and (d) are the three classic identity inferences — political, linguistic and kin-based. The correct answer refuses all three.
+
+- **(a) Correct:** Pottery distribution alone cannot establish any of the three proposed collective identities.
+- **(b) Incorrect:** A shared material style does not by itself prove a common spoken language.
+- **(c) Incorrect:** Objects distributed widely are not proof of a single political state.
+- **(d) Incorrect:** Shared pottery is not proof of common lineage, clan or tribe.
+
+#### Q26 — B
+> **Original explanation (preserved).** It is the first item on the list of colonial features: "The Brahmanical perspective of ancient Sanskrit texts was often **uncritically taken** as reflecting the Indian past."
+> **Original examiner trap (preserved).** (d) reverses the actual feature — race, religion and ethnicity were often **confused**. (a) is characteristic of **Nationalist** writing. (c) reverses the record — Indologists depended on Indian knowledge often left unacknowledged. Each distractor relocates or reverses a real claim.
+
+- **(a) Incorrect:** An indigenous-origins emphasis belongs more characteristically to nationalist response.
+- **(b) Correct:** Brahmanical Sanskrit perspectives were sometimes generalised to the entire past.
+- **(c) Incorrect:** Indian intellectual contributions were often insufficiently acknowledged.
+- **(d) Incorrect:** Race, religion and ethnicity were often conflated rather than carefully separated.
+
+#### Q27 — C
+> **Original explanation (preserved).** These are the achievements listed in the source, together with the observation that women and gender "are now recognized as important parts of social history".
+> **Original examiner trap (preserved).** (d) reverses the predominantly elite-male authorship of surviving texts, a difficulty for gender history. (a) ignores material evidence: comparisons of remains can suggest nutritional/status differences, subject to context.
+
+- **(a) Incorrect:** Gender relations can leave indirect textual and material traces.
+- **(b) Incorrect:** Gender history is not restricted to queens or elites.
+- **(c) Correct:** It reconnects household power with caste, class and political structures.
+- **(d) Incorrect:** Predominantly male-authored texts present a source problem, not female authorship as a finding.
+
+#### Q28 — D
+> **Original explanation (preserved).** The passage is explicit: under British rule the struggle was "between colonialism and nationalism"; "Now the situation has undergone a change. The struggle now is between **communalism and irrationalism**, on the one hand, and **rationalism and professionalism**, on the other. **Though most writers are rational and professional**, some have become communal and irrational."
+> **Original examiner trap (preserved).** (c) describes the **earlier** struggle, not the situation characterised as contemporary in Sharma's passage (do not automatically treat this as a 2026 status report). The qualifier that **most writers are rational and professional** is part of (d), not a concession to omit.
+
+- **(a) Incorrect:** The passage does not oppose archaeology to texts as mutually exclusive camps.
+- **(b) Incorrect:** Region versus all-India scale is not its specified contemporary opposition.
+- **(c) Incorrect:** Colonialism versus nationalism is described as an earlier contest.
+- **(d) Correct:** Sharma names communalism/irrationalism versus rational professionalism, qualifying that most writers are professional.
+
+#### Q29 — A
+> **Original explanation (preserved).** Statements 1 and 2 are exact. Statement 3 is contradicted: "while the heartlands of great empires and kingdoms are well represented, **many regions, for instance the Northeast, are not**. Greater effort needs to be made to redress this balance."
+> **Original examiner trap (preserved).** A candidate impressed by the achievements described in statements 1 and 2 may assume the coverage problem has been solved. The source pairs the achievement with the named gap in the same passage.
+
+- **(a) Correct:** Agrarian relations and political legitimation are emphasised alongside new regional cultural studies.
+- **(b) Incorrect:** The true language/culture observation cannot repair the false assertion of equal regional coverage.
+- **(c) Incorrect:** All three fail because coverage of regions including the Northeast remains uneven.
+- **(d) Incorrect:** Uneven coverage in 3 remains false even with a correct statement 2.
+
+#### Q30 — B
+> **Original explanation (preserved).** Sampling and laboratory transfer are research stages, not findings. Historical claims arise only after methods, results, uncertainties and archaeological context are published and tested.
+> **Examiner trap (corrected).** Options (a) and (c) overclaim; option (d) wrongly denies relevance. Sampling is a stage of a potentially informative process, not a finding.
+
+- **(a) Incorrect:** Sample transfer alone cannot yield a final population-wide ancestry claim.
+- **(b) Correct:** Sampling is only a stage before contextualised, published and critically assessed results.
+- **(c) Incorrect:** Transfer does not date every layer or all features of a site.
+- **(d) Incorrect:** Material analysis can inform history; denying relevance also overstates the case.
+
+#### Q31 — C
+> **Explanation (corrected).** *An Introduction to the Study of Indian History* (1957) is **D.D. Kosambi's**; his other work is *The Culture and Civilisation of Ancient India in Historical Outline* (1965).
+> **Original examiner trap (preserved).** (a) belongs to **A.L. Basham** (1951), who also criticised Kosambi. (b) belongs to **K.P. Jayaswal** (1924); U.N. Ghoshal was among his critics. (d) invokes **R.C. Majumdar**, general editor of *The History and Culture of the Indian People*; Nilakanta Sastri wrote *A History of South India*.
+
+- **(a) Incorrect:** The Wonder That Was India is by A.L. Basham, not Kosambi.
+- **(b) Incorrect:** Hindu Polity belongs to K.P. Jayaswal, not his critic Ghoshal.
+- **(c) Correct:** An Introduction to the Study of Indian History is Kosambi's work.
+- **(d) Incorrect:** R.C. Majumdar edited the series; Nilakanta Sastri authored A History of South India.
+
+#### Q32 — D
+> **Original explanation (preserved).** Option (d) turns evidence into a qualified historical argument. The other options confuse prescription with practice, corroboration with wholesale proof, and biological ancestry with learned social identities.
+> **Original examiner trap (preserved).** The safest answer is not the weakest claim; it is the strongest claim that the evidence actually licenses.
+
+- **(a) Incorrect:** Genes do not directly establish socially acquired language or religion.
+- **(b) Incorrect:** Normative prescription cannot be equated with all lived practice.
+- **(c) Incorrect:** Archaeological corroboration is specific, never wholesale validation of narrative.
+- **(d) Correct:** A reasoned answer articulates evidence, alternatives and residual uncertainty.
+
+
+#### Q33 — A
+- **(a) Correct:** Dynastic sequences supply a linear ordering, while the *yuga* cycle expresses cyclical time; neither excludes the other.
+- **(b) Incorrect:** Statement 3 falsely makes cyclical concepts incompatible with recorded sequences.
+- **(c) Incorrect:** Statement 3 fails, and this combination omits the valid cyclical form in statement 2.
+- **(d) Incorrect:** Statement 3 turns a difference from modern historiography into the false claim of absent temporal consciousness.
+- **Examiner trap:** Do not demand a modern continuous chronicle as the only evidence of time-consciousness.
+
+#### Q34 — B
+- **(a) Incorrect:** A layered king list cannot be assumed complete or contemporaneous; a eulogy cannot mechanically fill gaps.
+- **(b) Correct:** Genre, transmission, sequence and independent checks distinguish usable memory from unsupported chronology.
+- **(c) Incorrect:** Didactic purpose and patronage change evidential reach; they do not erase historical content.
+- **(d) Incorrect:** Royal praise records a ruler-facing claim, not a popular vote or independent confirmation of an entire list.
+- **Examiner trap:** Two written genres are not automatically independent witnesses to the same event.
+
+#### Q35 — C
+- **(a) Incorrect:** Three, not one, of the listed interventions are correctly attributed.
+- **(b) Incorrect:** Raychaudhuri, Mitra and Nilakanta Sastri all match their respective contributions.
+- **(c) Correct:** Pairs 1–3 match; *The Wonder That Was India* is by A.L. Basham, not R.C. Majumdar.
+- **(d) Incorrect:** The fourth pair swaps Basham's work into Majumdar's column.
+- **Examiner trap:** Do not confuse a scholar's nationality, school and actual authored work.
+
+#### Q36 — D
+- **(a) Incorrect:** A stage label cannot substitute for checking disconfirming grants or regional variation.
+- **(b) Incorrect:** Prescriptive rules are not a census of actual land rights, and regions need not share a schedule.
+- **(c) Incorrect:** Dynastic succession alone does not specify production or surplus extraction.
+- **(d) Correct:** This starts with an explanatory question, tests land/fiscal evidence and leaves room for alternative trajectories.
+- **Examiner trap:** Materialist analysis is an evidential inquiry, not a label assigned in advance.
+
+#### Q37 — A
+- **(a) Correct:** Resemblance suggests a continuity question but does not establish unchanged meaning or extent.
+- **(b) Incorrect:** Function and membership need separate evidence across the intervening periods.
+- **(c) Incorrect:** A named institution in one text does not prove uniform subcontinental distribution.
+- **(d) Incorrect:** Historical preservation or explanation does not entail endorsing former inequalities.
+- **Examiner trap:** A present name need not denote an unchanging ancient institution.
+
+#### Q38 — B
+- **(a) Incorrect:** Statement 2 also captures the distinction between restoring agency and retaining a communalising frame.
+- **(b) Correct:** Research contributions and inherited period categories can coexist; statement 3 mislabels reformist work.
+- **(c) Incorrect:** Statement 3 erases Mitra's nationalist-era rational and reformist intervention.
+- **(d) Incorrect:** Including statement 3 falsely makes revivalism an exceptionless definition of nationalism.
+- **Examiner trap:** An ideological label cannot replace examination of individual historians' arguments.
+
+#### Q39 — C
+- **(a) Incorrect:** Production and appropriation can illuminate power; rejecting all social explanation is not a critique.
+- **(b) Incorrect:** Archaeological evidence was included, even where the narrative remained too text-centred.
+- **(c) Correct:** The achievement and critiques are held together without reducing culture to an automatic economic effect.
+- **(d) Incorrect:** A materialist question does not prove uniform or mechanically determined religious practice.
+- **Examiner trap:** A serious criticism identifies a weakness in execution, not an invented refusal to study society.
+
+#### Q40 — D
+- **(a) Incorrect:** Neither label is defined by a single religious age or universal illiteracy.
+- **(b) Incorrect:** These chronologies belong to neither term.
+- **(c) Incorrect:** One genre of evidence cannot supply an exclusive definition for either label.
+- **(d) Correct:** Evidence and historical processes inform “early historic”; early-medieval transition remains debated.
+- **Examiner trap:** Similar-sounding “early” labels need not refer to the same boundary or criterion.
+
+#### Q41 — A
+- **(a) Correct:** Colonial collection and institution-building precede imperial framings, nationalist challenges and later materialist turns; these phases overlap.
+- **(b) Incorrect:** It places the nationalist response after the materialist intervention and imperial framing before the earlier Orientalist beginnings.
+- **(c) Incorrect:** Mill's framing cannot follow the mid-twentieth-century materialist turn.
+- **(d) Incorrect:** Nationalist challenges do not precede the colonial setting they contest.
+- **Examiner trap:** Broad phases overlap; ordering their emergence does not imply one school disappeared when another arose.
+
+#### Q42 — B
+- **(a) Incorrect:** Repetition of royal claims is not independent evidence of universal reception.
+- **(b) Correct:** The edict supports a claim about intended self-presentation; actual acceptance and conduct need other evidence.
+- **(c) Incorrect:** Praise can be evidence for political ideals and legitimation even if it is biased.
+- **(d) Incorrect:** Survival and materiality do not remove selection or political purpose.
+- **Examiner trap:** Source bias helps identify what a source is evidence *for*; it is not a pass/fail switch.
+
+#### Q43 — C
+- **(a) Incorrect:** Temporal coincidence alone cannot identify a causal mechanism.
+- **(b) Incorrect:** Climate is a legitimate candidate variable, subject to contextual testing.
+- **(c) Correct:** Dating resolution, plausible pathways and rival explanations are required to assess environmental causation.
+- **(d) Incorrect:** Climatic proxies do not encode a population's language or polity.
+- **Examiner trap:** Environmental history must not become environmental determinism.
+
+#### Q44 — D
+- **(a) Incorrect:** Absence of direct testimony is not licence to fabricate voices.
+- **(b) Incorrect:** Normative restrictions do not establish uniform lived experience.
+- **(c) Incorrect:** Household hierarchies and work can be investigated indirectly; court sources are not the entire archive.
+- **(d) Correct:** Genre-aware, cross-source reading widens questions while disclosing the limits of recovery.
+- **Examiner trap:** Inclusive history is neither invented testimony nor total surrender to elite silences.
+
+#### Q45 — A
+- **(a) Correct:** The records may be compared, but linkage requires dating, context and an independently defensible mechanism.
+- **(b) Incorrect:** A donation notice cannot alone establish the cause of region-wide settlement change.
+- **(c) Incorrect:** Apparent conflict calls for checking scale and context, not discarding one medium wholesale.
+- **(d) Incorrect:** Approximate overlap does not prove a common cause.
+- **Examiner trap:** Co-relation of sources is not automatic corroboration of the causal story you prefer.
+
+#### Q46 — B
+- **(a) Incorrect:** The first three, not merely two, pair a claim with a genuine evidential caution.
+- **(b) Correct:** Genealogical layers, eulogy and prescription each require contextual tests; absence needs a survivability/search test.
+- **(c) Incorrect:** Pair 4 is an inference leap, not a caution: non-survival does not entail non-existence.
+- **(d) Incorrect:** Three distinct genres demand three distinct checks.
+- **Examiner trap:** A silence becomes probative only when preservation and the adequacy of the search are addressed.
+
+#### Q47 — C
+- **(a) Incorrect:** Regional scales can reveal patterns missed by an all-India imperial narrative.
+- **(b) Incorrect:** Regional scholarship does not eliminate sub-regional and social gaps.
+- **(c) Correct:** It captures both differentiated trajectories and the constructed, unevenly researched regional frame.
+- **(d) Incorrect:** Named regional variation argues against identical land rights or legitimation everywhere.
+- **Examiner trap:** Replacing an all-India generalisation with a uniform “regional” one repeats the error.
+
+#### Q48 — D
+- **(a) Incorrect:** Stated viewpoints alone do not make historically unequal claims equally reliable.
+- **(b) Incorrect:** Evidence-led objectivity does not promise a final, complete history.
+- **(c) Incorrect:** A chronology without critical interpretation does not answer the question.
+- **(d) Correct:** Publicly testable evidence and counter-arguments rank provisional reconstructions.
+- **Examiner trap:** “Provisional” means revisable, not arbitrary.
 
 ---
 
@@ -459,11 +878,11 @@ Which one of the following sentences is methodologically acceptable in an ancien
 | P.V. Kane | ✅ 1880–1972 | ✅ *History of Dharmasastra*, **five volumes** | ✅ An encyclopaedia of ancient social laws and customs, enabling the study of social processes |
 | K.P. Jayaswal | ✅ 1881–1937 | ✅ *Hindu Polity*, **1924** (articles **1910–12**) | ✅ Exploded the myth of Indian despotism; republics with a measure of self-government |
 | U.N. Ghoshal | ✅ 1886–1969 | ✅ — | ✅ A **critic** of Jayaswal's account of republican government |
-| R.C. Majumdar | ✅ 1888–1980 | ✅ General editor, *History and Culture of the Indian People* | ✅ Leading Nationalist-school historian; "a stronger element of Hindu revivalism" |
+| R.C. Majumdar | ✅ 1888–1980 | ✅ General editor, *The History and Culture of the Indian People* | ✅ Leading Nationalist-school historian; "a stronger element of Hindu revivalism" |
 | H.C. Raychaudhuri | ✅ 1892–1957 | ✅ (History from the Bharata war to the end of the Guptas) | ✅ Comparative method from European history; recognised yet criticised Smith; "a streak of militant Brahmanism" on Ashoka's policy of peace |
-| K.D. Nilakanta Sastri | ✅ 1892–1975 | ✅ *D History of Ancient India*; *D History of South India* | ✅ Brought south India into the narrative; emphasised brahmana cultural supremacy; highlighted harmony |
+| K.A. Nilakanta Sastri | ✅ 1892–1975 | ✅ *A History of South India* | ✅ Brought south India into the narrative; emphasised brahmana cultural supremacy; highlighted harmony |
 | A.S. Altekar | ✅ 1898–1959 | ✅ — | ✅ With Jayaswal, overplayed indigenous dynasties "liberating" India from Shakas and Kushanas |
-| B.B. Kosambi | ✅ 1907–66 | ✅ *An Introduction to the Study of Indian History*, **1957**; *The Civilisation of Ancient India in Historical Outline*, **1965** | ✅ Materialist interpretation from Marx; first survey volume showing stages in terms of **tribal and class processes** |
+| D.D. Kosambi | ✅ 1907–66 | ✅ *An Introduction to the Study of Indian History*, **1957**; *The Culture and Civilisation of Ancient India in Historical Outline*, **1965** | ✅ Materialist interpretation from Marx; first survey volume showing stages in terms of **tribal and class processes** |
 | A.L. Basham | ✅ 1914–86 | ✅ *The Wonder That Was India*, **1951** | ✅ Marked the great shift from political to non-political history; free from the prejudices of Smith and other British writers; a **critic of Kosambi** |
 
 ⚠️ **Correction rule 1 — the "wrong side of the book" test.** When a name is offered with a work, ask whether the person **wrote** it or **criticised** it. U.N. Ghoshal with *Hindu Polity* and A.L. Basham with Kosambi's *Introduction* are the two live cases in this topic, and both appear as distractors in Part III.
@@ -730,7 +1149,7 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer (150 words).**
 
-> Foreign accounts constitute a distinct source class for Indian history, valuable precisely because they are external. Chinese pilgrims and Arab scholars recorded what insiders took for granted — monastic organisation, road conditions, ritual practice, market operation, administrative encounters — and they frequently supply **datable anchors** for chronology.
+> Foreign accounts are a distinct source class, valuable because they are external. Chinese pilgrims and Arab scholars recorded what insiders took for granted — monastic organisation, road conditions, ritual practice, market operation, administrative encounters — and supply **datable anchors** for chronology.
 >
 > Their evidential status, however, is conditional. Each account is shaped by four filters: the traveller's **language competence**, **itinerary**, **patron and purpose**, and **intended audience**. A pilgrim records what pilgrimage makes visible; a diplomat records what a court permits. Observation is therefore selective and geographically partial, and outsider misreading of unfamiliar institutions is routine.
 >
@@ -809,7 +1228,7 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer (150 words).**
 
-> Rock-cut architecture is an unusually rich source because it is simultaneously three things: a **material object** with a location, a technique and a chronology; a **text**, through its donative inscriptions; and a **visual source** encoding religious and aesthetic conventions.
+> Rock-cut architecture is simultaneously a **material object** with a location, technique and chronology; a **text**, through donative inscriptions; and a **visual source** encoding religious and aesthetic conventions.
 >
 > As material evidence it records excavation technique, tool-marks, labour organisation and phasing. As epigraphic evidence its donative records name patrons, guilds, merchants, monks and laywomen, revealing **who financed religion** and therefore something of social and economic structure — much more is known about patrons than about the anonymous artists themselves. As visual evidence it documents iconographic development and cultural contact, since portable icons and peripatetic artisans transmitted styles across regions and religious boundaries.
 >
@@ -891,15 +1310,15 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer (150 words).**
 
-> Geography set the conditions within which choices were made; it did not make them. Four mechanisms operated.
+> Geography conditioned choices; it did not make them. Four mechanisms operated through changing technologies and human decisions, not a fixed map.
 >
-> **Resource distribution** determined where settlement was viable: alluvium, water, timber, stone and ore. Sharma's account of ancient India begins with how people "discovered and utilized natural resources" and created a livelihood — the first stage of all subsequent development.
+> **Resource distribution** shaped settlement: alluvium, water, timber, stone and ore. Sharma's account begins with how people "discovered and utilized natural resources" and created livelihoods.
 >
-> **Ecological thresholds** shaped subsistence: forest clearance in the doab, made feasible by iron, converted a constrained region into an agrarian surplus zone, and surplus is the precondition of specialisation and the state.
+> **Ecological thresholds** shaped subsistence: iron-assisted forest clearance in parts of the doab supported agrarian surplus, enabling specialisation and state formation. Iron did not act alone: labour and social organisation mattered.
 >
-> **Connectivity** — river systems, passes, coasts and sea lanes — governed exchange and cultural transmission, from Indo-Roman trade to Central Asian contact.
+> **Connectivity** — river systems, passes, coasts and sea lanes — governed exchange of goods and ideas, from Indo-Roman trade to Central Asian contact.
 >
-> **Regional differentiation** produced not one trajectory but many, which is why the beginning of the historical period itself differs between north and south.
+> **Regional differentiation** produced many trajectories; even the onset of the historical period differs between north and south.
 >
 > Geography is therefore a **field of possibility**. The same terrain supports different outcomes under different technologies and social arrangements, and the historian's task is to explain the choice, not to derive it.
 
@@ -980,7 +1399,7 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 >
 > **Polity and ritual** follow. Assemblies weaken as chiefship becomes kingship, and expensive sacrificial ritual legitimises the change.
 >
-> The organising point is that the changes are **linked**: technology enabled agriculture, agriculture generated surplus, surplus underwrote hierarchy, and hierarchy required legitimation.
+> These changes are **linked**: technology enabled agriculture, surplus underwrote hierarchy, and hierarchy required legitimation.
 
 **Why this earns marks.** It answers the directive directly, links each claim to named textual, inscriptional, archaeological or scholarly evidence, explains what that evidence proves, states a qualification or source limitation, and closes with a reasoned verdict.
 
@@ -1125,9 +1544,9 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer.**
 
-> The proposition is well founded, provided its concessive clause is respected.
+> The proposition is sound, provided its concessive clause is respected.
 >
-> R.S. Sharma's account of ancient India opens not with a king but with a sequence: how, when and where the earliest cultures developed; how people took to agriculture and stock-raising, which "made life secure and settled"; how they discovered and used natural resources and created the means of livelihood; how they took to farming, spinning, weaving and metalworking, cleared forests, founded villages and cities, and **eventually** large kingdoms. Kingdoms appear last, and as a consequence.
+> R.S. Sharma asks how, when and where earliest cultures emerged; agriculture and stock-raising made life more settled, while resource use, spinning, weaving, metalworking, forest clearance and farming preceded villages, cities and **eventually** large kingdoms. Kingdoms appear last, as a consequence rather than as the entire story.
 >
 > The analytical gain is causal. Technology enables agriculture; agriculture yields surplus; surplus supports specialists and hierarchy; hierarchy requires an apparatus to protect and legitimise it. Varna, which developed in north India and spread widely, is intelligible as a historical process only within that sequence.
 >
@@ -1150,9 +1569,9 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer.**
 
-> **Prehistory** is the long period before the invention of writing, and its study. **History** is the part of the past after the invention of writing, and the study of literate societies. **Protohistory** occupies the space between, and in Indian usage it carries several senses: societies without writing that are mentioned in the records of a contemporary literate group; the **Harappan** civilization, literate but with an **undeciphered** script; the period c. 1500–500 BCE, which has an orally transmitted literature but no evidence of writing; and, in archaeologists' usage, the span from the beginning of food production to the advent of iron, covering neolithic and chalcolithic cultures.
+> **Prehistory** concerns societies before usable written records; **history**, inquiry into the past with readable written evidence. **Protohistory** has several Indian usages: non-writing societies mentioned by literate contemporaries; **Harappan** literacy with an **undeciphered** script; c. 1500–500 BCE, with orally transmitted literature but little surviving writing; and, in one archaeological usage, food production to iron, encompassing neolithic and chalcolithic cultures. These definitions answer different questions.
 >
-> The boundary moves because it is a statement about **our evidence**, not about the past. The historical period begins in north India in the fourth century BCE; in south India it was placed in the third or second centuries BCE, but evidence from Anuradhapura, Kodumanal and Keezhadi pushes it back to at least the fourth. Decipherment of the Harappan script would move the northern boundary to the third millennium BCE or earlier.
+> The boundary concerns **our evidence**, not a universal developmental stage. North India's historical period conventionally begins in the fourth century BCE; South India's was placed in the third or second, but inscriptional evidence from Anuradhapura, Kodumanal and Keezhadi has prompted arguments for an earlier, at least fourth-century, threshold. Decipherment of the Harappan script would shift the northern evidence-based threshold toward the third millennium BCE or earlier.
 
 **Why this earns marks.** It answers the directive directly, links each claim to named textual, inscriptional, archaeological or scholarly evidence, explains what that evidence proves, states a qualification or source limitation, and closes with a reasoned verdict.
 
@@ -1199,11 +1618,11 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 > Both halves are demonstrable, and the interesting question is how they coexisted.
 >
-> **The achievement is institutional and technical.** The Asiatic Society of Bengal was founded at Calcutta in 1784 by Sir William Jones, providing an institutional focus for textual study, epigraphy, numismatics and history; the Bombay Asiatic Society followed in 1804 and the Asiatic Society of Great Britain in 1823, with Sanskrit chairs established across Europe in the first half of the nineteenth century. Jones first proposed that Sanskrit, Latin and Greek belonged to one language family. The nineteenth century produced the decipherment of Ashokan Brahmi and Kharoshthi, a coin-based framework of political chronology, the beginnings of Indian prehistory through Geological Survey officers, and the Archaeological Survey of India in 1871. The discipline still uses these tools.
+> **The achievement was institutional and technical.** William Jones founded Calcutta's Asiatic Society of Bengal (1784); the Bombay society followed (1804), then the Asiatic Society of Great Britain (1823), alongside nineteenth-century European Sanskrit chairs. Jones proposed a common language family for Sanskrit, Latin and Greek. Textual studies, manuscript editing, epigraphy and numismatics grew; Ashokan Brahmi and Kharoshthi were deciphered, coins informed political chronology, Geological Survey officers advanced prehistory, and the Archaeological Survey of India was established (1871). These tools remain useful even where their colonial framing does not.
 >
-> **The instrumentality is equally documented.** Research began in the later eighteenth century to serve administrative needs — the *Manu Smriti* was translated in 1776 as *A Code of Gentoo Laws* to administer inheritance. After 1857 Britain needed deeper knowledge of a people it ruled, and missionaries sought religious vulnerabilities; the fifty-volume *Sacred Books of the East* met both. The generalisations that followed — no sense of chronology, habitual despotism, otherworldliness, no experience of self-government — were, in Sharma's judgement, "by and large either false or grossly exaggerated" and served as "good propaganda material", their common purpose being "to demonstrate that Indians were incapable of governing themselves."
+> **The instrumentality is documented.** Later-eighteenth-century research partly served administration: Halhed's translation of the pandit-compiled *A Code of Gentoo Laws* (1776) aided Hindu personal-law work; it was **not** the *Manu Smriti*. After 1857, imperial administrators sought knowledge of subjects and missionaries sought religious vulnerabilities; the fifty-volume *Sacred Books of the East* served both. Generalisations about absent chronology, habitual despotism, otherworldliness and no self-government were, Sharma argues, “by and large either false or grossly exaggerated”: as propaganda, they implied that Indians could not govern themselves. Administrative sponsorship need not invalidate each edition or decipherment.
 >
-> **Criterion and verdict.** Judged by evidential rigour, the **techniques** survive scrutiny and the **generalisations** do not. They coexisted because the same institutions produced both, and Indian informants who supplied much of the material went unacknowledged. Colonial historiography must therefore be **used** and **audited** at once.
+> **Verdict:** By evidential rigour, the **techniques** endure; the **generalisations** do not. The same institutions produced both while Indian scholars who supplied information often went unacknowledged. Use colonial scholarship, but **audit** its assumptions, source selection and whose labour receives credit.
 
 **Why this earns marks.** It answers the directive directly, links each claim to named textual, inscriptional, archaeological or scholarly evidence, explains what that evidence proves, states a qualification or source limitation, and closes with a reasoned verdict.
 
@@ -1225,11 +1644,11 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 > Both clauses hold, and the second explains the school's long afterlife.
 >
-> **The correction was real and methodological.** Nationalist historians wove together texts, inscriptions, coins and material remains to build a connected narrative; they made important contributions to political history, brought south India into it, and advanced the study of regional polities. Specific claims were answered with specific evidence: K.P. Jayaswal's articles of 1910–12 and *Hindu Polity* (1924) showed that republics existed and enjoyed a measure of self-government, exploding the myth of Indian despotism; against Smith's allocation of a third of his book to Alexander, Indian scholars emphasised Porus's dialogue and Chandragupta's recovery of the north-west from Seleucus. Research also served reform: Mitra argued from evidence that people ate beef in ancient times; R.G. Bhandarkar reconstructed Satavahana history while advocating widow remarriage; Kane made the Dharmashastra an instrument for studying social process.
+> **The correction was methodological.** Nationalists combined texts, inscriptions, coins and material remains in connected political and regional narratives including south India. Jayaswal's articles (1910–12) and *Hindu Polity* (1924) challenged despotism with evidence of republics and limited self-government; his modern “republic” label still needs qualification. Against Smith's allocation of a third of his book to Alexander, scholars emphasised Porus's dialogue and Chandragupta's recovery of the north-west from Seleucus. Research also served reform: Rajendra Lal Mitra documented ancient beef eating; R.G. Bhandarkar reconstructed Satavahana history and advocated widow remarriage; P.V. Kane used Dharmashastra to study society.
 >
-> **The frame, however, was retained.** The Hindu–Muslim–British periodisation was kept, and it "coalesced with a communal tendency to valorize the 'Hindu period'" and to project the advent of the Turks as a calamity. Golden ages were sought in the Vedas and the Guptas; indigenous roots were insisted upon for all major developments; and until 1960 the field remained political, dynastic and elite.
+> **The frame persisted.** The Hindu–Muslim–British division, retained from colonial writing, could “coalesce with a communal tendency to valorize the ‘Hindu period’” and cast Turkish rule as calamity. Golden ages were sought in the Vedas and under the Guptas; wholly indigenous origins were emphasised; political, dynastic and elite history remained influential even around 1960. These were tendencies, not attributes of every nationalist scholar.
 >
-> **Criterion and verdict.** Judged by method rather than by label, the school must be assessed scholar by scholar: it was neither uniformly communal nor free of tendencies a communal reading could exploit, and the **retained periodisation is the precise mechanism** by which the second became possible. Its evidential achievements survive; its frame did not deserve to.
+> **Verdict:** Judge scholars by method and source criticism, not label: the school was neither uniformly communal nor immune to communal uses. Its evidential achievements survive; the **retained periodisation** is the mechanism that enabled distortion. Restoring agency cannot make an inherited interpretive category neutral.
 
 **Why this earns marks.** It answers the directive directly, links each claim to named textual, inscriptional, archaeological or scholarly evidence, explains what that evidence proves, states a qualification or source limitation, and closes with a reasoned verdict.
 
@@ -1249,13 +1668,13 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer.**
 
-> **Contribution.** The turn began before Marxism: A.L. Basham's *The Wonder That Was India* (1951) marked a great shift from political to non-political history. D.D. Kosambi's *An Introduction to the Study of Indian History* (1957), popularised in *The Civilisation of Ancient India in Historical Outline* (1965), supplied the method — a materialist interpretation derived from Marx, presenting society, economy **and culture** as integral to the development of the forces and relations of production, and offering the first survey volume to show stages of social and economic development in terms of **tribal and class processes**. R.S. Sharma built material culture, production, class, land, varna and state formation into a full account.
+> **Contribution.** The turn preceded Marxism: A.L. Basham's *The Wonder That Was India* (1951) shifted attention beyond politics. D.D. Kosambi's *An Introduction to the Study of Indian History* (1957) and *The Culture and Civilisation of Ancient India in Historical Outline* (1965) applied Marx-derived forces and relations of production to society, economy **and culture**, surveying development through **tribal and class processes**. R.S. Sharma integrated material culture, production, class, land, varna and state formation. These questions explain institutions through changing social relations rather than rulers alone.
 >
-> Four achievements followed: focus shifted from dynastic history to social and economic structures and processes; modes of production, class stratification and agrarian relations acquired importance; the search for golden ages was replaced by a critical approach acknowledging tensions and conflicts; and there was a concerted attempt to democratize history by recovering the lives of ordinary people.
+> Four gains followed: social processes displaced exclusively dynastic history; modes of production, class stratification and agrarian relations acquired importance; tension and conflict qualified golden ages; and historians sought the experiences of ordinary people. That was a democratising change of subject, not merely an extra economic chapter.
 >
-> **Criticisms.** Up to around the 1980s: unilinear models derived from Western historical and anthropological writings; texts sometimes read uncritically, with insufficient attention to problematic chronology and genre; archaeological data included, yet the framework remained text-centric; and religion and culture often sidelined or mechanically presented as reflections of socio-economic structures.
+> **Criticisms:** Until around the 1980s, some imported unilinear Western historical and anthropological models, read texts without sufficient attention to chronology and genre, included archaeology in still text-centric narratives, or sidelined religion and culture as automatic economic reflections. Each criticism requires assessing the specific historian and evidence rather than disqualifying all materialist work.
 >
-> **Verdict.** The approach changed the **subject** of ancient Indian history and restored causation to it. Its programme did not exclude culture; its execution frequently reduced it. The criticisms are of implementation, not of the decision to study production and social structure — and two of them, uncritical text-reading and text-centrism, are weaknesses of the **archive** that colonial scholarship shared.
+> **Verdict:** It changed the **subject** and restored causal explanation. Its programme included culture, though execution could be reductive; uncritical texts and text-centrism also troubled colonial scholarship. Criticise an untested model or one-sided application, not the decision to study social production, caste or power.
 
 **Why this earns marks.** It answers the directive directly, links each claim to named textual, inscriptional, archaeological or scholarly evidence, explains what that evidence proves, states a qualification or source limitation, and closes with a reasoned verdict.
 
@@ -1277,7 +1696,7 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 > The proposition is true and, taken alone, useless. Its value appears only when bias is treated as a **coordinate** rather than a verdict.
 >
-> **Texts.** Ancient texts largely reflect the perspectives of political, social or religious elites; almost all were written by upper-class men for other upper-class men. They are also layered, since composition sometimes ran for centuries, and often normative, presenting an ideal rather than describing practice. A text therefore offers a complex representation and a **refracted** image, not a reflection. But the bias locates the author, which is information: a prescription is excellent evidence for the concerns of those who prescribed.
+> **Texts.** Ancient texts largely reflect political, social or religious elites; almost all were written by upper-class men for other upper-class men. They are also layered, since composition sometimes ran for centuries, and often normative, presenting an ideal rather than describing practice. A text therefore offers a complex representation and a **refracted** image, not a reflection. But the bias locates the author, which is information: a prescription is excellent evidence for the concerns of those who prescribed.
 >
 > **Inscriptions.** They are closer to administration and to datable events, and formulaic and elite-heavy in equal measure. A royal inscription is weak evidence for popular opinion and strong evidence for how power wished to be seen — that is, for legitimation, which is itself a historical fact. Note that UPSC's own 2025 stem reads "Ashokan inscriptions **suggest**".
 >
@@ -1307,17 +1726,17 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 > The metaphor is apt in three respects and misleading in one, and both matter.
 >
-> **Why it works.** Interpretations, like deposits, are laid down in datable contexts; each layer is shaped by the conditions of its formation; and the historian's task is to expose them without confusing one layer for another.
+> **Why it works.** Interpretations, like deposits, are laid down in datable contexts; each layer is shaped by the conditions of its formation; and the historian must expose them without confusing one layer for another. This is an analogy about the history of questions, not a claim that schools are excavated objects.
 >
-> **The colonial layer** was laid down by governance. Research began in the later eighteenth century to serve administration — the *Manu Smriti* was translated in 1776 as *A Code of Gentoo Laws* — and it produced both durable tools and imperial generalisations. The Asiatic Society of Bengal (1784), the decipherment of Ashokan Brahmi and Kharoshthi, coin-based political chronology and the Archaeological Survey of India (1871) remain in use. So, for a time, did the claims that Indians lacked chronology, were accustomed to despotism and had never known self-government — claims whose common purpose, on Sharma's reading, was "to demonstrate that Indians were incapable of governing themselves". V.A. Smith's *Early History of India* (1904) gave the layer its narrative form.
+> **The colonial layer:** Governance partly drove late-eighteenth-century research: Halhed translated the pandit-compiled *A Code of Gentoo Laws* (1776), **not** the *Manu Smriti*. The Asiatic Society of Bengal (1784), decipherment of Ashokan Brahmi and Kharoshthi, coin-based chronology and Archaeological Survey of India (1871) supplied durable tools. Yet claims of absent chronology, spiritual otherworldliness, despotism and no self-government suggested, as Sharma argues, that Indians could not govern themselves. V.A. Smith's *Early History of India* (1904) supplied a political-imperial narrative. Institutional achievements cannot excuse its ideological claims.
 >
-> **The nationalist layer** reversed the verdict without removing the frame. Jayaswal's *Hindu Polity* (1924) established that republics existed and enjoyed a measure of self-government; texts, inscriptions, coins and material remains were woven together; south India entered the narrative. Yet the Hindu–Muslim–British periodisation was retained, golden ages were sought in the Vedas and the Guptas, and the field remained political and elite until 1960.
+> **The nationalist layer** reversed the verdict, not always the frame. Jayaswal's *Hindu Polity* (1924) defended republican experiments and some self-government; historians combined texts, inscriptions, coins and material remains and included south India. Yet Hindu–Muslim–British periodisation, golden ages sought in the Vedas and Guptas, and political-elite focus persisted around 1960. Nationalist historians nonetheless differed in method and politics.
 >
-> **The materialist layer** changed the subject. Basham's 1951 volume shifted attention from political to non-political history; Kosambi's *Introduction* (1957) applied a materialist interpretation derived from Marx and first presented social and economic stages in terms of tribal and class processes; R.S. Sharma built production, class, land and varna into the account, replacing golden ages with tensions and conflicts and attempting to democratize history.
+> **The materialist layer** changed the subject. Basham's *The Wonder That Was India* (1951) shifted beyond political history; Kosambi's *Introduction* (1957) applied Marx-derived materialism to tribal and class processes; R.S. Sharma foregrounded production, class, land and varna, replacing golden ages with conflict and seeking a more inclusive history.
 >
-> **The interdisciplinary layer** specified the standard of proof — archaeological science, gender, region, environment, and the reading of texts as discourses shaped by time, genre, authorial perspective and audience.
+> **The interdisciplinary layer** joined archaeological science, gender, region and environment to texts read through chronology, genre, authorship and audience; its standard is independently argued convergence, not automatic scientific certainty or a single replacement master narrative.
 >
-> **Where the metaphor fails.** Strata are neatly successive; interpretations are not. There was considerable variety within schools, they co-existed in dialogue or conflict, and many writings do not fit the dominant trend of their time — Basham and Kosambi disagreed within six years, while dynastic history still dominated. **Critically examined: historiography is stratified in its formation and entangled in its persistence.**
+> **Where it fails:** Unlike neat strata, schools coexisted and differed internally: Basham criticised Kosambi while dynastic writing continued. Later methods do not simply bury earlier findings: decipherments remain useful after imperial claims fail. **Historiography is layered in formation and entangled in persistence.**
 
 **Why this earns marks.** It answers the directive directly, links each claim to named textual, inscriptional, archaeological or scholarly evidence, explains what that evidence proves, states a qualification or source limitation, and closes with a reasoned verdict.
 
@@ -1338,9 +1757,9 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 
 **Model answer.**
 
-> Mill's division of the Indian past into Hindu, Muslim and British periods fails on four independent grounds, and the interdisciplinary turn has replaced it with something better rather than merely rejecting it.
+> Mill's Hindu–Muslim–British division fails on four grounds; interdisciplinary history offers a positive alternative.
 >
-> **The logical ground is decisive and comes first.** The criterion changes midstream: the first two periods are named for religions, the third for a nationality. Why the British and not the Christian period? A classification that switches criteria is not a classification but a narrative — two religious ages followed by a modernising imperial one.
+> **The logical ground is decisive.** The criterion changes midstream: the first two periods are named for religions, the third for a nationality. Why the British and not the Christian period? A classification that switches criteria is not a classification but a narrative — two religious ages followed by a modernising imperial one.
 >
 > **The descriptive ground.** The scheme misdescribes its own periods: it cannot accommodate polities ruled by non-Muslim elites after the advent of Turkish rule, and it makes the religion of a tiny ruling stratum the name of an era.
 >
@@ -1348,7 +1767,7 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 >
 > **The political ground.** The division helped project Islam as a fundamental fracture in Indian society; it took root in the colonial period and was **retained** by nationalist historians, where it coalesced with a tendency to valorize the "Hindu period".
 >
-> **What replaced it.** Most historians adopted a more neutral fourfold classification — ancient/early to the sixth century CE, early medieval to the twelfth or thirteenth, medieval to the eighteenth, modern thereafter — while insisting that the dividing lines may vary and that these are not hard lines. Interdisciplinary work then supplied the positive alternative: periods defined by **processes** — urbanisation, state formation, agrarian expansion, exchange, social form and cultural change — cross-cut by an evidence-based axis of prehistory, protohistory and history, whose boundaries have themselves moved with new epigraphic evidence.
+> **What replaced it.** Historians adopted a more neutral fourfold classification — ancient/early to the sixth century CE, early medieval to the twelfth or thirteenth, medieval to the eighteenth, modern thereafter — while insisting that the dividing lines may vary and that these are not hard lines. Interdisciplinary work then supplied the positive alternative: periods defined by **processes** — urbanisation, state formation, agrarian expansion, exchange, social form and cultural change — cross-cut by an evidence-based axis of prehistory, protohistory and history, whose boundaries have themselves moved with new epigraphic evidence.
 >
 > **Assessment:** Mill's scheme is not an outdated tool but an incoherent one, and its replacement is not a better label but a different **kind** of question.
 
@@ -1470,4 +1889,3 @@ For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evid
 ```
 
 ---
-

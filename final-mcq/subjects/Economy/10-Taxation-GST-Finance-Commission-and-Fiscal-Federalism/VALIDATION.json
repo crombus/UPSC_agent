@@ -1,0 +1,58 @@
+{
+  "topic": "10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 9,
+        "A": 10,
+        "B": 11,
+        "C": 10
+      },
+      "fingerprint": "8d090288c26f8f52"
+    },
+    {
+      "bank": 2,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 18,
+        "C": 8,
+        "B": 4,
+        "D": 10
+      },
+      "fingerprint": "7ad0feb4ed765c95"
+    },
+    {
+      "bank": 3,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 10,
+        "D": 13,
+        "A": 13,
+        "C": 4
+      },
+      "fingerprint": "490958ee0c26ed0e"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

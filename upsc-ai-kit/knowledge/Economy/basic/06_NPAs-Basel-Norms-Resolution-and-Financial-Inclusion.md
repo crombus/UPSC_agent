@@ -56,6 +56,15 @@ rather than account counts.
 - ✅ **RBI:** sets prudential norms on recognition, provisioning, income
   recognition, restructuring, capital adequacy and supervisory intervention,
   including Prompt Corrective Action (PCA) for weak banks.
+- ✅ **Borrower relief versus regulatory permission:** The
+  [RBI Commercial Banks - Resolution of Stressed Assets Directions, 2025](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13145)
+  (updated 1 July 2026) recognise restructuring where a bank grants concessions
+  because of a borrower's financial difficulty. A formal plan may alter the
+  payment period, payable amount, instalment amount or interest rate; a
+  compromise settlement is also a recognised resolution route. These are
+  options under each bank's Board-approved policy, not an automatic RBI
+  entitlement to a longer tenure, reduced EMI, moratorium, settlement or waiver
+  merely because an individual loses employment.
 - ✅ **SARFAESI Act, 2002 and Debt Recovery Tribunals (DRTs):** provide a
   specialised framework for secured-asset enforcement and recovery outside the
   slow route of ordinary civil litigation.
@@ -270,6 +279,9 @@ rather than account counts.
 
 - ❌ Every restructured loan is fraud. -> Restructuring can be legitimate when
   viability is restored transparently.
+- ❌ RBI requires every bank to grant an EMI holiday after job loss. -> RBI
+  permits formal restructuring and compromise settlements within Board-approved
+  bank policies, but does not create a universal job-loss moratorium or waiver.
 - ❌ Provisioning is the same as write-off. -> Provisioning recognises expected
   loss; write-off removes the asset from active books.
 - ❌ A write-off waives the borrower's liability. -> Recovery rights can

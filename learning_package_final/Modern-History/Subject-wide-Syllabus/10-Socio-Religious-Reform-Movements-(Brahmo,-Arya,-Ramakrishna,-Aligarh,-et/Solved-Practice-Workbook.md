@@ -6,805 +6,513 @@ topic_key: modern-indian-history-10
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Atmiya Sabha?
+36 source-grounded questions. Attempt every question before opening the separate solution key.
 
-A. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-B. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-C. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-D. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
+### Q1. Which sequence correctly separates Roy's early association from his later congregational movement?
 
-**Answer: A.**
-**Explanation:** Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Atmiya Sabha (1815) before Brahmo Samaj (1828), both in Calcutta
+B. Brahmo Samaj (1815) before Atmiya Sabha (1828), both in Calcutta
+C. Atmiya Sabha (1828) before Prarthana Samaj (1875), both in Bombay
+D. Brahmo Samaj (1878) before Sadharan Brahmo Samaj (1828), both founded by Roy
 
-### Q2. Which chronology card should be filed under Atmiya Sabha?
+### Q2. A pamphlet credits Roy's reform to a newspaper, scriptural argument and a campaign against sati. Which newspaper belongs in the account?
 
-A. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-B. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-C. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-D. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
+A. Satyarth Prakash, an Arya Samaj school paper
+B. Sambad Kaumudi, used to shape public opinion
+C. Gulamgiri, issued as a Brahmo periodical
+D. Vital-Vidhvansak, the Brahmo weekly of 1828
 
-**Answer: B.**
-**Explanation:** Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. Which reading of Debendranath Tagore and Keshab Chandra Sen avoids treating Brahmo history as one founder's unchanging doctrine?
 
-### Q3. Which option should a candidate retain when revising Atmiya Sabha?
+A. Debendranath founded Arya Samaj and Keshab founded the Ramakrishna Mission
+B. Debendranath created Young Bengal while Keshab founded Deoband
+C. Debendranath revitalised the movement and conflict around Keshab preceded the Sadharan Brahmo split
+D. Debendranath was Roy's predecessor and Keshab led the 1828 founding
 
-A. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-B. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-C. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-D. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
+### Q4. The Sadharan Brahmo Samaj belongs to which turning point?
 
-**Answer: C.**
-**Explanation:** Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1866 foundation of orthodox Deoband instruction
+B. The 1873 establishment of Phule's Satyashodhak Samaj
+C. The 1897 launch of Vivekananda's service mission
+D. The 1878 split associated with conflict over Keshab Chandra Sen
 
-### Q4. Which statement avoids a common matching trap about Atmiya Sabha?
+### Q5. Which contrast between Young Bengal and Brahmo Samaj best answers the 2021 GS-I demand?
 
-A. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-B. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-C. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
+A. Derozio's iconoclastic free thought contrasted with Roy's organised monotheistic reform and institutional afterlife
+B. Derozio's Vedic shuddhi contrasted with Roy's seminary-based theological revival
+C. Derozio's rural peasant union contrasted with Roy's Brahman-free marriage rituals
+D. Derozio founded Brahmo Samaj while Roy's students created Young Bengal
 
-**Answer: D.**
-**Explanation:** Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. A western-India reform association advocates widow remarriage and women's education without demanding a purified Vedic return. Identify it.
 
-### Q5. Which statement correctly identifies Brahmo Samaj?
+A. Arya Samaj directed by Keshab Chandra Sen and Debendranath
+B. Prarthana Samaj linked to Atmaram Pandurang, Ranade and Bhandarkar
+C. Deoband seminary organised by Atmaram Pandurang and Ranade
+D. Ramakrishna Mission founded by Bhandarkar in Bombay
 
-A. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-D. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
+### Q7. A movement rejects idolatry, invokes Vedic authority yet builds modern schools. Which interpretation is defensible?
 
-**Answer: A.**
-**Explanation:** Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Brahmo Samaj abandoned all associations and schools for Vedic shuddhi
+B. Prarthana Samaj rejected all women's uplift as an imported practice
+C. Arya Samaj joined revivalist idiom to modern DAV education
+D. Young Bengal founded the DAV network as a seminary response to 1857
 
-### Q6. Which chronology card should be filed under Brahmo Samaj?
+### Q8. Which combination would correctly complete a Dayananda source card?
 
-A. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-B. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-C. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-D. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
+A. Arya Samaj, 1828, Sambad Kaumudi and monotheistic Brahmo worship
+B. Satyashodhak Samaj, 1875, DAV schools and Vedic purity
+C. Ramakrishna Mission, 1873, Gulamgiri and shuddhi
+D. Arya Samaj, 1875, Satyarth Prakash and shuddhi
 
-**Answer: B.**
-**Explanation:** Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. What is the proper founder-to-spiritual-teacher distinction for the Ramakrishna Mission?
 
-### Q7. Which option should a candidate retain when revising Brahmo Samaj?
+A. Vivekananda founded it in 1897, drawing on Ramakrishna's spiritual legacy
+B. Ramakrishna founded it in 1893 immediately after his Chicago address
+C. Dayananda founded it to institutionalise shuddhi in 1875
+D. Vivekananda founded it in 1828 as Roy's Brahmo successor
 
-A. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-B. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-C. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-D. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
+### Q10. Which relation between Vivekananda's Chicago address and his Mission is chronologically sound?
 
-**Answer: C.**
-**Explanation:** Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Mission foundation in 1893, followed by Chicago address in 1897
+B. Chicago address in 1893, followed by Mission foundation in 1897
+C. Chicago address and Mission foundation both in 1875
+D. Mission foundation in 1828 before the 1866 Chicago address
 
-### Q8. Which statement avoids a common matching trap about Brahmo Samaj?
+### Q11. A student treats Phule's reform as a programme merely to purify Vedic ritual. What decisive objection follows?
 
-A. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-B. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-C. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-D. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
+A. Phule founded the Brahmo Samaj in 1828 to reaffirm caste hierarchy
+B. Phule founded Deoband in 1866 to expand western scientific schooling
+C. Satyashodhak Samaj challenged Brahmanical power and mobilised non-Brahman groups from 1873
+D. Phule directed the Adyar headquarters to preach only monotheism
 
-**Answer: D.**
-**Explanation:** Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which evidence pair substantiates Phule's organisational and intellectual caste critique?
 
-### Q9. Which statement correctly identifies Debendranath Tagore?
+A. Prarthana Samaj and Sambad Kaumudi
+B. Ramakrishna Mission and Satyarth Prakash
+C. Atmiya Sabha and the 1891 consent statute
+D. Satyashodhak Samaj and Gulamgiri
 
-A. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-B. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-C. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-D. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
+### Q13. Two pioneering girls' school references risk being merged. Which precise distinction is correct?
 
-**Answer: A.**
-**Explanation:** Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Phules' Bhide Wada school opened in Poona in 1848, Bethune School in Calcutta in 1849
+B. Bethune School opened in Poona in 1848 and the Phules followed in Calcutta in 1849
+C. Both were founded by Vidyasagar in Calcutta in 1848
+D. Both were established by Pandita Ramabai after the 1891 consent law
 
-### Q10. Which chronology card should be filed under Debendranath Tagore?
+### Q14. An examiner asks for Bethune Female School's secretary, not its founder. Which response is accurate?
 
-A. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-D. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
+A. John Elliot Drinkwater Bethune, because secretary means founder
+B. Ishwar Chandra Vidyasagar, associated with women's education
+C. Savitribai Phule, because she ran the 1848 Bhide Wada school
+D. Behramji Malabari, because he wrote a note on child marriage
 
-**Answer: B.**
-**Explanation:** Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. The Rukhmabai case is commonly presented as a legal victory for the litigant. Which correction is needed?
 
-### Q11. Which option should a candidate retain when revising Debendranath Tagore?
+A. She won a Supreme Court judgment in 1891 abolishing child marriage
+B. She founded a girls' school in Calcutta in 1849 to defeat conjugal-rights law
+C. She resisted conjugal rights in Bombay High Court in 1884-88 and lost, although the debate advanced reform
+D. She obtained a general right of divorce by the Age of Consent Act of 1860
 
-A. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-B. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-C. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-D. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
+### Q16. What exactly did the 1891 Age of Consent Act change in the source account?
 
-**Answer: C.**
-**Explanation:** Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It raised the marriage age from twelve to eighteen and banned all child weddings
+B. It repealed the 1856 widow-remarriage law and lowered consent to ten
+C. It preceded the 1860 initial protection against consummation below ten
+D. It raised the relevant consent age from ten to twelve amid opposition
 
-### Q12. Which statement avoids a common matching trap about Debendranath Tagore?
+### Q17. Behramji Malabari's 1884 note belongs in which causal chain?
 
-A. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-B. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-C. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-D. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
+A. Debate on child marriage, Rukhmabai's legal contest and pressure preceding the 1891 law
+B. Founding of Atmiya Sabha, followed by Brahmo Samaj and the 1829 sati ban
+C. Vedic shuddhi, then founding of the DAV schools in the same court case
+D. Creation of Self-Respect after Periyar's departure from Congress in 1925
 
-**Answer: D.**
-**Explanation:** Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. Which comparison of two Muslim educational responses avoids flattening them into one strategy?
 
-### Q13. Which statement correctly identifies Sadharan Brahmo Samaj?
+A. Deoband ran the MAO College and Aligarh established the orthodox seminary
+B. Syed Ahmad Khan's Aligarh stressed modern science, while Deoband (1866) stressed orthodox Islamic learning
+C. Both began as DAV schools promoting a return to Vedic authority
+D. Both were founded by Syed Ahmad Khan in 1875 with identical courses
 
-A. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-B. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-C. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-D. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
+### Q19. A chronological ledger lists Deoband, Satyashodhak, MAO College and Sadharan Brahmo. Select the order.
 
-**Answer: A.**
-**Explanation:** The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. MAO College 1866, Deoband 1873, Sadharan Brahmo 1875, Satyashodhak 1878
+B. Sadharan Brahmo 1866, MAO College 1873, Deoband 1875, Satyashodhak 1878
+C. Deoband 1866, Satyashodhak 1873, MAO College 1875, Sadharan Brahmo 1878
+D. Satyashodhak 1866, Sadharan Brahmo 1873, MAO College 1875, Deoband 1878
 
-### Q14. Which chronology card should be filed under Sadharan Brahmo Samaj?
+### Q20. The Theosophical Society's headquarters is wrongly dated to its founding year. What is the accurate correction?
 
-A. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-B. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-C. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-D. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
+A. Founded in Adyar in 1882 by Annie Besant, headquartered there from 1875
+B. Founded in Calcutta in 1828 by Roy, with Adyar as original headquarters
+C. Founded in Poona in 1873 by Phule, then shifted to Adyar in 1897
+D. Founded in 1875 outside India by Blavatsky and Olcott, headquartered at Adyar from 1882
 
-**Answer: B.**
-**Explanation:** The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. A matching table swaps two community associations. Which correction restores both?
 
-### Q15. Which option should a candidate retain when revising Sadharan Brahmo Samaj?
+A. Rahnumai Mazdayasnan Sabha refers to Parsi reform and Singh Sabha to Sikh reform
+B. Rahnumai Mazdayasnan Sabha is Sikh and Singh Sabha is Parsi
+C. Both were Aligarh branches of Muslim scientific education
+D. Both were formed by the Phules for women's education in Poona
 
-A. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-B. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-C. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-D. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
+### Q22. Which interpretation of Sri Narayana Guru is closest to the source's regional distinction?
 
-**Answer: C.**
-**Explanation:** The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Founder of the Madras Self-Respect movement after leaving Congress in 1925
+B. A Kerala challenge to caste hierarchy with a spiritually framed strategy
+C. A Bengal rationalist who led Derozio's Young Bengal
+D. Founder of Deoband's orthodox learning initiative in 1866
 
-### Q16. Which statement avoids a common matching trap about Sadharan Brahmo Samaj?
+### Q23. A 2025 Prelims route asks who founded Self-Respect. Which candidate also fits the critique of Brahmanism and women's subjection?
 
-A. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-B. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-C. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-D. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
+A. Atmaram Pandurang, Prarthana organiser
+B. Rammohan Roy, Bengal monotheist
+C. Periyar, E.V. Ramaswamy Naicker
+D. Syed Ahmad Khan, Aligarh modernist
 
-**Answer: D.**
-**Explanation:** The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. An answer makes Periyar's response to Gandhi's 1927 Madras tour the date he left Congress. What is the repair?
 
-### Q17. Which statement correctly identifies Young Bengal?
+A. He left Congress only after the Justice Party ceased contesting elections in 1946
+B. He left in 1873 when Phule founded Satyashodhak Samaj
+C. He left in 1893 after Vivekananda's Chicago address
+D. He left Congress in 1925, while the 1927 episode sharpened his critique
 
-A. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-B. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-C. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-D. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
+### Q25. Which proposition about the Justice Party and Self-Respect most needs the party-versus-ideology distinction?
 
-**Answer: A.**
-**Explanation:** Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Self-Respect outlived the Justice Party's electoral weakness through a wider social appeal
+B. The Justice Party alone founded Self-Respect after 1946
+C. Justice Party's 1926 defeat instantly dissolved all non-Brahman politics
+D. Self-Respect was simply a new title for the 1828 Brahmo Samaj
 
-### Q18. Which chronology card should be filed under Young Bengal?
+### Q26. Why is a direct copy of European Enlightenment an unsafe explanation of Indian reform?
 
-A. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-B. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-C. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-D. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
+A. All reformers abandoned scripture and voluntary associations to imitate Europe
+B. Reformers selectively used reason and indigenous textual or devotional resources in public debate
+C. No reformer used schools or print because modernity was wholly rejected
+D. Every reformer agreed that revivalism excluded modern methods
 
-**Answer: B.**
-**Explanation:** Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. Which evidence most strongly qualifies an uncritical elite 'Indian Renaissance' account?
 
-### Q19. Which option should a candidate retain when revising Young Bengal?
+A. Only the founding date of Brahmo Samaj proves reform reached every Indian caste
+B. The Chicago address alone demonstrates the abolition of caste throughout India
+C. Phule's caste-power critique and Savitribai's agency reveal exclusions of urban male upper-caste narratives
+D. The Adyar relocation shows colonial rule solved gender inequality
 
-A. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-B. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-C. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-D. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
+### Q28. A student equates 'law passed' with 'custom disappeared'. Which contemporary reform case disproves the equation most clearly?
 
-**Answer: C.**
-**Explanation:** Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Sadharan Brahmo split shows the 1891 law was repealed in 1878
+B. The DAV education programme proves no child marriage debate occurred
+C. The Chicago address made Rukhmabai's 1884-88 case unnecessary
+D. Resistance to Bethune pupils and orthodox backlash to the 1891 consent law
 
-### Q20. Which statement avoids a common matching trap about Young Bengal?
+### Q29. A 2020 Prelims route tests an early journal for untouchable readers. What answer can be defended without claiming an official key?
 
-A. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-B. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-C. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-D. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
+A. Gopal Baba Walangkar and Vital-Vidhvansak (1888), inferred from supplementary evidence
+B. Jotirao Phule and Sambad Kaumudi (1888), locally officially keyed
+C. Periyar and Satyarth Prakash (1866), verified as official
+D. Vidyasagar and Gulamgiri (1875), confirmed by the local official key
 
-**Answer: D.**
-**Explanation:** Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Which critique respects women's own actions rather than depicting them solely as beneficiaries?
 
-### Q21. Which statement correctly identifies Prarthana Samaj?
-
-A. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-B. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-C. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-D. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-
-**Answer: A.**
-**Explanation:** Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q22. Which chronology card should be filed under Prarthana Samaj?
-
-A. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-B. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-C. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-D. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-
-**Answer: B.**
-**Explanation:** Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q23. Which option should a candidate retain when revising Prarthana Samaj?
-
-A. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-B. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-C. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-D. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-
-**Answer: C.**
-**Explanation:** Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q24. Which statement avoids a common matching trap about Prarthana Samaj?
-
-A. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-B. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-C. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-D. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-
-**Answer: D.**
-**Explanation:** Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q25. Which statement correctly identifies Arya Samaj?
-
-A. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-B. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-C. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-D. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-
-**Answer: A.**
-**Explanation:** Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q26. Which chronology card should be filed under Arya Samaj?
-
-A. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-B. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-C. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-D. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-
-**Answer: B.**
-**Explanation:** Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q27. Which option should a candidate retain when revising Arya Samaj?
-
-A. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-B. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-C. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-D. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-
-**Answer: C.**
-**Explanation:** Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q28. Which statement avoids a common matching trap about Arya Samaj?
-
-A. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-B. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-C. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-D. Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas.
-
-**Answer: D.**
-**Explanation:** Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the Vedas. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q29. Which statement correctly identifies Arya institutions?
-
-A. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-B. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-C. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-D. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-
-**Answer: A.**
-**Explanation:** Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q30. Which chronology card should be filed under Arya institutions?
-
-A. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-B. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-C. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-D. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-
-**Answer: B.**
-**Explanation:** Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q31. Which option should a candidate retain when revising Arya institutions?
-
-A. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-B. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-C. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-D. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-
-**Answer: C.**
-**Explanation:** Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q32. Which statement avoids a common matching trap about Arya institutions?
-
-A. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-B. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-C. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-D. Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj.
-
-**Answer: D.**
-**Explanation:** Satyarth Prakash, shuddhi and DAV education are central associations of Arya Samaj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q33. Which statement correctly identifies Ramakrishna Mission?
-
-A. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-B. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-C. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-D. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-
-**Answer: A.**
-**Explanation:** Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q34. Which chronology card should be filed under Ramakrishna Mission?
-
-A. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-B. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-C. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-D. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-
-**Answer: B.**
-**Explanation:** Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q35. Which option should a candidate retain when revising Ramakrishna Mission?
-
-A. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-B. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-C. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-D. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-
-**Answer: C.**
-**Explanation:** Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Ramakrishna Mission?
-
-A. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-B. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-C. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-D. Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.
-
-**Answer: D.**
-**Explanation:** Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies Satyashodhak Samaj?
-
-A. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-B. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-C. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-D. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-
-**Answer: A.**
-**Explanation:** Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under Satyashodhak Samaj?
-
-A. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-B. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-C. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-D. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-
-**Answer: B.**
-**Explanation:** Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising Satyashodhak Samaj?
-
-A. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-B. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-C. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: C.**
-**Explanation:** Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about Satyashodhak Samaj?
-
-A. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-B. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-C. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-D. Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups.
-
-**Answer: D.**
-**Explanation:** Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Phule girls' school?
-
-A. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-B. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-C. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-D. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-
-**Answer: A.**
-**Explanation:** Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Phule girls' school?
-
-A. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-B. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-C. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: B.**
-**Explanation:** Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Phule girls' school?
-
-A. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-B. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-C. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: C.**
-**Explanation:** Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Phule girls' school?
-
-A. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-B. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-C. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-D. Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.
-
-**Answer: D.**
-**Explanation:** Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Bethune School and Vidyasagar?
-
-A. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-B. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-C. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: A.**
-**Explanation:** Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Bethune School and Vidyasagar?
-
-A. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-B. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-C. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-D. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-
-**Answer: B.**
-**Explanation:** Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Bethune School and Vidyasagar?
-
-A. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-B. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-C. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: C.**
-**Explanation:** Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Bethune School and Vidyasagar?
-
-A. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-B. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-C. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-D. Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education.
-
-**Answer: D.**
-**Explanation:** Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Rukhmabai case?
-
-A. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-B. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-C. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-D. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-
-**Answer: A.**
-**Explanation:** Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Rukhmabai case?
-
-A. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-B. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-C. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: B.**
-**Explanation:** Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Rukhmabai case?
-
-A. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-B. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-C. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-D. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-
-**Answer: C.**
-**Explanation:** Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Rukhmabai case?
-
-A. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-B. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-C. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-D. Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue.
-
-**Answer: D.**
-**Explanation:** Rukhmabai contested conjugal rights in the Bombay High Court during 1884-88 and lost the case after making child marriage a public issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Age of Consent Act?
-
-A. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-B. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-C. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-D. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-
-**Answer: A.**
-**Explanation:** The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Age of Consent Act?
-
-A. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-B. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-C. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-D. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-
-**Answer: B.**
-**Explanation:** The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Age of Consent Act?
-
-A. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-B. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-C. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-D. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-
-**Answer: C.**
-**Explanation:** The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Age of Consent Act?
-
-A. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-B. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-C. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-D. The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy.
-
-**Answer: D.**
-**Explanation:** The Age of Consent Act of 1891 raised the relevant age from ten to twelve amid intense controversy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Aligarh movement?
-
-A. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-B. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-C. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-D. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-
-**Answer: A.**
-**Explanation:** Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Aligarh movement?
-
-A. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-B. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-C. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-D. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-
-**Answer: B.**
-**Explanation:** Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Aligarh movement?
-
-A. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-B. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-C. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-D. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-
-**Answer: C.**
-**Explanation:** Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Aligarh movement?
-
-A. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-B. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-C. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-D. Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage.
-
-**Answer: D.**
-**Explanation:** Syed Ahmad Khan's Aligarh movement used modern education, including MAO College in 1875, to address Muslim social disadvantage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Deoband?
-
-A. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-B. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-C. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-D. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-
-**Answer: A.**
-**Explanation:** The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Deoband?
-
-A. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-B. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-C. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-D. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-
-**Answer: B.**
-**Explanation:** The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Deoband?
-
-A. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-B. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-C. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-D. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-
-**Answer: C.**
-**Explanation:** The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Deoband?
-
-A. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-B. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-C. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-D. The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh.
-
-**Answer: D.**
-**Explanation:** The Deoband seminary was founded in 1866 and represented an orthodox educational response distinct from Aligarh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Theosophical Society?
-
-A. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-B. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-C. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-D. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-
-**Answer: A.**
-**Explanation:** The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Theosophical Society?
-
-A. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-B. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-C. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-
-**Answer: B.**
-**Explanation:** The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Theosophical Society?
-
-A. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-B. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-C. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-D. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-
-**Answer: C.**
-**Explanation:** The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Theosophical Society?
-
-A. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-D. The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882.
-
-**Answer: D.**
-**Explanation:** The Theosophical Society was founded in 1875 and shifted its headquarters to Adyar in 1882. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Community reform?
-
-A. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-B. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-C. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-
-**Answer: A.**
-**Explanation:** Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Community reform?
-
-A. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-B. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-C. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-
-**Answer: B.**
-**Explanation:** Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Community reform?
-
-A. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-
-**Answer: C.**
-**Explanation:** Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Community reform?
-
-A. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-D. Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively.
-
-**Answer: D.**
-**Explanation:** Rahnumai Mazdayasnan Sabha and Singh Sabha represent Parsi and Sikh community reform respectively. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Sri Narayana Guru?
-
-A. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-B. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-C. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-D. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-
-**Answer: A.**
-**Explanation:** Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Sri Narayana Guru?
-
-A. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-B. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-C. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-
-**Answer: B.**
-**Explanation:** Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Sri Narayana Guru?
-
-A. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-B. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-C. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-D. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-
-**Answer: C.**
-**Explanation:** Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Sri Narayana Guru?
-
-A. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-D. Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala.
-
-**Answer: D.**
-**Explanation:** Sri Narayana Guru pursued a spiritually framed challenge to caste hierarchy in Kerala. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Self-Respect Movement?
-
-A. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-B. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-C. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-D. Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association.
-
-**Answer: A.**
-**Explanation:** Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Self-Respect Movement?
-
-A. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-B. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-C. Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform.
-D. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-
-**Answer: B.**
-**Explanation:** Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Self-Respect Movement?
-
-A. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-B. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-C. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-D. Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
-
-**Answer: C.**
-**Explanation:** Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Self-Respect Movement?
-
-A. Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform.
-B. The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
-C. Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.
-D. Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India.
-
-**Answer: D.**
-**Explanation:** Periyar led the Self-Respect Movement, linking anti-Brahmanism, gender critique and social dignity in south India. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All three only received the same 1891 statute without initiating public action
+B. Savitribai co-ran Poona schooling, Rukhmabai defended her position in court, and Ramabai questioned patriarchy
+C. Only male reformers appeared in the Rukhmabai dispute and Bhide Wada school
+D. Pandita Ramabai founded Bethune School and obtained Rukhmabai's judgment
+
+### Q31. Which pairing shows why classifying reformist and revivalist as progressive versus reactionary is unsound?
+
+A. Arya Samaj rejected all formal education because it honoured the Vedas
+B. Brahmo Samaj alone mobilised every social group equally because it used reason
+C. Arya Samaj promoted modern education while invoking ancient Vedic authority
+D. Deoband's orthodox learning and Aligarh's science were identical curriculums
+
+### Q32. For the 2025 Phule Mains demand, which answer spine best tests both achievement and limits?
+
+A. Only list Brahmo, Arya and Mission dates without Phule's writings
+B. Treat Phule's caste diagnosis as an appendix to the 1891 law
+C. Attribute Satyashodhak to Periyar and discuss only 1927 Madras
+D. Caste power and Gulamgiri, Satyashodhak organising and girls' education, then tensions in peasant-caste coalition
+
+### Q33. Which thesis properly evaluates nineteenth-century reform and nationalism?
+
+A. Voluntary associations and public debate built resources for nationalism, but elite reach and caste exclusions complicate the claim
+B. Every reform institution was already an INC branch from its founding date
+C. Caste and gender campaigns had no role in the making of a public sphere
+D. Cultural self-respect automatically erased social hierarchy before political mobilisation
+
+### Q34. When describing the 1891 backlash, which tension should an answer explicitly expose?
+
+A. All orthodox critics supported Rukhmabai and sponsored the Age of Consent Act
+B. Some opponents invoked freedom from colonial social intervention while using colonial courts in the Rukhmabai dispute
+C. No reformist opinion existed because the 1891 law was enacted without public debate
+D. Every nationalist rejected women's education from 1848 onward
+
+### Q35. What differentiates Aligarh's educational project from simply assigning the label 'Muslim reform' to all currents?
+
+A. Deoband's 1866 seminary was the original name of MAO College
+B. Aligarh was a Sikh association for scriptural purification at Adyar
+C. Syed Ahmad Khan's MAO College at Aligarh in 1875 advanced modern scientific education
+D. Syed founded the Brahmo Samaj to oppose sati in Calcutta
+
+### Q36. Which caution is needed when using Phule's coalition as evidence of a seamless egalitarian politics?
+
+A. He publicly abandoned girls' education before founding Satyashodhak in 1828
+B. His organisation was a state law imposing the 1891 age of consent
+C. His movement was identical to the later Justice Party's 1946 electoral position
+D. His later Kunbi-peasant focus and status claims complicate the anti-Brahman coalition
+
+### Separate answer key: option-by-option reasoning
+
+**Q1 — A.**
+- **A:** The first was an early association, the second a durable monotheistic movement.
+- **B:** The dates have been exchanged.
+- **C:** The region, later movement and dates have been conflated.
+- **D:** The later split was in 1878, after Roy's foundation.
+- **Trap:** Distinguish “Atmiya Sabha (1815) before Brahmo Samaj (1828), both in Calcutta” from “Brahmo Samaj (1815) before Atmiya Sabha (1828), both in Calcutta”: The dates have been exchanged.
+
+**Q2 — B.**
+- **A:** That title is Dayananda's text, not Roy's paper.
+- **B:** Roy used this journal in his reform programme.
+- **C:** Phule's work is neither Roy's journal nor a Brahmo periodical.
+- **D:** It belongs to a later anti-caste journalism demand, not Roy's campaign.
+- **Trap:** Distinguish “Sambad Kaumudi, used to shape public opinion” from “Gulamgiri, issued as a Brahmo periodical”: Phule's work is neither Roy's journal nor a Brahmo periodical.
+
+**Q3 — C.**
+- **A:** These foundations belong to Dayananda and Vivekananda.
+- **B:** Young Bengal is Derozio's current and Deoband an Islamic seminary.
+- **C:** Successors and divisions belong to the movement's history.
+- **D:** Roy founded the Brahmo Samaj before these later leaders.
+- **Trap:** Distinguish “Debendranath revitalised the movement and conflict around Keshab preceded the Sadharan…” from “Debendranath was Roy's predecessor and Keshab led the 1828 founding”: Roy founded the Brahmo Samaj before these later leaders.
+
+**Q4 — D.**
+- **A:** Deoband follows another community-specific path.
+- **B:** That association developed anti-caste politics in Maharashtra.
+- **C:** That is the Ramakrishna Mission, not a Brahmo split.
+- **D:** Its date records an internal Brahmo rupture.
+- **Trap:** Distinguish “The 1878 split associated with conflict over Keshab Chandra Sen” from “The 1866 foundation of orthodox Deoband instruction”: Deoband follows another community-specific path.
+
+**Q5 — A.**
+- **A:** The two challenged orthodoxy by different organisational means.
+- **B:** Shuddhi belongs to Arya Samaj and the seminary to Deoband.
+- **C:** Those descriptions obscure Phule's anti-caste organisational programme.
+- **D:** The founders and association are reversed.
+- **Trap:** Distinguish “Derozio's iconoclastic free thought contrasted with Roy's organised monotheistic reform and…” from “Derozio's Vedic shuddhi contrasted with Roy's seminary-based theological revival”: Shuddhi belongs to Arya Samaj and the seminary to Deoband.
+
+**Q6 — B.**
+- **A:** Neither figure founded Arya Samaj.
+- **B:** Its moderate social reform is distinct from Arya's scriptural slogan.
+- **C:** Their association was Prarthana Samaj in western India.
+- **D:** Vivekananda founded the Mission, not Bhandarkar.
+- **Trap:** Distinguish “Prarthana Samaj linked to Atmaram Pandurang, Ranade and Bhandarkar” from “Deoband seminary organised by Atmaram Pandurang and Ranade”: Their association was Prarthana Samaj in western India.
+
+**Q7 — C.**
+- **A:** Brahmo's monotheistic public reform is different from Arya shuddhi.
+- **B:** Widow remarriage and women's uplift were important to it.
+- **C:** Revivalist language did not preclude modern methods.
+- **D:** DAV belongs to the Arya educational stream.
+- **Trap:** Distinguish “Arya Samaj joined revivalist idiom to modern DAV education” from “Young Bengal founded the DAV network as a seminary response to…”: DAV belongs to the Arya educational stream.
+
+**Q8 — D.**
+- **A:** These belong to Roy and the Brahmo stream.
+- **B:** Phule founded Satyashodhak in 1873, while DAV is Arya.
+- **C:** The Mission dates to 1897 and the text to Phule.
+- **D:** The leader, founding year, text and reconversion practice fit.
+- **Trap:** Distinguish “Arya Samaj, 1875, Satyarth Prakash and shuddhi” from “Arya Samaj, 1828, Sambad Kaumudi and monotheistic Brahmo worship”: These belong to Roy and the Brahmo stream.
+
+**Q9 — A.**
+- **A:** Do not credit Ramakrishna Paramhansa with founding the Mission.
+- **B:** It was Vivekananda who addressed Chicago in 1893.
+- **C:** These markers identify Arya Samaj.
+- **D:** The year and association identify Brahmo, not the Mission.
+- **Trap:** Distinguish “Vivekananda founded it in 1897, drawing on Ramakrishna's spiritual legacy” from “Ramakrishna founded it in 1893 immediately after his Chicago address”: It was Vivekananda who addressed Chicago in 1893.
+
+**Q10 — B.**
+- **A:** The two dates are inverted.
+- **B:** Public representation preceded institutional service.
+- **C:** That year belongs to other reform institutions.
+- **D:** Both the years and the supposed address are mistaken.
+- **Trap:** Distinguish “Chicago address in 1893, followed by Mission foundation in 1897” from “Chicago address and Mission foundation both in 1875”: That year belongs to other reform institutions.
+
+**Q11 — C.**
+- **A:** Roy founded Brahmo, which cannot substitute for Phule's programme.
+- **B:** Deoband belongs to Muslim religious education.
+- **C:** Phule's diagnosis concerned caste power, not only ritual cleanliness.
+- **D:** Adyar belongs to the Theosophists, not Phule.
+- **Trap:** Distinguish “Satyashodhak Samaj challenged Brahmanical power and mobilised non-Brahman groups from 1873” from “Phule directed the Adyar headquarters to preach only monotheism”: Adyar belongs to the Theosophists, not Phule.
+
+**Q12 — D.**
+- **A:** These identify a western-India reform stream and Roy's journal.
+- **B:** These come from distinct Vedanta and Arya traditions.
+- **C:** Roy's early forum and a later law do not establish Phule's programme.
+- **D:** The association and writing connect collective action to criticism of domination.
+- **Trap:** Distinguish “Satyashodhak Samaj and Gulamgiri” from “Prarthana Samaj and Sambad Kaumudi”: These identify a western-India reform stream and Roy's journal.
+
+**Q13 — A.**
+- **A:** Separate actors, cities and years preserve both projects.
+- **B:** The places and founders have been switched.
+- **C:** Vidyasagar was Bethune's Secretary, not founder of both.
+- **D:** The schools predated that law and had different initiators.
+- **Trap:** Distinguish “Phules' Bhide Wada school opened in Poona in 1848, Bethune School…” from “Bethune School opened in Poona in 1848 and the Phules followed…”: The places and founders have been switched.
+
+**Q14 — B.**
+- **A:** The school name does not convert the founder into the asked secretary.
+- **B:** His role was Secretary rather than school founder.
+- **C:** Her own school was in Poona, not Bethune's institution.
+- **D:** The 1884 note does not make him Bethune's secretary.
+- **Trap:** Distinguish “Ishwar Chandra Vidyasagar, associated with women's education” from “Savitribai Phule, because she ran the 1848 Bhide Wada school”: Her own school was in Poona, not Bethune's institution.
+
+**Q15 — C.**
+- **A:** Neither the forum nor the purported judgment is correct.
+- **B:** The school is Bethune's, and the case is later.
+- **C:** A public impact must not be mistaken for a court win.
+- **D:** The statute did not confer the claimed personal remedy.
+- **Trap:** Distinguish “She resisted conjugal rights in Bombay High Court in 1884-88 and…” from “She obtained a general right of divorce by the Age of…”: The statute did not confer the claimed personal remedy.
+
+**Q16 — D.**
+- **A:** A consent age is not an across-the-board marriage ban.
+- **B:** The direction and legal subject are wrong.
+- **C:** The 1860 enactment came earlier, not later.
+- **D:** Distinguish a limited statutory change from ending child marriage.
+- **Trap:** Distinguish “It raised the relevant consent age from ten to twelve amid…” from “It raised the marriage age from twelve to eighteen and banned…”: A consent age is not an across-the-board marriage ban.
+
+**Q17 — A.**
+- **A:** The note helped publicise the issue rather than itself changing the law.
+- **B:** These are earlier Roy-era developments.
+- **C:** The Arya educational stream is a separate history.
+- **D:** That campaign is much later and differently located.
+- **Trap:** Distinguish “Debate on child marriage, Rukhmabai's legal contest and pressure preceding the…” from “Founding of Atmiya Sabha, followed by Brahmo Samaj and the 1829…”: These are earlier Roy-era developments.
+
+**Q18 — B.**
+- **A:** The institutions have been exchanged.
+- **B:** Different institutional routes addressed social change.
+- **C:** DAV and Vedic authority belong to Arya Samaj.
+- **D:** Only Aligarh's MAO College is linked to Syed and 1875.
+- **Trap:** Distinguish “Syed Ahmad Khan's Aligarh stressed modern science, while Deoband (1866) stressed…” from “Both began as DAV schools promoting a return to Vedic authority”: DAV and Vedic authority belong to Arya Samaj.
+
+**Q19 — C.**
+- **A:** Every movement has been displaced.
+- **B:** The Brahmo split cannot predate its actual 1878 date.
+- **C:** The sequence tests distinct associations and dates.
+- **D:** The seminary is earliest, not last.
+- **Trap:** Distinguish “Deoband 1866, Satyashodhak 1873, MAO College 1875, Sadharan Brahmo 1878” from “Satyashodhak 1866, Sadharan Brahmo 1873, MAO College 1875, Deoband 1878”: The seminary is earliest, not last.
+
+**Q20 — D.**
+- **A:** Besant was a later public figure, and dates are reversed.
+- **B:** The Calcutta foundation was the Brahmo Samaj.
+- **C:** Phule's organisation was Satyashodhak, not Theosophical.
+- **D:** Distinguish institutional founding from relocation.
+- **Trap:** Distinguish “Founded in 1875 outside India by Blavatsky and Olcott, headquartered at…” from “Founded in Adyar in 1882 by Annie Besant, headquartered there from…”: Besant was a later public figure, and dates are reversed.
+
+**Q21 — A.**
+- **A:** Different communities had their own reform associations.
+- **B:** The community labels are reversed.
+- **C:** Neither names an Aligarh branch.
+- **D:** The Phules' education work does not define these associations.
+- **Trap:** Distinguish “Rahnumai Mazdayasnan Sabha refers to Parsi reform and Singh Sabha to…” from “Rahnumai Mazdayasnan Sabha is Sikh and Singh Sabha is Parsi”: The community labels are reversed.
+
+**Q22 — B.**
+- **A:** This describes Periyar, not Narayana Guru.
+- **B:** Do not collapse it into Periyar's south-Indian political idiom.
+- **C:** Young Bengal's leader was Derozio.
+- **D:** That seminary belongs to another tradition and region.
+- **Trap:** Distinguish “A Kerala challenge to caste hierarchy with a spiritually framed strategy” from “A Bengal rationalist who led Derozio's Young Bengal”: Young Bengal's leader was Derozio.
+
+**Q23 — C.**
+- **A:** Prarthana is a different earlier Bombay movement.
+- **B:** Roy's Brahmo Samaj began in 1828.
+- **C:** He linked non-Brahman dignity to a gender critique.
+- **D:** His modern educational strategy was not Self-Respect.
+- **Trap:** Distinguish “Periyar, E.V. Ramaswamy Naicker” from “Syed Ahmad Khan, Aligarh modernist”: His modern educational strategy was not Self-Respect.
+
+**Q24 — D.**
+- **A:** That conflates distinct organisations and decades.
+- **B:** The 1873 event belongs to Phule.
+- **C:** That address has no bearing on Periyar's departure.
+- **D:** A later flashpoint is not the earlier departure date.
+- **Trap:** Distinguish “He left Congress in 1925, while the 1927 episode sharpened his…” from “He left Congress only after the Justice Party ceased contesting elections…”: That conflates distinct organisations and decades.
+
+**Q25 — A.**
+- **A:** A party's fortunes do not exhaust an ideology's reach.
+- **B:** Self-Respect is associated with Periyar earlier.
+- **C:** Electoral loss cannot prove social disappearance.
+- **D:** Different regions, periods and agendas separate them.
+- **Trap:** Distinguish “Self-Respect outlived the Justice Party's electoral weakness through a wider social…” from “The Justice Party alone founded Self-Respect after 1946”: Self-Respect is associated with Periyar earlier.
+
+**Q26 — B.**
+- **A:** Arya, Brahmo and others used religious resources and organisations.
+- **B:** Both dialogue and selection matter.
+- **C:** Educational and print initiatives were central.
+- **D:** Arya's Vedic slogan coexisted with DAV education.
+- **Trap:** Distinguish “Reformers selectively used reason and indigenous textual or devotional resources in…” from “No reformer used schools or print because modernity was wholly rejected”: Educational and print initiatives were central.
+
+**Q27 — C.**
+- **A:** An institutional date says nothing about universal reach.
+- **B:** A speech cannot establish that social result.
+- **C:** Their work forces attention to power and women's initiative.
+- **D:** A headquarters move cannot support this sweeping claim.
+- **Trap:** Distinguish “Phule's caste-power critique and Savitribai's agency reveal exclusions of urban male…” from “The Adyar relocation shows colonial rule solved gender inequality”: A headquarters move cannot support this sweeping claim.
+
+**Q28 — D.**
+- **A:** The split preceded the law and had another cause.
+- **B:** Schooling cannot negate that debate.
+- **C:** These are different processes, and the case preceded Chicago.
+- **D:** Founding and statute did not remove social opposition.
+- **Trap:** Distinguish “Resistance to Bethune pupils and orthodox backlash to the 1891 consent…” from “The Sadharan Brahmo split shows the 1891 law was repealed in…”: The split preceded the law and had another cause.
+
+**Q29 — A.**
+- **A:** The local official 2020 key is unavailable, so label this inferred.
+- **B:** Sambad Kaumudi is associated with Roy, and no local key is held.
+- **C:** That text belongs to Dayananda, and the dating is false.
+- **D:** Gulamgiri belongs to Phule, and no such key is locally held.
+- **Trap:** Distinguish “Gopal Baba Walangkar and Vital-Vidhvansak (1888), inferred from supplementary evidence” from “Jotirao Phule and Sambad Kaumudi (1888), locally officially keyed”: Sambad Kaumudi is associated with Roy, and no local key is held.
+
+**Q30 — B.**
+- **A:** Their distinct initiatives predate or exceed that statute.
+- **B:** Education, litigation and critique reveal different forms of agency.
+- **C:** Both women were central actors in those episodes.
+- **D:** Neither claimed attribution follows the sources.
+- **Trap:** Distinguish “Savitribai co-ran Poona schooling, Rukhmabai defended her position in court, and…” from “Only male reformers appeared in the Rukhmabai dispute and Bhide Wada…”: Both women were central actors in those episodes.
+
+**Q31 — C.**
+- **A:** DAV institutions contradict the assertion.
+- **B:** Elite social limits remained.
+- **C:** A source-of-authority label does not fix the programme's modernity.
+- **D:** Their approaches differed, not simply by moral rank.
+- **Trap:** Distinguish “Arya Samaj promoted modern education while invoking ancient Vedic authority” from “Deoband's orthodox learning and Aligarh's science were identical curriculums”: Their approaches differed, not simply by moral rank.
+
+**Q32 — D.**
+- **A:** That omits the named reformer and central demand.
+- **B:** The statute is not his organisational and intellectual programme.
+- **C:** That swaps actors and misses Phule's nineteenth-century work.
+- **D:** It links ideas, institution, agency and qualification.
+- **Trap:** Distinguish “Caste power and Gulamgiri, Satyashodhak organising and girls' education, then tensions…” from “Only list Brahmo, Arya and Mission dates without Phule's writings”: That omits the named reformer and central demand.
+
+**Q33 — A.**
+- **A:** The connection is conditional, not inevitable or socially universal.
+- **B:** The chronology and organisational claim are untenable.
+- **C:** Phule and women's reform are counterexamples.
+- **D:** National confidence did not equal social equality.
+- **Trap:** Distinguish “Voluntary associations and public debate built resources for nationalism, but elite…” from “Every reform institution was already an INC branch from its founding…”: The chronology and organisational claim are untenable.
+
+**Q34 — B.**
+- **A:** The debate provoked powerful opposition.
+- **B:** Anti-interference rhetoric was selective, not absolute.
+- **C:** The Rukhmabai controversy and Malabari note preceded it.
+- **D:** The record contains reformist and resistant voices, not unanimity.
+- **Trap:** Distinguish “Some opponents invoked freedom from colonial social intervention while using colonial…” from “No reformist opinion existed because the 1891 law was enacted without…”: The Rukhmabai controversy and Malabari note preceded it.
+
+**Q35 — C.**
+- **A:** The institutions had different origins and orientations.
+- **B:** The place and community associations are misidentified.
+- **C:** The institution and method distinguish it from Deoband.
+- **D:** Brahmo belongs to Rammohan Roy.
+- **Trap:** Distinguish “Syed Ahmad Khan's MAO College at Aligarh in 1875 advanced modern…” from “Syed founded the Brahmo Samaj to oppose sati in Calcutta”: Brahmo belongs to Rammohan Roy.
+
+**Q36 — D.**
+- **A:** The sequence and founding year are wrong.
+- **B:** Satyashodhak was an association, not legislation.
+- **C:** That collapses different phases and actors.
+- **D:** The source notes internal tension rather than denying his caste critique.
+- **Trap:** Distinguish “His later Kunbi-peasant focus and status claims complicate the anti-Brahman coalition” from “He publicly abandoned girls' education before founding Satyashodhak in 1828”: The sequence and founding year are wrong.
 
 ### Semantic-completeness coverage drills — Modern Topic 10
 

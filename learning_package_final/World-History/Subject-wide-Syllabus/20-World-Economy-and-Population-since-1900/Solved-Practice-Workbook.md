@@ -6,805 +6,345 @@ topic_key: world-history-20
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies World economy before 1945?
+**Original hard and remedial questions.** Attempt the entire bank before consulting the separate answer key. Historical cases and later comparisons are kept chronologically distinct.
 
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-C. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-D. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
+### Q1. What distinguishes the 1900–45 shift in world economic leadership?
 
-**Answer: A.**
-**Explanation:** Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States. The remaining options belong to different chronology, actor or analytical categories.
+A. Two wars and depression weakened European predominance while US relative strength grew
+B. US power declined because Bretton Woods was built before 1900
+C. European economies became a single communist bloc by 1929
+D. The 2008 banking crisis inaugurated the First World War
 
-### Q2. Which chronology card should be filed under World economy before 1945?
+### Q2. Which pairing of 1944 institution and core function is historically defensible?
 
-A. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-B. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
+A. IMF — worldwide tariff adjudication; IBRD — nuclear deterrence
+B. IMF — balance-of-payments adjustment; World Bank/IBRD — reconstruction and development
+C. WTO — Bretton Woods exchange-rate management from 1944
+D. GATT — a UN specialised agency for emergency bank deposits
 
-**Answer: B.**
-**Explanation:** Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. Select the chronology that keeps financial regimes and trade institutions distinct.
 
-### Q3. Which option preserves the source-bounded meaning of World economy before 1945?
+A. WTO 1944 → IMF founded 1995 → floating rates 1929
+B. 2008 crisis → fixed-rate breakdown → post-war reconstruction
+C. Bretton Woods framework, 1944 → fixed-rate breakdown, early 1970s → WTO, 1995
+D. GATT 2008 → Bretton Woods 1995 → IMF before 1900
 
-A. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-B. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-C. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
+### Q4. What do East–West and North–South designate in the post-1945 economy?
 
-**Answer: C.**
-**Explanation:** Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States. The remaining options belong to different chronology, actor or analytical categories.
+A. Two names for exactly the same military alliance line
+B. Only a geographical line between northern and southern hemispheres
+C. The distinction between IMF and World Bank balance sheets
+D. Competing capitalist and communist systems versus disparities between industrialised and developing economies
 
-### Q4. Which statement avoids a close-option trap about World economy before 1945?
+### Q5. Which account of the 1973 OPEC price rise stays within the owner’s evidence?
 
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
+A. Producers raised prices partly to conserve supplies; importers faced higher costs and exporters gained revenue
+B. The source proves every loan thereafter was financed by recycled oil surpluses
+C. OPEC acted solely to bring down the German banking system
+D. Every oil exporter invested its windfall productively
 
-**Answer: D.**
-**Explanation:** Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. Which African illustration supports the imported-energy cost channel rather than a Latin American numerical claim?
 
-### Q5. Which statement correctly identifies Bretton Woods, 1944?
+A. Mexico’s $96 billion debt was Tanzania’s oil import bill
+B. Tanzania’s higher oil costs consumed a large part of export earnings
+C. Nigeria’s oil profits made it a net importer hurt by that same price rise
+D. Japanese silk prices give Tanzania’s oil expenditure share
 
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
+### Q7. Why could 1970s–80s borrowing evolve into debt vulnerability even without proving oil-surplus loan provenance?
 
-**Answer: A.**
-**Explanation:** The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development. The remaining options belong to different chronology, actor or analytical categories.
+A. A fall in commodity prices automatically cancelled every loan
+B. A debtor can never be harmed when global interest costs rise
+C. Unpaid interest could be added to principal, forcing fresh loans just to keep payments current
+D. The WTO required debtors to stop paying in 1973
 
-### Q6. Which chronology card should be filed under Bretton Woods, 1944?
+### Q8. Why is “Third World” inadequate as a single developmental trajectory?
 
-A. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-B. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
+A. All formerly colonised states shared identical export baskets
+B. The 2008 crisis ended trade permanently for every economy
+C. All low-income states joined the communist bloc after 1945
+D. Some countries built manufacturing capacity while others remained constrained by raw exports and debt
 
-**Answer: B.**
-**Explanation:** The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. What does the 2008 crisis demonstrate about global integration?
 
-### Q7. Which option preserves the source-bounded meaning of Bretton Woods, 1944?
+A. Interconnected finance can transmit losses through channels that also enable gains
+B. It proved global production chains had never existed
+C. It overturned the 1944 establishment of the IMF retroactively
+D. It equalised all developing economies immediately
 
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-C. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
+### Q10. An examiner asks why growth did not automatically deliver convergence. Which evidence-chain is strongest?
 
-**Answer: C.**
-**Explanation:** The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development. The remaining options belong to different chronology, actor or analytical categories.
+A. Every state had identical capacity to export manufactures
+B. Weak manufacturing capacity plus commodity exposure plus debt limited the benefits of wider trade
+C. All open economies reached equal per-capita incomes by 2008
+D. Capital flows by themselves abolished all dependence
 
-### Q8. Which statement avoids a close-option trap about Bretton Woods, 1944?
+### Q11. Which historical growth–environment pairing is actually supported?
 
-A. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-B. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-C. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-D. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
+A. The 1970s saw verified universal carbon neutrality
+B. OPEC conservation proves every state ended oil production
+C. 1970s environmental awareness emerged amid fossil-fuel depletion and industrial pollution concerns
+D. North Sea drilling demonstrates that fossil fuels are renewable
 
-**Answer: D.**
-**Explanation:** The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. How should “ecosystem” enter a history answer on industrial growth?
 
-### Q9. Which statement correctly identifies Postwar economic blocs?
+A. As an IMF rule fixing all energy prices after 1944
+B. As proof of a quantified global temperature rise in the owner
+C. As a synonym for the WTO’s multilateral tariff system
+D. As the interdependent living system endangered by pollution from wealth-oriented industrial techniques
 
-A. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-B. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
+### Q13. Which transition produces the demographic “explosion” in the teaching model?
 
-**Answer: A.**
-**Explanation:** The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure. The remaining options belong to different chronology, actor or analytical categories.
+A. Death rates fall with medical and sanitation gains while births remain comparatively high
+B. Birth rates and death rates rise together to the same level
+C. Fertility falls before mortality and growth necessarily accelerates
+D. Both rates are already low and population growth is maximised
 
-### Q10. Which chronology card should be filed under Postwar economic blocs?
+### Q14. Which demographic inference respects regional diversity?
 
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
+A. Every low-fertility society must still face the same child-school surge
+B. Youth-job pressures and ageing can coexist globally because populations entered transition stages at different times
+C. A single global stage describes all countries at any date
+D. Falling mortality proves health services are no longer needed
 
-**Answer: B.**
-**Explanation:** The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Postwar economic blocs?
-
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-C. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-D. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-
-**Answer: C.**
-**Explanation:** The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Postwar economic blocs?
-
-A. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-B. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-C. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-D. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-
-**Answer: D.**
-**Explanation:** The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Oil shocks and debt?
-
-A. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-B. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-C. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-D. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-
-**Answer: A.**
-**Explanation:** Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Oil shocks and debt?
-
-A. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-B. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-C. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-
-**Answer: B.**
-**Explanation:** Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Oil shocks and debt?
-
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-C. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-D. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-
-**Answer: C.**
-**Explanation:** Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Oil shocks and debt?
-
-A. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-D. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-
-**Answer: D.**
-**Explanation:** Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Globalisation after 1990?
-
-A. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-B. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-C. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-
-**Answer: A.**
-**Explanation:** Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Globalisation after 1990?
-
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-C. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-D. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-
-**Answer: B.**
-**Explanation:** Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Globalisation after 1990?
-
-A. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-D. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-
-**Answer: C.**
-**Explanation:** Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Globalisation after 1990?
-
-A. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-
-**Answer: D.**
-**Explanation:** Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Financial crisis of 2008?
-
-A. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-B. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-C. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-D. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-
-**Answer: A.**
-**Explanation:** The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Financial crisis of 2008?
-
-A. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-B. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-C. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-D. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-
-**Answer: B.**
-**Explanation:** The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Financial crisis of 2008?
-
-A. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-B. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-C. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-D. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-
-**Answer: C.**
-**Explanation:** The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Financial crisis of 2008?
-
-A. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-
-**Answer: D.**
-**Explanation:** The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies North-South divergence?
-
-A. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-B. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-C. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-D. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-
-**Answer: A.**
-**Explanation:** Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under North-South divergence?
-
-A. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-B. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-C. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-D. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-
-**Answer: B.**
-**Explanation:** Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of North-South divergence?
-
-A. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: C.**
-**Explanation:** Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about North-South divergence?
-
-A. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-
-**Answer: D.**
-**Explanation:** Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Environmental cost of growth?
-
-A. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-B. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-C. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-D. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-
-**Answer: A.**
-**Explanation:** Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Environmental cost of growth?
-
-A. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-B. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: B.**
-**Explanation:** Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Environmental cost of growth?
-
-A. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-B. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-C. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-D. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-
-**Answer: C.**
-**Explanation:** Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Environmental cost of growth?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-D. Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming.
-
-**Answer: D.**
-**Explanation:** Twentieth-century production pursued wealth with little attention to resource exhaustion, pollution, ecosystem damage and global warming. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Population explosion mechanism?
-
-A. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: A.**
-**Explanation:** Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Population explosion mechanism?
-
-A. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-B. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: B.**
-**Explanation:** Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Population explosion mechanism?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: C.**
-**Explanation:** Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Population explosion mechanism?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-D. Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-
-**Answer: D.**
-**Explanation:** Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Demographic transition?
-
-A. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-D. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-
-**Answer: A.**
-**Explanation:** High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Demographic transition?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-C. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: B.**
-**Explanation:** High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Demographic transition?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-D. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-
-**Answer: C.**
-**Explanation:** High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Demographic transition?
-
-A. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-B. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-C. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-D. High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-
-**Answer: D.**
-**Explanation:** High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Population pressures and ageing?
-
-A. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-B. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-C. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-D. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-
-**Answer: A.**
-**Explanation:** Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Population pressures and ageing?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-C. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-D. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-
-**Answer: B.**
-**Explanation:** Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Population pressures and ageing?
-
-A. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-B. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-C. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-D. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-
-**Answer: C.**
-**Explanation:** Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Population pressures and ageing?
-
-A. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-D. Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing.
-
-**Answer: D.**
-**Explanation:** Food, employment, housing and services faced pressure in younger societies while low-fertility societies increasingly faced ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Population policy?
-
-A. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-B. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-C. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-D. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-
-**Answer: A.**
-**Explanation:** States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Population policy?
-
-A. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-B. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-C. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-D. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-
-**Answer: B.**
-**Explanation:** States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Population policy?
-
-A. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-D. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-
-**Answer: C.**
-**Explanation:** States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Population policy?
-
-A. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-D. States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case.
-
-**Answer: D.**
-**Explanation:** States used voluntary welfare and development routes as well as coercive controls, with China's one-child policy as a major direct-intervention case. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies HIV/AIDS as development shock?
-
-A. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-B. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-C. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-D. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-
-**Answer: A.**
-**Explanation:** HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under HIV/AIDS as development shock?
-
-A. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-B. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-C. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-D. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-
-**Answer: B.**
-**Explanation:** HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of HIV/AIDS as development shock?
-
-A. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-B. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-C. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-D. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-
-**Answer: C.**
-**Explanation:** HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about HIV/AIDS as development shock?
-
-A. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-B. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-C. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-D. HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
-
-**Answer: D.**
-**Explanation:** HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Crash as symptom, October 1929?
-
-A. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-D. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-
-**Answer: A.**
-**Explanation:** Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Crash as symptom, October 1929?
-
-A. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-B. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-C. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-D. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-
-**Answer: B.**
-**Explanation:** Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Crash as symptom, October 1929?
-
-A. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-B. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-C. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-D. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-
-**Answer: C.**
-**Explanation:** Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Crash as symptom, October 1929?
-
-A. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-B. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-C. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-D. Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-
-**Answer: D.**
-**Explanation:** Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Depression transmission?
-
-A. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-D. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-
-**Answer: A.**
-**Explanation:** American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Depression transmission?
-
-A. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-B. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-C. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-D. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-
-**Answer: B.**
-**Explanation:** American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Depression transmission?
-
-A. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-B. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-C. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: C.**
-**Explanation:** American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Depression transmission?
-
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-C. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-D. American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
-
-**Answer: D.**
-**Explanation:** American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies New Deal aims?
-
-A. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: A.**
-**Explanation:** Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under New Deal aims?
-
-A. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-B. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-C. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: B.**
-**Explanation:** Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of New Deal aims?
-
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-C. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: C.**
-**Explanation:** Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about New Deal aims?
-
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-C. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-D. Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-
-**Answer: D.**
-**Explanation:** Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Financial and agricultural instruments?
-
-A. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-B. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-C. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: A.**
-**Explanation:** Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Financial and agricultural instruments?
-
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-C. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: B.**
-**Explanation:** Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Financial and agricultural instruments?
-
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-C. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-D. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-
-**Answer: C.**
-**Explanation:** Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Financial and agricultural instruments?
-
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-C. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-D. Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-
-**Answer: D.**
-**Explanation:** Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Public works and social reform?
-
-A. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-B. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-C. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-D. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-
-**Answer: A.**
-**Explanation:** The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Public works and social reform?
-
-A. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-B. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-C. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-D. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-
-**Answer: B.**
-**Explanation:** The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Public works and social reform?
-
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-C. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-D. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-
-**Answer: C.**
-**Explanation:** The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Public works and social reform?
-
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-C. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-D. The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-
-**Answer: D.**
-**Explanation:** The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies New Deal limits?
-
-A. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-B. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-C. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-D. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-
-**Answer: A.**
-**Explanation:** The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under New Deal limits?
-
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-C. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-D. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-
-**Answer: B.**
-**Explanation:** The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of New Deal limits?
-
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-C. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-D. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-
-**Answer: C.**
-**Explanation:** The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about New Deal limits?
-
-A. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-B. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-C. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-D. The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-
-**Answer: D.**
-**Explanation:** The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Democratic and authoritarian responses?
-
-A. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-B. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-C. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-D. Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-
-**Answer: A.**
-**Explanation:** Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Democratic and authoritarian responses?
-
-A. The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-B. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-C. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-D. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-
-**Answer: B.**
-**Explanation:** Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Democratic and authoritarian responses?
-
-A. The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-B. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-C. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-D. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-
-**Answer: C.**
-**Explanation:** Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Democratic and authoritarian responses?
-
-A. Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-B. Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-C. The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-D. Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
-
-**Answer: D.**
-**Explanation:** Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. Compare gradual and direct fertility-reduction strategies without erasing the ethical dimension.
+
+A. The welfare route necessarily imposes a birth quota
+B. A one-child control is equivalent to universal access to safe water
+C. Education, child survival and women’s opportunity can reduce fertility over time; China’s one-child control illustrates direct intervention with social costs
+D. Population policy is only about a numerical target with no human consequences
+
+### Q16. Why is HIV/AIDS a development-history case rather than only a clinical case?
+
+A. It affected only global financial prices, not family structures
+B. It was identical everywhere and all decades
+C. Its impact is measured here with a sourced global prevalence rate
+D. Working-age illness and death affect labour, dependants and life expectancy, with unequal burdens
+
+### Q17. Which evidence makes the October 1929 Crash a symptom rather than the sole cause?
+
+A. Overproduction, narrow purchasing power, export weakness and speculative credit predated the sell-off
+B. The 1935 Social Security Act caused the 1929 sell-off
+C. The 1973 oil shock drove 1920s share purchases
+D. The crash proves mechanisation stopped before 1924
+
+### Q18. Why could a creditor’s tariff policy worsen its own export prospects before the Depression?
+
+A. Tariffs guaranteed European borrowers unlimited dollars
+B. Fordney-McCumber restricted foreign sales into the USA, limiting European dollar earnings for US imports and debt payments
+C. Fordney-McCumber established the WTO in 1922
+D. Foreign retaliation always increased American exports
+
+### Q19. Which chain correctly explains the international propagation of the Depression?
+
+A. German banking collapse → US 1944 lending → October 1929 crash
+B. WTO tariffs → North Sea drilling → Nazi rearmament in 1922
+C. US loans called in → German financial distress → trade collapse and retaliatory tariffs → wider unemployment
+D. US demand boom → rising Japanese silk export prices → universal recovery
+
+### Q20. Which case demonstrates how an export slump could reach rural households abroad?
+
+A. Italy’s lira was devalued in 1929 and farmers were compensated by the AAA
+B. Germany’s 1935 Social Security Act insured every Japanese silk farmer
+C. All world commodities fell by Japan’s exact silk-price ratio
+D. Japan’s raw silk price fell steeply by 1932, hurting farmers reliant on silk alongside rice
+
+### Q21. Sort Roosevelt’s policy instruments by their intended function.
+
+A. Bank guarantees: confidence; AAA: farm prices; TVA: work and infrastructure; Social Security: protection against recurrence
+B. AAA: bank supervision; TVA: speculation margin rules; SEC: drought relief
+C. SEC: pre-1900 trade tariffs; Social Security: oil conservation
+D. TVA: abolish private banking; AAA: end American farm output permanently
+
+### Q22. Which reading of the New Deal and unemployment is accurate?
+
+A. The 1938 spending cut permanently ended unemployment
+B. It helped restore confidence and jobs but did not end mass joblessness; war production completed recovery
+C. Roosevelt’s measures failed to create any useful public assets
+D. The New Deal alone brought unemployment below one million by 1935
+
+### Q23. Which qualification is indispensable when comparing Nazi and New Deal responses to unemployment?
+
+A. German rearmament was primarily a welfare-insurance programme
+B. The New Deal abolished all elections to finance public works
+C. Rearmament-led German employment relied also on abolition of unions and exclusion of Jews and opponents, unlike democratic constitutional relief
+D. Unemployment figures alone prove authoritarian institutions superior
+
+### Q24. Which methodological correction best fixes “the 2008 crash proves the 1930s New Deal failed”?
+
+A. Treat 2008 as the date of the Wall Street Crash
+B. Move the Social Security Act from 1935 to 2008
+C. Attribute Roosevelt’s measures to a named economist not given in the source
+D. Separate the interwar policy test from a much later global contagion episode and compare mechanisms rather than outcomes across eras
+
+### Separate answer key and option-by-option explanations
+
+**Q1 — A.**
+- **A:** Political-military shocks and slump changed the centre of gravity.
+- **B:** Bretton Woods belongs to 1944.
+- **C:** The communist bloc and capitalist West were distinct after 1945.
+- **D:** This moves a twenty-first-century crisis into the early century.
+- **Trap:** Relative economic leadership is not the same as uniform national collapse.
+
+**Q2 — B.**
+- **A:** Neither institution has these named functions.
+- **B:** The designed postwar order assigned different complementary roles.
+- **C:** The WTO began in 1995 and was not the 1944 monetary framework.
+- **D:** GATT is a trade framework, not a UN specialised banking agency.
+- **Trap:** The WTO is not a UN specialised agency.
+
+**Q3 — C.**
+- **A:** This assigns institutions to the wrong dates.
+- **B:** This reverses the sequence.
+- **C:** This sequence separates design, monetary change and trade organisation.
+- **D:** None of those datings fits the source.
+- **Trap:** Founding framework and later institutional replacement are different events.
+
+**Q4 — D.**
+- **A:** North–South refers to development inequality, not an alliance.
+- **B:** The terms designate political-economy categories.
+- **C:** The institutions do not define either axis.
+- **D:** The two axes classify different kinds of division.
+- **Trap:** Do not use Cold War ideological categories as a substitute for development analysis.
+
+**Q5 — A.**
+- **A:** The source identifies conservation alongside gains, not one exclusive motive.
+- **B:** The specific provenance of subsequent loans is unverified.
+- **C:** No such exclusive intent is supported.
+- **D:** The owner explicitly cautions that profits were not always wisely spent.
+- **Trap:** Do not turn a plausible oil-surplus lending story into a sourced fact.
+
+**Q6 — B.**
+- **A:** That figure describes Mexico’s overseas debt.
+- **B:** The country case illustrates importer strain.
+- **C:** Nigeria is cited as an oil producer gaining profits.
+- **D:** Japanese silk is a Depression trade example.
+- **Trap:** Illustration from Africa does not establish a Latin American aggregate.
+
+**Q7 — C.**
+- **A:** The source describes debt rescheduling rather than universal cancellation.
+- **B:** Higher servicing costs worsen an already strained budget.
+- **C:** Debt rollover and capitalised interest are directly attested.
+- **D:** WTO began decades later and this mandate is invented.
+- **Trap:** Borrowing outcome is sourced; the origin of each loan is not.
+
+**Q8 — D.**
+- **A:** The owner stresses internal divergence.
+- **B:** Contagion revealed vulnerability, not the end of integration.
+- **C:** Geopolitical and economic classifications are different.
+- **D:** Different initial capacities and policy choices produced divergence.
+- **Trap:** North–South inequality and variation within the South can coexist.
+
+**Q9 — A.**
+- **A:** Contagion is an integration risk, not evidence of complete deglobalisation.
+- **B:** The source stresses deepening chains before 2008.
+- **C:** Later shocks cannot undo institutional chronology.
+- **D:** The divide and internal divergence persisted.
+- **Trap:** Avoid the false binary of globalisation as wholly good or wholly ended.
+
+**Q10 — B.**
+- **A:** That denies uneven starting conditions.
+- **B:** Integration rewards capabilities and distributes gains unevenly.
+- **C:** No such equality is sourced.
+- **D:** Debt remained a constraint.
+- **Trap:** Do not infer income distribution from trade expansion alone.
+
+**Q11 — C.**
+- **A:** No such claim or target is in the owner.
+- **B:** Attempted conservation did not end extraction.
+- **C:** The source locates awareness historically and describes ecological costs.
+- **D:** Drilling accesses a finite resource.
+- **Trap:** Awareness is not the same as demonstrable policy success.
+
+**Q12 — D.**
+- **A:** It is an environmental concept, not monetary regulation.
+- **B:** The owner supplies no climate measurements.
+- **C:** Trade institutions and ecology are different domains.
+- **D:** Lowe links production choices to ecological side effects.
+- **Trap:** Keep environmental consequences qualitative unless separately sourced.
+
+**Q13 — A.**
+- **A:** The widening births-minus-deaths gap drives rapid growth.
+- **B:** Equal high rates do not create a growth surge.
+- **C:** Falling births narrow the growth gap.
+- **D:** Low-low regimes imply stability or ageing.
+- **Trap:** A mortality event precedes the fertility response; do not equate growth with “more births”.
+
+**Q14 — B.**
+- **A:** Low fertility can instead coincide with ageing.
+- **B:** Timing differences produce contrasting age structures.
+- **C:** The owner explicitly warns against uniform timing.
+- **D:** Longer survival does not abolish health needs.
+- **Trap:** Do not universalise one region’s stage.
+
+**Q15 — C.**
+- **A:** Welfare measures are distinct from coercive limits.
+- **B:** The mechanisms and ethical implications differ.
+- **C:** Effectiveness and ethical acceptability must both be evaluated.
+- **D:** The owner requires the social consequences too.
+- **Trap:** Do not project a historical policy example as China’s current policy.
+
+**Q16 — D.**
+- **A:** Family and labour effects are explicitly identified.
+- **B:** The source stresses unequal impact, especially parts of Africa.
+- **C:** The owner supplies no prevalence figures.
+- **D:** Household and production consequences connect health to development.
+- **Trap:** Do not invent case counts or treat all regions alike.
+
+**Q17 — A.**
+- **A:** The crash revealed structural vulnerabilities already in place.
+- **B:** A later reform cannot cause an earlier crash.
+- **C:** The chronology is impossible.
+- **D:** The source describes expanding mechanised output.
+- **Trap:** Separate underlying imbalance from the visible market trigger.
+
+**Q18 — B.**
+- **A:** Restrictions cannot create export receipts for Europeans.
+- **B:** A creditor that blocks imports can constrain debtors’ capacity to buy and repay.
+- **C:** The WTO started in 1995.
+- **D:** Retaliatory tariffs restrict access.
+- **Trap:** Identify the 1922 tariff as a cause/amplifier rather than an all-purpose explanation.
+
+**Q19 — C.**
+- **A:** This reverses cause and chronology.
+- **B:** The institutions and episodes are unrelated.
+- **C:** Withdrawal of short-term credit transmitted the shock before trade effects alone.
+- **D:** The owner describes collapse of silk prices.
+- **Trap:** Credit withdrawal is a mechanism, not simply a synonym for trade decline.
+
+**Q20 — D.**
+- **A:** Mussolini resisted devaluation until 1936; AAA is US policy.
+- **B:** The 1935 Act was American.
+- **C:** The figure belongs only to raw silk.
+- **D:** Specialised export dependence passed the shock to villages.
+- **Trap:** Do not promote a single-commodity price change to a world index.
+
+**Q21 — A.**
+- **A:** Each responds to a different problem: finance, incomes, jobs and future security.
+- **B:** These swap the agencies’ functions.
+- **C:** Neither pairing fits its named measure.
+- **D:** Public works and output compensation had narrower aims.
+- **Trap:** A list of agency acronyms without mechanisms cannot answer the policy-instruments demand.
+
+**Q22 — B.**
+- **A:** The cut coincided with another recession.
+- **B:** Institutional and political achievements must be separated from full economic recovery.
+- **C:** The TVA and public works left lasting services.
+- **D:** The owner associates that level with the war effort in 1943.
+- **Trap:** Neither “complete cure” nor “did nothing” is defensible.
+
+**Q23 — C.**
+- **A:** Military expansion and political repression shaped it.
+- **B:** American constitutional institutions continued.
+- **C:** Output or job figures cannot erase political coercion and racist purges.
+- **D:** Political and human costs are part of the comparison.
+- **Trap:** Never present coercive exclusion as a successful model of social policy.
+
+**Q24 — D.**
+- **A:** The interwar crash occurred in October 1929.
+- **B:** Its enactment belongs to 1935.
+- **C:** The owner names his Brain Trust, not that attribution.
+- **D:** A later financial shock cannot retroactively determine the 1930s verdict.
+- **Trap:** Historical analogy requires correct chronology and sourced attribution.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -816,252 +356,82 @@ The owner records one pre-2018 GS-I demand in neutral rendering only: the policy
 
 **Demand:** Discuss the policy instruments deployed to contain the Great Economic Depression.
 
-**Status:** Owner-verified neutral rendering; not claimed as verbatim.
+**Status:** Owner-verified neutral rendering; not claimed as verbatim. The precise 2013 wording, marks and question number are not locally available.
 
-**Model solution:** The response combined four instrument families. Financial stabilisation temporarily controlled banks, guaranteed depositors and used the Securities Exchange Commission to constrain credit-fuelled speculation. Income and agricultural support compensated lower output and provided relief, though farm labourers could lose work. Public works, especially the Tennessee Valley Authority, created employment and durable infrastructure. Social Security, labour standards and collective bargaining created protection against recurrence, while federal spending and authority expanded. These measures restored confidence and helped preserve democratic capitalism, but did not end unemployment; war production completed the recovery. Containment was therefore institutionally decisive but economically incomplete.
+**Model solution to the neutral demand:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2013 GS-I · legacy demand · marks and verbatim wording not locally held”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+In the United States, Roosevelt's New Deal from 1933 pursued relief, recovery and reform through several *different* instruments. To arrest bank runs, the federal government temporarily took charge of banks and guaranteed depositors; restored confidence permitted savings to return. The Securities Exchange Commission (1934) restricted speculative purchases of shares on credit, addressing a risk exposed by the 1929 collapse. Financial rescue was therefore both immediate and preventive.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
+To restore purchasing power, the 1933 agricultural programme compensated farmers who reduced output, aiming to lift prices; it also deprived some farm labourers of work. Direct public works offered another route to employment. The Tennessee Valley Authority combined dams and cheaper electricity with irrigation and conservation, leaving productive assets beyond immediate relief. Social Security (1935) established longer-term income protection; collective bargaining and the 1938 Fair Labour Standards Act extended protection to workers. Federal spending and authority joined these measures, although Supreme Court rejection of some industrial regulations, including the NRA, limited the programme.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2013 GS-I · legacy demand · marks and verbatim wording not locally held”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The response combined four instrument families. Financial stabilisation temporarily controlled banks, guaranteed depositors and used the Securities Exchange Commission to constrain credit-fuelled speculation. Income and agricultural support compensated lower output and provided relief, though farm labourers could lose work. Public works, especially the Tennessee Valley Authority, created employment and durable infrastructure. Social Security, labour standards and collective bargaining created protection against recurrence, while federal spending and authority expanded. These measures restored confidence and helped preserve democratic capitalism, but did not end unemployment; war production completed the recovery. Containment was therefore institutionally decisive but economically incomplete.
-
-**Qualification:** Treat the stated causal weight as bounded by the question's period, geography and evidence status; do not convert it into inevitability or a universal civilisational claim.
+The result was a stronger safety net, confidence in banking and continued constitutional politics, not full recovery. Spending cuts in 1938 coincided with renewed recession; war production subsequently ended mass unemployment. The policy instruments contained institutional collapse and saved democratic legitimacy without themselves ending the Depression. This answers the recorded demand without asserting an unverified official wording or mark allocation.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Why did globalisation not eliminate the North-South divide? Answer in about 150 words.
 
-**Model thesis:** Integration rewards prior industrial and institutional capacity, so some states converged while commodity-dependent and indebted states remained vulnerable.
+**Model answer (original practice; not verbatim PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+Globalisation widened access to markets after the Cold War, but access did not erase unequal starting capacity. Countries with industry, infrastructure and educated labour could join production chains and gain from trade; states reliant on raw-material exports remained exposed to fluctuating prices. Heavy external debt further diverted resources from building productive capacity. The 1970s oil shocks show the distinction: producers could receive larger revenues while energy importers faced higher costs. Such asymmetry persisted as trade and finance integrated.
 
-- Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-- The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
-- Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category.
-
-**Qualified conclusion:** Integration rewards prior industrial and institutional capacity, so some states converged while commodity-dependent and indebted states remained vulnerable.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did globalisation not eliminate the North-South divide? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did globalisation not eliminate the North-South divide? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Integration rewards prior industrial and institutional capacity, so some states converged while commodity-dependent and indebted states remained vulnerable.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Debt, commodity dependence and weak industrial capacity held back many states, while others industrialised enough to make the Third World an invalid single category. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Integration rewards prior industrial and institutional capacity, so some states converged while commodity-dependent and indebted states remained vulnerable.
+Nor was “the South” a single economic actor. Some developing countries industrialised more successfully than others, so a single claim of universal impoverishment would be as misleading as a claim of universal convergence. In 2008 financial distress spread through an integrated economy, revealing that the same connections transmit shocks as well as investment. State policy and industrial capacity mediated both effects. Thus aggregate world growth did not guarantee either convergence between countries or equitable distribution within them: integration remained uneven, not wholly futile.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Why was twentieth-century population growth primarily a mortality event? Answer in about 150 words.
 
-**Model thesis:** Medicine and public health reduced deaths before fertility fell, temporarily widening the gap between births and deaths.
+**Model answer (original practice; not verbatim PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The twentieth-century “population explosion” arose chiefly because deaths fell faster than births. Medical advances, cleaner water and public health improved survival, while fertility remained high in many societies. The gap between births and deaths widened even without an increase in births: this is the rapid-growth stage of demographic transition.
 
-- Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward.
-- High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility.
-
-**Qualified conclusion:** Medicine and public health reduced deaths before fertility fell, temporarily widening the gap between births and deaths.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why was twentieth-century population growth primarily a mortality event? Answer in about 150…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why was twentieth-century population growth primarily a mortality event? Answer in about 150…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Medicine and public health reduced deaths before fertility fell, temporarily widening the gap between births and deaths.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Population grew rapidly when death rates fell through medicine, clean water and public health before fertility adjusted downward. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** High births and falling deaths create rapid growth; later education, urbanisation, child survival, women's employment and family planning reduce fertility. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Medicine and public health reduced deaths before fertility fell, temporarily widening the gap between births and deaths.
+Later, education, urbanisation, improved child survival, women's employment and access to family planning could lower fertility, slowing growth. These changes arrived at different times in different regions. Consequently, pressure on housing, jobs, food and urban services in younger societies could coexist with ageing and low fertility elsewhere. China's one-child policy exemplifies direct state intervention, but cannot be assumed to be the inevitable or ethically neutral response; welfare and voluntary choice provide another route. HIV/AIDS in parts of Africa also shows that mortality need not decline smoothly or everywhere. The explanation is therefore historical sequencing of survival gains and subsequent social change, not a universal surge in fertility.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Trace the main phases of the world economy since 1900. Answer in about 250 words.
 
-**Model thesis:** War and depression weakened Europe; Bretton Woods designed a US-led order; oil and debt fractured the South; globalisation widened integration and contagion.
+**Model answer (original practice; not verbatim PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+Since 1900 the world economy has shifted from European-centred liberal exchange through crisis and planned institutional reconstruction to wider, uneven global integration. Two world wars weakened Europe's dominance. The October 1929 Crash revealed underlying overproduction and insufficient purchasing power; US credit withdrawal, banking failures and tariff retaliation then spread depression internationally. Economic interdependence had become a channel of contraction.
 
-- Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States.
-- The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development.
-- The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure.
-- Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s.
-- Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly.
-- The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity.
+After 1945 the United States led a new capitalist order. The 1944 Bretton Woods framework envisaged the IMF for balance-of-payments adjustment and the World Bank for reconstruction and development. Trade liberalisation proceeded through GATT, later the WTO from 1995. Yet this system was not universal: the communist bloc pursued a different economic organisation, while newly independent economies faced a North-South divide in industrial capability. In the 1970s–80s the breakdown of the Bretton Woods fixed-rate element, oil-price shocks and mounting debt altered the setting again. Energy exporters could benefit when importers suffered; commodity-dependent borrowers were vulnerable when prices turned. Some developing states industrialised while others remained indebted, undermining any homogeneous “Third World” account.
 
-**Qualified conclusion:** War and depression weakened Europe; Bretton Woods designed a US-led order; oil and debt fractured the South; globalisation widened integration and contagion.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the main phases of the world economy since 1900. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Trace the main phases of the world economy since 1900. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** War and depression weakened Europe; Bretton Woods designed a US-led order; oil and debt fractured the South; globalisation widened integration and contagion.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Wars and Depression shattered the older Europe-centred liberal economy and strengthened the relative position of the United States. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The 1944 Bretton Woods framework created the International Monetary Fund (IMF) for balance-of-payments adjustment and the World Bank for reconstruction and development. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The capitalist West and communist bloc developed through different systems while decolonised economies entered an unequal North-South structure. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Oil-price shocks, commodity vulnerability and borrowing intensified North-South conflict and debt pressure during the 1970s and 1980s. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Trade, finance and production chains deepened integration after the Cold War while distributing gains unevenly. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** The 2008 crisis demonstrated that integration transmits financial contagion as efficiently as prosperity. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** War and depression weakened Europe; Bretton Woods designed a US-led order; oil and debt fractured the South; globalisation widened integration and contagion.
+After Cold War changes, cross-border trade, finance and production networks deepened in the 1990s. The 2008 crisis showed that integrated finance spread losses as readily as gains. Industrial growth had also imposed environmental costs: Lowe notes rising awareness of pollution and resource limits from the 1970s. Thus the century's arc is not linear progress from isolation to prosperity, but changing institutions and power relations through which integration produced both opportunity and fragility.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Explain HIV/AIDS as an economic and demographic shock. Answer in about 250 words.
 
-**Model thesis:** Working-age mortality reduced labour, disrupted households raising children, lowered life expectancy and deepened unequal development burdens.
+**Model answer (original practice; not verbatim PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+HIV/AIDS was a late-twentieth-century demographic shock because illness and premature mortality altered survival patterns, especially in affected parts of Africa. It was also an economic shock: the people who died or became ill included working-age adults on whom households, farms and public services depended. Falling life expectancy therefore represented lost labour and care, not merely a change in a population total.
 
-- HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies.
+At household level, illness could reduce earnings while increasing the need for care. The death of a parent or carer could transfer responsibility for children to relatives and disrupt schooling, affecting capabilities in the next generation. At community level, losing workers damaged production and the ability to deliver services. Public-health demands could rise precisely where poor households and states had limited resources. These pathways link demographic change to development without assuming that every infected person had the same occupation or that each country's economy followed one trajectory.
 
-**Qualified conclusion:** Working-age mortality reduced labour, disrupted households raising children, lowered life expectancy and deepened unequal development burdens.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain HIV/AIDS as an economic and demographic shock. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain HIV/AIDS as an economic and demographic shock. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Working-age mortality reduced labour, disrupted households raising children, lowered life expectancy and deepened unequal development burdens.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** HIV/AIDS affected labour, family structure, life expectancy and development, especially in poorer African societies. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Working-age mortality reduced labour, disrupted households raising children, lowered life expectancy and deepened unequal development burdens.
+The epidemic also complicates a smooth demographic-transition narrative. Twentieth-century improvements in medicine and clean water had lowered mortality in many places, but HIV/AIDS could interrupt or reverse gains in life expectancy in particular populations. International organisations and campaigns mattered as responses; their presence did not immediately erase the unequal burden. The proper historical conclusion is that survival and productive capacity are interconnected: an epidemic can undermine household security, labour supply and the social infrastructure needed for development. Impacts varied; no continent-wide mortality total follows from this source.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** What caused and transmitted the Great Depression? Answer in about 300 words.
 
-**Model thesis:** Structural demand imbalance, export barriers and speculation preceded the Crash; credit withdrawal, bank failure, trade contraction and tariffs globalised it.
+**Model answer (original practice; not verbatim PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The Wall Street Crash of October 1929 exposed a US economic imbalance; as Lowe stresses, it was a symptom, not the sole cause of the Great Depression. Mechanised industry and agriculture expanded output beyond what consumers could buy. Between 1923 and 1929 industrial profits rose far faster than wages, limiting mass purchasing power. Falling sales produced layoffs, which further reduced demand. Exports might have offered relief, but the Fordney-McCumber tariff of 1922 kept foreign goods out, denying European partners dollar earnings to buy US output and repay debts. Other states retaliated. Meanwhile speculative share buying on credit inflated expectations; selling then shattered confidence.
 
-- Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation.
-- American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis.
+The transmission from national slump to world crisis occurred first through finance. US lenders halted new loans and called in short-term loans to Germany, whose recovery had depended on American credit. Bank runs and closures there compounded collapsing US banks, destroying both savings and the finance available to firms. Trade contracted as purchasing power fell; retaliatory tariffs amplified rather than initiated the downturn. In Japan, raw-silk export prices collapsed, carrying the shock into farmers' incomes. Mussolini's Italy, refusing to devalue the lira until 1936, imposed wage cuts that squeezed workers' purchasing power. These were different national responses to common external pressure, not a uniform collapse in every economy.
 
-**Qualified conclusion:** Structural demand imbalance, export barriers and speculation preceded the Crash; credit withdrawal, bank failure, trade contraction and tariffs globalised it.
-
-**Demand decoding:** The directive **answer** requires a direct position on “What caused and transmitted the Great Depression? Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “What caused and transmitted the Great Depression? Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Structural demand imbalance, export barriers and speculation preceded the Crash; credit withdrawal, bank failure, trade contraction and tariffs globalised it.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Lowe treats the Wall Street Crash as a symptom rather than the cause of deeper overproduction, unequal income, export contraction and speculation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** American credit withdrawal, bank failures, falling trade, tariffs and commodity collapse transformed a US slump into a global crisis. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Structural demand imbalance, export barriers and speculation preceded the Crash; credit withdrawal, bank failure, trade contraction and tariffs globalised it.
+Social and political effects followed these economic mechanisms. US depositors and farmers suffered alongside unemployed industrial workers; in Germany mass unemployment helped discredit parliamentary politics and strengthened the extreme right, though economic suffering alone does not explain Nazi rule. Japanese hardship similarly contributed to political radicalisation. The crisis was thus rooted in production, distribution, trade barriers and speculation, triggered visibly by the Crash, then transmitted by credit withdrawal, banks, export collapse and protectionist feedback. It cannot be reduced to one market day, and this evidence does not establish a separate gold-standard explanation.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Did the New Deal save capitalism? Answer in about 300 words.
 
-**Model thesis:** It stabilised finance, created relief, enlarged social protection and preserved democratic legitimacy, but full economic recovery arrived only with war production.
+**Model answer (original practice; not verbatim PYQ):**
 
-**Claim → named evidence → analysis → qualification:**
+The New Deal substantially rescued the legitimacy of *democratic* capitalism, but did not alone restore full employment. Facing banking panic and joblessness, Roosevelt's 1933–40 programme organised intervention around relief, recovery and reform. Temporary federal control of banks and guarantees for depositors checked runs and restored confidence. The Securities Exchange Commission (1934) restrained credit-fuelled stock speculation. These measures protected the financial system rather than abolishing private enterprise.
 
-- Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence.
-- Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers.
-- The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility.
-- The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession.
-- Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion.
+Recovery and relief reached beyond banks. The 1933 Agricultural Adjustment Administration compensated farmers for cutting output to raise prices; it helped some farmers but displaced farm labourers and did little for the dustbowl. Public works directly employed people, while the Tennessee Valley Authority built dams, supplied electricity and improved irrigation and conservation. Such assets could outlast emergency spending. The 1935 Social Security Act established a federal responsibility for people in need; collective bargaining and the 1938 Fair Labour Standards Act strengthened labour protections. Together these changes made intervention and social insurance part of capitalism's institutional framework.
 
-**Qualified conclusion:** It stabilised finance, created relief, enlarged social protection and preserved democratic legitimacy, but full economic recovery arrived only with war production.
+There were real limits. Business opponents feared regulation and unions, some states challenged federal intrusion, and the Supreme Court invalidated measures including the NRA. Critics on the left argued that big business retained too much power. Unemployment still numbered in the millions; spending cuts in 1938 coincided with renewed recession, while war production finally brought near-full employment. Economic recovery is thus a different test from the survival of constitutional government.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Did the New Deal save capitalism? Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Did the New Deal save capitalism? Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** It stabilised finance, created relief, enlarged social protection and preserved democratic legitimacy, but full economic recovery arrived only with war production.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Roosevelt's relief, recovery and reform framework sought immediate support, restored demand and protection against recurrence. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Bank guarantees and the SEC restored confidence, while the 1933 agricultural programme compensated lower output but displaced farm labourers. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The TVA and public works created jobs and assets, while Social Security, labour standards and collective bargaining expanded federal social responsibility. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The programme restored confidence and democratic legitimacy but did not end mass unemployment; reduced spending in 1938 produced another recession. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Both the New Deal and Nazi rearmament used state spending, but Germany's employment recovery rested on militarisation, union destruction and racial-political exclusion. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It stabilised finance, created relief, enlarged social protection and preserved democratic legitimacy, but full economic recovery arrived only with war production.
+Nazi Germany's employment gains under rearmament are no benign alternative: militarisation accompanied destruction of unions and exclusion of Jews and political opponents. Unlike that coercive path, the American constitutional system continued to contest the New Deal's scope. It changed what the federal government would do for citizens, preserving democratic consent amid depression, but claiming it ended the depression would mistake political rescue for complete economic success.

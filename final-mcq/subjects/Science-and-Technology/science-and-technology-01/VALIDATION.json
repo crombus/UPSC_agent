@@ -1,0 +1,59 @@
+{
+  "topic": "science-and-technology-01",
+  "title": "Space Programme: ISRO, Organisation and Launch Vehicles",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 40,
+      "answers": 40,
+      "keys": {
+        "A": 12,
+        "B": 11,
+        "C": 6,
+        "D": 11
+      },
+      "max_option_ratio": 1.241,
+      "findings": []
+    },
+    {
+      "revision": 2,
+      "questions": 44,
+      "answers": 44,
+      "keys": {
+        "A": 10,
+        "B": 9,
+        "C": 14,
+        "D": 11
+      },
+      "max_option_ratio": 1.522,
+      "findings": []
+    },
+    {
+      "revision": 3,
+      "questions": 40,
+      "answers": 40,
+      "keys": {
+        "A": 9,
+        "B": 15,
+        "C": 7,
+        "D": 9
+      },
+      "max_option_ratio": 1.342,
+      "findings": []
+    }
+  ],
+  "total_questions": 124,
+  "exact_pyqs_reproduced": 0,
+  "cross_revision_exact_stem_duplicates": 0,
+  "required_ledgers": [
+    "COVERAGE.md",
+    "SOURCE-AND-PYQ-HOLDS.md",
+    "STRUCTURAL-AUDIT.md",
+    "HOSTILE-AUDIT.md",
+    "AUDIT-REPORT.md",
+    "VALIDATION.json",
+    "INSTITUTIONAL-FACT-LEDGER.md"
+  ],
+  "generated": "2026-10-04"
+}

@@ -101,5 +101,6 @@ CENTRAL THESIS
 ## Verified PYQ routes
 
 - **2018:** first-instance curtailment -> Articles 323A/323B -> L. Chandra Kumar -> independence -> qualified validity.
-- **2019:** CAT source/jurisdiction -> procedure/powers -> functional independence -> structural limits -> High Court review.
+- **2019:** CAT source/jurisdiction -> procedure/powers -> functional
+  independence -> structural limits -> High Court review.
 - **2025:** need versus courts -> 2021 gains -> workload/access/independence costs -> reform metrics.

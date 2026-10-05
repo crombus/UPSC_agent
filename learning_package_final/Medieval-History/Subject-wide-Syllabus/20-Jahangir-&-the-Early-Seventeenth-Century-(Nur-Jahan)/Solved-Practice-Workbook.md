@@ -1,1006 +1,1025 @@
----
-title: "Jahangir & the Early Seventeenth Century (Nur Jahan) — Solved Practice Workbook"
-topic_key: medieval-indian-history-20
----
 # Jahangir & the Early Seventeenth Century (Nur Jahan) — Solved Practice Workbook
+
+![Topic 20 cover](assets/topic20_cover.png)
 
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQs - 18 original questions
+### Part I — 44 workbook MCQs (questions first; matched key below)
 
-The option sequence is deliberately rotated. Each explanation identifies the factual discriminator and the closest attractive error.
+#### Workbook MCQ 1
+**Question:** Why must Jahangir's accession be described as a political settlement rather than a routine hereditary transfer?
 
-#### Q1. Which framing best describes Jahangir's reign?
+- A. Because Salim's Allahabad autonomy, damaged trust and need for noble recognition made accession an active bargain.
+- B. Because the Mughal empire had abolished dynastic succession entirely by 1605.
+- C. Because European ambassadors elected the new emperor.
+- D. Because Jahangir first became emperor only after Mahabat Khan's coup.
 
-- A. Institutional continuity with consolidation and serious court/frontier contests
-- B. A uniformly peaceful continuation of Akbar
-- C. A complete break from Akbar's polity
-- D. Automatic decline from 1605
+#### Workbook MCQ 2
+**Question:** Which statement most accurately describes the evidentiary value of Jahangir's twelve orders?
 
-**Answer: A.** The reign continued Akbar's institutional inheritance, yet Khusrau, Qandahar, Khurram and Mahabat show why 'peaceful continuity' is the closest but still inadequate lure.
+- A. They prove every district obeyed the same code in the same way.
+- B. They most securely reveal the emperor's proclaimed programme of regulation and justice.
+- C. They replace the need for any corroborating source.
+- D. They are later folklore with no connection to Jahangir's memoir at all.
 
-#### Q2. What can the Jahangirnama's twelve orders establish most securely?
+#### Workbook MCQ 3
+**Question:** The zanjir-i-adl is most safely interpreted as
 
-- A. That later folklore lists are all authentic
-- B. That Jahangir publicly represented an early programme of regulation
-- C. That a modern written constitution replaced discretion
-- D. That every order was uniformly implemented across the empire
+- A. a Mughal parliament of petitioners.
+- B. a permanent record of equal judicial remedies.
+- C. a ruler-centred symbol and possible route of direct petition.
+- D. proof that local officials no longer mattered in Mughal governance.
 
-**Answer: B.** The memoir is direct evidence of programme and self-presentation; empire-wide enforcement is the specific extra claim the source cannot carry by itself.
+#### Workbook MCQ 4
+**Question:** Why is the Muqarrab Khan-related justice case useful but limited evidence?
 
-#### Q3. The chain of justice is best used as evidence for
+- A. It shows Jahangir had no interest in punishment at all.
+- B. It proves all governors feared equal legal sanctions every day.
+- C. It belongs only to Shah Jahan's reign.
+- D. It illustrates an imperial intervention without proving uniformly realised justice across the realm.
 
-- A. A surviving register of equal remedies
-- B. An elected judicial institution
-- C. A ruler-centred claim of accessibility and justice
-- D. A universal right to bypass officials
+#### Workbook MCQ 5
+**Question:** What made Lahore and the Punjab corridor so important in Khusrau's revolt?
 
-**Answer: C.** Its gold-and-bell image stages royal accessibility. The tempting universal-access option confuses a sovereign symbol with documented egalitarian procedure.
+- A. The rebel's movement, possible support networks and the north-west route gave the revolt political geography.
+- B. They were the English Company's first territorial possession in India.
+- C. They were identical with the Deccan war zone of Malik Ambar.
+- D. They mattered only because Jahangir's tomb was already there in 1606.
 
-#### Q4. Khusrau's revolt of 1606 should first be analysed as
+#### Workbook MCQ 6
+**Question:** Which statement best captures the historiographical caution required in the Guru Arjan episode?
 
-- A. A later Mughal war of succession after 1627
-- B. A Portuguese attack on Surat
-- C. An instant empire-wide religious war
-- D. A princely succession challenge using Punjab political networks
+- A. Jahangir's memoir alone settles every motive and consequence.
+- B. Politics after Khusrau, imperial religious language and Sikh memory all need to be held together.
+- C. The event has no relevance for later Mughal-Sikh relations.
+- D. Only later Sikh memory matters; the court record can be discarded.
 
-**Answer: D.** The central discriminator is date and actor: Khusrau was Jahangir's son and the episode was an early-reign political challenge, not a later or maritime conflict.
+#### Workbook MCQ 7
+**Question:** Which term best describes the 1615 Mewar outcome?
 
-#### Q5. Why must Guru Arjan's execution be treated with source caution?
+- A. complete equality between two sovereigns.
+- B. direct provincial annexation.
+- C. Mughal suzerainty combined with honour-sensitive accommodation.
+- D. religiously motivated extermination of the Sisodia line.
 
-- A. Jahangir's memoir gives an imperial accusation but does not settle every motive
-- B. Only a fiscal penalty is mentioned in all sources
-- C. Sikh traditions are irrelevant to the event
-- D. The event had no political context
+#### Workbook MCQ 8
+**Question:** Karan Singh's reception at the Mughal court is most useful as evidence for
 
-**Answer: A.** Jahangirnama is crucial for the imperial framing; the closest error treats that courtly claim as a final explanation and excludes Sikh memory.
+- A. the abolition of Mughal hierarchy in Rajput relations.
+- B. the transfer of Mewar to English protection.
+- C. Rana Amar Singh's personal annual attendance obligation.
+- D. the integration of a Sisodia prince into service while preserving the Rana's honour.
 
-#### Q6. The 1615 Mewar arrangement included
+#### Workbook MCQ 9
+**Question:** What is the safest broad statement about Jahangir's Bengal policy?
 
-- A. Mewar's recovery of complete external independence
-- B. Mughal suzerainty while excusing Rana Amar Singh's personal attendance
-- C. A compulsory Mughal-Rana matrimonial alliance
-- D. Outright annexation and removal of the Sisodia dynasty
+- A. Islam Khan used Dacca, campaigns and later conciliation to extend Mughal consolidation eastward.
+- B. All of Bengal and Assam were permanently pacified in a single campaign.
+- C. The region mattered only for European trade and not for provincial reorganisation.
+- D. No Afghan elements entered Mughal service after eastern campaigns.
 
-**Answer: B.** The settlement's distinctive balance was subordination with honour. The annexation option misses Karan Singh's incorporation and the continued Rana house.
+#### Workbook MCQ 10
+**Question:** Why is the 1620 capture of Kangra historically important in Topic 20?
 
-#### Q7. Kangra's 1620 capture most safely demonstrates
+- A. It marks Jahangir's recovery of Qandahar from the Safavids.
+- B. It shows a fort-level strategic and symbolic success in the Himalayan field.
+- C. It proves uniform Mughal administration over every hill polity.
+- D. It ended all Deccan warfare with Malik Ambar.
 
-- A. Automatic administration of all Himalayan polities
-- B. The recovery of Qandahar from the Safavids
-- C. Strategic and symbolic consolidation through a fort
-- D. A decisive Deccan settlement with Malik Ambar
+#### Workbook MCQ 11
+**Question:** What did the English naval success at Swally/Suvali in 1612 chiefly change?
 
-**Answer: C.** A fort mattered for prestige and routes; the nearest overclaim converts a fortress capture into a total regional map.
+- A. It converted the Company into a territorial sovereign in western India.
+- B. It abolished Mughal control over Surat customs.
+- C. It improved English bargaining position against the Portuguese in the Gujarat maritime setting.
+- D. It forced Jahangir to abandon diplomacy with Europeans altogether.
 
-#### Q8. William Hawkins is best described as
+#### Workbook MCQ 12
+**Question:** Which statement about Roe's 1618 commercial permissions is NOT defensible?
 
-- A. A governor who ruled Surat for the English crown
-- B. A Safavid ambassador sent to recover Qandahar
-- C. A Mughal mansabdar commanding Mewar
-- D. An English Company representative seeking Mughal trading access
+- A. They should be read with local practice and factory records.
+- B. They confirmed limited trading access on Mughal terms.
+- C. They did not amount to territory or empire-wide monopoly.
+- D. They granted the English a sovereign territorial state in India.
 
-**Answer: D.** Hawkins's court experience belongs to petitioning English trade. The Surat-ruler distractor projects later colonial power back onto the early seventeenth century.
+#### Workbook MCQ 13
+**Question:** Why should the Sher Afghan romance story be handled carefully?
 
-#### Q9. Roe's 1615-19 embassy shows that the English were
+- A. Because Satish Chandra treats it as unproven later elaboration rather than secure evidence of Jahangir's prior design.
+- B. Because the story is directly proven by Nur Jahan's coin legends.
+- C. Because Sher Afghan never existed historically.
+- D. Because the event belongs to Aurangzeb's reign, not Jahangir's.
 
-- A. Supplicant merchants/diplomats negotiating within Mughal sovereignty
-- B. Equal sovereign allies controlling Gujarat
-- C. Portuguese officers appointed by Jahangir
-- D. Already territorial rulers of India
+#### Workbook MCQ 14
+**Question:** Which evidence most directly establishes Nur Jahan's unusually public political authority?
 
-**Answer: A.** Roe sought facilities and status; the closest lure is equality, but his complaints themselves show he did not set Mughal terms.
+- A. Later court gossip alone.
+- B. Farmans in her name and coin legends associated with Badshah Begum.
+- C. The assumption that every queen held identical powers.
+- D. Shah Jahan's later throne ceremony.
 
-#### Q10. The 1618 farman should NOT be described as
+#### Workbook MCQ 15
+**Question:** What is the safest limit to place on Nur Jahan's farmans and coin legends?
 
-- A. A limited basis for commercial access
-- B. A grant of English territorial sovereignty
-- C. A document to be read with factory practice
-- D. A cautiously framed trading facility
+- A. They prove she never exercised any real authority.
+- B. They show only artistic taste, not politics.
+- C. They prove public authority but not automatic monopoly over every imperial decision.
+- D. They are modern nationalist fabrications.
 
-**Answer: B.** No farman gave the Company land-based sovereignty or an empire-wide monopoly. Calling it a trading facility is careful rather than dismissive.
+#### Workbook MCQ 16
+**Question:** The Itimad-ud-Daulah tomb should be used primarily as evidence for
 
-#### Q11. Nur Jahan's farmans and coins most directly demonstrate
+- A. the complete social history of Mughal women.
+- B. the end of Jahangir's reign in Lahore.
+- C. a fixed Nur Jahan-Khurram faction from 1611 onward.
+- D. family memorial patronage and an architectural shift associated with Nur Jahan's circle.
 
-- A. General political equality for Mughal women
-- B. That Jahangir ceased to rule permanently
-- C. Exceptional formal public authority alongside household influence
-- D. That all noble promotions came from one family
+#### Workbook MCQ 17
+**Question:** What does Beni Prasad's junta thesis argue in its strongest form?
 
-**Answer: C.** Material documents make authority visible. The closest overreach is sovereign replacement; documents prove particular formal authority, not total control.
+- A. Nur Jahan, Itimad-ud-Daulah, Asaf Khan and Khurram formed a dominant court grouping.
+- B. Jahangir's court had no household politics at all.
+- C. Mahabat Khan founded the alliance after 1626.
+- D. The Mewar settlement destroyed Rajput participation in empire.
 
-#### Q12. The Itimad-ud-Daulah tomb is strongest evidence for
+#### Workbook MCQ 18
+**Question:** What is central to Nurul Hasan's critique of the fixed-junta model?
 
-- A. A dated 2026 conservation announcement
-- B. Jahangir's tomb in Agra
-- C. A permanent Nur Jahan-Khurram alliance
-- D. Family commemoration and architectural patronage linked to Nur Jahan
+- A. Nur Jahan never issued farmans.
+- B. Promotions and alliances remained wider and more fluid than the fixed-bloc model allows.
+- C. Khurram never held a high mansab or military prestige.
+- D. The *Jahangirnama* is a forged nineteenth-century text.
 
-**Answer: D.** The monument anchors patronage and Ghiyas Beg's commemoration; it cannot prove a factional alliance, and Jahangir's tomb is in Lahore.
+#### Workbook MCQ 19
+**Question:** Why is 1622 such a useful turning point in Topic 20?
 
-#### Q13. Beni Prasad's 'junta' thesis is challenged because
+- A. It is the year Jahangir acceded.
+- B. It marks the beginning of Roe's embassy.
+- C. It connects Qandahar, Jahangir's worsening health and sharper succession politics, making Nur Jahan's crisis role more overt.
+- D. It is the year Mahabat Khan first seized the emperor.
 
-- A. Promotions and alliances do not demonstrate a fixed bloc from 1611-20
-- B. Nur Jahan's family never rose at court
-- C. No household politics existed in Mughal rule
-- D. Khurram had no service career
+#### Workbook MCQ 20
+**Question:** Why did Shahryar become more politically significant in the later Jahangir years?
 
-**Answer: A.** The revisionist point is not family irrelevance but the absence of proof for a stable four-person coalition across the whole early period.
+- A. He conquered the Deccan independently of the empire.
+- B. He wrote the full *Jahangirnama* himself.
+- C. He became governor of Bengal under Islam Khan in 1608.
+- D. His connection to Ladli Begum sharpened succession calculations around Nur Jahan's household strategy.
 
-#### Q14. A useful post-1622 reading of court politics stresses
+#### Workbook MCQ 21
+**Question:** Which combination best explains Khurram's rebellion?
 
-- A. A completed Deccan annexation
-- B. Crisis-driven realignment amid Qandahar, illness and succession
-- C. An unchanged alliance since 1611
-- D. The disappearance of all noble networks
+- A. princely prestige, succession anxiety, command dispute and resource bargaining.
+- B. only Portuguese hostility at sea.
+- C. only a doctrinal religious disagreement with Jahangir.
+- D. only a private insult by Mahabat Khan.
 
-**Answer: B.** The time boundary matters: after 1622 pressures sharpened. The fixed-alliance distractor erases the very chronology the historiographical debate requires.
+#### Workbook MCQ 22
+**Question:** What is historically important about Khurram's eventual submission?
 
-#### Q15. Khurram's rebellion is best explained by
+- A. It immediately made him emperor.
+- B. It included the hostage dispatch of Dara and Aurangzeb and showed negotiated reintegration after rebellion.
+- C. It proves the Mughals had no ability to punish princes.
+- D. It took place before the fall of Qandahar.
 
-- A. Only a Portuguese naval defeat
-- B. Only a religious policy dispute
-- C. Succession insecurity, resources, Qandahar and court competition together
-- D. Only Nur Jahan's personal hostility
+#### Workbook MCQ 23
+**Question:** How should the 1622 loss of Qandahar be used inside Topic 20?
 
-**Answer: C.** Several connected pressures explain the rebellion. The personal-hostility answer is deliberately tempting but replaces structural politics with one-cause drama.
+- A. As the whole subject of the chapter, replacing court politics.
+- B. As proof that Jahangir never governed at all.
+- C. As a bounded external trigger that intensified Khurram's court and command calculations.
+- D. As the event that ended English trade in Gujarat.
 
-#### Q16. Mahabat Khan's coup reveals that
+#### Workbook MCQ 24
+**Question:** Which grievance cluster helps explain Mahabat Khan's coup?
 
-- A. An emperor's capture automatically transferred every institution
-- B. The Mughal empire instantly ended in 1626
-- C. Rajput troops had no role in the episode
-- D. Seizing the emperor gave leverage without securing the whole state
+- A. demand for Portuguese naval command.
+- B. a campaign to annex Mewar permanently in 1615.
+- C. disagreement over the anti-Jain order in Gujarat.
+- D. pressure over accounts, elephants, transfer and fear of reprisal at court.
 
-**Answer: D.** The coup's short life exposes the gap between bodily custody and command of treasury, bureaucracy, legitimacy and broad noble support.
+#### Workbook MCQ 25
+**Question:** What is the key structural lesson of the Jhelum coup?
 
-#### Q17. Which assessment of Jahangir's religious policy is most defensible?
+- A. Possessing the emperor's body gave immediate leverage but not durable control over the empire.
+- B. A Rajput contingent automatically conferred universal legitimacy.
+- C. The Mughal treasury and bureaucracy ceased to matter once the emperor was seized.
+- D. Nur Jahan surrendered permanently after the first failed response.
 
-- A. Broad continuity with Akbar alongside contextual coercive episodes
-- B. A policy unrelated to political context
-- C. A complete restoration of jizyah and exclusion
-- D. A simple tolerant ruler with no coercion
+#### Workbook MCQ 26
+**Question:** Nur Jahan's role in the aftermath of Mahabat Khan's coup is best described as
 
-**Answer: A.** The composite-nobility framework and no jizyah restoration matter, but Guru Arjan prevents a flattering no-coercion story.
+- A. purely ceremonial presence without political initiative.
+- B. initial military resistance followed by strategic entry into the captive camp and political manoeuvre.
+- C. complete disappearance from events after 1622.
+- D. proof that she had already become emperor in law.
 
-#### Q18. The best use of the Jahangirnama is to
+#### Workbook MCQ 27
+**Question:** Which statement about Jahangir's ruling class is most accurate?
 
-- A. Use it only for European trade
-- B. Read it for chronology and representation while testing claims against other evidence
-- C. Treat every royal claim as transparent social fact
-- D. Reject it because it is royal
+- A. He dismantled Akbar's composite nobility and ruled only through one clan.
+- B. Rajputs vanished from high service after 1605.
+- C. He broadly retained composite nobility, including Rajputs, Afghans and early Maratha sardars within the mansab-jagir order.
+- D. The mansab-jagir framework ended when Nur Jahan gained influence.
 
-**Answer: B.** Source criticism preserves the memoir's value and limits. The closest bad practice is accepting the chain or orders as proof of universal reality.
+#### Workbook MCQ 28
+**Question:** Which verdict best fits Jahangir's religious policy?
 
-### Broad MCQs - 40 original questions
+- A. a simple restoration of jizya and uniform exclusion.
+- B. perfect tolerance untouched by any coercive act.
+- C. chaotic irreligion with no recognisable policy patterns.
+- D. broad continuity with Akbar's accommodation, complicated by specific coercive and symbolic assertions of Islamic kingship.
 
-The option sequence is deliberately rotated. Each explanation identifies the factual discriminator and the closest attractive error.
+#### Workbook MCQ 29
+**Question:** Why is Jadrup worth remembering in a Jahangir answer?
 
-#### Q19. Salim's separate court before accession should be used as
+- A. He helps show Jahangir's engagement with non-Muslim intellectual and spiritual figures.
+- B. He commanded the English fleet at Swally.
+- C. He designed the Itimad-ud-Daulah tomb.
+- D. He led the Mahabat Khan coup.
 
-- A. a reason to ignore the 1605 accession settlement
-- B. proof that Akbar's administration ended before 1605
-- C. bounded evidence of pre-accession tension, not a fixed personality diagnosis
-- D. evidence that Salim never negotiated with nobles
+#### Workbook MCQ 30
+**Question:** Why is Ustad Mansur relevant in Topic 20?
 
-**Answer: C.** A separate court signals real tension. The diagnosis distractor is closest because it illegitimately turns a political episode into certain inner character.
+- A. He led the Mughal siege of Kangra.
+- B. He stands for Jahangir's courtly naturalism and precise visual observation of flora and fauna.
+- C. He authored the *Iqbalnama*.
+- D. He negotiated the 1615 Mewar compact.
 
-#### Q20. The term 'Padshah' in accession context principally signals
+#### Workbook MCQ 31
+**Question:** What does “continuation” or “redaction” in relation to the *Jahangirnama* warn the historian against?
 
-- A. a provincial revenue post
-- B. a European factory privilege
-- C. a modern elected office
-- D. imperial sovereignty and ceremonial legitimacy
+- A. assuming the memoir is valueless because later hands existed.
+- B. assuming later hands and authorship layers do not matter at all.
+- C. ignoring questions of who wrote which portion and what that means for self-representation.
+- D. using the text for chronology under any circumstances.
 
-**Answer: D.** Titulary stages rank and sovereignty. The provincial-office option confuses court language with an administrative post.
+#### Workbook MCQ 32
+**Question:** Which overall verdict best matches the full Topic 20 evidence?
 
-#### Q21. A claim of clemency in a royal memoir should be checked against
+- A. The reign was only a romance chapter before Shah Jahan.
+- B. Nur Jahan's evidence proves the whole empire was permanently monopolised by one camp from 1611 onward.
+- C. The empire had already entered terminal collapse in 1605.
+- D. Jahangir remained a governing emperor whose reign combined negotiated consolidation, exceptional female authority and later structural strain without proven institutional collapse.
 
-- A. the episode's wider record, recipients and implementation
-- B. only a later tourist description
-- C. the assumption that all clemency was equal
-- D. a numerical vote of nobles
+#### Workbook MCQ 33
 
-**Answer: A.** Clemency is a rulerly claim and action whose reach needs contextual evidence; the equality assumption is the nearest modern projection.
+**Question:** Which sequence correctly traces the pre-accession challenge and subsequent settlement?
 
-#### Q22. Why was Lahore/Punjab important in the Khusrau episode?
+- A. Salim's Allahabad autonomy (1599–1604) → Abu'l Fazl's killing linked to Salim (1602) → Jahangir's accession (1605) → Khusrau's revolt (1606).
+- B. Abu'l Fazl's killing (1602) → Khusrau's revolt (1606) → Salim's Allahabad autonomy (1599–1604) → accession (1605).
+- C. Khusrau's revolt (1606) → accession (1605) → Salim's Allahabad autonomy (1599–1604) → Abu'l Fazl's killing (1602).
+- D. Accession (1605) → Allahabad autonomy (1599–1604) → Khusrau's revolt (1606) → Abu'l Fazl's killing (1602).
 
-- A. it was a Portuguese base controlling Surat
-- B. It was a political-military field along the rebel's north-west movement
-- C. it was Jahangir's permanent mausoleum site in 1606
-- D. it lay inside the Deccan campaign zone
+#### Workbook MCQ 34
 
-**Answer: B.** Punjab connected succession politics to movement and support. The tomb lure mixes the later burial association with the revolt.
+**Question:** Which source-sensitive account of Khusrau's 1606 march is supported?
 
-#### Q23. Jahangir's record of Guru Arjan can securely show
+- A. He seized Lahore's fort before escaping to Kabul with an imperial army.
+- B. Dilawar Khan closed Lahore to him; he was defeated near Bhairowal and captured while seeking the Afghanistan route.
+- C. Islam Khan defeated him in Dacca after the Barah-Bhuiyan campaign.
+- D. He entered Agra uncontested and succeeded Jahangir immediately.
 
-- A. the later Sikh military organisation
-- B. a neutral community census
-- C. the emperor's stated grounds and decision to punish
-- D. the private intentions of every actor
+#### Workbook MCQ 35
 
-**Answer: C.** A ruler's memoir records his framing and order. It cannot transparently supply private motive or later institutional history.
+**Question:** In analysing Guru Arjan's death, which combination most accurately preserves both event and evidentiary dispute?
 
-#### Q24. The word 'suzerainty' in the Mewar settlement means
+- A. Every source agrees a formal independent court acquitted him.
+- B. Jahangir's memoir makes no reference to either religion or Khusrau.
+- C. The memoir alleges support for Khusrau, while Sikh and other testimony and historians dispute the mode of punishment and death.
+- D. The event immediately produced the fully militarised Sikh conflict of later centuries.
 
-- A. complete provincial annexation
-- B. a relation with no political obligations
-- C. a federation of equal states
-- D. an unequal superior claim alongside retained internal dynasty
+#### Workbook MCQ 36
 
-**Answer: D.** Suzerainty is the middle category students often lose: stronger than courtesy, less than wholesale annexation.
+**Question:** Which eastern-consolidation account avoids making one military campaign into a conquest of all Assam?
 
-#### Q25. Karan Singh's reception at court illustrates
+- A. Islam Khan succeeded in the Ahom campaign before becoming governor in 1608.
+- B. Islam Khan kept the provincial headquarters at Agra and refused local alliances.
+- C. The Barah-Bhuiyan confederacy conquered Kangra after defeating Usman Khan.
+- D. Islam Khan shifted the centre to Dacca, overcame Musa Khan's confederacy and Usman Khan, but the Ahom attack failed.
 
-- A. service-linked integration and honourable incorporation
-- B. Roe's embassy protocol
-- C. the extinction of the Sisodia line
-- D. Safavid control of Chittor
+#### Workbook MCQ 37
 
-**Answer: A.** Karan Singh makes the Mewar settlement concrete. The closest false choice, extinction, contradicts the retained Rana house.
+**Question:** A question pairs a failed attempt on a hill fort in 1615 with surrender in 1620. Which later episode must not be projected back into that surrender?
 
-#### Q26. A restriction on rebuilding Chittor's fortifications would most likely signify
+- A. Jahangir's 1622 visit to Kangra with khutba and mosque orders.
+- B. Raja Bikramajit Baghela's 1620 campaign.
+- C. Posting a Mughal commander and faujdar after the capture.
+- D. Chamba's submission in the changed hill balance.
 
-- A. a Kangra treaty term
-- B. an imperial memory of victory and a limit on military restoration
-- C. a Company right to garrison the fort
-- D. a grant of full military independence
+#### Workbook MCQ 38
 
-**Answer: B.** The restriction marks asymmetry and the memory of Chittor; it cannot be inverted into a sovereignty grant.
+**Question:** Which combination best rebuts the claim that Khurram owed his position solely to Nur Jahan's favour?
 
-#### Q27. The best generalisation about Jahangir's eastern policy is
+- A. He had never served in either Mewar or the Deccan.
+- B. Mewar and Deccan successes, the title Shah Jahan, a high rank and the Hisar-Firuza jagir were independent bases of standing.
+- C. He inherited the throne automatically in 1611 on Nur Jahan's marriage.
+- D. Shahryar's marriage to Ladli Begum eliminated all princely rivalry.
 
-- A. European factories controlled the east
-- B. all eastern politics were identical to Mewar
-- C. consolidation remained a process involving regional and Afghan challenges
-- D. Bengal and Orissa ceased to need governance after conquest
+#### Workbook MCQ 39
 
-**Answer: C.** The process language avoids a finality myth. The Mewar comparison distractor ignores different regional political structures.
+**Question:** Match the court kinship links correctly.
 
-#### Q28. Malik Ambar in this topic chiefly functions as
+- A. Ladli Begum was Asaf Khan's daughter married to Khurram; Arjumand Banu was Nur Jahan's daughter married to Shahryar.
+- B. Ghiyas Beg was Nur Jahan's brother; Asaf Khan was her father.
+- C. Arjumand Banu was Asaf Khan's daughter married to Khurram; Ladli Begum was Nur Jahan's daughter married to Shahryar.
+- D. Asmat Begum was Shahryar's daughter and the later empress Mumtaz Mahal.
 
-- A. the leader of the 1606 Khusrau revolt
-- B. the Safavid governor of Qandahar
-- C. the English envoy who obtained the 1618 farman
-- D. a reminder of the limits of Mughal Deccan consolidation
+#### Workbook MCQ 40
 
-**Answer: D.** Malik Ambar anchors the unfinished Deccan; detailed operations are intentionally owned by Topic 18.
+**Question:** What can be inferred from an anti-Jain order in Gujarat in 1617 alongside inscriptional/Jain evidence?
 
-#### Q29. The 1622 Qandahar loss cautions against
+- A. The order was certainly obeyed uniformly across the empire.
+- B. All Jain communities were expelled permanently from every Mughal province.
+- C. Jahangir never issued any coercive religious order.
+- D. A documented order and its uniform local enforcement are separate claims; implementation may have varied.
 
-- A. equating diplomatic cordiality with frontier readiness
-- B. studying Safavid-Mughal relations
-- C. using Qandahar as a strategic node
-- D. noting court coordination problems
+#### Workbook MCQ 41
 
-**Answer: A.** Gift exchange and cordial words did not secure a fort. The closest wrong option says diplomacy itself should be ignored rather than qualified.
+**Question:** Which sequence is supported by the account of Mahabat Khan's coup near the Jhelum?
 
-#### Q30. Swally/Suvali is relevant because
+- A. Jahangir was seized → Nur Jahan's first armed effort failed → she entered the captive camp and politically detached support from Mahabat.
+- B. Nur Jahan arrested Mahabat at Dacca → Jahangir abdicated → Rajput troops enthroned Khusrau.
+- C. Mahabat obtained the entire imperial treasury before capturing Jahangir → Nur Jahan retired immediately.
+- D. Mahabat's broad noble coalition remained secure through the reign of Shah Jahan.
 
-- A. it made the English sovereign over Gujarat
-- B. maritime balance affected English petitions in the Surat world
-- C. it was the site of Mewar's settlement
-- D. it ended Portuguese maritime power everywhere
+#### Workbook MCQ 42
 
-**Answer: B.** A local naval context altered bargaining without conferring land sovereignty or ending all Portuguese power.
+**Question:** Which evidence pair best tests the proposition that Jahangir's stated religious rules describe empire-wide everyday practice?
 
-#### Q31. A factory record is especially useful for
+- A. A painting alone and an uncorroborated royal compliment.
+- B. The *Jahangirnama*'s stated prohibition on forcible conversion against local and inscriptional evidence about particular implementation.
+- C. Roe's claim to territorial sovereignty and a modern map of Britain.
+- D. A royal chain of justice alone, without any local comparison.
 
-- A. a complete neutral account of Mughal society
-- B. the exact content of every Persian chronicle
-- C. commercial practice and a merchant's operational perspective
-- D. the internal motives of Nur Jahan
+#### Workbook MCQ 43
 
-**Answer: C.** Factory records see trade and permissions well; the whole-society option is the closest scope error.
+**Question:** Choose the combination that best distinguishes military submission from direct annexation in Mewar in 1615.
 
-#### Q32. Gift disputes in Roe's journal tell us about
+- A. Amar Singh had to attend court personally and was stripped of all Mewar land.
+- B. Mughal suzerainty was renounced and Karan Singh refused imperial service.
+- C. Amar Singh was not required to attend personally, Karan Singh entered honourable service and the house retained Mewar under suzerainty.
+- D. Chittor's fortifications were rebuilt under an unrestricted bilateral equality treaty.
 
-- A. the abolition of Mughal hierarchy
-- B. the end of merchant rivalry
-- C. a modern treaty-ratification procedure
-- D. rank, reception and diplomatic culture as political practice
+#### Workbook MCQ 44
 
-**Answer: D.** Gifts and audience protocol carried rank claims. The treaty distractor imports modern diplomatic law.
+**Question:** Which conclusion about Asaf Khan in the 1627 transition is consistent with the critique of a permanently unified Nur Jahan family “junta”?
 
-#### Q33. Which is a sound statement about early English access?
+- A. Asaf Khan secured Shahryar's succession and Nur Jahan remained sovereign.
+- B. The fixed junta had appointed every noble since 1611 and therefore could not divide.
+- C. Nur Jahan's father succeeded Jahangir as emperor.
+- D. Asaf Khan secured Khurram's succession despite the later Nur Jahan–Shahryar alignment, illustrating divergent kin interests.
 
-- A. It was contingent on Mughal permissions and local commercial conditions
-- B. It eliminated Indian merchants from Surat
-- C. It guaranteed a territorial empire
-- D. It gave an exclusive monopoly over Indian Ocean trade
+### Part II — Matched answer key and remediation
 
-**Answer: A.** Contingency captures the 1610s situation; territorial or monopoly formulations telescope later changes backward.
+#### Answer & reasoning — Workbook MCQ 1
 
-#### Q34. Ghiyas Beg is important because he was
+**Correct answer:** A
 
-- A. the Rana of Mewar in 1615
-- B. Nur Jahan's father, later titled Itimad-ud-Daulah
-- C. Mahabat Khan's Rajput commander
-- D. Jahangir's English ambassador
+**Option-wise explanations:**
+- **A. Because Salim's Allahabad autonomy, damaged trust and need for noble recognition made accession an active bargain.** — Correct. The accession followed Salim's semi-autonomous Allahabad phase and required noble recognition, offices and public justice language to convert claim into accepted sovereignty.
+- **B. Because the Mughal empire had abolished dynastic succession entirely by 1605.** — Incorrect. Dynastic succession had not vanished; the point is that dynastic right still needed political settlement inside the Mughal elite order.
+- **C. Because European ambassadors elected the new emperor.** — Incorrect. European envoys were marginal to the 1605 succession; the decisive arena was Mughal dynastic and noble politics.
+- **D. Because Jahangir first became emperor only after Mahabat Khan's coup.** — Incorrect. Mahabat Khan's coup belongs to 1626 and tested a long-established reign; it did not create Jahangir's accession.
 
-**Answer: B.** Family identification anchors the tomb and court network. The Mewar lure swaps entirely different political fields.
+**Examiner trap:** Pre-accession tension turned into a false claim that hereditary right had disappeared altogether.
 
-#### Q35. Asaf Khan matters to succession analysis because
+#### Answer & reasoning — Workbook MCQ 2
 
-- A. he commanded the 1612 English fleet
-- B. he was Guru Arjan's successor
-- C. his daughter Arjumand Banu married Khurram
-- D. he was a Safavid shah
+**Correct answer:** B
 
-**Answer: C.** The marriage link explains a household channel, not an automatic fixed faction.
+**Option-wise explanations:**
+- **A. They prove every district obeyed the same code in the same way.** — Incorrect. Uniform local enforcement is precisely the claim the memoir cannot prove on its own.
+- **B. They most securely reveal the emperor's proclaimed programme of regulation and justice.** — Correct. The orders are strongest as evidence of what Jahangir chose to publicise about early rule and royal rectitude.
+- **C. They replace the need for any corroborating source.** — Incorrect. Royal memoirs need corroboration because proclamation and implementation are not identical historical levels.
+- **D. They are later folklore with no connection to Jahangir's memoir at all.** — Incorrect. However later lists may vary, the *Jahangirnama* certainly preserves a Jahangiri regulatory programme.
 
-#### Q36. A title such as Nur Mahal/Nur Jahan should be handled by
+**Examiner trap:** Proclamation was mistaken for verified empire-wide implementation.
 
-- A. equating it with a mansab rank
-- B. assuming the title created a modern monarchy
-- C. discarding all title evidence
-- D. checking chronology and source rather than treating it as a constitutional office
+#### Answer & reasoning — Workbook MCQ 3
 
-**Answer: D.** Titles are meaningful public markers, but not automatically modern offices or mansab positions.
+**Correct answer:** C
 
-#### Q37. Why are coins especially useful in assessing Nur Jahan?
+**Option-wise explanations:**
+- **A. a Mughal parliament of petitioners.** — Incorrect. The chain did not create a representative institution; it dramatised the emperor's accessibility.
+- **B. a permanent record of equal judicial remedies.** — Incorrect. A symbolic chain cannot by itself document equal outcomes across the empire.
+- **C. a ruler-centred symbol and possible route of direct petition.** — Correct. It projected the image of a sovereign who could be directly approached and who embodied corrective justice.
+- **D. proof that local officials no longer mattered in Mughal governance.** — Incorrect. Officials still mattered greatly; the chain did not erase the administrative hierarchy below the emperor.
 
-- A. They provide material, public evidence of a named authority formula
-- B. they eliminate the need for dates
-- C. they record every private conversation
-- D. they prove she alone commanded the army
+**Examiner trap:** A sovereign symbol was inflated into a full constitutional judicial system.
 
-**Answer: A.** Coins are independent material evidence, yet their circulation/formula must still be dated and cannot become a total-control claim.
+#### Answer & reasoning — Workbook MCQ 4
 
-#### Q38. A patronage attribution is strongest when supported by
+**Correct answer:** D
 
-- A. a romantic court tale without provenance
-- B. a surviving monument, inscription, document or secure contemporary record
-- C. a title alone
-- D. a circulating internet list
+**Option-wise explanations:**
+- **A. It shows Jahangir had no interest in punishment at all.** — Incorrect. The episode is cited precisely because punitive intervention did occur.
+- **B. It proves all governors feared equal legal sanctions every day.** — Incorrect. One exemplary punishment cannot be expanded into a guarantee of equal and constant justice everywhere.
+- **C. It belongs only to Shah Jahan's reign.** — Incorrect. Satish Chandra places the case in Jahangir's reign as part of the justice discussion.
+- **D. It illustrates an imperial intervention without proving uniformly realised justice across the realm.** — Correct. It is valuable as a concrete illustration of rulerly intervention, but it cannot by itself settle empire-wide implementation.
 
-**Answer: B.** Material or documentary provenance ranks above repetition. The court-tale lure is precisely why evidence hierarchy is needed.
+**Examiner trap:** A single vivid case was treated as if it automatically described the whole empire.
 
-#### Q39. Itimad-ud-Daulah's tomb is located in
+#### Answer & reasoning — Workbook MCQ 5
 
-- A. Lahore as Jahangir's own tomb
-- B. Ajmer as the Mewar campaign headquarters
-- C. Agra, on the Yamuna-side heritage landscape
-- D. Surat as the English factory
+**Correct answer:** A
 
-**Answer: C.** Agra is the tomb's site; Lahore is the separate burial geography of Jahangir.
+**Option-wise explanations:**
+- **A. The rebel's movement, possible support networks and the north-west route gave the revolt political geography.** — Correct. Punjab mattered because succession challenge travelled through routes, supporters and an important frontier-urban field centred on Lahore.
+- **B. They were the English Company's first territorial possession in India.** — Incorrect. English territorial possession is anachronistic here and unrelated to Khusrau's movement.
+- **C. They were identical with the Deccan war zone of Malik Ambar.** — Incorrect. Malik Ambar belongs to the Deccan context, not to the Punjab succession corridor of 1606.
+- **D. They mattered only because Jahangir's tomb was already there in 1606.** — Incorrect. Jahangir's later burial association with Lahore should not be projected backward as the reason the revolt mattered.
 
-#### Q40. The central problem with the fixed-junta thesis is
+**Examiner trap:** Later associations with Lahore replaced the 1606 political geography of the revolt.
 
-- A. it notes Khurram's military service
-- B. it dates Jahangir's accession to 1605
-- C. it acknowledges family patronage
-- D. it converts shifting networks into a permanent four-person bloc
+#### Answer & reasoning — Workbook MCQ 6
 
-**Answer: D.** Family rise is genuine, so the problem is rigidity rather than the mere recognition of kinship.
+**Correct answer:** B
 
-#### Q41. Nurul Hasan's critique directs attention to
+**Option-wise explanations:**
+- **A. Jahangir's memoir alone settles every motive and consequence.** — Incorrect. The court record is indispensable but not sufficient as a total explanation.
+- **B. Politics after Khusrau, imperial religious language and Sikh memory all need to be held together.** — Correct. A layered answer has to keep political suspicion, religious language and later community memory in the same frame.
+- **C. The event has no relevance for later Mughal-Sikh relations.** — Incorrect. The event is widely treated as a turning point, even though later militarisation followed a longer chronology.
+- **D. Only later Sikh memory matters; the court record can be discarded.** — Incorrect. Discarding the court source is as mistaken as absolutising it.
 
-- A. distribution of promotions and absence of proof for a stable alliance
-- B. the annexation of Mewar
-- C. only European trade data
-- D. the denial of all court faction
+**Examiner trap:** One evidentiary lane was used to cancel all the others.
 
-**Answer: A.** The critique is empirical and networked, not a claim that court politics disappeared.
+#### Answer & reasoning — Workbook MCQ 7
 
-#### Q42. Why is 1622 a useful turning point for Nur Jahan's politics?
+**Correct answer:** C
 
-- A. it ends Jahangir's reign
-- B. Multiple crises made access, succession and alignment more consequential
-- C. it is the date of Mewar's settlement
-- D. it marks her 1611 marriage
+**Option-wise explanations:**
+- **A. complete equality between two sovereigns.** — Incorrect. Mughal superiority remained clear; the compact was not one of equal sovereign standing.
+- **B. direct provincial annexation.** — Incorrect. The Rana house remained in place, which is exactly why annexation is the wrong word.
+- **C. Mughal suzerainty combined with honour-sensitive accommodation.** — Correct. Submission occurred, but it was structured so that Sisodia prestige could survive publicly.
+- **D. religiously motivated extermination of the Sisodia line.** — Incorrect. The settlement integrated rather than eliminated the ruling house.
 
-**Answer: B.** The date clusters Qandahar, household loss and Khurram's rupture; marriage and death belong to other dates.
+**Examiner trap:** Because force preceded settlement, the settlement itself was mislabeled as annexation.
 
-#### Q43. Shahryar's political significance sharpened because of
+#### Answer & reasoning — Workbook MCQ 8
 
-- A. his role as James I's envoy
-- B. his capture of Qandahar
-- C. his marriage to Ladli Begum and the succession field
-- D. his command of Kangra in 1620
+**Correct answer:** D
 
-**Answer: C.** The marriage link mattered in succession calculations; the other roles belong to different actors/events.
+**Option-wise explanations:**
+- **A. the abolition of Mughal hierarchy in Rajput relations.** — Incorrect. Honourable incorporation worked within Mughal hierarchy rather than dissolving it.
+- **B. the transfer of Mewar to English protection.** — Incorrect. The English had no role in the Mewar settlement structure.
+- **C. Rana Amar Singh's personal annual attendance obligation.** — Incorrect. One of the settlement's distinctive features was that the Rana himself was not forced into personal attendance.
+- **D. the integration of a Sisodia prince into service while preserving the Rana's honour.** — Correct. Karan Singh's honourable reception demonstrates how subordination could be made politically acceptable.
 
-#### Q44. Khurram's Deccan/Mewar service should be read as
+**Examiner trap:** The son's service obligation was confused with the father's personal attendance.
 
-- A. proof that he had already become emperor
-- B. a reason Qandahar no longer mattered
-- C. evidence that court politics ended
-- D. a source of stature that did not guarantee succession
+#### Answer & reasoning — Workbook MCQ 9
 
-**Answer: D.** Military success bolstered claims but succession remained contested, as the later rebellion itself demonstrates.
+**Correct answer:** A
 
-#### Q45. Jagir/resource disputes matter in the Khurram crisis because
+**Option-wise explanations:**
+- **A. Islam Khan used Dacca, campaigns and later conciliation to extend Mughal consolidation eastward.** — Correct. The combination of headquarters shift, campaign and selective restoration captures the actual pattern of consolidation.
+- **B. All of Bengal and Assam were permanently pacified in a single campaign.** — Incorrect. The eastern field remained uneven; the Ahom attack failed and one-date totalisation is inaccurate.
+- **C. The region mattered only for European trade and not for provincial reorganisation.** — Incorrect. Provincial headquarters, zamindar politics and campaign management were central, not incidental.
+- **D. No Afghan elements entered Mughal service after eastern campaigns.** — Incorrect. One important point of the topic is that more Afghans were incorporated into the Mughal nobility.
 
-- A. they linked rank, military capacity and political bargaining
-- B. they were unrelated to princes
-- C. they gave English merchants sovereignty
-- D. they replaced all kinship ties
+**Examiner trap:** An extended eastern process was compressed into one conquest date.
 
-**Answer: A.** Resources were political in a service monarchy. The closest wrong option makes money the only cause and erases succession/kinship.
+#### Answer & reasoning — Workbook MCQ 10
 
-#### Q46. A 'one-cause' narrative of Khurram's revolt fails because
+**Correct answer:** B
 
-- A. all sources agree on one motive
-- B. command, succession, resources and court alignments interacted
-- C. the rebellion did not occur
-- D. Qandahar had no connection to court politics
+**Option-wise explanations:**
+- **A. It marks Jahangir's recovery of Qandahar from the Safavids.** — Incorrect. Qandahar belongs to the north-western foreign-policy question, not to Kangra.
+- **B. It shows a fort-level strategic and symbolic success in the Himalayan field.** — Correct. Kangra mattered as a strategically difficult fort whose capture also allowed ritual display of sovereignty.
+- **C. It proves uniform Mughal administration over every hill polity.** — Incorrect. A single stronghold cannot certify effortless control over the whole Himalayan political landscape.
+- **D. It ended all Deccan warfare with Malik Ambar.** — Incorrect. Deccan conflict persisted and is analytically separate from the Kangra success.
 
-**Answer: B.** Interaction is the explanatory gain; the all-sources option is false precisely because evidence and motives are contested.
+**Examiner trap:** A fort conquest was overextended into a claim of total regional mastery.
 
-#### Q47. Mahabat Khan's account-related grievance should be treated as
+#### Answer & reasoning — Workbook MCQ 11
 
-- A. a Mewar settlement term
-- B. a fully documented private emotion
-- C. a reported political grievance requiring source and faction context
-- D. an English trading regulation
+**Correct answer:** C
 
-**Answer: C.** Grievance language comes through partisan narratives. The private-emotion lure asks sources to do more than they can.
+**Option-wise explanations:**
+- **A. It converted the Company into a territorial sovereign in western India.** — Incorrect. Maritime success strengthened bargaining but did not create a land-based English state.
+- **B. It abolished Mughal control over Surat customs.** — Incorrect. Mughal sovereignty over Surat and its customs regime continued.
+- **C. It improved English bargaining position against the Portuguese in the Gujarat maritime setting.** — Correct. Swally mattered because it weakened Portuguese leverage and helped the English negotiate from a less vulnerable position.
+- **D. It forced Jahangir to abandon diplomacy with Europeans altogether.** — Incorrect. Jahangir continued engaging Europeans; the issue was the terms of access, not diplomatic abandonment.
 
-#### Q48. The Jhelum setting mattered to Mahabat's coup because
+**Examiner trap:** Naval success at sea was mistaken for immediate political sovereignty on land.
 
-- A. it placed the emperor at the Surat coast
-- B. it was within Chittor fort
-- C. it was a stable fixed capital court
-- D. a river crossing created a moment of movement and vulnerability
+#### Answer & reasoning — Workbook MCQ 12
 
-**Answer: D.** A travelling river crossing could be exploited. The fixed-capital option erases the tactical opportunity.
+**Correct answer:** D
 
-#### Q49. The Rajput contingent in the 1626 coup shows
+**Option-wise explanations:**
+- **A. They should be read with local practice and factory records.** — Incorrect. This is exactly the cautious way to use a farman-based trading privilege.
+- **B. They confirmed limited trading access on Mughal terms.** — Incorrect. The grant is best understood as bounded commercial facility, not as equality of states.
+- **C. They did not amount to territory or empire-wide monopoly.** — Incorrect. The absence of monopoly or territorial sovereignty is one of the key limits of the episode.
+- **D. They granted the English a sovereign territorial state in India.** — Correct. Turning the farman into a territorial state is the classic teleological overstatement the topic warns against.
 
-- A. service networks could be used in a noble's immediate coercion
-- B. all Rajput houses held one permanent position
-- C. Mewar had been annexed
-- D. the emperor lacked any legitimacy
+**Examiner trap:** A trading document was treated as if it had already created British India.
 
-**Answer: A.** A contingent shows a specific service connection, not a monolithic Rajput bloc or a total collapse of imperial legitimacy.
+#### Answer & reasoning — Workbook MCQ 13
 
-#### Q50. Nur Jahan's recovery from the coup depended in part on
+**Correct answer:** A
 
-- A. English military intervention
-- B. manoeuvring within legitimacy and detaching support from Mahabat
-- C. the instant disappearance of Jahangir
-- D. a guaranteed constitutional office
+**Option-wise explanations:**
+- **A. Because Satish Chandra treats it as unproven later elaboration rather than secure evidence of Jahangir's prior design.** — Correct. The point is not that nothing happened in Bengal, but that romantic causation is not securely evidenced as the driver of events.
+- **B. Because the story is directly proven by Nur Jahan's coin legends.** — Incorrect. Coin legends show Nur Jahan's later public authority, not a proven pre-marital conspiracy.
+- **C. Because Sher Afghan never existed historically.** — Incorrect. Sher Afghan was a historical person; what is disputed is the dramatic retrospective narrative around him.
+- **D. Because the event belongs to Aurangzeb's reign, not Jahangir's.** — Incorrect. The chronology belongs to Jahangir's period, not to a much later reign.
 
-**Answer: B.** Her leverage was relational and political; a constitutional-office story imports a structure the court did not possess.
+**Examiner trap:** Later romance was elevated into secure political causation.
 
-#### Q51. Why did Mahabat's seizure not endure?
+#### Answer & reasoning — Workbook MCQ 14
 
-- A. the emperor's person had no political value
-- B. the coup happened after Jahangir's death
-- C. He lacked durable control over administration, treasury and broad nobles
-- D. all troops immediately changed sides
+**Correct answer:** B
 
-**Answer: C.** Custody mattered greatly, but it was insufficient. The no-value choice reverses the lesson about embodied sovereignty.
+**Option-wise explanations:**
+- **A. Later court gossip alone.** — Incorrect. Gossip may preserve perceptions, but documentary and numismatic evidence is far stronger here.
+- **B. Farmans in her name and coin legends associated with Badshah Begum.** — Correct. Farmans and coins are exactly the kind of formal evidence that makes Nur Jahan's authority historically demonstrable.
+- **C. The assumption that every queen held identical powers.** — Incorrect. Her prominence is noteworthy precisely because all Mughal consorts did not enjoy identical documentary visibility.
+- **D. Shah Jahan's later throne ceremony.** — Incorrect. Shah Jahan's later imperial symbolism belongs to a different reign and cannot prove Nur Jahan's status.
 
-#### Q52. No restoration of jizyah under Jahangir helps establish
+**Examiner trap:** The strongest documentary evidence was replaced by anecdote and generic assumptions about queenship.
 
-- A. a modern secular constitution
-- B. the absence of all coercive episodes
-- C. an English commercial monopoly
-- D. continuity with Akbar's broad fiscal-religious framework
+#### Answer & reasoning — Workbook MCQ 15
 
-**Answer: D.** This is a useful institutional fact, but it cannot erase individual coercive episodes or create anachronistic secularism.
+**Correct answer:** C
 
-#### Q53. Jahangir's natural-history observations are best read as
+**Option-wise explanations:**
+- **A. They prove she never exercised any real authority.** — Incorrect. The very reason the documents matter is that they do record real formal authority.
+- **B. They show only artistic taste, not politics.** — Incorrect. Coinage and farmans speak directly to sovereignty-symbols and command, not merely to aesthetics.
+- **C. They prove public authority but not automatic monopoly over every imperial decision.** — Correct. The documents justify strong claims about visibility and power while still stopping short of total sovereign replacement.
+- **D. They are modern nationalist fabrications.** — Incorrect. These are early modern evidentiary forms, not later inventions.
 
-- A. part of a memoir's observing and self-fashioning rulerly persona
-- B. a Company shipping log
-- C. evidence that he did not govern
-- D. a modern scientific survey with no genre bias
+**Examiner trap:** Good evidence of exceptional authority was pushed into an unwarranted theory of total control.
 
-**Answer: A.** Observation has real evidentiary value, yet genre and imperial self-presentation remain active.
+#### Answer & reasoning — Workbook MCQ 16
 
-#### Q54. A Mughal court painting most directly preserves
+**Correct answer:** D
 
-- A. the full text of a farman
-- B. a visual construction of hierarchy, taste and imperial ideology
-- C. a camera-like record of every event
-- D. a modern census
+**Option-wise explanations:**
+- **A. the complete social history of Mughal women.** — Incorrect. One dynastic monument cannot stand in for the social history of all Mughal women.
+- **B. the end of Jahangir's reign in Lahore.** — Incorrect. Jahangir's burial at Lahore is a separate issue from this Agra-based family tomb.
+- **C. a fixed Nur Jahan-Khurram faction from 1611 onward.** — Incorrect. Monumental patronage cannot by itself prove a stable court coalition over many years.
+- **D. family memorial patronage and an architectural shift associated with Nur Jahan's circle.** — Correct. The tomb is best read through commemoration, patronage and the material culture of Nur Jahan's family network.
 
-**Answer: B.** Paintings are highly valuable but representational. The camera lure is the exact source-method error.
+**Examiner trap:** A material monument was used to prove more political certainty than it can actually carry.
 
-#### Q55. The word 'continuation' in relation to the Jahangirnama alerts us to
+#### Answer & reasoning — Workbook MCQ 17
 
-- A. the end of Persian chronicles
-- B. a European translation monopoly
-- C. later textual layers beyond Jahangir's own composed portions
-- D. the claim that Jahangir wrote nothing
+**Correct answer:** A
 
-**Answer: C.** The memoir has an imperial authorial core and later transmission/continuation issues; neither wholesale rejection nor total transparency follows.
+**Option-wise explanations:**
+- **A. Nur Jahan, Itimad-ud-Daulah, Asaf Khan and Khurram formed a dominant court grouping.** — Correct. That four-person configuration is the classic formulation of the fixed-junta thesis.
+- **B. Jahangir's court had no household politics at all.** — Incorrect. Even critics of the thesis do not deny the importance of household politics.
+- **C. Mahabat Khan founded the alliance after 1626.** — Incorrect. Mahabat Khan is not the founder of the alleged coalition; he is one of the later challengers to the court order.
+- **D. The Mewar settlement destroyed Rajput participation in empire.** — Incorrect. The Mewar settlement belongs to Rajput accommodation, not to the definition of the junta thesis.
 
-#### Q56. Mutamad Khan's Iqbalnama should be used as
+**Examiner trap:** The debated model itself was not stated accurately before it was criticised.
 
-- A. a legal code enacted by Roe
-- B. an English factory journal
-- C. a substitute for all evidence
-- D. a Persian chronicle to compare with memoir and material sources
+#### Answer & reasoning — Workbook MCQ 18
 
-**Answer: D.** Comparison is the point: court chronicles offer sequence and rhetoric but have patronage and perspective.
+**Correct answer:** B
 
-#### Q57. A source-conscious use of Jahangir's health is to
+**Option-wise explanations:**
+- **A. Nur Jahan never issued farmans.** — Incorrect. The critique does not deny her authority; it questions the monopoly model.
+- **B. Promotions and alliances remained wider and more fluid than the fixed-bloc model allows.** — Correct. Wide distribution of favour and the lack of secure proof for a fixed long-term alliance are the heart of the argument.
+- **C. Khurram never held a high mansab or military prestige.** — Incorrect. Khurram's real military prominence is one reason a simplistic patronage-only story fails.
+- **D. The *Jahangirnama* is a forged nineteenth-century text.** — Incorrect. The memoir is a genuine early modern source, albeit one requiring criticism.
 
-- A. connect it cautiously to access and crisis politics without asserting permanent abdication
-- B. ignore all references to health as irrelevant
-- C. use it to date the Mewar settlement to 1622
-- D. treat illness as proof that every decision was Nur Jahan's
+**Examiner trap:** Debate over monopoly was misread as denial of Nur Jahan's power itself.
 
-**Answer: A.** Health can alter access and political opportunity, but the closest lure converts that possibility into a total-transfer-of-rule claim unsupported by the record.
+#### Answer & reasoning — Workbook MCQ 19
 
-#### Q58. Which overall verdict is best supported by the reign's evidence?
+**Correct answer:** C
 
-- A. An English territorial state created by the Surat farman
-- B. A governing emperor and exceptional consort in an unevenly consolidating empire
-- C. A collapsed empire ruled only by a junta from 1611
-- D. A peaceful reign with no frontier or succession stress
+**Option-wise explanations:**
+- **A. It is the year Jahangir acceded.** — Incorrect. Jahangir acceded in 1605, not 1622.
+- **B. It marks the beginning of Roe's embassy.** — Incorrect. Roe began in 1615; 1622 matters for a different conjuncture.
+- **C. It connects Qandahar, Jahangir's worsening health and sharper succession politics, making Nur Jahan's crisis role more overt.** — Correct. After 1622, external shock, court health anxieties and succession conflict made court alignments visibly sharper.
+- **D. It is the year Mahabat Khan first seized the emperor.** — Incorrect. Mahabat Khan's coup belongs to 1626, though it is part of the same later-crisis environment.
 
-**Answer: B.** This verdict holds Mewar/Kangra, Qandahar, rebellion, documents and source limits together; each alternative elevates one familiar story into an absolute.
+**Examiner trap:** The date 1622 was remembered only for Qandahar and detached from internal court consequences.
 
-### Remedial MCQs - 12 original questions
+#### Answer & reasoning — Workbook MCQ 20
 
-The option sequence is deliberately rotated. Each explanation identifies the factual discriminator and the closest attractive error.
+**Correct answer:** D
 
-#### Q59. Which phrase corrects the 'decline from 1605' shortcut?
+**Option-wise explanations:**
+- **A. He conquered the Deccan independently of the empire.** — Incorrect. Shahryar's importance here is dynastic and factional, not independent military conquest.
+- **B. He wrote the full *Jahangirnama* himself.** — Incorrect. The *Jahangirnama* is Jahangir's memoir with later continuation layers, not Shahryar's authorship project.
+- **C. He became governor of Bengal under Islam Khan in 1608.** — Incorrect. That office belongs to Islam Khan's Bengal reorganisation, not to Shahryar.
+- **D. His connection to Ladli Begum sharpened succession calculations around Nur Jahan's household strategy.** — Correct. The marriage link tied him more closely to Nur Jahan's household calculations and therefore to the succession contest.
 
-- A. Immediate systemic collapse
-- B. A total break with Akbar
-- C. Inherited institutions plus uneven consolidation and real stress
-- D. A reign without challenges
+**Examiner trap:** Shahryar's later-role significance was replaced by unrelated administrative or literary claims.
 
-**Answer: C.** Mewar and Kangra make collapse untenable, while Qandahar and revolt make a no-challenge story equally inaccurate.
+#### Answer & reasoning — Workbook MCQ 21
 
-#### Q60. The chain of justice was NOT
+**Correct answer:** A
 
-- A. a memoir-described public object
-- B. part of Jahangir's justice persona
-- C. a royal symbol of accessibility
-- D. a demonstrated modern system of equal access to courts
+**Option-wise explanations:**
+- **A. princely prestige, succession anxiety, command dispute and resource bargaining.** — Correct. Khurram's rebellion came from the intersection of his strength, his fears, the Qandahar emergency and competition over resources and court access.
+- **B. only Portuguese hostility at sea.** — Incorrect. Maritime rivalry had little to do with the inner logic of Khurram's revolt.
+- **C. only a doctrinal religious disagreement with Jahangir.** — Incorrect. The rebellion was not driven by a doctrinal theological split.
+- **D. only a private insult by Mahabat Khan.** — Incorrect. Mahabat Khan was important later, but Khurram's crisis cannot be reduced to a private quarrel with him.
 
-**Answer: D.** The anachronism is converting a ruler-centred claim into an impersonal equal-rights system.
+**Examiner trap:** A multi-causal princely rebellion was squeezed into one neat cause.
 
-#### Q61. What is unsafe about a one-cause Guru Arjan explanation?
+#### Answer & reasoning — Workbook MCQ 22
 
-- A. It turns competing political, religious and fiscal evidence into certainty
-- B. It asks for chronology
-- C. It uses Sikh tradition
-- D. It notices Jahangir's memoir
+**Correct answer:** B
 
-**Answer: A.** The problem is certainty beyond source reach, not the use of any one source when it is clearly identified.
+**Option-wise explanations:**
+- **A. It immediately made him emperor.** — Incorrect. Submission restored him to a negotiated position; it did not yet make him ruler.
+- **B. It included the hostage dispatch of Dara and Aurangzeb and showed negotiated reintegration after rebellion.** — Correct. The hostage element reveals how princely reintegration after rebellion still required concrete guarantees.
+- **C. It proves the Mughals had no ability to punish princes.** — Incorrect. The empire punished, defeated and bargained with princes; lack of any coercive capacity is not the lesson.
+- **D. It took place before the fall of Qandahar.** — Incorrect. The submission followed the post-1622 crisis and therefore came after the Qandahar setback had already sharpened tensions.
 
-#### Q62. The Mewar settlement was not
+**Examiner trap:** The settlement phase of the rebellion was forgotten, leaving only the dramatic outbreak.
 
-- A. an arrangement protecting Rana honour
-- B. a straightforward annexation that erased the Rana house
-- C. a setting for Karan Singh's incorporation
-- D. an acceptance of Mughal suzerainty
+#### Answer & reasoning — Workbook MCQ 23
 
-**Answer: B.** The Sisodia dynasty and internal space remained; 'annexation' destroys the settlement's negotiated character.
+**Correct answer:** C
 
-#### Q63. Roe's trading facilities did not grant
+**Option-wise explanations:**
+- **A. As the whole subject of the chapter, replacing court politics.** — Incorrect. Topic 19 owns the full foreign-policy system; Topic 20 uses Qandahar only for its impact on internal politics.
+- **B. As proof that Jahangir never governed at all.** — Incorrect. One frontier loss does not erase the wider record of governance, consolidation and court management.
+- **C. As a bounded external trigger that intensified Khurram's court and command calculations.** — Correct. Here Qandahar matters because it sharpened the succession-command-resource crisis around Khurram.
+- **D. As the event that ended English trade in Gujarat.** — Incorrect. Gujarat trade and English diplomacy followed a different logic from the Safavid seizure of Qandahar.
 
-- A. Mughal-term commercial access
-- B. a reason to study protocol
-- C. territorial sovereignty to the English Company
-- D. a contingent Surat position
+**Examiner trap:** A boundary-trigger event was allowed to swallow the neighbouring topic's full ownership.
 
-**Answer: C.** The future-colonial lure is teleology: commercial permission in the 1610s was not sovereignty.
+#### Answer & reasoning — Workbook MCQ 24
 
-#### Q64. Why is 'fixed junta' an unsafe answer?
+**Correct answer:** D
 
-- A. It names a historiographical model
-- B. It invites evidence testing
-- C. It acknowledges family advancement
-- D. It treats fluid 1611-20 networks as a proven permanent coalition
+**Option-wise explanations:**
+- **A. demand for Portuguese naval command.** — Incorrect. Maritime command against the Portuguese has nothing to do with Mahabat's grievance structure.
+- **B. a campaign to annex Mewar permanently in 1615.** — Incorrect. The Mewar settlement preceded the coup by more than a decade and is unrelated as a grievance cluster.
+- **C. disagreement over the anti-Jain order in Gujarat.** — Incorrect. Religious policy episodes do not explain Mahabat Khan's personal court crisis.
+- **D. pressure over accounts, elephants, transfer and fear of reprisal at court.** — Correct. The coup emerged from court pressure on a powerful commander who felt vulnerable after service against Khurram.
 
-**Answer: D.** The named model is useful only when paired with the critique; permanence is the unsupported step.
+**Examiner trap:** A commander's court grievance was blurred with unrelated frontier or religious episodes.
 
-#### Q65. Nur Jahan's authority did not amount to
+#### Answer & reasoning — Workbook MCQ 25
 
-- A. automatic sovereign replacement of Jahangir
-- B. documentary visibility
-- C. exceptional public authority
-- D. household-patronage leverage
+**Correct answer:** A
 
-**Answer: A.** Farmans and coins prove unusual authority, but they cannot alone convert influence into sole kingship.
+**Option-wise explanations:**
+- **A. Possessing the emperor's body gave immediate leverage but not durable control over the empire.** — Correct. The coup worked instantly because kingship was embodied, yet it failed durably because coalition, finance and bureaucracy mattered too.
+- **B. A Rajput contingent automatically conferred universal legitimacy.** — Incorrect. Rajput force could give coercive muscle, but legitimacy still required a much broader settlement.
+- **C. The Mughal treasury and bureaucracy ceased to matter once the emperor was seized.** — Incorrect. The failure of the coup proves that administrative and fiscal structures still mattered enormously.
+- **D. Nur Jahan surrendered permanently after the first failed response.** — Incorrect. Nur Jahan shifted strategy and remained active in the reversal of the crisis.
 
-#### Q66. The romance/murder story fails method because
+**Examiner trap:** Short-term shock was misread as if it had erased the empire's deeper institutional supports.
 
-- A. widowhood precedes the 1611 marriage
-- B. it substitutes sensational narrative for dated corroborated evidence
-- C. titles need chronology
-- D. family biography matters
+#### Answer & reasoning — Workbook MCQ 26
 
-**Answer: B.** Biography is important; unsupported melodrama is not evidence of political causation.
+**Correct answer:** B
 
-#### Q67. Khurram did not rebel for
+**Option-wise explanations:**
+- **A. purely ceremonial presence without political initiative.** — Incorrect. Her behaviour after the first failed armed response is important precisely because it was tactical and political.
+- **B. initial military resistance followed by strategic entry into the captive camp and political manoeuvre.** — Correct. She first tried force, then changed method and worked from within the captive situation to weaken Mahabat's support.
+- **C. complete disappearance from events after 1622.** — Incorrect. The later reign makes her more, not less, visible in crisis politics.
+- **D. proof that she had already become emperor in law.** — Incorrect. Political effectiveness in a coup does not amount to constitutional enthronement.
 
-- A. resource/jagir concerns
-- B. succession anxiety
-- C. one personal reason detached from command, resources and succession
-- D. court competition
+**Examiner trap:** Effective crisis manoeuvre was exaggerated into formal sovereign replacement.
 
-**Answer: C.** A multi-causal political crisis cannot be reduced to a single person or grievance.
+#### Answer & reasoning — Workbook MCQ 27
 
-#### Q68. Mahabat's coup did not prove
+**Correct answer:** C
 
-- A. that the emperor's body had political value
-- B. that wider institutions mattered
-- C. that noble networks could be coercive
-- D. that the empire ceased to exist in 1626
+**Option-wise explanations:**
+- **A. He dismantled Akbar's composite nobility and ruled only through one clan.** — Incorrect. Household influence increased, but the wider composite nobility was not dismantled into a single-clan order.
+- **B. Rajputs vanished from high service after 1605.** — Incorrect. Rajput participation remained important beyond the Kachhwahas as well.
+- **C. He broadly retained composite nobility, including Rajputs, Afghans and early Maratha sardars within the mansab-jagir order.** — Correct. Continuity of composite elite structure is one of the basic owner's most important corrective points.
+- **D. The mansab-jagir framework ended when Nur Jahan gained influence.** — Incorrect. The institutional framework survived; Topic 21 deals with later modifications under Shah Jahan.
 
-**Answer: D.** Its reversal demonstrates the state was more than physical custody of its monarch.
+**Examiner trap:** Court access politics were mistaken for the disappearance of the wider composite nobility.
 
-#### Q69. Jahangir was neither simply tolerant nor simply bigoted because
+#### Answer & reasoning — Workbook MCQ 28
 
-- A. broad continuity coexisted with contextual coercive episodes
-- B. politics never shaped coercion
-- C. jizyah was restored
-- D. all religious policy was uniform
+**Correct answer:** D
 
-**Answer: A.** The binary fails to handle both composite governance and specific coercion in their political contexts.
+**Option-wise explanations:**
+- **A. a simple restoration of jizya and uniform exclusion.** — Incorrect. Jahangir did not restore jizya and cannot be reduced to a uniform exclusionary policy.
+- **B. perfect tolerance untouched by any coercive act.** — Incorrect. Guru Arjan, Mewar/Kangra coercion and other episodes make a spotless-tolerance portrait indefensible.
+- **C. chaotic irreligion with no recognisable policy patterns.** — Incorrect. There were patterns of rule and symbolic action even though they were not ideologically uniform.
+- **D. broad continuity with Akbar's accommodation, complicated by specific coercive and symbolic assertions of Islamic kingship.** — Correct. This answer preserves the composite framework and the real coercive exceptions in one sentence.
 
-#### Q70. A memoir is not transparent fact because
+**Examiner trap:** One vivid episode was allowed to swallow the broader pattern, or the broader pattern was used to erase the episode.
 
-- A. it is always false
-- B. genre, self-fashioning and silence shape what it can prove
-- C. it cannot be compared
-- D. it has no chronology value
+#### Answer & reasoning — Workbook MCQ 29
 
-**Answer: B.** Source criticism limits and preserves use; wholesale disbelief is no better than uncritical acceptance.
+**Correct answer:** A
 
-### Semantic-completeness coverage drills — Medieval Topic 20
+**Option-wise explanations:**
+- **A. He helps show Jahangir's engagement with non-Muslim intellectual and spiritual figures.** — Correct. Jadrup is a concise named example for Jahangir's interest in interaction beyond narrowly sectarian limits.
+- **B. He commanded the English fleet at Swally.** — Incorrect. Swally concerns English and Portuguese maritime conflict, not Jadrup.
+- **C. He designed the Itimad-ud-Daulah tomb.** — Incorrect. The tomb is linked to Nur Jahan's family patronage, not to Jadrup's design role.
+- **D. He led the Mahabat Khan coup.** — Incorrect. Jadrup was a Vedantic interlocutor, not a military actor in 1626.
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Frame the reign. | inherited institutions -> consolidation -> succession/frontier stress | decline from 1605 |
-| B | Decode accession. | Allahabad/coinage/Abu'l Fazl -> 1605 noble recognition | automatic primogeniture |
-| C | Test justice claims. | twelve orders/chain -> proclamation/transmission/implementation | modern judiciary |
-| D | Explain Khusrau. | 1606 route/support/Bhairowal -> exemplary punishment | communal war |
-| E | Evaluate Guru Arjan evidence. | Tuzuk + Sikh/Jesuit traditions -> political/religious/fiscal layers | one certain motive |
-| F | Explain Mewar durability. | pressure -> suzerainty -> Rana exemption -> Karan service | annexation or equality |
-| G | Map Bengal/Kangra. | Islam Khan/Dacca/Barah-Bhuiyan + Kangra 1620 | total Assam/Himalaya control |
-| H | Bound English access. | Hawkins/Swally/Roe/1618 facilities -> Mughal hierarchy | territory or inevitability |
-| I | Prove Nur Jahan's power. | household + farman + coin + patronage -> formal authority | sovereign replacement |
-| J | Critique the junta. | Beni Prasad -> promotions/alliance critique -> 1611-21/post-1622 | deny family power |
-| K | Explain Khurram. | succession + Qandahar + jagir/resources + Shahryar -> 1622-25 | Nur Jahan alone |
-| L | Explain Mahabat and sources. | Jhelum custody -> no state apparatus; Tuzuk/source matrix | capture equals control |
+**Examiner trap:** A small but high-yield name for religious accommodation was lost because students remembered only the coercive episodes.
 
-**PYQ status:** zero direct verified Topic-20 CSE Prelims/GS-I routes for
-2018-2026. Broad Mughal culture and later Sikh demands retain their true
-owners. Mains has no objective key; original drills are not PYQs.
+#### Answer & reasoning — Workbook MCQ 30
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. He led the Mughal siege of Kangra.** — Incorrect. Kangra was a military and political success, not an artistic campaign under Ustad Mansur.
+- **B. He stands for Jahangir's courtly naturalism and precise visual observation of flora and fauna.** — Correct. Mansur is the most portable named example for Jahangir's connoisseurship and natural-history culture.
+- **C. He authored the *Iqbalnama*.** — Incorrect. The *Iqbalnama* is associated with Mutamad Khan, not with the imperial painter Mansur.
+- **D. He negotiated the 1615 Mewar compact.** — Incorrect. Mewar's settlement was political-military, not an artistic negotiation by Mansur.
+
+**Examiner trap:** Cultural evidence was left out, making Jahangir appear only as a faction-ridden ruler.
+
+#### Answer & reasoning — Workbook MCQ 31
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. assuming the memoir is valueless because later hands existed.** — Incorrect. Later continuation does not destroy the source; it changes the way the source has to be handled.
+- **B. assuming later hands and authorship layers do not matter at all.** — Incorrect. Authorship layers matter precisely because the memoir is so central to the reign.
+- **C. ignoring questions of who wrote which portion and what that means for self-representation.** — Correct. Periodising authorship helps distinguish Jahangir's own voice from later continuation and therefore sharpens source criticism.
+- **D. using the text for chronology under any circumstances.** — Incorrect. The text remains highly useful for chronology and court language when used critically.
+
+**Examiner trap:** Source criticism was reduced to either total trust or total dismissal instead of authorship-aware use.
+
+#### Answer & reasoning — Workbook MCQ 32
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. The reign was only a romance chapter before Shah Jahan.** — Incorrect. The reign contains major questions of accession, frontier settlement, princely rebellion, court structure and source method that go far beyond romance.
+- **B. Nur Jahan's evidence proves the whole empire was permanently monopolised by one camp from 1611 onward.** — Incorrect. Family concentration and Nur Jahan's authority were real, but the evidence does not prove one permanent monopolistic camp.
+- **C. The empire had already entered terminal collapse in 1605.** — Incorrect. Mewar, Bengal, Kangra, composite nobility and cultural vitality all argue against terminal collapse from accession.
+- **D. Jahangir remained a governing emperor whose reign combined negotiated consolidation, exceptional female authority and later structural strain without proven institutional collapse.** — Correct. This verdict preserves the central strengths, the distinctive role of Nur Jahan and the undeniable later strains in one balanced formulation.
+
+**Examiner trap:** A vivid fragment of the reign was mistaken for the whole analytical verdict.
+
+#### Answer & reasoning — Workbook MCQ 33
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A.** Correct: the Allahabad power base overlaps the 1602 killing, and both precede accession and rebellion.
+- **B.** Khusrau's revolt did not precede the start of Salim's Allahabad phase.
+- **C.** A 1606 revolt could not precede the 1605 accession against which it arose.
+- **D.** Salim's pre-accession base and Abu'l Fazl's killing cannot be moved after accession.
+
+**Examiner trap:** A date *range* can contain a dated event: overlapping phases need not be sequential end to start.
+
+#### Answer & reasoning — Workbook MCQ 34
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A.** Lahore was kept closed, and its fort was not secured by the rebel.
+- **B.** Correct: the Lahore governor's refusal, Bhairowal defeat and attempted flight explain the corridor.
+- **C.** Islam Khan's 1608 Bengal governorship concerns a distinct eastern campaign.
+- **D.** Khusrau was defeated and captured; he did not succeed Jahangir.
+
+**Examiner trap:** Keep Punjab's route geography separate from later Bengal consolidation.
+
+#### Answer & reasoning — Workbook MCQ 35
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A.** The testimony does not establish a universally accepted judicial acquittal.
+- **B.** Jahangir's account includes political allegations and hostile religious framing.
+- **C.** Correct: common knowledge of the death does not eliminate disagreements about fine, coercion and execution.
+- **D.** Later militarisation cannot be compressed into one instantaneous 1606 event.
+
+**Examiner trap:** Respect the event while distinguishing incompatible descriptions of its mechanism.
+
+#### Answer & reasoning — Workbook MCQ 36
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A.** The Ahom attack failed; it was not an early victory.
+- **B.** Dacca became the provincial centre, and winning local chiefs was central.
+- **C.** Barah-Bhuiyan politics belong to Bengal, not Kangra.
+- **D.** Correct: several eastern gains and one failed Ahom attempt coexist.
+
+**Examiner trap:** “Eastern consolidation” is not synonymous with conquest of all Assam.
+
+#### Answer & reasoning — Workbook MCQ 37
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A.** Correct: the visit and imperial ritual took place in 1622, after surrender.
+- **B.** Bikramajit Baghela led the successful 1620 campaign.
+- **C.** Stationing officers followed the capture of the fort.
+- **D.** Chamba's submission belongs to the altered post-capture balance.
+
+**Examiner trap:** A later ceremonial visit is not the date of the fort's capture.
+
+#### Answer & reasoning — Workbook MCQ 38
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A.** Khurram's military achievements in both theatres are attested.
+- **B.** Correct: command performance, rank, title and resources give a broader causal account.
+- **C.** The 1611 marriage neither enthroned Khurram nor guaranteed his succession.
+- **D.** Shahryar's rise contributed to princely competition instead of ending it.
+
+**Examiner trap:** Household patronage does not erase a prince's own military and resource base.
+
+#### Answer & reasoning — Workbook MCQ 39
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A.** The two daughters and their marriage links have been swapped.
+- **B.** Ghiyas Beg was Nur Jahan's father; Asaf Khan was her brother.
+- **C.** Correct: these ties explain why the kin network could support competing heirs.
+- **D.** Asmat Begum was Nur Jahan's mother, not Shahryar's daughter.
+
+**Examiner trap:** Kinship names matter because family connections need not mean common politics.
+
+#### Answer & reasoning — Workbook MCQ 40
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A.** The contrasting local evidence rules out presuming uniform obedience.
+- **B.** No source establishes permanent empire-wide expulsion.
+- **C.** The recorded order itself defeats a categorical denial of coercion.
+- **D.** Correct: source comparison distinguishes proclamation from reach.
+
+**Examiner trap:** Neither selective toleration nor one hostile decree proves universal implementation.
+
+#### Answer & reasoning — Workbook MCQ 41
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A.** Correct: capture created short-term leverage; Nur Jahan's failed armed rescue preceded political reversal.
+- **B.** The coup was near the Jhelum, not Dacca; Khusrau had died in 1621.
+- **C.** Stable fiscal control is exactly what Mahabat lacked.
+- **D.** Mahabat's position collapsed within months, not a reign later.
+
+**Examiner trap:** Custody of a ruler is not durable mastery of the fiscal-noble state.
+
+#### Answer & reasoning — Workbook MCQ 42
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A.** A crafted image and praise do not document local enforcement.
+- **B.** Correct: compare the written rule with evidence for its application or limits on the ground.
+- **C.** Roe's commercial requests cannot prove implementation of Mughal religious policy.
+- **D.** A royal symbol does not supply locality-specific practice.
+
+**Examiner trap:** The textual, transmitted and implemented levels of an order require different evidence.
+
+#### Answer & reasoning — Workbook MCQ 43
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A.** Personal attendance was waived and direct provincial dispossession avoided.
+- **B.** Mughal suzerainty and Karan Singh's service were central.
+- **C.** Correct: unequal imperial service and preservation of Sisodia honour together produced accommodation.
+- **D.** The settlement restricted fortification, and it was not a treaty of equals.
+
+**Examiner trap:** Honour-sensitive terms do not mean the parties were sovereign equals.
+
+#### Answer & reasoning — Workbook MCQ 44
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A.** Asaf Khan backed Khurram; Nur Jahan withdrew after Jahangir's death.
+- **B.** Promotion evidence and shifting alliances undermine the permanent-bloc assumption.
+- **C.** Ghiyas Beg had died before this transition and was not a princely claimant.
+- **D.** Correct: brother and sister did not have identical succession stakes in 1627.
+
+**Examiner trap:** A kin network can wield real power yet divide over who inherits the throne.
 
 ## PYQS AND ANSWER PRACTICE
 
-### PART IX - PYQ AUDIT, LEARNING LOOP AND EXAM PRACTICE
+### Part II — Verified direct and routed PYQs
 
-### Verified PYQ audit and route transparency
+Local 2018-2026 ledger and OCR verification returned **no direct or adjacent Topic 20 PYQ** that could be retained honestly without creating owner overlap or fabricated wording. The workbook therefore records the verified absence and keeps the solved section transparent.
 
-The local official/OCR papers and routing material covering 2018-2026 were searched for direct CSE Prelims and GS-I items on Jahangir, Nur Jahan, Khusrau, Guru Arjan, the Mewar settlement, Thomas Roe/Hawkins, Mahabat Khan, the chain of justice, the Tuzuk, and Itimad-ud-Daulah. No direct verified item was located. Broad questions on Mughal painting, architecture, economy or later Sikh history are not silently reassigned to this topic. Therefore there is no fabricated 'exact PYQ' or unofficial key in this package. The practice below is original and clearly labelled.
+### Part III — Six original mains models (locked count)
 
-### PART X - EXAMINER-GRADE MAINS PRACTICE WITH SOLUTIONS
+#### Original Mains 1 — 10 marks (150 words)
 
-The ten original models are deliberately distributed across 10, 15 and 20 marks. Each uses directive fidelity and the pattern claim -> named evidence -> analysis -> qualification -> verdict.
+**Question:** Why should Jahangir's accession be described as a political settlement rather than a routine hereditary transfer?
 
-#### Mains 1. Continuity and consolidation - 10 marks
+**Model answer:** Jahangir's accession in 1605 was dynastic, but not merely automatic. Prince Salim had already damaged trust through his Allahabad autonomy, coinage and association with Abu'l Fazl's killing. Hence succession needed noble recognition, redistribution of offices and a public language of justice before it could look settled.
 
-**Question:** Assess the proposition that Jahangir's reign was more a phase of consolidation than of decline. Answer in 150 words.
+The *Jahangirnama*'s early regulations and the chain of justice are important in this context. They projected a ruler who was accessible, corrective and morally purposeful. That image helped convert contested princely succession into acceptable kingship. At the same time, Jahangir did not destroy Akbar's wider elite structure. He kept the revenue-military machine and much of the composite nobility functioning.
 
-**Model solution**
+Therefore, accession was best understood as a bargain: dynastic claim plus elite recognition plus public justice language. It was more than routine inheritance, but less than a free election by nobles.
 
+**Demand decoding:** “Why should … be described” asks for reasons supporting a specific interpretation, not a general biography of Salim or a later-reign narrative.
 
-**Directive and thesis.** 'Assess' requires a qualified balance. Jahangir inherited Akbar's composite ruling class and did not dismantle the institutional frame; his reign is therefore better read as consolidation under pressure than automatic decline.
+**Executable answer/elimination plan:** Open with the dynastic-but-not-automatic contrast; use Allahabad and Abu'l Fazl as evidence of damaged trust; add orders and chain of justice as public legitimation; close with the accession bargain formula.
 
-**Claim -> evidence -> analysis.** The 1615 Mewar settlement is decisive evidence. Rana Amar Singh accepted Mughal suzerainty, while exemption from personal attendance and the reception of Karan Singh protected Sisodia honour. This converted a chronic Rajput frontier into a more workable unequal accommodation, showing that imperial authority could use status rather than annexation. The capture of Kangra in 1620 similarly demonstrated strategic and symbolic capacity. The continuity of composite nobility and absence of jizyah restoration reinforce an inherited governing framework.
+**Why this earns marks / route earns marks:** This answer earns marks because it turns “accession” into an explanatory process by naming Allahabad, Abu'l Fazl, noble recognition and justice language rather than offering a bare date.
 
-**Qualification.** Consolidation was uneven. Malik Ambar limited Mughal Deccan aims; Qandahar fell to the Safavids in 1622; Khurram's rebellion and Mahabat Khan's 1626 coup exposed succession and court vulnerabilities. These are not minor incidents, but they do not prove that Jahangir abdicated or that institutions vanished.
+**How to improve/strengthen:** A stronger version could name one trusted associate promoted at accession, such as Shaikh Farid Bukhari, to make the noble-settlement point even sharper.
 
-**Verdict.** The reign consolidated key relationships and territories while revealing the costs of incomplete frontiers and personalised succession politics.
+#### Original Mains 2 — 10 marks (150 words)
 
+**Question:** How should the 1615 Mewar settlement be used to explain Mughal consolidation under Jahangir?
 
-**Why this earns marks:** It directly weighs the proposition, uses Mewar, Kangra, policy continuity and counter-evidence, and concludes with a graded rather than celebratory verdict.
+**Model answer:** The 1615 Mewar settlement is one of the clearest examples of Mughal consolidation through unequal accommodation. Jahangir and Prince Khurram applied enough pressure to make resistance costly, but the final terms allowed Sisodia honour to survive publicly. Rana Amar Singh was not compelled to attend court in person, while Karan Singh was received with honour and service.
 
+This matters because Mughal power did not always seek annexation. By preserving the ruling house yet securing suzerainty, the empire turned a chronic frontier into a more manageable political relationship. The arrangement therefore demonstrates that conciliation could be a technology of consolidation when outright humiliation might have kept resistance alive.
 
-![Visual 3: Continuity versus decline: the right frame](assets/02_02_continuity_decline_frame.png)
+However, the settlement should not be romanticised as equality. Mewar accepted Mughal superiority. Its significance lies in the combination of hierarchy and honour, not in either one alone.
 
-*Visual 3: Continuity versus decline: the right frame. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
+**Demand decoding:** The directive asks how the settlement explains consolidation, so the answer must connect terms to political effect rather than list them mechanically.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the proposition that Jahangir's reign was more a phase of consolidation than of…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/elimination plan:** Define the settlement as unequal accommodation; insert Amar Singh/Karan Singh evidence; explain why honour made submission durable; conclude by rejecting both equality and annexation.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Why this earns marks / route earns marks:** This answer earns marks because it explains the mechanism of consolidation through named terms — Rana Amar Singh, Karan Singh, suzerainty and honour — instead of narrating Mewar as a generic Rajput story.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve/strengthen:** You could add Jahangir's Ajmer position and Khurram's military role in one compact clause to make the coercive backdrop more visible.
 
-**How to improve this answer:** For “Assess the proposition that Jahangir's reign was more a phase of consolidation than of…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+#### Original Mains 3 — 15 marks (250 words)
 
-#### Mains 2. Khusrau and Guru Arjan - 15 marks
+**Question:** “The Guru Arjan episode of 1606 must be read through political suspicion and source conflict rather than communal shorthand.” Discuss.
 
-**Question:** Discuss the political and religious dimensions of the 1606 Khusrau revolt and Guru Arjan's execution. Answer in 200 words.
+**Model answer:** The Guru Arjan episode of 1606 cannot be handled responsibly through a single slogan. It emerged immediately after Khusrau's revolt, when the new emperor was acutely suspicious of any support network around a rival prince. Jahangir's own memoir represents Guru Arjan as a revered leader with a wide following and accuses him of assisting or blessing Khusrau. That political context is indispensable.
 
-**Model solution**
+At the same time, Jahangir's language is not politically neutral. The memoir contains a sharper religious register than a purely administrative note would require. Sikh traditions and other testimony preserve the memory of martyrdom, coercion and punitive intent in forms that cannot be waved away. Satish Chandra also notes disagreement over whether the decisive action was direct execution or a crushing fine whose enforcement caused death.
 
+Therefore, the event must be read through layered evidence: princely rebellion, imperial suspicion, punitive action and the making of Sikh historical memory. Such a reading avoids two errors. The first is to reduce the episode to neutral statecraft with no religious edge. The second is to remove it entirely from the 1606 crisis and recast it as a timeless communal conflict.
 
-**Directive and thesis.** The question asks for dimensions, not a single cause. The two events were connected by an early succession crisis, but their relationship must be reconstructed through unequal sources.
+The historical significance is large because the episode became a turning point in Mughal-Sikh relations. Yet that larger trajectory belongs to a longer chronology reaching beyond Jahangir's immediate political crisis.
 
-**Political dimension.** Khusrau's movement toward the Punjab-Lahore field challenged a newly installed emperor and could attract nobles and local support. Jahangir's suppression was therefore a performance of dynastic authority. The revolt confirms that accession did not mechanically settle elite loyalty.
+**Demand decoding:** “Discuss” here requires weighing the sufficiency of political suspicion and source conflict against simpler communal or administrative labels.
 
-**Evidence and religious dimension.** Jahangirnama represents Guru Arjan as a religious figure with followers who had, in the emperor's account, marked or assisted Khusrau; it records an imperial decision to punish him. This is strong evidence for imperial suspicion and rulerly justification. Sikh traditions are equally essential for the community's memory of martyrdom. Political challenge, religious suspicion and fiscal/confiscatory language can all be relevant; none authorises a monocausal verdict.
+**Executable answer/elimination plan:** Open with the anti-shorthand thesis; one paragraph on Khusrau and Jahangir's accusation; one on Sikh memory and source disagreement; one on why layered causation is superior; close with the turning-point qualification.
 
-**Qualification.** The execution became a turning point in Mughal-Sikh relations, but it did not instantly create the later fully militarised Sikh conflict. That later development needs a separate chronology.
+**Why this earns marks / route earns marks:** This answer earns marks because it names Khusrau, Jahangir's memoir, Sikh memory and the fine-versus-execution debate, then explains why each evidentiary strand matters to interpretation.
 
-**Verdict.** 1606 shows how a dynastic emergency could make religious authority politically legible to the court, while source criticism prevents communal reductionism.
+**How to improve/strengthen:** A sharper version could add one explicit line that later militarisation under Guru Hargobind should not be projected backward unchanged into 1606.
 
+#### Original Mains 4 — 15 marks (250 words)
 
-**Why this earns marks:** It answers both dimensions, names Jahangirnama and Sikh traditions, distinguishes source reach, and avoids importing later Sikh history into 1606.
+**Question:** Assess Nur Jahan's authority as a documented political power within the Mughal court.
 
+**Model answer:** Nur Jahan should be treated as a documented political actor of exceptional importance in Jahangir's reign. She was not merely a romantic figure or a decorative consort. After her 1611 marriage to Jahangir, she occupied a position in which household command, petitionary access, patronage and kinship could all acquire political weight.
 
-![Visual 10: Guru Arjan: source reach matrix](assets/09_09_guru_arjan_source_matrix.png)
+The strongest evidence is formal. Farmans issued in her name and coin legends associated with Badshah Begum language give her authority an unusually public and material visibility. Such evidence is stronger than court gossip because it links her directly to documentary and symbolic forms of sovereignty. Her father Itimad-ud-Daulah and brother Asaf Khan also occupied major positions, while the Itimad-ud-Daulah tomb preserves the patronage side of her influence in durable material form.
 
-*Visual 10: Guru Arjan: source reach matrix. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
+Yet her power should not be overstated into a fiction that she ruled the empire alone. Jahangir remained emperor, promotions were not all monopolised by a single bloc, and Mughal politics still depended on a wider noble field. The later intensification of her role after 1622 is especially important: Qandahar, Jahangir's health, Khurram's rebellion and Mahabat Khan's challenge made her intervention more overt.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the political and religious dimensions of the 1606 Khusrau revolt and Guru Arjan's…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+Thus Nur Jahan's authority was real, exceptional and documentable, but it operated within Jahangirian sovereignty and a patriarchal imperial order rather than outside them.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Demand decoding:** “Assess” requires a measured judgement: neither denial of power nor exaggerated sovereign replacement is enough.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable answer/elimination plan:** Define Nur Jahan as a documented actor; use farmans/coins first, then family and patronage evidence; periodise the stronger post-1622 phase; conclude with bounded but exceptional authority.
 
-**How to improve this answer:** For “Discuss the political and religious dimensions of the 1606 Khusrau revolt and Guru Arjan's…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Why this earns marks / route earns marks:** This answer earns marks because it grounds authority in farmans, coin legends, kinship offices and patronage, then explicitly qualifies the temptation to convert those facts into a total-rule claim.
 
-#### Mains 3. Mewar settlement - 10 marks
+**How to improve/strengthen:** Add one concise gender sentence — exceptional female authority inside a patriarchal court — if space permits, because it sharpens the interpretive frame without drifting into theory-heavy prose.
 
-**Question:** Why was the Mewar settlement of 1615 politically durable? Answer in 150 words.
+#### Original Mains 5 — 20 marks (250 words)
 
-**Model solution**
+**Question:** Examine the causes and significance of Khurram's rebellion during Jahangir's reign.
 
+**Model answer:** Khurram's rebellion was not an impulsive act by an offended prince; it was a major succession crisis produced by military success, resource politics and the unstable conjunction created after 1622. By the early 1620s Khurram had become the strongest princely contender. His Mewar and Deccan record, high mansab, title “Shah Jahan,” and control advantages such as Hisar-Firuza all strengthened his claim.
 
-**Thesis.** The 1615 settlement endured because it combined Mughal superiority with a carefully designed protection of Sisodia honour; it was neither equality nor simple annexation.
+The immediate turning point was the Safavid capture of Qandahar in 1622. Khurram feared that commanding a difficult frontier campaign away from court might expose him to rivals. Hence he sought guarantees over command, family security, troops and jagirs. These anxieties sharpened further because Shahryar's position rose through his connection with Ladli Begum, making succession appear less predictable.
 
-**Evidence -> analysis.** Jahangir intensified pressure through the 1613-15 campaign under Prince Khurram after prior efforts had not produced a settlement. Rana Amar Singh accepted Mughal suzerainty, demonstrating an unequal imperial outcome. Yet the Rana was excused personal attendance at court, while Karan Singh was received and honoured in imperial service. These provisions allowed Mewar to enter the Mughal political order without a ritual of personal humiliation. The restriction associated with rebuilding Chittor's fortifications preserved the imperial memory of victory, showing that conciliation did not remove asymmetry.
+The rebellion then moved through defeat, regrouping and shifting theatres, including eastern India and the Deccan, before eventual submission. This sequence shows that Mughal princes commanded serious military and regional resources of their own. The crisis distracted the empire for years, weakened coordination over Qandahar and enabled Deccani recovery.
 
-**Qualification.** Military exhaustion and difficult hill warfare made accommodation rational; generosity alone did not produce it. Nor did Mewar become a simple province: the continued Rana house and internal autonomy qualify the language of conquest.
+Its significance lies in what it reveals about the Mughal polity. Under Jahangir, imperial structure remained strong enough to defeat and reintegrate a rebel prince, but succession remained perilously tied to access, command and resource bargaining. Khurram's revolt therefore illuminates the political economy of dynastic monarchy more clearly than any one-cause personal explanation can.
 
-**Verdict.** Durability came from a credible balance - force established leverage, while status-sensitive terms made recognition sustainable.
+**Demand decoding:** “Examine causes and significance” requires both the trigger-matrix and the larger implications for Mughal political structure.
 
+**Executable answer/elimination plan:** Use one opening sentence on Khurram's strength; one body block on 1622 command/resource anxieties; one on campaign course and submission; one on significance for succession and imperial capacity; conclude with the dynastic-monarchy verdict.
 
-**Why this earns marks:** It explains mechanism rather than narrating terms, gives three named provisions, and distinguishes suzerainty from both independence and annexation.
+**Why this earns marks / route earns marks:** This answer earns marks because it links princely prestige, Qandahar, jagirs, Shahryar and the later imperial distraction into one coherent causal and analytical chain.
 
+**How to improve/strengthen:** A stronger version could add Bilochpur and the hostage dispatch of Dara and Aurangzeb as named evidence to sharpen the rebellion's sequence.
 
-![Visual 13: 1615 Mewar accommodation](assets/12_12_mewar_settlement_terms.png)
+#### Original Mains 6 — 20 marks (250 words)
 
-*Visual 13: 1615 Mewar accommodation. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
+**Question:** Did factional politics overwhelm Mughal sovereignty in the later Jahangir period? Discuss with reference to Nur Jahan, Mahabat Khan and the source problem.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why was the Mewar settlement of 1615 politically durable? Answer in 150 words.”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Model answer:** Factional politics became sharper in Jahangir's later years, but they did not wholly overwhelm Mughal sovereignty. The most careful reading begins by rejecting two simplifications: that Nur Jahan exercised no serious political power, and that she replaced Jahangir as sole ruler. Evidence such as farmans, coin legends and post-1622 crisis action proves her exceptional authority, especially once Jahangir's health declined and succession rivalries intensified.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+Yet later court politics were not reducible to a single permanent camp. The fixed “Nur Jahan junta” thesis associated with Beni Prasad has been qualified by historians such as Nurul Hasan and Satish Chandra, who show that promotions and alignments remained wider and more fluid. Real family concentration existed, but the whole nobility was not frozen into two blocks.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+Mahabat Khan's coup of 1626 then reveals the limits of both faction and imperial personhood. By seizing Jahangir near the Jhelum, Mahabat demonstrated how much immediate power flowed from custody of the emperor's body. But he could not convert that seizure into durable control over treasury, administration and the wider nobility. Nur Jahan's manoeuvres helped reverse the situation, showing her political capability without proving sovereign replacement.
 
-**How to improve this answer:** For “Why was the Mewar settlement of 1615 politically durable? Answer in 150 words.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+The source problem is central. The *Jahangirnama*, later chronicles, European observers, coins and farmans all illuminate the reign, but each reflects its own genre and angle. Therefore the strongest conclusion is graded: factional politics deeply strained the later reign, yet Mughal sovereignty remained operative enough to outlast both rebellion and coup.
 
-#### Mains 4. European diplomacy - 15 marks
+**Demand decoding:** The question asks “Did factional politics overwhelm … ?” so the answer must weigh the extent of strain and stop short of an all-or-nothing conclusion.
 
-**Question:** Evaluate the significance of Hawkins and Roe for Mughal-English commercial relations. Answer in 200 words.
+**Executable answer/elimination plan:** Define the problem through Nur Jahan first; test the junta thesis; use Mahabat as the structural case-study; insert one sentence on source limits; conclude with strain without collapse.
 
-**Model solution**
+**Why this earns marks / route earns marks:** This answer earns marks because it connects historiography, documentary evidence and the Mahabat episode to a single verdict about the resilience and strain of Jahangirian sovereignty.
 
-
-**Thesis.** Hawkins and Roe were significant as early experiments in access and protocol, not as founders of English territorial rule. They reveal a Company operating within Mughal sovereignty and a maritime field shaped by Portuguese competition.
-
-**Hawkins.** As an English Company representative, Hawkins sought a viable trading position in the Surat world. His court experience demonstrates that personal access, gifts and Portuguese maritime pressure could affect petitions. It does not show that England had become a Mughal ally or that Surat was English-controlled.
-
-**Roe.** James I's ambassador, Roe stayed from 1615 to 1619 and sought facilities, protection and status. His journal records audience, gift and rank problems, thus revealing diplomatic culture as well as commercial ambition. The 1618 farman and related permissions are best described as limited trade facilities on Mughal terms. They did not convey territory, an empire-wide monopoly or sovereign jurisdiction.
-
-**Source qualification.** Roe's frustration and factory records privilege a merchant-diplomatic viewpoint; farmans and local practice are required to check scope. Swally's naval context affected bargaining but did not reverse Mughal hierarchy.
-
-**Verdict.** Immediate importance was commercial and contingent; retrospective importance became greater only in a later political world.
-
-
-**Why this earns marks:** It uses both envoys, farman scope, maritime context and source criticism, while directly rejecting teleology.
-
-
-![Visual 24: 1618 farman: scope versus myth](assets/23_23_farman_scope_myth.png)
-
-*Visual 24: 1618 farman: scope versus myth. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the significance of Hawkins and Roe for Mughal-English commercial relations.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Evaluate the significance of Hawkins and Roe for Mughal-English commercial relations.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 5. Nur Jahan's authority - 20 marks
-
-**Question:** Examine Nur Jahan's political authority without reducing it either to personal rule or ceremonial influence. Answer in 250 words.
-
-**Model solution**
-
-
-**Thesis.** Nur Jahan exercised exceptional, partly formalised authority through household access, patronage, kinship and documentary visibility. This was more than ceremonial influence, but it did not replace Jahangir as sovereign.
-
-**Channels of power.** Her 1611 marriage placed her within the imperial household where access to the emperor, petitions and patronage could shape political outcomes. Her father Ghiyas Beg/Itimad-ud-Daulah and brother Asaf Khan were significant elite connections; Asaf Khan's daughter Arjumand Banu married Khurram. Such links made the household politically consequential, though they did not create a permanent automatic bloc.
-
-**Public evidence.** Surviving farmans in Nur Jahan's name and coins carrying a linked authority formula are crucial. A farman demonstrates formal action in a particular named context; coinage demonstrates public representation and circulation. Together they make female authority materially visible beyond anecdote. The Itimad-ud-Daulah tomb, built for her father, further anchors patronage in durable architecture.
-
-**Qualification.** Documents and coins cannot quantify every appointment or prove that Jahangir was an absentee. Jahangir continued to issue decisions, direct campaigns and sustain imperial persona. Gender analysis must also avoid generalisation: Nur Jahan's authority worked through a patriarchal household and did not establish political equality for women.
-
-**Verdict.** She was an exceptional power-holder whose influence became especially consequential in later crisis politics, not an empress-regnant governing a separate constitutional office.
-
-
-**Why this earns marks:** It has a clear middle thesis, names farmans, coins, kinship and architecture, explains what each proves, and places agency within institutional and gender limits.
-
-
-![Visual 29: Farmans and coins: strong but bounded evidence](assets/28_28_farman_coin_evidence.png)
-
-*Visual 29: Farmans and coins: strong but bounded evidence. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine Nur Jahan's political authority without reducing it either to personal rule or…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Examine Nur Jahan's political authority without reducing it either to personal rule or…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 6. Junta debate - 15 marks
-
-**Question:** Critically examine the 'Nur Jahan junta' interpretation of Jahangir's court. Answer in 200 words.
-
-**Model solution**
-
-
-**Thesis.** The junta interpretation captures the visible rise of Nur Jahan's family but fails when used as a fixed, all-explaining coalition from 1611 onward.
-
-**The claim.** Beni Prasad's model groups Nur Jahan, Itimad-ud-Daulah, Asaf Khan and Khurram. It directs attention to household patronage, promotions and marriage links - real mechanisms in a personal monarchy. It also prevents an implausible picture of the imperial harem as politically sealed off.
-
-**The critique.** Nurul Hasan's evidence-led objection, taken up by Satish Chandra, notes that promotions were distributed beyond the family and that contemporary proof of a stable Nur Jahan-Khurram bloc during 1611-20 is lacking. Office, service, regional affiliation, rivalry and shifting access produced multiple networks. Thus family advancement does not establish a permanent junta.
-
-**Periodisation.** A better model separates 1611-21 from the post-1622 crisis. After Itimad-ud-Daulah's death, Qandahar's loss, Jahangir's illness and Khurram's rebellion, succession politics sharpened and Nur Jahan's interventions became more visibly consequential. This is active politics, but not evidence that the same four persons had monopolised every earlier decision.
-
-**Verdict.** Replace a static junta with shifting factional networks around a sovereign whose household was politically important but not institutionally sovereign.
-
-
-**Why this earns marks:** It presents Beni Prasad fairly, uses Nurul Hasan/Satish Chandra as a specific critique, periodises the evidence, and retains rather than erases Nur Jahan's influence.
-
-
-![Visual 34: Nurul Hasan / Satish Chandra critique](assets/33_33_junta_critique.png)
-
-*Visual 34: Nurul Hasan / Satish Chandra critique. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the 'Nur Jahan junta' interpretation of Jahangir's court. Answer in 200…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Critically examine the 'Nur Jahan junta' interpretation of Jahangir's court. Answer in 200…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 7. Khurram's rebellion - 20 marks
-
-**Question:** Analyse the causes and consequences of Khurram's rebellion of 1622-25. Answer in 250 words.
-
-**Model solution**
-
-
-**Thesis.** Khurram's rebellion arose from a convergence of succession anxiety, frontier command, resources and court alignment; its consequence was to sharpen a latent dynastic problem and weaken coordination without ending Mughal capacity.
-
-**Causes.** Khurram's earlier Mewar and Deccan service had given him military stature and the title Shah Jahan, making succession expectations politically weighty. The Safavid seizure of Qandahar in 1622 created a command crisis: the question of marching, obedience and risk could not be detached from his fear that absence would weaken his position at court. Jagir and resource issues mattered because rank financed service and armed followings. The rise of Shahryar, strengthened by marriage to Ladli Begum, and Nur Jahan's perceived alignment with him made access to the emperor a succession issue.
-
-**Analysis.** No single factor is enough. A one-cause claim that Nur Jahan 'drove out' Khurram ignores the emperor's authority, the Qandahar emergency and material bargaining; an account of resources alone ignores kinship and dynastic legitimacy.
-
-**Consequences.** Campaigning against a prince diverted men and resources from frontier coordination. It intensified noble realignment and made succession alternatives more explicit. Yet imperial forces operated, negotiations remained possible and Jahangir's state did not disappear.
-
-**Verdict.** The rebellion exposed the costs of a personalised monarchy with several credible princes; it is a bridge to, not a substitute for, Topic 21's succession outcome.
-
-
-**Why this earns marks:** It analyses causation across four linked dimensions, attaches named evidence to each, and separates immediate strain from the later accession narrative.
-
-
-![Visual 39: Khurram rebellion, 1622-1625: converging causes](assets/38_38_khurram_rebellion_causes.png)
-
-*Visual 39: Khurram rebellion, 1622-1625: converging causes. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the causes and consequences of Khurram's rebellion of 1622-25. Answer in 250 words.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Analyse the causes and consequences of Khurram's rebellion of 1622-25. Answer in 250 words.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 8. Mahabat Khan - 10 marks
-
-**Question:** Why did Mahabat Khan's 1626 coup achieve immediate success but fail to create durable power? Answer in 150 words.
-
-**Model solution**
-
-
-**Thesis.** Mahabat Khan succeeded tactically because he captured the emperor at a vulnerable moment; he failed strategically because imperial power was wider than the emperor's physical custody.
-
-**Immediate success.** During the Jhelum crossing, movement and surprise created an opening. Mahabat Khan's service network, including a Rajput contingent, enabled the seizure of Jahangir. In a ruler-centred monarchy, possession of the sovereign's person gave access to orders, audiences and the language of legitimacy.
-
-**Why it failed.** The same act did not secure treasury, bureaucracy, wide noble acceptance or an alternative source of legitimacy. Accounts differ over the sequence of Nur Jahan's resistance and captivity, but they support a broader point: she could manoeuvre within household and imperial networks to detach supporters. Mahabat's coercion lacked the administrative and social breadth required to convert a coup into rule.
-
-**Verdict.** The episode reveals a vulnerability of embodied sovereignty, yet its reversal proves that Mughal government was not reducible to a single armed seizure.
-
-
-**Why this earns marks:** It directly answers the contrast, names Jhelum, Rajput support and Nur Jahan's manoeuvre, and explains the institutional gap rather than merely retelling the coup.
-
-
-![Visual 44: Nur Jahan's recovery strategy](assets/43_43_nur_jahan_recovery.png)
-
-*Visual 44: Nur Jahan's recovery strategy. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did Mahabat Khan's 1626 coup achieve immediate success but fail to create durable…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Why did Mahabat Khan's 1626 coup achieve immediate success but fail to create durable…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 9. Jahangir as ruler - 15 marks
-
-**Question:** Assess Jahangir as a ruler in the light of his personal reputation and political record. Answer in 200 words.
-
-**Model solution**
-
-
-**Thesis.** Jahangir's personal habits and illness shaped access to him, but the political record prevents a weak-ruler caricature. He governed through inherited institutions, public justice claims, campaigns and negotiated settlements.
-
-**Record.** The Jahangirnama's twelve orders and chain of justice project a ruler attentive to rectitude and accessibility. They are evidence of political self-fashioning, not proof of universal justice. The 1615 Mewar settlement and 1620 Kangra capture show real capacity for consolidation. Composite nobility continued and jizyah was not restored, indicating broad institutional and religious-policy continuity with Akbar.
-
-**Personal reputation and culture.** The memoir's natural-history observations and painting connoisseurship show an unusually observing courtly persona. Alcohol, opium and later health problems are historically relevant because they made access and household politics more consequential. They do not establish permanent abdication: Jahangir continued to rule and Nur Jahan's influence was exceptional rather than a substitute monarchy.
-
-**Qualification.** Qandahar's loss, Deccan limits, Khurram's rebellion and Mahabat's coup are substantial failures or stresses. They demonstrate that consolidation was incomplete.
-
-**Verdict.** Jahangir was a capable but constrained ruler whose record is best understood as continuity under escalating pressures, not as either golden calm or helpless decline.
-
-
-**Why this earns marks:** It balances persona, sources, achievements and setbacks, and turns personal habits into a political-access argument instead of a moral judgement.
-
-
-![Visual 47: Religion: broad framework, coercive episodes](assets/46_46_tolerance_coercion_matrix.png)
-
-*Visual 47: Religion: broad framework, coercive episodes. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess Jahangir as a ruler in the light of his personal reputation and political record.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess Jahangir as a ruler in the light of his personal reputation and political record.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 10. Sources and overall verdict - 20 marks
-
-**Question:** How should historians use the Jahangirnama, court chronicles, material evidence and European accounts to assess Jahangir's reign? Answer in 250 words.
-
-**Model solution**
-
-
-**Thesis.** A sound assessment emerges from a source-reach matrix, not from selecting one flattering or hostile narrative. Each source proves a different kind of claim.
-
-**Jahangirnama.** The memoir is central for chronology, the emperor's account of Guru Arjan, the chain of justice, early orders and natural observation. It gives access to rulerly self-fashioning and reported decisions. Its limitations are equally productive: a royal claim to accessible justice is not a complaint register, and later continuation/editorial transmission means that authorship and edition must be identified.
-
-**Court and material sources.** Mutamad Khan's Iqbalnama and other Persian chronicles can check sequence and provide alternative court narratives, but patronage and retrospective rhetoric matter. Nur Jahan's farmans and coins are strong evidence for formal public authority; they cannot prove total control. The Itimad-ud-Daulah tomb is durable evidence of family patronage and architectural change, not proof of a permanent junta. Paintings illuminate hierarchy and ideology, not camera-like events.
-
-**European and community sources.** Roe, Hawkins and factory records show commercial negotiations, rank problems and merchant priorities. Their commercial lens cannot stand for the whole empire. Sikh traditions are indispensable to the memory and meaning of Guru Arjan's execution, while requiring chronological and genre awareness.
-
-**Verdict.** Triangulation supports a graded conclusion: Jahangir's reign combined genuine consolidation with stressed frontiers and shifting court networks. It rejects the weak-ruler, total-Nur-Jahan-rule and fixed-junta shortcuts without erasing coercion or female agency.
-
-
-**Why this earns marks:** It defines what each source can and cannot prove, uses concrete examples, and turns method into a substantive balanced verdict.
-
-
-![Visual 52: Source reach matrix](assets/51_51_source_matrix.png)
-
-*Visual 52: Source reach matrix. Read it as a compact argument map; spatial diagrams marked schematic are not to scale.*
-
-**Demand decoding:** The directive **assess** requires a direct position on “How should historians use the Jahangirnama, court chronicles, material evidence and…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “How should historians use the Jahangirnama, court chronicles, material evidence and…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** If more space were available, add one line on composite nobility and the continued functioning of frontier policy to reinforce why sovereignty was strained rather than extinguished.

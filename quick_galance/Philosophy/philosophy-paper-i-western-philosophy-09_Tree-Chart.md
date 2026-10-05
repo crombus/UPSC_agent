@@ -6,7 +6,15 @@
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
 > **Syllabus, verbatim:** *Phenomenology (Husserl): Method; Theory of Essences; Avoidance of Psychologism.*
-> **Terminology and citation:** English concept first, source term immediately after in parentheses — *natural attitude (natürliche Einstellung)*, *general thesis (Generalthesis)*, *suspension (epoché)*, *bracketing (Einklammerung)*, *essence (Wesen, eidos)*, *intuition of essences (Wesensschau)*, *profile (Abschattung)*, *lived body (Leib)*, *appresentation (Appräsentation)*, *life-world (Lebenswelt)*. *Ideas I* is cited by **§ number**, stable across the Boyce Gibson (1931) and Kersten (1982) translations; the *Logical Investigations* are cited **by volume**. Several texts are posthumous in whole or in part, and the dates are examinable.
+> **Terminology and citation:** English concept first, source term immediately
+> after in parentheses—*natural attitude (natürliche Einstellung)*, *general
+> thesis (Generalthesis)*, *suspension (epoché)*, *bracketing (Einklammerung)*,
+> *essence (Wesen, eidos)*, *intuition of essences (Wesensschau)*, *profile
+> (Abschattung)*, *lived body (Leib)*, *appresentation (Appräsentation)*,
+> *life-world (Lebenswelt)*. *Ideas I* is cited by **§ number**, stable across
+> the Boyce Gibson (1931) and Kersten (1982) translations; the *Logical
+> Investigations* are cited **by volume**. Several texts are posthumous in whole
+> or in part, and the dates are examinable.
 
 ## Quick-Glance Tree Chart
 

@@ -6,1019 +6,1119 @@ topic_key: medieval-indian-history-14
 
 ## BASIC MCQS / REMEDIATION
 
-### PART I. Learning MCQ loops: 18 questions
+### Part I — 44 workbook MCQs (questions only)
 
-Correct-option audit: **ABCDABCDABCDABCDAB**.
+#### Workbook MCQ 1
 
-#### Q1. The safest description of Farid's early political formation is that he:
+**Question:** The safest description of Farid's early political formation is that he:
 
 - A. gained administrative exposure in his father's jagirs and parganas before rising in Bihar politics.
 - B. was born as the hereditary emperor of a settled Sur state.
-- C. entered India only after the Battle of Panipat II.
-- D. was appointed the first Mughal subedar of Bengal by Akbar.
+- C. entered India only after the Second Battle of Panipat.
+- D. was appointed Akbar's governor of Bengal.
 
-**Answer: A.**
-**Explanation:** Farid's experience in local assignments explains why revenue, local intermediaries and Bihar politics matter in his later rise. The closest distractor is B: it turns a mobile noble's career into hereditary imperial succession.
+#### Workbook MCQ 2
 
-#### Q2. Surajgarh is most useful in this topic because it marks:
+**Question:** Surajgarh is most useful in Topic 14 because it marks:
 
 - A. Humayun's restoration to Delhi in 1555.
 - B. the scaling-up of Sher Khan's Bihar-centred power against Bengal in 1534.
 - C. the permanent annexation of Kashmir by Sher Shah.
-- D. Akbar's introduction of dahsala in 1580.
+- D. Akbar's introduction of dahsala.
 
-**Answer: B.**
-**Explanation:** Surajgarh belongs to the Bihar-Bengal scale-up that preceded Sur sovereignty. The nearest error is C: Humayun's restoration occurred much later and has no connection with this 1534 encounter.
+#### Workbook MCQ 3
 
-#### Q3. Which sequence is chronologically sound?
+**Question:** Why are Chausa and Kannauj retained inside Topic 14 at all?
 
-- A. Kalinjar -> Chausa -> Babur's Panipat.
-- B. Samel -> Chausa -> Sikandar Lodi's death.
-- C. Chausa -> Kannauj -> Sher Shah's formal sovereignty.
-- D. Humayun's return -> Chausa -> Islam Shah's accession.
+- A. They prove that Sher Shah invented gunpowder artillery.
+- B. They make Humayun's Bengal crisis unnecessary to understand.
+- C. They form the bounded bridge by which Sher Khan's eastern rise became Sher Shah's sovereignty.
+- D. They belong wholly to Akbar's reign.
 
-**Answer: C.**
-**Explanation:** Chausa (1539) preceded Kannauj (1540), after which Sher Shah ruled north India. The closest distractor is D, which reverses the Sur-Mughal chronology by placing the 1555 return first.
+#### Workbook MCQ 4
 
-#### Q4. A map of the Sur empire should explicitly qualify that:
+**Question:** A map of the Sur empire should explicitly qualify that:
 
 - A. only Bihar and Bengal were ruled.
-- B. Kashmir was the Sur capital.
-- C. the empire was an exact modern provincial rectangle.
-- D. Kashmir was excluded even though the realm broadly ran from Bengal to the Indus.
+- B. Kashmir was the Sur capital zone.
+- C. the empire formed an exact modern provincial rectangle.
+- D. Kashmir was excluded even though the realm broadly ran from Bengal to the Indus with uneven western and frontier control.
 
-**Answer: D.**
-**Explanation:** The source's Bengal-to-Indus formulation is qualified by the exclusion of Kashmir. The closest distractor is A, which imports modern boundary precision into a medieval campaign-and-corridor empire.
+#### Workbook MCQ 5
 
-#### Q5. Satish Chandra's caution about Sher Shah's reputation chiefly requires us to:
+**Question:** Afghan kingship under Sher Shah is best described as:
 
-- A. treat him as part of a longer process of north Indian unification, while recognising implementation.
-- B. call Akbar the first user of revenue measurement.
-- C. accept every praise passage in Sarwani as an audit report.
-- D. deny that any Sur institution functioned.
+- A. a strong personal monarchy working through chiefs, service elites and assignments.
+- B. an elected tribal republic with no rulerly hierarchy.
+- C. a purely Turkish court copied unchanged from Balban's age.
+- D. a system that functioned without revenue officers or scribes.
 
-**Answer: A.**
-**Explanation:** The point is neither dismissal nor hero worship: Sher Shah systematised within a longer process. The closest distractor is C, which ignores the genre and retrospective limits of courtly praise.
+#### Workbook MCQ 6
 
-#### Q6. Why is it unsafe to call Sher Shah's realm a modern direct bureaucratic state?
+**Question:** Which formulation of territorial administration is historically safer?
 
-- A. It possessed elected legislatures.
-- B. It depended on personal supervision, assignments and local intermediaries.
-- C. It had no roads or coins.
-- D. It abolished all military service.
+- A. Sher Shah divided the empire into Akbar's finished suba map in 1540.
+- B. Sarkar or shiq and pargana remained operative units, and Akbar's later provincial vocabulary should not be projected backward carelessly.
+- C. Each village was ruled directly from Delhi without intermediary layers.
+- D. Pargana was another word for the whole empire.
 
-**Answer: B.**
-**Explanation:** Sur rule worked through a strong sovereign and mediated local structures, not a modern impersonal bureaucracy. The closest distractor is A because roads and coinage were precisely among the visible Sur measures.
+#### Workbook MCQ 7
 
-#### Q7. Which is the best territorial-administration formulation?
+**Question:** The Sur revenue chain begins most accurately with:
 
-- A. Sher Shah divided the empire into twelve subas in 1540.
-- B. Each village was a modern district directly ruled from Delhi.
-- C. Sarkar/shiq, pargana and village mediation were important; avoid projecting Akbar's subas backward.
-- D. Pargana was a synonym for the whole empire.
+- A. a ten-year cash average imposed before land was known.
+- B. confiscation of all village land and redistribution to cavalrymen.
+- C. measurement of sown land followed by classification and rai-based assessment.
+- D. payment only in foreign silver.
 
-**Answer: C.**
-**Explanation:** This preserves both territorial vocabulary and the Akbar boundary. The closest distractor is A: the twelve-subas reference belongs to Akbar's later system.
+#### Workbook MCQ 8
 
-#### Q8. The position of zamindars and village headmen under Sher Shah is best described as:
+**Question:** The patta-qabuliyat pair is best understood as:
 
-- A. entirely abolished by patta.
-- B. identical to British collectors.
-- C. outside all revenue activity.
-- D. central to mediation, assessment and policing, though subject to control and punishment.
+- A. permanent abolition of zamindars.
+- B. British ryotwari before British rule.
+- C. an informal oral pledge unrelated to records.
+- D. written assessment plus cultivator acceptance inside a still-mediated agrarian order.
 
-**Answer: D.**
-**Explanation:** Intermediaries remained indispensable even when the state sought record and discipline. The closest distractor is A, which mistakes a revenue record for elimination of local power.
+#### Workbook MCQ 9
 
-#### Q9. Sher Shah's revenue chain begins most accurately with:
+**Question:** How should the famous one-third state share be written in a secure answer?
 
-- A. measurement of sown land followed by classification and average yield calculation.
-- B. a fixed modern cadastral survey.
-- C. a permanent ten-year cash settlement.
-- D. automatic confiscation of all village land.
+- A. as a commonly stated norm in core descriptions, not as proof of identical collection everywhere
+- B. as an exact annual legal rate for every crop and district without exception
+- C. as the label for Multan alone
+- D. as a ration scale for the standing army
 
-**Answer: A.**
-**Explanation:** The source sequence moves from sown-land measurement to good/middling/bad classification and an average. The closest distractor is A: ten-year averaging is associated with Akbar's dahsala, not a Sur permanent settlement.
+#### Workbook MCQ 10
 
-#### Q10. In the Sur revenue discussion, rai refers most safely to:
+**Question:** The silver rupee claim is safest when it says:
 
-- A. a category of permanently fallow land.
-- B. crop rates used in calculating an assessable demand.
-- C. a cavalry branding mark.
-- D. a modern elected village council.
+- A. Sher Shah coined the first money ever seen in India.
+- B. Sher Shah standardised a durable silver denomination even though earlier silver currencies already existed.
+- C. coinage lost significance after his death.
+- D. the Sur monetary system mattered only inside Rajasthan.
 
-**Answer: B.**
-**Explanation:** Rai is the crop-rate element in the assessment logic. The closest distractor is D: dagh, not rai, concerns the verification of horses.
+#### Workbook MCQ 11
 
-#### Q11. A patta in this topic is evidence of:
+**Question:** Customs simplification under Sher Shah is best described as:
 
-- A. the abolition of all local headmen.
-- B. a religious decree against merchants.
-- C. a recorded statement of area, crop and amount due, not a modern ryotwari system.
-- D. a fort built near the Indus.
+- A. abolition of every levy in the empire.
+- B. a fully modern GST schedule with nationally fixed rates.
+- C. concentration of duties at controlled entry or sale points instead of tolerating many arbitrary transit levies.
+- D. a policy confined to the Portuguese coast.
 
-**Answer: C.**
-**Explanation:** The patta makes demand more knowable but does not dissolve local mediation or create a colonial-era settlement. The closest distractor is B, which overreads documentation as social transformation.
+#### Workbook MCQ 12
 
-#### Q12. Which revenue qualification is source-safe?
+**Question:** Which road statement is most accurate?
 
-- A. Multan was Sher Shah's capital.
-- B. Assessment did not use any local knowledge.
-- C. Every crop in every place paid the same verified rate.
-- D. The one-third share was generally stated, while practice remained mediated and the Multan exception cautions against uniformity.
+- A. Sher Shah invented overland communication in northern India.
+- B. The famous route served only the Delhi-Agra court zone.
+- C. No older imperial corridor existed before Sher Shah.
+- D. He repaired and extended older corridors later grouped under the Grand Trunk Road label.
 
-**Answer: D.**
-**Explanation:** One-third is a general principle, not a universal spreadsheet; the Multan exception blocks totalising claims. The closest distractor is A, which manufactures precision absent from the evidence.
+#### Workbook MCQ 13
 
-#### Q13. Sher Shah's chief road contribution is best phrased as:
+**Question:** Sarais are analytically important because they were:
 
-- A. restoring and improving an older Indus-Sonargaon imperial route later called the GT Road.
-- B. replacing every road with river transport.
-- C. building only a Delhi-Agra ceremonial avenue.
-- D. inventing all roads in north India from nothing.
+- A. lodging, market, security and relay nodes that linked commerce with administration.
+- B. private palaces for nobles with no public function.
+- C. modern railway stations in premodern dress.
+- D. only religious shelters unrelated to state communication.
 
-**Answer: A.**
-**Explanation:** The historical claim is restoration/improvement of an older route. The closest distractor is A, the standard invention myth that ignores prior imperial corridors.
+#### Workbook MCQ 14
 
-#### Q14. Why should two-karoh/four-mile wording be retained cautiously?
+**Question:** Why should the two-karoh interval be handled cautiously?
 
-- A. It proves a 2,000-kilometre road.
-- B. It is a historical spacing description and should not be converted into fake exact kilometres.
-- C. It means every sarai had two armies.
-- D. It names a tax rate.
+- A. It proves a modern total-road measurement in kilometres.
+- B. It is a historical spacing expression that should not be converted into fake modern precision.
+- C. It names a cavalry rank.
+- D. It refers to the price of one silver coin.
 
-**Answer: B.**
-**Explanation:** The wording tells us about regular interval planning, not a modern survey conversion. The closest distractor is A, which converts a local interval into an impossible total-road claim.
+#### Workbook MCQ 15
 
-#### Q15. Sarais are most analytically significant as:
+**Question:** Which statement traces dagh and chehra most safely?
 
-- A. welfare shelters with no fiscal or political role.
-- B. modern railway stations.
-- C. nodes of lodging, markets, relay, military movement, trade and surveillance.
-- D. single-purpose religious buildings.
+- A. They were created in finished form by Aurangzeb.
+- B. They were customs labels for road checkpoints.
+- C. Sultanate precedents existed; Sher Shah adapted or revived them for control, and Akbar later used related verification in a different imperial framework.
+- D. They were the names of two Sur forts.
 
-**Answer: C.**
-**Explanation:** A sarai concentrated travellers, goods, news and oversight, making it a circulation node. The closest distractor is A, which erases the military and surveillance dimensions.
+#### Workbook MCQ 16
 
-#### Q16. Customs simplification under Sher Shah should be stated as:
+**Question:** The Rohtas distinction matters because:
 
-- A. a fixed 10 per cent tariff in every town.
-- B. abolition of every tax in the empire.
-- C. a system applied only in Kashmir.
-- D. duties at entry and sale with simplified levies, without inventing rates.
+- A. Rohtas and Rohtasgarh are exactly the same frontier fort.
+- B. Rohtas lay beside Sher Shah's tomb at Sasaram.
+- C. Rohtas served only Bengal delta policing.
+- D. north-western Rohtas guarded the Gakhhar-Mughal-return frontier, whereas Rohtasgarh belonged to the Bihar zone.
 
-**Answer: D.**
-**Explanation:** The source supports a simplification claim, not fabricated numerical tariffs. The closest distractor is C, which supplies an unsupported rate and falsely universalises it.
+#### Workbook MCQ 17
 
-#### Q17. The silver rupee claim is safest when it says:
+**Question:** Sher Shah's justice reputation is most securely linked to:
 
-- A. Sher Shah standardised a fine silver rupee; earlier silver coins existed.
-- B. gold coinage vanished immediately.
-- C. the rupee had no effect beyond his camp.
-- D. Sher Shah invented money.
+- A. safer roads backed by local responsibility and stern punishment.
+- B. proof that no theft ever occurred in any district.
+- C. qazi decisions operating without coercive authority.
+- D. abolition of zamindars from the countryside.
 
-**Answer: A.**
-**Explanation:** Standardisation is the achievement; earlier silver currency prevents an invention myth. The closest distractor is A, which confuses a coin standard with the origin of money.
+#### Workbook MCQ 18
 
-#### Q18. Which statement correctly traces dagh and chehra?
+**Question:** What is the safest statement about zamindars under Sher Shah?
 
-- A. Sher Shah abolished all horse inspection.
-- B. Alauddin used them, Sher Shah revived/adapted them, and Akbar systematised them.
-- C. They were a road-tax system.
-- D. Akbar invented both before Alauddin's reign.
+- A. They vanished once patta-qabuliyat appeared.
+- B. They were controlled, punished or used as local intermediaries rather than abolished.
+- C. They became identical to British district collectors.
+- D. They handled only ritual matters and no revenue or rural power.
 
-**Answer: B.**
-**Explanation:** The three-stage provenance is the key discriminator. The closest distractor is A because it deletes the Sultanate precedent that Topic 07 explicitly preserves.
+#### Workbook MCQ 19
 
-### PART II. Broad practice: 40 questions
+**Question:** The Raisen-Puran Mal episode is best handled as:
 
-Correct-option audit: **ABCD** x **10**.
+- A. final proof of one empire-wide religious policy in every district.
+- B. a routine revenue settlement with no legitimacy issue.
+- C. a controversy over surrender, coercion and political trust that must be discussed with site-specific caution.
+- D. an episode too uncertain to mention at all.
 
-#### Q1. Rohtas in the northwest is associated with
+#### Workbook MCQ 20
 
-- A. the Bihar hill-fort Rohtasgarh.
-- B. collecting customs at Sonargaon.
-- C. controlling Gakhhars and checking a possible Mughal incursion.
-- D. the later Mughal suba headquarters at Agra.
+**Question:** Why does Kalinjar occupy a major place in Topic 14?
 
-**Answer: C.**
-**Explanation:** Rohtas in the north-west is a Gakhhar/Mughal-check fort; Rohtasgarh is the closest trap because its similar name places it in Bihar.
+- A. It was the place where Humayun recovered Delhi in 1555.
+- B. It was Sher Shah's coronation venue.
+- C. It created permanent peace in Bundelkhand.
+- D. Sher Shah died there in 1545 during a siege marked by a gunpowder accident.
 
-#### Q2. Rohtasgarh should not be conflated with
+#### Workbook MCQ 21
 
-- A. the north-western Rohtas associated with Gakhhars.
-- B. Kalinjar in Bundelkhand.
-- C. Chunar near the Bihar approach.
-- D. Rohtas in present-day Pakistan.
+**Question:** Islam Shah's reign is best described as:
 
-**Answer: D.**
-**Explanation:** The geographic discriminator is decisive: Rohtasgarh is a Bihar fort, whereas north-western Rohtas is the Sur frontier work.
+- A. a continuation of Sur structures with sharper royal discipline over nobles and camps.
+- B. an irrelevant pause with no administrative value.
+- C. an immediate surrender of Delhi to Humayun.
+- D. the abolition of monarchy in favour of confederate rule.
 
-#### Q3. Samel (1544) belongs to
+#### Workbook MCQ 22
 
-- A. the Rajasthan campaign field associated with Maldeo's forces.
-- B. Humayun's restoration campaign in Punjab.
-- C. the siege in which Sher Shah died at Kalinjar.
-- D. Akbar's Gujarat campaign.
+**Question:** The rapid Sur collapse after 1553 is best linked to:
 
-**Answer: A.**
-**Explanation:** Samel belongs to the Rajasthan campaign and is linked to Maldeo's field, not to a later Mughal recovery or Kalinjar.
+- A. one isolated battlefield setback alone.
+- B. violent succession, rival claimants, factional armies and fragile elite cohesion after Islam Shah.
+- C. the disappearance of all Afghan elites from north India overnight.
+- D. Akbar's mansabdari system already functioning against them.
 
-#### Q4. Puran Mal/Raisen should be read as
+#### Workbook MCQ 23
 
-- A. a complete record of uniform Sur religious law.
-- B. a violent political act with religious gloss, not evidence of uniform policy.
-- C. a routine revenue settlement with cultivators.
-- D. proof that no violence occurred in Sur expansion.
+**Question:** Hemu enters Topic 14 mainly as:
 
-**Answer: B.**
-**Explanation:** The evidence requires both political calculation and acknowledged violence; the uniform-policy option overgeneralises one episode.
+- A. Sher Shah's son and direct heir.
+- B. the architect of Rohtas fort under Sher Shah.
+- C. Adil Shah's leading military-administrative figure during late Sur fragmentation.
+- D. the author of *Tarikh-i Sher Shahi*.
 
-#### Q5. Sher Shah died during
+#### Workbook MCQ 24
 
-- A. Humayun's return to Delhi in 1555.
-- B. the Chausa battle in 1539.
-- C. the siege of Kalinjar in 1545.
-- D. the Samel campaign in 1544.
+**Question:** Sher Shah's tomb at Sasaram is best used in an answer as:
 
-**Answer: C.**
-**Explanation:** Kalinjar, not Chausa or Samel, is the 1545 siege in which Sher Shah died.
+- A. evidence for the battlefield deployment at Chausa.
+- B. a British-period memorial unrelated to Sur kingship.
+- C. proof that every reform reached every district perfectly.
+- D. monumental evidence of royal legitimacy and memory across Sher Shah and Islam Shah phases.
 
-#### Q6. Islam Shah's centralisation illustrates
+#### Workbook MCQ 25
 
-- A. Akbar's later mansabdari ranking.
-- B. the abandonment of monarchical supervision.
-- C. a permanent reconciliation of every Afghan chief.
-- D. monarchical assertion that could heighten Afghan noble resentment.
+**Question:** Purana Qila and Qila-i-Kuhna should be handled as:
 
-**Answer: D.**
-**Explanation:** Islam Shah's policy asserted monarchy over nobles; the nearest trap is a supposed reconciliation, which reverses the resentment problem.
+- A. a multi-phase Humayun-Sur-Mughal urban-fort landscape rather than a one-line single-patron attribution.
+- B. irrelevant to Topic 14 because they lie outside India.
+- C. exclusively post-Aurangzeb structures.
+- D. Bengal sarais later turned into forts.
 
-#### Q7. Sur fragmentation accelerated after
+#### Workbook MCQ 26
 
-- A. Islam Shah's death in 1553.
-- B. Babur's death in 1530.
-- C. the first Battle of Panipat in 1526.
-- D. Sher Shah's accession in 1540.
+**Question:** What is the best commercial inference from Sher Shah's reforms?
 
-**Answer: A.**
-**Explanation:** The acceleration follows Islam Shah's 1553 death; the other dates belong to the formation of the earlier political field.
+- A. Roads mattered only for moving soldiers.
+- B. Standard coinage, safer routes and simplified dues lowered some transaction costs while also extending state surveillance.
+- C. Merchants paid no dues anywhere after 1540.
+- D. North Indian trade became fully modern in the capitalist sense.
 
-#### Q8. Humayun recovered Delhi and Agra in
+#### Workbook MCQ 27
 
-- A. 1540 after Kannauj.
-- B. 1555.
-- C. 1545 after Kalinjar.
-- D. 1556 after Panipat II.
+**Question:** Which sentence best captures the peasant-side limit of Sur revenue reform?
 
-**Answer: B.**
-**Explanation:** Humayun's recovery was in 1555; 1556 marks the next transition, not the recovery itself.
+- A. Patta guaranteed equal bargaining power between state and cultivator.
+- B. Measurement ended climate risk and crop variation.
+- C. Written assessment could clarify demand but did not remove coercion, cesses or intermediary pressure.
+- D. Every cultivator paid only in cash.
 
-#### Q9. Sasaram tomb is useful chiefly as
+#### Workbook MCQ 28
 
-- A. a proof that every Sur revenue office is known.
-- B. an exact map of military campaigns.
-- C. a bounded example of Sur patronage, legitimacy and material memory.
-- D. a full survey of Mughal mansabs.
+**Question:** Which statement best describes Sher Shah's relation to Akbar?
 
-**Answer: C.**
-**Explanation:** The Sasaram tomb is material evidence of patronage and royal memory; it cannot establish every administrative detail.
+- A. Akbar copied every Sur institution unchanged.
+- B. Sur experience had no later relevance.
+- C. Sher Shah created the mansabdari system in final Mughal form.
+- D. Akbar adapted selected Sur precedents at a larger scale under a different ruling class and documentary regime.
 
-#### Q10. Sarwani needs caution because
+#### Workbook MCQ 29
 
-- A. a coin catalogue with no narrative purpose.
-- B. an official Akbar-era revenue manual.
-- C. a contemporary statistical register of highway crime.
-- D. a retrospective courtly chronicle can praise and order events selectively.
+**Question:** Which historiographical verdict is the most secure?
 
-**Answer: D.**
-**Explanation:** Sarwani can preserve remembered ideals and claims, but courtly retrospective narration is not the same as a statistical audit.
+- A. Sher Shah was an effective short-reign systematiser, not an isolated genius outside historical process.
+- B. Later historians should be ignored completely because all chronicles are useless.
+- C. Sarwani's admiration proves perfect objectivity.
+- D. Administrative success absolves every coercive act automatically.
 
-#### Q11. State capacity is better understood as
+#### Workbook MCQ 30
 
-- A. a feedback loop among revenue, coin, routes, information and coercion.
-- B. a single tax imposed on every village.
-- C. a list of unrelated royal charities.
-- D. a purely architectural style.
+**Question:** Why does the Multan caution matter in Topic 14?
 
-**Answer: A.**
-**Explanation:** State capacity here is relational: fiscal resources, money, circulation, information and force strengthen one another.
+- A. It proves that Sur revenue reform never operated in the core regions.
+- B. It reminds us that the neat measured system had regional exceptions and could not be described as mechanically uniform.
+- C. It makes Multan the Sur capital.
+- D. It shows that patta and rai were borrowed Portuguese words.
 
-#### Q12. A fort complements a road because
+#### Workbook MCQ 31
 
-- A. it converts all taxes into cash automatically.
-- B. it anchors garrison, storage and frontier control at a strategic node.
-- C. it eliminates the need for garrisons.
-- D. it serves only as a royal tomb.
+**Question:** Which source most directly anchors the claim of Sur monetary standardisation?
 
-**Answer: B.**
-**Explanation:** A fort anchors a corridor by holding troops, stores and a defensible node; a road alone cannot do that.
+- A. later tourism brochures alone
+- B. heroic legends about Farid
+- C. surviving coins that preserve metal, mint, legend and standard information
+- D. only Akbar's court regulations
 
-#### Q13. Cash assessment can strengthen
+#### Workbook MCQ 32
 
-- A. the abolition of crop rates.
-- B. the ceremonial legitimacy of Din Panah.
-- C. the link between revenue demand, markets and recognised coin.
-- D. the division of land into Mughal subas.
+**Question:** Which overall assessment of Sher Shah is the most defensible?
 
-**Answer: C.**
-**Explanation:** Cash can connect recorded dues and markets through a recognised medium; it does not itself create territorial administration.
+- A. Sur rule is merely a blank footnote between Humayun and Akbar.
+- B. Sher Shah's state was fully modern in the twentieth-century sense.
+- C. The short reign makes achievement unknowable and therefore irrelevant.
+- D. Sur rule linked conquest to administration, circulation and coercion impressively, but source idealisation and rapid fragmentation require a qualified verdict.
 
-#### Q14. Kind collection can require
+#### Workbook MCQ 33
 
-- A. the use of horse branding.
-- B. the construction of a north-west fort.
-- C. the distribution of religious endowments.
-- D. harvest knowledge, storage and transport rather than a simple cash formula.
+**Question:** A pargana record names a shiqdar, amin/munsif, qanungo and fotedar. Which division of work is historically safest?
 
-**Answer: D.**
-**Explanation:** Kind collection is tied to crop, harvest, storage and transport; this distinguishes it from monetary or military mechanisms.
+- A. Military-police, assessment/judicial, record-keeping and treasury functions coexisted, subject to local variation.
+- B. All four were hereditary village headmen answerable to a modern suba governor.
+- C. The qanungo alone commanded every frontier garrison and fixed coin weight.
+- D. The fotedar issued an individual imperial farman for each cultivator.
 
-#### Q15. The Multan note is valuable because
+#### Workbook MCQ 34
 
-- A. it demonstrates that annual measurement was not identical everywhere.
-- B. all revenue was collected only in copper.
-- C. Sher Shah never measured any land.
-- D. Multan was outside the Sur realm.
+**Question:** A revenue instruction moves from jarib measurement to rai, patta and qabuliyat. Which interpretation is defensible?
 
-**Answer: A.**
-**Explanation:** The Multan exception qualifies uniform annual practice; it is not evidence that assessment disappeared or that Multan lay outside the realm.
+- A. Rai is a soldier’s descriptive roll, and qabuliyat brands horses.
+- B. Measured and classified fields informed a crop-price schedule and demand, then a written offer and acceptance; intermediaries remained.
+- C. Patta abolished local chiefs and guaranteed equal bargaining for cultivators in every frontier zone.
+- D. One-third was observed identically on every crop in every village.
 
-#### Q16. A patta does not prove
+#### Workbook MCQ 35
 
-- A. the use of crop rates called rai.
-- B. a British-style direct ryotwari settlement.
-- C. the possibility of cash or kind collection.
-- D. the survival of village intermediaries.
+**Question:** Which pairing correctly distinguishes campaign chronology from subsequent Sur state formation?
 
-**Answer: B.**
-**Explanation:** The direct-state conclusion is the error: patta records a claim, while the other three propositions remain part of the actual revenue setting.
+- A. Kalinjar 1545 enabled Sher Shah’s victory at Chausa 1539.
+- B. Raisen 1543 preceded the Bihar victory at Surajgarh.
+- C. Chausa and Kannauj established sovereign opportunity; Malwa, Raisen, Samel and Kalinjar belong to the 1540–45 reign.
+- D. Islam Shah first captured Kannauj in 1540, then succeeded his father.
 
-#### Q17. The term jagir/iqta in a Sur answer should signal
+#### Workbook MCQ 36
 
-- A. a modern land-title registry.
-- B. hereditary private ownership without service.
-- C. assignment and elite expectation, not automatic ownership of land.
-- D. the abolition of noble military obligations.
+**Question:** A chronicle credits Sher Shah with a sarai every two karohs. What can a historian infer?
 
-**Answer: C.**
-**Explanation:** Assignment vocabulary directs attention to revenue and service obligations; ownership and modern title are the closest anachronisms.
+- A. Every surviving sarai is securely dated by its current building walls to 1540–45.
+- B. The claim is an independently verified survey of uniform spacing in all regions.
+- C. Sarai provision only served charity, never dak or troop movement.
+- D. A planned circulation and communication ideal is attested; surviving density and actual spacing need independent checking.
 
-#### Q18. A map claim of Bengal to Indus should be qualified by
+#### Workbook MCQ 37
 
-- A. the uniform paving of every route.
-- B. the immediate abolition of regional chiefs.
-- C. Kashmir's inclusion in an exact national boundary.
-- D. uneven control, corridor logic and the exclusion of Kashmir.
+**Question:** Which comparison of coin evidence and commercial effects best withstands scrutiny?
 
-**Answer: D.**
-**Explanation:** The correct map language preserves Bengal-Indus reach while acknowledging uneven corridors and Kashmir's exclusion.
+- A. Mint legends and metal attest issues of standard silver rupiya, while actual cash use and merchant gains still varied regionally.
+- B. Coins prove Sher Shah invented silver currency and abolished all barter.
+- C. The presence of a dam proves every agrarian rent was paid in gold.
+- D. A later Mughal coin establishes the date of every Sur road construction.
 
-#### Q19. Road policy served commerce but also
+#### Workbook MCQ 38
 
-- A. military logistics, intelligence and surveillance.
-- B. a decorative display of royal wealth.
-- C. a replacement of every fort by a market.
-- D. only the comfort of pilgrims.
+**Question:** How should a candidate assess the Raisen–Puran Mal narrative in relation to justice claims?
 
-**Answer: A.**
-**Explanation:** Roads moved troops and reports as well as merchandise, making military logistics and surveillance the nearest missing dimension.
+- A. Ignore the surrender and killing because road-security anecdotes establish universal impartiality.
+- B. Analyse reported safe-conduct, coercion and legitimacy together with other Sur practices, without deriving a universal persecution policy.
+- C. Treat Sarwani’s account as a contemporary judicial transcript immune to patronage.
+- D. Infer from the episode that all local officers were dismissed after 1543.
 
-#### Q20. Merchant safety was backed by
+#### Workbook MCQ 39
 
-- A. the removal of village headmen from policing.
-- B. local responsibility and the threat of punishment.
-- C. the end of customs duties.
-- D. a declaration that robbery was no longer punishable.
+**Question:** The name Rohtas appears in two discussions of the Sur period. Which placement is correct?
 
-**Answer: B.**
-**Explanation:** Local responsibility and punishment underpinned safety; no-punishment or no-headman claims invert the mechanism.
+- A. Both names designate the same Bengal river fortress.
+- B. Rohtasgarh in Bihar guarded the Gakhhar frontier near Punjab.
+- C. Rohtas in present-day Pakistan relates to the north-western frontier; Rohtasgarh in Bihar is a different fort.
+- D. Both forts were built wholly by Akbar after 1555.
 
-#### Q21. Collective responsibility is analytically important because
+#### Workbook MCQ 40
 
-- A. a system of coin minting.
-- B. an egalitarian benefit with no costs.
-- C. it may improve information while imposing coercive burdens on communities.
-- D. a rule that made the emperor legally responsible for every theft.
+**Question:** What is the best inference about a Sur ruler who brands horses and keeps chehra rolls while retaining noble contingents?
 
-**Answer: C.**
-**Explanation:** Collective responsibility can generate local information but can also impose burdens on non-offenders; that double effect is the core analysis.
+- A. Dagh was invented without Alauddin-era precedents and was enforced uniformly for centuries.
+- B. Chehra describes horses, whereas dagh records individual tax collectors.
+- C. Direct recruitment made Afghan nobles politically irrelevant to succession.
+- D. Verification practices aimed at accountability but coexisted with patronage and earlier Sultanate models.
 
-#### Q22. The Sur rupee's later durability indicates
+#### Workbook MCQ 41
 
-- A. the abolition of market credit.
-- B. the absence of older currencies.
-- C. a uniform price of grain across the empire.
-- D. the importance of standardisation, not an instant universal monetisation.
+**Question:** Which reading of Samel/Marwar in 1544 best separates evidence and retrospective narrative?
 
-**Answer: D.**
-**Explanation:** A lasting standard helps transactions but does not prove instant monetisation, price uniformity or disappearance of credit.
+- A. Sher Shah fought Maldeo’s Rajput forces; the forged-letter explanation must be attributed to Sarwani rather than treated as an independently proven universal tactic.
+- B. Samel was the battle at which Humayun expelled Sher Shah from Delhi.
+- C. The forged letter establishes an empire-wide ban on Rajput service.
+- D. Samel was the siege where gunpowder killed Sher Shah in 1545.
 
-#### Q23. Gold, silver and copper in the source support
+#### Workbook MCQ 42
 
-- A. a trimetallic monetary framework.
-- B. a refusal to use silver in revenue.
-- C. a gold-only currency system.
-- D. the first European-style paper currency.
+**Question:** What makes the Lahore–Multan route analytically different from the Sonargaon–Indus spine?
 
-**Answer: A.**
-**Explanation:** Gold, silver and copper point to a multiple-metal field; the gold-only option is the closest contradiction.
+- A. Lahore–Multan was the main road from Bengal through Agra to Delhi.
+- B. It served the Punjab/frontier axis, whereas Sonargaon through Delhi toward the Indus linked the east–west imperial core.
+- C. Both routes were created only after Islam Shah’s death in 1553.
+- D. Neither route had any military or information function.
 
-#### Q24. A sarkar-pargana description should avoid
+#### Workbook MCQ 43
 
-- A. calling a pargana a Mughal mansab.
-- B. calling every unit a modern province.
-- C. treating a village headman as a modern district magistrate.
-- D. equating a sarai with a provincial capital.
+**Question:** Which inference about Islam Shah and the later Sur collapse is warranted?
 
-**Answer: B.**
-**Explanation:** The warning is against modern provincial language; the other terms are likewise category errors rather than medieval territorial analysis.
+- A. The Sur empire immediately ended with Sher Shah’s death at Kalinjar.
+- B. Islam Shah restored Mughal rule during his 1545–53 reign.
+- C. Islam Shah maintained and tightened royal discipline; fragmentation among later claimants after his death aided Humayun’s return.
+- D. Hemu alone founded the Sur regime at Chausa.
 
-#### Q25. The Afghan political field included
+#### Workbook MCQ 44
 
-- A. a permanent ban on noble counsel.
-- B. a democratic election of the sovereign.
-- C. noble expectations of honour, service and shares alongside royal assertion.
-- D. the absence of revenue assignments.
+**Question:** Which interpretation of Sasaram’s tomb and Qila-i-Kuhna best fits material-source criticism?
 
-**Answer: C.**
-**Explanation:** Afghan elite politics involved dignity, service and shares within royal assertion; democracy and no-elite claims are anachronistic.
+- A. The two sites together establish exactly how many bighas Sher Shah measured.
+- B. Qila-i-Kuhna proves Humayun never planned Dinpanah at Delhi.
+- C. Architectural appearance alone establishes that every part of Purana Qila was built in a single reign.
+- D. Sasaram attests Sur dynastic memorialisation; Delhi’s multi-phase site demands cautious attribution, not a complete administrative history.
 
-#### Q26. Personal supervision can be strong because
+### Part II — Matched answer key and option-wise explanations
 
-- A. it makes currency irrelevant.
-- B. it guarantees a stable succession by law.
-- C. it removes the need for local information.
-- D. it allows rapid auditing and decision, but is difficult for successors to reproduce.
+#### Answer key — 1
+**Correct answer: A**
 
-**Answer: D.**
-**Explanation:** Rapid auditing is personal supervision's strength; its succession fragility, not automatic stability, is the critical counterpoint.
+**Option-wise explanations:**
+- **A.** Correct. The canonical files make Sasaram experience and Bihar service central because Sher Shah first learnt cultivation, intermediaries and assignments at that level.
+- **B.** Incorrect. Farid began as a rising Afghan notable, not as the pre-born emperor of an already consolidated empire.
+- **C.** Incorrect. The Second Battle of Panipat belongs to 1556, long after Farid had become Sher Shah and long after his death.
+- **D.** Incorrect. Akbar belongs to the next topic's world, whereas Farid's ascent unfolded inside Bihar-Bengal politics before Mughal restoration.
 
-#### Q27. Sher Shah's achievement in a longer process was
+**Examiner trap:** legend or late-Mughal chronology substituted for early eastern career
 
-- A. systematisation and implementation of interconnected measures.
-- B. the first use of any road in India.
-- C. the destruction of all Sultanate institutions.
-- D. the creation of British-style district administration.
+#### Answer key — 2
+**Correct answer: B**
 
-**Answer: A.**
-**Explanation:** Systematisation joins known elements into workable practice; invention-from-nothing and total rupture are the intended traps.
+**Option-wise explanations:**
+- **A.** Incorrect. Humayun's restoration came two decades later and belongs to the end of the Sur phase rather than to Sher Khan's rise.
+- **B.** Correct. Surajgarh raised Sher Khan from a strong regional player to a contender with larger eastern prestige, resources and bargaining power.
+- **C.** Incorrect. Kashmir is explicitly excluded from the broad Sur-empire formulation in the canonical owner.
+- **D.** Incorrect. Dahsala is a later Akbarian revenue development, not a feature of Sher Khan's pre-1540 ascent.
 
-#### Q28. A comparison with Akbar should state
+**Examiner trap:** Surajgarh treated as a decorative date instead of the Bihar-Bengal scale-up
 
-- A. that Akbar rejected measurement altogether.
-- B. continuity with later scale, adaptation and institutional elaboration.
-- C. that only coins matter in state-building.
-- D. that each ruler used an identical office structure.
+#### Answer key — 3
+**Correct answer: C**
 
-**Answer: B.**
-**Explanation:** Continuity must be paired with scale and adaptation; identical structures would erase Akbar's later administrative setting.
+**Option-wise explanations:**
+- **A.** Incorrect. The battles matter here for sovereignty transfer, not as proof that one ruler created gunpowder warfare from scratch.
+- **B.** Incorrect. Topic 13 still owns the full eastern-campaign and battle narrative; Topic 14 keeps only the threshold function.
+- **C.** Correct. These victories convert regional Afghan scale into imperial authority, which is exactly why Topic 14 begins from their institutional consequence.
+- **D.** Incorrect. Akbar enters later; Chausa and Kannauj sit in the Humayun-Sher Khan struggle of 1539-1540.
 
-#### Q29. Akbar's dahsala differs from the Sur framework because
+**Examiner trap:** battle names memorised without topic-boundary discipline
 
-- A. a permanent settlement fixed for ten years.
-- B. a Sur crop-rate schedule without averaging.
-- C. it used a later ten-year average of produce and prices within a broader order.
-- D. a system that never used cash.
+#### Answer key — 4
+**Correct answer: D**
 
-**Answer: C.**
-**Explanation:** Dahsala's distinction is ten-year averaging of produce and prices; permanent settlement is the closest familiar but false analogy.
+**Option-wise explanations:**
+- **A.** Incorrect. The Sur sphere stretched far beyond Bihar and Bengal into the Ganga core, the north-west and western campaign fields.
+- **B.** Incorrect. The canonical wording does the opposite: it marks Kashmir as outside the broad imperial extent.
+- **C.** Incorrect. Medieval conquest space cannot be represented safely as a neat modern province map with uniform density.
+- **D.** Correct. This option keeps both halves of the truth together: the empire was large, yet its control varied and Kashmir stood outside it.
 
-#### Q30. Chehra is best defined as
+**Examiner trap:** scale remembered but qualification forgotten
 
-- A. a customs duty at entry.
-- B. a road relay messenger.
-- C. a classification of good/middling/bad land.
-- D. a descriptive roll used for verification of soldiers.
+#### Answer key — 5
+**Correct answer: A**
 
-**Answer: D.**
-**Explanation:** Chehra records soldiers, while the other options belong to revenue, customs and communications.
+**Option-wise explanations:**
+- **A.** Correct. The Sur polity centred on a forceful king, yet it still depended on Afghan nobles, service expectations and administrative linkage.
+- **B.** Incorrect. Afghan political weight did not amount to elective republican government; a monarch clearly stood at the apex.
+- **C.** Incorrect. The advanced owner explicitly resists flattening the Sur regime into a simple replay of an earlier Turkish court model.
+- **D.** Incorrect. Finance, chancery and record functions remained crucial to the very state capacity Sher Shah is known for.
 
-#### Q31. Dagh is best defined as
+**Examiner trap:** Afghan identity converted into either tribal-romantic equality or total statelessness
 
-- A. horse branding used to check military musters.
-- B. a silver coin standard.
-- C. a descriptive roll of cavalrymen.
-- D. a crop-rate register.
+#### Answer key — 6
+**Correct answer: B**
 
-**Answer: A.**
-**Explanation:** Dagh marks horses, not persons, coins or crops; chehra is the person-record counterpart.
+**Option-wise explanations:**
+- **A.** Incorrect. The suba framework belongs to a later Mughal order and should not be retrofitted onto Sur administration.
+- **B.** Correct. This keeps the scale and terminology disciplined: sarkar or shiq above pargana, with later Mughal provincial development kept separate.
+- **C.** Incorrect. Topic 14 repeatedly emphasises mediation through officers, headmen, zamindars and record-holders rather than direct one-step court rule.
+- **D.** Incorrect. Pargana is a sub-territorial unit, not a synonym for the empire itself.
 
-#### Q32. The old imperial road terminology warns against
+**Examiner trap:** Akbarian administrative familiarity imposed on Sher Shah's world
 
-- A. that every route had the same modern highway number.
-- B. presenting the GT Road as built from nothing by Sher Shah.
-- C. that customs had been abolished.
-- D. the need to distinguish Rohtas from Rohtasgarh.
+#### Answer key — 7
+**Correct answer: C**
 
-**Answer: B.**
-**Explanation:** The older-route point corrects the invention myth; the named-fort and customs assertions are separate facts, not its core meaning.
+**Option-wise explanations:**
+- **A.** Incorrect. A fixed ten-year cash average belongs to later Mughal revenue discussion, not to the Sur chain described in the canonical owners.
+- **B.** Incorrect. The revenue issue here is specification of demand, not wholesale confiscation of every village holding.
+- **C.** Correct. Measurement, classification and rai form the working sequence that makes patta and qabuliyat intelligible.
+- **D.** Incorrect. Revenue could move through cash or kind; foreign silver is not the starting mechanism of the system.
 
-#### Q33. Separate sarai arrangements, where attested, show
+**Examiner trap:** later zabt memories substituted for the Sur assessment sequence
 
-- A. that all travellers were taxed at arbitrary rates.
-- B. that sarais had no market or relay role.
-- C. provisioning for travellers rather than evidence of a secular modern hotel.
-- D. that Hindus and Muslims had no distinct accommodation where attested.
+#### Answer key — 8
+**Correct answer: D**
 
-**Answer: C.**
-**Explanation:** Separate arrangements are a source-bounded lodging fact; they neither establish a modern hotel nor erase market, dak and control functions.
+**Option-wise explanations:**
+- **A.** Incorrect. Zamindars remained part of rural control and collection; written assessment did not erase them from the countryside.
+- **B.** Incorrect. Ryotwari is a colonial category and misdescribes a sixteenth-century system still dependent on intermediaries and local officers.
+- **C.** Incorrect. The importance of patta-qabuliyat lies precisely in recordable demand and acknowledged liability, not in pure informality.
+- **D.** Correct. This pairing captures the Sur attempt to make revenue legible without turning the system into direct modern peasant-state contact.
 
-#### Q34. Customs simplification should not be turned into
+**Examiner trap:** documentation mistaken for direct agrarian modernity
 
-- A. the abolition of entry and sale duties.
-- B. the sale of forts to merchants.
-- C. a fixed empire-wide percentage rate.
-- D. a claim that all commerce was tax-free.
+#### Answer key — 9
+**Correct answer: A**
 
-**Answer: D.**
-**Explanation:** Simplification regulates where duties are taken; it does not make trade tax-free or supply an unsupported rate.
+**Option-wise explanations:**
+- **A.** Correct. This is the safest phrasing because it preserves the remembered norm while leaving room for regional variation and practical mediation.
+- **B.** Incorrect. The sources do not justify a spreadsheet-like claim of universal identical collection in every district and every year.
+- **C.** Incorrect. Multan appears as an exception warning, not as the sole place where the one-third idea existed.
+- **D.** Incorrect. The one-third figure belongs to agrarian assessment discourse, not to military provisioning terminology.
 
-#### Q35. A historical source matrix should compare
+**Examiner trap:** neat ratio mistaken for empire-wide mechanical uniformity
 
-- A. chronicle praise, coins, roads/sarais, forts and monuments by evidentiary reach.
-- B. a statement that every peasant accepted cash payments.
-- C. a direct proof of Kashmiri conquest.
-- D. a coins-only source with no social purpose.
+#### Answer key — 10
+**Correct answer: B**
 
-**Answer: A.**
-**Explanation:** A source matrix compares what genres can establish; it rejects both chronicle monopoly and naïve material proof.
+**Option-wise explanations:**
+- **A.** Incorrect. Money and silver coinage pre-dated Sher Shah by centuries; the claim of first-ever creation is historically unsound.
+- **B.** Correct. His major monetary importance lies in standardisation of weight and fineness, not in inventing silver currency from nothing.
+- **C.** Incorrect. The very point of calling the rupee important is its later durability, not its disappearance after 1545.
+- **D.** Incorrect. The monetary significance of the Sur standard far exceeded one western region.
 
-#### Q36. A famous quotation about Rajasthan without clear provenance should be
+**Examiner trap:** standardisation inflated into invention mythology
 
-- A. treated as a verified contemporary dispatch.
-- B. used only with caution or omitted.
-- C. used as a currency weight table.
-- D. used to date the Multan exception.
+#### Answer key — 11
+**Correct answer: C**
 
-**Answer: B.**
-**Explanation:** Without provenance, a famous saying cannot carry a precise historical claim; treating it as a dispatch is the closest misuse.
+**Option-wise explanations:**
+- **A.** Incorrect. The reform concerned rationalising collection, not dissolving the fiscal claims of the state altogether.
+- **B.** Incorrect. Importing GST-like modern uniformity creates a false administrative precision unsupported by the sources.
+- **C.** Correct. This wording captures the commercial logic: fewer petty interruptions, more legible dues, and easier long-distance movement.
+- **D.** Incorrect. The customs issue in Topic 14 belongs to inland imperial circulation, not to a coastal Portuguese-only frame.
 
-#### Q37. Sher Shah's religion may be described as
+**Examiner trap:** simplified dues turned into tax abolition or modern tariff uniformity
 
-- A. a policy of forced conversion documented everywhere.
-- B. a refusal to use any Islamic idiom in court.
-- C. orthodox without assuming uniform bigotry.
-- D. a guarantee that no political violence occurred.
+#### Answer key — 12
+**Correct answer: D**
 
-**Answer: C.**
-**Explanation:** Orthodoxy can coexist with non-uniform practice; the all-or-none religious options erase the source's careful qualification.
+**Option-wise explanations:**
+- **A.** Incorrect. Long-distance routes existed earlier; Sher Shah's fame comes from repair, extension and policing rather than absolute invention.
+- **B.** Incorrect. The core corridor is remembered on a much wider east-west scale, not as a small ceremonial avenue.
+- **C.** Incorrect. Denying earlier route history is exactly the exaggeration the canonical sources warn against.
+- **D.** Correct. This formulation keeps both achievement and historical continuity visible.
 
-#### Q38. The Raisen episode cannot be used to
+**Examiner trap:** route history collapsed into the slogan 'Sher Shah built the GT Road'
 
-- A. show that forts had no strategic value.
-- B. make roads irrelevant to politics.
-- C. prove that Sarwani's praise is false in every respect.
-- D. erase violence or prove a timeless uniform policy.
+#### Answer key — 13
+**Correct answer: A**
 
-**Answer: D.**
-**Explanation:** A single episode cannot decide uniform policy, but it also cannot be discarded; the other options evade the actual evidence.
+**Option-wise explanations:**
+- **A.** Correct. A sarai concentrated travellers, goods, official oversight and message movement, which is why it belongs to governance history.
+- **B.** Incorrect. Sarais served wayfarers and routes; they were not merely aristocratic residences detached from circulation.
+- **C.** Incorrect. The comparison to railway stations can help memory loosely, but it becomes misleading if treated as literal historical equivalence.
+- **D.** Incorrect. Their role in trade, security and dak work prevents them from being reduced to devotional hospitality alone.
 
-#### Q39. Sur succession weakness reveals
+**Examiner trap:** sarai remembered as kindness but not as an information-and-control node
 
-- A. the difference between administrative achievement and dynastic durability.
-- B. that Islam Shah's rule preceded Sher Shah's.
-- C. that roads and revenue had no legacy.
-- D. that Humayun never returned to India.
+#### Answer key — 14
+**Correct answer: B**
 
-**Answer: A.**
-**Explanation:** Dynastic collapse and institutional influence operate on different time scales; this is the topic's central distinction.
+**Option-wise explanations:**
+- **A.** Incorrect. A local interval tradition does not justify exact modern survey claims for the full road network.
+- **B.** Correct. Retaining the historical unit respects what the source actually offers while resisting false mathematical certainty.
+- **C.** Incorrect. Two karohs concerns route spacing, not military hierarchy.
+- **D.** Incorrect. The phrase belongs to roads and sarais, not to coin pricing.
 
-#### Q40. The best one-line verdict is
+**Examiner trap:** historical measure overtranslated into bogus modern exactness
 
-- A. Sher Shah invented a modern bureaucracy in five years.
-- B. Sher Shah was a major bridge in state formation, not a fully modern state-builder.
-- C. Akbar created every relevant administrative technique without precedent.
-- D. Sur rule was historically irrelevant because it was short.
+#### Answer key — 15
+**Correct answer: C**
 
-**Answer: B.**
-**Explanation:** The bridge verdict preserves achievement and limits; each alternative collapses the subject into a false origin story.
+**Option-wise explanations:**
+- **A.** Incorrect. Moving these devices to the late Mughal period erases both Sultanate precedent and Sur relevance.
+- **B.** Incorrect. Dagh and chehra belong to military verification, not to customs collection.
+- **C.** Correct. This sequence preserves continuity without confusing Sher Shah's use with Akbar's later mansabdari setting.
+- **D.** Incorrect. Neither term names a fort; both refer to identification and inspection practices.
 
-### PART III. Remedial practice: 12 questions
+**Examiner trap:** provenance of army-control devices muddled across dynasties and functions
 
-Correct-option audit: **ABCD** x **3**.
+#### Answer key — 16
+**Correct answer: D**
 
-#### Q1. The statement 'Sher Shah invented dagh and chehra' is
+**Option-wise explanations:**
+- **A.** Incorrect. Similar names create a trap, but the two forts occupy different geographies and different strategic settings.
+- **B.** Incorrect. Sasaram is linked with Sher Shah's tomb, not with locating Rohtas beside it.
+- **C.** Incorrect. Rohtas in this context belongs to the north-west frontier logic, not to delta policing in Bengal.
+- **D.** Correct. The contrast between frontier Rohtas and Bihar Rohtasgarh is precisely the memory safeguard UPSC may test.
 
-- A. correct because Akbar had no cavalry records.
-- B. uncertain because medieval armies never inspected horses.
-- C. incorrect because Alauddin used the controls earlier.
-- D. correct because Sher Shah first used them after 1540.
+**Examiner trap:** similar-sounding forts merged into one imagined site
 
-**Answer: C.**
-**Explanation:** Alauddin's Sultanate precedent is decisive; claiming Sher Shah-first destroys the continuous administrative chronology.
+#### Answer key — 17
+**Correct answer: A**
 
-#### Q2. The statement 'Akbar copied every Sur institution unchanged' is
+**Option-wise explanations:**
+- **A.** Correct. Merchants and travellers remembered route safety because the regime combined official justice with pressure on local communities and power-holders.
+- **B.** Incorrect. Chronicle praise of security cannot be treated as a complete statistical record of zero crime.
+- **C.** Incorrect. Judicial authority in Topic 14 worked alongside punishment, patrols and other coercive supports rather than in their absence.
+- **D.** Incorrect. Zamindars were controlled and used; they did not disappear from the countryside.
 
-- A. uncertain because roads had no administrative role.
-- B. correct because Akbar abolished revenue measurement.
-- C. correct because all Sur offices became Mughal offices unchanged.
-- D. incorrect because he adapted and systematised within a different scale.
+**Examiner trap:** ruler-ideal justice anecdote mistaken for exact crime-free reality
 
-**Answer: D.**
-**Explanation:** Akbar inherited usable precedents but expanded, adapted and systematised them in a different imperial framework.
+#### Answer key — 18
+**Correct answer: B**
 
-#### Q3. The statement 'patta created modern ryotwari' is
+**Option-wise explanations:**
+- **A.** Incorrect. Written assessment changed the fiscal framework but did not erase landed local authority from village society.
+- **B.** Correct. This captures the Sur state's practical approach: discipline where necessary, use where useful, and never assume disappearance.
+- **C.** Incorrect. British district collectors belong to a very different bureaucratic world and cannot stand in for sixteenth-century zamindars.
+- **D.** Incorrect. Zamindars mattered precisely because they were embedded in rural power, collection and local influence.
 
-- A. incorrect because intermediaries remained central.
-- B. uncertain because land was never measured.
-- C. correct because patta abolished zamindars.
-- D. correct because cash was the only collection mode.
+**Examiner trap:** intermediary control misread as intermediary abolition
 
-**Answer: A.**
-**Explanation:** Patta records demand; it does not displace local mediators or prove cash-only, perfectly measured direct settlement.
+#### Answer key — 19
+**Correct answer: C**
 
-#### Q4. The statement 'the GT Road began from nothing under Sher Shah' is
+**Option-wise explanations:**
+- **A.** Incorrect. One violent and disputed episode cannot safely bear the weight of a total theory about every Sur religious action.
+- **B.** Incorrect. The issue is precisely that surrender and violence turned the event into a legitimacy problem, not a routine tax note.
+- **C.** Correct. This wording keeps politics, coercion and trust together while refusing both apologetic flattening and sweeping communal generalisation.
+- **D.** Incorrect. The episode is usable when bounded carefully; silence would throw away important evidence about legitimacy and violence.
 
-- A. correct because no imperial route existed before 1540.
-- B. incorrect because he restored/improved an older route.
-- C. correct because the road connected only Agra and Delhi.
-- D. uncertain because roads did not affect trade.
+**Examiner trap:** a single controversial siege either universalised or erased
 
-**Answer: B.**
-**Explanation:** The old-route language means restoration/improvement; the other claims ignore the Indus-Sonargaon corridor and its commercial purpose.
+#### Answer key — 20
+**Correct answer: D**
 
-#### Q5. The statement 'sarais were welfare-only buildings' is
+**Option-wise explanations:**
+- **A.** Incorrect. Humayun's restoration belongs to the end of the Sur phase and is not a Kalinjar event.
+- **B.** Incorrect. Kalinjar is remembered in this topic for Sher Shah's death, not for his enthronement.
+- **C.** Incorrect. The siege underscores military risk and succession shock, not a final Bundelkhand settlement that removed all future tension.
+- **D.** Correct. Kalinjar matters because the king's death there in 1545 exposed how much the Sur system depended on personal leadership.
 
-- A. uncertain because markets could not exist near roads.
-- B. correct because dak began only under the British.
-- C. incorrect because they linked lodging, markets, news, trade and control.
-- D. correct because sarais housed travellers only.
+**Examiner trap:** Kalinjar treated as just another fort instead of the succession-turning siege
 
-**Answer: C.**
-**Explanation:** Sarais combined lodging with markets, relay, security and state observation; the welfare-only label strips away their political economy.
+#### Answer key — 21
+**Correct answer: A**
 
-#### Q6. The statement 'one-third proves identical practice everywhere' is
+**Option-wise explanations:**
+- **A.** Correct. Islam Shah matters because he continued the Sur framework and intensified monarchical control, proving that the state did not vanish in 1545.
+- **B.** Incorrect. Treating him as a blank pause hides the crucial evidence of continuity between Sher Shah and later fragmentation.
+- **C.** Incorrect. Humayun's restoration came only after later Sur divisions had deepened.
+- **D.** Incorrect. His reign moved toward stronger monarchy, not away from it.
 
-- A. uncertain because local headmen were excluded.
-- B. correct because Multan was never assessed.
-- C. correct because rai fixed every local crop identically.
-- D. incorrect because local mediation and the Multan exception qualify it.
+**Examiner trap:** Islam Shah erased from the storyline between achievement and collapse
 
-**Answer: D.**
-**Explanation:** The one-third formulation is qualified by local practice and the Multan exception; uniformity is the precise mistake.
+#### Answer key — 22
+**Correct answer: B**
 
-#### Q7. The statement 'the rupee was the first silver coin in India' is
+**Option-wise explanations:**
+- **A.** Incorrect. No single battle explains the multiplication of claimants and the political fragmentation after Islam Shah's death.
+- **B.** Correct. Firuz's killing, the rise of Adil, Sikandar and Ibrahim, and fractured military followings together explain the collapse far better than a one-cause story.
+- **C.** Incorrect. Afghan political actors remained very present; the problem was division, not disappearance.
+- **D.** Incorrect. Mansabdari belongs to Akbar's later imperial order and cannot explain the Sur breakdown of 1553-55.
 
-- A. incorrect because earlier silver coinage existed.
-- B. uncertain because standards never affect exchange.
-- C. correct because only copper circulated in the Sur empire.
-- D. correct because silver was unknown before Sher Shah.
+**Examiner trap:** complicated succession crisis compressed into a single-cause fall narrative
 
-**Answer: A.**
-**Explanation:** The correction is standardisation, not invention: earlier silver coinage and a trimetallic setting are essential context.
+#### Answer key — 23
+**Correct answer: C**
 
-#### Q8. The statement 'Rohtas and Rohtasgarh are the same fort' is
+**Option-wise explanations:**
+- **A.** Incorrect. Hemu was not Sher Shah's son; he rose in the later Sur political field under Adil Shah.
+- **B.** Incorrect. Rohtas is associated with frontier strategy, not with Hemu's architectural authorship.
+- **C.** Correct. His significance here lies in late-Sur power politics, showing how military-administrative talent operated amid dynastic disunity.
+- **D.** Incorrect. *Tarikh-i Sher Shahi* is associated with Abbas Khan Sarwani, not with Hemu.
 
-- A. correct because both guarded the Gakhhar frontier.
-- B. incorrect because one is in present-day Pakistan and the other in Bihar.
-- C. uncertain because place-names do not matter in history.
-- D. correct because both lie in Bengal.
+**Examiner trap:** late-Sur actors confused with Sher Shah's own household lineage
 
-**Answer: B.**
-**Explanation:** The names mask different locations and functions: north-west Rohtas and Bihar's Rohtasgarh must be separated.
+#### Answer key — 24
+**Correct answer: D**
 
-#### Q9. The statement 'Puran Mal proves uniform Sur persecution' is
+**Option-wise explanations:**
+- **A.** Incorrect. A mausoleum can illuminate royal memory and architecture, but it cannot reconstruct a battle line at Chausa.
+- **B.** Incorrect. Sasaram is a sixteenth-century Sur monument, not a colonial memorial detached from that context.
+- **C.** Incorrect. Monumental grandeur does not certify universal administrative success across the whole empire.
+- **D.** Correct. The tomb is historically valuable as evidence of sovereign self-fashioning, scale, patronage and continuity across two reign phases.
 
-- A. correct because every Sur policy targeted one religious community.
-- B. uncertain because political calculation never uses religious language.
-- C. incorrect because the episode needs a political-religious reading.
-- D. correct because the episode contained no violence.
+**Examiner trap:** monument treated either as mere tourism or as proof of every other institutional claim
 
-**Answer: C.**
-**Explanation:** The episode is politically and religiously entangled; neither a uniform-policy inference nor erasure of violence is defensible.
+#### Answer key — 25
+**Correct answer: A**
 
-#### Q10. The statement 'Sher Shah created Akbar's subas' is
+**Option-wise explanations:**
+- **A.** Correct. These Delhi structures belong to a layered political landscape in which Humayun, Sur intervention and later Mughal occupation overlap.
+- **B.** Incorrect. They matter precisely because they place Sur legitimacy inside the Delhi imperial setting.
+- **C.** Incorrect. Their relevance here is sixteenth-century, not a late-Mughal afterthought.
+- **D.** Incorrect. Neither structure is a Bengal sarai; both belong to the Delhi fort-mosque environment.
 
-- A. uncertain because territorial terms cannot be studied.
-- B. correct because Akbar's twelve subas existed from 1540.
-- C. correct because pargana meant a modern state capital.
-- D. incorrect because Sur sarkar/shiq-pargana terms require their own setting.
+**Examiner trap:** complex Delhi monument history flattened into one label
 
-**Answer: D.**
-**Explanation:** Sur sarkar/shiq-pargana vocabulary belongs to its own setting; importing Akbar's later subas is the periodisation error.
+#### Answer key — 26
+**Correct answer: B**
 
-#### Q11. The statement 'Sarwani's praise proves crime vanished' is
+**Option-wise explanations:**
+- **A.** Incorrect. Military movement mattered, but merchants, tax collectors and news carriers used the same infrastructure.
+- **B.** Correct. This option preserves the double edge of reform: easier circulation for trade and stronger oversight for the state.
+- **C.** Incorrect. Customs simplification did not amount to the disappearance of dues or state fiscal claims.
+- **D.** Incorrect. The reforms were important without turning sixteenth-century exchange into a modern capitalist market order.
 
-- A. incorrect because rhetoric and coercive mechanisms must be assessed together.
-- B. uncertain because merchants never travelled by road.
-- C. correct because coercive policing was absent.
-- D. correct because a court chronicle is a crime census.
+**Examiner trap:** commercial benefit narrated without the parallel surveillance and extraction logic
 
-**Answer: A.**
-**Explanation:** Sarwani's rhetoric must be read with the mechanisms of responsibility and punishment, not treated as literal universal measurement.
+#### Answer key — 27
+**Correct answer: C**
 
-#### Q12. The statement 'Sur collapse makes all Sur reforms meaningless' is
+**Option-wise explanations:**
+- **A.** Incorrect. A written record may reduce some arbitrariness, yet it does not place peasant and state on socially equal footing.
+- **B.** Incorrect. Climatic risk and crop uncertainty remained built into agrarian life regardless of administrative neatness.
+- **C.** Correct. This is the balanced formulation: clearer demand in principle, continued pressure and mediation in practice.
+- **D.** Incorrect. Collection could take cash or kind, and cash access was uneven across regions and cultivators.
 
-- A. uncertain because succession never affects governance.
-- B. incorrect because legacy and dynastic durability are separate questions.
-- C. correct because Akbar had no administrative predecessors.
-- D. correct because only dynasties, not institutions, matter.
+**Examiner trap:** record-keeping translated into peasant security that the evidence cannot support
 
-**Answer: B.**
-**Explanation:** Sur failure in succession does not erase roads, revenue or monetary legacy; it reveals their limited durability under personal rule.
+#### Answer key — 28
+**Correct answer: D**
 
-### Semantic-completeness coverage drills — Medieval Topic 14
+**Option-wise explanations:**
+- **A.** Incorrect. Later Mughal development involved selection and modification, not mechanical copying.
+- **B.** Incorrect. The continuity in revenue logic, military verification, roads and coinage is too substantial to deny altogether.
+- **C.** Incorrect. Mansabdari in its Mughal sense belongs later and cannot be back-written as a completed Sur institution.
+- **D.** Correct. This option preserves both influence and difference, which is the safest historiographical balance.
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Critique Sher Shah sources. | Sarwani/Nizamuddin/Mughal -> coin/inscription/fabric -> later colonial memory | neutral manual |
-| B | Map campaign/extent. | Bihar/Bengal -> Malwa/Raisen/Sammel/Kalinjar -> core/frontier/tribute | uniform empire |
-| C | Explain Afghan state. | monarchy -> nobles/clans/assignments -> sarkar/pargana/village | tribal democracy |
-| D | Audit revenue. | measure/classify/rai/share/patta/qabuliyat/cash-kind -> intermediaries/exceptions | ryotwari/universal rate |
-| E | Analyse roads/money. | old corridors -> sarai/well/dak/security -> rupiya/dam/gold/mints -> limits | inventions |
-| F | Assess army/justice. | recruitment/dagh/chehra/cavalry/forts -> policing/collective responsibility | modern departments |
-| G | Evaluate religion/architecture. | Raisen/accommodation -> Sasaram/Purana Qila/Rohtas phases | tolerant/persecutor label |
-| H | Explain legacy/collapse. | Islam Shah -> civil wars/Hemu -> 1555 -> Sur adaptation versus Mughal change | finished blueprint |
+**Examiner trap:** legacy reduced either to copy-paste borrowing or to total discontinuity
 
-**PYQ status:** zero direct CSE routes. The Topic-16 administrative hierarchy
-route remains adjacent and is not reproduced as an exact Sher Shah question.
+#### Answer key — 29
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. The advanced owner explicitly joins admiration for Sher Shah's effectiveness with resistance to the lone-genius myth.
+- **B.** Incorrect. Chronological and administrative insight would be lost if chronicles were discarded wholesale rather than read critically.
+- **C.** Incorrect. Admiration is exactly why Sarwani requires careful qualification, not uncritical acceptance.
+- **D.** Incorrect. Administrative accomplishment and moral evaluation of coercive episodes must be analysed separately.
+
+**Examiner trap:** praise or scepticism pushed so far that historical method disappears
+
+#### Answer key — 30
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. An exception warning does not cancel the relevance of revenue reform in the core zones where the system is most strongly described.
+- **B.** Correct. Multan works as a historical brake on overconfident uniformity claims about measurement, rate and collection.
+- **C.** Incorrect. The caution concerns revenue reach, not a change in imperial capital.
+- **D.** Incorrect. Patta and rai belong to agrarian-administrative vocabulary, not to a Portuguese lexical borrowing story.
+
+**Examiner trap:** exception note ignored when making universal administrative claims
+
+#### Answer key — 31
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Tourism writing may help with public memory, but it cannot replace primary numismatic evidence for monetary standards.
+- **B.** Incorrect. Heroic narrative about the ruler's life tells us nothing secure about mint practice or coin metal.
+- **C.** Correct. Coins are primary evidence precisely because they retain material and inscriptional data relevant to standardisation.
+- **D.** Incorrect. Akbar's regulations may show later adaptation, but they cannot by themselves prove Sher Shah's own mint standard.
+
+**Examiner trap:** numismatic claim built on memory sources instead of coins themselves
+
+#### Answer key — 32
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. The Sur state is too consequential in revenue, roads, coinage and military-administrative history to be treated as an empty interval.
+- **B.** Incorrect. The regime was effective without becoming a modern impersonal bureaucratic nation-state.
+- **C.** Incorrect. Short duration creates evidentiary caution, not historical insignificance.
+- **D.** Correct. This is the examiner-grade balance: real state-building achievement, checked by source limits, uneven reach and succession fragility.
+
+**Examiner trap:** final verdict pushed toward either dismissal or anachronistic glorification
+
+#### Answer key — 33
+
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct: the offices distinguish coercive, assessment, documentary and treasury functions without assuming identical local practice.
+- **B.** Pargana offices are not four hereditary village headmen; Akbar’s later suba cannot be projected backwards.
+- **C.** A record keeper does not thereby hold universal military and monetary authority.
+- **D.** Treasury custody is not the same as drafting every imperial decree.
+
+**Examiner trap:** later suba hierarchy imposed on Sur pargana offices
+
+#### Answer key — 34
+
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Rai is a revenue schedule; chehra and dagh concern soldiers and horses.
+- **B.** Correct: the ordered steps regularised claims without removing local mediation.
+- **C.** A document of demand does not prove equal power or elimination of zamindars.
+- **D.** A commonly reported norm is not demonstrated universal collection in exceptional regions.
+
+**Examiner trap:** written agreement treated as proof of equitable collection
+
+#### Answer key — 35
+
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** The fatal Kalinjar siege followed the 1539 battle.
+- **B.** Raisen followed Surajgarh and the establishment of Sur sovereignty.
+- **C.** Correct: earlier victories opened rule; the named central and western campaigns followed.
+- **D.** Sher Shah, not his successor Islam Shah, defeated Humayun at Kannauj.
+
+**Examiner trap:** state-building campaigns moved before accession
+
+#### Answer key — 36
+
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Survival and fabric can reflect multiple phases; the claim alone cannot date each wall.
+- **B.** A chronicle’s interval is not a surveyed nationwide inventory.
+- **C.** Sarais also supported markets, information, surveillance and state movement.
+- **D.** Correct: distinguish prescriptive claim and varied physical implementation.
+
+**Examiner trap:** idealised distance converted into empirical nationwide coverage
+
+#### Answer key — 37
+
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct: material coin evidence supports issue and standard, not universal circulation.
+- **B.** Earlier silver coinage existed; standardisation is not invention of money.
+- **C.** The dam was copper; a coin does not determine all local rent media.
+- **D.** Successor coinage cannot date all earlier infrastructure.
+
+**Examiner trap:** mint issue equated with universal monetisation
+
+#### Answer key — 38
+
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Praise of policing cannot erase a contrary episode.
+- **B.** Correct: the specific contested narrative complicates a single-purpose benevolent-ruler portrait.
+- **C.** A retrospective courtly chronicle requires source criticism, not transcript status.
+- **D.** A single coercive event does not evidence universal personnel changes.
+
+**Examiner trap:** single episode made exhaustive proof of a uniform religious policy
+
+#### Answer key — 39
+
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Two sites in distinct regions cannot be conflated.
+- **B.** The Bihar fort is not the Punjab/Gakhhar frontier fort.
+- **C.** Correct: geographical disambiguation prevents importing one fort’s function into the other.
+- **D.** Neither identity permits blanket Akbar-era attribution.
+
+**Examiner trap:** similar fort names used as evidence of same location
+
+#### Answer key — 40
+
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Earlier Delhi Sultanate precedents and enforcement limits prevent an invention claim.
+- **B.** Chehra refers to descriptive rolls of soldiers and dagh to horse branding.
+- **C.** Recruitment changes did not eliminate noble forces and bargaining.
+- **D.** Correct: formal checks and coalition politics could coexist.
+
+**Examiner trap:** verification reform mistaken for abolition of nobility
+
+#### Answer key — 41
+
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct: campaign outcome and colourful stratagem have different evidentiary status.
+- **B.** Humayun’s return occurred much later, after Sher Shah’s death.
+- **C.** A reported battlefield deception proves no such personnel policy.
+- **D.** The fatal siege was Kalinjar, not Samel.
+
+**Examiner trap:** literary stratagem converted into independently verified policy
+
+#### Answer key — 42
+
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Bengal–Delhi–Indus describes the broader east–west spine, not merely the Lahore–Multan segment.
+- **B.** Correct: different route functions matter in reconstructing state movement and surveillance.
+- **C.** The core describes roads associated with Sher Shah’s rule before 1545.
+- **D.** Roads aided military as well as trade and news circulation.
+
+**Examiner trap:** distinct transport corridors treated as interchangeable
+
+#### Answer key — 43
+
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Islam Shah ruled after 1545, so immediate collapse is false.
+- **B.** Humayun’s return to Delhi came after, not during, the stated succession.
+- **C.** Correct: distinguish a successor’s attempted continuity from post-1553 rivalries.
+- **D.** Hemu’s later political position cannot be projected backwards to Sher Shah’s rise.
+
+**Examiner trap:** death of founder equated with instant fall of dynasty
+
+#### Answer key — 44
+
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** A building cannot provide an agrarian survey count.
+- **B.** The earlier Delhi project cannot be erased by a later building.
+- **C.** Purana Qila’s phases resist assigning all fabric to one patron on stylistic grounds.
+- **D.** Correct: monument evidence illuminates patronage while requiring independent administrative sources.
+
+**Examiner trap:** monument evidence overextended into fiscal statistics
 
 ## PYQS AND ANSWER PRACTICE
 
-### PART IV. Original Mains practice: 10 examiner-grade solved answers
+### Direct PYQ ownership audit
 
-#### Mains 1. Trace Farid/Sher Khan's rise from local administrative exposure to the creation of Sur sovereignty.
+The canonical Basic and Advanced Topic 14 owners were rechecked first. They route **zero direct UPSC Civil Services PYQs to Topic 14 for 2018-2026**. The 2026 local official-paper and ledger search was repeated across `books\mains\2026\`, `knowledge-export\Mains PYQ\`, `exams\papers\`, `new_papers\`, `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`, `upsc-ai-kit\knowledge\_PYQ-GS1-GS3-Static-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2026.md` and `upsc-ai-kit\knowledge\PYQ-MAINS-COVERAGE-AUDIT-2026.md`; no Topic 14-owned 2026 prelims or mains item on Sher Shah, the Sur empire, revenue, roads, currency or army control was verified locally.
 
-**10 marks | 150 words**
+### Transparent routed / adjacent support items
 
-**Model solution**
+All four support items below are retained openly as **adjacent or routed PYQs**, not relabelled direct Topic 14 ownership. They sharpen administrative scale, agrarian distinction, source method and technology-state capacity reasoning relevant to Sher Shah's reign.
 
-**Claim / thesis:** Farid's route to sovereignty was a process of administrative learning, regional resource mobilisation and strategic scale-up, not a sudden personal miracle.
+#### Adjacent PYQ 1 — UPSC Prelims GS-I 2021 administrative-scale route (wording verified locally; key inferred)
 
-**Named evidence and analysis:**
-- Exposure in his father's jagirs/parganas supplied practical knowledge of assessment and intermediaries. **What it proves:** The sequence shows that local administrative knowledge and a connected Bihar-Bengal field made military victory governable.
-- Bihar politics gave a regional Afghan base; Surajgarh (1534) and Bengal/Gaur expanded resources. **What it proves:** The sequence shows that local administrative knowledge and a connected Bihar-Bengal field made military victory governable.
-- Chausa (1539) and Kannauj (1540) converted regional capacity into the displacement of Humayun. **What it proves:** The sequence shows that local administrative knowledge and a connected Bihar-Bengal field made military victory governable.
+**Question as securely verified from local OCR:** With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size?
 
-**Qualification:** Battle detail should remain bounded; Afghan politics were coalition-based rather than a timeless ethnic bloc.
+- A. Paragana-Sarkar-Suba
+- B. Sarkar-Paragana-Suba
+- C. Suba-Sarkar-Paragana
+- D. Paragana-Suba-Sarkar
 
-**Verdict:** Sher Shah's rise demonstrates how regional capacity could become imperial sovereignty when linked to route, resource and elite control.
+**Inferred answer - not officially verified locally:** **A. Paragana-Sarkar-Suba.** Confidence: high.
 
-**Why this earns marks:** A high-scoring response does not begin at Chausa. It makes the administrative apprenticeship and Bihar resource base causal, then uses Surajgarh, Bengal/Gaur and the two battles as a scale sequence. This prevents a generic 'brave commander' biography.
+**How to think it through:** Begin from the smallest routine territorial unit here, the pargana. A sarkar or shiq grouped larger administrative space above it. Suba belongs to the larger Mughal provincial framework above the sarkar. This is adjacent to Topic 14 because Sher Shah's own vocabulary stops safely at sarkar-pargana scale; the question warns against projecting Akbarian familiarity backward without ordering the units properly.
 
-**Demand decoding:** The directive **trace** requires a direct position on “Mains 1. Trace Farid/Sher Khan's rise from local administrative exposure to the creation of…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This is a scale-order elimination question, not a request for a full Sur constitutional essay. Use it to keep the territorial ladder clear and to prevent suba language from casually replacing Topic 14's safer sarkar-pargana formulation.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Mark pargana as the lowest unit first, hold suba for the widest unit, and eliminate every option that disrupts those two anchors before choosing the only surviving sequence.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** The route earns marks because it trains precise territorial ordering while remaining honest that the ledger routes the item generally through medieval-Mughal administration rather than directly to Sher Shah.
 
-**How to improve this answer:** For “Mains 1. Trace Farid/Sher Khan's rise from local administrative exposure to the creation of…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** Add one short line that Sher Shah's own administration should still be written primarily through sarkars or shiqs and parganas, so the correct ordering does not tempt you into careless backward projection.
 
-#### Mains 2. Assess Sher Shah's state capacity as an interlocking system rather than a list of reforms.
+#### Adjacent PYQ 2 — UPSC Prelims GS-I 2019 agrarian-intermediary route (wording verified locally; key inferred)
 
-**15 marks | 200 words**
+**Question as securely verified from local OCR:** With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?
 
-**Model solution**
+1. Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.
+2. Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary.
 
-**Claim / thesis:** Sher Shah's distinctive contribution was to make fiscal, monetary, communicative and coercive measures reinforce one another.
+Select the correct answer using the code given below.
 
-**Named evidence and analysis:**
-- Measurement, classification, rai and a generally one-third claim made revenue more legible. **What it proves:** Revenue could fund force; force and information secured roads; roads enlarged trade and taxable circulation.
-- The standardised silver rupee supported payments and market confidence. **What it proves:** Revenue could fund force; force and information secured roads; roads enlarged trade and taxable circulation.
-- The restored Indus-Sonargaon route, other roads, sarais and dak joined movement to information. **What it proves:** Revenue could fund force; force and information secured roads; roads enlarged trade and taxable circulation.
-- Merchant security and collective local responsibility made routes administratively usable. **What it proves:** Revenue could fund force; force and information secured roads; roads enlarged trade and taxable circulation.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-**Qualification:** Capacity remained mediated by local elites and dependent on personal supervision; it was not a modern direct state.
+**Inferred answer - not officially verified locally:** **D. Neither 1 nor 2.** Confidence: high.
 
-**Verdict:** The Sur system was an unusually coherent practical feedback loop, but one with personal and local limits.
+**How to think it through:** Statement 1 fails because jagirdars are not defined by judicial-police duty in that way, and zamindars cannot be reduced to revenue-right holders with no wider local role. Statement 2 also fails because jagirs were not hereditary offices in the sense stated, while zamindari claims often had hereditary character. In Topic 14 this adjacent item is useful because Sher Shah's countryside still depended on intermediaries and service assignments; one cannot flatten all rural authority into a single category.
 
-**Why this earns marks:** Marks come from connecting, rather than listing, revenue, money, routes, news and coercion. The feedback-loop formulation demonstrates causation. A top answer also says why concentrated direction makes this capacity difficult to reproduce after 1545.
+**Demand decoding:** Treat this as a distinction question about agrarian power-holders. The relevant Topic 14 lesson is not Mughal institutional history in full, but the need to separate assignment-holding service elites from locally rooted intermediaries.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Mains 2. Assess Sher Shah's state capacity as an interlocking system rather than a list of…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/elimination plan:** Test each statement separately; once Statement 1 collapses on function and Statement 2 collapses on heredity, the code row resolves to the final option without guesswork.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Why this earns marks / route earns marks:** It earns marks by protecting a crucial conceptual boundary. Sher Shah's use of zamindars and officers becomes clearer when students stop treating every holder of rights in the countryside as the same figure.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve/strengthen:** After eliminating the statements, add one sentence explaining that Topic 14's revenue collection still moved through local power and record networks rather than through an abstract peasant-state channel.
 
-**How to improve this answer:** For “Mains 2. Assess Sher Shah's state capacity as an interlocking system rather than a list of…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+#### Routed PYQ 3 — UPSC GS-I 2020 source-method support
 
-#### Mains 3. Examine Sher Shah's revenue system. Did it protect the peasant from arbitrary demand?
+**Question:** Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer in 250 words)
 
-**15 marks | 200 words**
+**Model answer:** Persian literary sources are indispensable for Topic 14 because they preserve the political vocabulary, administrative self-image and moral world in which Sher Shah was remembered. Abbas Khan Sarwani's *Tarikh-i Sher Shahi* is central: it gives the richest account of roads, sarais, justice, revenue, campaigns and rulerly conduct. Yet its value lies precisely in being read with caution. It was written later under Akbar and admires Sher Shah, so it often presents the regime in a polished and ideal form. Nizamuddin Ahmad's *Tabaqat-i Akbari* helps with chronology and dynastic synthesis, while Mughal retrospective writing reveals how the Sur interlude was later judged from within a restored Mughal order.
 
-**Model solution**
+These texts therefore reflect the age by showing elite assumptions about kingship, order, religion, conquest and administration. They do not function as neutral departmental files. Coins, inscriptions, forts, the Sasaram tomb and the Purana Qila landscape are necessary checks because they can verify titles, mints, dated constructions and political claims. The best comment is that Persian literary sources reveal the spirit of the age most effectively when they are treated as historically rich but interested witnesses.
 
-**Claim / thesis:** The revenue programme increased predictability through measurement and records, but it also made extraction more systematic and remained locally mediated.
+**Demand decoding:** This is a comment on source value and limitation together. In Topic 14, the answer must move beyond praise of chronicles and show how Sarwani, Nizamuddin and material evidence speak to one another.
 
-**Named evidence and analysis:**
-- Sown land was measured and classified as good, middling and bad. **What it proves:** Records could make a demand knowable to both collector and cultivator, reducing room for arbitrary multiplication, while simultaneously improving the state's fiscal grip.
-- Average yield and crop rates (rai) informed a generally one-third state claim. **What it proves:** Records could make a demand knowable to both collector and cultivator, reducing room for arbitrary multiplication, while simultaneously improving the state's fiscal grip.
-- Patta recorded area, crop and demand; local headmen and zamindars still mattered. **What it proves:** Records could make a demand knowable to both collector and cultivator, reducing room for arbitrary multiplication, while simultaneously improving the state's fiscal grip.
-- Cash/kind paths and the Multan exception show uneven operational practice. **What it proves:** Records could make a demand knowable to both collector and cultivator, reducing room for arbitrary multiplication, while simultaneously improving the state's fiscal grip.
+**Executable answer/elimination plan:** Open with a two-part thesis on value and caution, use Sarwani and Nizamuddin as named textual anchors, and then end by stating what coins, inscriptions and monuments can verify more securely than literary admiration can.
 
-**Qualification:** It is wrong to call it modern ryotwari or to make one-third universal in every place and crop.
+**Why this earns marks / route earns marks:** The route earns marks because it converts a broad medieval-source demand into a precise Sur source-method answer without pretending that literary texts are transparent administrative ledgers.
 
-**Verdict:** Sher Shah advanced fiscal legibility and some predictability, not a direct peasant-state settlement.
+**How to improve/strengthen:** Add one compact example of what coin evidence can prove - such as metal, mint or legend - so the non-literary corroboration point becomes even sharper.
 
-**Why this earns marks:** The examiner should see two sides of the same record: a known demand may restrain local arbitrariness, while measurement strengthens the fiscal claim. The answer earns balance only if it retains headmen/zamindars, cash/kind variation and the Multan qualification.
+#### Routed PYQ 4 — UPSC GS-I 2023 technology-state-capacity route
 
-**Demand decoding:** The directive **examine** requires a direct position on “Mains 3. Examine Sher Shah's revenue system. Did it protect the peasant from arbitrary…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** What were the major technological changes introduced during the Sultanate period? How did those technological changes influence the Indian society? (Answer in 250 words)
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Model answer:** The Sultanate period saw important technological and technical diffusion in architecture, irrigation, textile production, warfare and administrative communication. The pointed arch, dome and broader lime-mortar building practice changed the scale and finish of construction. Devices such as the spinning wheel and the Persian wheel affected craft productivity and irrigation. In war and transport, improved cavalry equipment, stronger fortification practice and expanding communication routes mattered increasingly to state power.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+The social influence of these changes lay in altered labour demand, urban growth, state reach and agrarian extraction. Better irrigation could support cultivation; textile techniques affected artisans and markets; new building methods reshaped urban landscapes and patronage; military and route technologies strengthened the ability of rulers to move troops, protect roads and demand revenue. Topic 14 borrows this routed question only for the later Sur extension of that logic. Sher Shah's roads, sarais, forts, military verification and circulation system show how technological or technical change mattered most when joined to organisation. The safest conclusion is that technology changed society through state capacity and production networks, not through hardware alone.
 
-**How to improve this answer:** For “Mains 3. Examine Sher Shah's revenue system. Did it protect the peasant from arbitrary…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Demand decoding:** This is a technology-plus-society question. For Topic 14, use it only to sharpen the link between technique, communication, fortification and administrative reach.
 
-#### Mains 4. How did roads, sarais and customs measures combine commerce with imperial control under Sher Shah?
+**Executable answer/elimination plan:** Group the answer into architecture, irrigation-craft and war-communication fields, then borrow Sur examples only in the concluding transfer line on routes, forts and organised state movement.
 
-**20 marks | 250 words**
+**Why this earns marks / route earns marks:** It earns marks by preserving the original Sultanate scope while still extracting a disciplined lesson for Sher Shah's circulation-and-control system.
 
-**Model solution**
+**How to improve/strengthen:** End with one direct contrast: technology can assist state capacity, but it never replaces political organisation, revenue support and disciplined command.
 
-**Claim / thesis:** The Sur circulation system supported commerce precisely because it also made people, goods and information more visible and movable for the state.
+### Original solved Mains questions
 
-**Named evidence and analysis:**
-- Sher Shah restored/improved the older Indus-Sonargaon route and maintained other strategic roads. **What it proves:** A corridor becomes commercially useful when risk and transaction barriers fall; the same corridor moves soldiers, carries reports, supplies forts and permits surveillance.
-- Sarais at the stated two-karoh interval offered lodging, markets and relay support. **What it proves:** A corridor becomes commercially useful when risk and transaction barriers fall; the same corridor moves soldiers, carries reports, supplies forts and permits surveillance.
-- Dak/news arrangements shortened informational distance. **What it proves:** A corridor becomes commercially useful when risk and transaction barriers fall; the same corridor moves soldiers, carries reports, supplies forts and permits surveillance.
-- Customs simplification at entry and sale reduced proliferating levies without abolishing fiscal claims. **What it proves:** A corridor becomes commercially useful when risk and transaction barriers fall; the same corridor moves soldiers, carries reports, supplies forts and permits surveillance.
-- Merchant safety relied on local responsibility backed by punishment. **What it proves:** A corridor becomes commercially useful when risk and transaction barriers fall; the same corridor moves soldiers, carries reports, supplies forts and permits surveillance.
+Exactly six original Mains models are retained below: **2 x 10 marks**, **2 x 15 marks**, **2 x 20 marks**.
 
-**Qualification:** Do not invent rates, kilometre conversions or a welfare-only story. Network reach and quality were not uniform.
-
-**Verdict:** Road policy was a political economy of circulation: trade was fostered, but also rendered governable.
-
-**Why this earns marks:** A good answer starts with circulation, not charity. It links route restoration, sarais, dak, customs and policing to both lower transaction friction and greater state visibility. It loses marks if it supplies invented tariff rates or modern kilometre conversions.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Mains 4. How did roads, sarais and customs measures combine commerce with imperial control…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 4. How did roads, sarais and customs measures combine commerce with imperial control…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 5. Why is Sher Shah's silver rupee best understood as standardisation rather than invention?
-
-**10 marks | 150 words**
+#### Original Mains 1 — Why does Sher Shah's five-year reign hold a disproportionately large place in medieval Indian history? (10 marks; 150 words)
 
 **Model solution**
 
-**Claim / thesis:** Sher Shah's monetary importance lies in a durable standard of fine silver currency, not in the first appearance of silver money.
+**Claim.** Sher Shah's brief reign mattered because it joined conquest to a visibly working administrative programme.
 
-**Named evidence and analysis:**
-- The source associates him with a standardised fine silver rupee. **What it proves:** A recognised standard reduced uncertainty in revenue payment, salary and exchange across routes, complementing roads and assessment.
-- Gold, silver and copper indicate a connected trimetallic field. **What it proves:** A recognised standard reduced uncertainty in revenue payment, salary and exchange across routes, complementing roads and assessment.
-- Earlier silver coins existed, so chronological overclaim is false. **What it proves:** A recognised standard reduced uncertainty in revenue payment, salary and exchange across routes, complementing roads and assessment.
+**Named evidence and analysis.** The most convincing evidence is the cluster of measures remembered together: measured revenue demand, patta-qabuliyat, a standard silver rupiya, safer long-distance roads, sarais used for relay movement, and stern action against robbers and rebellious zamindars. These measures did not operate in isolation. Revenue made payment possible; coinage aided exchange; roads and sarais moved troops, merchants and intelligence; coercive order kept the whole network usable.
 
-**Qualification:** It did not eliminate local credit, older monies, barter or regional price differences; exact weight/fineness should not be invented.
+**Qualification.** The reputation should still be qualified. Sarwani wrote later and admired Sher Shah, regional implementation was uneven, and a five-year reign cannot prove universal routine across every district. Nor did Sher Shah invent every measure from nothing.
 
-**Verdict:** The rupee's significance is institutional reliability and later durability, not monetary creation ex nihilo.
+**Conclusion.** His historical weight comes from practical systematisation under short time pressure, not from mythical perfection.
 
-**Why this earns marks:** The essential discriminator is chronological modesty. State standardisation, name the trimetallic context and explain the fiscal-commercial mechanism. Avoid numerical fineness claims unless supplied by a cited source and reject the slogan that the rupee was money's first appearance.
+**Demand decoding:** The directive asks for proportion and explanation together. You must show why the reign seems 'large' without letting admiration erase the limits of short duration and source idealisation.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Mains 5. Why is Sher Shah's silver rupee best understood as standardisation rather than…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/elimination plan:** Begin with one sentence on short reign versus lasting reputation, deploy three concrete evidence clusters - revenue, circulation and coercive order - and close with a clear qualification rather than an uncritical tribute.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Why this earns marks / route earns marks:** It earns marks because it explains importance through interlocking institutions instead of listing reforms like disconnected facts.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve/strengthen:** Add one named site such as Sasaram, Rohtas or the Indus-Sonargaon road to make the administrative claim spatially grounded.
 
-**How to improve this answer:** For “Mains 5. Why is Sher Shah's silver rupee best understood as standardisation rather than…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 6. Discuss Sher Shah's law-and-order policy without romanticising it.
-
-**15 marks | 200 words**
+#### Original Mains 2 — Explain the administrative importance and the limit of patta-qabuliyat under Sher Shah. (10 marks; 150 words)
 
 **Model solution**
 
-**Claim / thesis:** Sher Shah's reputation for safe roads rested on a real administrative logic of local responsibility and stern enforcement, but its coercive costs must be retained.
+**Claim.** Patta-qabuliyat mattered because it made the state's demand more explicit, but it did not produce a direct modern peasant-state settlement.
 
-**Named evidence and analysis:**
-- Sources credit action against robbers, dacoits and recalcitrant zamindars. **What it proves:** Responsibility could mobilise local knowledge and deter concealment, making merchants more willing to travel and pay. Yet collective liability may punish communities for offences they did not personally commit.
-- Village headmen and zamindars were made responsible in policing. **What it proves:** Responsibility could mobilise local knowledge and deter concealment, making merchants more willing to travel and pay. Yet collective liability may punish communities for offences they did not personally commit.
-- Sarwani's old-woman safety image records a celebrated ideal and reputation. **What it proves:** Responsibility could mobilise local knowledge and deter concealment, making merchants more willing to travel and pay. Yet collective liability may punish communities for offences they did not personally commit.
-- Roads, sarais and customs policy gave security an economic setting. **What it proves:** Responsibility could mobilise local knowledge and deter concealment, making merchants more willing to travel and pay. Yet collective liability may punish communities for offences they did not personally commit.
+**Named evidence and analysis.** The patta recorded the assessed holding, crop or area basis and demand; qabuliyat marked acceptance by the cultivator. In combination with measurement and rai schedules, this strengthened fiscal legibility. A ruler could compare dues, restrain arbitrary local exaction in principle and organise collection more rationally.
 
-**Qualification:** Courtly praise is not a crime statistic, and security was not equally experienced by all groups or places.
+**Qualification.** The limit is equally important. Zamindars, muqaddams, qanungos and other local agents remained central. The famous one-third share is a norm, not proof of identical practice everywhere, and the advanced owner explicitly warns through the Multan exception against imagining universal application.
 
-**Verdict:** The policy fused commercial benefit with surveillance and coercion rather than embodying benevolence alone.
+**Conclusion.** Patta-qabuliyat improved record-based assessment, but within a mediated agrarian regime still marked by uneven enforcement and coercive collection.
 
-**Why this earns marks:** The answer must neither quote Sarwani as literal proof nor dismiss security as rhetoric. It should show how responsibility produced information and deterrence, then make collective punishment an ethical and administrative qualification.
+**Demand decoding:** The question is double-edged: importance alone is incomplete, and criticism alone is also incomplete. Keep both the administrative gain and the structural limit equally visible.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Mains 6. Discuss Sher Shah's law-and-order policy without romanticising it.”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/elimination plan:** Use a two-part answer - what patta-qabuliyat clarified, then what it did not transform - and anchor each part with one named institutional detail.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Why this earns marks / route earns marks:** The answer earns marks by refusing the common shortcut that translates written assessment into ryotwari or agrarian equality.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve/strengthen:** Add the phrases 'rai' and 'Multan exception' if space permits; they show control over both mechanism and limit.
 
-**How to improve this answer:** For “Mains 6. Discuss Sher Shah's law-and-order policy without romanticising it.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 7. Place Sher Shah's dagh and chehra measures in their correct institutional chronology.
-
-**10 marks | 150 words**
+#### Original Mains 3 — Discuss how roads, sarais and customs reform turned circulation into state capacity under Sher Shah. (15 marks; 250 words)
 
 **Model solution**
 
-**Claim / thesis:** Sher Shah revived and adapted earlier cavalry-verification controls; he should be placed between Sultanate precedent and Mughal systematisation.
+**Claim.** Sher Shah's roads, sarais and customs measures mattered not merely for transport but for the political management of movement.
 
-**Named evidence and analysis:**
-- Alauddin Khalji introduced or used dagh and chehra in the Sultanate. **What it proves:** Branding and descriptive rolls addressed the recurring information problem of fictitious musters and unreliable cavalry claims.
-- Sher Shah used direct recruitment and inspection within personal supervision. **What it proves:** Branding and descriptive rolls addressed the recurring information problem of fictitious musters and unreliable cavalry claims.
-- Akbar later systematised such controls within mansabdari and jagir arrangements. **What it proves:** Branding and descriptive rolls addressed the recurring information problem of fictitious musters and unreliable cavalry claims.
+**Evidence and analysis.** The basic owner ties Sher Shah to the repaired east-west route from the Indus to Sonargaon and to branch roads from Agra toward Rajasthan and from Lahore to Multan; the advanced owner adds the Agra-Burhanpur line. These corridors mattered because armies, tax collections, merchants and royal orders used the same channels. Sarais at intervals supplied lodging, resting animals, market exchange and security. Their use as dak stages turned physical movement into an information system. Customs simplification, associated with dues at controlled entry and sale points rather than repeated petty levies, reduced some friction in long-distance trade and made collection more legible.
 
-**Qualification:** Continuity is not sameness: each ruler used controls within a different fiscal, elite and administrative framework.
+The larger significance is institutional. Revenue and money become more effective when goods and officers can move safely; military reaction becomes faster when routes and relay points are reliable; intelligence becomes sharper when messages have fixed stopping places. In that sense circulation itself became a governing resource.
 
-**Verdict:** The correct verdict rejects both the Sher Shah-first and Akbar-first myths while explaining a durable state problem.
+**Qualification.** The roads were largely repaired or improved older corridors, not wholly invented lines. Sarai spacing and perfection of implementation must not be overstated, and trade support remained tied to surveillance and extraction.
 
-**Why this earns marks:** Chronology is the value addition: Alauddin, then Sher Shah, then Akbar. The answer must explain the shared verification problem and briefly state why the later mansab setting differs from a Sur army under personal supervision.
+**Conclusion.** Sher Shah converted communication infrastructure into administrative reach by binding mobility to information and control.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Mains 7. Place Sher Shah's dagh and chehra measures in their correct institutional…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive wants a process answer. Do not stop at naming roads; show how route, sarai and customs policy together changed what the state could actually do.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Organise the answer as corridor -> node -> collection logic -> state effect, then end with one sentence on limit so the infrastructure claim stays historically disciplined.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It earns marks because it turns infrastructure into an argument about governance, not a sightseeing note on famous roads.
 
-**How to improve this answer:** For “Mains 7. Place Sher Shah's dagh and chehra measures in their correct institutional…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** Add the phrase 'dak stage' explicitly; it proves that you understand sarais as communication nodes as well as shelters.
 
-#### Mains 8. Evaluate the tension between Afghan noble expectations and Sher Shah's personal despotism.
-
-**20 marks | 250 words**
+#### Original Mains 4 — Assess Sher Shah's military and frontier policy with reference to dagh, chehra and fort strategy. (15 marks; 250 words)
 
 **Model solution**
 
-**Claim / thesis:** Sur rule combined strong monarchical assertion with an Afghan political field in which nobles retained expectations of assignment, honour and participation.
+**Claim.** Sher Shah's military strength lay in verification and strategic position rather than in battlefield heroics alone.
 
-**Named evidence and analysis:**
-- Sher Shah's personal supervision made revenue, army and justice responsive to the sovereign. **What it proves:** Personal direction can rapidly coordinate a new empire, but it makes continuity dependent on a ruler's capacity and the willingness of powerful men to accept constraint.
-- Iqta/jagir-like expectations linked elite service to revenue and status. **What it proves:** Personal direction can rapidly coordinate a new empire, but it makes continuity dependent on a ruler's capacity and the willingness of powerful men to accept constraint.
-- Islam Shah's effort to assert monarchy over nobles continued centralisation but sharpened resentment. **What it proves:** Personal direction can rapidly coordinate a new empire, but it makes continuity dependent on a ruler's capacity and the willingness of powerful men to accept constraint.
-- Fragmentation after Islam Shah's death in 1553 exposed the limits of concentrated authority. **What it proves:** Personal direction can rapidly coordinate a new empire, but it makes continuity dependent on a ruler's capacity and the willingness of powerful men to accept constraint.
+**Evidence and analysis.** The core military-control devices associated with him are dagh for horse branding and chehra for descriptive identification of soldiers. These practices checked fraud in cavalry service and connected payment with inspection. Yet the advanced owner warns that they had Sultanate precedents, so Sher Shah's contribution is best written as disciplined adaptation rather than invention. Fort strategy completes the picture. Chunar mattered as an eastern route-fort, while Rohtas in the north-west was tied to control over the Gakhhars and to guarding against a Mughal return. Rohtasgarh in Bihar must be kept distinct. The army also operated through cavalry, infantry, elephants, artillery and different logistics in Bengal river zones, Punjab routes and Rajasthan campaigning.
 
-**Qualification:** Do not reduce this to 'tribal equality' or deny the throne's coercive power. Faction, succession, regional resources and military command all mattered.
+The analysis is that control of soldiers, horses and fort lines made frontier rule more durable than a mere victory list could suggest. The army was embedded in routes, supplies and strongpoints.
 
-**Verdict:** Sher Shah achieved a formidable but personally weighted balance; the succession crisis showed why administrative efficiency and dynastic durability were different tests.
+**Qualification.** Our evidence preserves the ideal of discipline more fully than full audited rosters, and later Mughal organisation differed in scale and framework.
 
-**Why this earns marks:** This needs an institutional, not ethnic, explanation. Strong answers balance monarchical coercion, assignments, noble expectations, Islam Shah's centralisation and post-1553 faction. A simplistic 'Afghan tribalism caused collapse' line is specifically inadequate.
+**Conclusion.** Sher Shah's frontier policy was effective because inspection and fort geography reinforced one another.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Mains 8. Evaluate the tension between Afghan noble expectations and Sher Shah's personal…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This is an assessment question, so combine evaluation with evidence. Explain what dagh, chehra and forts achieved before moving to the limit.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Write in three moves - control devices, fort geography, then frontier consequence - and use one contrast sentence to separate precedent from Sur adaptation.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** The answer earns marks because it makes military administration concrete through identifiable mechanisms and places.
 
-**How to improve this answer:** For “Mains 8. Evaluate the tension between Afghan noble expectations and Sher Shah's personal…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** Add the Kalinjar reference if space remains; it reminds the examiner that siege warfare strengthened the state yet also carried risk.
 
-#### Mains 9. Examine the Puran Mal/Raisen episode as a problem of religion and politics in Sur rule.
-
-**15 marks | 200 words**
+#### Original Mains 5 — Critically examine the structure of Sur administration from the king to the village level. (20 marks; 250 words)
 
 **Model solution**
 
-**Claim / thesis:** The Raisen episode demands an ethical acknowledgement of violence and a historically specific reading of political calculation and religious language.
+**Claim.** Sur administration under Sher Shah was a centralising but mediated monarchy that reached the countryside more effectively without becoming a modern direct bureaucracy.
 
-**Named evidence and analysis:**
-- Sher Shah is described as orthodox but not generally bigoted in the assigned source. **What it proves:** Religious idiom could legitimise or intensify political action; political security and elite pressure could shape its application. Analysis must not dissolve either dimension.
-- Puran Mal held a powerful fort and the episode followed political confrontation. **What it proves:** Religious idiom could legitimise or intensify political action; political security and elite pressure could shape its application. Analysis must not dissolve either dimension.
-- The source treats the act as political with religious gloss and records treacherous violence after an oath. **What it proves:** Religious idiom could legitimise or intensify political action; political security and elite pressure could shape its application. Analysis must not dissolve either dimension.
-- No general pattern of temple destruction is supplied by this evidence. **What it proves:** Religious idiom could legitimise or intensify political action; political security and elite pressure could shape its application. Analysis must not dissolve either dimension.
+**From the centre downward.** At the apex stood a forceful ruler who supervised finance, military affairs, chancery and justice-religious functions through Sultanate-derived portfolios. This central court mattered because revenue demand, coinage, roads, army inspection and punitive authority had to be coordinated from above.
 
-**Qualification:** One episode cannot prove a uniform policy, but administrative admiration cannot excuse or erase the violence. Famous quotation traditions require provenance caution.
+**Territorial layering.** Beneath the centre, sarkars or shiqs and parganas formed the operational chain. Administrative descriptions associate them with military-police supervision, revenue assessment, record-keeping, local treasuries and judicial work. At the village level, cultivators, muqaddams, patwaris, panchayats and zamindars remained indispensable. That is the key structural truth of the topic: the state penetrated the countryside through layered mediation, not by replacing local society.
 
-**Verdict:** The best conclusion is neither blanket exoneration nor blanket communal generalisation, but a sourced, qualified political-religious judgement.
+**Critical evaluation.** This structure gave Sher Shah notable advantages. Revenue could be stated more clearly; orders could travel more securely; local disorder could be punished more quickly. Yet its limits were real. Much description survives through later chronicle reconstruction; office functions were unlikely to be identical in every district; and personal supervision by the ruler remained unusually important. The system's later succession fragility underlines that dependence.
 
-**Why this earns marks:** The directive demands an interpretive answer. It should keep political calculation and religious language in the same frame, use Raisen specifically, acknowledge the reported betrayal/violence and reject both uniform-persecution and pure-administrative-exoneration stories.
+**Qualification and conclusion.** Sur administration therefore deserves praise as a coordinated short-reign system, but not description as either a finished Akbarian suba order or a direct modern district state.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Mains 9. Examine the Puran Mal/Raisen episode as a problem of religion and politics in Sur…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The question requires structural explanation plus criticism. A bare list of offices will not score unless you show how the chain worked and where it remained dependent on mediation and personal rule.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Move top-down - ruler, sarkar, pargana, village - and place one evaluative sentence after each level so structure and criticism advance together.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It earns marks because it answers the exact phrase 'from the king to the village level' instead of drifting into generic praise of reforms.
 
-**How to improve this answer:** For “Mains 9. Examine the Puran Mal/Raisen episode as a problem of religion and politics in Sur…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** Add one named local intermediary such as muqaddam or qanungo and one caution about Akbar's subas to sharpen both texture and historical boundary.
 
-#### Mains 10. Compare Sher Shah and Akbar as state-builders. Was Akbar merely an imitator?
-
-**20 marks | 250 words**
+#### Original Mains 6 — How far was Sher Shah a precursor of Akbar? Give a qualified answer. (20 marks; 250 words)
 
 **Model solution**
 
-**Claim / thesis:** Akbar inherited and adapted important Sur precedents, but his longer reign, larger framework and institutional elaboration make mere imitation untenable.
+**Claim.** Sher Shah was a precursor of Akbar in a real but limited sense: he demonstrated workable lines of revenue, circulation, coinage and military control that the later Mughals adapted rather than copied.
 
-**Named evidence and analysis:**
-- Sher Shah used measurement, rai, patta and a generally one-third claim; Akbar's 1580 dahsala used ten-year averages of produce and prices. **What it proves:** Comparison on these axes reveals evolution: common problems of verification and revenue were solved through increasingly articulated institutions, not copied unchanged.
-- Sher Shah's standardised rupee and route/sarai system aided circulation; Akbar worked within a larger imperial structure. **What it proves:** Comparison on these axes reveals evolution: common problems of verification and revenue were solved through increasingly articulated institutions, not copied unchanged.
-- Dagh-chehra show Alauddin -> Sher Shah -> Akbar continuity rather than Akbar-first invention. **What it proves:** Comparison on these axes reveals evolution: common problems of verification and revenue were solved through increasingly articulated institutions, not copied unchanged.
-- Sher Shah's sarkar/pargana milieu differs from Akbar's suba and mansab-jagir order. **What it proves:** Comparison on these axes reveals evolution: common problems of verification and revenue were solved through increasingly articulated institutions, not copied unchanged.
-- Sur personal supervision and Afghan elite tension contrast with Akbar's longer composite ruling-class strategy. **What it proves:** Comparison on these axes reveals evolution: common problems of verification and revenue were solved through increasingly articulated institutions, not copied unchanged.
+**Areas of continuity.** The most obvious links lie in revenue measurement, rai-type rate logic, patta-style record consciousness, road and sarai management, standard coinage, and the remembered use of dagh-chehra. These measures made state demand, payment and movement more legible. That achievement helps explain why later historians repeatedly connect Sher Shah with later Mughal effectiveness.
 
-**Qualification:** Neither rupture nor hero-worship works. Zabt was not universally identical even under Akbar, and Sur practices were not an impersonal modern bureaucracy.
+**Why the precursor label must be qualified.** First, many of these elements had Sultanate precedents; Sher Shah did not invent them all. Second, Akbar's order operated on a wider territorial scale, with subas, mansabdari integration and a more durable documentary regime. Third, the Sur state's own rapid fragmentation after Islam Shah shows that Sher Shah had not already solved the succession and coalition problems that a long-lasting empire had to solve.
 
-**Verdict:** Sher Shah was a crucial bridge and precursor; Akbar's achievement was adaptation, scale and durable systematisation, not passive imitation.
+**Judgement.** The right verdict is selective continuity. Sher Shah proved that a north-Indian monarchy could coordinate revenue, mobility and enforcement more tightly than before. Akbar's greatness lay in stabilising and enlarging some of these lines under a broader imperial settlement.
 
-**Why this earns marks:** A comparison earns marks by using axes rather than a two-column fact dump. Revenue method, territorial scale, cavalry checks and ruling-class organisation should each support the central verdict: precursor and adaptation, not copy or rupture.
+**Conclusion.** Precursor is therefore a useful analytical word only when paired with adaptation, precedent and limit.
 
-#### Evidence, comparison and source drills
+**Demand decoding:** The phrase 'how far' requires a graded answer. You must identify genuine continuity and then state clearly where the label breaks down.
 
-1. **Evidence clinic.** [ANALYSIS] When a claim concerns an institution, first name the practice, then identify who carried it out, what information it produced, and what social or temporal condition limited it. For Sher Shah, this prevents roads becoming mere construction, patta becoming a colonial settlement, or safety becoming benevolent rhetoric.
-2. **Comparison drill.** [ANALYSIS] Ask a comparison question on an axis rather than by ruler-list: revenue calculation, territorial vocabulary, currency, transport, military verification, ruling class and succession. Then distinguish precedent, adaptation and scale. This method protects the answer from both the innovation myth and the copying myth.
-3. **Source drill.** [ANALYSIS] A chronicle can preserve a ruler's ideal, sequence and remembered practice; a coin can show a monetary standard; a fort or sarai can show material investment; none alone measures uniform implementation. Write what each source can establish before drawing a wider inference.
+**Executable answer/elimination plan:** Use a two-column mental structure - continuity on one side, limits on the other - and reserve the conclusion for a measured verdict rather than an all-or-nothing claim.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Mains 10. Compare Sher Shah and Akbar as state-builders. Was Akbar merely an imitator?”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Why this earns marks / route earns marks:** It earns marks because it keeps three levels distinct: Sultanate precedent, Sur systematisation and Akbarian expansion.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 10. Compare Sher Shah and Akbar as state-builders. Was Akbar merely an imitator?”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** Add one comparison pair such as patta-qabuliyat versus later zabt or dagh-chehra versus mansabdari controls to make the graded verdict more concrete.

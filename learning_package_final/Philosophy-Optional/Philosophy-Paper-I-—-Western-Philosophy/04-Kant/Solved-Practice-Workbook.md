@@ -5,15 +5,15 @@ variant: learner-v2
 ---
 # Kant — Solved Practice Workbook
 
-> **Standalone workbook.** It reproduces the complete practice apparatus of the Kant learning package and can be attempted without the teaching sessions. Thirty-two original MCQs — twenty-four core diagnostics and eight remedial error-targeting drills — with four question-specific option explanations and one unique examiner trap each; the ten directly owned verified PYQs from 2018 to 2025, each solved in full; and six original Mains models, two each at 10, 15 and 20 marks.
+> **Standalone workbook.** It can be attempted without the teaching sessions. Thirty-three original MCQs with four option explanations and a trap each; eleven directly owned verified PYQs from 2018 to 2026, each solved in full; and seven original Mains models, including the untested regulative-Ideas demand.
 > **Syllabus, verbatim:** *Kant: Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God* — UPSC Philosophy Paper I, Section A, item 4.
 > **Discipline:** ✅ marks doctrine on which the standard sources converge, ⚠️ marks analytical reconstruction for exam use, and ❓ marks a live scholarly dispute. Kant is cited by **A/B pagination**. Every model answer is independent learner practice and is never an official UPSC key.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+### 33 original MCQs — 24 core diagnostics, 8 remedial drills and 1 targeted 2026 extension
 
-**Answer placement:** each correct option was fixed independently, so the key sequence is unpatterned rather than rotated. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God — together with the critical project, the transcendental/transcendent discrimination, the change of standpoint, the two expositions, transcendental ideality with empirical reality, the metaphysical and transcendental deductions, apperception, "Understanding makes Nature", the Schematism, the three Analogies, the Refutation of Idealism, phenomena and noumena, the regulative/constitutive distinction, the Paralogisms, the Ideal, the four Antinomies and the dependency chain among the three God-proofs. The eight remedial drills attack the specific confusions that cost marks every year.
 
@@ -27,199 +27,82 @@ Consider the following statements about Kant's use of the terms *transcendental*
 
 Which of the statements given above is/are correct?
 
-A. 1 and 3 only
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-B. 1 and 2 only
+#### MCQ 2. What Kant must show to answer Hume
 
-C. 2 and 3 only
+Hume argues that repeated conjunction never discloses a necessary tie between events. Which answer best captures the **scope** of Kant's Second Analogy without presuming it deduces each particular law?
 
-D. 1, 2 and 3
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: it keeps the correct account of transcendental enquiry but attaches Kant's own label to the wrong side, which is exactly the error statement 3 contains.
-- **B:** Correct: transcendental concerns conditions of possible experience and is legitimate, while transcendent means crossing beyond experience and is the source of dialectical illusion.
-- **C:** Incorrect: statement 2 is right, but pairing it with the inversion in statement 3 leaves the candidate calling Kant's method transcendent.
-- **D:** Incorrect: statements 1 and 2 cannot be combined with statement 3, since 3 reverses the very distinction the first two draw.
-
-**Examiner trap 1:** Using "transcendental" and "transcendent" interchangeably destroys the Dialectic, because Kant's whole diagnosis is that reason slides from the first to the second. Fix the discrimination in your first paragraph and the rest of the script is protected.
-
-#### MCQ 2. What Hume actually did to Kant, and where Kant says it
-
-Which one of the following statements about Hume's role in the genesis of the critical philosophy is **accurate**?
-
-A. Kant says in the *Critique of Pure Reason* that Hume awoke him from his dogmatic slumber.
-
-B. Kant rejects Hume's analysis of experience and shows that necessary connexion is perceived after all.
-
-C. Kant treats Hume as a dogmatist whose confidence in reason had to be curbed by criticism.
-
-D. Kant says in the *Prolegomena* that the recollection of Hume interrupted his dogmatic slumber.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the remark belongs to the Preface of the *Prolegomena* of 1783, not to either edition of the *Critique*, and "awoke" is a loose rendering.
-- **B:** Incorrect: Kant concedes Hume's negative point about experience entirely and relocates necessity to the conditions of objective time-determination instead.
-- **C:** Incorrect: Hume is Kant's model of consistent empiricism and the antidote to dogmatism, not an instance of it.
-- **D:** Correct: the German verb is *unterbrach*, "interrupted", and the sentence appears in the *Prolegomena* Preface.
-
-**Examiner trap 2:** Attributing the "dogmatic slumber" sentence to the *Critique* is a visible provenance error. Name the *Prolegomena*, give the year, and mark the translation.
+A. Kant accepts Hume's psychological custom as the objective rule that fixes a necessary order in the appearances themselves.
+B. To judge an occurrence as an objective event, rather than one's arbitrary order of perceptions, it must follow a rule; identifying the specific empirical causal law still requires inquiry.
+C. The category of causality proves which particular material cause produced any event; the content of natural laws therefore needs no experimental confirmation.
+D. Kant grants objective event order but makes causal determination a regulative suggestion useful when seeking further explanations.
 
 #### MCQ 3. The analytic/synthetic distinction and the empty cell
 
 Which one of the following is **correct** about Kant's cross-classification of judgements?
 
-A. Analytic a posteriori judgements cannot exist, since containment makes experience idle.
-
-B. Synthetic a priori judgements are precisely those whose denial is self-contradictory.
-
-C. Analytic judgements are ampliative, since they make explicit what was only implicit.
-
-D. Synthetic a posteriori judgements are strictly universal because they generalise over cases.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: if the predicate is already contained in the subject-concept, analysis alone settles the judgement, so no experience could be required.
-- **B:** Incorrect: it is precisely characteristic of a synthetic judgement that its denial involves no contradiction, which is why intuition must be called in.
-- **C:** Incorrect: analytic judgements are explicative rather than ampliative; making implicit content explicit adds no new determination.
-- **D:** Incorrect: empirical judgements can achieve only comparative universality, since no exception has been met so far.
-
-**Examiner trap 3:** Naming the empty cell proves that you have understood the classification as a **cross** of two independent distinctions rather than one distinction with four labels. It costs a single clause.
+A. Analytic judgements are ampliative, since they make explicit what was only implicit.
+B. Synthetic a posteriori judgements are strictly universal because they generalise over cases.
+C. Analytic a posteriori judgements cannot exist, since containment makes experience idle.
+D. Synthetic a priori judgements are precisely those whose denial is self-contradictory.
 
 #### MCQ 4. Kant's two marks of a priori cognition
 
 According to Kant at B3–4, which pair of features marks a cognition as a priori?
 
-A. Clarity and distinctness of ideas
-
-B. Simplicity and immediate self-evidence
-
-C. Necessity and strict universality
-
-D. Certainty and psychological indubitability
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: clarity and distinctness are Descartes' criteria of truth, and Kant's argument nowhere relies on them.
-- **B:** Incorrect: simplicity and self-evidence are marks associated with intuitive first principles in the rationalist tradition, not Kant's tests for apriority.
-- **C:** Correct: a judgement is a priori if it is thought together with the impossibility of its being otherwise and admits no possible exception.
-- **D:** Incorrect: certainty is psychological and can attach to well-attested empirical beliefs, so it cannot distinguish a priori from a posteriori warrant.
-
-**Examiner trap 4:** Strict universality is the sharper of the two criteria, because an empirical generalisation may be exceptionless as it happens without being exceptionless by entitlement. Write that sentence and the difference is secured.
+A. Certainty and psychological indubitability
+B. Clarity and distinctness of ideas
+C. Simplicity and immediate self-evidence
+D. Necessity and strict universality
 
 #### MCQ 5. Why "7 + 5 = 12" is synthetic
 
 Kant argues that "7 + 5 = 12" is a synthetic judgement principally because
 
 A. the concept of the sum of seven and five contains only their union and not twelve
-
 B. the judgement is verified by counting objects and is therefore drawn from experience
-
 C. arithmetical propositions can be denied without contradiction and might have been false
-
 D. the equality sign asserts a real relation between two independently existing quantities
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: to reach twelve one must go beyond the concept and call in intuition, which is precisely what makes the judgement ampliative.
-- **B:** Incorrect: counting is the appeal to *pure* intuition, and Kant insists that the result is necessary rather than empirically established.
-- **C:** Incorrect: Kant holds arithmetical truths to be necessary; the possibility of denial without contradiction concerns judgement form, not truth-value.
-- **D:** Incorrect: this reads the proposition as a claim about existing quantities and abandons the question of the judgement's own warrant.
-
-**Examiner trap 5:** Candidates who defend the example by saying "we learn it by counting" have converted Kant's showcase of the synthetic **a priori** into an empirical generalisation and lost the point of the section.
 
 #### MCQ 6. The exact content of the change of standpoint
 
 Which one of the following states Kant's hypothesis at Bxvi–xviii **without distortion**?
 
 A. Things in themselves conform to the categories of the human understanding.
-
 B. Objects, as objects of possible experience, conform to our a priori forms.
-
 C. The human mind creates the objects it perceives entirely out of its own resources.
-
 D. Cognition must conform to objects, which is why a priori knowledge is impossible.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Kant expressly exempts things in themselves, and extending the claim to them would reinstate the contradiction he is trying to remove.
-- **B:** Correct: the restricting clause is part of the hypothesis, not a later qualification added under pressure.
-- **C:** Incorrect: what is contributed is form; the matter of sensation is received, and empirical objects are given rather than manufactured.
-- **D:** Incorrect: this is the assumption Kant proposes to abandon, and he cites its failure as the reason for the experiment.
-
-**Examiner trap 6:** Quoting the slogan without its restricting clause invites the examiner to read Kant as an idealist about the world itself. The clause is six words long and it is the difference between Kant and the caricature.
 
 #### MCQ 7. The 2023 printed sentence and Kant's own formulation
 
 The 2023 Paper I question prints: "Precepts without concepts are blind and concepts without precepts are empty." Which one of the following is the **correct** handling of this line?
 
-A. Silently replace the printed line with Kant's own formulation and answer from that.
-
-B. Treat the printed line as Kant's own exact words, since it appears in an official paper.
-
-C. Refuse to answer this part at all, since the quoted sentence misrepresents the *Critique*.
-
-D. Quote the paper as printed, then give Kant's A51/B75 wording and note the substitution.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: correcting the paper without acknowledgement conceals the discrepancy and forfeits the chance to display textual control.
-- **B:** Incorrect: Kant's formulation is "Thoughts without content are empty, intuitions without concepts are blind", and "precepts" stands where "intuitions" should stand.
-- **C:** Incorrect: the question asked is about the reconciliation of rationalism with empiricism, and that question is perfectly answerable.
-- **D:** Correct: quoting as printed, restoring the original and noting the substitution demonstrates accuracy without appearing to lecture the examiner.
-
-**Examiner trap 7:** The four-step handling — quote, restore, note, answer — is worth marks in itself, and it takes two sentences. Never silently correct an official paper.
+A. Treat the printed line as Kant's own exact words, since it appears in an official paper.
+B. Refuse to answer this part at all, since the quoted sentence misrepresents the *Critique*.
+C. Quote the paper as printed, then give Kant's A51/B75 wording and note the substitution.
+D. Silently replace the printed line with Kant's own formulation and answer from that.
 
 #### MCQ 8. Which arguments of the metaphysical exposition do which job
 
 In the metaphysical exposition of space, which grouping correctly matches the arguments to what they establish?
 
-A. Arguments 1 and 3 establish apriority; arguments 2 and 4 establish intuitivity.
-
-B. All four arguments establish apriority, and intuitivity is established separately.
-
-C. Arguments 1 and 2 establish apriority; arguments 3 and 4 establish intuitivity.
-
-D. Arguments 2 and 3 establish apriority; arguments 1 and 4 establish intuitivity.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the singularity argument is the third, not the first, and the non-empirical argument is the first, not the third.
-- **B:** Incorrect: the exposition assembles its conclusion from both pairs, and the transcendental exposition presupposes rather than supplies intuitivity.
-- **C:** Correct: space is not derived from experience and cannot be thought away, which yields apriority; and there is one space whose parts are limitations, given as an infinite magnitude, which yields intuitivity.
-- **D:** Incorrect: this scrambles the pairs and leaves the crucial fourth argument attached to the wrong conclusion.
-
-**Examiner trap 8:** Listing four arguments without sorting them describes the exposition instead of explaining it. Say which pair delivers apriority and which delivers intuition, and the structure of the 2019 answer writes itself.
+A. Arguments 2 and 3 establish apriority; arguments 1 and 4 establish intuitivity.
+B. Arguments 1 and 3 establish apriority; arguments 2 and 4 establish intuitivity.
+C. All four arguments establish apriority, and intuitivity is established separately.
+D. Arguments 1 and 2 establish apriority; arguments 3 and 4 establish intuitivity.
 
 #### MCQ 9. The transcendental exposition and its historical qualification
 
 Which one of the following most accurately states the position of Kant's transcendental exposition of space after the rise of non-Euclidean geometry?
 
-A. Non-Euclidean geometry refutes the claim that space is the a priori form of outer sense.
-
-B. Non-Euclidean geometry leaves the transcendental exposition of space entirely unaffected.
-
-C. Non-Euclidean geometry shows that space is after all a discursive concept, not an intuition.
-
-D. Non-Euclidean geometry weakens the argument from geometry, not the metaphysical exposition.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the general claim that our experience has a priori spatial form is not settled by which geometry describes physical space.
-- **B:** Incorrect: the transcendental exposition explicitly leans on the apodictic status of one geometry, so the loss of uniqueness does damage it.
-- **C:** Incorrect: the singularity and infinite-givenness arguments turn on features no development in geometry has touched.
-- **D:** Correct: the argument from geometry lapses while the metaphysical exposition and the general form-claim survive.
-
-**Examiner trap 9:** Stating this qualification pre-empts an objection the examiner is likely to have in mind, and it distinguishes the damaged argument from the surviving one instead of conceding everything at once.
+A. Non-Euclidean geometry weakens the argument from geometry, not the metaphysical exposition.
+B. Non-Euclidean geometry refutes the claim that space is the a priori form of outer sense.
+C. Non-Euclidean geometry leaves the transcendental exposition of space entirely unaffected.
+D. Non-Euclidean geometry shows that space is after all a discursive concept, not an intuition.
 
 #### MCQ 10. Transcendental ideality with empirical reality
 
@@ -232,23 +115,10 @@ II. It blocks both Newton's self-subsistent containers and Leibniz's confused re
 
 Which of the following is the correct matching, and what follows?
 
-A. 1–II, 2–I, and the two claims must always be stated together
-
-B. 1–I, 2–II, and the two claims must always be stated together
-
-C. 1–II, 2–I, and the second claim is a later concession
-
-D. 1–I, 2–II, and the first claim alone captures transcendental idealism
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: ideality denies that space determines things in themselves, which removes both rivals, while empirical reality affirms its objective validity for every appearance.
-- **B:** Incorrect: the matching is inverted, since it is ideality and not empirical reality that disposes of Newton and Leibniz.
-- **C:** Incorrect: empirical reality is asserted in the Aesthetic itself and is defended again in the Refutation, so it is no concession.
-- **D:** Incorrect: quoting ideality alone is precisely what makes Kant look like Berkeley to an examiner.
-
-**Examiner trap 10:** The commonest single-sentence error in scripts is to quote the ideality and omit the reality. Write the pair as one clause and the Berkeley charge can never be raised against your answer.
+A. 1–I, 2–II, and the first claim alone captures transcendental idealism
+B. 1–II, 2–I, and the two claims must always be stated together
+C. 1–I, 2–II, and the two claims must always be stated together
+D. 1–II, 2–I, and the second claim is a later concession
 
 #### MCQ 11. The derivation of the categories
 
@@ -261,132 +131,54 @@ Consider the following statements about Kant's metaphysical deduction.
 Which of the statements given above is/are correct?
 
 A. 1 only
-
 B. 2 and 3 only
-
 C. 1 and 2 only
-
 D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: it drops the worked example that shows the derivation to be systematic rather than merely asserted.
-- **B:** Incorrect: statement 3 contradicts Kant's own observation about how the third concept in each group arises.
-- **C:** Correct: the derivation rests on the judging premise, and the hypothetical form applied to a manifold given in time becomes the causal rule.
-- **D:** Incorrect: Kant notes that totality is plurality as unity, limitation is reality with negation, community is reciprocal causality and necessity is existence given through possibility.
-
-**Examiner trap 11:** A table reproduced from memory earns very little. Derive one category from its logical form in a single sentence and the whole table becomes an argument.
 
 #### MCQ 12. Metaphysical deduction versus transcendental deduction
 
 Which one of the following correctly distinguishes the two deductions?
 
-A. The metaphysical deduction argues from apperception; the transcendental deduction argues from the table of judgements.
-
-B. The metaphysical deduction identifies the categories; the transcendental deduction justifies their application.
-
-C. The metaphysical deduction concerns space and time; the transcendental deduction concerns the categories.
-
-D. The metaphysical deduction is found only in the A edition; the transcendental deduction only in the B edition.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the two methods are exactly reversed, since the table of judgements belongs to the identification and apperception to the justification.
-- **B:** Correct: the first answers *quid facti* and the second answers *quid juris*, which is why they cannot be merged.
-- **C:** Incorrect: space and time are treated in the Aesthetic, and neither deduction is about the forms of intuition.
-- **D:** Incorrect: both chapters appear in both editions, though the Deduction is substantially rewritten at B129–69.
-
-**Examiner trap 12:** Confusing the two deductions is listed as a standing trap in every Kant guide, and it is easy to avoid with a four-word formula: identification versus justification.
+A. The metaphysical deduction concerns space and time; the transcendental deduction concerns the categories.
+B. The metaphysical deduction is found only in the A edition; the transcendental deduction only in the B edition.
+C. The metaphysical deduction argues from apperception; the transcendental deduction argues from the table of judgements.
+D. The metaphysical deduction identifies the categories; the transcendental deduction justifies their application.
 
 #### MCQ 13. What the transcendental unity of apperception is
 
 Which one of the following best states Kant's doctrine of apperception?
 
 A. It is the standing possibility that the "I think" accompany all my representations.
-
 B. It is the empirical consciousness of oneself obtained by careful inner observation.
-
 C. It is the simple, permanent soul-substance that the act of thinking is said to reveal.
-
 D. It is the bundle of perceptions that Hume claimed to discover by careful introspection.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Kant's modal formulation at B131–2 requires only that the "I think" be *able* to accompany them, not that it always does.
-- **B:** Incorrect: apperception is not observed at all, since it is the condition of anything being observed as mine.
-- **C:** Incorrect: inferring a substance from the formal unity is precisely the paralogism Kant exposes.
-- **D:** Incorrect: the bundle is a content found within experience, whereas apperception is a condition of experience.
-
-**Examiner trap 13:** Dropping the modal phrase "must be able to" converts Kant's claim into the absurd suggestion of a continuous inner commentary. Quote the phrase as Kant writes it.
 
 #### MCQ 14. "Understanding makes Nature"
 
 Which one of the following is **not** part of what Kant means by the dictum that the understanding makes nature?
 
-A. Categories supply the a priori rules under which a manifold can count as objective nature.
-
-B. Nature, formally considered, is the law-governed unity of appearances.
-
-C. Sensations alone are unordered and must be synthesised to yield objects.
-
-D. The understanding produces the particular empirical laws that science discovers.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect as an answer, because supplying the a priori rules of objectivity is exactly what the dictum asserts.
-- **B:** Incorrect as an answer, because the formal restriction is the doctrine's central qualification.
-- **C:** Incorrect as an answer, because the need for synthesis is the premise from which the dictum follows.
-- **D:** Correct: particular laws remain empirical discoveries, and Kant secures only the universal form of nature a priori.
-
-**Examiner trap 14:** The mark is earned by the distinction between universal form and particular law. Without it the dictum sounds like the claim that physics could be done from the armchair.
+A. Sensations alone are unordered and must be synthesised to yield objects.
+B. The understanding produces the particular empirical laws that science discovers.
+C. Categories supply the a priori rules under which a manifold can count as objective nature.
+D. Nature, formally considered, is the law-governed unity of appearances.
 
 #### MCQ 15. Schema and image
 
 Which one of the following correctly states Kant's distinction between a schema and an image?
 
-A. The schema is a faint mental image, while the image itself is a vivid one.
-
-B. The schema is a rule of construction, while the image is a particular product.
-
-C. The schema belongs to sensibility, while the image belongs to the understanding.
-
-D. The schema is empirical, while the image is pure and given wholly a priori.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: vividness is a difference of degree among images and does not touch the rule–product contrast at all.
-- **B:** Correct: any drawn triangle is determinately scalene or equilateral, whereas the schema is the procedure for constructing a triangle in general.
-- **C:** Incorrect: images are products of the imagination working in sensibility, and the schema is produced by the same faculty as a rule.
-- **D:** Incorrect: transcendental schemata are a priori determinations of time, and it is images that are particular and given.
-
-**Examiner trap 15:** Writing that "the schema is a mental picture resembling both the category and the appearance" loses the section outright, because it reinstates the very heterogeneity the schema was introduced to bridge.
+A. The schema is empirical, while the image is pure and given wholly a priori.
+B. The schema is a faint mental image, while the image itself is a vivid one.
+C. The schema is a rule of construction, while the image is a particular product.
+D. The schema belongs to sensibility, while the image belongs to the understanding.
 
 #### MCQ 16. Why time and not space supplies the schemata
 
 Kant holds that the mediating schemata must be determinations of time rather than of space because
 
-A. time is more fundamental than space in the order of Kant's own exposition
-
-B. spatial relations are less exact and less measurable than temporal relations
-
-C. time is the form of inner sense and therefore present in every representation
-
-D. space is empirically real whereas time is transcendentally ideal in Kant's system
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: order of exposition is a matter of presentation and could not by itself establish a claim about the conditions of subsumption.
-- **B:** Incorrect: exactness is irrelevant, since the requirement is universality of presence rather than precision of measurement.
-- **C:** Correct: outer objects are in space, but inner states are not, so only time satisfies the requirement of being contained in every appearance.
-- **D:** Incorrect: both space and time are transcendentally ideal and empirically real, so this contrast is simply false.
-
-**Examiner trap 16:** The asymmetry between space and time is stated in the Aesthetic and cashed in the Schematism. Flagging it early and using it later shows architectural understanding rather than recall.
+A. space is empirically real whereas time is transcendentally ideal in Kant's system
+B. time is more fundamental than space in the order of Kant's own exposition
+C. spatial relations are less exact and less measurable than temporal relations
+D. time is the form of inner sense and therefore present in every representation
 
 #### MCQ 17. The three Analogies
 
@@ -400,89 +192,37 @@ III. Duration, secured by a persisting substratum.
 
 Which of the following is the correct matching?
 
-A. 1–I, 2–II, 3–III
-
-B. 1–II, 2–III, 3–I
-
-C. 1–III, 2–I, 3–II
-
-D. 1–I, 2–III, 3–II
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: it assigns succession to the First Analogy, which in fact secures duration through the persistence of substance.
-- **B:** Incorrect: it makes the Second Analogy the source of duration and the Third the source of succession, reversing both.
-- **C:** Correct: duration requires a persisting substratum, succession requires a causal rule, and simultaneity requires mutual causal community.
-- **D:** Incorrect: it correctly places simultaneity third but misassigns duration and succession between the first two.
-
-**Examiner trap 17:** The three Analogies are not three examples chosen at random; they exhaust the three modes of time, which is why there are exactly three. Say so and the section acquires necessity.
+A. 1–III, 2–I, 3–II
+B. 1–I, 2–III, 3–II
+C. 1–I, 2–II, 3–III
+D. 1–II, 2–III, 3–I
 
 #### MCQ 18. The house and the ship
 
 In the Second Analogy, what exactly does the contrast between viewing a house and watching a ship drift downstream establish?
 
-A. That mere succession of perceptions cannot constitute perception of an objective succession
-
-B. That the perception of a house is instantaneous while the perception of a ship is extended in time
-
-C. That objective events are perceived more vividly than merely subjective sequences of perception
-
-D. That the imagination reverses the order of perceptions whenever the object perceived is at rest
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: apprehension is successive in both cases, so the difference between the two must lie in the necessity of the order rather than in succession itself.
-- **B:** Incorrect: both apprehensions take time, and Kant's point depends on their both being successive.
-- **C:** Incorrect: vividness is a Humean criterion of impressions and plays no role in Kant's argument for objectivity.
-- **D:** Incorrect: the reversibility in the house case is a matter of what the perceiver may choose, not of any reversal performed by the imagination.
-
-**Examiner trap 18:** Using the ship without the house destroys the argument, because it is the **contrast** and not the moving object that shows why a rule is required.
+A. That the imagination reverses the order of perceptions whenever the object perceived is at rest
+B. That mere succession of perceptions cannot constitute perception of an objective succession
+C. That the perception of a house is instantaneous while the perception of a ship is extended in time
+D. That objective events are perceived more vividly than merely subjective sequences of perception
 
 #### MCQ 19. Strawson's objection and the correct adjudication
 
 Which one of the following states the defensible verdict on Kant's Second Analogy against Hume?
 
-A. Kant proves the particular causal laws that Hume had declared to be unknowable.
-
-B. Kant secures entitlement to the concept of cause but leaves causal laws empirical.
-
-C. Kant fails entirely, since Strawson shows the whole argument to be a non-sequitur.
-
-D. Kant relocates necessity into the objects, where Hume had simply failed to find it.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Kant never claimed to derive particular laws, and doing so would contradict his own separation of form from content.
-- **B:** Correct: the concept of cause is shown not to be a bastard of the imagination, while which causes operate remains a matter for science.
-- **C:** Incorrect: Strawson's charge targets the step from determined order of apprehension to causal necessitation, not the whole enterprise, and Allison offers a reply.
-- **D:** Incorrect: necessity is located in the conditions of objective time-determination, not in perceived objects.
-
-**Examiner trap 19:** "Kant answered Hume" is a slogan until you say **how much** of Hume's demand was met. The entitlement-versus-particular-laws sentence is the single most transferable line in this topic.
+A. Kant relocates necessity into the objects, where Hume had simply failed to find it.
+B. Kant proves the particular causal laws that Hume had declared to be unknowable.
+C. Kant secures entitlement to the concept of cause but leaves causal laws empirical.
+D. Kant fails entirely, since Strawson shows the whole argument to be a non-sequitur.
 
 #### MCQ 20. The negative noumenon
 
 Which one of the following correctly describes Kant's noumenon in the negative sense?
 
 A. An object of a non-sensible intellectual intuition available to all finite minds
-
 B. A hidden object that causes our sensations while itself remaining unobserved
-
 C. An illusory appearance that empirical criteria eventually expose as deceptive
-
 D. A limiting concept marking where sensible intuition ceases to yield knowledge
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: that describes the *positive* noumenon, and Kant denies that human beings possess intellectual intuition.
-- **B:** Incorrect: this is Jacobi's objection about noumenal affection, and asserting it as Kant's own doctrine is the commonest Kant error in scripts.
-- **C:** Incorrect: illusion is distinguished from reality *within* the field of appearances by empirical criteria, and has nothing to do with the noumenon.
-- **D:** Correct: the negative noumenon is a *Grenzbegriff* whose whole function is to forbid the extension of the categories beyond experience.
-
-**Examiner trap 20:** The noumenon marks the edge of the screen, not a second object behind it. Open with appearance-is-not-illusion and the whole subtopic stays clean.
 
 #### MCQ 21. Regulative and constitutive uses of the Ideas
 
@@ -494,79 +234,402 @@ Consider the following statements about the three Ideas of Reason.
 
 Which of the statements given above is/are correct?
 
-A. 3 only
-
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1 and 3 only
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the constitutive use is precisely what Kant denies, since it is the source of the Paralogisms, Antinomies and failed proofs.
-- **B:** Correct: the Ideas are derived from the three relations and are indispensable as maxims of systematic enquiry.
-- **C:** Incorrect: it correctly affirms the regulative use but then grants exactly the constitutive employment the Dialectic refutes.
-- **D:** Incorrect: it pairs a correct derivation with the illegitimate constitutive claim and omits the regulative employment altogether.
-
-**Examiner trap 21:** Writing that the Ideas are "useless fictions" is as wrong as treating them as objects. They are perfectly good instructions and perfectly bad objects, and both halves earn marks.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 3 only
 
 #### MCQ 22. The fallacy in the Paralogisms
 
 The Paralogisms of rational psychology are fallacious, according to Kant, because they
 
-A. rely on premises drawn from experience that turn out on inspection to be false
-
-B. presuppose the very conclusion about the soul that they had set out to prove
-
-C. equivocate between the "I" as logical subject and the "I" as a real object
-
-D. infer a universal conclusion from an insufficient number of observed instances
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the premises are not empirical at all, which is what makes rational psychology a purely a priori discipline.
-- **B:** Incorrect: circularity is a different fault, and Kant's charge is specifically that the middle term shifts its sense.
-- **C:** Correct: from the fact that I must think of myself as the subject of my thoughts, nothing follows about what I am.
-- **D:** Incorrect: hasty generalisation is an inductive fault, whereas a paralogism is a formal error in a syllogism.
-
-**Examiner trap 22:** Using the word "paralogism" without naming the fallacy is decoration. Say **equivocation**, identify the shifting term, and the answer becomes diagnostic.
+A. presuppose the very conclusion about the soul that they had set out to prove
+B. equivocate between the "I" as logical subject and the "I" as a real object
+C. infer a universal conclusion from an insufficient number of observed instances
+D. rely on premises drawn from experience that turn out on inspection to be false
 
 #### MCQ 23. When reason enters antinomy, and how the four divide
 
 Which one of the following is **correct** about the Antinomies?
 
-A. Pure reason enters antinomy when it treats the world-series as an object in itself, and the mathematical antinomies have both sides false.
-
-B. Pure reason enters antinomy whenever it applies the categories to appearances, and all four antinomies receive exactly the same resolution.
-
-C. Pure reason enters antinomy because the phenomena–noumena distinction mechanically generates contradiction, and both sides are always true.
-
-D. Pure reason enters antinomy when the understanding oversteps sensibility, and the dynamical antinomies are resolved by declaring both sides false.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the demand for the unconditioned becomes antinomial when read constitutively, and the world-whole, never being given as complete, is neither finite nor infinite.
-- **B:** Incorrect: applying the categories to appearances is their legitimate employment, and the two classes receive different resolutions.
-- **C:** Incorrect: the distinction is the cure rather than the cause, since it is transcendental realism about appearances that generates the conflict.
-- **D:** Incorrect: it misidentifies the faculty at fault and attaches the mathematical verdict to the dynamical pair.
-
-**Examiner trap 23:** Giving one resolution for all four antinomies is the commonest structural error at 20 marks. Mathematical: both false. Dynamical: both may be true. Say why — homogeneous versus heterogeneous series.
+A. Pure reason enters antinomy because the phenomena–noumena distinction mechanically generates contradiction, and both sides are always true.
+B. Pure reason enters antinomy when the understanding oversteps sensibility, and the dynamical antinomies are resolved by declaring both sides false.
+C. Pure reason enters antinomy when it treats the world-series as an object in itself, and the mathematical antinomies have both sides false.
+D. Pure reason enters antinomy whenever it applies the categories to appearances, and all four antinomies receive exactly the same resolution.
 
 #### MCQ 24. The dependency among the three God-proofs
 
 Which one of the following correctly states Kant's structural claim about the speculative proofs?
 
 A. Each of the three proofs stands or falls entirely on the strength of its own evidence.
-
 B. The ontological proof depends on the cosmological, which depends on the design proof.
-
 C. The design proof succeeds in establishing an omnipotent creator from the order of nature.
-
 D. The design proof needs the cosmological, which needs the ontological, so all fail.
+
+#### MCQ 25. Remedial — what Kant does and does not prove about God
+
+A candidate writes: "Kant's critique of the three proofs establishes that God does not exist." What is wrong with this?
+
+A. Kant establishes only that God's existence cannot be demonstrated theoretically.
+B. Nothing at all; Kant is an atheist and says so in the second-edition Preface.
+C. Kant establishes that God exists, but only by way of the design argument.
+D. Kant establishes that the very concept of God's existence is self-contradictory.
+
+#### MCQ 26. Remedial — noumena and Plato's Forms
+
+Why is it wrong to gloss Kant's noumena as equivalent to Plato's Forms?
+
+A. Plato's Forms are sensible particulars, whereas noumena are universals.
+B. Plato's Forms are knowable by reason, whereas noumena are precisely unknowable.
+C. Plato's Forms are unknowable, whereas noumena are known through pure intuition.
+D. Plato's Forms exist in time, whereas noumena exist outside space only.
+
+#### MCQ 27. Remedial — the Refutation of Idealism and the "scandal" footnote
+
+Which one of the following is correct about the Refutation of Idealism?
+
+A. It was added in 1787 and is directed principally against Berkeley's own dogmatic idealism.
+B. It appeared in 1781 and proves the existence of things in themselves outside us in space.
+C. It was added in the second edition of 1787, and the "scandal" remark is a Preface note.
+D. It appeared in the first edition of 1781, and the "scandal" remark is in the Refutation.
+
+#### MCQ 28. Remedial — the two resolutions must not be merged
+
+A candidate resolves all four antinomies by saying that thesis and antithesis are true in different realms. Where does this go wrong?
+
+A. It is correct only for the mathematical antinomies; the dynamical antinomies have both sides false.
+B. It is correct for all four, since every antinomy turns on the phenomena–noumena distinction.
+C. It is wrong for all four, since Kant declares both sides false in every one of the cases.
+D. It is correct only for the dynamical antinomies; the mathematical antinomies have both sides false.
+
+#### MCQ 29. Remedial — substance, alteration and coming-to-be
+
+According to the First Analogy, what is the correct description of change in the world of appearances?
+
+A. Substance persists, and what we call change is the alteration of its states.
+B. Both substance and its states persist, and only our perceptions alter.
+C. Substances come into being and pass away, and this is what change means.
+D. Change is an illusion, since the persistence of substance excludes all alteration.
+
+#### MCQ 30. Remedial — the "Copernican" analogy
+
+A candidate writes that Kant's Copernican revolution places the human being at the centre of the universe. What is the correct correction?
+
+A. The analogy concerns the centre of the solar system, which Kant relocates to the mind.
+B. Copernicus displaced the earth from the centre; the analogy is about explanation.
+C. Kant does place the knower at the centre, but only within the practical philosophy.
+D. Kant uses the phrase "Copernican revolution" himself at Bxvi, so the reading is authorised.
+
+#### MCQ 31. Remedial — what the Third Antinomy establishes about freedom
+
+Which one of the following states what Kant's resolution of the Third Antinomy actually achieves?
+
+A. It establishes that freedom and natural causality are two names for one relation.
+B. It proves that human beings actually possess transcendental freedom.
+C. It shows that freedom is thinkable without contradiction alongside determinism.
+D. It refutes natural determinism as it operates in the phenomenal world.
+
+#### MCQ 32. Remedial — the owner boundary in a God-proof answer
+
+In answering a question on Kant's critique of the proofs for God's existence, which one of the following is the correct treatment of Kant's moral philosophy?
+
+A. Devote a full section to the categorical imperative, since morality grounds Kant's theism.
+B. Omit all reference to practical reason, since only theoretical reason is printed in the clause.
+C. Replace the theoretical critique with the moral argument, which Kant regarded as decisive.
+D. Confine it to the practical postulate of God, and do not expand into ethics.
+
+#### MCQ 33. Hegel's objection to Kant's limit
+
+Which is the strongest Hegelian challenge to Kant's thing in itself?
+
+A. Thought must already determine the supposed limit as a limit, challenging the claim that reality beyond it is absolutely inaccessible to thought.
+B. Kant's unknowable thing in itself makes thought dependent on a brute given, so Hegel simply treats the given as an independently self-evident object.
+C. If Kant consistently limits knowledge to phenomena, the noumenon becomes a known empty object with only one property: being unknowable.
+D. The noumenon cannot be a separately knowable object, so Hegel accepts Kant's boundary and places Absolute knowledge wholly within finite appearances.
+
+### Why this MCQ count fits this clause
+
+**33, coverage-driven:** synthetic a priori judgment, space/time, categories/deduction and schemata, antinomies, noumena and God-proofs already receive diagnostic and remedial practice. The former provenance-only question on Hume now tests the Second Analogy's limit; the added item tests the Kant–Hegel reality/thought comparison. A separate solved original addresses the previously thin regulative Ideas of soul, world and God. The 2018–2026 owned PYQs handle full transcendental arguments and textual criticism that cannot be meaningfully reduced to further slogan-selection questions.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: transcendental concerns conditions of possible experience and is legitimate, while transcendent means crossing beyond experience and is the source of dialectical illusion.
+- **B:** Incorrect: statement 2 is right, but pairing it with the inversion in statement 3 leaves the candidate calling Kant's method transcendent.
+- **C:** Incorrect: statements 1 and 2 cannot be combined with statement 3, since 3 reverses the very distinction the first two draw.
+- **D:** Incorrect: it keeps the correct account of transcendental enquiry but attaches Kant's own label to the wrong side, which is exactly the error statement 3 contains.
+
+**Examiner trap 1:** Using "transcendental" and "transcendent" interchangeably destroys the Dialectic, because Kant's whole diagnosis is that reason slides from the first to the second. Fix the discrimination in your first paragraph and the rest of the script is protected.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the necessity Kant defends is not the felt expectation Hume derives from custom.
+- **B:** Correct: rule-determined succession is required for objective experience, while the identity of particular causal connections remains empirical.
+- **C:** Incorrect: the general principle governing objective succession does not specify a **particular** efficient cause independently of evidence.
+- **D:** Incorrect: the Second Analogy makes rule-governed succession constitutive of objective event-judgment, not just optional research guidance.
+
+**Examiner trap 2:** Avoid both overreach ("Kant deduced today's actual cause") and understatement ("causality is a merely useful hypothesis"): the constitutive rule has a limited transcendental scope.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: analytic judgements are explicative rather than ampliative; making implicit content explicit adds no new determination.
+- **B:** Incorrect: empirical judgements can achieve only comparative universality, since no exception has been met so far.
+- **C:** Correct: if the predicate is already contained in the subject-concept, analysis alone settles the judgement, so no experience could be required.
+- **D:** Incorrect: it is precisely characteristic of a synthetic judgement that its denial involves no contradiction, which is why intuition must be called in.
+
+**Examiner trap 3:** Naming the empty cell proves that you have understood the classification as a **cross** of two independent distinctions rather than one distinction with four labels. It costs a single clause.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: certainty is psychological and can attach to well-attested empirical beliefs, so it cannot distinguish a priori from a posteriori warrant.
+- **B:** Incorrect: clarity and distinctness are Descartes' criteria of truth, and Kant's argument nowhere relies on them.
+- **C:** Incorrect: simplicity and self-evidence are marks associated with intuitive first principles in the rationalist tradition, not Kant's tests for apriority.
+- **D:** Correct: a judgement is a priori if it is thought together with the impossibility of its being otherwise and admits no possible exception.
+
+**Examiner trap 4:** Strict universality is the sharper of the two criteria, because an empirical generalisation may be exceptionless as it happens without being exceptionless by entitlement. Write that sentence and the difference is secured.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: to reach twelve one must go beyond the concept and call in intuition, which is precisely what makes the judgement ampliative.
+- **B:** Incorrect: counting is the appeal to *pure* intuition, and Kant insists that the result is necessary rather than empirically established.
+- **C:** Incorrect: Kant holds arithmetical truths to be necessary; the possibility of denial without contradiction concerns judgement form, not truth-value.
+- **D:** Incorrect: this reads the proposition as a claim about existing quantities and abandons the question of the judgement's own warrant.
+
+**Examiner trap 5:** Candidates who defend the example by saying "we learn it by counting" have converted Kant's showcase of the synthetic **a priori** into an empirical generalisation and lost the point of the section.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Kant expressly exempts things in themselves, and extending the claim to them would reinstate the contradiction he is trying to remove.
+- **B:** Correct: the restricting clause is part of the hypothesis, not a later qualification added under pressure.
+- **C:** Incorrect: what is contributed is form; the matter of sensation is received, and empirical objects are given rather than manufactured.
+- **D:** Incorrect: this is the assumption Kant proposes to abandon, and he cites its failure as the reason for the experiment.
+
+**Examiner trap 6:** Quoting the slogan without its restricting clause invites the examiner to read Kant as an idealist about the world itself. The clause is six words long and it is the difference between Kant and the caricature.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Kant's formulation is "Thoughts without content are empty, intuitions without concepts are blind", and "precepts" stands where "intuitions" should stand.
+- **B:** Incorrect: the question asked is about the reconciliation of rationalism with empiricism, and that question is perfectly answerable.
+- **C:** Correct: quoting as printed, restoring the original and noting the substitution demonstrates accuracy without appearing to lecture the examiner.
+- **D:** Incorrect: correcting the paper without acknowledgement conceals the discrepancy and forfeits the chance to display textual control.
+
+**Examiner trap 7:** The four-step handling — quote, restore, note, answer — is worth marks in itself, and it takes two sentences. Never silently correct an official paper.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: this scrambles the pairs and leaves the crucial fourth argument attached to the wrong conclusion.
+- **B:** Incorrect: the singularity argument is the third, not the first, and the non-empirical argument is the first, not the third.
+- **C:** Incorrect: the exposition assembles its conclusion from both pairs, and the transcendental exposition presupposes rather than supplies intuitivity.
+- **D:** Correct: space is not derived from experience and cannot be thought away, which yields apriority; and there is one space whose parts are limitations, given as an infinite magnitude, which yields intuitivity.
+
+**Examiner trap 8:** Listing four arguments without sorting them describes the exposition instead of explaining it. Say which pair delivers apriority and which delivers intuition, and the structure of the 2019 answer writes itself.
+
+#### MCQ 9 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the argument from geometry lapses while the metaphysical exposition and the general form-claim survive.
+- **B:** Incorrect: the general claim that our experience has a priori spatial form is not settled by which geometry describes physical space.
+- **C:** Incorrect: the transcendental exposition explicitly leans on the apodictic status of one geometry, so the loss of uniqueness does damage it.
+- **D:** Incorrect: the singularity and infinite-givenness arguments turn on features no development in geometry has touched.
+
+**Examiner trap 9:** Stating this qualification pre-empts an objection the examiner is likely to have in mind, and it distinguishes the damaged argument from the surviving one instead of conceding everything at once.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: quoting ideality alone is precisely what makes Kant look like Berkeley to an examiner.
+- **B:** Correct: ideality denies that space determines things in themselves, which removes both rivals, while empirical reality affirms its objective validity for every appearance.
+- **C:** Incorrect: the matching is inverted, since it is ideality and not empirical reality that disposes of Newton and Leibniz.
+- **D:** Incorrect: empirical reality is asserted in the Aesthetic itself and is defended again in the Refutation, so it is no concession.
+
+**Examiner trap 10:** The commonest single-sentence error in scripts is to quote the ideality and omit the reality. Write the pair as one clause and the Berkeley charge can never be raised against your answer.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: it drops the worked example that shows the derivation to be systematic rather than merely asserted.
+- **B:** Incorrect: statement 3 contradicts Kant's own observation about how the third concept in each group arises.
+- **C:** Correct: the derivation rests on the judging premise, and the hypothetical form applied to a manifold given in time becomes the causal rule.
+- **D:** Incorrect: Kant notes that totality is plurality as unity, limitation is reality with negation, community is reciprocal causality and necessity is existence given through possibility.
+
+**Examiner trap 11:** A table reproduced from memory earns very little. Derive one category from its logical form in a single sentence and the whole table becomes an argument.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: space and time are treated in the Aesthetic, and neither deduction is about the forms of intuition.
+- **B:** Incorrect: both chapters appear in both editions, though the Deduction is substantially rewritten at B129–69.
+- **C:** Incorrect: the two methods are exactly reversed, since the table of judgements belongs to the identification and apperception to the justification.
+- **D:** Correct: the first answers *quid facti* and the second answers *quid juris*, which is why they cannot be merged.
+
+**Examiner trap 12:** Confusing the two deductions is listed as a standing trap in every Kant guide, and it is easy to avoid with a four-word formula: identification versus justification.
+
+#### MCQ 13 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Kant's modal formulation at B131–2 requires only that the "I think" be *able* to accompany them, not that it always does.
+- **B:** Incorrect: apperception is not observed at all, since it is the condition of anything being observed as mine.
+- **C:** Incorrect: inferring a substance from the formal unity is precisely the paralogism Kant exposes.
+- **D:** Incorrect: the bundle is a content found within experience, whereas apperception is a condition of experience.
+
+**Examiner trap 13:** Dropping the modal phrase "must be able to" converts Kant's claim into the absurd suggestion of a continuous inner commentary. Quote the phrase as Kant writes it.
+
+#### MCQ 14 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect as an answer, because the need for synthesis is the premise from which the dictum follows.
+- **B:** Correct: particular laws remain empirical discoveries, and Kant secures only the universal form of nature a priori.
+- **C:** Incorrect as an answer, because supplying the a priori rules of objectivity is exactly what the dictum asserts.
+- **D:** Incorrect as an answer, because the formal restriction is the doctrine's central qualification.
+
+**Examiner trap 14:** The mark is earned by the distinction between universal form and particular law. Without it the dictum sounds like the claim that physics could be done from the armchair.
+
+#### MCQ 15 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: transcendental schemata are a priori determinations of time, and it is images that are particular and given.
+- **B:** Incorrect: vividness is a difference of degree among images and does not touch the rule–product contrast at all.
+- **C:** Correct: any drawn triangle is determinately scalene or equilateral, whereas the schema is the procedure for constructing a triangle in general.
+- **D:** Incorrect: images are products of the imagination working in sensibility, and the schema is produced by the same faculty as a rule.
+
+**Examiner trap 15:** Writing that "the schema is a mental picture resembling both the category and the appearance" loses the section outright, because it reinstates the very heterogeneity the schema was introduced to bridge.
+
+#### MCQ 16 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: both space and time are transcendentally ideal and empirically real, so this contrast is simply false.
+- **B:** Incorrect: order of exposition is a matter of presentation and could not by itself establish a claim about the conditions of subsumption.
+- **C:** Incorrect: exactness is irrelevant, since the requirement is universality of presence rather than precision of measurement.
+- **D:** Correct: outer objects are in space, but inner states are not, so only time satisfies the requirement of being contained in every appearance.
+
+**Examiner trap 16:** The asymmetry between space and time is stated in the Aesthetic and cashed in the Schematism. Flagging it early and using it later shows architectural understanding rather than recall.
+
+#### MCQ 17 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: duration requires a persisting substratum, succession requires a causal rule, and simultaneity requires mutual causal community.
+- **B:** Incorrect: it correctly places simultaneity third but misassigns duration and succession between the first two.
+- **C:** Incorrect: it assigns succession to the First Analogy, which in fact secures duration through the persistence of substance.
+- **D:** Incorrect: it makes the Second Analogy the source of duration and the Third the source of succession, reversing both.
+
+**Examiner trap 17:** The three Analogies are not three examples chosen at random; they exhaust the three modes of time, which is why there are exactly three. Say so and the section acquires necessity.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the reversibility in the house case is a matter of what the perceiver may choose, not of any reversal performed by the imagination.
+- **B:** Correct: apprehension is successive in both cases, so the difference between the two must lie in the necessity of the order rather than in succession itself.
+- **C:** Incorrect: both apprehensions take time, and Kant's point depends on their both being successive.
+- **D:** Incorrect: vividness is a Humean criterion of impressions and plays no role in Kant's argument for objectivity.
+
+**Examiner trap 18:** Using the ship without the house destroys the argument, because it is the **contrast** and not the moving object that shows why a rule is required.
+
+#### MCQ 19 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: necessity is located in the conditions of objective time-determination, not in perceived objects.
+- **B:** Incorrect: Kant never claimed to derive particular laws, and doing so would contradict his own separation of form from content.
+- **C:** Correct: the concept of cause is shown not to be a bastard of the imagination, while which causes operate remains a matter for science.
+- **D:** Incorrect: Strawson's charge targets the step from determined order of apprehension to causal necessitation, not the whole enterprise, and Allison offers a reply.
+
+**Examiner trap 19:** "Kant answered Hume" is a slogan until you say **how much** of Hume's demand was met. The entitlement-versus-particular-laws sentence is the single most transferable line in this topic.
+
+#### MCQ 20 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: that describes the *positive* noumenon, and Kant denies that human beings possess intellectual intuition.
+- **B:** Incorrect: this is Jacobi's objection about noumenal affection, and asserting it as Kant's own doctrine is the commonest Kant error in scripts.
+- **C:** Incorrect: illusion is distinguished from reality *within* the field of appearances by empirical criteria, and has nothing to do with the noumenon.
+- **D:** Correct: the negative noumenon is a *Grenzbegriff* whose whole function is to forbid the extension of the categories beyond experience.
+
+**Examiner trap 20:** The noumenon marks the edge of the screen, not a second object behind it. Open with appearance-is-not-illusion and the whole subtopic stays clean.
+
+#### MCQ 21 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the Ideas are derived from the three relations and are indispensable as maxims of systematic enquiry.
+- **B:** Incorrect: it correctly affirms the regulative use but then grants exactly the constitutive employment the Dialectic refutes.
+- **C:** Incorrect: it pairs a correct derivation with the illegitimate constitutive claim and omits the regulative employment altogether.
+- **D:** Incorrect: the constitutive use is precisely what Kant denies, since it is the source of the Paralogisms, Antinomies and failed proofs.
+
+**Examiner trap 21:** Writing that the Ideas are "useless fictions" is as wrong as treating them as objects. They are perfectly good instructions and perfectly bad objects, and both halves earn marks.
+
+#### MCQ 22 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: circularity is a different fault, and Kant's charge is specifically that the middle term shifts its sense.
+- **B:** Correct: from the fact that I must think of myself as the subject of my thoughts, nothing follows about what I am.
+- **C:** Incorrect: hasty generalisation is an inductive fault, whereas a paralogism is a formal error in a syllogism.
+- **D:** Incorrect: the premises are not empirical at all, which is what makes rational psychology a purely a priori discipline.
+
+**Examiner trap 22:** Using the word "paralogism" without naming the fallacy is decoration. Say **equivocation**, identify the shifting term, and the answer becomes diagnostic.
+
+#### MCQ 23 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the distinction is the cure rather than the cause, since it is transcendental realism about appearances that generates the conflict.
+- **B:** Incorrect: it misidentifies the faculty at fault and attaches the mathematical verdict to the dynamical pair.
+- **C:** Correct: the demand for the unconditioned becomes antinomial when read constitutively, and the world-whole, never being given as complete, is neither finite nor infinite.
+- **D:** Incorrect: applying the categories to appearances is their legitimate employment, and the two classes receive different resolutions.
+
+**Examiner trap 23:** Giving one resolution for all four antinomies is the commonest structural error at 20 marks. Mathematical: both false. Dynamical: both may be true. Say why — homogeneous versus heterogeneous series.
+
+#### MCQ 24 — solution
 
 **Answer: D.**
 
@@ -578,39 +641,19 @@ D. The design proof needs the cosmological, which needs the ontological, so all 
 
 **Examiner trap 24:** Treating the three proofs as three separate exercises doubles the length of your answer and halves its force. State the dependency chain in one sentence and refute once.
 
-#### MCQ 25. Remedial — what Kant does and does not prove about God
+#### MCQ 25 — solution
 
-A candidate writes: "Kant's critique of the three proofs establishes that God does not exist." What is wrong with this?
-
-A. Nothing at all; Kant is an atheist and says so in the second-edition Preface.
-
-B. Kant establishes that God exists, but only by way of the design argument.
-
-C. Kant establishes that the very concept of God's existence is self-contradictory.
-
-D. Kant establishes only that God's existence cannot be demonstrated theoretically.
-
-**Answer: D.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: the second-edition Preface says the opposite — knowledge was denied in order to make room for rational belief.
-- **B:** Incorrect: the design argument is the one Kant treats most respectfully and still finds unable to reach an infinite creator.
-- **C:** Incorrect: Kant argues that denying God's existence involves no contradiction, which is a claim about logic, not about God's impossibility.
-- **D:** Correct: the position is theoretical agnosticism combined with a practical postulate, never atheism.
+- **A:** Correct: the position is theoretical agnosticism combined with a practical postulate, never atheism.
+- **B:** Incorrect: the second-edition Preface says the opposite — knowledge was denied in order to make room for rational belief.
+- **C:** Incorrect: the design argument is the one Kant treats most respectfully and still finds unable to reach an infinite creator.
+- **D:** Incorrect: Kant argues that denying God's existence involves no contradiction, which is a claim about logic, not about God's impossibility.
 
 **Examiner trap 25:** The sentence "Kant is theoretically agnostic, not atheistic" costs six words and prevents an examiner from reading your whole answer as a misunderstanding.
 
-#### MCQ 26. Remedial — noumena and Plato's Forms
-
-Why is it wrong to gloss Kant's noumena as equivalent to Plato's Forms?
-
-A. Plato's Forms are sensible particulars, whereas noumena are universals.
-
-B. Plato's Forms are knowable by reason, whereas noumena are precisely unknowable.
-
-C. Plato's Forms are unknowable, whereas noumena are known through pure intuition.
-
-D. Plato's Forms exist in time, whereas noumena exist outside space only.
+#### MCQ 26 — solution
 
 **Answer: B.**
 
@@ -622,151 +665,103 @@ D. Plato's Forms exist in time, whereas noumena exist outside space only.
 
 **Examiner trap 26:** Superficial resemblances between traditions are attractive and expensive. If you draw the comparison at all, draw it in order to mark the difference.
 
-#### MCQ 27. Remedial — the Refutation of Idealism and the "scandal" footnote
+#### MCQ 27 — solution
 
-Which one of the following is correct about the Refutation of Idealism?
-
-A. It was added in the second edition of 1787, and the "scandal" remark is a Preface note.
-
-B. It appeared in the first edition of 1781, and the "scandal" remark is in the Refutation.
-
-C. It was added in 1787 and is directed principally against Berkeley's own dogmatic idealism.
-
-D. It appeared in 1781 and proves the existence of things in themselves outside us in space.
-
-**Answer: A.**
+**Answer: C.**
 
 **Option explanations:**
-- **A:** Correct: the Refutation occupies B274–9 and the remark stands at Bxxxix note, in the Preface rather than in the proof.
-- **B:** Incorrect: both claims are wrong, since the section is B-only and the remark is a Preface footnote.
-- **C:** Incorrect: Berkeley is answered by the Transcendental Aesthetic, while the Refutation proper is directed at Descartes.
-- **D:** Incorrect: the objects proved are empirically external appearances in space, not things in themselves.
+- **A:** Incorrect: Berkeley is answered by the Transcendental Aesthetic, while the Refutation proper is directed at Descartes.
+- **B:** Incorrect: the objects proved are empirically external appearances in space, not things in themselves.
+- **C:** Correct: the Refutation occupies B274–9 and the remark stands at Bxxxix note, in the Preface rather than in the proof.
+- **D:** Incorrect: both claims are wrong, since the section is B-only and the remark is a Preface footnote.
 
 **Examiner trap 27:** Edition-specific material is a cheap source of visible error. The Refutation and the B-Deduction are B-only; the original Fourth Paralogism is A-only.
 
-#### MCQ 28. Remedial — the two resolutions must not be merged
-
-A candidate resolves all four antinomies by saying that thesis and antithesis are true in different realms. Where does this go wrong?
-
-A. It is correct for all four, since every antinomy turns on the phenomena–noumena distinction.
-
-B. It is wrong for all four, since Kant declares both sides false in every one of the cases.
-
-C. It is correct only for the dynamical antinomies; the mathematical antinomies have both sides false.
-
-D. It is correct only for the mathematical antinomies; the dynamical antinomies have both sides false.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the mathematical antinomies concern a homogeneous series, where no second standpoint is available to divide the claims between.
-- **B:** Incorrect: the third antinomy's resolution is precisely that natural determination and spontaneous causality can both hold, of different standpoints.
-- **C:** Correct: heterogeneity of the series in the dynamical pair permits compatibility, while the world-whole in the mathematical pair is simply no object.
-- **D:** Incorrect: this reverses the two verdicts and would leave freedom excluded by the very resolution meant to make room for it.
-
-**Examiner trap 28:** The classification is not decoration; it *determines* the resolution. State the reason — homogeneous versus heterogeneous conditions — and the two verdicts stop looking arbitrary.
-
-#### MCQ 29. Remedial — substance, alteration and coming-to-be
-
-According to the First Analogy, what is the correct description of change in the world of appearances?
-
-A. Substances come into being and pass away, and this is what change means.
-
-B. Change is an illusion, since the persistence of substance excludes all alteration.
-
-C. Substance persists, and what we call change is the alteration of its states.
-
-D. Both substance and its states persist, and only our perceptions alter.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: coming-to-be and passing-away of substance is exactly what the Analogy denies, since time-determination would then have no proxy.
-- **B:** Incorrect: alteration is affirmed, not denied; it is precisely the changing of determinations against a persisting bearer.
-- **C:** Correct: what changes are accidents, and substance does not change but *has* changing states.
-- **D:** Incorrect: making the alteration merely perceptual would collapse the objective/subjective distinction the Analogies exist to ground.
-
-**Examiner trap 29:** The distinction between *alteration* of states and *coming-to-be* of substance is the whole content of the First Analogy. Losing it turns Kant's argument into a bare assertion that things last.
-
-#### MCQ 30. Remedial — the "Copernican" analogy
-
-A candidate writes that Kant's Copernican revolution places the human being at the centre of the universe. What is the correct correction?
-
-A. Kant does place the knower at the centre, but only within the practical philosophy.
-
-B. Kant uses the phrase "Copernican revolution" himself at Bxvi, so the reading is authorised.
-
-C. The analogy concerns the centre of the solar system, which Kant relocates to the mind.
-
-D. Copernicus displaced the earth from the centre; the analogy is about explanation.
+#### MCQ 28 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: the practical philosophy is not in view at Bxvi, and importing it compounds the original confusion.
-- **B:** Incorrect: Kant invokes Copernicus but the label "Copernican revolution" is the commentators', not Kant's self-description.
-- **C:** Incorrect: no centre is being relocated at all, since the comparison is about how apparent phenomena are explained.
-- **D:** Correct: Copernicus explained apparent celestial motion by moving the observer, and Kant explains a priori knowledge by the constitution of the knower.
+- **A:** Incorrect: this reverses the two verdicts and would leave freedom excluded by the very resolution meant to make room for it.
+- **B:** Incorrect: the mathematical antinomies concern a homogeneous series, where no second standpoint is available to divide the claims between.
+- **C:** Incorrect: the third antinomy's resolution is precisely that natural determination and spontaneous causality can both hold, of different standpoints.
+- **D:** Correct: heterogeneity of the series in the dynamical pair permits compatibility, while the world-whole in the mathematical pair is simply no object.
 
-**Examiner trap 30:** The popular reading inverts the very comparison it claims to use. One clause about the direction of explanation removes the error and displays the provenance caution at the same time.
+**Examiner trap 28:** The classification is not decoration; it *determines* the resolution. State the reason — homogeneous versus heterogeneous conditions — and the two verdicts stop looking arbitrary.
 
-#### MCQ 31. Remedial — what the Third Antinomy establishes about freedom
-
-Which one of the following states what Kant's resolution of the Third Antinomy actually achieves?
-
-A. It proves that human beings actually possess transcendental freedom.
-
-B. It shows that freedom is thinkable without contradiction alongside determinism.
-
-C. It refutes natural determinism as it operates in the phenomenal world.
-
-D. It establishes that freedom and natural causality are two names for one relation.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: a theoretical proof of freedom is exactly what Kant denies is available to speculative reason.
-- **B:** Correct: the antithesis holds of appearances while spontaneous causality remains conceivable of the same agent considered as noumenon.
-- **C:** Incorrect: Kant reaffirms the Second Analogy for appearances and does not weaken it in the slightest.
-- **D:** Incorrect: identifying them would dissolve the distinction of standpoints on which the whole resolution depends.
-
-**Examiner trap 31:** "Room, not proof" is the four-word formula. Writing that Kant proves freedom converts a careful resolution into an over-claim the examiner will notice immediately.
-
-#### MCQ 32. Remedial — the owner boundary in a God-proof answer
-
-In answering a question on Kant's critique of the proofs for God's existence, which one of the following is the correct treatment of Kant's moral philosophy?
-
-A. Confine it to the practical postulate of God, and do not expand into ethics.
-
-B. Devote a full section to the categorical imperative, since morality grounds Kant's theism.
-
-C. Omit all reference to practical reason, since only theoretical reason is printed in the clause.
-
-D. Replace the theoretical critique with the moral argument, which Kant regarded as decisive.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the owner permits the practical postulate as a bounded consequence of the failure of speculative proof, and no further.
-- **B:** Incorrect: the categorical imperative, the good will and autonomy are Kantian ethics and are not printed in this syllabus item.
-- **C:** Incorrect: omitting the postulate loses Kant's own positive doctrine and leaves the answer looking like a bare negation.
-- **D:** Incorrect: the question asks about the critique of the speculative proofs, and replacing it answers a different question.
+- **A:** Correct: what changes are accidents, and substance does not change but *has* changing states.
+- **B:** Incorrect: making the alteration merely perceptual would collapse the objective/subjective distinction the Analogies exist to ground.
+- **C:** Incorrect: coming-to-be and passing-away of substance is exactly what the Analogy denies, since time-determination would then have no proxy.
+- **D:** Incorrect: alteration is affirmed, not denied; it is precisely the changing of determinations against a persisting bearer.
+
+**Examiner trap 29:** The distinction between *alteration* of states and *coming-to-be* of substance is the whole content of the First Analogy. Losing it turns Kant's argument into a bare assertion that things last.
+
+#### MCQ 30 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: no centre is being relocated at all, since the comparison is about how apparent phenomena are explained.
+- **B:** Correct: Copernicus explained apparent celestial motion by moving the observer, and Kant explains a priori knowledge by the constitution of the knower.
+- **C:** Incorrect: the practical philosophy is not in view at Bxvi, and importing it compounds the original confusion.
+- **D:** Incorrect: Kant invokes Copernicus but the label "Copernican revolution" is the commentators', not Kant's self-description.
+
+**Examiner trap 30:** The popular reading inverts the very comparison it claims to use. One clause about the direction of explanation removes the error and displays the provenance caution at the same time.
+
+#### MCQ 31 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: identifying them would dissolve the distinction of standpoints on which the whole resolution depends.
+- **B:** Incorrect: a theoretical proof of freedom is exactly what Kant denies is available to speculative reason.
+- **C:** Correct: the antithesis holds of appearances while spontaneous causality remains conceivable of the same agent considered as noumenon.
+- **D:** Incorrect: Kant reaffirms the Second Analogy for appearances and does not weaken it in the slightest.
+
+**Examiner trap 31:** "Room, not proof" is the four-word formula. Writing that Kant proves freedom converts a careful resolution into an over-claim the examiner will notice immediately.
+
+#### MCQ 32 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the categorical imperative, the good will and autonomy are Kantian ethics and are not printed in this syllabus item.
+- **B:** Incorrect: omitting the postulate loses Kant's own positive doctrine and leaves the answer looking like a bare negation.
+- **C:** Incorrect: the question asks about the critique of the speculative proofs, and replacing it answers a different question.
+- **D:** Correct: the owner permits the practical postulate as a bounded consequence of the failure of speculative proof, and no further.
 
 **Examiner trap 32:** Two sentences on the postulate, then stop. A God-proof answer that becomes an ethics survey has left the printed clause, and length will not compensate for scope.
 
 **Answer key, in order:** B · D · A · C · A · B · D · C · D · A · C · B · A · D · B · C · C · A · B · D · B · C · A · D · D · B · A · C · C · D · B · A
 
-**Placement audit:** A appears 8 times, B 8 times, C 8 times and D 8 times. There is no ABCD rotation window anywhere in the sequence, there are three adjacent repeats (positions 16–17, 24–25 and 28–29) and no run of three identical keys.
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Hegel challenges a fixed boundary between thought and reality from within the act of positing it.
+- **B:** Incorrect: Hegel challenges **any** unmediated brute given as a satisfactory endpoint, rather than adopting it to solve Kant's limit.
+- **C:** Incorrect: Kant's limit-concept is not already an empirically or theoretically *known object* with a discovered property.
+- **D:** Incorrect: Hegel questions whether a permanent appearance/reality boundary can remain fixed, rather than conceding it and restricting the Absolute to appearances.
+
+**Examiner trap 33:** A challenge to unknowability is not a licence to call every passing thought real.
 
 ## PYQS AND ANSWER PRACTICE
+
+**Timed practice:** Use the printed mark value and directive to budget time, then cover every subpart with claim, named evidence, argument, objection or reply, and a qualified verdict. The following examiner checklists are study aids, not word-count ceilings or guarantees of marks.
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key. Question wording is reproduced exactly as printed in the official papers; the 2018, 2019, 2020, 2021, 2022, 2023, 2024 and 2025 Paper I texts are all held locally in `books\philosophy_optional\` and the English wording of every Kant part below was read directly from those PDFs. Where the OCR of a mark column was unreliable, the mark value follows the repository's verified Western Philosophy PYQ ledger and is flagged. Doctrinal claims are attributed by **A/B pagination**, and interpretive disputes — whether transcendental idealism is a two-world or a two-aspect doctrine, whether the A- and B-Deductions argue differently, whether Kant's refutation reaches modal versions of the ontological argument — are flagged as contested rather than settled.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper I parts are written longer than General Studies answers. The working bands are **10 marks — about 150 to 200 words**, **15 marks — about 250 to 300 words**, and **20 marks — about 340 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the verdict heading and the "why this earns marks" notes are teaching apparatus that sit **outside** the timed word count.
+**Answer-depth convention.** The mark value indicates relative argumentative scope, not a workbook word cap. Develop each demanded claim with named textual evidence, reasoning, an objection or qualification where appropriate, and a defensible verdict; the demand-decoding and examiner notes are study apparatus, not prescribed answer lengths.
 
-**Coverage:** ten directly owned Kant PYQs from 2018 to 2025 — every part the ledger routes to this syllabus item — and six original solved Mains models, two each at 10, 15 and 20 marks. ⚠️ **Corpus signal:** Kant owns 10 of 112 Western Philosophy question-parts in the 2018–2025 corpus, and **2025 is the only year without a Kant-owned part**. Four further parts *name* Kant but are owned elsewhere — 2018 Q2(c) and the Quine parts (Topic 11), 2020 Q2(a) and 2025 Q2(c) (Topic 03), and 2025 Q1(e) (Topic 05) — and in each of those the owner's argument must be completed **before** Kant's reply is reported.
+**Coverage:** ten directly owned Kant PYQs from 2018 to 2025 and Q4(b) from 2026; seven original solved Mains models, including the added Ideas-of-Reason question. ⚠️ **Corpus signal (2018–2025 only):** Kant owns 10 of 112 Western Philosophy parts, with **2025 the only year without a Kant-owned part**. Parts that name Kant but are owned elsewhere include 2018 Q2(c) and other Quine comparisons (Topic 11), 2020 Q2(a), 2025 Q2(c) and 2026 Q2(b) (Topic 03), and 2025 Q1(e) (Topic 05); each must first answer its primary owner's demand.
 
 **Citation discipline used in every answer.** Kant is cited by A/B pagination: Bxvi–xviii (the change of standpoint), Bxxx ("deny knowledge… make room for faith"), Bxxxix n. ("scandal of philosophy"), B1 and B3–4 (the a priori and its marks), A51/B75 (empty thoughts, blind intuitions), B131–2 (the "I think"), A137–47/B176–87 (Schematism), A141/B180–1 ("an art concealed…"), A176/B219 and A183/B226 ("time itself cannot be perceived"), B218 (general principle of the Analogies), B224, A189–93/B232–8, B256 (the three Analogies), B274–9 (Refutation of Idealism), A598/B626 ("being is not a real predicate"). The *Prolegomena* (1783) is cited separately for Hume's interruption.
 
@@ -788,7 +783,7 @@ D. Replace the theoretical critique with the moral argument, which Kant regarded
 
 ##### Independent model answer
 
-**The dictum.** The understanding "makes" nature **formally considered** — as the law-governed unity of appearances. Sensations alone are unordered; synthesis under the categories of substance, causality and community yields objects standing in objective temporal relations, and hence universal laws. Since the conditions of possible experience are also the conditions of the objects of experience, experienced nature necessarily conforms to them.
+**The dictum.** The understanding "makes" nature **formally considered** — as the law-governed unity of appearances. Sensations alone do not yield objective event-order; synthesis under the categories of substance, causality and community yields objects standing in objective temporal relations and the **general a priori principles** of an experienceable nature. Since the conditions of possible experience are also the conditions of the objects of experience, experienced nature necessarily conforms to them; **particular** empirical laws are still discovered by inquiry, not deduced from a category.
 
 Its significance is threefold. It explains how the fundamental principles of natural science can be synthetic and yet a priori, since their necessity is contributed rather than discovered. It answers Hume without denying his analysis of impressions. And it fixes the limit precisely: what is constituted is form, not matter.
 
@@ -802,7 +797,6 @@ Three denials protect the claim. The understanding does not create the sensory m
 
 **Answer-writing focus — 2018 Q2(b):** the question has two limbs and a directive demanding reasons. A script that explains the dictum beautifully and then reports Hegel neutrally has answered one and a half questions.
 
-**Exam-length execution — 15 marks, about 250 to 300 words:** dictum in four lines; significance in three; denials in three; Hegel in three; ruling in two.
 
 - **Structure:** doctrine → significance → denials → Hegel's three moves → distinguished verdict.
 - **Doctrine:** categories as rules of objectivity; form versus matter; universal versus particular law.
@@ -844,7 +838,6 @@ Space is singular: there is only one space, and particular spaces are limitation
 
 **Answer-writing focus — 2019 Q4(a):** the first line must neutralise the word "transcendence". Everything after that is structure.
 
-**Exam-length execution — 20 marks, about 340 to 400 words:** caution in two lines; four metaphysical arguments in six; transcendental exposition in four; rivals in three; result in two; verdict in two.
 
 - **Structure:** wording caution → metaphysical exposition sorted into two pairs → transcendental exposition → rivals → double result → qualification.
 - **Doctrine:** forms of outer and inner sense; pure intuition; ideality and reality.
@@ -884,7 +877,6 @@ Space is singular: there is only one space, and particular spaces are limitation
 
 **Answer-writing focus — 2020 Q3(c):** the second limb invites an agreement that would invert Kant. Ruling first, then two independent reasons.
 
-**Exam-length execution — 15 marks, about 250 to 300 words:** trigger in four lines; construction in five; ruling in two; reasons in four; verdict in two.
 
 - **Structure:** trigger → construction with one worked pair → ruling → two reasons → verdict.
 - **Doctrine:** regulative versus constitutive; the given whole; the two resolutions.
@@ -924,7 +916,6 @@ It follows that "existence" cannot appear among the perfections in the concept o
 
 **Answer-writing focus — 2021 Q2(c):** "Explain how" rewards mechanism. The gloss on "real predicate" is where most scripts silently go wrong.
 
-**Exam-length execution — 15 marks, about 250 to 300 words:** argument in four lines; refutation in six; thalers in three; corollary in four; verdict in one.
 
 - **Structure:** Descartes' version → the refutation → the illustration → the corollary → verdict.
 - **Doctrine:** positing versus determining; *Bestimmung*.
@@ -962,7 +953,6 @@ It follows that "existence" cannot appear among the perfections in the concept o
 
 **Answer-writing focus — 2022 Q1(e):** the examiner has named a doctrine, so the link must be explicit and correctly ordered. Reversing the architecture is the standard failure.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** definition in three lines; negations in three; architecture in four; caution in three; verdict in one.
 
 - **Structure:** definition → negations → architecture → caution → verdict.
 - **Doctrine:** original apperception; synthesis; transcendental versus transcendent.
@@ -1004,7 +994,6 @@ It follows that "existence" cannot appear among the perfections in the concept o
 
 **Answer-writing focus — 2022 Q3(a):** "examine" is the marked limb. A list of four antinomies without resolutions answers a different question.
 
-**Exam-length execution — 20 marks, about 340 to 400 words:** illusion in two lines; construction in five; pairs in five; classification in three; resolutions in five; examination in four; verdict in two.
 
 - **Structure:** illusion → construction → four pairs → classification → two resolutions → examination → verdict.
 - **Doctrine:** regulative versus constitutive; homogeneous versus heterogeneous series.
@@ -1042,7 +1031,6 @@ This is not a fifty-fifty compromise. Kant sides with the empiricist about the *
 
 **Answer-writing focus — 2023 Q1(a):** handle the printed wording in two sentences, then answer the question actually asked. Never silently correct the paper.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** wording note in three lines; two halves in four; reconciliation in four; verdict in one.
 
 - **Structure:** wording note → both halves → two stems → the non-compromise → restriction.
 - **Doctrine:** receptivity and spontaneity; A51/B75.
@@ -1082,7 +1070,6 @@ Kant does not postulate the class; he exhibits instances and then asks how they 
 
 **Answer-writing focus — 2023 Q1(e):** each example needs two clauses — why synthetic, why a priori. Listing examples without arguing them answers half the question.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** one line of framing; three examples in nine; explanation in three; verdict in two.
 
 - **Structure:** framing → three worked examples → the Copernican explanation → verdict.
 - **Doctrine:** ampliative versus explicative; necessity and strict universality.
@@ -1120,7 +1107,6 @@ Kant does not postulate the class; he exhibits instances and then asks how they 
 
 **Answer-writing focus — 2024 Q1(b):** name the concession explicitly. A script that presents Kant as refuting Hume's account of impressions has misidentified the disagreement.
 
-**Exam-length execution — 10 marks, about 150 to 200 words:** Hume in four lines; concession in two; denial in three; mechanism in four; verdict in two.
 
 - **Structure:** Hume → concession → denial → mechanism → verdict.
 - **Doctrine:** the fork; synthetic a priori; the Second Analogy.
@@ -1160,7 +1146,6 @@ A further consideration strengthens Kant. If existence is not a predicate, what 
 
 **Answer-writing focus — 2024 Q2(c):** the word "critically" makes the modal debate compulsory. Refuting and stopping forfeits the assessment mark.
 
-**Exam-length execution — 15 marks, about 250 to 300 words:** three objections in nine lines; assessment in five; verdict in one.
 
 - **Structure:** three objections → assessment → verdict.
 - **Doctrine:** positing versus determining; the dependency chain.
@@ -1168,9 +1153,23 @@ A further consideration strengthens Kant. If existence is not a predicate, what 
 - **Distinction:** classical versus modal formulations.
 - **Criticism:** the quantifier vindication is the strongest available close.
 
+### 2026 verified primary-owned PYQ
+
+The 2026 bank assigns Q4(b) to Kant; Hegel's half is indispensable to the answer but cross-owned. Q2(b), Hume's ideas of reason with Kant's reply, is primarily Empiricism-owned.
+
+#### 2026 · Q4(b) · 15 marks
+
+**Question:** Analyze and discuss the different ways in which Kant and Hegel conceived the relationship between reality and our thinking about reality.
+
+**Model answer.** Kant rejects both the idea that objects are known simply as they exist independently of cognition and the claim that cognition creates empirical things. In the *Critique of Pure Reason*, **space and time** are forms of sensible intuition, while the **categories** organise possible experience; the unity of apperception makes a connected experience *mine*. An object of knowledge is a **phenomenon**, structured by conditions of possible experience. A **thing in itself** is not another empirical object describable with the categories; it marks the limit of theoretical cognition. Thus "understanding makes nature" means the law-governed nature **as appearance**, not an omnipotent human mind making the world.
+
+Hegel judges the Kantian split between knowable appearance and unknowable reality to leave thought confronting a limit it must somehow already think. In the *Phenomenology of Spirit*, successive claims of consciousness reveal their own inadequacies; in the *Science of Logic* the determinations of thought develop through immanent tensions. The rational structure of actuality is not simply imposed by an individual subject: thought becomes intelligible as the self-articulation of concrete reality through historical and conceptual mediation. The Absolute is **not** an inaccessible beyond; its truth is the whole reached through development. Hegel thus radicalises Kant's active role for thought while rejecting the permanent noumenal barrier.
+
+Yet comparison needs two qualifications. Kant's distinction is a restriction on **knowledge**, not proof that phenomena are illusory; Hegel's identity of thought and being is a philosophical claim, not the assertion that every personal opinion is real. Kant can object that dialectical movement assumes what it promises to prove, crossing the legitimate boundary of experience. Hegel replies that a wholly unknowable thing in itself is an empty abstraction and that fixed boundaries arise within thinking, not outside it. Their disagreement is whether critical limits secure objectivity or prevent reality from being thought adequately.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the UPSC idiom — two at 10 marks, two at 15 and two at 20 — with complete model answers inside the declared bands. These are learner practice, not past papers.
+> Seven original questions: the earlier six at differing mark values and one added question on reason's regulative Ideas. Develop the full demanded argument; these are learner practice, not past papers.
 
 #### Original 1 · 10 marks
 
@@ -1273,3 +1272,19 @@ This is anti-scepticism without a premise the sceptic can refuse. It simultaneou
 **What survives.** Theoretical reason can neither prove nor disprove God: Kant is **agnostic, not atheistic**. Practical reason then **postulates** God, since the highest good requires a being able to proportion happiness to virtue — "I had to deny knowledge in order to make room for faith" (Bxxx; *Glaube* is rendered "belief" by Guyer–Wood). ⚠️ Freedom and immortality are postulated on parallel grounds, and the argument stops there: Kantian ethics as a doctrine is not printed in this syllabus item.
 
 **Verdict.** ❓ The critique is decisive against the classical formulations and contested against modal reconstructions by Malcolm and Plantinga. What Kant leaves standing is not a diminished theology but a **relocated** one: God ceases to be an object of proof and becomes a condition of the moral life — at the price of conceding that theology can never be a science.
+
+#### Original 7 · 15 marks · untested Ideas-of-Reason demand
+
+**Question:** Are Kant's Ideas of soul, world and God dispensable fictions once their constitutive use has been discredited? Analyse their regulative function and the limits of that function.
+
+##### Independent model answer
+
+**Thesis.** Kant's Ideas of pure reason cannot constitute theoretical knowledge of supersensible **objects**, yet are not mere hallucinations. They express reason's demand to seek the **unconditioned** and regulate the systematic unity of empirical inquiry (*Critique of Pure Reason*, Transcendental Dialectic and Appendix).
+
+**Their generation.** Understanding synthesises appearances through categories; **reason** seeks completeness of the series of conditions for what understanding judges. Kant correlates the Idea of the **soul** with the complete unity of the thinking subject, the Idea of the **world** with the complete series of conditions of appearances, and the Idea of **God** with the most complete ground of possibility. None is supplied as an object in sensible intuition. The **paralogisms** result when "I think" is converted into knowledge of an immortal simple substance; the **antinomies** arise when the conditioned world of experience is treated as a completed totality available as an object; the **Ideal** becomes spurious knowledge when a highest being is theoretically inferred as existing.
+
+**Regulative value.** The Idea of unity directs inquiry to relate psychological observations as if they formed a coherent account of a subject; the world-Idea encourages pursuit of further conditions instead of stopping arbitrarily at the first explanation; the Idea of a highest systematic order guides research towards connected laws. Kant's analogy of a **focus imaginarius** locates the vanishing point that organises lines of investigation beyond possible experience without positing a corresponding known object. The Appendix's maxims of homogeneity, specification and continuity help scientists seek unity while remaining open to diversity. Such directions are **heuristic and methodological**, not proofs that one has discovered an immortal soul, a completed cosmos or a divine designer.
+
+**Critical limit.** A sceptic may object that a rule to seek maximum unity is an optional taste, not an a priori need of cognition; scientific practice sometimes rightly fragments explanatory models. Kant answers that inquiry requires at least provisional systematic connectedness in order to treat observations as capable of belonging to a nature. But this does not validate **a particular theory's** simplicity or guarantee that reality will exhibit one completely unified system. Practical reason's postulate of God has a different argumentative basis and does not restore speculative knowledge. Thus the Ideas are indispensable **as directives for inquiry** only in a qualified sense, and dispensable as alleged descriptions of knowable transcendent objects.
+
+**Why this earns marks:** Distinguishes understanding and reason, the three Ideas and their specific dialectical misuses, gives a textual example of regulative inquiry, and rules on the proposed "fiction" thesis without treating heuristic guidance as object knowledge.

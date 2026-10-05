@@ -1,0 +1,58 @@
+{
+  "topic": "05-Banking-Structure-NBFCs-and-Financial-Regulation",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 11,
+        "C": 14,
+        "B": 11,
+        "D": 8
+      },
+      "fingerprint": "f19946d5a01f9eeb"
+    },
+    {
+      "bank": 2,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 17,
+        "B": 7,
+        "D": 12,
+        "A": 8
+      },
+      "fingerprint": "db9758aaf49a5855"
+    },
+    {
+      "bank": 3,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 11,
+        "A": 12,
+        "C": 10,
+        "B": 11
+      },
+      "fingerprint": "72a4a97ea2b58159"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

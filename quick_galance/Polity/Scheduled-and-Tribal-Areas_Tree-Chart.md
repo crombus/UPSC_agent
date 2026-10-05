@@ -1,6 +1,7 @@
 # SCHEDULED AND TRIBAL AREAS - QUICK-GLANCE TREE
 
-**Control date:** 7 September 2026 | **Core idea:** protection under the Fifth Schedule; bounded territorial self-government under the Sixth.
+**Control date:** 7 September 2026 | **Core idea:** protection under the Fifth Schedule; bounded territorial
+   self-government under the Sixth.
 
 ```text
 SCHEDULED AND TRIBAL AREAS
@@ -110,21 +111,29 @@ SCHEDULED AND TRIBAL AREAS
 
 ## DECODED AUTHORITIES
 
-- **Fifth Schedule paragraph 5:** Governor's law-adaptation and peace-and-good-government regulation power, with TAC consultation where applicable and Presidential assent for regulations.
+- **Fifth Schedule paragraph 5:** Governor's law-adaptation and peace-and-good-government regulation power, with
+   TAC consultation where applicable and Presidential assent for regulations.
 - **Fifth Schedule paragraph 7:** parliamentary ordinary-law amendment; not an Article 368 amendment.
 - **Sixth Schedule paragraph 3:** listed council legislative fields and Governor assent.
 - **Twenty-second Amendment (1969):** inserted Article 244A, the Assam-only autonomous-State enabling route.
 - **Forty-ninth Amendment (1984):** inserted the Tripura tribal-area framework, effective 1 April 1985.
-- **Sixth Schedule Amendment (1988):** adapted Tripura and Mizoram provisions, including State-specific law and control clauses.
-- **Sixth Schedule Amendment (1995):** inserted Assam paragraph 3A and the Karbi Anglong/North Cachar Hills council adaptations.
+- **Sixth Schedule Amendment (1988):** adapted Tripura and Mizoram provisions, including State-specific law and
+   control clauses.
+- **Sixth Schedule Amendment (1995):** inserted Assam paragraph 3A and the Karbi Anglong/North Cachar Hills
+   council adaptations.
 - **Sixth Schedule Amendment (2003):** inserted Bodoland's special composition and paragraph 3B powers.
 - **Sixth Schedule paragraphs 12-12B:** State-specific application and modification of laws.
 - **PESA 1996:** modified Part IX in Fifth Schedule areas through exact decision verbs.
-- **FRA 2006:** recognition of individual, community and community forest resource rights through a Gram Sabha-initiated process.
-- **Samatha (1997):** Andhra Pradesh transfer-law holding against the impugned non-tribal private mining leases; later scope limits must be stated.
-- **Orissa Mining Corporation (2013):** Gram Sabha determination of specified Niyamgiri FRA/cultural/religious claims; MoEF retained final Stage-II authority.
-- **Chebrolu Leela Prasad Rao (2020):** invalidated 100 percent reservation for the specified teacher posts and reaffirmed equality limits.
+- **FRA 2006:** recognition of individual, community and community forest resource rights through a Gram
+   Sabha-initiated process.
+- **Samatha (1997):** Andhra Pradesh transfer-law holding against the impugned non-tribal private mining leases;
+   later scope limits must be stated.
+- **Orissa Mining Corporation (2013):** Gram Sabha determination of specified Niyamgiri FRA/cultural/religious
+   claims; MoEF retained final Stage-II authority.
+- **Chebrolu Leela Prasad Rao (2020):** invalidated 100 percent reservation for the specified teacher posts and
+   reaffirmed equality limits.
 
 ## QUALIFIED CONCLUSION
 
-The constitutional promise is not isolation from the State but a reviewable distribution of power that protects land, culture and voice while enabling accountable self-government.
+The constitutional promise is not isolation from the State but a reviewable distribution of power that protects
+   land, culture and voice while enabling accountable self-government.

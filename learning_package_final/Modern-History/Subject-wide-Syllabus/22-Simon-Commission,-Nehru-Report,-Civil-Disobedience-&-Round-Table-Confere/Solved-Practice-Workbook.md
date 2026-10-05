@@ -6,805 +6,429 @@ topic_key: modern-indian-history-22
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Simon Commission appointment and composition?
+Select the single best answer. Answer key and option-by-option reasoning follow the complete question set.
 
-A. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-B. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-C. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-D. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
+### Q1. An archival note describes a commission appointed before its Indian tour. Which identification is accurate?
 
-**Answer: A.**
-**Explanation:** The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1927 Simon Commission reached India in 1928 without an Indian member
+B. The 1928 Simon Commission was appointed after the Lahore Congress
+C. The 1927 Simon Commission included Motilal Nehru as a member
+D. The Simon Commission first met in India after the 1930 Salt March
 
-### Q2. Which chronology card should be filed under Simon Commission appointment and composition?
+### Q2. Arrange the anti-Simon Lahore protest, Lajpat Rai’s death and Lahore Purna Swaraj resolution.
 
-A. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-B. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-C. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+A. Purna Swaraj → protest → death
+B. Protest → death → Purna Swaraj
+C. Death → protest → Purna Swaraj
+D. Protest → Purna Swaraj → death
 
-**Answer: B.**
-**Explanation:** The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. A constitutional proposal combines fundamental rights with dominion status and joint electorates. Attribute it.
 
-### Q3. Which option should a candidate retain when revising Simon Commission appointment and composition?
+A. Lahore Congress’s 1929 Purna Swaraj resolution
+B. Ramsay MacDonald’s 1932 Communal Award
+C. Motilal Nehru’s 1928 committee report
+D. Jinnah’s 1929 Fourteen Points
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-C. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-D. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
+### Q4. Which reading best explains the contested minority formula in the Nehru Report?
 
-**Answer: C.**
-**Explanation:** The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Separate electorates satisfied Jinnah and ended constitutional division
+B. All minority reservations were rejected and therefore no counter-proposal emerged
+C. The report imposed independence immediately and bypassed electoral design
+D. Joint electorates with qualified reservations did not end disagreement about safeguards
 
-### Q4. Which statement avoids a common matching trap about Simon Commission appointment and composition?
+### Q5. Which pairing distinguishes the Calcutta ultimatum from Lahore’s subsequent decision?
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-C. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-D. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
+A. Calcutta offered a year for dominion status; Lahore adopted complete independence
+B. Calcutta declared Purna Swaraj; Lahore restored dominion status
+C. Calcutta adopted the Poona Pact; Lahore organised the First RTC
+D. Calcutta began salt-law breach; Lahore suspended civil disobedience
 
-**Answer: D.**
-**Explanation:** The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Which inference from Irwin’s October 1929 declaration and the Delhi Manifesto is warranted?
 
-### Q5. Which statement correctly identifies Simon Commission arrival?
+A. Both documents formally ended CDM after the Second RTC
+B. A prospective dominion outcome did not meet a demand for a conference to implement rather than merely debate it
+C. The declaration legally transferred dominion status before the Manifesto
+D. The Manifesto demanded separate electorates for Depressed Classes
 
-A. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-B. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-C. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+### Q7. Select the event-to-action sequence for the independence pledge and salt-law challenge.
 
-**Answer: A.**
-**Explanation:** The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Dandi law breach → Lahore resolution → 26 January observance
+B. December 1929 Lahore → Dandi breach → 26 January observance
+C. December 1929 Lahore → 26 January 1930 observance → 12 March–6 April Dandi march
+D. 26 January 1930 observance → December 1929 Lahore → Dandi march
 
-### Q6. Which chronology card should be filed under Simon Commission arrival?
+### Q8. A note says that Gandhi *began* at Dandi and *broke* the law at Sabarmati. What correction is needed?
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-C. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+A. He departed Dandi on 6 April and broke the law at Sabarmati on 12 March
+B. He broke the law at Dharasana before marching to Dandi
+C. He began from Vedaranyam while Rajagopalachari marched from Sabarmati
+D. He departed Sabarmati on 12 March and broke the salt law at Dandi on 6 April 1930
 
-**Answer: B.**
-**Explanation:** The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. Match a regional salt march to its leader without substituting Gandhi’s route.
 
-### Q7. Which option should a candidate retain when revising Simon Commission arrival?
+A. Vedaranyam — C. Rajagopalachari
+B. Vedaranyam — Khan Abdul Ghaffar Khan
+C. Dandi — C. Rajagopalachari
+D. Dharasana — Motilal Nehru
 
-A. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-B. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-C. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+### Q10. An examiner claims salt-law defiance exhausts the 1930 movement. Which evidence refutes that claim?
 
-**Answer: C.**
-**Explanation:** The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Poona Pact substituted for all grassroots CDM actions
+B. Cloth/liquor boycott, no-tax campaigns and forest-law defiance accompanied salt actions
+C. The Nehru Report was itself a forest-law disobedience campaign
+D. The Third RTC began the first salt satyagraha
 
-### Q8. Which statement avoids a common matching trap about Simon Commission arrival?
+### Q11. How should the Frontier’s Khudai Khidmatgars be classified within CDM?
 
-A. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-B. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-C. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-D. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
+A. The salt march led by Rajagopalachari in Tamil country
+B. A Round Table delegation headed by Gandhi in London
+C. A non-violent mass mobilisation associated with Khan Abdul Ghaffar Khan
+D. A revolutionary bombing cell led by Bhagat Singh
 
-**Answer: D.**
-**Explanation:** The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which paired reading keeps Dharasana and Sholapur distinct?
 
-### Q9. Which statement correctly identifies Lala Lajpat Rai chronology?
+A. Dharasana was the constitutional committee; Sholapur was the Second RTC
+B. Dharasana produced the Poona Pact; Sholapur drafted the Nehru Report
+C. Dharasana was the first nationalist Independence Day; Sholapur was the Dandi destination
+D. Dharasana highlighted publicised non-violent suffering; Sholapur showed a sharper local breakdown of authority
 
-A. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-B. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-C. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+### Q13. Which classification of participation and scale is defensible?
 
-**Answer: A.**
-**Explanation:** The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Women’s salt-making and picketing broadened participation, while regional and communal participation remained uneven
+B. Women were constitutionally barred from all salt-law protests
+C. Participation was uniformly identical across all regions and communities
+D. Frontier activists could participate only through an RTC seat
 
-### Q10. Which chronology card should be filed under Lala Lajpat Rai chronology?
+### Q14. A catalogue labels Gandhi a Congress participant in every London Round Table Conference. Correct it.
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-C. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+A. All three conferences met after CDM ended in 1934
+B. Congress stayed away from the First RTC; Gandhi attended the Second; a Third met in 1932
+C. Gandhi attended the First RTC but Congress boycotted the Second
+D. Congress chaired the Third RTC and Gandhi never attended any
 
-**Answer: B.**
-**Explanation:** The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. What was the strategic nature of the 5 March 1931 Gandhi–Irwin Pact?
 
-### Q11. Which option should a candidate retain when revising Lala Lajpat Rai chronology?
+A. A final agreement on separate electorates for Depressed Classes
+B. A ban on subsequent resumption of civil disobedience
+C. A truce suspending CDM and enabling Congress participation in the Second RTC, not independence
+D. Immediate implementation of the Nehru Report as sovereign constitution
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-C. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-D. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
+### Q16. Evaluate a claim that the Pact secured an inquiry into police excesses.
 
-**Answer: C.**
-**Explanation:** The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It is correct; inquiry was the Pact’s central accepted term
+B. It confuses the inquiry with the 1932 Communal Award’s separate electorates
+C. It means no non-violent political prisoners could be released
+D. It overstates concessions: that inquiry demand was refused
 
-### Q12. Which statement avoids a common matching trap about Lala Lajpat Rai chronology?
+### Q17. Which categorisation accurately distinguishes Karachi 1931 from the preceding Pact?
 
-A. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-B. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-C. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-D. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
+A. Karachi ratified the truce and articulated fundamental rights and a national economic programme
+B. Karachi launched the Simon boycott and appointed its commission
+C. Karachi created separate electorates for the Depressed Classes
+D. Karachi was the First RTC in London under a different name
 
-**Answer: D.**
-**Explanation:** The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. A historian argues that the Second RTC proved Congress had obtained its independence demand. Test it.
 
-### Q13. Which statement correctly identifies Nehru Report design?
+A. The conference was held only after the 1934 withdrawal of CDM
+B. Congress gained a seat at negotiations but minorities and federation remained contentious, with no independence settlement
+C. The conference immediately granted Purna Swaraj and ended all minority disputes
+D. Gandhi joined the First rather than Second RTC and accepted separate electorates
 
-A. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-B. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-C. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-D. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
+### Q19. Identify the proposal that triggered Gandhi’s fast over Depressed Classes’ representation.
 
-**Answer: A.**
-**Explanation:** The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1931 Gandhi–Irwin Pact reserved joint seats for Depressed Classes
+B. The 1929 Lahore resolution announced separate electorates
+C. The 1932 Communal Award offered separate electorates for Depressed Classes
+D. The 1928 Nehru Report established separate Depressed Classes electorates
 
-### Q14. Which chronology card should be filed under Nehru Report design?
+### Q20. Which legal-political change captures the Poona Pact’s representational compromise?
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-C. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-D. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
+A. Separate electorates replaced joint electorates for Depressed Classes
+B. All reserved seats were abolished in favour of unelected nomination
+C. The Pact granted dominion status in place of the 1935 Act
+D. Reserved seats for Depressed Classes within joint electorates replaced proposed separate electorates
 
-**Answer: B.**
-**Explanation:** The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Assess the Gandhi–Ambedkar dispute without assuming agreement on political autonomy.
 
-### Q15. Which option should a candidate retain when revising Nehru Report design?
+A. The Pact balanced nationalist unity against Ambedkar’s concern for an independent Dalit political voice
+B. Both leaders demanded separate electorates as the Pact’s final mechanism
+C. The fast took place against the 1928 Simon Commission’s Indian membership
+D. The Pact ended caste discrimination by immediate legal decree
 
-A. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-B. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-C. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-D. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
+### Q22. A timeline links the Second RTC directly to the final withdrawal of CDM. What intervening trajectory is missing?
 
-**Answer: C.**
-**Explanation:** The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Poona Pact predated the Nehru Report
+B. CDM resumed amid repression and continued until withdrawal in 1934
+C. CDM never resumed after the 1931 suspension
+D. The Simon Commission arrived only after the Second RTC
 
-### Q16. Which statement avoids a common matching trap about Nehru Report design?
+### Q23. Which source-critical conclusion best avoids inventing a Pact concession from the 2020 Prelims demand?
 
-A. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-B. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-C. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-D. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
+A. The police-excess inquiry was accepted but release of non-violent prisoners refused
+B. The Pact eliminated all charges against participants in violence
+C. RTC invitation, CDM ordinance withdrawal and non-violent prisoner release can be distinguished from the refused police-excess inquiry
+D. The 2020 official option letter must be D because three statements survive
 
-**Answer: D.**
-**Explanation:** The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. For the 2025 question on inclusion of Harijan uplift in Gandhi’s programme, which event is supported by the locally confirmed Series-A key?
 
-### Q17. Which statement correctly identifies Jinnah's Fourteen Points?
+A. The appointment of the Simon Commission in 1927
+B. The Calcutta ultimatum of December 1928
+C. The start of the Dandi March in March 1930
+D. The Poona Pact after the Communal Award dispute
 
-A. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-B. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-C. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-D. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
+### Q25. In the sequence of minority-constitutional bargaining, what followed the Nehru Report’s joint-electorate compromise?
 
-**Answer: A.**
-**Explanation:** Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Jinnah’s Fourteen Points in 1929 pressing minority safeguards
+B. The 1932 Poona Pact before the 1928 Nehru Report
+C. The 1927 Simon Commission drafted by Jinnah
+D. The 1931 Karachi resolution founded the Muslim League
 
-### Q18. Which chronology card should be filed under Jinnah's Fourteen Points?
+### Q26. A source gives the Dandi march as about 385/388 kilometres and another as 240 miles. What is the most defensible exam rendering?
 
-A. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-B. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-C. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-D. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
+A. A distance identical to Rajagopalachari’s Tamil Vedaranyam route
+B. About 385–388 kilometres, acknowledging approximate conversion rather than false precision
+C. Exactly 240 kilometres because miles and kilometres are interchangeable
+D. Exactly 388 miles with no discrepancy in historical measurement
 
-**Answer: B.**
-**Explanation:** Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. Which identification completes the Frontier disobedience account beyond the Red Shirts alone?
 
-### Q19. Which option should a candidate retain when revising Jinnah's Fourteen Points?
+A. At Dharasana, the Simon Commission ordered Garhwalis to conduct the RTC
+B. At Sholapur, the Poona Pact instructed soldiers to fire on demonstrators
+C. At Peshawar, Garhwali soldiers refused to fire on demonstrators amid Khudai Khidmatgar mobilisation
+D. At Peshawar, Rajagopalachari led Garhwalis to make salt at Vedaranyam
 
-A. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-B. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-C. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-D. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
+### Q28. A revision sheet insists the Poona Pact reserved exactly 148 provincial seats. How should conflicting local evidence be handled?
 
-**Answer: C.**
-**Explanation:** Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Replace the Pact with separate electorates since the figures differ
+B. Treat 147 and 148 as the dates of two successive Pacts
+C. Assume the 1932 Award and Pact have identical seat provisions
+D. State the joint-electorate settlement securely and qualify the provincial-seat total: local OCR says 147; 148 is widespread
 
-### Q20. Which statement avoids a common matching trap about Jinnah's Fourteen Points?
+## MCQ ANSWER KEY — OPTION-BY-OPTION REASONING
 
-A. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-B. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-C. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-D. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
+### Q1 — A
 
-**Answer: D.**
-**Explanation:** Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Appointment preceded arrival; its all-British membership provoked boycott.
+- **B:** Lahore Congress was December 1929, not the appointment trigger.
+- **C:** Motilal chaired an Indian report committee, not Simon membership.
+- **D:** Its 1928 arrival preceded the 1930 march.
+- **Trap:** Separate appointment year from arrival year and composition.
 
-### Q21. Which statement correctly identifies Calcutta ultimatum?
+### Q2 — B
 
-A. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-B. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-C. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-D. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
+- **A:** The Purna Swaraj session was not the anti-Simon protest.
+- **B:** The October 1928 lathi-charge preceded his November death and December 1929 resolution.
+- **C:** The lathi-charge cannot follow its fatal injury.
+- **D:** Lahore Congress in 1929 postdates Rai’s 1928 death.
+- **Trap:** Two separate Lahore events must not be conflated.
 
-**Answer: A.**
-**Explanation:** The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3 — C
 
-### Q22. Which chronology card should be filed under Calcutta ultimatum?
+- **A:** Lahore moved beyond dominion status to full independence.
+- **B:** The Award extended separate electorates including Depressed Classes.
+- **C:** The Nehru Report joined rights to dominion status and joint electorates.
+- **D:** Fourteen Points answered the report’s minority formula.
+- **Trap:** Rights in the Nehru Report did not imply a Purna Swaraj demand.
 
-A. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-B. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-C. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-D. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
+### Q4 — D
 
-**Answer: B.**
-**Explanation:** The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Jinnah’s Fourteen Points registered unresolved safeguards.
+- **B:** The report’s qualified reservations were not a blanket rejection.
+- **C:** Dominion status rather than immediate independence framed the draft.
+- **D:** Joint electorates and qualified safeguards remained contested.
+- **Trap:** Constitutional anti-imperial unity was not inter-communal unanimity.
 
-### Q23. Which option should a candidate retain when revising Calcutta ultimatum?
+### Q5 — A
 
-A. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-B. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-C. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-D. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
+- **A:** December 1928 conditional dominion demand preceded December 1929 Purna Swaraj.
+- **B:** The direction of escalation is reversed.
+- **C:** Poona Pact and the First RTC belong to the 1930s.
+- **D:** Salt breach was April 1930 and suspension March 1931.
+- **Trap:** An ultimatum is neither immediate independence nor its later resolution.
 
-**Answer: C.**
-**Explanation:** The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6 — B
 
-### Q24. Which statement avoids a common matching trap about Calcutta ultimatum?
+- **A:** The documents preceded CDM and the 1931 negotiations.
+- **B:** Irwin indicated a natural goal; nationalists insisted on an effective implementing conference.
+- **C:** A declaration of future direction is not enactment.
+- **D:** Separate electorates belong to the later Communal Award dispute.
+- **Trap:** Distinguish declared objective from binding constitutional delivery.
 
-A. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-B. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-C. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-D. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
+### Q7 — C
 
-**Answer: D.**
-**Explanation:** The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The Dandi breach happened in April 1930, last of these.
+- **B:** The January observance preceded April’s salt-law breach.
+- **C:** Congress goal preceded the pledge and then the march.
+- **D:** The pledge cannot precede the resolution.
+- **Trap:** 26 January 1930 was a nationalist observance, not Republic Day 1950.
 
-### Q25. Which statement correctly identifies Irwin Declaration and Delhi Manifesto?
+### Q8 — D
 
-A. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-B. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-C. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-D. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
+- **A:** The start and end locations are reversed.
+- **B:** Dharasana was a later satyagraha, not this march’s departure.
+- **C:** Rajagopalachari led the Tamil Vedaranyam march.
+- **D:** The route runs from Sabarmati to Dandi across the March–April interval.
+- **Trap:** Do not swap departure, destination and subsequent raid.
 
-**Answer: A.**
-**Explanation:** Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9 — A
 
-### Q26. Which chronology card should be filed under Irwin Declaration and Delhi Manifesto?
+- **A:** Rajagopalachari led the Tamil Vedaranyam action.
+- **B:** Ghaffar Khan’s Khudai Khidmatgars worked in the Frontier.
+- **C:** Dandi is Gandhi’s Gujarat route.
+- **D:** Motilal chaired the Nehru Report committee, not Dharasana action.
+- **Trap:** Regional spread did not simply replicate the Dandi leadership.
 
-A. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-B. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-C. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-D. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
+### Q10 — B
 
-**Answer: B.**
-**Explanation:** Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The Pact settled representation, not all movement tactics.
+- **B:** These other forms show a wider movement than the initiating salt symbol.
+- **C:** The Nehru Report was a 1928 constitutional draft.
+- **D:** The Third RTC followed the launch by years.
+- **Trap:** Do not mistake the launch symbol for the movement’s full repertoire.
 
-### Q27. Which option should a candidate retain when revising Irwin Declaration and Delhi Manifesto?
+### Q11 — C
 
-A. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-B. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-C. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
-D. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
+- **A:** Vedaranyam was the Tamil regional salt action.
+- **B:** Gandhi’s RTC delegation is not the Frontier organisation.
+- **C:** The Red Shirts challenged a stereotype of regional limits to non-violence.
+- **D:** Bhagat Singh belongs to distinct revolutionary politics.
+- **Trap:** A frontier location does not imply exclusively armed politics.
 
-**Answer: C.**
-**Explanation:** Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12 — D
 
-### Q28. Which statement avoids a common matching trap about Irwin Declaration and Delhi Manifesto?
+- **A:** Neither place names the 1928 committee or a London conference.
+- **B:** Pact and report have different origins and dates.
+- **C:** Neither denotes the January pledge or Gandhi’s Dandi destination.
+- **D:** The two episodes illustrate different mechanisms within CDM.
+- **Trap:** Do not compress heterogeneous local confrontations into one protest type.
 
-A. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-B. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-C. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-D. Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC.
+### Q13 — A
 
-**Answer: D.**
-**Explanation:** Irwin's 31 October 1929 declaration described Dominion Status as the natural issue of constitutional progress; the Delhi Manifesto demanded an implementing, not merely debating, RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Women visibly expanded public nationalist action.
+- **B:** Visible female participation contradicts the categorical exclusion.
+- **C:** Variation across regions prevents a uniformity claim.
+- **D:** Khudai Khidmatgar mobilisation did not depend on RTC membership.
+- **Trap:** Mass appeal and universal participation are different propositions.
 
-### Q29. Which statement correctly identifies Lahore and the pledge?
+### Q14 — B
 
-A. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-B. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-C. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-D. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
+- **A:** 1930–32 conferences preceded final withdrawal in 1934.
+- **B:** The participation pattern changes between the 1930 and 1931 conferences.
+- **C:** The First RTC had no Congress representation.
+- **D:** Gandhi did attend the Second, and Congress did not chair the Third.
+- **Trap:** Conference number must be separated from Congress attendance.
 
-**Answer: A.**
-**Explanation:** The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15 — C
 
-### Q30. Which chronology card should be filed under Lahore and the pledge?
+- **A:** Depressed Classes’ representation was addressed in 1932.
+- **B:** CDM later resumed under repression.
+- **C:** The Pact traded movement suspension for concessions and negotiation.
+- **D:** The Nehru Report was not enacted as a sovereign constitution.
+- **Trap:** Negotiated recognition was not transfer of power.
 
-A. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-B. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-C. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-D. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
+### Q16 — D
 
-**Answer: B.**
-**Explanation:** The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The examiner’s proposed concession is precisely the refused demand.
+- **B:** The Award is a later representation measure, not a police inquiry.
+- **C:** Release of non-violent political prisoners was within the bargain.
+- **D:** The inquiry was not accepted in the source-backed Pact balance.
+- **Trap:** Separate accepted prisoner/ordinance terms from refused inquiries.
 
-### Q31. Which option should a candidate retain when revising Lahore and the pledge?
+### Q17 — A
 
-A. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-B. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-C. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
-D. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
+- **A:** Karachi gave political/rights content alongside a negotiated truce.
+- **B:** Simon agitation predates Karachi by several years.
+- **C:** The later Award concerned separate electorates.
+- **D:** The First RTC met in London in 1930 without Congress.
+- **Trap:** Rights resolutions should not be mistaken for Pact clauses.
 
-**Answer: C.**
-**Explanation:** The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18 — B
 
-### Q32. Which statement avoids a common matching trap about Lahore and the pledge?
+- **A:** Second RTC met in 1931, before 1934 withdrawal.
+- **B:** Participation did not resolve underlying constitutional deadlock.
+- **C:** Independence and minority consensus were not delivered.
+- **D:** Congress absent from First; Gandhi at Second.
+- **Trap:** Presence at the table is not the same as victory at the table.
 
-A. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-B. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-C. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-D. The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930.
+### Q19 — C
 
-**Answer: D.**
-**Explanation:** The Lahore Congress adopted Purna Swaraj in December 1929, followed by the Independence Pledge on 26 January 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The truce did not make the 1932 caste settlement.
+- **B:** Lahore resolved Congress’s independence goal.
+- **C:** Ramsay MacDonald’s Award extended separate electoral arrangements.
+- **D:** Nehru Report preferred joint electorates.
+- **Trap:** Keep colonial Award distinct from subsequent Indian settlement.
 
-### Q33. Which statement correctly identifies Dandi March chronology?
+### Q20 — D
 
-A. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-B. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-C. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-D. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
+- **A:** That reverses the Award-to-Pact sequence.
+- **B:** The settlement retained reservations, not their abolition.
+- **C:** Constitutional dominion settlement was not its subject.
+- **D:** The Pact shifted the mechanism from separate electorates to reservation in joint elections.
+- **Trap:** Reservation and separate electorates are not synonyms.
 
-**Answer: A.**
-**Explanation:** Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21 — A
 
-### Q34. Which chronology card should be filed under Dandi March chronology?
+- **A:** Joint-electorate reservation was a compromise with a real autonomy cost.
+- **B:** The agreed mechanism was joint electorates with reserved seats.
+- **C:** The 1932 fast concerned the Award, not Simon membership.
+- **D:** A representation bargain could not itself abolish social exclusion.
+- **Trap:** Do not erase the costs of a compromise by calling it a total solution.
 
-A. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-B. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-C. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-D. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
+### Q22 — B
 
-**Answer: B.**
-**Explanation:** Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Nehru Report was 1928; Poona Pact 1932.
+- **B:** The campaign was restarted and later wound down in 1934.
+- **C:** The suspension was tactical, not permanent.
+- **D:** Simon arrived in 1928, before the RTCs.
+- **Trap:** Suspension, resumption and final withdrawal are three distinct stages.
 
-### Q35. Which option should a candidate retain when revising Dandi March chronology?
+### Q23 — C
 
-A. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-B. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-C. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
-D. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
+- **A:** Inquiry refusal and qualified release reverse the suggested account.
+- **B:** Release excluded violence-related cases.
+- **C:** Statements can be analysed without claiming an unavailable official answer letter.
+- **D:** No official key is held here, so an official letter cannot be asserted.
+- **Trap:** Differentiate source-backed statement analysis from official-key provenance.
 
-**Answer: C.**
-**Explanation:** Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24 — D
 
-### Q36. Which statement avoids a common matching trap about Dandi March chronology?
+- **A:** Simon agitation concerned all-white constitutional review.
+- **B:** Calcutta concerned dominion-status demands.
+- **C:** Dandi opened salt-law defiance rather than this post-Pact sequence.
+- **D:** The held official key ties the answer to the Poona Pact.
+- **Trap:** Do not replace the official-key-confirmed event with a general earlier concern for untouchability.
 
-A. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-B. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-C. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-D. Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930.
+### Q25 — A
 
-**Answer: D.**
-**Explanation:** Gandhi left Sabarmati with 78 chosen followers on 12 March 1930 and broke the salt law at Dandi on 6 April 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Fourteen Points followed the unresolved 1928 inter-communal bargain.
+- **B:** Poona Pact came four years later, not before the report.
+- **C:** Simon was an all-British commission appointed earlier.
+- **D:** Karachi outlined Congress rights and economics, not League founding.
+- **Trap:** Opposition to a report is not evidence that its safeguards were unanimously accepted.
 
-### Q37. Which statement correctly identifies Dandi distance caution?
+### Q26 — B
 
-A. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-B. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-C. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-D. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
+- **A:** Separate regional routes cannot share an asserted fixed measurement.
+- **B:** An approximate route length accommodates rounded miles and kilometre accounts.
+- **C:** The miles figure cannot be read as kilometres.
+- **D:** 388 miles roughly doubles the reported kilometre route.
+- **Trap:** Do not turn rounded and differently reported route lengths into exact fact.
 
-**Answer: A.**
-**Explanation:** The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27 — C
 
-### Q38. Which chronology card should be filed under Dandi distance caution?
+- **A:** The all-British Simon review was not a Dharasana raid command.
+- **B:** The Poona Pact concerned Depressed Classes’ electoral representation.
+- **C:** The army-refusal episode is linked to Frontier protest.
+- **D:** Rajagopalachari and Vedaranyam belong to Tamil salt action.
+- **Trap:** Do not omit soldier refusal or confuse non-violent Frontier politics with London negotiation.
 
-A. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-B. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-C. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-D. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
+### Q28 — D
 
-**Answer: B.**
-**Explanation:** The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising Dandi distance caution?
-
-A. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-B. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-C. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-D. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-
-**Answer: C.**
-**Explanation:** The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about Dandi distance caution?
-
-A. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-B. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-C. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-D. The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided.
-
-**Answer: D.**
-**Explanation:** The Dandi route is safest stated as about 385/388 km; some historical sources render it as 240 miles, so false exactness must be avoided. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Regional salt marches?
-
-A. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-B. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-C. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-D. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-
-**Answer: A.**
-**Explanation:** Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Regional salt marches?
-
-A. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-B. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-C. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-D. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-
-**Answer: B.**
-**Explanation:** Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Regional salt marches?
-
-A. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-D. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-
-**Answer: C.**
-**Explanation:** Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Regional salt marches?
-
-A. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-B. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-C. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-D. Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams.
-
-**Answer: D.**
-**Explanation:** Rajagopalachari led the Vedaranyam march, Kelappan led the Payyannur march, and Andhra activists organised sibirams. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Frontier and army refusal?
-
-A. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-B. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-C. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-D. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-
-**Answer: A.**
-**Explanation:** Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Frontier and army refusal?
-
-A. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-B. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-C. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-D. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-
-**Answer: B.**
-**Explanation:** Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Frontier and army refusal?
-
-A. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-D. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-
-**Answer: C.**
-**Explanation:** Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Frontier and army refusal?
-
-A. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-D. Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators.
-
-**Answer: D.**
-**Explanation:** Peshawar mobilisation centred on the Khudai Khidmatgars, while Garhwali soldiers refused to fire on demonstrators. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Dharasana and Sholapur?
-
-A. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-D. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-
-**Answer: A.**
-**Explanation:** Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Dharasana and Sholapur?
-
-A. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-B. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-C. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-D. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-
-**Answer: B.**
-**Explanation:** Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Dharasana and Sholapur?
-
-A. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-D. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-
-**Answer: C.**
-**Explanation:** Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Dharasana and Sholapur?
-
-A. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-B. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-C. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-D. Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority.
-
-**Answer: D.**
-**Explanation:** Sarojini Naidu led the Dharasana phase after Gandhi's arrest, while Sholapur saw a severe temporary breakdown of authority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Participation pattern?
-
-A. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-D. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-
-**Answer: A.**
-**Explanation:** Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Participation pattern?
-
-A. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-B. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-C. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-D. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-
-**Answer: B.**
-**Explanation:** Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Participation pattern?
-
-A. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-B. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-C. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-D. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-
-**Answer: C.**
-**Explanation:** Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Participation pattern?
-
-A. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-B. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-C. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-D. Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception.
-
-**Answer: D.**
-**Explanation:** Women entered picketing and salt-making prominently; Muslim participation was uneven, with the NWFP a major exception. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Round Table Conference sequence?
-
-A. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-B. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-C. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-D. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-
-**Answer: A.**
-**Explanation:** Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Round Table Conference sequence?
-
-A. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-B. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-C. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-D. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-
-**Answer: B.**
-**Explanation:** Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Round Table Conference sequence?
-
-A. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-B. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-C. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-D. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-
-**Answer: C.**
-**Explanation:** Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Round Table Conference sequence?
-
-A. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-B. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-C. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-D. Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC.
-
-**Answer: D.**
-**Explanation:** Congress was absent from the First RTC (November 1930-January 1931); Gandhi was sole Congress representative at the Second; Congress was absent from the limited Third RTC. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Gandhi-Irwin Pact?
-
-A. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-B. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-C. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-D. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-
-**Answer: A.**
-**Explanation:** The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Gandhi-Irwin Pact?
-
-A. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-B. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-C. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-D. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-
-**Answer: B.**
-**Explanation:** The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Gandhi-Irwin Pact?
-
-A. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-B. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-C. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-D. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-
-**Answer: C.**
-**Explanation:** The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Gandhi-Irwin Pact?
-
-A. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-B. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-C. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-D. The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses.
-
-**Answer: D.**
-**Explanation:** The 5 March 1931 Pact suspended CDM for RTC participation and secured bounded concessions on non-violent prisoners, unsold confiscated land, uncollected fines, salt and peaceful picketing, but no inquiry into police excesses. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Karachi Congress?
-
-A. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-B. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-C. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-D. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-
-**Answer: A.**
-**Explanation:** Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Karachi Congress?
-
-A. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-B. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-C. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-D. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-
-**Answer: B.**
-**Explanation:** Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Karachi Congress?
-
-A. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-B. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-C. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-D. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-
-**Answer: C.**
-**Explanation:** Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Karachi Congress?
-
-A. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-B. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-C. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-D. Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj.
-
-**Answer: D.**
-**Explanation:** Karachi ratified the Pact and adopted Fundamental Rights and the National Economic Programme, defining social content for Swaraj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Communal Award and fast?
-
-A. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-B. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-C. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-D. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-
-**Answer: A.**
-**Explanation:** The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Communal Award and fast?
-
-A. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-B. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-C. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-D. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-
-**Answer: B.**
-**Explanation:** The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Communal Award and fast?
-
-A. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-B. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-C. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-D. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-
-**Answer: C.**
-**Explanation:** The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Communal Award and fast?
-
-A. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-B. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-C. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-D. The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932.
-
-**Answer: D.**
-**Explanation:** The Communal Award extended separate electorates to the Depressed Classes; Gandhi's Yeravda fast began on 20 September 1932. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Poona Pact settlement and number caution?
-
-A. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-B. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-C. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-D. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-
-**Answer: A.**
-**Explanation:** The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Poona Pact settlement and number caution?
-
-A. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-B. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-C. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-D. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-
-**Answer: B.**
-**Explanation:** The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Poona Pact settlement and number caution?
-
-A. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-B. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-C. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-D. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-
-**Answer: C.**
-**Explanation:** The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Poona Pact settlement and number caution?
-
-A. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-B. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-C. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-D. The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed.
-
-**Answer: D.**
-**Explanation:** The Poona Pact of 24 September 1932 substituted reserved seats in joint electorates for separate electorates; the local Bipan Chandra OCR gives 147 provincial seats while 148 is the widespread convention, so the total is identified as disputed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Resumption and withdrawal?
-
-A. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-B. The Simon Commission was appointed in 1927 as an all-British statutory commission with no Indian member.
-C. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-D. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-
-**Answer: A.**
-**Explanation:** CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Resumption and withdrawal?
-
-A. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-B. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-C. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-D. The Commission arrived on 3 February 1928 and met hartals, black flags and the slogan 'Simon Go Back'.
-
-**Answer: B.**
-**Explanation:** CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Resumption and withdrawal?
-
-A. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-B. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-C. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-D. The Lahore lathi-charge occurred on 30 October 1928; Lala Lajpat Rai died on 17 November 1928.
-
-**Answer: C.**
-**Explanation:** CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Resumption and withdrawal?
-
-A. The 1928 Motilal Nehru committee proposed Dominion Status, responsible government, rights, joint electorates and qualified minority reservations rather than a simple end to safeguards.
-B. The Calcutta Congress of December 1928 gave Britain one year to concede Dominion Status before Congress moved to complete independence and civil disobedience.
-C. Jinnah's Fourteen Points followed in 1929 after the Nehru Report compromise failed to settle minority representation.
-D. CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934.
-
-**Answer: D.**
-**Explanation:** CDM resumed under intensive repression after the Second RTC and was withdrawn in early April 1934. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The Pact substituted reserved seats in joint electorates.
+- **B:** The Pact was in 1932, not the second century.
+- **C:** The Award’s separate electorate proposal differs from the Pact.
+- **D:** The agreement’s mechanism is secure while the locally noted total differs.
+- **Trap:** Do not bury a documented numerical discrepancy beneath false exactness.
 
 ### Semantic-completeness coverage drills — Modern Topic 22
 

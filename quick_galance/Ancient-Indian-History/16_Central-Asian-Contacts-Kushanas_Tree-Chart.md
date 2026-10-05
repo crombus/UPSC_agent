@@ -110,4 +110,6 @@ CENTRAL ASIAN CONTACTS, c. 200 BCE–300 CE
 
 ## PYQ answer spine
 
-**Define contact zone → distinguish dynasties → map routes → use three named coins/inscriptions/sites → explain political/economic/cultural mechanism → add source and regional limits → conclude with reciprocal but unequal synthesis.**
+**Define contact zone → distinguish dynasties → map routes → use three named
+coins/inscriptions/sites → explain political/economic/cultural mechanism → add
+source and regional limits → conclude with reciprocal but unequal synthesis.**

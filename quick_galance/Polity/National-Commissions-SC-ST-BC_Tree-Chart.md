@@ -151,4 +151,6 @@ NATIONAL COMMISSIONS FOR SCs, STs AND BACKWARD CLASSES
 
 ## Qualified Conclusion
 
-NCSC, NCST and NCBC are constitutionally entrenched specialist accountability bodies. Their force lies in evidence, consultation, reports, public reasons and follow-up—not in being courts, ministries or list-amending authorities.
+NCSC, NCST and NCBC are constitutionally entrenched specialist accountability
+bodies. Their force lies in evidence, consultation, reports, public reasons and
+follow-up—not in being courts, ministries or list-amending authorities.

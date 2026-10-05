@@ -95,21 +95,26 @@ DATA CUTOFF: 9 SEPTEMBER 2026 | STATIC THEORY SEPARATE FROM REPLACEABLE CURRENT 
 
 | Box | Dated official anchor | Interpretation boundary |
 |---|---|---|
-| Survey | Survey 2025-26 tabled 29 Jan 2026; FY26 GDP 7.4% FAE; FY27 projection 6.8-7.2% | Analytical/non-binding January vintage |
-| GDP | Q1 FY27 real GDP 7.8%, nominal 10.3%, real GVA 8.2%; MoSPI 31 Aug 2026 | Quarterly estimate, new base 2022-23 |
+| Survey | Survey 2025-26 tabled 29 Jan 2026; FY26 GDP 7.4% FAE; FY27 projection 6.8-7.2% |
+   Analytical/non-binding January vintage |
+| GDP | Q1 FY27 real GDP 7.8%, nominal 10.3%, real GVA 8.2%; MoSPI 31 Aug 2026 | Quarterly estimate, new base
+   2022-23 |
 | Demand | Q1 PFCE 7.1%, GFCF 11.9% real growth | Growth rates, not shares or contributions |
 | Sectors | Primary 2.9%, secondary 8.6%, tertiary 10.0%; agriculture 3.6%, manufacturing 9.2% | Real GVA, Q1 FY27 |
 | CPI | July 4.45%; CFPI 5.52%; MoSPI 12 Aug | Provisional, base 2024=100 |
 | WPI | July 9.78%; OEA 14 Aug | Provisional, base 2022-23; not household inflation |
-| Production | IIP July 6.7% Quick Estimate, 28 Aug; ICI July 5.4% provisional, 20 Aug | Base 2022-23; distinct coverage |
+| Production | IIP July 6.7% Quick Estimate, 28 Aug; ICI July 5.4% provisional, 20 Aug | Base 2022-23; distinct
+   coverage |
 | Budget | FY27 BE deficit Rs 16.96 lakh crore/4.3% GDP; capex Rs 12.22 lakh crore | Plan, not outturn |
-| CGA | FY26 provisional receipts Rs 33.85982 lakh crore; spending Rs 49.05151 lakh crore, 1 Jun | Provisional/unaudited |
+| CGA | FY26 provisional receipts Rs 33.85982 lakh crore; spending Rs 49.05151 lakh crore, 1 Jun |
+   Provisional/unaudited |
 | RBI | Repo 5.25%, neutral; decision 5 Aug 2026 | Decision/stance, not full transmission |
 | Banking | Credit/deposits Rs 220.78/Rs 269.41 lakh crore on 31 Jul; WSS 21 Aug | Outstanding stocks |
 | BoP | Q1 FY27 CAD USD 4.2 bn/0.5% GDP; RBI 1 Sep | Quarterly flow |
 | Reserves | USD 740.803 bn on 28 Aug; RBI release 4 Sep | Point-in-time stock, valuation-sensitive |
 | Debt | USD 762.8 bn/20.8% GDP at end-Mar; RBI 29 Jun | External liability stock |
-| Trade | July merchandise exports/imports USD 44.24/76.22 bn; Commerce 13 Aug | Monthly customs flows; services in combined total estimated |
+| Trade | July merchandise exports/imports USD 44.24/76.22 bn; Commerce 13 Aug | Monthly customs flows; services
+   in combined total estimated |
 | Jobs | July CWS age-15+ LFPR 55.4%, WPR 52.5%, UR 5.1%; PLFS 17 Aug | Monthly CWS, not annual usual status |
 
 ## Decoding
@@ -119,12 +124,16 @@ DATA CUTOFF: 9 SEPTEMBER 2026 | STATIC THEORY SEPARATE FROM REPLACEABLE CURRENT 
 - **GDP / GVA:** market-price domestic product / basic-price producer value added.
 - **PFCE / GFCE / GFCF:** private consumption / government consumption / fixed-capital formation.
 - **CPI / CFPI / WPI:** consumer / consumer-food / wholesale price indices.
-- **IIP / ICI / PMI:** official industrial volume / official core-industry pulse / private purchasing-manager diffusion index.
+- **IIP / ICI / PMI:** official industrial volume / official core-industry pulse / private purchasing-manager
+   diffusion index.
 - **MPC / SDF / MSF:** Monetary Policy Committee / Standing Deposit Facility / Marginal Standing Facility.
 - **GNPA / CRAR:** Gross Non-Performing Assets / Capital to Risk-Weighted Assets Ratio.
-- **BoP / CAD / FDI / FPI / ECB:** Balance of Payments / Current Account Deficit / direct investment / portfolio investment / external commercial borrowing.
-- **PLFS / LFPR / WPR / UR / CWS:** Periodic Labour Force Survey / labour participation / employment-population / unemployment / Current Weekly Status.
-- **HCES / MPCE / MPI:** Household Consumption Expenditure Survey / Monthly Per Capita Consumption Expenditure / Multidimensional Poverty Index.
+- **BoP / CAD / FDI / FPI / ECB:** Balance of Payments / Current Account Deficit / direct investment / portfolio
+   investment / external commercial borrowing.
+- **PLFS / LFPR / WPR / UR / CWS:** Periodic Labour Force Survey / labour participation / employment-population
+   / unemployment / Current Weekly Status.
+- **HCES / MPCE / MPI:** Household Consumption Expenditure Survey / Monthly Per Capita Consumption Expenditure /
+   Multidimensional Poverty Index.
 
 ## Prelims traps
 
@@ -140,6 +149,8 @@ DATA CUTOFF: 9 SEPTEMBER 2026 | STATIC THEORY SEPARATE FROM REPLACEABLE CURRENT 
 
 ## Mains answer spine
 
-**Dated fact -> trend -> cause -> counter-signal/risk -> competent authority and policy status -> qualified conclusion.**
+**Dated fact -> trend -> cause -> counter-signal/risk -> competent authority and policy status -> qualified
+   conclusion.**
 
-Keep the dashboard replaceable: update only the current cells and retain definitions, formulas, source ownership and revision cautions.
+Keep the dashboard replaceable: update only the current cells and retain definitions, formulas, source ownership
+   and revision cautions.

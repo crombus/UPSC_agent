@@ -5,8 +5,15 @@
 > graphical at-a-glance package; it is the thirty-second refresher that carries
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
-> **Syllabus, verbatim:** *Moore, Russell and Early Wittgenstein : Defence of Commonsense; Refutation of Idealism; Logical Atomism; Logical Constructions; Incomplete Symbols; Picture Theory of Meaning; Sying and Showing.* The paper prints "Sying"; use **Saying and Showing** as the doctrine-name.
-> **Terminology and citation:** English concept first, source term immediately after in parentheses. Moore and Russell are cited by **paper and year**; the *Tractatus* by **decimal proposition number**, which is identical in every edition and translation. Every English *Tractatus* sentence is a translation — name the translator when you quote.
+> **Syllabus, verbatim:** *Moore, Russell and Early Wittgenstein: Defence of
+> Commonsense; Refutation of Idealism; Logical Atomism; Logical Constructions;
+> Incomplete Symbols; Picture Theory of Meaning; Sying and Showing.* The paper
+> prints "Sying"; use **Saying and Showing** as the doctrine-name.
+> **Terminology and citation:** English concept first, source term immediately
+> after in parentheses. Moore and Russell are cited by **paper and year**; the
+> *Tractatus* by **decimal proposition number**, identical in every edition and
+> translation. Every English *Tractatus* sentence is a translation—name the
+> translator when you quote.
 
 ## Quick-Glance Tree Chart
 

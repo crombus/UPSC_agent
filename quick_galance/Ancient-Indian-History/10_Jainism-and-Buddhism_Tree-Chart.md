@@ -1,91 +1,204 @@
-# Ancient Indian History 10 - Jainism and Buddhism
+# Jainism and Buddhism — Quick-Glance Tree
 
-## Quick-Glance Tree Chart
+**Canonical owners**
+
+- `upsc-ai-kit\knowledge\Ancient-Indian-History\basic\10_Jainism-and-Buddhism.md`
+- `upsc-ai-kit\knowledge\Ancient-Indian-History\advanced\10_Jainism-and-Buddhism.md`
+- Verified PYQ route: `solved_pyqs\topics\ancient-history\jainism-and-buddhism.md`
+- Supplementary live session:
+  `upsc-ai-kit\knowledge\Ancient-Indian-History\learning-sessions\v2\subject-wide-syllabus\`
+  `ancient-indian-history-10_Learning-Session.md`
 
 ```text
 JAINISM AND BUDDHISM
 |
-+-- 1. SOURCE, LAYER AND DATE CONTROL
-|   +-- Early teachings survive through orally transmitted, school-specific and later redacted corpora.
-|   +-- Separate founder horizon, composition, recitation, redaction, manuscript and archaeology.
-|   +-- Traditional dates for Mahavira and Buddha differ; use sixth-fifth centuries BCE unless the tradition is named.
-|   `-- Text proves remembered doctrine or discipline; inscription and archaeology test institutions, donors and sites.
++-- 1. SOURCE + HISTORICAL SETTING
+|   +-- c. 6th-5th centuries BCE: towns, agrarian expansion,
+|   |   routes, states, surplus, social differentiation and śramaṇa debate
+|   +-- śramaṇa field included Jain, Buddhist, Ājīvika, materialist
+|   |   and other renunciant positions
+|   +-- canonical texts -> doctrine/discipline and remembered biography
+|   |   -> orally transmitted, school-specific, layered and redacted
+|   +-- inscriptions/archaeology -> donors, institutions, sites and routes
+|   `-- reject one-cause origins:
+|       neither “merchant religion” nor only anti-Brahmanical protest
 |
-+-- 2. SETTING AND THE SHRAMANA FIELD
-|   +-- Agrarian expansion + towns + routes + states + social differentiation widened audiences and patronage.
-|   +-- Shramana included Jain, Buddhist, Ajivika, materialist and other renunciant positions.
-|   +-- Ritual cost, hierarchy and violence mattered, but no urban, merchant, iron or varna monocause is sufficient.
-|   `-- Brahmanical and shramana currents debated, competed, borrowed and later accommodated one another.
++-- 2. JAINISM: LINEAGE + MAHAVIRA
+|   +-- 24 Tirthankaras: Rishabhanatha first, Parshvanatha 23rd,
+|   |   Mahavira/Vardhamana 24th
+|   +-- Mahavira = Nigantha Nataputta/Nayaputta in Buddhist/Pali route
+|   +-- renunciation -> severe austerity -> kevala knowledge -> teaching
+|   +-- Parshva may preserve an earlier ascetic layer
+|   `-- founder dates/biographies: use broad sixth-fifth century BCE
+|       unless a named tradition is explicitly requested
 |
-+-- 3. JAIN ANTECEDENTS AND MAHAVIRA
-|   +-- Jain tradition: 24 Tirthankaras; Rishabhanatha 1st, Parshvanatha 23rd, Mahavira 24th.
-|   +-- Parshva may preserve an earlier ascetic stratum; remote Tirthankara dates remain sacred tradition, not secure history.
-|   +-- Mahavira/Vardhamana/Nigantha Nataputta: renunciation -> austerity -> kevala knowledge -> teaching community.
-|   `-- Four-vow/ five-vow distinction is traditional; biography and chronology vary across sectarian memories.
-|
-+-- 4. JAIN REALITY, KARMA AND RELEASE
-|   +-- Jiva is conscious and enduring; ajiva includes matter, motion/rest media, space and time.
-|   +-- Activity and passion -> asrava (influx) -> bandha (bondage).
-|   +-- Samvara stops new influx; nirjara sheds accumulated karmic matter; moksha perfects the individual jiva.
-|   `-- Dharma-dravya and adharma-dravya are cosmological media, not simply moral good and evil.
-|
-+-- 5. JAIN PATH, ETHICS AND MANY-SIDEDNESS
-|   +-- Triratna: right faith, right knowledge, right conduct.
-|   +-- Five vows: ahimsa, satya, asteya, brahmacharya, aparigraha.
-|   +-- Mahavrata for ascetics; anuvrata and supplementary restraints for laity.
-|   `-- Anekantavada = many-sided reality; nayavada = standpoints; syadvada = conditioned predication; mature system is later.
-|
-+-- 6. JAIN COMMUNITY, CANON, SECTS AND CONTINUITY
-|   +-- Fourfold community: monks, nuns, laymen and laywomen; household support sustains renunciation.
-|   +-- Pataliputra preservation and Valabhi redaction are later tradition-specific accounts.
-|   +-- Digambara-Svetambara division developed gradually: clothing, canon, images/practice and women's liberation differ.
-|   `-- Mathura, Udayagiri-Khandagiri, western India and Karnataka show regional patronage; Jainism changed while enduring.
-|
-+-- 7. BUDDHA: BIOGRAPHY AND DATING
-|   +-- Siddhartha Gautama, a Sakya, is remembered through four sights, renunciation and search among teachers.
-|   +-- Extreme austerity rejected -> awakening at Bodh Gaya -> first sermon at Sarnath -> teaching career.
-|   +-- Mahaparinibbana at Kushinagara; Lumbini pillar gives early epigraphic support to birthplace memory.
-|   `-- Long and short chronologies differ; sacred biography is not a contemporary diary.
-|
-+-- 8. BUDDHIST DIAGNOSIS AND MIDDLE PATH
-|   +-- Four Noble Truths: dukkha, origin, cessation and path.
-|   +-- Middle Way rejects sensual indulgence and self-mortification.
-|   +-- Eightfold Path: view, intention, speech, action, livelihood, effort, mindfulness and concentration.
-|   `-- Wisdom + ethical conduct + mental discipline form an integrated practice, not a mechanical staircase.
-|
-+-- 9. CONDITIONALITY, NO-SELF AND NIRVANA
-|   +-- Dependent origination: conditioned arising and cessation; not fate, first cause or a permanent substance.
-|   +-- Anicca = impermanence; anatta = no permanent independent self; dukkha = conditioned unsatisfactoriness.
-|   +-- Five aggregates analyse the person; intentional karma sustains rebirth without an eternal soul.
-|   `-- Nirvana ends greed, hatred, delusion and the rebirth process; it is not mere death or nihilism.
-|
-+-- 10. SANGHA, VINAYA, LAITY AND WOMEN
-|   +-- Bhikkhu/bhikkhuni communities operate through Vinaya; upasaka/upasika provide food, robes, medicine and residence.
-|   +-- Lay-monastic reciprocity links merit, teaching, routes, towns and agrarian support.
-|   +-- Mahapajapati Gotami tradition and Therigatha attest women's agency; garudhamma transmission is layered and debated.
-|   `-- Access widened beyond hereditary ritual privilege, yet caste, obligation and patriarchy did not vanish.
-|
-+-- 11. COUNCILS, CANONS AND EARLY SCHOOLS
-|   +-- Rajagriha, Vaishali and Pataliputra councils are conventional, school-specific institutional memories.
-|   +-- No single pan-Buddhist fourth council: Kanishka-Kashmir and Sri Lankan writing-down traditions differ.
-|   +-- Theravada Pali Tipitaka = Vinaya, Sutta, Abhidhamma; other schools preserved Vinayas, Agamas and Abhidharma.
-|   `-- Sthavira and Mahasanghika lineages are complex; Theravada is not every Sthavira school and not 'Hinayana'.
-|
-+-- 12. MAHAYANA, EMPTINESS AND VAJRAYANA
-|   +-- Mahayana emerged gradually around the early centuries BCE/CE through diverse texts and communities.
-|   +-- Bodhisattva ideal and paramitas widen the salvific horizon; Maitreya is the future Buddha, not exclusively Mahayana.
-|   +-- Madhyamaka uses emptiness/dependent designation; emptiness is not non-existence.
-|   `-- Vajrayana's mantra, mandala, deity yoga and tantric texts are later first-millennium developments.
-|
-+-- 13. PATRONAGE, SPREAD, MONASTERIES AND ART
-|   +-- Ashoka's inscriptions support Buddhist patronage and sangha concern; dhamma is broader than Buddhist doctrine.
-|   +-- Kanishka matters to north-western networks, but council and conversion details are later traditions.
-|   +-- Rulers + merchants + artisans + women + monks/nuns + local donors sustained routes, monasteries and education.
-|   `-- Stupa, chaitya and vihara; Sanchi, Bharhut, Amaravati, Karle, Ajanta, Nalanda and Gandhara require phase-specific dating.
-|
-+-- 14. COMPARISON, DECLINE AND EXAM VERDICT
-    +-- Jainism: enduring jiva, material karma, rigorous ahimsa; Buddhism: anatta, intentional karma, Middle Path.
-    +-- Both formed renunciant-lay communities and questioned exclusive ritual authority, but neither was uniformly egalitarian.
-    +-- Buddhist contraction in India was regional and multicausal; Himalayan/eastern survival, Asian expansion and revival matter.
-    `-- Answer route: context -> doctrine -> institution -> patronage/material evidence -> variation -> qualified verdict.
++-- 3. JAIN REALITY + LIBERATION
+|   +-- jīva = conscious, enduring living principle
+|   +-- ajīva = matter, motion/rest media, space and time
+|   +-- activity/passion -> āsrava (influx) -> bandha (bondage)
+|   +-- saṃvara stops new influx
+|   +-- nirjarā sheds accumulated karmic matter
+|   `-- mokṣa = perfected liberated jīva
+|       -> dharma/adharma-dravya are cosmological media, not moral labels
+
++-- 4. JAIN PATH + ETHICS
+|   +-- Triratna: right faith + right knowledge + right conduct
+|   +-- five vows: ahiṃsā, satya, asteya, brahmacarya, aparigraha
+|   +-- mahāvrata = strict ascetic vows
+|   +-- aṇuvrata + supplementary restraints = lay observance
+|   +-- anekāntavāda = many-sided reality
+|   +-- nayavāda = standpoints
+|   `-- syādvāda = conditioned predication;
+|       mature systematic forms are later, not all direct founder speech
+
++-- 5. JAIN COMMUNITY + SECTS
+|   +-- fourfold saṅgha/community:
+|   |   monks + nuns + laymen + laywomen
+|   +-- household donors sustain renunciation; not only merchants
+|   +-- Pataliputra preservation and Valabhi redaction
+|   |   -> sectarian traditions, not neutral contemporary minutes
+|   +-- Digambara/Svetambara division develops gradually
+|   |   -> clothing, canon, images/practice and women's liberation differ
+|   +-- western India/Mathura/Kalinga/Deccan/Karnataka
+|       -> regional patronage and continuity
+
++-- 6. BUDDHA: BIOGRAPHY + CORE TEACHING
+|   +-- Siddhartha Gautama, Śākya
+|   +-- renunciation -> teachers/austerity -> awakening at Bodh Gaya
+|   +-- first sermon at Sarnath deer park:
+|   |   dhamma-cakka-pavattana
+|   +-- teaching career -> Saṅgha of monks and nuns
+|   +-- Mahāparinibbāna at Kushinagara; Lumbini pillar anchors birthplace memory
+|   `-- long/short chronologies and sacred biography require source labels
+
++-- 7. BUDDHIST DIAGNOSIS + MIDDLE PATH
+|   +-- Four Noble Truths:
+|   |   dukkha -> origin/craving -> cessation -> path
+|   +-- Middle Way rejects sensual indulgence AND self-mortification
+|   +-- Noble Eightfold Path:
+|   |   right view/intention/speech/action/livelihood/
+|   |   effort/mindfulness/concentration
+|   `-- wisdom + ethical conduct + mental discipline
+|       -> integrated practice, not a mechanical staircase
+
++-- 8. CONDITIONALITY, NO-SELF + NIRVANA
+|   +-- pratītyasamutpāda -> conditioned arising/cessation
+|   |   -> not fate, first cause or permanent substance
+|   +-- anicca = impermanence
+|   +-- anattā/anātman = no permanent independent self
+|   +-- five aggregates analyse personhood
+|   +-- intentional karma sustains rebirth without eternal soul
+|   `-- nirvana ends greed, hatred, delusion and rebirth process
+|       -> not mere death or nihilism
+
++-- 9. SANGHA, VINAYA + LAITY
+|   +-- bhikkhu/bhikkhunī -> Vinaya discipline
+|   +-- upāsaka/upāsikā -> food, robes, medicine, residence and merit
+|   +-- lay-monastic reciprocity -> towns/routes/agrarian support
+|   +-- Mahāpajāpatī Gotamī and Therīgāthā -> women's agency
+|   |   -> garudhamma tradition is layered and debated
+|   `-- access beyond hereditary ritual privilege did not erase
+|       caste, institutional hierarchy or patriarchy
+
++-- 10. COUNCILS, CANONS + SCHOOLS
+|   +-- Rajagriha, Vaishali, Pataliputra
+|   |   -> conventional school-specific council memories
+|   +-- “Fourth council” differs:
+|   |   Kashmir/Kanishka Sarvastivada tradition
+|   |   vs Sri Lankan writing-down tradition
+|   +-- Theravada Pali Tipitaka = Vinaya, Sutta, Abhidhamma
+|   +-- other schools preserved Vinayas, Agamas and Abhidharma
+|   +-- Sthavira/Mahāsāṃghika history is complex
+|   `-- Theravada != every Sthavira school; “Hinayana” is polemical,
+|       not a neutral synonym
+
++-- 11. MAHAYANA + VAJRAYANA BOUNDARY
+|   +-- Mahayana emerges gradually in early centuries BCE/CE
+|   +-- Bodhisattva ideal + pāramitās/perfections + new sutras
+|   +-- Madhyamaka -> emptiness/dependent designation
+|   |   -> emptiness is not non-existence
+|   +-- Maitreya = future Buddha, not exclusively Mahayana
+|   `-- Vajrayana -> later tantric first-millennium development;
+|       do not project it into the founder's age
+
++-- 12. PATRONAGE, MATERIALS + SPREAD
+|   +-- rulers + merchants + artisans + women + monks/nuns + local donors
+|       -> monasteries, caves, stupas, education and routes
+|   +-- Ashoka: early inscriptional patronage and saṅgha concern
+|   |   -> dhamma is broader than Buddhist doctrine; he did not single-handedly
+|   |      found Buddhism or explain all later expansion
+|   +-- Kanishka important in north-western networks;
+|   |   council/conversion details remain tradition-filtered
+|   +-- Sanchi/Bharhut/Amaravati, Karle/Ajanta, Nalanda
+|   |   -> phase-specific dating and donor context required
+|   +-- Sri Lanka + Central Asia + China/Korea/Japan
+|   |   + Southeast Asia + Himalayan/Tibetan routes
+|   `-- no single ruler, language or route explains trans-Asian spread
+
++-- 13. CONTROLLED COMPARISON
+|   +-- Jainism:
+|   |   enduring jīva + material karmic bondage + rigorous ahiṃsā/austerity
+|   +-- Buddhism:
+|   |   anattā + intentional karma + Middle Path/Eightfold Path
+|   +-- both:
+|   |   renunciant-lay community, ethical discipline, critique of exclusive
+|   |   ritual authority, debate and patronage
+|   `-- neither = uniformly egalitarian or detached from wider society
+
++-- 14. DECLINE, ENDURANCE + LEGACY
+|   +-- Buddhist contraction in India = regional and multicausal:
+|   |   patronage/land changes + competition/accommodation
+|   |   + institutional concentration + political disruption
+|   +-- no single “Brahmanical hostility”, “tantric degeneration” or raid
+|   |   explains every region
+|   +-- Himalayan/eastern continuities, Asian expansion and modern revival
+|   +-- Jain endurance:
+|       ascetic-lay resilience + regional/mercantile/elite support
+|       + literary and institutional adaptation
+|       -> continuity with change, not stasis
+
++-- 15. VERIFIED PYQ ROUTE
+|   +-- 2026 Prelims Q5:
+|   |   Jain four gatis/forms -> deva, manuṣya, nāraki, tiryañca
+|   |   (yakṣa is not one of the four)
+|   +-- 2024 Q54:
+|   |   Śākyamuni/Tathāgata -> Buddha; Nayaputta -> Mahavira
+|   +-- 2024 Q64:
+|   |   Saṅghabhūti -> Sarvastivada Vinaya commentary
+|   +-- 2023 Q41:
+|   |   Dhanyakataka -> lower Krishna/Andhra Buddhist zone;
+|   |   Mahāsāṃghika association, not Gandhara/Kalinga/Magadha
+|   +-- 2023 Q47:
+|   |   Jain embodied life includes rocks/water/natural objects;
+|   |   ontology linked to ahiṃsā, not modern biology
+|   +-- 2022 Q55:
+|   |   identify Jaina canonical-text attribution from source context
+|   +-- 2020 Q22:
+|   |   Sthaviravada/Mahāsāṃghika/Mahayana relation; avoid “Hinayana”
+|   +-- 2020 Q31:
+|   |   pāramitās = perfections on Bodhisattva path
+|   +-- 2020 Q71:
+|   |   parivrajaka = wandering renunciant; śramaṇa = renunciant field;
+|   |   upāsaka = lay Buddhist devotee
+|   `-- 2019 Q9:
+|       Mahayana features -> Bodhisattva/pāramitā/emptiness routes,
+|       not a one-council or one-date origin
+
+`-- 16. MAINS SPINE + CLOSE-OPTION TRAPS
+    context (cities/kings/renunciants)
+      -> founder/source caution -> doctrine -> institution/lay support
+      -> patronage/material evidence -> spread/sects -> decline/endurance
+    traps:
+      Jain Triratna = Buddhist -> no, Jain right faith/knowledge/conduct
+      Nayaputta = Buddha -> no, Mahavira
+      jīva = Buddhist anattā -> no, Jain enduring soul vs Buddhist no-self
+      Ashoka = sole global founder -> no, many routes and patrons
+      Theravada = Hinayana -> no, polemical category
+      emptiness = nihilism -> no, dependent designation
+      four gatis include yakṣa -> no, deva/manuṣya/nāraki/tiryañca
+    verdict:
+      Jainism and Buddhism emerged in a shared urban-renunciant ecology but
+      offered distinct metaphysics, ethics and institutions; their histories
+      are best explained through doctrine plus lay networks, patronage,
+      regional adaptation and qualified continuity.
 ```

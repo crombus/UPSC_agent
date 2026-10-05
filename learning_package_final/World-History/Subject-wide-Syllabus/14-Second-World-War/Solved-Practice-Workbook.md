@@ -4,807 +4,565 @@ topic_key: world-history-14
 ---
 # Second World War — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## SOURCE-REVIEWED MCQS AND REMEDIATION
+Grounding: paired basic/advanced chapters (Norman Lowe, chapter 6); distinguish dated events from interpretive claims. Attempt every question before checking the separate key.
 
-### Q1. Which statement correctly identifies Two regional wars fused in 1941?
+### Q1. Which claim about the origins of a global war preserves the two-theatre chronology?
 
-A. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-B. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-C. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-D. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
+A. Japanese expansion in Asia preceded the European war beginning in 1939; the decisions of 1941 fused the theatres.
+B. Pearl Harbor in 1939 created the European war before Japan expanded in China.
+C. Barbarossa in 1931 immediately united the Asian and European theatres.
+D. The D-Day landings started Japanese expansion in Manchuria.
 
-**Answer: A.**
-**Explanation:** Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. Match each strategic decision with its most direct consequence: Germany invades USSR; Japan attacks Pearl Harbor; Hitler declares war on USA.
 
-### Q2. Which chronology card should be filed under Two regional wars fused in 1941?
+A. British withdrawal from Europe; Soviet surrender; US exit from war.
+B. Eastern overextension; US entry into Pacific fighting; a German-American war with larger Allied resources.
+C. German victory at Stalingrad; France's 1940 surrender; Polish occupation.
+D. UNO establishment; decolonisation completed; armistice at Normandy.
 
-A. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-B. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-C. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-D. The attack on the USSR created the multi-front war Germany could not sustain.
+### Q3. What does Poland in September 1939 illustrate about Blitzkrieg?
 
-**Answer: B.**
-**Explanation:** Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States. The remaining options belong to different chronology, actor or analytical categories.
+A. The RAF's radar network directly enabled the German advance.
+B. Carrier-based air power eliminated all land combat in Poland.
+C. Coordinated tanks, motorised divisions and aircraft rapidly overwhelmed a weaker defence.
+D. Atlantic convoys allowed Poland to seize German ports.
 
-### Q3. Which option preserves the source-bounded meaning of Two regional wars fused in 1941?
+### Q4. Which chain correctly connects the 1940 northern and western campaigns?
 
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. Japan's attack brought American industrial and financial power directly into the conflict.
-C. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-D. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
+A. Germany defeated France first and then invaded Poland in response.
+B. Pearl Harbor forced France to surrender before the Battle of Britain.
+C. D-Day liberated Norway before the fall of Holland.
+D. Germany defeated Denmark and Norway, then advanced through the Netherlands and Belgium as France collapsed.
 
-**Answer: C.**
-**Explanation:** Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. Which inference about Dunkirk is justified?
 
-### Q4. Which statement avoids a close-option trap about Two regional wars fused in 1941?
+A. Evacuation preserved substantial Allied forces but did not prevent the French surrender.
+B. It restored France's independence and ended the 1940 campaign.
+C. It was a carrier battle against Japan in June 1942.
+D. It was the Soviet counteroffensive that ended the Battle of Stalingrad.
 
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. Japan's attack brought American industrial and financial power directly into the conflict.
-C. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-D. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
+### Q6. Why did Britain avoid invasion after the Battle of Britain?
 
-**Answer: D.**
-**Explanation:** Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States. The remaining options belong to different chronology, actor or analytical categories.
+A. The Luftwaffe permanently eliminated RAF fighters before invasion.
+B. RAF resistance, radar warning, German range limits and the switch towards bombing London weakened the German air offensive.
+C. The USA landed in Normandy in 1940.
+D. German U-boats captured the British airfields by land.
 
-### Q5. Which statement correctly identifies Poland and Blitzkrieg, 1939?
+### Q7. What is the limited but real meaning of 'first major German check' in 1940?
 
-A. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-B. The attack on the USSR created the multi-front war Germany could not sustain.
-C. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-D. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
+A. Berlin was occupied in September 1940.
+B. Japan lost its carriers at Midway during the Battle of Britain.
+C. Britain survived and German invasion was prevented, though the wider war continued.
+D. The USSR took Warsaw and ended European combat.
 
-**Answer: A.**
-**Explanation:** Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. What did the launch of Barbarossa on 22 June 1941 change most clearly?
 
-### Q6. Which chronology card should be filed under Poland and Blitzkrieg, 1939?
+A. It brought France back into the Axis alliance.
+B. It ended the North African campaign at El Alamein.
+C. It caused Japan's surrender to the Allies.
+D. It opened the immense eastern struggle before Germany had defeated Britain.
 
-A. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-B. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-C. Japan's attack brought American industrial and financial power directly into the conflict.
-D. The attack on the USSR created the multi-front war Germany could not sustain.
+### Q9. Why is it inaccurate to make Pearl Harbor the sole cause of the USA-Germany war?
 
-**Answer: B.**
-**Explanation:** Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect. The remaining options belong to different chronology, actor or analytical categories.
+A. Japan's attack brought the USA into the Pacific war; Hitler separately declared war on the USA.
+B. Germany had surrendered before Pearl Harbor.
+C. Pearl Harbor took place in Germany's Ruhr industrial area.
+D. US neutrality lasted unchanged through the Normandy landings.
 
-### Q7. Which option preserves the source-bounded meaning of Poland and Blitzkrieg, 1939?
+### Q10. Which contrast captures the 1941–42 Axis expansion and its limit?
 
-A. Japan's attack brought American industrial and financial power directly into the conflict.
-B. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-C. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-D. The attack on the USSR created the multi-front war Germany could not sustain.
+A. Japan conquered Britain at the same time that Germany left the USSR untouched.
+B. German offensives widened in Russia and North Africa while Japan expanded across Asia-Pacific, making a multi-theatre war harder to sustain.
+C. Rommel directed carrier operations at Midway.
+D. All Allied sea routes had already been secured before Pearl Harbor.
 
-**Answer: C.**
-**Explanation:** Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. Why did Midway shift the Pacific balance without immediately ending the war?
 
-### Q8. Which statement avoids a close-option trap about Poland and Blitzkrieg, 1939?
+A. The German army surrendered at Midway in February 1943.
+B. British radar destroyed the Italian army near Suez.
+C. Japanese carrier losses weakened offensive reach while combat across the Pacific continued.
+D. American battleships made aircraft carriers irrelevant thereafter.
 
-A. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-B. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-C. Japan's attack brought American industrial and financial power directly into the conflict.
-D. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
+### Q12. Which theatre and strategic stake belong to El Alamein in October 1942?
 
-**Answer: D.**
-**Explanation:** Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect. The remaining options belong to different chronology, actor or analytical categories.
+A. The Pacific; destruction of Japan's carrier fleet.
+B. Eastern Europe; the capture of Stalingrad.
+C. Northern France; a second front through Normandy.
+D. North Africa; the defence of Egypt and the Suez Canal against Axis advance.
 
-### Q9. Which statement correctly identifies Western victories and France, 1940?
+### Q13. Why is the February 1943 German surrender at Stalingrad more than a symbolic defeat?
 
-A. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-B. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-C. The attack on the USSR created the multi-front war Germany could not sustain.
-D. Japan's attack brought American industrial and financial power directly into the conflict.
+A. It broke German eastern momentum and enabled continuing Soviet advance.
+B. It compelled Britain to capitulate to Germany.
+C. It ended the Pacific war by destroying Japanese carriers.
+D. It preceded Hitler's decision to invade the USSR.
 
-**Answer: A.**
-**Explanation:** Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. Which comparison of the 1942–43 turning points is accurate?
 
-### Q10. Which chronology card should be filed under Western victories and France, 1940?
+A. Midway saved Suez; El Alamein stopped U-boats; Stalingrad repelled an invasion of Britain.
+B. Midway reduced Japanese carrier power; El Alamein protected Egypt; Stalingrad checked Germany in the east.
+C. All three battles directly liberated Normandy in June 1942.
+D. All three were final surrender ceremonies in 1945.
 
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-C. Japan's attack brought American industrial and financial power directly into the conflict.
-D. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
+### Q15. Which feature makes the Battle of the Atlantic essential to explaining later Allied land operations?
 
-**Answer: B.**
-**Explanation:** Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France. The remaining options belong to different chronology, actor or analytical categories.
+A. German U-boats supplied British airfields with radar.
+B. Carrier losses at Stalingrad permanently ended the convoy war.
+C. Protected shipping kept Britain supplied and enabled the movement and sustenance of later offensives.
+D. Its only effect was formal establishment of the UNO.
 
-### Q11. Which option preserves the source-bounded meaning of Western victories and France, 1940?
+### Q16. How did convoy defence change as the Atlantic struggle progressed?
 
-A. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-B. Japan's attack brought American industrial and financial power directly into the conflict.
-C. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-D. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
+A. Allied aircraft abandoned convoy routes to operate only over Japan.
+B. Surface battleships alone replaced the need for supplies.
+C. The Battle of Britain automatically sank every Atlantic submarine.
+D. Escort, radar and long-range aircraft helped reduce the U-boat threat.
 
-**Answer: C.**
-**Explanation:** Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. What distinguished carrier power in the Pacific from a battleship-only account?
 
-### Q12. Which statement avoids a close-option trap about Western victories and France, 1940?
+A. Carrier aircraft projected striking power across distance and were crucial to Midway's outcome.
+B. Aircraft flew solely from inland European airfields during Midway.
+C. Naval air power could not influence Japanese expansion.
+D. The RAF's defence of London was a Pacific aircraft-carrier operation.
 
-A. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-B. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-C. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-D. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
+### Q18. What did the Allied landings of 6 June 1944 accomplish?
 
-**Answer: D.**
-**Explanation:** Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France. The remaining options belong to different chronology, actor or analytical categories.
+A. They began the German invasion of the USSR.
+B. They opened a western front in France while Soviet armies advanced from the east.
+C. They removed Japanese troops from Manchuria.
+D. They immediately ended all fighting worldwide.
 
-### Q13. Which statement correctly identifies Battle of Britain, July-September 1940?
+### Q19. Which explanation of Axis defeat is genuinely multi-causal?
 
-A. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-B. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-C. The attack on the USSR created the multi-front war Germany could not sustain.
-D. Japan's attack brought American industrial and financial power directly into the conflict.
+A. Stalingrad alone determined every Pacific campaign outcome.
+B. Only Britain's radar determined Germany's defeat in May 1945.
+C. Strategic overreach, Allied resources, naval and air superiority, Soviet resistance and brutal occupation policies interacted.
+D. Axis armies lost simply because they never won an early campaign.
 
-**Answer: A.**
-**Explanation:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. How could Nazi occupation policy worsen German military prospects in eastern Europe?
 
-### Q14. Which chronology card should be filed under Battle of Britain, July-September 1940?
+A. It guaranteed widespread voluntary support from occupied populations.
+B. It forced the British RAF to abandon radar.
+C. It made carrier aircraft obsolete in the Pacific.
+D. Brutality alienated peoples who might otherwise have weakened Soviet resistance.
 
-A. Japan's attack brought American industrial and financial power directly into the conflict.
-B. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-C. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-D. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
+### Q21. Which statement distinguishes operational skill from durable strategic advantage?
 
-**Answer: B.**
-**Explanation:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. The remaining options belong to different chronology, actor or analytical categories.
+A. Fast early advances did not offset simultaneous conflict with Britain, the USSR and the USA.
+B. Blitzkrieg proves Germany won the Atlantic supply war.
+C. The defeat of Poland meant Japan surrendered in 1939.
+D. France's surrender meant British supply lines ceased to matter.
 
-### Q15. Which option preserves the source-bounded meaning of Battle of Britain, July-September 1940?
+### Q22. Why should air power not be evaluated only by counting bombers?
 
-A. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-B. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-C. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-D. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
+A. Carrier aircraft were only used at El Alamein.
+B. Radar-aided defence, Pacific carrier aviation, Atlantic anti-submarine patrols and attacks on oil and transport served distinct functions.
+C. The Luftwaffe won unrestricted air superiority over Britain in 1940.
+D. Strategic bombing had no role in later attacks on German oil production.
 
-**Answer: C.**
-**Explanation:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. The remaining options belong to different chronology, actor or analytical categories.
+### Q23. Which qualified account of Allied strategic bombing fits the advanced source?
 
-### Q16. Which statement avoids a close-option trap about Battle of Britain, July-September 1940?
+A. Every early raid achieved precise and decisive military effects without civilian deaths.
+B. No target other than residential areas was attacked after 1944.
+C. Civilian bombing was morally disputed; later strikes on oil, transport and industry had significant material effects.
+D. Bombing alone ended the war before D-Day.
 
-A. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-B. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-C. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-D. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
+### Q24. What evidence would most directly support a claim that later bombing weakened German operational capacity?
 
-**Answer: D.**
-**Explanation:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. The remaining options belong to different chronology, actor or analytical categories.
+A. Counting only the number of planes that flew over Europe.
+B. Citing the surrender of Poland in 1939 as a bombing outcome.
+C. Describing Midway's aircraft-carrier losses as Ruhr factory closures.
+D. Attacks on synthetic oil and transport disrupted fuel supply and movement of war materiel.
 
-### Q17. Which statement correctly identifies Operation Barbarossa, 22 June 1941?
+### Q25. Which interpretation of the Holocaust keeps both long-term intent and wartime mechanism in view?
 
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-C. Japan's attack brought American industrial and financial power directly into the conflict.
-D. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
+A. Nazi anti-Jewish ideology interacted with wartime conquest and administrative radicalisation.
+B. It arose solely from an accidental shortage of transport in 1945.
+C. It was completely separate from occupation and wartime state power.
+D. All targeted civilian groups shared the same legal classification and identical mortality count.
 
-**Answer: A.**
-**Explanation:** The attack on the USSR created the multi-front war Germany could not sustain. The remaining options belong to different chronology, actor or analytical categories.
+### Q26. What does an intentionalist–functionalist comparison actually dispute?
 
-### Q18. Which chronology card should be filed under Operation Barbarossa, 22 June 1941?
+A. Whether Midway came before or after D-Day.
+B. The relative explanatory weight of Hitler's prior exterminatory intent versus wartime circumstance and bureaucratic escalation.
+C. Whether the Allies won the Battle of Britain.
+D. Whether the UNO existed in 1939.
 
-A. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-B. The attack on the USSR created the multi-front war Germany could not sustain.
-C. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-D. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
+### Q27. How should Lowe's Holocaust figure be cited without category inflation?
 
-**Answer: B.**
-**Explanation:** The attack on the USSR created the multi-front war Germany could not sustain. The remaining options belong to different chronology, actor or analytical categories.
+A. Add every wartime battlefield death to the Jewish Holocaust estimate.
+B. Present the figure as an exact census of all Nazi victims.
+C. Attribute his estimate of about 5.7 million murdered Jews; discuss Roma, disabled people and other targeted groups separately.
+D. Assign the estimate solely to deaths at Stalingrad.
 
-### Q19. Which option preserves the source-bounded meaning of Operation Barbarossa, 22 June 1941?
+### Q28. Which example illustrates 'total war' beyond battlefield manoeuvre?
 
-A. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-B. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-C. The attack on the USSR created the multi-front war Germany could not sustain.
-D. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
+A. Only uniformed soldiers were affected; factories and food supplies stayed outside conflict.
+B. The war was limited to an unoccupied western front.
+C. Strategic decisions had no effects on displaced populations.
+D. States mobilised industry and food systems while bombing, occupation and genocide struck civilians.
 
-**Answer: C.**
-**Explanation:** The attack on the USSR created the multi-front war Germany could not sustain. The remaining options belong to different chronology, actor or analytical categories.
+### Q29. Which statement avoids a false choice about resistance and occupation?
 
-### Q20. Which statement avoids a close-option trap about Operation Barbarossa, 22 June 1941?
+A. Occupation brutality could produce resistance and discredit claims of benevolent Axis rule, while responses varied locally.
+B. Every occupied population had a single identical response.
+C. Only military battles mattered to the impact of Nazi racial policies.
+D. European occupation began only after Germany's surrender.
 
-A. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-B. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-C. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-D. The attack on the USSR created the multi-front war Germany could not sustain.
+### Q30. Why is the surrender of Japan in August 1945 not reducible to one unchallenged explanation?
 
-**Answer: D.**
-**Explanation:** The attack on the USSR created the multi-front war Germany could not sustain. The remaining options belong to different chronology, actor or analytical categories.
+A. Historians agree Soviet intervention alone was impossible and never occurred.
+B. Atomic attacks, Soviet entry against Japan, blockade, conventional devastation and Japanese internal politics all enter the debate.
+C. The bombs were dropped after a Japanese surrender in 1944.
+D. Pearl Harbor itself ended the Pacific war.
 
-### Q21. Which statement correctly identifies Pearl Harbor, 7 December 1941?
+### Q31. Which source-bound claim about atomic bombing avoids overclaiming?
 
-A. Japan's attack brought American industrial and financial power directly into the conflict.
-B. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-C. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-D. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
+A. The atomic bombs were the sole possible cause as proved by Lowe beyond debate.
+B. The USSR was already excluded from all operations against Japan.
+C. Hiroshima and Nagasaki preceded surrender, but their relative causal weight against Soviet intervention remains debated.
+D. Japan surrendered before atomic attacks or Soviet entry.
 
-**Answer: A.**
-**Explanation:** Japan's attack brought American industrial and financial power directly into the conflict. The remaining options belong to different chronology, actor or analytical categories.
+### Q32. What did Japanese victories in Asia do to European imperial authority?
 
-### Q22. Which chronology card should be filed under Pearl Harbor, 7 December 1941?
+A. They instantly gave every colony full independence in 1942.
+B. They restored British and French prestige without interruption.
+C. They constituted the Treaty of Versailles of 1945.
+D. They damaged the aura of European invincibility, helping accelerate later anti-colonial pressure.
 
-A. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-B. Japan's attack brought American industrial and financial power directly into the conflict.
-C. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-D. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
+### Q33. Which combination describes the postwar distribution of power?
 
-**Answer: B.**
-**Explanation:** Japan's attack brought American industrial and financial power directly into the conflict. The remaining options belong to different chronology, actor or analytical categories.
+A. European powers were weakened while the USA and USSR emerged as dominant superpowers.
+B. Germany and Italy alone became the two dominant superpowers.
+C. The USSR disappeared and Britain became the sole global power.
+D. Japan's 1945 surrender returned prewar imperial dominance unchanged.
 
-### Q23. Which option preserves the source-bounded meaning of Pearl Harbor, 7 December 1941?
+### Q34. What institutional distinction separates the 1945 aftermath from 1919?
 
-A. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-B. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-C. Japan's attack brought American industrial and financial power directly into the conflict.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+A. The League was founded after WWII and the UNO after WWI.
+B. The United Nations succeeded the League, but no single all-inclusive Versailles-type settlement resolved the war.
+C. Versailles was signed for all WWII belligerents in August 1945.
+D. The United Nations existed as the Soviet postwar Five Year Plan.
 
-**Answer: C.**
-**Explanation:** Japan's attack brought American industrial and financial power directly into the conflict. The remaining options belong to different chronology, actor or analytical categories.
+### Q35. Match the four broad periods to a characteristic change: 1939–40; 1941–mid-1942; mid-1942–43; mid-1943–45.
 
-### Q24. Which statement avoids a close-option trap about Pearl Harbor, 7 December 1941?
+A. Soviet atomic test; decolonisation finished; League founded; Poland invaded.
+B. D-Day; Battle of Britain; invasion of Poland; Barbarossa.
+C. Rapid European Axis success and Britain surviving; widening offensives; three-theatre checks; converging Allied advances.
+D. Japanese surrender; Normandy liberation; Pearl Harbor; Dunkirk evacuation.
 
-A. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-B. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-C. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-D. Japan's attack brought American industrial and financial power directly into the conflict.
+### Q36. Which integrated thesis best answers 'how did WWII affect society and world order'?
 
-**Answer: D.**
-**Explanation:** Japan's attack brought American industrial and financial power directly into the conflict. The remaining options belong to different chronology, actor or analytical categories.
+A. Only battle maps changed; colonial rule and civilian society were untouched.
+B. The war immediately ended all empires and eliminated strategic competition.
+C. Europe's prewar dominance was restored without a nuclear dimension.
+D. Civilian devastation and genocide, reconstruction and welfare pressures, superpower rivalry and a weakened imperial system coexisted.
 
-### Q25. Which statement correctly identifies Midway, June 1942?
+### Q37. Which question tests diplomacy and military consequence without asserting an invented treaty?
 
-A. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-B. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-C. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-D. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
+A. How did Hitler's decision to fight the USSR before defeating Britain, then declare war on the USA, alter Germany's resource balance?
+B. Which secret 1942 US–German peace treaty returned Stalingrad to Hitler?
+C. Why did the 1940 German–British alliance plan D-Day?
+D. How did the 1944 Versailles agreement force Japan to attack Pearl Harbor?
 
-**Answer: A.**
-**Explanation:** Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power. The remaining options belong to different chronology, actor or analytical categories.
+## MATCHING ANSWER KEY AND ITEM-SPECIFIC EXPLANATIONS
 
-### Q26. Which chronology card should be filed under Midway, June 1942?
+### Q1 — A
 
-A. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-B. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-C. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+- **A ✓:** Asian aggression did not begin with Pearl Harbor, and European hostilities were not initially a Pacific war.
+- **B ✗:** Pearl Harbor occurred in December 1941, after Japanese expansion.
+- **C ✗:** Germany invaded the USSR in June 1941, not 1931.
+- **D ✗:** Normandy was a western European operation in June 1944.
+- **Trap:** Germany invaded the USSR in June 1941, not 1931.
 
-**Answer: B.**
-**Explanation:** Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power. The remaining options belong to different chronology, actor or analytical categories.
+### Q2 — B
 
-### Q27. Which option preserves the source-bounded meaning of Midway, June 1942?
+- **A ✗:** Britain did not withdraw, the USSR did not surrender, and the USA entered.
+- **B ✓:** The three decisions cumulatively worsened Axis strategic prospects.
+- **C ✗:** These outcomes do not map to the three 1941 decisions.
+- **D ✗:** These are either postwar or misidentify the Normandy operation.
+- **Trap:** These are either postwar or misidentify the Normandy operation.
 
-A. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-B. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-C. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
-D. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
+### Q3 — C
 
-**Answer: C.**
-**Explanation:** Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** RAF radar was relevant to Britain's defence in 1940.
+- **B ✗:** The campaign depended on ground forces and air support.
+- **C ✓:** Operational mobility, not merely a single new weapon, explains the early outcome.
+- **D ✗:** Convoy survival mattered to Britain, not this claimed Polish counteroffensive.
+- **Trap:** RAF radar was relevant to Britain's defence in 1940.
 
-### Q28. Which statement avoids a close-option trap about Midway, June 1942?
+### Q4 — D
 
-A. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-B. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-C. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-D. Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power.
+- **A ✗:** Poland fell in 1939, before France in 1940.
+- **B ✗:** France surrendered in June 1940; Pearl Harbor came in December 1941.
+- **C ✗:** D-Day took place in Normandy in 1944.
+- **D ✓:** These successes belong to the first broad phase before the invasion of the USSR.
+- **Trap:** France surrendered in June 1940; Pearl Harbor came in December 1941.
 
-**Answer: D.**
-**Explanation:** Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power. The remaining options belong to different chronology, actor or analytical categories.
+### Q5 — A
 
-### Q29. Which statement correctly identifies El Alamein, October 1942?
+- **A ✓:** Rescuing personnel should not be conflated with holding territory.
+- **B ✗:** France still surrendered in June 1940.
+- **C ✗:** That confuses Dunkirk with Pacific naval warfare.
+- **D ✗:** Dunkirk was in western Europe in 1940.
+- **Trap:** Dunkirk was in western Europe in 1940.
 
-A. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-B. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-C. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+### Q6 — B
 
-**Answer: A.**
-**Explanation:** El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Britain retained sufficient air defence to prevent invasion.
+- **B ✓:** A combination of air defence and German operational constraints checked invasion.
+- **C ✗:** Normandy landings began in June 1944.
+- **D ✗:** Submarines did not occupy airfields.
+- **Trap:** Britain retained sufficient air defence to prevent invasion.
 
-### Q30. Which chronology card should be filed under El Alamein, October 1942?
+### Q7 — C
 
-A. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-B. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-C. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+- **A ✗:** Germany did not surrender until 1945.
+- **B ✗:** Midway came in June 1942 in the Pacific.
+- **C ✓:** A turning point need not equal final Axis defeat.
+- **D ✗:** The eastern front widened after June 1941.
+- **Trap:** Midway came in June 1942 in the Pacific.
 
-**Answer: B.**
-**Explanation:** El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa. The remaining options belong to different chronology, actor or analytical categories.
+### Q8 — D
 
-### Q31. Which option preserves the source-bounded meaning of El Alamein, October 1942?
+- **A ✗:** France had surrendered in 1940 and this is not Barbarossa's mechanism.
+- **B ✗:** El Alamein's decisive phase came in October 1942.
+- **C ✗:** Japan surrendered in 1945.
+- **D ✓:** A new front increased strategic overextension.
+- **Trap:** Japan surrendered in 1945.
 
-A. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-B. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-C. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+### Q9 — A
 
-**Answer: C.**
-**Explanation:** El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Distinguish the attack on US naval forces from Germany's subsequent diplomatic decision.
+- **B ✗:** The European war continued until May 1945.
+- **C ✗:** The attack was Japanese and targeted a US Pacific base.
+- **D ✗:** The USA had entered the war in 1941.
+- **Trap:** The European war continued until May 1945.
 
-### Q32. Which statement avoids a close-option trap about El Alamein, October 1942?
+### Q10 — B
 
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-C. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-D. El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa.
+- **A ✗:** Britain survived, and Germany attacked the USSR.
+- **B ✓:** Spatial reach could multiply commitments faster than resources.
+- **C ✗:** Rommel was associated with North Africa, not Midway.
+- **D ✗:** The Battle of the Atlantic remained a major struggle.
+- **Trap:** Rommel was associated with North Africa, not Midway.
 
-**Answer: D.**
-**Explanation:** El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa. The remaining options belong to different chronology, actor or analytical categories.
+### Q11 — C
 
-### Q33. Which statement correctly identifies Stalingrad, February 1943?
+- **A ✗:** Stalingrad, not Midway, saw German surrender in February 1943.
+- **B ✗:** Midway was a June 1942 Pacific carrier battle.
+- **C ✓:** A reversal of maritime-air capacity is not a peace treaty.
+- **D ✗:** Carrier-based air power became strategically central.
+- **Trap:** Carrier-based air power became strategically central.
 
-A. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-B. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-C. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-D. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
+### Q12 — D
 
-**Answer: A.**
-**Explanation:** German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** That is the Midway theatre and effect.
+- **B ✗:** Stalingrad lies on the eastern front.
+- **C ✗:** That front opened in 1944.
+- **D ✓:** Its importance concerns the Mediterranean–Egyptian line, not a direct conquest of Berlin.
+- **Trap:** That is the Midway theatre and effect.
 
-### Q34. Which chronology card should be filed under Stalingrad, February 1943?
+### Q13 — A
 
-A. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-B. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-C. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+- **A ✓:** Loss of a major eastern army helped reverse initiative on the largest land front.
+- **B ✗:** Britain remained an Allied belligerent.
+- **C ✗:** That confuses eastern-front land fighting with Midway.
+- **D ✗:** Barbarossa began in June 1941.
+- **Trap:** That confuses eastern-front land fighting with Midway.
 
-**Answer: B.**
-**Explanation:** German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance. The remaining options belong to different chronology, actor or analytical categories.
+### Q14 — B
 
-### Q35. Which option preserves the source-bounded meaning of Stalingrad, February 1943?
+- **A ✗:** These effects belong to other theatres or operations.
+- **B ✓:** Three reversals had distinct theatres and mechanisms.
+- **C ✗:** Normandy landings occurred in 1944.
+- **D ✗:** They were turning points rather than final capitulations.
+- **Trap:** They were turning points rather than final capitulations.
 
-A. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-B. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-C. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
-D. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
+### Q15 — C
 
-**Answer: C.**
-**Explanation:** German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** U-boats threatened, rather than sustained, Allied shipping.
+- **B ✗:** Stalingrad was a land battle, not a carrier clash.
+- **C ✓:** A secure logistical lifeline is a prerequisite, not an incidental background detail.
+- **D ✗:** Atlantic logistics mattered during the war; the UN was postwar.
+- **Trap:** U-boats threatened, rather than sustained, Allied shipping.
 
-### Q36. Which statement avoids a close-option trap about Stalingrad, February 1943?
+### Q16 — D
 
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-C. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-D. German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance.
+- **A ✗:** Aircraft also protected Atlantic shipping.
+- **B ✗:** Escorts could not make material supply unnecessary.
+- **C ✗:** The 1940 air defence did not end the U-boat campaign.
+- **D ✓:** Combined detection, air coverage and protection constrained submarine attacks.
+- **Trap:** Escorts could not make material supply unnecessary.
 
-**Answer: D.**
-**Explanation:** German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance. The remaining options belong to different chronology, actor or analytical categories.
+### Q17 — A
 
-### Q37. Which statement correctly identifies Battle of the Atlantic?
+- **A ✓:** Aircraft carriers, not battleships alone, shaped the naval-air contest.
+- **B ✗:** Midway was a naval-air battle in the Pacific.
+- **C ✗:** The source emphasises the opposite.
+- **D ✗:** The Battle of Britain was a European air campaign.
+- **Trap:** The Battle of Britain was a European air campaign.
 
-A. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-B. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-C. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+### Q18 — B
 
-**Answer: A.**
-**Explanation:** Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Barbarossa began in 1941.
+- **B ✓:** Germany came under increasing pressure on two land fronts.
+- **C ✗:** The Normandy landings took place in France.
+- **D ✗:** War in Europe continued into 1945, as did war in Asia.
+- **Trap:** Barbarossa began in 1941.
 
-### Q38. Which chronology card should be filed under Battle of the Atlantic?
+### Q19 — C
 
-A. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-B. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-C. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-D. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
+- **A ✗:** Eastern-front success does not account for Pacific carrier warfare.
+- **B ✗:** Radar mattered in 1940, but later multi-front fighting was decisive.
+- **C ✓:** The source resists reducing defeat to a single decision or battle.
+- **D ✗:** They won many early operational victories.
+- **Trap:** Radar mattered in 1940, but later multi-front fighting was decisive.
 
-**Answer: B.**
-**Explanation:** Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives. The remaining options belong to different chronology, actor or analytical categories.
+### Q20 — D
 
-### Q39. Which option preserves the source-bounded meaning of Battle of the Atlantic?
+- **A ✗:** The source stresses alienation rather than guaranteed collaboration.
+- **B ✗:** Eastern occupation does not explain 1940 British air defence.
+- **C ✗:** That is a separate naval-air theatre.
+- **D ✓:** Racial policy could undermine occupation legitimacy and strategic opportunity.
+- **Trap:** That is a separate naval-air theatre.
 
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-C. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
-D. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
+### Q21 — A
 
-**Answer: C.**
-**Explanation:** Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Winning campaigns can enlarge commitments beyond available resources.
+- **B ✗:** Rapid ground operations did not guarantee submarine success.
+- **C ✗:** Poland's fall did not end the Asian war.
+- **D ✗:** Britain remained in the war and needed Atlantic shipping.
+- **Trap:** Rapid ground operations did not guarantee submarine success.
 
-### Q40. Which statement avoids a close-option trap about Battle of the Atlantic?
+### Q22 — B
 
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-C. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-D. Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives.
+- **A ✗:** El Alamein was a North African land battle.
+- **B ✓:** Air power operated as defence, maritime force, logistics protection and industrial attrition.
+- **C ✗:** Britain's successful resistance prevented invasion.
+- **D ✗:** The advanced source identifies later material effects.
+- **Trap:** Britain's successful resistance prevented invasion.
 
-**Answer: D.**
-**Explanation:** Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives. The remaining options belong to different chronology, actor or analytical categories.
+### Q23 — C
 
-### Q41. Which statement correctly identifies D-Day, 6 June 1944?
+- **A ✗:** Early bombing could be wasteful, and area attacks caused civilian casualties.
+- **B ✗:** Oil and transport were important later targets.
+- **C ✓:** Moral evaluation and measured effectiveness are separate questions.
+- **D ✗:** Germany fought until 1945 after the Normandy invasion.
+- **Trap:** Germany fought until 1945 after the Normandy invasion.
 
-A. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-B. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-C. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-D. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
+### Q24 — D
 
-**Answer: A.**
-**Explanation:** The Normandy landings opened the western front in France and accelerated Germany's two-front collapse. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Sorties do not by themselves establish effects on fuel or transport.
+- **B ✗:** Poland's fall preceded the late bombing phase.
+- **C ✗:** Different theatre, targets and cause.
+- **D ✓:** A causal link to production and logistics is more specific than claiming morale collapse.
+- **Trap:** Sorties do not by themselves establish effects on fuel or transport.
 
-### Q42. Which chronology card should be filed under D-Day, 6 June 1944?
+### Q25 — A
 
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-C. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-D. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
+- **A ✓:** The source's combined approach avoids an intent-only or circumstances-only explanation.
+- **B ✗:** That neglects ideology and the organised murder programme.
+- **C ✗:** Conquest and occupation enabled implementation.
+- **D ✗:** The source distinguishes Jewish genocide from other victim groups.
+- **Trap:** Conquest and occupation enabled implementation.
 
-**Answer: B.**
-**Explanation:** The Normandy landings opened the western front in France and accelerated Germany's two-front collapse. The remaining options belong to different chronology, actor or analytical categories.
+### Q26 — B
 
-### Q43. Which option preserves the source-bounded meaning of D-Day, 6 June 1944?
+- **A ✗:** Both schools address genocide interpretation, not naval chronology.
+- **B ✓:** These are interpretive emphases concerning origins and implementation.
+- **C ✗:** The outcome of that battle is not their disputed question.
+- **D ✗:** The UN is a postwar institutional consequence.
+- **Trap:** The UN is a postwar institutional consequence.
 
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-C. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
-D. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
+### Q27 — C
 
-**Answer: C.**
-**Explanation:** The Normandy landings opened the western front in France and accelerated Germany's two-front collapse. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** A genocide estimate is not a total military-death count.
+- **B ✗:** The source's approximation and category boundaries matter.
+- **C ✓:** The figure is source-specific and does not count all victims of Nazi violence as Jewish victims.
+- **D ✗:** Stalingrad was a battle, not the total Holocaust.
+- **Trap:** A genocide estimate is not a total military-death count.
 
-### Q44. Which statement avoids a close-option trap about D-Day, 6 June 1944?
+### Q28 — D
 
-A. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-B. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-C. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-D. The Normandy landings opened the western front in France and accelerated Germany's two-front collapse.
+- **A ✗:** The source explicitly documents civilian and economic mobilisation.
+- **B ✗:** The conflict was global and involved extensive occupation.
+- **C ✗:** Mass displacement is a major wartime consequence.
+- **D ✓:** Civilian society and production became integral to warfare.
+- **Trap:** The conflict was global and involved extensive occupation.
 
-**Answer: D.**
-**Explanation:** The Normandy landings opened the western front in France and accelerated Germany's two-front collapse. The remaining options belong to different chronology, actor or analytical categories.
+### Q29 — A
 
-### Q45. Which statement correctly identifies Why the Axis lost?
+- **A ✓:** A society-under-war analysis allows agency and uneven experiences.
+- **B ✗:** Such uniformity is not supported by the source.
+- **C ✗:** The policies affected occupied civilians directly.
+- **D ✗:** Occupation was part of the war.
+- **Trap:** Occupation was part of the war.
 
-A. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-B. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-C. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-D. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
+### Q30 — B
 
-**Answer: A.**
-**Explanation:** Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The USSR entered the war against Japan.
+- **B ✓:** A responsible answer distinguishes the documented sequence from contested causal weights.
+- **C ✗:** The bombings preceded Japan's 1945 surrender.
+- **D ✗:** It began direct American participation, not Japan's surrender.
+- **Trap:** The USSR entered the war against Japan.
 
-### Q46. Which chronology card should be filed under Why the Axis lost?
+### Q31 — C
 
-A. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-B. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-C. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-D. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
+- **A ✗:** The basic and advanced sources flag rival interpretations.
+- **B ✗:** Soviet entry is part of the late-war sequence.
+- **C ✓:** Chronology alone does not settle an interpretive counterfactual.
+- **D ✗:** Both preceded the surrender.
+- **Trap:** Soviet entry is part of the late-war sequence.
 
-**Answer: B.**
-**Explanation:** Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success. The remaining options belong to different chronology, actor or analytical categories.
+### Q32 — D
 
-### Q47. Which option preserves the source-bounded meaning of Why the Axis lost?
+- **A ✗:** Decolonisation required subsequent struggle and transitions.
+- **B ✗:** Colonial prestige was weakened by wartime defeats.
+- **C ✗:** The war did not end in one Versailles-type peace.
+- **D ✓:** Imperial delegitimation did not itself complete independence immediately.
+- **Trap:** The war did not end in one Versailles-type peace.
 
-A. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-B. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-C. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
-D. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
+### Q33 — A
 
-**Answer: C.**
-**Explanation:** Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** The war displaced Europe's prior primacy.
+- **B ✗:** Both Axis European powers were defeated.
+- **C ✗:** The USSR was one of the emergent superpowers.
+- **D ✗:** The war accelerated political and imperial change.
+- **Trap:** Both Axis European powers were defeated.
 
-### Q48. Which statement avoids a close-option trap about Why the Axis lost?
+### Q34 — B
 
-A. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-B. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-C. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-D. Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success.
+- **A ✗:** The institutional order is reversed.
+- **B ✓:** New collective-security institutions did not imply one comprehensive peace treaty.
+- **C ✗:** Versailles was the WWI settlement, not a WWII universal treaty.
+- **D ✗:** A political organisation and economic plan are different institutions.
+- **Trap:** Versailles was the WWI settlement, not a WWII universal treaty.
 
-**Answer: D.**
-**Explanation:** Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success. The remaining options belong to different chronology, actor or analytical categories.
+### Q35 — C
 
-### Q49. Which statement correctly identifies Holocaust and bounded figure?
+- **A ✗:** These events do not map onto the wartime phases.
+- **B ✗:** The events are placed in reverse or displaced order.
+- **C ✓:** This preserves the basic source's progression from expansion to reversal and defeat.
+- **D ✗:** Again the chronological correspondence fails.
+- **Trap:** Again the chronological correspondence fails.
 
-A. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-B. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-C. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-D. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
+### Q36 — D
 
-**Answer: A.**
-**Explanation:** Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Both social and imperial effects are central in the sources.
+- **B ✗:** Decolonisation and postwar rivalry unfolded over time.
+- **C ✗:** The USA/USSR rise and atomic age contradict this.
+- **D ✓:** The answer links social experience, institutions and geopolitical restructuring.
+- **Trap:** Both social and imperial effects are central in the sources.
 
-### Q50. Which chronology card should be filed under Holocaust and bounded figure?
+### Q37 — A
 
-A. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-B. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-C. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-D. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-
-**Answer: B.**
-**Explanation:** Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Holocaust and bounded figure?
-
-A. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-B. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-C. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-D. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-
-**Answer: C.**
-**Explanation:** Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Holocaust and bounded figure?
-
-A. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-B. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-C. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-D. Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation.
-
-**Answer: D.**
-**Explanation:** Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Other Nazi victims?
-
-A. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-B. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-C. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-D. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-
-**Answer: A.**
-**Explanation:** Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Other Nazi victims?
-
-A. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-B. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-C. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-D. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-
-**Answer: B.**
-**Explanation:** Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Other Nazi victims?
-
-A. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-B. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-C. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-D. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-
-**Answer: C.**
-**Explanation:** Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Other Nazi victims?
-
-A. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-B. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-C. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-D. Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total.
-
-**Answer: D.**
-**Explanation:** Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Total war?
-
-A. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-B. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-C. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-D. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-
-**Answer: A.**
-**Explanation:** Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Total war?
-
-A. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-B. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-C. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-D. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-
-**Answer: B.**
-**Explanation:** Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Total war?
-
-A. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-B. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-C. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-D. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-
-**Answer: C.**
-**Explanation:** Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Total war?
-
-A. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-B. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-C. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-D. Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy.
-
-**Answer: D.**
-**Explanation:** Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Resistance and collaboration?
-
-A. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-B. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-C. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-D. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-
-**Answer: A.**
-**Explanation:** Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Resistance and collaboration?
-
-A. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-B. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-
-**Answer: B.**
-**Explanation:** Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Resistance and collaboration?
-
-A. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-B. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-C. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-D. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-
-**Answer: C.**
-**Explanation:** Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Resistance and collaboration?
-
-A. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-B. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini.
-
-**Answer: D.**
-**Explanation:** Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Germany and Japan defeated, 1945?
-
-A. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-B. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-
-**Answer: A.**
-**Explanation:** Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Germany and Japan defeated, 1945?
-
-A. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-B. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-C. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-D. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-
-**Answer: B.**
-**Explanation:** Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Germany and Japan defeated, 1945?
-
-A. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-B. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-C. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-D. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-
-**Answer: C.**
-**Explanation:** Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Germany and Japan defeated, 1945?
-
-A. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-B. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-C. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-D. Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination.
-
-**Answer: D.**
-**Explanation:** Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Political and social aftermath?
-
-A. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-B. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-
-**Answer: A.**
-**Explanation:** Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Political and social aftermath?
-
-A. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-B. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-
-**Answer: B.**
-**Explanation:** Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Political and social aftermath?
-
-A. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-B. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-C. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-D. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-
-**Answer: C.**
-**Explanation:** Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Political and social aftermath?
-
-A. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-B. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-C. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-D. Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society.
-
-**Answer: D.**
-**Explanation:** Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Superpowers, nuclear age and United Nations?
-
-A. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-B. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-
-**Answer: A.**
-**Explanation:** The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Superpowers, nuclear age and United Nations?
-
-A. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-B. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-C. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-D. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-
-**Answer: B.**
-**Explanation:** The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Superpowers, nuclear age and United Nations?
-
-A. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-B. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-C. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-D. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-
-**Answer: C.**
-**Explanation:** The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Superpowers, nuclear age and United Nations?
-
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-C. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-D. The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League.
-
-**Answer: D.**
-**Explanation:** The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Decolonisation mechanism?
-
-A. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-B. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-C. Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States.
-D. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-
-**Answer: A.**
-**Explanation:** European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Decolonisation mechanism?
-
-A. Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect.
-B. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-C. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-D. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-
-**Answer: B.**
-**Explanation:** European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Decolonisation mechanism?
-
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-C. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-D. Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France.
-
-**Answer: C.**
-**Explanation:** European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Decolonisation mechanism?
-
-A. The attack on the USSR created the multi-front war Germany could not sustain.
-B. Japan's attack brought American industrial and financial power directly into the conflict.
-C. RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war.
-D. European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation.
-
-**Answer: D.**
-**Explanation:** European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** The decision sequence and resource consequences are documented in the sources.
+- **B ✗:** The proposed treaty and result are invented.
+- **C ✗:** Britain and Germany were enemies in 1940.
+- **D ✗:** Versailles preceded the war and Pearl Harbor occurred in 1941.
+- **Trap:** Britain and Germany were enemies in 1940.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -837,16 +595,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** It denied Germany a quick western settlement, preserved Britain as an Allied base and ensured Germany entered its Soviet war without ending the first front.
+The Battle of Britain (July–September 1940) denied Germany the quick western settlement it needed before expanding the war. France fell in June, but Britain resisted.
 
-**Analytical body:**
+The RAF prevented the Luftwaffe from gaining the air superiority needed for invasion. Radar gave warning of incoming attacks, while German aircraft faced range limitations; Hitler's shift towards bombing London also reduced pressure on RAF airfields. These interacting factors helped keep Britain in the war. Survival preserved an Allied base and a maritime supply lifeline, rather than merely defending one island.
 
-1. **Claim and named evidence:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The attack on the USSR created the multi-front war Germany could not sustain. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+When Germany launched Operation Barbarossa against the USSR on 22 June 1941, Britain remained an active enemy. The campaign in the east therefore enlarged an unresolved war rather than following a secure peace in the west. Britain later served as a base for offensives against German-occupied Europe.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It denied Germany a quick western settlement, preserved Britain as an Allied base and ensured Germany entered its Soviet war without ending the first front.
+The battle alone did not defeat Germany: Soviet resistance, Atlantic supply and American resources were indispensable later. Its strategic significance was negative but fundamental—it prevented a swift Axis victory and made eventual multi-front Allied pressure possible.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
@@ -873,16 +628,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Keeping Britain supplied sustained the coalition and made every later western offensive materially possible.
+The Battle of the Atlantic was indispensable: Britain could not remain an Allied base or return to occupied Europe without seaborne supplies. German U-boats attacked the shipping on which its survival depended.
 
-**Analytical body:**
+Allied convoys, radar and long-range aircraft increasingly contained the submarine threat. Their contribution was logistical as well as tactical: protecting shipping kept Britain supplied and enabled the accumulation of resources for later offensives. Thus the maritime struggle of 1939–43 underpinned rather than followed the visible turning points on land. Britain's survival in the Battle of Britain would have meant less if essential supplies had subsequently been cut off.
 
-1. **Claim and named evidence:** Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Normandy landings opened the western front in France and accelerated Germany's two-front collapse. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+On 6 June 1944 the Normandy landings opened a western front in France. That operation required sustained sea-borne supply; together with Soviet pressure from the east, it accelerated Germany's two-front defeat. The Atlantic victory supplied a necessary precondition for this outcome, not a sufficient explanation of it.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Keeping Britain supplied sustained the coalition and made every later western offensive materially possible.
+The RAF, Red Army and American industrial strength also mattered. Nevertheless, without protected Atlantic routes Britain could neither sustain resistance nor function as the springboard for the western offensive.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
@@ -913,20 +665,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Operational speed expanded the war faster than Axis resources could sustain, while Britain survived, the USSR absorbed attack and American power entered.
+Early Axis victories depended on speed and surprise; defeat came when that advantage gave way to a global contest of resources, resistance and multiple fronts.
 
-**Analytical body:**
+In September 1939 Germany and the USSR occupied Poland; German Blitzkrieg combined tanks, motorised thrusts and air support against inadequate defences. In 1940 Germany defeated Denmark, Norway, the Netherlands, Belgium and France. Dunkirk evacuated Allied troops but could not save France. Yet conquest of western Europe did not settle the war: RAF resistance, radar warning, German aircraft's range limits and the shift towards bombing London prevented invasion of Britain.
 
-1. **Claim and named evidence:** Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The attack on the USSR created the multi-front war Germany could not sustain. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Japan's attack brought American industrial and financial power directly into the conflict. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Germany then invaded the USSR in June 1941 without first defeating Britain. The Soviet state absorbed the assault and ultimately reversed it at Stalingrad, stretching Germany across incompatible strategic commitments. In December Japan's attack on Pearl Harbor brought the USA directly into the war; Hitler's subsequent declaration of war on the USA further united American industrial and financial strength with Germany's enemies. In the Pacific, Midway showed that Japanese expansion too had limits.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+The Allies gained naval and air superiority: protection of Atlantic convoys kept Britain supplied, while the Soviet advance and the eventual western front pressed Germany simultaneously. Axis occupation practices compounded the resource imbalance by alienating populations in eastern Europe and Asia instead of securing their cooperation.
 
-**Qualified conclusion:** Operational speed expanded the war faster than Axis resources could sustain, while Britain survived, the USSR absorbed attack and American power entered.
+No single battle or ally alone accounts for defeat. Axis operations won territory rapidly, but conquest created more enemies and demands than their resources could sustain; Allied endurance turned reverses into victory.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
@@ -955,18 +702,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** States mobilised whole societies and treated civilians, labour, food, transport, race and occupied populations as strategic resources or targets.
+The Second World War was **total war** because governments mobilised societies and made civilian production, survival and identity part of military strategy. Its social reach cannot be understood through battles alone.
 
-**Analytical body:**
+Industry, transport and food supply became military targets; civilian bombing widened the battlefield beyond armies. States mobilised labour and resources for prolonged conflict, while occupation uprooted and forced civilians into work. Women were among victims of forced labour, and the wider mobilisation drew women into essential work, although wartime service did not automatically secure equal postwar rights.
 
-1. **Claim and named evidence:** Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+The Nazi occupation system carried this logic to an extreme but distinct form: racial extermination was a state project, not incidental damage from military operations. Norman Lowe estimates about 5.7 million Jews murdered in the Holocaust; estimates vary. Roma, disabled people, Soviet prisoners of war, Poles, political opponents and homosexuals also suffered Nazi persecution and killing, but their losses cannot be folded into that Jewish figure.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Occupied societies were not passive. Norwegian local Nazis under Vidkun Quisling assisted invaders, while others resisted; Vichy France collaborated as a state authority and permitted Japan to occupy French Indo-China. In Italy, partisans captured and executed Mussolini. These cases show that occupation generated choices between resistance and collaboration, with consequences extending beyond the battlefield.
 
-**Qualified conclusion:** States mobilised whole societies and treated civilians, labour, food, transport, race and occupied populations as strategic resources or targets.
+Total war thus involved material mobilisation and deliberate assaults on civilians; genocide must nevertheless be distinguished from the general practice of bombing or requisitioning. Both military outcomes and postwar political legitimacy were shaped by what happened to occupied populations.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
@@ -997,20 +741,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Britain prevented quick victory; Midway, El Alamein and Stalingrad reversed expansion; Atlantic survival and D-Day converted reversal into defeat.
+The war turned through several different mechanisms, not at one battle: Britain survived a threatened invasion, Axis offensives stalled across three theatres, and Allied logistics turned reversals into sustained offensives.
 
-**Analytical body:**
+The Battle of Britain (1940) kept Britain in the war. RAF defence, helped by radar, German aircraft range limits and the switch towards bombing London, prevented Germany from securing air superiority for invasion. It checked Hitler but did not by itself defeat him. The Battle of the Atlantic was a prolonged enabling struggle: convoys, radar and long-range aircraft increasingly contained U-boats, preserving supplies and the base for future Allied operations.
 
-1. **Claim and named evidence:** RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** The Normandy landings opened the western front in France and accelerated Germany's two-front collapse. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+In the Pacific, Midway (June 1942) crippled Japanese carrier strength and shifted momentum towards the Allies. Carrier-based air power, rather than a decisive battleship duel, determined the strategic change; Japanese resistance continued afterwards. In North Africa, El Alamein (October 1942) secured Egypt and the Suez Canal and initiated the reversal that led towards Axis expulsion. In the east, the German surrender at Stalingrad (February 1943) punctured the myth of invincibility and opened the way for sustained Soviet advance. These were turning points in different theatres, not interchangeable victories.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+The Normandy landings on 6 June 1944 opened a western front in France. With Soviet armies advancing from the east, Germany now confronted an intensifying two-front collapse. Allied sea and air power made the western landing and its supply possible; it was not simply the achievement of troops ashore.
 
-**Qualified conclusion:** Britain prevented quick victory; Midway, El Alamein and Stalingrad reversed expansion; Atlantic survival and D-Day converted reversal into defeat.
+Strategic choices mattered too: Germany invaded the USSR while Britain still fought, and Japan brought American power into the Pacific war by attacking Pearl Harbor. The turning points therefore mark a cumulative shift from Axis initiative to Allied capacity, culminating in German defeat in May 1945 and Japan's surrender later that year. Neither Allied victory nor Japan's decision to surrender can be reduced to one event.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
@@ -1040,16 +779,12 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Genocide, displacement and nuclear warfare delegitimised old orders while Europe weakened, two superpowers emerged, the UN formed and decolonisation accelerated.
+The Second World War changed both the subjects of world politics and the lives of ordinary people: mass violence weakened European imperial authority, while the USA and USSR emerged as dominant powers.
 
-**Analytical body:**
+Total war mobilised societies and made civilian bombing, transport and food supply part of strategy. Millions were displaced or driven into forced labour; destruction created vast reconstruction needs and pressure for welfare provision. The Holocaust was a deliberate Nazi project carried through occupation, not merely collateral wartime suffering. Norman Lowe estimates about 5.7 million murdered Jews, a source-specific figure subject to variation; Roma, disabled people, Soviet prisoners of war, Poles and others were also targeted and must not be merged into that total.
 
-1. **Claim and named evidence:** Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Hiroshima and Nagasaki inaugurated the nuclear age and a new deterrent problem. Japan's surrender followed the atomic bombings and Soviet entry into the war against Japan, but the relative weight of those factors, blockade and conventional devastation remains contested. The United Nations replaced the League as a forum for collective diplomacy, though its creation did not eliminate rivalry. Unlike 1919 there was no single all-embracing Versailles-type peace; separate settlements and occupations accompanied the emerging division of Europe.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Britain, France, Germany and Italy were weakened materially and politically, while Washington and Moscow gained global reach. Japanese victories in Asia shattered the myth of European invincibility. Together with European exhaustion and the aspirations of colonised peoples, this accelerated decolonisation; it did not automatically end empire in 1945.
 
-**Qualified conclusion:** Genocide, displacement and nuclear warfare delegitimised old orders while Europe weakened, two superpowers emerged, the UN formed and decolonisation accelerated.
+Thus the war recast great-power balance, institutions and expectations of colonial rule while exposing societies to state violence on an exceptional scale. Reconstruction and independence were contested processes, not immediate or universal benefits of victory.

@@ -6,805 +6,803 @@ topic_key: modern-indian-history-17
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Modern political ideology?
+Forty-four non-duplicated questions test twenty documented evidence units through event attribution, cross-strand discrimination, sequences and eliminations. In every question select the one **fully** accurate option: a partly true assertion with a wrong date, actor, place or qualification is false. The answer key is separate; wrong assertions are distractors, not historical claims.
+
+### Questions — no answers
+
+### Q1. What is the political meaning of communalism in the historical literature?
 
 A. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-B. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+B. Communalism is a modern political ideology that treats religious communities as bearers of identical secular interests; it is not religious faith or timeless hostility.
+C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is synonymous with religious faith or timeless hostility.
+D. Communalism is a unchanging ancient religious doctrine that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+
+### Q2. Why is shared action in 1857 evidence against a timeless communal antagonism?
+
+A. Communalism is a modern political ideology of identical secular interests, not religious faith; shared action during 1857 cautions against inevitability.
+B. Communalism is a modern political ideology of separate secular interests, not religious faith; shared action during 1857 cautions against inevitability.
+C. Communalism is a modern political ideology of separate secular interests, synonymous with religious faith; shared action during 1857 cautions against inevitability.
+D. Communalism is a unchanging ancient religious doctrine of separate secular interests, not religious faith; shared action during 1857 cautions against inevitability.
+
+### Q3. Which historical qualification should be applied to claims about 1857?
+
+A. Exclusively Hindu participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+B. Shared Hindu-Muslim participation in every district of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
 C. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-D. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+D. Shared Hindu-Muslim participation in parts of the 1857 rebellion proves any claim that later communal division was historically automatic or politically homogeneous.
 
-**Answer: A.**
-**Explanation:** Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q4. How do the 1857 evidence and later official categorisation support a non-teleological explanation?
 
-### Q2. Which chronology card should be filed under Modern political ideology?
+A. Exclusively Hindu participation in parts of the 1857 rebellion undermines a timeless-divisions thesis; later census categories reshaped political claims.
+B. Shared Hindu-Muslim participation in every district of the 1857 rebellion undermines a timeless-divisions thesis; later census categories reshaped political claims.
+C. Shared Hindu-Muslim participation in parts of the 1857 rebellion proves a timeless-divisions thesis; later census categories reshaped political claims.
+D. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines a timeless-divisions thesis; later census categories reshaped political claims.
 
-A. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-B. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-C. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-D. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-
-**Answer: B.**
-**Explanation:** Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q3. Which option should a candidate retain when revising Modern political ideology?
-
-A. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-B. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-D. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-
-**Answer: C.**
-**Explanation:** Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q4. Which statement avoids a common matching trap about Modern political ideology?
-
-A. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-B. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-C. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-D. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-
-**Answer: D.**
-**Explanation:** Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q5. Which statement correctly identifies 1857 caution?
-
-A. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-B. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-C. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-D. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-
-**Answer: A.**
-**Explanation:** Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q6. Which chronology card should be filed under 1857 caution?
-
-A. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-B. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-C. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-D. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-
-**Answer: B.**
-**Explanation:** Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q7. Which option should a candidate retain when revising 1857 caution?
-
-A. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-B. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-C. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-D. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-
-**Answer: C.**
-**Explanation:** Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q8. Which statement avoids a common matching trap about 1857 caution?
-
-A. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-B. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-C. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-D. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-
-**Answer: D.**
-**Explanation:** Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q9. Which statement correctly identifies Colonial categorisation?
+### Q5. Which colonial procedures translated religious identities into political claims?
 
 A. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-B. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-C. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-D. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+B. Universal adult franchise, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+C. Census classification, patronage, constitutional categories and representation exclusively by trade helped make religious identity a field of organised political claim-making.
+D. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of the complete abolition of political claims.
 
-**Answer: A.**
-**Explanation:** Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Which institutional mechanism explains the passage from official classification to elite petitioning?
 
-### Q10. Which chronology card should be filed under Colonial categorisation?
+A. Universal adult franchise and representation by community made organised political claim-making possible; the Aligarh circle also sought education and elite safeguards.
+B. Census classification and representation by community made organised political claim-making possible; the Aligarh circle also sought education and elite safeguards.
+C. Census classification and representation exclusively by trade made organised political claim-making possible; the Aligarh circle also sought education and elite safeguards.
+D. Census classification and representation by community made the complete abolition of political claims possible; the Aligarh circle also sought education and elite safeguards.
 
-A. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-B. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-C. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-D. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+### Q7. How did Syed Ahmad Khan's later political stance relate to his educational work?
 
-**Answer: B.**
-**Explanation:** Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q11. Which option should a candidate retain when revising Colonial categorisation?
-
-A. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-B. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-C. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-D. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-
-**Answer: C.**
-**Explanation:** Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q12. Which statement avoids a common matching trap about Colonial categorisation?
-
-A. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-B. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-C. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-D. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-
-**Answer: D.**
-**Explanation:** Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q13. Which statement correctly identifies Aligarh and elite loyalism?
-
-A. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-B. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-C. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-D. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-
-**Answer: A.**
-**Explanation:** From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q14. Which chronology card should be filed under Aligarh and elite loyalism?
-
-A. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-B. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-C. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-D. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-
-**Answer: B.**
-**Explanation:** From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q15. Which option should a candidate retain when revising Aligarh and elite loyalism?
-
-A. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-B. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+A. From the 1930s-40s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+B. From the 1870s-80s, M.A. Jinnah's educational project was joined in his later politics by elite loyalism and caution toward Congress.
 C. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-D. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+D. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and leadership of the Congress.
 
-**Answer: C.**
-**Explanation:** From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q8. What distinguishes Aligarh elite caution from the responses to Bengal's partition?
 
-### Q16. Which statement avoids a common matching trap about Aligarh and elite loyalism?
+A. In the 1930s-40s Syed Ahmad Khan coupled education with later caution toward Congress; the 1905 Bengal partition elicited diverse responses.
+B. In the 1870s-80s M.A. Jinnah coupled education with later caution toward Congress; the 1905 Bengal partition elicited diverse responses.
+C. In the 1870s-80s Syed Ahmad Khan coupled education with later leadership of the Congress; the 1905 Bengal partition elicited diverse responses.
+D. In the 1870s-80s Syed Ahmad Khan coupled education with later caution toward Congress; the 1905 Bengal partition elicited diverse responses.
 
-A. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-B. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-C. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-D. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-
-**Answer: D.**
-**Explanation:** From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q17. Which statement correctly identifies Partition of Bengal?
+### Q9. Which development in 1905 sharpened divergent regional political responses?
 
 A. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-B. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+B. The 1915 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+C. The 1905 annulment created divergent political responses and gave communal and regional claims greater institutional and public weight.
+D. The 1905 partition created uniform political agreement and gave communal and regional claims greater institutional and public weight.
+
+### Q10. How is the Bengal partition situated before the Simla petition in this sequence?
+
+A. The 1915 partition elicited divergent political responses; it preceded the Simla Deputation's petition for separate Muslim representation.
+B. The 1905 partition elicited divergent political responses; it preceded the Simla Deputation's petition for separate Muslim representation.
+C. The 1905 annulment elicited divergent political responses; it preceded the Simla Deputation's petition for separate Muslim representation.
+D. The 1905 partition elicited uniform political agreement; it preceded the Simla Deputation's petition for separate Muslim representation.
+
+### Q11. Who approached Viceroy Minto on the issue of separate Muslim representation?
+
+A. On 1 October 1916 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+B. On 1 October 1906 the Simla Deputation led by the Nawab Salimullah sought separate Muslim representation from Viceroy Minto.
 C. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-D. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+D. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Curzon.
 
-**Answer: A.**
-**Explanation:** The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. How should the Simla petition be differentiated from the Dhaka foundation later that year?
 
-### Q18. Which chronology card should be filed under Partition of Bengal?
+A. On 1 October 1916 the Simla Deputation led by the Aga Khan approached Viceroy Minto; the League was formed at Dhaka later that year.
+B. On 1 October 1906 the Simla Deputation led by the Nawab Salimullah approached Viceroy Minto; the League was formed at Dhaka later that year.
+C. On 1 October 1906 the Simla Deputation led by the Aga Khan approached Viceroy Curzon; the League was formed at Dhaka later that year.
+D. On 1 October 1906 the Simla Deputation led by the Aga Khan approached Viceroy Minto; the League was formed at Dhaka later that year.
 
-A. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-B. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-C. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-D. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-
-**Answer: B.**
-**Explanation:** The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q19. Which option should a candidate retain when revising Partition of Bengal?
-
-A. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-B. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-C. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-D. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-
-**Answer: C.**
-**Explanation:** The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q20. Which statement avoids a common matching trap about Partition of Bengal?
-
-A. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-B. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-C. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-D. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-
-**Answer: D.**
-**Explanation:** The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q21. Which statement correctly identifies Simla Deputation?
-
-A. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-B. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-C. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-D. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-
-**Answer: A.**
-**Explanation:** On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q22. Which chronology card should be filed under Simla Deputation?
-
-A. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-B. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-C. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-D. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-
-**Answer: B.**
-**Explanation:** On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q23. Which option should a candidate retain when revising Simla Deputation?
-
-A. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-B. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-C. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-D. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-
-**Answer: C.**
-**Explanation:** On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q24. Which statement avoids a common matching trap about Simla Deputation?
-
-A. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-B. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-C. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-D. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-
-**Answer: D.**
-**Explanation:** On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q25. Which statement correctly identifies Muslim League foundation?
+### Q13. Where and when was the all-India organisation established?
 
 A. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-B. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-C. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-D. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+B. The All-India Muslim League was founded at Dhaka on 30 December 1909 by elite leaders seeking safeguards and influence within the Raj.
+C. The All-India Muslim League was founded at Simla on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+D. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence after the end of British rule.
 
-**Answer: A.**
-**Explanation:** The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q14. Which two distinct steps separate the foundation of the League from statutory electorates?
 
-### Q26. Which chronology card should be filed under Muslim League foundation?
+A. On 30 December 1909 the League was established in Dhaka within the Raj; the 1909 Act subsequently introduced separate Muslim electorates.
+B. On 30 December 1906 the League was established in Dhaka within the Raj; the 1909 Act subsequently introduced separate Muslim electorates.
+C. On 30 December 1906 the League was established in Simla within the Raj; the 1909 Act subsequently introduced separate Muslim electorates.
+D. On 30 December 1906 the League was established in Dhaka after the end of British rule; the 1909 Act subsequently introduced separate Muslim electorates.
 
-A. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-B. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-C. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-D. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+### Q15. What did the 1909 reforms actually create for Muslim representation?
 
-**Answer: B.**
-**Explanation:** The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q27. Which option should a candidate retain when revising Muslim League foundation?
-
-A. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-B. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-C. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-D. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-
-**Answer: C.**
-**Explanation:** The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q28. Which statement avoids a common matching trap about Muslim League foundation?
-
-A. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-B. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
-
-**Answer: D.**
-**Explanation:** The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q29. Which statement correctly identifies Separate electorates?
-
-A. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-B. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-C. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-D. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-
-**Answer: A.**
-**Explanation:** The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q30. Which chronology card should be filed under Separate electorates?
-
-A. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-B. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-C. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-D. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-
-**Answer: B.**
-**Explanation:** The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q31. Which option should a candidate retain when revising Separate electorates?
-
-A. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-B. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+A. The Government of India Act 1935 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+B. The Indian Councils Act 1909 abolished separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
 C. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-D. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+D. The Indian Councils Act 1909 introduced separate electorates for only provincial governors, giving community-specific electoral appeals a constitutional incentive.
 
-**Answer: C.**
-**Explanation:** The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q16. Why was the 1913 change in the League's goal not the introduction of separate electorates?
 
-### Q32. Which statement avoids a common matching trap about Separate electorates?
+A. The Government of India Act 1935 introduced separate electorates for Muslims; the League's 1913 change instead concerned its self-government goal.
+B. The Indian Councils Act 1909 abolished separate electorates for Muslims; the League's 1913 change instead concerned its self-government goal.
+C. The Indian Councils Act 1909 introduced separate electorates for only provincial governors; the League's 1913 change instead concerned its self-government goal.
+D. The Indian Councils Act 1909 introduced separate electorates for Muslims; the League's 1913 change instead concerned its self-government goal.
 
-A. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-B. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-C. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-D. The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
-
-**Answer: D.**
-**Explanation:** The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q33. Which statement correctly identifies League self-government goal?
+### Q17. What qualification defined the League's revised constitutional objective in 1913?
 
 A. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-B. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+B. In 1923 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+C. In 1913 the Muslim League adopted self-government through immediate severance from the Crown as an objective, enabling closer constitutional cooperation.
+D. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling the dissolution of constitutional politics.
+
+### Q18. What distinguishes a changed constitutional objective from the later Hindu Mahasabha organisation?
+
+A. In 1923 the League adopted self-government under the British Crown, permitting closer constitutional cooperation; the Hindu Mahasabha emerged separately.
+B. In 1913 the League adopted self-government under the British Crown, permitting closer constitutional cooperation; the Hindu Mahasabha emerged separately.
+C. In 1913 the League adopted self-government through immediate severance from the Crown, permitting closer constitutional cooperation; the Hindu Mahasabha emerged separately.
+D. In 1913 the League adopted self-government under the British Crown, permitting the dissolution of constitutional politics; the Hindu Mahasabha emerged separately.
+
+### Q19. What is the correct chronology and interpretive status of the Hindu Mahasabha?
+
+A. The All-India Hindu Mahasabha emerged in 1935; its placement within Hindu communal politics should be stated as a historical interpretation.
+B. The All-India Muslim League emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
 C. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-D. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+D. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a provision of the Indian Councils Act 1909.
 
-**Answer: A.**
-**Explanation:** In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q20. Which interpretive caution matters before assessing the 1916 inter-party pact?
 
-### Q34. Which chronology card should be filed under League self-government goal?
+A. The Hindu Mahasabha emerged in 1935; placing it in Hindu communal politics is a historical interpretation, while the 1916 Pact was a Congress-League bargain.
+B. The Muslim League emerged in 1915; placing it in Hindu communal politics is a historical interpretation, while the 1916 Pact was a Congress-League bargain.
+C. The Hindu Mahasabha emerged in 1915; placing it in Hindu communal politics is a provision of the Indian Councils Act 1909, while the 1916 Pact was a Congress-League bargain.
+D. The Hindu Mahasabha emerged in 1915; placing it in Hindu communal politics is a historical interpretation, while the 1916 Pact was a Congress-League bargain.
+
+### Q21. What was the constitutional price accompanying the 1916 joint agreement?
 
 A. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-B. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+B. The Congress-League Lucknow Pact of 1909 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+C. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress abolished separate electorates and agreed representation safeguards.
+D. The the Cabinet Mission-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
 
-**Answer: B.**
-**Explanation:** In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q22. How does the Pact's institutional compromise differ from the later Khilafat alliance?
 
-### Q35. Which option should a candidate retain when revising League self-government goal?
+A. Congress accepted separate electorates at Lucknow in 1909 in return for real cooperation; the later Khilafat campaign provided another mode of unity.
+B. Congress accepted separate electorates at Lucknow in 1916 in return for real cooperation; the later Khilafat campaign provided another mode of unity.
+C. Congress abolished separate electorates at Lucknow in 1916 in return for real cooperation; the later Khilafat campaign provided another mode of unity.
+D. the Cabinet Mission accepted separate electorates at Lucknow in 1916 in return for real cooperation; the later Khilafat campaign provided another mode of unity.
 
-A. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-B. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-C. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
-D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+### Q23. Which movement combined political solidarity without ending communal competition?
 
-**Answer: C.**
-**Explanation:** In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Khilafat-Non-Cooperation alliance of 1905-07 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+B. The Khilafat-Non-Cooperation alliance of 1920-22 produced permanent institutional unity, but its breakdown did not dissolve communal organisations or local conflict.
+C. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+D. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown permanently dissolved communal organisations or local conflict.
 
-### Q36. Which statement avoids a common matching trap about League self-government goal?
+### Q24. Why does a temporary joint campaign not establish that later ideological divisions vanished?
 
-A. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-B. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+A. The 1905-07 Khilafat-Non-Cooperation alliance produced major political unity but did not dissolve communal divisions; later Hindu organisations likewise lacked universal representation.
+B. The 1920-22 Khilafat-Non-Cooperation alliance produced permanent institutional unity but did not dissolve communal divisions; later Hindu organisations likewise lacked universal representation.
+C. The 1920-22 Khilafat-Non-Cooperation alliance produced major political unity but permanently dissolved communal divisions; later Hindu organisations likewise lacked universal representation.
+D. The 1920-22 Khilafat-Non-Cooperation alliance produced major political unity but did not dissolve communal divisions; later Hindu organisations likewise lacked universal representation.
 
-**Answer: D.**
-**Explanation:** In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies Hindu Mahasabha?
-
-A. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-B. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-
-**Answer: A.**
-**Explanation:** The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under Hindu Mahasabha?
+### Q25. Which chronology places Savarkar's text before the founding of the RSS?
 
 A. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-B. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-C. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+B. Savarkar's Hindutva appeared in 1903 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1945; neither should be treated as representing all Hindu political opinion.
+D. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; both represented every Hindu political opinion.
 
-**Answer: B.**
-**Explanation:** The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q26. Which caution prevents conflating organisations and all Hindu political opinion?
 
-### Q39. Which option should a candidate retain when revising Hindu Mahasabha?
+A. Savarkar's Hindutva appeared in 1903 and the RSS followed in 1925; neither should be treated as representing all Hindu political opinion.
+B. Savarkar's Hindutva appeared in 1923 and the RSS followed in 1925; neither should be treated as representing all Hindu political opinion.
+C. Savarkar's Hindutva appeared in 1923 and the RSS followed in 1945; neither should be treated as representing all Hindu political opinion.
+D. Savarkar's Hindutva appeared in 1923 and the RSS followed in 1925; both represented every Hindu political opinion.
+
+### Q27. What disagreement links the Nehru Report and Jinnah's Fourteen Points?
+
+A. The Nehru Report of 1938 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+B. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1949 exposed conflict over federation, residuary powers and minority safeguards.
+C. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, naval command alone and minority safeguards.
+
+### Q28. Why do the 1928-29 documents belong before the Communal Award's representational change?
+
+A. The Nehru Report appeared in 1938 and Jinnah's Fourteen Points in 1929, debating residuary powers; the Communal Award followed later.
+B. The Nehru Report appeared in 1928 and Jinnah's Fourteen Points in 1949, debating residuary powers; the Communal Award followed later.
+C. The Nehru Report appeared in 1928 and Jinnah's Fourteen Points in 1929, debating naval command alone; the Communal Award followed later.
+D. The Nehru Report appeared in 1928 and Jinnah's Fourteen Points in 1929, debating residuary powers; the Communal Award followed later.
+
+### Q29. Which three mechanisms must not be collapsed when analysing the Communal Award?
 
 A. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-B. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-C. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
-D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+B. The Communal Award of 1922 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+C. The Communal Award of 1932 repealed community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+D. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain constitutionally identical.
 
-**Answer: C.**
-**Explanation:** The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Why is the 1932 award distinct from the 1935 provincial-autonomy framework?
 
-### Q40. Which statement avoids a common matching trap about Hindu Mahasabha?
+A. The 1922 Communal Award extended community-based representation, but reserved seats and separate electorates remain analytically distinct; the 1935 Act addressed provincial autonomy.
+B. The 1932 Communal Award extended community-based representation, but reserved seats and separate electorates remain analytically distinct; the 1935 Act addressed provincial autonomy.
+C. The 1932 Communal Award repealed community-based representation, but reserved seats and separate electorates remain analytically distinct; the 1935 Act addressed provincial autonomy.
+D. The 1932 Communal Award extended community-based representation, but reserved seats and separate electorates remain constitutionally identical; the 1935 Act addressed provincial autonomy.
 
-A. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-B. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-C. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-D. The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+### Q31. What new arena did the 1935 Act open for provincial political bargaining?
 
-**Answer: D.**
-**Explanation:** The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Lucknow Pact?
-
-A. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-B. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-
-**Answer: A.**
-**Explanation:** The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Lucknow Pact?
-
-A. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-B. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-
-**Answer: B.**
-**Explanation:** The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Lucknow Pact?
-
-A. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-B. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-C. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-D. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-
-**Answer: C.**
-**Explanation:** The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Lucknow Pact?
-
-A. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-B. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-C. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-D. The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
-
-**Answer: D.**
-**Explanation:** The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Khilafat and Non-Cooperation?
-
-A. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-B. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-C. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-D. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-
-**Answer: A.**
-**Explanation:** The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Khilafat and Non-Cooperation?
-
-A. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-B. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-C. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-
-**Answer: B.**
-**Explanation:** The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Khilafat and Non-Cooperation?
-
-A. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-B. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-C. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-D. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-
-**Answer: C.**
-**Explanation:** The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Khilafat and Non-Cooperation?
-
-A. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-B. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-C. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-D. The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
-
-**Answer: D.**
-**Explanation:** The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Hindutva and RSS?
-
-A. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-B. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-C. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-D. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-
-**Answer: A.**
-**Explanation:** Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Hindutva and RSS?
-
-A. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-B. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-C. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-D. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-
-**Answer: B.**
-**Explanation:** Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Hindutva and RSS?
-
-A. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-B. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-C. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-
-**Answer: C.**
-**Explanation:** Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Hindutva and RSS?
-
-A. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-B. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-C. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-D. Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
-
-**Answer: D.**
-**Explanation:** Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Nehru Report and Fourteen Points?
-
-A. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-B. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-C. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-D. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-
-**Answer: A.**
-**Explanation:** The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Nehru Report and Fourteen Points?
-
-A. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-B. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-C. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-D. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-
-**Answer: B.**
-**Explanation:** The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Nehru Report and Fourteen Points?
-
-A. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-B. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-C. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-
-**Answer: C.**
-**Explanation:** The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Nehru Report and Fourteen Points?
-
-A. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-B. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-C. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-D. The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
-
-**Answer: D.**
-**Explanation:** The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Communal Award?
-
-A. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-B. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-C. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-D. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-
-**Answer: A.**
-**Explanation:** The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Communal Award?
-
-A. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-B. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-C. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-
-**Answer: B.**
-**Explanation:** The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Communal Award?
-
-A. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-B. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-C. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-
-**Answer: C.**
-**Explanation:** The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Communal Award?
-
-A. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-B. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-D. The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
-
-**Answer: D.**
-**Explanation:** The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Government of India Act 1935?
-
-A. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-B. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-C. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-
-**Answer: A.**
-**Explanation:** The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Government of India Act 1935?
-
-A. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-B. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-C. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-D. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-
-**Answer: B.**
-**Explanation:** The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Government of India Act 1935?
-
-A. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-B. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+A. The Government of India Act 1905 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+B. The Government of India Act 1935 created immediate dominion independence and an electoral arena in which provincial coalitions and community claims interacted.
 C. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-D. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+D. The Government of India Act 1935 created provincial autonomy and an electoral arena in which only overseas conspiracies and community claims interacted.
 
-**Answer: C.**
-**Explanation:** The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q32. Why do the 1935 framework and the 1937 electoral outcomes require separate analysis?
 
-### Q64. Which statement avoids a common matching trap about Government of India Act 1935?
+A. The 1905 Act instituted provincial autonomy, allowing provincial coalitions; the 1937 elections subsequently exposed uneven League strength.
+B. The 1935 Act instituted immediate dominion independence, allowing provincial coalitions; the 1937 elections subsequently exposed uneven League strength.
+C. The 1935 Act instituted provincial autonomy, allowing only overseas conspiracies; the 1937 elections subsequently exposed uneven League strength.
+D. The 1935 Act instituted provincial autonomy, allowing provincial coalitions; the 1937 elections subsequently exposed uneven League strength.
 
-A. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-B. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-D. The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
-
-**Answer: D.**
-**Explanation:** The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies 1937 elections and ministries?
+### Q33. What do the 1937 results show about provincial strength and coalition narratives?
 
 A. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-B. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+B. The 1947 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+C. The 1937 elections exposed the League's universal provincial dominance; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+D. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and a successful all-India coalition government later became central to competing political narratives.
+
+### Q34. How should contingent provincial bargaining be distinguished from the League's 1940 statement?
+
+A. The 1947 elections exposed uneven provincial strength and failed coalition bargaining; neither alone dictated the 1940 Lahore Resolution.
+B. The 1937 elections exposed uneven provincial strength and failed coalition bargaining; neither alone dictated the 1940 Lahore Resolution.
+C. The 1937 elections exposed universal provincial dominance and failed coalition bargaining; neither alone dictated the 1940 Lahore Resolution.
+D. The 1937 elections exposed uneven provincial strength and a successful all-India coalition government; neither alone dictated the 1940 Lahore Resolution.
+
+### Q35. Which phrase correctly describes the text adopted in Lahore?
+
+A. On 23 March 1930 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+B. On 23 March 1940 the League adopted the Lahore Resolution calling for a unitary dominion in Muslim-majority zones; the text did not use the word Pakistan.
 C. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-D. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text explicitly used the word Pakistan.
 
-**Answer: A.**
-**Explanation:** The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36. What distinction separates the 1940 resolution from the 1945-46 electoral mandate?
 
-### Q66. Which chronology card should be filed under 1937 elections and ministries?
+A. The 23 March 1930 Lahore Resolution called for independent states and did not use the word Pakistan; the later 1945-46 elections strengthened the League's electoral claim.
+B. The 23 March 1940 Lahore Resolution called for a unitary dominion and did not use the word Pakistan; the later 1945-46 elections strengthened the League's electoral claim.
+C. The 23 March 1940 Lahore Resolution called for independent states and explicitly used the word Pakistan; the later 1945-46 elections strengthened the League's electoral claim.
+D. The 23 March 1940 Lahore Resolution called for independent states and did not use the word Pakistan; the later 1945-46 elections strengthened the League's electoral claim.
 
-A. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-B. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-C. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-D. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-
-**Answer: B.**
-**Explanation:** The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising 1937 elections and ministries?
-
-A. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-B. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-C. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-D. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-
-**Answer: C.**
-**Explanation:** The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about 1937 elections and ministries?
-
-A. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-B. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-D. The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
-
-**Answer: D.**
-**Explanation:** The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Lahore Resolution?
-
-A. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-B. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-C. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-D. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-
-**Answer: A.**
-**Explanation:** On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Lahore Resolution?
-
-A. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-B. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-C. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-D. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-
-**Answer: B.**
-**Explanation:** On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Lahore Resolution?
-
-A. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-B. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-C. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-D. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-
-**Answer: C.**
-**Explanation:** On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Lahore Resolution?
-
-A. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-B. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-C. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-D. On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
-
-**Answer: D.**
-**Explanation:** On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies 1945-46 mandate and Cabinet Mission?
+### Q37. What did the Cabinet Mission propose following the election results?
 
 A. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-B. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+B. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 3 June 1947 proposed a united union with grouped provinces.
+C. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a immediate partition with grouped provinces.
+D. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with no provinces.
+
+### Q38. Why should a proposed 1946 united union not be conflated with the final Partition settlement?
+
+A. The Cabinet Mission's 3 June 1947 scheme sought a united union with grouped provinces; the 3 June 1947 settlement came after failed bargaining.
+B. The Cabinet Mission's 16 May 1946 scheme sought a united union with grouped provinces; the 3 June 1947 settlement came after failed bargaining.
+C. The Cabinet Mission's 16 May 1946 scheme sought a immediate partition with grouped provinces; the 3 June 1947 settlement came after failed bargaining.
+D. The Cabinet Mission's 16 May 1946 scheme sought a united union with no provinces; the 3 June 1947 settlement came after failed bargaining.
+
+### Q39. Which events belong to the 1946-47 endgame rather than an inevitable ancient division?
+
+A. Direct Action Day on 16 August 1936, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+B. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 20 August 1917 Declaration and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
 C. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-D. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+D. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; one timeless community alone explains the outcome.
 
-**Answer: A.**
-**Explanation:** The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q40. Which constitutional sequence separates Direct Action from the final legislative settlement?
 
-### Q74. Which chronology card should be filed under 1945-46 mandate and Cabinet Mission?
+A. Direct Action on 16 August 1936 was followed by failed bargaining, the 3 June 1947 Plan and Independence Act; no single actor or timeless community suffices.
+B. Direct Action on 16 August 1946 was followed by failed bargaining, the 20 August 1917 Declaration and Independence Act; no single actor or timeless community suffices.
+C. Direct Action on 16 August 1946 was followed by failed bargaining, the 3 June 1947 Plan and Independence Act; one timeless community alone suffices.
+D. Direct Action on 16 August 1946 was followed by failed bargaining, the 3 June 1947 Plan and Independence Act; no single actor or timeless community suffices.
 
-A. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-B. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-D. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+### Q41. Arrange the institutional milestones without mistaking an elite petition for a statute.
 
-**Answer: B.**
-**Explanation:** The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Bengal partition (1905) → Simla Deputation (October 1906) → League foundation (December 1906) → separate electorates in the 1909 Act.
+B. League foundation (1906) → Bengal partition (1905) → 1909 Act → Simla Deputation (1906).
+C. Bengal partition (1905) → 1909 Act → Simla Deputation (1906) → League foundation (1906).
+D. Simla Deputation (1906) → Bengal partition (1905) → League foundation (1906) → 1909 Act.
 
-### Q75. Which option should a candidate retain when revising 1945-46 mandate and Cabinet Mission?
+### Q42. Which mapping separates constitutional provision, electoral arena and election outcome?
 
-A. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-B. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
-C. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
-D. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+A. Communal Award (1932) — created provincial autonomy; 1935 Act — reported the election results; 1937 elections — introduced the first Muslim separate electorates.
+B. Communal Award (1932) — extended community representation; 1935 Act — created provincial autonomy; 1937 elections — exposed the League's uneven provincial strength.
+C. Communal Award (1932) — dissolved all community representation; 1935 Act — enacted Partition; 1937 elections — gave the League uniform dominance in all provinces.
+D. Communal Award (1932) — created the grouped-province Cabinet Mission union; 1935 Act — settled coalition negotiations; 1937 elections — produced the Lahore Resolution.
 
-**Answer: C.**
-**Explanation:** The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q43. Assess: (I) Savarkar's *Hindutva* appeared before the RSS was founded; (II) the RSS was founded in 1915; (III) the League adopted self-government under the British Crown as an objective in 1913. Which statements hold?
 
-### Q76. Which statement avoids a common matching trap about 1945-46 mandate and Cabinet Mission?
+A. I only.
+B. II and III only.
+C. I and III only.
+D. I, II and III.
 
-A. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-B. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-C. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-D. The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+### Q44. Which three-stage interpretation keeps the Lahore Resolution, Cabinet Mission and final Partition plan separate?
 
-**Answer: D.**
-**Explanation:** The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Lahore (1940) explicitly used the word Pakistan; the Mission in May 1946 immediately ordered Partition; the June 1947 Plan restored a united union.
+B. Lahore (1940) demanded immediate implementation of the 1935 Act; the Mission in 1946 abolished all provinces; the June 1947 Plan preceded Direct Action.
+C. Lahore (1940) followed Direct Action (1946); the Mission on 16 May 1946 created the Independence Act; the June 1947 Plan was an 1857 rebellion.
+D. Lahore (1940) spoke of independent states without naming Pakistan; the Mission (16 May 1946) proposed a united union with grouped provinces; failed bargaining preceded the 3 June 1947 Plan.
 
-### Q77. Which statement correctly identifies 1946-47 endgame?
+### Answer key and option-specific explanations
 
-A. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-B. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-C. Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
-D. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+### Q1 — A
 
-**Answer: A.**
-**Explanation:** Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A — Correct:** ✅ Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+- **B — Incorrect:** ❌ Substitutes **identical secular interests** for **separate secular interests** in this event or institution. ✅ The evidence says: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+- **C — Incorrect:** ❌ Substitutes **synonymous with religious faith** for **not religious faith** in this event or institution. ✅ The evidence says: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+- **D — Incorrect:** ❌ Substitutes **unchanging ancient religious doctrine** for **modern political ideology** in this event or institution. ✅ The evidence says: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
 
-### Q78. Which chronology card should be filed under 1946-47 endgame?
+**Trap:** Do not replace separate secular interests with identical secular interests in the original attribution.
 
-A. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-B. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-C. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-D. Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
 
-**Answer: B.**
-**Explanation:** Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q2 — B
 
-### Q79. Which option should a candidate retain when revising 1946-47 endgame?
+- **A — Incorrect:** ❌ Substitutes **identical secular interests** for **separate secular interests** in this event or institution. ✅ The evidence says: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+- **B — Correct:** ✅ Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility. The accompanying strand is separately attested: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **C — Incorrect:** ❌ Substitutes **synonymous with religious faith** for **not religious faith** in this event or institution. ✅ The evidence says: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+- **D — Incorrect:** ❌ Substitutes **unchanging ancient religious doctrine** for **modern political ideology** in this event or institution. ✅ The evidence says: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
 
-A. Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
-B. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-C. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
-D. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+**Trap:** Do not replace not religious faith with synonymous with religious faith or collapse the separate neighbouring strand.
 
-**Answer: C.**
-**Explanation:** Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
 
-### Q80. Which statement avoids a common matching trap about 1946-47 endgame?
+### Q3 — C
 
-A. From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
-B. The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
-C. On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
-D. Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **A — Incorrect:** ❌ Substitutes **Exclusively Hindu participation** for **Shared Hindu-Muslim participation** in this event or institution. ✅ The evidence says: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **B — Incorrect:** ❌ Substitutes **every district of the 1857 rebellion** for **parts of the 1857 rebellion** in this event or institution. ✅ The evidence says: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **C — Correct:** ✅ Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **D — Incorrect:** ❌ Substitutes **proves** for **undermines** in this event or institution. ✅ The evidence says: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
 
-**Answer: D.**
-**Explanation:** Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Do not replace Shared Hindu-Muslim participation with Exclusively Hindu participation in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q4 — D
+
+- **A — Incorrect:** ❌ Substitutes **Exclusively Hindu participation** for **Shared Hindu-Muslim participation** in this event or institution. ✅ The evidence says: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **B — Incorrect:** ❌ Substitutes **every district of the 1857 rebellion** for **parts of the 1857 rebellion** in this event or institution. ✅ The evidence says: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **C — Incorrect:** ❌ Substitutes **proves** for **undermines** in this event or institution. ✅ The evidence says: Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous.
+- **D — Correct:** ✅ Shared Hindu-Muslim participation in parts of the 1857 rebellion undermines any claim that later communal division was historically automatic or politically homogeneous. The accompanying strand is separately attested: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+
+**Trap:** Do not replace parts of the 1857 rebellion with every district of the 1857 rebellion or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q5 — A
+
+- **A — Correct:** ✅ Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+- **B — Incorrect:** ❌ Substitutes **Universal adult franchise** for **Census classification** in this event or institution. ✅ The evidence says: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+- **C — Incorrect:** ❌ Substitutes **representation exclusively by trade** for **representation by community** in this event or institution. ✅ The evidence says: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+- **D — Incorrect:** ❌ Substitutes **the complete abolition of political claims** for **organised political claim-making** in this event or institution. ✅ The evidence says: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+
+**Trap:** Do not replace Census classification with Universal adult franchise in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q6 — B
+
+- **A — Incorrect:** ❌ Substitutes **Universal adult franchise** for **Census classification** in this event or institution. ✅ The evidence says: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+- **B — Correct:** ✅ Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making. The accompanying strand is separately attested: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **C — Incorrect:** ❌ Substitutes **representation exclusively by trade** for **representation by community** in this event or institution. ✅ The evidence says: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+- **D — Incorrect:** ❌ Substitutes **the complete abolition of political claims** for **organised political claim-making** in this event or institution. ✅ The evidence says: Census classification, patronage, constitutional categories and representation by community helped make religious identity a field of organised political claim-making.
+
+**Trap:** Do not replace representation by community with representation exclusively by trade or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q7 — C
+
+- **A — Incorrect:** ❌ Substitutes **1930s-40s** for **1870s-80s** in this event or institution. ✅ The evidence says: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **B — Incorrect:** ❌ Substitutes **M.A. Jinnah** for **Syed Ahmad Khan** in this event or institution. ✅ The evidence says: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **C — Correct:** ✅ From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **D — Incorrect:** ❌ Substitutes **leadership of the Congress** for **caution toward Congress** in this event or institution. ✅ The evidence says: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+
+**Trap:** Do not replace 1870s-80s with 1930s-40s in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q8 — D
+
+- **A — Incorrect:** ❌ Substitutes **1930s-40s** for **1870s-80s** in this event or institution. ✅ The evidence says: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **B — Incorrect:** ❌ Substitutes **M.A. Jinnah** for **Syed Ahmad Khan** in this event or institution. ✅ The evidence says: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **C — Incorrect:** ❌ Substitutes **leadership of the Congress** for **caution toward Congress** in this event or institution. ✅ The evidence says: From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress.
+- **D — Correct:** ✅ From the 1870s-80s, Syed Ahmad Khan's educational project was joined in his later politics by elite loyalism and caution toward Congress. The accompanying strand is separately attested: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+
+**Trap:** Do not replace Syed Ahmad Khan with M.A. Jinnah or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q9 — A
+
+- **A — Correct:** ✅ The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+- **B — Incorrect:** ❌ Substitutes **1915** for **1905** in this event or institution. ✅ The evidence says: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+- **C — Incorrect:** ❌ Substitutes **annulment** for **partition** in this event or institution. ✅ The evidence says: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+- **D — Incorrect:** ❌ Substitutes **uniform political agreement** for **divergent political responses** in this event or institution. ✅ The evidence says: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+
+**Trap:** Do not replace 1905 with 1915 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q10 — B
+
+- **A — Incorrect:** ❌ Substitutes **1915** for **1905** in this event or institution. ✅ The evidence says: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+- **B — Correct:** ✅ The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight. The accompanying strand is separately attested: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **C — Incorrect:** ❌ Substitutes **annulment** for **partition** in this event or institution. ✅ The evidence says: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+- **D — Incorrect:** ❌ Substitutes **uniform political agreement** for **divergent political responses** in this event or institution. ✅ The evidence says: The 1905 partition created divergent political responses and gave communal and regional claims greater institutional and public weight.
+
+**Trap:** Do not replace partition with annulment or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q11 — C
+
+- **A — Incorrect:** ❌ Substitutes **1 October 1916** for **1 October 1906** in this event or institution. ✅ The evidence says: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **B — Incorrect:** ❌ Substitutes **Nawab Salimullah** for **Aga Khan** in this event or institution. ✅ The evidence says: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **C — Correct:** ✅ On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **D — Incorrect:** ❌ Substitutes **Viceroy Curzon** for **Viceroy Minto** in this event or institution. ✅ The evidence says: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+
+**Trap:** Do not replace 1 October 1906 with 1 October 1916 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q12 — D
+
+- **A — Incorrect:** ❌ Substitutes **1 October 1916** for **1 October 1906** in this event or institution. ✅ The evidence says: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **B — Incorrect:** ❌ Substitutes **Nawab Salimullah** for **Aga Khan** in this event or institution. ✅ The evidence says: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **C — Incorrect:** ❌ Substitutes **Viceroy Curzon** for **Viceroy Minto** in this event or institution. ✅ The evidence says: On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto.
+- **D — Correct:** ✅ On 1 October 1906 the Simla Deputation led by the Aga Khan sought separate Muslim representation from Viceroy Minto. The accompanying strand is separately attested: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+
+**Trap:** Do not replace Aga Khan with Nawab Salimullah or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q13 — A
+
+- **A — Correct:** ✅ The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+- **B — Incorrect:** ❌ Substitutes **30 December 1909** for **30 December 1906** in this event or institution. ✅ The evidence says: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+- **C — Incorrect:** ❌ Substitutes **Simla** for **Dhaka** in this event or institution. ✅ The evidence says: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+- **D — Incorrect:** ❌ Substitutes **after the end of British rule** for **within the Raj** in this event or institution. ✅ The evidence says: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+
+**Trap:** Do not replace 30 December 1906 with 30 December 1909 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q14 — B
+
+- **A — Incorrect:** ❌ Substitutes **30 December 1909** for **30 December 1906** in this event or institution. ✅ The evidence says: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+- **B — Correct:** ✅ The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj. The accompanying strand is separately attested: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **C — Incorrect:** ❌ Substitutes **Simla** for **Dhaka** in this event or institution. ✅ The evidence says: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+- **D — Incorrect:** ❌ Substitutes **after the end of British rule** for **within the Raj** in this event or institution. ✅ The evidence says: The All-India Muslim League was founded at Dhaka on 30 December 1906 by elite leaders seeking safeguards and influence within the Raj.
+
+**Trap:** Do not replace Dhaka with Simla or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q15 — C
+
+- **A — Incorrect:** ❌ Substitutes **Government of India Act 1935** for **Indian Councils Act 1909** in this event or institution. ✅ The evidence says: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **B — Incorrect:** ❌ Substitutes **abolished separate electorates** for **introduced separate electorates** in this event or institution. ✅ The evidence says: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **C — Correct:** ✅ The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **D — Incorrect:** ❌ Substitutes **only provincial governors** for **Muslims** in this event or institution. ✅ The evidence says: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+
+**Trap:** Do not replace Indian Councils Act 1909 with Government of India Act 1935 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q16 — D
+
+- **A — Incorrect:** ❌ Substitutes **Government of India Act 1935** for **Indian Councils Act 1909** in this event or institution. ✅ The evidence says: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **B — Incorrect:** ❌ Substitutes **abolished separate electorates** for **introduced separate electorates** in this event or institution. ✅ The evidence says: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **C — Incorrect:** ❌ Substitutes **only provincial governors** for **Muslims** in this event or institution. ✅ The evidence says: The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive.
+- **D — Correct:** ✅ The Indian Councils Act 1909 introduced separate electorates for Muslims, giving community-specific electoral appeals a constitutional incentive. The accompanying strand is separately attested: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+
+**Trap:** Do not replace introduced separate electorates with abolished separate electorates or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q17 — A
+
+- **A — Correct:** ✅ In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+- **B — Incorrect:** ❌ Substitutes **1923** for **1913** in this event or institution. ✅ The evidence says: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+- **C — Incorrect:** ❌ Substitutes **through immediate severance from the Crown** for **under the British Crown** in this event or institution. ✅ The evidence says: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+- **D — Incorrect:** ❌ Substitutes **the dissolution of constitutional politics** for **closer constitutional cooperation** in this event or institution. ✅ The evidence says: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+
+**Trap:** Do not replace 1913 with 1923 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q18 — B
+
+- **A — Incorrect:** ❌ Substitutes **1923** for **1913** in this event or institution. ✅ The evidence says: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+- **B — Correct:** ✅ In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation. The accompanying strand is separately attested: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **C — Incorrect:** ❌ Substitutes **through immediate severance from the Crown** for **under the British Crown** in this event or institution. ✅ The evidence says: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+- **D — Incorrect:** ❌ Substitutes **the dissolution of constitutional politics** for **closer constitutional cooperation** in this event or institution. ✅ The evidence says: In 1913 the Muslim League adopted self-government under the British Crown as an objective, enabling closer constitutional cooperation.
+
+**Trap:** Do not replace under the British Crown with through immediate severance from the Crown or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q19 — C
+
+- **A — Incorrect:** ❌ Substitutes **1935** for **1915** in this event or institution. ✅ The evidence says: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **B — Incorrect:** ❌ Substitutes **Muslim League** for **Hindu Mahasabha** in this event or institution. ✅ The evidence says: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **C — Correct:** ✅ The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **D — Incorrect:** ❌ Substitutes **a provision of the Indian Councils Act 1909** for **historical interpretation** in this event or institution. ✅ The evidence says: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+
+**Trap:** Do not replace 1915 with 1935 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q20 — D
+
+- **A — Incorrect:** ❌ Substitutes **1935** for **1915** in this event or institution. ✅ The evidence says: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **B — Incorrect:** ❌ Substitutes **Muslim League** for **Hindu Mahasabha** in this event or institution. ✅ The evidence says: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **C — Incorrect:** ❌ Substitutes **a provision of the Indian Councils Act 1909** for **historical interpretation** in this event or institution. ✅ The evidence says: The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation.
+- **D — Correct:** ✅ The All-India Hindu Mahasabha emerged in 1915; its placement within Hindu communal politics should be stated as a historical interpretation. The accompanying strand is separately attested: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+
+**Trap:** Do not replace Hindu Mahasabha with Muslim League or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q21 — A
+
+- **A — Correct:** ✅ The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+- **B — Incorrect:** ❌ Substitutes **1909** for **1916** in this event or institution. ✅ The evidence says: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+- **C — Incorrect:** ❌ Substitutes **abolished separate electorates** for **accepted separate electorates** in this event or institution. ✅ The evidence says: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+- **D — Incorrect:** ❌ Substitutes **the Cabinet Mission** for **Congress** in this event or institution. ✅ The evidence says: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+
+**Trap:** Do not replace 1916 with 1909 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q22 — B
+
+- **A — Incorrect:** ❌ Substitutes **1909** for **1916** in this event or institution. ✅ The evidence says: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+- **B — Correct:** ✅ The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards. The accompanying strand is separately attested: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **C — Incorrect:** ❌ Substitutes **abolished separate electorates** for **accepted separate electorates** in this event or institution. ✅ The evidence says: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+- **D — Incorrect:** ❌ Substitutes **the Cabinet Mission** for **Congress** in this event or institution. ✅ The evidence says: The Congress-League Lucknow Pact of 1916 achieved cooperation on reform while Congress accepted separate electorates and agreed representation safeguards.
+
+**Trap:** Do not replace accepted separate electorates with abolished separate electorates or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q23 — C
+
+- **A — Incorrect:** ❌ Substitutes **1905-07** for **1920-22** in this event or institution. ✅ The evidence says: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **B — Incorrect:** ❌ Substitutes **permanent institutional unity** for **major political unity** in this event or institution. ✅ The evidence says: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **C — Correct:** ✅ The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **D — Incorrect:** ❌ Substitutes **permanently dissolved** for **did not dissolve** in this event or institution. ✅ The evidence says: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+
+**Trap:** Do not replace 1920-22 with 1905-07 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q24 — D
+
+- **A — Incorrect:** ❌ Substitutes **1905-07** for **1920-22** in this event or institution. ✅ The evidence says: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **B — Incorrect:** ❌ Substitutes **permanent institutional unity** for **major political unity** in this event or institution. ✅ The evidence says: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **C — Incorrect:** ❌ Substitutes **permanently dissolved** for **did not dissolve** in this event or institution. ✅ The evidence says: The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict.
+- **D — Correct:** ✅ The Khilafat-Non-Cooperation alliance of 1920-22 produced major political unity, but its breakdown did not dissolve communal organisations or local conflict. The accompanying strand is separately attested: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+
+**Trap:** Do not replace major political unity with permanent institutional unity or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q25 — A
+
+- **A — Correct:** ✅ Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+- **B — Incorrect:** ❌ Substitutes **1903** for **1923** in this event or institution. ✅ The evidence says: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+- **C — Incorrect:** ❌ Substitutes **1945** for **1925** in this event or institution. ✅ The evidence says: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+- **D — Incorrect:** ❌ Substitutes **both represented every Hindu political opinion** for **neither should be treated as representing all Hindu political opinion** in this event or institution. ✅ The evidence says: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+
+**Trap:** Do not replace 1923 with 1903 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q26 — B
+
+- **A — Incorrect:** ❌ Substitutes **1903** for **1923** in this event or institution. ✅ The evidence says: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+- **B — Correct:** ✅ Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion. The accompanying strand is separately attested: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **C — Incorrect:** ❌ Substitutes **1945** for **1925** in this event or institution. ✅ The evidence says: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+- **D — Incorrect:** ❌ Substitutes **both represented every Hindu political opinion** for **neither should be treated as representing all Hindu political opinion** in this event or institution. ✅ The evidence says: Savarkar's Hindutva appeared in 1923 and the RSS was founded in 1925; neither should be treated as representing all Hindu political opinion.
+
+**Trap:** Do not replace 1925 with 1945 or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q27 — C
+
+- **A — Incorrect:** ❌ Substitutes **1938** for **1928** in this event or institution. ✅ The evidence says: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **B — Incorrect:** ❌ Substitutes **1949** for **1929** in this event or institution. ✅ The evidence says: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **C — Correct:** ✅ The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **D — Incorrect:** ❌ Substitutes **naval command alone** for **residuary powers** in this event or institution. ✅ The evidence says: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+
+**Trap:** Do not replace 1928 with 1938 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q28 — D
+
+- **A — Incorrect:** ❌ Substitutes **1938** for **1928** in this event or institution. ✅ The evidence says: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **B — Incorrect:** ❌ Substitutes **1949** for **1929** in this event or institution. ✅ The evidence says: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **C — Incorrect:** ❌ Substitutes **naval command alone** for **residuary powers** in this event or institution. ✅ The evidence says: The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards.
+- **D — Correct:** ✅ The Nehru Report of 1928 and Jinnah's Fourteen Points of 1929 exposed conflict over federation, residuary powers and minority safeguards. The accompanying strand is separately attested: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+
+**Trap:** Do not replace 1929 with 1949 or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q29 — A
+
+- **A — Correct:** ✅ The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+- **B — Incorrect:** ❌ Substitutes **1922** for **1932** in this event or institution. ✅ The evidence says: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+- **C — Incorrect:** ❌ Substitutes **repealed community-based representation** for **extended community-based representation** in this event or institution. ✅ The evidence says: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+- **D — Incorrect:** ❌ Substitutes **constitutionally identical** for **analytically distinct** in this event or institution. ✅ The evidence says: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+
+**Trap:** Do not replace 1932 with 1922 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q30 — B
+
+- **A — Incorrect:** ❌ Substitutes **1922** for **1932** in this event or institution. ✅ The evidence says: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+- **B — Correct:** ✅ The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct. The accompanying strand is separately attested: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **C — Incorrect:** ❌ Substitutes **repealed community-based representation** for **extended community-based representation** in this event or institution. ✅ The evidence says: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+- **D — Incorrect:** ❌ Substitutes **constitutionally identical** for **analytically distinct** in this event or institution. ✅ The evidence says: The Communal Award of 1932 extended community-based representation; separate electorates, reserved seats and nomination must remain analytically distinct.
+
+**Trap:** Do not replace extended community-based representation with repealed community-based representation or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q31 — C
+
+- **A — Incorrect:** ❌ Substitutes **1905** for **1935** in this event or institution. ✅ The evidence says: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **B — Incorrect:** ❌ Substitutes **immediate dominion independence** for **provincial autonomy** in this event or institution. ✅ The evidence says: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **C — Correct:** ✅ The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **D — Incorrect:** ❌ Substitutes **only overseas conspiracies** for **provincial coalitions** in this event or institution. ✅ The evidence says: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+
+**Trap:** Do not replace 1935 with 1905 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q32 — D
+
+- **A — Incorrect:** ❌ Substitutes **1905** for **1935** in this event or institution. ✅ The evidence says: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **B — Incorrect:** ❌ Substitutes **immediate dominion independence** for **provincial autonomy** in this event or institution. ✅ The evidence says: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **C — Incorrect:** ❌ Substitutes **only overseas conspiracies** for **provincial coalitions** in this event or institution. ✅ The evidence says: The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted.
+- **D — Correct:** ✅ The Government of India Act 1935 created provincial autonomy and an electoral arena in which provincial coalitions and community claims interacted. The accompanying strand is separately attested: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+
+**Trap:** Do not replace provincial autonomy with immediate dominion independence or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q33 — A
+
+- **A — Correct:** ✅ The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+- **B — Incorrect:** ❌ Substitutes **1947** for **1937** in this event or institution. ✅ The evidence says: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+- **C — Incorrect:** ❌ Substitutes **universal provincial dominance** for **uneven provincial strength** in this event or institution. ✅ The evidence says: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+- **D — Incorrect:** ❌ Substitutes **a successful all-India coalition government** for **failed coalition bargaining** in this event or institution. ✅ The evidence says: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+
+**Trap:** Do not replace 1937 with 1947 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q34 — B
+
+- **A — Incorrect:** ❌ Substitutes **1947** for **1937** in this event or institution. ✅ The evidence says: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+- **B — Correct:** ✅ The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives. The accompanying strand is separately attested: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **C — Incorrect:** ❌ Substitutes **universal provincial dominance** for **uneven provincial strength** in this event or institution. ✅ The evidence says: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+- **D — Incorrect:** ❌ Substitutes **a successful all-India coalition government** for **failed coalition bargaining** in this event or institution. ✅ The evidence says: The 1937 elections exposed the League's uneven provincial strength; Congress ministries and failed coalition bargaining later became central to competing political narratives.
+
+**Trap:** Do not replace uneven provincial strength with universal provincial dominance or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q35 — C
+
+- **A — Incorrect:** ❌ Substitutes **23 March 1930** for **23 March 1940** in this event or institution. ✅ The evidence says: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **B — Incorrect:** ❌ Substitutes **a unitary dominion** for **independent states** in this event or institution. ✅ The evidence says: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **C — Correct:** ✅ On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **D — Incorrect:** ❌ Substitutes **explicitly used the word Pakistan** for **did not use the word Pakistan** in this event or institution. ✅ The evidence says: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+
+**Trap:** Do not replace 23 March 1940 with 23 March 1930 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q36 — D
+
+- **A — Incorrect:** ❌ Substitutes **23 March 1930** for **23 March 1940** in this event or institution. ✅ The evidence says: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **B — Incorrect:** ❌ Substitutes **a unitary dominion** for **independent states** in this event or institution. ✅ The evidence says: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **C — Incorrect:** ❌ Substitutes **explicitly used the word Pakistan** for **did not use the word Pakistan** in this event or institution. ✅ The evidence says: On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan.
+- **D — Correct:** ✅ On 23 March 1940 the League adopted the Lahore Resolution calling for independent states in Muslim-majority zones; the text did not use the word Pakistan. The accompanying strand is separately attested: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+
+**Trap:** Do not replace independent states with a unitary dominion or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q37 — A
+
+- **A — Correct:** ✅ The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+- **B — Incorrect:** ❌ Substitutes **3 June 1947** for **16 May 1946** in this event or institution. ✅ The evidence says: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+- **C — Incorrect:** ❌ Substitutes **immediate partition** for **united union** in this event or institution. ✅ The evidence says: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+- **D — Incorrect:** ❌ Substitutes **no provinces** for **grouped provinces** in this event or institution. ✅ The evidence says: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+
+**Trap:** Do not replace 16 May 1946 with 3 June 1947 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q38 — B
+
+- **A — Incorrect:** ❌ Substitutes **3 June 1947** for **16 May 1946** in this event or institution. ✅ The evidence says: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+- **B — Correct:** ✅ The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces. The accompanying strand is separately attested: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **C — Incorrect:** ❌ Substitutes **immediate partition** for **united union** in this event or institution. ✅ The evidence says: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+- **D — Incorrect:** ❌ Substitutes **no provinces** for **grouped provinces** in this event or institution. ✅ The evidence says: The 1945-46 elections strengthened the League's claim among Muslim electorates; the Cabinet Mission statement of 16 May 1946 proposed a united union with grouped provinces.
+
+**Trap:** Do not replace united union with immediate partition or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q39 — C
+
+- **A — Incorrect:** ❌ Substitutes **16 August 1936** for **16 August 1946** in this event or institution. ✅ The evidence says: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **B — Incorrect:** ❌ Substitutes **20 August 1917 Declaration** for **3 June 1947 Plan** in this event or institution. ✅ The evidence says: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **C — Correct:** ✅ Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **D — Incorrect:** ❌ Substitutes **one timeless community alone** for **no single actor or timeless community** in this event or institution. ✅ The evidence says: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+
+**Trap:** Do not replace 16 August 1946 with 16 August 1936 in the original attribution.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q40 — D
+
+- **A — Incorrect:** ❌ Substitutes **16 August 1936** for **16 August 1946** in this event or institution. ✅ The evidence says: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **B — Incorrect:** ❌ Substitutes **20 August 1917 Declaration** for **3 June 1947 Plan** in this event or institution. ✅ The evidence says: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **C — Incorrect:** ❌ Substitutes **one timeless community alone** for **no single actor or timeless community** in this event or institution. ✅ The evidence says: Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome.
+- **D — Correct:** ✅ Direct Action Day on 16 August 1946, failed constitutional bargaining, the 3 June 1947 Plan and the Indian Independence Act led to Partition; no single actor or timeless community explains the outcome. The accompanying strand is separately attested: Communalism is a modern political ideology that treats religious communities as bearers of separate secular interests; it is not religious faith or timeless hostility.
+
+**Trap:** Do not replace 3 June 1947 Plan with 20 August 1917 Declaration or collapse the separate neighbouring strand.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md`; paired `Learning-Session.md` (dates/actors checked against the existing historical notes; comparative framing is ⚠️ inference).
+
+### Q41 — A
+
+- **A — Correct:** ✅ The sequence runs 1905 → 1 October 1906 → 30 December 1906 → Indian Councils Act 1909.
+- **B — Incorrect:** ❌ The Bengal partition preceded the League, and the Simla Deputation preceded the 1909 statute.
+- **C — Incorrect:** ❌ Statutory electorates came after, not before, the 1906 petition and foundation.
+- **D — Incorrect:** ❌ The Simla Deputation followed the Bengal partition of 1905.
+
+**Trap:** Petition, party formation and statutory electoral machinery are different stages.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md` → timeline and facts; paired `Learning-Session.md` → Simla chronology.
+
+### Q42 — B
+
+- **A — Incorrect:** ❌ Provincial autonomy belongs to the 1935 Act, not the 1932 Award; separate Muslim electorates predate 1937.
+- **B — Correct:** ✅ The Award extended representational categories, the Act enabled provincial politics and elections tested actual strength.
+- **C — Incorrect:** ❌ The Award extended representation; Partition came much later and the League's 1937 strength varied.
+- **D — Incorrect:** ❌ The Cabinet Mission and Lahore Resolution belong to 1946 and 1940 respectively, not the 1932–37 sequence.
+
+**Trap:** A constitutional opportunity must not be equated with the election outcome it makes possible.
+
+**Evidence:** Paired `Learning-Session.md` → Award, 1935 Act and 1937 elections; `basic/17_Growth-of-Communalism-and-Muslim-League.md` → separate electorates.
+
+### Q43 — C
+
+- **A — Incorrect:** ❌ I is true, but III also holds: the League's 1913 goal was self-government under the Crown.
+- **B — Incorrect:** ❌ II predates the RSS foundation by a decade; I is true.
+- **C — Correct:** ✅ *Hindutva* appeared in 1923, the RSS was founded in 1925, and the League revised its goal in 1913.
+- **D — Incorrect:** ❌ II wrongly assigns the 1925 RSS foundation to 1915 (the Hindu Mahasabha's formation year).
+
+**Trap:** Distinguish a political text, a later organisation and a different organisation's earlier constitutional objective.
+
+**Evidence:** Paired `Learning-Session.md` → 1913 League objective and 1923–25 chronology.
+
+### Q44 — D
+
+- **A — Incorrect:** ❌ The Lahore text did not use Pakistan; the Mission proposed a united union, while the June plan led toward Partition.
+- **B — Incorrect:** ❌ The Mission proposed grouped provinces; Direct Action (August 1946) preceded the June 1947 Plan.
+- **C — Incorrect:** ❌ Lahore was adopted in March 1940, before Direct Action; neither the 1947 statute nor 1857 belongs to the Mission statement.
+- **D — Correct:** ✅ This preserves the distinct texts, dates and failed bargaining without claiming that 1940 made the later settlement inevitable.
+
+**Trap:** Don't read the 1947 outcome back into the wording of the 1940 resolution or the 1946 union proposal.
+
+**Evidence:** `basic/17_Growth-of-Communalism-and-Muslim-League.md` → Lahore wording; paired `Learning-Session.md` → Mission statement and endgame.
 
 ### Semantic-completeness coverage drills — Modern Topic 17
 

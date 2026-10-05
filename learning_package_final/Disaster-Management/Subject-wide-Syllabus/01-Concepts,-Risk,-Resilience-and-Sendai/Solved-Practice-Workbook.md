@@ -6,1135 +6,779 @@ topic_key: disaster-management-01
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Hazard?
+### Q1. A hillside village raises its embankment, trains a volunteer team and stocks a relief depot. The hazard frequency is unchanged. Which conclusion is strongest?
 
-A. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-B. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-C. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-D. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-
-**Answer: A.**
-**Explanation:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q2. Which option preserves the risk or institutional boundary of Hazard?
-
-A. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-B. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-C. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-D. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-
-**Answer: B.**
-**Explanation:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q3. Which statement uses Hazard without changing its hazard, mandate or status?
-
-A. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-B. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-C. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-D. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-
-**Answer: C.**
-**Explanation:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Hazard?
-
-A. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-B. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-C. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-D. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-
-**Answer: D.**
-**Explanation:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q5. Which statement correctly identifies Exposure?
-
-A. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-B. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-C. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-D. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
+A. Disaster risk has fallen because vulnerability was reduced and capacity was raised, even though the hazard itself was not altered.
+B. Disaster risk is unchanged because risk depends only on hazard probability.
+C. Disaster risk has been eliminated, since preparedness removes residual risk.
+D. Disaster risk has risen, because new assets have been added to the exposed area.
 
 **Answer: A.**
-**Explanation:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q6. Which option preserves the risk or institutional boundary of Exposure?
+**Examiner trap named:** Assuming that an unchanged hazard implies unchanged risk.
 
-A. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-B. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-C. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-D. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
+**Option-by-option explanation:**
+
+- **A (correct):** Risk responds to the vulnerability and capacity terms, both of which moved.
+- **B:** Hazard probability is only one term; the relation also runs through vulnerability, and capacity moderates the outcome.
+- **C:** No measure eliminates risk; residual risk always remains and must be accepted, transferred or prepared for.
+- **D:** Protective works and stocks are capacity, not new exposure of the kind that raises risk.
+
+**Trap:** Do not treat a fixed hazard as a fixed risk.
+
+### Q2. Match the definitions: (i) the people and assets located where a hazard can reach them; (ii) the conditions that make those people and assets susceptible to harm.
+
+A. (i) vulnerability, (ii) exposure.
+B. (i) exposure, (ii) vulnerability.
+C. (i) capacity, (ii) hazard.
+D. (i) risk, (ii) resilience.
 
 **Answer: B.**
-**Explanation:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q7. Which statement uses Exposure without changing its hazard, mandate or status?
+**Examiner trap named:** Reversing exposure and vulnerability, the most frequent definitional slip on this topic.
 
-A. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-B. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-C. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-D. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
+**Option-by-option explanation:**
+
+- **A:** The pairing is inverted; location is exposure, susceptibility is vulnerability.
+- **B (correct):** Exposure is a question of location, vulnerability a question of susceptibility.
+- **C:** Capacity is the stock of strengths and resources; hazard is the dangerous event.
+- **D:** Risk is expected loss and resilience is performance under stress; neither matches the two definitions given.
+
+**Trap:** Exposure answers "where and who"; vulnerability answers "why susceptible".
+
+### Q3. A district has a disaster management authority, an alert system and an annual drill, but recurring losses come from an unmapped urban drainage failure. Which stage of the DRR field of action has failed?
+
+A. Policy and legal framework.
+B. Early warning systems.
+C. Risk assessment.
+D. Use of knowledge.
 
 **Answer: C.**
-**Explanation:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Exposure?
+**Examiner trap named:** Blaming the warning stage when the real failure lies upstream in hazard identification.
 
-A. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-B. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-C. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-D. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
+**Option-by-option explanation:**
+
+- **A:** An authority exists, so the mandate stage is in place.
+- **B:** The alert system functions; it is simply calibrated to a hazard that is not the one causing losses.
+- **C (correct):** The drainage hazard was never mapped, so every downstream stage acts on the wrong problem.
+- **D:** Knowledge feedback cannot correct an assessment that was never made.
+
+**Trap:** Downstream stages consume the output of risk assessment; diagnose the earliest broken stage.
+
+### Q4. An officer computes a risk figure to two decimal places using the working relation and announces the expected casualty count for next year's flood. What is the error?
+
+A. The relation applies only to slow-onset hazards.
+B. The relation was replaced by the Sendai Framework and is no longer valid.
+C. The relation requires the exposure term to be multiplied in before any computation.
+D. The relation is a heuristic for organising reasoning, not a validated predictive formula that yields an event-specific loss forecast.
 
 **Answer: D.**
-**Explanation:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q9. Which statement correctly identifies Vulnerability?
+**Examiner trap named:** Converting a conceptual relation into a numerical forecast.
 
-A. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-B. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-C. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-D. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
+**Option-by-option explanation:**
+
+- **A:** It applies across both rapid- and slow-onset hazards.
+- **B:** Sendai builds on this conceptual vocabulary rather than replacing it.
+- **C:** Adding exposure improves the framework but does not turn it into a predictive formula.
+- **D (correct):** The source presents it as a working relation, and a risk statement must also name its area and time period.
+
+**Trap:** Never present the relation's output as a forecast.
+
+### Q5. A State declares that its disaster policy has moved from the traditional '3 Rs' to the '3 Ps'. What substantive change does this signify?
+
+A. Rescue, Relief and Restoration give way to Prevention, Preparedness and Proofing, moving the system from reactive recovery of the prior state towards anticipatory risk reduction and hazard-resistant rebuilding.
+B. Relief, Rehabilitation and Reconstruction give way to Planning, Procurement and Pre-positioning within the response machinery.
+C. Response, Recovery and Reporting give way to Policy, Personnel and Provisioning in the district administration.
+D. The three phases of the Crisis Management Phase are renamed without any change of approach.
 
 **Answer: A.**
-**Explanation:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q10. Which option preserves the risk or institutional boundary of Vulnerability?
+**Examiner trap named:** Offering plausible alliterative triads that are not the source expansions.
 
-A. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-B. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-C. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-D. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
+**Option-by-option explanation:**
+
+- **A (correct):** These are the exact expansions, and the substitution of proofing for restoration is the substantive change.
+- **B:** Planning, procurement and pre-positioning are preparedness activities, not the 3 Ps.
+- **C:** These are invented terms with no basis in the cycle vocabulary.
+- **D:** The change is one of approach, not nomenclature: restoration reinstates the failed condition, proofing does not.
+
+**Trap:** The mark lies in contrasting "Restoration" with "Proofing", not in reciting six words.
+
+### Q6. A State government pays a premium into a pooled catastrophe fund that compensates farmers after a declared drought. Which risk-treatment option is being exercised?
+
+A. Risk avoidance.
+B. Risk transfer.
+C. Risk reduction.
+D. Risk acceptance.
 
 **Answer: B.**
-**Explanation:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q11. Which statement uses Vulnerability without changing its hazard, mandate or status?
+**Examiner trap named:** Recording a financial protection instrument as a reduction in physical loss.
 
-A. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-B. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-C. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-D. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
+**Option-by-option explanation:**
+
+- **A:** Avoidance would mean not undertaking the drought-exposed activity at all.
+- **B (correct):** The financial burden of loss is shifted to another party, which is the definition of transfer.
+- **C:** Reduction lowers the likelihood or the consequence of the loss; a premium does neither.
+- **D:** Acceptance means bearing the consequence without any offsetting arrangement.
+
+**Trap:** Transfer changes who pays; it does not change what is lost.
+
+### Q7. Which set correctly lists the five Thematic Areas for Action under the National Disaster Management Plan, 2016?
+
+A. Prevention, mitigation, preparedness, response and recovery.
+B. Mortality, affected people, economic loss, infrastructure and early warning.
+C. Understanding risk; inter-agency coordination; investing in disaster risk reduction through structural measures; investing in disaster risk reduction through non-structural measures; capacity development.
+D. Legislation, finance, technology, training and international cooperation.
 
 **Answer: C.**
-**Explanation:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Vulnerability?
+**Examiner trap named:** Substituting the management-cycle phases or the Sendai target subjects for the plan's thematic areas.
 
-A. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-B. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-C. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-D. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
+**Option-by-option explanation:**
+
+- **A:** These are phases of the disaster management cycle, not the plan's thematic headings.
+- **B:** These are the subjects of Sendai's global targets.
+- **C (correct):** These five themes carry Sendai's four priorities into national planning, with the investment priority split in two.
+- **D:** These are plausible governance headings but are not the plan's thematic areas.
+
+**Trap:** The investment priority appears twice — once structural, once non-structural.
+
+### Q8. Which of the following, by itself, establishes that an event is a disaster?
+
+A. It is classified as a natural hazard of significant magnitude.
+B. It receives sustained national media coverage.
+C. It triggers the release of funds under a government scheme.
+D. None of these alone; the event must produce serious disruption causing losses beyond the affected community's own ability to cope.
 
 **Answer: D.**
-**Explanation:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q13. Which statement correctly identifies Capacity?
+**Examiner trap named:** Substituting an administrative or media trigger for the conceptual threshold.
 
-A. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-B. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-C. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-D. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
+**Option-by-option explanation:**
+
+- **A:** Magnitude describes the process, not the realised disruption.
+- **B:** Visibility has no place in the definition.
+- **C:** Fund release is an administrative consequence that follows a determination; it is not the determination.
+- **D (correct):** The coping-capacity threshold is the definitional test.
+
+**Trap:** Keep the definition's final clause — "beyond a community's ability to cope" — in every answer.
+
+### Q9. Which statement about the Sendai Framework's Midterm Review is correct?
+
+A. The High-Level Meeting was held on 17-19 May 2023 and adopted a Political Declaration that was issued as United Nations General Assembly resolution 77/289 on 18 May 2023.
+B. The review converted the framework's seven global targets into binding obligations enforceable against member states.
+C. The review was conducted at COP27 in November 2022 and replaced the framework with a new instrument running to 2040.
+D. The review abolished Target E because its 2020 deadline had passed.
 
 **Answer: A.**
-**Explanation:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q14. Which option preserves the risk or institutional boundary of Capacity?
+**Examiner trap named:** Treating a renewed political commitment as a binding legal correction.
 
-A. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-B. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-C. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-D. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
+**Option-by-option explanation:**
+
+- **A (correct):** These are the dates, the instrument and the resolution number.
+- **B:** The declaration renewed political commitment; the framework remains voluntary and non-binding.
+- **C:** COP27 launched the Early Warnings for All initiative; the framework still runs to 2030.
+- **D:** No target was abolished; Target E's earlier deadline remains part of the framework's structure.
+
+**Trap:** Use this review, not the 2015 target text, for any current-progress claim.
+
+### Q10. The disaster management cycle is divided into which two governing phases?
+
+A. A Sendai phase and a Hyogo phase, divided by the year 2015.
+B. A pre-disaster Risk Management Phase comprising prevention, mitigation and preparedness, and a post-disaster Crisis Management Phase comprising relief, response, rehabilitation, reconstruction and recovery.
+C. A Union phase and a State phase, divided by which level of government acts.
+D. A structural phase and a non-structural phase, divided by the type of measure used.
 
 **Answer: B.**
-**Explanation:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q15. Which statement uses Capacity without changing its hazard, mandate or status?
+**Examiner trap named:** Offering an institutional or instrument-based split in place of the temporal one.
 
-A. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-B. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-C. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-D. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
+**Option-by-option explanation:**
+
+- **A:** Framework chronology does not define the cycle.
+- **B (correct):** These are the two named phases and their contents.
+- **C:** Both levels of government act in both phases.
+- **D:** Structural and non-structural is a subdivision of mitigation, not of the cycle.
+
+**Trap:** Name the phases, not just the activities; the phase names carry the mark.
+
+### Q11. A coastal settlement repeatedly declines offers of relocation and shelter upgrading, believing that relief will arrive after each event. Which vulnerability dimension is most directly illustrated?
+
+A. Economic vulnerability.
+B. Environmental vulnerability.
+C. Attitudinal vulnerability.
+D. Physical vulnerability.
 
 **Answer: C.**
-**Explanation:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Capacity?
+**Examiner trap named:** Reading a behavioural condition as a purely material one.
 
-A. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-B. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
+**Option-by-option explanation:**
+
+- **A:** Economic vulnerability concerns income diversity and access to the means of production.
+- **B:** Environmental vulnerability concerns ecosystem sensitivity and lost buffers.
+- **C (correct):** A negative disposition towards change, producing dependence on external support, is the attitudinal dimension.
+- **D:** Physical vulnerability concerns proximity and construction type, which are present here but are not what the refusal illustrates.
+
+**Trap:** Argue attitudinal vulnerability as a produced condition, not as a fault of the community.
+
+### Q12. A city relocates an entire colony out of an active floodway instead of reinforcing the houses within it. This measure is best classified as:
+
+A. Preparedness, because it improves the community's readiness for the next flood.
+B. Risk transfer, because the loss burden moves to the receiving area.
+C. Non-structural mitigation, because no engineering works were built.
+D. Prevention, because it removes the exposure rather than reducing damage to an exposed asset.
 
 **Answer: D.**
-**Explanation:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q17. Which statement correctly identifies Risk heuristic?
+**Examiner trap named:** Classifying avoidance of exposure as mitigation.
 
-A. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-B. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-C. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-D. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
+**Option-by-option explanation:**
+
+- **A:** Preparedness builds the ability to act when the hazard arrives; relocation removes the encounter.
+- **B:** Transfer moves financial consequence, not physical exposure.
+- **C:** Non-structural mitigation regulates how and where building happens; it does not remove existing exposure.
+- **D (correct):** Removing the exposure is avoidance, which sits in prevention.
+
+**Trap:** Relocation is prevention; retrofitting is mitigation.
+
+### Q13. Which pairing correctly separates structural from non-structural mitigation?
+
+A. Embankments and seismic retrofitting are structural; land-use zoning and building codes are non-structural.
+B. Building codes are structural; embankments are non-structural.
+C. Evacuation drills are structural; cyclone shelters are non-structural.
+D. All mitigation is structural; non-structural measures belong to response.
 
 **Answer: A.**
-**Explanation:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q18. Which option preserves the risk or institutional boundary of Risk heuristic?
+**Examiner trap named:** Classifying a regulation as structural because it governs construction.
 
-A. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-B. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-C. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-D. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
+**Option-by-option explanation:**
+
+- **A (correct):** Physical works are structural; rules, plans and instruments are non-structural.
+- **B:** The pairing is inverted; a code is a rule, an embankment is a work.
+- **C:** Drills are preparedness and shelters are physical works, so both labels are wrong.
+- **D:** Non-structural mitigation is mitigation, not response.
+
+**Trap:** A code that governs concrete is still a rule, not a structure.
+
+### Q14. Which activity is preparedness rather than mitigation?
+
+A. Constructing a cyclone shelter to withstand design wind speeds.
+B. Pre-positioning relief stocks and rehearsing an evacuation route with a trained team.
+C. Enforcing a land-use restriction on construction in a low-lying zone.
+D. Retrofitting a school building to improve its seismic performance.
 
 **Answer: B.**
-**Explanation:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q19. Which statement uses Risk heuristic without changing its hazard, mandate or status?
+**Examiner trap named:** Treating any pre-impact activity as mitigation.
 
-A. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-B. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-C. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-D. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
+**Option-by-option explanation:**
+
+- **A:** Building the shelter is structural mitigation; staffing and drilling it is preparedness.
+- **B (correct):** Stocks, plans, drills and trained teams build the ability to act in time.
+- **C:** A land-use restriction is non-structural mitigation.
+- **D:** Retrofitting strengthens an asset and is structural mitigation.
+
+**Trap:** Mitigation changes the asset or the rule; preparedness changes readiness to act.
+
+### Q15. Search-and-rescue operations conducted in the first seventy-two hours after an earthquake belong to which phase?
+
+A. Mitigation within the Risk Management Phase.
+B. Reconstruction within the Crisis Management Phase.
+C. Relief and response within the Crisis Management Phase.
+D. Rehabilitation within the Risk Management Phase.
 
 **Answer: C.**
-**Explanation:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Risk heuristic?
+**Examiner trap named:** Assigning a post-impact life-safety operation to the wrong phase or stage.
 
-A. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-B. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
+**Option-by-option explanation:**
+
+- **A:** Mitigation precedes impact and reduces damage rather than saving trapped lives.
+- **B:** Reconstruction rebuilds physical assets over months and years.
+- **C (correct):** Life-saving operations immediately after impact are relief and response.
+- **D:** Rehabilitation restores services and livelihoods, and it sits after impact, not before.
+
+**Trap:** Relief and response, rehabilitation and reconstruction are three separate stages.
+
+### Q16. Build Back Better, applied during recovery, requires that reconstruction:
+
+A. Be completed faster than the previous reconstruction after a comparable event.
+B. Restore every damaged asset to its exact previous specification to protect continuity.
+C. Prioritise economic assets over housing so that livelihoods recover first.
+D. Reduce future risk through safer siting, stronger standards, restored ecosystem buffers and protected livelihoods, rather than reproducing pre-existing vulnerability.
 
 **Answer: D.**
-**Explanation:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q21. Which statement correctly identifies Disaster threshold?
+**Examiner trap named:** Reducing Build Back Better to speed or to construction quality.
 
-A. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-B. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
+**Option-by-option explanation:**
+
+- **A:** Speed alone can reinstate risk faster.
+- **B:** Exact restoration reinstates the vulnerability that produced the loss.
+- **C:** Sequencing between sectors is a recovery-management choice, not the defining principle.
+- **D (correct):** The defining element is a demonstrably lower risk profile after reconstruction.
+
+**Trap:** Build Back Better is a risk test, not a construction-quality test.
+
+### Q17. The scope of disaster risk reduction as a policy objective is best stated as:
+
+A. Preventing new risk, reducing existing risk and managing residual risk, pursued through reduced exposure, lessened vulnerability of people and property, wise management of land and the environment, and improved preparedness.
+B. Ensuring that relief reaches every affected household within seventy-two hours of impact.
+C. Eliminating all disaster risk within a defined planning horizon.
+D. Transferring the financial consequences of disaster loss to insurers and reinsurers.
 
 **Answer: A.**
-**Explanation:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q22. Which option preserves the risk or institutional boundary of Disaster threshold?
+**Examiner trap named:** Narrowing a development-wide objective to a relief or financing operation.
 
-A. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-B. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-C. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-D. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
+**Option-by-option explanation:**
+
+- **A (correct):** This combines the three-part scope with the four routes named in the definition.
+- **B:** Relief delivery is one operational target within response, not the scope of DRR.
+- **C:** Residual risk always remains; elimination is not an available objective.
+- **D:** Risk transfer is one treatment option, not the objective of the field.
+
+**Trap:** Three of the four routes in the definition run through development, not through emergency operations.
+
+### Q18. Which sequence correctly represents the DRR field of action?
+
+A. Early warning, risk assessment, policy framework, plan implementation, risk awareness, use of knowledge.
+B. Policy and legal framework, risk assessment, risk awareness, plan implementation, early warning systems, use of knowledge.
+C. Risk awareness, early warning, relief, reconstruction, risk assessment, policy framework.
+D. Plan implementation, use of knowledge, policy framework, risk awareness, risk assessment, early warning.
 
 **Answer: B.**
-**Explanation:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q23. Which statement uses Disaster threshold without changing its hazard, mandate or status?
+**Examiner trap named:** Shuffling the sequence so that warning or implementation precedes assessment.
 
-A. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-B. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-C. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-D. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
+**Option-by-option explanation:**
+
+- **A:** Warning cannot be calibrated before the hazard has been assessed and the mandate created.
+- **B (correct):** This is the ordered sequence, which operates with feedback rather than as a one-way list.
+- **C:** Relief and reconstruction are cycle phases and do not belong in this sequence.
+- **D:** Implementation cannot precede the framework and the assessment that direct it.
+
+**Trap:** The order matters because each stage consumes the previous stage's output.
+
+### Q19. The Prime Minister's ten-point agenda on disaster risk reduction is best characterised as:
+
+A. A statutory instrument amending the Disaster Management Act, 2005.
+B. A binding commitment enforceable under the Sendai Framework.
+C. A political and programmatic statement of national priorities, announced at the Asian Ministerial Conference on Disaster Risk Reduction in New Delhi in November 2016, with each point aligned to one or more Sendai priorities of action.
+D. A financing mechanism that allocates a fixed share of the national budget to mitigation.
 
 **Answer: C.**
-**Explanation:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Disaster threshold?
+**Examiner trap named:** Upgrading a political commitment into a legal or financial instrument.
 
-A. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-B. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-C. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-D. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
+**Option-by-option explanation:**
+
+- **A:** It neither amends nor derives its force from the 2005 Act.
+- **B:** Sendai creates no enforceable obligations of any kind.
+- **C (correct):** This states its character, forum, city, date and its point-by-point Sendai alignment.
+- **D:** It does not itself allocate budgetary shares.
+
+**Trap:** Cite it as evidence of alignment and direction, not of legal change.
+
+### Q20. A region records declining groundwater, progressive soil salinity and falling crop yields over a decade, with no single damaging event. This is best classified as:
+
+A. A rapid-onset hydrological disaster.
+B. A compound geophysical hazard.
+C. An anthropogenic industrial hazard.
+D. A slow-onset disaster, or creeping emergency, in which the society progressively loses its ability to derive sustenance.
 
 **Answer: D.**
-**Explanation:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q25. Which statement correctly identifies Resilience?
+**Examiner trap named:** Requiring a visible damaging event before recognising disaster loss.
 
-A. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-B. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
+**Option-by-option explanation:**
+
+- **A:** There is no acute impact moment and no flood event.
+- **B:** No earth-process hazard is described.
+- **C:** Land and water management choices contribute, but the described category is the slow-onset one.
+- **D (correct):** Cumulative degradation without an impact moment is the defining pattern of a creeping emergency.
+
+**Trap:** Slow onset does not mean low severity; cumulative losses can exceed those of an acute event.
+
+### Q21. Which pair correctly identifies India's principal pre-Sendai disaster-management instruments?
+
+A. The Disaster Management Act, 2005 and the National Policy on Disaster Management, 2009.
+B. The National Disaster Management Plan, 2016 and its 2019 revision.
+C. The ten-point agenda of 2016 and the Early Warnings for All initiative.
+D. The Sendai Framework itself and the 2023 Midterm Review Political Declaration.
 
 **Answer: A.**
-**Explanation:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q26. Which option preserves the risk or institutional boundary of Resilience?
+**Examiner trap named:** Dating post-Sendai instruments to the pre-Sendai period.
 
-A. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-B. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
+**Option-by-option explanation:**
+
+- **A (correct):** Both predate the adoption of Sendai on 18 March 2015.
+- **B:** Both are post-Sendai planning instruments.
+- **C:** Both belong to the post-Sendai period, and one is a global initiative.
+- **D:** Neither is an Indian domestic instrument.
+
+**Trap:** The "before and after" limb of a comparison question is won on dates.
+
+### Q22. Which statement correctly distinguishes prevention from mitigation?
+
+A. Prevention applies only to natural hazards and mitigation only to anthropogenic ones.
+B. Prevention seeks to avoid the risk altogether where avoidance is feasible, while mitigation accepts that the hazard will occur and lessens its adverse impact through structural and non-structural measures.
+C. Prevention is carried out by the Union and mitigation by the States.
+D. Prevention occurs after impact and mitigation before it.
 
 **Answer: B.**
-**Explanation:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q27. Which statement uses Resilience without changing its hazard, mandate or status?
+**Examiner trap named:** Turning a conceptual distinction into a jurisdictional or temporal one.
 
-A. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-B. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-C. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-D. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
+**Option-by-option explanation:**
+
+- **A:** Both apply across hazard types.
+- **B (correct):** The discriminating criterion is avoidance against impact reduction.
+- **C:** Both are exercised at every level of government.
+- **D:** Both are pre-impact actions within the Risk Management Phase.
+
+**Trap:** Ask whether the measure removes the encounter or reduces the damage from it.
+
+### Q23. The Hyogo Framework for Action 2005-2015 is correctly described as:
+
+A. A binding treaty with a compliance committee and reporting penalties.
+B. A framework with four priorities and seven quantified global targets.
+C. A voluntary framework organising action under five priorities, without quantified global targets, and superseded in 2015 by the Sendai Framework.
+D. An initiative of the World Meteorological Organization focused on early warning coverage.
 
 **Answer: C.**
-**Explanation:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Resilience?
+**Examiner trap named:** Attributing Sendai's structure or legal weight to its predecessor.
 
-A. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-B. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-C. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-D. Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
+**Option-by-option explanation:**
+
+- **A:** It was voluntary, as is its successor.
+- **B:** Four priorities and seven targets describe Sendai, not Hyogo.
+- **C (correct):** Five priorities, no quantified targets, voluntary, superseded in 2015.
+- **D:** That description fits the Early Warnings for All pillar structure, not Hyogo.
+
+**Trap:** Five against four is the count difference; targets are the substantive addition.
+
+### Q24. Sendai Priority 1, 'Understanding disaster risk', primarily requires:
+
+A. That every state adopt a national disaster insurance scheme.
+B. That international cooperation be enhanced towards developing countries.
+C. That post-disaster reconstruction be completed within a fixed period.
+D. That policy and practice be based on an understanding of disaster risk in all its dimensions of hazard, exposure, vulnerability and capacity.
 
 **Answer: D.**
-**Explanation:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q29. Which statement correctly identifies Prevention?
+**Examiner trap named:** Attaching the content of another priority or target to Priority 1.
 
-A. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-B. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
+**Option-by-option explanation:**
+
+- **A:** Financial protection sits within investment and risk transfer, not within risk understanding.
+- **B:** International cooperation is the subject of Target F.
+- **C:** Reconstruction sits within Priority 4.
+- **D (correct):** Priority 1 is about risk knowledge in all four dimensions.
+
+**Trap:** Priority 1 is the information foundation on which the other three depend.
+
+### Q25. Sendai Priority 2, 'Strengthening disaster risk governance to manage disaster risk', is chiefly concerned with:
+
+A. Coherent national and local legal frameworks, institutions, mandates and coordination mechanisms for managing disaster risk.
+B. Raising the share of gross domestic product spent on disaster relief.
+C. Establishing a global insurance pool for catastrophe losses.
+D. Standardising building codes across all member states.
 
 **Answer: A.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q30. Which option preserves the risk or institutional boundary of Prevention?
+**Examiner trap named:** Reading governance as expenditure or as technical standardisation.
 
-A. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-B. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-C. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-D. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
+**Option-by-option explanation:**
+
+- **A (correct):** Priority 2 addresses institutions, mandates, coherence and coordination.
+- **B:** Expenditure levels are neither a priority statement nor a global target.
+- **C:** No such global pool is established by the framework.
+- **D:** Codes are a national non-structural mitigation instrument, not a Sendai priority.
+
+**Trap:** Governance means who is responsible and how they coordinate, not how much is spent.
+
+### Q26. Sendai Priority 3, 'Investing in disaster risk reduction for resilience', calls for:
+
+A. Restricting disaster spending to post-event relief so that funds are not tied up in advance.
+B. Public and private investment in structural and non-structural risk-reduction measures, treating such investment as essential rather than as a residual cost.
+C. Mandatory contributions by developing countries to a global resilience fund.
+D. Investment exclusively in early-warning technology.
 
 **Answer: B.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q31. Which statement uses Prevention without changing its hazard, mandate or status?
+**Examiner trap named:** Reducing an investment priority to a single instrument or reversing its direction.
 
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-C. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-D. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
+**Option-by-option explanation:**
+
+- **A:** The priority pushes resources towards the pre-impact phase, not away from it.
+- **B (correct):** It covers both structural works and non-structural instruments, public and private.
+- **C:** The framework imposes no contribution obligations.
+- **D:** Warning investment is one element; the priority is broader.
+
+**Trap:** Use this priority when arguing that prevention and response compete within one finance envelope.
+
+### Q27. Sendai Priority 4 combines which two elements?
+
+A. Risk assessment and risk awareness.
+B. Governance reform and international cooperation.
+C. Enhancing disaster preparedness for effective response, and 'Build Back Better' in recovery, rehabilitation and reconstruction.
+D. Mortality reduction and economic loss reduction.
 
 **Answer: C.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Prevention?
+**Examiner trap named:** Splitting the two limbs of Priority 4 or substituting targets for them.
 
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-C. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-D. Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
+**Option-by-option explanation:**
+
+- **A:** These belong within Priority 1's risk-understanding work.
+- **B:** Governance is Priority 2; cooperation is the subject of Target F.
+- **C (correct):** Priority 4 joins preparedness before impact with risk-reducing recovery after it.
+- **D:** These are Targets A and C.
+
+**Trap:** Priority 4 is the only priority that straddles both phases of the cycle.
+
+### Q28. Sendai Targets A and B respectively concern:
+
+A. National DRR strategies and international cooperation.
+B. Economic loss relative to global GDP and critical-infrastructure damage.
+C. Early warning coverage and risk information availability.
+D. Substantial reduction of global disaster mortality and substantial reduction in the number of affected people, both measured as per-100,000 decadal averages for 2020-2030 against 2005-2015.
 
 **Answer: D.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q33. Which statement correctly identifies Mitigation?
+**Examiner trap named:** Shuffling the lettered targets, and omitting the decadal-average measurement basis.
 
-A. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-B. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-C. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-D. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
+**Option-by-option explanation:**
+
+- **A:** These are Targets E and F.
+- **B:** These are Targets C and D.
+- **C:** These are both within Target G.
+- **D (correct):** A is mortality, B is affected people, and both use per-100,000 decadal averages against the 2005-2015 baseline.
+
+**Trap:** The decadal-average basis is why single-year comparisons prove nothing about A or B.
+
+### Q29. Sendai Targets C and D respectively concern:
+
+A. Direct disaster economic loss in relation to global gross domestic product, and damage to critical infrastructure and disruption of basic services including health and education.
+B. Mortality and affected people.
+C. National and local DRR strategies and international cooperation.
+D. Multi-hazard early warning systems and disaster risk information.
 
 **Answer: A.**
-**Explanation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q34. Which option preserves the risk or institutional boundary of Mitigation?
+**Examiner trap named:** Losing the "relative to global GDP" qualifier on Target C.
 
-A. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-B. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-C. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-D. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
+**Option-by-option explanation:**
 
-**Answer: B.**
-**Explanation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A (correct):** C is economic loss relative to global GDP; D covers critical infrastructure and basic services.
+- **B:** These are Targets A and B.
+- **C:** These are Targets E and F.
+- **D:** This is Target G.
 
-### Q35. Which statement uses Mitigation without changing its hazard, mandate or status?
+**Trap:** Target C is a ratio, so economic growth changes its denominator.
 
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-C. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-D. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
+### Q30. Sendai Target E is distinctive because it:
 
-**Answer: C.**
-**Explanation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Mitigation?
-
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-B. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-C. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-D. Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-
-**Answer: D.**
-**Explanation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q37. Which statement correctly identifies Preparedness?
-
-A. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-B. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-C. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-D. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-
-**Answer: A.**
-**Explanation:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q38. Which option preserves the risk or institutional boundary of Preparedness?
-
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-C. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-D. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
+A. Is the only target expressed as an absolute number of lives saved.
+B. Is the only target carrying a 2020 deadline rather than 2030, and it measures a means of implementation — the number of countries with national and local DRR strategies — that states directly control.
+C. Is legally binding on all signatories, unlike the other six.
+D. Applies only to developing countries.
 
 **Answer: B.**
-**Explanation:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q39. Which statement uses Preparedness without changing its hazard, mandate or status?
+**Examiner trap named:** Attaching the 2020 deadline to a loss-reduction target, or reading measurability as enforceability.
 
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-C. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-D. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
+**Option-by-option explanation:**
 
-**Answer: C.**
-**Explanation:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** No target is expressed as an absolute count of lives saved.
+- **B (correct):** The earlier deadline and the means-of-implementation character are both defining.
+- **C:** The framework is voluntary throughout.
+- **D:** It applies to countries generally.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Preparedness?
+**Trap:** Target E is easier to verify as a domestic input; that does not make it inherently less demanding or make F/G directly controllable by one State.
 
-A. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-B. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-D. Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
+### Q31. Which statement best describes the relationship between Target G and the Early Warnings for All initiative?
 
-**Answer: D.**
-**Explanation:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q41. Which statement correctly identifies Response?
-
-A. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-B. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-C. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-D. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-
-**Answer: A.**
-**Explanation:** Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q42. Which option preserves the risk or institutional boundary of Response?
-
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-D. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-
-**Answer: B.**
-**Explanation:** Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q43. Which statement uses Response without changing its hazard, mandate or status?
-
-A. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-C. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
-D. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
+A. EW4All replaced Target G when it was launched at COP27.
+B. EW4All is a binding protocol that makes Target G enforceable.
+C. EW4All is the operational vehicle through which Target G is being pursued — called for in March 2022, launched at COP27 in November 2022, aiming at universal early-warning coverage by 2027 through four pillars led by UNDRR, WMO, ITU and IFRC — and it evidences effort rather than achieved coverage.
+D. EW4All measures disaster mortality and therefore reports against Target A.
 
 **Answer: C.**
-**Explanation:** Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Response?
+**Examiner trap named:** Treating an initiative's existence as proof that the target has been met.
 
-A. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-B. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-D. Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs.
+**Option-by-option explanation:**
 
-**Answer: D.**
-**Explanation:** Response consists of actions taken directly before, during or immediately after a disaster to save life, reduce impacts and meet basic needs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** The target remains part of the framework; the initiative operationalises it.
+- **B:** No enforcement mechanism was created.
+- **C (correct):** This states the origin, launch, horizon, pillar structure and evidentiary limit correctly.
+- **D:** Mortality is Target A and is not what EW4All measures.
 
-### Q45. Which statement correctly identifies Recovery?
+**Trap:** An initiative is an input; coverage achieved requires separate dated evidence.
 
-A. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-B. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-C. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
+### Q32. How should the relationship between the Sendai Framework, climate change adaptation and the Sustainable Development Goals be understood?
 
-**Answer: A.**
-**Explanation:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q46. Which option preserves the risk or institutional boundary of Recovery?
-
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-B. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-C. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-D. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-
-**Answer: B.**
-**Explanation:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q47. Which statement uses Recovery without changing its hazard, mandate or status?
-
-A. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-B. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-C. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-
-**Answer: C.**
-**Explanation:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Recovery?
-
-A. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-B. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-C. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-D. Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
+A. They are a single integrated framework with one secretariat and one reporting cycle.
+B. They are wholly unrelated, since disaster risk reduction concerns only geophysical hazards.
+C. Sendai explicitly incorporates the Paris Agreement and the 2030 Agenda within its own text.
+D. They are distinct instruments with separate architectures that nonetheless converge in risk-informed development; Sendai was adopted on 18 March 2015, before the 2030 Agenda in September 2015 and the Paris Agreement in December 2015, so coherence between them was developed afterwards and is stressed in later UNDRR material including the 2023 Midterm Review.
 
 **Answer: D.**
-**Explanation:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
-### Q49. Which statement correctly identifies DRR scope?
+**Examiner trap named:** Claiming that Sendai's own text recognises agreements adopted later in the same year.
 
-A. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-C. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-D. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
+**Option-by-option explanation:**
 
-**Answer: A.**
-**Explanation:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Each instrument retains its own architecture, mandate and reporting arrangements.
+- **B:** Disaster risk reduction covers hydro-meteorological, biological and anthropogenic hazards, and overlaps substantially with adaptation.
+- **C:** Sendai was adopted first and could not have incorporated instruments that did not yet exist.
+- **D (correct):** This states the convergence, the distinctness and the correct chronology.
 
-### Q50. Which option preserves the risk or institutional boundary of DRR scope?
-
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-B. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-C. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-D. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-
-**Answer: B.**
-**Explanation:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q51. Which statement uses DRR scope without changing its hazard, mandate or status?
-
-A. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-B. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-C. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: C.**
-**Explanation:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q52. Which option avoids the standard UPSC close-option trap about DRR scope?
-
-A. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-B. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-C. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-D. Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-
-**Answer: D.**
-**Explanation:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q53. Which statement correctly identifies Risk creation?
-
-A. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-B. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-C. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-
-**Answer: A.**
-**Explanation:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q54. Which option preserves the risk or institutional boundary of Risk creation?
-
-A. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-B. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-C. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: B.**
-**Explanation:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q55. Which statement uses Risk creation without changing its hazard, mandate or status?
-
-A. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-B. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-C. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: C.**
-**Explanation:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Risk creation?
-
-A. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-B. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-C. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-D. Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-
-**Answer: D.**
-**Explanation:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q57. Which statement correctly identifies Sendai status?
-
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-B. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-C. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-D. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-
-**Answer: A.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q58. Which option preserves the risk or institutional boundary of Sendai status?
-
-A. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-C. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: B.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q59. Which statement uses Sendai status without changing its hazard, mandate or status?
-
-A. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-B. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-D. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-
-**Answer: C.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Sendai status?
-
-A. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-B. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-C. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-
-**Answer: D.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q61. Which statement correctly identifies Sendai priorities?
-
-A. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-B. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-C. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: A.**
-**Explanation:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q62. Which option preserves the risk or institutional boundary of Sendai priorities?
-
-A. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-B. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-C. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-D. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Answer: B.**
-**Explanation:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q63. Which statement uses Sendai priorities without changing its hazard, mandate or status?
-
-A. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-B. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-C. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-D. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-
-**Answer: C.**
-**Explanation:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Sendai priorities?
-
-A. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-B. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-C. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-D. Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-
-**Answer: D.**
-**Explanation:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q65. Which statement correctly identifies Targets A-D?
-
-A. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-B. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-C. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: A.**
-**Explanation:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q66. Which option preserves the risk or institutional boundary of Targets A-D?
-
-A. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-B. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-C. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-D. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-
-**Answer: B.**
-**Explanation:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q67. Which statement uses Targets A-D without changing its hazard, mandate or status?
-
-A. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-B. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-C. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-D. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Answer: C.**
-**Explanation:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Targets A-D?
-
-A. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-B. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-C. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-D. Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-
-**Answer: D.**
-**Explanation:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies Targets E-G?
-
-A. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-B. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-C. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-D. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-
-**Answer: A.**
-**Explanation:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of Targets E-G?
-
-A. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-B. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-C. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-D. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Answer: B.**
-**Explanation:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses Targets E-G without changing its hazard, mandate or status?
-
-A. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-B. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-C. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-D. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-
-**Answer: C.**
-**Explanation:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Targets E-G?
-
-A. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-B. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-C. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-D. Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Answer: D.**
-**Explanation:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Framework linkage?
-
-A. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-B. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-C. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-D. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Answer: A.**
-**Explanation:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Framework linkage?
-
-A. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-B. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-C. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-D. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-
-**Answer: B.**
-**Explanation:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Framework linkage without changing its hazard, mandate or status?
-
-A. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-B. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-C. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-D. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-
-**Answer: C.**
-**Explanation:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Framework linkage?
-
-A. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-B. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-C. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-D. Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-
-**Answer: D.**
-**Explanation:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Evidence boundary?
-
-A. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-B. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-C. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-D. A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-
-**Answer: A.**
-**Explanation:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Evidence boundary?
-
-A. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-B. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-C. Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-D. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-
-**Answer: B.**
-**Explanation:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Evidence boundary without changing its hazard, mandate or status?
-
-A. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-B. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-C. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-D. Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-
-**Answer: C.**
-**Explanation:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Evidence boundary?
-
-A. A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
-B. Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-C. Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-D. A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Answer: D.**
-**Explanation:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Trap:** Argue coherence and coordination, not merger, and keep the 2015 sequence straight.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+The three previous-year questions below are reproduced exactly as set. The model
+answers here deliberately take a different route from the models in the learning
+session: they lead with structure and evaluation rather than with chronology and
+definition, so that the same question can be rehearsed twice without repeating one
+prepared script. Six original Mains questions follow, each with a full model answer
+within its stated limit.
 
-The three conservative cards are the direct 2018, 2019 and 2024 GS-III routes preserved in the audited ledgers and owner. Directive, marks and word limit are stated only where verified.
+### PYQ 1 — 2018 GS-III Q18 — 15 marks, 250 words
 
-### PYQ DEMAND CARD 1 — 2018 GS-III
+**Question:** Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing ‘Sendai Framework for DRR (2015-2030)’. How is this framework different from ‘Hyogo Framework for Action, 2005’?
 
-**Demand:** Describe disaster-risk-reduction measures and compare the Sendai Framework with the Hyogo Framework.
+**Alternative model answer:**
 
-**Status:** Verified routing ledger: Describe · 15 marks · 250 words; no official model answer is claimed.
+Disaster risk reduction seeks to prevent new risk, reduce existing risk and manage residual risk through reduced exposure, lessened vulnerability, wise land and environmental management and improved preparedness. India's measures can be read as a movement along that definition.
 
-**Model solution:** **Prevention:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Mitigation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Preparedness:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **DRR scope:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Sendai status:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Sendai priorities:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Targets A-D:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Targets E-G:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The pre-Sendai measures were largely architectural. The Disaster Management Act, 2005 supplied statutory authorities, plans and funds; the National Policy on Disaster Management, 2009 committed the system to prevention, mitigation and preparedness; and the reactive triad of Rescue, Relief and Restoration was displaced by Prevention, Preparedness and Proofing. Hazard zoning, building codes, mitigation works and dedicated response forces followed from this architecture.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2018 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The post-Sendai measures were largely translational. The National Disaster Management Plan, 2016 restated Sendai's four priorities as five thematic areas — understanding risk, inter-agency coordination, structural investment, non-structural investment and capacity development — and was revised in 2019, the latest published edition. At the Asian Ministerial Conference on Disaster Risk Reduction in New Delhi in November 2016, the Prime Minister announced a ten-point agenda whose points were aligned individually with Sendai's priorities of action.
 
-**Detailed examiner-grade model answer:**
+Against Hyogo, Sendai's difference is architectural rather than jurisprudential. Hyogo (2005-2015) had five priorities and no quantified targets, so performance could be narrated but not compared. Sendai, adopted 18 March 2015, has four priorities, seven measurable global targets, a wider scope covering man-made, technological and biological hazards, and an emphasis on managing risk rather than disasters. Both remain voluntary, so Sendai improved measurability without creating enforceability.
 
-**Introduction and thesis:** **Prevention:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Mitigation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Preparedness:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **DRR scope:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Sendai status:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Sendai priorities:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Targets A-D:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Targets E-G:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Examiner note:** The answer scores on four dated Indian anchors and a four-cell framework comparison. Its weakest point is that it argues from instruments alone; one sentence identifying a specific implementation shortfall — for example the absence of a costed fund requirement in the 2016 plan — would convert description into evaluation without breaching the limit.
 
-**Analytical body:**
+### PYQ 2 — 2019 GS-III — 10 marks, 150 words
 
-1. **Claim:** Demand: Describe disaster-risk-reduction measures and compare the Sendai Framework with the Hyogo Framework. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified routing ledger: Describe · 15 marks · 250 words; no official model answer is claimed. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Question:** Vulnerability is an essential element for defining disaster impacts and its threat to people. How and in what ways can vulnerability to disasters be characterized? Discuss different types of vulnerability with reference to disasters.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Alternative model answer:**
 
-**Qualified conclusion:** **Prevention:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Mitigation:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Preparedness:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **DRR scope:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Sendai status:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Sendai priorities:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Targets A-D:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Targets E-G:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Vulnerability is characterised by asking which conditions convert an identical hazard into unequal harm. It can be characterised along three axes: by the domain of the condition, by the population in which it concentrates, and by its responsiveness to policy. The typology runs to five types. Economic vulnerability reflects narrow income diversity and weak access to the means of production. Physical vulnerability reflects proximity and construction type. Social vulnerability concentrates among the poor, pregnant and lactating women, persons with disability, children and the elderly. Environmental vulnerability reflects ecosystem sensitivity. Attitudinal vulnerability reflects a negative disposition towards change and dependence on external support. Where dimensions coincide, harm compounds. Vulnerability is reducible through targeted intervention, but it is not the only policy-responsive risk component: exposure can be changed through siting and capacity through institutions and resources.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Examiner note:** The three-axis opening is what distinguishes this from a list answer, because it answers "how can vulnerability be characterized" before answering "what are its types". At 10 marks the main risk is spending the word budget on the axes and truncating the typology, so keep the five types to one clause each.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### PYQ 3 — 2024 GS-III Q17 — 15 marks, 250 words
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2018 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Question:** What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targets of Sendai Framework for Disaster Risk Reduction (2015–2030).
 
-### PYQ DEMAND CARD 2 — 2019 GS-III
+**Alternative model answer:**
 
-**Demand:** Discuss vulnerability as a concept for defining disaster impacts and explain its types.
+Disaster resilience is the capacity of an exposed system, community or society to resist, absorb, accommodate to, adapt to, transform and recover from a hazard's effects in a timely and efficient manner, preserving and restoring essential basic structures and functions. The final verbs matter: restoring the condition that failed is not resilience.
 
-**Status:** Verified routing ledger: Discuss · 10 marks · 150 words.
+Resilience is determined by performance rather than by endowment. For a given hazard and exposure, it rises as vulnerability falls and as capacity — institutions, finance, warning systems, trained responders, robust infrastructure and diversified livelihoods — increases. It is also determined by whether recovery reduces risk, since reconstruction that reproduces prior vulnerability resets the system for the next event.
 
-**Model solution:** **Hazard:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Exposure:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Vulnerability:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Capacity:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Risk heuristic:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Disaster threshold:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+A resilience framework is assessed through six elements: risk knowledge covering hazard, exposure, vulnerability and capacity; robustness, or withstanding stress without major functional loss; redundancy, meaning backup systems and alternative pathways; resourcefulness, the ability to mobilise and reallocate under stress; rapid recovery of essential functions; and adaptive capacity to change form when the existing form fails.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2019 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The Sendai Framework 2015-2030 sets seven global targets. A, B, C and D are loss-reduction outcomes: disaster mortality, the number of affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and disruption of basic services. E, F and G are means of implementation: national and local DRR strategies by 2020, the only earlier deadline; international cooperation to developing countries; and access to multi-hazard early warning systems and risk information.
 
-**Detailed examiner-grade model answer:**
+**Examiner note:** The question has four limbs and the commonest failure is to let the target list consume the determination limb. This version protects it by making determination a separate paragraph about performance. Naming Target E's 2020 deadline and the per-100,000 decadal basis for Targets A and B are the two precision marks most often missed.
 
-**Introduction and thesis:** **Hazard:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Exposure:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Vulnerability:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Capacity:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Risk heuristic:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Disaster threshold:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### ORIGINAL MAINS 1 — 10 marks, 150 words
 
-**Analytical body:**
+**Question:** Distinguish between hazard, exposure, vulnerability and capacity, and explain why the distinction matters for disaster policy. Answer in about 150 words.
 
-1. **Claim:** Demand: Discuss vulnerability as a concept for defining disaster impacts and explain its types. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified routing ledger: Discuss · 10 marks · 150 words. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Model answer:**
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+A hazard is a dangerous condition or event with the potential to injure life or damage property or the environment. Exposure identifies the people, livelihoods and assets located where that hazard can reach them. Vulnerability comprises the economic, physical, social, environmental and attitudinal conditions that make the exposed unit susceptible to harm. Capacity is the combination of strengths, resources, institutions and measures available to contain that harm.
 
-**Qualified conclusion:** **Hazard:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Exposure:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Vulnerability:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Capacity:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Risk heuristic:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Disaster threshold:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The distinction matters because each term has its own policy instrument. Hazard occurrence is largely beyond control for geophysical events; exposure is governed by siting and land use; vulnerability is governed by construction, income, health and inclusion; and capacity is built through institutions, finance, warning and training. An answer that collapses the four can only recommend "better disaster management", whereas one that separates them can name the precise lever that changes the outcome for a specific community.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Examiner note:** At 10 marks, "distinguish" is graded on the boundaries drawn, not on four isolated definitions. The second paragraph carries most of the credit because it attaches a distinct policy instrument to each term.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### ORIGINAL MAINS 2 — 10 marks, 150 words
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2019 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Question:** Examine the four ways of dealing with disaster risk, and assess which of them India's system uses least. Answer in about 150 words.
 
-### PYQ DEMAND CARD 3 — 2024 GS-III
+**Model answer:**
 
-**Demand:** Define disaster resilience, explain how it is determined and its framework elements, and mention Sendai's global targets.
+Risk acceptance is an informed decision to bear the consequence; risk avoidance means not undertaking the risk-generating activity; risk reduction applies techniques that lower the likelihood or consequence of loss; and risk transfer shifts the financial burden to another party, typically through insurance or pooled funds. Only avoidance and reduction change the loss that actually occurs; transfer changes who pays for it.
 
-**Status:** Exact local official-paper demand audited in the owner: Describe · 15 marks · 250 words.
+India's system is strongest on reduction, through mitigation works, codes and zoning, and on post-event compensation. Avoidance is used least consistently, because it requires controlling location against land-market and livelihood pressures, and enforcement of no-build restrictions in floodways and unstable slopes remains uneven. Risk transfer is used selectively rather than systematically. A balanced treatment package would avoid what can be avoided, reduce what remains, transfer a defined share of residual loss and consciously accept the small residue, rather than relying on reduction and relief alone.
 
-**Model solution:** **Risk heuristic:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Resilience:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Sendai status:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Sendai priorities:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Targets A-D:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Targets E-G:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Evidence boundary:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Examiner note:** The "assess which is used least" clause is the scoring half. A safe answer names avoidance, explains the enforcement reason, and stops short of asserting unverified coverage figures for insurance schemes.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+### ORIGINAL MAINS 3 — 15 marks, 250 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Examine the significance of the shift from the '3 Rs' to the '3 Ps' in India's disaster-management approach. Answer in about 250 words.
 
-**Introduction and thesis:** **Risk heuristic:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Resilience:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Sendai status:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Sendai priorities:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Targets A-D:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Targets E-G:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Evidence boundary:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer:**
 
-**Analytical body:**
+The traditional approach organised disaster management around three reactive tasks: Rescue, Relief and Restoration. Its logic was that the event would occur, the state would arrive afterwards, and the objective was to restore the area's previous condition. The replacement triad — Prevention, Preparedness and Proofing — reverses that logic and moves the centre of gravity into the pre-disaster Risk Management Phase.
 
-1. **Claim:** Demand: Define disaster resilience, explain how it is determined and its framework elements, and mention Sendai's global targets. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Exact local official-paper demand audited in the owner: Describe · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Three consequences follow. First, sequencing changes: prevention and preparedness now precede any post-event task, so the question asked of an administration is what it did before impact, not only how fast it responded. Second, the recovery objective changes: "restoration" meant reinstating the prior condition, which necessarily reinstated the vulnerability that produced the loss, whereas "proofing" requires that people, assets and systems be made capable of withstanding the next event. This is the same principle later expressed globally as Build Back Better under Sendai's fourth priority. Third, the institutional centre of gravity changes: risk assessment, land use, codes and warning systems become core business rather than adjuncts to relief.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+India's instruments reflect the shift. The Disaster Management Act, 2005 and the National Policy on Disaster Management, 2009 institutionalised prevention, mitigation and preparedness before Sendai, and the National Disaster Management Plan of 2016, revised in 2019, organised them thematically afterwards.
 
-**Qualified conclusion:** **Risk heuristic:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Resilience:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Sendai status:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Sendai priorities:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Targets A-D:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Targets E-G:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Evidence boundary:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The qualification is important. The shift describes a declared approach. Whether budget shares, staffing and enforcement have moved correspondingly requires separate, dated evidence, and the recorded critique that the 2016 plan lacked costed fund requirements suggests the translation was incomplete.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Examiner note:** The three-consequence structure prevents the answer from becoming a vocabulary comparison. The closing qualification is what lifts it from description to examination, because it separates a declared approach from demonstrated reallocation.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### ORIGINAL MAINS 4 — 15 marks, 250 words
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Question:** Discuss the thematic structure of India's National Disaster Management Plan and evaluate whether it matches the accountability standard set by the Sendai Framework. Answer in about 250 words.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Model answer:**
 
-**Question:** Distinguish hazard, exposure, vulnerability, capacity, risk and disaster. Answer in about 150 words.
+The National Disaster Management Plan, 2016 carried the Sendai Framework's four priorities into five Thematic Areas for Action: understanding risk; inter-agency coordination; investing in disaster risk reduction through structural measures; investing in disaster risk reduction through non-structural measures; and capacity development. The split of Sendai's investment priority into structural and non-structural limbs is a genuine refinement, because it forces regulation, planning, insurance and awareness to be resourced alongside physical works.
 
-**Model thesis:** **Claim:** Hazard. **Named evidence/example:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Vulnerability. **Named evidence/example:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Capacity. **Named evidence/example:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Disaster threshold. **Named evidence/example:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+On accountability, however, the match is incomplete. The recorded critique of the 2016 edition is that it was too generic, set no precise time frame, projected no fund requirement and, unlike Sendai or the Sustainable Development Goals, set no goals or targets of its own. A plan that adopts the priorities of a target-bearing framework without adopting its targets can report activity but cannot demonstrate risk reduction, because there is no measurable commitment against which performance can be assessed.
 
-**Claim → named evidence → analysis → qualification:**
+The comparison must be stated fairly in both directions. Sendai itself is voluntary and non-binding and has no enforcement mechanism against any individual state, so the accountability gap recurs at the global level; and its most readily measurable commitment, Target E on national and local DRR strategies by 2020, is an input target rather than a loss-reduction outcome.
 
-- A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster.
-- Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings.
-- Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts.
-- Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience.
-- Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-- A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard.
+The qualification is that the 2016 critique is document-specific. The revised plan of 2019 is the latest published edition, and whether it closed these gaps requires a dated comparison of the two texts rather than an assumption carried forward in either direction.
 
-**Qualified conclusion:** **Claim:** Hazard. **Named evidence/example:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Vulnerability. **Named evidence/example:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Capacity. **Named evidence/example:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Disaster threshold. **Named evidence/example:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Examiner note:** The answer must criticise fairly in both directions; an answer that faults only India misses that Sendai is itself non-binding, while one that faults only Sendai misses the plan's missing targets. The 2019 citation rule protects against a stale-claim penalty.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish hazard, exposure, vulnerability, capacity, risk and disaster. Answer in about 150…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+### ORIGINAL MAINS 5 — 20 marks, 250 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Analyse how development choices create disaster risk, and how Build Back Better can interrupt that cycle. Answer in about 250 words.
 
-**Introduction and thesis:** **Claim:** Hazard. **Named evidence/example:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Vulnerability. **Named evidence/example:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Capacity. **Named evidence/example:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Disaster threshold. **Named evidence/example:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer:**
 
-**Analytical body:**
+Disaster risk is not solely a function of hazard frequency; it is substantially created by development decisions taken without risk information. Unregulated construction on slopes and floodplains, encroachment on drainage channels and wetlands, deforestation that removes slope-stabilising cover, and unplanned urbanisation that concentrates assets in hazard-prone zones all raise the population and asset value exposed to a given hazard while weakening the buffers that once absorbed its impact. Driven by land markets, weak enforcement and short planning horizons, risk accumulates between events, so successive events of similar magnitude produce escalating losses. This is the risk-creation loop: development choice, accumulated exposure and vulnerability, disaster impact, and then a recovery choice that feeds back into the next cycle.
 
-1. **Claim:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Build Back Better, the reconstruction principle in Sendai's fourth priority, is designed to interrupt the loop at its weakest point. Reconstruction is the one moment when finance, political attention and public consent for change coincide. Instead of rebuilding damaged assets to their previous specification, which resets the system for the next event, recovery must relocate or retrofit unsafe structures, upgrade codes and land-use plans, restore protective ecosystems, and rebuild livelihoods on a less fragile base.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Applied consistently, this converts recovery from a vulnerability-reproducing exercise into a risk-reducing one. The qualification is that effectiveness depends on financing, land availability and enforcement follow-through; where these are absent, development pressures reassert themselves and households return informally to the original site. The presence of the principle in a policy document is therefore an input, not a demonstrated outcome.
 
-**Qualified conclusion:** **Claim:** Hazard. **Named evidence/example:** A hazard is a dangerous process, phenomenon or condition with the potential to cause loss; it is not itself a disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Exposure identifies people, livelihoods, infrastructure and other assets located in hazard-prone settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Vulnerability. **Named evidence/example:** Vulnerability comprises physical, social, economic and environmental conditions that increase susceptibility to hazard impacts. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Capacity. **Named evidence/example:** Capacity is the combination of strengths, attributes and resources available to manage and reduce disaster risks and strengthen resilience. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Disaster threshold. **Named evidence/example:** A disaster is serious disruption produced by hazardous events interacting with exposure, vulnerability and capacity, not a synonym for the triggering hazard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Examiner note:** At 20 marks, "analyse" requires two connected causal chains — one that creates risk and one that interrupts it. Listing examples without naming the loop, or naming the loop without the financing qualification, both under-answer the directive.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+### ORIGINAL MAINS 6 — 20 marks, 250 words
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Question:** Examine the relationship among disaster risk reduction, climate change adaptation and sustainable development, without collapsing their distinct frameworks. Answer in about 250 words.
 
-**How to improve this answer:** For ‘Distinguish hazard, exposure, vulnerability, capacity, risk and disaster. Answer in about 150…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Model answer:**
 
-### ORIGINAL MAINS 2 — 10 MARKS
+Disaster risk reduction, climate change adaptation and sustainable development are closely related but institutionally distinct. Disaster risk reduction, framed globally by the Sendai Framework 2015-2030, aims to prevent new risk, reduce existing risk and manage residual risk arising from hazards of any origin interacting with exposure, vulnerability and capacity. Climate change adaptation, anchored in the UNFCCC and the Paris Agreement, concerns the adjustment of human and natural systems to actual or expected climate change, including the changing frequency and intensity of hydro-meteorological hazards. Sustainable development, framed by the 2030 Agenda, is the broadest, balancing economic, social and environmental objectives across generations.
 
-**Question:** Differentiate prevention, mitigation and preparedness in disaster management. Answer in about 150 words.
+They converge for a structural reason: climate change progressively alters the hazard profile that disaster risk reduction must manage, and both fields depend on, and reshape, the same development decisions about land use, infrastructure and livelihoods. Climate-resilient infrastructure and ecosystem-based measures can therefore serve all three agendas simultaneously.
 
-**Model thesis:** **Claim:** Prevention. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mitigation. **Named evidence/example:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness. **Named evidence/example:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+They must nonetheless be kept distinct. Disaster risk reduction also covers earthquakes, tsunamis, epidemics and technological hazards that adaptation does not address; adaptation sits within a separate treaty architecture with its own finance mechanisms; and sustainable development pursues poverty reduction and equity objectives extending well beyond hazard management.
 
-**Claim → named evidence → analysis → qualification:**
+Chronology reinforces the point. Sendai was adopted on 18 March 2015, before the 2030 Agenda in September 2015 and the Paris Agreement in December 2015, so coherence was built afterwards and is stressed in later UNDRR material including the 2023 Midterm Review. The correct prescription is deliberate coordination, not institutional merger.
 
-- Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk.
-- Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures.
-- Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills.
-
-**Qualified conclusion:** **Claim:** Prevention. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mitigation. **Named evidence/example:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness. **Named evidence/example:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on ‘Differentiate prevention, mitigation and preparedness in disaster management. Answer in about…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Prevention. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mitigation. **Named evidence/example:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness. **Named evidence/example:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Prevention. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where avoidance is feasible; it is distinct from reducing unavoidable risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mitigation. **Named evidence/example:** Mitigation lessens the adverse impacts of a hazardous event through structural or non-structural measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness. **Named evidence/example:** Preparedness develops knowledge and capacities for anticipation, response and recovery through plans, training, warning and drills. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Differentiate prevention, mitigation and preparedness in disaster management. Answer in about…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain disaster resilience and the elements that determine it. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-- Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-- Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-- Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-
-**Qualified conclusion:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain disaster resilience and the elements that determine it. Answer in about 250 words.’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Explain disaster resilience and the elements that determine it. Answer in about 250 words.’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Describe the four priorities and seven global targets of the Sendai Framework. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets A-D. **Named evidence/example:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets E-G. **Named evidence/example:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-- Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-- Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services.
-- Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline.
-
-**Qualified conclusion:** **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets A-D. **Named evidence/example:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets E-G. **Named evidence/example:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **describe** requires a direct position on ‘Describe the four priorities and seven global targets of the Sendai Framework. Answer in…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets A-D. **Named evidence/example:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets E-G. **Named evidence/example:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets A-D. **Named evidence/example:** Sendai Targets A-D concern mortality, affected people, direct economic loss relative to global GDP, and damage to critical infrastructure and basic services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Targets E-G. **Named evidence/example:** Targets E-G concern national and local DRR strategies, international cooperation, and multi-hazard early warning plus risk information; Target E used a 2020 deadline. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Describe the four priorities and seven global targets of the Sendai Framework. Answer in…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Analyse how development choices create disaster risk and how Build Back Better can interrupt that cycle. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law.
-- Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-- Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability.
-- Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-- Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-- Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better.
-- A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Qualified conclusion:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse how development choices create disaster risk and how Build Back Better can interrupt…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Risk heuristic. **Named evidence/example:** Risk is commonly organised as hazard interacting with exposure and vulnerability, moderated by capacity; the equation is a heuristic, not a universal numerical law. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Recovery. **Named evidence/example:** Recovery restores or improves livelihoods, health, systems and assets while reducing future risk rather than reproducing prior vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai priorities. **Named evidence/example:** Sendai's four priorities are understanding risk, strengthening risk governance, investing in DRR for resilience, and preparedness with Build Back Better. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Analyse how development choices create disaster risk and how Build Back Better can interrupt…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Examine the relationship among DRR, climate adaptation and sustainable development without collapsing their distinct frameworks. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Framework linkage. **Named evidence/example:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions.
-- Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development.
-- Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change.
-- The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015.
-- Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures.
-- A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence.
-
-**Qualified conclusion:** **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Framework linkage. **Named evidence/example:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine the relationship among DRR, climate adaptation and sustainable development without…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Framework linkage. **Named evidence/example:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Resilience. **Named evidence/example:** Resilience includes resisting, absorbing, accommodating, adapting, transforming and recovering while preserving or restoring essential functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DRR scope. **Named evidence/example:** Disaster risk reduction prevents new risk, reduces existing risk and manages residual risk as part of sustainable development. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk creation. **Named evidence/example:** Land-use, construction, infrastructure and environmental choices can create or accumulate risk even when the underlying hazard does not change. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sendai status. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary, non-binding global framework adopted on 18 March 2015. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Framework linkage. **Named evidence/example:** Sendai, climate adaptation, the Paris Agreement and the Sustainable Development Goals overlap in risk-informed development but retain different legal and policy architectures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evidence boundary. **Named evidence/example:** A framework, strategy, investment or warning platform proves an input or mandate; avoided loss and resilience improvement require separate outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Examine the relationship among DRR, climate adaptation and sustainable development without…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Examiner note:** The instruction "without collapsing their distinct frameworks" is graded on whether each framework retains its own anchor. The chronology paragraph is the differentiating content, because it forecloses the common error of claiming that Sendai's text incorporates the Paris Agreement.

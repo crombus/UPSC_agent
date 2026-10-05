@@ -1,0 +1,157 @@
+TOPIC 23 GRAPHICAL VALIDATION — FACTUAL CHECKS (this repair pass, supersedes
+the previous version below)
+============================================================
+STATUS: this version supersedes the immediately-preceding VALIDATION-REPORT.txt,
+which fixed the "CORE BEFORE EXTRA • prior artefacts unchanged • exact same
+master drives poster and tiles" header line but left one further visible
+production line baked into the master canvas: a FOOTER line at the very bottom
+of the master, printed just below the last stage's bottom margin (the
+"end of canvas" note that tools/carvaka_flowchart.py's render_master() /
+author_topic_spec() unconditionally draw on every freshly rendered master):
+"END OF MASTER CANVAS • poster embeds this exact master • tiled pages are
+overlapping crops of the same pixels" (rendered in the renderer's DIM colour
+rgb(156,180,200), single line, font "note" size 27, drawn at
+(MARGIN+10, total_height-62) per tools/carvaka_flowchart.py:1364-1372). That
+line is removed in this pass (see below). approved: false; executor self-check
+only, pending independent human review.
+
+WHAT WAS CHANGED THIS PASS
+Renderer: shared tools/carvaka_flowchart.py public API only (build_poster,
+build_tiled, render_previews) -- the renderer itself was not edited. Its
+render_master() unconditionally bakes the forbidden "END OF MASTER CANVAS ..."
+footer line into any freshly rendered master, so render_master() was called
+only once, against a disposable scratch path, solely to obtain the (width,
+height) dimensions tuple already known to be unchanged (4800 x 12016 px) --
+that disposable output was never copied anywhere and was deleted with the rest
+of the scratch directory before this pass finished. The real, already-redacted
+High-Resolution-Master.png was instead redacted in place a further time
+(Pillow ImageDraw.rectangle over the exact footer-text pixels, filled with the
+surrounding background colour rgb(7,20,33)), then build_poster()/build_tiled()
+were called fresh against that further-redacted master to regenerate the two
+PDFs with identical, deterministic crop geometry to the prior build. Each tile
+PDF's footer was then redacted a second time with PyMuPDF (search_for the
+exact string, add_redact_annot/apply_redactions, fill matched to the tile
+page's background colour) to remove only the "same master rows N-M of H "
+clause that build_tiled() unconditionally re-bakes into every tile footer on
+every fresh call -- title / "TILE n/5" / "continues below"/"end" wording is
+untouched. Previews and the contact sheet were regenerated fresh from the
+corrected tiled PDF via render_previews(). build_tiled()'s from_stage /
+continues_stage labels (used only for its returned in-memory coordinate list,
+never drawn onto the PDF page or embedded in any file inside this folder) were
+supplied via a minimal single-span placeholder stage list rather than by
+re-deriving the topic's full stage spec, since a full-text scan of every
+regenerated tile page (below) confirms no stage-label text of any kind reaches
+the rendered pages.
+
+Master canvas (High-Resolution-Master.png): 4800 x 12016 px, 300 DPI, RGB PNG,
+2,470,047 bytes. Redacted region this pass: x 100-1520, y 11945-12000 px
+(verified before/after: 9,179 non-background px sampled inside this box
+pre-redaction, 0 non-background px inside it post-redaction). Guard check
+immediately above the box, y 11890-11910 (the last core-to-extra rail
+arrowhead/tip region), sampled 70,651 non-background px both before and after
+-- confirms the box did not bleed into rail pixels. A full pixel-difference
+scan of the entire bottom margin (y 11800-12016, all 4800 columns, 1,036,800 px
+scanned) found 0 pixels changed outside the footer box -- confirms nothing else
+in the bottom margin was touched. The two header regions redacted in the prior
+pass were re-verified clean this pass by a white-text-pixel count (the
+forbidden lines were rendered in white/near-white; other legitimate header
+content there is cyan/amber, not white): x 140-800, y 384-420 ("CORE BEFORE
+EXTRA ..." zone) = 0 white px; x 795-4670, y 295-420 (amber status-line zone)
+= 0 white px -- both unchanged from the prior pass, confirming no regression.
+Continuous single cyan/grey rail still runs node-to-node down the full canvas
+height (Stage 00 -> Stage 09 in cyan, Stage 09 -> Stage E in grey); rail pixels
+are outside all three redacted regions and were not touched.
+
+Poster (At-a-Glance-Poster.pdf): 1 page, 2834.64 x 7096.05 pt (39.37 x 98.56
+in) -- unchanged dimensions from the prior build. Embeds the further-redacted
+master pixels (drawImage, no re-encoding). Metadata: author "anonymous", title
+"THE MARATHAS, SHIVAJI AND AURANGZEB'S DECCAN; THE JAGIRDARI CRISIS"
+(unchanged, already neutral, read from and reused unmodified from the prior
+poster's own metadata). Full-text extraction confirms 0 extractable text
+(image-only page, as before).
+
+Tiled (Printable-Tiled-Version.pdf): 5 pages, each 1190.55 x 841.89 pt --
+standard ISO A3 landscape, byte-for-byte the same crop coordinates as the
+prior build (build_tiled() is a pure function of master pixel dimensions,
+which did not change):
+  Tile 1: rows 0-3234       overlap n/a (first tile)
+  Tile 2: rows 2196-5430    overlap 1038 px
+  Tile 3: rows 4391-7625    overlap 1039 px
+  Tile 4: rows 6586-9820    overlap 1039 px
+  Tile 5: rows 8782-12016   overlap 1038 px
+(renderer's own minimum-overlap floor: 330 px -- all four seams clear it, and
+all four values match the prior build exactly). Each tile footer reads only:
+  "<title> • TILE n/5 • continues below"   (tiles 1-4)
+  "<title> • TILE 5/5 • end"                (tile 5)
+-- topic title, tile number and continuation status only. Full-text scan of
+all 5 pages this pass confirms none contain "END OF MASTER CANVAS", "poster
+embeds this exact master", "overlapping crops of the same pixels", "same
+master rows", "CORE BEFORE EXTRA", "prior artefacts", "exact same master",
+"drives poster", "Approval", or "generation g". Metadata: author "anonymous",
+title ends " — tiled" (unchanged, already neutral).
+
+Contact sheet (Contact-Sheet.png): 6,779 x 3,218 px -- unchanged dimensions
+from the prior build, regenerated fresh from the fixed tiled PDF
+(render_previews' contact-sheet-01.png, copied to the top-level deliverable
+name).
+
+Previews (previews/): page-001.png .. page-005.png (2233 x 1579 px, 135 DPI,
+one per tile -- unchanged dimensions), contact-sheet-01.png, master-overview.png
+(1200 x 3004 px thumbnail of the further-redacted master -- unchanged
+dimensions) -- all regenerated fresh by render_previews() this pass. Direct
+visual/pixel inspection confirms the master no longer carries any residual
+"END OF MASTER CANVAS ..." footer text at any zoom level, and the two
+previously fixed header regions remain clean.
+
+Stage/panel coverage (10 core stages + 1 auto-derived "extra" stage) is
+unchanged from the prior pass -- this repair touched only the master's bottom
+footer-text region and the tiled PDF's per-tile "same master rows" clause, not
+stage content, layout or the rail:
+  00 Deccan service field and Shahji Bhonsle
+  01 Shivaji's state formation: Javli and the forts
+  02 Purandar, Agra and the 1674 coronation
+  03 Administration and revenue: Ashtapradhan, chauth and sardeshmukhi
+  04 Military organisation, naval power and the fort network
+  05 Successors: Sambhaji, Rajaram, Gingee and Tarabai
+  06 Aurangzeb's Deccan annexation and prolonged war
+  07 The jagirdari crisis mechanism
+  08 Local power and the multi-causal consequence chain
+  09 Sources, PYQ status, answer spine, traps and bounded heritage (synthesis)
+  E  Subordinate enrichment (auto-derived from the Learning Session's own
+     "OPTIONAL ADVANCED DEPTH" section; grey node, clearly marked optional)
+
+Text legibility: card/pill/group text sizing is unchanged (this pass did not
+touch panel/card rendering); the footer box and both header boxes were
+re-verified by direct pixel crop inspection to confirm a clean, uniform
+background fill with no visible seam.
+
+TRACKER DISCLOSURE (carried forward unchanged from the immediately-preceding
+version of this file): a previous version of this report stated, in its
+closing summary, "No file outside this Topic 23 package's own graphical
+deliverables was touched by this pass" without qualification. That statement
+was corrected in the preceding version: the user separately, explicitly
+permitted a one-row path update to Topic 23's own existing row (row 23) in
+notes/Final-Learning-Packages/MASTER-TRACKER.md, in an earlier pass, before the
+graphical repairs recorded in that file's history. That permitted edit was
+limited exactly to Topic 23's single row; the row's asset links are current
+(they point at the present folder names, including this
+03-Graphical-Flowchart subfolder, with no stale hash or old naming), and no
+other row or tracker-wide content was touched by that edit or by this pass.
+MASTER-TRACKER.md was not touched again in this pass. This disclosure does not
+extend to, and makes no claim about, any other topic's tracker row.
+
+============================================================
+SUMMARY: all checks above are executor self-checks against locally generated
+files only; this is not an independent-reviewer acceptance. approved: false,
+pending human review. Files changed this pass: High-Resolution-Master.png
+(further in-place pixel redaction of the "END OF MASTER CANVAS ..." footer
+line), At-a-Glance-Poster.pdf (regenerated from the further-redacted master),
+Printable-Tiled-Version.pdf (regenerated from the further-redacted master +
+per-tile footer redaction of the renderer's re-baked "same master rows"
+clause), Contact-Sheet.png and previews/*.png (regenerated), and this
+VALIDATION-REPORT.txt (rewritten for the fix above). A disposable scratch
+working directory used to stage the regeneration (tools/_scratch_topic23/) and
+a disposable temporary repair script (tools/_topic23_footer_fix.py) were both
+deleted after use and are not present in the repository. No file outside this
+Topic 23 package's own graphical deliverables, and no row of
+MASTER-TRACKER.md, was touched by this pass.

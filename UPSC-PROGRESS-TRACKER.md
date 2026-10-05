@@ -1,13 +1,14 @@
 # UPSC Progress Tracker
 
 > Personal tracker for study, revision, practice and resource generation.
-> Last updated: 2026-09-11
+> Last updated: 2026-09-21
 >
 > Learner-confirmed completed areas: Polity 01-10; Indian Philosophy - Carvaka,
 > Jainism and Nyaya-Vaisesika; Internal Security 01-12 from the book; Indian
 > Religion - Notions of God; and newspaper reading. Indian Philosophy - Samkhya,
-> Economy 01, Economy 02 and Economy 03 guided learning sessions are complete,
-> with their completion-cycle tasks pending.
+> Indian Philosophy - Yoga, Indian Philosophy - Mimamsa, Economy 01, Economy 02,
+> Economy 03, Economy 04, Economy 05 and Economy 06 guided learning sessions are
+> complete, with their completion-cycle tasks pending.
 
 ## How to update
 
@@ -26,9 +27,14 @@
 | Indian Philosophy - Buddhism | Core doctrines completed; Hīnayāna-Mahāyāna supplement pending | 2026-09-02 | Complete school-tradition supplement |
 | Indian Philosophy - Nyaya-Vaisesika | Completed | 2026-09-09 | Schedule revision |
 | Indian Philosophy - Samkhya | Guided learning session completed; PYQ, answer, notes and revisions pending | 2026-09-11 | Day-1 recall and one routed PYQ |
+| Indian Philosophy - Yoga | Guided learning session and Day-1 revision completed; timed PYQ, notes and later revisions pending | 2026-09-14 | Revision 2 and one routed PYQ |
+| Indian Philosophy - Mimamsa | Restarted guided learning session completed; 12/12 subtopics covered; PYQ, answer, notes and revisions pending | 2026-09-21 | Day-1 recall and targeted remediation |
 | Economy 01 - National Income | Guided learning session completed; PYQ, answer, notes and revisions pending | 2026-09-09 | Day-1 recall and one routed PYQ |
 | Economy 02 - Growth, Development, HDI, IHDI and MPI | Guided learning session completed; PYQ, answer, notes and revisions pending | 2026-09-10 | Day-1 recall and one routed PYQ |
 | Economy 03 - Inflation, Price Indices and Business Cycles | Guided learning session completed; timed Mains answer, notes and revisions pending | 2026-09-11 | Day-1 recall and 2024 food-inflation PYQ |
+| Economy 04 - RBI, Monetary Policy and Liquidity Management | Guided learning session completed; timed Mains answer, notes and revisions pending | 2026-09-13 | Day-1 recall and one integrated monetary-policy answer |
+| Economy 05 - Banking Structure, NBFCs and Financial Regulation | Guided learning session completed; PYQ verification completed; timed Mains answer, notes and revisions pending | 2026-09-17 | Day-1 recall and one integrated banking-regulation answer |
+| Economy 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | Guided learning session completed; PYQ synthesis completed; timed Mains answer, notes and revisions pending | 2026-09-20 | Day-1 recall and one integrated NPA-resolution answer |
 | Internal Security 01-12 | Complete subject read from the book | 2026-09-07 | Schedule subject-wide revision |
 | Indian Religion - Notions of God | Completed | 2026-08-24 | Schedule revision |
 | Newspaper | Completed for recorded study cycle | 2026-08-24 | Continue daily reading |
@@ -56,9 +62,14 @@
 | Indian Philosophy | Buddhism | In progress | 2026-09-02 | 0 |  | Complete Hīnayāna-Mahāyāna supplement |
 | Indian Philosophy | Nyaya-Vaisesika | Completed | 2026-09-09 | 0 |  | Revision 1 |
 | Indian Philosophy | Samkhya | In progress - learning session complete | 2026-09-11 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
+| Indian Philosophy | Yoga | In progress - learning session and Revision 1 complete | 2026-09-14 | 1 | 4 | Revision 2, routed PYQ and one timed Mains answer |
+| Indian Philosophy | Mimamsa | In progress - restarted learning session complete | 2026-09-21 | 0 | 3 | Day-1 recall, targeted remediation, routed PYQ and one Mains answer |
 | Economy | 01 - National Income: GDP, GVA, GNP, NDP and Measurement | In progress - learning session complete | 2026-09-09 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
 | Economy | 02 - Growth, Development, HDI, IHDI and MPI | In progress - learning session complete | 2026-09-10 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
 | Economy | 03 - Inflation, Price Indices and Business Cycles | In progress - learning session complete | 2026-09-11 | 0 | 4 | Day-1 recall and timed 2024 food-inflation Mains answer |
+| Economy | 04 - RBI, Monetary Policy and Liquidity Management | In progress - learning session complete | 2026-09-13 | 0 | 3 | Day-1 recall and one timed Mains answer on policy transmission |
+| Economy | 05 - Banking Structure, NBFCs and Financial Regulation | In progress - learning session complete | 2026-09-17 | 0 | 4 | Day-1 recall and one timed answer on specialised credit and systemic risk |
+| Economy | 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | In progress - learning session complete | 2026-09-20 | 0 | 4 | Day-1 recall and one timed answer on NPA resolution and responsible inclusion |
 | Internal Security | 01 - Internal Security Foundations and Governance | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
 | Internal Security | 02 - Terrorism and Counter-Terror Architecture | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
 | Internal Security | 03 - Left-Wing Extremism and Integrated Response | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
@@ -85,6 +96,13 @@
 | 2026-09-10 | Economy 02 guided-session mastery checks | 18 | 15 | 3 | 83.3% | Completed | Yes |
 | 2026-09-10 to 2026-09-11 | Samkhya guided-session mastery checks | 28 | 21 | 7 | 75.0% | Completed | Yes |
 | 2026-09-11 | Economy 03 guided-session mastery checks | 21 | 18 | 3 | 85.7% | Completed | Yes |
+| 2026-09-12 to 2026-09-13 | Yoga guided-session mastery checks | 22 | 19 | 3 | 86.4% | Completed | Yes |
+| 2026-09-13 | Economy 04 guided-session mastery checks | 34 | 24 | 10 | 70.6% | Completed; one ambiguous item excluded | Yes |
+| 2026-09-14 | Yoga Day-1 revision checks | 14 | 11 | 3 | 78.6% | Completed | Yes |
+| 2026-09-14 | Mimamsa guided-session mastery checks | 31 | 26 | 5 | 83.9% | Completed | Yes |
+| 2026-09-17 | Economy 05 guided-session mastery checks | 29 | 26 | 3 | 89.7% | Completed; phantom out-of-sequence item excluded | Yes |
+| 2026-09-17 to 2026-09-20 | Economy 06 guided-session mastery checks | 30 | 24 | 6 | 80.0% | Completed | Yes |
+| 2026-09-20 to 2026-09-21 | Mimamsa restarted guided-session mastery checks | 55 | 34 | 21 | 61.8% | Completed; full restart from the beginning | Yes |
 |  |  |  |  |  |  |  |  |
 
 ### Topic-wise result for completed test
@@ -102,6 +120,13 @@
 | Economy 02 - Growth, Development, HDI, IHDI and MPI | 15/18 | 83.3% | Medium - revise capability versus functioning and MPI incidence versus intensity |
 | Samkhya | 21/28 | 75.0% | High - revise cognition roles, subtle body versus Purusa, causation proofs and the contact problem |
 | Economy 03 - Inflation, Price Indices and Business Cycles | 18/21 | 85.7% | Medium - revise output gaps and first- versus second-round effects |
+| Yoga | 19/22 | 86.4% | Medium - revise Purusa versus citta, pratiprasava for one Purusa and residual embodiment versus fresh karma |
+| Economy 04 - RBI, Monetary Policy and Liquidity Management | 24/34 | 70.6% | High - revise VRR/VRRR versus OMO directions, reserve money versus SLR, OMO asset swaps and RBI income |
+| Yoga Day-1 revision | 11/14 | 78.6% | Medium - reinforce reflected consciousness, Isvara as Purusa-visesa and kaivalya as isolation |
+| Mimamsa - earlier guided cycle | 26/31 | 83.9% | Superseded by the learner-requested full restart |
+| Economy 05 - Banking Structure, NBFCs and Financial Regulation | 26/29 | 89.7% | Medium - reinforce differentiated-bank lending powers, PSLC risk retention and scale-layer thresholds |
+| Economy 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | 24/30 | 80.0% | Medium - reinforce CCB versus liquidity buffers, LCR versus NSFR, ARC/NARCL structures and FI-Index dimensions |
+| Mimamsa - restarted session | 34/55 | 61.8% | High - revise arthapatti, sentence meaning, apurva versus moksha and Bhatta-Prabhakara doctrine matching |
 
 ## Revision Tracker
 
@@ -121,9 +146,14 @@
 | Jainism | 2026-08-31 |  |  |  |  |  |
 | Nyaya-Vaisesika | 2026-09-09 |  |  |  |  |  |
 | Samkhya | 2026-09-11 |  |  |  |  | 2026-09-12 |
+| Yoga | 2026-09-13 | 2026-09-14 |  |  | 11/14 | 2026-09-16 |
+| Mimamsa | 2026-09-14 |  |  |  | 34/55 | 2026-09-22 |
 | Economy 01 - National Income | 2026-09-09 |  |  |  |  | 2026-09-10 |
 | Economy 02 - Growth, Development, HDI, IHDI and MPI | 2026-09-10 |  |  |  |  | 2026-09-11 |
 | Economy 03 - Inflation, Price Indices and Business Cycles | 2026-09-11 |  |  |  |  | 2026-09-12 |
+| Economy 04 - RBI, Monetary Policy and Liquidity Management | 2026-09-13 |  |  |  |  | 2026-09-14 |
+| Economy 05 - Banking Structure, NBFCs and Financial Regulation | 2026-09-17 |  |  |  |  | 2026-09-18 |
+| Economy 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | 2026-09-20 |  |  |  |  | 2026-09-21 |
 | Internal Security Foundations and Governance | 2026-09-07 |  |  |  |  |  |
 | Terrorism and Counter-Terror Architecture | 2026-09-07 |  |  |  |  |  |
 | Left-Wing Extremism and Integrated Response | 2026-09-07 |  |  |  |  |  |
@@ -192,9 +222,14 @@
 - [ ] Schedule Revision 1 for Jainism.
 - [ ] Schedule Revision 1 for Nyaya-Vaisesika, prioritising pramana distinctions and sense-object relations.
 - [ ] Complete Samkhya Day-1 recall, routed PYQ, one Mains answer and notes update; revise cognition roles, subtle body versus Purusa, causation proofs and the Purusa-Prakriti contact problem.
+- [ ] Complete Yoga Revision 2, one routed PYQ, one timed Mains answer and notes update; reinforce reflected consciousness, Isvara as Purusa-visesa and kaivalya as isolation rather than merger.
+- [ ] Complete Mimamsa Day-1 recall, targeted remediation, one routed PYQ, one Mains answer and notes update; prioritise arthapatti, sentence meaning, apurva versus moksha and Bhatta-Prabhakara doctrine matching.
 - [ ] Complete Economy 01 Day-1 recall, routed PYQ, one Mains answer and notes update; revise GDP deflator and production-boundary errors.
 - [ ] Complete Economy 02 Day-1 recall, routed PYQ, one Mains answer and notes update; revise capability versus functioning and MPI incidence versus intensity.
 - [ ] Complete Economy 03 Day-1 recall, timed 2024 food-inflation Mains answer and notes update; revise output gaps and first- versus second-round effects. PPI coverage has been added to both Economy 03 knowledge owners.
+- [ ] Complete Economy 04 Day-1 recall, one timed Mains answer and notes update; revise VRR/VRRR versus OMO directions, reserve money versus SLR, OMO asset swaps versus capital and RBI income versus currency liabilities.
+- [ ] Complete Economy 05 Day-1 recall, one timed Mains answer and notes update; revise Payments Bank lending limits, PSLC risk retention and the distinction between the Middle-Layer threshold and exceptional Top-Layer classification.
+- [ ] Complete Economy 06 Day-1 recall, one timed Mains answer and notes update; revise CCB versus CRR/liquidity buffers, LCR versus NSFR, ARC/NARCL structures, FI-Index dimensions and personal versus corporate insolvency.
 - [ ] Complete the Buddhism Hīnayāna-Mahāyāna school-tradition supplement.
 - [ ] Schedule Revision 1 for the complete Internal Security syllabus (01-12).
 - [ ] Schedule Revision 1 for Indian Religion - Notions of God.
@@ -211,4 +246,11 @@
 | 2026-09-10 |  | Economy 02 guided learning session (7/7 subtopics) | 15/18 (83.3%) | Capability versus functioning; MPI incidence versus intensity and denominator clarified | Day-1 closed-book recall and one routed PYQ |
 | 2026-09-10 to 2026-09-11 |  | Samkhya complete guided session (9/9 subtopics) | 21/28 (75.0%) | Revise mind-ego-intellect-Purusa roles, subtle-body transmigration, causation proofs and interaction problem | Day-1 closed-book recall and one routed PYQ |
 | 2026-09-11 |  | Economy 03 guided learning session (9/9 subtopics); PPI transition added to Basic and Advanced knowledge owners | 18/21 (85.7%) | Revise output-gap diagnosis and first- versus second-round effects; PPI replaces WPI gradually, not CPI | Day-1 closed-book recall and timed 2024 food-inflation PYQ |
+| 2026-09-12 to 2026-09-13 |  | Yoga complete guided learning session (9/9 subtopics; unscored calibration excluded) | 19/22 (86.4%) | Revise Purusa versus citta; Prakriti continues for other Purusas after one attains kaivalya; residual embodiment does not create fresh binding karma | Day-1 closed-book recall and one routed timed PYQ |
+| 2026-09-13 |  | Economy 04 complete guided learning session (9/9 subtopics; one ambiguous sequencing item excluded) | 24/34 (70.6%) | Revise temporary versus durable injection/absorption, reserve money versus SLR, OMO asset swaps and RBI surplus treatment | Day-1 closed-book recall and one timed policy-transmission answer |
+| 2026-09-14 |  | Yoga Day-1 revision completed across five rounds | 11/14 (78.6%) | Reinforce citta as reflecting consciousness, Isvara as Purusa-visesa and kaivalya as isolation | Revision 2 and one routed timed PYQ |
+| 2026-09-14 |  | Mimamsa complete guided learning session (12/12 subtopics) | 26/31 (83.9%) | Revise Bhatta-Prabhakara error, cognition and sentence-meaning distinctions and rival-school comparisons | Day-1 closed-book recall and one routed PYQ |
+| 2026-09-17 |  | Economy 05 complete guided learning session (12/12 subtopics; phantom out-of-sequence item excluded); 2026 NBFC/DICGC PYQ verified | 26/29 (89.7%) | Revise Payments Bank lending powers, PSLC risk retention and NBFC scale-layer thresholds | Day-1 closed-book recall and one timed banking-regulation answer |
+| 2026-09-17 to 2026-09-20 |  | Economy 06 complete guided learning session (12/12 subtopics); NPA, Basel, resolution and inclusion PYQs synthesised | 24/30 (80.0%) | Gross versus net NPA, CET1 versus AT1, CCB versus CRR, secured recovery and the individual-insolvency policy gap clarified; revise LCR/NSFR, ARC/NARCL and FI-Index | Day-1 closed-book recall and one timed NPA-resolution answer |
+| 2026-09-20 to 2026-09-21 |  | Mimamsa restarted complete guided learning session (12/12 subtopics), including corrected apaurusheyatva and transmission treatment | 34/55 (61.8%) | Prioritise arthapatti, sentence meaning, apurva versus moksha and Bhatta-Prabhakara doctrine matching | Day-1 closed-book recall and targeted remediation |
 |  |  |  |  |  |  |

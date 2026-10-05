@@ -1,0 +1,52 @@
+{
+  "topic_key": "indian-society-06",
+  "title": "Population and Associated Issues",
+  "status": "complete_for_original_banks",
+  "revisions": {
+    "1": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "A": 12,
+        "B": 12,
+        "D": 12,
+        "C": 12
+      },
+      "findings": []
+    },
+    "2": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "D": 12,
+        "A": 12,
+        "B": 12,
+        "C": 12
+      },
+      "findings": []
+    },
+    "3": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "A": 12,
+        "B": 12,
+        "D": 12,
+        "C": 12
+      },
+      "findings": []
+    }
+  },
+  "coverage_roots": 48,
+  "pyqs_included": 0,
+  "exact_pyq_status": "held_for_provenance_and_reproduction_rights",
+  "learner_blind_review": "pending",
+  "source_order": [
+    "upsc-ai-kit/knowledge/Indian-Society/basic/06_Population-and-Associated-Issues.md",
+    "upsc-ai-kit/knowledge/Indian-Society/advanced/06_Population-and-Associated-Issues.md",
+    "upsc-ai-kit/knowledge/Indian-Society/06_Population-and-Associated-Issues_Learner-V2-Complete-Topic-Package.md",
+    "National Population Policy, 2000 (MoHFW)",
+    "NFHS-5/NFHS-6 national fact-sheet boundaries",
+    "Census 2011 and SRS data boundaries"
+  ]
+}

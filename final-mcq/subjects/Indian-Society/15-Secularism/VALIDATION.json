@@ -1,0 +1,52 @@
+{
+  "topic": "15 \u2014 Secularism",
+  "status": "complete for original banks",
+  "question_counts": {
+    "revision-1": 42,
+    "revision-2": 42,
+    "revision-3": 42,
+    "total": 126
+  },
+  "roots": 42,
+  "root_coverage": {
+    "revision-1": "42/42",
+    "revision-2": "42/42",
+    "revision-3": "42/42"
+  },
+  "key_counts": {
+    "revision-1": {
+      "B": 11,
+      "D": 10,
+      "A": 11,
+      "C": 10
+    },
+    "revision-2": {
+      "D": 10,
+      "A": 11,
+      "C": 10,
+      "B": 11
+    },
+    "revision-3": {
+      "D": 10,
+      "A": 11,
+      "C": 10,
+      "B": 11
+    }
+  },
+  "audits": {
+    "structural": "PASS",
+    "option_balance": "PASS",
+    "leakage": "PASS",
+    "distinctness": "PASS",
+    "source_date": "PASS",
+    "hostile": "PASS",
+    "institutional_fact": "PASS"
+  },
+  "holds": [
+    "0 exact objective Prelims PYQs released; provenance and reproduction rights unresolved",
+    "2018/2019/2022 Mains demands concept-tested without exact wording",
+    "2026 Uttarakhand amendment reported as ordinance; no Amendment Act asserted",
+    "Places of Worship Act litigation status requires dated official Court record",
+    "Independent answer-blind learner review pending"
+  ]
+}

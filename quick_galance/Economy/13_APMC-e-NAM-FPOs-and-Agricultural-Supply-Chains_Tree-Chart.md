@@ -24,8 +24,10 @@ FARMGATE -> PRIMARY ASSEMBLY -> ASSAY / GRADE -> BID
 
 ## 2. APMC DECODED
 
-- **APMC:** Agricultural Produce Market Committee under applicable **State** marketing law; State List Entry 14 covers agriculture and Entry 28 covers markets and fairs.
-- Read: notified produce -> notified area -> principal/sub-yard -> trader licence -> fee/commission -> auction/payment/dispute.
+- **APMC:** Agricultural Produce Market Committee under applicable **State** marketing law; State List Entry 14
+   covers agriculture and Entry 28 covers markets and fairs.
+- Read: notified produce -> notified area -> principal/sub-yard -> trader licence -> fee/commission ->
+   auction/payment/dispute.
 - Merits: common venue, weighment, records, infrastructure and basic oversight.
 - Risks: entry barriers, territorial fragmentation, opaque charges, congestion, cartel or monopsony conditions.
 - Market committee != market area != market yard.
@@ -35,22 +37,27 @@ FARMGATE -> PRIMARY ASSEMBLY -> ASSAY / GRADE -> BID
 
 | Instrument | Core reform | Legal status |
 |---|---|---|
-| Model APMC Act, 2003 | Private markets, direct purchase, farmer-consumer markets, contract farming | Union template for State adaptation |
-| Model APLM Act, 2017 | Unified State market, e-trading, unified licence, rationalised fee, wider market places | Model, not binding national Act |
-| Model Contract Farming Act, 2018 | Written agreement, price/quality/service/payment/dispute and land safeguard | Model for State/UT legislation |
+| Model APMC Act, 2003 | Private markets, direct purchase, farmer-consumer markets, contract farming | Union
+   template for State adaptation |
+| Model APLM Act, 2017 | Unified State market, e-trading, unified licence, rationalised fee, wider market places
+   | Model, not binding national Act |
+| Model Contract Farming Act, 2018 | Written agreement, price/quality/service/payment/dispute and land safeguard
+   | Model for State/UT legislation |
 
 `MODEL -> STATE ACT -> RULE / NOTIFICATION -> CAPACITY -> OUTCOME`
 
 ## 4. 2020 FARM LAWS AND REPEAL
 
-- Three central farm laws were enacted in **2020**: outside-APMC trade, price-assurance agreements and Essential Commodities amendment.
+- Three central farm laws were enacted in **2020**: outside-APMC trade, price-assurance agreements and Essential
+   Commodities amendment.
 - All three were repealed by the **Farm Laws Repeal Act, 2021 (Act 40 of 2021)** on **30 November 2021**.
 - Repeal did not repeal State APMC laws, e-NAM or earlier model Acts.
 
 ## 5. e-NAM
 
 - **National Agriculture Market:** public electronic trading platform launched **14 April 2016**.
-- **Operator:** Small Farmers' Agri-Business Consortium (**SFAC**) with Agriculture Ministry support; participating mandis remain within State frameworks.
+- **Operator:** Small Farmers' Agri-Business Consortium (**SFAC**) with Agriculture Ministry support;
+   participating mandis remain within State frameworks.
 - PIB backgrounder **13 April 2026**, status by March 2026:
 
 | Integrated mandis | Geography | Commodities | Registered participation |
@@ -77,21 +84,28 @@ FINANCIAL INTEROPERABILITY = payment + reconciliation + warehouse finance
 - Scale route: pooled inputs + aggregated output + shared assay/storage/logistics + bulk buyer.
 - Governance tests: active members, board accountability, audit, professional management, equity and fair benefit.
 - Risks: side-selling, mixed quality, weak working capital, inventory loss, buyer default and elite capture.
-- Central Sector Scheme: launched **29 February 2020**; 10,000 target reported achieved **28 February 2025**; Rs **6,865 crore** outlay through **2027-28**. SFAC, NABARD, NCDC and other notified implementing agencies work through **CBBOs** (Cluster-Based Business Organisations).
+- Central Sector Scheme: launched **29 February 2020**; 10,000 target reported achieved **28 February 2025**; Rs
+   **6,865 crore** outlay through **2027-28**. SFAC, NABARD, NCDC and other notified implementing agencies work
+   through **CBBOs** (Cluster-Based Business Organisations).
 - Formation != active trade != profitability != member benefit.
 
 ## 7. CONTRACTS AND ALTERNATIVE CHANNELS
 
-- Contract farming: price/formula, quality test, quantity, services, delivery, payment, force majeure and dispute route.
+- Contract farming: price/formula, quality test, quantity, services, delivery, payment, force majeure and
+   dispute route.
 - Direct purchase/private market: alternative regulated channels where State law permits.
-- Supermarket sourcing replaces commission-agent layers with retailer aggregation, grading and logistics; functions do not vanish.
+- Supermarket sourcing replaces commission-agent layers with retailer aggregation, grading and logistics;
+   functions do not vanish.
 - Choice without buyer competition can create private monopsony.
 
 ## 8. WDRA AND e-NWR
 
-- **WDRA:** Warehousing Development and Regulatory Authority under the Warehousing (Development and Regulation) Act, 2007.
+- **WDRA:** Warehousing Development and Regulatory Authority under the Warehousing (Development and Regulation)
+   Act, 2007.
 - **e-NWR:** electronic negotiable warehouse receipt for goods in a WDRA-registered warehouse.
-- Mandatory electronic issuance from **1 June 2019** through recognised repositories: **National E-Repository Limited (NeRL)** and **Countrywide Commodity Repository Limited (CCRL)**, formerly CDSL Commodity Repository Limited.
+- Mandatory electronic issuance from **1 June 2019** through recognised repositories: **National E-Repository
+   Limited (NeRL)** and **Countrywide Commodity Repository Limited (CCRL)**, formerly CDSL Commodity Repository
+   Limited.
 - Receipt may be pledged or transferred; it does not guarantee credit, quality forever or a future price.
 
 ## 9. SUPPLY-CHAIN REFORM
@@ -101,7 +115,8 @@ FINANCIAL INTEROPERABILITY = payment + reconciliation + warehouse finance
 - Post-harvest loss may be quantity, quality or value loss; never quote one undated universal percentage.
 - Cold-chain continuity supports perishables; detailed cold-chain scheme architecture belongs to Topic 15.
 - Exports need standards, traceability, consistency, logistics and balanced contracts.
-- State market authorities design mandi architecture; CCI addresses anti-competitive conduct under the Competition Act where applicable.
+- State market authorities design mandi architecture; CCI addresses anti-competitive conduct under the
+   Competition Act where applicable.
 
 ## 10. PRELIMS TRAPS
 
@@ -130,4 +145,5 @@ APPLICABLE STATE LAW
  -> FAST DISPUTE REMEDY
 ```
 
-**Boundary:** MSP/procurement -> Topic 12; production credit/insurance -> Topic 14; detailed cold-chain/processing -> Topic 15.
+**Boundary:** MSP/procurement -> Topic 12; production credit/insurance -> Topic 14; detailed
+   cold-chain/processing -> Topic 15.

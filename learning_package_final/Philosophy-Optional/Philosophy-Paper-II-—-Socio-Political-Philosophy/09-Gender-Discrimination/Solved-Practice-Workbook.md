@@ -15,105 +15,374 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 12 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Baseline diagnostic MCQs | 32 |
+| Question-specific option explanations (all MCQs) | 132 |
+| Examiner traps (all MCQs) | 33 |
+| Supplementary 2026 conceptual MCQs (four option explanations and a trap) | 1 |
+| Total MCQs (baseline plus coverage-driven supplements; not a quota) | 33 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 13 |
+| Original solved Mains models — six baseline plus targeted syllabus-gap practice | 8 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so that the answer cannot be spotted by shape.
+1. Attempt all diagnostic and supplementary MCQs without notes; read every option explanation after attempting the question.
 2. Work the eight remedial drills only after the core set. They target an enacted amendment read as delivered empowerment, a conversion stem answered as an existence stem, empowerment measured by preconditions or by outcomes, the availability of alternatives ignored, a derived modal verdict presented as a hedge, the capability standard applied prescriptively, care ethics deployed without its essentialism objection, and the three dimensions of a complete remedy collapsed into one another.
 3. Attempt each previous-year part under time before reading its solution. **Decide the stem's contest first**: three of the twelve owned parts are constitution stems, two are conversion stems, three are valuation stems and four are agency stems. ⚠️ Not one of the twelve asks for a history of the women's movement or a survey of feminist thinkers.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 to 220 words, 15 marks about 250 to 330, 20 marks about 330 to 400**.
+4. Write all eight original models, including the targeted syllabus-gap questions; prioritise directive, argument and evidence rather than a preset length limit. The number of practice models follows coverage, not a marks quota.
 5. Check every answer against the twenty-three traps: sex called "purely natural" and gender "purely artificial"; inequality inferred from biological difference; foeticide equated with every abortion; technology blamed alone; women justified by social utility or demographic balance; legal title equated with effective control; the 2005 amendment read as delivered empowerment; empowerment treated as confidence training; the 2023 amendment described as fully implemented reservation; statutes and programmes used as philosophical proof; performativity presented as the standard sex/gender distinction; Marxist and socialist feminism conflated; the Kabeer and Agarwal frameworks left unattributed; empowerment measured by resources or outcomes alone; care ethics used without the essentialism objection; the sexual contract presented as a historical event; the 2005 amendment or *Vineeta Sharma* overstated; women treated as a homogeneous class; anatomy, dress or role used as a proxy for identity; the sameness/difference dilemma resolved by slogan; redistribution, recognition and representation collapsed; structural responsibility confused with collective guilt; and Friedan, Firestone, psychoanalytic feminism or ecofeminism imported as a generic list.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+**Count rationale (33; not a fixed target):** The baseline tests construction/performative gender, structural responsibility, son preference and sex selection, property rights versus effective control, care and empowerment. The opening case now demands applying all three syllabus applications; the 2026 supplement isolates property rights as necessary at institutional scale but insufficient for effective equality. Thirteen primary-owned PYQs and eight original Mains models provide extended dispute and remedies. The set mixes gateway and hard questions rather than asserting that every item has the same difficulty.
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. The set contains exactly eight of each letter, no letter repeats consecutively, no four consecutive answers ascend or descend through the alphabet, and no two-letter alternation is allowed to run. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+### Baseline MCQs — core diagnostics and remedial error-targeting drills
+
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Gender Discrimination: Female Foeticide, Land and Property Rights; Empowerment* — together with the four contests and the five-level conversion ladder, the sex/gender distinction as a claim about an inference, Beauvoir's constitution of woman as the Other with immanence and transcendence, gender as a cultural category and the six embodiment channels, Butler's performativity with the category-stability exchange, the five-column separation and trans-inclusive conceptual care, the five-link discrimination mechanism and its self-confirming loop, the six feminist diagnoses with the bounded thinker map, the Marxist/socialist/radical dispute about whether patriarchy is derivative, autonomous or primary, structural injustice with the blame/responsibility split, Pateman and Okin on the public/private boundary, the three conceptions of equality with the sameness/difference dilemma, the four-way separation and causal architecture of female foeticide, the five-step moral argument with the consequentialist trap, Agarwal's ownership–control–benefit levels, and the classified Indian legal record. The eight remedial drills attack the errors that cost marks every year on this clause: reading an enacted amendment as delivered empowerment, answering a conversion stem as an existence stem, measuring empowerment by resources or outcomes, ignoring the availability of alternatives, presenting a derived modal verdict as a hedge, applying the capability standard prescriptively, deploying care ethics without its essentialism objection, and collapsing redistribution, recognition and representation into one another.
 
-#### MCQ 1. What the printed clause actually owns
+#### MCQ 1. Valuation, control and effective agency
 
-A script opens a fifteen-mark answer on this clause by writing that female foeticide, land rights and empowerment are "three major issues facing women today, which will be discussed in turn". On the account developed in this package, what has that opening cost the answer?
+A family celebrates a girl's birth, registers inherited farmland jointly in her name as an adult, but prevents her from choosing how to cultivate or lease it. What does this case establish about the relation among female foeticide, land rights and empowerment?
 
-A. It has cost nothing analytically, because the paper does print three applications alongside the heading, and an answer that treats them in sequence has followed the structure the examiner supplied.
-
-B. It has cost the script its evidence base, because each of the three applications is documented by a different body of official data and the answer must follow the categories those bodies use.
-
-C. It has cost the script its Indian material, because the three applications are ordinarily illustrated through statutes and programmes that a thematic treatment would have no natural place for.
-
-D. It has cost the script the relation between the heading and the applications, because the three are tests of one concept at three moments — valuation, control and authorship — and treating them as issues loses the argument.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: sequence is not structure. The paper prints three applications because each tests the central concept at a different point in a life, and an answer that merely visits them in order has supplied an itinerary rather than an argument.
-- **B:** Incorrect: the clause requires no data at all, and this package names no ratio, count or survey; the categories in question are philosophical rather than statistical.
-- **C:** Incorrect: Indian instruments belong in the answer as classified illustrations and can be attached to a thematic treatment as easily as to a sequential one, so nothing about them is lost.
-- **D:** Correct: the applications test whether hierarchy reaches the valuation of life, whether entitlement becomes control, and whether a life is authored by the person living it — a single argument at three moments.
-
-**Examiner trap 1:** Treating the three printed applications as three separate topics to be revised independently is the commonest structural failure here, because it makes the connection between foeticide, property and empowerment unavailable exactly when a stem such as the 2024 part demands both halves at once.
+A. The case passes the valuation test but not the control-and-agency test: title may improve bargaining power without guaranteeing authorship of important choices.
+B. The absence of sex selection and the joint title together establish empowerment; further restrictions are private preferences outside justice.
+C. Recognition of equal worth at birth is sufficient for equal control of property, even if family decisions remain male-dominated.
+D. Joint title is irrelevant to equality unless every woman personally directs every agricultural decision, regardless of shared ownership.
 
 #### MCQ 2. What the sex/gender distinction claims
 
 Which formulation states what the sex/gender distinction actually asserts, as opposed to what it is popularly taken to assert?
 
-A. That bodily characteristics belong to nature while roles belong to culture, so that the two occupy separate domains and can be studied by separate disciplines without overlap.
-
-B. That gender identity is a matter of individual self-description, so that social roles have no authority over how a person understands or presents themselves in public life.
-
-C. That bodily and reproductive difference does not entail social role, authority or property, so the inference from body to hierarchy requires a justification that is never supplied.
-
-D. That biological variation is more complex than a binary, so any social system built on two categories is descriptively inaccurate and must be replaced for that reason alone.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: this is the two-essence reading, which replaces one crude essence with two and denies the interaction between embodiment and interpretation that the distinction was constructed to notice.
-- **B:** Incorrect: the distinction concerns the justification of social allocations rather than self-description, and this reading also collapses into the voluntarism the doctrine explicitly rejects.
-- **C:** Correct: the distinction is a claim about a missing inferential step, and every essentialist argument moves from a fact about bodies to a conclusion about power without supplying that step.
-- **D:** Incorrect: the complexity of biological variation is a compulsory qualification attached to the term "sex", but the argument of the distinction is normative rather than descriptive.
-
-**Examiner trap 2:** Writing "sex is natural, gender is artificial" as though it were the doctrine forfeits the interaction qualification that examiners specifically look for on the 2022 stem, because it makes the answer unable to explain how something described as cultural becomes so difficult to escape.
+A. That gender identity is a matter of individual self-description, so that social roles have no authority over how a person understands or presents themselves in public life.
+B. That bodily and reproductive difference does not entail social role, authority or property, so the inference from body to hierarchy requires a justification that is never supplied.
+C. That biological variation is more complex than a binary, so any social system built on two categories is descriptively inaccurate and must be replaced for that reason alone.
+D. That bodily characteristics belong to nature while roles belong to culture, so that the two occupy separate domains and can be studied by separate disciplines without overlap.
 
 #### MCQ 3. Construction and strength
 
 Why does this owner insist on comparing gender with money, citizenship and caste?
 
-A. Because those three categories are governed by written rules, which shows that gender too could be reformed by legislation if the political will to do so were present.
-
-B. Because all three are socially constructed and all three exercise real enforceable power, which shows that construction is a claim about origin rather than about strength.
-
-C. Because all three vary across societies, which shows that no universal account of gender hierarchy can be given and every analysis must remain strictly local.
-
-D. Because all three are studied by disciplines outside philosophy, which shows that a philosophical treatment of gender must borrow its evidence from those disciplines.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: two of the three comparisons work precisely because they are not reducible to written rules, and the argument concerns the force of constructed categories rather than the reach of legislation.
-- **B:** Correct: the comparison closes the unreality objection in one sentence by separating the question of where a category came from from the question of how much power it exercises.
-- **C:** Incorrect: variation is used elsewhere to defeat the inference from constancy to nature; it is not the point of this comparison, and the owner does not endorse a purely local analysis.
-- **D:** Incorrect: the comparison is analytical rather than methodological, and this clause is deliberately constructed so that no external dataset is required.
-
-**Examiner trap 3:** Treating "socially constructed" as equivalent to "imaginary" or "voluntary" is the mirror of the essentialist error, and it is answered fastest by the three parallel cases rather than by an abstract defence of constructionism.
+A. Because all three are studied by disciplines outside philosophy, which shows that a philosophical treatment of gender must borrow its evidence from those disciplines.
+B. Because those three categories are governed by written rules, which shows that gender too could be reformed by legislation if the political will to do so were present.
+C. Because all three are socially constructed and all three exercise real enforceable power, which shows that construction is a claim about origin rather than about strength.
+D. Because all three vary across societies, which shows that no universal account of gender hierarchy can be given and every analysis must remain strictly local.
 
 #### MCQ 4. What Beauvoir's formulation denies
 
 A candidate writes that Beauvoir's claim that one becomes a woman means that gender is chosen rather than given. What has gone wrong?
 
 A. Nothing has gone wrong, since the formulation does locate femininity in becoming rather than in birth, and the candidate has expressed that in ordinary and readily intelligible language.
-
 B. The error is chronological, since the formulation belongs to a period before the sex/gender distinction had been articulated and cannot be read through vocabulary developed after it.
-
 C. The error is one of scope, since the formulation concerns adult social roles rather than childhood, and the candidate has extended it to a period the argument was not addressing.
-
 D. The error is that a situation is not a decision: the formulation locates femininity in conditions a person is placed within and lives out, not in an identity selected from available options.
+
+#### MCQ 5. Immanence and transcendence
+
+Which statement gives the defensible form of Beauvoir's contrast between immanence and transcendence?
+
+A. The inequality lies in the assignment rather than in the capacity: transcendence is systematically directed away from one term of the pair, not absent from the persons occupying it.
+B. Domestic labour is a lower form of activity than work performed in the world, which is why its allocation to one group constitutes a serious and continuing injustice.
+C. Transcendence requires material independence, so the contrast reduces to a claim about property and can be restated without any existential vocabulary at all.
+D. Women are oriented towards maintenance and repetition while men are oriented towards projects, which explains the different kinds of work the two groups have historically performed.
+
+#### MCQ 6. Which channel explains compulsion
+
+Among the channels through which a cultural category is embodied, which one answers the sceptic who asks why a woman cannot simply ignore a norm that is "only" social?
+
+A. Family — the allocation of food, education, inheritance and mobility — because the earliest allocations are the ones that shape a person's expectations most durably.
+B. Sanction — ridicule, shame, exclusion, coercion and violence against those who depart from an assigned role — because cost is what converts a norm from a description into a constraint.
+C. Language — the unmarked default, kinship terms and the vocabulary available for women's authority — because a category that cannot be articulated cannot be effectively resisted.
+D. Media — the repertoire of imaginable lives and the depiction of who decides and who serves — because a norm survives only while alternatives to it remain unimaginable.
+
+#### MCQ 7. What Butler's thesis contests
+
+On the account taught here, what is the relation between Butler's performativity thesis and the standard sex/gender distinction?
+
+A. Performativity abandons the standard distinction in favour of a biological account, since it locates gender in bodily comportment, gesture, gait and dress rather than in social norms.
+B. Performativity restates the standard distinction in a more technical vocabulary drawn from later theory, so the two positions can be used interchangeably in a cultural-category answer.
+C. Performativity contests the standard distinction, since the categories through which bodies are read as sexed are themselves produced within a gendered discourse rather than met before it.
+D. Performativity presupposes the standard distinction and extends it to identity, so a candidate must first establish the distinction and then add performativity as a refinement of it.
+
+#### MCQ 8. Performative and performance
+
+Why is it a serious error to read "performative" as "performance"?
+
+A. Because performance suggests insincerity, and the thesis makes no claim at all about whether a person's presentation of gender is authentic or assumed.
+B. Because performance implies an audience, and the thesis is concerned with the private formation of identity rather than with how a person is perceived by others.
+C. Because performance is a term from aesthetics, and importing aesthetic vocabulary into political philosophy blurs the boundary between description and evaluation.
+D. Because performativity is compelled reiteration inside a normative order, and the compulsion is what explains why the arrangement is difficult rather than easy to escape.
+
+#### MCQ 9. The exchange that must accompany Butler
+
+What is the correct treatment of the category-stability objection to anti-essentialism?
+
+A. The objection is answered by strategic essentialism, but the reply carries a residue — categories adopted for leverage harden into descriptions — so the exchange must be presented as live.
+B. The objection fails, because anti-discrimination law already operates with constructed categories and the practice of law settles the philosophical question it appears to raise.
+C. The objection is misconceived, since feminism has never required a determinate subject and its claims have always been addressed to institutions rather than made on behalf of a group.
+D. The objection succeeds, so feminism must retreat to the standard sex/gender distinction and treat performativity as an interesting but politically unusable theoretical development.
+
+#### MCQ 10. The five-column separation
+
+What is the analytical purpose of separating bodily sex characteristics, assigned classification, gender identity, gender expression and social role?
+
+A. It shows that discrimination operates only through assigned classification, since that is the column at which institutions record and act upon a person's category.
+B. It prevents a single binary label from doing five different jobs, and it supplies the rule that no claim about identity may be inferred from anatomy, dress or role.
+C. It establishes that gender identity is the most important of the five, since the other four are external classifications imposed by institutions and by other people.
+D. It replaces the sex/gender distinction with a more accurate five-part scheme, since two categories were never sufficient to describe the phenomena in question.
+
+#### MCQ 11. The self-confirming loop
+
+Why does this owner insist that the discrimination mechanism closes into a loop rather than ending at an outcome?
+
+A. Because the loop shows that the mechanism operates over generations, which is what distinguishes structural discrimination from a temporary distortion of an otherwise fair system.
+B. Because the loop identifies the point at which individual prejudice enters the chain, which is where remedies aimed at attitudes can most effectively be applied.
+C. Because the outcome is then cited as evidence that the original norm was correct, so the arrangement manufactures its own justification and an appeal to observed facts settles nothing.
+D. Because the loop demonstrates that the mechanism is self-correcting over time, so that reforms at any single link will eventually propagate through all of the others.
+
+#### MCQ 12. What the allocation link distributes
+
+On the account taught here, why is female foeticide treated as part of the discrimination mechanism rather than as a separate topic?
+
+A. Because it is regulated by a dedicated statute, which places it within the same institutional framework as inheritance and representation and therefore within the same analysis.
+B. Because it is the application most frequently examined in the corpus, and the mechanism is organised around whichever application the previous-year record emphasises.
+C. Because it involves technology, and the mechanism's institutional link is where technological instruments enter and are distributed within a social order.
+D. Because the allocation link distributes food, health, schooling, time, mobility, property, income, safety, authority and — at the limit — continued life itself.
+
+#### MCQ 13. How the diagnoses grid earns marks
+
+What distinguishes a strong use of the six feminist diagnoses from a weak one?
+
+A. The strong use identifies the diagnosis the stem assumes, states its strongest rival, adjudicates the stem's own case, and concedes the winning diagnosis's standard objection.
+B. The strong use selects the approach the candidate finds most persuasive and defends it consistently, since a settled position is what distinguishes philosophy from reportage.
+C. The strong use ranks the approaches by explanatory power, since establishing a general ordering allows the same ranking to be deployed across every owned part.
+D. The strong use covers all six approaches, since a comprehensive survey demonstrates the breadth of preparation that a fifteen-mark answer on this clause is designed to reward.
+
+#### MCQ 14. Derivative or autonomous
+
+What is the substantive disagreement between Marxist and socialist feminism?
+
+A. Whether feminism should be revolutionary or reformist, with Marxist feminism requiring systemic transformation and socialist feminism accepting incremental legislative change.
+B. Whether patriarchy is derivative of class society or an autonomous system, with the second position widening the site of analysis to social reproduction as well as production.
+C. Whether the abolition of private property is desirable, with Marxist feminism supporting it and socialist feminism preferring reform of the existing distribution of assets.
+D. Whether women's oppression is best analysed through class or through culture, with Marxist feminism selecting the first and socialist feminism selecting the second.
+
+#### MCQ 15. The evidence for autonomy
+
+Which observation is advanced as the strongest evidence that patriarchy is not reducible to class relations?
+
+A. That women's subordination takes different forms in different societies, which shows that no single economic cause could produce such variation in its content and expression.
+B. That women have participated in every historical movement for economic transformation, which shows that their subordination is not a product of their exclusion from it.
+C. That male dominance is observable across radically different modes of production and persisted where private property in the means of production was abolished.
+D. That the domestic sphere has never been organised on market principles, which shows that its hierarchies must have a source independent of the organisation of production.
+
+#### MCQ 16. Blame and responsibility
+
+On the social-connection model, what follows from the fact that no single actor designed the gendered outcome?
+
+A. Responsibility attaches to the group that benefits, since the absence of an individual designer means that the advantage itself becomes the ground on which duties are assigned.
+B. Responsibility becomes a matter for institutions alone, since only an institution can act on a process, and individuals within it cannot be said to bear duties towards its outcomes.
+C. Responsibility is unallocable, since duties require identifiable acts and an emergent outcome cannot be traced to the acts of any particular participant in the process.
+D. Responsibility takes a different form rather than disappearing: it is forward-looking, shared, and graded by power, privilege, interest and collective capacity to change the process.
+
+#### MCQ 17. The status of the sexual contract
+
+How should Pateman's sexual-contract thesis be presented?
+
+A. As an interpretive reconstruction of the silences of contract theory, which is why presenting it as a contract that was actually made misrepresents both its method and its claim.
+B. As a normative proposal for how contract theory ought to be rewritten, since its argument is directed at what the tradition should have said rather than at what it did say.
+C. As a historical reconstruction of the arrangements that preceded the modern state, supported by the record of marriage law in the societies in which contract theory was formulated.
+D. As an empirical hypothesis about the origins of the family, to be assessed against the anthropological evidence concerning kinship in pre-state and early-state societies.
+
+#### MCQ 18. Okin's two-part evidence
+
+Which pair states the evidence Okin advances for treating the family as an object of justice?
+
+A. That family law differs across communities, and that the resulting inequality between citizens is itself a violation of the equal treatment a state owes its members.
+B. That the unequal domestic burden restricts access to the primary goods public justice distributes, and that the family is where a sense of justice is first formed or fails to form.
+C. That the family is the oldest human institution, and that its rules have historically been enforced by religious rather than by civil authority in most legal traditions.
+D. That domestic labour is economically productive, and that its exclusion from national accounts understates the contribution women make to the societies they live in.
+
+#### MCQ 19. Why the dilemma is a dilemma
+
+What makes the choice between a sex-neutral rule and an accommodation of difference a genuine dilemma rather than a straightforward decision?
+
+A. Each horn has been adopted somewhere, and comparative evidence shows that outcomes have been broadly similar under both, so the choice between them is largely symbolic.
+B. Each horn is defended by a different feminist tradition, and since no tradition has defeated the other the disagreement has remained unresolved for institutional reasons.
+C. Each horn carries a real risk: the neutral rule may install a male life-pattern as the hidden norm, and the accommodation may essentialise difference and reassign women to traditional roles.
+D. Each horn requires legislation, and legislatures are reluctant to enact measures whose distributive consequences cannot be estimated in advance with reasonable confidence.
+
+#### MCQ 20. The test for differential treatment
+
+Which set of questions operationalises the transformative resolution of the sameness/difference dilemma?
+
+A. Is the difference biological, is the accommodation traditional, and does the measure preserve the family arrangements within which the disadvantage has historically been managed?
+B. Is the measure supported by a majority, is it consistent with existing law, and does it avoid imposing costs on those who are not responsible for the disadvantage it addresses?
+C. Is the disadvantage measurable, is the remedy proportionate to the measurement, and is there an administrative mechanism capable of delivering it without excessive discretion?
+D. Is the burden socially produced, does the measure enlarge standing and capability rather than protect by confining, and is it proportionate and revisable rather than permanent?
+
+#### MCQ 21. The opening separation
+
+Why does every foeticide answer have to begin with a separation?
+
+A. Because four adjacent questions — abortion generally, sex-selective abortion, diagnostic technology and infanticide — raise different philosophical issues, and only the second is owned.
+B. Because the syllabus prints the application before the heading, so the order of exposition must follow the order in which the paper introduces the two terms.
+C. Because the legal treatment of each of the four differs, and an answer that does not distinguish them will misstate the statutory position it is about to cite.
+D. Because the causes of each of the four are distinct, and an answer that merges them will attribute to one application a causal structure belonging to another.
+
+#### MCQ 22. Technology in the causal architecture
+
+What is the correct position of technology in an account of the causes of sex-selective termination?
+
+A. It is irrelevant, since the practice is fully explained by patrilineal inheritance and by the constitution of a daughter as a liability before any instrument is involved.
+B. It is the instrument of a pre-existing bias rather than its origin, which is why the same equipment has entirely legitimate diagnostic uses and cannot explain a discriminatory pattern.
+C. It is a joint cause alongside inheritance and marriage cost, since the practice could not occur at its observed scale without the diagnostic capacity that makes selection possible.
+D. It is the proximate cause, since the structural factors merely create a disposition and the instrument is what converts a disposition into an act with a determinate outcome.
+
+#### MCQ 23. The consequentialist trap
+
+Why is it an error to argue that female foeticide is wrong primarily because a society needs women?
+
+A. Because consequences are always weaker grounds than principles in moral argument, so any consequentialist reasoning is out of place in a philosophy paper of this kind.
+B. Because the argument implies that the practice would be permissible in a society whose composition was already balanced, which contradicts the statutory prohibition in force.
+C. Because it values women for what their presence does for others, reproducing the instrumental valuation that produced the practice, when dignity and non-discrimination are prior.
+D. Because the demographic consequences are contested, and an argument resting on them would collapse if the empirical claim about social imbalance turned out to be mistaken.
+
+#### MCQ 24. Where land becomes bargaining power
+
+At which level of the ownership–control–benefit analysis does an asset acquire its distinctively political function?
+
+A. At the level of return, since the receipt of income is what converts an asset from a symbolic entitlement into a material resource that can be deployed for other purposes.
+B. At the level of legal title, since a claim recognised in law is the point at which the state's authority becomes available to support the holder against a competing claimant.
+C. At the level of control, since the power to decide about cropping, leasing, sale and investment is what distinguishes a proprietor from a person who merely holds a record entry.
+D. At the level of exit and security, since an asset that protects against abandonment or violence improves the fall-back position and thereby becomes bargaining power inside the household.
+
+### Remedial drills — eight errors that cost marks every year
+
+> These eight target the specific mistakes that recur on this clause: reading an enacted amendment as delivered empowerment, answering a conversion stem as an existence stem, measuring empowerment by preconditions or by outcomes, ignoring the availability of alternatives, presenting a derived modal verdict as a hedge, applying the capability standard prescriptively, deploying care ethics without its essentialism objection, and collapsing the three dimensions of a complete remedy into one another. Work them only after the twenty-four core diagnostics.
+
+#### MCQ 25. What an enacted amendment establishes
+
+A script states that the Hindu Succession (Amendment) Act, 2005, together with the 2020 judgment interpreting it, has delivered equal property power to daughters. What is the precise defect?
+
+A. The defect is that entitlement and interpretation are settled while possession, control, return and exit are not, and those four are where the conversion of a right into power occurs.
+B. The defect is that the amendment applies to one succession regime, so a general claim about daughters overstates the reach of an instrument with a defined statutory scope.
+C. The defect is that no judgment can deliver empowerment, since courts adjudicate disputes between parties and cannot alter the social conditions in which those disputes arise.
+D. The defect is one of date, since the amendment and the judgment are separated by fifteen years and the script has treated them as a single legislative moment rather than as two.
+
+#### MCQ 26. Reading the 2023 stem correctly
+
+The 2023 part asks whether the rights concerning land and property **have empowered** women. What does that wording require an answer to do?
+
+A. To compare the position before and after the amendment, since a claim about empowerment is a comparative claim and requires a baseline against which change can be assessed.
+B. To treat the question as one about conversion, tracing waiver pressure, informal partition, record practice and fear of family rupture, all of which operate inside the household.
+C. To assess the enforcement machinery, since a right that is not enforced is not a right, and the question of empowerment reduces to the question of whether enforcement is effective.
+D. To establish that such rights exist, by citing the statutory position and the judicial interpretation that settles its scope, and then to comment on the adequacy of the provision.
+
+#### MCQ 27. What resource-counting measures
+
+An evaluation reports that enrolment has risen, accounts have been opened and assets transferred, and concludes that empowerment has occurred. What has been measured?
+
+A. Recognition has been measured rather than redistribution, since the indicators register the status conferred by inclusion in a programme rather than any material change.
+B. Nothing has been measured, since indicators of this kind are collected by administrative systems whose categories were designed for reporting rather than for evaluation.
+C. Preconditions have been measured rather than power, since those indicators record what has been supplied and not what the recipient is in a position to exercise.
+D. Achievements have been measured rather than agency, since enrolment and asset holding are outcomes and the evaluation has confused an outcome with the process producing it.
+
+#### MCQ 28. Why the alternatives matter
+
+A woman continues in a traditional role and reports that she is content with it. On the framework taught here, what determines whether her situation involves the exercise of strategic choice?
+
+A. Whether her achievements have improved, since an improvement in the functionings actually realised is the outcome by which the exercise of choice is properly assessed.
+B. Whether the role is one an external observer would regard as emancipated, since the framework supplies a standard of flourishing against which reported preferences are checked.
+C. Her reported contentment settles the matter, since respect for persons requires taking their own account of their lives as authoritative on questions about their own well-being.
+D. Whether alternatives were genuinely available and at what cost, since a choice made where no alternative existed, or where it carried unacceptable cost, is not strategic choice.
+
+#### MCQ 29. Why "not sufficient" is not a hedge
+
+The 2020 stem asks whether empowering women can eliminate gender discrimination. Why is the verdict that empowerment is necessary but not sufficient an argued conclusion rather than a cautious one?
+
+A. Because the injustice was diagnosed as structural — sustained by many agents' ordinary choices inside normal institutions — and such an injustice cannot be dissolved from one side.
+B. Because examiners on modal stems reward balance, and a verdict that concedes something to each side demonstrates the judgment that a twenty-mark answer is expected to display.
+C. Because empowerment has been pursued for a long period without eliminating discrimination, so the historical record supplies direct evidence for the insufficiency claim.
+D. Because sufficiency is a strong modal claim that is difficult to establish for any social remedy, so the safer verdict is available on general grounds rather than particular ones.
+
+#### MCQ 30. The capability standard without paternalism
+
+How does the capability approach answer the charge that it imposes an official ideal of emancipation?
+
+A. By deferring to the reported preferences of those affected, since the approach treats the subject's own evaluation of her life as the final court of appeal on questions of well-being.
+B. By securing capabilities, information and exit while respecting plural chosen functionings, so that options are protected rather than particular lives being prescribed.
+C. By restricting itself to material indicators, since a standard confined to income, health and schooling makes no controversial claims about how a life ought to be lived.
+D. By deferring to democratic decision, since a capability list adopted through public deliberation carries the authority of those who will be governed by it.
+
+#### MCQ 31. Care ethics used correctly
+
+What must accompany any use of the ethic of care in this clause?
+
+A. A demonstration that care reasoning is more widely distributed than justice reasoning, since the claim's political force depends on the prevalence of the orientation.
+B. An account of the psychological development of moral reasoning, since the argument originates in developmental research and cannot be assessed apart from it.
+C. The essentialism objection and the socially-positioned reply, together with the concession that the empirical division of orientations along gender lines is contested.
+D. A statement that care is superior to justice as a moral orientation, since the justice framework registered women's reasoning as deficient and stands corrected by the care account.
+
+#### MCQ 32. The completeness test on a remedy
+
+A proposed remedy secures reserved seats in an elected body without altering party selection, accountability, resources or the valuation of feminised work. Which diagnosis follows?
+
+A. The remedy is redistributive but not recognitive, so its material gains will not be accompanied by any change in the cultural valuation of the work women perform.
+B. The remedy is complete, since representation is the dimension at which agenda-setting power is secured, and agenda-setting power delivers the other two dimensions in time.
+C. The remedy is recognitive only, since a reserved seat confers status on the group without conferring either material resources or authoritative decision-making power.
+D. The remedy operates in one dimension alone, so it risks tokenism: presence without agenda-setting, alongside untouched redistribution and unchanged recognition.
+
+### Supplementary 2026 conceptual diagnostic — 1 MCQ
+
+#### MCQ 33. Necessary at which level?
+
+Which proposition best states the property-rights answer to the 2026 conditions question?
+
+A. Equal effective access to property is necessary for robust societal gender equality, but legal title alone is not sufficient.
+B. Legal title guarantees control of land, freedom from violence and political voice.
+C. Property rights are irrelevant whenever schooling is available to women.
+D. Every woman must personally own land before she can exercise even minimal social equality.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the three syllabus applications diagnose different points in one causal chain, exposing the difference between title and effective control.
+- **B:** Incorrect: rejecting son preference and recording title do not establish that an adult controls the asset or exercises independent agency.
+- **C:** Incorrect: equal valuation at birth does not automatically carry through to access, control and social power in adulthood.
+- **D:** Incorrect: equal co-ownership can permit joint decision-making; empowerment need not mean unilateral decisions by each owner.
+
+**Examiner trap 1:** Formal registration is evidence of a legal entitlement, not proof of actual control; avoid inferring empowerment from an ownership entry alone.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the distinction concerns the justification of social allocations rather than self-description, and this reading also collapses into the voluntarism the doctrine explicitly rejects.
+- **B:** Correct: the distinction is a claim about a missing inferential step, and every essentialist argument moves from a fact about bodies to a conclusion about power without supplying that step.
+- **C:** Incorrect: the complexity of biological variation is a compulsory qualification attached to the term "sex", but the argument of the distinction is normative rather than descriptive.
+- **D:** Incorrect: this is the two-essence reading, which replaces one crude essence with two and denies the interaction between embodiment and interpretation that the distinction was constructed to notice.
+
+**Examiner trap 2:** Writing "sex is natural, gender is artificial" as though it were the doctrine forfeits the interaction qualification that examiners specifically look for on the 2022 stem, because it makes the answer unable to explain how something described as cultural becomes so difficult to escape.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the comparison is analytical rather than methodological, and this clause is deliberately constructed so that no external dataset is required.
+- **B:** Incorrect: two of the three comparisons work precisely because they are not reducible to written rules, and the argument concerns the force of constructed categories rather than the reach of legislation.
+- **C:** Correct: the comparison closes the unreality objection in one sentence by separating the question of where a category came from from the question of how much power it exercises.
+- **D:** Incorrect: variation is used elsewhere to defeat the inference from constancy to nature; it is not the point of this comparison, and the owner does not endorse a purely local analysis.
+
+**Examiner trap 3:** Treating "socially constructed" as equivalent to "imaginary" or "voluntary" is the mirror of the essentialist error, and it is answered fastest by the three parallel cases rather than by an abstract defence of constructionism.
+
+#### MCQ 4 — solution
 
 **Answer: D.**
 
@@ -125,149 +394,79 @@ D. The error is that a situation is not a decision: the formulation locates femi
 
 **Examiner trap 4:** Quoting the famous formulation and stopping there earns almost nothing, because the marks lie in stating what it denies, what it asserts, and the misreading it is most often subjected to.
 
-#### MCQ 5. Immanence and transcendence
-
-Which statement gives the defensible form of Beauvoir's contrast between immanence and transcendence?
-
-A. Women are oriented towards maintenance and repetition while men are oriented towards projects, which explains the different kinds of work the two groups have historically performed.
-
-B. The inequality lies in the assignment rather than in the capacity: transcendence is systematically directed away from one term of the pair, not absent from the persons occupying it.
-
-C. Domestic labour is a lower form of activity than work performed in the world, which is why its allocation to one group constitutes a serious and continuing injustice.
-
-D. Transcendence requires material independence, so the contrast reduces to a claim about property and can be restated without any existential vocabulary at all.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: this states an orientation as though it were a property of the groups themselves, which is the essentialist reading the argument was constructed to refuse.
-- **B:** Correct: the assignment formulation is the one to write, because it preserves the claim while foreclosing the objection that Beauvoir denigrates those assigned immanence.
-- **C:** Incorrect: the claim concerns the allocation of possibility rather than the worth of the work, and this reading invites an easy and damaging objection.
-- **D:** Incorrect: material independence matters, but reducing the contrast to property loses the account of how possibility itself is distributed, which is the existential content.
-
-**Examiner trap 5:** Using immanence as a term of contempt for domestic labour misstates the argument and hands the examiner an obvious criticism, since the claim is about who is permitted to project outward rather than about the value of maintenance.
-
-#### MCQ 6. Which channel explains compulsion
-
-Among the channels through which a cultural category is embodied, which one answers the sceptic who asks why a woman cannot simply ignore a norm that is "only" social?
-
-A. Sanction — ridicule, shame, exclusion, coercion and violence against those who depart from an assigned role — because cost is what converts a norm from a description into a constraint.
-
-B. Language — the unmarked default, kinship terms and the vocabulary available for women's authority — because a category that cannot be articulated cannot be effectively resisted.
-
-C. Media — the repertoire of imaginable lives and the depiction of who decides and who serves — because a norm survives only while alternatives to it remain unimaginable.
-
-D. Family — the allocation of food, education, inheritance and mobility — because the earliest allocations are the ones that shape a person's expectations most durably.
+#### MCQ 5 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the other five channels explain how a norm is transmitted; sanction explains why departing from it is costly, and cost is what turns transmission into compulsion.
-- **B:** Incorrect: language shapes what can be easily said and thought, but articulacy alone would not answer a question about why departure is difficult rather than merely unusual.
-- **C:** Incorrect: media govern the repertoire of imaginable lives and are a genuine channel, but imagination is not the obstacle the sceptic's question identifies.
-- **D:** Incorrect: family is the most powerful transmitting channel and shapes expectation, yet transmission still leaves open why the expectation cannot simply be declined.
+- **A:** Correct: the assignment formulation is the one to write, because it preserves the claim while foreclosing the objection that Beauvoir denigrates those assigned immanence.
+- **B:** Incorrect: the claim concerns the allocation of possibility rather than the worth of the work, and this reading invites an easy and damaging objection.
+- **C:** Incorrect: material independence matters, but reducing the contrast to property loses the account of how possibility itself is distributed, which is the existential content.
+- **D:** Incorrect: this states an orientation as though it were a property of the groups themselves, which is the essentialist reading the argument was constructed to refuse.
 
-**Examiner trap 6:** Listing family, language, labour, law and media while omitting sanction produces an account of transmission without an account of constraint, which leaves the "it is only culture" objection standing at exactly the point the answer needed to close it.
+**Examiner trap 5:** Using immanence as a term of contempt for domestic labour misstates the argument and hands the examiner an obvious criticism, since the claim is about who is permitted to project outward rather than about the value of maintenance.
 
-#### MCQ 7. What Butler's thesis contests
-
-On the account taught here, what is the relation between Butler's performativity thesis and the standard sex/gender distinction?
-
-A. Performativity restates the standard distinction in a more technical vocabulary drawn from later theory, so the two positions can be used interchangeably in a cultural-category answer.
-
-B. Performativity contests the standard distinction, since the categories through which bodies are read as sexed are themselves produced within a gendered discourse rather than met before it.
-
-C. Performativity presupposes the standard distinction and extends it to identity, so a candidate must first establish the distinction and then add performativity as a refinement of it.
-
-D. Performativity abandons the standard distinction in favour of a biological account, since it locates gender in bodily comportment, gesture, gait and dress rather than in social norms.
+#### MCQ 6 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: this is the conflation this owner lists explicitly as a trap; the two positions disagree about whether a pre-interpretive substrate is available at all.
-- **B:** Correct: the argument's second step targets precisely the substrate the standard distinction assumes, which is what makes it a third position rather than a restatement.
-- **C:** Incorrect: it does not presuppose the distinction; it denies the layered structure — natural underneath, cultural on top — on which the distinction rests.
-- **D:** Incorrect: comportment, gesture and dress are the medium of reiteration, not a biological substrate, and the thesis is anti-naturalist rather than biological.
+- **A:** Incorrect: family is the most powerful transmitting channel and shapes expectation, yet transmission still leaves open why the expectation cannot simply be declined.
+- **B:** Correct: the other five channels explain how a norm is transmitted; sanction explains why departing from it is costly, and cost is what turns transmission into compulsion.
+- **C:** Incorrect: language shapes what can be easily said and thought, but articulacy alone would not answer a question about why departure is difficult rather than merely unusual.
+- **D:** Incorrect: media govern the repertoire of imaginable lives and are a genuine channel, but imagination is not the obstacle the sceptic's question identifies.
 
-**Examiner trap 7:** Presenting performativity as a fancier name for "gender is social" signals the opposite of the depth it is meant to demonstrate, because the position was constructed against exactly that formulation.
+**Examiner trap 6:** Listing family, language, labour, law and media while omitting sanction produces an account of transmission without an account of constraint, which leaves the "it is only culture" objection standing at exactly the point the answer needed to close it.
 
-#### MCQ 8. Performative and performance
-
-Why is it a serious error to read "performative" as "performance"?
-
-A. Because performance implies an audience, and the thesis is concerned with the private formation of identity rather than with how a person is perceived by others.
-
-B. Because performance is a term from aesthetics, and importing aesthetic vocabulary into political philosophy blurs the boundary between description and evaluation.
-
-C. Because performativity is compelled reiteration inside a normative order, and the compulsion is what explains why the arrangement is difficult rather than easy to escape.
-
-D. Because performance suggests insincerity, and the thesis makes no claim at all about whether a person's presentation of gender is authentic or assumed.
+#### MCQ 7 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: reiteration is thoroughly public and social; the objection to the reading is about compulsion rather than about audience or privacy.
-- **B:** Incorrect: the difficulty is substantive rather than disciplinary, and the term's origins do nothing to explain why the misreading matters.
-- **C:** Correct: without compulsion the thesis cannot explain why gender is hard to escape, which is the phenomenon it was constructed to account for.
-- **D:** Incorrect: sincerity is not the issue; the thesis concerns constitution rather than the honesty of a presentation.
+- **A:** Incorrect: comportment, gesture and dress are the medium of reiteration, not a biological substrate, and the thesis is anti-naturalist rather than biological.
+- **B:** Incorrect: this is the conflation this owner lists explicitly as a trap; the two positions disagree about whether a pre-interpretive substrate is available at all.
+- **C:** Correct: the argument's second step targets precisely the substrate the standard distinction assumes, which is what makes it a third position rather than a restatement.
+- **D:** Incorrect: it does not presuppose the distinction; it denies the layered structure — natural underneath, cultural on top — on which the distinction rests.
+
+**Examiner trap 7:** Presenting performativity as a fancier name for "gender is social" signals the opposite of the depth it is meant to demonstrate, because the position was constructed against exactly that formulation.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: sincerity is not the issue; the thesis concerns constitution rather than the honesty of a presentation.
+- **B:** Incorrect: reiteration is thoroughly public and social; the objection to the reading is about compulsion rather than about audience or privacy.
+- **C:** Incorrect: the difficulty is substantive rather than disciplinary, and the term's origins do nothing to explain why the misreading matters.
+- **D:** Correct: without compulsion the thesis cannot explain why gender is hard to escape, which is the phenomenon it was constructed to account for.
 
 **Examiner trap 8:** Reading performativity as a costume freely chosen each morning converts a claim about restricted freedom into a claim about voluntary identity, which is the opposite of the argument and reproduces the voluntarism this clause rejects.
 
-#### MCQ 9. The exchange that must accompany Butler
-
-What is the correct treatment of the category-stability objection to anti-essentialism?
-
-A. The objection succeeds, so feminism must retreat to the standard sex/gender distinction and treat performativity as an interesting but politically unusable theoretical development.
-
-B. The objection is answered by strategic essentialism, but the reply carries a residue — categories adopted for leverage harden into descriptions — so the exchange must be presented as live.
-
-C. The objection fails, because anti-discrimination law already operates with constructed categories and the practice of law settles the philosophical question it appears to raise.
-
-D. The objection is misconceived, since feminism has never required a determinate subject and its claims have always been addressed to institutions rather than made on behalf of a group.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: retreat is not the taught response, and it also abandons the analytical gain the thesis delivers on the constitution stems.
-- **B:** Correct: strategic essentialism replies, the reply is unstable in practice, and the required presentation is of an exchange that remains contested rather than closed.
-- **C:** Incorrect: legal practice illustrates how a provisionally stabilised category can function, but a practice does not settle the philosophical instability it exemplifies.
-- **D:** Incorrect: mobilisation, anti-discrimination claims and measurement all do presuppose a determinate category, which is why the objection has force.
-
-**Examiner trap 9:** Resolving the category debate in either direction claims more than the field allows; the mark-bearing move is to hold the objection, the reply and the residue together and to say explicitly that the exchange is live.
-
-#### MCQ 10. The five-column separation
-
-What is the analytical purpose of separating bodily sex characteristics, assigned classification, gender identity, gender expression and social role?
-
-A. It prevents a single binary label from doing five different jobs, and it supplies the rule that no claim about identity may be inferred from anatomy, dress or role.
-
-B. It establishes that gender identity is the most important of the five, since the other four are external classifications imposed by institutions and by other people.
-
-C. It replaces the sex/gender distinction with a more accurate five-part scheme, since two categories were never sufficient to describe the phenomena in question.
-
-D. It shows that discrimination operates only through assigned classification, since that is the column at which institutions record and act upon a person's category.
+#### MCQ 9 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the separation is conceptual hygiene, and the inference rule it yields is the same refusal of unjustified inference that opens the whole clause.
-- **B:** Incorrect: the separation ranks nothing; its point is that five distinct facts should not be reported by one word, not that one of them is primary.
-- **C:** Incorrect: it clarifies rather than replaces the distinction, which continues to do its own work about the inference from body to hierarchy.
-- **D:** Incorrect: discrimination operates through enforced role, stigma and institutional exclusion together, and confining it to one column misdescribes the mechanism.
+- **A:** Correct: strategic essentialism replies, the reply is unstable in practice, and the required presentation is of an exchange that remains contested rather than closed.
+- **B:** Incorrect: legal practice illustrates how a provisionally stabilised category can function, but a practice does not settle the philosophical instability it exemplifies.
+- **C:** Incorrect: mobilisation, anti-discrimination claims and measurement all do presuppose a determinate category, which is why the objection has force.
+- **D:** Incorrect: retreat is not the taught response, and it also abandons the analytical gain the thesis delivers on the constitution stems.
+
+**Examiner trap 9:** Resolving the category debate in either direction claims more than the field allows; the mark-bearing move is to hold the objection, the reply and the residue together and to say explicitly that the exchange is live.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: discrimination operates through enforced role, stigma and institutional exclusion together, and confining it to one column misdescribes the mechanism.
+- **B:** Correct: the separation is conceptual hygiene, and the inference rule it yields is the same refusal of unjustified inference that opens the whole clause.
+- **C:** Incorrect: the separation ranks nothing; its point is that five distinct facts should not be reported by one word, not that one of them is primary.
+- **D:** Incorrect: it clarifies rather than replaces the distinction, which continues to do its own work about the inference from body to hierarchy.
 
 **Examiner trap 10:** Making anatomy, dress or social role a proxy for identity draws inside a gender answer exactly the inference the clause exists to refuse, which is self-defeating in a way examiners notice immediately.
 
-#### MCQ 11. The self-confirming loop
-
-Why does this owner insist that the discrimination mechanism closes into a loop rather than ending at an outcome?
-
-A. Because the loop shows that the mechanism operates over generations, which is what distinguishes structural discrimination from a temporary distortion of an otherwise fair system.
-
-B. Because the loop identifies the point at which individual prejudice enters the chain, which is where remedies aimed at attitudes can most effectively be applied.
-
-C. Because the outcome is then cited as evidence that the original norm was correct, so the arrangement manufactures its own justification and an appeal to observed facts settles nothing.
-
-D. Because the loop demonstrates that the mechanism is self-correcting over time, so that reforms at any single link will eventually propagate through all of the others.
+#### MCQ 11 — solution
 
 **Answer: C.**
 
@@ -279,17 +478,7 @@ D. Because the loop demonstrates that the mechanism is self-correcting over time
 
 **Examiner trap 11:** Running the chain from norm to outcome and stopping produces a description rather than an argument, and it leaves the appeal to observed regularity — "but women do not in fact farm or lead" — completely unanswered.
 
-#### MCQ 12. What the allocation link distributes
-
-On the account taught here, why is female foeticide treated as part of the discrimination mechanism rather than as a separate topic?
-
-A. Because it is regulated by a dedicated statute, which places it within the same institutional framework as inheritance and representation and therefore within the same analysis.
-
-B. Because it is the application most frequently examined in the corpus, and the mechanism is organised around whichever application the previous-year record emphasises.
-
-C. Because it involves technology, and the mechanism's institutional link is where technological instruments enter and are distributed within a social order.
-
-D. Because the allocation link distributes food, health, schooling, time, mobility, property, income, safety, authority and — at the limit — continued life itself.
+#### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -301,61 +490,31 @@ D. Because the allocation link distributes food, health, schooling, time, mobili
 
 **Examiner trap 12:** Treating foeticide as an unrelated horror rather than as the mechanism's extreme case makes it impossible to answer the 2024 part, which requires the empowerment analysis and the foeticide analysis to be joined in a single argument.
 
-#### MCQ 13. How the diagnoses grid earns marks
+#### MCQ 13 — solution
 
-What distinguishes a strong use of the six feminist diagnoses from a weak one?
+**Answer: A.**
 
-A. The strong use covers all six approaches, since a comprehensive survey demonstrates the breadth of preparation that a fifteen-mark answer on this clause is designed to reward.
+**Option explanations:**
+- **A:** Correct: the four-move procedure converts a table into an argument, and the concession at the end is what separates argument from advocacy.
+- **B:** Incorrect: consistency of allegiance is not the same as adjudication, and no diagnosis wins in general, so a fixed preference will misfire across stems.
+- **C:** Incorrect: a general ranking is exactly what the material does not support, since each diagnosis is defeated somewhere and succeeds elsewhere.
+- **D:** Incorrect: coverage without adjudication is the failure mode the grid exists to prevent, and a survey decides nothing that a stem has asked to be decided.
 
-B. The strong use identifies the diagnosis the stem assumes, states its strongest rival, adjudicates the stem's own case, and concedes the winning diagnosis's standard objection.
+**Examiner trap 13:** Listing four or five feminisms and moving on is the single most common structure on this clause, and it scores poorly because the stem asked for a decision and received an inventory.
 
-C. The strong use selects the approach the candidate finds most persuasive and defends it consistently, since a settled position is what distinguishes philosophy from reportage.
-
-D. The strong use ranks the approaches by explanatory power, since establishing a general ordering allows the same ranking to be deployed across every owned part.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: coverage without adjudication is the failure mode the grid exists to prevent, and a survey decides nothing that a stem has asked to be decided.
-- **B:** Correct: the four-move procedure converts a table into an argument, and the concession at the end is what separates argument from advocacy.
-- **C:** Incorrect: consistency of allegiance is not the same as adjudication, and no diagnosis wins in general, so a fixed preference will misfire across stems.
-- **D:** Incorrect: a general ranking is exactly what the material does not support, since each diagnosis is defeated somewhere and succeeds elsewhere.
-
-**Examiner trap 13:** Listing four or five feminisms and moving on is the single most common structure on this clause, and it scores poorly because the stem asked for a decision and received an inventory.
-
-#### MCQ 14. Derivative or autonomous
-
-What is the substantive disagreement between Marxist and socialist feminism?
-
-A. Whether the abolition of private property is desirable, with Marxist feminism supporting it and socialist feminism preferring reform of the existing distribution of assets.
-
-B. Whether women's oppression is best analysed through class or through culture, with Marxist feminism selecting the first and socialist feminism selecting the second.
-
-C. Whether feminism should be revolutionary or reformist, with Marxist feminism requiring systemic transformation and socialist feminism accepting incremental legislative change.
-
-D. Whether patriarchy is derivative of class society or an autonomous system, with the second position widening the site of analysis to social reproduction as well as production.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: both traditions target property relations; the disagreement concerns whether transforming them would be sufficient, not whether it is desirable.
-- **B:** Incorrect: socialist feminism analyses two systems including production, so the class/culture division misdescribes both positions.
-- **C:** Incorrect: the revolutionary/reformist axis is not the distinguishing one, and neither tradition is defined by legislative gradualism.
-- **D:** Correct: derivative against autonomous is the disagreement, and it generates the extension from production alone to production and social reproduction together.
+- **A:** Incorrect: the revolutionary/reformist axis is not the distinguishing one, and neither tradition is defined by legislative gradualism.
+- **B:** Correct: derivative against autonomous is the disagreement, and it generates the extension from production alone to production and social reproduction together.
+- **C:** Incorrect: both traditions target property relations; the disagreement concerns whether transforming them would be sufficient, not whether it is desirable.
+- **D:** Incorrect: socialist feminism analyses two systems including production, so the class/culture division misdescribes both positions.
 
 **Examiner trap 14:** Conflating Marxist and socialist feminism is named explicitly by this owner as a trap, and the 2019 socialist-regime stem is constructed so that the conflation cannot produce a correct verdict.
 
-#### MCQ 15. The evidence for autonomy
-
-Which observation is advanced as the strongest evidence that patriarchy is not reducible to class relations?
-
-A. That women's subordination takes different forms in different societies, which shows that no single economic cause could produce such variation in its content and expression.
-
-B. That women have participated in every historical movement for economic transformation, which shows that their subordination is not a product of their exclusion from it.
-
-C. That male dominance is observable across radically different modes of production and persisted where private property in the means of production was abolished.
-
-D. That the domestic sphere has never been organised on market principles, which shows that its hierarchies must have a source independent of the organisation of production.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -367,127 +526,67 @@ D. That the domestic sphere has never been organised on market principles, which
 
 **Examiner trap 15:** Answering the 2019 stem with a yes or a no forfeits the structure it rewards, which is that a material transformation is necessary on one axis and insufficient without the transformation of social reproduction.
 
-#### MCQ 16. Blame and responsibility
-
-On the social-connection model, what follows from the fact that no single actor designed the gendered outcome?
-
-A. Responsibility takes a different form rather than disappearing: it is forward-looking, shared, and graded by power, privilege, interest and collective capacity to change the process.
-
-B. Responsibility attaches to the group that benefits, since the absence of an individual designer means that the advantage itself becomes the ground on which duties are assigned.
-
-C. Responsibility becomes a matter for institutions alone, since only an institution can act on a process, and individuals within it cannot be said to bear duties towards its outcomes.
-
-D. Responsibility is unallocable, since duties require identifiable acts and an emergent outcome cannot be traced to the acts of any particular participant in the process.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the model changes the form of responsibility rather than its existence, and the four gradients prevent the duties from being either uniform or empty.
-- **B:** Incorrect: benefit is one gradient among four rather than the ground of the duty, and treating it as the ground reproduces the collective-guilt error.
-- **C:** Incorrect: institutions are constituted by participants, and the model's entire point is that ordinary participants bear duties that no institution can discharge for them.
-- **D:** Incorrect: this is the universal excuse the model was constructed to defeat, and it would remove the possibility of the reform the analysis exists to ground.
-
-**Examiner trap 16:** Confusing structural responsibility with collective guilt produces a claim that is easy to refute and that also cannot distinguish an actor with power over the process from one with almost none.
-
-#### MCQ 17. The status of the sexual contract
-
-How should Pateman's sexual-contract thesis be presented?
-
-A. As a historical reconstruction of the arrangements that preceded the modern state, supported by the record of marriage law in the societies in which contract theory was formulated.
-
-B. As an empirical hypothesis about the origins of the family, to be assessed against the anthropological evidence concerning kinship in pre-state and early-state societies.
-
-C. As an interpretive reconstruction of the silences of contract theory, which is why presenting it as a contract that was actually made misrepresents both its method and its claim.
-
-D. As a normative proposal for how contract theory ought to be rewritten, since its argument is directed at what the tradition should have said rather than at what it did say.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: presenting it as history is the error this owner names explicitly, and it converts an interpretive argument into a false factual assertion.
-- **B:** Incorrect: the thesis is not an anthropological hypothesis and is not offered for testing against kinship evidence.
-- **C:** Correct: the argument proceeds from what contract narratives leave unmentioned, and its status as interpretation is what makes it defensible.
-- **D:** Incorrect: it is a critique of what the tradition did say and did not say, not a drafting proposal for its improvement.
-
-**Examiner trap 17:** Describing the sexual contract as an event that occurred is fatal in a way that a merely weak argument is not, because it presents an interpretive reconstruction as a historical claim that no evidence supports.
-
-#### MCQ 18. Okin's two-part evidence
-
-Which pair states the evidence Okin advances for treating the family as an object of justice?
-
-A. That the family is the oldest human institution, and that its rules have historically been enforced by religious rather than by civil authority in most legal traditions.
-
-B. That domestic labour is economically productive, and that its exclusion from national accounts understates the contribution women make to the societies they live in.
-
-C. That family law differs across communities, and that the resulting inequality between citizens is itself a violation of the equal treatment a state owes its members.
-
-D. That the unequal domestic burden restricts access to the primary goods public justice distributes, and that the family is where a sense of justice is first formed or fails to form.
+#### MCQ 16 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: antiquity and religious enforcement are not the argument, which turns on the distribution of goods and on moral formation.
-- **B:** Incorrect: the productivity of domestic labour is a genuine point but belongs to the redistributive dimension rather than to Okin's specific case.
-- **C:** Incorrect: the plurality of family law belongs to the personal-law dilemma, which is a different argument with a different resolution.
-- **D:** Correct: time, income, position and self-respect on one side, and the formation of a sense of justice on the other, are the two halves of the evidence.
+- **A:** Incorrect: benefit is one gradient among four rather than the ground of the duty, and treating it as the ground reproduces the collective-guilt error.
+- **B:** Incorrect: institutions are constituted by participants, and the model's entire point is that ordinary participants bear duties that no institution can discharge for them.
+- **C:** Incorrect: this is the universal excuse the model was constructed to defeat, and it would remove the possibility of the reform the analysis exists to ground.
+- **D:** Correct: the model changes the form of responsibility rather than its existence, and the four gradients prevent the duties from being either uniform or empty.
 
-**Examiner trap 18:** Treating Pateman and Okin as making the same argument loses the mark-bearing observation, since one attacks the foundation of contractarianism and the other extends the scope of an existing theory of justice.
+**Examiner trap 16:** Confusing structural responsibility with collective guilt produces a claim that is easy to refute and that also cannot distinguish an actor with power over the process from one with almost none.
 
-#### MCQ 19. Why the dilemma is a dilemma
-
-What makes the choice between a sex-neutral rule and an accommodation of difference a genuine dilemma rather than a straightforward decision?
-
-A. Each horn carries a real risk: the neutral rule may install a male life-pattern as the hidden norm, and the accommodation may essentialise difference and reassign women to traditional roles.
-
-B. Each horn requires legislation, and legislatures are reluctant to enact measures whose distributive consequences cannot be estimated in advance with reasonable confidence.
-
-C. Each horn has been adopted somewhere, and comparative evidence shows that outcomes have been broadly similar under both, so the choice between them is largely symbolic.
-
-D. Each horn is defended by a different feminist tradition, and since no tradition has defeated the other the disagreement has remained unresolved for institutional reasons.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: both risks are real and neither is removed by choosing the other horn, which is exactly what makes the situation a dilemma rather than an error to be corrected.
-- **B:** Incorrect: legislative reluctance is a political fact and not the philosophical structure the dilemma describes.
-- **C:** Incorrect: this package advances no comparative empirical claim, and the dilemma is not dissolved by asserting equivalence of outcomes.
-- **D:** Incorrect: the dilemma cuts across the traditions rather than dividing them, and its force does not depend on institutional deadlock.
+- **A:** Correct: the argument proceeds from what contract narratives leave unmentioned, and its status as interpretation is what makes it defensible.
+- **B:** Incorrect: it is a critique of what the tradition did say and did not say, not a drafting proposal for its improvement.
+- **C:** Incorrect: presenting it as history is the error this owner names explicitly, and it converts an interpretive argument into a false factual assertion.
+- **D:** Incorrect: the thesis is not an anthropological hypothesis and is not offered for testing against kinship evidence.
 
-**Examiner trap 19:** Resolving the sameness/difference dilemma by slogan — declaring for equality or for recognition of difference — leaves both risks in place and abandons the test that would have identified which measures are justified.
+**Examiner trap 17:** Describing the sexual contract as an event that occurred is fatal in a way that a merely weak argument is not, because it presents an interpretive reconstruction as a historical claim that no evidence supports.
 
-#### MCQ 20. The test for differential treatment
+#### MCQ 18 — solution
 
-Which set of questions operationalises the transformative resolution of the sameness/difference dilemma?
+**Answer: B.**
 
-A. Is the measure supported by a majority, is it consistent with existing law, and does it avoid imposing costs on those who are not responsible for the disadvantage it addresses?
+**Option explanations:**
+- **A:** Incorrect: the plurality of family law belongs to the personal-law dilemma, which is a different argument with a different resolution.
+- **B:** Correct: time, income, position and self-respect on one side, and the formation of a sense of justice on the other, are the two halves of the evidence.
+- **C:** Incorrect: antiquity and religious enforcement are not the argument, which turns on the distribution of goods and on moral formation.
+- **D:** Incorrect: the productivity of domestic labour is a genuine point but belongs to the redistributive dimension rather than to Okin's specific case.
 
-B. Is the disadvantage measurable, is the remedy proportionate to the measurement, and is there an administrative mechanism capable of delivering it without excessive discretion?
+**Examiner trap 18:** Treating Pateman and Okin as making the same argument loses the mark-bearing observation, since one attacks the foundation of contractarianism and the other extends the scope of an existing theory of justice.
 
-C. Is the burden socially produced, does the measure enlarge standing and capability rather than protect by confining, and is it proportionate and revisable rather than permanent?
-
-D. Is the difference biological, is the accommodation traditional, and does the measure preserve the family arrangements within which the disadvantage has historically been managed?
+#### MCQ 19 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: political support and legal consistency are not the criteria, and the cost-allocation question belongs to a different argument about remedial burdens.
-- **B:** Incorrect: measurability and administrability are practical constraints rather than the philosophical test, which concerns the origin and direction of the measure.
-- **C:** Correct: origin of the burden, direction of the measure, and proportionality with revisability are the three questions the resolution yields.
-- **D:** Incorrect: this inverts the test, since a measure premised on a biological incapacity and on preserving traditional arrangements is what the test is designed to reject.
+- **A:** Incorrect: this package advances no comparative empirical claim, and the dilemma is not dissolved by asserting equivalence of outcomes.
+- **B:** Incorrect: the dilemma cuts across the traditions rather than dividing them, and its force does not depend on institutional deadlock.
+- **C:** Correct: both risks are real and neither is removed by choosing the other horn, which is exactly what makes the situation a dilemma rather than an error to be corrected.
+- **D:** Incorrect: legislative reluctance is a political fact and not the philosophical structure the dilemma describes.
+
+**Examiner trap 19:** Resolving the sameness/difference dilemma by slogan — declaring for equality or for recognition of difference — leaves both risks in place and abandons the test that would have identified which measures are justified.
+
+#### MCQ 20 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: this inverts the test, since a measure premised on a biological incapacity and on preserving traditional arrangements is what the test is designed to reject.
+- **B:** Incorrect: political support and legal consistency are not the criteria, and the cost-allocation question belongs to a different argument about remedial burdens.
+- **C:** Incorrect: measurability and administrability are practical constraints rather than the philosophical test, which concerns the origin and direction of the measure.
+- **D:** Correct: origin of the burden, direction of the measure, and proportionality with revisability are the three questions the resolution yields.
 
 **Examiner trap 20:** Omitting proportionality and revisability from the reply to the reverse-discrimination objection licenses permanent categories, which converts a remedial measure into the essence the argument set out to dismantle.
 
-#### MCQ 21. The opening separation
-
-Why does every foeticide answer have to begin with a separation?
-
-A. Because four adjacent questions — abortion generally, sex-selective abortion, diagnostic technology and infanticide — raise different philosophical issues, and only the second is owned.
-
-B. Because the syllabus prints the application before the heading, so the order of exposition must follow the order in which the paper introduces the two terms.
-
-C. Because the legal treatment of each of the four differs, and an answer that does not distinguish them will misstate the statutory position it is about to cite.
-
-D. Because the causes of each of the four are distinct, and an answer that merges them will attribute to one application a causal structure belonging to another.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -499,197 +598,103 @@ D. Because the causes of each of the four are distinct, and an answer that merge
 
 **Examiner trap 21:** Equating female foeticide with abortion in general erases women's bodily autonomy and turns a discrimination argument into a general prohibition argument, which is a failure of separation rather than of sentiment.
 
-#### MCQ 22. Technology in the causal architecture
+#### MCQ 22 — solution
 
-What is the correct position of technology in an account of the causes of sex-selective termination?
-
-A. It is a joint cause alongside inheritance and marriage cost, since the practice could not occur at its observed scale without the diagnostic capacity that makes selection possible.
-
-B. It is the proximate cause, since the structural factors merely create a disposition and the instrument is what converts a disposition into an act with a determinate outcome.
-
-C. It is irrelevant, since the practice is fully explained by patrilineal inheritance and by the constitution of a daughter as a liability before any instrument is involved.
-
-D. It is the instrument of a pre-existing bias rather than its origin, which is why the same equipment has entirely legitimate diagnostic uses and cannot explain a discriminatory pattern.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: joint causation obscures the ordering that the "main causes" stem is testing, and it puts an instrument on the same level as the structures that generate the preference.
-- **B:** Incorrect: naming it the proximate cause smuggles back the priority the 2021 stem's word "only" was designed to test, and the wrong is located in the reason rather than in the means.
-- **C:** Incorrect: irrelevance overcorrects; the instrument does enable execution, which is why regulating it is necessary even though it cannot be sufficient.
-- **D:** Correct: technology supplies the means and patriarchy supplies the reason, and the legitimate diagnostic uses of the same equipment demonstrate the point.
+- **A:** Incorrect: irrelevance overcorrects; the instrument does enable execution, which is why regulating it is necessary even though it cannot be sufficient.
+- **B:** Correct: technology supplies the means and patriarchy supplies the reason, and the legitimate diagnostic uses of the same equipment demonstrate the point.
+- **C:** Incorrect: joint causation obscures the ordering that the "main causes" stem is testing, and it puts an instrument on the same level as the structures that generate the preference.
+- **D:** Incorrect: naming it the proximate cause smuggles back the priority the 2021 stem's word "only" was designed to test, and the wrong is located in the reason rather than in the means.
 
 **Examiner trap 22:** Blaming technology alone is the answer the 2021 stem was constructed to elicit and to penalise, and the definitional phrase "identified **or presumed**" already shows that the wrong does not require a test to have been performed.
 
-#### MCQ 23. The consequentialist trap
+#### MCQ 23 — solution
 
-Why is it an error to argue that female foeticide is wrong primarily because a society needs women?
-
-A. Because it values women for what their presence does for others, reproducing the instrumental valuation that produced the practice, when dignity and non-discrimination are prior.
-
-B. Because the demographic consequences are contested, and an argument resting on them would collapse if the empirical claim about social imbalance turned out to be mistaken.
-
-C. Because consequences are always weaker grounds than principles in moral argument, so any consequentialist reasoning is out of place in a philosophy paper of this kind.
-
-D. Because the argument implies that the practice would be permissible in a society whose composition was already balanced, which contradicts the statutory prohibition in force.
-
-**Answer: A.**
+**Answer: C.**
 
 **Option explanations:**
-- **A:** Correct: the argument values women by their usefulness to others, which is the same structure of valuation the analysis was constructed to reject.
-- **B:** Incorrect: this package makes no empirical claim about magnitude, and the objection is philosophical rather than evidential.
-- **C:** Incorrect: consequences have a legitimate place in the analysis; the error is allowing a consequence to occupy the position of the ground.
-- **D:** Incorrect: the counterfactual observation is a symptom of the defect rather than its statement, and a statutory position cannot settle a philosophical one.
+- **A:** Incorrect: consequences have a legitimate place in the analysis; the error is allowing a consequence to occupy the position of the ground.
+- **B:** Incorrect: the counterfactual observation is a symptom of the defect rather than its statement, and a statutory position cannot settle a philosophical one.
+- **C:** Correct: the argument values women by their usefulness to others, which is the same structure of valuation the analysis was constructed to reject.
+- **D:** Incorrect: this package makes no empirical claim about magnitude, and the objection is philosophical rather than evidential.
 
 **Examiner trap 23:** Opening a foeticide answer with social imbalance adopts the instrumental structure the answer should be criticising, which is why the correct order is dignity first and the causal chain to imbalance second.
 
-#### MCQ 24. Where land becomes bargaining power
-
-At which level of the ownership–control–benefit analysis does an asset acquire its distinctively political function?
-
-A. At the level of legal title, since a claim recognised in law is the point at which the state's authority becomes available to support the holder against a competing claimant.
-
-B. At the level of control, since the power to decide about cropping, leasing, sale and investment is what distinguishes a proprietor from a person who merely holds a record entry.
-
-C. At the level of exit and security, since an asset that protects against abandonment or violence improves the fall-back position and thereby becomes bargaining power inside the household.
-
-D. At the level of return, since the receipt of income is what converts an asset from a symbolic entitlement into a material resource that can be deployed for other purposes.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: title is the necessary anchor without which the higher levels have nothing to attach to, but it is precisely the level at which conversion most often stops.
-- **B:** Incorrect: control is a genuine achievement and a real gain, but it does not by itself alter what she could command if the relationship ended.
-- **C:** Correct: the fall-back position is what a woman could command if the relationship ended, and it is that counterfactual which gives her voice inside it.
-- **D:** Incorrect: return supplies resources, and resources are preconditions; the political function requires the credible alternative that exit supplies.
-
-**Examiner trap 24:** Presenting the ownership–control–benefit analysis as an anonymous framework loses the attribution this owner requires, and it also obscures the intra-household bargaining premise on which the argument depends.
-
-### Remedial drills — eight errors that cost marks every year
-
-> These eight target the specific mistakes that recur on this clause: reading an enacted amendment as delivered empowerment, answering a conversion stem as an existence stem, measuring empowerment by preconditions or by outcomes, ignoring the availability of alternatives, presenting a derived modal verdict as a hedge, applying the capability standard prescriptively, deploying care ethics without its essentialism objection, and collapsing the three dimensions of a complete remedy into one another. Work them only after the twenty-four core diagnostics.
-
-#### MCQ 25. What an enacted amendment establishes
-
-A script states that the Hindu Succession (Amendment) Act, 2005, together with the 2020 judgment interpreting it, has delivered equal property power to daughters. What is the precise defect?
-
-A. The defect is one of date, since the amendment and the judgment are separated by fifteen years and the script has treated them as a single legislative moment rather than as two.
-
-B. The defect is that entitlement and interpretation are settled while possession, control, return and exit are not, and those four are where the conversion of a right into power occurs.
-
-C. The defect is that the amendment applies to one succession regime, so a general claim about daughters overstates the reach of an instrument with a defined statutory scope.
-
-D. The defect is that no judgment can deliver empowerment, since courts adjudicate disputes between parties and cannot alter the social conditions in which those disputes arise.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the interval between the two instruments is a fact about the record and not the analytical error, which concerns what either can establish at all.
-- **B:** Correct: the amendment confers coparcenary status by birth on the statutory terms and the judgment clarifies that right; neither establishes possession, control, return or exit.
-- **C:** Incorrect: the scope point is accurate and worth noting, but it is a narrower observation than the conversion failure the clause is actually about.
-- **D:** Incorrect: this overcorrects into the claim that legal reform is pointless, when title is the necessary anchor on which the higher levels are built.
-
-**Examiner trap 25:** Saying that the 2005 amendment automatically delivered empowerment is an explicitly listed trap for this owner, and it reproduces in miniature the exact error — entitlement read as power — that the whole clause examines.
-
-#### MCQ 26. Reading the 2023 stem correctly
-
-The 2023 part asks whether the rights concerning land and property **have empowered** women. What does that wording require an answer to do?
-
-A. To establish that such rights exist, by citing the statutory position and the judicial interpretation that settles its scope, and then to comment on the adequacy of the provision.
-
-B. To compare the position before and after the amendment, since a claim about empowerment is a comparative claim and requires a baseline against which change can be assessed.
-
-C. To treat the question as one about conversion, tracing waiver pressure, informal partition, record practice and fear of family rupture, all of which operate inside the household.
-
-D. To assess the enforcement machinery, since a right that is not enforced is not a right, and the question of empowerment reduces to the question of whether enforcement is effective.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: existence is presupposed by the stem rather than asked about, so an answer that establishes it has answered a question that was not put.
-- **B:** Incorrect: a before-and-after comparison would require data this clause neither uses nor needs, and the philosophical question is about levels rather than periods.
-- **C:** Correct: the perfective verb and the object "empowered" make this a conversion question, and the four failures locate the answer inside the private sphere.
-- **D:** Incorrect: enforcement is one condition among several, and reducing empowerment to it drops access, control, return and exit from the analysis.
-
-**Examiner trap 26:** Answering a conversion stem as though it were an existence stem produces an accurate account of the law and no answer to the question, which is why the verb in the stem should be read before the noun.
-
-#### MCQ 27. What resource-counting measures
-
-An evaluation reports that enrolment has risen, accounts have been opened and assets transferred, and concludes that empowerment has occurred. What has been measured?
-
-A. Preconditions have been measured rather than power, since those indicators record what has been supplied and not what the recipient is in a position to exercise.
-
-B. Achievements have been measured rather than agency, since enrolment and asset holding are outcomes and the evaluation has confused an outcome with the process producing it.
-
-C. Recognition has been measured rather than redistribution, since the indicators register the status conferred by inclusion in a programme rather than any material change.
-
-D. Nothing has been measured, since indicators of this kind are collected by administrative systems whose categories were designed for reporting rather than for evaluation.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: enrolment, accounts and asset transfers sit in the resources column, and resources are preconditions that may or may not convert into agency.
-- **B:** Incorrect: these indicators are supplies rather than achievements, and the distinctive failure here is resource-counting rather than outcome-counting.
-- **C:** Incorrect: the indicators are material rather than status-conferring, so the recognition/redistribution contrast does not identify the defect.
-- **D:** Incorrect: the indicators do measure something real; the error lies in what is inferred from them, not in whether they measure anything at all.
-
-**Examiner trap 27:** Measuring empowerment by resources or by outcomes alone are the two symmetrical failures this owner names, and the decisive component in both cases is the agency that neither indicator registers.
-
-#### MCQ 28. Why the alternatives matter
-
-A woman continues in a traditional role and reports that she is content with it. On the framework taught here, what determines whether her situation involves the exercise of strategic choice?
-
-A. Her reported contentment settles the matter, since respect for persons requires taking their own account of their lives as authoritative on questions about their own well-being.
-
-B. Whether alternatives were genuinely available and at what cost, since a choice made where no alternative existed, or where it carried unacceptable cost, is not strategic choice.
-
-C. Whether her achievements have improved, since an improvement in the functionings actually realised is the outcome by which the exercise of choice is properly assessed.
-
-D. Whether the role is one an external observer would regard as emancipated, since the framework supplies a standard of flourishing against which reported preferences are checked.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: reported satisfaction can adjust downward under long deprivation, which is why contentment cannot by itself settle a question about strategic choice.
-- **B:** Correct: the framework assesses the conditions under which the choice was available rather than the option selected, which is what keeps it from becoming paternalistic.
-- **C:** Incorrect: achievements can rise for reasons unconnected to the woman's own agency, so they cannot identify the exercise of choice.
-- **D:** Incorrect: this is precisely the paternalism the framework is constructed to avoid, since it substitutes the observer's preferred outcome for the option set.
-
-**Examiner trap 28:** Discounting a woman's own account without stating the alternatives test converts adaptive preference from an argument into an assumption, and it is the point at which the paternalism objection becomes unanswerable.
-
-#### MCQ 29. Why "not sufficient" is not a hedge
-
-The 2020 stem asks whether empowering women can eliminate gender discrimination. Why is the verdict that empowerment is necessary but not sufficient an argued conclusion rather than a cautious one?
-
-A. Because examiners on modal stems reward balance, and a verdict that concedes something to each side demonstrates the judgment that a twenty-mark answer is expected to display.
-
-B. Because empowerment has been pursued for a long period without eliminating discrimination, so the historical record supplies direct evidence for the insufficiency claim.
-
-C. Because sufficiency is a strong modal claim that is difficult to establish for any social remedy, so the safer verdict is available on general grounds rather than particular ones.
-
-D. Because the injustice was diagnosed as structural — sustained by many agents' ordinary choices inside normal institutions — and such an injustice cannot be dissolved from one side.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: balance for its own sake is the hedge this question is distinguishing the correct answer from, and it supplies no reason for the verdict reached.
-- **B:** Incorrect: this package advances no historical or empirical claim of that kind, and the argument does not require one.
-- **C:** Incorrect: a general reluctance about sufficiency claims would apply to every remedy and would therefore explain nothing specific about this one.
-- **D:** Correct: the verdict follows from the structural diagnosis, and stating the derivation is what converts a cautious formula into an argument.
+- **A:** Incorrect: return supplies resources, and resources are preconditions; the political function requires the credible alternative that exit supplies.
+- **B:** Incorrect: title is the necessary anchor without which the higher levels have nothing to attach to, but it is precisely the level at which conversion most often stops.
+- **C:** Incorrect: control is a genuine achievement and a real gain, but it does not by itself alter what she could command if the relationship ended.
+- **D:** Correct: the fall-back position is what a woman could command if the relationship ended, and it is that counterfactual which gives her voice inside it.
+
+**Examiner trap 24:** Presenting the ownership–control–benefit analysis as an anonymous framework loses the attribution this owner requires, and it also obscures the intra-household bargaining premise on which the argument depends.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the amendment confers coparcenary status by birth on the statutory terms and the judgment clarifies that right; neither establishes possession, control, return or exit.
+- **B:** Incorrect: the scope point is accurate and worth noting, but it is a narrower observation than the conversion failure the clause is actually about.
+- **C:** Incorrect: this overcorrects into the claim that legal reform is pointless, when title is the necessary anchor on which the higher levels are built.
+- **D:** Incorrect: the interval between the two instruments is a fact about the record and not the analytical error, which concerns what either can establish at all.
+
+**Examiner trap 25:** Saying that the 2005 amendment automatically delivered empowerment is an explicitly listed trap for this owner, and it reproduces in miniature the exact error — entitlement read as power — that the whole clause examines.
+
+#### MCQ 26 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: a before-and-after comparison would require data this clause neither uses nor needs, and the philosophical question is about levels rather than periods.
+- **B:** Correct: the perfective verb and the object "empowered" make this a conversion question, and the four failures locate the answer inside the private sphere.
+- **C:** Incorrect: enforcement is one condition among several, and reducing empowerment to it drops access, control, return and exit from the analysis.
+- **D:** Incorrect: existence is presupposed by the stem rather than asked about, so an answer that establishes it has answered a question that was not put.
+
+**Examiner trap 26:** Answering a conversion stem as though it were an existence stem produces an accurate account of the law and no answer to the question, which is why the verb in the stem should be read before the noun.
+
+#### MCQ 27 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the indicators are material rather than status-conferring, so the recognition/redistribution contrast does not identify the defect.
+- **B:** Incorrect: the indicators do measure something real; the error lies in what is inferred from them, not in whether they measure anything at all.
+- **C:** Correct: enrolment, accounts and asset transfers sit in the resources column, and resources are preconditions that may or may not convert into agency.
+- **D:** Incorrect: these indicators are supplies rather than achievements, and the distinctive failure here is resource-counting rather than outcome-counting.
+
+**Examiner trap 27:** Measuring empowerment by resources or by outcomes alone are the two symmetrical failures this owner names, and the decisive component in both cases is the agency that neither indicator registers.
+
+#### MCQ 28 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: achievements can rise for reasons unconnected to the woman's own agency, so they cannot identify the exercise of choice.
+- **B:** Incorrect: this is precisely the paternalism the framework is constructed to avoid, since it substitutes the observer's preferred outcome for the option set.
+- **C:** Incorrect: reported satisfaction can adjust downward under long deprivation, which is why contentment cannot by itself settle a question about strategic choice.
+- **D:** Correct: the framework assesses the conditions under which the choice was available rather than the option selected, which is what keeps it from becoming paternalistic.
+
+**Examiner trap 28:** Discounting a woman's own account without stating the alternatives test converts adaptive preference from an argument into an assumption, and it is the point at which the paternalism objection becomes unanswerable.
+
+#### MCQ 29 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the verdict follows from the structural diagnosis, and stating the derivation is what converts a cautious formula into an argument.
+- **B:** Incorrect: balance for its own sake is the hedge this question is distinguishing the correct answer from, and it supplies no reason for the verdict reached.
+- **C:** Incorrect: this package advances no historical or empirical claim of that kind, and the argument does not require one.
+- **D:** Incorrect: a general reluctance about sufficiency claims would apply to every remedy and would therefore explain nothing specific about this one.
 
 **Examiner trap 29:** Presenting a modal verdict as a hedge wastes the strongest available move, because the conclusion in this clause is a consequence of the earlier diagnosis and can be shown to be one in a single sentence.
 
-#### MCQ 30. The capability standard without paternalism
-
-How does the capability approach answer the charge that it imposes an official ideal of emancipation?
-
-A. By deferring to the reported preferences of those affected, since the approach treats the subject's own evaluation of her life as the final court of appeal on questions of well-being.
-
-B. By securing capabilities, information and exit while respecting plural chosen functionings, so that options are protected rather than particular lives being prescribed.
-
-C. By restricting itself to material indicators, since a standard confined to income, health and schooling makes no controversial claims about how a life ought to be lived.
-
-D. By deferring to democratic decision, since a capability list adopted through public deliberation carries the authority of those who will be governed by it.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
@@ -701,39 +706,19 @@ D. By deferring to democratic decision, since a capability list adopted through 
 
 **Examiner trap 30:** Presenting the capability approach as prescribing a particular life invites the paternalism objection unnecessarily, when the doctrine's own formulation — capabilities protect options rather than compulsory lives — closes it in one clause.
 
-#### MCQ 31. Care ethics used correctly
+#### MCQ 31 — solution
 
-What must accompany any use of the ethic of care in this clause?
-
-A. The essentialism objection and the socially-positioned reply, together with the concession that the empirical division of orientations along gender lines is contested.
-
-B. A statement that care is superior to justice as a moral orientation, since the justice framework registered women's reasoning as deficient and stands corrected by the care account.
-
-C. A demonstration that care reasoning is more widely distributed than justice reasoning, since the claim's political force depends on the prevalence of the orientation.
-
-D. An account of the psychological development of moral reasoning, since the argument originates in developmental research and cannot be assessed apart from it.
-
-**Answer: A.**
+**Answer: C.**
 
 **Option explanations:**
-- **A:** Correct: the objection, the socially-positioned reply and the concession that the thesis is contested are compulsory whenever care ethics is deployed here.
-- **B:** Incorrect: the taught position is complementarity — justice supplies limits, care supplies attentiveness — rather than the superiority of either orientation.
-- **C:** Incorrect: prevalence is the contested empirical claim, and the argument's philosophical force does not depend on establishing it.
-- **D:** Incorrect: the developmental origin is background; the examinable content is the contrast, its political consequences and the essentialism exchange.
+- **A:** Incorrect: prevalence is the contested empirical claim, and the argument's philosophical force does not depend on establishing it.
+- **B:** Incorrect: the developmental origin is background; the examinable content is the contrast, its political consequences and the essentialism exchange.
+- **C:** Correct: the objection, the socially-positioned reply and the concession that the thesis is contested are compulsory whenever care ethics is deployed here.
+- **D:** Incorrect: the taught position is complementarity — justice supplies limits, care supplies attentiveness — rather than the superiority of either orientation.
 
 **Examiner trap 31:** Using care ethics without the essentialism objection risks re-inscribing the stereotype of the naturally nurturing woman that the argument was meant to displace, which is why this owner treats the objection as part of the doctrine rather than as an optional criticism.
 
-#### MCQ 32. The completeness test on a remedy
-
-A proposed remedy secures reserved seats in an elected body without altering party selection, accountability, resources or the valuation of feminised work. Which diagnosis follows?
-
-A. The remedy is redistributive but not recognitive, so its material gains will not be accompanied by any change in the cultural valuation of the work women perform.
-
-B. The remedy is complete, since representation is the dimension at which agenda-setting power is secured, and agenda-setting power delivers the other two dimensions in time.
-
-C. The remedy is recognitive only, since a reserved seat confers status on the group without conferring either material resources or authoritative decision-making power.
-
-D. The remedy operates in one dimension alone, so it risks tokenism: presence without agenda-setting, alongside untouched redistribution and unchanged recognition.
+#### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -745,13 +730,25 @@ D. The remedy operates in one dimension alone, so it risks tokenism: presence wi
 
 **Examiner trap 32:** Collapsing redistribution, recognition and representation loses the completeness test entirely, and it is compounded when the 2023 constitutional amendment is described as operating reservation without its census-based delimitation condition and its pending seat-level status.
 
+#### MCQ 33 — solution
+
+**Answer: A.** **Option explanations:**
+- **A:** Correct: it separates institutional necessity from individual and practical sufficiency.
+- **B:** Wrong: formal title need not deliver control or safety.
+- **C:** Wrong: schooling cannot substitute for an independent asset claim.
+- **D:** Wrong: it confuses a societal precondition with a universal individual ownership condition.
+
+**Examiner trap 33:** Distinguish the right to hold and inherit, documented title, effective control and equality of social standing.
+
+---
+
 ## PYQS AND ANSWER PRACTICE
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key; UPSC publishes no descriptive model answer for Philosophy Paper II. Question wording is reproduced exactly as printed in the official papers, including the 2018 paper's spaced question marks in **"How do you evaluate gender discrimination in the context of female foeticide ?"** and **"Is feminism an ideology for empowerment or for equality ?"**, the 2021 paper's phrase **"demonic application of technology only"**, the 2022 paper's **"as opposed to"**, the 2024 paper's split marking **[10+10=20]** and its two-part construction, and the 2025 paper's three named objects **"opportunities, rights, and access to resources"** — all preserved verbatim inside the question lines. The 2018 to 2025 Paper II texts are held locally, and the English wording of every part below follows the repository's verified Socio-Political PYQ ledger. Works are cited by author and title only: **Beauvoir, *The Second Sex***; **Butler, *Gender Trouble*** (**1990**); **Wollstonecraft, *A Vindication of the Rights of Woman***; **J. S. Mill and Harriet Taylor Mill's** writings on the equality and subjection of women; **Gilligan, *In a Different Voice*** (**1982**); **Pateman, *The Sexual Contract*** (**1988**); **Okin, *Justice, Gender, and the Family*** (**1989**) and **"Is Multiculturalism Bad for Women?"**; **Agarwal, *A Field of One's Own*** (**1994**); **Kabeer's** writings on empowerment; **Sen, "More Than 100 Million Women Are Missing"**; **Nussbaum, *Women and Human Development***; **Crenshaw** on intersectionality; **bell hooks, *Feminist Theory: From Margin to Center***; **Young, *Responsibility for Justice***; and **O. P. Gauba, *An Introduction to Political Theory***. No page, chapter, edition or verbatim wording is asserted for any of them, and no author is quoted anywhere in this package. Six dated Indian facts appear, each classified before use — the **PCPNDT Act, 1994**, an enacted regulatory and penal statute expanded by amendment to pre-conception selection; the **Hindu Succession (Amendment) Act, 2005**, an enacted amendment conferring coparcenary status by birth on the statutory terms; ***Beti Bachao Beti Padhao***, launched as a Union government programme in **2015**; ***Vineeta Sharma v. Rakesh Sharma* (2020)**, a Supreme Court judgment; the **Constitution (One Hundred and Sixth Amendment) Act, 2023**, an enacted constitutional amendment; and **Gazette notification S.O. 1922(E)**, which brought it into force on **16 April 2026**, with reservation linked to a post-Act census-based delimitation sequence under **Article 334A** and seat-level operation pending as checked on **3 September 2026**. ⚠️ Interpretive disputes — whether an anti-essentialist account can retain a political subject, whether care ethics escapes the essentialism charge, whether patriarchy is derivative of or autonomous from class, and where the line between family autonomy and gender-just background conditions should fall — are flagged as contested rather than settled. ❌ **No sex ratio, birth count, survey result, ownership percentage, wage gap, representation share, State, district, community or region is named anywhere**, the number inside Sen's essay title is a citation and not an asserted figure, and no statute, judgment or programme is used as evidence for or against a philosophical thesis.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper II parts are written longer than General Studies answers. The working bands used here are **10 marks — about 150 to 220 words**, **15 marks — about 250 to 330 words**, and **20 marks — about 330 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the "why this earns marks" notes and the "how to improve this answer" notes are teaching apparatus that sit **outside** the timed word count.
+**Timed-practice convention.** Scale time and detail to the marks and directive, but do not impose a preset word limit on these learning models. Demand decoding and examiner notes are study aids; no answer earns marks merely by reaching a length.
 
 **Coverage.** ⚠️ **Corpus signal:** this clause owns **12 of 112** Socio-Political question-parts in the 2018–2025 corpus, distributed **2018: 2, 2019: 2, 2020: 1, 2021: 2, 2022: 1, 2023: 2, 2024: 1, 2025: 1** — one of the two heaviest owners in the section, and the only one present in **every year** of the held cycle. All twelve are solved in full below in ledger order, followed by **six original solved Mains models**, two each at 10, 15 and 20 marks. The internal profile is more instructive than the volume. Four parts are **modal or evaluative** and ask whether a remedy can do a job (2018 Q4(c), 2019 Q1(e), 2020 Q4(a), 2024 Q4(a)); three are **causal** and concern sex-selective practice (2018 Q4(b), 2021 Q4(b), 2023 Q3(c)); three are **constitution** stems about whether the hierarchy is made or given (2019 Q3(b), 2022 Q3(b), 2025 Q1(b)); and two are **conversion** stems about whether a legal right became power (2021 Q1(e), 2023 Q1(c)). ❌ **Not one** asks for a history of the women's movement, a survey of feminist thinkers or an account of schemes. ⚠️ Ownership discipline: equality, justice and liberty as ideals belong to **Social and Political Ideals**; full ideologies to **Political Ideologies**; recognition and multiculturalism as doctrines to **Humanism, Secularism and Multiculturalism**; the general capability framework to **Development and Social Progress**; caste doctrine to **Caste Discrimination: Gandhi and Ambedkar**; rights and accountability to **Individual and State**. None of those is counted here.
 
@@ -789,7 +786,7 @@ D. The remedy operates in one dimension alone, so it risks tokenism: presence wi
 
 **Answer-writing focus:** an "evaluate X in the context of Y" stem is scored on whether Y is used to test X rather than merely to illustrate it. Scripts that describe the practice and condemn it have supplied indignation where an assessment was required. Naming the criterion in the opening line — most basic good, earliest moment, no act by the person valued — converts description into evaluation.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** criterion two lines; separation two lines; architecture four lines; the evaluation three lines; instrument one line; objection and reply two lines; verdict two lines. Compression plan if short of time: reduce the architecture to inheritance and earning power, and keep the criterion, the continuum and the verdict, which are what distinguish this from a description.
+**Timed answer route — 15 marks (adapt to the directive):** criterion two lines; separation two lines; architecture four lines; the evaluation three lines; instrument one line; objection and reply two lines; verdict two lines. Compression plan if short of time: reduce the architecture to inheritance and earning power, and keep the criterion, the continuum and the verdict, which are what distinguish this from a description.
 
 - **Structure:** criterion → separation → causal architecture → the evaluation proper → classified instrument → objection and reply → verdict.
 - **Doctrine:** the discrimination mechanism with continued life as an allocated good; discriminatory selection as the wrong.
@@ -833,7 +830,7 @@ Add one sentence observing that the practice harms **daughters who are born**, b
 
 **Answer-writing focus:** an "X or Y" stem tests whether the candidate accepts the framing. Choosing a side answers the question as printed and forfeits the analysis; showing that the two stand in a condition–exercise relation answers the question as intended. The three-line relation is the mark-bearing sentence and should be written in full.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position one line; definitions four lines; the three-line relation three lines; traditions three lines; objection and reply two lines; verdict two lines. Compression plan: drop the tradition contrast before dropping the three-line relation, which is the answer itself.
+**Timed answer route — 15 marks (adapt to the directive):** position one line; definitions four lines; the three-line relation three lines; traditions three lines; objection and reply two lines; verdict two lines. Compression plan: drop the tradition contrast before dropping the three-line relation, which is the answer itself.
 
 - **Structure:** position → both terms defined → the three-line relation → tradition contrast → objection and reply → verdict.
 - **Doctrine:** the three conceptions of equality; empowerment as make **and** act upon significant choices.
@@ -877,7 +874,7 @@ Add one line on the **sameness/difference dilemma**, since it explains why an eq
 
 **Answer-writing focus:** a ten-mark "analyse" stem is scored on decomposition. The five-move route — prediction, concession, defeater, residue, conditional verdict — is exactly what "analyse" asks for, and it prevents the two failure modes: an enthusiastic yes and a dismissive no. Naming the derivative/autonomous distinction in the first two lines signals immediately that the candidate knows which dispute is being tested.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** presupposition one line; prediction one line; concession one line; defeater two lines; residue three lines; verdict two lines. Compression plan: shorten the residue to care and household authority, but never drop the defeater, which is the evidential core.
+**Timed answer route — 10 marks (adapt to the directive):** presupposition one line; prediction one line; concession one line; defeater two lines; residue three lines; verdict two lines. Compression plan: shorten the residue to care and household authority, but never drop the defeater, which is the evidential core.
 
 - **Structure:** the diagnosis assumed → its prediction → what it gets right → the defeater → the residue → conditional verdict.
 - **Doctrine:** derivative against autonomous patriarchy; the dual-systems formulation.
@@ -923,7 +920,7 @@ Add one clause noting that the strongest defence of the Marxist position — tha
 
 **Answer-writing focus:** on a "consider critically" stem the objections are the answer. A script that expounds constructionism and adds a paragraph of criticism has inverted the weighting. Running two objections with replies, and then refusing both crude readings, uses the whole of the available structure.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** claim two lines; five-step argument four lines; the loop two lines; two objections with replies four lines; two errors two lines; verdict one line. Compression plan: keep both objections and drop the second error, since the biological and constancy objections are what the directive is asking for.
+**Timed answer route — 15 marks (adapt to the directive):** claim two lines; five-step argument four lines; the loop two lines; two objections with replies four lines; two errors two lines; verdict one line. Compression plan: keep both objections and drop the second error, since the biological and constancy objections are what the directive is asking for.
 
 - **Structure:** precise claim → five-step argument with its presupposition → the self-confirming loop → two objections with replies → two errors refused → verdict.
 - **Doctrine:** the sex/gender distinction as a claim about an inference; construction without unreality.
@@ -971,7 +968,7 @@ Add one sentence stating that a socially constructed category is not thereby eas
 
 **Answer-writing focus:** the stem invites affirmation, and affirmation is the failure mode. The scored structure is build-then-limit: state fully what empowerment reaches before naming what it cannot, and then **derive** the insufficiency from the structural diagnosis rather than asserting it. A script that reaches "necessary but not sufficient" without the derivation has produced a formula; one that derives it has produced an argument.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** position one line; definition four lines; reach three lines; the structural reason three lines; the five limits four lines; two objections four lines; verdict two lines. Compression plan: reduce the five limits to care, violence and others' valuations, and keep the derivation, which is the answer's spine.
+**Timed answer route — 20 marks (adapt to the directive):** position one line; definition four lines; reach three lines; the structural reason three lines; the five limits four lines; two objections four lines; verdict two lines. Compression plan: reduce the five limits to care, violence and others' valuations, and keep the derivation, which is the answer's spine.
 
 - **Structure:** position → definition → what it reaches → the structural reason → what it cannot reach → two objections → verdict.
 - **Doctrine:** resources, agency, achievements; structural injustice and shared forward-looking responsibility.
@@ -1013,7 +1010,7 @@ Add one sentence noting that this owner names **empowerment rhetoric that shifts
 
 **Answer-writing focus:** "how far" requires a degree, not a balance. The five levels supply the degree directly, because they specify what would have to be true for the answer to be "far" and what makes it "not far". Naming Agarwal and stating the bargaining premise are the two moves that mark the answer as philosophical rather than administrative.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** degree claim one line; five levels five lines; fall-back position three lines; recognition argument two lines; verdict two lines. Compression plan: state the five levels as a single sentence chain if pressed, but keep the fall-back argument, which is the analytical core.
+**Timed answer route — 10 marks (adapt to the directive):** degree claim one line; five levels five lines; fall-back position three lines; recognition argument two lines; verdict two lines. Compression plan: state the five levels as a single sentence chain if pressed, but keep the fall-back argument, which is the analytical core.
 
 - **Structure:** degree claim → the five levels with failure modes → the fall-back position → the recognition argument → graded verdict.
 - **Doctrine:** ownership, effective control and realised benefit; land as bargaining power.
@@ -1057,7 +1054,7 @@ Add one clause conceding that the intervening conditions — records, credit, ma
 
 **Answer-writing focus:** the stem's word "only" is the whole examination. A script that lists causes and adds "technology is also a factor" has not answered it. The scored move is to **order** the causes so that the ordering itself shows why the instrument cannot be the explanation, and then to supply two independent reasons — the "or presumed" clause and the legitimate diagnostic uses.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** the two demands one line; architecture six lines; the technology reply four lines; instrument two lines; objection two lines; verdict two lines. Compression plan: merge the second and third causes if pressed, but never compress the technology reply, which is the stem's actual target.
+**Timed answer route — 15 marks (adapt to the directive):** the two demands one line; architecture six lines; the technology reply four lines; instrument two lines; objection two lines; verdict two lines. Compression plan: merge the second and third causes if pressed, but never compress the technology reply, which is the stem's actual target.
 
 - **Structure:** two demands identified → ordered architecture → the reply to "only" → classified instrument → futility objection → verdict.
 - **Doctrine:** causes as a normative structure; technology as instrument of a pre-existing bias.
@@ -1101,7 +1098,7 @@ Add one sentence connecting the architecture to the fourth cause explicitly: une
 
 **Answer-writing focus:** the stem's "as opposed to" invites a wall, and the wall is the error. The scored structure contrasts the categories, states the interaction, and then spends most of the answer on the **mechanism** by which a cultural category acquires force — because that is what an examiner is testing when a candidate calls something cultural.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** reading of "opposed" two lines; the contrast three lines; six channels four lines; parallels two lines; Butler two lines; verdict two lines. Compression plan: reduce the six channels to labour, law and sanction, keeping sanction under all circumstances.
+**Timed answer route — 15 marks (adapt to the directive):** reading of "opposed" two lines; the contrast three lines; six channels four lines; parallels two lines; Butler two lines; verdict two lines. Compression plan: reduce the six channels to labour, law and sanction, keeping sanction under all circumstances.
 
 - **Structure:** how to read "opposed" → the contrast with qualifications → six embodiment channels → construction against unreality → Butler as depth marker → verdict.
 - **Doctrine:** gender as cultural category; performativity as a contesting rather than restating move.
@@ -1145,7 +1142,7 @@ Add one line stating that the cultural reading **explains variation and persiste
 
 **Answer-writing focus:** ten-mark parts reward exact reading. "Have empowered" is perfective and its object is empowerment, so the answer must be a conversion audit. The asymmetric verdict — recognition yes, control not yet — is more precise than either agreement or disagreement and is what a "do you agree" stem is actually testing.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** reading one line; classified record three lines; four failures four lines; where they sit two lines; concession two lines; verdict two lines. Compression plan: name two conversion failures rather than four, but keep the recognition concession, which produces the asymmetry.
+**Timed answer route — 10 marks (adapt to the directive):** reading one line; classified record three lines; four failures four lines; where they sit two lines; concession two lines; verdict two lines. Compression plan: name two conversion failures rather than four, but keep the recognition concession, which produces the asymmetry.
 
 - **Structure:** read the verb → classify the record → four conversion failures → locate them → recognition concession → asymmetric verdict.
 - **Doctrine:** the five-level ladder applied to a real reform; entitlement against command.
@@ -1189,7 +1186,7 @@ Add one clause noting that the four failures are **not** defects in the statute,
 
 **Answer-writing focus:** a "how does X lead to Y and Z" stem is scored on the chain and on reaching **both** terminals. The characteristic failure is arriving at imbalance and treating it as the reason for condemnation. Stating the ordering explicitly — dignity as the ground, imbalance as an aggravating effect — is what distinguishes the answer.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** chain five lines; first terminal three lines; second terminal three lines; ordering three lines; continuum one line; verdict two lines. Compression plan: shorten the chain to norm, institution, allocation, but keep the ordering paragraph, which the directive is testing.
+**Timed answer route — 15 marks (adapt to the directive):** chain five lines; first terminal three lines; second terminal three lines; ordering three lines; continuum one line; verdict two lines. Compression plan: shorten the chain to norm, institution, allocation, but keep the ordering paragraph, which the directive is testing.
 
 - **Structure:** the five-link chain → foeticide as terminal one → imbalance as terminal two → the ordering of dignity and consequence → the continuum → verdict.
 - **Doctrine:** the discrimination mechanism with continued life as an allocated good; the consequentialist trap.
@@ -1237,7 +1234,7 @@ Add one sentence noting that the wrong comprises **both** discriminatory valuati
 
 **Answer-writing focus:** split-marked parts are lost by imbalance. Each half needs its own visible structure and roughly equal space. The first half is scored on running necessity and sufficiency **separately**; the second on building the pathway and then locating its limit rather than asserting that empowerment solves the problem.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** half one nine lines; half two eleven lines; verdict two lines. Compression plan: within half two reduce the pathway to status, agency and social security, but keep the speed limit, which is what the word "examine" rewards.
+**Timed answer route — 20 marks (adapt to the directive):** half one nine lines; half two eleven lines; verdict two lines. Compression plan: within half two reduce the pathway to status, agency and social security, but keep the speed limit, which is what the word "examine" rewards.
 
 - **Structure:** necessity → insufficiency → the agency test → the five-link pathway → its limit → joint verdict.
 - **Doctrine:** equality as enabling condition; empowerment as expanded strategic choice; the causal pathway to son preference.
@@ -1283,7 +1280,7 @@ Add one line to the first half observing that the sameness/difference dilemma sh
 
 **Answer-writing focus:** the stem names three objects and expects all three. Answering "opportunities, rights and access to resources" in the stem's own order is worth marks by itself, and the critical layer is supplied by the unreality objection plus the intersectional qualification rather than by generalised criticism.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** claim one line; mechanism three lines; three terminals five lines; critical layer three lines; verdict one line. Compression plan: compress the mechanism to a single sentence, never the three terminals.
+**Timed answer route — 10 marks (adapt to the directive):** claim one line; mechanism three lines; three terminals five lines; critical layer three lines; verdict one line. Compression plan: compress the mechanism to a single sentence, never the three terminals.
 
 - **Structure:** claim → compressed mechanism → opportunities → rights → resources → critical layer → verdict.
 - **Doctrine:** the discrimination mechanism with its self-confirming loop; the five-level ladder.
@@ -1295,9 +1292,41 @@ Add one line to the first half observing that the sameness/difference dilemma sh
 
 Add one sentence on **structural responsibility**, noting that because the outcome is produced by many ordinary choices inside normal institutions, duties are forward-looking and shared rather than a matter of blame — the 2025 stem's word "individuals" invites exactly this, and it converts a distributive answer into a normative one. If a further line is available, state that time is the resource most often omitted from such lists, since unpaid care depletes it and its depletion is what constrains access to the other two objects the stem names.
 
+### 2026 verified primary-owned PYQ — supplementary solution
+
+The official-paper supplement `_PYQ-SocioPolitical-2026-Supplement.md` assigns this part to the Gender-Discrimination owner, beyond the twelve 2018–2025 parts. The following model is not an official UPSC key.
+
+#### Solved PYQ 13 · 2026 · Q2(b) · 15 marks
+
+**Printed question:** “Does providing land and property rights to women constitute a necessary condition or a sufficient condition or both for ensuring social equality among the genders ? Discuss.”
+
+**Demand:** Use the logic of necessary and sufficient conditions rather than praise ownership in general.
+
+**Model solution:** A **necessary** condition is one without which a goal cannot be adequately secured; a **sufficient** condition guarantees it when present. Secure land and property rights are plausibly necessary *for robust and durable social equality* because ownership gives women bargaining power within households, an independent fallback against coercion and recognised standing in decisions about production and inheritance. In an Indian household where only men's names appear in land records, a woman's unpaid labour does not necessarily translate into control over assets or a credible exit option. But a formal legal title does not guarantee effective possession, access to credit, control of proceeds or freedom to decide how land is used. Inheritance may be obstructed by familial pressure; violence, educational exclusion and unequal care burdens can persist after title is issued. Therefore property rights are **not sufficient**: effective enforcement, access to institutions, education, paid opportunities, freedom from violence and reform of discriminatory norms are also needed. One logical qualification matters: an individual woman may live with considerable social equality without personally holding land, so “necessary” should describe secure and effective **equal access to property rights in the social order**, not the claim that every woman must own a plot before any equality exists. **Verdict:** property rights are a vital institutional precondition for general and sustained equality, but are not independently sufficient; title, control and social recognition must be distinguished.
+
+**Why this earns marks:** Separates legal right, actual control, necessity at societal scale and sufficiency; avoids the false claim that individual ownership is universally required.
+
+### ADDITIONAL ORIGINAL MAINS PRACTICE — uncovered syllabus demands
+
+#### Gap practice A · 20 marks · female foeticide, choice and structural pressure
+
+**Question:** “Sex-selective abortion cannot be understood either as a purely private preference or as evidence that women lack all reproductive agency.” Critically examine this claim and propose a philosophically defensible response to female foeticide.
+
+**Independent model solution:** A reproductive choice must be judged in the social setting in which it is made. Repeated preference for sons can reflect inherited property rules, expectations about care, status and family pressure; technology can convert those hierarchies into selective elimination of female fetuses. Describing the pattern simply as free individual preference hides coercion and the cumulative social harm of devaluing girls. Yet reducing every pregnant woman to a passive victim would deny her agency and could legitimise intrusive surveillance of women rather than scrutiny of discriminatory providers and coercive relatives. A liberal account protects bodily autonomy and confidentiality; a substantive-equality account asks whether background conditions permit choices free of threatened abandonment or violence. These commitments are not logically incompatible. India's Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act regulates sex selection and misuse of diagnostic techniques; its existence does not demonstrate effective enforcement or justify obstruction of legitimate prenatal care. A defensible response combines proportionate regulation of providers, confidential routes to report coercion, secure inheritance and land rights, public education that challenges son preference, and protection of girls' opportunities. One must also examine who bears the costs of punitive policy: targeting only mothers can reproduce rather than reverse gender injustice. **Verdict:** female foeticide expresses a socially structured denial of equal worth, but remedies must enlarge women's effective reproductive agency and girls' standing rather than substitute the state's coercion for familial coercion.
+
+**Why this earns marks:** Balances autonomy and structural diagnosis, identifies a legal instrument without claiming its success, and tests enforcement against the risk of punishing women.
+
+#### Gap practice B · 15 marks · empowerment beyond formal representation
+
+**Question:** Distinguish women's empowerment from the mere presence of women in positions of authority. Can reserved representation be necessary without being sufficient for empowerment?
+
+**Independent model solution:** Presence counts who occupies an institution; empowerment asks whether women can set agendas, exercise resources, contest decisions and exit coercive relationships. Representation can break exclusion and create public visibility, and in institutions that have systematically barred women, opportunities to hold office may be necessary for equal political standing. But a nominal office-holder may have neither independent control of budget nor freedom from pressure by relatives, party superiors or local elites. This is not a reason to dismiss reservation: it diagnoses a gap between *descriptive* representation and effective voice. Empowerment also has material and relational dimensions: education, secure property claims, freedom from violence, recognition of unpaid care and access to time for public deliberation shape whether an office can actually be exercised. An argument against reserved places says that selection by sex displaces merit or reduces women to an identity category; the reply is that informal exclusion already distorts the supposed neutral baseline, and formal access can expose abilities previously denied a platform. The residual danger of elite capture still demands transparent selection, resources and accountability to less powerful women. **Verdict:** representation is an important institutional route towards collective empowerment but neither guarantees independent agency nor substitutes for changing the social conditions under which women participate.
+
+**Why this earns marks:** Separates formal access from effective power, answers the merit objection and concedes the intragroup-capture problem.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the paper's own idiom — two at 10 marks, two at 15 and two at 20 — each solved to the same standard as the previous-year parts above. None reproduces an owned stem; each targets a route the corpus has tested indirectly or is likely to test again. **Anti-essentialism, structural responsibility, the public/private boundary, care ethics, intersectional category-scepticism and the equality/difference dilemma are deliberately represented here**, since each is printed inside this owner's material and none carries a directly owned part in the 2018–2025 cycle.
+> The six baseline originals plus sex selection and substantive empowerment questions give eight independent solved models, chosen by syllabus coverage rather than quota. **Anti-essentialism, structural responsibility, the public/private boundary, care ethics and the equality/difference dilemma** also remain in the baseline set.
 
 #### Original 1 · 10 marks
 
@@ -1321,7 +1350,7 @@ Add one sentence on **structural responsibility**, noting that because the outco
 
 **Answer-writing focus:** a "strengthens or weakens" stem is scored on refusing the disjunction with a reason. The reason here is that the thesis operates at the level of diagnosis while the difficulty operates at the level of political subjecthood, so the two are not in competition.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** position one line; the claim three lines; strengthens three lines; complicates two lines; reply and residue three lines; verdict two lines.
+**Timed answer route — 10 marks (adapt to the directive):** position one line; the claim three lines; strengthens three lines; complicates two lines; reply and residue three lines; verdict two lines.
 
 - **Structure:** position → the claim → how it strengthens → how it complicates → reply with residue → verdict.
 - **Doctrine:** performativity as compelled reiteration; strategic essentialism.
@@ -1355,7 +1384,7 @@ Add the three cautions explicitly — that the thesis contests rather than resta
 
 **Answer-writing focus:** the stem sets a trap in its own wording — "if no one designs it" invites either indictment or exculpation. Naming both bad answers and refusing them before introducing the distinction is what converts the question into an argument.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** problem two lines; two bad answers three lines; the distinction three lines; gradients two lines; objection two lines; verdict two lines.
+**Timed answer route — 10 marks (adapt to the directive):** problem two lines; two bad answers three lines; the distinction three lines; gradients two lines; objection two lines; verdict two lines.
 
 - **Structure:** the problem → two bad answers refused → blame against responsibility → the four gradients → objection and reply → verdict.
 - **Doctrine:** structural injustice; the social-connection model.
@@ -1389,7 +1418,7 @@ Add one sentence applying the model to the household — a protected sphere of i
 
 **Answer-writing focus:** "examine" rewards the objection layer. The scored moves are distinguishing foundational challenge from internal reform, and answering the privacy objection with the background-conditions distinction rather than dismissing it.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** boundary two lines; two arguments six lines; the difference two lines; relevance three lines; objection and reply three lines; verdict two lines.
+**Timed answer route — 15 marks (adapt to the directive):** boundary two lines; two arguments six lines; the difference two lines; relevance three lines; objection and reply three lines; verdict two lines.
 
 - **Structure:** the boundary → Pateman and Okin with their targets → why the difference matters → relevance to conversion → privacy objection and reply → verdict.
 - **Doctrine:** the public/private division; the family as an object of justice.
@@ -1423,7 +1452,7 @@ Add one line noting Okin's own limit — that extending justice into every intim
 
 **Answer-writing focus:** "correct or endanger" is another false disjunction, and the scored move is to make the answer turn on **which version** of the thesis is being assessed. The socially-positioned reading is the hinge, and the concession that it reduces the original claim is what makes the examination critical.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position one line; what it corrects six lines; the danger two lines; the defensible version three lines; second objection three lines; verdict two lines.
+**Timed answer route — 15 marks (adapt to the directive):** position one line; what it corrects six lines; the danger two lines; the defensible version three lines; second objection three lines; verdict two lines.
 
 - **Structure:** position → three corrections → the essentialism danger → the socially-positioned reading → the care-without-justice objection → verdict.
 - **Doctrine:** the ethic of care; justice and care as complementary.
@@ -1459,7 +1488,7 @@ Add one clause pairing the socially-positioned reading with Butler's anti-essent
 
 **Answer-writing focus:** a quotation stem is scored on how precisely the claim is granted before it is refused. Granting the division in full — five named axes with their mechanisms — and then showing that the inference to abandonment fails on three independent grounds is what produces a twenty-mark structure.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** position one line; the case seven lines; not arithmetic three lines; three replies five lines; what follows four lines; residue two lines; verdict two lines.
+**Timed answer route — 20 marks (adapt to the directive):** position one line; the case seven lines; not arithmetic three lines; three replies five lines; what follows four lines; residue two lines; verdict two lines.
 
 - **Structure:** position → the case granted in full → intersectionality as mechanism → three replies → the methodological consequence → residue → verdict.
 - **Doctrine:** intersectional mediation; strategic essentialism; the working category criterion.
@@ -1497,7 +1526,7 @@ Add the observation that the objection **proves too much** early rather than lat
 
 **Answer-writing focus:** "reasons and justifications" asks for a criterion, not a stance. Supplying the three-question test and then applying it to a passing and a failing case demonstrates the criterion working, which is what converts an assertion into a justification.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** position one line; three conceptions five lines; dilemma four lines; resolution two lines; the test five lines; objection and reply four lines; residue two lines; verdict two lines.
+**Timed answer route — 20 marks (adapt to the directive):** position one line; three conceptions five lines; dilemma four lines; resolution two lines; the test five lines; objection and reply four lines; residue two lines; verdict two lines.
 
 - **Structure:** position → three conceptions → the dilemma → the resolution → the three-question test → reverse-discrimination objection → residue → verdict.
 - **Doctrine:** formal, substantive and relational equality; transformative equality as the resolution.

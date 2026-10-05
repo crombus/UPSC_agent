@@ -240,7 +240,7 @@ belong to Sikh/modern-transition owners.
                               |
                               v
                    SUFI CONCEPTS
-TASawwuf / SUFISM:
+TASAWWUF / SUFISM:
 Islamic mystical-ethical path.
                               |
                               v
@@ -354,6 +354,11 @@ major Multan figure.
                               v
 QADIRI:
 later wide presence and devotional networks.
+                              |
+                              v
+SHATTARI:
+Muhammad Ghawth and yogic-translation contact;
+interaction != origin myth.
                               |
                               v
 NAQSHBANDI:
@@ -561,6 +566,11 @@ official keys absent locally;
 answers remain explicitly INFERRED.
                               |
                               v
+2026 local search:
+no clearly relevant Bhakti-Sufi prelims or mains item
+verified in the checked local ledgers/papers.
+                              |
+                              v
                   PRELIMS REVISION CHAIN
 Alvar/Nayanar
 -> Ramanuja/prapatti
@@ -612,3 +622,4 @@ They created durable communities and critiques rather than a single
 programme of social revolution, and their emancipatory language must
 be balanced against later institutional and social continuities.
 ```
+

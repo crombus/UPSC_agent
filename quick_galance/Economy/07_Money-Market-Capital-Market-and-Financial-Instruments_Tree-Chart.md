@@ -1,6 +1,6 @@
 # Economy Topic 7 — Money Market, Capital Market and Financial Instruments
 
-**Current-law cutoff:** 9 September 2026  
+**Current-law cutoff:** 9 September 2026
 **Central thesis:** classify every claim by purpose, maturity, issuer, security, venue, settlement and
 regulator; market development is sound only when access, price discovery and resilience improve together.
 
@@ -27,6 +27,8 @@ SAVINGS
 | Call money | Unsecured overnight borrowing/lending |
 | Notice money | Unsecured, above one day and through 14 days |
 | Term money | Unsecured, above 14 days and through one year |
+| WACR | Weighted average overnight unsecured call rate; RBI operating target |
+| Corridor | SDF floor -> policy repo influence -> MSF ceiling |
 | Source | RBI Call, Notice and Term Money Markets Directions, 1 April 2021; updated 8 June 2023 |
 | Repo | Collateralised sale plus agreed repurchase; reverse repo for cash lender |
 | TREPS | Tri-Party Repo Dealing and Settlement; current successor to CBLO |
@@ -40,14 +42,19 @@ SAVINGS
 
 | Instrument | Exam definition | Dated current rule |
 |---|---|---|
-| T-Bill | Government of India discount security; 91, 182 or 364 days | RBI G-Sec Primer; General Notification 26 March 2025 |
+| T-Bill | Government of India discount security; 91, 182 or 364 days | RBI G-Sec Primer; General Notification
+   26 March 2025 |
 | CMB | Cash Management Bill below 91 days for temporary GoI cash mismatch | Not a standard fourth T-Bill |
-| CP | Commercial Paper: unsecured promissory-note money-market instrument | RBI Directions 3 January 2024, effective 1 April 2024 |
-| CP limits | 7 days-one year; minimum Rs 5 lakh; minimum rating A3 | Primary settlement no later than T+4; OTC T+0/T+1 |
+| CP | Commercial Paper: unsecured promissory-note money-market instrument | RBI Directions 3 January 2024,
+   effective 1 April 2024 |
+| CP limits | 7 days-one year; minimum Rs 5 lakh; minimum rating A3 | Primary settlement no later than T+4; OTC
+   T+0/T+1 |
 | Short-term NCD | Non-Convertible Debenture: secured under this framework; 90 days-one year | Same 2024 Directions |
-| CD | Certificate of Deposit: negotiable unsecured money-market instrument | RBI Directions 4 June 2021, effective 7 June 2021 |
+| CD | Certificate of Deposit: negotiable unsecured money-market instrument | RBI Directions 4 June 2021,
+   effective 7 June 2021 |
 | Bank CD limits | 7 days-one year; demat; minimum Rs 5 lakh | Primary T+1; OTC T+0/T+1 through DvP |
 | Commercial bill | Trade receivable evidenced by a bill; discount/rediscount creates finance | Not a Treasury Bill |
+| TReDS | Accepted MSME invoice financed through competing bids | Not TREPS; buyer acceptance is essential |
 
 **SCB = Scheduled Commercial Bank; RRB = Regional Rural Bank; SFB = Small Finance Bank; AIFI =
 All-India Financial Institution; OTC = Over the Counter; DvP = Delivery versus Payment.**
@@ -82,12 +89,16 @@ yield rises -> discount rate rises -> fixed-cash-flow present value falls -> bon
 | Debt | Contractual creditor claim; promised service and priority |
 | Equity | Residual ownership and loss-bearing claim |
 | Hybrid | Combines contractual debt-like and equity-like features |
+| Preference share | Share capital with preferential dividend/capital rights; terms may be cumulative,
+   convertible, redeemable or participating |
 | Secured debenture | Charge over specified assets |
 | Unsecured debenture | General-credit claim |
 | Convertible debenture | Can become equity under stated terms |
 | IPO | Initial Public Offer by an unlisted issuer |
 | FPO | Further Public Offer by an already listed issuer |
 | Rights issue | Offer to existing holders on record date |
+| Book building | Bids within a price band support issue-price discovery |
+| Bonus issue | Reserves capitalised into share capital; no fresh cash enters |
 | Private placement | Offer to selected persons within legal conditions |
 | QIP | Qualified Institutions Placement by a listed issuer to QIBs |
 | QIB | Qualified Institutional Buyer |
@@ -137,6 +148,9 @@ SEBI
   public/listed securities | exchanges | clearing corporations | depositories
   intermediaries | disclosure | market conduct
 
+IFSCA
+  unified banking | capital-market | insurance | fund-management regulation within GIFT IFSC
+
 ONE TRANSACTION MAY INVOLVE BOTH PERIMETERS + A VENUE + CCP + DEPOSITORY
 ```
 
@@ -172,6 +186,11 @@ operational-readiness demands.
 10. QIP is one private-placement route.
 11. Clearing, settlement, custody and regulation differ.
 12. T+0 is optional same-day, not universal real-time settlement.
+13. WACR is a market rate; SDF and MSF are corridor facilities.
+14. TReDS discounts MSME receivables; TREPS is triparty repo.
+15. Bonus shares bring no fresh cash or instant additional wealth.
+16. A rating is not insurance; downgrade can widen spread and lower bond price.
+17. IFSCA's unified jurisdiction applies within GIFT IFSC, not all India.
 
 ## 10. PYQ route and Mains spine
 

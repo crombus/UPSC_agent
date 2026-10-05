@@ -97,29 +97,42 @@ READ: DEFINE FAILURE -> IDENTIFY INSTRUMENT -> TRACE FINANCE/MATERIAL FLOW -> TE
 
 | Item | Exact meaning / dated status |
 |---|---|
-| Externality / public bad / commons | Uncompensated third-party cost / shared harm from emissions / overuse pressure on finite atmospheric capacity |
-| SCC | Social Cost of Carbon: discounted marginal damage from one additional tonne of CO2-equivalent; not a tax or traded price |
-| Tax / ETS / baseline-credit / offset | Government-set price / capped allowance market / benchmark-performance credits / project credit against counterfactual |
-| MRV | Monitoring, Reporting and Verification; integrity also requires additionality, leakage, permanence and no double counting |
+| Externality / public bad / commons | Uncompensated third-party cost / shared harm from emissions / overuse
+   pressure on finite atmospheric capacity |
+| SCC | Social Cost of Carbon: discounted marginal damage from one additional tonne of CO2-equivalent; not a tax
+   or traded price |
+| Tax / ETS / baseline-credit / offset | Government-set price / capped allowance market / benchmark-performance
+   credits / project credit against counterfactual |
+| MRV | Monitoring, Reporting and Verification; integrity also requires additionality, leakage, permanence and
+   no double counting |
 | PAT / SEC / ESCert | Perform, Achieve and Trade / Specific Energy Consumption / Energy Saving Certificate |
 | REC / RPO | Renewable Energy Certificate / Renewable Purchase Obligation under CERC's electricity framework |
 | CCTS / CCC | Carbon Credit Trading Scheme / Carbon Credit Certificate representing one tCO2e under scheme rules |
-| BEE / GCI / CERC | Bureau of Energy Efficiency administrator / Grid Controller of India registry operator / Central Electricity Regulatory Commission trading regulator |
-| CCTS status | 28 Jun 2023 notification; 19 Dec 2023 offset amendment; 490 obligated entities notified by 13 Jan 2026; steel draft dated 26 Jun 2026 |
-| Climate finance | Public, private or alternative finance supporting mitigation and adaptation; provided, mobilised, committed and disbursed amounts differ |
+| BEE / GCI / CERC | Bureau of Energy Efficiency administrator / Grid Controller of India registry operator /
+   Central Electricity Regulatory Commission trading regulator |
+| CCTS status | 28 Jun 2023 notification; 19 Dec 2023 offset amendment; 490 obligated entities notified by 13
+   Jan 2026; steel draft dated 26 Jun 2026 |
+| Climate finance | Public, private or alternative finance supporting mitigation and adaptation; provided,
+   mobilised, committed and disbursed amounts differ |
 | Additionality / concessionality | Beyond-counterfactual result / finance on terms more favourable than market |
 | SGrB / GFWC / PDMC | Sovereign Green Bond / Green Finance Working Committee / Public Debt Management Cell |
-| SGrB FY 2023-24 | Rs 20,000 crore issued; Rs 20,785.60 crore eligible transfers, including Rs 785.60 crore general-revenue top-up |
+| SGrB FY 2023-24 | Rs 20,000 crore issued; Rs 20,785.60 crore eligible transfers, including Rs 785.60 crore
+   general-revenue top-up |
 | Greenium | Yield difference against a matched conventional bond; not environmental-impact proof |
-| RBI green deposit | Fixed-period earmarked deposit under 28 Nov 2025 directions for covered banks and deposit-taking NBFCs/HFCs |
+| RBI green deposit | Fixed-period earmarked deposit under 28 Nov 2025 directions for covered banks and
+   deposit-taking NBFCs/HFCs |
 | RBI disclosure status | Separate climate-risk disclosure framework dated 28 Feb 2024 remained draft at cutoff |
 | BRSR / ESG | Business Responsibility and Sustainability Report / Environmental, Social and Governance |
-| BRSR Core | Top 500 listed entities in FY25-26; top 1,000 in FY26-27; value-chain disclosure voluntary from FY25-26 |
-| DEA taxonomy | Department of Economic Affairs draft framework dated 7 May 2025; no final national taxonomy identified by cutoff |
+| BRSR Core | Top 500 listed entities in FY25-26; top 1,000 in FY26-27; value-chain disclosure voluntary from
+   FY25-26 |
+| DEA taxonomy | Department of Economic Affairs draft framework dated 7 May 2025; no final national taxonomy
+   identified by cutoff |
 | SEEA / EnviStats | System of Environmental-Economic Accounting / MoSPI environmental-account publication |
 | LCA | Life-Cycle Assessment from extraction through production, use and end of life |
-| EPR / CPCB | Extended Producer Responsibility / Central Pollution Control Board; category-specific waste rules and portals |
-| EPR dates | Plastic packaging Feb 2022; waste tyres 21 Jul 2022; batteries 22 Aug 2022; e-waste rules 2 Nov 2022 effective 1 Apr 2023; used oil 18 Sep 2023 |
+| EPR / CPCB | Extended Producer Responsibility / Central Pollution Control Board; category-specific waste rules
+   and portals |
+| EPR dates | Plastic packaging Feb 2022; waste tyres 21 Jul 2022; batteries 22 Aug 2022; e-waste rules 2 Nov
+   2022 effective 1 Apr 2023; used oil 18 Sep 2023 |
 | CBAM | EU Carbon Border Adjustment Mechanism; definitive regime from 1 Jan 2026, separate from CCTS |
 
 ## Prelims traps

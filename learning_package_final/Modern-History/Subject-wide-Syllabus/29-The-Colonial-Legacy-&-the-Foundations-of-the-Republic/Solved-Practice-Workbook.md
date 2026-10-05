@@ -6,805 +6,354 @@ topic_key: modern-indian-history-29
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Landless agricultural labour from 1871 onwards?
+### Retained coverage evidence from the former MCQ bank
+
+The following 20 non-duplicated evidence cards retain the former bank’s distinct claims, numbers and qualifications. Questions test their mechanisms without recycling option banks. ✅ source-backed claim; ⚠️ analytical inference.
+
+- **Landless agricultural labour from 1871 onwards** — The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
+- **The development of underdevelopment** — Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
+- **Stagnant agriculture and a rentier agrarian structure** — The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
+- **Literacy and life expectancy at the moment of independence** — The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
+- **The colonial state: authoritarian core, liberal fragments** — The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
+- **The colonial franchise of about 3 and about 15 per cent** — The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
+- **Universal adult franchise as the republican break** — The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
+- **The national movement as an institutional asset** — Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
+- **Independence on 15 August 1947 and the simultaneity of crises** — India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
+- **Nearly six million refugees entering India** — The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
+- **Chandra's mortality estimate of roughly 500,000** — The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
+- **The assets settlement of January 1948** — In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
+- **The assassination of Gandhi on 30 January 1948** — Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
+- **The Communist insurrectionary turn from February 1948** — From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
+- **The lifting of the ban in July 1949 on stated conditions** — The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
+- **Adoption on 26 November 1949 and commencement on 26 January 1950** — The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
+- **The Nehru-Liaquat Pact of 8 April 1950** — On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
+- **Telangana called off by mid-1951 and the CPI legalised** — The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
+- **Pondicherry in 1954 and Goa in December 1961** — The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
+- **The republic's anniversary as a live commemorative anchor** — A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
 
-A. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-B. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-C. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-D. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
+### Questions — answer key follows all questions
 
-**Answer: A.**
-**Explanation:** The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q1. What does a rising population of landless agricultural labourers from 1871 signal in the colonial agrarian account?
 
-### Q2. Which chronology card should be filed under Landless agricultural labour from 1871 onwards?
+A. Loss of secure access to land, not proof that agricultural productivity was rising.
+B. Universal landownership following abolition of all intermediary rights.
+C. A complete shift of rural households into industrial wage work.
+D. The disappearance of tenancy, debt and rural dependence by 1900.
 
-A. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-B. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-C. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-D. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
+#### Q2. How should 'development of underdevelopment' be used to analyse the colonial economy?
 
-**Answer: B.**
-**Explanation:** The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. As a claim that India lacked any manufacturing before independence.
+B. As a structural account of dependent growth, deindustrialisation and poverty.
+C. As proof that British rule introduced universal rural prosperity.
+D. As the proposition that independent India inherited no infrastructure.
 
-### Q3. Which option should a candidate retain when revising Landless agricultural labour from 1871 onwards?
+#### Q3. Which mechanism best connects rentier land relations to low agricultural dynamism?
 
-A. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-B. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-C. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-D. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
+A. The national movement immediately nationalised every estate.
+B. Railways alone eliminated intermediaries and guaranteed peasant investment.
+C. Surplus extraction and insecure cultivators weakened incentives and capacity to improve land.
+D. Universal adult franchise mechanically increased yields before 1947.
 
-**Answer: C.**
-**Explanation:** The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q4. Which source-qualified comparison best describes education and health at independence?
 
-### Q4. Which statement avoids a common matching trap about Landless agricultural labour from 1871 onwards?
+A. Female literacy exceeded male literacy and life expectancy exceeded 60 years.
+B. Both sexes had universal schooling but public health remained weak.
+C. The 1951 census showed four-fifths of women could read.
+D. Around 1951 male literacy was about 25%, female literacy 7.9%, and life expectancy about 32 years.
 
-A. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-B. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-C. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-D. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
+#### Q5. What is meant by an authoritarian colonial core alongside liberal fragments?
 
-**Answer: D.**
-**Explanation:** The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Selected representative institutions coexisted with a coercive executive and restricted participation.
+B. Universal adult voting ensured complete responsible government under the Raj.
+C. Colonial administrators had no police, army or district apparatus.
+D. Civil liberties were uniformly guaranteed and never suspended under colonial rule.
 
-### Q5. Which statement correctly identifies The development of underdevelopment?
+#### Q6. Which pairing of approximate colonial franchise levels follows the source?
 
-A. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-B. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-C. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-D. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
+A. About 15% after 1919, falling to 3% after 1935.
+B. About 3% after 1919 and about 15% after 1935.
+C. Nearly 84% after 1919, with full franchise after 1935.
+D. Exactly half the adult population after both reforms.
 
-**Answer: A.**
-**Explanation:** Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q7. Why was universal adult franchise a republican rupture, not merely continuation?
 
-### Q6. Which chronology card should be filed under The development of underdevelopment?
+A. The British had already enrolled all adults by 1919.
+B. Independent India restricted voting to the literate.
+C. A mass electorate replaced an approximately 15% post-1935 colonial franchise despite low literacy.
+D. Universal suffrage could only begin after the Goa integration of 1961.
 
-A. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-B. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-C. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-D. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
+#### Q8. Which inheritance helps explain democratic continuity amid the crises of 1947?
 
-**Answer: B.**
-**Explanation:** Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Colonial officials alone invented secular electoral mobilisation.
+B. Economic affluence removed the need for political organisation.
+C. A hereditary system of princely rule supplied parliamentary leadership.
+D. The national movement left experienced leaders, popular networks and democratic-secular commitments.
 
-### Q7. Which option should a candidate retain when revising The development of underdevelopment?
+#### Q9. Which chronology makes the first days of freedom historically precise?
 
-A. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-B. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-C. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-D. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
+A. Nehru spoke on the night of 14 August and India became independent on 15 August 1947 amid Partition crises.
+B. The 'Tryst with Destiny' speech followed the Constitution's commencement in 1950.
+C. Partition displacement began only when Goa was integrated in 1961.
+D. Legal sovereignty instantly ended division of armed forces and treasury.
 
-**Answer: C.**
-**Explanation:** Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q10. What is the denominator in the source's 'nearly six million' Partition figure?
 
-### Q8. Which statement avoids a common matching trap about The development of underdevelopment?
+A. All displacements across both directions combined.
+B. Refugees entering India from Pakistan, not the two-way total.
+C. Deaths in the communal violence of 1947–48.
+D. Migrants leaving India for Portugal after 1954.
 
-A. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-B. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-C. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-D. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
+#### Q11. How should a student present the roughly 500,000 Partition death estimate?
 
-**Answer: D.**
-**Explanation:** Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. As a definitive count fixed by an official census.
+B. As the same statistic as six million refugees.
+C. As Chandra's approximate mortality estimate, noting wider scholarly variation.
+D. As a population figure for Muslims who remained in India.
 
-### Q9. Which statement correctly identifies Stagnant agriculture and a rentier agrarian structure?
+#### Q12. What does India's January 1948 assets settlement with Pakistan illustrate?
 
-A. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-B. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-C. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-D. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
+A. A decision to end the princely privy purse system immediately.
+B. A transfer of the entire Constituent Assembly to Pakistan.
+C. A payment by Pakistan of Rs 550 million to India.
+D. India transferred Rs 550 million to Pakistan amid severe bilateral strain.
 
-**Answer: A.**
-**Explanation:** The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q13. Which sequence connects Gandhi's assassination to a subsequent organisational restriction?
 
-### Q10. Which chronology card should be filed under Stagnant agriculture and a rentier agrarian structure?
+A. Godse assassinated Gandhi on 30 January 1948; the RSS was banned thereafter.
+B. Gandhi was killed in July 1949 when the RSS ban ended.
+C. The CPI took responsibility for the killing and was banned in its place.
+D. The Nehru–Liaquat Pact ordered Gandhi's assassination investigated in 1950.
 
-A. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-B. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-C. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-D. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
+#### Q14. Which account dates the CPI's insurrectionary turn accurately?
 
-**Answer: B.**
-**Explanation:** The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The CPI began a parliamentary transition in February 1948.
+B. The February 1948 B.T. Ranadive line promoted armed insurrection amid the Telangana struggle.
+C. The CPI's 1948 policy consisted exclusively of the Nehru–Liaquat minority pact.
+D. All Communist resistance stopped before India's independence.
 
-### Q11. Which option should a candidate retain when revising Stagnant agriculture and a rentier agrarian structure?
+#### Q15. Why is July 1949 significant in the chronology of the RSS ban?
 
-A. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-B. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-C. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-D. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
+A. The RSS was founded by an Act of Parliament then.
+B. Gandhi's assassin was executed on the date of a state reorganisation.
+C. The ban was lifted after acceptance of a written constitution and loyalty to the flag.
+D. The ban began only when Goa was liberated.
 
-**Answer: C.**
-**Explanation:** The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q16. Which dates separate constitutional adoption from republican commencement?
 
-### Q12. Which statement avoids a common matching trap about Stagnant agriculture and a rentier agrarian structure?
+A. Adoption occurred on 15 August 1947; commencement on 26 November 1949.
+B. Both actions occurred at the 1951 first general election.
+C. The Constitution commenced before it was adopted in November 1949.
+D. Adopted 26 November 1949; in force and a republic from 26 January 1950.
 
-A. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-B. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-C. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-D. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
+#### Q17. What issue did the 8 April 1950 Nehru–Liaquat Pact address?
 
-**Answer: D.**
-**Explanation:** The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Security and rights of minorities across the India–Pakistan divide.
+B. The accession instruments of the 560-plus princely states.
+C. The transfer of French Pondicherry to India.
+D. The immediate repeal of every colonial land tenure system.
 
-### Q13. Which statement correctly identifies Literacy and life expectancy at the moment of independence?
+#### Q18. Which ordering fits the Telangana struggle and the CPI's change of strategy?
 
-A. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-B. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-C. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-D. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
+A. Telangana ended in August 1947 before insurrection began.
+B. The armed struggle was called off by mid-1951 as the CPI moved towards parliamentary politics.
+C. The CPI ended armed struggle only after Goa was taken in 1961.
+D. The 1949 RSS ban lifting automatically dissolved Telangana resistance.
 
-**Answer: A.**
-**Explanation:** The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q19. Which pairing identifies delayed incorporation of European-held territories?
 
-### Q14. Which chronology card should be filed under Literacy and life expectancy at the moment of independence?
+A. Goa in 1954 and Pondicherry in 1961, both from Portugal.
+B. Goa and Pondicherry joined as princely states in August 1947.
+C. French Pondicherry in 1954 and Portuguese Goa in December 1961.
+D. Pondicherry was annexed under Operation Polo in 1948.
 
-A. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-B. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-C. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-D. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
+#### Q20. What evidentiary role can republic-anniversary coverage play in an answer?
 
-**Answer: B.**
-**Explanation:** The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It establishes a new date for the Constitution's adoption every year.
+B. It proves all 1947 refugee and casualty estimates to be official totals.
+C. It replaces the National Movement as the source of republican values.
+D. It can prompt revision of the verified adoption/commencement distinction without independently verifying unrelated 1947 statistics.
 
-### Q15. Which option should a candidate retain when revising Literacy and life expectancy at the moment of independence?
+### Answer key, four-option analysis and item-specific traps
 
-A. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-B. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-C. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-D. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
+#### Q1 — A
 
-**Answer: C.**
-**Explanation:** The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Rising landlessness is consistent with agrarian impoverishment and differentiation.
+- **B:** Colonial rentier structures persisted; landownership was not universal.
+- **C:** Agricultural labour is not the same thing as industrial employment.
+- **D:** Rural debt and tenancy cannot be erased by the labour trend.
 
-### Q16. Which statement avoids a common matching trap about Literacy and life expectancy at the moment of independence?
+**Trap:** Do not infer prosperity from a larger agricultural workforce.
 
-A. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-B. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-C. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-D. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
+#### Q2 — B
 
-**Answer: D.**
-**Explanation:** The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The term does not deny every pre-1947 productive activity.
+- **B:** Colonial economic relations could create infrastructure while entrenching dependency.
+- **C:** Industrial decline and recurring famine contradict universal prosperity.
+- **D:** The inherited state did possess services and transport, albeit with colonial priorities.
 
-### Q17. Which statement correctly identifies The colonial state: authoritarian core, liberal fragments?
+**Trap:** Avoid converting a structural diagnosis into an absolute 'nothing developed'.
 
-A. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-B. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-C. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-D. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
+#### Q3 — C
 
-**Answer: A.**
-**Explanation:** The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Nationalisation was not the colonial agrarian pattern.
+- **B:** Railways did not dissolve unequal agrarian tenure.
+- **C:** Rentier claims on output help explain stagnant investment and productivity.
+- **D:** A political franchise is not an agrarian technology.
 
-### Q18. Which chronology card should be filed under The colonial state: authoritarian core, liberal fragments?
+**Trap:** Separate the distributional mechanism from a blanket claim that no innovation occurred.
 
-A. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-B. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-C. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-D. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
+#### Q4 — D
 
-**Answer: B.**
-**Explanation:** The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** These values reverse the historical sex disparity and exaggerate longevity.
+- **B:** Universal schooling is contradicted by very low literacy.
+- **C:** Female literacy was under one-tenth, not four-fifths.
+- **D:** These are the attributed source figures and belong to the early republican baseline.
 
-### Q19. Which option should a candidate retain when revising The colonial state: authoritarian core, liberal fragments?
+**Trap:** Do not transpose baseline percentages to a later census.
 
-A. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-B. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-C. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-D. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
+#### Q5 — A
 
-**Answer: C.**
-**Explanation:** The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Institutional coexistence is more precise than a simple democratic/undemocratic binary.
+- **B:** The colonial electorate was restricted and executive authority was not fully responsible.
+- **C:** The Raj inherited by the republic had a powerful administrative machinery.
+- **D:** Repressive colonial practice undercuts the claim of unrestricted liberty.
 
-### Q20. Which statement avoids a common matching trap about The colonial state: authoritarian core, liberal fragments?
+**Trap:** Separate institutional inheritance from the republic's democratic use of it.
 
-A. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-B. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
+#### Q6 — B
 
-**Answer: D.**
-**Explanation:** The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The direction is reversed: franchise widened but remained limited.
+- **B:** The source contrasts these restricted colonial electorates with republican suffrage.
+- **C:** The 84% figure refers to illiteracy, not colonial eligibility to vote.
+- **D:** Half the population is not the documented colonial franchise.
 
-### Q21. Which statement correctly identifies The colonial franchise of about 3 and about 15 per cent?
+**Trap:** Do not confuse voter eligibility with literacy statistics.
 
-A. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-B. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-C. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-D. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
+#### Q7 — C
 
-**Answer: A.**
-**Explanation:** The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Colonial franchise was never all-adult on this account.
+- **B:** The republic's choice did not require literacy.
+- **C:** Expanding political voice amid material scarcity distinguishes the constitutional break.
+- **D:** Goa's later territorial incorporation is unrelated to the initial franchise choice.
 
-### Q22. Which chronology card should be filed under The colonial franchise of about 3 and about 15 per cent?
+**Trap:** Low literacy is context, not a legal disqualification.
 
-A. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-B. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-C. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-D. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
+#### Q8 — D
 
-**Answer: B.**
-**Explanation:** The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The movement's organisational legacy cannot be assigned solely to colonial officials.
+- **B:** India faced serious inherited deprivation, not effortless affluence.
+- **C:** Princely dynasties were not the sole democratic resource.
+- **D:** Movement-built legitimacy and institutions were political assets alongside economic liabilities.
 
-### Q23. Which option should a candidate retain when revising The colonial franchise of about 3 and about 15 per cent?
+**Trap:** A weak economy did not entail a weak national political movement.
 
-A. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-B. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-C. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-D. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
+#### Q9 — A
 
-**Answer: C.**
-**Explanation:** The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The speech belongs to the independence transition, not republican commencement.
+- **B:** Republican commencement was January 1950, years after the address.
+- **C:** Partition's dislocations were immediate, not a consequence of Goa's liberation.
+- **D:** Sovereignty and practical consolidation should not be collapsed.
 
-### Q24. Which statement avoids a common matching trap about The colonial franchise of about 3 and about 15 per cent?
+**Trap:** Political independence did not instantaneously resolve Partition's administrative shocks.
 
-A. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-B. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
+#### Q10 — B
 
-**Answer: D.**
-**Explanation:** The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The figure cannot be labelled the aggregate two-way migration.
+- **B:** The source measures inflows to India, one direction only.
+- **C:** The book gives a different, attributed estimate for fatalities.
+- **D:** Portugal-related migration is not the 1947 refugee count.
 
-### Q25. Which statement correctly identifies Universal adult franchise as the republican break?
+**Trap:** Never substitute a one-direction inflow for total displacement.
 
-A. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-B. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-C. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-D. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
+#### Q11 — C
 
-**Answer: A.**
-**Explanation:** The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** This is an estimate, not a final undisputed census figure.
+- **B:** Refugee arrivals and mortality measure different phenomena.
+- **C:** Attribution plus disagreement is essential to responsible use of this number.
+- **D:** About 45 million Muslims remained in India: a different denominator entirely.
 
-### Q26. Which chronology card should be filed under Universal adult franchise as the republican break?
+**Trap:** Avoid false precision or silently changing the scholarly attribution.
 
-A. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-B. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-C. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-D. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
+#### Q12 — D
 
-**Answer: B.**
-**Explanation:** The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Privy purses and inter-Dominion assets were different obligations.
+- **B:** The constituent body was not an asset transferred in this settlement.
+- **C:** The direction of the Rs 550 million transfer is reversed.
+- **D:** The source's amount, direction and month together matter for elimination.
 
-### Q27. Which option should a candidate retain when revising Universal adult franchise as the republican break?
+**Trap:** Do not reverse payer and recipient in the assets settlement.
 
-A. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-B. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-C. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
-D. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
+#### Q13 — A
 
-**Answer: C.**
-**Explanation:** The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** This records the assassin, date and immediate state response without inventing motive for the whole organisation.
+- **B:** July 1949 was the ban's lifting, not the assassination.
+- **C:** Godse was the assassin; do not misattribute his act to the CPI.
+- **D:** The minority pact came later and concerned a different issue.
 
-### Q28. Which statement avoids a common matching trap about Universal adult franchise as the republican break?
+**Trap:** Do not confuse an individual assassin with a proved collective finding.
 
-A. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-B. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question.
+#### Q14 — B
 
-**Answer: D.**
-**Explanation:** The republic did not widen the colonial franchise by degrees but replaced it outright with universal adult franchise, which is the sharpest single contrast available between a colonial liability and a republican choice and the fact that best answers a consolidation question. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The later electoral shift should not be projected backwards.
+- **B:** The line and timing are both named in the repository source.
+- **C:** The minority accord was a government-to-government agreement, not a CPI programme.
+- **D:** The armed phase extended beyond August 1947.
 
-### Q29. Which statement correctly identifies The national movement as an institutional asset?
+**Trap:** Do not make 'Communist' a synonym for the national movement's entire Left.
 
-A. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-B. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
+#### Q15 — C
 
-**Answer: A.**
-**Explanation:** Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Ban lifting is not the same as statutory founding.
+- **B:** The assassination and initial ban preceded July 1949.
+- **C:** The source makes lifting conditional, not an instant reversal of all earlier history.
+- **D:** Goa is a later, separate territorial issue.
 
-### Q30. Which chronology card should be filed under The national movement as an institutional asset?
+**Trap:** Distinguish imposition of a ban from its conditional removal.
 
-A. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-B. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-C. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-D. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
+#### Q16 — D
 
-**Answer: B.**
-**Explanation:** Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Independence is not the Constitution's adoption date.
+- **B:** An election is not either constitutional event.
+- **C:** The legal order of adoption and commencement cannot be reversed.
+- **D:** This sequence distinguishes independent Dominion from functioning republic.
 
-### Q31. Which option should a candidate retain when revising The national movement as an institutional asset?
+**Trap:** Keep sovereignty, adoption, and commencement as three stages.
 
-A. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-B. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-C. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
-D. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
+#### Q17 — A
 
-**Answer: C.**
-**Explanation:** Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Minority protection responds to persistent communal insecurity after Partition.
+- **B:** Accession was handled through other mechanisms in 1947–48.
+- **C:** French territories changed hands later; this pact was bilateral with Pakistan.
+- **D:** Agrarian tenure was not the agreement's governing subject.
 
-### Q32. Which statement avoids a common matching trap about The national movement as an institutional asset?
+**Trap:** A minority-protection agreement is not a boundary or accession treaty.
 
-A. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-B. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-C. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-D. Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform.
+#### Q18 — B
 
-**Answer: D.**
-**Explanation:** Against the economic liabilities stands a political asset: a tested all-India leadership including Nehru, Patel, Rajendra Prasad, Maulana Azad and Rajagopalachari, a party organised in every province, and settled commitments to democracy, civil liberties, secularism and social reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** An armed phase persisted after independence.
+- **B:** Withdrawal and electoral turn belong to the early 1950s.
+- **C:** Goa was later and not the basis of this political shift.
+- **D:** These distinct organisations and developments cannot be causally equated.
 
-### Q33. Which statement correctly identifies Independence on 15 August 1947 and the simultaneity of crises?
+**Trap:** Do not substitute RSS chronology for CPI/Telangana chronology.
 
-A. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-B. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-C. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-D. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
+#### Q19 — C
 
-**Answer: A.**
-**Explanation:** India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The dates and colonial powers are swapped.
+- **B:** These enclaves were not princely accessions on independence day.
+- **C:** The two locations and their different European rulers distinguish the timeline.
+- **D:** Polo concerns Hyderabad, not the French enclave.
 
-### Q34. Which chronology card should be filed under Independence on 15 August 1947 and the simultaneity of crises?
+**Trap:** Do not label European enclaves as princely states.
 
-A. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-B. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
+#### Q20 — D
 
-**Answer: B.**
-**Explanation:** India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Commemoration cannot move a historical adoption date.
+- **B:** Contemporary anniversary materials do not certify all older demographic estimates.
+- **C:** The movement's political legacy is not annulled by a commemorative event.
+- **D:** A dated remembrance is a teaching hook, not a universal primary source.
 
-### Q35. Which option should a candidate retain when revising Independence on 15 August 1947 and the simultaneity of crises?
-
-A. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-B. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-C. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-D. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-
-**Answer: C.**
-**Explanation:** India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Independence on 15 August 1947 and the simultaneity of crises?
-
-A. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-B. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-C. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-D. India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved.
-
-**Answer: D.**
-**Explanation:** India became independent on 15 August 1947 and immediately faced refugee movement, communal killing, the division of the army and the treasury, princely integration and fighting in Kashmir at the same time, so the achievement of the initial years was simultaneity survived rather than any single problem solved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies Nearly six million refugees entering India?
-
-A. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-B. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-
-**Answer: A.**
-**Explanation:** The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under Nearly six million refugees entering India?
-
-A. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-B. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-C. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-D. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-
-**Answer: B.**
-**Explanation:** The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising Nearly six million refugees entering India?
-
-A. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-B. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-C. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-D. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-
-**Answer: C.**
-**Explanation:** The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about Nearly six million refugees entering India?
-
-A. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-B. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-C. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-D. The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border.
-
-**Answer: D.**
-**Explanation:** The source records nearly six million refugees pouring into India after Partition, and this is a one-directional figure for people entering India that must never be presented as the total displacement in both directions across the new border. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Chandra's mortality estimate of roughly 500,000?
-
-A. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-B. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-C. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-D. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-
-**Answer: A.**
-**Explanation:** The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Chandra's mortality estimate of roughly 500,000?
-
-A. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-B. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-C. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-D. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-
-**Answer: B.**
-**Explanation:** The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Chandra's mortality estimate of roughly 500,000?
-
-A. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-B. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-C. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-D. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-
-**Answer: C.**
-**Explanation:** The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Chandra's mortality estimate of roughly 500,000?
-
-A. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-B. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-C. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-D. The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll.
-
-**Answer: D.**
-**Explanation:** The source states that nearly 500,000 people were killed within a few months of Partition, but this is Chandra's estimate and is not settled scholarship, because wider scholarship offers substantially different totals, so the figure must always be attributed and never asserted as an agreed death toll. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies The assets settlement of January 1948?
-
-A. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-B. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-C. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-D. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-
-**Answer: A.**
-**Explanation:** In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under The assets settlement of January 1948?
-
-A. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-B. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-C. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-D. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-
-**Answer: B.**
-**Explanation:** In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising The assets settlement of January 1948?
-
-A. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-B. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-C. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-D. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-
-**Answer: C.**
-**Explanation:** In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about The assets settlement of January 1948?
-
-A. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-D. In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance.
-
-**Answer: D.**
-**Explanation:** In January 1948, following a fast by Gandhi, the Government of India paid Pakistan Rs 550 million as part of the assets of Partition even while fearing how the money might be used, and this figure is carried as the source's attributed record of one specific transfer rather than as a full account of partition finance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies The assassination of Gandhi on 30 January 1948?
-
-A. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-B. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-C. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-D. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-
-**Answer: A.**
-**Explanation:** Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under The assassination of Gandhi on 30 January 1948?
-
-A. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-B. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-C. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-D. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-
-**Answer: B.**
-**Explanation:** Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising The assassination of Gandhi on 30 January 1948?
-
-A. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-D. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-
-**Answer: C.**
-**Explanation:** Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about The assassination of Gandhi on 30 January 1948?
-
-A. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-D. Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries.
-
-**Answer: D.**
-**Explanation:** Gandhi was assassinated on 30 January 1948 by Nathuram Godse, described in the source as a Hindu communal fanatic, and the government immediately banned the Rashtriya Swayamsevak Sangh and arrested most of its leaders and functionaries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies The Communist insurrectionary turn from February 1948?
-
-A. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-B. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-C. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-D. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-
-**Answer: A.**
-**Explanation:** From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under The Communist insurrectionary turn from February 1948?
-
-A. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-B. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-C. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-D. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-
-**Answer: B.**
-**Explanation:** From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising The Communist insurrectionary turn from February 1948?
-
-A. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-B. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-C. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: C.**
-**Explanation:** From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about The Communist insurrectionary turn from February 1948?
-
-A. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-D. From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic.
-
-**Answer: D.**
-**Explanation:** From February 1948 the Communist Party of India, under the line associated with B.T. Ranadive, declared independence false and turned to armed struggle, so the party that later became a parliamentary opposition first tested an insurrectionary road inside the new republic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies The lifting of the ban in July 1949 on stated conditions?
-
-A. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-D. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-
-**Answer: A.**
-**Explanation:** The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under The lifting of the ban in July 1949 on stated conditions?
-
-A. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-B. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-C. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: B.**
-**Explanation:** The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising The lifting of the ban in July 1949 on stated conditions?
-
-A. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-B. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-C. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: C.**
-**Explanation:** The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about The lifting of the ban in July 1949 on stated conditions?
-
-A. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-B. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-C. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-D. The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation.
-
-**Answer: D.**
-**Explanation:** The ban on the Rashtriya Swayamsevak Sangh was lifted in July 1949 after it accepted conditions laid down by Patel as Home Minister: a written and published constitution, restriction to cultural activity, renunciation of violence and secrecy, loyalty to India's flag and Constitution, and democratic internal organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-B. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-C. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-D. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-
-**Answer: A.**
-**Explanation:** The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-B. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-C. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: B.**
-**Explanation:** The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-B. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-C. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: C.**
-**Explanation:** The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-B. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-C. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-D. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date.
-
-**Answer: D.**
-**Explanation:** The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, so independence in 1947 and the republic in 1950 are two different constitutional events that must never be merged into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies The Nehru-Liaquat Pact of 8 April 1950?
-
-A. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: A.**
-**Explanation:** On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under The Nehru-Liaquat Pact of 8 April 1950?
-
-A. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-B. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-C. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: B.**
-**Explanation:** On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising The Nehru-Liaquat Pact of 8 April 1950?
-
-A. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-B. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-C. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-D. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-
-**Answer: C.**
-**Explanation:** On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about The Nehru-Liaquat Pact of 8 April 1950?
-
-A. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-B. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-C. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-D. On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it.
-
-**Answer: D.**
-**Explanation:** On 8 April 1950 the prime ministers of India and Pakistan signed the agreement known as the Nehru-Liaquat Pact, spelt Nehru-Liaqat in the local text, to secure the protection of minorities in both countries; two ministers resigned in protest and migration from East Bengal continued despite it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Telangana called off by mid-1951 and the CPI legalised?
-
-A. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-B. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-C. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-D. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-
-**Answer: A.**
-**Explanation:** The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Telangana called off by mid-1951 and the CPI legalised?
-
-A. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-B. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-C. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-D. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-
-**Answer: B.**
-**Explanation:** The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Telangana called off by mid-1951 and the CPI legalised?
-
-A. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-B. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-C. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-D. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-
-**Answer: C.**
-**Explanation:** The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Telangana called off by mid-1951 and the CPI legalised?
-
-A. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-B. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-C. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-D. The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections.
-
-**Answer: D.**
-**Explanation:** The Telangana armed struggle, spelt Telengana in the local text, was called off by mid-1951 as the Communist Party of India abandoned armed struggle for the parliamentary path, after which the party was legalised, its cadres were released and it was allowed to contest the first general elections. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Pondicherry in 1954 and Goa in December 1961?
-
-A. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-B. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-C. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-D. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-
-**Answer: A.**
-**Explanation:** The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Pondicherry in 1954 and Goa in December 1961?
-
-A. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-B. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-C. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-D. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-
-**Answer: B.**
-**Explanation:** The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Pondicherry in 1954 and Goa in December 1961?
-
-A. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-B. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-C. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-D. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-
-**Answer: C.**
-**Explanation:** The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Pondicherry in 1954 and Goa in December 1961?
-
-A. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-B. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-C. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-D. The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948.
-
-**Answer: D.**
-**Explanation:** The French possessions centred on Pondicherry were handed over after prolonged negotiation in 1954 and Indian troops entered Goa on the night of 17 December 1961 in the action known as Operation Vijay, so the territorial map was completed years after 1947 and Goa's Operation Vijay must never be confused with Hyderabad's Operation Polo of September 1948. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies The republic's anniversary as a live commemorative anchor?
-
-A. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-B. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-C. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-D. The local OCR text of *India After Independence* records that landless agricultural labourers grew from about 13 per cent of the agricultural population in 1871 to about 28 per cent by the middle of the twentieth century, and this package carries that movement strictly as the source's attributed estimate.
-
-**Answer: A.**
-**Explanation:** A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under The republic's anniversary as a live commemorative anchor?
-
-A. Chandra describes the colonial economic outcome as the development of underdevelopment, a phrase he expressly attributes to A. Gunder Frank, meaning that real changes in railways, administration and education were locked inside a colonial framework that generated dependence and poverty rather than growth.
-B. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-C. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-D. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-
-**Answer: B.**
-**Explanation:** A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising The republic's anniversary as a live commemorative anchor?
-
-A. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-B. The same source records a decline of about 14 per cent in per capita agricultural production between 1901 and 1941 with a larger fall in foodgrains, alongside an agrarian structure dominated by landlords, moneylenders and the colonial state, and these figures are carried as the source's own attributed estimates.
-C. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-D. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-
-**Answer: C.**
-**Explanation:** A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about The republic's anniversary as a live commemorative anchor?
-
-A. The colonial state was basically authoritarian and autocratic yet carried liberal fragments such as the rule of law, a relatively independent judiciary and limited press freedoms, and the republic inherited that apparatus of services, police, codes and district administration and had to convert an instrument of order into an instrument of development.
-B. The source records that only about 3 per cent of Indians could vote after 1919 and about 15 per cent after 1935, so representative institutions did exist under colonial rule while the electorate entitled to use them remained a small fraction of the population.
-C. The source records that in 1951 nearly 84 per cent of Indians were illiterate with illiteracy at about 92 per cent among women, and that an Indian born between 1940 and 1951 could expect to live barely thirty-two years; every one of these numbers must be attributed and never rounded into a fresh claim.
-D. A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh.
-
-**Answer: D.**
-**Explanation:** A Ministry of Defence release carried by the Press Information Bureau on 25 January 2026 records that the 77th Republic Day was celebrated on 26 January 2026 on the parade theme of unity in diversity, and the ordinal is itself a teaching device because counting 1950 as the first Republic Day is exactly what makes 2026 the seventy-seventh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Do not mistake a live anniversary peg for primary evidence on every colonial legacy claim.
 
 ### Semantic-completeness coverage drills — Modern Topic 29
 

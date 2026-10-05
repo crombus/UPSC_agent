@@ -6,805 +6,429 @@ topic_key: world-history-18
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies European exhaustion after 1945?
+Attempt all coverage-driven applications before reading the separate key. Dates and categories follow the canonical Basic owner; the two legacy PYQ demands remain neutral renderings.
 
-A. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-B. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-C. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-D. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
+### Q1. Why did empire become harder to hold after 1945?
 
-**Answer: A.**
-**Explanation:** War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression. The remaining options belong to different chronology, actor or analytical categories.
+A. Nationalist action raised coercive costs as European war debts weakened enforcement
+B. Europeans voluntarily abandoned every colony without nationalist pressure
+C. The UN independently transferred sovereignty without local movements
+D. War had strengthened metropolitan ability to police all possessions
 
-### Q2. Which chronology card should be filed under European exhaustion after 1945?
+### Q2. What qualifies the description of Indian independence as a peaceful transfer?
 
-A. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-B. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-C. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-D. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
+A. India remained under British rule until Algeria became free
+B. British withdrawal in 1947 was accompanied by partition and communal violence
+C. Belgium partitioned India in 1947
+D. The transfer automatically created one undivided republic
 
-**Answer: B.**
-**Explanation:** War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. What variable best separates Ghana from Algeria routes?
 
-### Q3. Which option preserves the source-bounded meaning of European exhaustion after 1945?
+A. Both were densely settled British colonies
+B. Ghana expelled the French army in the same kind of settler war
+C. Ghana had relatively few permanent European settlers; settler interests hardened the Algerian war
+D. Algeria achieved independence before Ghana constitutional transfer
 
-A. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-B. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-C. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-D. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
+### Q4. Which comparison refutes one model for Asian decolonization?
 
-**Answer: C.**
-**Explanation:** War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression. The remaining options belong to different chronology, actor or analytical categories.
+A. Ghana constitutional transfer and Algerian settler war
+B. Congo secession and Angola civil war
+C. Zimbabwe land politics and South African apartheid
+D. Partitioned British India and armed anticolonial resistance in French Indo-China
 
-### Q4. Which statement avoids a close-option trap about European exhaustion after 1945?
+### Q5. Why was Congo 1960 unlike prepared Ghana 1957?
 
-A. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-B. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-C. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-D. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
+A. Hurried Belgian withdrawal left weak trained administration amid mineral-rich Katanga secession
+B. Belgium gave Congolese officials the unique five-year experience of Ghana politicians
+C. Congo had no significant regional secession
+D. Both countries were transferred by Portugal in 1975
 
-**Answer: D.**
-**Explanation:** War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. What makes Angola and Mozambique late-exit cases?
 
-### Q5. Which statement correctly identifies Nationalist mobilisation?
+A. Both left Belgium in 1960
+B. Portuguese rule ended in 1975, later than many British and French colonies
+C. Both became independent before India partition
+D. Both were provinces of post-1994 South Africa
 
-A. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-B. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-C. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-D. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
+### Q7. What made the Malayan successor unit a constitutional problem?
 
-**Answer: A.**
-**Explanation:** Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule. The remaining options belong to different chronology, actor or analytical categories.
+A. Singapore belonged permanently to the 1948 federation
+B. A single sultan governed a homogeneous population
+C. Nine sultanates and two settlements were federated in 1948 while Singapore remained separate
+D. British rule ended by splitting Malaya into India and Pakistan
 
-### Q6. Which chronology card should be filed under Nationalist mobilisation?
+### Q8. Why did Malay, Chinese and Indian plurality affect federation design?
 
-A. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-B. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-C. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-D. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
+A. Rubber and tin trade legally barred all elections
+B. A European settler majority had already settled all political claims
+C. Singapore inclusion in 1948 ended every demographic dilemma
+D. Boundaries and franchise decided which community would hold power
 
-**Answer: B.**
-**Explanation:** Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. How did Britain counter Malayan communist insurgency without promising endless empire?
 
-### Q7. Which option preserves the source-bounded meaning of Nationalist mobilisation?
+A. Guarded resettlement was paired with a credible independence promise
+B. Britain transferred power directly to Chin Peng guerrillas
+C. London used repression while renouncing independence forever
+D. The emergency ended as soon as the 1948 federation was formed
 
-A. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-B. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-C. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-D. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
+### Q10. How did the Alliance contribute to independence in Malaya?
 
-**Answer: C.**
-**Explanation:** Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule. The remaining options belong to different chronology, actor or analytical categories.
+A. The Alliance was a European settler militia opposed to all elections
+B. Tunku Abdul Rahman inter-communal coalition electoral success reassured the British
+C. Pol Pot founded it as a Cambodian revolutionary front
+D. The party won independence by dissolving Ghana legislature
 
-### Q8. Which statement avoids a close-option trap about Nationalist mobilisation?
+### Q11. Which sequence keeps Malaya and Malaysia distinct?
 
-A. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-B. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-C. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-D. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
+A. Singapore separated in 1948, before Malayan independence
+B. Brunei joined Malaysia permanently in 1963
+C. Malaya became independent in 1957; Malaysia formed in 1963; Singapore separated in 1965
+D. Malaya independence happened after the 1994 South African election
 
-**Answer: D.**
-**Explanation:** Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. What turns educated West African leaders into an effective mass movement?
 
-### Q9. Which statement correctly identifies Ideological and international climate?
+A. Western education by itself forced British withdrawal
+B. Nyerere was a Nigerian newspaper editor
+C. Marcus Garvey was a London-trained Ghanaian party leader
+D. Nkrumah party work and Azikiwe newspapers linked to boycotts and strikes
 
-A. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-B. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-C. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-D. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
+### Q13. Why did Ghana preparation not prevent a later army coup?
 
-**Answer: A.**
-**Explanation:** Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+A. Cocoa dependence and price shocks coincided with closing party competition
+B. Preindependence professional training guaranteed export diversification
+C. Ghana had no experienced leaders unlike Congo
+D. The 1966 coup preceded 1957 independence
 
-### Q10. Which chronology card should be filed under Ideological and international climate?
+### Q14. What is the bounded lesson of Biafra and its aftermath?
 
-A. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-B. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-C. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-D. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
+A. Biafra permanently replaced the Nigerian federation
+B. Territorial competition led to war but later reconciliation and redesign followed
+C. Federalism eliminated all regional contest before 1966
+D. Only an unchanging ancient ethnic hostility caused the war
 
-**Answer: B.**
-**Explanation:** Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. Why does Katanga matter to Congo state formation?
 
-### Q11. Which option preserves the source-bounded meaning of Ideological and international climate?
+A. Katanga was Ghana cocoa-growing province
+B. Katanga remained a minor uncontested district
+C. Mineral-rich secession compounded thin administrative capacity and outside interference
+D. Belgian withdrawal left a fully staffed government and no external pressure
 
-A. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-B. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-C. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-D. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
+### Q16. What is the careful causal claim about Angola civil war?
 
-**Answer: C.**
-**Explanation:** Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+A. Cuba alone created every domestic political movement
+B. The war ended before Portuguese withdrawal
+C. MPLA and UNITA had one identical political base
+D. Local rivals existed; outside patrons prolonged and worsened their conflict
 
-### Q12. Which statement avoids a close-option trap about Ideological and international climate?
+### Q17. How should Rwanda 1994 be described alongside an armed conflict?
 
-A. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-B. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-C. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-D. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
+A. State-backed planned destruction of Tutsi and moderate Hutu was genocide amid war
+B. Every civil war is by definition genocide
+C. Apartheid and genocide were identical South African laws
+D. UN observers prevented the planned massacres
 
-**Answer: D.**
-**Explanation:** Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q18. How does Zimbabwe land show incomplete economic rupture?
 
-### Q13. Which statement correctly identifies Cost-of-repression mechanism?
+A. All productive land was equally redistributed at the conference
+B. The 1979 Lancaster House settlement preceded political independence but left concentrated white-held land
+C. Zimbabwe failed to become independent after negotiation
+D. The early postindependence period was identical to later farm seizures
 
-A. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-B. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-C. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-D. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
+### Q19. What had existed before apartheid electoral victory in 1948?
 
-**Answer: A.**
-**Explanation:** Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear. The remaining options belong to different chronology, actor or analytical categories.
+A. A universal black franchise and desegregated economy
+B. A Belgian trusteeship over South Africa
+C. White domination and pass or land restrictions that National Party rule extended
+D. A complete absence of racial categories in law
 
-### Q14. Which chronology card should be filed under Cost-of-repression mechanism?
+### Q20. What identifies apartheid as a statutory system rather than a loose prejudice?
 
-A. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-B. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-C. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-D. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
+A. The planned extermination of Tutsi in Rwanda
+B. The territorial secession of Biafra
+C. An election guaranteeing equal African voting rights
+D. Classification, pass laws, segregated residence and inferior schools
 
-**Answer: B.**
-**Explanation:** Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear. The remaining options belong to different chronology, actor or analytical categories.
+### Q21. What contradicted apartheid ideal of complete separation?
 
-### Q15. Which option preserves the source-bounded meaning of Cost-of-repression mechanism?
+A. White-owned mines and factories depended on nonwhite workers
+B. Industry employed only white workers
+C. Bantustans abolished urban employment needs
+D. Pass laws granted universal parliamentary voting
 
-A. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-B. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-C. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-D. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
+### Q22. What followed the constitutional resistance exemplified by the Freedom Charter?
 
-**Answer: C.**
-**Explanation:** Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear. The remaining options belong to different chronology, actor or analytical categories.
+A. The Charter was issued after 1994 majority rule
+B. Sharpeville repression encouraged armed sabotage while nonviolent resistance persisted
+C. Sharpeville proved all black Africans had full suffrage
+D. Every church immediately endorsed the apartheid regime
 
-### Q16. Which statement avoids a close-option trap about Cost-of-repression mechanism?
+### Q23. Why was Soweto 1976 a distinct stage of resistance?
 
-A. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-B. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-C. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-D. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
+A. It was the Ghana cocoa workers strike
+B. It was the Congress that partitioned India
+C. Students contested Afrikaans instruction and police violence spread protest
+D. It marked the first legal granting of black suffrage
 
-**Answer: D.**
-**Explanation:** Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear. The remaining options belong to different chronology, actor or analytical categories.
+### Q24. How should international sanctions against apartheid be qualified?
 
-### Q17. Which statement correctly identifies India and Pakistan, 1947?
+A. All foreign arms sales stopped immediately in 1962
+B. Commonwealth never criticized South Africa
+C. There were no later stronger sanctions measures
+D. Boycott resolutions initially lacked full compliance and Western trade continued
 
-A. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-B. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-C. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-D. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
+### Q25. Why did Botha limited reforms fail to settle opposition demands?
 
-**Answer: A.**
-**Explanation:** British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History. The remaining options belong to different chronology, actor or analytical categories.
+A. Township and labor concessions excluded full African voting rights
+B. His tricameral constitution gave Africans equal votes
+C. Pass-law relaxation itself installed Mandela as president
+D. No black labor was employed before Botha
 
-### Q18. Which chronology card should be filed under India and Pakistan, 1947?
+### Q26. What produced negotiated majority rule rather than an instant economic cure?
 
-A. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-B. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-C. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-D. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
+A. A permanent UN army redistributed all land before Mandela release
+B. De Klerk legalization and Mandela release led through negotiations to 1994 elections
+C. The National Party won the first postapartheid election
+D. Botha reforms alone gave black majority rule in 1984
 
-**Answer: B.**
-**Explanation:** British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History. The remaining options belong to different chronology, actor or analytical categories.
+### Q27. Which conclusion avoids using African instability to defend colonialism?
 
-### Q19. Which option preserves the source-bounded meaning of India and Pakistan, 1947?
+A. All cases resulted solely from ancient tribal rivalry
+B. Sovereignty eliminated all outside economic leverage
+C. Inherited boundaries, commodity dependence and weak administration constrained governments, while choices and external intervention shaped results
+D. Congo and Ghana followed exactly the same departure path
 
-A. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-B. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-C. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-D. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
+### Q28. How is neo-colonialism distinguished from direct imperial administration?
 
-**Answer: C.**
-**Explanation:** British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History. The remaining options belong to different chronology, actor or analytical categories.
+A. Direct appointment of colonial governors without sovereignty
+B. Planned destruction of a national group
+C. Mandatory military occupation by a UN specialized agency
+D. Influence through economic ties after formal political independence
 
-### Q20. Which statement avoids a close-option trap about India and Pakistan, 1947?
+## SEPARATE SOLVED KEY AND REMEDIATION
 
-A. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-B. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-C. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-D. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
+### Q1 — A
 
-**Answer: D.**
-**Explanation:** British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** This interaction explains retreat.
+- **B (incorrect):** It erases colonial agency.
+- **C (incorrect):** Norms did not replace mobilization.
+- **D (incorrect):** War exhausted metropolitan resources.
+- **Diagnostic trap:** Distinguish shrinking coercive supply from growing anticolonial demand.
 
-### Q21. Which statement correctly identifies Ghana, 1957?
+### Q2 — B
 
-A. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-B. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-C. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-D. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
+- **A (incorrect):** India preceded Algerian independence.
+- **B (correct):** Formal transfer did not prevent violent division.
+- **C (incorrect):** The departing power was Britain.
+- **D (incorrect):** Partition produced India and Pakistan.
+- **Diagnostic trap:** Legal transfer and social peace are different measures.
 
-**Answer: A.**
-**Explanation:** Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup. The remaining options belong to different chronology, actor or analytical categories.
+### Q3 — C
 
-### Q22. Which chronology card should be filed under Ghana, 1957?
+- **A (incorrect):** Algeria was under French rule.
+- **B (incorrect):** Ghana route was largely negotiated.
+- **C (correct):** Different property stakes changed withdrawal terms.
+- **D (incorrect):** Algeria independence followed later.
+- **Diagnostic trap:** Use settler presence, not merely continent or decade.
 
-A. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-B. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-C. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-D. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
+### Q4 — D
 
-**Answer: B.**
-**Explanation:** Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** These were African cases.
+- **B (incorrect):** These were African cases.
+- **C (incorrect):** Neither case was Asian.
+- **D (correct):** They embody separate Asian routes.
+- **Diagnostic trap:** Partition cannot stand for all of Asia.
 
-### Q23. Which option preserves the source-bounded meaning of Ghana, 1957?
+### Q5 — A
 
-A. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-B. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-C. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-D. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
+- **A (correct):** Preparation and resources interacted.
+- **B (incorrect):** That preparation belonged to Ghana.
+- **C (incorrect):** Katanga is central.
+- **D (incorrect):** Neither power nor date matches.
+- **Diagnostic trap:** Do not call all African exits equally prepared.
 
-**Answer: C.**
-**Explanation:** Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup. The remaining options belong to different chronology, actor or analytical categories.
+### Q6 — B
 
-### Q24. Which statement avoids a close-option trap about Ghana, 1957?
+- **A (incorrect):** That describes Congo timing.
+- **B (correct):** Chronology and metropole matter.
+- **C (incorrect):** Their independence was much later.
+- **D (incorrect):** They were Portuguese African possessions.
+- **Diagnostic trap:** Portuguese collapse cannot be backdated to the 1950s.
 
-A. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-B. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-C. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-D. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
+### Q7 — C
 
-**Answer: D.**
-**Explanation:** Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** It remained separate then.
+- **B (incorrect):** Multiple polities and communities existed.
+- **C (correct):** The polity had to be designed.
+- **D (incorrect):** Indian partition is a separate case.
+- **Diagnostic trap:** State boundaries were an instrument of political choice.
 
-### Q25. Which statement correctly identifies Algeria, 1962?
+### Q8 — D
 
-A. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-B. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-C. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-D. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
+- **A (incorrect):** Exports did not prohibit franchise.
+- **B (incorrect):** That was not the Malayan setting.
+- **C (incorrect):** Singapore was excluded then.
+- **D (correct):** Electorate design shaped the postcolonial state.
+- **Diagnostic trap:** Who votes depends partly on which territory is included.
 
-**Answer: A.**
-**Explanation:** A large settler population and metropolitan stakes made French withdrawal prolonged and violent. The remaining options belong to different chronology, actor or analytical categories.
+### Q9 — A
 
-### Q26. Which chronology card should be filed under Algeria, 1962?
+- **A (correct):** Security and political timetable combined.
+- **B (incorrect):** The intended successor was not the insurgency.
+- **C (incorrect):** Independence was explicitly offered.
+- **D (incorrect):** It continued beyond independence.
+- **Diagnostic trap:** Counterinsurgency is not reducible to military pressure.
 
-A. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-B. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-C. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-D. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
+### Q10 — B
 
-**Answer: B.**
-**Explanation:** A large settler population and metropolitan stakes made French withdrawal prolonged and violent. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** It was an electoral coalition.
+- **B (correct):** Political cooperation supported transfer in 1957.
+- **C (incorrect):** Pol Pot belonged to Cambodia.
+- **D (incorrect):** The election occurred in Malaya.
+- **Diagnostic trap:** The successor coalition, not only the insurgents, mattered.
 
-### Q27. Which option preserves the source-bounded meaning of Algeria, 1962?
+### Q11 — C
 
-A. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-B. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-C. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
-D. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
+- **A (incorrect):** Singapore was separate in 1948 but its later separation from Malaysia was 1965.
+- **B (incorrect):** Brunei decided not to join.
+- **C (correct):** Changing boundaries outlasted transfer.
+- **D (incorrect):** The date is 1957.
+- **Diagnostic trap:** Never collapse federation proposal, proclamation and separation.
 
-**Answer: C.**
-**Explanation:** A large settler population and metropolitan stakes made French withdrawal prolonged and violent. The remaining options belong to different chronology, actor or analytical categories.
+### Q12 — D
 
-### Q28. Which statement avoids a close-option trap about Algeria, 1962?
+- **A (incorrect):** Workers and supporters supplied disruptive force.
+- **B (incorrect):** Nyerere belonged to Tanganyika, not West Africa.
+- **C (incorrect):** Garvey was a self-educated Jamaican.
+- **D (correct):** Elite leadership met urban collective pressure.
+- **Diagnostic trap:** West African demand must not absorb East African examples.
 
-A. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-B. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-C. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-D. A large settler population and metropolitan stakes made French withdrawal prolonged and violent.
+### Q13 — A
 
-**Answer: D.**
-**Explanation:** A large settler population and metropolitan stakes made French withdrawal prolonged and violent. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** Economic and political mechanisms interacted.
+- **B (incorrect):** Training is no guarantee against market shocks.
+- **C (incorrect):** Ghana was comparatively well prepared.
+- **D (incorrect):** The coup came after independence.
+- **Diagnostic trap:** Better preparation is not immunity from policy errors.
 
-### Q29. Which statement correctly identifies Congo, 1960?
+### Q14 — B
 
-A. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-B. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-C. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-D. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
+- **A (incorrect):** The federation survived.
+- **B (correct):** Inherited division did not make permanent conflict inevitable.
+- **C (incorrect):** Regional distrust intensified.
+- **D (incorrect):** Political, economic and external factors mattered.
+- **Diagnostic trap:** Conflict does not erase evidence of later recovery.
 
-**Answer: A.**
-**Explanation:** Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state. The remaining options belong to different chronology, actor or analytical categories.
+### Q15 — C
 
-### Q30. Which chronology card should be filed under Congo, 1960?
+- **A (incorrect):** It was in Congo.
+- **B (incorrect):** Its secession threatened unity and revenue.
+- **C (correct):** Resource politics interacted with hurried transfer.
+- **D (incorrect):** The source says the opposite.
+- **Diagnostic trap:** Named resources outperform generic tribalism.
 
-A. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-B. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-C. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-D. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
+### Q16 — D
 
-**Answer: B.**
-**Explanation:** Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Internal contenders predated outside support.
+- **B (incorrect):** It began after independence.
+- **C (incorrect):** They were distinct rivals.
+- **D (correct):** Cold War influence amplified rather than invented rivalry.
+- **Diagnostic trap:** Do not mistake amplification for origination.
 
-### Q31. Which option preserves the source-bounded meaning of Congo, 1960?
+### Q17 — A
 
-A. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-B. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-C. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
-D. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
+- **A (correct):** Intent to destroy distinguishes the crime.
+- **B (incorrect):** War alone proves no exterminatory intent.
+- **C (incorrect):** Apartheid was statutory racial subordination.
+- **D (incorrect):** A limited force was unable to stop them.
+- **Diagnostic trap:** Mass killing is not explained by timeless ethnicity.
 
-**Answer: C.**
-**Explanation:** Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state. The remaining options belong to different chronology, actor or analytical categories.
+### Q18 — B
 
-### Q32. Which statement avoids a close-option trap about Congo, 1960?
+- **A (incorrect):** The distribution remained contested.
+- **B (correct):** Asset ownership did not track political power immediately.
+- **C (incorrect):** Independence came in 1980.
+- **D (incorrect):** The source notes earlier moderation.
+- **Diagnostic trap:** Retain both early achievement and later coercion.
 
-A. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-B. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state.
+### Q19 — C
 
-**Answer: D.**
-**Explanation:** Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Political exclusion predated 1948.
+- **B (incorrect):** The polity was not Belgian Congo.
+- **C (correct):** Apartheid codified an older hierarchy.
+- **D (incorrect):** Earlier discriminatory controls existed.
+- **Diagnostic trap:** Codification is not the original invention of racism.
 
-### Q33. Which statement correctly identifies Portuguese Africa, 1975?
+### Q20 — D
 
-A. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-B. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
+- **A (incorrect):** This is genocide in another state.
+- **B (incorrect):** This is a Nigerian civil-war case.
+- **C (incorrect):** Apartheid excluded that franchise.
+- **D (correct):** Legislation structured daily inequality.
+- **Diagnostic trap:** Keep genocide, civil war and apartheid distinct.
 
-**Answer: A.**
-**Explanation:** Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique. The remaining options belong to different chronology, actor or analytical categories.
+### Q21 — A
 
-### Q34. Which chronology card should be filed under Portuguese Africa, 1975?
+- **A (correct):** Economic reliance undercut political exclusion.
+- **B (incorrect):** Nonwhite labor was essential.
+- **C (incorrect):** Workers still worked in white-controlled areas.
+- **D (incorrect):** They restricted movement, not granted equality.
+- **Diagnostic trap:** Economic integration can coexist with legally imposed segregation.
 
-A. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-B. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
+### Q22 — B
 
-**Answer: B.**
-**Explanation:** Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** It preceded the end of apartheid.
+- **B (correct):** Tactics diversified rather than cleanly replaced one another.
+- **C (incorrect):** The demonstration faced lethal repression.
+- **D (incorrect):** Church and civil-society resistance also emerged.
+- **Diagnostic trap:** Do not claim an instant permanent end to nonviolence.
 
-### Q35. Which option preserves the source-bounded meaning of Portuguese Africa, 1975?
+### Q23 — C
 
-A. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-B. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-C. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
-D. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
+- **A (incorrect):** Different location and issue.
+- **B (incorrect):** No connection to 1947 transfer.
+- **C (correct):** Education policy became a mass political grievance.
+- **D (incorrect):** The state used repression.
+- **Diagnostic trap:** Language-of-instruction politics mattered.
 
-**Answer: C.**
-**Explanation:** Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique. The remaining options belong to different chronology, actor or analytical categories.
+### Q24 — D
 
-### Q36. Which statement avoids a close-option trap about Portuguese Africa, 1975?
+- **A (incorrect):** The source records continued sales.
+- **B (incorrect):** Criticism and withdrawal from membership occurred.
+- **C (incorrect):** Pressure increased in the 1980s.
+- **D (correct):** Declaration differed from implementation.
+- **Diagnostic trap:** Never equate condemnation with immediate compliance.
 
-A. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-B. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-C. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-D. Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique.
+### Q25 — A
 
-**Answer: D.**
-**Explanation:** Authoritarian Portugal's late imperial collapse produced rapid independence in Angola and Mozambique. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** Partial reform preserved white rule.
+- **B (incorrect):** Africans were excluded.
+- **C (incorrect):** That transition came later.
+- **D (incorrect):** The economy had long relied on it.
+- **Diagnostic trap:** Limited concessions can increase opposition when franchise remains withheld.
 
-### Q37. Which statement correctly identifies Malaya's plural route?
+### Q26 — B
 
-A. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-B. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
+- **A (incorrect):** There was no such military transfer.
+- **B (correct):** Political transition retained structural inequalities.
+- **C (incorrect):** The ANC won.
+- **D (incorrect):** Black Africans were excluded then.
+- **Diagnostic trap:** Ending political apartheid did not settle economic inequality.
 
-**Answer: A.**
-**Explanation:** The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions. The remaining options belong to different chronology, actor or analytical categories.
+### Q27 — C
 
-### Q38. Which chronology card should be filed under Malaya's plural route?
+- **A (incorrect):** Colonial institutions and modern politics mattered.
+- **B (incorrect):** Trade influence persisted.
+- **C (correct):** Structural explanation is not a verdict against freedom.
+- **D (incorrect):** Preparation and outcomes differed.
+- **Diagnostic trap:** Inherited constraints do not negate the legitimacy of independence.
 
-A. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-B. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
+### Q28 — D
 
-**Answer: B.**
-**Explanation:** The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Malaya's plural route?
-
-A. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-B. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-C. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-D. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-
-**Answer: C.**
-**Explanation:** The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Malaya's plural route?
-
-A. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-B. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-C. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-D. The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions.
-
-**Answer: D.**
-**Explanation:** The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Malayan Emergency and independence?
-
-A. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-B. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-
-**Answer: A.**
-**Explanation:** The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Malayan Emergency and independence?
-
-A. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-B. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-C. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-D. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-
-**Answer: B.**
-**Explanation:** The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Malayan Emergency and independence?
-
-A. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-B. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-C. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-D. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-
-**Answer: C.**
-**Explanation:** The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Malayan Emergency and independence?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-C. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-D. The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957.
-
-**Answer: D.**
-**Explanation:** The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Malaysia and Singapore?
-
-A. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-B. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-C. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-D. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-
-**Answer: A.**
-**Explanation:** Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Malaysia and Singapore?
-
-A. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-B. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-C. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-D. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-
-**Answer: B.**
-**Explanation:** Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Malaysia and Singapore?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-C. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-D. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-
-**Answer: C.**
-**Explanation:** Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Malaysia and Singapore?
-
-A. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-B. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-C. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-D. Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965.
-
-**Answer: D.**
-**Explanation:** Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Post-colonial structural inheritance?
-
-A. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-B. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-C. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-D. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-
-**Answer: A.**
-**Explanation:** Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Post-colonial structural inheritance?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-C. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-D. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-
-**Answer: B.**
-**Explanation:** Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Post-colonial structural inheritance?
-
-A. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-B. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-C. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-D. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-
-**Answer: C.**
-**Explanation:** Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Post-colonial structural inheritance?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-C. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-D. Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states.
-
-**Answer: D.**
-**Explanation:** Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Nigeria and Biafra?
-
-A. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-B. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-C. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-D. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-
-**Answer: A.**
-**Explanation:** A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Nigeria and Biafra?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-C. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-D. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-
-**Answer: B.**
-**Explanation:** A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Nigeria and Biafra?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-C. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-D. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-
-**Answer: C.**
-**Explanation:** A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Nigeria and Biafra?
-
-A. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-B. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-C. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-D. A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign.
-
-**Answer: D.**
-**Explanation:** A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Angola and Cold War amplification?
-
-A. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-B. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-C. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-D. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-
-**Answer: A.**
-**Explanation:** MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Angola and Cold War amplification?
-
-A. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-B. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-C. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-D. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-
-**Answer: B.**
-**Explanation:** MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Angola and Cold War amplification?
-
-A. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-B. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-C. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-D. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-
-**Answer: C.**
-**Explanation:** MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Angola and Cold War amplification?
-
-A. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-B. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-C. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-D. MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict.
-
-**Answer: D.**
-**Explanation:** MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Rwanda and genocide?
-
-A. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-B. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-C. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-D. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-
-**Answer: A.**
-**Explanation:** Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Rwanda and genocide?
-
-A. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-B. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-C. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-D. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-
-**Answer: B.**
-**Explanation:** Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Rwanda and genocide?
-
-A. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-B. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-C. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-D. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-
-**Answer: C.**
-**Explanation:** Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Rwanda and genocide?
-
-A. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-B. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-C. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-D. Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu.
-
-**Answer: D.**
-**Explanation:** Colonial and post-colonial politics hardened Hutu-Tutsi identities; state-backed Interahamwe violence in 1994 murdered about eight hundred thousand Tutsi and moderate Hutu. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Zimbabwe's deferred land question?
-
-A. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-B. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-C. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-D. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-
-**Answer: A.**
-**Explanation:** The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Zimbabwe's deferred land question?
-
-A. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-B. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-C. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-D. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-
-**Answer: B.**
-**Explanation:** The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Zimbabwe's deferred land question?
-
-A. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-B. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-C. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-D. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-
-**Answer: C.**
-**Explanation:** The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Zimbabwe's deferred land question?
-
-A. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-B. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-C. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-D. The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis.
-
-**Answer: D.**
-**Explanation:** The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Western-educated African elite?
-
-A. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-B. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-C. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-D. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-
-**Answer: A.**
-**Explanation:** Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Western-educated African elite?
-
-A. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-B. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-C. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-D. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-
-**Answer: B.**
-**Explanation:** Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Western-educated African elite?
-
-A. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-B. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-C. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-D. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-
-**Answer: C.**
-**Explanation:** Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Western-educated African elite?
-
-A. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-B. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-C. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-D. Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action.
-
-**Answer: D.**
-**Explanation:** Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Neo-colonial continuity?
-
-A. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-B. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-C. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-D. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-
-**Answer: A.**
-**Explanation:** Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Neo-colonial continuity?
-
-A. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-B. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-C. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-D. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-
-**Answer: B.**
-**Explanation:** Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Neo-colonial continuity?
-
-A. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-B. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-C. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-D. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-
-**Answer: C.**
-**Explanation:** Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Neo-colonial continuity?
-
-A. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-B. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-C. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-D. Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism.
-
-**Answer: D.**
-**Explanation:** Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Apartheid and negotiated transition?
-
-A. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-B. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-C. War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression.
-D. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-
-**Answer: A.**
-**Explanation:** Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Apartheid and negotiated transition?
-
-A. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-B. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-C. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-D. Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule.
-
-**Answer: B.**
-**Explanation:** Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Apartheid and negotiated transition?
-
-A. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-B. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-C. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-D. Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy.
-
-**Answer: C.**
-**Explanation:** Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Apartheid and negotiated transition?
-
-A. British withdrawal transferred power through partition; the Indian detail remains owned by Modern Indian History.
-B. Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear.
-C. Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup.
-D. Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994.
-
-**Answer: D.**
-**Explanation:** Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** That remains colonialism.
+- **B (incorrect):** This defines genocide, not economic influence.
+- **C (incorrect):** No such agency power defines the term.
+- **D (correct):** The flag changes while economic leverage remains.
+- **Diagnostic trap:** Do not claim sovereignty entails economic autonomy.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -842,7 +466,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Status:** Owner-verified neutral rendering; not claimed as verbatim.
 
-**Model solution:** Western education exposed leaders to metropolitan political language and to racial discrimination. Nkrumah, Azikiwe and Nyerere converted that experience into parties, newspapers and constitutional claims. Yet elite education alone did not end empire: Nkrumah used boycotts, demonstrations and a general strike, while Azikiwe's press and labour organisation gave nationalism disruptive urban power. Few permanent European settlers made negotiated withdrawal easier in West Africa than in Algeria. The educated elite therefore supplied leadership and programme, while workers and urban supporters supplied the mass force that changed British calculations.
+**Model solution:** Western education exposed leaders to metropolitan political language and to racial discrimination. Nkrumah and Azikiwe converted that experience into parties, newspapers and constitutional claims; Nyerere belonged to East Africa and is not a West African example. Yet elite education alone did not end empire: Nkrumah used boycotts, demonstrations and a general strike, while Azikiwe's press and labour organisation gave nationalism disruptive urban power. Few permanent European settlers made negotiated withdrawal easier in West Africa than in Algeria. The educated elite therefore supplied leadership and programme, while workers and urban supporters supplied the mass force that changed British calculations.
 
 **Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2016 GS-I · legacy demand · marks and verbatim wording not locally held”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
 
@@ -856,7 +480,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Western education exposed leaders to metropolitan political language and to racial discrimination. Nkrumah, Azikiwe and Nyerere converted that experience into parties, newspapers and constitutional claims. Yet elite education alone did not end empire: Nkrumah used boycotts, demonstrations and a general strike, while Azikiwe's press and labour organisation gave nationalism disruptive urban power. Few permanent European settlers made negotiated withdrawal easier in West Africa than in Algeria. The educated elite therefore supplied leadership and programme, while workers and urban supporters supplied the mass force that changed British calculations.
+**Introduction and thesis:** Western education exposed leaders to metropolitan political language and to racial discrimination. Nkrumah and Azikiwe converted that experience into parties, newspapers and constitutional claims; Nyerere belonged to East Africa and is not a West African example. Yet elite education alone did not end empire: Nkrumah used boycotts, demonstrations and a general strike, while Azikiwe's press and labour organisation gave nationalism disruptive urban power. Few permanent European settlers made negotiated withdrawal easier in West Africa than in Algeria. The educated elite therefore supplied leadership and programme, while workers and urban supporters supplied the mass force that changed British calculations.
 
 **Qualification:** Treat the stated causal weight as bounded by the question's period, geography and evidence status; do not convert it into inevitability or a universal civilisational claim.
 
@@ -887,18 +511,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Metropolitan exhaustion reduced repression while nationalist mobilisation, delegitimation and international pressure raised its cost beyond sustainable benefit.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** War weakened European finances, coercive capacity and confidence, reducing the supply of imperial repression. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Colonial elites, workers, soldiers and peasants raised the political and coercive cost of continued foreign rule. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Anti-fascist rhetoric, self-determination, Japanese victories, the United Nations and superpower pressure weakened empire's legitimacy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Empire ended where nationalist resistance made the cost of holding territory exceed the benefit metropolitan publics would bear. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Metropolitan exhaustion reduced repression while nationalist mobilisation, delegitimation and international pressure raised its cost beyond sustainable benefit.
+After the Second World War, European empire became harder to finance, justify and enforce. Britain and France faced war exhaustion and reconstruction costs; this weakened the supply of imperial coercion. Colonial nationalist movements of workers, peasants, soldiers and educated leaders raised the cost of holding territory: Nkrumah's Ghana combined political organization with boycotts and strikes. Anti-fascist rhetoric, self-determination and the UN climate challenged empire's legitimacy; the USA and USSR opposed older forms of empire in declared principle, though both pursued their interests in new states. Withdrawal did not follow one route. Ghana obtained a negotiated transfer, while settler claims helped make French Algeria a prolonged war. Congo's hurried Belgian exit further shows that the immediate postwar erosion of empire did not automatically create prepared successor institutions. Empire collapsed because resistance and metropolitan weakness interacted, not because colonial rulers suddenly chose generosity.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
@@ -925,16 +538,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Few settlers and an organised negotiating partner enabled Ghanaian transfer, while Algeria's settler population made property and sovereignty non-negotiable.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** A large settler population and metropolitan stakes made French withdrawal prolonged and violent. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Few settlers and an organised negotiating partner enabled Ghanaian transfer, while Algeria's settler population made property and sovereignty non-negotiable.
+Ghana and Algeria illustrate the role of settlers and local political organization in deciding how colonial power ended. In Ghana, relatively few Europeans held permanent estates to defend. Nkrumah's party and mass boycotts and strikes increased British costs, while limited constitutional preparation provided a negotiating partner; independence followed in 1957. By contrast, in Algeria a substantial European settler community had property and political ties to France, making withdrawal far harder to concede. A long anti-colonial war ended with Algerian independence in 1962. The contrast is not simply benevolent Britain versus violent France: the structure of each colony and the metropolitan willingness to defend settlers changed the options. Nor was Ghana therefore assured stable democracy; cocoa dependence and political closure later contributed to crisis. Decolonization varied because social and economic stakes differed, not because Africans followed one predetermined trajectory.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
@@ -962,17 +566,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Plural demography, communist insurgency, federation design and a credible promise of independence made succession and franchise more important than settler withdrawal.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Federation of Malaya joined nine sultanates and two settlements in 1948 while Singapore remained separate, making franchise and state shape central questions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The 1948-60 Emergency combined resettlement with a credible independence promise; an inter-communal Alliance victory in 1955 preceded independence in 1957. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Malaysia was proclaimed in 1963 after a UN investigation; Brunei did not join and Singapore became separate in 1965. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Plural demography, communist insurgency, federation design and a credible promise of independence made succession and franchise more important than settler withdrawal.
+Malayan decolonization was not simply a demand that Britain depart; it required constructing the state that would inherit power. Nine sultanates and two British settlements formed the 1948 Federation of Malaya, with Singapore initially separate. Malay, Chinese and Indian communities had different stakes in the franchise and the boundary of the federation. Chin Peng's Chinese communist guerrillas, active after the anti-Japanese struggle, challenged British rule during the Emergency. Britain used guarded resettlement but also promised independence, helping keep Malay support away from the insurgency. Tunku Abdul Rahman's inter-communal Alliance won a strong electoral mandate in 1955, and independence followed in 1957. Yet the successor unit still changed: Malaysia was proclaimed in 1963; Singapore separated in 1965, while Brunei did not join. Unlike Ghana's largely negotiated anti-colonial route or Algeria's settler war, Malaya combined plural-society constitutional design, counterinsurgency and a credible timetable. India's partition provides another contrast: political boundaries could be settled through a violent separation, whereas Malayan state formation continued beyond independence. The political mechanism, not only the date of British exit, distinguishes the peninsula.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
@@ -998,15 +592,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Education supplied vocabulary and leadership, but newspapers, parties, strikes and urban mass support converted elite argument into coercive political leverage.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Nkrumah, Azikiwe and Nyerere turned metropolitan education, newspapers, parties and strikes into nationalist leadership joined to urban mass action. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Education supplied vocabulary and leadership, but newspapers, parties, strikes and urban mass support converted elite argument into coercive political leverage.
+Western-educated Africans helped articulate and organize anticolonial demands, but did not win independence merely through education. Exposure to metropolitan ideas and racial discrimination equipped Kwame Nkrumah and Nnamdi Azikiwe with political language and networks. Nkrumah's party in the Gold Coast organized boycotts, demonstrations and a general strike; British willingness to negotiate reflected evidence of his mass support, not elite credentials alone. Azikiwe's newspapers and labour organization in Nigeria connected nationalist arguments to urban audiences and strike pressure. Growing towns supplied the workers able to make colonial rule costly. Relatively few permanent European settlers in West Africa made negotiation easier than in Algeria, independently of leaders' schooling. Nyerere of Tanganyika was an important educated African nationalist but is not a West African case; Marcus Garvey was a self-educated Jamaican and should not be mislabelled a university-trained West African leader. Thus elites contributed leadership, press and programme, while urban collective action and colonial structure set the pace of transfer. Their pan-African visions also exceeded what the separate successor states ultimately achieved.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
@@ -1036,19 +622,7 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Extractive economies, colonial borders, narrow institutions and militarised elites interacted with secession and external intervention; Ghana, Congo, Nigeria and Angola show distinct mechanisms.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Ghana achieved relatively smooth constitutional transfer where settlers were few, yet commodity dependence and later political closure produced strain and a 1966 coup. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Belgium transferred power abruptly with only seventeen graduates, while Katanga secession, resource politics, Cold War intervention and UN deployment destabilised the state. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Colonial borders, narrow administration, mono-export economies, army-elite rivalry and Cold War intervention constrained new states. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** A 1966 coup, anti-Igbo massacres and Biafran secession in 1967 produced war until January 1970, followed by reconciliation and federal redesign. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** MPLA, UNITA and FNLA rivalry after 1975 was intensified by American, Cuban, South African and Zairian intervention; outsiders worsened rather than created the conflict. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Extractive economies, colonial borders, narrow institutions and militarised elites interacted with secession and external intervention; Ghana, Congo, Nigeria and Angola show distinct mechanisms.
+Post-independence instability varied by state; neither inherited conditions nor leaders' decisions explain it alone. Colonial frontiers grouped differently positioned communities, export economies relied on few commodities, and administrative training was uneven. Ghana illustrates that even comparatively good preparation could not insure against cocoa-price vulnerability or political closure: Nkrumah's government faced a 1966 coup. Congo's hurried Belgian withdrawal left a thin professional class; Katanga's mineral-rich secession and Cold War intervention aggravated the crisis. Nigeria's regional federalism did not prevent military takeover or Biafran secession, but reconciliation and federal redesign after the war show that division was not an immutable ethnic fate. Angola's domestic rivals fought after Portuguese withdrawal while Cuban, South African and other outside involvement intensified and prolonged conflict. Zimbabwe's Lancaster House settlement left major land inequality, later politicized despite initial moderation. In Rwanda planned state-backed destruction of Tutsi and moderate Hutu amounted to genocide alongside civil war; treating it as timeless tribalism obscures political responsibility. Army dominance, economic shocks and foreign patrons thus interacted differently in each case. Political independence rightly ended formal empire, but could not instantly transform its boundaries, productive assets or institutions. Postcolonial crisis is an argument for explaining and repairing these inheritances, never a retroactive defense of colonial rule.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
@@ -1076,14 +650,4 @@ The owner records two pre-2018 GS-I demands in neutral rendering only: the disti
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Political sovereignty ended direct rule, but commodity dependence, land inequality and external influence persisted, while movements created genuine new institutions and citizenship.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The 1979 Lancaster House settlement enabled 1980 independence but deferred unequal land ownership, which later became an instrument of political crisis. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Formal sovereignty often coexisted with economic influence through trade links, commodity dependence and external intervention, described historically as neo-colonialism. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Apartheid codified racial exclusion after 1948, provoked constitutional and armed resistance, faced international pressure and ended through negotiated majority rule in 1994. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Political sovereignty ended direct rule, but commodity dependence, land inequality and external influence persisted, while movements created genuine new institutions and citizenship.
+Decolonization was a decisive rupture in formal sovereignty but an uneven, often incomplete rupture in economic and social structure. India's 1947 British withdrawal established independent states at the cost of partition and communal violence; Ghana's negotiated 1957 transfer created a national government without removing dependence on cocoa exports. Algeria's 1962 independence required a prolonged war because settlers made retreat contentious, while Congo's hurried transfer produced an institutional crisis around Katanga. Malaya adds another mechanism: British resettlement and a promise of independence undermined communist insurgents while the inter-communal Alliance shaped the successor federation; boundaries changed again when Singapore separated in 1965. Portuguese Angola entered independence in 1975 with local rivals whose conflict outside patrons amplified. Zimbabwe in 1980 obtained majority rule but inherited concentrated land ownership. South Africa's negotiated majority rule in 1994 destroyed legal apartheid, yet economic hierarchy did not disappear with the franchise. Former imperial powers could still exercise economic leverage after withdrawal: the source calls this neo-colonialism, not continuing direct colonial administration. Contrasting Brendon and Gott emphasis on coercion and extraction with Ferguson attention to legal or institutional legacies requires asking whose interests those institutions served; neither perspective alone settles every colony record. New states made real choices—Nigeria post-Biafra reconciliation shows trajectories could change—within inherited constraints. Independence was therefore neither a mere change of flag nor an instant social revolution: sovereign political agency expanded rapidly, whereas the material transformation of colonial economies and unequal power took much longer.

@@ -6,823 +6,549 @@ topic_key: modern-indian-history-23
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies AITUC foundation?
+Select the single best answer. The separate key gives reasons for each option.
 
-A. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-B. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-C. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-D. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
+### Q1. A register lists an all-India workers’ federation formed before the CSP and AIKS. Identify its first president.
 
-**Answer: A.**
-**Explanation:** The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Lala Lajpat Rai of AITUC (1920)
+B. Sahajanand Saraswati of AITUC (1936)
+C. Vallabhbhai Patel of AIKS (1920)
+D. Subhas Bose of AITUC (1939)
 
-### Q2. Which chronology card should be filed under AITUC foundation?
+### Q2. Match the 1925 Kanpur formation point and the 1929–33 Meerut prosecution to their political stream.
 
-A. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-B. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-C. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-D. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
+A. Princely-state conference followed by Bose’s Congress election
+B. Communist organisation and colonial repression of left/trade-union activists
+C. Congress Socialist Party founding and its later ban
+D. AIKS founding followed by colonial prosecution of its first president
 
-**Answer: B.**
-**Explanation:** The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. A historian calls Meerut evidence that no worker organisation existed before the 1930s. Assess the claim.
 
-### Q3. Which option should a candidate retain when revising AITUC foundation?
+A. It holds because Meerut concerned only princely-state suffrage
+B. It fails only because Tripuri was itself a workers’ strike
+C. It fails: AITUC existed from 1920; the 1929–33 case targeted left and union networks
+D. It holds because AITUC was founded only after AIKS in 1936
 
-A. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-B. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-C. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-D. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
+### Q4. Identify the institutional location of the Congress Socialist Party at its 1934 formation.
 
-**Answer: C.**
-**Explanation:** The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. An externally founded trade-union umbrella replacing AITUC
+B. A princely-states confederation replacing AISPC
+C. The party created by Bose after the Tripuri crisis
+D. A socialist current working within Congress
 
-### Q4. Which statement avoids a common matching trap about AITUC foundation?
+### Q5. Which set contains CSP-associated leaders rather than AIKS founders or princely rulers?
 
-A. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-B. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-C. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-D. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
+A. Jayaprakash Narayan, Acharya Narendra Dev and Ram Manohar Lohia
+B. Sahajanand Saraswati, N.G. Ranga and Vallabhbhai Patel
+C. Ramsay MacDonald, Lord Irwin and the Nizam
+D. Lala Lajpat Rai, Baba Ramchandra and C. Rajagopalachari
 
-**Answer: D.**
-**Explanation:** The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. A constitutional-history chart pairs Karachi 1931 with Faizpur 1936. What connecting thread is strongest?
 
-### Q5. Which statement correctly identifies Communist formation chronology?
+A. Both sessions gave India immediate land redistribution by statute
+B. Civil liberties and economic rights broadened into explicit agrarian emphasis within Congress
+C. Karachi founded AIKS and Faizpur founded AITUC
+D. Karachi established princely-state elections and Faizpur ended the Meerut trial
 
-A. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-B. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-C. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-D. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
+### Q7. Which correction best describes Bardoli in relation to the history of organised agrarian protest?
 
-**Answer: A.**
-**Explanation:** Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. A 1920 Bombay textile strike directed by Rai
+B. The 1946 armed peasant struggle in Hyderabad
+C. A 1928 Gujarat revenue satyagraha led by Patel before AIKS formed in 1936
+D. A 1936 Bengal sharecroppers’ two-thirds campaign organised by AIKS
 
-### Q6. Which chronology card should be filed under Communist formation chronology?
+### Q8. Which comparison of Awadh/Eka and AIKS avoids collapsing local and national stages?
 
-A. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-B. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-C. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-D. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
+A. AIKS launched Eka before World War I from Bengal
+B. Eka was the 1946 Telangana armed campaign
+C. Baba Ramchandra chaired the 1934 CSP rather than mobilising in Awadh
+D. Awadh/Eka peasant mobilisation preceded the national Kisan Sabha of 1936
 
-**Answer: B.**
-**Explanation:** Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. How should Moplah 1921 be used as evidence in a class-history answer?
 
-### Q7. Which option should a candidate retain when revising Communist formation chronology?
+A. As an agrarian/anti-colonial struggle whose communal violence must also be acknowledged
+B. As a purely class-based strike free of communal violence
+C. As a purely communal disturbance lacking agrarian grievances
+D. As the Telangana armed campaign under the Hyderabad state
 
-A. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-B. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-C. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-D. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
+### Q10. Match the first all-India peasant platform and its prominent leaders.
 
-**Answer: C.**
-**Explanation:** Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. AISPC (1936) — Patel and Baba Ramchandra
+B. AIKS (1936) — Sahajanand Saraswati and N.G. Ranga
+C. AITUC (1936) — Sahajanand Saraswati and N.G. Ranga
+D. AIKS (1920) — Lala Lajpat Rai and Subhas Bose
 
-### Q8. Which statement avoids a common matching trap about Communist formation chronology?
+### Q11. Which claim about Bakasht struggles in Bihar is appropriately bounded?
 
-A. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-B. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-C. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-D. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
+A. Bakasht was the first Congress presidential election in a princely state
+B. Bakasht was a name for the all-India trade-union founding conference
+C. Tenancy, landlord claims and cultivation rights fed a more radical agrarian politics
+D. Bakasht was a salt raid after Gandhi’s arrest
 
-**Answer: D.**
-**Explanation:** Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Place Warli, Tebhaga and Telangana relative to the 1936 AIKS formation.
 
-### Q9. Which statement correctly identifies Workers' and Peasants' Parties?
+A. They were three names for the 1928 Bardoli satyagraha
+B. They all occurred in 1931 at the Karachi session
+C. They were provisions enacted by the Government of India Act 1935
+D. They illustrate later 1940s regional agrarian/tribal radicalisation, not simultaneous AIKS founding events
 
-A. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-B. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-C. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-D. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
+### Q13. A Bengal bargadar argues for two-thirds of the produce. Which movement owns this demand?
 
-**Answer: A.**
-**Explanation:** Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Tebhaga in the 1940s
+B. Bardoli in Gujarat in 1928
+C. The Warli movement’s core demand in 1945
+D. The Peshawar conspiracy case
 
-### Q10. Which chronology card should be filed under Workers' and Peasants' Parties?
+### Q14. Distinguish the Telangana struggle from Bardoli without flattening either into a single peasant category.
 
-A. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-B. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-C. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-D. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
+A. Both were London Round Table Conference committees
+B. Telangana began in 1946 against landlords under Hyderabad and included armed struggle; Bardoli was disciplined revenue satyagraha
+C. Telangana was Patel’s non-violent Gujarat revenue campaign of 1928
+D. Bardoli began as a 1946 armed anti-Nizam movement
 
-**Answer: B.**
-**Explanation:** Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. Which pairing properly locates the Warli struggle and its principal social constituency?
 
-### Q11. Which option should a candidate retain when revising Workers' and Peasants' Parties?
+A. 1928 — Patel’s revenue protest in Gujarat
+B. 1939 — Bose’s Forward Bloc organisation
+C. 1945 — Adivasi agrarian labour and coercion in western India
+D. 1925 — Communist Party founding in Kanpur
 
-A. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-B. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-C. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-D. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
+### Q16. A paper treats Birsa’s Ulgulan as a direct 1930s AIKS campaign. Which correction is safe?
 
-**Answer: C.**
-**Explanation:** Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Ulgulan was the 1936 national founding session of AIKS
+B. Ulgulan was Bose’s 1939 campaign against the Working Committee
+C. Ulgulan was the Bengal Tebhaga movement in 1946
+D. Ulgulan was Birsa Munda’s 1899–1900 tribal revolt, relevant here as longer genealogy
 
-### Q12. Which statement avoids a common matching trap about Workers' and Peasants' Parties?
+### Q17. What differentiates AISPC’s constituency from AITUC’s?
 
-A. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-B. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-C. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-D. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
+A. AISPC (1927) coordinated political rights in princely states; AITUC (1920) organised workers
+B. AISPC (1920) organised cotton-mill workers; AITUC (1927) princely subjects
+C. Both were colonial statutory commissions without Indian members
+D. AISPC campaigned solely for Bengal’s two-thirds sharecropping
 
-**Answer: D.**
-**Explanation:** Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. Why do States’ Peoples’ Movements extend the geographic meaning of nationalism?
 
-### Q13. Which statement correctly identifies Meerut Conspiracy Case?
+A. They secured immediate full popular sovereignty in every princely state by 1930
+B. They pressed for democratic rights under princes, not merely in directly British-governed provinces
+C. They demanded only factory wage increases under the British provincial ministries
+D. They were exclusively committees of British MPs for the Simon Commission
 
-A. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-B. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-C. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-D. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
+### Q19. Which sequence correctly follows Bose’s Congress leadership and subsequent break?
 
-**Answer: A.**
-**Explanation:** The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Tripuri 1938 → AIKS presidency → Haripura 1939
+B. Haripura 1939 → Forward Bloc 1938 → resignation 1946
+C. Haripura presidency 1938 → Tripuri re-election/crisis 1939 → resignation → Forward Bloc 1939
+D. Forward Bloc 1934 → Tripuri 1938 → Haripura 1939
 
-### Q14. Which chronology card should be filed under Meerut Conspiracy Case?
+### Q20. What does Bose’s Tripuri victory *not* establish about organisational control?
 
-A. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-B. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-C. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-D. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
+A. It automatically installed a socialist Working Committee at once
+B. It meant Gandhi had defeated Bose in the presidential election
+C. It made all princely states subordinate to the Congress president
+D. It did not ensure Working Committee support for his presidential programme
 
-**Answer: B.**
-**Explanation:** The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. What conclusion follows from comparing CSP influence and Congress as a whole?
 
-### Q15. Which option should a candidate retain when revising Meerut Conspiracy Case?
+A. Socialist currents broadened Congress’s agenda without making Congress a communist party
+B. The 1934 CSP immediately dissolved Congress into the CPI
+C. Economic rights disappeared from Congress after Karachi
+D. The CPI was a wing founded at the 1936 Faizpur session
 
-A. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-B. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-C. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-D. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
+### Q22. A source mentions M.N. Roy and the CPI Kanpur point but calls them identical to the CSP. What is the error?
 
-**Answer: C.**
-**Explanation:** The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It treats the 1931 Karachi resolution as a communist conspiracy case
+B. It erases distinct communist genealogy and a later socialist current operating within Congress
+C. It correctly equates every Indian socialist with a 1925 CSP member
+D. It confuses AISPC’s 1927 formation with a 1925 salt satyagraha
 
-### Q16. Which statement avoids a common matching trap about Meerut Conspiracy Case?
+### Q23. Which bounded contrast best explains worker visibility within the national movement?
 
-A. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-B. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-C. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-D. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
+A. Bardoli textile workers demanded two-thirds of factory profits
+B. States’ Peoples’ Conference was founded to prohibit all strikes
+C. AITUC and textile/railway strikes gave industrial workers an organised voice alongside, not identical to, peasant platforms
+D. AIKS founded the first nationwide trade-union platform in 1920
 
-**Answer: D.**
-**Explanation:** The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. A provisional 2026 key accompanies a question on why Forward Bloc emerged. What can this workbook legitimately assert?
 
-### Q17. Which statement correctly identifies Bihar Provincial Kisan Sabha?
+A. The provisional key authorises calling any guessed answer official
+B. Forward Bloc was founded in 1934 before the Haripura presidency
+C. The party emerged directly from Birsa Munda’s Ulgulan
+D. Tripuri’s 1939 institutional conflict preceded Bose’s Forward Bloc; no official final option letter is claimed
 
-A. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-B. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-C. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-D. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
+### Q25. Which pre-1929 grouping linked organised workers to communist and Congress-left activity without being identical to the 1934 CSP?
 
-**Answer: A.**
-**Explanation:** Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Workers’ and Peasants’ Parties
+B. The All-India Kisan Congress of Lucknow
+C. The Forward Bloc formed after Tripuri
+D. The Federal Court created in 1937
 
-### Q18. Which chronology card should be filed under Bihar Provincial Kisan Sabha?
+### Q26. Which regional institutional step preceded Sahajanand Saraswati’s all-India kisan role?
 
-A. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-B. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-C. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-D. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
+A. He founded the 1939 Forward Bloc at Tripuri
+B. He founded the Bihar Provincial Kisan Sabha in 1929
+C. He chaired the first AITUC convention in 1920
+D. He led the Vedaranyam salt march in 1930
 
-**Answer: B.**
-**Explanation:** Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. What is the accurate identification of the 1936 Lucknow peasant conference and its office-holders?
 
-### Q19. Which option should a candidate retain when revising Bihar Provincial Kisan Sabha?
+A. AISPC; Gandhi president and Irwin general secretary
+B. CSP; Birsa Munda president and N.G. Ranga general secretary
+C. All-India Kisan Congress, later AIKS; Sahajanand president and N.G. Ranga general secretary
+D. AITUC; Patel president and Bose general secretary
 
-A. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-B. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-C. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+### Q28. Which programme-level extension followed Karachi rights and Faizpur agrarian demands?
 
-**Answer: C.**
-**Explanation:** Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1927 Simon Commission implemented universal land redistribution
+B. The 1931 Gandhi–Irwin Pact founded a planning ministry
+C. The 1946 Tebhaga demand was the 1935 Act’s sole planning provision
+D. The National Planning Committee of 1938 emphasised planned economic transformation
 
-### Q20. Which statement avoids a common matching trap about Bihar Provincial Kisan Sabha?
+### Q29. A local organiser in an Indian princely state calls her platform a Praja Mandal. What is her immediate political target?
 
-A. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-B. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-C. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-D. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
+A. Princely autocracy and denial of subjects’ rights
+B. Direct replacement of elected ministers in British Indian provinces
+C. Two-thirds of the Bengal sharecropper’s harvest
+D. Creation of the first all-India trade union
 
-**Answer: D.**
-**Explanation:** Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Which careful inference follows from the Rajkot and other 1938–39 princely-state agitations?
 
-### Q21. Which statement correctly identifies Karachi social programme?
+A. They prove Congress had always directly ruled every princely state
+B. They pushed Congress from restraint toward closer identification, without making 1947 integration inevitable
+C. They instantly dissolved all princely states in 1938
+D. They were strikes organised by the 1936 AIKS against Bombay factory owners
 
-A. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-B. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-C. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-D. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
+### Q31. A chronology lists Tashkent 1920 beside Kanpur 1925. What distinction is source-responsible?
 
-**Answer: A.**
-**Explanation:** Karachi 1931 joined civil liberties to labour protection and a National Economic Programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Tashkent founded AITUC and Kanpur founded AIKS
+B. Both dates are alternative names for the 1939 Tripuri crisis
+C. The former denotes an émigré/international communist formation; the latter the all-India organisation inside India
+D. Both dates record the founding of the 1934 CSP in Bombay
 
-### Q22. Which chronology card should be filed under Karachi social programme?
+### Q32. A later farm-worker protest is invoked in a historical answer. Which evidentiary boundary must be kept?
 
-A. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-B. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-C. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+A. A recent protest proves AITUC was founded in 1936
+B. Present-day demands can authenticate an unverified colonial-era protest date
+C. A current episode substitutes for evidence on Meerut’s 1929–33 trial
+D. It may illustrate continuing labour-rights vocabulary, not independently prove a 1930s event or actor
 
-**Answer: B.**
-**Explanation:** Karachi 1931 joined civil liberties to labour protection and a National Economic Programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33. Which trio is linked with the first All India States Peoples’ Conference convention in December 1927?
 
-### Q23. Which option should a candidate retain when revising Karachi social programme?
+A. Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar
+B. Sahajanand Saraswati, N.G. Ranga and Baba Ramchandra
+C. Jayaprakash Narayan, Narendra Dev and Minoo Masani
+D. Subhas Bose, Jawaharlal Nehru and Lord Irwin
 
-A. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-B. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-C. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+### Q34. Which agrarian demands fit the December 1936 Faizpur Kisan Manifesto rather than the 1935 Act’s federal scheme?
 
-**Answer: C.**
-**Explanation:** Karachi 1931 joined civil liberties to labour protection and a National Economic Programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Separate electoral colleges for all sharecroppers under the Poona Pact
+B. Rent/revenue reduction, debt relief, tenure protection and peasant-union claims
+C. Reserved Defence and External Affairs under the Governor-General
+D. Princely accession to federal dyarchy as the only peasant demand
 
-### Q24. Which statement avoids a common matching trap about Karachi social programme?
+### Q35. How should Punnapra-Vayalar be positioned alongside Warli, Tebhaga and Telangana?
 
-A. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-B. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-C. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-D. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
+A. The 1936 Faizpur Kisan Sabha founding name
+B. A synonym for Bardoli’s 1928 revenue campaign
+C. A 1946 late-colonial bridge rather than an event constituting the core 1930s phase
+D. The 1920 inaugural meeting of the AITUC
 
-**Answer: D.**
-**Explanation:** Karachi 1931 joined civil liberties to labour protection and a National Economic Programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36. A report describes a farm-worker protest dated 1 July 2026. If used here, which inference is methodologically valid?
 
-### Q25. Which statement correctly identifies Congress Socialist Party?
+A. It proves a 1930s strike happened on 1 July
+B. It changes the historical founding date of AITUC to 2026
+C. It authenticates the official 2020 Ulgulan key
+D. It illustrates a contemporary labour-rights vocabulary, not evidence for a specific 1930s event
 
-A. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-B. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-C. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-D. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
+## MCQ ANSWER KEY — OPTION-BY-OPTION REASONING
 
-**Answer: A.**
-**Explanation:** The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q1 — A
 
-### Q26. Which chronology card should be filed under Congress Socialist Party?
+- **A:** AITUC formed in 1920 and Rai was its first president.
+- **B:** Sahajanand was associated with peasant organisation, not the AITUC founding presidency.
+- **C:** Patel led Bardoli; AIKS was formed in 1936.
+- **D:** Bose’s 1939 split concerned Congress, not the federation’s founding.
+- **Trap:** Do not swap labour and peasant bodies or their dates.
 
-A. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-B. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-C. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+### Q2 — B
 
-**Answer: B.**
-**Explanation:** The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** AISPC began in 1927 and Bose’s Haripura election was 1938.
+- **B:** Kanpur is a CPI formation marker; Meerut targeted left and union activists.
+- **C:** CSP dates to 1934 and cannot be the 1925 formation.
+- **D:** AIKS formed in 1936, after Meerut began.
+- **Trap:** A conspiracy case is not the same event as a party’s formation.
 
-### Q27. Which option should a candidate retain when revising Congress Socialist Party?
+### Q3 — C
 
-A. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-B. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-C. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+- **A:** Meerut targeted communist and trade-union activists.
+- **B:** Tripuri concerned Bose and Congress leadership.
+- **C:** Federation predated prosecution by years.
+- **D:** AITUC 1920 precedes AIKS 1936.
+- **Trap:** Police prosecution of activists cannot establish absence of earlier unions.
 
-**Answer: C.**
-**Explanation:** The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q4 — D
 
-### Q28. Which statement avoids a common matching trap about Congress Socialist Party?
+- **A:** AITUC was the separate labour federation formed in 1920.
+- **B:** AISPC coordinated princely-state struggles from 1927.
+- **C:** Forward Bloc was Bose’s 1939 initiative.
+- **D:** CSP sought to radicalise Congress from inside.
+- **Trap:** Socialist influence in Congress was not institutional identity with the CPI.
 
-A. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-B. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI.
+### Q5 — A
 
-**Answer: D.**
-**Explanation:** The CSP formed within Congress at Bombay in October 1934 under J.P. Narayan, Acharya Narendra Dev, Ram Manohar Lohia and Minoo Masani; it was not identical with the CPI. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** These names are linked with the CSP’s socialist current.
+- **B:** Sahajanand and Ranga are AIKS-associated; Patel led Bardoli.
+- **C:** British and princely officials are not CSP organisers.
+- **D:** Rai led AITUC; Baba Ramchandra mobilised Awadh peasants.
+- **Trap:** Distinguish named socialist organisers from workers’ and peasants’ leaders.
 
-### Q29. Which statement correctly identifies All-India Kisan Congress?
+### Q6 — B
 
-A. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-B. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-C. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+- **A:** Programmatic commitments were not immediate nationwide legislation.
+- **B:** Karachi articulated rights/economic programme; Faizpur highlighted agrarian issues.
+- **C:** AIKS formed in 1936, AITUC in 1920, neither in that sequence.
+- **D:** AISPC was created in 1927; Meerut ran 1929–33.
+- **Trap:** A resolution signals agenda widening, not automatic implementation.
 
-**Answer: A.**
-**Explanation:** The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q7 — C
 
-### Q30. Which chronology card should be filed under All-India Kisan Congress?
+- **A:** AITUC and industrial strikes belong to the labour stream.
+- **B:** Telangana started in 1946 under Hyderabad.
+- **C:** Bardoli preceded AIKS; Patel earned the title Sardar there.
+- **D:** Tebhaga, in Bengal, took shape in 1946.
+- **Trap:** Bardoli’s land-revenue dispute is not a mill strike.
 
-A. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-B. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-C. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+### Q8 — D
 
-**Answer: B.**
-**Explanation:** The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** AIKS was formed in 1936; Eka was 1921–22.
+- **B:** Telangana belongs to a later and different region.
+- **C:** Baba Ramchandra is associated with Awadh peasant mobilisation.
+- **D:** Earlier Awadh and Eka struggles predate AIKS’s all-India platform.
+- **Trap:** Organisational scale and historical sequence both matter.
 
-### Q31. Which option should a candidate retain when revising All-India Kisan Congress?
+### Q9 — A
 
-A. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-B. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-C. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
-D. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
+- **A:** The source identifies both agrarian context and grave communal dimension.
+- **B:** A class-only label erases documented communal violence.
+- **C:** A communal-only label erases agrarian and anti-colonial causes.
+- **D:** Telangana began decades later in 1946.
+- **Trap:** Neither romanticise nor erase the dual and violent character.
 
-**Answer: C.**
-**Explanation:** The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q10 — B
 
-### Q32. Which statement avoids a common matching trap about All-India Kisan Congress?
+- **A:** AISPC was founded in 1927 for princely states.
+- **B:** AIKS organised agrarian demands nationally in 1936.
+- **C:** AITUC was founded in 1920 as a worker platform.
+- **D:** Rai was first AITUC president; AIKS dates to 1936.
+- **Trap:** Kisan, trade-union and states’ bodies had different constituencies.
 
-A. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-B. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary.
+### Q11 — C
 
-**Answer: D.**
-**Explanation:** The All-India Kisan Congress, later AIKS, met at Lucknow in April 1936 with Sahajanand Saraswati as president and N.G. Ranga as general secretary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Congress election history is not a Bihar tenancy struggle.
+- **B:** AITUC formed in 1920 as a labour federation.
+- **C:** Bihar’s agrarian conflicts sharpened tenant and cultivator claims.
+- **D:** Salt-law campaigns belong to the 1930 CDM repertoire.
+- **Trap:** Do not turn a land-rights struggle into an unrelated national event.
 
-### Q33. Which statement correctly identifies Faizpur agrarian programme?
+### Q12 — D
 
-A. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-B. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-C. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+- **A:** Bardoli was a distinct Gujarat revenue action.
+- **B:** Karachi preceded these struggles by more than a decade.
+- **C:** The 1935 Act did not create these autonomous movements.
+- **D:** Warli 1945 and Tebhaga/Telangana from 1946 followed AIKS 1936.
+- **Trap:** Distinguish 1930s organisational origins from 1940s regional episodes.
 
-**Answer: A.**
-**Explanation:** The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q13 — A
 
-### Q34. Which chronology card should be filed under Faizpur agrarian programme?
+- **A:** Tebhaga (1946) sought two-thirds for Bengal sharecroppers.
+- **B:** Bardoli concerned a revenue increase, not a Bengal share.
+- **C:** Warli centred Adivasi labour, land and coercion.
+- **D:** A conspiracy case is not a sharecropping movement.
+- **Trap:** Two-thirds attaches to the sharecropper, not to an all-India tax rate.
 
-A. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-B. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-C. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-D. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
+### Q14 — B
 
-**Answer: B.**
-**Explanation:** The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Neither was a constitutional London committee.
+- **B:** The two differed in region, period, opponent and repertoire.
+- **C:** That describes Bardoli rather than Telangana.
+- **D:** That describes Telangana rather than Bardoli.
+- **Trap:** Autonomous regional class struggles were not copies of Congress campaigns.
 
-### Q35. Which option should a candidate retain when revising Faizpur agrarian programme?
+### Q15 — C
 
-A. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-B. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-C. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+- **A:** Bardoli concerned peasant revenue rather than Warli labour.
+- **B:** Forward Bloc was a Congress political split.
+- **C:** Warli signifies Adivasi labour/land grievances in a late-colonial phase.
+- **D:** Kanpur is a separate CPI formation marker.
+- **Trap:** Warli is a movement, not a party founding or presidential dispute.
 
-**Answer: C.**
-**Explanation:** The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q16 — D
 
-### Q36. Which statement avoids a common matching trap about Faizpur agrarian programme?
+- **A:** AIKS was a later peasant federation.
+- **B:** Tripuri/Forward Bloc were separate Congress events.
+- **C:** Tebhaga concerned sharecropping half a century later.
+- **D:** Its earlier chronology prevents claiming direct 1930s organisational ownership.
+- **Trap:** A cross-period PYQ demand should not be re-dated to fit this topic.
 
-A. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-B. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands.
+### Q17 — A
 
-**Answer: D.**
-**Explanation:** The December 1936 Faizpur setting connected the Kisan Manifesto to rent-revenue reduction, debt relief, tenure, labour and peasant-union demands. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The organisations differed in political terrain as well as founding date.
+- **B:** The reversed dates and constituencies are both false.
+- **C:** Neither was a Simon-style British review commission.
+- **D:** Tebhaga was a separate Bengal agrarian campaign.
+- **Trap:** Anti-autocracy inside princely states is not industrial unionism.
 
-### Q37. Which statement correctly identifies Congress Ministries' limits?
+### Q18 — B
 
-A. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-B. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-C. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-D. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
+- **A:** Organising a struggle is not proof of immediate victory everywhere.
+- **B:** AISPC linked demands in princely territories to wider democratic politics.
+- **C:** Factory wages do not capture subjects’ anti-autocracy demands.
+- **D:** AISPC was a people’s conference rather than a British commission.
+- **Trap:** Do not confuse British paramountcy with direct provincial administration.
 
-**Answer: A.**
-**Explanation:** Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q19 — C
 
-### Q38. Which chronology card should be filed under Congress Ministries' limits?
+- **A:** Haripura was 1938 and AIKS is a different organisation.
+- **B:** Reversed Haripura and Forward Bloc dates spoil the sequence.
+- **C:** This order links planning-oriented leadership to an institutional conflict.
+- **D:** Forward Bloc followed Tripuri, not the 1934 CSP formation.
+- **Trap:** Bose’s Forward Bloc was an aftermath, not a cause of Tripuri.
 
-A. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-B. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-C. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+### Q20 — D
 
-**Answer: B.**
-**Explanation:** Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Victory did not replace the institutional opposition.
+- **B:** Bose won re-election despite Gandhian opposition.
+- **C:** Congress presidential office carried no princely-state sovereignty.
+- **D:** His re-election coexisted with opposition from the Gandhian-majority leadership.
+- **Trap:** Electoral mandate and working-committee confidence are distinct.
 
-### Q39. Which option should a candidate retain when revising Congress Ministries' limits?
+### Q21 — A
 
-A. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-B. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-C. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+- **A:** Internal socialist pressure can shift programme without total ideological conversion.
+- **B:** CSP worked within rather than dissolved Congress.
+- **C:** Karachi and Faizpur exemplify wider social-economic demands.
+- **D:** The CPI’s Kanpur marker dates to 1925.
+- **Trap:** Agenda change is not organisational identity.
 
-**Answer: C.**
-**Explanation:** Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q22 — B
 
-### Q40. Which statement avoids a common matching trap about Congress Ministries' limits?
+- **A:** Karachi was a Congress rights/economy resolution.
+- **B:** CPI/Kanpur and CSP/1934 denote different trajectories.
+- **C:** CSP did not exist in 1925.
+- **D:** AISPC concerned princely subjects and salt action began in 1930.
+- **Trap:** Do not substitute shared left vocabulary for institutional identity.
 
-A. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-B. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-C. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-D. Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected.
+### Q23 — C
 
-**Answer: D.**
-**Explanation:** Congress ministries of 1937-39 passed reforms but structural and franchise limits left sub-tenants and agricultural labourers especially weakly protected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Bardoli was an agrarian revenue satyagraha.
+- **B:** AISPC organised princely-state rights rather than industrial policy.
+- **C:** Union federation and strikes anchored industrial labour politics.
+- **D:** AIKS is a peasant body formed in 1936.
+- **Trap:** Factory labour, cultivators and princely subjects are analytically separate.
 
-### Q41. Which statement correctly identifies National Planning Committee?
+### Q24 — D
 
-A. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-B. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
+- **A:** A provisional key is not a final official letter.
+- **B:** CSP, not Forward Bloc, dates to 1934.
+- **C:** The 1899–1900 tribal revolt is not the 1939 Congress split.
+- **D:** The causal timeline is source-backed while provisional-key provenance limits key claims.
+- **Trap:** Separate historical analysis from official-key status.
 
-**Answer: A.**
-**Explanation:** The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q25 — A
 
-### Q42. Which chronology card should be filed under National Planning Committee?
+- **A:** The Workers’ and Peasants’ Parties linked these political networks.
+- **B:** The national kisan formation belongs to 1936.
+- **C:** Forward Bloc belongs to Bose’s 1939 Congress conflict.
+- **D:** The Court was a judicial institution, not a worker-party network.
+- **Trap:** Do not rename an earlier labour-left network as the later CSP.
 
-A. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-B. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+### Q26 — B
 
-**Answer: B.**
-**Explanation:** The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Bose, not Sahajanand, formed Forward Bloc.
+- **B:** The Bihar body predates the 1936 all-India formation.
+- **C:** Rai was first AITUC president.
+- **D:** Rajagopalachari led the Tamil march.
+- **Trap:** A provincial organisational base need not share the date of national federation.
 
-### Q43. Which option should a candidate retain when revising National Planning Committee?
+### Q27 — C
 
-A. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-B. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-C. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+- **A:** AISPC concerned states’ people and was formed in 1927.
+- **B:** Birsa died before the CSP was formed.
+- **C:** The Lucknow 1936 peasant meeting connects the named leaders to the later AIKS.
+- **D:** AITUC was founded in 1920 under Rai’s first presidency.
+- **Trap:** Do not lose an organisation’s earlier name when tracking its later acronym.
 
-**Answer: C.**
-**Explanation:** The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q28 — D
 
-### Q44. Which statement avoids a common matching trap about National Planning Committee?
+- **A:** The Simon commission was a constitutional review, not a land reform executor.
+- **B:** The Pact was a movement truce, not a planning ministry.
+- **C:** Tebhaga concerned Bengal sharecroppers after 1935.
+- **D:** The 1938 committee carries the rights-and-agrarian programme toward planning.
+- **Trap:** Rights, agrarian policy and planning are related but distinct steps.
 
-A. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-B. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-C. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-D. The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation.
+### Q29 — A
 
-**Answer: D.**
-**Explanation:** The National Planning Committee of 1938 extended the Karachi-Faizpur chain from rights and agrarian demands toward planned economic transformation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Praja Mandals organised subjects’ democratic grievances under princes.
+- **B:** British-provincial cabinets were not their direct terrain.
+- **C:** The two-thirds claim belongs to Tebhaga.
+- **D:** AITUC was the trade-union federation of 1920.
+- **Trap:** Do not equate princely-state subjects with residents of directly governed provinces.
 
-### Q45. Which statement correctly identifies AISPC founding?
+### Q30 — B
 
-A. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-B. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+- **A:** Congress held no prior universal princely sovereignty.
+- **B:** The growing movement altered Congress relations with princely-state struggles.
+- **C:** Agitation in 1938 did not dissolve all princely regimes.
+- **D:** Peasant federation politics cannot replace the Rajkot location.
+- **Trap:** Later integration is not an automatic or already-achieved outcome.
 
-**Answer: A.**
-**Explanation:** The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q31 — C
 
-### Q46. Which chronology card should be filed under AISPC founding?
+- **A:** AITUC 1920 and AIKS 1936 have different formation histories.
+- **B:** Tripuri belongs to Congress politics in 1939.
+- **C:** Two founding markers describe different contexts rather than an uncomplicated single birth date.
+- **D:** CSP was formed in 1934, not in 1920 or 1925.
+- **Trap:** An international émigré formation and an Indian organisational formation require qualification.
 
-A. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-B. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-C. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
+### Q32 — D
 
-**Answer: B.**
-**Explanation:** The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** AITUC’s historical founding date remains 1920.
+- **B:** Later reporting cannot itself date an earlier protest.
+- **C:** The Meerut record must be grounded in historical sources.
+- **D:** A present linkage is interpretive and does not establish past chronology.
+- **Trap:** Do not silently convert a current-affairs analogy into archival proof.
 
-### Q47. Which option should a candidate retain when revising AISPC founding?
+### Q33 — A
 
-A. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-B. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-C. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
-D. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
+- **A:** These organisers belong to the early AISPC convention.
+- **B:** The first two belong to peasant politics and Baba Ramchandra to Awadh.
+- **C:** These are associated with the later Congress socialist stream.
+- **D:** Irwin was a colonial viceroy, not an AISPC convener.
+- **Trap:** AISPC’s 1927 origin and the 1930s princely awakening are distinct.
 
-**Answer: C.**
-**Explanation:** The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q34 — B
 
-### Q48. Which statement avoids a common matching trap about AISPC founding?
+- **A:** Poona Pact concerned Depressed Classes’ reserved seats.
+- **B:** Faizpur joined agrarian and labour demands to the national agenda.
+- **C:** These belong to proposed central reserved subjects, not peasant relief.
+- **D:** Federal accession concerns princes, not cultivators’ rent.
+- **Trap:** A Congress platform can specify demands without itself enacting them.
 
-A. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-B. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-C. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-D. The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it.
+### Q35 — C
 
-**Answer: D.**
-**Explanation:** The first AISPC convention met in December 1927; Balwantrai Mehta, Maniklal Kothari and G.R. Abhayankar were central to it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Faizpur was a Congress agrarian setting, not this 1946 episode.
+- **B:** Bardoli was a separate Gujarat peasant struggle.
+- **C:** Punnapra-Vayalar belongs to later regional upheavals.
+- **D:** AITUC predates it by a generation.
+- **Trap:** Chronological bridges must not be backdated into the main 1930s owner.
 
-### Q49. Which statement correctly identifies Praja Mandal target?
+### Q36 — D
 
-A. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-B. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-C. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-
-**Answer: A.**
-**Explanation:** Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Praja Mandal target?
-
-A. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-B. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-C. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-D. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-
-**Answer: B.**
-**Explanation:** Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Praja Mandal target?
-
-A. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-B. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-C. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-D. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-
-**Answer: C.**
-**Explanation:** Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Praja Mandal target?
-
-A. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-B. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-C. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-D. Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries.
-
-**Answer: D.**
-**Explanation:** Praja Mandals and States' Peoples' Movements opposed princely autocracy and denial of rights, not British provincial ministries. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies 1938-39 princely-state awakening?
-
-A. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-B. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-C. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-D. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-
-**Answer: A.**
-**Explanation:** The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under 1938-39 princely-state awakening?
-
-A. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-B. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-C. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-D. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-
-**Answer: B.**
-**Explanation:** The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising 1938-39 princely-state awakening?
-
-A. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-B. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-C. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-D. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-
-**Answer: C.**
-**Explanation:** The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about 1938-39 princely-state awakening?
-
-A. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-B. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-C. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-D. The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable.
-
-**Answer: D.**
-**Explanation:** The 1938-39 awakening included Rajkot and other princely-state struggles and pushed Congress from restraint toward closer identification without making later integration inevitable. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Haripura-Tripuri-Forward Bloc?
-
-A. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-B. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-C. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-D. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-
-**Answer: A.**
-**Explanation:** Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Haripura-Tripuri-Forward Bloc?
-
-A. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-B. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-C. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-D. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-
-**Answer: B.**
-**Explanation:** Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Haripura-Tripuri-Forward Bloc?
-
-A. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-B. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-C. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-D. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-
-**Answer: C.**
-**Explanation:** Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Haripura-Tripuri-Forward Bloc?
-
-A. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-B. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-C. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-D. Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence.
-
-**Answer: D.**
-**Explanation:** Bose's Haripura presidency in 1938, Tripuri re-election and institutional crisis in 1939, resignation and Forward Bloc formation in 1939 form one sequence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Congress remained broad?
-
-A. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-B. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-C. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-D. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-
-**Answer: A.**
-**Explanation:** Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Congress remained broad?
-
-A. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-B. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-C. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-D. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-
-**Answer: B.**
-**Explanation:** Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Congress remained broad?
-
-A. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-B. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-C. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-D. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-
-**Answer: C.**
-**Explanation:** Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Congress remained broad?
-
-A. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-B. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-C. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-D. Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist.
-
-**Answer: D.**
-**Explanation:** Left influence changed nationalism's social content and commitments, but Congress remained a broad, multi-class coalition rather than becoming communist. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Birsa genealogy?
-
-A. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-B. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-C. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-D. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-
-**Answer: A.**
-**Explanation:** Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Birsa genealogy?
-
-A. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-B. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-C. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-D. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-
-**Answer: B.**
-**Explanation:** Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Birsa genealogy?
-
-A. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-B. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-C. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-D. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-
-**Answer: C.**
-**Explanation:** Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Birsa genealogy?
-
-A. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-B. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-C. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-D. Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event.
-
-**Answer: D.**
-**Explanation:** Birsa Munda's Ulgulan belongs to 1899-1900 and supplies a genealogy of tribal anti-colonial politics, not a 1930s event. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Roots before the 1930s?
-
-A. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-B. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-C. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-D. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-
-**Answer: A.**
-**Explanation:** Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Roots before the 1930s?
-
-A. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-B. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-C. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-D. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-
-**Answer: B.**
-**Explanation:** Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Roots before the 1930s?
-
-A. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-B. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-C. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-D. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-
-**Answer: C.**
-**Explanation:** Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Roots before the 1930s?
-
-A. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-B. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-C. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-D. Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it.
-
-**Answer: D.**
-**Explanation:** Eka, Bardoli, AITUC, early communist organisation and AISPC are roots that explain the 1930s, not events to be redated into it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Late-colonial consequences?
-
-A. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-B. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-C. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-D. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-
-**Answer: A.**
-**Explanation:** Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Late-colonial consequences?
-
-A. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-B. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-C. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-D. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-
-**Answer: B.**
-**Explanation:** Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Late-colonial consequences?
-
-A. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-B. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-C. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-D. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-
-**Answer: C.**
-**Explanation:** Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Late-colonial consequences?
-
-A. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-B. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-C. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-D. Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase.
-
-**Answer: D.**
-**Explanation:** Warli (1945), Tebhaga, Telangana and Punnapra-Vayalar (1946) are late-colonial consequences or bridges, not the central 1930s phase. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Organisational-lineage current bridge?
-
-A. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-B. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-C. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-D. The All India Trade Union Congress was founded in 1920, with Lala Lajpat Rai as its first president.
-
-**Answer: A.**
-**Explanation:** The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Organisational-lineage current bridge?
-
-A. Tashkent 1920 marks an international/emigre communist formation, while Kanpur 1925 marks the all-India organisation formed inside India; both dates require qualification.
-B. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-C. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-D. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-
-**Answer: B.**
-**Explanation:** The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Organisational-lineage current bridge?
-
-A. Workers' and Peasants' Parties linked labour, communist and Congress-left activity before the intensified repression of 1929.
-B. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-C. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-D. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-
-**Answer: C.**
-**Explanation:** The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Organisational-lineage current bridge?
-
-A. Karachi 1931 joined civil liberties to labour protection and a National Economic Programme.
-B. The Meerut Conspiracy Case ran from 1929 to 1933 against communist and trade-union activists; the package avoids an unreconciled precise accused count.
-C. Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.
-D. The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events.
-
-**Answer: D.**
-**Explanation:** The reported 1 July 2026 farm-worker protest is used only to illustrate organisational lineage and labour-rights vocabulary, not as evidence about 1930s events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Semantic-completeness coverage drills — Topic 23
-
-Use each drill as a 60-second plan before returning to the solved PYQs.
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | How did irrigation connect agrarian expansion and state formation? | tank/well/channel → settlement and cultivation → shared maintenance → revenue/institution → regional limit | uniform state hydraulic system |
-| B | Distinguish *brahmadeya*, *agrahara* and *devadana*. | beneficiary/purpose → chartered rights → formula-versus-practice caution | calling every grant identical |
-| C | Were Pallava-Chalukya states centralized empires? | core → intermediaries → local bodies → tribute/campaign zones → graded verdict | campaign equals province |
-| D | Compare state models. | feudal → segmentary → integrative → peasantization → evidence-sensitive synthesis | treating one model as settled fact |
-| E | Was Brahmanization one-way cultural replacement? | grant and migration → status/ritual → local cult adaptation → language localization → unequal reciprocity | homogenization |
-| F | What does multilingual epigraphy prove? | Prakrit/Sanskrit/Tamil/Kannada and bounded Telugu transition → institutional audience → literacy limit | language equals ethnicity |
-| G | What can queenly patronage prove? | Lokamahadevi/Virupaksha and Trailokyamahadevi/Mallikarjuna → elite agency → no universal gender claim | general equality from two patrons |
-| H | Where does Topic 23 end? | Rashtrakuta takeover c. 753 and continuing Vengi line → bounded Chola link | all Chalukyas vanish together |
-
-**Self-check model:** every response should contain one named item of evidence,
-one mechanism, one source or regional limit and one qualified conclusion.
+- **A:** A modern date cannot date a colonial-era strike.
+- **B:** AITUC’s 1920 founding is historically separate.
+- **C:** A later report cannot establish an unavailable official answer key.
+- **D:** A reported later event can serve only as a present-day thematic analogy.
+- **Trap:** Even a verified current report cannot replace historical source evidence.
 
 ### Semantic-completeness coverage drills — Modern Topic 23
 

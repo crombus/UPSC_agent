@@ -1,0 +1,58 @@
+{
+  "topic": "22-Employment-Labour-Codes-Skills-and-Demographic-Dividend",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 53,
+      "answers": 53,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 16,
+        "D": 12,
+        "B": 12,
+        "A": 13
+      },
+      "fingerprint": "10b55e437723aa9b"
+    },
+    {
+      "bank": 2,
+      "questions": 53,
+      "answers": 53,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 11,
+        "A": 14,
+        "D": 16,
+        "B": 12
+      },
+      "fingerprint": "f097ca9f7860c2b1"
+    },
+    {
+      "bank": 3,
+      "questions": 53,
+      "answers": 53,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 15,
+        "D": 13,
+        "C": 11,
+        "A": 14
+      },
+      "fingerprint": "430c194d36e6425a"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

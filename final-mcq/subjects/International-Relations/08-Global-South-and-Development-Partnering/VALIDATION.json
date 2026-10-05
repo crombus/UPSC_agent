@@ -1,0 +1,50 @@
+{
+  "topic_key": "international-relations-08",
+  "title": "Global South and Development Partnering",
+  "status": "complete",
+  "audit_date": "2026-10-04",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 45,
+      "answers": 45,
+      "coverage_rows": 45,
+      "status": "complete"
+    },
+    {
+      "revision": 2,
+      "questions": 45,
+      "answers": 45,
+      "coverage_rows": 45,
+      "status": "complete"
+    },
+    {
+      "revision": 3,
+      "questions": 45,
+      "answers": 45,
+      "coverage_rows": 45,
+      "status": "complete"
+    }
+  ],
+  "pyq": {
+    "routed_mains": [
+      "2019 GS-II Q19"
+    ],
+    "objective": "none directly routed",
+    "exact_wording_reproduced": false
+  },
+  "institutional_dimensions": [
+    "origin",
+    "mandate",
+    "headquarters",
+    "membership",
+    "reports/frequency",
+    "funding holds",
+    "leadership",
+    "committees",
+    "timeline",
+    "India linkage"
+  ],
+  "nobel_or_major_awards": "not required by authoritative sources",
+  "approved": false
+}

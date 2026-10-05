@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<string>", line 5, in <module>
+  File "C:\Users\pulkitkundra\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 277: character maps to <undefined>
+['schema_version', 'renderer', 'renderer_version', 'topic_key', 'subject', 'title', 'short_route', 'reading_note', 'status', 'source_markdown', 'ascii_spec', 'reference_folder', 'reference_sha256', 'design_contract', 'stages']

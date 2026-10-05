@@ -6,7 +6,12 @@
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
 > **Syllabus, verbatim:** *Later Wittgenstein : Meaning and Use; Language-games; Critique of Private Language.*
-> **Terminology and citation:** English concept first, source term immediately after in parentheses — *language-game (Sprachspiel)*, *form of life (Lebensform)*, *criterion (Kriterium)*, *symptom (Symptom)*, *avowal (Äußerung)*, *when language idles (wenn die Sprache feiert)*. Remarks are cited by **§ number**, which is stable across editions for Part I (§1–§693). Almost every text here is **posthumous**, and the dates are examinable.
+> **Terminology and citation:** English concept first, source term immediately
+> after in parentheses—*language-game (Sprachspiel)*, *form of life
+> (Lebensform)*, *criterion (Kriterium)*, *symptom (Symptom)*, *avowal
+> (Äußerung)*, *when language idles (wenn die Sprache feiert)*. Remarks are
+> cited by **§ number**, stable across editions for Part I (§1–§693). Almost
+> every text here is **posthumous**, and the dates are examinable.
 
 ## Quick-Glance Tree Chart
 

@@ -1,0 +1,43 @@
+{
+  "topic": "12-Local-Governance-and-Service-Delivery",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "revision_counts": {
+    "revision-1": 48,
+    "revision-2": 48,
+    "revision-3": 48
+  },
+  "total_originals": 144,
+  "key_counts": {
+    "revision-1": {
+      "A": 12,
+      "B": 12,
+      "C": 12,
+      "D": 12
+    },
+    "revision-2": {
+      "A": 12,
+      "B": 12,
+      "C": 12,
+      "D": 12
+    },
+    "revision-3": {
+      "A": 12,
+      "B": 12,
+      "C": 12,
+      "D": 12
+    }
+  },
+  "all_questions_four_options": true,
+  "questions_answer_free": true,
+  "question_answer_mapping_contiguous": true,
+  "affirmative_owner_coverage_each_revision": true,
+  "cross_revision_stems_distinct": true,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "2021 Right to the City/UN-Habitat official key, exact wording and reproduction rights",
+    "2022 India Sanitation Coalition/NIUA official key, exact wording and reproduction rights",
+    "2026 revamped RGSA provisional key and missing official scheme details",
+    "Mains exact wording/marking-scheme routing",
+    "dated Devolution Index rank/score and Kerala percentage"
+  ]
+}

@@ -10,7 +10,7 @@ variant: learner-v2
 
 ### How to use this workbook
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap. The previous-year questions reproduce the official printed wording exactly; **the model answers are independent learner practice and are never official UPSC keys.**
+The baseline set is extended where autonomy and Gandhi require fresh discriminators, rather than to satisfy a fixed quota. Examine four explanations and an examiner trap per MCQ. Previous-year stems reproduce audited printed wording; **models are independent practice, not official UPSC keys.**
 
 ### What is inside
 
@@ -18,15 +18,16 @@ Attempt every item before reading its key. The correct option position was fixed
 |---|---|---:|
 | 1 | Core diagnostic MCQs | 24 |
 | 2 | Remedial diagnostic MCQs | 8 |
-| — | Question-specific option explanations | 128 |
-| — | Unique examiner traps | 32 |
-| 3 | Verified previous-year questions, fully solved | 11 |
-| 4 | Original solved Mains models (2 × 10, 2 × 15, 2 × 20) | 6 |
+| — | Additional hard moral-grounding discriminators | 2 |
+| — | Question-specific option explanations | 136 |
+| — | Unique examiner traps | 34 |
+| 3 | Verified previous-year questions, fully solved (2018–2026) | 13 |
+| 4 | Original solved Mains models (six baseline; Kierkegaard extension) | 7 |
 | 5 | Question-shaped timed-paper compression plan | 11 rows |
 
 ### Marking and timing conventions
 
-- Word bands: 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words.
+- Plan timed attempts around the marks and directive, not a word ceiling on worked PYQs.
 - Every model answer follows **claim → named evidence → analysis → qualification**.
 - Every model answer closes with a decided verdict, and the twenty-mark models additionally name the **defeater** that would change that verdict.
 - **Standing penalties in this clause:** merging the four dependence relations; inferring logical dependence from sociological influence; giving only one horn of the Euthyphro; identifying *dharma* with universal morality; answering the violence stem with a list of conflicts; silently regularising the 2018 printed word "immorality"; and using the sentence commonly paraphrased as "without God everything is permitted" as a verified quotation from Dostoevsky.
@@ -37,9 +38,11 @@ English-first throughout. The English concept leads; the accurate Sanskrit, Pali
 
 ## BASIC MCQS / REMEDIATION
 
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
+
 ### Practice protocol
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap.
+The final two of 34 questions target autonomy and Gandhi's truth/relativism distinction. Use option-specific explanations and examiner traps.
 
 #### CORE DIAGNOSTIC MCQS — 24
 
@@ -47,197 +50,415 @@ Attempt every item before reading its key. The correct option position was fixed
 
 A candidate writes that "morality depends on religion". Which statement expresses the **metaphysical grounding** version of that claim rather than one of the other three?
 
-A. Religious communities transmit moral habits more effectively than isolated individuals form them, so moral formation is a communal achievement.
-
-B. Belief that conduct is finally judged raises compliance in exactly those cases where detection by other people is improbable or impossible.
-
-C. The validity of a moral obligation is constituted by a religious fact, such as the command of God, so that removing the fact removes the obligation itself.
-
-D. Moral reformers have historically drawn their vocabulary of dignity, justice and conscience from the religious traditions they were criticising.
-
-**Answer: C.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is a claim about moral formation and socialisation, which belongs to religion's *influence* on conduct and settles nothing about what makes an obligation valid.
-- **B:** Incorrect: this is the **sanction and accountability** relation — what connects conduct to consequence — and it is compatible with obligation being grounded entirely elsewhere.
-- **C:** Correct: grounding asks what *constitutes* validity, and the constitution test is exactly the one stated — remove the religious fact and the obligation goes with it.
-- **D:** Incorrect: this is a genealogical or historical point about vocabulary, and where a concept came from is a different question from what now makes it binding.
-
-**Examiner trap 1:** A script that never says which of the four relations it is discussing cannot be graded above the average band, however much doctrine it contains; name the relation in the opening sentence and hold to it.
+A. The validity of a moral obligation is constituted by a religious fact, such as the command of God, so that removing the fact removes the obligation itself.
+B. Moral reformers have historically drawn their vocabulary of dignity, justice and conscience from the religious traditions they were criticising.
+C. Religious communities transmit moral habits more effectively than isolated individuals form them, so moral formation is a communal achievement.
+D. Belief that conduct is finally judged raises compliance in exactly those cases where detection by other people is improbable or impossible.
 
 #### MCQ 2. What behavioural evidence can and cannot establish
 
 Suppose it is well attested that religious participation correlates with higher charitable giving. What follows philosophically?
 
-A. Divine command theory survives the Euthyphro dilemma, because a theory with such consequences cannot be the arbitrary doctrine its critics allege.
-
-B. Those who do not participate in religious practice cannot know that charity is morally required of them or of anyone else.
-
-C. Charitable giving is obligatory only in so far as it is commanded, since the correlation reveals the true source of the obligation.
-
-D. Religion may causally influence conduct, but neither logical dependence nor any conclusion about moral truth follows from the correlation.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: the Euthyphro is a conceptual objection to a theory of grounding, and no volume of behavioural evidence bears on whether a command constitutes obligation.
-- **B:** Incorrect: this confuses causal influence with epistemic access, and it is refuted by the ordinary fact that non-participants make and defend the same moral judgement.
-- **C:** Incorrect: this is precisely the inference the correlation cannot support, since a cause of compliance is not a constituent of obligation.
-- **D:** Correct: correlation establishes at most a contingent influence, and may itself require controls for community, selection and orientation before even that is secure.
-
-**Examiner trap 2:** The correlation trap is the commonest single failure in this clause because the evidence really is good; concede the influence generously and then state, in the same sentence, the inference it cannot support.
+A. Charitable giving is obligatory only in so far as it is commanded, since the correlation reveals the true source of the obligation.
+B. Religion may causally influence conduct, but neither logical dependence nor any conclusion about moral truth follows from the correlation.
+C. Divine command theory survives the Euthyphro dilemma, because a theory with such consequences cannot be the arbitrary doctrine its critics allege.
+D. Those who do not participate in religious practice cannot know that charity is morally required of them or of anyone else.
 
 #### MCQ 3. How divine command theory should be stated
 
 Which formulation states the thesis that the Euthyphro dilemma is actually aimed at?
 
-A. The word "wrong" simply means "forbidden by God", so an atheist who calls an act wrong is not using the term in the primary sense it bears.
-
-B. Moral obligation is constituted by God's command, so that being commanded is what the obligatoriness of an act consists in.
-
-C. Belief in a commanding God is what in practice moves most people to act morally when acting morally is costly to them.
-
-D. Religion supplies moral education, so that without religious teaching most people would never acquire the concepts morality requires.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is the **semantic** version, the strongest and least defensible reading, and almost no defender of the theory holds it; refuting it proves very little.
-- **B:** Correct: the metaphysical version is the real thesis — command is constitutive of obligation, not evidential, motivational or reinforcing — and it is the version the dilemma targets.
-- **C:** Incorrect: this is the **motivational** version; it may well be true of many agents and it says nothing about what makes an act obligatory.
-- **D:** Incorrect: this is a claim about moral pedagogy, and a theory of moral education cannot be attacked by a dilemma about the constitution of obligation.
-
-**Examiner trap 3:** Attacking the semantic version and announcing that divine command theory has been refuted is a straw-man move an examiner will see immediately; aim at the constitutive claim.
+A. Religion supplies moral education, so that without religious teaching most people would never acquire the concepts morality requires.
+B. The word "wrong" simply means "forbidden by God", so an atheist who calls an act wrong is not using the term in the primary sense it bears.
+C. Moral obligation is constituted by God's command, so that being commanded is what the obligatoriness of an act consists in.
+D. Belief in a commanding God is what in practice moves most people to act morally when acting morally is costly to them.
 
 #### MCQ 4. The presupposition Kant denies
 
 Divine command theory rests on three presuppositions. Which one does the Kantian reject while leaving the other two untouched?
 
-A. That authority as such can generate moral reasons, so that a command issued by a legitimate superior binds the agent by itself.
-
-B. That God exists as a supreme personal being capable of issuing commands that apply universally to every rational agent whatever.
-
-C. That divine commands are knowable, so that fallible human agents can reliably identify what has in fact been commanded of them in a given case.
-
-D. That divine knowledge and goodness secure the rightness of the content commanded, so that the commands will never be perverse.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: Kant's objection is that a law given by another will is heteronomous, so authority as such cannot generate a genuinely moral reason however legitimate the authority is.
-- **B:** Incorrect: existence is contested by the atheist, not by the Kantian *as* a Kantian; Kant retains God as a practical postulate rather than denying the being.
-- **C:** Incorrect: the knowability worry is an epistemic objection pressed hardest in the religious-violence module, and it is not the distinctively Kantian complaint.
-- **D:** Incorrect: the content-guarantee is challenged by the Euthyphro's arbitrariness horn, which is a different objection from the autonomy objection at issue here.
-
-**Examiner trap 4:** Candidates routinely present Kant as an atheistic critic; the sharper and more accurate presentation is that Kant grants the theist his God and still denies that a command can ground obligation.
+A. That God exists as a supreme personal being capable of issuing commands that apply universally to every rational agent whatever.
+B. That divine commands are knowable, so that fallible human agents can reliably identify what has in fact been commanded of them in a given case.
+C. That divine knowledge and goodness secure the rightness of the content commanded, so that the commands will never be perverse.
+D. That authority as such can generate moral reasons, so that a command issued by a legitimate superior binds the agent by itself.
 
 #### MCQ 5. The dilemma in both horns
 
 Which pair correctly states the two horns of the Euthyphro dilemma and the cost of each?
 
-A. Either God exists and morality is objective, or God does not exist and morality is a human convention with no genuine claim on anyone at all.
-
-B. Either goodness is constituted by the command, which makes morality arbitrary, or the command follows goodness, which makes goodness independent.
-
-C. Either revelation discloses moral truth reliably, or moral truth is inaccessible, in which case no one can be blamed for moral failure at all.
-
-D. Either God is omnipotent and evil is unreal, or evil is real and God's power over the created order must be significantly limited.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is the objectivity-versus-conventionalism debate, not the Euthyphro, which is entirely available to a theist and does not turn on God's existence.
-- **B:** Correct: this is the dilemma as Plato states it at *Euthyphro* 10a, with the arbitrariness cost on the first horn and the independence cost on the second.
-- **C:** Incorrect: this concerns epistemic access to moral truth and belongs to the reason-and-revelation clause rather than to the constitution of obligation.
-- **D:** Incorrect: this is the problem of evil, which shares Plato's dialogical form in some presentations but has an entirely different target.
-
-**Examiner trap 5:** A script that gives one horn has given half a dilemma, which is not a dilemma at all; the second horn is what an examiner scans for to test whether the structure is understood.
+A. Either goodness is constituted by the command, which makes morality arbitrary, or the command follows goodness, which makes goodness independent.
+B. Either revelation discloses moral truth reliably, or moral truth is inaccessible, in which case no one can be blamed for moral failure at all.
+C. Either God is omnipotent and evil is unreal, or evil is real and God's power over the created order must be significantly limited.
+D. Either God exists and morality is objective, or God does not exist and morality is a human convention with no genuine claim on anyone at all.
 
 #### MCQ 6. The consequence that strengthens the first horn
 
 Beyond arbitrariness, what further damage does the first horn of the Euthyphro do to the theist's own position?
 
-A. It shows that God could not have created a world containing genuinely free agents capable of moral responsibility.
-
-B. It shows that revelation must be superfluous, since a command that constitutes goodness could never be misunderstood by its recipients.
-
-C. It shows that moral knowledge would have to be innate, since no experience could disclose what a bare act of will has instituted.
-
-D. It empties the affirmation of divine goodness, since the claim that God is good collapses into the tautology that God commands what God commands.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: free will and moral responsibility are the terrain of the problem of evil and of theological determinism, not a consequence of the arbitrariness horn.
-- **B:** Incorrect: nothing in the horn implies that commands are self-interpreting; misidentification of the divine will is a separate and independently pressed objection.
-- **C:** Incorrect: innateness is a thesis in moral epistemology and does not follow from a claim about what constitutes goodness.
-- **D:** Correct: if goodness just is what God commands, the central theistic affirmation of divine goodness becomes vacuous, so the horn threatens theology as well as ethics.
-
-**Examiner trap 6:** Stopping at arbitrariness is what separates the average band from the good band here; the vacuity consequence is short to state and it is the point examiners reward.
+A. It shows that moral knowledge would have to be innate, since no experience could disclose what a bare act of will has instituted.
+B. It empties the affirmation of divine goodness, since the claim that God is good collapses into the tautology that God commands what God commands.
+C. It shows that God could not have created a world containing genuinely free agents capable of moral responsibility.
+D. It shows that revelation must be superfluous, since a command that constitutes goodness could never be misunderstood by its recipients.
 
 #### MCQ 7. What Adams actually changed
 
 What is Robert Merrihew Adams's central modification of divine command theory?
 
-A. Obligation is grounded in the commands of an essentially loving God, while goodness is grounded in resemblance to the divine nature.
-
-B. Moral obligation is wholly reducible to the anticipation of divine reward and the fear of divine punishment in a life after death.
-
-C. Moral goodness is whatever a recognised religious authority declares it to be, provided the authority is legitimately constituted within its tradition.
-
-D. Divine commands are unnecessary to ethics, because the consequences of an action are the only thing that determines whether it ought to be done.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: the split is the move — obligation from command, goodness from resemblance to nature — and it is what blocks the arbitrariness horn without abandoning the theory.
-- **B:** Incorrect: this reduces the theory to a prudential sanction account, which is the version Kant's heteronomy objection destroys and which Adams is not defending.
-- **C:** Incorrect: this substitutes ecclesiastical or institutional authority for the divine nature and reintroduces exactly the arbitrariness the modification exists to prevent.
-- **D:** Incorrect: this is a consequentialist thesis, and Adams's theory is a form of divine command theory rather than a rejection of one.
-
-**Examiner trap 7:** Writing "Adams says God is loving so the problem disappears" earns nothing; the mark is for the *split* between the ground of obligation and the ground of goodness.
+A. Moral goodness is whatever a recognised religious authority declares it to be, provided the authority is legitimately constituted within its tradition.
+B. Divine commands are unnecessary to ethics, because the consequences of an action are the only thing that determines whether it ought to be done.
+C. Obligation is grounded in the commands of an essentially loving God, while goodness is grounded in resemblance to the divine nature.
+D. Moral obligation is wholly reducible to the anticipation of divine reward and the fear of divine punishment in a life after death.
 
 #### MCQ 8. The reply that blocks the regress
 
 Which position holds that God is the supreme standard of goodness rather than a being who conforms to an external standard, on the model of the standard metre bar?
 
-A. Linda Zagzebski's divine motivation theory, which grounds moral value in God's motivational states rather than in God's legislative acts.
-
-B. Immanuel Kant's doctrine of the practical postulates, which secures the coherence of the moral outlook without grounding the moral law in God.
-
-C. William Alston's standard reply, which denies that there must be a further standard the divine nature has to match in order to be good.
-
-D. The natural-law tradition, which holds that basic human goods are disclosed by inclination and directed to their ends by practical reason.
-
-**Answer: C.**
-
-**Option explanations:**
-
-- **A:** Incorrect: Zagzebski relocates the ground from commands to motives, which converts the theory into a virtue ethics but does not deploy the standard-metre analogy.
-- **B:** Incorrect: the postulates concern what practical reason must presuppose, and Kant's whole point is that God is not the source of the moral law at all.
-- **C:** Correct: Alston's reply denies the assumed regress by treating God as the standard itself, so the demand for a further standard misconstrues what a standard is.
-- **D:** Incorrect: natural law grounds the order in divine reason and gives reason the access, but it does not answer the regress by an appeal to a paradigm standard.
-
-**Examiner trap 8:** The standard-metre analogy is regularly misattributed to Adams; keeping Adams's split and Alston's standard distinct is a cheap and visible precision gain.
+A. The natural-law tradition, which holds that basic human goods are disclosed by inclination and directed to their ends by practical reason.
+B. Linda Zagzebski's divine motivation theory, which grounds moral value in God's motivational states rather than in God's legislative acts.
+C. Immanuel Kant's doctrine of the practical postulates, which secures the coherence of the moral outlook without grounding the moral law in God.
+D. William Alston's standard reply, which denies that there must be a further standard the divine nature has to match in order to be good.
 
 #### MCQ 9. What the modified theory concedes
 
 What is the strongest residual objection to modified divine command theory?
 
 A. Describing the divine nature as loving deploys a moral concept whose content we must already grasp independently of the theory itself.
-
 B. It denies that God can be loving, and therefore contradicts the central affirmation that every theistic tradition makes about the divine character.
-
 C. It establishes that all moral values are ultimately subjective, since a nature is a psychological rather than a normative kind of thing.
-
 D. It makes moral obligation impossible for anyone who lacks access to a revealed text in which the relevant commands are recorded and transmitted.
+
+#### MCQ 10. The fork that decides moral worth
+
+On Kant's account, what is the decisive defect of an act of truth-telling performed only from fear of divine punishment?
+
+A. It treats the person deceived merely as a means, and therefore violates the requirement that humanity always also be treated as an end.
+B. It is heteronomous: the law is received from another will and made conditional on a desired outcome, so the act lacks moral worth.
+C. It rests on a factual belief about the afterlife that cannot be established by any argument that theoretical reason is competent to run.
+D. It cannot be universalised, since a maxim of truth-telling motivated by fear would be self-contradictory when made a law of nature.
+
+#### MCQ 11. Where God enters Kant's practical philosophy
+
+What role do God, freedom and immortality play in Kant's moral philosophy?
+
+A. They are the three premises from which the categorical imperative is derived by an argument of practical reason.
+B. They are the objects of a revelation which practical reason may accept on authority once it has exhausted its own resources.
+C. They are practical postulates: what reason must presuppose for the moral outlook to be coherent, and not the source of the moral law itself.
+D. They are theoretical conclusions established by the arguments of the *Critique of Pure Reason* and then applied to moral questions.
+
+#### MCQ 12. The mediating claim
+
+Which sentence best captures why natural law occupies the middle ground between divine command theory and Kantian autonomy?
+
+A. It grounds obligation in consequences while retaining the vocabulary of divine purpose, so it satisfies the theist without incurring metaphysical commitments.
+B. It denies that morality has any objective ground, and treats religious and secular moral languages as two equally serviceable ways of speaking.
+C. It makes revelation the sole source of moral knowledge while conceding that God's commands are constrained by his own nature.
+D. God grounds the objective order of human goods, but practical reason knows much of that order without any appeal to revelation.
+
+#### MCQ 13. The objection natural law must answer
+
+What is the standard objection to natural law, and what is the standard reply?
+
+A. Objection: it derives a norm from a fact about human nature. Reply: practical reason grasps goods *as reasons*, so the starting point is already normative in itself.
+B. Objection: it cannot explain moral disagreement. Reply: disagreement is explained by the varying degrees of participation in the eternal law across cultures.
+C. Objection: it is too demanding. Reply: the theory grades obligations by vocation, so no agent is required to pursue every basic good simultaneously.
+D. Objection: it makes God superfluous. Reply: divine reason is required to explain why the order of goods is objective rather than a human construction.
+
+#### MCQ 14. Matching the secular families to their bills
+
+Which pairing of a secular grounding with its standing objection is correct?
+
+A. Utilitarianism — it presupposes a thick account of human nature which a sceptic is entitled simply to decline to share with the theorist.
+B. Contractarianism — the disposition-argument works only where dispositions are detectable, so the masked knave is unanswered.
+C. Humanism — it can override individual rights whenever aggregate welfare is thereby increased, and it may demand more than agents can give.
+D. Virtue ethics — the perfect defector who is never detected has been given no reason at all to keep the agreement he has made.
+
+#### MCQ 15. What the interaction view can and cannot claim
+
+Which statement correctly describes the limits of the interaction view?
+
+A. Since influence runs in both directions, neither religion nor morality can be criticised from the standpoint of the other without circularity.
+B. The interaction view is a sociological thesis and therefore carries no philosophical content that a philosophy answer could legitimately use.
+C. Religion's mechanisms — exemplars, ritual, community, hope and worldview — really do shape conduct, and the same mechanisms can sanction exclusion.
+D. Because religion demonstrably improves conduct on average, religious moral claims acquire a presumption of truth that critics must rebut with evidence.
+
+#### MCQ 16. Testing a claimed command
+
+Which set correctly lists the tests to which a claimed religious command remains answerable?
+
+A. Verifiability, falsifiability, publicity, repeatability, predictive success and coherence with established scientific results.
+B. Sincerity of the claimant, intensity of conviction, willingness to sacrifice, communal acceptance, historical fruitfulness and doctrinal orthodoxy.
+C. Antiquity, consensus, textual attestation, institutional endorsement, ritual centrality and continuity of practice within the tradition.
+D. Identification, interpretation, consistency, proportionality, human dignity and the moral status of the authority invoked.
+
+#### MCQ 17. What *dharma* contains
+
+Why can *dharma* not simply be translated as "morality"?
+
+A. Because it joins normative order together with social role, ritual duty and soteriological consequence, all of which fall inside the concept.
+B. Because it names the impersonal causal law linking action to result, and therefore describes a mechanism rather than prescribing anything at all.
+C. Because it refers exclusively to ritual obligation, and the moral content attributed to it by modern writers is a nineteenth-century reconstruction.
+D. Because it is a purely soteriological concept concerned with liberation, and questions of conduct between persons fall entirely outside it.
+
+#### MCQ 18. Śāntideva's argument, not his name
+
+Which reconstruction states Śāntideva's argument for impartial altruism in the *Bodhicaryāvatāra*?
+
+A. Suffering is caused by craving; therefore craving must be extinguished; therefore concern for others is a skilful means towards the extinction of one's own craving.
+B. There is no substantial self; suffering is therefore ownerless, and the reason to relieve another's suffering exactly equals the reason to relieve one's own.
+C. All beings desire happiness and avoid suffering; therefore each has an equal claim; therefore an impartial distribution of goods is required of every rational agent.
+D. Compassion is commanded by the Buddha as the supreme virtue; therefore an adherent who fails to cultivate it has violated the central injunction of the path.
+
+#### MCQ 19. The sharpest counterexample to the commander requirement
+
+Why is Mīmāṃsā the most damaging of the Indian counterexamples to the claim that obligation requires a divine commander?
+
+A. Because it denies the authority of scripture altogether and derives duty from the observed consequences of action for social welfare.
+B. Because it treats moral rules as useful conventions that a community adopts and may revise whenever circumstances make revision advantageous.
+C. Because it retains full scriptural authority while grounding duty in injunction alone — authority without any personal commander.
+D. Because it grounds duty in the compassion of an impersonal absolute which functions as a commander in all but name and title.
+
+#### MCQ 20. Handling the 2025 obligation stem
+
+The printed stem asks whether normative principles must bear reference to God in order to produce a feeling of obligation. What is the strongest way to structure the answer?
+
+A. Establish that God exists, since only then can the question of what divine reference contributes to obligation be sensibly raised in the first place.
+B. Show that every historical morality has in fact had religious origins, so that reference to God is necessary in the only sense the stem could intend.
+C. Argue that the feeling of obligation is a psychological state, so the question belongs to moral psychology and cannot be settled philosophically at all.
+D. Split the stem into its grounding and motivational readings, refute the first by counterexample, and grant the second as one route among several.
+
+#### MCQ 21. Why the asymmetry is not a matter of degree
+
+The slogan says one can have morality without religion but not religion without morality. What explains the asymmetry?
+
+A. Morality is *constitutive* of what qualifies as a religion, whereas religion is at most *supportive* of morality, and the two relations differ in kind entirely.
+B. Religion is historically older than moral reflection, so the moral content of a tradition is always a later addition to an existing religious structure.
+C. Religious institutions are empirically more effective at producing moral behaviour than secular institutions of comparable size and resources.
+D. Moral philosophers have generally been religious, so the two fields are historically entangled in a way that makes separation artificial.
+
+#### MCQ 22. The classical statement Hume could not answer
+
+Which figure observes moral rules generally but makes exceptions when breaking them is both profitable and undetected, and is conceded by his own author to be hard to answer?
+
+A. Glaucon's just man of the *Republic*, who is stripped of reputation in order to test whether justice is chosen for its own sake.
+B. Hume's sensible knave of the second *Enquiry*, answered only by an appeal to the inward peace of mind and integrity he forfeits.
+C. Kierkegaard's knight of faith, who suspends the ethical in obedience to a command he cannot make intelligible to any other person.
+D. Aristotle's incontinent agent, who knows what is right and fails to do it because appetite overcomes the judgement of practical reason.
+
+#### MCQ 23. What karma adds to the "all the time" question
+
+Why is karma the strongest religious answer to the demand for a reason to be moral in the undetected case?
+
+A. Because it is enforced by a supervising deity whose knowledge is complete, so concealment from other human beings is of no assistance at all.
+B. Because it makes moral obligation conditional on membership of a community whose continuing approval the agent cannot afford to lose.
+C. Because it is exhaustive and impersonal — no unobserved act, no bribable judge — so invisibility to other persons is irrelevant.
+D. Because it promises a proportionate reward in a future life, so the agent's self-interest is aligned with moral conduct on a longer time-scale.
+
+#### MCQ 24. The verdict on the printed secular-ethics claim
+
+What is the correct assessment of the claim that secular ethics cannot fully resolve why one should be moral all the time?
+
+A. Wholly true: without a transcendent sanction no reason of any kind can be given for acting morally when the act is costly and goes unobserved.
+B. Wholly false: contractarian theory answers the undetected case completely by showing that the disposition to keep agreements maximises expected utility.
+C. Unanswerable: since justification and motivation cannot be distinguished in practice, the claim has no determinate content to assess.
+D. Half true: secular ethics resolves the justificatory question, and the claim bites only on motivation in the undetected and costly case.
+
+#### REMEDIAL DIAGNOSTIC MCQS — 8
+
+#### MCQ 25. The printed word, and the shape of the verdict
+
+The 2018 stem asks about the inter-relatedness of "religiosity" and "immorality". Which handling is correct?
+
+A. Retain the printed word, treat religiosity as a disposition rather than as a system, and return a conditional verdict that names both of its conditions.
+B. Regularise the printed "immorality" to "morality", since the printed form is evidently a misprint and the intended question concerns moral conduct.
+C. Answer with a flat denial, on the ground that no religion teaches immorality and the association is therefore a category mistake.
+D. Answer with a flat affirmation, on the ground that religious history contains ample evidence of morally indefensible conduct by believers.
+
+#### MCQ 26. Why "religiosity" correlates with nothing simple
+
+Which analytical apparatus explains why measures of religiosity yield conflicting moral correlations?
+
+A. Weber's typology of religious authority, which distinguishes charismatic, traditional and rational-legal sources of religious legitimacy.
+B. Allport's distinction between intrinsic religiosity and extrinsic religiosity, with Batson's later addition of the third quest orientation.
+C. Smart's seven dimensions of religion — doctrinal, mythic, ethical, ritual, experiential, social and material — applied as a scale of religious intensity.
+D. The distinction between substantive and functional definitions of religion, which determines in advance which traditions count as religions at all.
+
+#### MCQ 27. Answering an incompatibility stem
+
+"Are religious beliefs and practices incompatible with moral behaviour?" What does the logical shape of this stem require?
+
+A. A definition of religion narrow enough to exclude any tradition whose practices could plausibly be described as morally objectionable.
+B. A balanced survey listing historical instances of religiously motivated benevolence alongside instances of religiously motivated harm.
+C. Identification of it as a necessity claim, refutation by a clear counter-case, then the weaker contingent claim that survives.
+D. A demonstration that religious belief is causally responsible for a measurable improvement in the moral behaviour of those who hold it.
+
+#### MCQ 28. Where the divine-command argument for violence fails
+
+The argument runs: whatever God commands is obligatory; God has commanded this act; therefore the act is obligatory. What is the correct assessment?
+
+A. Formally invalid, because a conclusion about a particular act cannot be derived from a general premise about divine commands.
+B. Sound but morally irrelevant, because obligations generated by divine command apply only within the community that recognises the command.
+C. Unassessable, because premises concerning divine commands lie wholly outside the scope of philosophical evaluation altogether.
+D. Formally valid but unsound, failing at the second premise, since no fallible agent possesses the infallible identification that it requires.
+
+#### MCQ 29. The decisive refutation of coercion for salvation
+
+Which argument decisively refutes the claim that coercion can be a benefit because it produces conformity leading to salvation?
+
+A. That belief is not directly voluntary, so force compels outward profession and yields hypocrisy rather than salvation.
+B. That no religious tradition has ever in fact endorsed the use of coercion in matters of belief and religious practice at all.
+C. That the harms of coercion are always disproportionate to any spiritual benefit that could conceivably be secured by it in the long run.
+D. That salvation is a private matter, so the state has no legitimate interest in the religious conformity of its subjects.
+
+#### MCQ 30. What every restraint-regime also contains
+
+When comparing just war, the classical Islamic juristic tradition and *dharma-yuddha*, which qualification is required for an honest answer?
+
+A. That the constraints are revelation-dependent in each case, and therefore unavailable to anyone outside the tradition that formulates them.
+B. That each contains an internal realist counter-tradition relaxing the constraints under necessity, such as Kauṭilya's *kūṭa-yuddha* in India.
+C. That the three converge so completely on authority, cause, intention, discrimination and proportionality that no significant divergence remains between them.
+D. That only the Western tradition developed a systematic body of doctrine, the other two consisting of scattered exhortations without juristic form.
+
+#### MCQ 31. The limit of the genealogical method
+
+Why does Nietzsche's genealogy of morality not by itself refute the morality it describes?
+
+A. Because his historical reconstruction of the slave revolt has been shown by later scholarship to be inaccurate in most of its particulars.
+B. Because he never applies the method to his own valuations, and a method that exempts its author cannot be used against anyone.
+C. Because origin does not settle validity, so his target must be the *value* that a valuation expresses rather than its truth-value.
+D. Because a genealogy is a descriptive enterprise, and no descriptive enterprise can ever bear on a normative question in any way whatever.
+
+#### MCQ 32. What lifts a script to the top band
+
+According to the graded verdict ladder for this clause, what distinguishes a top-band answer from a strong one?
+
+A. A greater number of thinkers named, so that the examiner can see the breadth of the candidate's reading across both Western and Indian sources.
+B. A more emphatic conclusion, stated in the first person and repeated at the close of every paragraph so that the position is unmistakable.
+C. A longer treatment of divine command theory, with the four-step argument set out in full and each presupposition separately defended.
+D. A discriminating distinction, such as justification versus motivation, together with a concession that costs the writer's own position something.
+
+#### Hard coverage extensions — MCQs 33–34
+
+#### MCQ 33. A believer rationally endorses a rule revealed by God but says that any apparent contrary command must be rejected as misinterpreted. What most directly follows about autonomy?
+
+A. Critical endorsement and religious learning can coexist, though treating revealed authority as *finally* immune to rational criticism would revive the autonomy tension.
+B. A loving-God account resolves the dilemma without further questions, so rational endorsement and an unreviewable final divine command automatically coexist.
+C. Even critically interpreted scripture makes the norm heteronomous because acquiring a norm from testimony already surrenders the agent's capacity to legislate rationally.
+D. God's motivating the believer to obey the rule suffices to show that God's command *grounds* its rightness, even if other reasons can justify it.
+
+#### MCQ 34. Which reading best captures Gandhi's “Truth is God” without making relative truth into moral relativism?
+
+A. An atheist can seek relative truths sincerely, but the shift makes theistic belief necessary for pursuing absolute Truth as the ultimate ideal.
+B. Human judgments are fallible approaches to an absolute ideal; this requires self-criticism and nonviolent means, not equivalence of every sincere belief.
+C. Finite communities access truth through traditions, so each group's sincere convictions become *its own* final standard with no cross-community moral test.
+D. “Truth is God” makes truth a universal ethical ideal rather than a divine *name*, so the inversion simply discards every religious dimension of Gandhi's thought.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: grounding asks what *constitutes* validity, and the constitution test is exactly the one stated — remove the religious fact and the obligation goes with it.
+- **B:** Incorrect: this is a genealogical or historical point about vocabulary, and where a concept came from is a different question from what now makes it binding.
+- **C:** Incorrect: this is a claim about moral formation and socialisation, which belongs to religion's *influence* on conduct and settles nothing about what makes an obligation valid.
+- **D:** Incorrect: this is the **sanction and accountability** relation — what connects conduct to consequence — and it is compatible with obligation being grounded entirely elsewhere.
+
+**Examiner trap 1:** A script that never says which of the four relations it is discussing cannot be graded above the average band, however much doctrine it contains; name the relation in the opening sentence and hold to it.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this is precisely the inference the correlation cannot support, since a cause of compliance is not a constituent of obligation.
+- **B:** Correct: correlation establishes at most a contingent influence, and may itself require controls for community, selection and orientation before even that is secure.
+- **C:** Incorrect: the Euthyphro is a conceptual objection to a theory of grounding, and no volume of behavioural evidence bears on whether a command constitutes obligation.
+- **D:** Incorrect: this confuses causal influence with epistemic access, and it is refuted by the ordinary fact that non-participants make and defend the same moral judgement.
+
+**Examiner trap 2:** The correlation trap is the commonest single failure in this clause because the evidence really is good; concede the influence generously and then state, in the same sentence, the inference it cannot support.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this is a claim about moral pedagogy, and a theory of moral education cannot be attacked by a dilemma about the constitution of obligation.
+- **B:** Incorrect: this is the **semantic** version, the strongest and least defensible reading, and almost no defender of the theory holds it; refuting it proves very little.
+- **C:** Correct: the metaphysical version is the real thesis — command is constitutive of obligation, not evidential, motivational or reinforcing — and it is the version the dilemma targets.
+- **D:** Incorrect: this is the **motivational** version; it may well be true of many agents and it says nothing about what makes an act obligatory.
+
+**Examiner trap 3:** Attacking the semantic version and announcing that divine command theory has been refuted is a straw-man move an examiner will see immediately; aim at the constitutive claim.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: existence is contested by the atheist, not by the Kantian *as* a Kantian; Kant retains God as a practical postulate rather than denying the being.
+- **B:** Incorrect: the knowability worry is an epistemic objection pressed hardest in the religious-violence module, and it is not the distinctively Kantian complaint.
+- **C:** Incorrect: the content-guarantee is challenged by the Euthyphro's arbitrariness horn, which is a different objection from the autonomy objection at issue here.
+- **D:** Correct: Kant's objection is that a law given by another will is heteronomous, so authority as such cannot generate a genuinely moral reason however legitimate the authority is.
+
+**Examiner trap 4:** Candidates routinely present Kant as an atheistic critic; the sharper and more accurate presentation is that Kant grants the theist his God and still denies that a command can ground obligation.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: this is the dilemma as Plato states it at *Euthyphro* 10a, with the arbitrariness cost on the first horn and the independence cost on the second.
+- **B:** Incorrect: this concerns epistemic access to moral truth and belongs to the reason-and-revelation clause rather than to the constitution of obligation.
+- **C:** Incorrect: this is the problem of evil, which shares Plato's dialogical form in some presentations but has an entirely different target.
+- **D:** Incorrect: this is the objectivity-versus-conventionalism debate, not the Euthyphro, which is entirely available to a theist and does not turn on God's existence.
+
+**Examiner trap 5:** A script that gives one horn has given half a dilemma, which is not a dilemma at all; the second horn is what an examiner scans for to test whether the structure is understood.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: innateness is a thesis in moral epistemology and does not follow from a claim about what constitutes goodness.
+- **B:** Correct: if goodness just is what God commands, the central theistic affirmation of divine goodness becomes vacuous, so the horn threatens theology as well as ethics.
+- **C:** Incorrect: free will and moral responsibility are the terrain of the problem of evil and of theological determinism, not a consequence of the arbitrariness horn.
+- **D:** Incorrect: nothing in the horn implies that commands are self-interpreting; misidentification of the divine will is a separate and independently pressed objection.
+
+**Examiner trap 6:** Stopping at arbitrariness is what separates the average band from the good band here; the vacuity consequence is short to state and it is the point examiners reward.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this substitutes ecclesiastical or institutional authority for the divine nature and reintroduces exactly the arbitrariness the modification exists to prevent.
+- **B:** Incorrect: this is a consequentialist thesis, and Adams's theory is a form of divine command theory rather than a rejection of one.
+- **C:** Correct: the split is the move — obligation from command, goodness from resemblance to nature — and it is what blocks the arbitrariness horn without abandoning the theory.
+- **D:** Incorrect: this reduces the theory to a prudential sanction account, which is the version Kant's heteronomy objection destroys and which Adams is not defending.
+
+**Examiner trap 7:** Writing "Adams says God is loving so the problem disappears" earns nothing; the mark is for the *split* between the ground of obligation and the ground of goodness.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: natural law grounds the order in divine reason and gives reason the access, but it does not answer the regress by an appeal to a paradigm standard.
+- **B:** Incorrect: Zagzebski relocates the ground from commands to motives, which converts the theory into a virtue ethics but does not deploy the standard-metre analogy.
+- **C:** Incorrect: the postulates concern what practical reason must presuppose, and Kant's whole point is that God is not the source of the moral law at all.
+- **D:** Correct: Alston's reply denies the assumed regress by treating God as the standard itself, so the demand for a further standard misconstrues what a standard is.
+
+**Examiner trap 8:** The standard-metre analogy is regularly misattributed to Adams; keeping Adams's split and Alston's standard distinct is a cheap and visible precision gain.
+
+#### MCQ 9 — solution
 
 **Answer: A.**
 
@@ -250,40 +471,20 @@ D. It makes moral obligation impossible for anyone who lacks access to a reveale
 
 **Examiner trap 9:** Presenting the modified theory as a clean victory over the Euthyphro reads as advocacy; the evaluative verdict is *relocation*, not refutation, and it must be stated as such.
 
-#### MCQ 10. The fork that decides moral worth
+#### MCQ 10 — solution
 
-On Kant's account, what is the decisive defect of an act of truth-telling performed only from fear of divine punishment?
-
-A. It rests on a factual belief about the afterlife that cannot be established by any argument that theoretical reason is competent to run.
-
-B. It cannot be universalised, since a maxim of truth-telling motivated by fear would be self-contradictory when made a law of nature.
-
-C. It treats the person deceived merely as a means, and therefore violates the requirement that humanity always also be treated as an end.
-
-D. It is heteronomous: the law is received from another will and made conditional on a desired outcome, so the act lacks moral worth.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: Kant is not objecting to the belief's epistemic credentials here; he objects to the structure of the motivation whatever the belief's status.
-- **B:** Incorrect: the maxim of truth-telling universalises perfectly well; it is the *motive*, not the maxim's form, that Kant is assessing in this example.
-- **C:** Incorrect: the humanity formula concerns how others are treated, whereas the defect in this case concerns the ground on which the agent acts.
-- **D:** Correct: obligation received from another will and made conditional on reward or fear is heteronomous, and heteronomy is what deprives the act of moral worth.
+- **A:** Incorrect: the humanity formula concerns how others are treated, whereas the defect in this case concerns the ground on which the agent acts.
+- **B:** Correct: obligation received from another will and made conditional on reward or fear is heteronomous, and heteronomy is what deprives the act of moral worth.
+- **C:** Incorrect: Kant is not objecting to the belief's epistemic credentials here; he objects to the structure of the motivation whatever the belief's status.
+- **D:** Incorrect: the maxim of truth-telling universalises perfectly well; it is the *motive*, not the maxim's form, that Kant is assessing in this example.
 
 **Examiner trap 10:** The example is often reported as Kant objecting to religion; he is objecting to *sanction as a motive*, and the difference is the whole content of the point.
 
-#### MCQ 11. Where God enters Kant's practical philosophy
-
-What role do God, freedom and immortality play in Kant's moral philosophy?
-
-A. They are the three premises from which the categorical imperative is derived by an argument of practical reason.
-
-B. They are the objects of a revelation which practical reason may accept on authority once it has exhausted its own resources.
-
-C. They are practical postulates: what reason must presuppose for the moral outlook to be coherent, and not the source of the moral law itself.
-
-D. They are theoretical conclusions established by the arguments of the *Critique of Pure Reason* and then applied to moral questions.
+#### MCQ 11 — solution
 
 **Answer: C.**
 
@@ -296,17 +497,7 @@ D. They are theoretical conclusions established by the arguments of the *Critiqu
 
 **Examiner trap 11:** "Kant removes God from morality" is a half-truth that loses marks; what is removed is God's role as the *ground* of obligation, and the postulates remain.
 
-#### MCQ 12. The mediating claim
-
-Which sentence best captures why natural law occupies the middle ground between divine command theory and Kantian autonomy?
-
-A. It grounds obligation in consequences while retaining the vocabulary of divine purpose, so it satisfies the theist without incurring metaphysical commitments.
-
-B. It denies that morality has any objective ground, and treats religious and secular moral languages as two equally serviceable ways of speaking.
-
-C. It makes revelation the sole source of moral knowledge while conceding that God's commands are constrained by his own nature.
-
-D. God grounds the objective order of human goods, but practical reason knows much of that order without any appeal to revelation.
+#### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -319,155 +510,85 @@ D. God grounds the objective order of human goods, but practical reason knows mu
 
 **Examiner trap 12:** Collapsing natural law into divine command theory is the standard error; the discriminator is order-versus-decree and reason-versus-revelation, and one sentence fixes it.
 
-#### MCQ 13. The objection natural law must answer
+#### MCQ 13 — solution
 
-What is the standard objection to natural law, and what is the standard reply?
-
-A. Objection: it makes God superfluous. Reply: divine reason is required to explain why the order of goods is objective rather than a human construction.
-
-B. Objection: it derives a norm from a fact about human nature. Reply: practical reason grasps goods *as reasons*, so the starting point is already normative in itself.
-
-C. Objection: it cannot explain moral disagreement. Reply: disagreement is explained by the varying degrees of participation in the eternal law across cultures.
-
-D. Objection: it is too demanding. Reply: the theory grades obligations by vocation, so no agent is required to pursue every basic good simultaneously.
-
-**Answer: B.**
+**Answer: A.**
 
 **Option explanations:**
 
-- **A:** Incorrect: this reverses the direction of the standard complaint, which is that nature-to-norm inference fails, not that the divine grounding is idle.
-- **B:** Correct: the naturalistic-fallacy worry is the standing objection, and the goods-as-reasons reply denies that anything normative is being derived from a bare description.
-- **C:** Incorrect: moral disagreement is a general problem for every objectivist theory and is not the objection specifically pressed against natural law.
-- **D:** Incorrect: demandingness is the standard complaint against utilitarianism; graded vows belong to the Jain structure, not to natural law.
+- **A:** Correct: the naturalistic-fallacy worry is the standing objection, and the goods-as-reasons reply denies that anything normative is being derived from a bare description.
+- **B:** Incorrect: moral disagreement is a general problem for every objectivist theory and is not the objection specifically pressed against natural law.
+- **C:** Incorrect: demandingness is the standard complaint against utilitarianism; graded vows belong to the Jain structure, not to natural law.
+- **D:** Incorrect: this reverses the direction of the standard complaint, which is that nature-to-norm inference fails, not that the divine grounding is idle.
 
 **Examiner trap 13:** Naming an objection without its reply reads as a checklist; naming the reply and then conceding that it is defensible rather than decisive reads as evaluation.
 
-#### MCQ 14. Matching the secular families to their bills
-
-Which pairing of a secular grounding with its standing objection is correct?
-
-A. Virtue ethics — the perfect defector who is never detected has been given no reason at all to keep the agreement he has made.
-
-B. Utilitarianism — it presupposes a thick account of human nature which a sceptic is entitled simply to decline to share with the theorist.
-
-C. Contractarianism — the disposition-argument works only where dispositions are detectable, so the masked knave is unanswered.
-
-D. Humanism — it can override individual rights whenever aggregate welfare is thereby increased, and it may demand more than agents can give.
-
-**Answer: C.**
-
-**Option explanations:**
-
-- **A:** Incorrect: the undetected defector is the contractarian's difficulty; the virtue theorist's problem is the thickness of the nature his account presupposes.
-- **B:** Incorrect: the thick-nature objection belongs to eudaimonism; utilitarianism's standing problems are rights-override and demandingness.
-- **C:** Correct: constrained maximisation shows that being disposed to keep agreements maximises utility only where the disposition can be recognised by others.
-- **D:** Incorrect: rights-override and demandingness are utilitarian bills; the humanist's difficulty is explaining the source of the worth of persons.
-
-**Examiner trap 14:** Writing "secular ethics" as one lump concedes the field to the theist; naming two families and their distinct bills is the cheapest available upgrade on this stem.
-
-#### MCQ 15. What the interaction view can and cannot claim
-
-Which statement correctly describes the limits of the interaction view?
-
-A. Religion's mechanisms — exemplars, ritual, community, hope and worldview — really do shape conduct, and the same mechanisms can sanction exclusion.
-
-B. Because religion demonstrably improves conduct on average, religious moral claims acquire a presumption of truth that critics must rebut with evidence.
-
-C. Since influence runs in both directions, neither religion nor morality can be criticised from the standpoint of the other without circularity.
-
-D. The interaction view is a sociological thesis and therefore carries no philosophical content that a philosophy answer could legitimately use.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: the symmetry is what makes the account evidential rather than promotional — the influence is real, contingent and available in both moral directions.
-- **B:** Incorrect: this is the correlation trap in its most seductive form, since a presumption of truth cannot be generated by a fact about behaviour.
-- **C:** Incorrect: mutual influence does not preclude criticism; the prophetic tradition shows morality criticising religion from inside the tradition itself.
-- **D:** Incorrect: the view carries the substantive philosophical claim that the relation is contingent rather than constitutive, which is exactly what dependence theses deny.
-
-**Examiner trap 15:** The 2023 stem asks for influence *and* the interactive relation; answering only the first half caps an otherwise competent script, so allocate a paragraph to each.
-
-#### MCQ 16. Testing a claimed command
-
-Which set correctly lists the tests to which a claimed religious command remains answerable?
-
-A. Antiquity, consensus, textual attestation, institutional endorsement, ritual centrality and continuity of practice within the tradition.
-
-B. Identification, interpretation, consistency, proportionality, human dignity and the moral status of the authority invoked.
-
-C. Verifiability, falsifiability, publicity, repeatability, predictive success and coherence with established scientific results.
-
-D. Sincerity of the claimant, intensity of conviction, willingness to sacrifice, communal acceptance, historical fruitfulness and doctrinal orthodoxy.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: these are marks of traditional authority, and the whole point of the six tests is that traditional standing does not exempt a claim from moral assessment.
-- **B:** Correct: these six are the tests any claimed command must pass, and they are applied within traditions by reformers as much as they are applied from outside.
-- **C:** Incorrect: these are criteria from the philosophy of science and belong to the religious-language and verification debates, not to moral criticism of a command.
-- **D:** Incorrect: sincerity and intensity are psychological facts about the claimant; they bear on culpability rather than on whether the command may be acted upon.
+- **A:** Incorrect: the thick-nature objection belongs to eudaimonism; utilitarianism's standing problems are rights-override and demandingness.
+- **B:** Correct: constrained maximisation shows that being disposed to keep agreements maximises utility only where the disposition can be recognised by others.
+- **C:** Incorrect: rights-override and demandingness are utilitarian bills; the humanist's difficulty is explaining the source of the worth of persons.
+- **D:** Incorrect: the undetected defector is the contractarian's difficulty; the virtue theorist's problem is the thickness of the nature his account presupposes.
 
-**Examiner trap 16:** State explicitly that these tests are applied *within and across* traditions; presenting moral criticism of religion as inherently secular is both inaccurate and rhetorically weaker.
+**Examiner trap 14:** Writing "secular ethics" as one lump concedes the field to the theist; naming two families and their distinct bills is the cheapest available upgrade on this stem.
 
-#### MCQ 17. What *dharma* contains
-
-Why can *dharma* not simply be translated as "morality"?
-
-A. Because it refers exclusively to ritual obligation, and the moral content attributed to it by modern writers is a nineteenth-century reconstruction.
-
-B. Because it is a purely soteriological concept concerned with liberation, and questions of conduct between persons fall entirely outside it.
-
-C. Because it joins normative order together with social role, ritual duty and soteriological consequence, all of which fall inside the concept.
-
-D. Because it names the impersonal causal law linking action to result, and therefore describes a mechanism rather than prescribing anything at all.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: ritual duty is one strand of the concept but not the whole of it, and the moral strand is present in the classical sources rather than imported later.
-- **B:** Incorrect: this describes liberation-doctrine alone and omits the normative, social and ritual strands that make *dharma* the wide concept it is.
-- **C:** Correct: the four strands are why *dharma* is not identical with universal morality, and why internal moral criticism of role-*dharma* is necessary rather than optional.
-- **D:** Incorrect: this describes karma as a causal linkage, which is a related but distinct concept, and it drops the prescriptive force *dharma* plainly carries.
+- **A:** Incorrect: mutual influence does not preclude criticism; the prophetic tradition shows morality criticising religion from inside the tradition itself.
+- **B:** Incorrect: the view carries the substantive philosophical claim that the relation is contingent rather than constitutive, which is exactly what dependence theses deny.
+- **C:** Correct: the symmetry is what makes the account evidential rather than promotional — the influence is real, contingent and available in both moral directions.
+- **D:** Incorrect: this is the correlation trap in its most seductive form, since a presumption of truth cannot be generated by a fact about behaviour.
 
-**Examiner trap 17:** Praising *dharma* as a superior fusion of the moral and the religious, without stating that role and ritual duty fall inside it, invites the reply that the concept sacralises hierarchy.
+**Examiner trap 15:** The 2023 stem asks for influence *and* the interactive relation; answering only the first half caps an otherwise competent script, so allocate a paragraph to each.
 
-#### MCQ 18. Śāntideva's argument, not his name
+#### MCQ 16 — solution
 
-Which reconstruction states Śāntideva's argument for impartial altruism in the *Bodhicaryāvatāra*?
+**Answer: D.**
 
-A. There is no substantial self; suffering is therefore ownerless, and the reason to relieve another's suffering exactly equals the reason to relieve one's own.
+**Option explanations:**
 
-B. All beings desire happiness and avoid suffering; therefore each has an equal claim; therefore an impartial distribution of goods is required of every rational agent.
+- **A:** Incorrect: these are criteria from the philosophy of science and belong to the religious-language and verification debates, not to moral criticism of a command.
+- **B:** Incorrect: sincerity and intensity are psychological facts about the claimant; they bear on culpability rather than on whether the command may be acted upon.
+- **C:** Incorrect: these are marks of traditional authority, and the whole point of the six tests is that traditional standing does not exempt a claim from moral assessment.
+- **D:** Correct: these six are the tests any claimed command must pass, and they are applied within traditions by reformers as much as they are applied from outside.
 
-C. Compassion is commanded by the Buddha as the supreme virtue; therefore an adherent who fails to cultivate it has violated the central injunction of the path.
+**Examiner trap 16:** State explicitly that these tests are applied *within and across* traditions; presenting moral criticism of religion as inherently secular is both inaccurate and rhetorically weaker.
 
-D. Suffering is caused by craving; therefore craving must be extinguished; therefore concern for others is a skilful means towards the extinction of one's own craving.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
 **Option explanations:**
 
-- **A:** Correct: this is the three-step derivation — no substantial self, ownerless suffering, symmetrical reasons — which grounds impartiality on a metaphysical rather than a theological premise.
-- **B:** Incorrect: this is a generic impartialist argument from equal desire, available to any utilitarian, and it makes no use of the no-self premise that carries the weight.
-- **C:** Incorrect: this converts the argument into an appeal to authority, which is exactly what the derivation avoids and what makes it valuable in this clause.
-- **D:** Incorrect: this makes concern for others instrumental to one's own liberation, which inverts the argument's conclusion that the boundary between self and other is conventional.
+- **A:** Correct: the four strands are why *dharma* is not identical with universal morality, and why internal moral criticism of role-*dharma* is necessary rather than optional.
+- **B:** Incorrect: this describes karma as a causal linkage, which is a related but distinct concept, and it drops the prescriptive force *dharma* plainly carries.
+- **C:** Incorrect: ritual duty is one strand of the concept but not the whole of it, and the moral strand is present in the classical sources rather than imported later.
+- **D:** Incorrect: this describes liberation-doctrine alone and omits the normative, social and ritual strands that make *dharma* the wide concept it is.
+
+**Examiner trap 17:** Praising *dharma* as a superior fusion of the moral and the religious, without stating that role and ritual duty fall inside it, invites the reply that the concept sacralises hierarchy.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this makes concern for others instrumental to one's own liberation, which inverts the argument's conclusion that the boundary between self and other is conventional.
+- **B:** Correct: this is the three-step derivation — no substantial self, ownerless suffering, symmetrical reasons — which grounds impartiality on a metaphysical rather than a theological premise.
+- **C:** Incorrect: this is a generic impartialist argument from equal desire, available to any utilitarian, and it makes no use of the no-self premise that carries the weight.
+- **D:** Incorrect: this converts the argument into an appeal to authority, which is exactly what the derivation avoids and what makes it valuable in this clause.
 
 **Examiner trap 18:** Citing Śāntideva by name without the three steps earns nothing; the examiner is checking whether the candidate possesses the argument or only the reference.
 
-#### MCQ 19. The sharpest counterexample to the commander requirement
-
-Why is Mīmāṃsā the most damaging of the Indian counterexamples to the claim that obligation requires a divine commander?
-
-A. Because it denies the authority of scripture altogether and derives duty from the observed consequences of action for social welfare.
-
-B. Because it treats moral rules as useful conventions that a community adopts and may revise whenever circumstances make revision advantageous.
-
-C. Because it retains full scriptural authority while grounding duty in injunction alone — authority without any personal commander.
-
-D. Because it grounds duty in the compassion of an impersonal absolute which functions as a commander in all but name and title.
+#### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -480,63 +601,33 @@ D. Because it grounds duty in the compassion of an impersonal absolute which fun
 
 **Examiner trap 19:** Do not call the Indian non-theistic groundings "secular"; they are religious ethics without a divine commander, and the misdescription is visible and costly.
 
-#### MCQ 20. Handling the 2025 obligation stem
-
-The printed stem asks whether normative principles must bear reference to God in order to produce a feeling of obligation. What is the strongest way to structure the answer?
-
-A. Argue that the feeling of obligation is a psychological state, so the question belongs to moral psychology and cannot be settled philosophically at all.
-
-B. Split the stem into its grounding and motivational readings, refute the first by counterexample, and grant the second as one route among several.
-
-C. Establish that God exists, since only then can the question of what divine reference contributes to obligation be sensibly raised in the first place.
-
-D. Show that every historical morality has in fact had religious origins, so that reference to God is necessary in the only sense the stem could intend.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: the stem asserts a necessary condition, which is a philosophical claim, and retreating to psychology declines the question rather than answering it.
-- **B:** Correct: the wording straddles grounding and motivation, so splitting it and answering each half is what earns the top band on this stem.
-- **C:** Incorrect: the question is about the grounding role of God-reference, not about God's existence, and the detour answers a different paper.
-- **D:** Incorrect: this substitutes a genealogical claim for the necessity claim and is in any case defeated by ancient non-theistic groundings.
-
-**Examiner trap 20:** A necessity claim is refuted by one working counterexample; producing four and then conceding the motivational point is a far stronger script than producing a survey of views.
-
-#### MCQ 21. Why the asymmetry is not a matter of degree
-
-The slogan says one can have morality without religion but not religion without morality. What explains the asymmetry?
-
-A. Religion is historically older than moral reflection, so the moral content of a tradition is always a later addition to an existing religious structure.
-
-B. Religious institutions are empirically more effective at producing moral behaviour than secular institutions of comparable size and resources.
-
-C. Moral philosophers have generally been religious, so the two fields are historically entangled in a way that makes separation artificial.
-
-D. Morality is *constitutive* of what qualifies as a religion, whereas religion is at most *supportive* of morality, and the two relations differ in kind entirely.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
 **Option explanations:**
 
-- **A:** Incorrect: a claim about historical sequence cannot explain a conceptual asymmetry, and the priority asserted is in any case not established.
-- **B:** Incorrect: this is a comparative behavioural claim, and even if true it would establish a difference of degree rather than the difference in kind at issue.
-- **C:** Incorrect: biographical entanglement of philosophers is irrelevant to whether one concept is constitutive of the other.
-- **D:** Correct: remove the moral claim and a system no longer answers to the concept of religion; remove religion and morality loses a resource, not a foundation.
+- **A:** Incorrect: the question is about the grounding role of God-reference, not about God's existence, and the detour answers a different paper.
+- **B:** Incorrect: this substitutes a genealogical claim for the necessity claim and is in any case defeated by ancient non-theistic groundings.
+- **C:** Incorrect: the stem asserts a necessary condition, which is a philosophical claim, and retreating to psychology declines the question rather than answering it.
+- **D:** Correct: the wording straddles grounding and motivation, so splitting it and answering each half is what earns the top band on this stem.
+
+**Examiner trap 20:** A necessity claim is refuted by one working counterexample; producing four and then conceding the motivational point is a far stronger script than producing a survey of views.
+
+#### MCQ 21 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: remove the moral claim and a system no longer answers to the concept of religion; remove religion and morality loses a resource, not a foundation.
+- **B:** Incorrect: a claim about historical sequence cannot explain a conceptual asymmetry, and the priority asserted is in any case not established.
+- **C:** Incorrect: this is a comparative behavioural claim, and even if true it would establish a difference of degree rather than the difference in kind at issue.
+- **D:** Incorrect: biographical entanglement of philosophers is irrelevant to whether one concept is constitutive of the other.
 
 **Examiner trap 21:** In "religion without morality" always split the normatively adequate reading from the descriptively identifiable institution, or the answer must either deny visible facts or abandon the asymmetry.
 
-#### MCQ 22. The classical statement Hume could not answer
-
-Which figure observes moral rules generally but makes exceptions when breaking them is both profitable and undetected, and is conceded by his own author to be hard to answer?
-
-A. Glaucon's just man of the *Republic*, who is stripped of reputation in order to test whether justice is chosen for its own sake.
-
-B. Hume's sensible knave of the second *Enquiry*, answered only by an appeal to the inward peace of mind and integrity he forfeits.
-
-C. Kierkegaard's knight of faith, who suspends the ethical in obedience to a command he cannot make intelligible to any other person.
-
-D. Aristotle's incontinent agent, who knows what is right and fails to do it because appetite overcomes the judgement of practical reason.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -549,203 +640,111 @@ D. Aristotle's incontinent agent, who knows what is right and fails to do it bec
 
 **Examiner trap 22:** Reporting Hume as having answered the knave is a factual error; recording his own admission of difficulty is both accurate and, in an "examine" question, better rewarded.
 
-#### MCQ 23. What karma adds to the "all the time" question
-
-Why is karma the strongest religious answer to the demand for a reason to be moral in the undetected case?
-
-A. Because it promises a proportionate reward in a future life, so the agent's self-interest is aligned with moral conduct on a longer time-scale.
-
-B. Because it is enforced by a supervising deity whose knowledge is complete, so concealment from other human beings is of no assistance at all.
-
-C. Because it makes moral obligation conditional on membership of a community whose continuing approval the agent cannot afford to lose.
-
-D. Because it is exhaustive and impersonal — no unobserved act, no bribable judge — so invisibility to other persons is irrelevant.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is the prudential reading the tradition itself criticises, and the *Gītā*'s renunciation of the fruit at 2.47 and 3.19 is directed precisely against it.
-- **B:** Incorrect: several schools operate karma without any supervising deity, and it is the *absence* of a personal judge that makes the answer distinctive here.
-- **C:** Incorrect: this converts karma into social sanction, which is the very mechanism the Ring of Gyges defeats by removing detectability.
-- **D:** Correct: exhaustiveness and impersonality together remove the special status of the undetected case, which is what Gyges' challenge depends on.
-
-**Examiner trap 23:** Presenting karma as cosmic bookkeeping invites the reply that it is Gyges with a bigger ring; cite *Gītā* 2.47 to show that the developed doctrine removes the fruit from deliberation.
-
-#### MCQ 24. The verdict on the printed secular-ethics claim
-
-What is the correct assessment of the claim that secular ethics cannot fully resolve why one should be moral all the time?
-
-A. Half true: secular ethics resolves the justificatory question, and the claim bites only on motivation in the undetected and costly case.
-
-B. Wholly true: without a transcendent sanction no reason of any kind can be given for acting morally when the act is costly and goes unobserved.
-
-C. Wholly false: contractarian theory answers the undetected case completely by showing that the disposition to keep agreements maximises expected utility.
-
-D. Unanswerable: since justification and motivation cannot be distinguished in practice, the claim has no determinate content to assess.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: the justification–motivation distinction is the assessment, and religion's advantage in the hard case is scope, purchased at the price of heteronomy if it works by sanction.
-- **B:** Incorrect: this overstates the claim, since Kantian, eudaimonist and Indian non-theistic groundings all supply reasons independent of transcendent sanction.
-- **C:** Incorrect: constrained maximisation works only where dispositions are detectable, so the perfectly masked defector is precisely the case it does not reach.
-- **D:** Incorrect: the distinction is drawn clearly in the literature and is exactly what makes the claim assessable rather than empty.
-
-**Examiner trap 24:** Verdicts that summarise rather than decide sit in the "Strong" band and stop there; naming the concession that costs your own position something is what lifts a script to the top band.
-
-#### REMEDIAL DIAGNOSTIC MCQS — 8
-
-#### MCQ 25. The printed word, and the shape of the verdict
-
-The 2018 stem asks about the inter-relatedness of "religiosity" and "immorality". Which handling is correct?
-
-A. Regularise the printed "immorality" to "morality", since the printed form is evidently a misprint and the intended question concerns moral conduct.
-
-B. Answer with a flat denial, on the ground that no religion teaches immorality and the association is therefore a category mistake.
-
-C. Answer with a flat affirmation, on the ground that religious history contains ample evidence of morally indefensible conduct by believers.
-
-D. Retain the printed word, treat religiosity as a disposition rather than as a system, and return a conditional verdict that names both of its conditions.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: the held paper visibly prints "immorality", and silently regularising a printed term changes the question the examiner set.
-- **B:** Incorrect: a flat denial ignores the ritual-substitution, boundary-marking, suspension and licensing routes that the traditions themselves document.
-- **C:** Incorrect: a flat affirmation ignores the reformers, the internal-corruption reply and the comparison class of secular ideologies.
-- **D:** Correct: the directive buys a conditional verdict, and the two conditions are whether the ultimate is itself moralised and whether the orientation is intrinsic or extrinsic.
-
-**Examiner trap 25:** "Can one claim that there is an inter-relatedness between A and B?" never wants a yes or a no; it wants the conditions under which the relation holds, stated explicitly.
-
-#### MCQ 26. Why "religiosity" correlates with nothing simple
-
-Which analytical apparatus explains why measures of religiosity yield conflicting moral correlations?
-
-A. Allport's distinction between intrinsic religiosity and extrinsic religiosity, with Batson's later addition of the third quest orientation.
-
-B. Smart's seven dimensions of religion — doctrinal, mythic, ethical, ritual, experiential, social and material — applied as a scale of religious intensity.
-
-C. The distinction between substantive and functional definitions of religion, which determines in advance which traditions count as religions at all.
-
-D. Weber's typology of religious authority, which distinguishes charismatic, traditional and rational-legal sources of religious legitimacy.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: moral correlations differ sharply by orientation, which is exactly why religiosity as an undifferentiated variable correlates with nothing simple.
-- **B:** Incorrect: the dimensional analysis answers the question what religion *is*, and it belongs to the Religion without God owner rather than to this stem.
-- **C:** Incorrect: the definitional contrast decides which traditions count as religions and has no bearing on how individual religiosity relates to conduct.
-- **D:** Incorrect: a typology of authority classifies sources of legitimacy and does not distinguish the orientations of individual religious commitment.
-
-**Examiner trap 26:** Treating religiosity as one variable makes the conflicting evidence look like noise; naming the orientations converts the same evidence into the argument for conditional ambivalence.
-
-#### MCQ 27. Answering an incompatibility stem
-
-"Are religious beliefs and practices incompatible with moral behaviour?" What does the logical shape of this stem require?
-
-A. A balanced survey listing historical instances of religiously motivated benevolence alongside instances of religiously motivated harm.
-
-B. Identification of it as a necessity claim, refutation by a clear counter-case, then the weaker contingent claim that survives.
-
-C. A demonstration that religious belief is causally responsible for a measurable improvement in the moral behaviour of those who hold it.
-
-D. A definition of religion narrow enough to exclude any tradition whose practices could plausibly be described as morally objectionable.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: a survey answers a comparative question, whereas an incompatibility claim is a necessity claim defeated by a single clear counter-case.
-- **B:** Correct: refute the necessity claim, then state what survives — that the relation is contingent, since religion neither precludes nor guarantees moral behaviour.
-- **C:** Incorrect: this overshoots, and the correlation trap applies: causal improvement is neither required to refute incompatibility nor sufficient to establish dependence.
-- **D:** Incorrect: narrowing the definition to exclude counterexamples is question-begging and would in any case make the answer unfalsifiable.
-
-**Examiner trap 27:** After refuting incompatibility, resist the temptation to conclude that religion guarantees moral behaviour; compatible is not guaranteed, and overshooting undoes the credit already earned.
-
-#### MCQ 28. Where the divine-command argument for violence fails
-
-The argument runs: whatever God commands is obligatory; God has commanded this act; therefore the act is obligatory. What is the correct assessment?
-
-A. Formally valid but unsound, failing at the second premise, since no fallible agent possesses the infallible identification that it requires.
-
-B. Formally invalid, because a conclusion about a particular act cannot be derived from a general premise about divine commands.
-
-C. Sound but morally irrelevant, because obligations generated by divine command apply only within the community that recognises the command.
-
-D. Unassessable, because premises concerning divine commands lie wholly outside the scope of philosophical evaluation altogether.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: conceding validity and locating the false premise is the required move, and Kierkegaard's admission that Abraham cannot make himself intelligible confirms that no public case is available.
-- **B:** Incorrect: the inference is a straightforward instantiation and is plainly valid; calling it invalid misdescribes the argument and forfeits the analysis.
-- **C:** Incorrect: calling it sound concedes the conclusion, and community-relativity is a different objection that does not touch the premise at issue.
-- **D:** Incorrect: the printed question asks precisely whether such an argument can support the conclusion, so declining to assess it declines the question.
-
-**Examiner trap 28:** Answering the religious-violence stem with a list of conflicts answers a historical question; state each candidate in premises and show which premise fails.
-
-#### MCQ 29. The decisive refutation of coercion for salvation
-
-Which argument decisively refutes the claim that coercion can be a benefit because it produces conformity leading to salvation?
-
-A. That the harms of coercion are always disproportionate to any spiritual benefit that could conceivably be secured by it in the long run.
-
-B. That salvation is a private matter, so the state has no legitimate interest in the religious conformity of its subjects.
-
-C. That belief is not directly voluntary, so force compels outward profession and yields hypocrisy rather than salvation.
-
-D. That no religious tradition has ever in fact endorsed the use of coercion in matters of belief and religious practice at all.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: a proportionality argument concedes that the mechanism could work and merely prices it, which is weaker than showing the premise is false.
-- **B:** Incorrect: this is a political argument about jurisdiction, and it leaves the paternalist's premise about the efficacy of coercion untouched.
-- **C:** Correct: this is Locke's refutation in *A Letter Concerning Toleration* (1689) — the understanding cannot be compelled by outward force — and it makes the second premise false.
-- **D:** Incorrect: this is historically false, since Augustine's use of *compelle intrare* in the Donatist controversy is the standard counter-instance to be examined.
+- **A:** Incorrect: several schools operate karma without any supervising deity, and it is the *absence* of a personal judge that makes the answer distinctive here.
+- **B:** Incorrect: this converts karma into social sanction, which is the very mechanism the Ring of Gyges defeats by removing detectability.
+- **C:** Correct: exhaustiveness and impersonality together remove the special status of the undetected case, which is what Gyges' challenge depends on.
+- **D:** Incorrect: this is the prudential reading the tradition itself criticises, and the *Gītā*'s renunciation of the fruit at 2.47 and 3.19 is directed precisely against it.
 
-**Examiner trap 29:** Augustine's *compelle intrare* must be presented as a historical position examined, never as an endorsement; mishandling it is a factual error and a tonal one at once.
+**Examiner trap 23:** Presenting karma as cosmic bookkeeping invites the reply that it is Gyges with a bigger ring; cite *Gītā* 2.47 to show that the developed doctrine removes the fruit from deliberation.
 
-#### MCQ 30. What every restraint-regime also contains
-
-When comparing just war, the classical Islamic juristic tradition and *dharma-yuddha*, which qualification is required for an honest answer?
-
-A. That the three converge so completely on authority, cause, intention, discrimination and proportionality that no significant divergence remains between them.
-
-B. That only the Western tradition developed a systematic body of doctrine, the other two consisting of scattered exhortations without juristic form.
-
-C. That the constraints are revelation-dependent in each case, and therefore unavailable to anyone outside the tradition that formulates them.
-
-D. That each contains an internal realist counter-tradition relaxing the constraints under necessity, such as Kauṭilya's *kūṭa-yuddha* in India.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
 **Option explanations:**
 
-- **A:** Incorrect: divergences remain, notably on temporal and spatial limits, and asserting complete convergence flatters all three traditions rather than comparing them.
-- **B:** Incorrect: all three possess long juristic or śāstric literatures, and the claim is both inaccurate and precisely the kind of adjudication the handling rule forbids.
-- **C:** Incorrect: the convergence of three independent traditions is evidence that the constraints are rationally derivable rather than revelation-dependent.
-- **D:** Correct: naming the internal counter-currents is what makes the comparison honest and supports the verdict that no tradition has solved the problem of necessity.
+- **A:** Incorrect: this overstates the claim, since Kantian, eudaimonist and Indian non-theistic groundings all supply reasons independent of transcendent sanction.
+- **B:** Incorrect: constrained maximisation works only where dispositions are detectable, so the perfectly masked defector is precisely the case it does not reach.
+- **C:** Incorrect: the distinction is drawn clearly in the literature and is exactly what makes the claim assessable rather than empty.
+- **D:** Correct: the justification–motivation distinction is the assessment, and religion's advantage in the hard case is scope, purchased at the price of heteronomy if it works by sanction.
+
+**Examiner trap 24:** Verdicts that summarise rather than decide sit in the "Strong" band and stop there; naming the concession that costs your own position something is what lifts a script to the top band.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: the directive buys a conditional verdict, and the two conditions are whether the ultimate is itself moralised and whether the orientation is intrinsic or extrinsic.
+- **B:** Incorrect: the held paper visibly prints "immorality", and silently regularising a printed term changes the question the examiner set.
+- **C:** Incorrect: a flat denial ignores the ritual-substitution, boundary-marking, suspension and licensing routes that the traditions themselves document.
+- **D:** Incorrect: a flat affirmation ignores the reformers, the internal-corruption reply and the comparison class of secular ideologies.
+
+**Examiner trap 25:** "Can one claim that there is an inter-relatedness between A and B?" never wants a yes or a no; it wants the conditions under which the relation holds, stated explicitly.
+
+#### MCQ 26 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: a typology of authority classifies sources of legitimacy and does not distinguish the orientations of individual religious commitment.
+- **B:** Correct: moral correlations differ sharply by orientation, which is exactly why religiosity as an undifferentiated variable correlates with nothing simple.
+- **C:** Incorrect: the dimensional analysis answers the question what religion *is*, and it belongs to the Religion without God owner rather than to this stem.
+- **D:** Incorrect: the definitional contrast decides which traditions count as religions and has no bearing on how individual religiosity relates to conduct.
+
+**Examiner trap 26:** Treating religiosity as one variable makes the conflicting evidence look like noise; naming the orientations converts the same evidence into the argument for conditional ambivalence.
+
+#### MCQ 27 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: narrowing the definition to exclude counterexamples is question-begging and would in any case make the answer unfalsifiable.
+- **B:** Incorrect: a survey answers a comparative question, whereas an incompatibility claim is a necessity claim defeated by a single clear counter-case.
+- **C:** Correct: refute the necessity claim, then state what survives — that the relation is contingent, since religion neither precludes nor guarantees moral behaviour.
+- **D:** Incorrect: this overshoots, and the correlation trap applies: causal improvement is neither required to refute incompatibility nor sufficient to establish dependence.
+
+**Examiner trap 27:** After refuting incompatibility, resist the temptation to conclude that religion guarantees moral behaviour; compatible is not guaranteed, and overshooting undoes the credit already earned.
+
+#### MCQ 28 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the inference is a straightforward instantiation and is plainly valid; calling it invalid misdescribes the argument and forfeits the analysis.
+- **B:** Incorrect: calling it sound concedes the conclusion, and community-relativity is a different objection that does not touch the premise at issue.
+- **C:** Incorrect: the printed question asks precisely whether such an argument can support the conclusion, so declining to assess it declines the question.
+- **D:** Correct: conceding validity and locating the false premise is the required move, and Kierkegaard's admission that Abraham cannot make himself intelligible confirms that no public case is available.
+
+**Examiner trap 28:** Answering the religious-violence stem with a list of conflicts answers a historical question; state each candidate in premises and show which premise fails.
+
+#### MCQ 29 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: this is Locke's refutation in *A Letter Concerning Toleration* (1689) — the understanding cannot be compelled by outward force — and it makes the second premise false.
+- **B:** Incorrect: this is historically false, since Augustine's use of *compelle intrare* in the Donatist controversy is the standard counter-instance to be examined.
+- **C:** Incorrect: a proportionality argument concedes that the mechanism could work and merely prices it, which is weaker than showing the premise is false.
+- **D:** Incorrect: this is a political argument about jurisdiction, and it leaves the paternalist's premise about the efficacy of coercion untouched.
+
+**Examiner trap 29:** Augustine's *compelle intrare* must be presented as a historical position examined, never as an endorsement; mishandling it is a factual error and a tonal one at once.
+
+#### MCQ 30 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the convergence of three independent traditions is evidence that the constraints are rationally derivable rather than revelation-dependent.
+- **B:** Correct: naming the internal counter-currents is what makes the comparison honest and supports the verdict that no tradition has solved the problem of necessity.
+- **C:** Incorrect: divergences remain, notably on temporal and spatial limits, and asserting complete convergence flatters all three traditions rather than comparing them.
+- **D:** Incorrect: all three possess long juristic or śāstric literatures, and the claim is both inaccurate and precisely the kind of adjudication the handling rule forbids.
 
 **Examiner trap 30:** Never assert the greater/lesser *jihād* distinction as canonical or treat *dār al-islām*/*dār al-ḥarb* as Qur'ānic; cite contested items with their flag or leave them out.
 
-#### MCQ 31. The limit of the genealogical method
-
-Why does Nietzsche's genealogy of morality not by itself refute the morality it describes?
-
-A. Because his historical reconstruction of the slave revolt has been shown by later scholarship to be inaccurate in most of its particulars.
-
-B. Because he never applies the method to his own valuations, and a method that exempts its author cannot be used against anyone.
-
-C. Because origin does not settle validity, so his target must be the *value* that a valuation expresses rather than its truth-value.
-
-D. Because a genealogy is a descriptive enterprise, and no descriptive enterprise can ever bear on a normative question in any way whatever.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
@@ -758,34 +757,50 @@ D. Because a genealogy is a descriptive enterprise, and no descriptive enterpris
 
 **Examiner trap 31:** Cite Scheler's *Ressentiment* (1912) as the named counter-authority — Christian love descending from abundance rather than impotence — instead of asserting in your own voice that the genealogy is a caricature.
 
-#### MCQ 32. What lifts a script to the top band
+#### MCQ 32 — solution
 
-According to the graded verdict ladder for this clause, what distinguishes a top-band answer from a strong one?
+**Answer: D.**
 
-A. A longer treatment of divine command theory, with the four-step argument set out in full and each presupposition separately defended.
+**Option explanations:**
 
-B. A discriminating distinction, such as justification versus motivation, together with a concession that costs the writer's own position something.
+- **A:** Incorrect: naming more thinkers without argument is what the ladder describes as asserting rather than arguing a non-theistic grounding.
+- **B:** Incorrect: emphasis is not decision; a decided verdict names what would change it, which is a matter of content rather than of tone.
+- **C:** Incorrect: additional exposition of a single theory adds length without adding discrimination, and length is not what separates the two bands.
+- **D:** Correct: the ladder specifies exactly this — a discriminating distinction plus a costly concession — and the strong band's typical fault is a verdict that summarises rather than decides.
 
-C. A greater number of thinkers named, so that the examiner can see the breadth of the candidate's reading across both Western and Indian sources.
+**Examiner trap 32:** The single most reliable top-band marker in this clause is a concession that damages your own conclusion; write it deliberately rather than hoping it emerges.
 
-D. A more emphatic conclusion, stated in the first person and repeated at the close of every paragraph so that the position is unmistakable.
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. The issue concerns final authority over a rule, not simply its religious origin.
+- **B:** Incorrect. A loving divine nature constrains arbitrary commands but still raises whether “loving” is independently assessable and how final authority fits autonomy.
+- **C:** Incorrect. Acquiring content by testimony does not by itself surrender rational authority over the norm's warrant.
+- **D:** Incorrect. A motive for compliance is not the metaphysical ground of rightness; these relations can diverge.
+
+**Examiner trap 33:** Autonomy is rational self-legislation, not a ban on learning from traditions.
+
+#### MCQ 34 — solution
 
 **Answer: B.**
 
 **Option explanations:**
+- **A:** Incorrect. Inclusion of atheists genuinely committed to Truth is part of the rationale for the reversed formulation.
+- **B:** Correct. Absolute truth remains the standard while finite access calls for corrigibility and nonviolence.
+- **C:** Incorrect. A fallible approach through tradition does not make sincere communal belief its own final truth criterion.
+- **D:** Incorrect. Gandhi's universalising inversion remains religious; naming truth as God does not discard the religious dimension.
 
-- **A:** Incorrect: additional exposition of a single theory adds length without adding discrimination, and length is not what separates the two bands.
-- **B:** Correct: the ladder specifies exactly this — a discriminating distinction plus a costly concession — and the strong band's typical fault is a verdict that summarises rather than decides.
-- **C:** Incorrect: naming more thinkers without argument is what the ladder describes as asserting rather than arguing a non-theistic grounding.
-- **D:** Incorrect: emphasis is not decision; a decided verdict names what would change it, which is a matter of content rather than of tone.
+**Examiner trap 34:** Relative *access* to truth is not relativism *about* truth.
 
-**Examiner trap 32:** The single most reliable top-band marker in this clause is a concession that damages your own conclusion; write it deliberately rather than hoping it emerges.
+**Coverage decision (34, not a quota):** Ground, knowledge, formation and motive; Euthyphro, modified divine command, Kant and Indian non-commander duty; morality without religion, harmful religion and the ethics of force are tested separately. The two added items isolate the 2026 autonomy conflict and Gandhi's absolute/relative truth relation, completing diagnostic routes for 13 owner parts.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified previous-year questions — 11 complete solutions
+### Verified 2018–2025 previous-year questions — 11 complete solutions (plus two 2026 supplements)
 
-**Word bands used throughout.** 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words. Every question below is reproduced in its **exact printed wording** from the audited Philosophy of Religion previous-year ledger, 2018–2025, in which this clause owns eleven question-parts — the largest single ownership in the section, including three distinct demands in 2019. **The model answers are independent learner practice and are never official UPSC keys.**
+**Timed-paper guidance:** Allocate writing time by marks and the directive, without treating a word count as an answer ceiling. The first eleven questions reproduce the audited 2018–2025 Philosophy of Religion ledger; two more printed 2026 stems are solved below. This clause owns eleven 2018–2025 parts (three in 2019), **not** the section's largest ownership: Soul, Immortality, Rebirth and Liberation owns seventeen. **Model answers are independent learner practice, never official UPSC keys.**
 
 **Timing skeleton.** 10 marks — 1 minute to decode, 1 to outline, 6 to write, 1 to check. 15 marks — 1 / 2 / 10 / 2. 20 marks — 2 / 3 / 13 / 2. **Standing penalties in this clause:** merging the four dependence claims; inferring logical dependence from sociological influence; giving one horn of the Euthyphro; identifying *dharma* with universal morality; answering the violence stem with a list of conflicts; and using the sentence commonly paraphrased as "without God everything is permitted" as a verified quotation from Dostoevsky.
 
@@ -815,7 +830,7 @@ Religiosity is therefore an amplifier: it magnifies the moral content of the rel
 - Supplies the comparison class, which most scripts omit.
 - Closes with a conditional verdict and names both conditions, which is exactly what the directive buys.
 
-**Upgrade route for this answer:** the compressible part is the four-route list — at 150 words, keep ritual substitution and boundary-marking with their named evidence, and reduce suspension and licensing to a single clause. What must never be cut is the pair of conditions in the final sentence, because the directive is grading the conditionality rather than the catalogue.
+**Timed-practice route for this answer:** the compressible part is the four-route list — retain ritual substitution and boundary-marking with named evidence, and summarise suspension and licensing succinctly. Preserve the pair of conditions in the final sentence: the directive grades conditionality rather than the catalogue.
 
 #### PYQ 2 — 2019, Q5(c), 10 marks
 
@@ -979,7 +994,7 @@ The explanation of the asymmetry is that morality is *constitutive* of what we a
 - Explains the asymmetry rather than merely endorsing the slogan.
 - Uses named non-theistic systems rather than the word "secular ethics".
 
-**Upgrade route for this answer:** at 150 words the four named systems in paragraph two reduce to two. The sentence that must be written in full is the constitutive/supportive contrast, because it is the only part of the answer that gives a *reason* for the asymmetry rather than restating it.
+**Timed-practice route for this answer:** if time presses, contrast the most relevant systems rather than enumerating all four. Preserve the constitutive/supportive distinction and its justification: this gives a *reason* for the asymmetry rather than restating it.
 
 #### PYQ 8 — 2023, Q5(c), 10 marks
 
@@ -1080,7 +1095,35 @@ That concession must be priced. Motivation supplied by sanction is heteronomous 
 
 **Upgrade route for this answer:** the modified-theory paragraph is the compressible one, reducible to Adams plus the residual objection in two sentences. The split between the two readings must never be compressed away, because it is the only thing in the answer that responds to the exact phrase "produce a feeling of obligation".
 
-### Original solved Mains practice — 6 models
+### 2026 primary-owned PYQ supplement — two solved parts (2018–2026 total: 13)
+
+The printed stems and marks are controlled by the verified 2026 Section B supplement. These independent models do not claim official marking authority.
+
+#### 2026 Q6(b) · 15 marks
+
+> How does the issue of moral autonomy conflict with conception of religion as a source of morality? Critically discuss.
+
+**Demand:** Disambiguate “source” before deciding whether it conflicts with autonomy.
+
+**Model solution.** A religion can be morality's **ground** (what makes duties binding), **evidence** (how agents learn them), **formation** (training the moral character), or **motive** (why agents comply). These are not interchangeable. Kantian autonomy means giving oneself a rationally universal law, not making up preferences at will. If a command is right *solely because* a superior orders it, obeying for reward or fear looks heteronomous; the agent has not assessed the command's moral authority.
+
+The Euthyphro dilemma sharpens the ground claim: does God command an act because it is good, in which case goodness is not made by command; or is it good because God commands it, risking arbitrariness? Adams's modified divine-command account constrains command by a loving God's character, while natural-law accounts treat practical reason as participation in divine order. Both preserve a role for religious grounding without making cruelty good on arbitrary order. Yet one must ask whether “loving” is independently intelligible and whether the believer may rationally reject a purported revelation.
+
+Indian parity prevents equating moral religion with a personal commander: Mīmāṃsā's authorless injunction and duty (dharma) offer normative authority without divine will; karma may connect action with consequences but consequence does not itself establish duty. **Verdict:** Formation and motivation are broadly compatible with an autonomously endorsed morality; an unconditional, reason-insulating external command conflicts with it. A believer's critical appropriation can mediate the tension, though the possibility of resisting the *final* divine authority remains decisive.
+
+#### 2026 Q8(a) · 20 marks
+
+> Critically evaluate the shift in Gandhi's view from 'God is Truth' to 'Truth is God', in the context of interrelation between religion and morality.
+
+**Demand:** Explain the inversion, its philosophical and ethical work, and its limits. Gandhi discusses the shift in *Young India*, 31 December 1931, reporting he reached it roughly two years earlier; do not portray 1931 as the first occurrence of the thought.
+
+**Model solution.** “God is Truth” predicates truth of a named God; “Truth is God” places truth first as the shared, unconditional object of commitment. Gandhi defended the inversion because even an atheist may sincerely pursue truth, whereas “God” names diverse contested conceptions; truth is a universal demand and hard to deny without presupposing it in argument. He also connects truth (satya) to being (sat): truth names the essential reality sought, while “God” can be a variable name for it, so the formulation is not merely an injunction against lying. Naming Truth as God does **not** make Gandhi an atheist or turn every individual's opinion into ultimate reality.
+
+The shift reorders the relation of religion and morality. If no religious command may override morality, fidelity to truth is a criterion by which religious claims themselves are judged. This reverses the crude divine-command horn on which arbitrary divine will determines goodness: to call a command godly is to subject it to the test of truth and nonviolence (ahiṃsā). Since finite seekers possess only *relative* access to absolute truth, disagreement calls for humility, self-scrutiny and nonviolent means rather than coercion. The unity of means and ends matters: a violent “shortcut” to truth corrupts what it claims to establish. Religion here supplies discipline and aspiration; ethical practice tests religion rather than merely executing it.
+
+**Critical evaluation:** Truth alone might seem too thin to identify one religious metaphysics or settle competing moral claims. A person's conscience might mistake partisan conviction for truth; nonviolence needs argument when confronting oppression. Gandhi can respond that publicly corrigible inquiry, readiness for self-suffering rather than injury to opponents, and means–end consistency provide practical checks, not infallible revelation. Yet absolute Truth plus fallible, relative human grasp does not by itself specify an algorithm for resolving every clash. **Verdict:** The inversion powerfully makes religion answerable to universal moral inquiry and includes non-theists, but its success depends on sustained ethical scrutiny of what counts as truth, not on merely swapping two nouns.
+
+### Original solved Mains practice — six baseline models plus a Kierkegaard evaluation
 
 These are original questions written in the printed styles of this clause. They are **learner practice, not previous-year questions.**
 
@@ -1208,13 +1251,23 @@ Compression in this clause is not uniform shortening. Each printed demand has on
 
 | Band | Diagnostics correct | What to do next |
 |---|---:|---|
-| Below 18 / 32 | — | Re-read Sessions 1–7 and redo items 1–14; the failure is almost always the four-relation distinction |
-| 18–23 / 32 | — | Redo items 15–24 after Sessions 8–15; the gap is Indian grounding and the "all the time" problem |
-| 24–28 / 32 | — | Work the remedial set 25–32 and write PYQ 4, 6 and 11 to time |
-| 29+ / 32 | — | Write Original 5 and 6 to time; the remaining gain is verdict discipline, not content |
+| Below 18 / 34 | — | Re-read Sessions 1–7 and redo items 1–14; the failure is almost always the four-relation distinction |
+| 18–23 / 34 | — | Redo items 15–24 after Sessions 8–15; the gap is Indian grounding and the "all the time" problem |
+| 24–28 / 34 | — | Work the remedial set 25–32 and write PYQ 4, 6 and 11 to time |
+| 29+ / 34 | — | Write Original 5 and 6 to time; use MCQs 33–34 to test autonomy and Gandhi |
 
-**Trap census.** Thirty-two unique examiner traps are attached to the diagnostics, and fifteen owner-level traps are assembled in Session 21. The five that recur most often across the eleven printed questions are: merging the four dependence relations; inferring dependence from correlation; giving one horn of the Euthyphro; answering the violence stem historically; and returning a verdict that summarises rather than decides.
+**Trap census.** The baseline thirty-two examiner traps are supplemented by two further argument-level traps, and fifteen owner-level traps are assembled in Session 21. The five that recur most often across the eleven printed questions are: merging the four dependence relations; inferring dependence from correlation; giving one horn of the Euthyphro; answering the violence stem historically; and returning a verdict that summarises rather than decides.
 
 ### Independence note
 
 Every model answer in this package is independent learner practice constructed from the repository's owner files and the audited previous-year ledger. None is an official UPSC key, and no marks awarded by the Commission are known for any of these questions.
+
+#### Further original Mains practice — the ethical exception problem
+
+**Original 7 · 20 marks — Can Kierkegaard's teleological suspension of the ethical be reconciled with the claim that no religion may override morality? Critically evaluate with an Indian comparator.**
+
+**Model solution.** In *Fear and Trembling*, Kierkegaard presents Abraham's willingness to sacrifice Isaac as the paradox of faith: the single individual stands in an absolute relation to God and cannot fully translate that duty into publicly universal ethics. The “teleological suspension” does not mean ordinary self-interest becomes right; it claims an exceptional divine end may require an action that the universal ethical order condemns. Precisely this claim creates a moral problem: if an alleged revelation warrants violence simply by invoking an inaccessible higher end, what stops a deluded or power-seeking agent from imitating Abraham?
+
+Kant's autonomy rejects suspending a universally defensible moral prohibition on the basis of an unverifiable command. Gandhi's insistence that no religion overrides morality supplies an Indian counterpoint: a putative command to injure another must be tested by truth, nonviolence and the unity of means and ends, not accepted because a claimed messenger is certain. Jain non-injury (ahiṃsā) provides a differently grounded strong restraint; it does not need a commander whose exceptional decree can set aside the restraint. A Kierkegaardian replies that Abraham's predicament is unrepeatable and cannot serve as a public permit for violence. But uniqueness cannot itself tell an observer or the individual which apparent voice is genuinely divine; the epistemic problem survives.
+
+**Assessment:** One may understand Kierkegaard as a phenomenology of costly, incommunicable commitment rather than a general ethical rule. As a warrant for actually overriding protection against harm, however, it fails the test of public accountability. Religious seriousness and moral scrutiny need not exclude each other; treating faith as exempt from scrutiny would give an unscrupulous imitator all the authority of a saint.

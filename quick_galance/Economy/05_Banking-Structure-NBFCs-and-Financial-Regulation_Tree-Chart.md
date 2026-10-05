@@ -150,10 +150,14 @@ classify entity and power
 
 ## PYQ route
 
-- 2024 Q42: counterparty-specific LAF access, FPI holding of G-Secs and exchange debt platforms; official Set-A key **C**.
+- 2024 Q42: counterparty-specific LAF access, FPI holding of G-Secs and exchange debt platforms; official Set-A
+   key **C**.
 - 2024 Q49: foreign-bank WOS capital and board wording; official Set-A key **D**.
 - 2024 Q52: syndicated lending; official Set-A question was **dropped**.
 - 2026 Q91/Q99: FI-Index and NBFC privileges; `Answer withheld pending official UPSC key.`
-- Historical routes: PSB governance, Service Area Approach, bank assets, public-bank appointments, demand deposits, UCBs and Banks Board Bureau.
+- Historical routes: PSB governance, Service Area Approach, bank assets, public-bank appointments, demand
+   deposits, UCBs and Banks Board Bureau.
 
-> **Qualified conclusion:** Institutional diversity supports inclusion and specialisation only when equivalent risks receive equivalent scrutiny, governance remains accountable and failure can be resolved without converting every private claim into a public guarantee.
+> **Qualified conclusion:** Institutional diversity supports inclusion and specialisation only when equivalent
+   risks receive equivalent scrutiny, governance remains accountable and failure can be resolved without converting
+   every private claim into a public guarantee.

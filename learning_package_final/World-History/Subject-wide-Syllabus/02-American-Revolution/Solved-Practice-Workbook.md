@@ -6,805 +6,369 @@ topic_key: world-history-02
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Seven Years' War ends, 1763?
+### Questions (answer-free; attempt before consulting the key)
 
-A. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-D. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
+#### Q1. Why did Britain's imperial policy change after 1763?
 
-**Answer: A.**
-**Explanation:** The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies. The remaining options belong to different chronology, actor or analytical categories.
+A. Seven Years' War debts encouraged taxation, regulation and troop deployment in its North American colonies.
+B. The 1783 Paris settlement ordered Britain to tax the independent republic.
+C. The 1791 Bill of Rights transferred imperial tax collection to Parliament.
+D. The 1777 Saratoga victory initially created Britain's Seven Years' War debt.
 
-### Q2. Which chronology card should be filed under Seven Years' War ends, 1763?
+#### Q2. In the Stamp Act dispute of 1765, what made a tax objection constitutional?
 
-A. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-B. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-C. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-D. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
+A. Colonial merchants believed Britain had entirely abolished commerce with Europe.
+B. Colonial assemblies asserted that taxes required representation and consent in lawmaking.
+C. Every colonist demanded identical taxes to those paid by members of Parliament.
+D. Parliament offered all adults an equal franchise but the assemblies rejected it.
 
-**Answer: B.**
-**Explanation:** The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies. The remaining options belong to different chronology, actor or analytical categories.
+#### Q3. A merchant and a land speculator oppose different imperial restrictions. Which pairing is most plausible?
 
-### Q3. Which option preserves the source-bounded meaning of Seven Years' War ends, 1763?
+A. Merchant: the 1942 Beveridge plan; speculator: British factory inspectors.
+B. Merchant: colonists' abolition of all tariffs; speculator: the 1783 peace treaty's creation of feudal dues.
+C. Merchant: constrained shipping and markets; speculator: limits on westward settlement.
+D. Merchant: the 1791 Bill of Rights; speculator: French seigneurial tithes.
 
-A. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-B. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-C. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-D. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
+#### Q4. Why were the colonies better able to coordinate resistance than a region without prior representative institutions?
 
-**Answer: C.**
-**Explanation:** The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies. The remaining options belong to different chronology, actor or analytical categories.
+A. All thirteen colonies already belonged to a single elected national parliament.
+B. The Continental Congress was established before the Seven Years' War.
+C. The first assemblies represented enslaved people and Native communities on equal terms.
+D. Existing colonial assemblies provided political organisation, though mainly for elites.
 
-### Q4. Which statement avoids a close-option trap about Seven Years' War ends, 1763?
+#### Q5. Which ordered sequence best separates resistance, inter-colonial coordination and armed conflict?
 
-A. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-B. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-C. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-D. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
+A. Boston Tea Party (1773) → First Continental Congress (1774) → Lexington and Concord (1775).
+B. Lexington and Concord (1775) → Boston Tea Party (1773) → First Continental Congress (1774).
+C. First Continental Congress (1774) → Yorktown (1781) → Stamp Act (1765).
+D. Boston Tea Party (1773) → Treaty of Paris (1783) → Lexington and Concord (1775).
 
-**Answer: D.**
-**Explanation:** The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies. The remaining options belong to different chronology, actor or analytical categories.
+#### Q6. What was the institutional importance of the Philadelphia meeting of 1774?
 
-### Q5. Which statement correctly identifies Stamp Act, 1765?
+A. It constituted the first general election under the 1791 Bill of Rights.
+B. The First Continental Congress coordinated colonial positions before declared independence.
+C. It brought the US Constitution into force for all thirteen states.
+D. It signed the Treaty of Paris and secured British recognition.
 
-A. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-B. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-C. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-D. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
+#### Q7. Which interpretation correctly links Lexington and Concord with the Declaration?
 
-**Answer: A.**
-**Explanation:** The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate. The remaining options belong to different chronology, actor or analytical categories.
+A. The two were alternative names for the 1783 peace settlement.
+B. The Declaration ended the conflict and made subsequent battles unnecessary.
+C. Fighting began in 1775; the 1776 declaration reframed resistance as an independent state's rights-based claim.
+D. The 1776 declaration was a British order initiating military combat in 1775.
 
-### Q6. Which chronology card should be filed under Stamp Act, 1765?
+#### Q8. How did the Declaration of Independence alter the logic of colonial protest?
 
-A. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-D. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
+A. It enacted the detailed federal distribution of powers used from 1789.
+B. It ratified the ten US constitutional amendments later called the Bill of Rights.
+C. It recognised British sovereignty as a necessary source of colonial liberty.
+D. It justified a new polity through rights to life, liberty and the pursuit of happiness.
 
-**Answer: B.**
-**Explanation:** The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate. The remaining options belong to different chronology, actor or analytical categories.
+#### Q9. Which three roles avoid conflating the American revolutionary figures?
 
-### Q7. Which option preserves the source-bounded meaning of Stamp Act, 1765?
+A. Jefferson drafted the Declaration; Paine wrote *Common Sense*; Washington commanded American forces.
+B. Washington drafted the Declaration; Jefferson led the militia; Paine negotiated the Paris treaty.
+C. Paine authored the US Constitution; Cornwallis issued *Common Sense*; Jefferson commanded the British.
+D. Jefferson won Saratoga as general; Washington wrote *Common Sense*; Paine drafted the Declaration.
 
-A. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-B. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-C. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-D. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
+#### Q10. A narrative states that Saratoga immediately recognised US independence. What must be changed?
 
-**Answer: C.**
-**Explanation:** The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate. The remaining options belong to different chronology, actor or analytical categories.
+A. Saratoga was the same event as Cornwallis's 1781 surrender at Yorktown.
+B. Saratoga in 1777 helped secure the French alliance in 1778; Britain recognised independence by the 1783 treaty.
+C. The alliance preceded the military campaign by a decade and ended the war in 1763.
+D. Saratoga was the signing location of the 1789 federal Constitution.
 
-### Q8. Which statement avoids a close-option trap about Stamp Act, 1765?
+#### Q11. Why is Britain's war against the colonies after 1778 inadequately described as a bilateral conflict?
 
-A. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-B. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-C. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-D. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
+A. All Continental powers had become US states under the Articles in 1781.
+B. The French Revolution in 1789 commanded Washington's army during the war.
+C. French alliance and wider European rivalry made British forces face an international contest.
+D. The 1765 Stamp Act formally annexed the British Empire to France.
 
-**Answer: D.**
-**Explanation:** The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate. The remaining options belong to different chronology, actor or analytical categories.
+#### Q12. Which distinction between Yorktown and Paris is historically defensible?
 
-### Q9. Which statement correctly identifies Mercantilist restrictions?
+A. The 1783 treaty preceded and ordered the surrender at Yorktown.
+B. Yorktown was a 1789 legislative convention; Paris was a 1776 tax act.
+C. Both were the same British parliamentary vote to repeal colonial duties.
+D. Cornwallis surrendered at Yorktown in 1781; Britain recognised independence in the Treaty of Paris in 1783.
 
-A. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-B. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-C. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-D. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
+#### Q13. Which constitutional problem explains the shift from the Articles-era union to the later federal Constitution?
 
-**Answer: A.**
-**Explanation:** British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire. The remaining options belong to different chronology, actor or analytical categories.
+A. A limited inter-state framework was replaced with a more durable federal structure of national and state powers.
+B. The Articles had already installed a hereditary American monarchy.
+C. The Constitution prohibited states from possessing any identity or authority.
+D. The 1781 arrangement was an amendment to the 1791 Bill of Rights.
 
-### Q10. Which chronology card should be filed under Mercantilist restrictions?
+#### Q14. Which timeline avoids treating ratification, operation and amendment as one event?
 
-A. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-B. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-C. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-D. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
+A. Treaty of Paris (1783) → Bill of Rights (1791) → Boston Tea Party (1773).
+B. Articles phase (1781) → federal Constitution in effect (1789) → Bill of Rights ratified (1791).
+C. Bill of Rights ratified (1791) → Articles phase (1781) → Constitution in effect (1789).
+D. Constitution in effect (1789) → Declaration adopted (1776) → Articles phase (1781).
 
-**Answer: B.**
-**Explanation:** British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire. The remaining options belong to different chronology, actor or analytical categories.
+#### Q15. A polity has a written constitution and divided national/state authority. What is the American example's exportable innovation?
 
-### Q11. Which option preserves the source-bounded meaning of Mercantilist restrictions?
+A. The elimination of every local political institution in favour of one party.
+B. An eighteenth-century claim that all constitutions must be unwritten.
+C. A republican federal framework in which state powers are articulated in a constitutional text.
+D. A return to monarchy secured by indefinite British parliamentary supremacy.
 
-A. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-B. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-C. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-D. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
+#### Q16. What best distinguishes the Bill of Rights from the 1776 Declaration?
 
-**Answer: C.**
-**Explanation:** British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire. The remaining options belong to different chronology, actor or analytical categories.
+A. The Bill established independence in 1776 while the Declaration amended the Constitution in 1791.
+B. The Bill was the peace treaty granting independence, and the Declaration the 1765 stamp duty.
+C. The Bill declared war on France while the Declaration created the Concert of Europe.
+D. The former entrenched protections such as speech, religion and legal safeguards; the latter proclaimed separation through rights-language.
 
-### Q12. Which statement avoids a close-option trap about Mercantilist restrictions?
+#### Q17. Which verdict best responds to 'How revolutionary was the American Revolution?'
 
-A. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-B. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-C. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-D. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
+A. It transformed sovereign legitimacy and constitutional form, yet left slavery and unequal political membership largely intact.
+B. It changed neither political authority nor social hierarchy.
+C. It entirely overturned every pre-existing economic and racial hierarchy.
+D. It abolished all political exclusions before the 1776 proclamation.
 
-**Answer: D.**
-**Explanation:** British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire. The remaining options belong to different chronology, actor or analytical categories.
+#### Q18. What is the strongest objection to calling the new republic 'fully democratic' in 1789?
 
-### Q13. Which statement correctly identifies Westward restrictions?
+A. The independence war abolished the institution of slavery nationwide.
+B. Property limits and exclusions of women, enslaved people and Native Americans undercut universal political equality.
+C. The absence of a hereditary monarchy proves universal adult franchise.
+D. All state legislatures were explicitly dissolved when the Constitution took effect.
 
-A. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-B. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-C. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-D. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
+#### Q19. Which pair reveals the settler-colonial tension within the independence movement?
 
-**Answer: A.**
-**Explanation:** Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands. The remaining options belong to different chronology, actor or analytical categories.
+A. Native peoples authored the Stamp Act to prevent colonial elections.
+B. The Bill of Rights in 1791 formally restored British barriers to all settlement.
+C. Colonists resented imperial limits on westward expansion while expansion threatened Native American lands.
+D. Colonists sought greater westward access while guaranteeing Native political sovereignty over every newly settled tract.
 
-### Q14. Which chronology card should be filed under Westward restrictions?
+#### Q20. Which comparison with France retains both the shared rights vocabulary and divergent targets?
 
-A. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-B. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-C. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-D. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
+A. Both events principally freed peasants from identical seigneurial dues in British colonies.
+B. America abolished slavery instantly; France did not recognise any citizenship claim.
+C. France's first revolutionary act in 1789 triggered the earlier American Declaration.
+D. America broke imperial control and built a federal republic; France attacked internal privilege and transformed social/legal status.
 
-**Answer: B.**
-**Explanation:** Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands. The remaining options belong to different chronology, actor or analytical categories.
+#### Q21. A student calls the Declaration the constitution and Yorktown the independence treaty. Which repair fixes both?
 
-### Q15. Which option preserves the source-bounded meaning of Westward restrictions?
+A. The Declaration justified 1776 independence; the 1789 Constitution organised government; the 1781 surrender preceded 1783 diplomatic recognition.
+B. The 1789 Constitution proclaimed independence; the 1776 Declaration distributed federal offices; Yorktown was 1791.
+C. Paris in 1783 drafted the Constitution and Yorktown in 1781 enacted the Bill of Rights.
+D. The Declaration was an amendment to the Articles and the 1781 surrender was a tax boycott.
 
-A. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-B. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-C. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-D. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
+#### Q22. For the verified 2019 cross-cutting PYQ, which division of argumentative labour is strongest?
 
-**Answer: C.**
-**Explanation:** Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands. The remaining options belong to different chronology, actor or analytical categories.
+A. America and France: one continuous undifferentiated rebellion with exactly the same social result.
+B. America: written federal constitutional method; France: abolition of privilege and citizenship; both: an incomplete rights inheritance.
+C. America: abolition of French dues; France: recognition of US independence at Paris.
+D. America: immediate equal franchise for all; France: no rupture of inherited power.
 
-### Q16. Which statement avoids a close-option trap about Westward restrictions?
+#### Q23. What can be claimed from 2026 commemorative material without turning commemoration into historical proof?
 
-A. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-B. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-C. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-D. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
+A. A contemporary anniversary site is an original 1783 peace treaty.
+B. Official commemoration establishes that French social hierarchy disappeared in 1776.
+C. An official anniversary initiative marks the American independence anniversary, but its present-day publicity does not establish an eighteenth-century causal interpretation.
+D. Anniversary branding independently proves every 1776 colonist supported universal suffrage.
 
-**Answer: D.**
-**Explanation:** Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands. The remaining options belong to different chronology, actor or analytical categories.
+#### Q24. Which comparison with India's constitutional history is methodological rather than a claim of direct copying?
 
-### Q17. Which statement correctly identifies Colonial self-government?
+A. Assume the Stamp Act of 1765 was an Indian law administered under India's Constitution.
+B. Treat the American settlers' movement as identical to twentieth-century Indian mass nationalism.
+C. Conclude that America's Constitution abolished British colonialism in India in 1789.
+D. Contrast representative institutions and federal design in unlike colonial and postcolonial contexts; test any claim of direct borrowing separately.
 
-A. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-B. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-C. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-D. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
+### Separate key, elimination and remediation
 
-**Answer: A.**
-**Explanation:** Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy. The remaining options belong to different chronology, actor or analytical categories.
+#### Q1 — A
 
-### Q18. Which chronology card should be filed under Colonial self-government?
+- **A:** Correct: LoC identifies post-war debt as a crucial immediate trigger.
+- **B:** The peace treaty followed independence and could not trigger pre-war controls.
+- **C:** A later American rights amendment did not govern British imperial finances.
+- **D:** Saratoga occurred after the 1763 imperial reordering.
+- **Trap / remediation:** Fiscal pressure explains timing; not every colonial grievance began in 1763.
 
-A. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-B. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-C. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-D. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
+#### Q2 — B
 
-**Answer: B.**
-**Explanation:** Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Imperial trade restrictions did not mean trade with Europe had ceased entirely.
+- **B:** Correct: the decisive question was who could tax and legislate for the colonies.
+- **C:** Numerical parity of tax burdens was not the core no-taxation-without-representation claim.
+- **D:** Neither Parliament nor elite assemblies supplied universal suffrage.
+- **Trap / remediation:** Representation here meant colonial institutional claims, not modern universal voting.
 
-### Q19. Which option preserves the source-bounded meaning of Colonial self-government?
+#### Q3 — C
 
-A. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-B. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-C. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-D. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
+- **A:** These social-policy markers belong to different centuries.
+- **B:** Neither proposition corresponds to the two imperial constraints at issue.
+- **C:** Correct: old NCERT distinguishes mercantilist controls from land grievance.
+- **D:** A post-independence US amendment and French village dues do not describe those colonial restrictions.
+- **Trap / remediation:** Westward grievance also implicates Native land dispossession.
 
-**Answer: C.**
-**Explanation:** Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy. The remaining options belong to different chronology, actor or analytical categories.
+#### Q4 — D
 
-### Q20. Which statement avoids a close-option trap about Colonial self-government?
+- **A:** The pre-independence colonies did not have such an elected national parliament.
+- **B:** The First Continental Congress is dated 1774, after 1763.
+- **C:** Elite assemblies did not grant universal inclusion.
+- **D:** Correct: assemblies were pre-existing machinery for political claims.
+- **Trap / remediation:** Political capacity does not mean social democracy.
 
-A. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-B. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-C. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-D. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
+#### Q5 — A
 
-**Answer: D.**
-**Explanation:** Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: escalating protest preceded congress and then armed fighting.
+- **B:** The first armed clashes did not precede Boston resistance.
+- **C:** The 1765 tax measure is not later than the 1781 surrender.
+- **D:** Formal recognition of independence came after armed conflict.
+- **Trap / remediation:** Do not mistake the Tea Party for the war's opening battle.
 
-### Q21. Which statement correctly identifies Boston Tea Party, 1773?
+#### Q6 — B
 
-A. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-B. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-C. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-D. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
+- **A:** The Bill of Rights is later and cannot describe the Congress.
+- **B:** Correct: the 1774 congress helped turn dispersed protests into inter-colonial action.
+- **C:** The Constitution came into force in 1789.
+- **D:** Recognition by the peace treaty followed in 1783.
+- **Trap / remediation:** The 1774 Congress is not the later constitutional settlement.
 
-**Answer: A.**
-**Explanation:** The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures. The remaining options belong to different chronology, actor or analytical categories.
+#### Q7 — C
 
-### Q22. Which chronology card should be filed under Boston Tea Party, 1773?
+- **A:** Neither 1775 fighting nor 1776 independence declaration equals the 1783 treaty.
+- **B:** The international military conflict continued well after 1776.
+- **C:** Correct: distinguish onset of fighting from proclamation of political separation.
+- **D:** The Declaration came from colonial representatives, not British command.
+- **Trap / remediation:** War, independence claim and diplomatic recognition are separate stages.
 
-A. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-B. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-C. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-D. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
+#### Q8 — D
 
-**Answer: B.**
-**Explanation:** The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Federal state architecture belongs to the later Constitution.
+- **B:** The amendments were ratified later, in 1791.
+- **C:** Independence contested, rather than confirmed, British authority.
+- **D:** Correct: the National Archives text supplies its verified rights vocabulary.
+- **Trap / remediation:** A claim to statehood is not the constitution of that state.
 
-### Q23. Which option preserves the source-bounded meaning of Boston Tea Party, 1773?
+#### Q9 — A
 
-A. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-B. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-C. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-D. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
+- **A:** Correct: political drafting, print persuasion and military command are distinct.
+- **B:** All three named roles are reassigned without support.
+- **C:** Cornwallis was a British commander and did not write Paine's pamphlet.
+- **D:** This reverses the verified attributions to Jefferson, Washington and Paine.
+- **Trap / remediation:** Do not present any one individual as sole cause of independence.
 
-**Answer: C.**
-**Explanation:** The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures. The remaining options belong to different chronology, actor or analytical categories.
+#### Q10 — B
 
-### Q24. Which statement avoids a close-option trap about Boston Tea Party, 1773?
+- **A:** Saratoga and Yorktown were different wartime turning points.
+- **B:** Correct: military credibility, allied entry and legal recognition are different stages.
+- **C:** The proposed sequence reverses the verified years.
+- **D:** Constitutional implementation was later and distinct from Saratoga.
+- **Trap / remediation:** Do not turn a battlefield success into an international treaty.
 
-A. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-B. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-C. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-D. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
+#### Q11 — C
 
-**Answer: D.**
-**Explanation:** The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** European allied or rival powers did not become American states.
+- **B:** French revolutionary politics occurred after the US war's decisive phases.
+- **C:** Correct: French involvement and pressure from Spain and the Dutch widened the war.
+- **D:** The Stamp Act was a British tax measure, not a Franco-British annexation.
+- **Trap / remediation:** An alliance is not proof of identical political goals among allies.
 
-### Q25. Which statement correctly identifies First Continental Congress, 1774?
+#### Q12 — D
 
-A. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-B. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-C. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-D. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
+- **A:** A treaty in 1783 cannot be the earlier cause of 1781 surrender in that sequence.
+- **B:** Both labels, functions and years are misassigned.
+- **C:** Neither event was merely a parliamentary tax repeal.
+- **D:** Correct: decisive military defeat preceded diplomatic settlement.
+- **Trap / remediation:** Never substitute a surrender for legal recognition.
 
-**Answer: A.**
-**Explanation:** The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance. The remaining options belong to different chronology, actor or analytical categories.
+#### Q13 — A
 
-### Q26. Which chronology card should be filed under First Continental Congress, 1774?
+- **A:** Correct: distinguish cooperation among states from the later federal institutional settlement.
+- **B:** The union under the Articles was republican, not monarchical.
+- **C:** Federalism retains states as political units.
+- **D:** Chronology makes a later amendment an impossible parent of the Articles.
+- **Trap / remediation:** Federalism is divided power, not complete elimination of the states.
 
-A. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-B. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-C. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-D. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
+#### Q14 — B
 
-**Answer: B.**
-**Explanation:** The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** A 1773 protest cannot follow a 1791 amendment.
+- **B:** Correct: the distinct institutional stages follow the owner's date-control list.
+- **C:** The 1791 amendments could not predate 1781.
+- **D:** The declaration precedes both constitutional stages.
+- **Trap / remediation:** The Bill of Rights did not take effect at the 1776 Declaration.
 
-### Q27. Which option preserves the source-bounded meaning of First Continental Congress, 1774?
+#### Q15 — C
 
-A. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-B. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-C. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
-D. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
+- **A:** A federal state and constitutional checks differ from one-party abolition of local government.
+- **B:** The US example is specifically written constitutionalism.
+- **C:** Correct: the 1789 Constitution institutionalised a federal republic.
+- **D:** Rejection of monarchical imperial authority contradicts this account.
+- **Trap / remediation:** Avoid claiming America's written constitution was the first constitution in world history.
 
-**Answer: C.**
-**Explanation:** The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance. The remaining options belong to different chronology, actor or analytical categories.
+#### Q16 — D
 
-### Q28. Which statement avoids a close-option trap about First Continental Congress, 1774?
+- **A:** The years and functions are inverted.
+- **B:** Neither a tax nor the diplomatic peace is one of these American rights texts.
+- **C:** European great-power diplomacy is unrelated to the roles of these two documents.
+- **D:** Correct: their legal roles and chronological settings are different.
+- **Trap / remediation:** Protecting enumerated liberties does not imply all groups could vote.
 
-A. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-B. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-C. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-D. The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance.
+#### Q17 — A
 
-**Answer: D.**
-**Explanation:** The First Continental Congress met at Philadelphia in 1774 and coordinated colonial political resistance. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: politically radical and socially incomplete is the source's graded verdict.
+- **B:** The creation of a recognised federal republic disproves zero political change.
+- **C:** Slavery and Native dispossession refute total social transformation.
+- **D:** Early property qualifications and women's exclusion refute universal participation.
+- **Trap / remediation:** Radical in constitutional method need not mean egalitarian in immediate social outcome.
 
-### Q29. Which statement correctly identifies Lexington and Concord, 1775?
+#### Q18 — B
 
-A. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-B. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-C. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-D. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
+- **A:** Slavery survived independence and constitutional establishment.
+- **B:** Correct: formal republican government coexisted with restricted membership.
+- **C:** Non-monarchical form is not proof of suffrage equality.
+- **D:** The states remained political units in a federal structure.
+- **Trap / remediation:** Separate citizenship rhetoric, voting rules and social status.
 
-**Answer: A.**
-**Explanation:** Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war. The remaining options belong to different chronology, actor or analytical categories.
+#### Q19 — C
 
-### Q30. Which chronology card should be filed under Lexington and Concord, 1775?
+- **A:** The Stamp Act was enacted by the British Parliament.
+- **B:** A later American amendment did not simply reinstall imperial restrictions.
+- **C:** Correct: a colonial grievance could produce another people's dispossession.
+- **D:** No such universal guarantee follows from the settlers' land grievance.
+- **Trap / remediation:** The anti-imperial perspective of settlers does not erase indigenous perspectives.
 
-A. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-B. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-C. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-D. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
+#### Q20 — D
 
-**Answer: B.**
-**Explanation:** Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The colonies' struggle did not duplicate France's feudal order.
+- **B:** American slavery survived; France advanced rights and citizenship claims.
+- **C:** The American declaration predates 1789.
+- **D:** Correct: common ideals coexisted with unlike institutional targets.
+- **Trap / remediation:** Neither revolution's exclusions cancel its distinct institutional contribution.
 
-### Q31. Which option preserves the source-bounded meaning of Lexington and Concord, 1775?
+#### Q21 — A
 
-A. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-B. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-C. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
-D. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
+- **A:** Correct: three different kinds of event must be kept separate.
+- **B:** The declaration and constitution are inverted, and Yorktown was not 1791.
+- **C:** Neither the 1783 peace nor the 1781 military event enacted those later institutions.
+- **D:** The Declaration precedes rather than amends the Articles phase.
+- **Trap / remediation:** Proclamation, constitution, battlefield surrender and treaty perform different functions.
 
-**Answer: C.**
-**Explanation:** Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war. The remaining options belong to different chronology, actor or analytical categories.
+#### Q22 — B
 
-### Q32. Which statement avoids a close-option trap about Lexington and Concord, 1775?
+- **A:** Shared political language does not erase distinct social and constitutional trajectories.
+- **B:** Correct: distinguish each contribution before drawing a qualified common conclusion.
+- **C:** Dues belong to the French context and Paris recognised American independence.
+- **D:** Both cases had political exclusions; France transformed old-order legitimacy.
+- **Trap / remediation:** Cross-cutting does not mean identical; retain both sides and qualification.
 
-A. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-B. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-C. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-D. Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war.
+#### Q23 — C
 
-**Answer: D.**
-**Explanation:** Armed conflict began at Lexington and Concord in 1775, shifting resistance from boycott and petition toward war. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The 1783 treaty and a contemporary website are unlike source types.
+- **B:** French social transformations followed a different later sequence.
+- **C:** Correct: distinguish a dated contemporary event from historical evidence about causation.
+- **D:** Modern publicity cannot establish past universal suffrage.
+- **Trap / remediation:** Use current linkage as a hook, not as an authority for unsupported past claims.
 
-### Q33. Which statement correctly identifies Declaration of Independence, 1776?
+#### Q24 — D
 
-A. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-B. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-C. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-D. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-
-**Answer: A.**
-**Explanation:** The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Declaration of Independence, 1776?
-
-A. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-B. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-C. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-D. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-
-**Answer: B.**
-**Explanation:** The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Declaration of Independence, 1776?
-
-A. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-B. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-C. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-D. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-
-**Answer: C.**
-**Explanation:** The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Declaration of Independence, 1776?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-C. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-D. The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-
-**Answer: D.**
-**Explanation:** The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Jefferson, Paine and Washington?
-
-A. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-B. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-C. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-D. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-
-**Answer: A.**
-**Explanation:** Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Jefferson, Paine and Washington?
-
-A. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-B. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-C. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-D. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-
-**Answer: B.**
-**Explanation:** Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Jefferson, Paine and Washington?
-
-A. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-B. The United States Constitution came into effect in 1789 and established a written federal republican system.
-C. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-D. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-
-**Answer: C.**
-**Explanation:** Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Jefferson, Paine and Washington?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-C. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-D. Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-
-**Answer: D.**
-**Explanation:** Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Saratoga and French alliance, 1777-78?
-
-A. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-B. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-C. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-D. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-
-**Answer: A.**
-**Explanation:** The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Saratoga and French alliance, 1777-78?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-C. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-D. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-
-**Answer: B.**
-**Explanation:** The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Saratoga and French alliance, 1777-78?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-C. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-D. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-
-**Answer: C.**
-**Explanation:** The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Saratoga and French alliance, 1777-78?
-
-A. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-B. The United States Constitution came into effect in 1789 and established a written federal republican system.
-C. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-D. The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-
-**Answer: D.**
-**Explanation:** The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Yorktown, 1781?
-
-A. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-B. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-C. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-D. The United States Constitution came into effect in 1789 and established a written federal republican system.
-
-**Answer: A.**
-**Explanation:** Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Yorktown, 1781?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-C. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-D. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-
-**Answer: B.**
-**Explanation:** Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Yorktown, 1781?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-C. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-D. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-
-**Answer: C.**
-**Explanation:** Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Yorktown, 1781?
-
-A. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-B. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-C. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-D. Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-
-**Answer: D.**
-**Explanation:** Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Treaty of Paris, 1783?
-
-A. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-B. The United States Constitution came into effect in 1789 and established a written federal republican system.
-C. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-D. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-
-**Answer: A.**
-**Explanation:** The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Treaty of Paris, 1783?
-
-A. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-B. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-C. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-D. The United States Constitution came into effect in 1789 and established a written federal republican system.
-
-**Answer: B.**
-**Explanation:** The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Treaty of Paris, 1783?
-
-A. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-B. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-C. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-D. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-
-**Answer: C.**
-**Explanation:** The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Treaty of Paris, 1783?
-
-A. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-B. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-C. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-D. The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
-
-**Answer: D.**
-**Explanation:** The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Articles and union phase, 1781?
-
-A. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-B. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-C. The United States Constitution came into effect in 1789 and established a written federal republican system.
-D. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-
-**Answer: A.**
-**Explanation:** The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Articles and union phase, 1781?
-
-A. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-B. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-C. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-D. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-
-**Answer: B.**
-**Explanation:** The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Articles and union phase, 1781?
-
-A. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-B. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-C. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-D. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-
-**Answer: C.**
-**Explanation:** The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Articles and union phase, 1781?
-
-A. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-B. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-C. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-D. The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order.
-
-**Answer: D.**
-**Explanation:** The Articles-era union from 1781 enabled cooperation among states but proved weaker than the later federal constitutional order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Constitution in effect, 1789?
-
-A. The United States Constitution came into effect in 1789 and established a written federal republican system.
-B. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-C. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-D. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-
-**Answer: A.**
-**Explanation:** The United States Constitution came into effect in 1789 and established a written federal republican system. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Constitution in effect, 1789?
-
-A. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-B. The United States Constitution came into effect in 1789 and established a written federal republican system.
-C. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-D. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-
-**Answer: B.**
-**Explanation:** The United States Constitution came into effect in 1789 and established a written federal republican system. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Constitution in effect, 1789?
-
-A. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-B. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-C. The United States Constitution came into effect in 1789 and established a written federal republican system.
-D. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-
-**Answer: C.**
-**Explanation:** The United States Constitution came into effect in 1789 and established a written federal republican system. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Constitution in effect, 1789?
-
-A. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-B. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-C. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-D. The United States Constitution came into effect in 1789 and established a written federal republican system.
-
-**Answer: D.**
-**Explanation:** The United States Constitution came into effect in 1789 and established a written federal republican system. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Bill of Rights?
-
-A. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-B. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-C. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-D. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-
-**Answer: A.**
-**Explanation:** The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Bill of Rights?
-
-A. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-B. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-C. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-D. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-
-**Answer: B.**
-**Explanation:** The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Bill of Rights?
-
-A. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-B. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-C. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-D. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-
-**Answer: C.**
-**Explanation:** The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Bill of Rights?
-
-A. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-D. The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-
-**Answer: D.**
-**Explanation:** The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Politically radical outcome?
-
-A. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-B. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-C. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-D. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-
-**Answer: A.**
-**Explanation:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Politically radical outcome?
-
-A. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-B. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-C. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-D. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-
-**Answer: B.**
-**Explanation:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Politically radical outcome?
-
-A. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-B. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-C. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-D. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-
-**Answer: C.**
-**Explanation:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Politically radical outcome?
-
-A. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-B. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-C. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-D. The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-
-**Answer: D.**
-**Explanation:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Socially incomplete outcome?
-
-A. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-B. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-C. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-D. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-
-**Answer: A.**
-**Explanation:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Socially incomplete outcome?
-
-A. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-B. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-C. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-D. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-
-**Answer: B.**
-**Explanation:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Socially incomplete outcome?
-
-A. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-D. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-
-**Answer: C.**
-**Explanation:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Socially incomplete outcome?
-
-A. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-D. Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-
-**Answer: D.**
-**Explanation:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies International precedent?
-
-A. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-D. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-
-**Answer: A.**
-**Explanation:** The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under International precedent?
-
-A. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-B. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-C. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-D. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-
-**Answer: B.**
-**Explanation:** The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of International precedent?
-
-A. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-B. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-C. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-D. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-
-**Answer: C.**
-**Explanation:** The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about International precedent?
-
-A. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-B. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-C. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-D. The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-
-**Answer: D.**
-**Explanation:** The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies American-French distinction?
-
-A. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-B. The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-C. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-D. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-
-**Answer: A.**
-**Explanation:** America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under American-French distinction?
-
-A. The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-B. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-C. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-D. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-
-**Answer: B.**
-**Explanation:** America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of American-French distinction?
-
-A. British shipping, market and manufacturing restrictions constrained colonial economic autonomy, though many colonists had also benefited from empire.
-B. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-C. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-D. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-
-**Answer: C.**
-**Explanation:** America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about American-French distinction?
-
-A. Limits on westward settlement widened colonial grievance while also revealing that expansion threatened Native American lands.
-B. Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
-C. The Boston Tea Party of 1773 transformed a tea-duty dispute into symbolic defiance of imperial authority and provoked punitive British measures.
-D. America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
-
-**Answer: D.**
-**Explanation:** America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The Stamp Act is an American colonial grievance, not an Indian constitutional statute.
+- **B:** The movements differed in social constituencies and imperial setting.
+- **C:** A US constitutional settlement did not grant Indian independence.
+- **D:** Correct: comparative institutional vocabulary can travel without proof of identical paths.
+- **Trap / remediation:** Analogy is not historical transmission.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -828,266 +392,97 @@ D. America contributed a durable constitutional form; France contributed a deepe
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
-### PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks
+### PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks · 250 words
 
-**Demand:** Explain how the American and French Revolutions contributed to the foundations of the modern world.
+**Verified demand (neutral rendering):** Explain how the American and French Revolutions contributed to the foundations of the modern world.
 
-**Status:** Verified neutral demand from the local routed owner; cross-cutting with Topic 03.
+**Source status:** The local official-paper routing ledger `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` routes GS-I 2019 Q13 to both topics; this is a neutral demand, not a claimed verbatim transcription. There is no official model answer or objective answer key. Cross-owned by World History Topics 02 and 03.
 
-**Model solution:** The American Revolution supplied the constitutional method: a rights-based break with empire, a written federal republic and entrenched liberties. Saratoga and the French alliance also showed how local resistance could exploit great-power rivalry. Its social settlement remained limited because slavery, property restrictions and Native dispossession survived. France supplied the deeper social content through the destruction of privilege, citizenship and popular sovereignty. Together they made inherited authority answerable to rights, constitutions and the nation, without immediately making those principles universal.
+**Demand route:** Explain distinct institutional contributions, connect each to its mechanism and wider influence, then qualify exclusions and different social depth. Do not write two unconnected chronologies.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+**Model answer (original, approximately 230 words):** The Atlantic revolutions made inherited political authority contestable, but they laid different foundations of the modern world. The American colonies' dispute with Britain began over imperial controls and taxes without representation after the Seven Years' War. The Declaration of Independence (1776) converted protest into a rights-based claim to separate statehood. Victory at Saratoga helped bring France into the war; Yorktown (1781) supplied a decisive military surrender, and the Treaty of Paris (1783) brought British recognition. The later federal Constitution, in force in 1789, showed how a republic could bind the national government through a written allocation of powers; the Bill of Rights subsequently protected specified liberties. Thus America contributed a durable constitutional *method*, although slavery survived and women and Native Americans did not receive equal political standing.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
+France transformed not just a relationship to an external ruler but a society ordered by hereditary privilege. The Third Estate's National Assembly in June 1789 asserted constituent power; the August Rights Declaration proclaimed legal equality and citizenship. Peasant action against feudal burdens and urban mobilisation gave those claims a deeper social dimension. The republic's radical phase, the Terror and Napoleon's later empire demonstrate that popular sovereignty did not ensure uninterrupted liberty. Yet the 1804 Civil Code preserved parts of the anti-feudal legal settlement. Together, the revolutions supplied portable languages of rights and political legitimacy. Their uneven membership also left later generations to contest who counted as a citizen.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
+**Remediation:** If your answer says both revolutions were equally socially radical, contrast French seigneurial dues with the American imperial break. If it equates a declaration with a constitution or treaty, restore the 1776 / 1783 / 1789 sequence. Never equate influence with proof of direct institutional copying.
 
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The American Revolution supplied the constitutional method: a rights-based break with empire, a written federal republic and entrenched liberties. Saratoga and the French alliance also showed how local resistance could exploit great-power rivalry. Its social settlement remained limited because slavery, property restrictions and Native dispossession survived. France supplied the deeper social content through the destruction of privilege, citizenship and popular sovereignty. Together they made inherited authority answerable to rights, constitutions and the nation, without immediately making those principles universal.
-
-**Qualification:** Treat the stated causal weight as bounded by the question's period, geography and evidence status; do not convert it into inevitability or a universal civilisational claim.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Why did taxation become a constitutional issue in the American colonies? Answer in about 150 words.
 
-**Model thesis:** The dispute concerned legislative authority and consent, not merely the size of a tax, because established assemblies claimed the right to represent colonial taxpayers.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The quarrel concerned authority to tax the thirteen colonies: colonial assemblies insisted on consent through their representatives.
 
-- The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies.
-- The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-- Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy.
+After the Seven Years' War ended in 1763, British debt encouraged taxation, regulation and troop deployment, sharpening an existing disagreement about self-government. Mercantilist restrictions on ships, manufactures and markets added economic resentment, while colonial assemblies already had practical experience of local lawmaking. The Stamp Act of 1765 imposed a burden without colonial representation in the taxing legislature. Boycott and assembly-led protest translated that burden into “no taxation without representation”: if Westminster could tax without colonial consent, which institution governed? The Boston Tea Party in 1773 and punitive response widened the confrontation; the First Continental Congress at Philadelphia in 1774 coordinated resistance.
 
-**Qualified conclusion:** The dispute concerned legislative authority and consent, not merely the size of a tax, because established assemblies claimed the right to represent colonial taxpayers.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did taxation become a constitutional issue in the American colonies? Answer in about 150…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did taxation become a constitutional issue in the American colonies? Answer in about 150…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The dispute concerned legislative authority and consent, not merely the size of a tax, because established assemblies claimed the right to represent colonial taxpayers.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Seven Years' War ended in 1763, after which British war debt encouraged tighter taxation, regulation and troop deployment in the thirteen colonies. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Existing colonial assemblies gave resistance an institutional base, but these assemblies were elite bodies rather than organs of universal democracy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** The dispute concerned legislative authority and consent, not merely the size of a tax, because established assemblies claimed the right to represent colonial taxpayers.
+Before the Declaration of 1776, colonists still used British constitutional language. Assemblies were elite institutions, not universal democracies; their claim to legislate made a fiscal measure a dispute over sovereignty.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Explain why Saratoga was a strategic turning point. Answer in about 150 words.
 
-**Model thesis:** Saratoga mattered because it converted a colonial war into an international conflict by helping secure French alliance and pressure on British power.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Saratoga changed the balance by helping turn a colonial rebellion into an international war, not by securing independence outright.
 
-- The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain.
-- Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence.
-- The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement.
+George Washington's forces had fought since 1775, but a rebel republic needed support against imperial Britain. Saratoga in 1777 showed British armies could be defeated and strengthened the case for French support. This changed the diplomatic credibility of the colonial struggle: a prospective ally could see resistance capable of sustained military success rather than mere protest. The French alliance of 1778 increased British strategic commitments and shifted the balance. Spain and the Dutch also hurt British interests, without simply fighting as American auxiliaries.
 
-**Qualified conclusion:** Saratoga mattered because it converted a colonial war into an international conflict by helping secure French alliance and pressure on British power.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why Saratoga was a strategic turning point. Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain why Saratoga was a strategic turning point. Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Saratoga mattered because it converted a colonial war into an international conflict by helping secure French alliance and pressure on British power.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The colonial victory at Saratoga helped secure the French alliance in 1778, internationalising the war and altering the balance against Britain. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Cornwallis's surrender at Yorktown in 1781 was the decisive military turning point, but it did not itself constitute legal recognition of independence. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Treaty of Paris of 1783 brought British recognition of American independence and converted military success into an international settlement. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Saratoga mattered because it converted a colonial war into an international conflict by helping secure French alliance and pressure on British power.
+Cornwallis surrendered at Yorktown in 1781, a decisive military turning point to which the international balance contributed. Military victory was not legal recognition: the Treaty of Paris in 1783 formally recognised independence. Saratoga was thus the hinge between rebellion and a wider imperial war, not the final settlement.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** The American Revolution was political rather than social. Discuss. Answer in about 250 words.
 
-**Model thesis:** It radically changed sovereignty and constitutional form while leaving slavery, property hierarchy and political exclusion substantially intact.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The American Revolution was profoundly political and constitutional, but less transformative of social hierarchy. To call it *only* political, however, overlooks the effects of war and westward expansion on people excluded from the new rights settlement.
 
-- The United States Constitution came into effect in 1789 and established a written federal republican system.
-- The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-- The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-- Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
+The thirteen colonies had assemblies before independence. British post-1763 controls, especially taxation without colonial representation under the Stamp Act of 1765, made the question of who could legislate acute. The Declaration of Independence in 1776 asserted equality and inalienable rights as grounds for rejecting imperial sovereignty. Armed resistance, French alliance and eventual British recognition under the Treaty of Paris in 1783 made a former colonial rebellion into an independent state.
 
-**Qualified conclusion:** It radically changed sovereignty and constitutional form while leaving slavery, property hierarchy and political exclusion substantially intact.
+Its new political architecture mattered: a constitution in effect in 1789 created a written federal republic rather than another monarchy. The Bill of Rights protected speech, press, religion and legal safeguards. Thus political authority acquired a constitutional form against which state action could be tested, a novel and influential outcome. Yet those principles were not distributed equally. Enslaved people remained in bondage; property qualifications restricted political participation; women and Native Americans were denied political equality. Existing elites retained substantial social leadership, unlike France's wholesale attack on seigneurial privilege. Independence also removed imperial restraints on settler expansion, worsening Native dispossession.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “The American Revolution was political rather than social. Discuss. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “The American Revolution was political rather than social. Discuss. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** It radically changed sovereignty and constitutional form while leaving slavery, property hierarchy and political exclusion substantially intact.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The United States Constitution came into effect in 1789 and established a written federal republican system. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It radically changed sovereignty and constitutional form while leaving slavery, property hierarchy and political exclusion substantially intact.
+Therefore the political/social distinction identifies the revolution's main achievement, not an absence of social effects. Its durable constitutional innovation coexisted with exclusion and with social arrangements the revolution did not dismantle.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** How did Enlightenment ideas shape the American struggle? Answer in about 250 words.
 
-**Model thesis:** Rights, consent and lawful resistance transformed imperial grievance into a justified claim to independent statehood, but social membership remained restricted.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Enlightenment thought did not create every colonial grievance: imperial trade controls and Britain's post-1763 debt helped produce the dispute. It did, however, turn resistance into a reasoned case about who may govern and when disobedience is justified.
 
-- The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate.
-- The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-- Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies.
-- Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
+Locke's natural rights and consent supplied a vocabulary for challenging power that violated the governed's trust. Existing colonial assemblies made that question institutional rather than abstract. The Stamp Act of 1765 imposed taxes without colonial representation, inviting the argument that lawful taxation required consent from those subject to it. Mercantilist limits on shipping, markets and manufactures, and restrictions on westward settlement, broadened discontent; rights language linked those separate grievances to a claim of political autonomy.
 
-**Qualified conclusion:** Rights, consent and lawful resistance transformed imperial grievance into a justified claim to independent statehood, but social membership remained restricted.
+Thomas Paine's *Common Sense* helped give independence ideological force. Thomas Jefferson's Declaration, adopted on 4 July 1776, claimed equality and inalienable rights to life, liberty and the pursuit of happiness. It converted a protest against imperial policy into a justification for separate statehood. George Washington commanded the armies needed to make that claim effective; philosophical reasoning alone could not win the war. Later written federal constitutionalism and the Bill of Rights made limits on government more than a revolutionary slogan.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How did Enlightenment ideas shape the American struggle? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How did Enlightenment ideas shape the American struggle? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Rights, consent and lawful resistance transformed imperial grievance into a justified claim to independent statehood, but social membership remained restricted.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Stamp Act of 1765 turned taxation without colonial representation into a constitutional dispute over who could tax and legislate. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Thomas Jefferson drafted the Declaration, Thomas Paine's Common Sense supplied ideological force, and George Washington commanded the American armies. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Rights, consent and lawful resistance transformed imperial grievance into a justified claim to independent statehood, but social membership remained restricted.
+The contradiction was in membership. Slavery survived; property qualifications narrowed participation; women and Native Americans lacked equal political rights. Enlightenment arguments powerfully legitimised independence and constitutional restraint, but did not ensure that the new republic applied its universal vocabulary to all who lived under it.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Assess the American Revolution's contribution to the foundations of the modern world. Answer in about 300 words.
 
-**Model thesis:** Its main export was a durable method: rights-based secession, written constitutional supremacy, federalism and entrenched liberties, qualified by its exclusions.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The American Revolution showed that imperial subjects could justify independence through rights and construct a durable written republican order, even as its exclusions persisted.
 
-- The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence.
-- The United States Constitution came into effect in 1789 and established a written federal republican system.
-- The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government.
-- The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-- Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-- The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
+Britain's war debt after 1763 brought taxes and tighter control to colonies with established assemblies. The Stamp Act of 1765 made representation, not merely the cost of a stamp, the constitutional issue. Jefferson's Declaration of Independence, adopted on 4 July 1776, turned that conflict into a claim that equality and inalienable rights to life, liberty and the pursuit of happiness could justify a break with empire. Paine argued publicly for independence, while Washington's army made a political declaration militarily credible. Saratoga helped secure the French alliance of 1778; Yorktown (1781) was a military surrender, and the Treaty of Paris (1783) brought British recognition. An anti-imperial claim thus succeeded through both local resistance and international rivalry.
 
-**Qualified conclusion:** Its main export was a durable method: rights-based secession, written constitutional supremacy, federalism and entrenched liberties, qualified by its exclusions.
+State-building was the more portable achievement. The union phase under the Articles preceded a Constitution in effect in 1789: powers were framed in a written document and divided in a federal republic rather than vested in a hereditary monarch. The Bill of Rights subsequently entrenched speech, press, religion and legal protections. Later constitutional movements could use this *method* of defining governmental power, even where they did not copy American institutions. It encouraged revolutionaries in France, Europe and Latin America, not necessarily through direct institutional borrowing.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the American Revolution's contribution to the foundations of the modern world. Answer…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Assess the American Revolution's contribution to the foundations of the modern world. Answer…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Its main export was a durable method: rights-based secession, written constitutional supremacy, federalism and entrenched liberties, qualified by its exclusions.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Declaration adopted on 4 July 1776 asserted equality and inalienable rights to life, liberty and the pursuit of happiness as the moral basis of independence. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The United States Constitution came into effect in 1789 and established a written federal republican system. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Bill of Rights entrenched protections for speech, press, religion and legal safeguards against government. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Its main export was a durable method: rights-based secession, written constitutional supremacy, federalism and entrenched liberties, qualified by its exclusions.
+The revolution was not a social emancipation for all: slavery continued, property qualifications restricted voting, women lacked equal political standing and Native Americans faced dispossession as westward settlement advanced. Compared with France's attack on internal feudal privilege, America changed sovereignty and constitutional form more decisively than social hierarchy. Its foundational legacy is therefore a model of rights-claim and limited, federal state-building whose universal language also exposed the incompleteness of its own founding.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Compare the American and French Revolutions as makers of modern politics. Answer in about 300 words.
 
-**Model thesis:** They shared rights-language and popular sovereignty, but America institutionalised a republic while France dismantled old-order privilege and transformed citizenship more deeply.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Both revolutions challenged inherited authority through rights and sovereignty; they made modern politics differently. America built a written federal republic; France attacked legal privilege and made citizenship a mass political question.
 
-- The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic.
-- Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality.
-- The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive.
-- America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation.
+After the Seven Years' War, British taxation and mercantilist control met resistance from colonial assemblies. The Stamp Act of 1765 raised the question of representation, and the Declaration of 1776 defended a break from imperial rule through equality and inalienable rights. Saratoga encouraged the French alliance, Yorktown (1781) marked military success, and the Treaty of Paris (1783) delivered recognition. A Constitution in effect in 1789 and the Bill of Rights then provided an institutional answer: a written allocation of federal power and specified liberties. Yet slavery, property qualifications, continued elite leadership, women's exclusion and Native dispossession meant that republicanism did not equal social equality.
 
-**Qualified conclusion:** They shared rights-language and popular sovereignty, but America institutionalised a republic while France dismantled old-order privilege and transformed citizenship more deeply.
+In France, royal financial crisis, bread pressures and seigneurial dues confronted an *internal* order of privilege. The Third Estate's National Assembly in June 1789 claimed constituent power; the August Rights Declaration challenged inherited legal distinction. Peasant attacks on feudal burdens and urban mobilisation gave citizenship a social reach absent from the American imperial break. France's republic, Terror (1793–94), Directory and Napoleonic empire also show that popular sovereignty could coexist with coercion and reversal. The Civil Code of 1804 nevertheless preserved legal equality and parts of the anti-feudal settlement.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare the American and French Revolutions as makers of modern politics. Answer in about 300…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Compare the American and French Revolutions as makers of modern politics. Answer in about 300…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** They shared rights-language and popular sovereignty, but America institutionalised a republic while France dismantled old-order privilege and transformed citizenship more deeply.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Revolution was politically radical because a colony overthrew imperial rule and created a rights-based written federal republic. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Slavery survived, property qualifications restricted participation, and women and Native Americans remained largely excluded from political equality. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The American example encouraged revolutionaries in France, Europe and Latin America by proving that republican constitutional state-building could survive. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** America contributed a durable constitutional form; France contributed a deeper social destruction of privilege and a more radical language of citizenship and nation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** They shared rights-language and popular sovereignty, but America institutionalised a republic while France dismantled old-order privilege and transformed citizenship more deeply.
+The American example encouraged political change in France, Europe and Latin America; encouragement should not be confused with a claim that it caused the French upheaval or supplied every institution. Together they spread rights-based legitimacy, constitutional claims and arguments over who constitutes a people. Neither included everyone: enslaved people, colonial subjects, women and many propertyless men faced exclusion. America's stable constitutional method and France's deeper destruction of privilege are complementary, not interchangeable, foundations of modern politics.

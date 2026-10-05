@@ -1,0 +1,8 @@
+# Topic 09 Institutional-Fact Audit
+
+| Institution/tool | Origin/date | Mandate | HQ | Membership | Reports/frequency | Funding | Leadership/committees | Timeline | India linkage | Status |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Mission Karmayogi / NPCSCB | Cabinet approval 2 Sep 2020 | Civil-service capacity building | Not asserted in owners | Not applicable / not asserted | Six-pillar programme; no unsupported frequency claim | Not asserted | Institutional chain tested; no roster invented | 2020 approval; current instruments dated in owner | Union civil-service capacity | Verified anchor; dashboard counts held |
+| Capacity Building Commission | Mission Karmayogi institutional framework | Standards, institutional capacity and Annual Capacity Building Plans | Not asserted | Not asserted | Annual plans are tested; no totals asserted | Not asserted | PM-HR Council / Cabinet Secretariat / CBC / SPV chain kept distinct | Functioning status dated in owner | Cross-ministry capacity building | Verified role; unsupported fields held |
+| iGOT Karmayogi | Digital-learning framework | Role-based learning delivery | Not asserted | Civil servants as intended users; no learner total asserted | Platform; no course/completion total asserted | Not asserted | Karmayogi Bharat operates platform | Operational role verified | Union government learning ecosystem | Verified role; live dashboard figures held |
+| Karmayogi Bharat | Government-owned SPV in institutional chain | Operates iGOT Karmayogi | Not asserted | Not asserted | Platform operation; no frequency claim | Not asserted | No unsupported leadership roster | Current role verified in owner | Platform operations | Verified role; other fields held |

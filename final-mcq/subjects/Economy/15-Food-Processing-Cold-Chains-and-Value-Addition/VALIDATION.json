@@ -1,0 +1,58 @@
+{
+  "topic": "15-Food-Processing-Cold-Chains-and-Value-Addition",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 17,
+        "D": 14,
+        "C": 8,
+        "A": 5
+      },
+      "fingerprint": "be8366bf2c95033d"
+    },
+    {
+      "bank": 2,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 12,
+        "B": 12,
+        "D": 11,
+        "A": 9
+      },
+      "fingerprint": "d510330b433d30e9"
+    },
+    {
+      "bank": 3,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 12,
+        "A": 16,
+        "B": 11,
+        "C": 5
+      },
+      "fingerprint": "dee764c2142b1a90"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

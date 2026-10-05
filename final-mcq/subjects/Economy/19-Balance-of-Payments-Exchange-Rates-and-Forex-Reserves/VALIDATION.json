@@ -1,0 +1,58 @@
+{
+  "topic": "19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 47,
+      "answers": 47,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 12,
+        "C": 12,
+        "D": 11,
+        "B": 12
+      },
+      "fingerprint": "1acc1ec3cb289392"
+    },
+    {
+      "bank": 2,
+      "questions": 47,
+      "answers": 47,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 11,
+        "B": 12,
+        "C": 12,
+        "A": 12
+      },
+      "fingerprint": "7f2aa7f8077f6c19"
+    },
+    {
+      "bank": 3,
+      "questions": 47,
+      "answers": 47,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 12,
+        "C": 12,
+        "B": 12,
+        "D": 11
+      },
+      "fingerprint": "0b7588e1e1a8e725"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

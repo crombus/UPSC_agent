@@ -1,0 +1,52 @@
+{
+  "topic": "14 — Regionalism",
+  "status": "complete_for_originals",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 42,
+      "answers": 42,
+      "keys": {
+        "A": 11,
+        "B": 11,
+        "C": 10,
+        "D": 10
+      },
+      "roots": 42,
+      "stems": 42
+    },
+    {
+      "revision": 2,
+      "questions": 42,
+      "answers": 42,
+      "keys": {
+        "A": 11,
+        "B": 11,
+        "C": 10,
+        "D": 10
+      },
+      "roots": 42,
+      "stems": 42
+    },
+    {
+      "revision": 3,
+      "questions": 42,
+      "answers": 42,
+      "keys": {
+        "A": 11,
+        "B": 11,
+        "C": 10,
+        "D": 10
+      },
+      "roots": 42,
+      "stems": 42
+    }
+  ],
+  "root_count": 42,
+  "exact_prelims_pyqs_live": 0,
+  "holds": [
+    "objective-PYQ provenance",
+    "reproduction rights",
+    "independent learner review"
+  ]
+}

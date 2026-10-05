@@ -1,78 +1,133 @@
-ASCII MASTER FLOW — PANEL 1/12: Risk grammar
-HAZARD -> potential damaging event or process
-EXPOSURE -> people and assets in harm's way
-VULNERABILITY -> susceptibility
-CAPACITY -> strengths and resources
-INTERACTION -> disaster risk
+ASCII MASTER FLOW - PANEL 1/12: Risk grammar and the disaster threshold
+HAZARD -> dangerous condition or event with potential to harm
+EXPOSURE -> people, livelihoods and assets in its path
+VULNERABILITY -> conditions that turn exposure into harm
+CAPACITY -> strengths, resources, institutions and measures
+INTERACTION -> DISASTER RISK
+THRESHOLD -> losses "beyond a community's ability to cope" = DISASTER
+RULE -> same hazard magnitude, different outcome, because of E, V and C
 
-ASCII MASTER FLOW — PANEL 2/12: Hazard-to-disaster threshold
-HAZARDOUS EVENT + EXPOSURE + VULNERABILITY
-                    | moderated by capacity
-                    v
-SERIOUS DISRUPTION BEYOND COPING -> DISASTER
+ASCII MASTER FLOW - PANEL 2/12: Hazard taxonomy by source
+NATURAL
+  GEOPHYSICAL -> earthquake, tsunami, volcanic activity, landslide
+  HYDROLOGICAL -> flood, flash flood, debris flow
+  METEOROLOGICAL -> cyclone, storm, extreme temperature
+  CLIMATOLOGICAL -> drought, desertification, forest fire
+  BIOLOGICAL -> epidemic, pest infestation
+SOCIO-NATURAL -> natural process amplified by human decisions
+ANTHROPOGENIC -> pollution, deforestation, chemical spillage, accidents
+USE -> family choice fixes the dominant mitigation instrument
 
-ASCII MASTER FLOW — PANEL 3/12: Risk equation firewall
-USE -> organise relationships and policy levers
-DO NOT USE -> universal arithmetic prediction
-REDUCE -> exposure / vulnerability
-BUILD -> capacity
+ASCII MASTER FLOW - PANEL 3/12: Onset speed and creeping emergencies
+RAPID ONSET -> earthquake, cyclone, flood, tsunami
+  definable impact moment -> warning, evacuation, rescue, relief
+SLOW ONSET / CREEPING EMERGENCIES -> climate change, desertification,
+  soil degradation, drought
+  no impact moment -> progressive loss of the ability to derive sustenance
+  requirement -> must find adequate reflection in preparedness planning
+GAP -> institutions built for acute events under-serve the slow category
 
-ASCII MASTER FLOW — PANEL 4/12: Resilience capabilities
-RESIST + ABSORB + ACCOMMODATE
-ADAPT + TRANSFORM + RECOVER
-PRESERVE ESSENTIAL FUNCTIONS
-TRAP -> recovery is not automatic restoration of old risk
+ASCII MASTER FLOW - PANEL 4/12: The five-fold vulnerability typology
+ECONOMIC -> income diversity, access to means of production
+PHYSICAL -> proximity to hazard, construction type
+SOCIAL -> poor, pregnant and lactating women, disabled, children, elderly
+ENVIRONMENTAL -> ecosystem sensitivity, lost natural buffers
+ATTITUDINAL -> negative disposition to change, dependence on outside help
+RULE -> coinciding dimensions compound harm, they do not merely add
+MARK -> the attitudinal dimension is the one most answers omit
 
-ASCII MASTER FLOW — PANEL 5/12: Pre-disaster distinctions
-PREVENTION -> avoid risk where feasible
-MITIGATION -> lessen adverse impact
-PREPAREDNESS -> readiness to anticipate and act
-QUESTION -> what changes before impact?
+ASCII MASTER FLOW - PANEL 5/12: Risk definition and the four treatment options
+RISK = expected losses | GIVEN AREA | SPECIFIC TIME PERIOD
+WORKING RELATION = PROBABILITY OF HAZARD x DEGREE OF VULNERABILITY
+USE -> order the problem and locate the movable factor
+DO NOT USE -> arithmetic prediction of the next event
+TREATMENT
+  ACCEPTANCE -> informed decision to bear the consequence
+  AVOIDANCE -> do not undertake the risk-generating activity
+  REDUCTION -> lower the likelihood or the consequence
+  TRANSFER -> shift the burden, for example insurance
+LIMIT -> only avoidance and reduction change the loss; residual risk remains
 
-ASCII MASTER FLOW — PANEL 6/12: Response-to-recovery bridge
-IMMEDIATE RESPONSE -> life safety and basic needs
-EARLY RECOVERY -> restore access and services
-RECONSTRUCTION -> reduce future risk
-BUILD BACK BETTER -> do not reproduce vulnerability
+ASCII MASTER FLOW - PANEL 6/12: Two-phase cycle and the 3Rs to 3Ps shift
+PRE-DISASTER: RISK MANAGEMENT PHASE
+  PREVENTION -> MITIGATION -> PREPAREDNESS
+IMPACT
+POST-DISASTER: CRISIS MANAGEMENT PHASE
+  RELIEF -> RESPONSE -> REHABILITATION -> RECONSTRUCTION -> RECOVERY
+APPROACH SHIFT
+  OLD 3 Rs -> RESCUE, RELIEF, RESTORATION (reactive)
+  NEW 3 Ps -> PREVENTION, PREPAREDNESS, PROOFING (anticipatory)
+POINT -> restoration reinstates the failed condition; proofing does not
 
-ASCII MASTER FLOW — PANEL 7/12: DRR operating scope
-PREVENT NEW RISK
-REDUCE EXISTING RISK
-MANAGE RESIDUAL RISK
-LINK -> risk-informed sustainable development
+ASCII MASTER FLOW - PANEL 7/12: Pre-impact instruments
+PREVENTION -> can the risk be avoided? relocation, prohibition in floodway
+MITIGATION -> can the impact be lessened?
+  STRUCTURAL -> embankments, retrofitting, cyclone shelters
+  NON-STRUCTURAL -> land-use zoning, building codes, awareness, incentives
+PREPAREDNESS -> can we act in time? plans, stocks, warning, drills, teams
+SEQUENCE -> the three are complementary, never substitutable
+TRAP -> relocation is prevention, not mitigation
 
-ASCII MASTER FLOW — PANEL 8/12: Risk-creation loop
-DEVELOPMENT CHOICE -> exposure / vulnerability
-HAZARD INTERACTION -> loss
-RECOVERY CHOICE -> recreate or reduce risk
-FEEDBACK -> future resilience
+ASCII MASTER FLOW - PANEL 8/12: Post-impact ladder and the recovery fork
+RELIEF AND RESPONSE -> life safety, medical care, shelter, water
+REHABILITATION -> services, schooling, health access, livelihoods
+RECONSTRUCTION -> housing, infrastructure, productive assets
+RECOVERY -> process of restoring or improving functioning; sets the next risk profile
+FORK
+  RESTORE AS BEFORE -> the same vulnerability returns
+  BUILD BACK BETTER -> safer siting, stronger codes, restored buffers
+RISK-CREATION LOOP -> development choice raises exposure and vulnerability
+  even where hazard frequency is unchanged; recovery recreates or reduces it
 
-ASCII MASTER FLOW — PANEL 9/12: Sendai architecture
-2015-2030 | voluntary and non-binding
-4 PRIORITIES -> governance pathway
-7 TARGETS -> global monitoring frame
-OUTCOME -> substantial reduction of disaster risk and losses
+ASCII MASTER FLOW - PANEL 9/12: DRR definition and field of action
+DRR = reduced EXPOSURE + lessened VULNERABILITY of people and property
+      + wise management of LAND and ENVIRONMENT + improved PREPAREDNESS
+SCOPE -> prevent new risk, reduce existing risk, manage residual risk
+FIELD OF ACTION (sequence with feedback)
+  POLICY AND LEGAL FRAMEWORK -> RISK ASSESSMENT -> RISK AWARENESS
+  -> PLAN IMPLEMENTATION -> EARLY WARNING SYSTEMS -> USE OF KNOWLEDGE
+DIAGNOSTIC -> name the broken stage; everything downstream consumes
+  the output of risk assessment
 
-ASCII MASTER FLOW — PANEL 10/12: Four-priority rail
-1 UNDERSTAND DISASTER RISK
-2 STRENGTHEN RISK GOVERNANCE
-3 INVEST IN DRR FOR RESILIENCE
-4 PREPARE + BUILD BACK BETTER
-MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;...
-MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;...
+ASCII MASTER FLOW - PANEL 10/12: Resilience, elements and measurement limit
+RESILIENCE VERBS -> RESIST, ABSORB, ACCOMMODATE, ADAPT, TRANSFORM, RECOVER
+  in a timely and efficient manner, preserving and restoring essential
+  basic structures and functions
+DETERMINED BY -> hazard, exposure, vulnerability and capacity configuration
+FRAMEWORK ELEMENTS -> RISK KNOWLEDGE, ROBUSTNESS, REDUNDANCY,
+  RESOURCEFULNESS, RAPID RECOVERY, ADAPTIVE CAPACITY
+TRAP -> "bouncing back" restores the condition that failed
+LIMIT -> measurement needs capacity data and a stated metric
 
-ASCII MASTER FLOW — PANEL 11/12: Seven-target matrix
-A mortality | B affected people
-C economic loss/GDP | D critical systems
-E national/local strategies | F cooperation
-G multi-hazard warning and risk information
-CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not...
-CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not...
+ASCII MASTER FLOW - PANEL 11/12: India's instruments and the NDMP
+BEFORE SENDAI
+  DISASTER MANAGEMENT ACT, 2005 -> statutory architecture
+  NATIONAL POLICY ON DISASTER MANAGEMENT, 2009 -> prevention orientation
+AFTER SENDAI
+  NDMP 2016 -> five Thematic Areas for Action
+    UNDERSTANDING RISK | INTER-AGENCY COORDINATION
+    INVESTING IN DRR (STRUCTURAL) | INVESTING IN DRR (NON-STRUCTURAL)
+    CAPACITY DEVELOPMENT
+  PM TEN-POINT AGENDA -> AMCDRR, NEW DELHI, NOVEMBER 2016,
+    each point aligned to Sendai priorities of action
+  NDMP 2019 -> revised and latest published edition; cite as operative
+CRITIQUE OF 2016 EDITION -> too generic, no time frame, no fund projection,
+  no goals or targets of its own
 
-ASCII MASTER FLOW — PANEL 12/12: Answer and framework boundary
-DEFINE -> MAP RISK COMPONENTS -> LOCATE CYCLE PHASE
-APPLY SENDAI PRIORITY / TARGET
-LINK ADAPTATION + SDG WITHOUT MERGER
-QUALIFY -> INPUT IS NOT OUTCOME
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the...
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the...
+ASCII MASTER FLOW - PANEL 12/12: Hyogo to Sendai, Targets A-G and the answer boundary
+HYOGO 2005-2015 -> five priorities, no quantified targets, voluntary
+SENDAI 2015-2030 -> adopted 18 MARCH 2015, Third UN World Conference,
+  Sendai, Japan; voluntary and non-binding; four priorities
+  1 UNDERSTAND RISK | 2 STRENGTHEN RISK GOVERNANCE
+  3 INVEST IN DRR FOR RESILIENCE | 4 PREPARE AND BUILD BACK BETTER
+TARGETS
+  A mortality | B affected people | C economic loss / global GDP
+  D critical infrastructure and basic services      -> loss outcomes, 2030
+  E national and local DRR strategies by 2020       -> only 2020 deadline
+  F international cooperation | G multi-hazard early warning and risk
+  information                                       -> means of implementation
+CURRENT ANCHORS -> EW4All (call March 2022, COP27 November 2022, by 2027;
+  UNDRR, WMO, ITU, IFRC pillars) | MIDTERM REVIEW 17-19 MAY 2023,
+  Political Declaration as UNGA RESOLUTION 77/289, 18 MAY 2023
+BOUNDARY -> frameworks, strategies and initiatives are inputs;
+  avoided loss and coverage require separate dated outcome evidence

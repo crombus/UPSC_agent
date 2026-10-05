@@ -1,0 +1,58 @@
+{
+  "topic": "29-Agricultural-Technology-Missions-and-Mission-Mode-Policy",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 46,
+      "answers": 46,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 7,
+        "A": 12,
+        "D": 13,
+        "B": 14
+      },
+      "fingerprint": "5f24d3b1f18fa317"
+    },
+    {
+      "bank": 2,
+      "questions": 46,
+      "answers": 46,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 13,
+        "D": 13,
+        "C": 10,
+        "A": 10
+      },
+      "fingerprint": "a358f38ae41050ba"
+    },
+    {
+      "bank": 3,
+      "questions": 46,
+      "answers": 46,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 19,
+        "B": 9,
+        "C": 9,
+        "A": 9
+      },
+      "fingerprint": "614228245a0d4de4"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

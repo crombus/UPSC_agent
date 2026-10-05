@@ -1,0 +1,58 @@
+{
+  "topic": "14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 47,
+      "answers": 47,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 10,
+        "A": 14,
+        "C": 13,
+        "D": 10
+      },
+      "fingerprint": "9224792099e40b72"
+    },
+    {
+      "bank": 2,
+      "questions": 47,
+      "answers": 47,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 12,
+        "A": 6,
+        "C": 19,
+        "B": 10
+      },
+      "fingerprint": "c13e499699000767"
+    },
+    {
+      "bank": 3,
+      "questions": 47,
+      "answers": 47,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 15,
+        "C": 7,
+        "D": 15,
+        "B": 10
+      },
+      "fingerprint": "3f8076628836e5be"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

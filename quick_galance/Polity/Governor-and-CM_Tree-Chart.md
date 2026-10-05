@@ -51,7 +51,8 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |   Reasons need not routinely be communicated; a prima facie arbitrariness case requires Union justification.
 |
 |   ARTICLE 361
-|   Personal non-answerability, criminal-process and arrest immunity during term; governmental action remains reviewable.
+|   Personal non-answerability, criminal-process and arrest immunity during term; governmental action remains
+   reviewable.
 |
 +-- 04. UNION-STATE PARLIAMENTARY MIRRORS
 |   FORMAL POWER
@@ -60,8 +61,10 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |
 |   AID AND ADVICE
 |   Union Article 74: PM-headed Council.
-|   Constitution (Forty-second Amendment) Act, 1976, section 13 substituted Article 74(1), effective 3 Jan 1977, making action according to advice explicit.
-|   Constitution (Forty-fourth Amendment) Act, 1978, section 11 inserted the Article 74(1) proviso, effective 20 Jun 1979: one reconsideration, reiterated advice binding.
+|   Constitution (Forty-second Amendment) Act, 1976, section 13 substituted Article 74(1), effective 3 Jan 1977,
+   making action according to advice explicit.
+|   Constitution (Forty-fourth Amendment) Act, 1978, section 11 inserted the Article 74(1) proviso, effective 20
+   Jun 1979: one reconsideration, reiterated advice binding.
 |   State Article 163: CM-headed Council; bounded discretion where Constitution requires.
 |
 |   MINISTERS
@@ -75,7 +78,8 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |
 +-- 05. AID, ADVICE AND BOUNDED DISCRETION
 |   DEFAULT
-|   Shamsher Singh (1974), seven judges: President and Governor are formal heads ordinarily acting on ministerial advice; Article 234 appointments are not personal satisfaction.
+|   Shamsher Singh (1974), seven judges: President and Governor are formal heads ordinarily acting on
+   ministerial advice; Article 234 appointments are not personal satisfaction.
 |
 |   CONSTITUTIONALLY ANCHORED OR NECESSARILY IMPLIED FIELDS
 |   Article 200 choice after the 2025 Article 143 opinion.
@@ -108,22 +112,27 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |
 |   FLOOR-TEST CASES
 |   S.R. Bommai (1994): House floor ordinarily tests majority; Article 356 reviewable.
-|   Shivraj Singh Chouhan (2020): objective resignation material justified a prompt floor test; Governor cannot decide the result.
-|   Subhash Desai (2023): intra-party dissent/faction letters alone were insufficient; Governor cannot resolve party leadership.
+|   Shivraj Singh Chouhan (2020): objective resignation material justified a prompt floor test; Governor cannot
+   decide the result.
+|   Subhash Desai (2023): intra-party dissent/faction letters alone were insufficient; Governor cannot resolve
+   party leadership.
 |
 |   AFTER LOSS
-|   Resignation/dismissal -> test viable alternative -> dissolution only if no government is possible -> caretaker restraint.
+|   Resignation/dismissal -> test viable alternative -> dissolution only if no government is possible ->
+   caretaker restraint.
 |
 +-- 07. ARTICLES 168, 171 AND 174-177: LEGISLATIVE INTERFACE
 |   ARTICLE 168
 |   Governor is a component of State legislature but not a House member.
 |
 |   ARTICLE 171
-|   Governor nominates one-sixth of a Legislative Council from literature, science, art, cooperative movement and social service.
+|   Governor nominates one-sixth of a Legislative Council from literature, science, art, cooperative movement
+   and social service.
 |
 |   ARTICLE 174
 |   Summon, prorogue and dissolve Assembly; no more than six months between specified sittings.
-|   Nabam Rebia (2016): Governor could not unilaterally pre-pone the session and dictate the removal agenda; these powers are normally advice-bound.
+|   Nabam Rebia (2016): Governor could not unilaterally pre-pone the session and dictate the removal agenda;
+   these powers are normally advice-bound.
 |
 |   ARTICLES 175-176
 |   Addresses/messages and special address after a general election and at first session each year.
@@ -140,7 +149,8 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |   2 reserve for President;
 |   3 withhold and return with comments, only for a non-Money Bill.
 |   First proviso restricts/implements withholding; it is not a fourth free-standing option.
-|   Second proviso: mandatory reservation where the Bill would so derogate from High Court powers as to endanger its constitutional position.
+|   Second proviso: mandatory reservation where the Bill would so derogate from High Court powers as to endanger
+   its constitutional position.
 |
 |   ARTICLE 201
 |   President assents or withholds; for a non-Money Bill may direct return through Governor.
@@ -156,12 +166,14 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |   Article 200 does not permit indefinite inaction; withholding must be read with return under the first proviso.
 |
 |   STATE OF TAMIL NADU, 8 APR 2025, 2025 INSC 481
-|   Held the second-round reservations illegal; prescribed general timelines; deemed assent to ten re-passed Bills under Article 142 on the case facts.
+|   Held the second-round reservations illegal; prescribed general timelines; deemed assent to ten re-passed
+   Bills under Article 142 on the case facts.
 |
 |   ARTICLE 143 OPINION, 20 NOV 2025, 2025 INSC 1333, FIVE JUDGES
 |   Expressly called Tamil Nadu's general timeline paragraphs erroneous.
 |   Rejected deemed assent and judicial substitution.
-|   Held Governor chooses among three Article 200 options in discretion and is not bound by Cabinet advice for that choice.
+|   Held Governor chooses among three Article 200 options in discretion and is not bound by Cabinet advice for
+   that choice.
 |   Barred merits review of a decision, while allowing limited mandamus for glaring prolonged inaction.
 |
 |   RELATIONSHIP
@@ -174,7 +186,8 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |   President's instructions required in the three specified sanction/reservation situations.
 |   Act-like force -> mandatory laying -> withdrawal/disapproval or six weeks after later reassembly.
 |   D.C. Wadhwa (1987 report): routine re-promulgation is fraud on Constitution.
-|   Krishna Kumar Singh (2017), seven judges 5:2: laying mandatory; satisfaction reviewable; no automatic survival of every effect.
+|   Krishna Kumar Singh (2017), seven judges 5:2: laying mandatory; satisfaction reviewable; no automatic
+   survival of every effect.
 |
 |   ARTICLE 161 v ARTICLE 72
 |   Governor: all six forms for State-field offences generally; cannot pardon a death sentence,
@@ -190,7 +203,8 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 +-- 11. CHIEF MINISTER, COUNCIL, ADVOCATE GENERAL AND AMENDMENTS
 |   CHIEF MINISTER / ARTICLE 167
 |   Head of Council and real executive.
-|   Communicate Council decisions and legislative proposals; furnish information; collectivise an individual minister's decision.
+|   Communicate Council decisions and legislative proposals; furnish information; collectivise an individual
+   minister's decision.
 |
 |   ARTICLE 164
 |   Other ministers appointed on CM advice; Third-Schedule oaths of office and secrecy.
@@ -213,13 +227,17 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |
 +-- 12. FEDERAL FRICTION, REFORMS, TRAPS AND ANSWER SPINE
 |   FAULT LINE
-|   Union appointment + pleasure tenure + State-facing formation, assent, Article 356 and statutory-university disputes.
+|   Union appointment + pleasure tenure + State-facing formation, assent, Article 356 and statutory-university
+   disputes.
 |   Chancellor role is created only by the relevant State university statute, never inherently by Article 153.
 |
 |   REFORMS
-|   Sarkaria (1988): eminent outsider, politically detached, CM consultation, secure convention, Article 356 last resort and House-centred majority tests.
-|   NCRWC (2002): plural appointment committee including PM, Home Minister, Lok Sabha Speaker and State CM; tenure disturbed only in rare cases.
-|   Punchhi (2010): stronger tenure/removal safeguards, reasoned action, floor-test discipline and separation of statutory Chancellor role.
+|   Sarkaria (1988): eminent outsider, politically detached, CM consultation, secure convention, Article 356
+   last resort and House-centred majority tests.
+|   NCRWC (2002): plural appointment committee including PM, Home Minister, Lok Sabha Speaker and State CM;
+   tenure disturbed only in rare cases.
+|   Punchhi (2010): stronger tenure/removal safeguards, reasoned action, floor-test discipline and separation of
+   statutory Chancellor role.
 |   All are proposals unless enacted.
 |
 |   PRELIMS TRAPS
@@ -229,7 +247,8 @@ GOVERNOR, CHIEF MINISTER AND STATE COUNCIL
 |   Article 361 protects person, not unconstitutional action | Chancellor is statutory.
 |
 |   MAINS SPINE
-|   claim -> decoded Article -> named holding -> mechanism -> federal/accountability cost -> qualification -> matched reform -> neutral constitutional-head verdict.
+|   claim -> decoded Article -> named holding -> mechanism -> federal/accountability cost -> qualification ->
+   matched reform -> neutral constitutional-head verdict.
 |
 +-- QUALIFIED CONCLUSION
     The Governor is legitimate as a neutral constitutional process guardian,

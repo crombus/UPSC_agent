@@ -1,0 +1,49 @@
+# International Relations 05 — Revision 1 Coverage
+
+| Item | Coverage tag | Source owner | Status |
+|---:|---|---|---|
+| 1 | scope | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 2 | sco_mandate | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 3 | sco_tiers | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 4 | sco_controls | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 5 | dialogue | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 6 | eaeu | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 7 | fta | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 8 | instc | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 9 | ashgabat | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 10 | chabahar | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 11 | waiver | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 12 | geography | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 13 | afghanistan | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 14 | great_game | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 15 | synthesis | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 16 | scope | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 17 | sco_mandate | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 18 | sco_tiers | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 19 | sco_controls | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 20 | dialogue | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 21 | eaeu | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 22 | fta | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 23 | instc | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 24 | ashgabat | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 25 | chabahar | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 26 | waiver | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 27 | geography | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 28 | afghanistan | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 29 | great_game | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 30 | synthesis | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 31 | scope | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 32 | sco_mandate | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 33 | sco_tiers | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 34 | sco_controls | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 35 | dialogue | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 36 | eaeu | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 37 | fta | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 38 | instc | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 39 | ashgabat | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 40 | chabahar | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 41 | waiver | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 42 | geography | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 43 | afghanistan | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 44 | great_game | `upsc-ai-kit/knowledge/International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |
+| 45 | synthesis | `upsc-ai-kit/knowledge/International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md` | complete |

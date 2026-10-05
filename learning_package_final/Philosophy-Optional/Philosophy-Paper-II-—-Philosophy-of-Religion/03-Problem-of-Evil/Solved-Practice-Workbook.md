@@ -13,27 +13,29 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2019–2025 | 7 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Original diagnostic MCQs — 24 core plus 8 remedial drills, plus 1 challenge item | 33 |
+| Question-specific option explanations | 132 |
+| Unique examiner traps | 33 |
+| Directly owned verified PYQs solved in full, 2019–2026 | 8 |
+| Original solved Mains models — six baseline plus an existential-protest evaluation | 7 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so the answer cannot be spotted by shape.
+1. Work the core MCQs without notes and read every explanation; finish with the natural-evil discriminator.
 2. Work the eight remedial drills only after the core set. They target the conflations and misattributions that cost marks on this clause every year: reply mismatched to version, the triad declared self-contradictory, privation read as denial of pain, soul-making reduced to a slogan, the process God called powerless, karma used to infer desert, the profane equated with the evil, and mystery substituted for CORNEA.
 3. Attempt each previous-year part under time before reading its solution. **Decide the demanded structure from the directive first**: one part is functional-sociological, one asks for the logical problem, one is a paradox, two are quoted theses, one is a dependence claim and one is an enumeration of tenets.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 words, 15 marks about 240 to 260, 20 marks about 340 to 360**.
+4. Write the seven original models in full, including the existential-protest evaluation. Timed rehearsal does not cap a complete PYQ model.
 5. Check every answer against the four version-questions: which problem is being answered, what its burden is, which reply-type discharges that burden, and what the reply **costs**. A script that answers only the first has left most of the marks on the table.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
-Philosophy Optional is examined only at the Mains stage, so **no question below is a Prelims previous-year question**. All thirty-two are original UPSC-style diagnostics written against this owner's doctrine.
+### Core and remedial diagnostics — 24 core, 8 remedial, plus 1 hard coverage extension
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+Philosophy Optional is examined only at the Mains stage, so **no question below is a Prelims previous-year question**. All 33 diagnostics are original and keyed to this owner's doctrine.
+
+**Practice rule:** Identify the exact version of evil each reply addresses. Every question carries four option explanations and an examiner trap.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Problem of Evil* — covering the four versions of the problem and their burdens, the defence/theodicy distinction, the classification of evil, quotation and attribution discipline, Mackie's bridging premises and his adequate/fallacious framing, the paradox of omnipotence, Plantinga's free-will defence with transworld depravity, divine responsibility under absolute creation, Augustinian privation with the sin-and-punishment thesis and the inherited-guilt control, Hick's soul-making with epistemic distance and the Irenaean/Augustinian typology, concept-dependence, Rowe's evidential argument and its inductive step, Wykstra's CORNEA with the costs of skeptical theism, Adams' horrendous evils with balancing off versus defeat, animal and pre-human suffering, process theodicy with its named layers, the surrounding reply-space of greater-good, best-world, eschatological, mystery and anti-theodicy responses, the Indian karma frameworks across theistic and non-theistic schools, and evil and the profane as religion-forming categories. The eight remedial drills attack the errors that cost marks every year on this clause.
 
@@ -41,45 +43,19 @@ Philosophy Optional is examined only at the Mains stage, so **no question below 
 
 A script answers a stem about the sheer quantity of undeserved suffering in the world by proving that God's existence and the existence of evil are not strictly contradictory. What has gone wrong?
 
-A. Nothing has gone wrong, because establishing logical consistency is sufficient to answer every formulation of the problem of evil.
-
-B. The script has answered the existential burden when the stem in fact raised the logical burden about a formal inconsistency.
-
-C. The script has answered the logical burden when the stem raised the evidential burden, where consistency does not restore probability.
-
-D. The script has confused moral with natural evil, which is a classificatory rather than a version-matching failure in this case.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: consistency answers Mackie alone, and Rowe explicitly grants consistency before pressing the improbability of divine permission.
-- **B:** Incorrect: this inverts the two burdens, and the existential burden concerns whether a particular life can be a great good to the person living it.
-- **C:** Correct: quantity and distribution belong to the evidential version, whose burden is probability, so a bare consistency proof leaves the charge standing.
-- **D:** Incorrect: the classification of evil is a separate discipline, and the stem's fault here is the mismatch of reply-type to version rather than of kind.
-
-**Examiner trap 1:** Candidates treat "the problem of evil" as one argument; the examiner treats it as four, and awards the first marks to whoever names the version in the opening two lines.
+A. The script has answered the logical burden when the stem raised the evidential burden, where consistency does not restore probability.
+B. The script has confused moral with natural evil, which is a classificatory rather than a version-matching failure in this case.
+C. Nothing has gone wrong, because establishing logical consistency is sufficient to answer every formulation of the problem of evil.
+D. The script has answered the existential burden when the stem in fact raised the logical burden about a formal inconsistency.
 
 #### MCQ 2. What a defence claims and what a theodicy claims
 
 Which statement states the difference between a defence and a theodicy correctly?
 
-A. A defence identifies God's actual reason for permitting evil, whereas a theodicy shows only that some such reason is logically available.
-
-B. A defence and a theodicy differ only in tone, the first being philosophical and the second devotional, but their success conditions are identical.
-
-C. A defence applies to natural evil while a theodicy applies to moral evil, so the two divide the field between them by subject matter.
-
-D. A defence shows that God could have a morally sufficient reason, whereas a theodicy claims to identify what that reason actually is.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: this reverses the two, and it makes Plantinga's modest possibility claim into an assertion he explicitly declines to make.
-- **B:** Incorrect: the success conditions differ sharply, since bare logical possibility suffices for a defence but never for a theodicy.
-- **C:** Incorrect: the division is by claim-strength and not by subject matter, and both defences and theodicies address moral and natural evil.
-- **D:** Correct: a defence discharges the consistency burden with a possible reason, while a theodicy asserts an actual reason and is refuted if that reason fails.
-
-**Examiner trap 2:** Using "defence" and "theodicy" interchangeably caps a script at the average band, because the whole force of Plantinga's argument depends on his needing only possibility.
+A. A defence applies to natural evil while a theodicy applies to moral evil, so the two divide the field between them by subject matter.
+B. A defence shows that God could have a morally sufficient reason, whereas a theodicy claims to identify what that reason actually is.
+C. A defence identifies God's actual reason for permitting evil, whereas a theodicy shows only that some such reason is logically available.
+D. A defence and a theodicy differ only in tone, the first being philosophical and the second devotional, but their success conditions are identical.
 
 #### MCQ 3. Sorting the evil before selecting the reply
 
@@ -92,331 +68,136 @@ Consider the following statements about the classification of evil and the scope
 
 Which of the statements given above are correct?
 
-A. 1, 2 and 4 only, because the scope of each reply is fixed by the kind of evil it was built to explain.
+A. 2, 3 and 4 only, because natural and animal suffering are treated identically by every developmental theodicy.
+B. 1 and 2 only, because Augustine makes no attempt whatever to extend his account to natural evil.
+C. 1, 2 and 4 only, because the scope of each reply is fixed by the kind of evil it was built to explain.
+D. 1 and 3 only, because freedom is the single source of all evil once creaturely agency is admitted.
 
-B. 1 and 3 only, because freedom is the single source of all evil once creaturely agency is admitted.
+#### MCQ 4. Why natural evil strains two apparently related theodicies differently
 
-C. 2, 3 and 4 only, because natural and animal suffering are treated identically by every developmental theodicy.
+An earthquake destroys a settlement without identifiable human fault. Which response most exactly contrasts Augustine's sin/punishment account with Hick's soul-making response *without* treating either as a complete resolution?
 
-D. 1 and 2 only, because Augustine makes no attempt whatever to extend his account to natural evil.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: statements 1, 2 and 4 each state the scope of a reply accurately, and statement 3 fails because animals neither choose nor misuse freedom.
-- **B:** Incorrect: statement 3 is false, and the canonical rule is that answering animal suffering with the free-will defence is itself a marked error.
-- **C:** Incorrect: statement 3 remains false, and soul-making covers animal suffering only instrumentally through human virtue toward animals.
-- **D:** Incorrect: Augustine does extend the account to natural evil through the fallen order, which is why statement 4 belongs in the correct set.
-
-**Examiner trap 3:** A script that writes "free will explains evil" without qualification has silently claimed to explain earthquakes, congenital disease and predation, and has invited the topic's commonest rejoinder.
-
-#### MCQ 4. Attribution and quotation discipline in this clause
-
-Which pairing of a formulation with its correct source is accurate?
-
-A. The four-horn dilemma is preserved in a surviving Epicurean treatise, and "the vale of Soul-making" was coined by Irenaeus in his image-and-likeness theology.
-
-B. The four-horn dilemma is reported by Lactantius, and "the vale of Soul-making" is Hick's own coinage in *Evil and the God of Love*.
-
-C. The four-horn dilemma reaches us through Lactantius, *De Ira Dei* 13, and "the vale of Soul-making" is John Keats's phrase from his spring 1819 journal-letter.
-
-D. The four-horn dilemma is Mackie's restatement in *Mind*, and "the vale of Soul-making" belongs to Chisholm's analysis of defeat and balancing off.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: no surviving Epicurean text contains the dilemma, and Irenaeus supplies the image-and-likeness theology rather than the phrase itself.
-- **B:** Incorrect: the Lactantius half is right, but Hick adopted an existing phrase and never presented it as his own invention.
-- **C:** Correct: the dilemma is transmitted through Lactantius and traditionally ascribed to Epicurus, while Keats coined the phrase that Hick later borrowed.
-- **D:** Incorrect: Mackie restates the logical problem rather than the dilemma, and Chisholm supplies the technical term "defeat" used by Adams.
-
-**Examiner trap 4:** Attribution errors are cheap to avoid and expensive to make, because a misassigned phrase signals to the examiner that the doctrine behind it was never read.
+A. Augustine and Hick both succeed by arguing that a logically *possible* justification demonstrates the actual cause and moral adequacy of this particular event.
+B. Augustine assigns suffering to each victim's freely chosen sin, while Hick denies that any stable natural order is required for character formation.
+C. Augustine treats earthquake damage as a positive evil substance God did not create, while Hick explains it as a direct punishment for inherited guilt.
+D. Augustine can appeal to a fallen order and punishment, but owes a just connection to the victims; Hick can appeal to a stable hazardous environment for growth, but owes an account of apparently excessive and non-transformative suffering.
 
 #### MCQ 5. What actually makes Mackie's set inconsistent
 
 Which statement identifies the role of the bridging premises correctly?
 
-A. The bridging premises are optional rhetorical devices, since "God is omnipotent", "God is perfectly good" and "evil exists" already entail a formal contradiction.
-
-B. Two additional principles are needed — that a good being eliminates evil as far as it can, and that omnipotence has no relevant limit on prevention.
-
-C. The bridging premises assert that evil is a positive substance, without which the set of propositions could not be brought into conflict at all.
-
-D. Only one bridging premise is required, namely that God's goodness must be recognisable to the creatures whose suffering is in question.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: nothing in the three propositions plus logic alone entails both a proposition and its negation, which is what formal contradiction requires.
-- **B:** Correct: the goodness bridge and the power bridge together generate the inconsistency, and each is the target of a distinct family of theistic replies.
-- **C:** Incorrect: the substantiality of evil is Augustine's target rather than Mackie's premise, and the set does not require it.
-- **D:** Incorrect: recognisability is a separate hiddenness issue, and one bridge alone leaves the power side of the argument entirely unsupported.
-
-**Examiner trap 5:** Declaring the triad self-contradictory and moving straight to free will concedes the analytical core of the 2020 question before the answer has properly begun.
+A. Two additional principles are needed — that a good being eliminates evil as far as it can, and that omnipotence has no relevant limit on prevention.
+B. The bridging premises assert that evil is a positive substance, without which the set of propositions could not be brought into conflict at all.
+C. Only one bridging premise is required, namely that God's goodness must be recognisable to the creatures whose suffering is in question.
+D. The bridging premises are optional rhetorical devices, since "God is omnipotent", "God is perfectly good" and "evil exists" already entail a formal contradiction.
 
 #### MCQ 6. Mackie's own framing of the standard replies
 
 In "Evil and Omnipotence" Mackie divides proposed solutions into adequate and fallacious ones. What is his criterion?
 
-A. An adequate solution abandons at least one of the disputed propositions, whereas a fallacious solution only appears to retain all of them.
-
-B. An adequate solution is one drawn from revealed theology, whereas a fallacious solution relies on philosophical reasoning alone about divine attributes.
-
-C. An adequate solution answers the evidential form of the argument, whereas a fallacious solution addresses only its weaker logical formulation.
-
-D. An adequate solution is accepted by most theists, whereas a fallacious solution has been abandoned by the mainstream theological tradition.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Mackie treats the honest exits as those that give up a proposition, and classifies replies that quietly limit power or redefine goodness as fallacious.
-- **B:** Incorrect: revelation plays no part in Mackie's taxonomy, which is conducted entirely in terms of the consistency of a set of propositions.
-- **C:** Incorrect: the evidential formulation postdates Mackie's article by more than two decades and is not what his classification is about.
-- **D:** Incorrect: popularity is not a logical criterion, and Mackie's charge is precisely that widely held replies are among the fallacious ones.
-
-**Examiner trap 6:** Naming Mackie's adequate/fallacious framing shows the examiner that the article was read rather than the slogan, and it costs one sentence to include.
+A. An adequate solution is accepted by most theists, whereas a fallacious solution has been abandoned by the mainstream theological tradition.
+B. An adequate solution abandons at least one of the disputed propositions, whereas a fallacious solution only appears to retain all of them.
+C. An adequate solution is one drawn from revealed theology, whereas a fallacious solution relies on philosophical reasoning alone about divine attributes.
+D. An adequate solution answers the evidential form of the argument, whereas a fallacious solution addresses only its weaker logical formulation.
 
 #### MCQ 7. The paradox of omnipotence, stated as a dilemma
 
 Which statement expresses Mackie's paradox of omnipotence most accurately?
 
-A. If God is omnipotent, God can perform logically contradictory tasks, and the impossibility of such tasks therefore disproves divine omnipotence outright.
-
-B. If God cannot make beings God cannot control, second-order power is limited; if God can and does, first-order power over them is limited.
-
-C. If God is omnipotent, God must intervene in every case of suffering, and the observed absence of intervention therefore establishes that God is not good.
-
-D. If God creates free beings, God thereby ceases to be omniscient about their future choices, which is the real limitation the paradox exposes.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: almost no theist claims omnipotence covers the self-contradictory, so this attacks a position that the debate does not actually contain.
-- **B:** Correct: the paradox turns on the incompatibility of unrestricted first-order and second-order power, and each horn carries its own cost.
-- **C:** Incorrect: this restates the goodness bridge of the logical problem rather than the paradox about the structure of power itself.
-- **D:** Incorrect: the foreknowledge issue is a distinct problem, and Mackie's paradox concerns power over things rather than knowledge of them.
-
-**Examiner trap 7:** Reducing the 2021 question to the heavy-stone puzzle produces a riddle rather than an analysis and leaves the required connection to evil entirely unmade.
+A. If God creates free beings, God thereby ceases to be omniscient about their future choices, which is the real limitation the paradox exposes.
+B. If God is omnipotent, God can perform logically contradictory tasks, and the impossibility of such tasks therefore disproves divine omnipotence outright.
+C. If God cannot make beings God cannot control, second-order power is limited; if God can and does, first-order power over them is limited.
+D. If God is omnipotent, God must intervene in every case of suffering, and the observed absence of intervention therefore establishes that God is not good.
 
 #### MCQ 8. The premise structure of the free-will defence
 
 Which reconstruction of Plantinga's free-will defence is correct?
 
-A. Significant freedom is a great good, it entails genuine alternatives, God cannot causally determine a free creature to choose only rightly, so moral evil is possible alongside perfect goodness.
-
-B. Significant freedom is a great good, God therefore creates only agents who will in fact choose rightly, and the moral evil we observe must accordingly be an illusion.
-
-C. Significant freedom is a great good, and since God foresees every misuse of it, God bears no responsibility for any consequence that follows from creaturely choice.
-
-D. Significant freedom is a great good, so God permits moral evil in order to produce the greater good of courage, compassion and mature moral character.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: this is the defence's actual chain, and step three is the self-cancelling description that blocks a causally guaranteed world of only-right choices.
-- **B:** Incorrect: nothing in the defence denies the reality of moral evil, and denying it would abandon the proposition the argument is meant to accommodate.
-- **C:** Incorrect: foreknowledge is a separate issue, and Plantinga does not argue that divine foresight discharges divine responsibility.
-- **D:** Incorrect: this is Hick's developmental rationale rather than Plantinga's modal one, and it converts a defence into a theodicy.
-
-**Examiner trap 8:** Blending Plantinga's modal argument with Hick's developmental one produces a hybrid that neither author holds and that no objection in the literature actually targets.
+A. Significant freedom is a great good, God therefore creates only agents who will in fact choose rightly, and the moral evil we observe must accordingly be an illusion.
+B. Significant freedom is a great good, and since God foresees every misuse of it, God bears no responsibility for any consequence that follows from creaturely choice.
+C. Significant freedom is a great good, so God permits moral evil in order to produce the greater good of courage, compassion and mature moral character.
+D. Significant freedom is a great good, it entails genuine alternatives, God cannot causally determine a free creature to choose only rightly, so moral evil is possible alongside perfect goodness.
 
 #### MCQ 9. The modal status of transworld depravity
 
 What exactly does Plantinga claim about transworld depravity?
 
-A. That it is an empirically established feature of human psychology, confirmed by the observed frequency of wrongdoing in every known society.
-
-B. That it is a necessary truth about creaturely essences, so that no possible free creature could ever refrain from wrongdoing in any circumstance.
-
-C. That it is a theological doctrine equivalent to the Augustinian Fall, transmitted to every human being through inherited guilt from an ancestral act.
-
-D. That it is possibly true of every creaturely essence God could instantiate, which is enough to block Mackie's demand for only-good free agents.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the claim is modal rather than empirical, and Plantinga needs no evidence about actual human behaviour to make the defence work.
-- **B:** Incorrect: necessity is far stronger than the argument requires, and Plantinga is careful not to assert that transworld depravity is even actual.
-- **C:** Incorrect: the Augustinian Fall is a theological narrative about historical origin, whereas transworld depravity is a claim about possible worlds.
-- **D:** Correct: possibility suffices for a defence, and that possibility is precisely what defeats the demand for a world of free agents who never go wrong.
-
-**Examiner trap 9:** Attacking transworld depravity as empirically unsupported misses the modal point entirely and shows that the difference between defence and theodicy was never grasped.
+A. That it is possibly true of every creaturely essence God could instantiate, which is enough to block Mackie's demand for only-good free agents.
+B. That it is an empirically established feature of human psychology, confirmed by the observed frequency of wrongdoing in every known society.
+C. That it is a necessary truth about creaturely essences, so that no possible free creature could ever refrain from wrongdoing in any circumstance.
+D. That it is a theological doctrine equivalent to the Augustinian Fall, transmitted to every human being through inherited guilt from an ancestral act.
 
 #### MCQ 10. Absolute creation and the location of responsibility
 
 The 2022 stem asserts that if God is the Absolute Creator, responsibility for evil cannot belong to the human agent. Which combination of replies is philosophically appropriate?
 
-A. God creates the capacity while the agent supplies the act; evil is a privation rather than a created thing; and foreknowledge does not amount to causation.
-
-B. God creates every act directly, so responsibility is genuinely divine, and the human agent is correctly described by the stem as a mere instrument.
-
-C. The stem is answered by pointing out that natural evil exists, since earthquakes show that not all suffering can be traced to any agent at all.
-
-D. The stem collapses because omnipotence is incoherent, so there is no Absolute Creator whose responsibility could be discussed in the first place.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: these are the three standard replies about authorship, metaphysics and knowledge, and together they locate responsibility with the acting agent.
-- **B:** Incorrect: conceding the stem outright abandons the critical directive, which asks for examination rather than acceptance of the claim.
-- **C:** Incorrect: natural evil is outside the stem's scope, which concerns moral evil and the agency of the human being who commits it.
-- **D:** Incorrect: this is the process route, which changes the subject rather than examining the conditional the stem actually asserts.
-
-**Examiner trap 10:** The strongest scripts concede the rejoinder — that knowingly instantiating the whole system remains morally relevant — instead of pretending the free-will reply closes the matter.
+A. The stem collapses because omnipotence is incoherent, so there is no Absolute Creator whose responsibility could be discussed in the first place.
+B. God creates the capacity while the agent supplies the act; evil is a privation rather than a created thing; and foreknowledge does not amount to causation.
+C. God creates every act directly, so responsibility is genuinely divine, and the human agent is correctly described by the stem as a mere instrument.
+D. The stem is answered by pointing out that natural evil exists, since earthquakes show that not all suffering can be traced to any agent at all.
 
 #### MCQ 11. What the privation account establishes
 
 Which statement about Augustine's privation account is correct?
 
-A. It establishes that suffering is an illusion produced by a defective perspective, since what has no positive being can have no real effect on a creature.
-
-B. It establishes that evil has an independent creative source opposed to God, which is why the created order contains both good and evil substances.
-
-C. It establishes that God is the direct cause of natural evil while remaining the indirect cause of moral evil through the freedom given to creatures.
-
-D. It establishes that evil depends parasitically on good and has no created substance of its own, without thereby justifying any particular permitted deprivation.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: a privation is a real lack in a subject that ought to possess the missing good, and blindness is not thereby rendered unreal.
-- **B:** Incorrect: metaphysical dualism is exactly what the privation account is designed to avoid, since being as being is held to be good.
-- **C:** Incorrect: the account denies that God creates evil at all, and it treats natural evil through the fallen order rather than direct causation.
-- **D:** Correct: the account secures metaphysical economy and divine innocence in creation, while leaving the separate question of permission unanswered.
-
-**Examiner trap 11:** The commonest misreading is that privation trivialises pain; a script that says so has attacked a position no serious Augustinian holds.
+A. It establishes that evil has an independent creative source opposed to God, which is why the created order contains both good and evil substances.
+B. It establishes that God is the direct cause of natural evil while remaining the indirect cause of moral evil through the freedom given to creatures.
+C. It establishes that evil depends parasitically on good and has no created substance of its own, without thereby justifying any particular permitted deprivation.
+D. It establishes that suffering is an illusion produced by a defective perspective, since what has no positive being can have no real effect on a creature.
 
 #### MCQ 12. The sin-and-punishment thesis and the inherited-guilt control
 
 Which treatment of the 2023 thesis is philosophically strongest?
 
-A. Accept the thesis without qualification, since Augustine's authority settles the matter and the printed stem reproduces his considered position exactly.
-
-B. Reconstruct the thesis, then distinguish inherited personal guilt from an inherited damaged condition, and note that the second is more defensible but still owes an explanation.
-
-C. Reject the thesis immediately, since innocent suffering is obvious and no further reconstruction of Augustine's metaphysical framework is therefore required.
-
-D. Restate the thesis as a claim about natural law, since disease and disaster are the punishments that the sentence must have been intended to describe.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the directive is *critically discuss*, and unqualified acceptance forfeits the evaluative half of a twenty-mark question.
-- **B:** Correct: the directive requires the system before the objection, and the guilt-versus-condition distinction is the sharpest available critical instrument.
-- **C:** Incorrect: objecting before reconstruction breaches the directive and loses the marks reserved for faithful exposition of the author's position.
-- **D:** Incorrect: this narrows the thesis to natural evil alone, whereas the sentence explicitly partitions all evil into sin and its punishment.
-
-**Examiner trap 12:** Treat the printed sentence as the object of analysis rather than as a verified verbatim translation; the doctrine is Augustinian, but the exact wording is the examiner's, not a certified rendering.
+A. Reject the thesis immediately, since innocent suffering is obvious and no further reconstruction of Augustine's metaphysical framework is therefore required.
+B. Restate the thesis as a claim about natural law, since disease and disaster are the punishments that the sentence must have been intended to describe.
+C. Accept the thesis without qualification, since Augustine's authority settles the matter and the printed stem reproduces his considered position exactly.
+D. Reconstruct the thesis, then distinguish inherited personal guilt from an inherited damaged condition, and note that the second is more defensible but still owes an explanation.
 
 #### MCQ 13. The three components of Hick's soul-making
 
 Which set of elements is indispensable to Hick's theodicy?
 
-A. Retributive justice, a historical Fall, and the eventual restoration of an original perfection that human beings once actually possessed.
-
-B. Divine hiddenness as an end in itself, the denial of libertarian freedom, and a purely eschatological account of all present goods.
-
-C. The compensation of victims, the punishment of wrongdoers, and the proportioning of happiness to virtue within the present life.
-
-D. Genuine freedom, an epistemic distance from God that leaves the world religiously ambiguous, and a stable law-governed order that can injure.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: these are the Augustinian type's components, which Hick explicitly contrasts with the forward-looking Irenaean type he defends.
-- **B:** Incorrect: epistemic distance serves freedom rather than being an end in itself, and Hick requires libertarian freedom rather than denying it.
-- **C:** Incorrect: this is Kant's structure of the highest good, and soul-making is developmental rather than retributive or distributive.
-- **D:** Correct: these three convert the platitude that hardship builds character into a theodicy with a stated rationale and a stated cost.
-
-**Examiner trap 13:** Reducing Hick to "suffering makes us stronger" discards the three components that carry the argument and leaves nothing for an objection to engage with.
+A. Genuine freedom, an epistemic distance from God that leaves the world religiously ambiguous, and a stable law-governed order that can injure.
+B. Retributive justice, a historical Fall, and the eventual restoration of an original perfection that human beings once actually possessed.
+C. Divine hiddenness as an end in itself, the denial of libertarian freedom, and a purely eschatological account of all present goods.
+D. The compensation of victims, the punishment of wrongdoers, and the proportioning of happiness to virtue within the present life.
 
 #### MCQ 14. Varying the God-concept
 
 The 2024 stem claims that the problem of evil is a direct offshoot of how God is conceptualised in a system. Which treatment best fulfils the directive?
 
-A. Assert that all religions face the problem equally, since suffering is universal and no conceptual variation can alter the force of the argument.
-
-B. Deny the claim outright, since the reality of suffering is independent of theology and therefore cannot depend on any concept of the divine.
-
-C. Run the classical set against classical theism, a finite or process God, an impersonal Absolute and non-creator systems, and price each dissolution.
-
-D. Concede the claim and conclude that theism is refuted, since a problem that varies with the concept cannot be a genuine philosophical problem at all.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: non-creator systems face no charge of divine culpability, so the claim of uniform force cannot survive a single comparative test.
-- **B:** Incorrect: the reality of suffering is not in dispute; what varies is whether that suffering constitutes an objection to a given God-concept.
-- **C:** Correct: showing the dependence requires varying the concept, and the critical half is naming the religiously significant loss each variation incurs.
-- **D:** Incorrect: concept-dependence relocates the cost into the theology rather than refuting theism, and the theodicies exist precisely to keep all the attributes.
-
-**Examiner trap 14:** Listing the dissolutions without their costs answers only half the 2024 question, because "critically discuss" buys the price list as much as the mechanism.
+A. Deny the claim outright, since the reality of suffering is independent of theology and therefore cannot depend on any concept of the divine.
+B. Run the classical set against classical theism, a finite or process God, an impersonal Absolute and non-creator systems, and price each dissolution.
+C. Concede the claim and conclude that theism is refuted, since a problem that varies with the concept cannot be a genuine philosophical problem at all.
+D. Assert that all religions face the problem equally, since suffering is universal and no conceptual variation can alter the force of the argument.
 
 #### MCQ 15. The Irenaean and Augustinian types
 
 Which contrast between Hick's two types is stated correctly?
 
-A. The Augustinian type is developmental and teleological, while the Irenaean type is retributive and explains suffering as deserved punishment for sin.
-
-B. The Augustinian type looks back to a fall from an original perfection, while the Irenaean type looks forward to growth from immaturity into likeness.
-
-C. The Augustinian type denies human freedom altogether, while the Irenaean type makes freedom the sole explanation of both moral and natural evil.
-
-D. The Augustinian type is a defence needing only possibility, while the Irenaean type is a theodicy claiming to identify God's actual purposes.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: this reverses the two types and would make Irenaeus the source of the retributive framing that Hick contrasts with his own.
-- **B:** Correct: the backward-looking Fall and the forward-looking image-to-likeness growth are exactly the axis on which Hick's typology turns.
-- **C:** Incorrect: Augustine grounds moral evil in defective will, which presupposes rather than denies creaturely freedom.
-- **D:** Incorrect: both are theodicies claiming actual reasons, and the defence category belongs to Plantinga and to skeptical theism instead.
-
-**Examiner trap 15:** The typology is itself examinable content; naming it converts a list of theodicies into a structured account of how the tradition divides.
+A. The Augustinian type is a defence needing only possibility, while the Irenaean type is a theodicy claiming to identify God's actual purposes.
+B. The Augustinian type is developmental and teleological, while the Irenaean type is retributive and explains suffering as deserved punishment for sin.
+C. The Augustinian type looks back to a fall from an original perfection, while the Irenaean type looks forward to growth from immaturity into likeness.
+D. The Augustinian type denies human freedom altogether, while the Irenaean type makes freedom the sole explanation of both moral and natural evil.
 
 #### MCQ 16. Rowe's argument and its inductive step
 
 Which statement about the evidential argument is correct?
 
-A. It is a deductive demonstration whose conclusion follows necessarily once the existence of any instance of intense suffering has been conceded.
-
-B. It concerns only moral evil, since natural suffering cannot be described as gratuitous in the absence of an agent who might have prevented it.
-
-C. It begins from the claim that some suffering serves no discernible justifying good, and its weakest point is the step from unseen reason to absent reason.
-
-D. It succeeds only if the theist grants that God's reasons must be transparent to human beings, which no classical theist has ever been willing to concede.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Rowe presents the argument as evidential rather than demonstrative, and he allows that a theist may remain rational in rejecting it.
-- **B:** Incorrect: the fawn is a case of natural evil, and it was chosen precisely because no human agency is involved anywhere in it.
-- **C:** Correct: the inductive step from "no justifying reason is seen" to "no justifying reason exists" is exactly what skeptical theism attacks.
-- **D:** Incorrect: the argument requires only that such reasons would probably be discernible, which is weaker than a demand for full transparency.
-
-**Examiner trap 16:** Presenting the fawn as a deductive contradiction collapses the logical and evidential versions and triggers the most heavily penalised error in this clause.
+A. It succeeds only if the theist grants that God's reasons must be transparent to human beings, which no classical theist has ever been willing to concede.
+B. It is a deductive demonstration whose conclusion follows necessarily once the existence of any instance of intense suffering has been conceded.
+C. It concerns only moral evil, since natural suffering cannot be described as gratuitous in the absence of an agent who might have prevented it.
+D. It begins from the claim that some suffering serves no discernible justifying good, and its weakest point is the step from unseen reason to absent reason.
 
 #### MCQ 17. Wykstra's condition, stated exactly
 
 Which formulation states CORNEA correctly?
 
-A. One may claim that p is absent whenever no evidence for p has been produced, since the burden of proof always rests on the party asserting existence.
-
-B. One may claim that it appears that p is absent only if it is reasonable to believe that p would likely be discernible, given one's cognitive situation, were it there.
-
-C. One may claim that p is absent only if a competent authority within the relevant religious tradition has confirmed that no such thing has ever been observed.
-
-D. One may claim that p is absent only if the claim can be verified by a repeatable procedure, which no claim about divine purposes could ever satisfy.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: this is a generic burden-of-proof rule, whereas CORNEA is a specific condition on when an appearance of absence licenses a claim of absence.
-- **B:** Correct: the Condition of ReasoNable Epistemic Access ties the legitimacy of a *noseeum* claim to the likelihood of discernment in one's actual cognitive position.
-- **C:** Incorrect: appeals to religious authority form no part of Wykstra's epistemology, which is framed entirely in terms of cognitive access.
-- **D:** Incorrect: a verificationist criterion would prove far too much and would also eliminate the theistic claims Wykstra is defending.
-
-**Examiner trap 17:** Substituting "God works in mysterious ways" for a stated epistemic principle converts a defensible philosophical position into an unfalsifiable appeal worth no marks.
+A. One may claim that it appears that p is absent only if it is reasonable to believe that p would likely be discernible, given one's cognitive situation, were it there.
+B. One may claim that p is absent only if a competent authority within the relevant religious tradition has confirmed that no such thing has ever been observed.
+C. One may claim that p is absent only if the claim can be verified by a repeatable procedure, which no claim about divine purposes could ever satisfy.
+D. One may claim that p is absent whenever no evidence for p has been produced, since the burden of proof always rests on the party asserting existence.
 
 #### MCQ 18. What skeptical theism costs and what it covers
 
@@ -429,35 +210,369 @@ Consider the following statements about skeptical theism.
 
 Which of the statements given above are correct?
 
-A. 1 and 4 only, because the inference from non-observation to absence is a standard and reliable form of everyday reasoning.
-
-B. 2, 3 and 4 only, because skeptical theism claims to state God's reasons while denying that we can identify them.
-
-C. 1 and 2 only, because the moral-scepticism objection was withdrawn once the scope restriction to value-entailments was proposed.
-
-D. 1, 2 and 3 only, because the *noseeum* inference is legitimate in some domains and CORNEA specifies exactly when it fails.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: statement 4 misstates the position, since CORNEA concedes that such inferences are often sound and specifies the condition under which they are not.
-- **B:** Incorrect: statement 1 is dropped here even though it is true, and the description offered of skeptical theism contradicts its defensive character.
-- **C:** Incorrect: the moral-scepticism objection has not been withdrawn, and critics find the value-entailment restriction unstable and *ad hoc*.
-- **D:** Correct: the position is a defence against the evidential argument, and its standing price is the threat it poses to ordinary moral confidence.
-
-**Examiner trap 18:** Deploying skeptical theism and a positive theodicy in the same paragraph is self-undermining, because one says the reason is unknowable while the other names it.
+A. 1 and 2 only, because the moral-scepticism objection was withdrawn once the scope restriction to value-entailments was proposed.
+B. 1, 2 and 3 only, because the *noseeum* inference is legitimate in some domains and CORNEA specifies exactly when it fails.
+C. 1 and 4 only, because the inference from non-observation to absence is a standard and reliable form of everyday reasoning.
+D. 2, 3 and 4 only, because skeptical theism claims to state God's reasons while denying that we can identify them.
 
 #### MCQ 19. Horrendous evils and the distinction that answers them
 
 Which statement captures Adams' position accurately?
 
 A. A horrendous evil is any evil of exceptional magnitude, and it is answered by showing that the world's total value nevertheless exceeds its total disvalue.
-
 B. A horrendous evil is one caused by human cruelty rather than by nature, and it is answered by the free-will defence supplemented by eventual divine judgement.
-
 C. A horrendous evil gives the participant *prima facie* reason to doubt their life is a great good to them, and requires defeat within that life rather than global balancing.
-
 D. A horrendous evil is one for which no explanation is available, and it is answered by conceding that theodicy has failed and that only silence is appropriate.
+
+#### MCQ 20. Which replies survive the animal-suffering case
+
+Which assessment of the pre-human suffering problem is correct?
+
+A. Soul-making succeeds completely, because the suffering animal acquires the virtues of endurance and patience that constitute moral growth in any sentient creature.
+B. The problem dissolves once we accept that animals lack sentience altogether, a position now settled by consensus in both philosophy and the empirical sciences.
+C. The problem is answered by the fallen-order reply, which is the historically and scientifically best-supported explanation of pre-human natural suffering.
+D. Free will and retribution fail immediately, soul-making applies only instrumentally through human virtue, and nomic regularity alone partly survives on the Western side.
+
+#### MCQ 21. Process theodicy and its named layers
+
+Which statement correctly assigns a claim to its process author?
+
+A. Whitehead supplied the dipolar God with primordial and consequent natures, Hartshorne argued omnipotence is incoherent, and Griffin made persuasion a metaphysical necessity.
+B. Whitehead defended a self-limiting God who chooses restraint, Hartshorne systematised the theology, and Griffin treated evil as privation of a due good.
+C. Whitehead denied that God has any nature at all, Hartshorne restored divine immutability, and Griffin argued that evil is necessary for the greater good.
+D. Whitehead argued that classical omnipotence is incoherent, Hartshorne introduced the initial aim, and Griffin coined the phrase "fellow-sufferer who understands".
+
+#### MCQ 22. The reply-space around the classical theodicies
+
+Which pairing of a response with its principal cost is accurate?
+
+A. Eschatological fulfilment costs nothing, since a later restoration automatically converts any permitted suffering into a justified means to that restoration.
+B. The greater-good and stable-order response may explain the *kind* of world without explaining the *amount* or *distribution* of suffering within it.
+C. Protest or anti-theodicy costs nothing, because refusing to justify suffering settles the logical and evidential arguments in the objector's favour at once.
+D. The Leibnizian best-world response costs nothing philosophically, because a perfect being must by definition select the unique optimum among possible worlds.
+
+#### MCQ 23. Karma across the Indian schools
+
+Which statement about the Indian responses to suffering is correct?
+
+A. Karma is presented in all schools as a doctrine with an identifiable first act, since a beginningless series would make the assignment of desert impossible.
+B. Advaita denies that suffering occurs at all, and therefore has no need of any account of the empirical distribution of pain among embodied beings.
+C. Mīmāṃsā, Buddhist and Jain accounts require no divine distributor, while Nyāya and theistic Vedānta assign God a just administrative role over karmic fruit.
+D. Every Indian school treats karma as administered by a personal creator God, which is why the Indian tradition faces the same problem of evil as classical theism.
+
+#### MCQ 24. Evil and the profane as religion-forming categories
+
+Which statement about the 2019 owner-module is correct?
+
+A. Eliade's hierophany describes the moral judgement by which a community declares certain acts sinful and therefore excludes them from communal life.
+B. The profane is a synonym for the evil, so Durkheim's binary is a moral classification of actions into the permitted and the forbidden.
+C. Otto's holy and Durkheim's sacred are interchangeable terms, since both denote the social classification through which a moral community is constituted.
+D. Evil and the profane found religion structurally by supplying the predicament, the boundary, the institutions and the soteriological task.
+
+### Remedial MCQs — common-error repair
+
+These eight drills target the specific errors that the canonical trap list identifies as recurring on this clause. Attempt them only after the twenty-four core diagnostics.
+
+#### MCQ 25. Repairing the mismatch of reply to version
+
+A candidate answers a stem on the amount and distribution of suffering by reconstructing the free-will defence in full. Which correction is required?
+
+A. The candidate should have named the evidential version and answered with a theodicy, skeptical theism or a revised God-concept rather than a bare consistency defence.
+B. None; the free-will defence is the standard reply to every formulation, and its coverage of moral evil is sufficient for any stem on suffering.
+C. The candidate should have used the free-will defence but added a devotional conclusion, since an evidential stem calls for pastoral rather than analytic treatment.
+D. The candidate should have replaced the free-will defence with the Augustinian privation account, which alone addresses the quantity of suffering in the world.
+
+#### MCQ 26. Repairing "the triad is self-contradictory on its face"
+
+A script asserts that omnipotence, perfect goodness and the existence of evil are contradictory without further argument. What must be supplied?
+
+A. A definition of evil as a positive substance, since only a substantial evil could stand in genuine logical opposition to divine goodness.
+B. The two bridging principles about what a good being does and what an omnipotent being can do, without which no formal contradiction arises.
+C. An empirical survey of the quantity of suffering, since the contradiction emerges only once the scale of the world's evil is established.
+D. A demonstration that God's goodness must be recognisable to creatures, since an unrecognisable goodness could not conflict with anything observable.
+
+#### MCQ 27. Repairing "privation means the pain is not real"
+
+A script argues that because Augustine calls evil a privation, Augustinian theodicy denies the reality of suffering. What is the correct repair?
+
+A. The script is right, and this is precisely why the privation account was abandoned by later Christian theology in favour of the Irenaean approach.
+B. The script should add that privation applies only to moral evil, so that natural suffering remains fully real while moral evil is merely an absence.
+C. The script should recognise that a privation is a real lack of a good that ought to be present, so blindness is a determinate deprivation rather than an illusion.
+D. The script should replace privation with the process account, since only a God of persuasive power can take the reality of suffering seriously.
+
+#### MCQ 28. Repairing "soul-making just means suffering makes us stronger"
+
+Which repair restores Hick's argument?
+
+A. Add the claim that every instance of suffering produces a proportionate increase in virtue, which is what makes the theodicy explanatorily complete.
+B. Add the claim that Irenaeus coined the phrase "vale of Soul-making", which supplies the patristic authority the modern version otherwise lacks.
+C. Add the observation that soul-making covers animal suffering directly, since animals also develop resilience through the hardships they endure.
+D. Add epistemic distance, genuine freedom and a stable law-governed order, and distinguish the developmental rationale from retributive punishment.
+
+#### MCQ 29. Repairing "the process God is simply powerless"
+
+Which statement corrects the misdescription?
+
+A. The process God exercises persuasive power by supplying each occasion its initial aim, and cannot coerce because to be actual is to have some self-determination.
+B. The process God possesses full classical omnipotence but voluntarily declines to use it, which is why evil occurs without divine culpability.
+C. The process God has no relation to the world at all, so questions of power and culpability do not arise within the process framework.
+D. The process God is powerless in the strict sense, and process writers accept that this makes their deity unworthy of worship by their own admission.
+
+#### MCQ 30. Repairing "karma shows that this person deserved it"
+
+A script infers from a person's suffering that they must have committed a specific wrong in a previous life. What is the correct repair?
+
+A. The inference should be replaced by the claim that suffering is illusory, which is the Advaitic solution to the difficulty the script has created.
+B. The inference is unavailable to ordinary observers, and using karma this way converts explanation into victim-blaming without any epistemic warrant.
+C. The inference is sound but should be stated compassionately, since the doctrine's truth is unaffected by the distress that stating it may cause.
+D. The inference is valid only in theistic schools, where a divine dispenser guarantees that each specific suffering matches a specific past act.
+
+#### MCQ 31. Repairing "the profane is the evil"
+
+A script treating the 2019 stem writes that the profane is the wicked and the sacred the righteous. What is the correct repair?
+
+A. Retain the identification but restrict it to Indian traditions, where purity codes make the profane and the morally wrong effectively equivalent.
+B. Replace the pair with the pure and impure, since ritual pollution is the only category that Durkheim's sociology actually recognises.
+C. Distinguish four categories — evil as moral or natural harm, the profane as the ordinary, the impure as the ritually polluting and the demonic as the anti-sacred.
+D. Replace Durkheim with Otto, since only the numinous account of the holy can supply the moral content that the sacred-profane binary lacks.
+
+#### MCQ 32. Repairing "God's ways are mysterious" as a philosophical position
+
+A script offers divine mystery as its answer to the evidential argument. What is the correct repair?
+
+A. Replace mystery with the free-will defence, since a defence is always preferable to a theodicy when the burden is one of probability.
+B. Retain mystery and add that it is unfalsifiable, since unfalsifiability protects the claim from any possible empirical objection.
+C. Replace mystery with a full theodicy, because any appeal to human cognitive limitation is illegitimate in philosophical argument.
+D. State CORNEA or Bergmann's representativeness theses, which give the appeal to limitation a disciplined form and a stated cost.
+
+#### Hard coverage extension — MCQ 33
+
+#### MCQ 33. Which criticism most specifically threatens Augustine's claim that *all* natural evil is punishment for sin without denying his privation account of moral evil?
+
+A. The suffering of prehuman animals and infants requires an additional argument linking their harms to a culpable Fall and a just distribution of punishment.
+B. God's infallible foreknowledge of a human sin may raise a modal worry about human freedom, even if knowledge does not cause that sin.
+C. Augustine's privation ontology may illuminate wrongdoing while leaving the *origin of the first sinful choice* unexplained.
+D. Plantinga's free-will defence establishes only the *possibility* of morally significant freedom with evil, not Augustine's actual history of the Fall.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: quantity and distribution belong to the evidential version, whose burden is probability, so a bare consistency proof leaves the charge standing.
+- **B:** Incorrect: the classification of evil is a separate discipline, and the stem's fault here is the mismatch of reply-type to version rather than of kind.
+- **C:** Incorrect: consistency answers Mackie alone, and Rowe explicitly grants consistency before pressing the improbability of divine permission.
+- **D:** Incorrect: this inverts the two burdens, and the existential burden concerns whether a particular life can be a great good to the person living it.
+
+**Examiner trap 1:** Candidates treat "the problem of evil" as one argument; the examiner treats it as four, and awards the first marks to whoever names the version in the opening two lines.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the division is by claim-strength and not by subject matter, and both defences and theodicies address moral and natural evil.
+- **B:** Correct: a defence discharges the consistency burden with a possible reason, while a theodicy asserts an actual reason and is refuted if that reason fails.
+- **C:** Incorrect: this reverses the two, and it makes Plantinga's modest possibility claim into an assertion he explicitly declines to make.
+- **D:** Incorrect: the success conditions differ sharply, since bare logical possibility suffices for a defence but never for a theodicy.
+
+**Examiner trap 2:** Using "defence" and "theodicy" interchangeably caps a script at the average band, because the whole force of Plantinga's argument depends on his needing only possibility.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: statement 3 remains false, and soul-making covers animal suffering only instrumentally through human virtue toward animals.
+- **B:** Incorrect: Augustine does extend the account to natural evil through the fallen order, which is why statement 4 belongs in the correct set.
+- **C:** Correct: statements 1, 2 and 4 each state the scope of a reply accurately, and statement 3 fails because animals neither choose nor misuse freedom.
+- **D:** Incorrect: statement 3 is false, and the canonical rule is that answering animal suffering with the free-will defence is itself a marked error.
+
+**Examiner trap 3:** A script that writes "free will explains evil" without qualification has silently claimed to explain earthquakes, congenital disease and predation, and has invited the topic's commonest rejoinder.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect. A logical defence may defeat an inconsistency claim but does not prove an actual earthquake served a morally adequate purpose.
+- **B:** Incorrect. Augustine cannot attribute fault to every infant victim, and Hick's growth proposal depends on stable natural regularities with real danger.
+- **C:** Incorrect. Privation rejects evil as a positive rival substance; penal history belongs to Augustine, not Hick's forward-looking account.
+- **D:** Correct. Both positions need a further bridge to the *distribution* of apparently undeserved natural suffering, but the bridges differ.
+
+**Examiner trap 4:** Do not use possibility of some reason as the actual reason for victims' suffering or quietly convert Hick's growth rationale into Augustine's penalty.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the goodness bridge and the power bridge together generate the inconsistency, and each is the target of a distinct family of theistic replies.
+- **B:** Incorrect: the substantiality of evil is Augustine's target rather than Mackie's premise, and the set does not require it.
+- **C:** Incorrect: recognisability is a separate hiddenness issue, and one bridge alone leaves the power side of the argument entirely unsupported.
+- **D:** Incorrect: nothing in the three propositions plus logic alone entails both a proposition and its negation, which is what formal contradiction requires.
+
+**Examiner trap 5:** Declaring the triad self-contradictory and moving straight to free will concedes the analytical core of the 2020 question before the answer has properly begun.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: popularity is not a logical criterion, and Mackie's charge is precisely that widely held replies are among the fallacious ones.
+- **B:** Correct: Mackie treats the honest exits as those that give up a proposition, and classifies replies that quietly limit power or redefine goodness as fallacious.
+- **C:** Incorrect: revelation plays no part in Mackie's taxonomy, which is conducted entirely in terms of the consistency of a set of propositions.
+- **D:** Incorrect: the evidential formulation postdates Mackie's article by more than two decades and is not what his classification is about.
+
+**Examiner trap 6:** Naming Mackie's adequate/fallacious framing shows the examiner that the article was read rather than the slogan, and it costs one sentence to include.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the foreknowledge issue is a distinct problem, and Mackie's paradox concerns power over things rather than knowledge of them.
+- **B:** Incorrect: almost no theist claims omnipotence covers the self-contradictory, so this attacks a position that the debate does not actually contain.
+- **C:** Correct: the paradox turns on the incompatibility of unrestricted first-order and second-order power, and each horn carries its own cost.
+- **D:** Incorrect: this restates the goodness bridge of the logical problem rather than the paradox about the structure of power itself.
+
+**Examiner trap 7:** Reducing the 2021 question to the heavy-stone puzzle produces a riddle rather than an analysis and leaves the required connection to evil entirely unmade.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: nothing in the defence denies the reality of moral evil, and denying it would abandon the proposition the argument is meant to accommodate.
+- **B:** Incorrect: foreknowledge is a separate issue, and Plantinga does not argue that divine foresight discharges divine responsibility.
+- **C:** Incorrect: this is Hick's developmental rationale rather than Plantinga's modal one, and it converts a defence into a theodicy.
+- **D:** Correct: this is the defence's actual chain, and step three is the self-cancelling description that blocks a causally guaranteed world of only-right choices.
+
+**Examiner trap 8:** Blending Plantinga's modal argument with Hick's developmental one produces a hybrid that neither author holds and that no objection in the literature actually targets.
+
+#### MCQ 9 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: possibility suffices for a defence, and that possibility is precisely what defeats the demand for a world of free agents who never go wrong.
+- **B:** Incorrect: the claim is modal rather than empirical, and Plantinga needs no evidence about actual human behaviour to make the defence work.
+- **C:** Incorrect: necessity is far stronger than the argument requires, and Plantinga is careful not to assert that transworld depravity is even actual.
+- **D:** Incorrect: the Augustinian Fall is a theological narrative about historical origin, whereas transworld depravity is a claim about possible worlds.
+
+**Examiner trap 9:** Attacking transworld depravity as empirically unsupported misses the modal point entirely and shows that the difference between defence and theodicy was never grasped.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: this is the process route, which changes the subject rather than examining the conditional the stem actually asserts.
+- **B:** Correct: these are the three standard replies about authorship, metaphysics and knowledge, and together they locate responsibility with the acting agent.
+- **C:** Incorrect: conceding the stem outright abandons the critical directive, which asks for examination rather than acceptance of the claim.
+- **D:** Incorrect: natural evil is outside the stem's scope, which concerns moral evil and the agency of the human being who commits it.
+
+**Examiner trap 10:** The strongest scripts concede the rejoinder — that knowingly instantiating the whole system remains morally relevant — instead of pretending the free-will reply closes the matter.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: metaphysical dualism is exactly what the privation account is designed to avoid, since being as being is held to be good.
+- **B:** Incorrect: the account denies that God creates evil at all, and it treats natural evil through the fallen order rather than direct causation.
+- **C:** Correct: the account secures metaphysical economy and divine innocence in creation, while leaving the separate question of permission unanswered.
+- **D:** Incorrect: a privation is a real lack in a subject that ought to possess the missing good, and blindness is not thereby rendered unreal.
+
+**Examiner trap 11:** The commonest misreading is that privation trivialises pain; a script that says so has attacked a position no serious Augustinian holds.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: objecting before reconstruction breaches the directive and loses the marks reserved for faithful exposition of the author's position.
+- **B:** Incorrect: this narrows the thesis to natural evil alone, whereas the sentence explicitly partitions all evil into sin and its punishment.
+- **C:** Incorrect: the directive is *critically discuss*, and unqualified acceptance forfeits the evaluative half of a twenty-mark question.
+- **D:** Correct: the directive requires the system before the objection, and the guilt-versus-condition distinction is the sharpest available critical instrument.
+
+**Examiner trap 12:** Treat the printed sentence as the object of analysis rather than as a verified verbatim translation; the doctrine is Augustinian, but the exact wording is the examiner's, not a certified rendering.
+
+#### MCQ 13 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: these three convert the platitude that hardship builds character into a theodicy with a stated rationale and a stated cost.
+- **B:** Incorrect: these are the Augustinian type's components, which Hick explicitly contrasts with the forward-looking Irenaean type he defends.
+- **C:** Incorrect: epistemic distance serves freedom rather than being an end in itself, and Hick requires libertarian freedom rather than denying it.
+- **D:** Incorrect: this is Kant's structure of the highest good, and soul-making is developmental rather than retributive or distributive.
+
+**Examiner trap 13:** Reducing Hick to "suffering makes us stronger" discards the three components that carry the argument and leaves nothing for an objection to engage with.
+
+#### MCQ 14 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the reality of suffering is not in dispute; what varies is whether that suffering constitutes an objection to a given God-concept.
+- **B:** Correct: showing the dependence requires varying the concept, and the critical half is naming the religiously significant loss each variation incurs.
+- **C:** Incorrect: concept-dependence relocates the cost into the theology rather than refuting theism, and the theodicies exist precisely to keep all the attributes.
+- **D:** Incorrect: non-creator systems face no charge of divine culpability, so the claim of uniform force cannot survive a single comparative test.
+
+**Examiner trap 14:** Listing the dissolutions without their costs answers only half the 2024 question, because "critically discuss" buys the price list as much as the mechanism.
+
+#### MCQ 15 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: both are theodicies claiming actual reasons, and the defence category belongs to Plantinga and to skeptical theism instead.
+- **B:** Incorrect: this reverses the two types and would make Irenaeus the source of the retributive framing that Hick contrasts with his own.
+- **C:** Correct: the backward-looking Fall and the forward-looking image-to-likeness growth are exactly the axis on which Hick's typology turns.
+- **D:** Incorrect: Augustine grounds moral evil in defective will, which presupposes rather than denies creaturely freedom.
+
+**Examiner trap 15:** The typology is itself examinable content; naming it converts a list of theodicies into a structured account of how the tradition divides.
+
+#### MCQ 16 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the argument requires only that such reasons would probably be discernible, which is weaker than a demand for full transparency.
+- **B:** Incorrect: Rowe presents the argument as evidential rather than demonstrative, and he allows that a theist may remain rational in rejecting it.
+- **C:** Incorrect: the fawn is a case of natural evil, and it was chosen precisely because no human agency is involved anywhere in it.
+- **D:** Correct: the inductive step from "no justifying reason is seen" to "no justifying reason exists" is exactly what skeptical theism attacks.
+
+**Examiner trap 16:** Presenting the fawn as a deductive contradiction collapses the logical and evidential versions and triggers the most heavily penalised error in this clause.
+
+#### MCQ 17 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the Condition of ReasoNable Epistemic Access ties the legitimacy of a *noseeum* claim to the likelihood of discernment in one's actual cognitive position.
+- **B:** Incorrect: appeals to religious authority form no part of Wykstra's epistemology, which is framed entirely in terms of cognitive access.
+- **C:** Incorrect: a verificationist criterion would prove far too much and would also eliminate the theistic claims Wykstra is defending.
+- **D:** Incorrect: this is a generic burden-of-proof rule, whereas CORNEA is a specific condition on when an appearance of absence licenses a claim of absence.
+
+**Examiner trap 17:** Substituting "God works in mysterious ways" for a stated epistemic principle converts a defensible philosophical position into an unfalsifiable appeal worth no marks.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the moral-scepticism objection has not been withdrawn, and critics find the value-entailment restriction unstable and *ad hoc*.
+- **B:** Correct: the position is a defence against the evidential argument, and its standing price is the threat it poses to ordinary moral confidence.
+- **C:** Incorrect: statement 4 misstates the position, since CORNEA concedes that such inferences are often sound and specifies the condition under which they are not.
+- **D:** Incorrect: statement 1 is dropped here even though it is true, and the description offered of skeptical theism contradicts its defensive character.
+
+**Examiner trap 18:** Deploying skeptical theism and a positive theodicy in the same paragraph is self-undermining, because one says the reason is unknowable while the other names it.
+
+#### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -469,153 +584,79 @@ D. A horrendous evil is one for which no explanation is available, and it is ans
 
 **Examiner trap 19:** Using "horrendous evil" as a loose intensifier discards the one distinction — defeat within a life versus balancing across a world — that the term was coined to carry.
 
-#### MCQ 20. Which replies survive the animal-suffering case
-
-Which assessment of the pre-human suffering problem is correct?
-
-A. Free will and retribution fail immediately, soul-making applies only instrumentally through human virtue, and nomic regularity alone partly survives on the Western side.
-
-B. Soul-making succeeds completely, because the suffering animal acquires the virtues of endurance and patience that constitute moral growth in any sentient creature.
-
-C. The problem dissolves once we accept that animals lack sentience altogether, a position now settled by consensus in both philosophy and the empirical sciences.
-
-D. The problem is answered by the fallen-order reply, which is the historically and scientifically best-supported explanation of pre-human natural suffering.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the animal neither chooses nor morally grows, so only the stable-order reply retains any purchase, and even that explains kind rather than amount.
-- **B:** Incorrect: moral growth requires an agent capable of freely chosen virtue, which is exactly what the animal sufferer is not.
-- **C:** Incorrect: the neo-Cartesian premise about higher-order awareness is philosophically and empirically contested rather than settled.
-- **D:** Incorrect: a cosmic fall preceding human history is historically and scientifically strained and is among the weakest replies available.
-
-**Examiner trap 20:** Naming the animal case as the point where two major theodicies both run out is itself a mark-earning move, and omitting it leaves a twenty-marker without its residue paragraph.
-
-#### MCQ 21. Process theodicy and its named layers
-
-Which statement correctly assigns a claim to its process author?
-
-A. Whitehead argued that classical omnipotence is incoherent, Hartshorne introduced the initial aim, and Griffin coined the phrase "fellow-sufferer who understands".
-
-B. Whitehead supplied the dipolar God with primordial and consequent natures, Hartshorne argued omnipotence is incoherent, and Griffin made persuasion a metaphysical necessity.
-
-C. Whitehead defended a self-limiting God who chooses restraint, Hartshorne systematised the theology, and Griffin treated evil as privation of a due good.
-
-D. Whitehead denied that God has any nature at all, Hartshorne restored divine immutability, and Griffin argued that evil is necessary for the greater good.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the incoherence argument is Hartshorne's, the initial aim is Whitehead's, and the fellow-sufferer phrase closes *Process and Reality*.
-- **B:** Correct: this assigns the dipolar structure, the incoherence argument and the metaphysical-necessity move to their actual authors.
-- **C:** Incorrect: chosen self-limitation is Plantinga's structure rather than Whitehead's, and privation belongs to Augustine rather than to Griffin.
-- **D:** Incorrect: the dipolar doctrine is Whitehead's own, and process thought explicitly rejects both immutability and the greater-good instrumentalisation of evil.
-
-**Examiner trap 21:** Writing "process theodicy (Whitehead)" and stopping forfeits the marks reserved for naming which layer of the position is doing the work in the argument.
-
-#### MCQ 22. The reply-space around the classical theodicies
-
-Which pairing of a response with its principal cost is accurate?
-
-A. The Leibnizian best-world response costs nothing philosophically, because a perfect being must by definition select the unique optimum among possible worlds.
-
-B. Eschatological fulfilment costs nothing, since a later restoration automatically converts any permitted suffering into a justified means to that restoration.
-
-C. The greater-good and stable-order response may explain the *kind* of world without explaining the *amount* or *distribution* of suffering within it.
-
-D. Protest or anti-theodicy costs nothing, because refusing to justify suffering settles the logical and evidential arguments in the objector's favour at once.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: there may be no unique best world, and world-total optimisation can neglect goodness to the particular persons who bear the losses.
-- **B:** Incorrect: compensation after suffering is not automatically justification for permitting it, which is exactly the balancing-versus-defeat point.
-- **C:** Correct: risk and regular law can be shown necessary for certain goods without thereby accounting for the observed quantity or allocation of harm.
-- **D:** Incorrect: protest diagnoses the ethics of explanation but leaves the logical and evidential arguments themselves entirely unsettled.
-
-**Examiner trap 22:** Every response in this space has a stated cost; a script that lists responses without costs has described the literature instead of evaluating it.
-
-#### MCQ 23. Karma across the Indian schools
-
-Which statement about the Indian responses to suffering is correct?
-
-A. Mīmāṃsā, Buddhist and Jain accounts require no divine distributor, while Nyāya and theistic Vedānta assign God a just administrative role over karmic fruit.
-
-B. Every Indian school treats karma as administered by a personal creator God, which is why the Indian tradition faces the same problem of evil as classical theism.
-
-C. Karma is presented in all schools as a doctrine with an identifiable first act, since a beginningless series would make the assignment of desert impossible.
-
-D. Advaita denies that suffering occurs at all, and therefore has no need of any account of the empirical distribution of pain among embodied beings.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the theistic and non-theistic accounts differ precisely on whether a divine dispenser is required, and Nyāya's Lord allots according to desert rather than arbitrarily.
-- **B:** Incorrect: the non-theistic schools drop the defendant entirely, which is the structural reason the Indian material can dissolve the classical problem.
-- **C:** Incorrect: the series is standardly treated as beginningless, which blocks the demand for a first wrongful act without verifying any particular past cause.
-- **D:** Incorrect: Advaita locates suffering at the empirical level and treats it as sublated only under liberating knowledge at the ultimate level.
-
-**Examiner trap 23:** Presenting karma as a single theistic doctrine across the schools is the canonical error, and it also destroys the comparison that makes the Indian material worth citing.
-
-#### MCQ 24. Evil and the profane as religion-forming categories
-
-Which statement about the 2019 owner-module is correct?
-
-A. The profane is a synonym for the evil, so Durkheim's binary is a moral classification of actions into the permitted and the forbidden.
-
-B. Otto's holy and Durkheim's sacred are interchangeable terms, since both denote the social classification through which a moral community is constituted.
-
-C. Evil and the profane found religion structurally by supplying the predicament, the boundary, the institutions and the soteriological task.
-
-D. Eliade's hierophany describes the moral judgement by which a community declares certain acts sinful and therefore excludes them from communal life.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Durkheim's profane is simply the ordinary and non-consecrated, and conflating it with the wicked is the commonest error on this stem.
-- **B:** Incorrect: Otto's numinous holy is the object-side of religious response, whereas Durkheim's sacred is a social classification.
-- **C:** Correct: the four-step sequence is the functional account the directive demands, and it founds religion rather than theism.
-- **D:** Incorrect: hierophany is the irruption of the sacred generating sacred space and time, not a moral verdict on conduct.
-
-**Examiner trap 24:** Answering this functional-sociological stem with theodicies answers a different question, because the 2019 examiner asks what evil and the profane *do*, not whether they disprove God.
-
-### Remedial MCQs — common-error repair
-
-These eight drills target the specific errors that the canonical trap list identifies as recurring on this clause. Attempt them only after the twenty-four core diagnostics.
-
-#### MCQ 25. Repairing the mismatch of reply to version
-
-A candidate answers a stem on the amount and distribution of suffering by reconstructing the free-will defence in full. Which correction is required?
-
-A. None; the free-will defence is the standard reply to every formulation, and its coverage of moral evil is sufficient for any stem on suffering.
-
-B. The candidate should have used the free-will defence but added a devotional conclusion, since an evidential stem calls for pastoral rather than analytic treatment.
-
-C. The candidate should have replaced the free-will defence with the Augustinian privation account, which alone addresses the quantity of suffering in the world.
-
-D. The candidate should have named the evidential version and answered with a theodicy, skeptical theism or a revised God-concept rather than a bare consistency defence.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: the defence answers only the logical charge, and the amount of suffering is untouched by any argument that establishes bare possibility.
-- **B:** Incorrect: a devotional conclusion is penalised at every band, and the fault here is structural rather than one of tone.
-- **C:** Incorrect: privation addresses the metaphysical status of evil rather than its quantity, so the substitution repairs nothing.
-- **D:** Correct: the evidential burden is probability, and only a positive reason, a blocked inference or a changed God-concept can discharge it.
+- **A:** Incorrect: moral growth requires an agent capable of freely chosen virtue, which is exactly what the animal sufferer is not.
+- **B:** Incorrect: the neo-Cartesian premise about higher-order awareness is philosophically and empirically contested rather than settled.
+- **C:** Incorrect: a cosmic fall preceding human history is historically and scientifically strained and is among the weakest replies available.
+- **D:** Correct: the animal neither chooses nor morally grows, so only the stable-order reply retains any purchase, and even that explains kind rather than amount.
+
+**Examiner trap 20:** Naming the animal case as the point where two major theodicies both run out is itself a mark-earning move, and omitting it leaves a twenty-marker without its residue paragraph.
+
+#### MCQ 21 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: this assigns the dipolar structure, the incoherence argument and the metaphysical-necessity move to their actual authors.
+- **B:** Incorrect: chosen self-limitation is Plantinga's structure rather than Whitehead's, and privation belongs to Augustine rather than to Griffin.
+- **C:** Incorrect: the dipolar doctrine is Whitehead's own, and process thought explicitly rejects both immutability and the greater-good instrumentalisation of evil.
+- **D:** Incorrect: the incoherence argument is Hartshorne's, the initial aim is Whitehead's, and the fellow-sufferer phrase closes *Process and Reality*.
+
+**Examiner trap 21:** Writing "process theodicy (Whitehead)" and stopping forfeits the marks reserved for naming which layer of the position is doing the work in the argument.
+
+#### MCQ 22 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: compensation after suffering is not automatically justification for permitting it, which is exactly the balancing-versus-defeat point.
+- **B:** Correct: risk and regular law can be shown necessary for certain goods without thereby accounting for the observed quantity or allocation of harm.
+- **C:** Incorrect: protest diagnoses the ethics of explanation but leaves the logical and evidential arguments themselves entirely unsettled.
+- **D:** Incorrect: there may be no unique best world, and world-total optimisation can neglect goodness to the particular persons who bear the losses.
+
+**Examiner trap 22:** Every response in this space has a stated cost; a script that lists responses without costs has described the literature instead of evaluating it.
+
+#### MCQ 23 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the series is standardly treated as beginningless, which blocks the demand for a first wrongful act without verifying any particular past cause.
+- **B:** Incorrect: Advaita locates suffering at the empirical level and treats it as sublated only under liberating knowledge at the ultimate level.
+- **C:** Correct: the theistic and non-theistic accounts differ precisely on whether a divine dispenser is required, and Nyāya's Lord allots according to desert rather than arbitrarily.
+- **D:** Incorrect: the non-theistic schools drop the defendant entirely, which is the structural reason the Indian material can dissolve the classical problem.
+
+**Examiner trap 23:** Presenting karma as a single theistic doctrine across the schools is the canonical error, and it also destroys the comparison that makes the Indian material worth citing.
+
+#### MCQ 24 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: hierophany is the irruption of the sacred generating sacred space and time, not a moral verdict on conduct.
+- **B:** Incorrect: Durkheim's profane is simply the ordinary and non-consecrated, and conflating it with the wicked is the commonest error on this stem.
+- **C:** Incorrect: Otto's numinous holy is the object-side of religious response, whereas Durkheim's sacred is a social classification.
+- **D:** Correct: the four-step sequence is the functional account the directive demands, and it founds religion rather than theism.
+
+**Examiner trap 24:** Answering this functional-sociological stem with theodicies answers a different question, because the 2019 examiner asks what evil and the profane *do*, not whether they disprove God.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the evidential burden is probability, and only a positive reason, a blocked inference or a changed God-concept can discharge it.
+- **B:** Incorrect: the defence answers only the logical charge, and the amount of suffering is untouched by any argument that establishes bare possibility.
+- **C:** Incorrect: a devotional conclusion is penalised at every band, and the fault here is structural rather than one of tone.
+- **D:** Incorrect: privation addresses the metaphysical status of evil rather than its quantity, so the substitution repairs nothing.
 
 **Examiner trap 25:** Version-mismatch is invisible to the candidate and obvious to the examiner, which is why naming the version explicitly in the opening is worth more than any additional content.
 
-#### MCQ 26. Repairing "the triad is self-contradictory on its face"
-
-A script asserts that omnipotence, perfect goodness and the existence of evil are contradictory without further argument. What must be supplied?
-
-A. A definition of evil as a positive substance, since only a substantial evil could stand in genuine logical opposition to divine goodness.
-
-B. The two bridging principles about what a good being does and what an omnipotent being can do, without which no formal contradiction arises.
-
-C. An empirical survey of the quantity of suffering, since the contradiction emerges only once the scale of the world's evil is established.
-
-D. A demonstration that God's goodness must be recognisable to creatures, since an unrecognisable goodness could not conflict with anything observable.
+#### MCQ 26 — solution
 
 **Answer: B.**
 
@@ -627,17 +668,7 @@ D. A demonstration that God's goodness must be recognisable to creatures, since 
 
 **Examiner trap 26:** The 2020 stem is answered in the bridges; a script that omits them has written the question's premise rather than its answer.
 
-#### MCQ 27. Repairing "privation means the pain is not real"
-
-A script argues that because Augustine calls evil a privation, Augustinian theodicy denies the reality of suffering. What is the correct repair?
-
-A. The script is right, and this is precisely why the privation account was abandoned by later Christian theology in favour of the Irenaean approach.
-
-B. The script should add that privation applies only to moral evil, so that natural suffering remains fully real while moral evil is merely an absence.
-
-C. The script should recognise that a privation is a real lack of a good that ought to be present, so blindness is a determinate deprivation rather than an illusion.
-
-D. The script should replace privation with the process account, since only a God of persuasive power can take the reality of suffering seriously.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
@@ -649,105 +680,55 @@ D. The script should replace privation with the process account, since only a Go
 
 **Examiner trap 27:** Rot in wood is the canonical illustration: the rot is not a rival substance, and it is not therefore imaginary — it is the real loss of the wood's proper integrity.
 
-#### MCQ 28. Repairing "soul-making just means suffering makes us stronger"
-
-Which repair restores Hick's argument?
-
-A. Add epistemic distance, genuine freedom and a stable law-governed order, and distinguish the developmental rationale from retributive punishment.
-
-B. Add the claim that every instance of suffering produces a proportionate increase in virtue, which is what makes the theodicy explanatorily complete.
-
-C. Add the claim that Irenaeus coined the phrase "vale of Soul-making", which supplies the patristic authority the modern version otherwise lacks.
-
-D. Add the observation that soul-making covers animal suffering directly, since animals also develop resilience through the hardships they endure.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: these three components convert a platitude into a theodicy with a rationale, and the contrast with punishment fixes its forward-looking character.
-- **B:** Incorrect: Hick makes no proportionality claim, and asserting one exposes the theodicy to the scale objection in its strongest form.
-- **C:** Incorrect: the phrase is Keats's from the spring 1819 journal-letter, and attributing it to Irenaeus is a marked factual error.
-- **D:** Incorrect: the animal does not morally grow, so extended soul-making reaches animals only instrumentally through human virtue toward them.
-
-**Examiner trap 28:** Keats supplied the phrase, Irenaeus the image-and-likeness theology and Hick the modern theodicy; collapsing the three is the single commonest attribution error in this topic.
-
-#### MCQ 29. Repairing "the process God is simply powerless"
-
-Which statement corrects the misdescription?
-
-A. The process God possesses full classical omnipotence but voluntarily declines to use it, which is why evil occurs without divine culpability.
-
-B. The process God has no relation to the world at all, so questions of power and culpability do not arise within the process framework.
-
-C. The process God is powerless in the strict sense, and process writers accept that this makes their deity unworthy of worship by their own admission.
-
-D. The process God exercises persuasive power by supplying each occasion its initial aim, and cannot coerce because to be actual is to have some self-determination.
+#### MCQ 28 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: voluntary restraint is Plantinga's structure, whereas Griffin's point is that the limitation is metaphysically necessary rather than chosen.
-- **B:** Incorrect: the consequent nature makes God supremely related to the world, which is the opposite of detachment.
-- **C:** Incorrect: the worship objection is raised by critics and answered by appeal to solidarity and objective immortality, not conceded by process writers.
-- **D:** Correct: persuasion through the initial aim is a real and maximal form of power, limited by the distributed self-determination of actual entities.
+- **A:** Incorrect: Hick makes no proportionality claim, and asserting one exposes the theodicy to the scale objection in its strongest form.
+- **B:** Incorrect: the phrase is Keats's from the spring 1819 journal-letter, and attributing it to Irenaeus is a marked factual error.
+- **C:** Incorrect: the animal does not morally grow, so extended soul-making reaches animals only instrumentally through human virtue toward them.
+- **D:** Correct: these three components convert a platitude into a theodicy with a rationale, and the contrast with punishment fixes its forward-looking character.
 
-**Examiner trap 29:** The modal difference is the examinable point: Griffin's God *cannot* coerce, while Plantinga's God *chooses* not to intervene.
+**Examiner trap 28:** Keats supplied the phrase, Irenaeus the image-and-likeness theology and Hick the modern theodicy; collapsing the three is the single commonest attribution error in this topic.
 
-#### MCQ 30. Repairing "karma shows that this person deserved it"
-
-A script infers from a person's suffering that they must have committed a specific wrong in a previous life. What is the correct repair?
-
-A. The inference is unavailable to ordinary observers, and using karma this way converts explanation into victim-blaming without any epistemic warrant.
-
-B. The inference is sound but should be stated compassionately, since the doctrine's truth is unaffected by the distress that stating it may cause.
-
-C. The inference is valid only in theistic schools, where a divine dispenser guarantees that each specific suffering matches a specific past act.
-
-D. The inference should be replaced by the claim that suffering is illusory, which is the Advaitic solution to the difficulty the script has created.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the mechanism is not observationally accessible, so no particular desert can be read off a particular case, and the misuse is a moral as well as epistemic error.
-- **B:** Incorrect: the inference is not sound, and presenting an unwarranted judgement gently does not make it warranted.
-- **C:** Incorrect: even where God allots fruit justly, the specific karmic history remains beyond the senses and known only through testimony.
-- **D:** Incorrect: Advaita places suffering at the empirical level rather than denying it, and the substitution introduces a second error.
+- **A:** Correct: persuasion through the initial aim is a real and maximal form of power, limited by the distributed self-determination of actual entities.
+- **B:** Incorrect: voluntary restraint is Plantinga's structure, whereas Griffin's point is that the limitation is metaphysically necessary rather than chosen.
+- **C:** Incorrect: the consequent nature makes God supremely related to the world, which is the opposite of detachment.
+- **D:** Incorrect: the worship objection is raised by critics and answered by appeal to solidarity and objective immortality, not conceded by process writers.
 
-**Examiner trap 30:** Karma does not cancel present duties of compassion, protection and relief; a causal explanation is never moral permission to withhold aid, and saying so protects the answer's ethical credibility.
+**Examiner trap 29:** The modal difference is the examinable point: Griffin's God *cannot* coerce, while Plantinga's God *chooses* not to intervene.
 
-#### MCQ 31. Repairing "the profane is the evil"
-
-A script treating the 2019 stem writes that the profane is the wicked and the sacred the righteous. What is the correct repair?
-
-A. Replace the pair with the pure and impure, since ritual pollution is the only category that Durkheim's sociology actually recognises.
-
-B. Distinguish four categories — evil as moral or natural harm, the profane as the ordinary, the impure as the ritually polluting and the demonic as the anti-sacred.
-
-C. Replace Durkheim with Otto, since only the numinous account of the holy can supply the moral content that the sacred-profane binary lacks.
-
-D. Retain the identification but restrict it to Indian traditions, where purity codes make the profane and the morally wrong effectively equivalent.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the impure is one further category rather than a replacement, and Durkheim's classification is explicitly of things into sacred and profane.
-- **B:** Correct: keeping the four apart is what the module requires, and the profane is the everyday rather than the wicked.
-- **C:** Incorrect: Otto describes the object-side of religious response and does not supply a moral content to Durkheim's social classification.
-- **D:** Incorrect: Indian purity and impurity codes are ritual categories, and demerit and merit form a separate moral vocabulary alongside them.
+- **A:** Incorrect: Advaita places suffering at the empirical level rather than denying it, and the substitution introduces a second error.
+- **B:** Correct: the mechanism is not observationally accessible, so no particular desert can be read off a particular case, and the misuse is a moral as well as epistemic error.
+- **C:** Incorrect: the inference is not sound, and presenting an unwarranted judgement gently does not make it warranted.
+- **D:** Incorrect: even where God allots fruit justly, the specific karmic history remains beyond the senses and known only through testimony.
+
+**Examiner trap 30:** Karma does not cancel present duties of compassion, protection and relief; a causal explanation is never moral permission to withhold aid, and saying so protects the answer's ethical credibility.
+
+#### MCQ 31 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Indian purity and impurity codes are ritual categories, and demerit and merit form a separate moral vocabulary alongside them.
+- **B:** Incorrect: the impure is one further category rather than a replacement, and Durkheim's classification is explicitly of things into sacred and profane.
+- **C:** Correct: keeping the four apart is what the module requires, and the profane is the everyday rather than the wicked.
+- **D:** Incorrect: Otto describes the object-side of religious response and does not supply a moral content to Durkheim's social classification.
 
 **Examiner trap 31:** A ploughed field, a market and an ordinary weekday are all profane and none of them is evil; one such illustration in the opening paragraph prevents the whole error.
 
-#### MCQ 32. Repairing "God's ways are mysterious" as a philosophical position
-
-A script offers divine mystery as its answer to the evidential argument. What is the correct repair?
-
-A. Replace mystery with the free-will defence, since a defence is always preferable to a theodicy when the burden is one of probability.
-
-B. Retain mystery and add that it is unfalsifiable, since unfalsifiability protects the claim from any possible empirical objection.
-
-C. Replace mystery with a full theodicy, because any appeal to human cognitive limitation is illegitimate in philosophical argument.
-
-D. State CORNEA or Bergmann's representativeness theses, which give the appeal to limitation a disciplined form and a stated cost.
+#### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -758,6 +739,20 @@ D. State CORNEA or Bergmann's representativeness theses, which give the appeal t
 - **D:** Correct: skeptical theism is the disciplined evidential version of the mystery appeal, and stating its principle also obliges the script to state its price.
 
 **Examiner trap 32:** Without an access principle, mystery is an unfalsifiable appeal; with CORNEA it becomes a position that can be argued, graded and — importantly for the examiner — costed.
+
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. The penal theory needs a defensible bridge from culpable sin to natural suffering and just distribution.
+- **B:** A live freedom objection, but it tests moral agency, not the allocation of natural harms under the sin/punishment thesis.
+- **C:** A genuine objection, but it targets the origin of *moral* evil rather than whether the punishment account covers prehuman and infant suffering.
+- **D:** True as a limit on a different reply, but it says nothing by itself about whether Augustine's penal bridge can justify natural evil.
+
+**Examiner trap 33:** The success of a moral-evil explanation cannot simply be transferred to natural-evil victims.
+
+**Coverage decision (33, not a quota):** The set separates logical, evidential, existential and natural/moral evil; defence from theodicy; Augustine, Plantinga, Hick, karma and process alternatives. The final item separately probes natural evil as *punishment*, the 2026 demand not settled by a generic free-will defence. This completes thematic diagnostic coverage of the eight 2019–2026 owner parts; coverage is not proof that every legacy option is equally difficult.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -775,7 +770,7 @@ Five short drills that fix the distinctions the examiner tests before any full a
 
 **Drill 5 — Skeptical theism or positive theodicy?** Skeptical theism says we cannot tell whether a justifying reason exists. A theodicy says what the reason is. Holding both in the same paragraph is self-undermining, and the examiner notices.
 
-### All 7 verified owner PYQs — exact wording, year and marks
+### The 7 verified 2019–2025 owner PYQs — exact wording, year and marks (2026 supplement below)
 
 All 7 items below are direct verified owner PYQs. Exact wording, years and marks are retained. Demand decoding, full model solutions, marks rationale, timing skeletons and examiner traps are pedagogic answer support, not an official answer key.
 
@@ -809,7 +804,7 @@ All 7 items below are direct verified owner PYQs. Exact wording, years and marks
 | Ideal thesis | Evil and the profane found religion **structurally rather than doctrinally** — and they found *religion*, not *theism* |
 | Non-negotiables | Durkheim, Otto and Eliade correctly distinguished; the profane ≠ evil correction; the four-step founding sequence; Indian parity with its rider |
 
-#### Model answer (≈250 words)
+#### Model answer
 
 The question is functional, not theological: it asks what work negative categories do in constituting religion. **Durkheim**, in *The Elementary Forms of Religious Life* (1912), holds that all known religious beliefs presuppose a classification of all things into two opposed classes, **profane** and **sacred**, and defines religion as a unified system of beliefs and practices relative to sacred things, uniting adherents into a single moral community, a church. The definition is deliberately God-free. ⚠️ A correction must be made at once: the **profane is the ordinary, not the wicked**; evil, impurity and the demonic are three further and distinct categories.
 
@@ -871,7 +866,7 @@ Total  : 15 minutes
 | Ideal thesis | The set is inconsistent **only with the bridging premises**, and the whole debate is a fight over those premises |
 | Non-negotiables | Mackie 1955; the numbered set including omniscience; both bridges; adequate/fallacious framing; Plantinga's defence; the migration to Rowe |
 
-#### Model answer (≈255 words)
+#### Model answer
 
 The logical problem alleges that a set of theistic beliefs cannot all be true. **J. L. Mackie**, "Evil and Omnipotence" (*Mind*, 1955), sets out the propositions: God is **omnipotent**; God is **perfectly good**; and **evil exists**. The full classical profile adds **omniscience**, which blocks the reply that evil escaped divine notice.
 
@@ -931,7 +926,7 @@ Total  : 15 minutes
 | Ideal thesis | Unrestricted omnipotence in both senses is incoherent, and the free-will defence requires the restriction |
 | Non-negotiables | Mackie 1955; first-order and second-order power; the three restrictions; the Plantinga/Griffin modal contrast |
 
-#### Model answer (≈160 words)
+#### Model answer
 
 **Mackie** (*Mind*, 1955) frames the paradox as a dilemma: can an omnipotent being create things it cannot afterwards control? If it **cannot**, its **second-order** power — power to determine what powers exist — is limited. If it **can and does**, its **first-order** power over those things is limited. Unrestricted omnipotence in both senses is therefore incoherent.
 
@@ -990,7 +985,7 @@ Total  : 10 minutes
 | Ideal thesis | The conditional fails as stated, but its rejoinder — that knowingly instantiating the system remains morally relevant — survives |
 | Non-negotiables | Free-will defence; privation; foreknowledge ≠ causation; the process alternative; the retained rejoinder |
 
-#### Model answer (≈255 words)
+#### Model answer
 
 The stem asserts a conditional: absolute creation entails that human agents cannot be responsible for evil. Its scope must be fixed first — it concerns **moral evil**, since no one attributes an earthquake to a human agent.
 
@@ -1052,7 +1047,7 @@ Total  : 15 minutes
 | Ideal thesis | The thesis preserves divine goodness for moral evil but is incomplete for natural, innocent and animal suffering |
 | Non-negotiables | Privation metaphysics; defective will; the Fall; the guilt-versus-condition distinction; Hick and karma as comparators; ❓ status of the printed wording |
 
-#### Model answer (≈350 words)
+#### Model answer
 
 Augustine's sentence partitions all evil into **sin** and its **punishment**. The metaphysics behind it must be stated before it is tested. Being, insofar as it is being, is **good**; God creates beings, not evil substances; corruption is **parasitic**, depending on a good nature to corrupt; and moral fault is **disordered willing**. Evil is therefore **privation of a due good (*privatio boni*)**, not a rival creative principle. ⚠️ Privation does not make pain unreal: rot is not a rival substance to wood but the real loss of the wood's proper integrity, and blindness is a determinate lack in a creature whose nature calls for sight.
 
@@ -1113,7 +1108,7 @@ Total  : 20 minutes
 | Ideal thesis | The claim is correct, but concept-dependence is not a solution: it relocates the cost into the theology |
 | Non-negotiables | The classical set; process/finite God; Advaita's levels; non-creator systems; the cost of each dissolution |
 
-#### Model answer (≈255 words)
+#### Model answer
 
 The thesis is correct, and its demonstration is straightforward. State the classical set: God is **omnipotent**, **omniscient**, **perfectly good** and **creator**, and evil exists; the contradiction requires the bridging principles that a good being eliminates evil as far as it can and that omnipotence has no relevant limit. The argument bites only where all four attributes are held together.
 
@@ -1173,7 +1168,7 @@ Total  : 15 minutes
 | Ideal thesis | Process theodicy purchases God's innocence at the price of God's sovereignty |
 | Non-negotiables | Six tenets; Whitehead, Hartshorne, Griffin and Cobb named separately; the Griffin/Plantinga modal contrast; the worship objection |
 
-#### Model answer (≈260 words)
+#### Model answer
 
 Process theodicy answers evil by **revising omnipotence**, not by justifying permission. Its tenets are six.
 
@@ -1218,13 +1213,29 @@ Total  : 15 minutes
 
 ---
 
+### 2026 primary-owned PYQ supplement — one solved part (2018–2026 total: 8)
+
+#### 2026 Q6(a) · 20 marks
+
+> In what sense does St. Augustine's identification of all evil as either sin or as the punishment of sin succeed or fail in providing a coherent account of both moral and natural evil? Evaluate.
+
+**Demand:** Test the printed *sin/punishment* dichotomy separately against moral and natural evil; this is not a general survey of theodicies. This model is independent practice, not an official answer key.
+
+**Model solution.** Augustine rejects evil as a rival substance: it is privation of a good due to a being (*privatio boni*). God creates beings good; the disorder lies in a created will's turning from higher to lesser goods. “Sin” accordingly names culpable moral evil, while suffering and mortality are interpreted as punitive consequences of the Fall. This is a coherent explanation *if* creation is good, freedom permits a deficient choice and a just creator can permit penal suffering without creating an evil substance.
+
+For **moral evil**, the account protects the difference between God's gift of freedom and a person's misuse of it. A deficient act is the agent's own rather than a positive evil entity directly authored by God. But explaining how an initially good angel or human could originate that first disordered choice without already harbouring a defect remains difficult. Schleiermacher presses this origin problem; a bare appeal to free choice relocates rather than fully explains it.
+
+For **natural evil**, the punishment horn is much less secure. Disease, earthquakes and animal suffering seem to predate or occur independently of any individual human fault; the pain of an infant or animal cannot be justified merely by labelling it deserved. Appealing to ancestral guilt or angelic sin raises questions of collective responsibility and fair proportionality. Augustine can reply that a fallen cosmic order has consequences not reducible to each sufferer's own sin; nevertheless the claim that *all* natural evils are deserved punishments needs argument, not repetition.
+
+An Irenaean/Hick soul-making approach offers a different purpose for danger and vulnerability, avoiding some penal implications but facing apparently pointless, excessive suffering. Plantinga's free-will defence, likewise, can challenge the *logical inconsistency* charge without demonstrating Augustine's *actual* historical account of every earthquake. **Verdict:** Augustine's privation and culpable choice illuminate moral evil, but the universal sin-or-punishment classification fails to give a comparably convincing, just account of natural evil; coherence at the abstract level does not establish adequate explanation of its distribution.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-These six original models extend coverage rather than repeat a direct verified PYQ. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 words, 15 marks about 240 to 260, 20 marks about 340 to 360**.
+Six baseline originals (two each at 10, 15 and 20 marks) are joined by an extended existential-protest evaluation below. All seven extend beyond direct PYQs; none is constrained by an arbitrary word ceiling.
 
 #### Original 10-marker 1
 
-**Question:** Distinguish a defence from a theodicy, and explain why the distinction determines what counts as a refutation. **(10 marks, 150 words)**
+**Question:** Distinguish a defence from a theodicy, and explain why the distinction determines what counts as a refutation. **(10 marks)**
 
 ##### Demand decoding
 
@@ -1234,7 +1245,7 @@ These six original models extend coverage rather than repeat a direct verified P
 | Core issue | Why bare possibility suffices in one case and not in the other |
 | Ideal thesis | The distinction fixes the success condition, and therefore fixes what a refutation must show |
 
-##### Model answer (≈155 words)
+##### Model answer
 
 A **defence** claims only that God *could* have a morally sufficient reason for permitting evil. Its target is the charge of **logical inconsistency**, and its success condition is therefore bare **logical possibility**. This is why **Plantinga** may assert transworld depravity as *possible* without asserting it as *actual*, and why an objector who shows that it is probably false has not touched the argument: to refute a defence one must show that the proposed story is **impossible**.
 
@@ -1254,7 +1265,7 @@ The distinction therefore fixes the burden on both sides. ⚠️ It also explain
 
 #### Original 10-marker 2
 
-**Question:** "Animal suffering is the point at which the free-will and soul-making theodicies both run out." Examine. **(10 marks, 150 words)**
+**Question:** "Animal suffering is the point at which the free-will and soul-making theodicies both run out." Examine. **(10 marks)**
 
 ##### Demand decoding
 
@@ -1264,7 +1275,7 @@ The distinction therefore fixes the burden on both sides. ⚠️ It also explain
 | Core issue | Why pre-human, pre-moral pain resists the two most-cited theodicies |
 | Ideal thesis | The formula is accurate; only nomic regularity partly survives, and it explains the kind of world rather than the amount of pain |
 
-##### Model answer (≈160 words)
+##### Model answer
 
 The formula is accurate. Animal pain from predation and disease **predates human moral agency**, so it cannot be the misuse of human free will; and the animal sufferer **does not morally grow**, so it cannot straightforwardly be the environment of soul-making for that sufferer. It cannot be called retributive either. **Rowe's fawn** — severe, apparently unobserved suffering after a natural fire — is the canonical evidential case.
 
@@ -1284,7 +1295,7 @@ The five replies each carry a cost. The **neo-Cartesian** claim that animals lac
 
 #### Original 15-marker 1
 
-**Question:** Does skeptical theism answer the evidential argument from evil, and at what cost? Discuss. **(15 marks, 250 words)**
+**Question:** Does skeptical theism answer the evidential argument from evil, and at what cost? Discuss. **(15 marks)**
 
 ##### Demand decoding
 
@@ -1294,7 +1305,7 @@ The five replies each carry a cost. The **neo-Cartesian** claim that animals lac
 | Core issue | Whether blocking the inference is a genuine answer or a purchased stalemate |
 | Ideal thesis | It answers the inference successfully and pays for it with a general loss of moral confidence |
 
-##### Model answer (≈255 words)
+##### Model answer
 
 Skeptical theism does not supply a theodicy. It attacks the **inference** in the evidential argument: from "I can see no justifying reason for this evil" to "there is no justifying reason". Its proponents are **Wykstra**, **Alston**, **Bergmann** and **Howard-Snyder**.
 
@@ -1316,7 +1327,7 @@ The mechanism is **Wykstra's CORNEA** (1984), the Condition of ReasoNable Episte
 
 #### Original 15-marker 2
 
-**Question:** "Karma answers the distribution question that Western theodicy cannot, but at a price." Critically examine. **(15 marks, 250 words)**
+**Question:** "Karma answers the distribution question that Western theodicy cannot, but at a price." Critically examine. **(15 marks)**
 
 ##### Demand decoding
 
@@ -1326,7 +1337,7 @@ The mechanism is **Wykstra's CORNEA** (1984), the Condition of ReasoNable Episte
 | Core issue | Whether trans-life moral causation is an explanatory gain or an unverifiable stipulation |
 | Ideal thesis | The distributional gain is real and school-specific; the price is verification and the risk of victim-blaming |
 
-##### Model answer (≈255 words)
+##### Model answer
 
 The claim is accurate on both sides. Western theodicy answers **why evil exists** — through freedom, privation or soul-making — but has no standard answer to **why this person**. **Karma-saṃsāra** answers exactly that: suffering is the fruit of one's own past deeds across lives, and the moral law is **self-operating**, so rebirth widens the temporal field of justice.
 
@@ -1350,7 +1361,7 @@ The price has four parts. First, beginninglessness is a doctrinal stipulation an
 
 #### Original 20-marker 1
 
-**Question:** "A theodicy is not refuted by its cost but is measured by it." Critically discuss with reference to at least three theodicies. **(20 marks, 350 words)**
+**Question:** "A theodicy is not refuted by its cost but is measured by it." Critically discuss with reference to at least three theodicies. **(20 marks)**
 
 ##### Demand decoding
 
@@ -1360,7 +1371,7 @@ The price has four parts. First, beginninglessness is a doctrinal stipulation an
 | Core issue | Whether cost-accounting is the right method for grading replies to evil |
 | Ideal thesis | The principle is correct and it is the examiner's own grading method, but it has a limit where a cost destroys the position's purpose |
 
-##### Model answer (≈355 words)
+##### Model answer
 
 The principle is sound and it is how this clause should be graded. Every reply to evil buys relief by surrendering something; the philosophical task is to state the purchase, not to pretend it was free.
 
@@ -1386,7 +1397,7 @@ The principle is sound and it is how this clause should be graded. Every reply t
 
 #### Original 20-marker 2
 
-**Question:** Assess whether the horrendous-evils challenge shows that no general theodicy can succeed. **(20 marks, 350 words)**
+**Question:** Assess whether the horrendous-evils challenge shows that no general theodicy can succeed. **(20 marks)**
 
 ##### Demand decoding
 
@@ -1396,7 +1407,7 @@ The principle is sound and it is how this clause should be graded. Every reply t
 | Core issue | Whether a person-level requirement is satisfiable by any world-level account |
 | Ideal thesis | The challenge defeats general theodicy as *global accountancy* but leaves a religion-specific personal answer standing |
 
-##### Model answer (≈355 words)
+##### Model answer
 
 **Marilyn McCord Adams** (*Horrendous Evils and the Goodness of God*, 1999) defines a **horrendous evil** as one whose participation — as perpetrator or victim — gives the participant *prima facie* reason to doubt whether their life could be **a great good to them on the whole**. The definition is technical, and using it loosely for "very bad evil" destroys the argument.
 
@@ -1551,6 +1562,16 @@ VERDICT  : name version -> write bridges -> reconstruct -> object/reply ->
 | Functional stem (2019 evil and the profane) | the profane ≠ evil correction; the four-step founding sequence; one Indian case | Otto or Eliade, whichever is less developed in your script; the second objection |
 | Residue paragraph (any 20-marker) | animal suffering; amount and distribution; the defence/theodicy distinction | the horrendous-evils layer if and only if the animal layer is already present |
 
-⚠️ **Band budgets for this topic.** 10 marks ≈ 150 words: version, set, one reply with its presupposition, one objection, a one-line compatibility verdict. 15 marks ≈ 240–260 words: add the canonical example, the proponent's reply, and one Indian comparator. 20 marks ≈ 340–360 words: add a second objection with its reply, the defence/theodicy distinction, and the residue before a criterion-named conclusion.
+⚠️ **Argument-first compression for timed attempts.** Identify the version of evil, its premise set, one reply and presupposition, an objection and a compatibility verdict. For a more demanding stem, add a canonical case, reply and—if relevant—an Indian comparison; a further objection, the defence/theodicy distinction and a residue test belong in extended evaluations. Do not impose a word ceiling at the expense of the argument.
 
 ⚠️ **What never gets cut:** the two bridging premises; the distinction between a defence and a theodicy; the fact that Plantinga's transworld depravity is a possibility claim; the Keats attribution; the profane/evil distinction; and the closing statement of what the reply costs and what it leaves untouched.
+
+#### Further original Mains practice — the neglected protest dimension
+
+**Original 7 · 20 marks — “Any theodicy that explains a victim's suffering risks silencing the victim's protest.” Evaluate whether existential evil is an independent problem for theism.**
+
+**Model solution.** Logical evil asks whether an omnipotent, wholly good God and evil can coexist; evidential evil asks whether suffering makes such a God improbable. Existential evil asks something different: what it means to trust, worship or protest against God amid a particular atrocity. A defence that a good God *could* have a reason to permit suffering does not identify a reason for this victim, and may be profoundly inappropriate as consolation. The distinction explains why Plantinga's logically adequate possibility reply and Rowe's apparently gratuitous fawn need not settle a survivor's demand for address or redress.
+
+Soul-making says a world with real danger allows courage and compassion. Yet virtues acquired by beneficiaries cannot automatically justify harm to a different person who did not consent. Augustine's punishment account faces an even sharper desert problem for infants and animals. A sceptical-theist response, “we cannot see God's reasons,” blocks an inference from our ignorance to God's lack of reasons, but may erode moral confidence that preventable cruelty really ought to be prevented. Protest refuses to convert a person into the instrument of someone else's growth; it can be internal to faith (lament addressed to God), rather than evidence that the protester has ceased to be religious.
+
+**Objection:** A philosophical theodicy aims at coherence, not pastoral reassurance, so criticism of its tone misses its logical target. **Reply:** This limits what such a defence claims, but the moment it claims to *justify* an actual distribution of suffering, the moral standing of the affected persons becomes part of the target. **Verdict:** Existential evil is not a formal disproof independent of all evidence; it is an independent evaluative burden on what counts as a morally adequate theistic reply. Retain the victim's right to protest even while considering metaphysical compatibility.

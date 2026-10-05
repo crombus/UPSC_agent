@@ -6,805 +6,459 @@ topic_key: world-history-07
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies New Imperialism?
+### Questions — conceptual, comparative and remedial
 
-A. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-B. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-C. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
+Each question has one best answer; the explanations and traps are collected in the separate key below.
 
-**Answer: A.**
-**Explanation:** New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers. The remaining options belong to different chronology, actor or analytical categories.
+#### Q1. Which inference best establishes the *newness* of late-nineteenth-century imperialism?
 
-### Q2. Which chronology card should be filed under New Imperialism?
+A. European control expanded from about 10% of African territory in the 1870s to about 90% by 1914, increasingly inland and territorial
+B. European influence began only with the 1884 Berlin Conference
+C. Europe had already fully partitioned Africa by the 1870s
+D. Expansion ended with the occupation of Egypt in 1882
 
-A. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-B. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-C. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
+#### Q2. Arrange these milestones in their correct order: Suez opens (S), Britain occupies Egypt (E), Berlin meets (B), Adwa (A).
 
-**Answer: B.**
-**Explanation:** New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers. The remaining options belong to different chronology, actor or analytical categories.
+A. S–E–A–B
+B. S–E–B–A
+C. E–S–B–A
+D. S–B–E–A
 
-### Q3. Which option preserves the source-bounded meaning of New Imperialism?
+#### Q3. Why is British occupation of Egypt (1882) inadequate evidence for a purely raw-material explanation?
 
-A. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-B. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-C. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-D. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
+A. It shows Britain pursued colonies exclusively for settler farmland
+B. It proves Egypt was partitioned at Berlin
+C. It links a vital Suez route and financial entanglement to strategic direct control
+D. It proves ideology alone caused British occupation
 
-**Answer: C.**
-**Explanation:** New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers. The remaining options belong to different chronology, actor or analytical categories.
+#### Q4. Consider: 1. Industrial demand helped drive expansion. 2. Every acquisition produced net gains for the whole metropole. Which is justified?
 
-### Q4. Which statement avoids a close-option trap about New Imperialism?
+A. 2 only
+B. Both 1 and 2
+C. Neither 1 nor 2
+D. 1 only
 
-A. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-B. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-C. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-D. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
+#### Q5. What does the German and Italian pursuit of African possessions explain most directly?
 
-**Answer: D.**
-**Explanation:** New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers. The remaining options belong to different chronology, actor or analytical categories.
+A. Prestige and rivalry accelerated the timing of claims; they do not alone explain extractive reorganisation
+B. Neither country sought colonies after national unification
+C. Industrial demand ceased once prestige became important
+D. The Berlin meeting ended competition between European powers
 
-### Q5. Which statement correctly identifies Ten to ninety per cent transformation?
+#### Q6. What causal place should improved transport, weapons and medicine occupy in a balanced explanation?
 
-A. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-B. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-C. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-D. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
+A. They made colonial governance uniformly inexpensive
+B. They enlarged the feasibility of inland conquest but did not supply the desire to conquer
+C. They replaced strategic concerns about sea routes
+D. They made resistance universally impossible
 
-**Answer: A.**
-**Explanation:** Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914. The remaining options belong to different chronology, actor or analytical categories.
+#### Q7. How should the “civilising mission” be assessed against colonial practice?
 
-### Q6. Which chronology card should be filed under Ten to ninety per cent transformation?
+A. As sufficient evidence that economic aims were absent
+B. As an exclusively humanitarian programme without violence
+C. As justificatory belief and policy instrument that coexisted with extraction and racial coercion
+D. As proof that no European believed in reform
 
-A. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-B. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-C. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-D. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
+#### Q8. Which account best distinguishes Berlin’s General Act from the subsequent partition?
 
-**Answer: B.**
-**Explanation:** Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914. The remaining options belong to different chronology, actor or analytical categories.
+A. The delegates drew every colonial frontier at the meeting
+B. African representatives endorsed all the new borders
+C. The Act abolished territorial competition immediately
+D. Its effective-occupation framework legitimised claims; conquest and border delimitation continued afterward
 
-### Q7. Which option preserves the source-bounded meaning of Ten to ninety per cent transformation?
+#### Q9. Which date and participation pairing belongs to the Berlin Conference?
 
-A. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-B. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-C. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-D. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
+A. 15 November 1884–26 February 1885; representatives of fourteen countries
+B. 1882–1885; fourteen African governments
+C. 1896–1905; fourteen European countries
+D. 15 November 1884–26 February 1885; fourteen African delegations
 
-**Answer: C.**
-**Explanation:** Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914. The remaining options belong to different chronology, actor or analytical categories.
+#### Q10. A candidate identifies the Congo Free State with the Belgian parliament at its first Berlin recognition. What is the precise correction?
 
-### Q8. Which statement avoids a close-option trap about Ten to ninety per cent transformation?
+A. The Congo was an Italian colony lost at Adwa
+B. The conference recognised the Congo Free State under Leopold II; private and state interests later intertwined
+C. The territory was awarded to Portugal as Mozambique
+D. The Congo remained untouched by European claims until 1914
 
-A. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-B. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-C. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-D. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
+#### Q11. Which pairing correctly identifies two different kinds of Berlin-era imperial mechanism?
 
-**Answer: D.**
-**Explanation:** Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914. The remaining options belong to different chronology, actor or analytical categories.
+A. Effective occupation for instant drawing of every border; Congo/Niger for ending trade
+B. Effective occupation for ending private power; Congo/Niger for replacing Leopold II
+C. Effective occupation for territorial recognition; Congo/Niger trade-water discussions for commercial access
+D. Effective occupation for national self-determination; Congo/Niger for African voting rights
 
-### Q9. Which statement correctly identifies Suez Canal, 1869?
+#### Q12. Which colonial mapping is completely consistent with the Basic owner?
 
-A. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-B. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-C. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-D. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
+A. Portugal—Egypt/Sudan; Germany—Madagascar; France—Somalia
+B. Portugal—Congo Free State; Germany—Algeria; France—Eritrea
+C. Portugal—German East Africa; Germany—Nigeria; France—South Africa
+D. Portugal—Angola/Mozambique; Germany—Togo/Cameroon; France—Madagascar
 
-**Answer: A.**
-**Explanation:** The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia. The remaining options belong to different chronology, actor or analytical categories.
+#### Q13. Which formulation avoids overstating the historical exception at Adwa?
 
-### Q10. Which chronology card should be filed under Suez Canal, 1869?
+A. Ethiopia defeated Italy in 1896, demonstrating that conquest was contingent, not that every resistance succeeded
+B. Italy conquered Ethiopia at Adwa and ended African independence
+C. Adwa occurred after the 1914 partition benchmark
+D. The victory shows European technology never mattered
 
-A. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-B. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-C. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-D. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
+#### Q14. Identify the correctly differentiated resistance and repression cases.
 
-**Answer: B.**
-**Explanation:** The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia. The remaining options belong to different chronology, actor or analytical categories.
+A. Maji Maji—French Madagascar, 1914; Herero and Nama—Portuguese Angola, 1885
+B. Maji Maji—German East Africa, 1905–07; Herero and Nama genocide—German South West Africa, 1904–08
+C. Maji Maji—German South West Africa, 1904–08; Herero and Nama—German East Africa, 1905–07
+D. Maji Maji—Ethiopia, 1896; Herero and Nama—Nigeria, 1882
 
-### Q11. Which option preserves the source-bounded meaning of Suez Canal, 1869?
+#### Q15. What is the strongest conclusion from Maji Maji following European territorial conquest?
 
-A. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-B. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-C. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-D. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
+A. The revolt caused the Berlin Conference
+B. Maji Maji was a negotiation between European imperial governments
+C. Imposed rule could generate further resistance to colonial labour and tax demands
+D. All African resistance had ended by 1896
 
-**Answer: C.**
-**Explanation:** The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia. The remaining options belong to different chronology, actor or analytical categories.
+#### Q16. Which inference about African agency avoids treating collaboration as a moral verdict?
 
-### Q12. Which statement avoids a close-option trap about Suez Canal, 1869?
+A. Every intermediary supported every aspect of colonial rule freely
+B. Participation excludes resistance elsewhere in African societies
+C. European governors had no need for African administrative actors
+D. Chiefs, soldiers and intermediaries could participate in thin colonial administrations under unequal constraints
 
-A. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-B. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-C. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
+#### Q17. Trace a plausible social mechanism from colonial cash taxation to a change in household labour.
 
-**Answer: D.**
-**Explanation:** The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia. The remaining options belong to different chronology, actor or analytical categories.
+A. Cash obligations could push migrant wage labour, shifting cultivation and care burdens onto women
+B. Taxation guaranteed all men permanent employment near home
+C. Mission schooling eliminated land expropriation everywhere
+D. Female land ownership automatically increased in every colony
 
-### Q13. Which statement correctly identifies British occupation of Egypt, 1882?
+#### Q18. A colonial administrator describes an ethnic division as timeless. What is the source-critical response?
 
-A. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-B. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-C. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-D. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
+A. Reject every colonial record, including dates of occupation
+B. Investigate whether recognised or invented “chiefs” and administrative categories hardened previously fluid identities
+C. Accept every colonial ethnic label as a neutral precolonial fact
+D. Infer that no African political identities existed before conquest
 
-**Answer: A.**
-**Explanation:** Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control. The remaining options belong to different chronology, actor or analytical categories.
+#### Q19. Why is it methodologically weak to use the Berlin conference record alone to describe African consent?
 
-### Q14. Which chronology card should be filed under British occupation of Egypt, 1882?
+A. There are no recorded African responses to colonial control
+B. Berlin formally abolished all African kingdoms before any campaign
+C. African voices did not shape its rules; test European claims against African resistance and action
+D. African rulers chaired all fourteen delegations
 
-A. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-B. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-C. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-D. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
+#### Q20. Which inference about borders and later conflicts is defensible?
 
-**Answer: B.**
-**Explanation:** Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control. The remaining options belong to different chronology, actor or analytical categories.
+A. Every African conflict after independence was caused solely by Berlin
+B. Boundaries all followed precolonial ethnic units exactly
+C. No colonial frontier survived decolonisation
+D. Partition often disregarded existing political realities, but subsequent instability also depended on later choices and institutions
 
-### Q15. Which option preserves the source-bounded meaning of British occupation of Egypt, 1882?
+#### Q21. Why might successor states retain boundaries they recognised as colonial creations?
 
-A. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-B. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-C. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-D. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
+A. General border revision risked destabilising every state; the refusal to endorse Biafra is behavioural evidence
+B. A Berlin vote bound every postcolonial state to a specified constitution
+C. All inherited frontiers perfectly matched local self-identification
+D. The OAU supported Biafra’s unilateral secession
 
-**Answer: C.**
-**Explanation:** Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control. The remaining options belong to different chronology, actor or analytical categories.
+#### Q22. What do the contrasting outcomes of Biafra and Katanga chiefly illustrate in this owner?
 
-### Q16. Which statement avoids a close-option trap about British occupation of Egypt, 1882?
+A. All postcolonial separations were imposed without agreement
+B. Resistance to unilateral secession helped preserve inherited states, at severe human cost
+C. The UN, OAU and Commonwealth jointly endorsed Biafra
+D. Colonial boundaries were peaceful by definition
 
-A. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-B. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-C. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-D. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
+#### Q23. Which 1914 exception set is supported by the source?
 
-**Answer: D.**
-**Explanation:** Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control. The remaining options belong to different chronology, actor or analytical categories.
+A. Liberia and German East Africa
+B. Madagascar and Eritrea
+C. Ethiopia and Liberia remained independent despite the wider African partition
+D. Ethiopia and the Congo Free State
 
-### Q17. Which statement correctly identifies Economic driver?
+#### Q24. Which choice best synthesises timing, motive and mechanism without equalising cases?
 
-A. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-B. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-C. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-D. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
+A. Profit alone explains Egypt, Berlin, Adwa and all colonial borders
+B. Prestige alone explains how all colonies were governed and financed
+C. Berlin made technology unnecessary and African responses irrelevant
+D. Industrial demand supplied one structural pressure, rivalry affected pace, Suez explains a strategic case, and Berlin regularised claims
 
-**Answer: A.**
-**Explanation:** Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated. The remaining options belong to different chronology, actor or analytical categories.
+#### Q25. Which statement best captures the limits of a uniform colonial-governance model?
 
-### Q18. Which chronology card should be filed under Economic driver?
+A. Direct administrative rule, intermediaries and private/concessionary control could coexist or differ across territories
+B. Every colony followed an identical direct-rule system
+C. Only European civil servants staffed colonial administrations
+D. Private interests and sovereign rule never overlapped
+
+#### Q26. If a source praises colonial “improvement,” which counter-evidence most directly tests that claim?
 
-A. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-B. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-C. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-D. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-
-**Answer: B.**
-**Explanation:** Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Economic driver?
-
-A. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-B. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-C. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-D. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-
-**Answer: C.**
-**Explanation:** Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Economic driver?
-
-A. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-B. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-C. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-D. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-
-**Answer: D.**
-**Explanation:** Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Prestige and rivalry?
-
-A. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-B. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-C. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-D. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-
-**Answer: A.**
-**Explanation:** National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Prestige and rivalry?
-
-A. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-B. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-C. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-D. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-
-**Answer: B.**
-**Explanation:** National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Prestige and rivalry?
-
-A. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-B. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-C. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-D. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-
-**Answer: C.**
-**Explanation:** National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Prestige and rivalry?
-
-A. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-B. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-C. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-D. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-
-**Answer: D.**
-**Explanation:** National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Technology as permissive cause?
-
-A. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-B. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-C. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-D. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-
-**Answer: A.**
-**Explanation:** Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Technology as permissive cause?
-
-A. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-B. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-C. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-D. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-
-**Answer: B.**
-**Explanation:** Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Technology as permissive cause?
-
-A. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-B. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-C. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-D. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-
-**Answer: C.**
-**Explanation:** Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Technology as permissive cause?
-
-A. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-B. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-C. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-D. Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-
-**Answer: D.**
-**Explanation:** Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Civilising mission and racial ideology?
-
-A. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-B. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-C. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-D. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-
-**Answer: A.**
-**Explanation:** Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Civilising mission and racial ideology?
-
-A. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-B. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-C. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-D. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-
-**Answer: B.**
-**Explanation:** Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Civilising mission and racial ideology?
-
-A. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-B. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-C. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-D. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-
-**Answer: C.**
-**Explanation:** Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Civilising mission and racial ideology?
-
-A. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-B. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-C. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-D. Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-
-**Answer: D.**
-**Explanation:** Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Berlin Conference, 1884-85?
-
-A. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-B. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-C. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-D. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-
-**Answer: A.**
-**Explanation:** The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Berlin Conference, 1884-85?
-
-A. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-B. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-C. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-D. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-
-**Answer: B.**
-**Explanation:** The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Berlin Conference, 1884-85?
-
-A. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-B. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-C. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-D. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-
-**Answer: C.**
-**Explanation:** The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Berlin Conference, 1884-85?
-
-A. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-B. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-C. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-D. The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-
-**Answer: D.**
-**Explanation:** The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Effective occupation?
-
-A. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-B. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-C. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-D. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-
-**Answer: A.**
-**Explanation:** The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Effective occupation?
-
-A. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-B. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-C. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-D. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-
-**Answer: B.**
-**Explanation:** The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Effective occupation?
-
-A. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-B. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-C. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-D. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-
-**Answer: C.**
-**Explanation:** The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Effective occupation?
-
-A. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-D. The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-
-**Answer: D.**
-**Explanation:** The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Congo Free State and Leopold II?
-
-A. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-B. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-C. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-D. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-
-**Answer: A.**
-**Explanation:** The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Congo Free State and Leopold II?
-
-A. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-B. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-C. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-D. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-
-**Answer: B.**
-**Explanation:** The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Congo Free State and Leopold II?
-
-A. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-B. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-C. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-D. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-
-**Answer: C.**
-**Explanation:** The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Congo Free State and Leopold II?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-D. The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-
-**Answer: D.**
-**Explanation:** The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Partition pattern?
-
-A. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-B. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-C. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-D. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-
-**Answer: A.**
-**Explanation:** Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Partition pattern?
-
-A. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-B. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-C. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-D. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-
-**Answer: B.**
-**Explanation:** Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Partition pattern?
-
-A. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-B. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-C. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-D. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-
-**Answer: C.**
-**Explanation:** Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Partition pattern?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-C. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-D. Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin.
-
-**Answer: D.**
-**Explanation:** Britain, France, Belgium, Germany, Portugal and Italy acquired major African zones through conquest and negotiated delimitation after Berlin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Ethiopia and Liberia in 1914?
-
-A. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-D. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-
-**Answer: A.**
-**Explanation:** By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Ethiopia and Liberia in 1914?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-C. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-D. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-
-**Answer: B.**
-**Explanation:** By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Ethiopia and Liberia in 1914?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-D. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-
-**Answer: C.**
-**Explanation:** By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Ethiopia and Liberia in 1914?
-
-A. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-B. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-C. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-D. By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned.
-
-**Answer: D.**
-**Explanation:** By 1914 Ethiopia and Liberia remained independent while most of Africa had been partitioned. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Adwa, 1896?
-
-A. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-D. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-
-**Answer: A.**
-**Explanation:** Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Adwa, 1896?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-C. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-D. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-
-**Answer: B.**
-**Explanation:** Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Adwa, 1896?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-C. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-D. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-
-**Answer: C.**
-**Explanation:** Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Adwa, 1896?
-
-A. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-B. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-C. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-D. Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-
-**Answer: D.**
-**Explanation:** Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Zulu and Samori Ture resistance?
-
-A. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-D. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-
-**Answer: A.**
-**Explanation:** Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Zulu and Samori Ture resistance?
-
-A. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-B. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-C. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-D. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-
-**Answer: B.**
-**Explanation:** Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Zulu and Samori Ture resistance?
-
-A. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-B. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-C. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-D. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-
-**Answer: C.**
-**Explanation:** Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Zulu and Samori Ture resistance?
-
-A. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-B. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-C. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-D. Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-
-**Answer: D.**
-**Explanation:** Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Herero and Nama genocide, 1904-08?
-
-A. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-B. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-C. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-D. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-
-**Answer: A.**
-**Explanation:** German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Herero and Nama genocide, 1904-08?
-
-A. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-B. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-C. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-D. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-
-**Answer: B.**
-**Explanation:** German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Herero and Nama genocide, 1904-08?
-
-A. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-B. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-C. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-D. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-
-**Answer: C.**
-**Explanation:** German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Herero and Nama genocide, 1904-08?
-
-A. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-B. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-C. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-D. German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-
-**Answer: D.**
-**Explanation:** German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Maji Maji, 1905-07?
-
-A. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-B. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-C. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-D. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-
-**Answer: A.**
-**Explanation:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Maji Maji, 1905-07?
-
-A. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-B. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-C. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-D. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-
-**Answer: B.**
-**Explanation:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Maji Maji, 1905-07?
-
-A. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-B. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-C. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-D. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-
-**Answer: C.**
-**Explanation:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Maji Maji, 1905-07?
-
-A. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-B. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-C. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-D. The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-
-**Answer: D.**
-**Explanation:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Extraction and labour restructuring?
-
-A. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-B. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-C. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-D. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-
-**Answer: A.**
-**Explanation:** Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Extraction and labour restructuring?
-
-A. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-B. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-C. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-D. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-
-**Answer: B.**
-**Explanation:** Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Extraction and labour restructuring?
-
-A. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-B. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-C. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-D. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-
-**Answer: C.**
-**Explanation:** Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Extraction and labour restructuring?
-
-A. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-B. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-C. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-D. Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-
-**Answer: D.**
-**Explanation:** Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Colonial borders and authority?
-
-A. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-B. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-C. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-D. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-
-**Answer: A.**
-**Explanation:** Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Colonial borders and authority?
-
-A. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-B. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-C. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-D. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-
-**Answer: B.**
-**Explanation:** Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Colonial borders and authority?
-
-A. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-B. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-C. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-
-**Answer: C.**
-**Explanation:** Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Colonial borders and authority?
-
-A. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-B. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-C. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-D. Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-
-**Answer: D.**
-**Explanation:** Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies African agency and the Berlin verdict?
-
-A. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-B. New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-C. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-
-**Answer: A.**
-**Explanation:** African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under African agency and the Berlin verdict?
-
-A. Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-B. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-C. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-
-**Answer: B.**
-**Explanation:** African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of African agency and the Berlin verdict?
-
-A. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-B. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-C. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-D. The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-
-**Answer: C.**
-**Explanation:** African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about African agency and the Berlin verdict?
-
-A. Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-B. National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-C. Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-D. African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-
-**Answer: D.**
-**Explanation:** African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act. The remaining options belong to different chronology, actor or analytical categories.
+A. Adwa proves there was no colonial violence elsewhere
+B. The Herero and Nama genocide and colonial extraction expose the gap between rhetoric and practice
+C. The number of fourteen Berlin delegations proves humanitarian intent
+D. Suez opening alone proves every African household benefited
+
+#### Q27. How should one use the 10%–90% territorial comparison in a Mains argument?
+
+A. Treat it as proof that Berlin mapped exactly 80% of Africa
+B. Use it to prove every imperial possession paid for itself
+C. Attribute it to Britannica, contrast the 1870s with 1914, and use it to demonstrate rapid territorial expansion
+D. Present it as the precise percentage of African people under rule in 1882 and 1896
+
+#### Q28. Which outline best answers a “colonisation and effect on society” directive?
+
+A. Describe only the diplomatic schedule of Berlin
+B. List European flags without considering African land or labour
+C. Give unsourced casualty totals for Congo and Maji Maji
+D. Explain extraction, taxation and labour migration, changing authorities, coercion, resistance and border legacy with limits
+
+#### Q29. Which two cases particularly challenge the idea that African resistance was confined to Ethiopia?
+
+A. Zulu resistance and Samori Ture’s West African campaigns demonstrate organised African military responses
+B. Leopold II and Bismarck commanded African anticolonial armies
+C. The Suez Canal and Congo trade rule were African uprisings
+D. Liberia’s independence means the whole continent repelled colonisation
+
+#### Q30. Which colonial-region mapping correctly distinguishes Belgian and French involvement?
+
+A. Belgian Egypt and French South Africa
+B. Leopold II’s Congo Free State and French Algeria/Madagascar
+C. French Congo Free State and Belgian Madagascar
+D. Belgian Angola and French Mozambique
+
+#### Q31. A tax collector, selected chief and recruiter appear in a colonial district. What mechanism do they jointly reveal?
+
+A. Administrative chiefdoms were always unchanged continuations of ancient institutions
+B. Cash taxation necessarily abolished migrant labour and plantation work
+C. Thin European administration relied on local intermediaries while cash taxes and labour demands pushed extractive work
+D. Colonial authority operated only through European officials and voluntary self-taxation
+
+#### Q32. How should a comparison between Congo concessionary power and Egypt’s 1882 occupation qualify a single-motive thesis?
+
+A. Both cases were caused exclusively by Italy’s defeat at Adwa
+B. Both were fully settled as humanitarian projects at Berlin
+C. Neither involves any colonial political control
+D. Congo shows private-sovereign overlap and extractive aims; Egypt highlights strategic routes and financial entanglement
+
+### Separate answer key — four-option reasoning
+
+**Q1 — A.**
+- **A:** The attributed Britannica comparison measures pace and extent without claiming that overseas expansion first began then
+- **B:** Coastal trading and earlier influence predated Berlin
+- **C:** The 1870s benchmark is about 10%, not full partition
+- **D:** Egypt was one episode before Berlin and later conquests
+- **Trap:** New describes acceleration and inland rule, not the first European presence.
+
+**Q2 — B.**
+- **A:** Adwa occurred a decade after Berlin
+- **B:** 1869 precedes 1882, the 1884–85 conference and the 1896 battle
+- **C:** Egyptian occupation in 1882 followed the 1869 opening
+- **D:** Berlin convened after Britain occupied Egypt
+- **Trap:** Strategic investment in Suez precedes formalised competitive claims.
+
+**Q3 — C.**
+- **A:** This case is framed around finance and route security
+- **B:** Occupation occurred before the Berlin meeting
+- **C:** Suez opened in 1869; control of the route helps explain territorial selection
+- **D:** Civilising language is not the mechanism identified in the Egypt case
+- **Trap:** Do not assign every colony the same motive.
+
+**Q4 — D.**
+- **A:** The universal-profit claim contradicts the source caution
+- **B:** Uneven benefits rule out the second assertion
+- **C:** Industrial economic demand remains a significant driver
+- **D:** Demand for materials and markets is supported, but returns were uneven and administration could be costly
+- **Trap:** Distinguish an expected economic motive from realised profitability.
+
+**Q5 — A.**
+- **A:** Recently unified powers sought great-power standing, while economic organisation had distinct drivers
+- **B:** Both sought colonial status
+- **C:** The causes interacted rather than replaced one another
+- **D:** It regularised and accelerated territorial claims
+- **Trap:** Prestige is neither the sole cause nor irrelevant to the rush.
+
+**Q6 — B.**
+- **A:** Administrative and economic returns were uneven
+- **B:** The source explicitly separates European capability from motive
+- **C:** Suez and route competition still mattered
+- **D:** Ethiopia defeated Italy at Adwa
+- **Trap:** A permissive condition is not an adequate primary motive.
+
+**Q7 — C.**
+- **A:** Extraction was a central component of empire
+- **B:** The Herero and Nama genocide contradicts that reading
+- **C:** Ideology could motivate some actors while serving exploitative rule
+- **D:** The source does not reduce every believer to conscious deception
+- **Trap:** Do not substitute a uniform judgement about sincerity for analysis of conduct.
+
+**Q8 — D.**
+- **A:** Later conquest and delimitation were essential
+- **B:** African voices did not shape the conference rules
+- **C:** The rule helped accelerate rival claims
+- **D:** Berlin supplied rules and recognition, not a finished map of Africa
+- **Trap:** Berlin was a rulebook, not an instantaneous cartographic settlement.
+
+**Q9 — A.**
+- **A:** These dates and the fourteen-country count are explicit in the Basic owner
+- **B:** 1882 dates British occupation of Egypt, and African governments did not frame the rules
+- **C:** Adwa and the Maji Maji period are later
+- **D:** The date is right but African participation is falsely asserted
+- **Trap:** Correct dates do not rescue a false statement about African representation.
+
+**Q10 — B.**
+- **A:** Adwa concerned Ethiopia and Italy
+- **B:** The named association is Leopold II rather than an undifferentiated Belgian state at recognition
+- **C:** Mozambique is associated with Portuguese colonial possessions
+- **D:** Berlin recognition was in 1884–85
+- **Trap:** Avoid collapsing Leopold’s personal association into a simple Belgium-equals-Congo formula.
+
+**Q11 — C.**
+- **A:** The conference did not draw all borders and addressed access to commerce
+- **B:** Leopold’s Congo case instead shows the private/public overlap
+- **C:** The Advanced owner differentiates territorial claims from river/trade rules
+- **D:** Neither principle granted African self-rule
+- **Trap:** Territorial recognition and rules governing trade routes should not be conflated.
+
+**Q12 — D.**
+- **A:** Egypt/Sudan belong to Britain; Madagascar to France; Somalia appears under Italy
+- **B:** Congo is linked to Leopold; Algeria to France; Eritrea to Italy
+- **C:** These holdings are assigned to different powers
+- **D:** Each power-zone pairing appears in the source table
+- **Trap:** A match item may combine several powers; verify each pair independently.
+
+**Q13 — A.**
+- **A:** Adwa is a successful resistance case; the wider partition still proceeded
+- **B:** The Ethiopian victory reverses this claim
+- **C:** The battle took place in 1896
+- **D:** Technological advantage mattered without making victory inevitable
+- **Trap:** Do not generalise a striking counterexample into a continent-wide outcome.
+
+**Q14 — B.**
+- **A:** Neither event has these colonial associations
+- **B:** These are separate events, regions and intervals in the Basic owner
+- **C:** This swaps the two locations and periods
+- **D:** Adwa is the Ethiopia-1896 case and the other mappings are false
+- **Trap:** Do not use the label genocide interchangeably for all colonial uprisings.
+
+**Q15 — C.**
+- **A:** Berlin predates the uprising by two decades
+- **B:** It was an African anti-colonial uprising
+- **C:** The 1905–07 revolt occurred under German colonial rule
+- **D:** The later revolt disproves the claim
+- **Trap:** Partition was not the endpoint of African political action.
+
+**Q16 — D.**
+- **A:** Motives and power constraints differed
+- **B:** Resistance, negotiation and adaptation coexisted
+- **C:** Limited European personnel made intermediaries important
+- **D:** The Basic owner uses collaboration as an analytical category, not a moral judgement
+- **Trap:** Participation within constrained administration is not evidence of universal consent.
+
+**Q17 — A.**
+- **A:** The Basic owner links taxation, male migration and altered household responsibilities as qualified synthesis
+- **B:** Long-distance labour movement is the identified pressure
+- **C:** Schooling does not negate extraction or land change
+- **D:** No universal legal outcome is supported
+- **Trap:** Mark regionally variable gender effects as inference, not a numerical universal.
+
+**Q18 — B.**
+- **A:** A biased archive can still establish European acts while requiring cross-checking
+- **B:** The source warns that colonial categories may be produced by rule itself
+- **C:** Administrative classification is part of the object of study
+- **D:** Critiquing records does not erase precolonial organisation
+- **Trap:** Critique how a source constructs identity without dismissing all recorded facts.
+
+**Q19 — C.**
+- **A:** Adwa, Samori Ture and Maji Maji supply counter-evidence
+- **B:** Recognition rules were followed by contested conquest
+- **C:** The absence of African representation speaks to procedure, not African passivity
+- **D:** The conference rules excluded African participation
+- **Trap:** An archive’s silence about African speech is not evidence of silent acceptance.
+
+**Q20 — D.**
+- **A:** One cause cannot explain every later outcome
+- **B:** The source says they rarely followed ethnic or political realities
+- **C:** The successor-state border problem presupposes inheritance
+- **D:** The Basic owner treats a border legacy as consequential, not deterministic
+- **Trap:** Border inheritance is a mechanism, not a universal single-cause explanation.
+
+**Q21 — A.**
+- **A:** The source offers collective-security reasoning with the Nigeria case, not a quoted legal resolution
+- **B:** No such document or legal obligation is sourced
+- **C:** The boundaries often divided or combined communities
+- **D:** The source says OAU, UN and Commonwealth did not
+- **Trap:** Do not invent an OAU resolution when the source gives conduct as evidence.
+
+**Q22 — B.**
+- **A:** The source distinguishes an agreed Singapore separation
+- **B:** Biafra was not supported by OAU/UN/Commonwealth; Katanga’s secession was reversed
+- **C:** The owner states the contrary
+- **D:** Nigeria’s war and Congo’s crisis contradict that inference
+- **Trap:** Preserving borders is a political choice with costs, not proof they were just.
+
+**Q23 — C.**
+- **A:** German East Africa was a colony
+- **B:** These areas are listed under French and Italian colonial control
+- **C:** The Basic owner explicitly names both independent states
+- **D:** The Congo Free State was recognised as an imperial possession
+- **Trap:** Adwa explains Ethiopia’s exception but not a general rule of freedom.
+
+**Q24 — D.**
+- **A:** The source distinguishes strategic, institutional and African-agency mechanisms
+- **B:** Prestige does not describe labour regimes or governance
+- **C:** Reach and resistance were both consequential
+- **D:** Different causal levels illuminate different territorial decisions
+- **Trap:** An integrated account ranks causes by explanatory role rather than treating them as interchangeable.
+
+**Q25 — A.**
+- **A:** The Advanced owner cautions against one model and uses Leopold’s Congo as private/public overlap
+- **B:** Variation is an explicit caution
+- **C:** African intermediaries were often indispensable
+- **D:** The Congo example shows overlap
+- **Trap:** Distinguish forms of control; do not equate all empires or regions.
+
+**Q26 — B.**
+- **A:** A successful Ethiopian battle does not negate violence under occupation
+- **B:** The named atrocity is a concrete check against unqualified benevolence
+- **C:** Participation count reveals nothing about benevolence
+- **D:** A strategic route cannot establish social welfare
+- **Trap:** Contrast a justificatory claim with named conduct, not with unrelated chronology.
+
+**Q27 — C.**
+- **A:** The change spans decades of conquest and varied delimitation
+- **B:** Territorial extent does not measure profitability
+- **C:** The measure captures aggregate change but not equal outcomes in every region
+- **D:** The source reports territory and different benchmark dates
+- **Trap:** Territorial percentages are not demographic or financial data.
+
+**Q28 — D.**
+- **A:** Conference chronology alone omits social effects
+- **B:** A political map does not exhaust societal consequence
+- **C:** The owner explicitly forbids unsupported figures
+- **D:** This follows social mechanisms and African response rather than merely listing European motives
+- **Trap:** Named evidence and bounded social mechanisms matter more than decorative atrocity counts.
+
+**Q29 — A.**
+- **A:** Both are named cases of non-Ethiopian resistance in the Basic owner
+- **B:** Both are associated with European imperial claims
+- **C:** They concern a route and diplomatic trade arrangements
+- **D:** One surviving independent state cannot represent all African territories
+- **Trap:** Adwa was a successful exception, not the sole instance of African initiative.
+
+**Q30 — B.**
+- **A:** Egypt and South Africa are listed under Britain
+- **B:** The Basic owner assigns Congo to Leopold and Algeria/Madagascar to France
+- **C:** This swaps the named powers and territories
+- **D:** Both Angola and Mozambique are Portuguese possessions
+- **Trap:** Congo’s personal-sovereign association demands more precision than a generic Belgian flag.
+
+**Q31 — C.**
+- **A:** Some chiefs and administrative categories were recognised or invented
+- **B:** Tax and obligation could encourage those forms of labour
+- **C:** The owner connects authority-making, intermediary rule and the economic restructuring of households
+- **D:** Intermediaries and constrained labour are explicit in the source
+- **Trap:** Colonial rule remade political authority as well as commodity flows.
+
+**Q32 — D.**
+- **A:** Adwa occurred later and concerned Ethiopian resistance
+- **B:** Egypt was occupied before Berlin; Congo recognition did not prevent violence
+- **C:** Both show forms of imposed imperial authority
+- **D:** The cases illustrate different combinations of profit, sovereign claim and geopolitical priority
+- **Trap:** Case-specific mechanisms should not be flattened into equal weighted motives.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -816,244 +470,84 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local 2018-2
 
 **Question:** What made late-nineteenth-century imperialism new? Answer in about 150 words.
 
-**Model thesis:** Its speed, inland territorial reach, industrial-strategic drivers and formal rules of effective occupation distinguished it from earlier coastal influence.
-
-**Claim → named evidence → analysis → qualification:**
-
-- New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers.
-- Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914.
-- Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-- The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-
-**Qualified conclusion:** Its speed, inland territorial reach, industrial-strategic drivers and formal rules of effective occupation distinguished it from earlier coastal influence.
-
-**Demand decoding:** The directive **answer** requires a direct position on “What made late-nineteenth-century imperialism new? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “What made late-nineteenth-century imperialism new? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Its speed, inland territorial reach, industrial-strategic drivers and formal rules of effective occupation distinguished it from earlier coastal influence.
+Earlier European influence in Africa often centred on coastal trading posts. New Imperialism meant much faster expansion into the interior and the assertion of direct territorial rule by industrial powers. Britannica's comparison—roughly a tenth of Africa under European control in the 1870s against about nine-tenths by 1914—indicates the scale of that change, though percentages alone cannot explain its causes.
 
-**Analytical body:**
+Raw materials, markets and investment attracted some interests; control of routes also mattered, as Britain's occupation of Egypt in 1882 illustrates. Yet gains to metropolitan populations were neither automatic nor equally shared. Steam transport, medicines and superior weapons enabled inland penetration without themselves creating the appetite for empire. The Berlin General Act promoted recognition through effective occupation, making inter-European competition more territorial; it did not itself trace all African frontiers.
 
-1. **Claim and named evidence:** New Imperialism was the late-nineteenth-century shift from limited coastal influence toward aggressive direct political control of inland territory by industrial powers. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Britannica's figures place about ten per cent of African territory under European control in the 1870s and about ninety per cent by 1914. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Its speed, inland territorial reach, industrial-strategic drivers and formal rules of effective occupation distinguished it from earlier coastal influence.
+Thus the novelty lay in the combination of speed, inland reach, industrial and strategic incentives, and formal claims to sovereignty—not in the sudden appearance of colonial exploitation, which had older roots.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** How far was the Berlin Conference responsible for partition? Answer in about 150 words.
 
-**Model thesis:** Berlin legitimised claims and standardised effective occupation, accelerating conquest, but actual borders emerged through later force and bargaining.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries.
-- The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting.
-- The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-- African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-
-**Qualified conclusion:** Berlin legitimised claims and standardised effective occupation, accelerating conquest, but actual borders emerged through later force and bargaining.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How far was the Berlin Conference responsible for partition? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How far was the Berlin Conference responsible for partition? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Berlin legitimised claims and standardised effective occupation, accelerating conquest, but actual borders emerged through later force and bargaining.
+The Berlin Conference accelerated and legitimised partition; it did not draw Africa's complete map. From 15 November 1884 to 26 February 1885, representatives of fourteen countries negotiated rules for European competition without African representation. The General Act's principle of effective occupation encouraged claimants to establish control on the ground rather than rely on coastal declarations, converting diplomatic rivalry into pressure for conquest.
 
-**Analytical body:**
+Recognition of Leopold II's Congo Free State shows how a European forum conferred legitimacy on an imperial project; it says nothing about African consent or the subsequent violence there. Britain's occupation of Egypt in 1882 preceded the meeting, while later campaigns and negotiations determined territorial control. Ethiopia's victory over Italy at Adwa in 1896 shows that claims did not guarantee conquest; other African communities resisted, bargained or adapted.
 
-1. **Claim and named evidence:** The Berlin Conference met from 15 November 1884 to 26 February 1885 with representatives of fourteen countries. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Berlin General Act required effective occupation for recognition, standardising the rules of competition rather than drawing every African border at one meeting. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Berlin legitimised claims and standardised effective occupation, accelerating conquest, but actual borders emerged through later force and bargaining.
+Berlin therefore mattered greatly for the rules and tempo of partition, but neither initiated every seizure nor settled every boundary.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Explain the causes of the Scramble for Africa. Answer in about 250 words.
 
-**Model thesis:** Industrial demand and strategy supplied structural incentives, prestige set the pace, technology enabled conquest and racial ideology legitimised it.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia.
-- Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control.
-- Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated.
-- National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status.
-- Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive.
-- Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-
-**Qualified conclusion:** Industrial demand and strategy supplied structural incentives, prestige set the pace, technology enabled conquest and racial ideology legitimised it.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the causes of the Scramble for Africa. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain the causes of the Scramble for Africa. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Industrial demand and strategy supplied structural incentives, prestige set the pace, technology enabled conquest and racial ideology legitimised it.
+The Scramble for Africa arose from interacting economic, strategic and political pressures; technology made extensive conquest feasible, while racial ideology helped justify it. No single cause explains why particular powers occupied particular regions.
 
-**Analytical body:**
+Industrial economies sought raw materials, markets and investment outlets. Colonial administrations could redirect production and labour toward extraction, but returns were uneven: investors' interests did not necessarily coincide with those of entire metropolitan societies. Strategy selected especially valuable locations. The Suez Canal, opened in 1869, raised the importance of Egypt and the route to Asia; Britain's occupation of Egypt in 1882 shows how financial entanglement and strategic anxiety could culminate in direct control. It cannot be explained simply as a hunt for raw materials.
 
-1. **Claim and named evidence:** The Suez Canal opened in 1869 and increased the strategic value of Egypt, African routes and access to Asia. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Britain occupied Egypt in 1882, showing how financial and strategic entanglement could become direct imperial control. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Industrial powers sought raw materials, markets and investment opportunities, while actual metropolitan profit remained uneven and concentrated. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** National prestige and great-power rivalry accelerated the scramble, especially as recently unified Germany and Italy sought colonial status. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Steam transport, improved weapons and medicines increased European reach; technology supplied capability, not motive. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Great-power rivalry intensified the pace. Recently unified Germany and Italy sought colonial status as well as material gains. Berlin's 1884–85 conference gave competitors rules of effective occupation and recognised Leopold II's Congo Free State, but later bargaining and force determined much of the partition. Steam transport, improved weapons and medicines enlarged European reach inland; capability was not motive. Claims to a 'civilising mission' and racial superiority licensed coercion rather than demonstrating benevolent outcomes. African resistance, notably Ethiopia's victory at Adwa, shows that European plans did not automatically translate into control.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Industrial demand and strategy supplied structural incentives, prestige set the pace, technology enabled conquest and racial ideology legitimised it.
+Economics and strategy supplied incentives, prestige sharpened competition, and technology enabled expansion; their effects depended on local conditions and African responses.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Assess African agency during the Scramble. Answer in about 250 words.
 
-**Model thesis:** African states and communities resisted, negotiated and adapted under unequal conditions; Adwa proves contingency while later revolts show conquest never ended opposition.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic.
-- Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency.
-- The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-- African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act.
-
-**Qualified conclusion:** African states and communities resisted, negotiated and adapted under unequal conditions; Adwa proves contingency while later revolts show conquest never ended opposition.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess African agency during the Scramble. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Assess African agency during the Scramble. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** African states and communities resisted, negotiated and adapted under unequal conditions; Adwa proves contingency while later revolts show conquest never ended opposition.
+African agency during the Scramble was real but exercised within increasingly unequal military and diplomatic conditions. It encompassed organised resistance, negotiation, selective cooperation and adaptation, not a single continental response.
 
-**Analytical body:**
+Ethiopia's defeat of Italy at Adwa in 1896 demonstrates that European claims could be defeated by an African state. It was an important exception, not evidence that most African polities retained independence. Zulu resistance and Samori Ture's prolonged West African campaigns likewise show political leadership and military organisation, even where conquest eventually prevailed. These cases challenge accounts in which Africans appear merely as territory to be distributed.
 
-1. **Claim and named evidence:** Ethiopia defeated Italy at Adwa in 1896, proving that European conquest was contingent rather than automatic. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Zulu resistance and Samori Ture's prolonged West African campaigns demonstrate organised African military agency. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** African societies resisted, negotiated, collaborated and adapted; Berlin was a legitimising rulebook and accelerator, not a complete cartographic act. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Responses changed with occupation. The Maji Maji uprising in German East Africa in 1905–07 was a revolt under colonial rule: conquest had not extinguished opposition to labour and taxation demands. Its suppression demonstrates unequal power, not an absence of African initiative. Some rulers and communities instead negotiated with or cooperated with Europeans to protect interests, settle local rivalries or survive coercion. Such choices require their own context; 'collaboration' is not a blanket moral judgement.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Berlin standardised claims among Europeans without African representation, but its diplomatic record cannot stand in for African political history. Battles, revolts and negotiated accommodations provide evidence beyond the conference table.
 
-**Qualified conclusion:** African states and communities resisted, negotiated and adapted under unequal conditions; Adwa proves contingency while later revolts show conquest never ended opposition.
+African action shaped the course and cost of partition, and in Ethiopia even its outcome; nevertheless, superior European arms and coercive colonial institutions narrowed the chances of successful resistance elsewhere.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Analyse the social and economic consequences of New Imperialism in Africa. Answer in about 300 words.
 
-**Model thesis:** Extraction, migrant labour, gendered household change, remade authority, hardened identities and imposed borders outlasted colonial rule.
-
-**Claim → named evidence → analysis → qualification:**
-
-- German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-- The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-- Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-- Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries.
-
-**Qualified conclusion:** Extraction, migrant labour, gendered household change, remade authority, hardened identities and imposed borders outlasted colonial rule.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the social and economic consequences of New Imperialism in Africa. Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Analyse the social and economic consequences of New Imperialism in Africa. Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Extraction, migrant labour, gendered household change, remade authority, hardened identities and imposed borders outlasted colonial rule.
+New Imperialism subordinated many African economies to colonial priorities; it also changed social relations through taxation, violence, reconstituted authority and new frontiers. These processes differed by colony, not forming one uniform African experience.
 
-**Analytical body:**
+Cash taxes created pressure to earn colonial currency. Together with mines, plantations and labour obligations, they pulled people into wage work or export production and could separate migrants from households. Work remaining at home was redistributed, often along gendered lines. This was not simply the arrival of 'modern' markets: colonial authorities shaped whose labour was available and what it produced. Gains to firms and intermediaries did not guarantee prosperity for whole populations.
 
-1. **Claim and named evidence:** German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Boundaries rarely followed existing political realities, while colonial administrations hardened identities and reshaped authority through selected chiefs and intermediaries. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Violence was socially transformative. German repression of the Herero and Nama in South West Africa became genocide in 1904–08; the Maji Maji revolt in German East Africa in 1905–07 reveals resistance after conquest. These cases differ—genocide must not label all colonial repression—but both refute the equation of annexation with consent. Administrations selected chiefs and intermediaries, shifting local authority and sometimes hardening identities presented as timeless. Boundaries often cut across existing political realities rather than reflecting African choices.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+The border legacy survived empire: postcolonial states faced the dangers of revising inherited frontiers. The reversal of Katanga's secession and the refusal of the OAU, Commonwealth and UN to support Biafra illustrate the priority given to territorial stability despite the human costs of internal war. Neither conflict follows automatically from a line drawn at Berlin: later institutions and politics matter.
 
-**Qualified conclusion:** Extraction, migrant labour, gendered household change, remade authority, hardened identities and imposed borders outlasted colonial rule.
+Colonialism therefore linked extraction to transformed households, remade power and enduring territorial constraints. African resistance and selective adaptation shaped these changes, whose effects varied sharply across regions and time.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** The civilising mission concealed a coercive political economy. Critically examine. Answer in about 300 words.
 
-**Model thesis:** Ideology performed real legitimising work, but Congo, forced labour, Herero-Nama genocide and Maji Maji expose the extraction and violence beneath it.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity.
-- The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence.
-- German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908.
-- The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest.
-- Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work.
-
-**Qualified conclusion:** Ideology performed real legitimising work, but Congo, forced labour, Herero-Nama genocide and Maji Maji expose the extraction and violence beneath it.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “The civilising mission concealed a coercive political economy. Critically examine. Answer in…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “The civilising mission concealed a coercive political economy. Critically examine. Answer in…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Ideology performed real legitimising work, but Congo, forced labour, Herero-Nama genocide and Maji Maji expose the extraction and violence beneath it.
+The 'civilising mission' claimed a moral purpose for empire; it is not reliable evidence of its effects. In New Imperialism it legitimised conquest while colonial institutions repeatedly directed African labour and resources to outside interests. Its stated ideals must be tested against practice rather than treated as a complete account of imperial motive.
 
-**Analytical body:**
+At Berlin in 1884–85, European powers codified effective occupation and recognised the Congo Free State under Leopold II. Recognition conferred standing on an imperial venture but did not make coercive extraction humane. Congo exposes the overlap between a ruler's private enterprise and imperial sovereignty; it should not be described as direct Belgian parliamentary control from the outset. More broadly, cash taxation pushed households to seek colonial currency, while mines, plantations and labour obligations redirected work toward export and employers' needs. Migration and changes in gendered household work followed, though to different extents locally.
 
-1. **Claim and named evidence:** Civilising rhetoric and racial superiority supplied domestic legitimation while coexisting with coercion, extraction and atrocity. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Conference recognised the Congo Free State under Leopold II, illustrating the overlap of private profit, sovereignty and imperial violence. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** German suppression in South West Africa became the genocide of the Herero and Nama between 1904 and 1908. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Maji Maji uprising in German East Africa from 1905 to 1907 showed mass resistance continuing after formal conquest. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Cash taxation, mines, plantations and labour obligations reorganised economies for export and altered migration, households and gendered work. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+The gap between rhetoric and practice could be catastrophic. German suppression of the Herero and Nama in South West Africa became genocide in 1904–08, an especially devastating counterexample to benevolent self-description; genocide is not a synonym for every colonial policy. The Maji Maji uprising in German East Africa in 1905–07 shows communities resisting colonial demands even after occupation. Force used against them undermines claims of consensual improvement and reveals African political action.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Imperial advocates might point to infrastructure, administrative institutions or professed reform; such claims do not settle who controlled these works, supplied the labour or received the benefits. Nor were all colonies or groups affected alike.
 
-**Qualified conclusion:** Ideology performed real legitimising work, but Congo, forced labour, Herero-Nama genocide and Maji Maji expose the extraction and violence beneath it.
+Civilising language mattered as justification, not as proof of benevolent outcome. Congo's political economy, compelled labour and violence in German colonies show why claims of improvement must be weighed against extraction and African resistance.

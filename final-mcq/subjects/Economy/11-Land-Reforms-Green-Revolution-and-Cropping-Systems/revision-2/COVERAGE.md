@@ -1,0 +1,80 @@
+# Topic 11 — Revision 2 COVERAGE
+
+**Status:** complete for 40 independent original MCQs; zero exact PYQs.
+**Bank lens:** independent stems and independently mixed option positions.
+
+## Sources read
+- Canonical learner-v2 owner: `upsc-ai-kit/knowledge/Economy/11_Land-Reforms-Green-Revolution-and-Cropping-Systems_Learner-V2-Complete-Topic-Package.md` (read completely, including source audit, Basic Learning Session, PYQ control, Optional Advanced Depth and Consolidated Register Notes).
+- Basic owner: `upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` (read completely).
+- Advanced owner: `upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` (read completely).
+- Cross-topic Markdown: `notes/Economy/Ref_RameshSingh_Economy.md`; `notes/Economy/PYQ_Prelims_Economy_2024.md`; `notes/Economy/PYQ_Prelims_Economy_2025.md`; `notes/Economy/PYQ_Prelims_Economy_2026.md`.
+- OCR evidence: `books/Indian economy ramesh singh.pdf (local OCR PDF pp.345-371)`; `books/economic-survey-2025-26.pdf (local OCR PDF pp.284-307)`.
+
+## Coverage ledger
+| Area | Questions |
+|---|---:|
+| Agriculture GVA | 1 |
+| Agro-climate | 1 |
+| Allied growth | 1 |
+| Barga mechanism | 1 |
+| Buyer reliability | 1 |
+| Ceiling trade-off | 1 |
+| Complementarity | 1 |
+| Crop risk | 1 |
+| Crop-season reasoning | 1 |
+| Demand | 1 |
+| Ecological cost | 1 |
+| Extension adaptation | 1 |
+| High-value crops | 1 |
+| Implementation | 1 |
+| Input balance | 1 |
+| Institutional roles | 1 |
+| Investment versus subsidy | 1 |
+| J&K timing | 1 |
+| Kerala comparison | 1 |
+| Kharif pulses | 1 |
+| Leasing reform | 1 |
+| Marketed surplus | 1 |
+| Millet constraint | 1 |
+| NMSA | 1 |
+| Operational size | 1 |
+| Organic versus natural | 1 |
+| PYQ land-reform route | 1 |
+| Path dependence | 1 |
+| Processing | 1 |
+| Procurement and crop choice | 1 |
+| RAD | 1 |
+| Records and credit | 1 |
+| Regional inequality | 1 |
+| Risk cover | 1 |
+| Rural demand | 1 |
+| Scale and mechanisation | 1 |
+| Sector application | 1 |
+| Tenure incentives | 1 |
+| Title versus outcome | 1 |
+| WEF agriculture platform | 1 |
+
+## PYQ and rights/provenance holds
+- Exact UPSC wording/options are not reproduced because documented UPSC reproduction permission is not held.
+- Routed demands covered by original questions: 2018 cropping-pattern/millet emphasis; 2019 Visvesvaraya and Swaminathan; 2020 science in daily life and rice-wheat consequences; 2021 land-reform effects and diversification; 2023 land ceilings and cropping-pattern change; 2024 land-reform success and high-value-crop logic; 2024 sector classification and agricultural platform; 2025 agricultural-income boundary cross-link; 2026 RAD under NMSA.
+- Objective answer letters are not inferred beyond the locally recorded verified key; exact question reproduction remains withheld.
+
+## Dated-fact holds
+- Survey 2025-26 agriculture GVA/crop/allied-sector comparisons carry source/as-of holds (owner generation audit recorded 3 September 2026; local OCR PDF pp.284-307).
+- 2026 RAD under NMSA is based on the official provisional Series-A key recorded for the 24 May 2026 exam; recheck if the key is superseded.
+- 2024/2026 PYQ concept routes are provenance/key/rights-held and are tested here only through independent questions.
+
+## Bank validation
+- `QUESTIONS.md` is answer-free.
+- `ANSWERS.md` maps one-to-one to 40 questions and gives four option-specific rationales plus an examiner trap for every question.
+- Correct-option distribution: A=9, B=10, C=11, D=10.
+
+## Final compliance reconciliation
+
+- Bank: `revision-2`; question count: **40**; rendered-bank fingerprint: `1f2d45b4b91572eb`.
+- This bank is answer-free in `QUESTIONS.md`; all explanations, evidence and holds remain in `ANSWERS.md`.
+- The bank has an independent lens and option wording; exact option-set reuse with the other two revision banks is prohibited and audited.
+- Source/date hold: static claims require the canonical owner and dated/current claims require a fresh official check.
+- PYQ hold: no exact UPSC wording/options are reproduced; only a neutral routed demand is retained.
+- Reconciliation date: 2026-10-04.
+

@@ -132,4 +132,6 @@ COOPERATIVE SOCIETIES
 
 ## Final one-line recall
 
-> Cooperatives need member control with professional accountability, while constitutional reform must respect the Entry 32/Entry 44 divide restored by *Rajendra N. Shah*.
+> Cooperatives need member control with professional accountability, while
+> constitutional reform must respect the Entry 32/Entry 44 divide restored by
+> *Rajendra N. Shah*.

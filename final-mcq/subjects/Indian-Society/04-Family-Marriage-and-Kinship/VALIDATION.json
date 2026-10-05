@@ -1,0 +1,46 @@
+{
+  "topic_key": "indian-society-04",
+  "title": "Family, Marriage and Kinship",
+  "status": "complete_for_original_banks",
+  "revisions": {
+    "revision-1": {
+      "questions": 42,
+      "keys": {
+        "B": 10,
+        "A": 11,
+        "C": 11,
+        "D": 10
+      },
+      "findings": []
+    },
+    "revision-2": {
+      "questions": 42,
+      "keys": {
+        "D": 11,
+        "C": 11,
+        "A": 11,
+        "B": 9
+      },
+      "findings": []
+    },
+    "revision-3": {
+      "questions": 42,
+      "keys": {
+        "D": 9,
+        "A": 11,
+        "C": 11,
+        "B": 11
+      },
+      "findings": []
+    }
+  },
+  "coverage_roots": 42,
+  "pyqs_included": 0,
+  "exact_pyq_status": "held_for_provenance_and_reproduction_rights",
+  "learner_blind_review": "pending",
+  "source_order": [
+    "canonical Markdown owners",
+    "OCR/official GS-I evidence",
+    "official statutory/survey boundaries"
+  ]
+}

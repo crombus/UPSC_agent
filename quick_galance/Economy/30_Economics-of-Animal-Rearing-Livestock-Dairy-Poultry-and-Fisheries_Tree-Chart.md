@@ -119,4 +119,8 @@ ANIMAL AND AQUATIC ECONOMY
     -> qualified verdict: productive, inclusive, value-adding and sustainable
 ```
 
-**Qualified conclusion:** India's allied-sector strategy should integrate feed, preventive health, suitable genetics, finance, infrastructure, fair markets and ecological safeguards. Output records matter, but the decisive tests are net producer margin, lifetime productivity, public health, welfare and sustainable stock.
+**Qualified conclusion:** India's allied-sector strategy should integrate feed,
+preventive health, suitable genetics, finance, infrastructure, fair markets and
+ecological safeguards. Output records matter, but decisive tests are net
+producer margin, lifetime productivity, public health, welfare and sustainable
+stock.

@@ -6,805 +6,414 @@ topic_key: world-history-03
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Estates-General, May 1789?
+### Questions (answer-free; attempt before consulting the key)
 
-A. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-B. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-C. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-D. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
+#### Q1. Why did a fiscal breakdown become a challenge to sovereignty in France in 1789?
 
-**Answer: A.**
-**Explanation:** The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge. The remaining options belong to different chronology, actor or analytical categories.
+A. Calling the Estates-General opened a dispute over whether king or nation's representatives possessed constituent authority.
+B. The king's bankruptcy automatically created equal voting rights for every French adult.
+C. The First Estate's privilege made a representative assembly permanently unnecessary.
+D. Napoleon's 1804 Code ordered the Estates-General to meet in May 1789.
 
-### Q2. Which chronology card should be filed under Estates-General, May 1789?
+#### Q2. Which description correctly distinguishes the three Estates from three equal social classes?
 
-A. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-B. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-C. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-D. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
+A. The king assigned the same political and tax status to all three estates before 1789.
+B. Privileged clergy and nobility comprised the First and Second; the broad and internally varied Third bore major burdens.
+C. Clergy, peasantry and factory workers were three equal fiscal categories with identical exemptions.
+D. The Third Estate consisted only of bankers and excluded peasants entirely.
 
-**Answer: B.**
-**Explanation:** The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge. The remaining options belong to different chronology, actor or analytical categories.
+#### Q3. Which combination best explains the different roles of ideas and bread prices in 1789?
 
-### Q3. Which option preserves the source-bounded meaning of Estates-General, May 1789?
+A. Bread scarcity itself supplied a detailed written programme for a constitutional monarchy.
+B. Class inequality was invented by Napoleon after his 1799 coup.
+C. Enlightenment challenges legitimised opposition; subsistence pressure mobilised crowds against an already unequal fiscal order.
+D. Pamphlets guaranteed that crop failures no longer mattered.
 
-A. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-B. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
+#### Q4. Why did wealthy members of the Third Estate object to a hierarchy from which they might economically benefit?
 
-**Answer: C.**
-**Explanation:** The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge. The remaining options belong to different chronology, actor or analytical categories.
+A. The bourgeoisie universally held noble tax exemptions by birth.
+B. Every member of the Third Estate opposed private property in principle.
+C. France had already established the Napoleonic merit system before the Estates-General met.
+D. Bourgeois wealth did not necessarily bring corresponding legal status, access to office or political power.
 
-### Q4. Which statement avoids a close-option trap about Estates-General, May 1789?
+#### Q5. Put the three different 1789 assertions of revolutionary power in correct sequence.
 
-A. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-B. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-C. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-D. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
+A. National Assembly declared (17 June) → Tennis Court Oath (20 June) → Bastille stormed (14 July).
+B. Bastille stormed (14 July) → Tennis Court Oath (20 June) → National Assembly declared (17 June).
+C. Tennis Court Oath (20 June) → National Assembly declared (17 June) → Bastille stormed (14 July).
+D. Rights Declaration (August) → National Assembly declared (June) → Estates-General meets (May).
 
-**Answer: D.**
-**Explanation:** The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge. The remaining options belong to different chronology, actor or analytical categories.
+#### Q6. What is the political significance of declaring a National Assembly on 17 June?
 
-### Q5. Which statement correctly identifies Three Estates and privilege?
+A. Napoleon founded the republican Directory immediately.
+B. Third Estate representatives claimed to speak for the nation, contesting estate-based and royal authority.
+C. Louis XVI voluntarily transferred full power to the imperial army.
+D. The Jacobins completed the 1793 constitution before the 1789 oath.
 
-A. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-B. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-C. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-D. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
+#### Q7. Why is the Tennis Court Oath more than an anecdote about a locked meeting room?
 
-**Answer: A.**
-**Explanation:** Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation. The remaining options belong to different chronology, actor or analytical categories.
+A. It was a treaty granting independence from France to America.
+B. It promised permanently to exclude peasants from every reform.
+C. It embodied the representatives' resolve to frame a constitution despite royal obstruction.
+D. It ratified the 1804 Civil Code and abolished the emperor.
 
-### Q6. Which chronology card should be filed under Three Estates and privilege?
+#### Q8. Why did the Bastille become a durable symbol despite the number of prisoners not being decisive?
 
-A. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-B. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-C. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-D. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
+A. It was the first election under the constitutional monarchy of 1791.
+B. It legally enacted the 1789 Declaration before that declaration existed.
+C. It was the battlefield where Napoleon's empire fell in 1815.
+D. Its storming demonstrated mass defiance of an emblem of arbitrary royal power.
 
-**Answer: B.**
-**Explanation:** Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation. The remaining options belong to different chronology, actor or analytical categories.
+#### Q9. What did the August 1789 Declaration change, and what did it not accomplish?
 
-### Q7. Which option preserves the source-bounded meaning of Three Estates and privilege?
+A. It proclaimed legal equality and citizenship as public standards without granting all residents equal power at once.
+B. It required immediate abolition of slavery throughout all colonies forever.
+C. It replaced every public institution with a Napoleonic emperor.
+D. It gave all French women universal voting rights from the day of promulgation.
 
-A. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-B. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-C. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-D. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
+#### Q10. Which connection between August 1789 rural reform and citizenship best avoids a purely urban account?
 
-**Answer: C.**
-**Explanation:** Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation. The remaining options belong to different chronology, actor or analytical categories.
+A. Legal equality applied solely to nobility and clergy after the Declaration.
+B. Anti-feudal changes affected peasant obligations while rights language contested hereditary legal privilege.
+C. Peasants sought the restoration of all seigneurial dues as a condition of voting.
+D. Only urban lawyers had any stake in attacks on privilege.
 
-### Q8. Which statement avoids a close-option trap about Three Estates and privilege?
+#### Q11. Which account of the 1791 settlement is most accurate?
 
-A. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-B. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-C. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-D. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
+A. It installed Napoleon as hereditary emperor before the republic.
+B. It permanently settled all religious, fiscal and military crises.
+C. A constitutional monarchy broke old legal absolutism but left substantial political exclusion and instability.
+D. The 1791 constitution formally began the Jacobin Terror.
 
-**Answer: D.**
-**Explanation:** Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation. The remaining options belong to different chronology, actor or analytical categories.
+#### Q12. What explains the shift toward a republic in 1792 rather than a simple repetition of the initial constitutional phase?
 
-### Q9. Which statement correctly identifies Bread and fiscal crisis?
+A. The 1789 Rights Declaration had prohibited any later political change.
+B. The Directory had already imposed a stable multiparty peace in 1792.
+C. The Napoleonic Code required the constitutional monarchy to become a republic.
+D. Monarchical distrust, war and counter-revolutionary pressures hardened politics beyond the 1791 compromise.
 
-A. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-B. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-C. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-D. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
+#### Q13. Which interpretation of the Jacobin Terror is analytically strongest?
 
-**Answer: A.**
-**Explanation:** Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle. The remaining options belong to different chronology, actor or analytical categories.
+A. Wartime danger, fear of counter-revolution and factional/ideological coercion must be weighed together with the victims' cost.
+B. Terror was solely a peaceable experiment in unconstrained individual liberty.
+C. War emergency alone proves every execution was indispensable.
+D. The Terror began when Napoleon signed the 1783 Treaty of Paris.
 
-### Q10. Which chronology card should be filed under Bread and fiscal crisis?
+#### Q14. What apparent tension in the Jacobin phase requires explanation rather than denial?
 
-A. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-B. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-C. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-D. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
+A. The universal male rights of the radical phase automatically included full equality for women.
+B. Wider male political rights and social guarantees coexisted with emergency coercion against opponents.
+C. Jacobin politics prohibited any claim that sovereignty belonged to the people.
+D. The Jacobin constitution was identical in origin and function to the 1804 Code.
 
-**Answer: B.**
-**Explanation:** Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle. The remaining options belong to different chronology, actor or analytical categories.
+#### Q15. Why is 1795–99 best understood as more than a pause between two famous leaders?
 
-### Q11. Which option preserves the source-bounded meaning of Bread and fiscal crisis?
+A. It was the French name for the American Articles of Confederation.
+B. It adopted the Napoleonic Code in 1795 and ended the First World War.
+C. The Directory's instability and retreat from Terror helped shift leverage to the army.
+D. It restored the monarchy while simultaneously drafting the 1789 Declaration.
 
-A. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-B. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-C. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-D. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
+#### Q16. Which sequence best distinguishes Napoleon's assumption of power from subsequent law and defeat?
 
-**Answer: C.**
-**Explanation:** Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle. The remaining options belong to different chronology, actor or analytical categories.
+A. 1804 coup → 1799 Civil Code → 1815 storming of Bastille.
+B. 1815 coup → 1791 empire → 1804 defeat at Waterloo.
+C. 1789 coup → 1792 Civil Code → 1795 Waterloo.
+D. 1799 coup → 1804 Civil Code and empire → 1815 defeat at Waterloo.
 
-### Q12. Which statement avoids a close-option trap about Bread and fiscal crisis?
+#### Q17. How can Napoleon simultaneously preserve and reverse revolutionary achievements?
 
-A. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-B. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-C. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-D. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
+A. He codified legal equality and anti-feudal reform while concentrating power, censoring dissent and ruling as emperor.
+B. He restored every feudal dues regime and maintained unrestricted republican deliberation.
+C. He invented popular sovereignty in 1815 and banned legal codification.
+D. He preserved full political liberty by ending the empire before the 1799 coup.
 
-**Answer: D.**
-**Explanation:** Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle. The remaining options belong to different chronology, actor or analytical categories.
+#### Q18. What does the 1804 Code illustrate about how revolutionary change survived military defeat?
 
-### Q13. Which statement correctly identifies National Assembly, 17 June 1789?
+A. The Code guaranteed women's unrestricted political and marital legal equality.
+B. Codified legal equality and anti-feudal rules could endure beyond Napoleon's own political regime.
+C. Law ceased to matter as soon as a republic was no longer in power.
+D. Napoleon restored compulsory feudal dues to every conquered locality.
 
-A. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-B. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-C. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-D. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
+#### Q19. Why did Napoleon's conquests have a double-edged effect beyond France?
 
-**Answer: A.**
-**Explanation:** The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation. The remaining options belong to different chronology, actor or analytical categories.
+A. Imperial warfare ended all debates about sovereignty across Europe.
+B. Military occupation proved direct democracy was uniform across conquered territories.
+C. They spread some legal and anti-feudal changes, but domination also provoked resistance and intensified national claims.
+D. Conquests reproduced the 1789 French constitution unchanged in every region.
 
-### Q14. Which chronology card should be filed under National Assembly, 17 June 1789?
+#### Q20. Which account respects the different demands of bourgeois, peasant and urban popular groups?
 
-A. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-B. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-C. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-D. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
+A. All three groups demanded identical tax exemptions for the hereditary nobility.
+B. Peasants alone authored the 1804 Code; urban workers controlled the 1789 Estates-General.
+C. Bourgeoisie primarily sought restoration of the Bastille as a prison after 1799.
+D. Bourgeois actors contested status and office; peasants opposed dues; crowds pressed bread and political participation.
 
-**Answer: B.**
-**Explanation:** The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation. The remaining options belong to different chronology, actor or analytical categories.
+#### Q21. Which evidence best qualifies the idea that revolutionary citizenship included women equally?
 
-### Q15. Which option preserves the source-bounded meaning of National Assembly, 17 June 1789?
+A. Women participated in political life, but formal political citizenship remained gender-restricted.
+B. Women's active role proves they received identical suffrage from August 1789.
+C. The 1804 Code widened married women's autonomy without limits.
+D. Women did not participate in any event during the entire revolutionary period.
 
-A. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-B. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-C. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-D. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
+#### Q22. Which sequence most clearly exposes the colonial contradiction of proclaimed universal rights?
 
-**Answer: C.**
-**Explanation:** The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation. The remaining options belong to different chronology, actor or analytical categories.
+A. The 1804 Civil Code itself guaranteed immediate universal freedom for enslaved people.
+B. Revolutionary-period abolition of slavery → Napoleonic reversal → final French abolition in 1848.
+C. Final French abolition in 1789 → permanent absence of slave economies in every colony.
+D. Napoleon reversed abolition in 1762 before the Rights Declaration.
 
-### Q16. Which statement avoids a close-option trap about National Assembly, 17 June 1789?
+#### Q23. Which relation between a citizen and a subject is most relevant to the 2025 PYQ?
 
-A. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-B. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-C. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-D. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
+A. The terms are identical because public rights ended in 1789.
+B. Subjecthood was invented only under nineteenth-century labour law.
+C. A citizen can claim rights against a polity constituted in the nation's name, unlike simple personal subjection to a ruler.
+D. Citizenship means hereditary political rank under a divinely authorised king.
 
-**Answer: D.**
-**Explanation:** The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation. The remaining options belong to different chronology, actor or analytical categories.
+#### Q24. Why does the Revolution's later history complicate a straight line from 1789 to stable democracy?
 
-### Q17. Which statement correctly identifies Tennis Court Oath, 20 June 1789?
+A. Every French institution remained unchanged from 1789 through 1848.
+B. Waterloo permanently erased all legal equality that had been codified.
+C. A single rights declaration prevented later political violence or reversals.
+D. Terror, Napoleon and Restoration interrupted republican institutions while rights and national claims were repeatedly revived.
 
-A. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-B. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-C. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-D. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
+#### Q25. How should the French Revolution's 'enduring relevance' be demonstrated in a contemporary-world essay?
 
-**Answer: A.**
-**Explanation:** The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making. The remaining options belong to different chronology, actor or analytical categories.
+A. Track rights, legal equality, citizenship and popular sovereignty as contested standards, while acknowledging exclusions.
+B. Claim that every government today follows the exact 1791 constitutional structure.
+C. Treat all contemporary Indian institutions as direct copies of Jacobin decrees.
+D. Describe only the number of Bastille prisoners and omit social transformation.
 
-### Q18. Which chronology card should be filed under Tennis Court Oath, 20 June 1789?
+#### Q26. For the cross-owned 2019 GS-I demand, which comparison preserves independent contributions?
 
-A. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-B. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-C. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-D. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
+A. The common rights vocabulary means neither revolution needs separate analysis.
+B. America institutionalised a written federal republic; France dismantled privileged legal status and redefined citizen/nation; both exposed exclusions.
+C. The two revolutions were identical in treatment of feudal peasant burdens.
+D. France's 1789 assembly wrote the American Constitution; America founded the Directory.
 
-**Answer: B.**
-**Explanation:** The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making. The remaining options belong to different chronology, actor or analytical categories.
+#### Q27. Which methodological contrast best captures the shift from reform to revolution?
 
-### Q19. Which option preserves the source-bounded meaning of Tennis Court Oath, 20 June 1789?
+A. Food unrest removed the need for any institutional claim to make a constitution.
+B. The July 1789 Bastille action replaced all fiscal, social and political causes.
+C. Opening the Estates-General to manage finances became revolutionary when assembly, oath and mass action challenged the very source of authority.
+D. The May 1789 meeting immediately enacted the Directory of 1795.
 
-A. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-B. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-C. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-D. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
+### Separate key, elimination and remediation
 
-**Answer: C.**
-**Explanation:** The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making. The remaining options belong to different chronology, actor or analytical categories.
+#### Q1 — A
 
-### Q20. Which statement avoids a close-option trap about Tennis Court Oath, 20 June 1789?
+- **A:** Correct: fiscal emergency supplied the opening, but the representation dispute transformed its meaning.
+- **B:** Financial distress did not itself confer universal political participation.
+- **C:** The meeting became a site of conflict over privilege rather than permanently precluding one.
+- **D:** The later Code cannot summon an earlier assembly.
+- **Trap / remediation:** Explain the move from state insolvency to constituent politics, not bankruptcy alone.
 
-A. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-B. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-C. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-D. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
+#### Q2 — B
 
-**Answer: D.**
-**Explanation:** The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Unequal status and exemption are the point of the system.
+- **B:** Correct: legal status and exemptions, not population equality, structured the old order.
+- **C:** Peasantry and workers were not privileged clerical or noble estates.
+- **D:** The Third Estate included far more than the bourgeoisie.
+- **Trap / remediation:** The Third Estate was numerous yet not socially homogeneous.
 
-### Q21. Which statement correctly identifies Bastille, 14 July 1789?
+#### Q3 — C
 
-A. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-B. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-C. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-D. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
+- **A:** Scarcity could mobilise people without specifying constitutional design.
+- **B:** Old-regime inequality preceded Napoleon's accession.
+- **C:** Correct: distinguish the language of rights from material and popular pressure.
+- **D:** Subsistence pressures intensified rather than vanished amid intellectual debate.
+- **Trap / remediation:** Crisis, ideological grammar and mass agency must be linked without collapsing them.
 
-**Answer: A.**
-**Explanation:** The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count. The remaining options belong to different chronology, actor or analytical categories.
+#### Q4 — D
 
-### Q22. Which chronology card should be filed under Bastille, 14 July 1789?
+- **A:** Exemption by noble status is precisely what bourgeois challengers criticised.
+- **B:** The Third Estate held divergent property interests.
+- **C:** Napoleon's reforms followed the 1789 rupture.
+- **D:** Correct: economic position and legally privileged rank were distinct.
+- **Trap / remediation:** Bourgeois leadership alone cannot explain peasant and urban mobilisation.
 
-A. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-B. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-C. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-D. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
+#### Q5 — A
 
-**Answer: B.**
-**Explanation:** The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: institutional claim and constituent vow preceded a mass political symbol.
+- **B:** July cannot precede either June event.
+- **C:** The constituent oath followed the claim to represent the nation.
+- **D:** August followed the May opening and June assertion.
+- **Trap / remediation:** The June assembly and oath are related but not a single event.
 
-### Q23. Which option preserves the source-bounded meaning of Bastille, 14 July 1789?
+#### Q6 — B
 
-A. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-B. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-C. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-D. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
+- **A:** The Directory is a post-Terror institution, not the initial Assembly.
+- **B:** Correct: the constituent claim shifted legitimacy from rank and ruler toward nation.
+- **C:** An imperial army and Napoleonic government belong to a later setting.
+- **D:** The Jacobin radical phase was later than June 1789.
+- **Trap / remediation:** Do not describe the June move as the immediate abolition of monarchy.
 
-**Answer: C.**
-**Explanation:** The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count. The remaining options belong to different chronology, actor or analytical categories.
+#### Q7 — C
 
-### Q24. Which statement avoids a close-option trap about Bastille, 14 July 1789?
+- **A:** The episode concerned France's own constitution-making.
+- **B:** No such permanent policy follows from the oath.
+- **C:** Correct: the oath asserted an ongoing constituent task.
+- **D:** Napoleonic codification lies fifteen years later.
+- **Trap / remediation:** A constitutional claim need not immediately create a republic.
 
-A. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-B. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-C. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-D. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
+#### Q8 — D
 
-**Answer: D.**
-**Explanation:** The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The Bastille event occurred in 1789, before the 1791 constitution.
+- **B:** The Declaration was adopted later in August 1789.
+- **C:** Waterloo, not the Bastille, marked the 1815 defeat.
+- **D:** Correct: symbolic association and crowd action outweighed a prisoner-count explanation.
+- **Trap / remediation:** Symbolic importance is not evidence that physical prisoner numbers were large.
 
-### Q25. Which statement correctly identifies Rights of Man, August 1789?
+#### Q9 — A
 
-A. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-B. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-C. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-D. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
+- **A:** Correct: rights became claims against privilege; practical inclusion remained contested.
+- **B:** Revolutionary abolition was later reversed under Napoleon.
+- **C:** An emperor arose after the 1799 coup, not under the 1789 declaration.
+- **D:** Women were denied equal political citizenship.
+- **Trap / remediation:** A norm of equality is not evidence of its universal implementation.
 
-**Answer: A.**
-**Explanation:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. The remaining options belong to different chronology, actor or analytical categories.
+#### Q10 — B
 
-### Q26. Which chronology card should be filed under Rights of Man, August 1789?
+- **A:** Proclaimed legal equality undermined privileged estates.
+- **B:** Correct: village burdens make the French revolution socially deeper than an elite constitutional dispute.
+- **C:** Peasant anger focused on dues and other burdens, not their unqualified restoration.
+- **D:** Rural participation is specifically in the source's coalition account.
+- **Trap / remediation:** Do not infer that loss of legal privilege abolished all economic inequality.
 
-A. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-B. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-C. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-D. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
+#### Q11 — C
 
-**Answer: B.**
-**Explanation:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Napoleon's empire was proclaimed in 1804.
+- **B:** Unresolved tensions drove further radicalisation.
+- **C:** Correct: constitutional limitation preceded the later republic and radical phase.
+- **D:** Terror belongs to the 1793–94 Jacobin context.
+- **Trap / remediation:** A limited monarchy was a phase, not the revolution's final state.
 
-### Q27. Which option preserves the source-bounded meaning of Rights of Man, August 1789?
+#### Q12 — D
 
-A. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-B. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-C. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-D. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
+- **A:** The declaration did not freeze institutional politics.
+- **B:** The Directory followed the Terror, from 1795.
+- **C:** The Code of 1804 postdates the republic.
+- **D:** Correct: radicalisation occurred through conflict, not by automatic extension of a text.
+- **Trap / remediation:** Separate the 1791 monarchy from the abolition of monarchy in 1792.
 
-**Answer: C.**
-**Explanation:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. The remaining options belong to different chronology, actor or analytical categories.
+#### Q13 — A
 
-### Q28. Which statement avoids a close-option trap about Rights of Man, August 1789?
+- **A:** Correct: advanced owner calls for both context and coercive cost.
+- **B:** Political repression cannot be described as entirely non-coercive.
+- **C:** Explaining wartime conditions does not justify each coercive act.
+- **D:** The 1783 treaty concerns American independence; Napoleon's phase is later.
+- **Trap / remediation:** Refuse both 'mere madness' and 'necessary without qualification'.
 
-A. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-B. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-C. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-D. The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
+#### Q14 — B
 
-**Answer: D.**
-**Explanation:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Male political rights are not gender-inclusive political citizenship.
+- **B:** Correct: democratic mobilisation and terror could coexist in a contested revolutionary moment.
+- **C:** Their direct-democratic arguments asserted popular sovereignty.
+- **D:** The 1804 imperial civil law belongs to a different phase.
+- **Trap / remediation:** A stated constitutional right does not prove uninterrupted or universal implementation.
 
-### Q29. Which statement correctly identifies Constitutional monarchy, 1791?
+#### Q15 — C
 
-A. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-B. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-C. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-D. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
+- **A:** It was a French post-Terror regime, not an American confederal arrangement.
+- **B:** The Code is dated 1804; the First World War is later still.
+- **C:** Correct: the institutional weakness helps explain the 1799 military-political transition.
+- **D:** The rights declaration is earlier and the Directory was republican.
+- **Trap / remediation:** Avoid treating Napoleon's rise as inevitable from 1789.
 
-**Answer: A.**
-**Explanation:** The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts. The remaining options belong to different chronology, actor or analytical categories.
+#### Q16 — D
 
-### Q30. Which chronology card should be filed under Constitutional monarchy, 1791?
+- **A:** The coup precedes the Code, while the Bastille event is in 1789.
+- **B:** Waterloo concluded, not initiated, the Napoleonic episode.
+- **C:** All three proposed dates conflict with the basic timeline.
+- **D:** Correct: distinct seizure, codification/imperial title and military end.
+- **Trap / remediation:** Do not date the 1804 Code to the 1790s.
 
-A. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-B. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-C. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-D. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
+#### Q17 — A
 
-**Answer: B.**
-**Explanation:** The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: distinguish social/legal settlement from republican political forms.
+- **B:** Both asserted changes run against the source's balanced ledger.
+- **C:** Popular-sovereignty claims predate Napoleon; Waterloo came later.
+- **D:** The sequence and claim about political liberty are reversed.
+- **Trap / remediation:** A 'heir' in law could be a 'gravedigger' of republican government.
 
-### Q31. Which option preserves the source-bounded meaning of Constitutional monarchy, 1791?
+#### Q18 — B
 
-A. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-B. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-C. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-D. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
+- **A:** Married women's position was narrowed under Napoleonic law.
+- **B:** Correct: transmission through law differs from uninterrupted revolutionary rule.
+- **C:** Old NCERT stresses revolutionary legal gains that survived.
+- **D:** The owner's account identifies continued anti-feudal change.
+- **Trap / remediation:** Legal equality in some domains does not entail gender equality.
 
-**Answer: C.**
-**Explanation:** The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts. The remaining options belong to different chronology, actor or analytical categories.
+#### Q19 — C
 
-### Q32. Which statement avoids a close-option trap about Constitutional monarchy, 1791?
+- **A:** Questions of sovereignty were inflamed, not permanently settled.
+- **B:** Imperial rule is not evidence of democratic self-rule everywhere.
+- **C:** Correct: diffusion of reforms under empire coexisted with coercion and resistance.
+- **D:** Political institutions were not copied without change or imposed uniformly.
+- **Trap / remediation:** Diffusion is not synonymous with voluntary adoption.
 
-A. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-B. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-C. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-D. The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
+#### Q20 — D
 
-**Answer: D.**
-**Explanation:** The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** A pro-noble restoration was not their shared programme.
+- **B:** Neither exclusive attribution accords with the documented phases and actors.
+- **C:** That proposal cannot describe bourgeois institutional grievances.
+- **D:** Correct: overlapping anti-privilege politics did not make class interests identical.
+- **Trap / remediation:** A multi-class coalition can split once goals diverge.
 
-### Q33. Which statement correctly identifies Republic, 1792?
+#### Q21 — A
 
-A. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-B. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-C. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-D. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
+- **A:** Correct: NCERT separates female agency from political inclusion.
+- **B:** Participation does not automatically confer an equal vote.
+- **C:** Napoleonic law narrowed rather than guaranteed marital legal equality.
+- **D:** The categorical denial of women's participation contradicts NCERT.
+- **Trap / remediation:** Ask separately who mobilised and who acquired legal-political rights.
 
-**Answer: A.**
-**Explanation:** The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution. The remaining options belong to different chronology, actor or analytical categories.
+#### Q22 — B
 
-### Q34. Which chronology card should be filed under Republic, 1792?
+- **A:** The Napoleonic phase did not universally end colonial enslavement.
+- **B:** Correct: reversals show why 1789 ideals were not permanently universal in practice.
+- **C:** Final abolition is dated 1848 in the owner.
+- **D:** Napoleon's reversal cannot precede the revolution by decades.
+- **Trap / remediation:** Revolutionary abolition and lasting abolition are distinct outcomes.
 
-A. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-B. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-C. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-D. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
+#### Q23 — C
 
-**Answer: B.**
-**Explanation:** The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The Declaration articulated rather than extinguished rights claims.
+- **B:** Personal subjection to monarchy predates the nineteenth century.
+- **C:** Correct: the revolution reframed legitimacy through nation and rights.
+- **D:** Hereditary rank is a feature of the privileged old order.
+- **Trap / remediation:** The distinction is a claim about political legitimacy, not universal inclusion already achieved.
 
-### Q35. Which option preserves the source-bounded meaning of Republic, 1792?
+#### Q24 — D
 
-A. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-B. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-C. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-D. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
+- **A:** The phase timeline alone refutes an unchanged institutional path.
+- **B:** Old NCERT records the persistence of many anti-feudal gains.
+- **C:** Terror and empire refute such an automatic safeguard.
+- **D:** Correct: ideas survived through contestation rather than uninterrupted governance.
+- **Trap / remediation:** Enduring principle is not enduring institutional continuity.
 
-**Answer: C.**
-**Explanation:** The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution. The remaining options belong to different chronology, actor or analytical categories.
+#### Q25 — A
 
-### Q36. Which statement avoids a close-option trap about Republic, 1792?
+- **A:** Correct: the verified 2025 demand concerns principles and their contested legacy.
+- **B:** Later polities do not mechanically preserve the 1791 arrangement.
+- **C:** No such direct transmission is documented by the owner.
+- **D:** The Bastille's symbolic role does not answer relevance of rights and citizenship.
+- **Trap / remediation:** Do not turn analogical India links into undocumented causal chains.
 
-A. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-B. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-C. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-D. The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
+#### Q26 — B
 
-**Answer: D.**
-**Explanation:** The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The PYQ names both and asks for contributions to modern foundations.
+- **B:** Correct: distinguish exportable constitutional method and social/legal reconstruction.
+- **C:** French seigneurial hierarchy had no exact colonial American equivalent.
+- **D:** Documents and regimes belong to different national histories.
+- **Trap / remediation:** Cross-cutting evidence must not collapse distinct transformations.
 
-### Q37. Which statement correctly identifies Jacobins and Terror, 1793-94?
+#### Q27 — C
 
-A. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-B. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-C. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-D. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-
-**Answer: A.**
-**Explanation:** The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Jacobins and Terror, 1793-94?
-
-A. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-B. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-C. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-D. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-
-**Answer: B.**
-**Explanation:** The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Jacobins and Terror, 1793-94?
-
-A. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-B. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-C. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-D. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-
-**Answer: C.**
-**Explanation:** The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Jacobins and Terror, 1793-94?
-
-A. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-B. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-C. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-D. The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-
-**Answer: D.**
-**Explanation:** The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Jacobin social constitution?
-
-A. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-B. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-C. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-D. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-
-**Answer: A.**
-**Explanation:** The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Jacobin social constitution?
-
-A. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-B. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-C. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-D. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-
-**Answer: B.**
-**Explanation:** The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Jacobin social constitution?
-
-A. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-B. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-C. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-D. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-
-**Answer: C.**
-**Explanation:** The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Jacobin social constitution?
-
-A. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-B. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-C. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-D. The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-
-**Answer: D.**
-**Explanation:** The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Directory, 1795-99?
-
-A. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-B. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-C. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-D. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-
-**Answer: A.**
-**Explanation:** The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Directory, 1795-99?
-
-A. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-B. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-C. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-D. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-
-**Answer: B.**
-**Explanation:** The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Directory, 1795-99?
-
-A. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-B. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-C. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-D. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-
-**Answer: C.**
-**Explanation:** The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Directory, 1795-99?
-
-A. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-B. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-C. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-D. The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-
-**Answer: D.**
-**Explanation:** The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Napoleon's coup, 1799?
-
-A. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-B. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-C. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-D. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-
-**Answer: A.**
-**Explanation:** Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Napoleon's coup, 1799?
-
-A. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-B. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-C. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-D. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-
-**Answer: B.**
-**Explanation:** Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Napoleon's coup, 1799?
-
-A. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-B. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-C. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-D. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-
-**Answer: C.**
-**Explanation:** Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Napoleon's coup, 1799?
-
-A. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-B. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-C. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-D. Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-
-**Answer: D.**
-**Explanation:** Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Napoleonic Code, 1804?
-
-A. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-B. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-C. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-D. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-
-**Answer: A.**
-**Explanation:** The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Napoleonic Code, 1804?
-
-A. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-B. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-C. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-D. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-
-**Answer: B.**
-**Explanation:** The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Napoleonic Code, 1804?
-
-A. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-B. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-C. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-D. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-
-**Answer: C.**
-**Explanation:** The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Napoleonic Code, 1804?
-
-A. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-B. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-C. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-D. The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-
-**Answer: D.**
-**Explanation:** The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Waterloo, 1815?
-
-A. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-B. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-C. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-D. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-
-**Answer: A.**
-**Explanation:** Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Waterloo, 1815?
-
-A. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-B. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-C. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-D. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-
-**Answer: B.**
-**Explanation:** Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Waterloo, 1815?
-
-A. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-B. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-C. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-D. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-
-**Answer: C.**
-**Explanation:** Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Waterloo, 1815?
-
-A. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-B. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-
-**Answer: D.**
-**Explanation:** Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Bourgeois, peasant and crowd roles?
-
-A. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-B. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-C. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-D. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-
-**Answer: A.**
-**Explanation:** Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Bourgeois, peasant and crowd roles?
-
-A. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-B. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-C. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-D. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-
-**Answer: B.**
-**Explanation:** Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Bourgeois, peasant and crowd roles?
-
-A. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-B. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-C. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-D. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-
-**Answer: C.**
-**Explanation:** Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Bourgeois, peasant and crowd roles?
-
-A. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-B. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-
-**Answer: D.**
-**Explanation:** Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Women and revolutionary citizenship?
-
-A. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-B. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-C. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-D. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-
-**Answer: A.**
-**Explanation:** Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Women and revolutionary citizenship?
-
-A. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-B. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-C. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-D. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-
-**Answer: B.**
-**Explanation:** Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Women and revolutionary citizenship?
-
-A. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-B. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-C. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-D. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-
-**Answer: C.**
-**Explanation:** Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Women and revolutionary citizenship?
-
-A. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-B. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-
-**Answer: D.**
-**Explanation:** Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Slavery contradiction?
-
-A. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-B. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-
-**Answer: A.**
-**Explanation:** Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Slavery contradiction?
-
-A. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-B. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-C. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-D. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-
-**Answer: B.**
-**Explanation:** Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Slavery contradiction?
-
-A. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-B. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-C. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-D. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-
-**Answer: C.**
-**Explanation:** Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Slavery contradiction?
-
-A. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-B. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-C. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-D. Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-
-**Answer: D.**
-**Explanation:** Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Nation and popular sovereignty?
-
-A. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-B. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-
-**Answer: A.**
-**Explanation:** The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Nation and popular sovereignty?
-
-A. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-B. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-
-**Answer: B.**
-**Explanation:** The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Nation and popular sovereignty?
-
-A. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-B. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-C. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-D. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-
-**Answer: C.**
-**Explanation:** The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Nation and popular sovereignty?
-
-A. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-B. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-C. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-D. The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
-
-**Answer: D.**
-**Explanation:** The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Napoleon: heir and gravedigger?
-
-A. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-B. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-C. The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-D. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-
-**Answer: A.**
-**Explanation:** Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Napoleon: heir and gravedigger?
-
-A. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-B. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-C. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-D. Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-
-**Answer: B.**
-**Explanation:** Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Napoleon: heir and gravedigger?
-
-A. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-B. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-C. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-D. Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-
-**Answer: C.**
-**Explanation:** Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Napoleon: heir and gravedigger?
-
-A. The storming of the Bastille on 14 July 1789 became a mass symbol of the fall of autocratic authority; its symbolic value exceeded the prisoner count.
-B. The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-C. The Tennis Court Oath of 20 June 1789 committed the deputies to constitution-making.
-D. Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
-
-**Answer: D.**
-**Explanation:** Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Institutional action and popular action interacted rather than substituting for one another.
+- **B:** One event is not sufficient to explain the revolution's multiple causes.
+- **C:** Correct: escalating constitutional and popular claims transformed a state-crisis response.
+- **D:** The Directory was established years after the Estates-General.
+- **Trap / remediation:** Date sequences matter because distinct social actors changed what revolution meant.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -848,300 +457,115 @@ D. Napoleon stabilised the social revolution and exported anti-feudal law while 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
-### PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks
+### PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks · 250 words
 
-**Demand:** Explain how the American and French Revolutions contributed to the foundations of the modern world.
+**Verified demand (neutral rendering):** Explain how the American and French Revolutions contributed to the foundations of the modern world.
 
-**Status:** Verified neutral demand; cross-cutting with Topic 02.
+**Source status:** The local official-paper routing ledger `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` routes GS-I 2019 Q13 to both topics; this is a neutral demand, not a claimed verbatim transcription. There is no official model answer or objective answer key. Cross-owned by World History Topics 02 and 03.
 
-**Model solution:** America made a rights-based colonial break durable through a written federal republic and entrenched liberties. France went further inside society: it attacked estate privilege, feudal burdens and dynastic sovereignty, and made citizen and nation the core political categories. Both revolutions therefore shifted legitimacy toward rights and popular authority. Their exclusions matter: slavery, gender inequality and restricted participation show that modern principles emerged before universal membership.
+**Demand route:** Explain distinct institutional contributions, connect each to its mechanism and wider influence, then qualify exclusions and different social depth. Do not write two unconnected chronologies.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+**Model answer (original, approximately 230 words):** The Atlantic revolutions made inherited political authority contestable, but they laid different foundations of the modern world. The American colonies' dispute with Britain began over imperial controls and taxes without representation after the Seven Years' War. The Declaration of Independence (1776) converted protest into a rights-based claim to separate statehood. Victory at Saratoga helped bring France into the war; Yorktown (1781) supplied a decisive military surrender, and the Treaty of Paris (1783) brought British recognition. The later federal Constitution, in force in 1789, showed how a republic could bind the national government through a written allocation of powers; the Bill of Rights subsequently protected specified liberties. Thus America contributed a durable constitutional *method*, although slavery survived and women and Native Americans did not receive equal political standing.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
+France transformed not just a relationship to an external ruler but a society ordered by hereditary privilege. The Third Estate's National Assembly in June 1789 asserted constituent power; the August Rights Declaration proclaimed legal equality and citizenship. Peasant action against feudal burdens and urban mobilisation gave those claims a deeper social dimension. The republic's radical phase, the Terror and Napoleon's later empire demonstrate that popular sovereignty did not ensure uninterrupted liberty. Yet the 1804 Civil Code preserved parts of the anti-feudal legal settlement. Together, the revolutions supplied portable languages of rights and political legitimacy. Their uneven membership also left later generations to contest who counted as a citizen.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-I · 15 marks”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** America made a rights-based colonial break durable through a written federal republic and entrenched liberties. France went further inside society: it attacked estate privilege, feudal burdens and dynastic sovereignty, and made citizen and nation the core political categories. Both revolutions therefore shifted legitimacy toward rights and popular authority. Their exclusions matter: slavery, gender inequality and restricted participation show that modern principles emerged before universal membership.
-
-**Qualification:** Treat the stated causal weight as bounded by the question's period, geography and evidence status; do not convert it into inevitability or a universal civilisational claim.
+**Remediation:** If your answer says both revolutions were equally socially radical, contrast French seigneurial dues with the American imperial break. If it equates a declaration with a constitution or treaty, restore the 1776 / 1783 / 1789 sequence. Never equate influence with proof of direct institutional copying.
 
 ### PYQ DEMAND CARD 2 — 2025 GS-I · 15 marks · 250 words
 
-**Demand:** The French Revolution has enduring relevance to the contemporary world. Explain.
+**Verified wording:** “The French Revolution has enduring relevance to the contemporary world. Explain. (Answer in 250 words)”
 
-**Status:** Exact wording verified in the local owner.
+**Source status:** The question is reproduced in `advanced/03_French-Revolution-and-Napoleon.md` from the local audited official-paper routing ledger `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`; GS-I 2025 Q13, owned by Topic 03. The response below is an original model, not an official answer.
 
-**Model solution:** Its enduring relevance lies in standards rather than unchanged institutions. The Rights of Man made legal equality and public rights tests of authority; the National Assembly and republic made popular sovereignty and citizenship central; anti-clerical reform strengthened secular public authority; and the modern nation shaped later nationalism. Yet women lacked equal political citizenship, workers lacked economic equality and colonial slavery exposed the limits of universalism. Napoleon preserved legal reform while ending republican liberty. Thus 1789 remains relevant both for its universal claims and for the critique generated by their exclusionary application.
+**Demand route:** Explain what survived as a standard of legitimacy, show the route of transmission, and explicitly test the limits of its purported universality. Do not claim modern institutions are unchanged since 1789.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2025 GS-I · 15 marks · 250 words”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+**Model answer (original, approximately 220 words):** The French Revolution remains relevant less because its institutions endured unchanged than because it recast the grounds on which political power can be justified. In June 1789 the Third Estate declared itself the National Assembly and pledged to make a constitution: sovereignty was being claimed in the nation's name rather than inherited through the king. The August Declaration of the Rights of Man and Citizen made legal equality and citizenship public standards against which arbitrary privilege could be judged. Anti-feudal changes affected the peasantry, while the revolution's new symbols and forms of address gave political belonging a social dimension. Later constitutional and national movements could draw on this language without simply reproducing France's path.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
+Its legacy was nevertheless non-linear. War, factional conflict and fear of counter-revolution fed the Jacobin Terror: an appeal to popular sovereignty could accompany coercion. Napoleon's 1804 Civil Code carried elements of legal equality and anti-feudal reform forward, even as his empire, censorship and conquest curtailed republican politics. Women active in the revolution did not obtain equal political citizenship; workers' political voice did not deliver economic equality. Slavery was abolished in the revolutionary period but reversed under Napoleon; final French abolition came in 1848.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
+Today, claims about rights, citizens and nations remain powerful partly because these exclusions invite criticism from within the revolution's own universal language. Its enduring relevance is therefore a contested standard, not a claim that 1789 instantly produced inclusive democracy.
 
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
+**Remediation:** Replace '1789 gave everyone the vote' with the actual restricted and changing franchise; replace 'abolition was permanent' with reversal and 1848; contrast Napoleonic legal continuity with lost republican liberties. India is a comparison in rights vocabulary, not proof of direct transmission.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2025 GS-I · 15 marks · 250 words”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Its enduring relevance lies in standards rather than unchanged institutions. The Rights of Man made legal equality and public rights tests of authority; the National Assembly and republic made popular sovereignty and citizenship central; anti-clerical reform strengthened secular public authority; and the modern nation shaped later nationalism. Yet women lacked equal political citizenship, workers lacked economic equality and colonial slavery exposed the limits of universalism. Napoleon preserved legal reform while ending republican liberty. Thus 1789 remains relevant both for its universal claims and for the critique generated by their exclusionary application.
-
-**Qualification:** Treat the stated causal weight as bounded by the question's period, geography and evidence status; do not convert it into inevitability or a universal civilisational claim.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Why did the fiscal crisis become a social revolution in France? Answer in about 150 words.
 
-**Model thesis:** Fiscal breakdown opened the political arena, but legal privilege, subsistence stress, Enlightenment legitimacy and multi-class mobilisation determined the Revolution's depth.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Fiscal collapse opened a constitutional dispute, but Old Regime privilege gave it revolutionary reach.
 
-- The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge.
-- Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-- Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-- Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
+Facing bankruptcy, the crown summoned the Estates-General in May 1789. Clergy and nobility enjoyed exemptions, land and office; the Third Estate, roughly ninety-five per cent of the population in old NCERT, bore taxes without comparable power. Bad harvests and bread stress spread discontent beyond elite demands for fiscal reform. The Third Estate proclaimed itself the National Assembly on 17 June, relocating constitution-making from king to nation. Enlightenment attacks on privilege gave this shift a language of rights.
 
-**Qualified conclusion:** Fiscal breakdown opened the political arena, but legal privilege, subsistence stress, Enlightenment legitimacy and multi-class mobilisation determined the Revolution's depth.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the fiscal crisis become a social revolution in France? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did the fiscal crisis become a social revolution in France? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Fiscal breakdown opened the political arena, but legal privilege, subsistence stress, Enlightenment legitimacy and multi-class mobilisation determined the Revolution's depth.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The financially troubled monarchy summoned the Estates-General in May 1789, opening the old regime to a constitutional challenge. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Fiscal breakdown opened the political arena, but legal privilege, subsistence stress, Enlightenment legitimacy and multi-class mobilisation determined the Revolution's depth.
+Beyond bourgeois leadership, peasants challenged feudal dues, while Parisian workers, artisans and crowds sustained street pressure. The Bastille's storming on 14 July made the collapse of royal authority visible far beyond the Estates-General. Their aims differed; bread riots alone supplied no republican programme. Nonetheless, fiscal breakdown exposed inequality, and multi-class mobilisation turned a revenue crisis into an assault on privilege.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Explain the significance of the Declaration of the Rights of Man and Citizen. Answer in about 150 words.
 
-**Model thesis:** The Declaration made rights, citizenship and equality before law standards of legitimate authority while leaving suffrage and social inclusion incomplete.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The August 1789 Declaration of the Rights of Man and Citizen made legal equality, rights and citizenship public tests of authority, challenging inherited privilege.
 
-- The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-- Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-- Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
+After the Third Estate formed the National Assembly and pledged a constitution, the Declaration supplied a basis for replacing royal subjects with citizens. It rejected estate-based distinctions and challenged noble and clerical privilege. Peasant attacks on dues and anti-feudal measures showed why rights could become socially consequential. Popular sovereignty and nationhood informed later constitutional movements; the Declaration itself was not a constitution.
 
-**Qualified conclusion:** The Declaration made rights, citizenship and equality before law standards of legitimate authority while leaving suffrage and social inclusion incomplete.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the significance of the Declaration of the Rights of Man and Citizen. Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain the significance of the Declaration of the Rights of Man and Citizen. Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The Declaration made rights, citizenship and equality before law standards of legitimate authority while leaving suffrage and social inclusion incomplete.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** The Declaration made rights, citizenship and equality before law standards of legitimate authority while leaving suffrage and social inclusion incomplete.
+The Declaration granted neither universal suffrage nor equal political citizenship to women active in the Revolution. Workers gained political voice without economic equality. In France's colonies, revolutionary abolition of slavery was reversed by Napoleon; final abolition came in 1848. Its enduring significance lies in the legal standard against which these exclusions could be judged.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Trace the major phases of the French Revolution and explain why each gave way to the next. Answer in about 250 words.
 
-**Model thesis:** Unresolved crisis carried constitutional monarchy into republic and Terror; coercive fatigue produced the Directory, whose instability empowered Napoleon.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The Revolution moved from constitutional reform to republic, emergency coercion and military-backed consolidation because each settlement left conflicts unresolved. Its phases are therefore a sequence of political responses to continuing crisis, not separate revolutions without connection.
 
-- The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-- The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts.
-- The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution.
-- The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-- The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army.
-- Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
+Facing fiscal bankruptcy, Louis XVI called the Estates-General in May 1789. On 17 June the Third Estate declared itself the National Assembly; the Tennis Court Oath of 20 June demanded a constitution. The Bastille's fall on 14 July and the August Rights Declaration showed mass pressure pushing beyond court-led reform. The 1791 constitutional monarchy broke old legal privilege but failed to settle fiscal, religious and sovereignty disputes.
 
-**Qualified conclusion:** Unresolved crisis carried constitutional monarchy into republic and Terror; coercive fatigue produced the Directory, whose instability empowered Napoleon.
+War and popular mobilisation then drove the abolition of monarchy and the republic in 1792. Under the Jacobins, threats of invasion and counter-revolution met demands from the Paris crowd for a wider political voice and subsistence protection. The Terror of 1793–94 joined emergency defence to factional repression; old NCERT reports about seventeen thousand tried and executed in fourteen months. This was neither merely inexplicable violence nor a cost-free defence of rights.
 
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the major phases of the French Revolution and explain why each gave way to the next.…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Trace the major phases of the French Revolution and explain why each gave way to the next.…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Unresolved crisis carried constitutional monarchy into republic and Terror; coercive fatigue produced the Directory, whose instability empowered Napoleon.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The 1791 constitutional-monarchy phase legally broke the old regime but did not resolve fiscal, religious, war or sovereignty conflicts. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The monarchy was abolished and a republic declared in 1792 as war and popular mobilisation radicalised the Revolution. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The Directory represented a propertied retreat from Terror, but instability and war shifted political weight toward the army. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Unresolved crisis carried constitutional monarchy into republic and Terror; coercive fatigue produced the Directory, whose instability empowered Napoleon.
+A propertied retreat from such coercion produced the Directory in 1795, but war and unstable civilian rule elevated the army. Napoleon's 1799 coup promised order and preserved important anti-feudal changes while curtailing republican sovereignty. His empire and 1804 Civil Code institutionalised the tension between legal equality and concentrated power. The chronology shows why reforms, war emergency, coercive fatigue and military strength successively altered who could claim to govern France.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** The French Revolution remains relevant through its principles and its exclusions. Explain. Answer in about 250 words.
 
-**Model thesis:** Rights, citizenship, popular sovereignty, secular authority and nationhood remain political standards, while women, workers and colonial subjects reveal their contested boundaries.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The French Revolution remains relevant because rights, citizenship, the nation and popular sovereignty became standards against which power could be judged. Its exclusions are equally instructive: they exposed the distance between a universal claim and the people actually admitted to political life.
 
-- The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-- The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood.
-- Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights.
-- Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848.
-- The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
+When the Third Estate proclaimed itself the National Assembly on 17 June 1789, constitution-making was asserted in the nation's name, not simply granted by a king. The August Declaration of the Rights of Man and Citizen opposed inherited legal privilege with equality before law. Attacks on clerical authority raised the question of secular public legitimacy. Anti-feudal action and new symbols and forms of address gave citizenship consequences beyond constitutional text. Later constitutional and national movements drew on this language without reproducing an unchanged French institutional design.
 
-**Qualified conclusion:** Rights, citizenship, popular sovereignty, secular authority and nationhood remain political standards, while women, workers and colonial subjects reveal their contested boundaries.
+The promise remained contested even in revolutionary France. Jacobin constitutional claims extended male political rights and invoked insurrection and public responsibility for work or livelihood, yet the Terror of 1793–94 joined popular sovereignty to coercion. Women active in the upheaval lacked equal political citizenship; workers' political voice did not abolish economic inequality. In the colonies, abolition of slavery during the revolution was reversed under Napoleon, with final French abolition only in 1848. Napoleon's 1804 Code preserved legal equality and anti-feudal gains while his empire curtailed republican liberty.
 
-**Demand decoding:** The directive **explain** requires a direct position on “The French Revolution remains relevant through its principles and its exclusions. Explain.…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “The French Revolution remains relevant through its principles and its exclusions. Explain.…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Rights, citizenship, popular sovereignty, secular authority and nationhood remain political standards, while women, workers and colonial subjects reveal their contested boundaries.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Jacobin constitutional vision included universal male political rights, a right of insurrection and a public duty to provide work or livelihood. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Women participated centrally in revolutionary action but were denied equal political citizenship, exposing the boundary of proclaimed universal rights. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Revolutionary France abolished slavery in its colonies, Napoleon later reversed abolition, and final French abolition came in 1848. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Rights, citizenship, popular sovereignty, secular authority and nationhood remain political standards, while women, workers and colonial subjects reveal their contested boundaries.
+The Revolution's relevance thus lies neither in uninterrupted democratic progress nor in an empty slogan. Its principles enabled later challenges to arbitrary rule, while its gendered, class and colonial boundaries made those very principles tools of criticism.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Was Napoleon the heir or the betrayer of the French Revolution? Answer in about 300 words.
 
-**Model thesis:** He was heir to legal equality, merit and anti-feudal reform but betrayer of republican sovereignty through empire, censorship and conquest.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Napoleon was both heir and betrayer, depending on which revolution is being measured. He consolidated an anti-feudal legal settlement while replacing popular republican government with personal, military and imperial authority.
 
-- Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France.
-- The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor.
-- Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France.
-- Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest.
+The Revolution began by rejecting the Old Regime's hereditary privileges: the National Assembly in 1789 claimed the right to make a constitution, the August Rights Declaration proclaimed legal equality, and peasant pressure attacked feudal dues. The 1791 monarchy, republic of 1792, Jacobin emergency and Directory left France politically unstable amid war. Napoleon's coup of 1799 drew power from this exhaustion and the army's rise; it was not a return to the pre-revolutionary dynasty.
 
-**Qualified conclusion:** He was heir to legal equality, merit and anti-feudal reform but betrayer of republican sovereignty through empire, censorship and conquest.
+As **heir**, Napoleon preserved the cancellation of many feudal laws. The Civil Code of 1804 gave legal rationalisation and equality before law a durable administrative form, while careers open to talent and anti-feudal reforms extended elements of the revolutionary settlement into conquered territories. A legal order built around common civil rules survived the regime that proclaimed it. This explains why even Napoleon's defeat at Waterloo in 1815 could not simply restore every institution and social relation of the Old Regime.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Was Napoleon the heir or the betrayer of the French Revolution? Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+As **betrayer**, his imperial coronation in 1804 replaced a republic with an emperor. Censorship, concentration of executive power and wars of conquest were hard to reconcile with popular sovereignty and political liberty. Exported reforms arrived alongside subjection by French armies, not merely as freely chosen emancipation. His colonial policy also reversed revolutionary abolition of slavery, and the Code restricted married women's position: equality was selective, not universal.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Was Napoleon the heir or the betrayer of the French Revolution? Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** He was heir to legal equality, merit and anti-feudal reform but betrayer of republican sovereignty through empire, censorship and conquest.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Napoleon's coup in 1799 began an authoritarian consolidation of revolutionary France. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Napoleonic Code of 1804 preserved legal rationalisation, equality before law and anti-feudal reform while Napoleon concentrated power as emperor. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Napoleon's defeat at Waterloo in 1815 ended the imperial phase but did not restore the full legal and social order of pre-1789 France. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Napoleon stabilised the social revolution and exported anti-feudal law while ending republican liberty through empire, censorship and conquest. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** He was heir to legal equality, merit and anti-feudal reform but betrayer of republican sovereignty through empire, censorship and conquest.
+Calling him only a counter-revolutionary ignores his preservation of anti-feudal law; calling him only its fulfiller excuses the loss of republican liberty. Napoleon stabilised the Revolution's social and legal gains but curtailed its political experiment. The split verdict is the historical point: forms of equality can persist under government no longer accountable to the people.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Why did the French Revolution become the classic model of modern revolution? Answer in about 300 words.
 
-**Model thesis:** It fused ideological delegitimation, state crisis and mass multi-class mobilisation, destroyed legal privilege and made nation, citizen and popular sovereignty the grammar of modern politics.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The French Revolution became a model by joining state crisis, destruction of privilege, mass participation and the nation's claim to refound authority—not by furnishing institutions for exact copying.
 
-- Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation.
-- Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle.
-- The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation.
-- The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage.
-- The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months.
-- Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation.
-- The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism.
+The Old Regime's First and Second Estates held fiscal exemptions and privileged office while the Third Estate, around ninety-five per cent of the population in old NCERT, carried a disproportionate burden. Bankruptcy and bread stress forced the Estates-General's summons in May 1789. Enlightenment critiques made grievances claims of right, but did not supply the crowds. Bourgeois leadership brought constitutional demands; peasants attacked seigneurial dues; workers, artisans and Parisian crowds pressed further.
 
-**Qualified conclusion:** It fused ideological delegitimation, state crisis and mass multi-class mobilisation, destroyed legal privilege and made nation, citizen and popular sovereignty the grammar of modern politics.
+On 17 June 1789 the Third Estate proclaimed a National Assembly; the Tennis Court Oath demanded a constitution, and the Bastille's storming on 14 July brought popular force to that claim. The August Rights Declaration opposed privilege with legal equality and citizenship. Unlike America's break with external imperial government, France confronted an internal hierarchy reaching into village dues, clerical privilege and political status. The monarchy's abolition and republic in 1792, then Jacobin mobilisation and Terror under war and counter-revolution, showed both the power and danger of claiming to act for the people. Old NCERT reports about seventeen thousand tried and executed in fourteen months; revolutionary defence cannot erase that coercive cost.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the French Revolution become the classic model of modern revolution? Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did the French Revolution become the classic model of modern revolution? Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** It fused ideological delegitimation, state crisis and mass multi-class mobilisation, destroyed legal privilege and made nation, citizen and popular sovereignty the grammar of modern politics.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Clergy and nobility held legal and fiscal privileges, while the Third Estate formed about ninety-five per cent of the population in old NCERT and bore exclusion and taxation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Monarchical bankruptcy, tax inequality, bad harvests and bread stress supplied the immediate crisis that Enlightenment ideas translated into a legitimacy struggle. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Third Estate declared itself the National Assembly on 17 June 1789, shifting constituent authority from king and estate to nation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Declaration of the Rights of Man and Citizen proclaimed rights, citizenship and equality before law while not granting immediate universal suffrage. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The Jacobin phase joined direct-democratic claims and emergency national defence to coercive Terror; old NCERT reports about seventeen thousand tried and executed in fourteen months. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Bourgeois leadership drove institutional rupture, peasants attacked feudal burdens, and workers, artisans and the Paris crowd pushed radicalisation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** The Revolution gave the nation a modern political meaning and relocated sovereignty in the people, influencing later nationalism and constitutionalism. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It fused ideological delegitimation, state crisis and mass multi-class mobilisation, destroyed legal privilege and made nation, citizen and popular sovereignty the grammar of modern politics.
+The Directory's weakness enabled Napoleon's 1799 coup. His 1804 Code kept anti-feudal equality while empire and censorship ended republican liberty; Waterloo in 1815 could not undo all reforms. The nation became a political claim, shaping later nationalism without causing every later revolt. Women, colonial subjects and workers remained excluded from full equality. The classic model is a contested process—crisis, rupture, mobilisation and institutional afterlife—not a straight march to democracy.

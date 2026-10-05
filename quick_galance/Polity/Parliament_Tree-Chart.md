@@ -1,6 +1,7 @@
 # Polity 17 — Parliament — Self-Contained Quick-Glance Tree
 
-> Stable sequence: core concept -> origin/timeline -> decoded constitutional spine -> mechanisms -> amendments/cases/institutions -> traps -> answer spine. Every retained Article is decoded.
+> Stable sequence: core concept -> origin/timeline -> decoded constitutional spine -> mechanisms ->
+   amendments/cases/institutions -> traps -> answer spine. Every retained Article is decoded.
 
 ## 1. Core Concept And Ownership
 
@@ -28,13 +29,19 @@ Ancient sabha/samiti -> historical vocabulary, not direct legal source
 1861-1935 councils -> representation, questions, budget discussion and bicameral experience
 1946-49 Constituent Assembly -> responsible government + bicameralism + constitutional supremacy
 1950 Articles 79-122 commence
-1951 First Amendment, s.6 -> substituted Article 85(1)-(2): six-month inter-session ceiling plus presidential prorogation/dissolution powers
+1951 First Amendment, s.6 -> substituted Article 85(1)-(2): six-month inter-session ceiling plus presidential
+   prorogation/dissolution powers
 1952 first Lok Sabha / Council of States begin
 1985 52nd Amendment -> Article 102(2) + Tenth Schedule defection disqualification
-2001 84th Amendment, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332: freeze extended to first post-2026 census publication; 1991 data enabled limited boundary/reserved-seat readjustment
-2003 87th Amendment, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article 170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001 census
-2019 104th Amendment, s.2 -> Article 334 long line: eighty years for cl.(a) SC/ST reservation, seventy years for cl.(b) Anglo-Indian special representation; latter ceased after 2020
-2023 106th Amendment, ss.2-5 -> inserted Article 239AA(2)(ba)-(bc), Articles 330A/332A/334A: one-third women's reservation, including within SC/ST seats, after the census-publication/delimitation trigger
+2001 84th Amendment, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332:
+   freeze extended to first post-2026 census publication; 1991 data enabled limited boundary/reserved-seat
+   readjustment
+2003 87th Amendment, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article
+   170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001 census
+2019 104th Amendment, s.2 -> Article 334 long line: eighty years for cl.(a) SC/ST reservation, seventy years for
+   cl.(b) Anglo-Indian special representation; latter ceased after 2020
+2023 106th Amendment, ss.2-5 -> inserted Article 239AA(2)(ba)-(bc), Articles 330A/332A/334A: one-third women's
+   reservation, including within SC/ST seats, after the census-publication/delimitation trigger
 ```
 
 ## 3. Articles 79-88 — Organisation, Composition And Time
@@ -42,11 +49,14 @@ Ancient sabha/samiti -> historical vocabulary, not direct legal source
 ```text
 79 -> President + Council of States + House of the People constitute Parliament.
 80 -> Rajya Sabha: State/UT representation + 12 presidential nominees in literature, science, art and social service.
-81 -> Lok Sabha: State/UT seats and population-representation principles; current elected strength 543, vacancies vary.
+81 -> Lok Sabha: State/UT seats and population-representation principles; current elected strength 543,
+   vacancies vary.
 82 -> readjustment follows census through parliamentary law/authority, subject to constitutional freeze provisos.
-83 -> Rajya Sabha continues; LS normally five years; Emergency extension one year at a time, max six months after cessation.
+83 -> Rajya Sabha continues; LS normally five years; Emergency extension one year at a time, max six months
+   after cessation.
 84 -> citizenship, prescribed oath-related requirement, age 30 RS/25 LS and qualifications by parliamentary law.
-85 -> President summons/prorogues and dissolves LS; max six months between last sitting and next session's first sitting.
+85 -> President summons/prorogues and dissolves LS; max six months between last sitting and next session's first
+   sitting.
 86 -> President may address either/both Houses and send messages.
 87 -> special address after general election and first session each year; Houses discuss the address.
 88 -> ministers/Attorney-General may participate across Houses/joint sitting/committees; vote follows membership.
@@ -55,20 +65,26 @@ Ancient sabha/samiti -> historical vocabulary, not direct legal source
 ## 4. Articles 89-106 — Officers, Secretariats And Membership
 
 ```text
-89-92 -> Vice-President is ex officio RS Chairman; RS elects Deputy Chairman; vacancy/acting/removal safeguards decoded.
-93-96 -> LS elects Speaker/Deputy Speaker; effective-majority removal + 14 days' notice; Speaker survives dissolution to new House's first sitting.
+89-92 -> Vice-President is ex officio RS Chairman; RS elects Deputy Chairman; vacancy/acting/removal safeguards
+   decoded.
+93-96 -> LS elects Speaker/Deputy Speaker; effective-majority removal + 14 days' notice; Speaker survives
+   dissolution to new House's first sitting.
 97 -> presiding-officer salaries/allowances by parliamentary law and charged on Consolidated Fund.
 98 -> each House has separate secretariat; common posts possible; Parliament regulates service conditions.
 99 -> Third Schedule oath/affirmation before taking seat.
-100 -> present-and-voting majority; chair casting vote on equality; vacancies do not invalidate proceedings; quorum one-tenth.
+100 -> present-and-voting majority; chair casting vote on equality; vacancies do not invalidate proceedings;
+   quorum one-tenth.
 101 -> double membership, resignation, disqualification vacancy and sixty-day unauthorised-absence route.
-102(1) -> office of profit, court-declared unsound mind, undischarged insolvency, foreign citizenship/allegiance, statutory grounds.
+102(1) -> office of profit, court-declared unsound mind, undischarged insolvency, foreign
+   citizenship/allegiance, statutory grounds.
 102(2) -> Tenth Schedule defection disqualification, inserted by 52nd Amendment (1985).
 103 -> President decides Article 102(1) sitting-member question after obtaining ECI opinion.
-104 -> daily constitutional monetary liability for knowingly sitting/voting before oath or while unqualified/disqualified.
+104 -> daily constitutional monetary liability for knowingly sitting/voting before oath or while
+   unqualified/disqualified.
 105 -> speech/vote/publication immunity and House privileges; functional, not criminal impunity.
 106 -> MPs' salaries/allowances determined by parliamentary law.
-Current checked 7 September 2026 -> Speaker Om Birla; LS Deputy Speaker vacant; RS Chairman C. P. Radhakrishnan; Deputy Chairman Harivansh.
+Current checked 7 September 2026 -> Speaker Om Birla; LS Deputy Speaker vacant; RS Chairman C. P. Radhakrishnan;
+   Deputy Chairman Harivansh.
 ```
 
 ## 5. Sessions, Language, Questions, Motions And Resolutions
@@ -77,13 +93,16 @@ Current checked 7 September 2026 -> Speaker Om Birla; LS Deputy Speaker vacant; 
 SESSION (President summons/prorogues) -> SITTING (chair adjourns/sine die)
 Budget/Monsoon/Winter -> convention, not constitutional categories.
 Article 120 -> Hindi or English; chair may permit mother tongue.
-Question Hour -> starred oral + supplementaries; unstarred written; short-notice urgent oral; private-member questions possible.
+Question Hour -> starred oral + supplementaries; unstarred written; short-notice urgent oral; private-member
+   questions possible.
 Zero Hour -> informal Indian innovation since 1962; not written in Rules.
 Calling Attention -> urgent ministerial statement; no vote.
 Adjournment Motion -> LS extraordinary urgent-public-matter censure; fifty-member support.
-No-confidence -> LS Rule 198; fifty-member leave; reasons unnecessary; passage tests whole Council under Article 75(3).
+No-confidence -> LS Rule 198; fifty-member leave; reasons unnecessary; passage tests whole Council under Article
+   75(3).
 Censure -> reasons/policy or actor specified; politically serious but not identical to no-confidence.
-Resolution -> self-contained substantive decision/opinion; every resolution is a motion, not every motion a resolution.
+Resolution -> self-contained substantive decision/opinion; every resolution is a motion, not every motion a
+   resolution.
 Cut motions -> policy Re 1; economy specified reduction; token Rs 100.
 ```
 
@@ -91,16 +110,19 @@ Cut motions -> policy Re 1; economy specified reduction; token Rs 100.
 
 ```text
 107 -> ordinary Bill may originate either House; both ordinarily agree; prorogation does not lapse Bills.
-Ordinary route -> introduction -> principle -> committee/detailed scrutiny -> clauses -> third reading -> second House -> President.
+Ordinary route -> introduction -> principle -> committee/detailed scrutiny -> clauses -> third reading -> second
+   House -> President.
 Government Bill -> minister sponsor; Private Member's Bill -> non-minister sponsor under allotted House time.
-108 -> eligible deadlock: rejection, final amendment disagreement or >6-month delay -> President may summon joint sitting.
+108 -> eligible deadlock: rejection, final amendment disagreement or >6-month delay -> President may summon
+   joint sitting.
 Joint sitting excluded -> Money Bill and Constitution Amendment Bill.
 Three instances -> Dowry Prohibition 1961; Banking Service Commission Repeal 1978; POTA 2002.
 109 -> Money Bill LS-only; RS recommendations within 14 days; LS may accept/reject; no joint sitting.
 110 -> Bill must contain ONLY listed money matters + incidental provisions; Speaker certifies.
 111 -> President: assent/withhold; may return non-Money Bill once; repassage makes assent mandatory.
 Lapse on LS dissolution -> Bill pending in LS; Bill passed by LS pending in RS.
-No lapse -> RS-pending not passed by LS; both-House-passed awaiting assent; returned Bill; notified joint-sitting intention.
+No lapse -> RS-pending not passed by LS; both-House-passed awaiting assent; returned Bill; notified
+   joint-sitting intention.
 ```
 
 ## 7. Articles 112-119 — Budget And Financial Bills
@@ -111,7 +133,8 @@ No lapse -> RS-pending not passed by LS; both-House-passed awaiting assent; retu
 114 -> Appropriation Act legally authorises withdrawal from Consolidated Fund.
 115 -> supplementary/additional/excess grants.
 116 -> vote on account / vote of credit / exceptional grant.
-117(1) Financial Bill-I -> Article 110 matter + other matter; LS-only introduction + recommendation; RS otherwise ordinary power.
+117(1) Financial Bill-I -> Article 110 matter + other matter; LS-only introduction + recommendation; RS
+   otherwise ordinary power.
 117(3) Financial Bill-II -> either-House origin; recommendation before consideration; ordinary bicameral power.
 118 -> House rules and joint-sitting procedure.
 119 -> Parliament may by law regulate financial-business completion.
@@ -126,7 +149,8 @@ Ad hoc -> Select or Joint Committee on Bill; inquiry JPC.
 PAC -> 22 (15 LS+7 RS); CAG-linked post-expenditure regularity; Opposition chair by convention.
 Estimates -> 30 LS only; economies, efficiency and estimate presentation.
 CoPU -> 22 (15 LS+7 RS); specified public undertakings.
-DRSCs -> 24; normally 31 each (21 LS+10 RS); demands, referred Bills, annual reports, long-term policy; ministers barred.
+DRSCs -> 24; normally 31 each (21 LS+10 RS); demands, referred Bills, annual reports, long-term policy;
+   ministers barred.
 Subordinate Legislation Committee -> checks rules/regulations against parent Act, delegation and procedure.
 Government Assurances Committee -> tracks ministerial undertakings on floor.
 Ethics Committee -> unethical conduct; distinct from privilege breach.
@@ -138,34 +162,46 @@ Limit -> advisory reports + discretionary referral + one-year term + attendance/
 ## 9. Rajya Sabha, Lok Sabha And Parliamentary Sovereignty Limits
 
 ```text
-EQUAL -> ordinary Bills, Article 368 amendments, impeachment/removal participation, elections where Constitution so provides.
-LOK SABHA SPECIAL -> confidence Art 75(3); demands Art 113; Money/Financial-I origin Arts 109/117; joint-sitting numbers.
+EQUAL -> ordinary Bills, Article 368 amendments, impeachment/removal participation, elections where Constitution
+   so provides.
+LOK SABHA SPECIAL -> confidence Art 75(3); demands Art 113; Money/Financial-I origin Arts 109/117; joint-sitting
+   numbers.
 RAJYA SABHA SPECIAL ->
   Art 249: 2/3 present/voting national-interest resolution opens temporary State-List competence.
   Art 312: same gateway authorises creation of All India Service by parliamentary law.
   Art 67(b): initiates Vice-President removal; LS agrees.
   Arts 352/356/360: approval-continuity bridge when LS is dissolved, subject to later LS approval.
 INDIAN PARLIAMENT != WESTMINSTER SOVEREIGN ->
-  limited by Seventh Schedule competence, Fundamental Rights, federalism, special procedures, judicial review and basic structure.
+  limited by Seventh Schedule competence, Fundamental Rights, federalism, special procedures, judicial review and
+     basic structure.
 ```
 
 ## 10. Amendments And Cases — Exact Effect / One-Line Holding
 
 ```text
-First Amendment 1951, s.6 -> substituted Article 85(1)-(2): six-month inter-session control and presidential prorogation/dissolution powers.
-31st Amendment 1973, s.2 -> Article 81(1)(a)-(b) and proviso to Article 81(2)(a): raised then-applicable State ceiling to 525, fixed UT ceiling at 20 and protected small States from strict inter-State ratio.
-42nd Amendment 1976, ss.24-25 -> proviso to Article 81(3) and third proviso to Article 82: 1971 census basis retained until publication of the first census after 2000.
-52nd Amendment 1985, s.3 and Schedule -> inserted Article 102(2) and the Tenth Schedule: parliamentary defection becomes disqualification.
+First Amendment 1951, s.6 -> substituted Article 85(1)-(2): six-month inter-session control and presidential
+   prorogation/dissolution powers.
+31st Amendment 1973, s.2 -> Article 81(1)(a)-(b) and proviso to Article 81(2)(a): raised then-applicable State
+   ceiling to 525, fixed UT ceiling at 20 and protected small States from strict inter-State ratio.
+42nd Amendment 1976, ss.24-25 -> proviso to Article 81(3) and third proviso to Article 82: 1971 census basis
+   retained until publication of the first census after 2000.
+52nd Amendment 1985, s.3 and Schedule -> inserted Article 102(2) and the Tenth Schedule: parliamentary defection
+   becomes disqualification.
 61st Amendment 1988, s.2 -> Article 326: voting age reduced from 21 to 18, enlarging the Lok Sabha electorate.
-84th Amendment 2001, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332: extended the freeze and enabled 1991-based limited readjustment.
-87th Amendment 2003, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article 170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001.
-104th Amendment 2019, s.2 -> Article 334: cl.(a) SC/ST reservation extended to eighty years; cl.(b) Anglo-Indian special representation retained only for seventy years and ceased.
-106th Amendment 2023, ss.2-5 -> Article 239AA(2)(ba)-(bc) plus Articles 330A/332A/334A: one-third women's reservation, including SC/ST sub-reservation, after the statutory trigger.
+84th Amendment 2001, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332:
+   extended the freeze and enabled 1991-based limited readjustment.
+87th Amendment 2003, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article
+   170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001.
+104th Amendment 2019, s.2 -> Article 334: cl.(a) SC/ST reservation extended to eighty years; cl.(b) Anglo-Indian
+   special representation retained only for seventy years and ceased.
+106th Amendment 2023, ss.2-5 -> Article 239AA(2)(ba)-(bc) plus Articles 330A/332A/334A: one-third women's
+   reservation, including SC/ST sub-reservation, after the statutory trigger.
 Kuldip Nayar (2006) -> upheld RS open ballot and removal of State-domicile requirement.
 Kihoto Hollohan (1992) -> Speaker's Tenth Schedule decision subject to judicial review.
 Lily Thomas (2013) -> invalidated RPA s.8(4) sitting-member conviction shield.
 Raja Ram Pal (2007) -> expulsion power exists, but privilege action is reviewable for substantive illegality.
-Sita Soren (2024) -> bribery for speech/vote receives no legislative immunity; overrules PV Narasimha Rao on that point.
+Sita Soren (2024) -> bribery for speech/vote receives no legislative immunity; overrules PV Narasimha Rao on
+   that point.
 Rojer Mathew (2019) -> Money Bill certification not wholly immune; broader Article 110 issue referred to larger Bench.
 D.C. Wadhwa (1987) / Krishna Kumar Singh (2017) -> routine ordinance repromulgation is constitutionally impermissible.
 ```
@@ -175,7 +211,8 @@ D.C. Wadhwa (1987) / Krishna Kumar Singh (2017) -> routine ordinance repromulgat
 ```text
 106th Amendment -> commenced 16 April 2026; reservation still non-operational under Article 334A sequence.
 Census 2027 -> notified; publication date of relevant figures and delimitation date remain unknown.
-2026 delimitation-linked Bills -> introduced, constitutional amendment defeated 17 April 2026; proposals never became law.
+2026 delimitation-linked Bills -> introduced, constitutional amendment defeated 17 April 2026; proposals never
+   became law.
 Rojer Mathew larger-Bench Article 110 issue -> no final official judgment located by 7 September 2026.
 
 TRAPS:
@@ -207,5 +244,6 @@ minimum sitting calendar + default committee referral + protected Question Hour
 
 VERDICT:
 Parliament remains constitutionally powerful but never sovereign; democratic authority becomes legitimate
-when popular choice, federal revision, financial consent, detailed scrutiny and constitutional limits operate together.
+when popular choice, federal revision, financial consent, detailed scrutiny and constitutional limits operate
+   together.
 ```

@@ -4,807 +4,487 @@ topic_key: modern-indian-history-21
 ---
 # Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh) — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## MCQs — source-checked conceptual and remedial practice
 
-### Q1. Which statement correctly identifies 1922 strategic vacuum?
+Choose the single best answer. All questions precede the separate answer key; original PYQ status and Mains solutions remain below.
 
-A. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-B. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-C. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-D. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
+### Q1. What immediate political problem connects February 1922 to the subsequent council-entry debate?
 
-**Answer: A.**
-**Explanation:** Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Withdrawal of Non-Cooperation left Congress divided over the next method of anti-colonial struggle
+B. Congress dissolved permanently on the Chauri Chaura date
+C. The 1924 HRA converted Congress into a secret society
+D. Legislative dyarchy ended automatically when Gandhi was arrested
 
-### Q2. Which chronology card should be filed under 1922 strategic vacuum?
+### Q2. Which action would a No-changer have defended after Non-Cooperation ended?
 
-A. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-B. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-C. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-D. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
+A. Ending the Hindu-Muslim unity effort on principle in 1922
+B. Building national education and khadi work while pursuing social unity and anti-untouchability efforts
+C. Abandoning all grassroots mobilisation in favour of British ministries
+D. Joining the Central Assembly solely to conduct bomb attacks
 
-**Answer: B.**
-**Explanation:** Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. How should a historian date the pro-changers’ organisational split without hiding source variance?
 
-### Q3. Which option should a candidate retain when revising 1922 strategic vacuum?
+A. Gaya voted to establish the HRA in October 1924
+B. Das alone founded a party after his death in 1925
+C. The Gaya rejection was in December 1922; the package uses 1 January 1923 for the Swaraj Party while noting December dating in some compact accounts
+D. The party was founded before the September 1920 Calcutta vote
 
-A. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-B. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-C. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-D. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
+### Q4. Which logic explains Swarajist council entry without claiming it endorsed dyarchy?
 
-**Answer: C.**
-**Explanation:** Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Accept dyarchy as complete self-government and join ministries without criticism
+B. Reject elections because only spinning could challenge colonial rule
+C. Replace legislative debate with the Khilafat conference’s Ottoman demands
+D. Use legislative seats to obstruct and expose restricted colonial constitutional power
 
-### Q4. Which statement avoids a common matching trap about 1922 strategic vacuum?
+### Q5. A candidate treats the 1923 Swarajist electoral success as attainment of sovereignty. Which correction fits?
 
-A. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-B. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-C. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-D. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
+A. They won seats and spotlighted dyarchy and budgetary limits, not self-government
+B. They obtained an absolute British Cabinet majority in 1923
+C. They permanently abolished the Viceroy’s reserve powers through one budget vote
+D. They turned the councils into armed revolutionary cells after Kakori
 
-**Answer: D.**
-**Explanation:** Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Why did Swarajist obstruction lose force later in the decade?
 
-### Q5. Which statement correctly identifies No-changer position?
+A. The Caliphate’s abolition directly dissolved all Indian councils
+B. Das’s 1925 death and the pull of office and patronage weakened the tactic
+C. No-changers outlawed elections in 1917
+D. All dyarchy ended with Kakori in 1925
 
-A. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-B. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-C. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-D. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
+### Q7. What does the approach to 1930 show about the two internal Congress tendencies?
 
-**Answer: A.**
-**Explanation:** No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. No-changers became the British colonial police after 1922
+B. The two groups were always separate political parties with no Congress link
+C. Swarajist personnel and constructive workers could rejoin wider Civil Disobedience despite tactical differences
+D. Council entry forever barred participation in future extra-council action
 
-### Q6. Which chronology card should be filed under No-changer position?
+### Q8. Identify the organisation created at Kanpur in October 1924 by Sanyal, Bismil and Jogesh Chatterjee.
 
-A. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-B. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-C. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-D. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
+A. The Hindustan Socialist Republican Association founded at Kanpur in 1924
+B. The Swaraj Party formed by those three men at Gaya
+C. Naujawan Bharat Sabha founded at Kanpur in 1924
+D. The Hindustan Republican Association, committed to a republican revolutionary programme
 
-**Answer: B.**
-**Explanation:** No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. Which 1925 action was meant to procure funds, and which outcome followed in 1927?
 
-### Q7. Which option should a candidate retain when revising No-changer position?
+A. Kakori train action by HRA members; Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed
+B. The Assembly bomb by the Swaraj Party; Das and Nehru were executed
+C. Chittagong raid by HSRA; its leaders were tried in the Kakori case
+D. The Saunders shooting by the 1924 HRA; Dutt and Bhagat Singh were hanged in 1927
 
-A. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-B. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-C. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-D. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
+### Q10. Why is Naujawan Bharat Sabha not interchangeable with the underground HSRA?
 
-**Answer: C.**
-**Explanation:** No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It was the committee that rejected council entry at Gaya in 1922
+B. It was a public youth front founded in Lahore in 1926, linked to Bhagat Singh before HSRA’s reorganisation
+C. It was the secret 1924 association founded by Bismil at Kanpur
+D. It was a 1930 Chittagong women’s armed unit
 
-### Q8. Which statement avoids a common matching trap about No-changer position?
+### Q11. What changed at Ferozeshah Kotla in September 1928?
 
-A. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-B. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-C. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-D. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
+A. The 1929 Assembly Bomb Case was heard there as a criminal court
+B. The Swaraj Party replaced its councils with a new Ottoman legislature
+C. The HRA was reorganised as HSRA with a more explicit socialist anti-imperialist programme
+D. Two rival bodies, HRA and HSRA, simultaneously founded by opponents
 
-**Answer: D.**
-**Explanation:** No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which causal chain underlies the Saunders killing in December 1928?
 
-### Q9. Which statement correctly identifies Pro-changer position and Swaraj Party founding?
+A. The 1925 Kakori robbery injured Surya Sen in Lahore
+B. Saunders ordered the 1919 Jallianwala firing
+C. The Assembly bombing prompted an earlier revenge killing
+D. Anti-Simon protest and lathi-charge injured Lala Lajpat Rai, whose death HSRA members sought to avenge
 
-A. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-B. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-C. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-D. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
+### Q13. What made the April 1929 Assembly bombing a distinctive HSRA action?
 
-**Answer: A.**
-**Explanation:** Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Bhagat Singh and Batukeshwar Dutt used non-lethal symbolic bombs and faced a separate Assembly Bomb Case with life sentences
+B. Bismil and Ashfaqulla Khan bombed the Assembly to fund Kakori
+C. The bombs were intended to massacre legislators secretly and secure immediate escape
+D. The Special Tribunal immediately imposed the 1930 Lahore death sentences in the Assembly proceeding
 
-### Q10. Which chronology card should be filed under Pro-changer position and Swaraj Party founding?
+### Q14. A brief merges the Assembly Bomb Case and Lahore Conspiracy Case into one verdict. What is the strongest correction?
 
-A. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-B. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-C. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-D. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
+A. The Assembly Sessions Court tried Surya Sen’s Chittagong raid
+B. The Assembly proceeding imposed life sentences on Singh and Dutt; a later distinct Lahore tribunal sentenced Singh, Sukhdev and Rajguru to death
+C. Both proceedings were trials of the 1925 Kakori accused
+D. The Lahore case gave Dutt the 1930 death sentence alongside Singh
 
-**Answer: B.**
-**Explanation:** Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. Which statement about Jatin Das’s prison protest respects the source record?
 
-### Q11. Which option should a candidate retain when revising Pro-changer position and Swaraj Party founding?
+A. His fast protested an Indian university boycott and lasted exactly three days
+B. Every source agrees on precisely 64 days so variance can be suppressed
+C. He died in September 1929 after a Lahore Central Jail hunger strike for political-prisoner treatment; accounts vary between 63 and 64 days
+D. He died during the 1925 Kakori train action in United Provinces
 
-A. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-B. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-C. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-D. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
+### Q16. What interpretation of Bhagat Singh’s later writings goes beyond a purely martyrdom-centred account?
 
-**Answer: C.**
-**Explanation:** Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. They repudiated any concern with social classes and retained only religious monarchy
+B. They called only for personal revenge against the Punjab Lieutenant-Governor
+C. They established No-changer khadi as HSRA’s only programme
+D. Their rationalist, atheist and socialist arguments opposed both imperial domination and class exploitation
 
-### Q12. Which statement avoids a common matching trap about Pro-changer position and Swaraj Party founding?
+### Q17. Which date and defendants belong specifically to the Lahore Conspiracy verdict’s final penalty?
 
-A. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-B. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-C. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-D. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
+A. 23 March 1931 — Bhagat Singh, Sukhdev and Rajguru executed
+B. 8 April 1929 — Singh and Dutt executed inside the Assembly
+C. 1927 — Sanyal, Dutt and Azad hanged in the Kakori case
+D. 13 September 1929 — Rajguru died on a hunger strike
 
-**Answer: D.**
-**Explanation:** Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. Which revolutionary venture combined an attempted locality-level seizure, Surya Sen and women participants?
 
-### Q13. Which statement correctly identifies Council-entry logic?
+A. The 1923 Swarajist electoral campaign as a women’s raid
+B. The 1930 Chittagong Armoury Raid in Bengal, outside the HRA-HSRA chain of command
+C. The 1925 Kakori train action organised by Surya Sen in Punjab
+D. The 1929 Assembly bombing under a single shared Chittagong command
 
-A. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-B. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-C. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-D. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
+### Q19. Which allocation correctly separates the HRA and HSRA operational phases?
 
-**Answer: A.**
-**Explanation:** Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Assembly bombing was the HRA’s October 1924 founding act
+B. Saunders was killed by the 1930 Chittagong group led by Surya Sen
+C. Kakori belongs to the earlier HRA; Saunders and the Assembly bomb belong to the later HSRA
+D. Kakori was staged after the 1928 HSRA reorganisation
 
-### Q14. Which chronology card should be filed under Council-entry logic?
+### Q20. How many genuinely distinct strategic streams can one distinguish in a balanced map of the 1920s?
 
-A. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-B. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-C. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-D. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
+A. Only Swarajist elections and the 1919 Rowlatt hartal
+B. A single Congress executive commanding every revolutionary faction
+C. Only khadi and the Ottoman Caliphate, with no Indian legislative politics
+D. Council-entry Swarajists, constructive No-changers, HRA-HSRA revolutionaries and emerging left/labour forces
 
-**Answer: B.**
-**Explanation:** Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Which sequence correctly places post-withdrawal political and revolutionary milestones?
 
-### Q15. Which option should a candidate retain when revising Council-entry logic?
+A. Gaya rejection 1922; Swaraj Party working date January 1923; HRA October 1924; Kakori 1925
+B. Kakori 1922; Gaya 1924; HRA 1925; Party 1928
+C. HRA 1920; Swaraj Party 1921; Gaya 1923; Kakori 1930
+D. Party 1922; Chittagong 1923; HRA 1928; Kakori 1931
 
-A. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-B. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-C. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-D. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
+### Q22. An answer equates use of legislatures with accepting colonial dyarchy. Which evidence tests that inference?
 
-**Answer: C.**
-**Explanation:** Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1928 HSRA reorganisation guaranteed a Swarajist executive majority
+B. Swarajists used their 1923 electoral foothold to expose dyarchy and obstruct budgets
+C. Das and Nehru campaigned for permanent loyalist ministerial appointments
+D. No-changers ordered the 1923 elections as the only path to Swaraj
 
-### Q16. Which statement avoids a common matching trap about Council-entry logic?
+### Q23. What does the Naujawan Bharat Sabha–HSRA relationship illustrate about open and underground politics?
 
-A. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-B. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-C. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-D. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
+A. The Sabha was created by the 1930 Lahore Special Tribunal
+B. The HSRA preceded the Sabha by two years as the same named organisation
+C. Shared organisers and political goals could link a legal youth front to a clandestine network without making them one body
+D. Every Naujawan Bharat Sabha member was convicted in the Lahore case
 
-**Answer: D.**
-**Explanation:** Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. A candidate assigns Jatin Das’s death to the Assembly Sessions Court verdict. Why is that wrong?
 
-### Q17. Which statement correctly identifies Swarajist 1923 performance?
+A. The Assembly court sentenced Jatin Das to death in April 1929
+B. He died in the Kakori case before the HSRA existed
+C. His protest was a negotiation by Swarajists over the 1923 budget
+D. His September 1929 hunger strike occurred in Lahore Central Jail during the Lahore case context, not as an Assembly sentence
 
-A. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-B. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-C. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-D. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
+### Q25. Why is it incorrect to classify the Chittagong raid as simply another Kakori-style funding operation?
 
-**Answer: A.**
-**Explanation:** The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Chittagong sought control of a locality and its armouries under Surya Sen; Kakori sought train funds for the HRA
+B. Both actions occurred in Kanpur in 1924 under Bismil
+C. Chittagong was solely a protest against 1923 council budgets
+D. Kakori was a Bengal campaign led by women alone
 
-### Q18. Which chronology card should be filed under Swarajist 1923 performance?
+### Q26. What is the defensible relation between HSRA socialist language and the Swarajists’ council method?
 
-A. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-B. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-C. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-D. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
+A. The two organisations shared a colonial executive command at Chittagong
+B. They belonged to parallel anti-imperial political streams rather than rival labels for one organisation
+C. HSRA was the revolutionary name adopted by the Swaraj Party after Gaya
+D. Das wrote the HSRA’s 1928 programme after founding it at Ferozeshah Kotla
 
-**Answer: B.**
-**Explanation:** The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. What does the 1928 reorganisation add to a chronological comparison with the 1931 executions?
 
-### Q19. Which option should a candidate retain when revising Swarajist 1923 performance?
+A. The 1931 verdict formed the 1924 HRA retroactively
+B. The 1928 meeting took place after Surya Sen’s 1930 raid
+C. It separates creation of HSRA’s socialist programme from the later Lahore Conspiracy outcome
+D. Bhagat Singh was executed immediately at the Kotla meeting
 
-A. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-B. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-C. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-D. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
+### Q28. Which synthesis avoids assuming constructive workers and armed revolutionaries operated as one Congress command?
 
-**Answer: C.**
-**Explanation:** The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Both joined the 1923 legislatures as a single ‘No-changer’ ticket
+B. HRA ordered Gandhi’s constructive schools to undertake the Assembly bombing
+C. Surya Sen chaired the Swaraj Party and directed the Punjab HSRA
+D. Both responded to a struggle reshaped after 1922, but used different methods and institutions
 
-### Q20. Which statement avoids a common matching trap about Swarajist 1923 performance?
+## ANSWER KEY AND ITEM-SPECIFIC EXPLANATIONS
 
-A. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-B. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-C. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-D. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
+### Q1 — A
 
-**Answer: D.**
-**Explanation:** The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A tactical vacuum did not erase the shared nationalist objective **Source-backed coverage:** Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
 
-### Q21. Which statement correctly identifies Swarajist decline?
+- **A (correct):** A tactical vacuum did not erase the shared nationalist objective
+- **B (incorrect):** Congress survived and debated strategy
+- **C (incorrect):** HRA was a different revolutionary formation
+- **D (incorrect):** The reform system continued to be challenged
+**Trap:** Distinguish disagreement over means from abandonment of Swaraj.
 
-A. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-B. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-C. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-D. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
+### Q2 — B
 
-**Answer: A.**
-**Explanation:** C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Preparation for renewed struggle did not require an immediate national hartal **Source-backed coverage:** No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
 
-### Q22. Which chronology card should be filed under Swarajist decline?
+- **A (incorrect):** Unity remained a stated programme goal
+- **B (correct):** Preparation for renewed struggle did not require an immediate national hartal
+- **C (incorrect):** Constructive work was active local organisation
+- **D (incorrect):** That is neither the constructive programme nor Swarajist electoral tactics
+**Trap:** No-changer did not mean political inactivity.
 
-A. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-B. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-C. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-D. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
+### Q3 — C
 
-**Answer: B.**
-**Explanation:** C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Rejection at Gaya and party founding are separate events with varying dating conventions **Source-backed coverage:** Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
 
-### Q23. Which option should a candidate retain when revising Swarajist decline?
+- **A (incorrect):** HRA belonged to another strategy and venue
+- **B (incorrect):** Das and Motilal Nehru led the proposal while Das was alive
+- **C (correct):** Rejection at Gaya and party founding are separate events with varying dating conventions
+- **D (incorrect):** Council-entry conflict was post-withdrawal
+**Trap:** Do not turn an acknowledged founding-date variance into false certainty.
 
-A. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-B. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-C. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-D. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
+### Q4 — D
 
-**Answer: C.**
-**Explanation:** C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Participation was a tactic for contestation, not constitutional satisfaction **Source-backed coverage:** Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
 
-### Q24. Which statement avoids a common matching trap about Swarajist decline?
+- **A (incorrect):** Their strategy challenged its limits
+- **B (incorrect):** That was not their council-entry proposal
+- **C (incorrect):** The Swarajists’ immediate arena was Indian councils
+- **D (correct):** Participation was a tactic for contestation, not constitutional satisfaction
+**Trap:** Institutional presence need not equal legitimacy for the institution.
 
-A. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-B. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-C. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-D. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
+### Q5 — A
 
-**Answer: D.**
-**Explanation:** C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Obstruction could demonstrate limitations even without controlling executive power **Source-backed coverage:** The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
 
-### Q25. Which statement correctly identifies Continuity to 1930?
+- **A (correct):** Obstruction could demonstrate limitations even without controlling executive power
+- **B (incorrect):** The election was to colonial Indian legislatures
+- **C (incorrect):** Structural constraints remained
+- **D (incorrect):** Council politics differed from HRA methods
+**Trap:** A successful tactic is not identical to the movement’s final objective.
 
-A. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-B. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-C. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-D. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
+### Q6 — B
 
-**Answer: A.**
-**Explanation:** Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Personal leadership and institutional incentives both shaped the decline **Source-backed coverage:** C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
 
-### Q26. Which chronology card should be filed under Continuity to 1930?
+- **A (incorrect):** The Turkish event and Indian legislatures had different trajectories
+- **B (correct):** Personal leadership and institutional incentives both shaped the decline
+- **C (incorrect):** The later decline followed the 1923 success
+- **D (incorrect):** The HRA action did not abolish constitutional arrangements
+**Trap:** Do not explain institutional change with a single dramatic date.
 
-A. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-B. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-C. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-D. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
+### Q7 — C
 
-**Answer: B.**
-**Explanation:** Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Divergent work in the 1920s did not preclude common later mobilisation **Source-backed coverage:** Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
 
-### Q27. Which option should a candidate retain when revising Continuity to 1930?
+- **A (incorrect):** They remained a Congress tendency
+- **B (incorrect):** Both remained within the nationalist Congress stream
+- **C (correct):** Divergent work in the 1920s did not preclude common later mobilisation
+- **D (incorrect):** Methods were later reassembled
+**Trap:** Do not treat factional disagreement as permanent secession.
 
-A. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-B. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-C. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
-D. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
+### Q8 — D
 
-**Answer: C.**
-**Explanation:** Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** HRA preceded Kakori and the later HSRA rename **Source-backed coverage:** The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
 
-### Q28. Which statement avoids a common matching trap about Continuity to 1930?
+- **A (incorrect):** The socialist reorganisation came in Delhi in 1928
+- **B (incorrect):** Das and Nehru led that party
+- **C (incorrect):** That youth front emerged in Lahore in 1926
+- **D (correct):** HRA preceded Kakori and the later HSRA rename
+**Trap:** Do not import the later socialist name into 1924.
 
-A. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-B. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-C. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-D. Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement.
+### Q9 — A
 
-**Answer: D.**
-**Explanation:** Both No-changer and Swarajist wings remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Financing armed activity is distinct from a later symbolic propaganda bomb **Source-backed coverage:** The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
 
-### Q29. Which statement correctly identifies HRA formation?
+- **A (correct):** Financing armed activity is distinct from a later symbolic propaganda bomb
+- **B (incorrect):** The bomb was in 1929, and Das died in 1925
+- **C (incorrect):** Chittagong was a distinct Bengal operation of 1930
+- **D (incorrect):** Saunders was killed in 1928, and Bhagat Singh was executed in 1931
+**Trap:** Keep Kakori personnel, year and verdict in the HRA phase.
 
-A. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-B. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-C. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-D. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
+### Q10 — B
 
-**Answer: A.**
-**Explanation:** The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Public political education and clandestine revolutionary activity were organisationally distinct **Source-backed coverage:** The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
 
-### Q30. Which chronology card should be filed under HRA formation?
+- **A (incorrect):** That was a Congress session, not a youth front
+- **B (correct):** Public political education and clandestine revolutionary activity were organisationally distinct
+- **C (incorrect):** That is the HRA
+- **D (incorrect):** Chittagong was a separate Bengal stream
+**Trap:** Do not confuse overlapping personnel with identical institutions.
 
-A. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-B. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-C. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-D. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
+### Q11 — C
 
-**Answer: B.**
-**Explanation:** The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** ‘Association’ and ‘Army’ are variant labels for the same HSRA lineage in source accounts **Source-backed coverage:** The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
 
-### Q31. Which option should a candidate retain when revising HRA formation?
+- **A (incorrect):** The location was the site of organisational reorganisation
+- **B (incorrect):** Those organisations operated in different arenas
+- **C (correct):** ‘Association’ and ‘Army’ are variant labels for the same HSRA lineage in source accounts
+- **D (incorrect):** HSRA is a continuation with new name and orientation
+**Trap:** A new emphasis is neither no change nor a wholly unrelated new body.
 
-A. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-B. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-C. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
-D. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
+### Q12 — D
 
-**Answer: C.**
-**Explanation:** The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Retaliation linked the killing to an anti-Simon protest, not to council elections **Source-backed coverage:** Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
 
-### Q32. Which statement avoids a common matching trap about HRA formation?
+- **A (incorrect):** Kakori and Chittagong are different revolutionary streams
+- **B (incorrect):** Reginald Dyer ordered that firing
+- **C (incorrect):** Assembly bombing occurred in April 1929 after Saunders
+- **D (correct):** Retaliation linked the killing to an anti-Simon protest, not to council elections
+**Trap:** An intended target and a killed officer should not be silently conflated.
 
-A. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-B. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-C. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-D. The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule.
+### Q13 — A
 
-**Answer: D.**
-**Explanation:** The Hindustan Republican Association was founded at Kanpur in October 1924 by leaders including Sachindranath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee with a republican revolutionary programme aimed at armed overthrow of colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The action sought publicity, not indiscriminate killing **Source-backed coverage:** On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
 
-### Q33. Which statement correctly identifies Kakori conspiracy?
+- **A (correct):** The action sought publicity, not indiscriminate killing
+- **B (incorrect):** Kakori was an earlier HRA train action
+- **C (incorrect):** The action aimed to publicise a message and was not designed to kill
+- **D (incorrect):** The proceedings and penalties differ
+**Trap:** A symbolic bomb does not mean there was no criminal trial.
 
-A. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-B. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-C. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-D. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
+### Q14 — B
 
-**Answer: A.**
-**Explanation:** The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Evidence from Assembly and Saunders fed the later Lahore proceeding without merging the courts **Source-backed coverage:** Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
 
-### Q34. Which chronology card should be filed under Kakori conspiracy?
+- **A (incorrect):** That was an independent Bengal action
+- **B (correct):** Evidence from Assembly and Saunders fed the later Lahore proceeding without merging the courts
+- **C (incorrect):** Kakori was an earlier separate case
+- **D (incorrect):** The named death sentences were Singh, Sukhdev and Rajguru
+**Trap:** Do not transfer one case’s defendants or punishment to the other.
 
-A. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-B. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-C. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-D. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
+### Q15 — C
 
-**Answer: B.**
-**Explanation:** The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A dated death and a disputed duration can coexist in an accurate answer **Source-backed coverage:** Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
 
-### Q35. Which option should a candidate retain when revising Kakori conspiracy?
+- **A (incorrect):** The grievance concerned prisoner conditions, not universities
+- **B (incorrect):** The package explicitly records both counts
+- **C (correct):** A dated death and a disputed duration can coexist in an accurate answer
+- **D (incorrect):** His death occurred in prison in Lahore in 1929
+**Trap:** Do not force one disputed duration into an unqualified number.
 
-A. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-B. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-C. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
-D. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
+### Q16 — D
 
-**Answer: C.**
-**Explanation:** The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Ideological texts matter alongside celebrated revolutionary acts **Source-backed coverage:** Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
 
-### Q36. Which statement avoids a common matching trap about Kakori conspiracy?
+- **A (incorrect):** The writings are socialist and republican in outlook
+- **B (incorrect):** That misses the wider political and social critique
+- **C (incorrect):** No-changers and HSRA used distinct methods
+- **D (correct):** Ideological texts matter alongside celebrated revolutionary acts
+**Trap:** Do not replace political thought with a one-person legend.
 
-A. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-B. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-C. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-D. The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case.
+### Q17 — A
 
-**Answer: D.**
-**Explanation:** The Kakori train action of 1925 aimed to raise funds for revolutionary activity, and Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927 after the case. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Dates of bombing, sentencing and execution are not interchangeable **Source-backed coverage:** Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
 
-### Q37. Which statement correctly identifies Naujawan Bharat Sabha?
+- **A (correct):** Dates of bombing, sentencing and execution are not interchangeable
+- **B (incorrect):** They threw bombs that day and were not executed there
+- **C (incorrect):** The listed Kakori executions involved different names
+- **D (incorrect):** Jatin Das died that day
+**Trap:** Do not substitute the Assembly Bomb Case co-accused for Rajguru.
 
-A. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-B. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-C. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-D. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
+### Q18 — B
 
-**Answer: A.**
-**Explanation:** The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Related aims need not mean identical organisation or scale of action **Source-backed coverage:** The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
 
-### Q38. Which chronology card should be filed under Naujawan Bharat Sabha?
+- **A (incorrect):** Council elections were not an armoury seizure
+- **B (correct):** Related aims need not mean identical organisation or scale of action
+- **C (incorrect):** Kakori belonged to the HRA in the United Provinces
+- **D (incorrect):** Assembly action belonged to the separate HSRA lineage
+**Trap:** Do not transfer Bengal’s Chittagong action to the Punjab-UP network.
 
-A. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-B. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-C. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-D. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
+### Q19 — C
 
-**Answer: B.**
-**Explanation:** The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The common lineage does not erase changed dates and participants **Source-backed coverage:** Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
 
-### Q39. Which option should a candidate retain when revising Naujawan Bharat Sabha?
+- **A (incorrect):** The bombing occurred in 1929
+- **B (incorrect):** The retaliatory action is attributed to the HSRA stream
+- **C (correct):** The common lineage does not erase changed dates and participants
+- **D (incorrect):** Kakori occurred in 1925
+**Trap:** Do not label every interwar revolutionary action ‘Bhagat Singh’s’.
 
-A. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-B. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-C. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
-D. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
+### Q20 — D
 
-**Answer: C.**
-**Explanation:** The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The streams interacted without being organisationally identical **Source-backed coverage:** The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
 
-### Q40. Which statement avoids a common matching trap about Naujawan Bharat Sabha?
+- **A (incorrect):** That omits constructive and revolutionary currents
+- **B (incorrect):** The groups were not under one chain of command
+- **C (incorrect):** That leaves out council action and new left currents
+- **D (correct):** The streams interacted without being organisationally identical
+**Trap:** No single method exhausts the decade’s nationalism.
 
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-C. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-D. The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation.
+### Q21 — A
 
-**Answer: D.**
-**Explanation:** The Naujawan Bharat Sabha was founded in March 1926 in Lahore with Bhagat Singh as a leading organiser, mobilising youth toward socialist and anti-imperialist politics as an open, legal public front, organisationally distinct from the underground HRA/HSRA network it fed ahead of the HSRA's formation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The timeline separates a Congress tactical debate from a revolutionary organisation’s evolution
 
-### Q41. Which statement correctly identifies HRA to HSRA?
+- **A (correct):** The timeline separates a Congress tactical debate from a revolutionary organisation’s evolution
+- **B (incorrect):** Kakori required a pre-existing HRA
+- **C (incorrect):** The dates precede or follow the documented milestones incorrectly
+- **D (incorrect):** Chittagong was 1930 and Kakori 1925
+**Trap:** Do not treat a debated 1922 founding attribution as license to shift the full timeline.
 
-A. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-B. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-C. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-D. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
+### Q22 — B
 
-**Answer: A.**
-**Explanation:** The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A tactic can work within an institution to contest it
 
-### Q42. Which chronology card should be filed under HRA to HSRA?
+- **A (incorrect):** HSRA was an independent revolutionary current
+- **B (correct):** A tactic can work within an institution to contest it
+- **C (incorrect):** Their stated goal was obstruction, not acceptance
+- **D (incorrect):** They preferred constructive activity
+**Trap:** Do not infer ideological endorsement from electoral participation alone.
 
-A. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-B. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-C. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-D. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
+### Q23 — C
 
-**Answer: B.**
-**Explanation:** The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Organisational distinction and personnel overlap can both hold
 
-### Q43. Which option should a candidate retain when revising HRA to HSRA?
+- **A (incorrect):** It began in Lahore in 1926
+- **B (incorrect):** HSRA was reorganised in 1928, after the Sabha’s founding
+- **C (correct):** Organisational distinction and personnel overlap can both hold
+- **D (incorrect):** Shared links do not establish universal membership or guilt
+**Trap:** Avoid collapsing adjacent networks into a single legal entity.
 
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-C. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
-D. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
+### Q24 — D
 
-**Answer: C.**
-**Explanation:** The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Prison protest, distinct prosecutions and verdicts require separate evidence lines
 
-### Q44. Which statement avoids a common matching trap about HRA to HSRA?
+- **A (incorrect):** The Assembly life sentences named Singh and Dutt
+- **B (incorrect):** Kakori executions occurred in 1927; Das died in 1929
+- **C (incorrect):** The issue was treatment of political prisoners
+- **D (correct):** Prison protest, distinct prosecutions and verdicts require separate evidence lines
+**Trap:** A prison death is not a court-imposed execution.
 
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-C. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-D. The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names.
+### Q25 — A
 
-**Answer: D.**
-**Explanation:** The HRA was reorganised as the Hindustan Socialist Republican Association at Ferozeshah Kotla, Delhi, on 9-10 September 1928, adding an explicit socialist and anti-imperialist orientation under leaders including Bhagat Singh, Chandrashekhar Azad, Sukhdev and Bhagwati Charan Vohra. HRA and HSRA are one continuous organisational lineage under a new name and programme, not two rival bodies; 'Association' and 'Army' are variant source labels for the same body, not separate names. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Objectives, command networks and geographies distinguish the events
 
-### Q45. Which statement correctly identifies Lala Lajpat Rai and Saunders?
+- **A (correct):** Objectives, command networks and geographies distinguish the events
+- **B (incorrect):** Neither place/date pair matches
+- **C (incorrect):** The raid was an armed locality-level action
+- **D (incorrect):** It was an HRA train action with different leaders
+**Trap:** Armed action is not a sufficiently precise category.
 
-A. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-B. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-C. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-D. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
+### Q26 — B
 
-**Answer: A.**
-**Explanation:** Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Compare political visions without inventing common command structures
 
-### Q46. Which chronology card should be filed under Lala Lajpat Rai and Saunders?
+- **A (incorrect):** The networks and location were distinct
+- **B (correct):** Compare political visions without inventing common command structures
+- **C (incorrect):** HRA was the HSRA’s predecessor
+- **D (incorrect):** Das died in 1925
+**Trap:** A shared nationalist opponent is not proof of identical organisation.
 
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-C. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-D. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
+### Q27 — C
 
-**Answer: B.**
-**Explanation:** Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Ideological change and penal aftermath are distinct temporal steps
 
-### Q47. Which option should a candidate retain when revising Lala Lajpat Rai and Saunders?
+- **A (incorrect):** HRA already existed before 1928
+- **B (incorrect):** The reorganisation preceded Chittagong
+- **C (correct):** Ideological change and penal aftermath are distinct temporal steps
+- **D (incorrect):** His execution occurred in March 1931
+**Trap:** Do not compress three years into one event.
 
-A. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-B. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-C. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-D. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
+### Q28 — D
 
-**Answer: C.**
-**Explanation:** Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Concurrent resistance is not proof of shared command
 
-### Q48. Which statement avoids a common matching trap about Lala Lajpat Rai and Saunders?
-
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-C. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-D. Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation.
-
-**Answer: D.**
-**Explanation:** Lala Lajpat Rai died from injuries sustained during a lathi-charge on an anti-Simon Commission protest, and HSRA revolutionaries killed the police officer Saunders in December 1928 in retaliation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Assembly bomb?
-
-A. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-B. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-C. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-D. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-
-**Answer: A.**
-**Explanation:** On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Assembly bomb?
-
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-C. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-D. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-
-**Answer: B.**
-**Explanation:** On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Assembly bomb?
-
-A. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-B. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-C. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-D. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-
-**Answer: C.**
-**Explanation:** On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Assembly bomb?
-
-A. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-B. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-C. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-D. On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment.
-
-**Answer: D.**
-**Explanation:** On 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, deliberately designed to be non-lethal and symbolic, intended to make the deaf hear rather than to kill. This bombing was tried as a separate Sessions Court proceeding, the Assembly Bomb Case, in which Bhagat Singh and Batukeshwar Dutt received life imprisonment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Lahore Conspiracy Case?
-
-A. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-B. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-C. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-D. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-
-**Answer: A.**
-**Explanation:** Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Lahore Conspiracy Case?
-
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-C. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-D. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-
-**Answer: B.**
-**Explanation:** Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Lahore Conspiracy Case?
-
-A. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-B. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-C. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-D. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-
-**Answer: C.**
-**Explanation:** Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Lahore Conspiracy Case?
-
-A. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-B. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-C. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-D. Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial.
-
-**Answer: D.**
-**Explanation:** Evidence from the Assembly Bomb Case and the Saunders killing together fed a separate, later proceeding, the Lahore Conspiracy Case, whose Special Tribunal sentenced Bhagat Singh, Sukhdev and Rajguru to death in October 1930; the Assembly Bomb Case and the Lahore Conspiracy Case are two distinct legal proceedings with different courts and sentences, not one undifferentiated trial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Jatin Das and the jail hunger strike?
-
-A. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-B. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-C. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-D. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-
-**Answer: A.**
-**Explanation:** Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Jatin Das and the jail hunger strike?
-
-A. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-B. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-C. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-D. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-
-**Answer: B.**
-**Explanation:** Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Jatin Das and the jail hunger strike?
-
-A. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-B. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-C. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-D. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-
-**Answer: C.**
-**Explanation:** Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Jatin Das and the jail hunger strike?
-
-A. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-B. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-C. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-D. Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct.
-
-**Answer: D.**
-**Explanation:** Jatin Das died on 13 September 1929 after a sustained hunger strike in Lahore Central Jail demanding better treatment for political prisoners during the Lahore Conspiracy Case trial. The fast's length is reported as 63 days in most accounts and as 64 days in some others; this package retains both durations as an open source variance rather than asserting one as definitively correct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Bhagat Singh as political thinker?
-
-A. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-B. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-C. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-D. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-
-**Answer: A.**
-**Explanation:** Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Bhagat Singh as political thinker?
-
-A. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-B. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-C. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-D. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-
-**Answer: B.**
-**Explanation:** Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Bhagat Singh as political thinker?
-
-A. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-B. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-C. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-D. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-
-**Answer: C.**
-**Explanation:** Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Bhagat Singh as political thinker?
-
-A. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-B. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-C. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-D. Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom.
-
-**Answer: D.**
-**Explanation:** Bhagat Singh's later writings show a rationalist, atheist and socialist political position that framed the enemy as both imperialism and class exploitation, not only a personal call to martyrdom. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Execution?
-
-A. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-B. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-C. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-D. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-
-**Answer: A.**
-**Explanation:** Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Execution?
-
-A. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-B. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-C. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-D. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-
-**Answer: B.**
-**Explanation:** Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Execution?
-
-A. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-B. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-C. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-D. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-
-**Answer: C.**
-**Explanation:** Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Execution?
-
-A. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-B. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-C. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-D. Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict.
-
-**Answer: D.**
-**Explanation:** Bhagat Singh, Sukhdev and Rajguru were executed on 23 March 1931 after the Lahore Conspiracy Case verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Chittagong Armoury Raid?
-
-A. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-B. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-C. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-D. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-
-**Answer: A.**
-**Explanation:** The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Chittagong Armoury Raid?
-
-A. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-B. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-C. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-D. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-
-**Answer: B.**
-**Explanation:** The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Chittagong Armoury Raid?
-
-A. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-B. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-C. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-D. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-
-**Answer: C.**
-**Explanation:** The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Chittagong Armoury Raid?
-
-A. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-B. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-C. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-D. The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure.
-
-**Answer: D.**
-**Explanation:** The Chittagong Armoury Raid of 1930 in Bengal was led by Surya Sen and included women revolutionaries, representing an attempted seizure of a locality rather than an individual action; the Chittagong stream was organisationally separate from the Punjab-United Provinces HRA/HSRA network, sharing revolutionary aims but not a common command structure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies HRA-HSRA distinction?
-
-A. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-B. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-C. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-D. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-
-**Answer: A.**
-**Explanation:** Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under HRA-HSRA distinction?
-
-A. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-B. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-C. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-D. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-
-**Answer: B.**
-**Explanation:** Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising HRA-HSRA distinction?
-
-A. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-B. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-C. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-D. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-
-**Answer: C.**
-**Explanation:** Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about HRA-HSRA distinction?
-
-A. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-B. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-C. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-D. Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged.
-
-**Answer: D.**
-**Explanation:** Kakori belongs to the HRA phase associated with Bismil and Ashfaqulla Khan, while the Assembly bomb, Saunders and the Lahore Conspiracy Case belong to the later HSRA phase associated with Bhagat Singh; the two must not be merged. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Four streams of the 1920s?
-
-A. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-B. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-C. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-D. Gandhi's withdrawal of Non-Cooperation in February 1922 left Congress without an agreed method and opened a debate over the next phase of the struggle.
-
-**Answer: A.**
-**Explanation:** The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Four streams of the 1920s?
-
-A. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-B. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-C. No-changers argued for continued constructive work such as khadi, national education, Hindu-Muslim unity and removal of untouchability as preparation for future struggle.
-D. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-
-**Answer: B.**
-**Explanation:** The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Four streams of the 1920s?
-
-A. Pro-changers led by C.R. Das and Motilal Nehru pressed their council-entry proposal at the Congress session at Gaya in December 1922, where it was rejected, prompting them to found the Swaraj Party. This package retains 1 January 1923 as the Party's working founding date, while noting that some compact sources instead date the founding to December 1922 itself; this source variance is flagged rather than silently resolved.
-B. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-C. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-D. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-
-**Answer: C.**
-**Explanation:** The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Four streams of the 1920s?
-
-A. C.R. Das's death in 1925 and the gradual erosion of obstruction as ministries and patronage drew some members in reduced Swarajist momentum through the later 1920s.
-B. The Swarajists performed strongly in the 1923 elections and used their position to expose the structural weaknesses of dyarchy and the budgetary settlement.
-C. Swarajists argued that entering councils would prevent political passivity and publicly expose the limits of dyarchy rather than legitimise it.
-D. The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930.
-
-**Answer: D.**
-**Explanation:** The 1920s produced four parallel streams - Swarajist council politics, No-changer constructive work, HRA-HSRA revolutionary action and an emerging left/labour current - whose combined legacy shaped the movement that resumed in 1930. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (incorrect):** No-changers prioritised constructive work and revolutionaries used other methods
+- **B (incorrect):** The bodies had distinct organisations and aims
+- **C (incorrect):** The Chittagong stream was separate
+- **D (correct):** Concurrent resistance is not proof of shared command
+**Trap:** Compare parallel streams without erasing organizational boundaries.
 
 ### Semantic-completeness coverage drills — Modern Topic 21
 

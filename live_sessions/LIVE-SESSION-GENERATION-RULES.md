@@ -323,6 +323,19 @@ resolve the requirement. Never let it override canonical evidence, introduce an
 unsupported claim or substitute for the independent no-skipping and no-compression
 audit.
 
+### Philosophy Optional source-tier rule (approved 4 October 2026)
+
+For recreation of the forty Philosophy Optional sessions, also read and follow:
+
+```text
+instructions\PHILOSOPHY-LIVE-SESSION-STANDARD.md
+```
+
+It controls the Philosophy-specific Must-Need, Advanced and Expert classification.
+This file continues to control session structure, interaction, validation and release.
+Folder location alone never makes a syllabus term or verified-PYQ requirement
+optional: every marks-essential item must be promoted to Must-Need before drafting.
+
 ### History bounded-research rule (approved 28 September 2026)
 
 For History topics, do not conduct extensive research. Use the complete basic and
@@ -640,6 +653,12 @@ The final coverage-lock matrix must prove that every syllabus term, canonical do
 advanced refinement, argument, criticism, reply and verified PYQ is present. Existing
 packages are evidence sources and completeness checks, never unquestioned templates.
 
+For Philosophy Optional, apply the tier rule in
+`instructions\PHILOSOPHY-LIVE-SESSION-STANDARD.md`: every relevant Advanced trail must
+be audited, but an optional trail may be omitted from the learner-facing session when
+the internal ledger records a specific reason. The no-skipping lock remains absolute
+for Must-Need material and for every Advanced item accepted into the frozen roadmap.
+
 ## Per-Subtopic Analysis Lock
 
 Whole-topic generation in one run does **not** permit whole-topic summarisation. Before
@@ -672,6 +691,11 @@ as a whole:
 - never merge distinct doctrines because they share vocabulary;
 - never use a source summary as a substitute for reading its relevant full passage;
 - never declare a subtopic complete because the overall document is long.
+
+For Philosophy Optional, audited but deliberately omitted Advanced trails and bounded
+Expert variants are recorded in the internal inclusion ledger rather than treated as
+frozen learner-facing content. This exception never applies to a syllabus term,
+verified PYQ requirement or indispensable explanatory dependency.
 
 The final coverage matrix must include a lesson-level row for every dossier and prove
 that its basic content, advanced content, arguments, criticisms, PYQs and practice were

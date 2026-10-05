@@ -1,1081 +1,1028 @@
 ---
 title: "Shah Jahan & the Evolution of the Mughal Ruling Class — Solved Practice Workbook"
 topic_key: medieval-indian-history-21
+cover_image: assets/topic21_cover.png
 ---
 # Shah Jahan & the Evolution of the Mughal Ruling Class — Solved Practice Workbook
 
+![Topic 21 cover](assets/topic21_cover.png)
+
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQ loop - original (correct options A-B-C-D x5)
+### Part I — 44 workbook MCQs (questions first; matched key below)
 
-#### Q1. Which statement best defines a Mughal jagir in this topic?
+#### Workbook MCQ 1
+**Question:** Which statement best defines a Mughal jagir in this topic?
 
 - A. A transferable assignment of a state revenue claim linked to service
 - B. Unrestricted private ownership of a province
 - C. A cash pension unrelated to military obligations
 - D. A hereditary village office held by every zamindar
 
-**Answer: A.**
-**Explanation:** The key discriminator is assignment of revenue claim rather than proprietary title; the land-ownership option is the classic translation error.
-
-#### Q2. In the mature Akbari dual-rank framework, zat primarily expressed:
+#### Workbook MCQ 2
+**Question:** In the mature Akbari dual-rank framework, zat primarily expressed:
 
 - A. the number of months for which a jagir yielded revenue
 - B. personal status and the related pay grade
 - C. a prince's territorial base
 - D. the actual annual hasil of a jagir
 
-**Answer: B.**
-**Explanation:** Zat is a hierarchy-and-pay field. Sawar, not zat, is the field that connects a mansab to cavalry obligation.
-
-#### Q3. What did the sawar component of a mansab specify?
+#### Workbook MCQ 3
+**Question:** What did the sawar component of a mansab specify?
 
 - A. the crown's reserved revenue
 - B. the noble's legal title to land
 - C. the stipulated cavalry obligation
 - D. the amount of jama retained as khalisa
 
-**Answer: C.**
-**Explanation:** Sawar concerns cavalry service. The khalisa option confuses crown revenue with a personal rank field.
-
-#### Q4. Du-aspa sih-aspa, as placed in the assigned source tradition, is associated first with:
+#### Workbook MCQ 4
+**Question:** Du-aspa sih-aspa, as placed in the assigned source tradition, is associated first with:
 
 - A. Shah Jahan
 - B. Alauddin Khalji
 - C. Aurangzeb
 - D. Jahangir
 
-**Answer: D.**
-**Explanation:** The placement under Jahangir is the chronology test; Shah Jahan inherited and managed later adjustments rather than inventing this device.
-
-#### Q5. The most careful reading of du-aspa sih-aspa is that it:
+#### Workbook MCQ 5
+**Question:** The most careful reading of du-aspa sih-aspa is that it:
 
 - A. increased specified cavalry obligation without necessarily raising zat
 - B. doubled every component of a noble's mansab
 - C. abolished branding of horses
 - D. converted jagir into hereditary property
 
-**Answer: A.**
-**Explanation:** It modifies specified military duty. The 'whole mansab doubled' lure ignores the separate zat and sawar fields.
-
-#### Q6. Dagh and chehra are best understood as:
+#### Workbook MCQ 6
+**Question:** Dagh and chehra are best understood as:
 
 - A. titles for Rajput contingents
 - B. branding and descriptive-muster controls intended to check fraud
 - C. two categories of khalisa land
 - D. a pair of Shah Jahan's architectural offices
 
-**Answer: B.**
-**Explanation:** Branding and descriptive rolls are verification devices. They did not guarantee that borrowed men or horses could never be presented.
-
-#### Q7. Which provenance sequence is correct for dagh/chehra controls?
+#### Workbook MCQ 7
+**Question:** Which provenance sequence is correct for dagh/chehra controls?
 
 - A. Sher Shah invented them; Alauddin copied him; Akbar ended them
 - B. Akbar invented them; Jahangir abandoned them; Shah Jahan restored them
 - C. Alauddin Khalji used them; Sher Shah revived/adapted them; Akbar systematised them
 - D. Shah Jahan created them solely for Deccan warfare
 
-**Answer: C.**
-**Explanation:** The sequence guards against an Akbar-first or Shah Jahan-invented claim while preserving the difference between use and systematisation.
-
-#### Q8. Jama is most accurately described as:
+#### Workbook MCQ 8
+**Question:** Jama is most accurately described as:
 
 - A. a mansabdar's personal status rank
 - B. a fortification assessment
 - C. actual realised collection in every year
 - D. assessed or estimated revenue
 
-**Answer: D.**
-**Explanation:** Jama is an assessment claim; hasil is realised collection. Treating jama as cash in hand erases the fiscal problem the month-scale addresses.
-
-#### Q9. Hasil refers to:
+#### Workbook MCQ 9
+**Question:** Hasil refers to:
 
 - A. actual realised collection
 - B. the crown's reserved revenue
 - C. a city foundation process
 - D. a nominal rank increase under du-aspa
 
-**Answer: A.**
-**Explanation:** Hasil is the realised side of the revenue vocabulary. Khalisa is crown-reserved revenue, not a synonym for collection.
-
-#### Q10. The month-scale was designed principally to:
+#### Workbook MCQ 10
+**Question:** The month-scale was designed principally to:
 
 - A. grant a bonus to officers sent to difficult districts
 - B. scale pay and service claims to a jagir's effective month rating
 - C. end all transfer of jagirdars
 - D. make every jagir a full twelve-month yield
 
-**Answer: B.**
-**Explanation:** It records and adjusts for a shortfall; it does not transform a weak yield into a reward or abolish imperial rotation.
-
-#### Q11. The repository's cited Deccan three-to-four-month cases illustrate:
+#### Workbook MCQ 11
+**Question:** The repository's cited Deccan three-to-four-month cases illustrate:
 
 - A. that Qandahar was a Deccan province
 - B. that jagirs became freehold estates
 - C. a high assessed jama could coexist with a low effective return
 - D. that Deccan posts were uniformly the richest
 
-**Answer: C.**
-**Explanation:** The point is the jama-hasil mismatch under difficult conditions; 'richest posts' reverses the source-bound implication.
-
-#### Q12. The source-bound jama series 100, about 122, about 176 should be used as:
+#### Workbook MCQ 12
+**Question:** The source-bound jama series 100, about 122, about 176 should be used as:
 
 - A. a count of mansabdars by reign
 - B. a price series for marble
 - C. a measurement of uniform peasant prosperity
 - D. an index of assessed revenue claims, not GDP or actual cash
 
-**Answer: D.**
-**Explanation:** It is an assessed-revenue index. The other readings add a denominator and meaning the source does not provide.
-
-#### Q13. Which statement best captures Shah Jahan's fiscal condition?
+#### Workbook MCQ 13
+**Question:** Which statement best captures Shah Jahan's fiscal condition?
 
 - A. managed strain in a functioning system, not a completed later crisis
 - B. a fiscally effortless golden age
 - C. an empire already administratively collapsed in 1628
 - D. a system without any jagir mismatch before Aurangzeb
 
-**Answer: A.**
-**Explanation:** The calibrated verdict holds resource pressure and functioning administration together; both extreme alternatives flatten chronology.
-
-#### Q14. The standard chronology for Mumtaz Mahal's death is:
+#### Workbook MCQ 14
+**Question:** The standard chronology for Mumtaz Mahal's death is:
 
 - A. 1630
 - B. 1631
 - C. 1658
 - D. 1638
 
-**Answer: B.**
-**Explanation:** Use 1631. The assigned Part II note's 1630 printing is a documented source discrepancy/typo, not the standard fact.
-
-#### Q15. Shahjahanabad's relevant date and caution are:
+#### Workbook MCQ 15
+**Question:** Shahjahanabad's relevant date and caution are:
 
 - A. 1658 foundation by Aurangzeb as a successor city
 - B. 1628 foundation before accession; it had no market life
 - C. 1638 foundation/transfer process; it was not built in a single year
 - D. 1649 foundation after Qandahar's loss; it was completed at once
 
-**Answer: C.**
-**Explanation:** 1638 anchors the project, while a process framing prevents the false image of an instantly completed city.
-
-#### Q16. The 1646-47 Balkh venture is best summarised as:
+#### Workbook MCQ 16
+**Question:** The 1646-47 Balkh venture is best summarised as:
 
 - A. a Deccan revenue settlement
 - B. a campaign led after Shah Jahan's deposition
 - C. permanent annexation that solved the northwest frontier
 - D. temporary military success that proved strategically and logistically unsustainable
 
-**Answer: D.**
-**Explanation:** Balkh demonstrates that battlefield performance and sustainable possession differ; permanent annexation overstates the result.
-
-#### Q17. Qandahar was lost to Safavid Persia in:
+#### Workbook MCQ 17
+**Question:** Qandahar was lost to Safavid Persia in:
 
 - A. 1649
 - B. 1628
 - C. 1657
 - D. 1633
 
-**Answer: A.**
-**Explanation:** 1649 is the required frontier date. 1633 belongs to Ahmadnagar's end, while 1657 is the illness trigger.
-
-#### Q18. The 1657 illness matters because it:
+#### Workbook MCQ 18
+**Question:** The 1657 illness matters because it:
 
 - A. created a fixed Turani-Irani war
 - B. activated a contest in a polity without a fixed primogeniture rule
 - C. ended all provincial commands
 - D. automatically installed Dara Shukoh as constitutional heir
 
-**Answer: B.**
-**Explanation:** The illness made access and reward uncertain; it did not supply an automatic legal succession or ethnic alignment formula.
-
-#### Q19. A sound statement about Mughal noble composition is that:
+#### Workbook MCQ 19
+**Question:** A sound statement about Mughal noble composition is that:
 
 - A. foreign-born elites disappeared under Shah Jahan
 - B. all Rajputs held identical rank and loyalty
 - C. the Indian element broadened while immigrant groups remained important
 - D. one exact percentage applies without date or denominator
 
-**Answer: C.**
-**Explanation:** The direction of change is supportable in the assigned notes; an unqualified percentage would pretend to data the package does not establish.
-
-#### Q20. Shahji Bhonsale is used in this topic as:
+#### Workbook MCQ 20
+**Question:** Shahji Bhonsale is used in this topic as:
 
 - A. the founder of Shahjahanabad
 - B. a Safavid governor of Qandahar
 - C. proof of mass, stable Maratha incorporation
 - D. a bounded example of elite movement and service in the Deccan field
 
-**Answer: D.**
-**Explanation:** His case shows selective elite incorporation; it cannot bear a claim about all Marathas or later Shivaji's full career.
-
-### Broad technical MCQs - original (correct options A-B-C-D x11)
-
-#### Q21. Why can monuments be used as evidence for state capacity?
+#### Workbook MCQ 21
+**Question:** Why can monuments be used as evidence for state capacity?
 
 - A. They show coordination of labour, materials, workshops and court demand
 - B. They make administrative records unnecessary
 - C. They directly reveal the empire's annual cash balance
 - D. They prove uniform rural prosperity
 
-**Answer: A.**
-**Explanation:** Monuments demonstrate mobilisation and ideology, not a complete fiscal ledger or social survey.
-
-#### Q22. Which is the best distinction between jagirdar and zamindar?
+#### Workbook MCQ 22
+**Question:** Which is the best distinction between jagirdar and zamindar?
 
 - A. A jagirdar is the same as khalisa
 - B. An imperial assignee differs from a locally rooted intermediary category
 - C. A zamindar is always a transferable mansabdar
 - D. Both are identical legal owners of all village land
 
-**Answer: B.**
-**Explanation:** Transferable imperial assignment versus rooted local claims is the core distinction; the other options collapse categories.
-
-#### Q23. A short-rated jagir could encourage which response?
+#### Workbook MCQ 23
+**Question:** A short-rated jagir could encourage which response?
 
 - A. end of all imperial dependence
 - B. conversion of jama into hasil by definition
 - C. competition for a better posting and pressure on local revenue channels
 - D. automatic abolition of cavalry obligations
 
-**Answer: C.**
-**Explanation:** Shortfall creates incentives around postings and collection; it does not magically convert assessment into cash.
-
-#### Q24. Which factor is NOT sufficient by itself to explain inflated jama?
+#### Workbook MCQ 24
+**Question:** Which factor is NOT sufficient by itself to explain inflated jama?
 
 - A. distance and collection difficulty
 - B. war and interrupted cultivation
 - C. survey or assessment error
 - D. a universal assumption that every officer committed fraud
 
-**Answer: D.**
-**Explanation:** Fraud may occur, but the package requires a multi-causal explanation including war, survey and control.
-
-#### Q25. The 1636 Deccan settlement should be described as:
+#### Workbook MCQ 25
+**Question:** The 1636 Deccan settlement should be described as:
 
 - A. a temporary political framework, not total annexation of all Deccan states
 - B. permanent incorporation of every Deccan polity
 - C. a post-1658 arrangement
 - D. a Safavid-Mughal treaty over Qandahar
 
-**Answer: A.**
-**Explanation:** It involved a bounded settlement with Bijapur and Golconda; total annexation is inaccurate.
-
-#### Q26. Why do rank awards create fiscal pressure?
+#### Workbook MCQ 26
+**Question:** Why do rank awards create fiscal pressure?
 
 - A. They eliminate the need for jagirs
 - B. They generate salary and service claims that need support
 - C. They automatically raise realised hasil
 - D. They reduce the number of court households
 
-**Answer: B.**
-**Explanation:** A rank is a claim on remuneration and service support; it cannot itself increase collection.
-
-#### Q27. A high sawar number should NOT be assumed to prove:
+#### Workbook MCQ 27
+**Question:** A high sawar number should NOT be assumed to prove:
 
 - A. that a cavalry obligation existed
 - B. that verification mattered
 - C. that the stated number of troops was always campaign-effective
 - D. that remount resources were relevant
 
-**Answer: C.**
-**Explanation:** Nominal obligation and actual force are distinct, which is why muster controls and evasion matter.
-
-#### Q28. What does transfer of jagirdars seek to preserve?
+#### Workbook MCQ 28
+**Question:** What does transfer of jagirdars seek to preserve?
 
 - A. the abolition of central appointment
 - B. permanent village ownership by assignees
 - C. hereditary provincial sovereignty
 - D. imperial dependence and limits on local entrenchment
 
-**Answer: D.**
-**Explanation:** Rotation is a central lever, although it can also create short-term extraction incentives.
-
-#### Q29. Court ceremony is relevant to political analysis because it:
+#### Workbook MCQ 29
+**Question:** Court ceremony is relevant to political analysis because it:
 
 - A. orders access, precedence and the public image of sovereignty
 - B. establishes modern equality before law
 - C. proves no noble bargaining occurred
 - D. replaces military command and revenue
 
-**Answer: A.**
-**Explanation:** Ritual is political representation, not a substitute for all coercive and fiscal institutions.
-
-#### Q30. The term 'composite elite' is strongest when it means:
+#### Workbook MCQ 30
+**Question:** The term 'composite elite' is strongest when it means:
 
 - A. a permanent ethnic federation with fixed voting blocs
 - B. a coalition incorporating varied service networks under imperial appointment
 - C. a modern representative legislature
 - D. an elite without factional rivalry
 
-**Answer: B.**
-**Explanation:** Composite describes varied incorporation, not modern representation or an absence of competition.
-
-#### Q31. The best reason to avoid an exact noble-composition percentage here is:
+#### Workbook MCQ 31
+**Question:** The best reason to avoid an exact noble-composition percentage here is:
 
 - A. Mansabs had no numerical rank
 - B. all chronicles prohibit counting
 - C. the package lacks a stated dataset, date, rank threshold and denominator
 - D. percentages are never useful in history
 
-**Answer: C.**
-**Explanation:** Quantification is valid only when its population and method travel with it; the absolute ban and factual claims are wrong.
-
-#### Q32. Khalisa revenue is:
+#### Workbook MCQ 32
+**Question:** Khalisa revenue is:
 
 - A. a cavalry allowance within sawar
 - B. a Rajput kinship tie
 - C. a synonym for hasil
 - D. revenue retained for the crown rather than assigned as jagir
 
-**Answer: D.**
-**Explanation:** Khalisa concerns crown-reserved revenue. It is neither realised collection nor a personal rank.
+#### Workbook MCQ 33
 
-#### Q33. A watan jagir should be handled as:
+**Question:** Which chronology best distinguishes the succession, ceremonial, urban and frontier milestones of Shah Jahan's reign?
 
-- A. a context-specific locally/hereditarily associated grant category
-- B. another name for du-aspa sih-aspa
-- C. proof that every jagir was freely inheritable
-- D. a universal cash salary
+- A. Jahangir's death (1627) → formal enthronement (1628) → first sitting on completed Peacock Throne (1635) → Shahjahanabad begun (1638) → Qandahar lost (1649).
+- B. Formal enthronement (1628) → Jahangir's death (1627) → Qandahar lost (1649) → Peacock Throne (1635) → Shahjahanabad (1638).
+- C. Shahjahanabad begun (1638) → Peacock Throne (1635) → Jahangir's death (1627) → Qandahar lost (1649) → enthronement (1628).
+- D. Qandahar lost (1649) → Jahangir's death (1627) → Peacock Throne (1635) → enthronement (1628) → Shahjahanabad (1638).
 
-**Answer: A.**
-**Explanation:** The term signals a different relationship but cannot erase the broader distinction between legal rule and local association.
+#### Workbook MCQ 34
 
-#### Q34. Which is the safest inference from the 1657-58 war?
+**Question:** Which account of Jujhar Singh Bundela's relations with Shah Jahan avoids conflating two phases?
 
-- A. primogeniture was violated
-- B. succession uncertainty made noble patronage calculations high stakes
-- C. each origin group chose one prince permanently
-- D. all state institutions ceased at illness
+- A. He was never pressured into submission before his final rebellion.
+- B. An initial submission with indemnity and partial jagir confiscation preceded later Gond conflict involving Prem Narayan and renewed defiance.
+- C. He captured Portuguese Hugli and received the Deccan viceroyalty as recompense.
+- D. He succeeded Aurangzeb after winning at Samugarh.
 
-**Answer: B.**
-**Explanation:** There was no fixed primogeniture rule to violate; the war reveals a vulnerable transfer mechanism, not ethnic determinism.
+#### Workbook MCQ 35
 
-#### Q35. Dharmat and Samugarh belong to:
+**Question:** Which pair correctly matches the early Shah-Jahan-period theatres and results while respecting topic boundaries?
 
-- A. the 1649 Qandahar recovery
-- B. the 1636 Deccan settlement
-- C. the 1658 phase of the succession struggle
-- D. the 1646 Balkh expedition
+- A. Daulatabad's fall in 1633 established direct Mughal annexation of all Bijapur and Golconda.
+- B. The 1636 settlement confirmed an equal alliance of independent states and ended Deccan politics permanently.
+- C. Daulatabad's fall ended the Nizam Shahi dynasty in 1633; the 1636 settlement subjected Bijapur and Golconda to an unequal relationship without annexing the entire Deccan.
+- D. Balkh's 1646–47 occupation and Qandahar's 1649 loss were both permanent Mughal territorial acquisitions.
 
-**Answer: C.**
-**Explanation:** These battles are part of the 1658 contest, while the distractors shift them to unrelated campaign dates.
+#### Workbook MCQ 36
 
-#### Q36. Khajwa and Deorai are useful here because they:
+**Question:** What is the most careful interpretation of the source-attributed building expenditure quoted by Satish Chandra from Shireen Moosvi?
 
-- A. are sites of the Taj Mahal
-- B. ended Ahmadnagar in 1633
-- C. mark Shah Jahan's accession in 1628
-- D. show that succession consolidation extended beyond the first 1658 battles
+- A. All Mughal building was financed by private jagirdars with no state cost.
+- B. The building total is a verified direct measure of the empire's entire military deficit.
+- C. Monument construction alone caused the 1657 succession struggle.
+- D. A little over Rs 289 lakhs across twenty-eight years was significant khalisa expenditure, but the source does not make it a stand-alone explanation of fiscal collapse.
 
-**Answer: D.**
-**Explanation:** They belong to the extended 1659 consolidation, avoiding the false impression that Samugarh alone ended every contest.
+#### Workbook MCQ 37
 
-#### Q37. Which claim about architecture is methodologically weakest?
+**Question:** Using Athar Ali's source-attributed series for nobles of 500 zat and above, which numerical comparison is supported?
 
-- A. The Taj Mahal alone caused the later Mughal decline
-- B. Architecture expressed sovereignty
-- C. Court demand could support craft markets
-- D. Monuments required coordinated resources
+- A. The total increased from 123 (1595) to 518 (1656), while recorded Marathas increased from 0 to 12; neither category proves a fixed political bloc.
+- B. The total decreased from 518 to 123 and recorded Marathas remained zero throughout.
+- C. Every Irani was dismissed between 1595 and 1656.
+- D. Rajputs numbered 518 in 1595, accounting for the entire high elite.
 
-**Answer: A.**
-**Explanation:** Single-cause decline claims cannot be inferred from a monument; the other statements make bounded evidence claims.
+#### Workbook MCQ 38
 
-#### Q38. The Taj Mahal link to the reign should be dated with the correction that:
+**Question:** Iranis and Turanis both increased in absolute numbers between 1595 and 1656, while their combined share declined. Which inference follows?
 
-- A. the tomb proves a 1658 accession
-- B. Mumtaz Mahal died in 1631 despite a 1630 typo in the assigned note
-- C. Mumtaz died in 1638 when Shahjahanabad was founded
-- D. the Taj is a Qandahar monument
+- A. Their declining percentage proves all Iranis left Mughal service.
+- B. The 500-zat-and-above elite expanded and diversified; a falling share need not imply falling headcounts.
+- C. The category “Indian Muslims” was entirely absent in the earlier record.
+- D. Proportional decline automatically proves an Irani–Turani coalition against Rajputs.
 
-**Answer: B.**
-**Explanation:** 1631 is the standard date; the other answers attach the monument to unrelated dates or events.
+#### Workbook MCQ 39
 
-#### Q39. What does the accessible SRDC Jama Masjid page safely provide for this export?
+**Question:** For a 2000/2000 rank with 1000 du-aspa sih-aspa sawars, a jagir outside the posting province and the relevant one-fourth muster rule, what is the source's worked effective muster?
 
-- A. a direct record of Shah Jahan's construction accounts
-- B. a current event that may be dated without checking
-- C. a static urban-conservation comparison with no verified six-month dated CA anchor
-- D. proof of a 2026 Mughal revenue policy
+- A. 250, because the special sawars receive no separate multiplier.
+- B. 500, because zat replaces the sawar obligation.
+- C. 750: 250 ordinary sawars plus 500 from the doubled designated portion.
+- D. 4,000, because the whole zat and sawar rank must each be doubled.
 
-**Answer: C.**
-**Explanation:** The page describes precinct planning but lacks the qualifying date required for a fresh CA claim; it is retained only as a bounded static link.
+#### Workbook MCQ 40
 
-#### Q40. Why are Padshahnama-style chronicles insufficient by themselves?
+**Question:** Which pairing of posting and indicative muster ratio is consistent with the Shah Jahan source, without making each ratio universal?
 
-- A. They contain no dates or appointments
-- B. they are architectural plans
-- C. they are modern statistical surveys
-- D. They foreground courtly order and may be selective about suffering or failure
+- A. Jagir in posting province: one-fifth; jagir elsewhere: one-third; Balkh: full nominal sawar.
+- B. Jagir in posting province: one-fourth; jagir elsewhere: one-fifth; Balkh: half.
+- C. Jagir in posting province: full nominal sawar; jagir elsewhere: one-half; Balkh: one-third.
+- D. Jagir in posting province: about one-third; jagir elsewhere: one-fourth; Balkh-Badakhshan: one-fifth.
 
-**Answer: D.**
-**Explanation:** Court chronicles are valuable for ceremony and appointments, but genre and purpose limit their social reach.
+#### Workbook MCQ 41
 
-#### Q41. Administrative tables require caution because:
+**Question:** Which comparison correctly reads the illustrative month-scale contract rates per sawar per month?
 
-- A. nominal categories may not equal actual cash, troops or complete populations
-- B. they are always traveller accounts
-- C. numbers can never be compared
-- D. they eliminate all need for source criticism
+- A. Twelve-month: Rs 40; eight-month: Rs 30; six-month: Rs 25, with non-proportional adjustment also reflecting reduced remount obligations.
+- B. Twelve-month: Rs 25; eight-month: Rs 30; six-month: Rs 40, because smaller jagirs commanded higher pay.
+- C. All three scales paid exactly Rs 40 in cash to each trooper, regardless of the mansabdar's contract.
+- D. Eight-month: Rs 40; six-month: Rs 30; twelve-month: Rs 25, because jama equalled hasil.
 
-**Answer: A.**
-**Explanation:** Tables can reveal patterns, but category and survival limitations prevent a direct leap to actual force or income.
+#### Workbook MCQ 42
 
-#### Q42. European traveller evidence should be used as:
+**Question:** Which conclusion is justified by juxtaposing the source's jama index and high-rank elite series?
 
-- A. a replacement for Persian chronicles
-- B. a situated observation to be triangulated with other evidence
-- C. a source that applies only before Akbar
-- D. a universal census of rural society
+- A. The jama index reached 518 in 1656, exactly matching the number of nobles.
+- B. The 500-zat-and-above elite increased about 4.2-fold (123 to 518), while indexed paper jama rose from 100 to about 176; this invites inquiry into claims versus realised revenue, not an instant-collapse verdict.
+- C. An increase in assessed jama proves that every jagir's realised hasil increased at the same rate.
+- D. All fiscal pressure started only after 1707, so Shah Jahan used no salary or contingent adjustments.
 
-**Answer: B.**
-**Explanation:** Travellers offer observations filtered by position and comparison; they neither replace nor universally invalidate court sources.
+#### Workbook MCQ 43
 
-#### Q43. What is the most accurate claim about Bernier in this topic?
+**Question:** The assigned OCR narrative prints “1630” for Mumtaz Mahal's death and “1947–48” in a sentence about the noble series. Which editorial treatment follows the core's factual controls?
 
-- A. his prose is an official revenue table
-- B. he proves every jagir failed
-- C. His later observations cannot be transparently projected onto all of Shah Jahan's reign
-- D. He was a Padshahnama author
+- A. Treat both OCR strings as new standard historical dates.
+- B. Date Mumtaz's death to 1947–48 and the elite table to 1630.
+- C. Use the standard 1631 date for Mumtaz while noting the variant; read the contextual elite-table year as 1647–48 rather than reproducing an obvious typo.
+- D. Remove all dates for the entire reign because one source has discrepancies.
 
-**Answer: C.**
-**Explanation:** Chronology and viewpoint limit Bernier's reach; he remains useful with explicit qualification.
+#### Workbook MCQ 44
 
-#### Q44. Why does a Deccan posting require a multi-factor analysis?
+**Question:** Which interpretation of the 1657–58 succession contest best connects court rank with military politics?
 
-- A. all Deccan offices were identical
-- B. Deccan geography automatically prevents any revenue
-- C. only ethnicity determines a posting's value
-- D. terrain, war, control, survey and collection affect effective yield
+- A. Dara's exceptional favour legally abolished rival princes' claims under accepted primogeniture.
+- B. Dharmat and Samugarh were votes on an empire-wide religious referendum.
+- C. Shah Jahan's illness occurred after Aurangzeb's uncontested coronation.
+- D. Dara's favour did not prevent his brothers' mobilisation; provincial resources, noble alignments and battles decided the succession and led to Shah Jahan's confinement.
 
-**Answer: D.**
-**Explanation:** The package rejects geographical determinism and ethnic reduction while recognising material constraints.
+### Part II — Matched answer key and remediation
 
-#### Q45. What did Shah Jahan inherit rather than invent?
+#### Answer & reasoning — Workbook MCQ 1
 
-- A. the mansab-jagir framework with its Akbari foundations
-- B. the standard date 1631 for Mumtaz's death
-- C. the Safavid capture of Qandahar
-- D. the 1657 illness
+**Correct answer:** A
 
-**Answer: A.**
-**Explanation:** Institutional inheritance is the point; the other choices are events or dates, not an administrative framework.
+**Option-wise explanations:**
+- **A. A transferable assignment of a state revenue claim linked to service** — Correct. In this topic a jagir is a transferable assignment of state revenue linked to service and remuneration.
+- **B. Unrestricted private ownership of a province** — No. That choice turns a revenue assignment into outright proprietary ownership, the precise confusion this chapter tells you to avoid.
+- **C. A cash pension unrelated to military obligations** — No. A cash pension severs the service and revenue-assignment link that makes a jagir institutionally important.
+- **D. A hereditary village office held by every zamindar** — No. A hereditary village office belongs to a different local order; it is not the empire-wide jagir mechanism.
 
-#### Q46. An imperial favour could advance a noble because:
+**Examiner trap:** The Persian term invites a landownership translation when the institution is actually a service-linked revenue assignment.
 
-- A. the system was an anonymous modern civil service
-- B. appointment and patronage were central to rank and access
-- C. jagirs were legally automatic inheritances
-- D. all ranks were elected by zamindars
+#### Answer & reasoning — Workbook MCQ 2
 
-**Answer: B.**
-**Explanation:** Imperial appointment sat at the system's centre, alongside household and kin networks; election and automatic inheritance are anachronisms.
+**Correct answer:** B
 
-#### Q47. Why is legal non-heredity compatible with elite family continuity?
+**Option-wise explanations:**
+- **A. the number of months for which a jagir yielded revenue** — No. Month value belongs to the rating of a jagir, not to the meaning of zat.
+- **B. personal status and the related pay grade** — Correct. Zat denotes personal status and the pay grade attached to that standing.
+- **C. a prince's territorial base** — No. A prince's territorial base may affect politics, but it is not what the zat field records.
+- **D. the actual annual hasil of a jagir** — No. Hasil is realised collection, whereas zat is a rank term inside mansabdari.
 
-- A. no family could have court contact twice
-- B. rank depended only on land ownership
-- C. social capital, clients, training and reputation can transmit advantages
-- D. mansabs automatically passed to eldest sons
+**Examiner trap:** Students often drag month-scale or hasil vocabulary into a rank term and lose the status-pay distinction.
 
-**Answer: C.**
-**Explanation:** The distinction between legal rule and social reproduction is exactly what the question tests.
+#### Answer & reasoning — Workbook MCQ 3
 
-#### Q48. Which is the best interpretation of a faction in 1657-58?
+**Correct answer:** C
 
-- A. a biologically fixed ethnic camp
-- B. a modern political party with a manifesto
-- C. a village revenue unit
-- D. a shifting patronage alignment around princes, rewards and survival
+**Option-wise explanations:**
+- **A. the crown's reserved revenue** — No. That phrase belongs to khalisa, the crown-retained share of revenue, whereas sawar records a cavalry liability inside rank structure.
+- **B. the noble's legal title to land** — No. Legal title to land is the wrong frame; sawar concerns cavalry service, not landed property.
+- **C. the stipulated cavalry obligation** — Correct. Sawar specifies the cavalry obligation and the pay claim related to that obligation.
+- **D. the amount of jama retained as khalisa** — No. Jama retained as khalisa is a revenue question, while sawar is a military-rank question.
 
-**Answer: D.**
-**Explanation:** Faction is relational and temporal; fixed ethnicity and modern-party language distort the court setting.
+**Examiner trap:** Military obligation is easily mistaken for a revenue category because rank terms are memorised without their functions.
 
-#### Q49. Why did princely households matter to fiscal politics?
+#### Answer & reasoning — Workbook MCQ 4
 
-- A. they could generate commands, rewards and competing claims on resources
-- B. they converted all jagirs to khalisa
-- C. they made succession automatic
-- D. they removed princes from military affairs
+**Correct answer:** D
 
-**Answer: A.**
-**Explanation:** Households are nodes of patronage and command, intensifying competition when the emperor is incapacitated.
+**Option-wise explanations:**
+- **A. Shah Jahan** — No. Shah Jahan inherited and worked with the device; the assigned source first places it under Jahangir.
+- **B. Alauddin Khalji** — No. Alauddin belongs to an earlier Sultanate world and is unrelated to this Mughal term.
+- **C. Aurangzeb** — No. Aurangzeb is too late for the first appearance of this device in the assigned tradition.
+- **D. Jahangir** — Correct. The source sequence first associates du-aspa sih-aspa with Jahangir.
 
-#### Q50. The word 'suzerainty' is useful for the 1636 settlement only when it:
+**Examiner trap:** The exam can shift from first appearance to later use and trap anyone who only remembers Shah Jahan's mature phase.
 
-- A. means equal modern state sovereignty
-- B. distinguishes a hierarchical relation from complete annexation
-- C. means no military pressure existed
-- D. proves Bijapur and Golconda vanished
+#### Answer & reasoning — Workbook MCQ 5
 
-**Answer: B.**
-**Explanation:** A hierarchy may preserve internal courts; equating it with equality or disappearance loses the political form.
+**Correct answer:** A
 
-#### Q51. Why are campaign expenditure figures omitted here?
+**Option-wise explanations:**
+- **A. increased specified cavalry obligation without necessarily raising zat** — Correct. The device intensified a specified cavalry obligation without automatically lifting the holder's zat rank.
+- **B. doubled every component of a noble's mansab** — No. The whole mansab did not mechanically double; the point was a targeted increase in cavalry duty.
+- **C. abolished branding of horses** — No. Horse branding remained relevant; du-aspa sih-aspa did not abolish verification.
+- **D. converted jagir into hereditary property** — No. Hereditary property has nothing to do with this cavalry-enhancement device.
 
-- A. cost has no analytical relevance
-- B. all Mughal campaigns were costless
-- C. the assigned sources do not securely establish a figure for this use
-- D. money did not exist in imperial administration
+**Examiner trap:** A targeted cavalry enhancement is frequently inflated into a doubling of the entire mansab.
 
-**Answer: C.**
-**Explanation:** Cost is analytically relevant but must not be fabricated; named logistics and claims provide safer evidence.
+#### Answer & reasoning — Workbook MCQ 6
 
-#### Q52. A high jama in a newly acquired tract may still fail to support a mansabdar because:
+**Correct answer:** B
 
-- A. transfer guarantees a full yield
-- B. sawar removes all collection risk
-- C. jama is another word for realised cash
-- D. assessment and actual collection can diverge
+**Option-wise explanations:**
+- **A. titles for Rajput contingents** — No. Rajput contingents may serve inside the empire, but dagh and chehra are not their titles.
+- **B. branding and descriptive-muster controls intended to check fraud** — Correct. Horse branding and descriptive muster rolls were verification devices meant to check fraudulent claims.
+- **C. two categories of khalisa land** — No. Khalisa categories concern revenue retention, not muster control.
+- **D. a pair of Shah Jahan's architectural offices** — No. These are administrative-military checks, not architectural or urban offices.
 
-**Answer: D.**
-**Explanation:** The jama-hasil distinction drives the answer; neither transfer nor rank removes collection problems.
+**Examiner trap:** Verification devices look technical and are therefore often misremembered as labels or land categories.
 
-#### Q53. Which claim properly links month-scale and peasant pressure?
+#### Answer & reasoning — Workbook MCQ 7
 
-- A. short-rated assignments could create extraction incentives but do not prove uniform oppression
-- B. no local intermediary mattered
-- C. every month-rated jagir automatically caused famine
-- D. the month-scale benefited cultivators by definition
+**Correct answer:** C
 
-**Answer: A.**
-**Explanation:** The language must be conditional and multi-actor; automatic famine and benefit claims exceed the evidence.
+**Option-wise explanations:**
+- **A. Sher Shah invented them; Alauddin copied him; Akbar ended them** — No. That sequence reverses chronology and even falsely makes Akbar the one who ended the controls.
+- **B. Akbar invented them; Jahangir abandoned them; Shah Jahan restored them** — No. Akbar did not invent the whole lineage from nothing, and Jahangir did not abandon it.
+- **C. Alauddin Khalji used them; Sher Shah revived/adapted them; Akbar systematised them** — Correct. Alauddin used comparable checks, Sher Shah revived or adapted them, and Akbar systematised them in Mughal practice.
+- **D. Shah Jahan created them solely for Deccan warfare** — No. Shah Jahan did not create dagh and chehra merely for Deccan warfare.
 
-#### Q54. A careful Mains conclusion on 'golden age' should:
+**Examiner trap:** Chronology questions here punish anyone who confuses earlier precedent, revival and Mughal systematisation.
 
-- A. treat revenue assessment as a welfare survey
-- B. separate courtly magnificence from distributional and fiscal conditions
-- C. declare all subjects prosperous from monument size
-- D. deny any imperial capacity because Qandahar was lost
+#### Answer & reasoning — Workbook MCQ 8
 
-**Answer: B.**
-**Explanation:** A graded conclusion preserves both evidence of capacity and limits of its social reach.
+**Correct answer:** D
 
-#### Q55. What does the 1638 capital project show most directly?
+**Option-wise explanations:**
+- **A. a mansabdar's personal status rank** — No. Personal status belongs to zat, not to jama.
+- **B. a fortification assessment** — No. A fortification assessment is not the technical meaning of jama in this chapter.
+- **C. actual realised collection in every year** — No. Actual realised collection is hasil; jama is the paper assessment.
+- **D. assessed or estimated revenue** — Correct. Jama is the assessed or estimated revenue claim recorded on paper.
 
-- A. the start of Aurangzeb's reign
-- B. a proof that every province paid full jama
-- C. urban sovereignty and the court's capacity to organise a capital process
-- D. a city completed in twelve months
+**Examiner trap:** Paper assessment is routinely mistaken for money actually available to the state or noble.
 
-**Answer: C.**
-**Explanation:** The project demonstrates coordination, but its timing and scale cannot be converted into unrelated fiscal or reign claims.
+#### Answer & reasoning — Workbook MCQ 9
 
-#### Q56. The best use of a schematic map in this topic is to:
+**Correct answer:** A
 
-- A. supply precise survey measurements
-- B. prove modern national borders
-- C. replace chronology
-- D. show strategic relationships while marking that it is not to scale
+**Option-wise explanations:**
+- **A. actual realised collection** — Correct. Hasil names the cash actually realised from an assignment after the paper estimate has passed through collection on the ground.
+- **B. the crown's reserved revenue** — No. That phrase identifies revenue kept in the emperor's own hands; the asked-for term is realised collection from an assignment.
+- **C. a city foundation process** — No. City foundation has no connection with this revenue term.
+- **D. a nominal rank increase under du-aspa** — No. Hasil is not a rank increment or a cavalry device.
 
-**Answer: D.**
-**Explanation:** Schematic maps aid spatial reasoning but cannot offer survey precision or erase temporal evidence.
+**Examiner trap:** Candidates who memorise jama and hasil together often swap them under pressure.
 
-#### Q57. Which formulation of the Deccan fiscal issue is strongest?
+#### Answer & reasoning — Workbook MCQ 10
 
-- A. nominal resources and realisable revenue were separated by war, control and collection
-- B. Deccan was simply poor on every measure
-- C. the issue was irrelevant to mansabdari
-- D. Deccan was simply rich on every measure
+**Correct answer:** B
 
-**Answer: A.**
-**Explanation:** The source says inflated jama and low ratings can coexist; simple rich/poor labels miss the mechanism.
+**Option-wise explanations:**
+- **A. grant a bonus to officers sent to difficult districts** — No. The month-scale cut or adjusted claims downward; it was not a hardship allowance.
+- **B. scale pay and service claims to a jagir's effective month rating** — Correct. It scaled pay and service expectations to the effective month value of the jagir.
+- **C. end all transfer of jagirdars** — No. Imperial transfer continued; the month-scale dealt with yield, not with ending rotation.
+- **D. make every jagir a full twelve-month yield** — No. It recognised that many jagirs did not yield a full twelve months in practice.
 
-#### Q58. What does 'mansab inflation' most safely mean?
+**Examiner trap:** Adjustment downward gets retold as a privilege or bonus when the whole point is reduced effective yield.
 
-- A. the end of the mansab system
-- B. growth in nominal rank and military-salary claims
-- C. a rise in food prices only
-- D. proof that every listed troop existed
+#### Answer & reasoning — Workbook MCQ 11
 
-**Answer: B.**
-**Explanation:** Inflation is about paper claims and rank burden, not a direct census of soldiers or price movement.
+**Correct answer:** C
 
-#### Q59. Why could dagh/chehra not eliminate fraud entirely?
+**Option-wise explanations:**
+- **A. that Qandahar was a Deccan province** — No. Qandahar and the Deccan belong to different strategic theatres.
+- **B. that jagirs became freehold estates** — No. A low month value did not convert assignment into freehold property.
+- **C. a high assessed jama could coexist with a low effective return** — Correct. The cited cases show that a high assessed jama could still produce a poor usable return.
+- **D. that Deccan posts were uniformly the richest** — No. The whole point of these Deccan examples is that nominal richness could mask unattractive real yield.
 
-- A. chehra was a monument
-- B. all officers refused inspection
-- C. a snapshot muster could be evaded by borrowed horses or temporary men
-- D. branding had no verification purpose
+**Examiner trap:** A large strategic region is lazily assumed to be uniformly rich, which reverses the source logic.
 
-**Answer: C.**
-**Explanation:** The devices were meaningful checks, but the source's borrowed-contingent problem demonstrates their limits.
+#### Answer & reasoning — Workbook MCQ 12
 
-#### Q60. Which contrast is sound?
+**Correct answer:** D
 
-- A. Aurangzeb preceded Shah Jahan
-- B. Akbar had no mansabdari and Shah Jahan invented it
-- C. Jahangir created every jagir in 1657
-- D. Akbar's foundation/systematisation versus Shah Jahan's mature adjustment under strain
+**Option-wise explanations:**
+- **A. a count of mansabdars by reign** — No. The sequence does not count nobles; it tracks assessed revenue movement.
+- **B. a price series for marble** — No. Marble prices are unrelated to the cited revenue index.
+- **C. a measurement of uniform peasant prosperity** — No. The source does not turn the series into a direct measure of peasant prosperity.
+- **D. an index of assessed revenue claims, not GDP or actual cash** — Correct. It is an index of assessed revenue claims, not a GDP figure or a count of cash actually collected.
 
-**Answer: D.**
-**Explanation:** The contrast preserves institutional continuity and changing pressure rather than inventing a Shah Jahan origin.
+**Examiner trap:** Revenue indexes tempt over-reading into GDP, welfare or actual cash flow.
 
-#### Q61. Which statement avoids a premature-decline narrative?
+#### Answer & reasoning — Workbook MCQ 13
 
-- A. later jagirdari crisis matured under Aurangzeb and after, though roots were visible earlier
-- B. month-scale means collapse occurred in 1628
-- C. architecture alone explains all later events
-- D. no fiscal pressure existed before 1707
+**Correct answer:** A
 
-**Answer: A.**
-**Explanation:** The right answer is chronological: roots and later maturation differ; both absolute alternatives are false.
+**Option-wise explanations:**
+- **A. managed strain in a functioning system, not a completed later crisis** — Correct. The strongest reading is a functioning empire under managed strain, not a fully matured later crisis.
+- **B. a fiscally effortless golden age** — No. The reign was brilliant, but not fiscally effortless.
+- **C. an empire already administratively collapsed in 1628** — No. The empire did not begin in administrative collapse in 1628.
+- **D. a system without any jagir mismatch before Aurangzeb** — No. Jagir mismatch and adjustment were already visible before Aurangzeb.
 
-#### Q62. Why is Qandahar relevant to this topic?
+**Examiner trap:** The chapter punishes both triumphalist and collapse-first binaries.
 
-- A. it eliminates the need to study Balkh
-- B. it tests logistics, princely command and the limits of frontier projection
-- C. it proves all Safavid policy was domestic
-- D. it was a Deccan month-rated jagir
+#### Answer & reasoning — Workbook MCQ 14
 
-**Answer: B.**
-**Explanation:** Qandahar is a bounded state-capacity case; it is neither a Deccan assignment nor a substitute for all frontier analysis.
+**Correct answer:** B
 
-#### Q63. Why does Balkh not equal permanent expansion?
+**Option-wise explanations:**
+- **A. 1630** — No. 1630 survives only as a source-variant typo in one assigned narrative.
+- **B. 1631** — Correct. 1631 is the standard date for Mumtaz Mahal's death.
+- **C. 1658** — No. 1658 belongs to the deposition year, not to Mumtaz Mahal.
+- **D. 1638** — No. 1638 is tied to Shahjahanabad, not to Mumtaz's death.
 
-- A. Balkh was never entered by a Mughal force
-- B. it was founded by Shah Jahan as a capital
-- C. retention and supply are separate from temporary battlefield success
-- D. all expeditions yield permanent provinces
+**Examiner trap:** A printed source variant can dislodge the standard chronology if you have not labelled it as a typo risk.
 
-**Answer: C.**
-**Explanation:** The distinction between tactical success and durable sustainability is the required reasoning.
+#### Answer & reasoning — Workbook MCQ 15
 
-#### Q64. Which source would most directly record a courtly appointment?
+**Correct answer:** C
 
-- A. a later traveller's general comparison
-- B. a modern satellite map
-- C. a schematic revision diagram
-- D. a Padshahnama-type court chronicle
+**Option-wise explanations:**
+- **A. 1658 foundation by Aurangzeb as a successor city** — No. 1658 belongs to the succession outcome, and Aurangzeb did not found Shahjahanabad.
+- **B. 1628 foundation before accession; it had no market life** — No. The city project is not pre-accession, and it certainly did not lack market life.
+- **C. 1638 foundation/transfer process; it was not built in a single year** — Correct. 1638 marks the beginning of the capital project, which unfolded as a process rather than a one-year event.
+- **D. 1649 foundation after Qandahar's loss; it was completed at once** — No. Qandahar's 1649 loss is unrelated to the city's foundation chronology.
 
-**Answer: D.**
-**Explanation:** Chronicles are highly useful for appointment and ceremonial claims, although they require genre criticism for broader social conclusions.
+**Examiner trap:** Capital projects are often reduced to one date, erasing the process nature of urban foundation.
 
-### Remedial MCQs - original (correct options A-B-C-D x4)
+#### Answer & reasoning — Workbook MCQ 16
 
-#### Q65. A student calls Shah Jahan's reign a 'golden age' and concludes every subject prospered. What is the correction?
+**Correct answer:** D
 
-- A. Courtly splendour does not establish universal prosperity
-- B. No courtly wealth existed at all
-- C. Jama is a direct welfare index
-- D. Monuments prove every cultivator received equal income
+**Option-wise explanations:**
+- **A. a Deccan revenue settlement** — No. Balkh was not a Deccan settlement.
+- **B. a campaign led after Shah Jahan's deposition** — No. The venture occurred during Shah Jahan's reign, not after his deposition.
+- **C. permanent annexation that solved the northwest frontier** — No. Permanent annexation is exactly what the campaign failed to secure.
+- **D. temporary military success that proved strategically and logistically unsustainable** — Correct. Balkh showed that temporary battlefield success could still be strategically and logistically unsustainable.
 
-**Answer: A.**
-**Explanation:** The error is a perspective jump from court evidence to every subject; the correction retains splendour while demanding social evidence.
+**Examiner trap:** Campaign-entry narratives often get overstated into permanent conquest.
 
-#### Q66. A student says the Taj Mahal caused Mughal decline. What is the best response?
+#### Answer & reasoning — Workbook MCQ 17
 
-- A. Architecture has no political-economic meaning
-- B. A single monument cannot establish causation without wider fiscal comparison
-- C. The Taj was built after 1707
-- D. All military costs were irrelevant
+**Correct answer:** A
 
-**Answer: B.**
-**Explanation:** The claim needs evidence of scale and competing demands; denying architecture's meaning or shifting dates does not repair causation.
+**Option-wise explanations:**
+- **A. 1649** — Correct. Qandahar was lost in 1649, after which repeated recovery attempts failed.
+- **B. 1628** — No. 1628 is the accession year, not the Qandahar loss.
+- **C. 1657** — No. 1657 marks the illness crisis, not the Safavid recovery of Qandahar.
+- **D. 1633** — No. 1633 belongs to Ahmadnagar and Daulatabad, not to Qandahar.
 
-#### Q67. Which date should replace the repository Part II's printed 1630 for Mumtaz Mahal's death?
+**Examiner trap:** North-west chronology gets scrambled when Ahmadnagar, accession and illness dates are mixed together.
 
-- A. 1638
-- B. 1657
-- C. 1631
-- D. 1628
+#### Answer & reasoning — Workbook MCQ 18
 
-**Answer: C.**
-**Explanation:** The remedy is precise: 1631 is standard; 1630 is retained only in the fact-risk note as a typo.
+**Correct answer:** B
 
-#### Q68. A student says sawar equals personal status. What is the correction?
+**Option-wise explanations:**
+- **A. created a fixed Turani-Irani war** — No. The conflict did not freeze into one ethnic civil war formula.
+- **B. activated a contest in a polity without a fixed primogeniture rule** — Correct. The illness activated a succession contest in a polity without a fixed rule of primogeniture.
+- **C. ended all provincial commands** — No. Provincial commands became more important, not irrelevant, once succession opened up.
+- **D. automatically installed Dara Shukoh as constitutional heir** — No. Dara's favour and designation did not make his accession constitutionally automatic.
 
-- A. Zat is a Deccan treaty
-- B. Sawar denotes crown revenue; zat denotes actual hasil
-- C. Both denote only city planning
-- D. Sawar denotes cavalry obligation; zat denotes personal status/pay grade
+**Examiner trap:** Heir-apparent language is regularly confused with a legal rule of automatic succession.
 
-**Answer: D.**
-**Explanation:** The two fields perform different work. The first option is the required pairwise correction.
+#### Answer & reasoning — Workbook MCQ 19
 
-#### Q69. A student says du-aspa sih-aspa automatically raises zat. What is the correction?
+**Correct answer:** C
 
-- A. It increases specified cavalry obligation without itself raising zat
-- B. It changes jama into hasil
-- C. It is a Shahjahanabad market tax
-- D. It makes jagirs hereditary
+**Option-wise explanations:**
+- **A. foreign-born elites disappeared under Shah Jahan** — No. Foreign-born or immigrant-origin elites remained important under Shah Jahan.
+- **B. all Rajputs held identical rank and loyalty** — No. Rajput houses did not all hold the same rank or make the same political choices.
+- **C. the Indian element broadened while immigrant groups remained important** — Correct. The Indian element widened, yet immigrant groups such as Iranis and Turanis stayed influential.
+- **D. one exact percentage applies without date or denominator** — No. Without a date, threshold and denominator, an exact percentage would pretend to evidence the question has not supplied.
 
-**Answer: A.**
-**Explanation:** The trap is to collapse military enhancement into personal rank; the other choices are unrelated vocabulary errors.
+**Examiner trap:** Composition questions lure students into fake precision or into flattening diversity into one bloc.
 
-#### Q70. A student says Shah Jahan invented mansabdari and dagh. What is the correction?
+#### Answer & reasoning — Workbook MCQ 20
 
-- A. Jahangir abolished all verification
-- B. He inherited an Akbari system; dagh/chehra have earlier Alauddin-Sher Shah-Akbar provenance
-- C. dagh is a type of mausoleum
-- D. mansab began only after 1658
+**Correct answer:** D
 
-**Answer: B.**
-**Explanation:** The remedy combines institutional continuity with the correct control provenance; it rejects a Shah Jahan origin myth.
+**Option-wise explanations:**
+- **A. the founder of Shahjahanabad** — No. Shahji Bhonsale did not found Shahjahanabad.
+- **B. a Safavid governor of Qandahar** — No. He was not a Safavid official at Qandahar.
+- **C. proof of mass, stable Maratha incorporation** — No. One Deccan elite career cannot stand in for mass, stable Maratha incorporation.
+- **D. a bounded example of elite movement and service in the Deccan field** — Correct. Shahji is a bounded example of elite movement and service politics in the Deccan field.
 
-#### Q71. A student calls a jagir the noble's owned land. What is the correction?
+**Examiner trap:** One Deccan career can be wrongly stretched into the full later Maratha story.
 
-- A. It was a uniform village caste title
-- B. It had no link to service
-- C. It was a transferable assignment of state revenue claim
-- D. It was always khalisa
+#### Answer & reasoning — Workbook MCQ 21
 
-**Answer: C.**
-**Explanation:** This distinction prevents a freehold translation; service-linked assignment is the operative institutional idea.
+**Correct answer:** A
 
-#### Q72. A student equates jama with money actually collected. What is the correction?
+**Option-wise explanations:**
+- **A. They show coordination of labour, materials, workshops and court demand** — Correct. Major monuments show the court's capacity to organise labour, workshops, materials and imperial demand.
+- **B. They make administrative records unnecessary** — No. Monuments do not eliminate the need for administrative or revenue evidence.
+- **C. They directly reveal the empire's annual cash balance** — No. A building project is not the same thing as a full annual fiscal ledger.
+- **D. They prove uniform rural prosperity** — No. Monumental splendour cannot certify uniform prosperity across the countryside.
 
-- A. hasil is a type of monument
-- B. Jama is cavalry, while hasil is rank
-- C. both mean permanent property
-- D. Jama is assessed revenue, while hasil is realised collection
+**Examiner trap:** Monuments are either treated as total proof or dismissed as useless, instead of being used with proper limits.
 
-**Answer: D.**
-**Explanation:** The answer restores the assessment-realisation gap that makes month ratings intelligible.
+#### Answer & reasoning — Workbook MCQ 22
 
-#### Q73. A student calls the month-scale a bonus for officers. What is the correction?
+**Correct answer:** B
 
-- A. It reduced/scaled entitlement to an effective month rating
-- B. It guaranteed twelve months' full yield
-- C. It created primogeniture
-- D. It abolished cavalry service
+**Option-wise explanations:**
+- **A. A jagirdar is the same as khalisa** — No. Khalisa is crown-retained revenue, not the same thing as a jagirdar.
+- **B. An imperial assignee differs from a locally rooted intermediary category** — Correct. The best distinction is between an imperial assignee and a more locally rooted intermediary category.
+- **C. A zamindar is always a transferable mansabdar** — No. A zamindar is not simply a transferable mansabdar under another name.
+- **D. Both are identical legal owners of all village land** — No. These categories cannot be collapsed into one idea of universal legal landownership.
 
-**Answer: A.**
-**Explanation:** It is an accounting adjustment for shortfall, not a premium allowance or constitutional rule.
+**Examiner trap:** Imperial assignee and locally rooted intermediary are classic close-option categories.
 
-#### Q74. A student says any month-rating proves the full later jagirdari crisis had already occurred. What is the correction?
+#### Answer & reasoning — Workbook MCQ 23
 
-- A. It proves no strain existed
-- B. It signals managed strain and roots, not the completed later crisis
-- C. it ends all transfers
-- D. it refers only to art history
+**Correct answer:** C
 
-**Answer: B.**
-**Explanation:** The temporal qualifier matters: a pressure-management device cannot be collapsed into the whole later crisis.
+**Option-wise explanations:**
+- **A. end of all imperial dependence** — No. A short-rated jagir did not end imperial dependence; it often intensified dependence on finding a better assignment.
+- **B. conversion of jama into hasil by definition** — No. Jama never turns into hasil merely by assertion.
+- **C. competition for a better posting and pressure on local revenue channels** — Correct. Shortfall encouraged competition for stronger postings and harder pressure on available local revenue channels.
+- **D. automatic abolition of cavalry obligations** — No. Cavalry obligations persisted, though effective maintenance became harder.
 
-#### Q75. A student calls every Deccan jagir a rich reward. What is the correction?
+**Examiner trap:** Shortfall is often remembered as a bookkeeping note rather than as an incentive structure.
 
-- A. Qandahar lay in the Deccan
-- B. all Deccan revenue was khalisa
-- C. Source-bound cases show inflated jama and low effective ratings could make postings unattractive
-- D. Deccan had no administrative relevance
+#### Answer & reasoning — Workbook MCQ 24
 
-**Answer: C.**
-**Explanation:** The remedy keeps the mismatch between assessed and usable return, rather than treating an expansive region as uniformly rich.
+**Correct answer:** D
 
-#### Q76. A student inserts an exact composition percentage without citation. What is the correction?
+**Option-wise explanations:**
+- **A. distance and collection difficulty** — No. Distance and collection difficulty can contribute to inflation of assessment.
+- **B. war and interrupted cultivation** — No. War and broken cultivation can also widen the gap between paper and real yield.
+- **C. survey or assessment error** — No. Survey or assessment error is another plausible factor.
+- **D. a universal assumption that every officer committed fraud** — Correct. A blanket story that every shortfall came from officer fraud ignores the multi-causal structure of the problem.
 
-- A. Percentages become valid if written in bold
-- B. all categories were legally identical
-- C. no historian may discuss composition
-- D. State the trend or supply a dataset, date, denominator and method
+**Examiner trap:** Moralising fraud stories often displace harder multi-causal fiscal reasoning.
 
-**Answer: D.**
-**Explanation:** Precision requires a defined population and method; typography cannot convert an unsupported figure into evidence.
+#### Answer & reasoning — Workbook MCQ 25
 
-#### Q77. A student says Mughal nobility was legally hereditary. What is the correction?
+**Correct answer:** A
 
-- A. Mansabs were imperial grants, though family networks reproduced advantage socially
-- B. Every son automatically inherited zat
-- C. jagirdars elected successors
-- D. families were absent from court
+**Option-wise explanations:**
+- **A. a temporary political framework, not total annexation of all Deccan states** — Correct. The 1636 settlement is safest as a hierarchical political framework rather than total annexation of all Deccan states.
+- **B. permanent incorporation of every Deccan polity** — No. Bijapur and Golconda were subordinated, not wiped out as separate courts in 1636.
+- **C. a post-1658 arrangement** — No. The settlement belongs to Shah Jahan's reign before 1658.
+- **D. a Safavid-Mughal treaty over Qandahar** — No. Qandahar belongs to the Safavid frontier, not to the Deccan settlement.
 
-**Answer: A.**
-**Explanation:** Legal non-heredity and social reproduction must be held together; either extreme loses the institutional nuance.
+**Examiner trap:** The word settlement tempts some students into annexation language and others into equality language.
 
-#### Q78. A student says succession factions were fixed ethnic camps. What is the correction?
+#### Answer & reasoning — Workbook MCQ 26
 
-- A. only zamindars chose emperors
-- B. Alignments shifted with patrons, princes, rewards and military circumstances
-- C. Origin labels never existed
-- D. all nobles avoided the war
+**Correct answer:** B
 
-**Answer: B.**
-**Explanation:** Origin categories existed but did not mechanically determine allegiance; patronage logic is the closer explanation.
+**Option-wise explanations:**
+- **A. They eliminate the need for jagirs** — No. More rank awards created a greater need for supported assignments rather than eliminating it.
+- **B. They generate salary and service claims that need support** — Correct. Rank awards generate salary, command and service claims that must be sustained materially.
+- **C. They automatically raise realised hasil** — No. A paper promotion cannot by itself raise realised collection.
+- **D. They reduce the number of court households** — No. Court households multiplied rather than shrank under a larger service elite.
 
-#### Q79. A student says the 1657-58 war instantly destroyed the empire. What is the correction?
+**Examiner trap:** An honorific-looking rank is easy to misread as costless prestige.
 
-- A. It was a peaceful primogeniture transfer
-- B. it was only a monument dispute
-- C. It violently reconfigured the command centre without instant institutional collapse
-- D. it occurred before Shah Jahan's reign
+#### Answer & reasoning — Workbook MCQ 27
 
-**Answer: C.**
-**Explanation:** The war demonstrates transfer vulnerability and factional stakes, but administrative structures did not vanish overnight.
+**Correct answer:** C
 
-#### Q80. A response turns Topic 21 into a full account of Akbar, Shivaji and Mughal culture. What is the correction?
+**Option-wise explanations:**
+- **A. that a cavalry obligation existed** — No. A high sawar number does indicate a cavalry obligation.
+- **B. that verification mattered** — No. Verification mattered precisely because cavalry claims could be inflated.
+- **C. that the stated number of troops was always campaign-effective** — Correct. The nominal sawar figure cannot be read as proof that all listed troops were always ready and effective in the field.
+- **D. that remount resources were relevant** — No. Remount resources are very much part of why the distinction matters.
 
-- A. omit mansab history altogether
-- B. move all chronology to Topic 24
-- C. Repeat every adjacent package word for word
-- D. Use cross-links: retain foundations, bridges and boundaries without duplicating owner topics
+**Examiner trap:** Nominal cavalry figures are repeatedly mistaken for a field-ready headcount.
 
-**Answer: D.**
-**Explanation:** The topic needs the Akbar-Jahangir foundations and later bridges, but ownership boundaries protect clarity and causal precision.
+#### Answer & reasoning — Workbook MCQ 28
 
-### Semantic-completeness coverage drills — Medieval Topic 21
+**Correct answer:** D
 
-| Drill | Prompt | Minimum route | Fatal trap |
-|---|---|---|---|
-| A | Date accession. | Jahangir dies 1627 -> enthronement 1628 | one undifferentiated date |
-| B | Frame consolidation. | Bundela/Lodi/Hugli/frontiers -> varied control forms | uniform annexation |
-| C | Assess magnificence. | monuments -> ideology/labour -> Moosvi fiscal caution | buildings caused collapse |
-| D | Define ruling class. | ranked service elite -> mansab/office/jagir/service | ethnic caste |
-| E | Read composition. | 123 to 518 -> share versus absolute number | fixed Irani/Turani blocs |
-| F | Define mansab terms. | zat/sawar/dagh/chehra | rank equals ready army |
-| G | Define jagir terms. | revenue assignment + jama/hasil | private landownership |
-| H | Explain du-aspa. | double specified sawar, not zat | doubling all rank |
-| I | Explain muster ratios. | one-third/one-fourth/one-fifth | nominal equals actual |
-| J | Explain month-scale. | realised yield -> salary/remount adjustment | bonus |
-| K | Evaluate fiscal strain. | jama index 100-176 vs elite 123-518 -> adaptation | inevitable collapse |
-| L | Bound succession. | 1657 illness -> networks -> Dharmat/Samugarh -> stop | liberal/orthodox referendum |
+**Option-wise explanations:**
+- **A. the abolition of central appointment** — No. Transfer worked through central appointment; it did not abolish it.
+- **B. permanent village ownership by assignees** — No. The system was not designed to entrench permanent village ownership by the assignee.
+- **C. hereditary provincial sovereignty** — No. Jagir transfer was meant to restrain hereditary provincial sovereignty, not create it.
+- **D. imperial dependence and limits on local entrenchment** — Correct. Rotation helped preserve imperial dependence and limit local entrenchment by assignees.
 
-**PYQ status:** zero direct verified Topic-21 CSE Prelims/GS-I routes,
-2018-2026. Original drills are not PYQs; Mains has no objective key.
+**Examiner trap:** Transfer can look like inconvenience unless you connect it to imperial anti-entrenchment logic.
+
+#### Answer & reasoning — Workbook MCQ 29
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A. orders access, precedence and the public image of sovereignty** — Correct. Ceremony ordered access, precedence and the public image of sovereignty.
+- **B. establishes modern equality before law** — No. Court ritual did not create modern equality before law.
+- **C. proves no noble bargaining occurred** — No. Noble bargaining could occur inside, not outside, ceremonial order.
+- **D. replaces military command and revenue** — No. Ceremony mattered politically, but it did not replace military command or revenue extraction.
+
+**Examiner trap:** Ceremony appears ornamental unless you tie it to access and sovereignty.
+
+#### Answer & reasoning — Workbook MCQ 30
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A. a permanent ethnic federation with fixed voting blocs** — No. The Mughal elite was not a permanent federation of fixed communal voting blocs.
+- **B. a coalition incorporating varied service networks under imperial appointment** — Correct. A composite elite means varied service networks held together under imperial appointment and reward.
+- **C. a modern representative legislature** — No. The empire was not a representative legislature.
+- **D. an elite without factional rivalry** — No. Composite recruitment did not erase rivalry; it often made rivalry more crowded.
+
+**Examiner trap:** Composite recruitment is often romanticised into harmony, which hides competition.
+
+#### Answer & reasoning — Workbook MCQ 31
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A. Mansabs had no numerical rank** — No. Mansabs certainly had numerical rank; that is not the problem the question asks about.
+- **B. all chronicles prohibit counting** — No. Chronicles do not forbid counting, though their evidence must be handled carefully.
+- **C. the package lacks a stated dataset, date, rank threshold and denominator** — Correct. Precision is unsafe here because the package does not carry a fully stated dataset, date, threshold and denominator for such a percentage claim.
+- **D. percentages are never useful in history** — No. Percentages can be useful when properly sourced; the issue is unsupported precision, not arithmetic itself.
+
+**Examiner trap:** A neat percentage feels scholarly even when its evidentiary base is missing.
+
+#### Answer & reasoning — Workbook MCQ 32
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A. a cavalry allowance within sawar** — No. Khalisa is not a cavalry allowance embedded inside sawar.
+- **B. a Rajput kinship tie** — No. Rajput kinship language belongs elsewhere, not to khalisa.
+- **C. a synonym for hasil** — No. Khalisa is not a synonym for realised collection.
+- **D. revenue retained for the crown rather than assigned as jagir** — Correct. Khalisa is revenue retained for the crown rather than assigned away as jagir.
+
+**Examiner trap:** Crown-retained revenue is easily confused with realised revenue or rank terminology.
+
+#### Answer & reasoning — Workbook MCQ 33
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A.** Correct: death and accession are distinct dates; the throne, capital and Qandahar follow in that order.
+- **B.** The predecessor's death must precede enthronement, and Qandahar fell after both court-display milestones.
+- **C.** Shahjahanabad began after the completed throne was used, not before.
+- **D.** The Safavid recovery of Qandahar belongs late in the sequence.
+
+**Examiner trap:** Do not turn the 1627 succession into an incorrectly dated 1627 formal enthronement.
+
+#### Answer & reasoning — Workbook MCQ 34
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A.** The first submission followed imperial pressure in 1628–29.
+- **B.** Correct: later defiance followed an initial settlement and Deccan service.
+- **C.** Hugli was an imperial campaign against Portuguese forces, not Jujhar's reward.
+- **D.** Samugarh belongs to the later war of succession, not Jujhar's career.
+
+**Examiner trap:** Two episodes of resistance cannot be compressed into one uninterrupted initial refusal.
+
+#### Answer & reasoning — Workbook MCQ 35
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A.** Ending the Nizam Shahi dynasty did not annex all other Deccan kingdoms.
+- **B.** The 1636 settlements were unequal and were later reopened.
+- **C.** Correct: distinguish Ahmadnagar's fall from the status of Bijapur and Golconda.
+- **D.** Balkh occupation was abandoned and Qandahar was a loss, not an acquisition.
+
+**Examiner trap:** Suzerainty, conquest of a dynasty and permanent annexation are different outcomes.
+
+#### Answer & reasoning — Workbook MCQ 36
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A.** The calculation describes a material khalisa cost, not a costless private programme.
+- **B.** Building expenditure is not identical with a measured military deficit.
+- **C.** Succession involved princely claims and alliances; monumental cost is no single sufficient cause.
+- **D.** Correct: the source measures major expenditure but rejects its use as proof of military-financial ruin.
+
+**Examiner trap:** “Expensive” does not logically entail “bankrupted the empire.”
+
+#### Answer & reasoning — Workbook MCQ 37
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A.** Correct: both endpoint counts reproduce the attributed high-elite series, not an empire-wide population census.
+- **B.** The recorded total grew, and Marathas appear in later entries.
+- **C.** The Irani column rises in absolute numbers, not disappears.
+- **D.** The Rajput 1595 count was 20, not 518.
+
+**Examiner trap:** “500 zat and above” is the sample's threshold, not the whole Mughal service class.
+
+#### Answer & reasoning — Workbook MCQ 38
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A.** The Irani headcount rose even as the combined share fell.
+- **B.** Correct: a larger denominator allows numerical growth alongside a smaller fraction.
+- **C.** Indian Muslims already appear in the 1595 series.
+- **D.** Category percentages are not evidence of a unified faction.
+
+**Examiner trap:** Never substitute a percentage trend for an absolute-number trend.
+
+#### Answer & reasoning — Workbook MCQ 39
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A.** The special designated 1000 sawars count doubly in the example.
+- **B.** Zat is the personal-status rank; it does not cancel the sawar calculation.
+- **C.** Correct: one-fourth of the 1000 ordinary portion plus one-fourth of 1000 doubled gives 250 + 500.
+- **D.** Du-aspa sih-aspa does not double the whole mansab, much less add zat to muster.
+
+**Examiner trap:** Double only the *specified sawar portion*, not the entire nominal rank.
+
+#### Answer & reasoning — Workbook MCQ 40
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A.** The local jagir normally has the higher indicative ratio, and Balkh the lower.
+- **B.** Both ordinary provincial ratios and Balkh's hardship allowance are misplaced.
+- **C.** These full/half values are not the source's systematised figures.
+- **D.** Correct: posting geography and special theatres condition effective muster.
+
+**Examiner trap:** One-fifth relates to unusually difficult service; do not apply it to every assignment.
+
+#### Answer & reasoning — Workbook MCQ 41
+
+**Correct answer:** A
+
+**Option-wise explanations:**
+- **A.** Correct: the 40/30/25 illustration reflects contract adjustments, not simply a linear month fraction.
+- **B.** The quoted rates decline, rather than rise, across the scales.
+- **C.** These are mansabdar contract rates, not uniform wages directly handed to all cavalrymen.
+- **D.** The order is reversed, and jama and hasil are explicitly distinct.
+
+**Examiner trap:** An “eight-month” designation does not require exactly eight-twelfths of every nominal rate.
+
+#### Answer & reasoning — Workbook MCQ 42
+
+**Correct answer:** B
+
+**Option-wise explanations:**
+- **A.** The elite count is 518; the indexed jama endpoint is about 176.
+- **B.** Correct: divergent series and the jama–hasil gap explain adaptation without asserting completed breakdown.
+- **C.** Assessed revenue cannot by itself establish what was actually collected.
+- **D.** Shah Jahan's reign already saw salary, muster and month-scale adjustment.
+
+**Examiner trap:** Juxtapose comparable series cautiously: persons and revenue indices have different units.
+
+#### Answer & reasoning — Workbook MCQ 43
+
+**Correct answer:** C
+
+**Option-wise explanations:**
+- **A.** OCR errors must not be elevated to new historical facts.
+- **B.** The categories of death date and table year cannot be exchanged.
+- **C.** Correct: retain the standard 1631 date with variant attribution and correct the contextual 1647–48 typo.
+- **D.** Two transcription problems do not invalidate every well-supported chronological marker.
+
+**Examiner trap:** A variant in an assigned text is evidence to qualify, not licence to silently invent chronology.
+
+#### Answer & reasoning — Workbook MCQ 44
+
+**Correct answer:** D
+
+**Option-wise explanations:**
+- **A.** No accepted primogeniture ended the rival claimants' political options.
+- **B.** Religious argument did not eliminate the battles' military and coalition character.
+- **C.** Shah Jahan's illness preceded the brothers' competition for the throne.
+- **D.** Correct: extraordinary favour could sharpen rivalry; noble, provincial and battlefield calculations settled the outcome.
+
+**Examiner trap:** A designated heir is not an automatic successor in a contested Mughal succession.
 
 ## PYQS AND ANSWER PRACTICE
 
-### PART XIII - PYQ AUDIT AND PRACTICE
+### Part II — Verified direct and routed PYQs
 
-### Transparent PYQ ownership audit
+The same local 2018-2026 search was repeated here against the paper roots and routing ledgers. No direct or adjacent PYQ is retained for Topic 21 without risking owner overlap or invented wording. Accordingly, this workbook records the verified absence honestly and keeps the practice section fully original.
 
-Local routing ledgers for CSE Prelims and GS-I (2018-2026), together with
-available official/OCR paper material, were searched for direct questions on
-Shah Jahan, Mughal ruling class/nobility, mansabdari evolution, zat/sawar,
-du-aspa sih-aspa, month-scale, jagir/jama/hasil, Shahjahanabad, the war of
-succession and golden-age assessment. No direct verified CSE Prelims or GS-I
-question was located for this Topic 21 ownership cluster. This is a PYQ gap,
-not permission to manufacture a question or an official answer key. Topic 16
-owns Akbar's general mansabdari foundation; Topic 24 owns broad Mughal
-art/economy/traveller questions. Consequently the practice below is original
-and clearly marked as such. No options from an alleged PYQ have been
-reconstructed or reordered.
+### Part III — Six original mains models (locked count)
 
-### PART XIV - EXAMINER-GRADE MAINS PRACTICE WITH SOLUTIONS
+#### Original Mains 1 — 10 marks (150 words)
 
-### Mains 1. 10 marks | 'Shah Jahan's reign was both the zenith of Mughal grandeur and a period of structural strain.' Discuss.
+**Question:** Why should Shah Jahan's reign be described as a visibly powerful empire under managed strain rather than as a simple golden age?
 
-**Directive alignment:** weigh two propositions, then give a graded verdict.
+**Model answer:** Shah Jahan's reign should be described as a visibly powerful empire under managed strain because the very decades that displayed Mughal ceremonial confidence also required repeated military-fiscal adjustment. The Peacock Throne, Shahjahanabad, the Taj Mahal and the Red Fort reveal an empire capable of organising labour, materials and hierarchy on a large scale. The 1633 Ahmadnagar outcome and 1636 Deccan settlement similarly show operational strength.
 
-**Model solution:** Shah Jahan's reign (1628-1658) was a peak of visible imperial capacity, but that capacity did not remove the growing gap between revenue claims and service claims. The correct verdict is not 'golden age or crisis'; it is grandeur alongside managed strain.
+Yet the same reign exposes pressure inside the service structure. The higher nobility expanded sharply, jagirs did not yield uniformly, and devices such as month-scale and contingent reduction tried to align paper entitlement with effective return. Deccan three-to-four-month assignments make the mismatch particularly visible. Balkh and Qandahar further separated battlefield reach from sustainable control.
 
-First, the court could coordinate exceptional material and political display. The Taj Mahal, Red Fort, Jama Masjid and the 1638 Shahjahanabad project required workshops, labour, materials and court direction. They demonstrate organisational reach and a ruler-centred language of sovereignty. The 1633 Ahmadnagar outcome and 1636 Deccan settlement similarly show that the state could combine force and hierarchy.
+Hence the safest verdict is qualified. Shah Jahan presided over a formidable empire, but one already compelled to manage the mismatch between visible grandeur and the material support required by a larger ruling class.
 
-Second, the fiscal-military system exposed limits. The Satish Chandra-based index in the assigned material moves from 100 (1595) to about 176 (1656-57), but mansab and high-rank claims grew faster. The month-scale acknowledged that a nominal twelve-month jagir could produce only an eight-, six- or lower-month effective return. This constrained pay and remount capacity. Deccan three-to-four-month cases make the mismatch particularly clear, though war, terrain and collection problems—not merely fraud—must explain it.
+**Demand decoding:** The directive asks for a reasoned characterisation of the reign, so the answer must balance evidence of capacity with evidence of strain rather than narrate only monuments or only decline.
 
-Finally, Balkh (1646-47) and Qandahar's loss in 1649 separate mobilisation from durable strategic success; the 1657-58 succession war exposed transfer vulnerability. Thus grandeur was real, but it was unevenly sustained. The roots of later jagirdari pressure were visible without making Shah Jahan's reign an already collapsed state.
+**Executable answer/elimination plan:** Open with the qualified verdict; one paragraph on magnificence and capacity; one on month-scale, jagir pressure and frontier cost; conclude with the phrase visible power under managed strain.
 
-**Why this earns marks:** It answers both sides, names monuments, revenue evidence and campaigns, explains a mechanism, and qualifies the later-crisis claim.
+**Why this earns marks / route earns marks:** This earns marks because it names monuments, the Deccan settlement and fiscal devices, then converts them into one graded judgement instead of a slogan.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Mains 1. 10 marks | 'Shah Jahan's reign was both the zenith of Mughal grandeur and a period…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**How to improve/strengthen:** You could strengthen it with one precise numerical anchor, such as the jama index rising only to about 176 while the higher elite expanded much faster.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+#### Original Mains 2 — 10 marks (150 words)
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Question:** How did Shah Jahan's accession establish a harsher succession precedent within the Mughal empire?
 
-**How to improve this answer:** For “Mains 1. 10 marks | 'Shah Jahan's reign was both the zenith of Mughal grandeur and a period…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Model answer:** Shah Jahan's accession was harsher than the transfers under Akbar or Jahangir because it joined coalition politics to determined elimination of rivals. After Jahangir's death, Asaf Khan and leading imperial actors secured Khurram's enthronement in 1628. Rival princes and claimants were removed rather than merely contained. This gave the new reign a sharper edge from the outset.
 
-### Mains 2. 15 marks | Examine how the composition and recruitment of the Mughal ruling class under Shah Jahan combined integration with competition.
+The early rebellions of Jujhar Singh Bundela and Khan Jahan Lodi show the same mood. Shah Jahan did not wait for alternative centres of power to ripen. He moved quickly to punish, confiscate and reassert imperial hierarchy. In that sense, succession was not only a dynastic event; it was a political lesson sent to princes, nobles and chiefs.
 
-**Directive alignment:** explain composition, recruitment and the two-sided consequence.
+The result was stronger immediate monarchy, but also a precedent that made later Mughal transfer look more openly military and less easily reversible.
 
-**Model solution:** The Mughal ruling class under Shah Jahan was a composite service elite rather than a homogeneous ethnicity or a modern civil service. Its diversity strengthened imperial reach but made rank, jagir and princely patronage intensely competitive.
+**Demand decoding:** The answer must explain what was harsher about the accession, so it needs both the court transfer mechanism and the follow-up pattern of coercive consolidation.
 
-Its core consisted of high mansabdars and household-connected servants linked to the emperor through rank, command, jagir and favour. Court language included Turanis, Iranis, Hindustani/Indian Muslims including Shaikhzada lineages, Rajputs, Afghans, Deccanis and other entrants. This is not a rigid census: labels can reflect origin, migration, regional association or political network. The safest scholarly trend is a widening Indian element across the Akbar-Jahangir-Shah Jahan sequence while immigrant groups remained significant; no uncited percentage should be used.
+**Executable answer/elimination plan:** State the coalition-enthronement point first, then add the removal of rivals and one early rebellion as evidence, before drawing the institutional implication for later succession culture.
 
-Recruitment mixed competence with patronage. Military usefulness, administrative skill, frontier knowledge, recommendation, kinship and household attachment could advance a person. Rajput houses, including Kachhwahas, gained honour, rank and service opportunity, but house-specific calculation prevents a claim of uniform Rajput loyalty. Shahji Bhonsale is a bounded Deccan example: elite incorporation does not equal mass Maratha integration.
+**Why this earns marks / route earns marks:** This earns marks because it links Asaf Khan, rival elimination and early coercive consolidation to one argument about political precedent.
 
-The system integrated local links and talent into an imperial hierarchy. Yet formal non-heredity did not erase social reproduction: families retained clients, reputations and court familiarity. When rank and good jagirs were scarce, those networks became sites of competition. In 1657-58, uncertainty over which prince would allocate offices transformed ordinary patronage into factional alignment.
+**How to improve/strengthen:** Add one short comparison with Jahangir's own accession to sharpen what changed in the tone of dynastic transfer.
 
-Therefore diversity was a governing resource and a structural risk. It should be analysed through changing patrons and incentives, not fixed ethnic camps.
+#### Original Mains 3 — 15 marks (250 words)
 
-**Why this earns marks:** It defines the object, names groups with caution, supplies Rajput/Maratha evidence, explains recruitment and connects composition to succession politics.
+**Question:** Examine how the composition of the Mughal ruling class under Shah Jahan combined integration with competition.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Mains 2. 15 marks | Examine how the composition and recruitment of the Mughal ruling class…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Model answer:** The Mughal ruling class under Shah Jahan was a composite imperial service elite. It cannot be reduced either to a single ethnicity or to a hereditary peerage. Rank, office, jagir assignment, military command, household proximity and court recognition together shaped membership.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+Its composition shows clear integrative breadth. Athar Ali's 500-zat-and-above series rises from 123 men in 1595 to 518 by 1656, with Iranis, Turanis, Rajputs, Afghans, Indian Muslims and a limited Maratha element all visible. Rajputs remained enduring military-political partners; Afghans partly recovered space lost under Akbar; Indian Muslim figures such as Sadullah Khan show the importance of administrative talent; and selective Maratha entry indicates that regional incorporation did not stop at the north Indian core.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+The same expansion intensified competition. A larger high-ranking elite meant more claimants for office, favour and productive jagirs. Formal non-heredity did not eliminate family advantage: clients, kinship and court familiarity still mattered. Nor did origin labels mechanically predict allegiance. Faction moved through princes, patrons, rewards and opportunity rather than through frozen communal blocs.
 
-**How to improve this answer:** For “Mains 2. 15 marks | Examine how the composition and recruitment of the Mughal ruling class…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+Therefore the ruling class combined integration with competition. It widened imperial reach by drawing in multiple service groups, yet that very breadth made succession and jagir allocation more contentious in the later reign.
 
-### Mains 3. 15 marks | Trace the evolution of the mansabdari system from Akbar to Shah Jahan. Was Shah Jahan an innovator or an adjuster?
+**Demand decoding:** Examine requires explanation of both sides of the formula, so the answer must show how diversity strengthened the empire and why it simultaneously sharpened competition.
 
-**Directive alignment:** trace continuity and change, then classify Shah Jahan accurately.
+**Executable answer/elimination plan:** Define the ruling class first; insert Athar Ali data and named groups; explain integrative value; then shift to office, jagir and factional competition; conclude with a balanced verdict.
 
-**Model solution:** Shah Jahan was principally an adjuster of a mature mansabdari framework, not its inventor. Akbar's system linked graded service to imperial dependence; Jahangir and Shah Jahan adapted its military and fiscal operation as claims became heavier.
+**Why this earns marks / route earns marks:** This earns marks because it uses named groups, one quantitative anchor, Sadullah Khan and the service-elite definition to explain both integration and rivalry.
 
-Under Akbar, the mature dual rank of c.1595-96 separated **zat**, personal status and pay grade, from **sawar**, cavalry obligation. This distinction enabled the centre to rank men while specifying service. Akbar also systematised dagh and chehra within a longer control lineage: Alauddin Khalji had used branding/descriptive control and Sher Shah revived/adapted it. Their purpose was to reduce divergence between paper contingent and actual force.
+**How to improve/strengthen:** A stronger version could add the proportional fall of the combined Irani-Turani share to show that absolute growth and proportional change are different arguments.
 
-Jahangir's du-aspa sih-aspa is the next adjustment. It could double or triple specified cavalry obligation without raising zat. This device must not be described as doubling the whole rank. It shows how the state could enhance military claims without a corresponding rise in personal status.
+#### Original Mains 4 — 15 marks (250 words)
 
-Shah Jahan inherited this grammar. His source-grounded contingent ratios and muster adjustments require contextual reading rather than a universal formula. More important was the tension between rising mansab/salary claims and jagir realisation. Month-rating scaled entitlement to effective revenue, while dagh/chehra still confronted evasion such as temporary borrowed horses.
+**Question:** Explain the month-scale and effective contingent rules under Shah Jahan. What problem were they trying to solve?
 
-Thus Shah Jahan's reign demonstrates mature adjustment under pressure: flexible enough to maintain service and imperial dependence, but vulnerable where nominal rank outran reliable support. The later jagirdari crisis intensified this tension; it should not be retrojected as a completed outcome.
+**Model answer:** The month-scale and effective contingent rules were Mughal attempts to reconcile paper rank with uneven real support. They did not abolish mansabdari; they adjusted it.
 
-**Why this earns marks:** The answer traces all three reigns, corrects dagh provenance and du-aspa/zat traps, and reaches a nuanced innovator-versus-adjuster verdict.
+The month-scale addressed the gap between nominal assessment and effective yield. Jagirs could be treated as twelve-, ten-, eight-, six- or four-month assignments depending on how much revenue they could actually support. In the Deccan, where assessment could be especially inflated, some assignments yielded only three or four effective months. The source's illustrative sawar rates - Rs 40 on a twelve-month jagir, Rs 30 on an eight-month jagir and Rs 25 on a six-month jagir - show that entitlement was scaled down to practical support.
 
-**Demand decoding:** The directive **trace** requires a direct position on “Mains 3. 15 marks | Trace the evolution of the mansabdari system from Akbar to Shah Jahan.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+The contingent rules performed a related military function. A mansabdar with his jagir in the same province might maintain about one-third of nominal sawar rank; outside-province assignment could reduce this to one-fourth; harsher theatres could require one-fifth rules. Du-aspa sih-aspa further intensified specified cavalry duty without automatically lifting zat.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+These devices tried to solve one problem: a larger service elite and more demanding theatres were pressing harder on a jagir system whose paper assessments did not translate evenly into realised support. Adjustment preserved the structure, but it also revealed the pressure inside it.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Demand decoding:** The question asks for explanation plus purpose, so define both devices clearly and then tie them to the paper-versus-real resource problem.
 
-**How to improve this answer:** For “Mains 3. 15 marks | Trace the evolution of the mansabdari system from Akbar to Shah Jahan.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Executable answer/elimination plan:** Define month-scale first with one rate example; then explain one-third/one-fourth contingent rules and du-aspa; end by naming the mismatch between nominal claims and real support.
 
-### Mains 4. 10 marks | Explain du-aspa sih-aspa and the month-scale. How did each address a different Mughal problem?
+**Why this earns marks / route earns marks:** This earns marks because it combines technical vocabulary, numerical illustration and the larger fiscal mechanism instead of listing terms mechanically.
 
-**Directive alignment:** define both devices and compare their functions.
+**How to improve/strengthen:** You could add the 2000/2000 worked example in one line if extra space is available.
 
-**Model solution:** Du-aspa sih-aspa and the month-scale operated at different points in the Mughal service system. The first adjusted the military obligation; the second adjusted fiscal entitlement to effective jagir value.
+#### Original Mains 5 — 20 marks (250 words)
 
-Du-aspa sih-aspa appears under Jahangir in the assigned source tradition. It allowed a specified sawar obligation to be doubled or tripled without raising the mansabdar's zat. Its function was to obtain additional cavalry capacity while retaining the distinction between personal rank and service duty. It did not double the whole mansab or transform status.
+**Question:** Assess the view that Shah Jahan's reign represents the classical age of the Mughal empire.
 
-The month-scale belongs to the fiscal response visible under Shah Jahan. A jagir nominally valued at twelve months could yield an eight-, six- or lower-month effective return; pay and sawar support were scaled accordingly. The source illustration of Rs 40, Rs 30 and Rs 25 must be treated as a category-specific sawar-pay example, not a universal schedule. Deccan three-to-four-month ratings show why the device could generate discontent and weaken remount capacity.
+**Model answer:** The description of Shah Jahan's reign as the classical age of the Mughal empire is defensible only when it is qualified. The reign certainly displayed a striking consolidation of ceremonial kingship, urban projection and imperial command. The Peacock Throne, the Red Fort, Jama Masjid, the Taj Mahal and the founding of Shahjahanabad gave the empire an unrivalled visual grammar of sovereignty. Campaigns in the Deccan and the continued centrality of imperial rank also confirm that the state remained formidable.
 
-Both devices show an adaptive state: one calibrated demand for cavalry, the other calibrated claims to revenue realisation. Neither proves automatic collapse. Their combined significance is that military promise depended upon fiscal support.
+Yet the same reign warns against an unqualified golden-age label. Monumental construction proved capacity, but not universal prosperity. Shireen Moosvi's cited cost figure shows significant expenditure without by itself proving fiscal breakdown. More important, the ruling class and higher mansabdar corps expanded faster than the assessed revenue series. Jagirs did not yield uniformly, and the month-scale plus contingent rules reveal repeated effort to align entitlement with effective support. Deccan shortfalls, Balkh's unsustainability and the failed Qandahar recoveries further exposed the limits of imperial reach.
 
-**Why this earns marks:** It defines terms, distinguishes zat from sawar, explains the accounting mechanism and avoids turning examples into universal data.
+The final blow to any simple classical-age formula comes in 1657-58. Shah Jahan's illness turned princely commands and elite alignments into open war. Therefore the reign can be called classical only in the sense of visible Mughal high culture and mature imperial form. It cannot be called carefree, socially uniform or structurally effortless.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Mains 4. 10 marks | Explain du-aspa sih-aspa and the month-scale. How did each address a…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Assess requires a graded judgement, so the answer must weigh the evidence for classical magnificence against the evidence for limits and pressure.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Open with a qualified yes; use monuments and capital as positive evidence; shift to month-scale, elite growth and frontier strain; finish with succession transfer as the final qualification.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** This earns marks because it gives the examiner both sides of the judgement and anchors each side in named evidence rather than in abstract praise or abstract decline.
 
-**How to improve this answer:** For “Mains 4. 10 marks | Explain du-aspa sih-aspa and the month-scale. How did each address a…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** If word space permits, add the 123-to-518 elite expansion figure to make the competition side even more concrete.
 
-### Mains 5. 15 marks | Distinguish jagir, jama and hasil. Analyse how their relationship shaped Mughal political economy.
+#### Original Mains 6 — 20 marks (250 words)
 
-**Directive alignment:** define each term and move from vocabulary to causal analysis.
+**Question:** How did the 1657-58 war of succession reveal the strengths and vulnerabilities of Mughal ruling-class politics?
 
-**Model solution:** A jagir was a service-linked assignment of a state revenue claim; jama was assessed or estimated revenue; hasil was actual realised collection. Their relationship explains why Mughal political economy cannot be reduced to a map of privately owned estates.
+**Model answer:** The 1657-58 succession war revealed both the remarkable depth and the dangerous vulnerability of Mughal ruling-class politics. It showed strength because the empire had multiple experienced princes, provincial commands, military networks and a service elite capable of rapid mobilisation. It showed vulnerability because the same resources could be turned inward the moment the emperor's authority became uncertain.
 
-The jagirdar held an imperial assignment, normally transferable, rather than unrestricted ownership of land or province. This differed from the locally rooted and variable position of a zamindar. Transfer helped retain central leverage, though short tenure could create incentives for intensive extraction and competition for better assignments. Khalisa, by contrast, referred to revenue retained for the crown.
+Shah Jahan's illness in September 1657 triggered precisely that reversal. Dara Shukoh enjoyed exceptional favour and heir-like status, yet no fixed law of primogeniture made his succession automatic. Shuja, Murad and Aurangzeb each possessed regional bases, military resources and circles of support. Dharmat and Samugarh were not accidental clashes; they were the points at which princely households, noble patrons and command structures became succession armies.
 
-Jama represented a fiscal estimate or claim, whereas hasil recorded realisation. A gap could arise from optimistic assessment, survey problems, war, incomplete control, collection cost, resistance or disrupted cultivation. Therefore a jagir whose paper jama appeared adequate could still fail to fund a full annual entitlement. The month-scale translated that gap into effective months and adjusted salary/service support.
+The war also reveals why composition alone cannot explain politics. Origin labels such as Irani, Turani, Rajput or Afghan did not mechanically assign nobles to one camp. Calculation, reward, survival and the expected future distributor of offices mattered more.
 
-The political consequence was triangular. The centre sought to reward and bind mansabdars; jagirdars sought viable returns and remount resources; zamindars and cultivators faced local negotiation and revenue pressure. The argument should not assume uniform oppression or treat jama as GDP. Rather, it identifies a system in which central claims, local conditions and service obligations were continuously reconciled.
+At the same time, the war does not prove instant collapse. Aurangzeb's victory and Shah Jahan's confinement demonstrate a violent transfer mechanism, not the disappearance of state structure. The correct conclusion is therefore double-edged: Mughal ruling-class politics was broad, energetic and deeply connected to imperial command, but it lacked a stable principle of transfer and could become militarised with destructive speed.
 
-**Why this earns marks:** It gives exact definitions, distinguishes jagirdar from zamindar, names mechanisms for the jama-hasil gap and links vocabulary to incentives without overclaiming.
+**Demand decoding:** The directive asks for strengths and vulnerabilities together, so the answer must not narrate the battle sequence alone; it must infer what the sequence shows about elite politics.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Mains 5. 15 marks | Distinguish jagir, jama and hasil. Analyse how their relationship…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer/elimination plan:** Open with the double verdict; explain the illness trigger and absence of primogeniture; use the princes plus Dharmat and Samugarh as evidence; end by distinguishing violent transfer from total collapse.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Why this earns marks / route earns marks:** This earns marks because it links the succession war to princely bases, noble calculation and the broader service structure instead of reducing it to personalities alone.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 5. 15 marks | Distinguish jagir, jama and hasil. Analyse how their relationship…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 6. 20 marks | Analyse the Deccan as a source of both imperial opportunity and fiscal pressure during Shah Jahan's reign.
-
-**Directive alignment:** balance opportunity and pressure, with a bounded Deccan chronology.
-
-**Model solution:** Under Shah Jahan, the Deccan was not merely a frontier to be coloured on an imperial map. It offered forts, routes, tributary possibilities, local military resources and nominal revenue, while simultaneously imposing the costs of war, control and uncertain collection. Its political economy helps explain why expansion could increase both resources and fiscal pressure.
-
-On the opportunity side, the end of Ahmadnagar's Nizam Shahi line at Daulatabad in 1633 and the 1636 settlement with Bijapur and Golconda displayed real Mughal capacity to combine conquest, suzerainty and negotiation. The Deccan also offered access to local knowledge and mobile military labour. Shahji Bhonsale's service trajectory is a limited example of elite movement across Deccani and Mughal worlds. Such incorporation broadened imperial options, but it must not be exaggerated into stable mass Maratha integration.
-
-The pressure side lies in the conversion of nominal resource into usable yield. The assigned Satish Chandra-based material notes highly inflated Deccan jama and cases rated at only three to four months. This mismatch can arise from terrain, distance, warfare, incomplete control, survey limits and collection costs, not only official deceit. A short-rated assignment could reduce effective income and remount capacity, generate competition for better postings, and intensify pressure on intermediaries and producers.
-
-The renewed interventions of 1656-57 reinforce the point that a settlement did not eliminate claims. Expansion added garrisons, commanders and princely commands even where it added revenue prospects. Therefore Deccan policy was a managed bargain between strategy and fiscal realisation, not a simple gain or loss. The mature crisis belongs later, but Shah Jahan's Deccan shows its important preconditions.
-
-**Why this earns marks:** It uses 1633, 1636, Shahji and 3-4 month evidence; explains a multi-causal mechanism; and keeps Topic 23's later narrative outside the answer.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Mains 6. 20 marks | Analyse the Deccan as a source of both imperial opportunity and fiscal…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 6. 20 marks | Analyse the Deccan as a source of both imperial opportunity and fiscal…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 7. 15 marks | 'Court grandeur under Shah Jahan was a political economy, not merely an aesthetic achievement.' Discuss.
-
-**Directive alignment:** explain political and economic mechanisms while qualifying causal claims.
-
-**Model solution:** Shah Jahan's court grandeur was political economy because monuments and ceremonial centres mobilised resources, organised skilled work, structured urban demand and represented a hierarchy of sovereignty. It was not simply aesthetic display, but neither can it be treated as a self-evident cause of fiscal collapse.
-
-The Taj Mahal, Red Fort, Jama Masjid and Shahjahanabad required materials, transport, labour, workshops, design and supervision. The 1638 foundation/transfer process for Shahjahanabad made the court's presence spatially legible through fortress, mosque, markets and circulation. These projects demonstrate a state and court able to concentrate demand and make political authority visible. Court consumption could support artisans and suppliers, especially within urban markets.
-
-Yet the distributional question remains. The surplus financing courtly consumption was gathered in a hierarchical revenue order in which jagirdars, zamindars and cultivators occupied unequal positions. Court splendour does not prove universal prosperity. Nor does the Taj Mahal alone demonstrate a causal route to Mughal decline: such a claim would need comparative evidence on spending, revenue realisation, warfare and jagir claims that cannot be inferred from the monument itself.
-
-A current static link is urban heritage: the accessible SRDC Jama Masjid precinct material discusses streets, facilities and a visual/physical Red Fort link. It cannot be converted into a dated six-month CA claim or evidence about seventeenth-century accounts. Thus grandeur is best read as material sovereignty embedded in a wider extractive and productive system.
-
-**Why this earns marks:** It makes monuments analytical, uses Shahjahanabad precisely, includes craft/market and extraction dimensions, and explicitly rejects a single-cause fallacy.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Mains 7. 15 marks | 'Court grandeur under Shah Jahan was a political economy, not merely an…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 7. 15 marks | 'Court grandeur under Shah Jahan was a political economy, not merely an…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 8. 20 marks | How did the 1657-58 succession struggle reveal the strengths and vulnerabilities of Mughal ruling-class politics?
-
-**Directive alignment:** connect ruling class and succession with a balanced institutional verdict.
-
-**Model solution:** The 1657-58 succession struggle revealed the Mughal ruling class as both an integrative instrument of empire and a vulnerable patronage order when sovereign allocation became uncertain. The illness of Shah Jahan did not create faction from nothing; it raised the stakes of an elite structure already organised around rank, household, command and jagir.
-
-Its strength lay in the empire's ability to mobilise through diverse service networks. High mansabdars, Rajput houses, Turani and Irani migrants, Hindustani Muslim lineages, Afghans, Deccanis and other entrants could be linked to an emperor through mansab, reward and command. Princes also possessed regional bases: Dara's courtly position, Shuja's Bengal, Aurangzeb's Deccan and Murad's Gujarat supplied potential manpower and resources. Dharmat and Samugarh in 1658 demonstrate that elite command and regional mobilisation were real capacities.
-
-The same structure was vulnerable because the polity had no fixed primogeniture rule. When Shah Jahan's illness made the future allocator of office uncertain, nobles calculated survival, reward, kin ties and immediate military prospects. Alignments were not rigid ethnic camps; they were shifting patronage choices. The later battles of Khajwa and Deorai, Murad's removal and Shah Jahan's confinement show that military victory had to be converted into control of the imperial centre.
-
-The war did not instantly dissolve administration or revenue. It did, however, expose a transfer mechanism dependent on personal power rather than a settled rule. A graded conclusion is therefore appropriate: the composite ruling class made empire governable in normal times, but its competitive patronage networks could become a vector of intense conflict at dynastic transition.
-
-**Why this earns marks:** It gives chronology, princes and battles, rejects ethnic determinism, explains incentives and distinguishes violent transfer from instant collapse.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Mains 8. 20 marks | How did the 1657-58 succession struggle reveal the strengths and…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 8. 20 marks | How did the 1657-58 succession struggle reveal the strengths and…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 9. 15 marks | Evaluate Padshahnama, administrative data, monuments and travellers as sources for Shah Jahan's reign.
-
-**Directive alignment:** evaluate source reach and limitations rather than merely list sources.
-
-**Model solution:** Shah Jahan's reign is best reconstructed by triangulating genres, because each source type illuminates a different register of imperial life and carries a different silence.
-
-Padshahnama and related court chronicles are strong for ceremony, campaigns, appointments, titulature and the court's claim to orderly sovereignty. They can date and frame elite actions, but their legitimising purpose may understate failure, coercion and social suffering. Amal-i-Salih and Shah Jahan Nama traditions require the same attention to genre and proximity.
-
-Administrative tables and mansab/jagir data are indispensable for patterns in rank, assessed revenue and assignment. They make the jama-versus-mansab problem visible. But nominal categories are not automatically actual cash, effective troops or a complete population. The 100/about 122/about 176 jama index must therefore be called an assessed-revenue index from a cited modern synthesis, not GDP.
-
-Monuments such as the Taj Mahal and Red Fort reveal material coordination, ideology and elite demand. They cannot by themselves calculate fiscal health. Travellers such as Tavernier, Bernier and Manucci supply observations on court, trade and cities, but their outsider vantage, comparative rhetoric and chronology must be checked; Bernier's later observations cannot be transparently universalised for Shah Jahan.
-
-Thus the best method is a source-reach matrix: chronicle for claim and appointment; record for administrative pattern; monument for material sovereignty; traveller for situated observation. Agreement strengthens an inference, while contradiction should be explained rather than erased.
-
-**Why this earns marks:** It evaluates four evidence types, gives specific uses and limits, treats the index correctly, and turns source criticism into a method.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Mains 9. 15 marks | Evaluate Padshahnama, administrative data, monuments and travellers as…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 9. 15 marks | Evaluate Padshahnama, administrative data, monuments and travellers as…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Mains 10. 20 marks | 'The fiscal pressures of Shah Jahan's reign were real, but the language of inevitable collapse is misleading.' Evaluate.
-
-**Directive alignment:** establish pressure, test inevitability, and give a time-sensitive verdict.
-
-**Model solution:** Fiscal pressures under Shah Jahan were real because the Mughal service system had to reconcile expanding rank and cavalry claims with unevenly realised revenue. Yet 'inevitable collapse' is misleading because the state still adjusted, mobilised and represented authority effectively; the mature jagirdari crisis belongs to a later chronology.
-
-The pressure is visible in three linked facts. First, the assigned Satish Chandra-based jama index rises from 100 in 1595 to approximately 122 in 1627 and approximately 176 in 1656-57, while the source describes mansab/rank claims as growing faster. Second, jama was an assessment, not hasil. Hence a jagir with a twelve-month paper valuation might produce an eight-, six- or lower-month effective return. The month-scale reduced entitlement and service support to that rating; the source's Rs 40/30/25 illustration must remain category-specific. Third, Deccan cases rated at three to four months show how war, terrain, control and collection could make nominal expansion fiscally thin.
-
-These pressures had consequences: weaker remount capacity, demand for better assignments, factional patronage and possible pressure on local revenue channels. Frontier campaigns in Balkh and Qandahar added logistical demands, while 1657-58 made office allocation politically explosive.
-
-However, the same evidence shows adaptation. The month-scale was a management device; dagh/chehra and contingent rules sought verification; the court still coordinated monuments and capital-making; Deccan settlements and military mobilisation remained possible. Neither a monument nor a month rating proves collapse.
-
-The best conclusion is chronological: Shah Jahan's reign incubated claim-resource tension within a functioning imperial order. Later extended war and post-Aurangzeb conditions intensified the crisis, but inevitability should not be read backward.
-
-**Why this earns marks:** It builds a mechanism from terminology and evidence, gives counter-evidence of adaptation, and ends with a precise, non-deterministic chronology.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Mains 10. 20 marks | 'The fiscal pressures of Shah Jahan's reign were real, but the…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 10. 20 marks | 'The fiscal pressures of Shah Jahan's reign were real, but the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** A sharper version could add one short line on jagir and office expectation to connect elite politics even more explicitly to resource distribution.

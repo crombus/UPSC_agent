@@ -1,0 +1,61 @@
+{
+  "topic": "03",
+  "title": "Development Processes and the Development Industry",
+  "status": "complete for original banks with explicit holds",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 44,
+      "answers": 44,
+      "key_counts": {
+        "A": 11,
+        "B": 11,
+        "C": 11,
+        "D": 11
+      },
+      "owner_rows": 44
+    },
+    {
+      "revision": 2,
+      "questions": 44,
+      "answers": 44,
+      "key_counts": {
+        "A": 11,
+        "B": 11,
+        "C": 11,
+        "D": 11
+      },
+      "owner_rows": 44
+    },
+    {
+      "revision": 3,
+      "questions": 44,
+      "answers": 44,
+      "key_counts": {
+        "A": 11,
+        "B": 11,
+        "C": 11,
+        "D": 11
+      },
+      "owner_rows": 44
+    }
+  ],
+  "total_originals": 132,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "objective PYQ provenance",
+    "UPSC reproduction permission",
+    "dated CSR rule thresholds",
+    "dynamic FCRA register",
+    "current outcome statistics"
+  ],
+  "audits": {
+    "structural": "PASS",
+    "option_balance": "PASS",
+    "leakage": "PASS",
+    "cross_revision_distinctness": "PASS",
+    "source_date": "PASS",
+    "institutional_fact": "PASS",
+    "hostile": "PASS"
+  }
+}

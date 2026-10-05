@@ -1,0 +1,58 @@
+{
+  "topic": "06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 12,
+        "C": 14,
+        "B": 8,
+        "A": 6
+      },
+      "fingerprint": "ffd4539ead7398aa"
+    },
+    {
+      "bank": 2,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 29,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 14,
+        "C": 8,
+        "A": 11,
+        "B": 7
+      },
+      "fingerprint": "ff095a7799f6f2e8"
+    },
+    {
+      "bank": 3,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 29,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 11,
+        "C": 6,
+        "B": 13,
+        "D": 10
+      },
+      "fingerprint": "8062aa653ca0bd75"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

@@ -1,6 +1,7 @@
 # Polity 22 - Special Provisions - Self-Contained Quick-Glance Tree
 
-> Stable sequence: core concept -> origin/timeline -> State-wise decoded spine -> mechanisms/orders -> amendments/cases -> traps -> answer spine. Current status checked 7 September 2026.
+> Stable sequence: core concept -> origin/timeline -> State-wise decoded spine -> mechanisms/orders ->
+   amendments/cases -> traps -> answer spine. Current status checked 7 September 2026.
 
 ## 1. CORE CONCEPT AND OWNERSHIP
 
@@ -162,26 +163,42 @@ CONCLUSION -> calibrated difference can deepen unity when transparent and review
 
 ## Complete amendment decoder
 
-- **Seventh Amendment, 1956, section 22:** substituted Article 371; Bombay Reorganisation Act, 1960 later adapted Maharashtra/Gujarat wording.
+- **Seventh Amendment, 1956, section 22:** substituted Article 371; Bombay Reorganisation Act, 1960 later
+   adapted Maharashtra/Gujarat wording.
 - **Thirteenth Amendment, 1962, section 2:** inserted Article 371A; effective 1 December 1963.
 - **Twenty-second Amendment, 1969, section 4:** inserted Article 371B; effective 25 September 1969.
 - **Twenty-seventh Amendment, 1971, section 5:** inserted Article 371C; effective 15 February 1972.
-- **Thirty-second Amendment, 1973, sections 2-3:** removed Andhra Pradesh/old clause (1) from Article 371 and inserted Articles 371D-371E; effective 1 July 1974.
-- **Thirty-fifth Amendment, 1974:** inserted Article 2A and the former Tenth Schedule for Sikkim's associate-State phase.
-- **Thirty-sixth Amendment, 1975:** ended association, made Sikkim a State and inserted Article 371F; effective 26 April 1975.
-- **Forty-second Amendment, 1976, section 56 / Forty-fourth Amendment, 1978, section 43:** first lengthened and then restored the duration references in Article 371F(c), a clause confined to Sikkim's transitional 1974 Assembly.
+- **Thirty-second Amendment, 1973, sections 2-3:** removed Andhra Pradesh/old clause (1) from Article 371 and
+   inserted Articles 371D-371E; effective 1 July 1974.
+- **Thirty-fifth Amendment, 1974:** inserted Article 2A and the former Tenth Schedule for Sikkim's
+   associate-State phase.
+- **Thirty-sixth Amendment, 1975:** ended association, made Sikkim a State and inserted Article 371F; effective
+   26 April 1975.
+- **Forty-second Amendment, 1976, section 56 / Forty-fourth Amendment, 1978, section 43:** first lengthened and
+   then restored the duration references in Article 371F(c), a clause confined to Sikkim's transitional 1974
+   Assembly.
 - **Fifty-third Amendment, 1986, section 2:** inserted Article 371G; effective 20 February 1987.
 - **Fifty-fifth Amendment, 1986, section 2:** inserted Article 371H; effective 20 February 1987.
 - **Fifty-sixth Amendment, 1987, section 2:** inserted Article 371I; effective 30 May 1987.
 - **Ninety-eighth Amendment, 2012, section 2:** inserted Article 371J; effective 1 October 2013.
-- **AP Reorganisation Act, 2014, section 97:** adapted Article 371D's heading and clauses (1) and (3) for Andhra Pradesh and Telangana.
+- **AP Reorganisation Act, 2014, section 97:** adapted Article 371D's heading and clauses (1) and (3) for Andhra
+   Pradesh and Telangana.
 
 ## Named-case and institutional decoder
 
-- **P. Sambamurthy (1987):** invalidated Article 371D(5), including its executive annulment proviso, because ineffective judicial review violated rule of law/basic structure; it did not invalidate all of Article 371D.
-- **R.C. Poudyal (1993):** majority largely sustained Sikkim's historically tailored representation in the integration context; it did not create blanket immunity from equality review.
-- **In re Article 370 (2023):** held Article 370 temporary, rejected separate sovereignty, sustained C.O.273/result, held the Article 367 substitution ultra vires to the stated extent, upheld Ladakh and left J&K conversion unfinally decided after the Statehood assurance.
-- **Article 371D Presidential orders:** operational instruments defining current local cadres/local areas; Telangana's 2018 order and Andhra Pradesh's 2025 order must not be confused with constitutional text.
-- **Kalyana Karnataka Region Development Board:** State implementation institution for the region constitutionally called Hyderabad-Karnataka; its current programme details are administrative, not self-executing constitutional rules.
+- **P. Sambamurthy (1987):** invalidated Article 371D(5), including its executive annulment proviso, because
+   ineffective judicial review violated rule of law/basic structure; it did not invalidate all of Article 371D.
+- **R.C. Poudyal (1993):** majority largely sustained Sikkim's historically tailored representation in the
+   integration context; it did not create blanket immunity from equality review.
+- **In re Article 370 (2023):** held Article 370 temporary, rejected separate sovereignty, sustained
+   C.O.273/result, held the Article 367 substitution ultra vires to the stated extent, upheld Ladakh and left J&K
+   conversion unfinally decided after the Statehood assurance.
+- **Article 371D Presidential orders:** operational instruments defining current local cadres/local areas;
+   Telangana's 2018 order and Andhra Pradesh's 2025 order must not be confused with constitutional text.
+- **Kalyana Karnataka Region Development Board:** State implementation institution for the region
+   constitutionally called Hyderabad-Karnataka; its current programme details are administrative, not
+   self-executing constitutional rules.
 
-**Qualified conclusion:** Indian federalism uses calibrated, clause-specific difference to integrate and equalise; legitimacy depends on exact legal authority, democratic participation, transparent implementation and judicial review.
+**Qualified conclusion:** Indian federalism uses calibrated, clause-specific difference to integrate and
+   equalise; legitimacy depends on exact legal authority, democratic participation, transparent implementation and
+   judicial review.

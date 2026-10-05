@@ -4,807 +4,566 @@ topic_key: world-history-13
 ---
 # Russian Revolution and USSR under Stalin — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## SOURCE-REVIEWED MCQS AND REMEDIATION
+Questions draw on the paired basic and advanced knowledge chapters (Norman Lowe, chapters 16–17); interpretive positions are attributed and contested claims remain qualified.
+Attempt all questions before consulting the separate key. Questions 1–24 test chronology, institutions and interpretive evidence; 25–37 test economic outcomes, source limits and cross-phase errors.
 
-### Q1. Which statement correctly identifies The incomplete settlement of 1905?
+### Q1. Which combination best explains why Nicholas II survived 1905 yet remained vulnerable?
 
-A. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-D. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
+A. Army loyalty and divided opponents preserved him, while the promised Duma did not become an effective check.
+B. The Duma removed his control of ministers and secured peasant land.
+C. The Petrograd soviet made the October Manifesto enforceable.
+D. The Cheka suppressed the 1905 strike committees.
 
-**Answer: A.**
-**Explanation:** Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. An examiner claims the October Manifesto settled the constitutional crisis. What evidence most directly tests this claim?
 
-### Q2. Which chronology card should be filed under The incomplete settlement of 1905?
+A. The Bolsheviks dispersed the Constituent Assembly after the October seizure.
+B. Nicholas dissolved the first two Dumas despite having promised representative government.
+C. The Fourth Five Year Plan rebuilt heavy industry after the war.
+D. The Red Army secured the central core during the civil war.
 
-A. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-B. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-C. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+### Q3. Which reading of Stolypin's agrarian reforms is defensible on the supplied evidence?
 
-**Answer: B.**
-**Explanation:** Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive. The remaining options belong to different chronology, actor or analytical categories.
+A. They abolished the need for any subsequent peasant land demand.
+B. They transferred heavy industry from the state to peasant households.
+C. They helped some peasants but left widespread poverty and land hunger unresolved.
+D. They directly introduced collective farms and targeted kulaks.
 
-### Q3. Which option preserves the source-bounded meaning of The incomplete settlement of 1905?
+### Q4. Which sequence distinguishes prewar fragility from the immediate collapse mechanism in 1917?
 
-A. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-B. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-C. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-D. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
+A. Garrison mutiny preceded the 1905 October Manifesto and then industrial unrest revived.
+B. Stalin's purges preceded the failure of wartime transport and Nicholas's abdication.
+C. NEP preceded the First World War and caused the breakdown of tsarist supply.
+D. Revived industrial unrest and weak Dumas preceded wartime shortages, transport failure and garrison mutiny.
 
-**Answer: C.**
-**Explanation:** Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. Which evidence would MOST weaken an assertion that Russia's revolution was already inevitable before 1914?
 
-### Q4. Which statement avoids a close-option trap about The incomplete settlement of 1905?
+A. Some improvement in living standards, educational expansion and Stolypin's partial reforms.
+B. Dissolution of the first two Dumas and revived industrial unrest.
+C. The February garrison mutiny in Petrograd.
+D. The shortages generated by the First World War.
 
-A. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-B. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-C. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-D. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
+### Q6. In the February/March 1917 transition, which description respects both popular and elite agency?
 
-**Answer: D.**
-**Explanation:** Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive. The remaining options belong to different chronology, actor or analytical categories.
+A. A Bolshevik Red Guard action removed the Tsar and installed Lenin immediately.
+B. Bread protests and strikes became mutiny; the Duma and senior generals then abandoned Nicholas.
+C. A Duma election directly replaced Nicholas with Stalin.
+D. A peaceful constitutional negotiation made troop loyalty irrelevant.
 
-### Q5. Which statement correctly identifies Duma and agrarian limits?
+### Q7. Katkov and Chamberlin offer competing emphases concerning February 1917. Which contrast fits the advanced source?
 
-A. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-B. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-C. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+A. Katkov attributes the uprising to the NEP; Chamberlin to collectivisation.
+B. Katkov treats October as a general election; Chamberlin credits Stalin's purges.
+C. Katkov foregrounds elite conspiracy; Chamberlin foregrounds a largely leaderless uprising.
+D. Both claim that the Bolsheviks alone organised every bread riot.
 
-**Answer: A.**
-**Explanation:** The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. Why is the February-to-October interval called a problem of dual authority?
 
-### Q6. Which chronology card should be filed under Duma and agrarian limits?
+A. Two Bolshevik cabinets were simultaneously elected by the Duma.
+B. The Tsar and Stalin alternated as heads of government.
+C. The Cheka shared constitutional powers with the 1936 legislature.
+D. The Provisional Government held formal office but the Petrograd soviet commanded loyalties needed for implementation.
 
-A. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+### Q9. Which set of choices most directly eroded the Provisional Government's legitimacy?
 
-**Answer: B.**
-**Explanation:** The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants. The remaining options belong to different chronology, actor or analytical categories.
+A. Continuing the war while deferring land reform and elections amid shortages.
+B. Leaving the First World War by signing Brest-Litovsk.
+C. Immediately collectivising farms and closing every Duma.
+D. Testing an atomic weapon while restricting consumer supply.
 
-### Q7. Which option preserves the source-bounded meaning of Duma and agrarian limits?
+### Q10. What is the most defensible inference from the Kornilov affair in the 1917 sequence?
 
-A. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-B. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-C. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-D. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
+A. Nicholas regained the garrison and restored tsarism.
+B. Kerensky's standing fell and Bolshevik influence strengthened before the October seizure.
+C. The affair directly created the 1905 October Manifesto.
+D. The affair settled the land question and ended the war.
 
-**Answer: C.**
-**Explanation:** The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. Which chain identifies October's operational mechanism without claiming unanimity of popular support?
 
-### Q8. Which statement avoids a close-option trap about Duma and agrarian limits?
+A. Every socialist party backed an unopposed transfer from the Constituent Assembly.
+B. Nicholas handed office to Lenin after winning a new Duma election.
+C. The Petrograd soviet resolved to take power; Red Guards and pro-soviet troops occupied key points and arrested ministers.
+D. The German invasion of 1941 forced Petrograd ministers to resign.
 
-A. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-B. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-C. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-D. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
+### Q12. Which assessment best handles the 'coup versus mass revolution' debate about October?
 
-**Answer: D.**
-**Explanation:** The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants. The remaining options belong to different chronology, actor or analytical categories.
+A. An overwhelming nationwide Bolshevik electoral majority makes the debate pointless.
+B. October was simply an unplanned bread riot without leadership.
+C. The seizure had no wider support because strategic points were occupied.
+D. Disciplined Bolshevik organisation exploited a wider collapse of Provisional Government legitimacy.
 
-### Q9. Which statement correctly identifies Workers and dynastic legitimacy?
+### Q13. The Bolsheviks failed to win a Constituent Assembly majority. What happened next?
 
-A. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-B. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-C. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+A. They dispersed the Assembly in January 1918, rejecting a parliamentary constraint on their rule.
+B. They accepted a multiparty coalition for the rest of Lenin's tenure.
+C. Stalin immediately announced the 1936 Constitution.
+D. Nicholas convened the first Duma to validate the result.
 
-**Answer: A.**
-**Explanation:** Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. Which pairing correctly separates Lenin's early decrees from the subsequent coercive institution?
 
-### Q10. Which chronology card should be filed under Workers and dynastic legitimacy?
+A. Kolkhoz expansion and the 1936 Constitution; Cheka as a peasant tax.
+B. Land nationalisation and some factory worker control; Cheka as early political police.
+C. October Manifesto and Stolypin reform; Cheka as a tsarist Duma.
+D. Atomic testing and Fourth Five Year Plan; Cheka as a reconstruction agency.
 
-A. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-B. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-C. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+### Q15. Why did Lenin accept the March 1918 Treaty of Brest-Litovsk?
 
-**Answer: B.**
-**Explanation:** Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family. The remaining options belong to different chronology, actor or analytical categories.
+A. He sought to enter the First World War beside Germany.
+B. He obtained the territory of the former German empire without concession.
+C. He traded territory for time and an exit from the First World War.
+D. He used it to launch the Fourth Five Year Plan.
 
-### Q11. Which option preserves the source-bounded meaning of Workers and dynastic legitimacy?
+### Q16. Which explanation of the Reds' civil-war victory combines geography, organisation and opposition weakness?
 
-A. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-B. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-C. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-D. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
+A. White control of the central core and a unified anti-Bolshevik programme.
+B. Universal foreign support for the Reds and the absence of Red leadership.
+C. Stalin's wartime alliance of 1941 and the postwar atomic deterrent.
+D. Control of Russia's central core, firmer Lenin–Trotsky leadership and divided White aims.
 
-**Answer: C.**
-**Explanation:** Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. How could foreign intervention against the Reds also help their political messaging?
 
-### Q12. Which statement avoids a close-option trap about Workers and dynastic legitimacy?
+A. It enabled the Bolsheviks to depict themselves as defenders of Russia against outside intrusion.
+B. It showed the Whites had no external connections whatsoever.
+C. It proved NEP had already eliminated market activity.
+D. It transferred the Petrograd soviet to the tsarist cabinet.
 
-A. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-B. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-C. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-D. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
+### Q18. Which proposition about Lenin and coercion survives comparison with Stalin's later dictatorship?
 
-**Answer: D.**
-**Explanation:** Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family. The remaining options belong to different chronology, actor or analytical categories.
+A. Lenin retained competitive parliamentary rule throughout 1918–24.
+B. Assembly dispersal, Cheka and Red Terror predated Stalin's supreme power, though later terror expanded.
+C. Stalin personally invented the Cheka in 1936.
+D. The 1905 October Manifesto first authorised Stalin's Great Purge.
 
-### Q13. Which statement correctly identifies First World War as accelerator?
+### Q19. How should an essay treat Moshe Lewin's interpretation of Lenin alongside liberal criticism?
 
-A. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-B. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-C. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+A. Present Lewin as proof that no executions occurred under Lenin.
+B. Assume liberal critics argue Stalin restored the Constituent Assembly.
+C. Contrast crisis-driven violence and late reform hopes with the institutional legacy of one-party rule and police coercion.
+D. Treat Lewin's view as a demographic count of famine deaths.
 
-**Answer: A.**
-**Explanation:** Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. What did the 1921 NEP restore without surrendering Bolshevik political monopoly?
 
-### Q14. Which chronology card should be filed under First World War as accelerator?
+A. Unrestricted multiparty elections and private ownership of every bank.
+B. Forced kolkhoz membership and suppression of all peasant surplus.
+C. The pre-1905 autocracy and restoration of Nicholas II.
+D. Peasant surplus after tax and small trade, while heavy industry, banking and transport remained controlled by the state.
 
-A. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-B. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-C. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-D. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
+### Q21. Why is it misleading to describe NEP as full restoration of capitalism?
 
-**Answer: B.**
-**Explanation:** Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse. The remaining options belong to different chronology, actor or analytical categories.
+A. It reopened some exchange under continuing communist political control and state ownership of strategic sectors.
+B. It nationalised all peasant surplus immediately without any private trade.
+C. It was introduced by Stalin after the Great Purge.
+D. It dissolved the party and created a competitive parliamentary economy.
 
-### Q15. Which option preserves the source-bounded meaning of First World War as accelerator?
+### Q22. Which succession mechanism gave Stalin a cumulative organisational advantage after Lenin's death?
 
-A. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-B. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-C. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-D. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
+A. As elected Tsar he controlled the first two Dumas.
+B. As General Secretary he influenced appointments and promotions while rivals remained divided.
+C. A direct Constituent Assembly majority in 1918 made him unchallengeable.
+D. Sole authorship of the October Manifesto gave him command of the army.
 
-**Answer: C.**
-**Explanation:** Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse. The remaining options belong to different chronology, actor or analytical categories.
+### Q23. Which sequence matches Stalin's management of successive rivals?
 
-### Q16. Which statement avoids a close-option trap about First World War as accelerator?
+A. He first removed Bukharin in 1905, then brought Trotsky into the Duma.
+B. He first purged the 1949 atomic programme, then isolated Lenin in the 1930s.
+C. He first isolated Trotsky and later outmanoeuvred Kamenev, Zinoviev and Bukharin.
+D. All his rivals resigned together immediately on Nicholas's abdication.
 
-A. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-B. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-C. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-D. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
+### Q24. Which ideological dispute could Stalin exploit in consolidating power?
 
-**Answer: D.**
-**Explanation:** Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse. The remaining options belong to different chronology, actor or analytical categories.
+A. Restoration of Nicholas versus defence of the 1905 Duma.
+B. Participation in the 1914 war versus Britain's colonial tariff.
+C. Whether the 1936 Constitution had introduced multiparty elections in 1905.
+D. Socialism in one country versus permanent revolution, alongside disagreement over NEP and industrialisation.
 
-### Q17. Which statement correctly identifies February Revolution and abdication?
+### Q25. A planner cites rapid steel output as proof that Stalin's entire economy succeeded. What is the best correction?
 
-A. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-B. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-C. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-D. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
+A. Heavy-industrial gains came with poor consumer supply, harsh discipline and major agricultural disruption.
+B. Coal and electricity production necessarily fell throughout all Five Year Plans.
+C. Collectivisation protected livestock and ended peasant resistance.
+D. Industrial gains establish that the 1936 Constitution was a multiparty democracy.
 
-**Answer: A.**
-**Explanation:** Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917. The remaining options belong to different chronology, actor or analytical categories.
+### Q26. Which distinction separates a Five Year Plan's industrial priority from collectivisation's agricultural consequences?
 
-### Q18. Which chronology card should be filed under February Revolution and abdication?
+A. Industrial plans restored private banks; collectivisation revived independent peasant trade.
+B. Heavy industry expanded rapidly; forced farm consolidation increased grain control but provoked resistance, famine and livestock losses.
+C. Industrial plans preceded 1905; collectivisation was Lenin's 1921 NEP.
+D. Industrial plans were merely constitutional votes; collectivisation was the 1949 atomic test.
 
-A. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-B. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-C. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-D. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
+### Q27. What is a responsible way to use the source's estimate of famine mortality in 1932–33?
 
-**Answer: B.**
-**Explanation:** Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917. The remaining options belong to different chronology, actor or analytical categories.
+A. Treat an exact death toll as universally settled and unrelated to grain exports.
+B. Move the famine to 1905 to explain the October Manifesto.
+C. Attribute the estimate above five million to Lowe and acknowledge disputes over totals and responsibility.
+D. Assert that collectivisation produced uninterrupted increases in grain and livestock.
 
-### Q19. Which option preserves the source-bounded meaning of February Revolution and abdication?
+### Q28. What does 'most farmland collectivised by 1937' establish—and NOT establish?
 
-A. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-B. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-C. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-D. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
+A. It proves peasant support was unanimous.
+B. It shows NEP began only after 1937.
+C. It means the Cheka first appeared in 1937.
+D. It establishes extensive state-directed reorganisation, not that harvests, livestock or welfare improved.
 
-**Answer: C.**
-**Explanation:** Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917. The remaining options belong to different chronology, actor or analytical categories.
+### Q29. Which inference about the 1936 Constitution is most defensible?
 
-### Q20. Which statement avoids a close-option trap about February Revolution and abdication?
+A. Formal democratic provisions did not create meaningful electoral competition under one-party control.
+B. Its adoption ended the Purges before they began.
+C. It restored Nicholas II to a ceremonial monarchy.
+D. It transferred state banks to privately owned Duma committees.
 
-A. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-B. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-C. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
+### Q30. Which double effect of the 1936–38 Purges should a balanced analysis retain?
 
-**Answer: D.**
-**Explanation:** Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917. The remaining options belong to different chronology, actor or analytical categories.
+A. They reinstated all opposition leaders and strengthened the officer corps.
+B. They secured Stalin's supremacy while stripping the army and administration of experienced personnel.
+C. They caused the February garrison mutiny before the First World War.
+D. They ended the one-party system and replaced it with free elections.
 
-### Q21. Which statement correctly identifies Dual power?
+### Q31. Does Soviet victory in 1941–45 by itself vindicate every aspect of Stalin's peacetime policy?
 
-A. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-B. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-C. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-D. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
+A. Yes: victory proves collectivisation caused no famine.
+B. Yes: victory proves the 1936 Constitution ensured contested elections.
+C. No: survival and victory must be assessed alongside immense human destruction and earlier repression.
+D. No: the USSR was defeated by Germany in 1945.
 
-**Answer: A.**
-**Explanation:** The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions. The remaining options belong to different chronology, actor or analytical categories.
+### Q32. Which pairing places reconstruction and strategic capability in the correct phase?
 
-### Q22. Which chronology card should be filed under Dual power?
+A. The First World War ended under the Fourth Plan; the Soviet bomb was tested in 1905.
+B. Stolypin led the Fourth Plan and signed Brest-Litovsk.
+C. The Cheka created the 1936 Constitution as an atomic treaty.
+D. The Fourth Five Year Plan rebuilt industry after 1945; the USSR exploded its first atomic bomb in 1949.
 
-A. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-B. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-C. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-D. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
+### Q33. Which finding challenges an account of postwar Soviet recovery based exclusively on industrial totals?
 
-**Answer: B.**
-**Explanation:** The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions. The remaining options belong to different chronology, actor or analytical categories.
+A. Agriculture lagged, famine returned in 1946 and grain output in 1952 was below its 1940 level.
+B. The first two Dumas were dissolved before 1914.
+C. The Petrograd soviet contested formal authority in 1917.
+D. The October Manifesto promised civil liberties in 1905.
 
-### Q23. Which option preserves the source-bounded meaning of Dual power?
+### Q34. Which pairing best indicates repression persisted after victory over Nazi Germany?
 
-A. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-B. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-C. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-D. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
+A. The Provisional Government held elections after victory and ceded power to Nicholas.
+B. Returning prisoners and civilians faced suspicion; camps and cultural restrictions continued.
+C. The NEP abolished censorship during the Fourth Plan.
+D. The Red Guards occupied Petrograd ministries in 1953.
 
-**Answer: C.**
-**Explanation:** The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions. The remaining options belong to different chronology, actor or analytical categories.
+### Q35. For 'Leninism versus Stalinism', which qualified conclusion is best supported?
 
-### Q24. Which statement avoids a close-option trap about Dual power?
+A. Stalin introduced coercion into an otherwise competitive Leninist parliament.
+B. Lenin personally imposed the Great Purge of 1936–38.
+C. Party monopoly and police coercion originated under Lenin; Stalin extended them through forced social transformation and far wider terror.
+D. There was no distinction between NEP incentives and forced collectivisation.
 
-A. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-B. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-C. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-D. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
+### Q36. Match the phases in order: (1) Duma promise, (2) Tsar's abdication, (3) NEP, (4) first Soviet atomic explosion.
 
-**Answer: D.**
-**Explanation:** The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions. The remaining options belong to different chronology, actor or analytical categories.
+A. 1905 → 1921 → February/March 1917 → 1949.
+B. February/March 1917 → 1905 → 1949 → 1921.
+C. 1921 → 1905 → February/March 1917 → 1949.
+D. 1905 → February/March 1917 → 1921 → 1949.
 
-### Q25. Which statement correctly identifies Provisional Government failure?
+### Q37. Which source-bound formulation best separates three kinds of 'retreat' or concession?
 
-A. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-B. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-C. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-D. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
+A. 1905 Duma promise checked revolt without genuine constitutional restraint; Brest-Litovsk ceded territory for time; NEP restored limited incentives.
+B. The 1905 manifesto ended Russia's war in 1918; NEP transferred all industry to peasants.
+C. Brest-Litovsk gave Stalin a Duma; the 1936 Constitution introduced NEP.
+D. All three measures produced competitive multiparty elections.
 
-**Answer: A.**
-**Explanation:** Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+## MATCHING ANSWER KEY AND ITEM-SPECIFIC EXPLANATIONS
 
-### Q26. Which chronology card should be filed under Provisional Government failure?
+### Q1 — A
 
-A. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-B. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-C. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-D. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
+- **A ✓:** Survival depended on coercive capacity and opposition division, not constitutional resolution.
+- **B ✗:** The first two Dumas were dissolved and land hunger persisted.
+- **C ✗:** The soviet/dual-power issue belongs to 1917.
+- **D ✗:** The Cheka was a Bolshevik security institution created after October 1917.
+- **Trap:** The soviet/dual-power issue belongs to 1917.
 
-**Answer: B.**
-**Explanation:** Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q2 — B
 
-### Q27. Which option preserves the source-bounded meaning of Provisional Government failure?
+- **A ✗:** That is a different regime and an event of January 1918.
+- **B ✓:** A nominal concession is not the same as an effective legislative constraint.
+- **C ✗:** Postwar reconstruction cannot establish whether the tsar honoured 1905 promises.
+- **D ✗:** Civil-war geography concerns Bolshevik survival, not tsarist constitutionalism.
+- **Trap:** Civil-war geography concerns Bolshevik survival, not tsarist constitutionalism.
 
-A. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-B. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-C. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
-D. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
+### Q3 — C
 
-**Answer: C.**
-**Explanation:** Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The basic source expressly says land hunger persisted.
+- **B ✗:** That confuses agrarian policy with later Soviet economic ownership.
+- **C ✓:** Partial reform can coexist with continuing structural grievance.
+- **D ✗:** Compulsory collectivisation was Stalin's later policy.
+- **Trap:** The basic source expressly says land hunger persisted.
 
-### Q28. Which statement avoids a close-option trap about Provisional Government failure?
+### Q4 — D
 
-A. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-B. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-C. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-D. Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy.
+- **A ✗:** The Petrograd garrison mutiny belongs to February/March 1917.
+- **B ✗:** The high tide of the purges came in 1936–38, not before abdication.
+- **C ✗:** NEP began in 1921 under Lenin.
+- **D ✓:** A long-term legitimacy deficit was intensified by war and then by loss of coercive loyalty.
+- **Trap:** The high tide of the purges came in 1936–38, not before abdication.
 
-**Answer: D.**
-**Explanation:** Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q5 — A
 
-### Q29. Which statement correctly identifies April Theses and Kornilov affair?
+- **A ✓:** The advanced source cites partial recovery as reason not to make prewar collapse predetermined.
+- **B ✗:** These factors reinforce vulnerability, not a recovery countercase.
+- **C ✗:** A 1917 development cannot demonstrate pre-1914 recovery.
+- **D ✗:** That is the later shock whose independent importance is at issue.
+- **Trap:** That is the later shock whose independent importance is at issue.
 
-A. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-B. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-C. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-D. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
+### Q6 — B
 
-**Answer: A.**
-**Explanation:** Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The Red Guards' seizure of strategic points belongs to October/November.
+- **B ✓:** Mass pressure and elite withdrawal operated together; neither alone explains the outcome.
+- **C ✗:** Stalin did not take power in the February revolution.
+- **D ✗:** Garrison mutiny was central to the loss of tsarist authority.
+- **Trap:** The Red Guards' seizure of strategic points belongs to October/November.
 
-### Q30. Which chronology card should be filed under April Theses and Kornilov affair?
+### Q7 — C
 
-A. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-B. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-C. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-D. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
+- **A ✗:** Both policies postdate the February revolution.
+- **B ✗:** Neither formulation describes the February debate.
+- **C ✓:** These are rival emphases on agency; the evidence need not exclude either entirely.
+- **D ✗:** The advanced source stresses spontaneous action as a competing interpretation.
+- **Trap:** Neither formulation describes the February debate.
 
-**Answer: B.**
-**Explanation:** Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks. The remaining options belong to different chronology, actor or analytical categories.
+### Q8 — D
 
-### Q31. Which option preserves the source-bounded meaning of April Theses and Kornilov affair?
+- **A ✗:** The competitors were the Provisional Government and soviet, not two Bolshevik cabinets.
+- **B ✗:** Nicholas had abdicated and Stalin had not become supreme leader.
+- **C ✗:** Neither belongs to dual authority in 1917.
+- **D ✓:** Legal office and practical authority diverged.
+- **Trap:** Neither belongs to dual authority in 1917.
 
-A. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-B. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-C. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
-D. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
+### Q9 — A
 
-**Answer: C.**
-**Explanation:** Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Its inability to address peace, land and representation left space for Bolshevik slogans.
+- **B ✗:** That treaty was signed by the Bolshevik government in 1918.
+- **C ✗:** Collectivisation was a later Stalinist programme; the tsarist Duma had already lost its original role.
+- **D ✗:** The Soviet atomic test came in 1949.
+- **Trap:** That treaty was signed by the Bolshevik government in 1918.
 
-### Q32. Which statement avoids a close-option trap about April Theses and Kornilov affair?
+### Q10 — B
 
-A. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-B. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-C. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-D. Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks.
+- **A ✗:** The monarchy had already fallen in February/March.
+- **B ✓:** The affair shifted credibility within an already unstable dual-power situation.
+- **C ✗:** It took place in 1917, well after the manifesto.
+- **D ✗:** The Provisional Government continued to face both problems.
+- **Trap:** It took place in 1917, well after the manifesto.
 
-**Answer: D.**
-**Explanation:** Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks. The remaining options belong to different chronology, actor or analytical categories.
+### Q11 — C
 
-### Q33. Which statement correctly identifies October seizure, 25-26 October?
+- **A ✗:** Other socialist groups walked out of the Soviet Congress; the Assembly was dispersed later.
+- **B ✗:** Nicholas had abdicated months before October.
+- **C ✓:** A disciplined seizure of strategic positions can coincide with wider regime delegitimation.
+- **D ✗:** This inserts a later war into 1917.
+- **Trap:** This inserts a later war into 1917.
 
-A. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-B. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-C. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-D. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
+### Q12 — D
 
-**Answer: A.**
-**Explanation:** Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The Constituent Assembly did not give Bolsheviks a majority.
+- **B ✗:** The Petrograd seizure was organised and Trotsky planned effectively.
+- **C ✗:** The manner of seizure alone cannot establish absence of support for slogans.
+- **D ✓:** This retains both organised agency and the social/political context.
+- **Trap:** The Constituent Assembly did not give Bolsheviks a majority.
 
-### Q34. Which chronology card should be filed under October seizure, 25-26 October?
+### Q13 — A
 
-A. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-B. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-C. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-D. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
+- **A ✓:** The mismatch between electoral result and coercive decision is evidence for early party monopoly.
+- **B ✗:** Dispersal contradicts a sustained parliamentary settlement.
+- **C ✗:** Both actor and year belong to a later phase.
+- **D ✗:** Nicholas no longer ruled in 1918.
+- **Trap:** Both actor and year belong to a later phase.
 
-**Answer: B.**
-**Explanation:** Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October. The remaining options belong to different chronology, actor or analytical categories.
+### Q14 — B
 
-### Q35. Which option preserves the source-bounded meaning of October seizure, 25-26 October?
+- **A ✗:** The former are Stalin-era policies, and the Cheka was not a tax.
+- **B ✓:** Economic/social decrees and security coercion were distinct components of Bolshevik consolidation.
+- **C ✗:** These are pre-Bolshevik measures and misidentify the Cheka.
+- **D ✗:** Those are postwar developments, not the first Lenin decrees.
+- **Trap:** Those are postwar developments, not the first Lenin decrees.
 
-A. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-B. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-C. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
-D. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
+### Q15 — C
 
-**Answer: C.**
-**Explanation:** Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The treaty withdrew Russia from the war.
+- **B ✗:** The settlement cost Russia substantial territory.
+- **C ✓:** The severe territorial concession served revolutionary survival, not a military victory.
+- **D ✗:** That plan belongs to post-1945 reconstruction.
+- **Trap:** The treaty withdrew Russia from the war.
 
-### Q36. Which statement avoids a close-option trap about October seizure, 25-26 October?
+### Q16 — D
 
-A. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-B. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-C. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-D. Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October.
+- **A ✗:** The Whites lacked unity while the Bolsheviks held the central core.
+- **B ✗:** Foreign intervention was against the Reds and leadership mattered.
+- **C ✗:** Both belong to later decades.
+- **D ✓:** These advantages reinforced one another in the 1918–20 struggle.
+- **Trap:** Foreign intervention was against the Reds and leadership mattered.
 
-**Answer: D.**
-**Explanation:** Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October. The remaining options belong to different chronology, actor or analytical categories.
+### Q17 — A
 
-### Q37. Which statement correctly identifies Early decrees and Constituent Assembly?
+- **A ✓:** Anti-intervention nationalism could offset military pressure in legitimacy claims.
+- **B ✗:** Foreign anti-Bolshevik intervention contradicts that claim.
+- **C ✗:** NEP was introduced in 1921 and is not the intervention mechanism.
+- **D ✗:** The Tsar was gone before the civil war.
+- **Trap:** The Tsar was gone before the civil war.
 
-A. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-B. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-C. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-D. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
+### Q18 — B
 
-**Answer: A.**
-**Explanation:** The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The Assembly was dispersed in January 1918.
+- **B ✓:** Continuity in coercive institutions does not erase differences in scale and purpose.
+- **C ✗:** The Cheka was founded in the early Bolshevik period.
+- **D ✗:** The manifesto was tsarist and predates Stalinist purges.
+- **Trap:** The Assembly was dispersed in January 1918.
 
-### Q38. Which chronology card should be filed under Early decrees and Constituent Assembly?
+### Q19 — C
 
-A. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-B. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-C. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-D. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
+- **A ✗:** Crisis-driven justification does not deny violence.
+- **B ✗:** Their criticism concerns Lenin's early anti-parliamentary precedents.
+- **C ✓:** The advanced source presents competing interpretations rather than a settled moral verdict.
+- **D ✗:** His position here concerns Lenin's political legacy.
+- **Trap:** Their criticism concerns Lenin's early anti-parliamentary precedents.
 
-**Answer: B.**
-**Explanation:** The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority. The remaining options belong to different chronology, actor or analytical categories.
+### Q20 — D
 
-### Q39. Which option preserves the source-bounded meaning of Early decrees and Constituent Assembly?
+- **A ✗:** Neither political monopoly nor commanding-height ownership was abandoned.
+- **B ✗:** That describes coercive features of later collectivisation, not NEP incentives.
+- **C ✗:** The monarchy was not revived by NEP.
+- **D ✓:** Limited market incentives can coexist with state command of key sectors.
+- **Trap:** The monarchy was not revived by NEP.
 
-A. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-B. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-C. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
-D. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
+### Q21 — A
 
-**Answer: C.**
-**Explanation:** The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Distinguish a bounded economic retreat from a change in sovereign political authority.
+- **B ✗:** The policy permitted surplus retention after tax and revived small trade.
+- **C ✗:** Lenin introduced NEP in 1921.
+- **D ✗:** The party monopoly survived.
+- **Trap:** The policy permitted surplus retention after tax and revived small trade.
 
-### Q40. Which statement avoids a close-option trap about Early decrees and Constituent Assembly?
+### Q22 — B
 
-A. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-B. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-C. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-D. The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority.
+- **A ✗:** Stalin never became Tsar.
+- **B ✓:** Personnel networks and shifting alliances, not a single electoral mandate, explain his rise.
+- **C ✗:** The Bolsheviks lacked such a majority and Stalin's rise came later.
+- **D ✗:** The 1905 manifesto was Nicholas's concession.
+- **Trap:** The Bolsheviks lacked such a majority and Stalin's rise came later.
 
-**Answer: D.**
-**Explanation:** The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority. The remaining options belong to different chronology, actor or analytical categories.
+### Q23 — C
 
-### Q41. Which statement correctly identifies Brest-Litovsk, March 1918?
+- **A ✗:** The actors and chronology do not fit Stalin's party rise.
+- **B ✗:** Lenin died in 1924; the atomic test was in 1949.
+- **C ✓:** Divided oppositions were defeated in stages, not as one united front.
+- **D ✗:** Succession followed Lenin's death rather than the February revolution.
+- **Trap:** Succession followed Lenin's death rather than the February revolution.
 
-A. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-B. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-C. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-D. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
+### Q24 — D
 
-**Answer: A.**
-**Explanation:** Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Neither describes the Bolshevik succession debate.
+- **B ✗:** That is not the source's intra-party policy divide.
+- **C ✗:** The year and political description are incompatible.
+- **D ✓:** Policy conflict supplied shifting coalitions in the post-Lenin party.
+- **Trap:** Neither describes the Bolshevik succession debate.
 
-### Q42. Which chronology card should be filed under Brest-Litovsk, March 1918?
+### Q25 — A
 
-A. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-B. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-C. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-D. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
+- **A ✓:** Output in selected sectors alone cannot measure welfare or the agricultural cost.
+- **B ✗:** The source records substantial gains in those sectors.
+- **C ✗:** The source notes livestock collapse and violent resistance.
+- **D ✗:** Economic output does not prove political competition.
+- **Trap:** The source notes livestock collapse and violent resistance.
 
-**Answer: B.**
-**Explanation:** Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime. The remaining options belong to different chronology, actor or analytical categories.
+### Q26 — B
 
-### Q43. Which option preserves the source-bounded meaning of Brest-Litovsk, March 1918?
+- **A ✗:** Both descriptions reverse the command-economy direction.
+- **B ✓:** The two policies interacted but did not share a uniformly beneficial outcome.
+- **C ✗:** Both policies are associated with Stalin's later transformation.
+- **D ✗:** Neither assigns the policies their economic mechanisms.
+- **Trap:** Neither assigns the policies their economic mechanisms.
 
-A. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-B. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-C. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
-D. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
+### Q27 — C
 
-**Answer: C.**
-**Explanation:** Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The source explicitly notes contested totals and continued exports.
+- **B ✗:** The famine discussed is in 1932–33.
+- **C ✓:** Quantification and causal attribution must remain source-bounded and qualified.
+- **D ✗:** The source reports disruption and livestock collapse.
+- **Trap:** The source explicitly notes contested totals and continued exports.
 
-### Q44. Which statement avoids a close-option trap about Brest-Litovsk, March 1918?
+### Q28 — D
 
-A. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-B. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-C. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-D. Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime.
+- **A ✗:** The source records violent resistance.
+- **B ✗:** NEP was introduced in 1921.
+- **C ✗:** The Cheka predates Stalin's consolidation.
+- **D ✓:** Administrative penetration and positive agricultural performance are separate claims.
+- **Trap:** NEP was introduced in 1921.
 
-**Answer: D.**
-**Explanation:** Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime. The remaining options belong to different chronology, actor or analytical categories.
+### Q29 — A
 
-### Q45. Which statement correctly identifies Civil War and Red victory?
+- **A ✓:** Constitutional text and actual power distribution need separate evaluation.
+- **B ✗:** The purges reached their high tide in 1936–38.
+- **C ✗:** The Tsar had abdicated in 1917.
+- **D ✗:** No such economic liberalisation follows from the constitution.
+- **Trap:** No such economic liberalisation follows from the constitution.
 
-A. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-B. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-C. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-D. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
+### Q30 — B
 
-**Answer: A.**
-**Explanation:** Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The source describes repression and loss of experienced officers.
+- **B ✓:** Political consolidation and institutional damage could coexist.
+- **C ✗:** The mutiny was in 1917, before the purges.
+- **D ✗:** Political terror was incompatible with that claim.
+- **Trap:** The source describes repression and loss of experienced officers.
 
-### Q46. Which chronology card should be filed under Civil War and Red victory?
+### Q31 — C
 
-A. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-B. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-C. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-D. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
+- **A ✗:** The prewar famine remains independently documented.
+- **B ✗:** A military result does not show constitutional democracy.
+- **C ✓:** Military outcome alone cannot resolve the welfare or liberty ledger.
+- **D ✗:** The USSR survived and helped defeat Nazi Germany.
+- **Trap:** A military result does not show constitutional democracy.
 
-**Answer: B.**
-**Explanation:** Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War. The remaining options belong to different chronology, actor or analytical categories.
+### Q32 — D
 
-### Q47. Which option preserves the source-bounded meaning of Civil War and Red victory?
+- **A ✗:** The plan and atomic test occurred decades later.
+- **B ✗:** Stolypin belongs to the late tsarist period; Lenin accepted Brest-Litovsk.
+- **C ✗:** These institutions/events have different functions and dates.
+- **D ✓:** Both belong to Stalin's postwar period, not to Lenin's NEP.
+- **Trap:** These institutions/events have different functions and dates.
 
-A. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-B. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-C. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
-D. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
+### Q33 — A
 
-**Answer: C.**
-**Explanation:** Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Industrial rebound did not entail parallel farm recovery.
+- **B ✗:** That is tsarist politics, not evidence about postwar agriculture.
+- **C ✗:** That is an earlier government-legitimacy issue.
+- **D ✗:** A pre-revolutionary concession cannot measure 1952 grain output.
+- **Trap:** That is tsarist politics, not evidence about postwar agriculture.
 
-### Q48. Which statement avoids a close-option trap about Civil War and Red victory?
+### Q34 — B
 
-A. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-B. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-C. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-D. Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War.
+- **A ✗:** That government was overthrown in 1917.
+- **B ✓:** Victory did not end surveillance or coercion within the state.
+- **C ✗:** NEP belongs to the 1920s and does not describe postwar restrictions.
+- **D ✗:** That action belongs to October/November 1917.
+- **Trap:** NEP belongs to the 1920s and does not describe postwar restrictions.
 
-**Answer: D.**
-**Explanation:** Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War. The remaining options belong to different chronology, actor or analytical categories.
+### Q35 — C
 
-### Q49. Which statement correctly identifies Cheka and Red Terror?
+- **A ✗:** Assembly dispersal and Cheka predate Stalin's dictatorship.
+- **B ✗:** Lenin died in 1924.
+- **C ✓:** Recognising institutional continuity need not flatten differences in scale and policy.
+- **D ✗:** These represented markedly different approaches to peasant production.
+- **Trap:** These represented markedly different approaches to peasant production.
 
-A. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-B. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-C. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-D. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
+### Q36 — D
 
-**Answer: A.**
-**Explanation:** The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** NEP followed rather than preceded the Tsar's abdication.
+- **B ✗:** The Duma concession was earlier, and NEP preceded the bomb.
+- **C ✗:** The NEP was not introduced before the 1905 crisis.
+- **D ✓:** The sequence separates tsarist concession, revolution, Lenin's retreat and postwar Stalinism.
+- **Trap:** NEP followed rather than preceded the Tsar's abdication.
 
-### Q50. Which chronology card should be filed under Cheka and Red Terror?
+### Q37 — A
 
-A. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-B. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-C. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-D. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-
-**Answer: B.**
-**Explanation:** The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Cheka and Red Terror?
-
-A. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-B. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-C. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-D. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-
-**Answer: C.**
-**Explanation:** The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Cheka and Red Terror?
-
-A. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-B. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-C. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-D. The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention.
-
-**Answer: D.**
-**Explanation:** The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies NEP, 1921?
-
-A. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-B. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-C. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-D. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-
-**Answer: A.**
-**Explanation:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under NEP, 1921?
-
-A. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-B. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-C. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-D. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-
-**Answer: B.**
-**Explanation:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of NEP, 1921?
-
-A. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-B. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-C. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-D. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-
-**Answer: C.**
-**Explanation:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about NEP, 1921?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-C. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-D. The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state.
-
-**Answer: D.**
-**Explanation:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Stalin's rise after 1924?
-
-A. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-B. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-C. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-D. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-
-**Answer: A.**
-**Explanation:** As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Stalin's rise after 1924?
-
-A. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-B. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-C. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-D. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-
-**Answer: B.**
-**Explanation:** As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Stalin's rise after 1924?
-
-A. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-B. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-C. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-D. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-
-**Answer: C.**
-**Explanation:** As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Stalin's rise after 1924?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-C. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-D. As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin.
-
-**Answer: D.**
-**Explanation:** As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Five Year Plans?
-
-A. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-B. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-C. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-D. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-
-**Answer: A.**
-**Explanation:** Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Five Year Plans?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-C. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-D. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-
-**Answer: B.**
-**Explanation:** Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Five Year Plans?
-
-A. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-B. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-C. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-D. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-
-**Answer: C.**
-**Explanation:** Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Five Year Plans?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-C. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-D. Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply.
-
-**Answer: D.**
-**Explanation:** Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Collectivisation by 1937?
-
-A. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-B. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-C. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-D. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-
-**Answer: A.**
-**Explanation:** Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Collectivisation by 1937?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-C. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-D. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-
-**Answer: B.**
-**Explanation:** Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Collectivisation by 1937?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-D. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-
-**Answer: C.**
-**Explanation:** Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Collectivisation by 1937?
-
-A. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-D. Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption.
-
-**Answer: D.**
-**Explanation:** Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Famine, 1932-33?
-
-A. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-B. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-C. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-D. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-
-**Answer: A.**
-**Explanation:** Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Famine, 1932-33?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-C. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-D. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-
-**Answer: B.**
-**Explanation:** Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Famine, 1932-33?
-
-A. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-D. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-
-**Answer: C.**
-**Explanation:** Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Famine, 1932-33?
-
-A. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-B. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-C. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-D. Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested.
-
-**Answer: D.**
-**Explanation:** Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Purges and 1936 Constitution?
-
-A. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-D. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-
-**Answer: A.**
-**Explanation:** The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Purges and 1936 Constitution?
-
-A. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-B. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-C. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-D. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-
-**Answer: B.**
-**Explanation:** The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Purges and 1936 Constitution?
-
-A. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-B. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-C. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-D. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-
-**Answer: C.**
-**Explanation:** The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Purges and 1936 Constitution?
-
-A. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-B. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-C. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-D. The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship.
-
-**Answer: D.**
-**Explanation:** The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies War, reconstruction and final repression?
-
-A. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-B. Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive.
-C. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-D. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-
-**Answer: A.**
-**Explanation:** The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under War, reconstruction and final repression?
-
-A. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-B. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-C. The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants.
-D. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-
-**Answer: B.**
-**Explanation:** The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of War, reconstruction and final repression?
-
-A. Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family.
-B. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-C. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-D. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-
-**Answer: C.**
-**Explanation:** The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about War, reconstruction and final repression?
-
-A. The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions.
-B. Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917.
-C. Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse.
-D. The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953.
-
-**Answer: D.**
-**Explanation:** The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** The three responses addressed different crises under different regimes.
+- **B ✗:** The manifesto preceded the war treaty and NEP preserved state control of key sectors.
+- **C ✗:** Neither policy is placed in its correct actor or decade.
+- **D ✗:** None establishes a durable parliamentary democracy in the source.
+- **Trap:** Neither policy is placed in its correct actor or decade.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -840,19 +599,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** War converted unresolved constitutional, agrarian, labour and dynastic weaknesses into shortages, mutiny and elite abandonment.
+Tsarism fell in February/March 1917 because war turned long-standing grievances into military and administrative breakdown.
 
-**Analytical body:**
+Defeat by Japan and unrest in 1905 forced Nicholas II to issue the October Manifesto promising a Duma. Divided opponents and army loyalty saved him then, but he dissolved the first two Dumas; constitutional reform failed to check autocracy. Stolypin abolished redemption payments and pursued land reform, benefiting some peasants, yet land hunger persisted. Strikes revived after 1912, repression alienated workers, and the Rasputin scandal damaged the dynasty.
 
-1. **Claim and named evidence:** Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Wartime defeats, food shortages, failing transport and administrative incompetence made these weaknesses acute. Bread riots in Petrograd spread into strikes; when sections of the garrison mutinied, coercion ceased to protect the regime. The Duma and senior generals abandoned Nicholas, who abdicated on 2 March 1917 (Old Style).
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** War converted unresolved constitutional, agrarian, labour and dynastic weaknesses into shortages, mutiny and elite abandonment.
+War was the catalyst, not the sole cause: land hunger and autocracy had already weakened allegiance. February was a broad uprising, not a Bolshevik seizure.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
@@ -878,15 +631,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Markets returned for peasants and small trade, but commanding sectors and political monopoly stayed under communist control.
+Lenin's 1921 New Economic Policy (NEP) retreated from war communism to revive production after civil war, not to restore capitalist control or political competition.
 
-**Analytical body:**
+Peasants could keep and sell produce remaining after tax, encouraging food production and reconnecting town and countryside after requisitioning disrupted exchange. Small-scale private trade returned; prices and individual gain mattered again. These were real concessions.
 
-1. **Claim and named evidence:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Yet the state retained heavy industry, banking and transport: traders did not control the commanding sectors. The Bolsheviks kept their political monopoly, demonstrated by dispersal of the Constituent Assembly in January 1918 and the Cheka's repression of opponents. Economic latitude did not mean parliamentary pluralism.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Markets returned for peasants and small trade, but commanding sectors and political monopoly stayed under communist control.
+NEP stabilised Bolshevik rule by changing how food was obtained, without transferring political or strategic economic power to private hands. Its market concessions addressed an agricultural and supply crisis, but the state's grip on the commanding sectors prevented private enterprise from determining national priorities. It was neither unbroken war communism nor full capitalism.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
@@ -915,18 +666,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Its war policy, delay over land and elections, economic chaos and dual power created a legitimacy gap the Bolsheviks exploited.
+After Nicholas II's abdication in February/March 1917, the Provisional Government held office but not uncontested power. Dual authority, unmet demands and Bolshevik opposition interacted to bring it down.
 
-**Analytical body:**
+Although ministers held formal authority, the Petrograd soviet enjoyed the loyalty of many workers and soldiers whose cooperation was needed to enforce decisions. This split made it hard to act decisively. By continuing Russia's unpopular war, the government kept troops and civilians exposed to losses and shortages instead of meeting the demand for peace. It also deferred land reform and elections: peasants awaiting redistribution and citizens expecting representative rule saw little immediate change from tsarism.
 
-1. **Claim and named evidence:** The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Inflation, transport disruption and food shortages reduced confidence. Lenin's April Theses and the promise of peace, land and soviet power offered an alternative. The Kornilov affair discredited Kerensky and strengthened the Bolsheviks as defenders against a perceived threat from the right, without proving they spoke for every Russian.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+In mid-October the Petrograd soviet moved towards seizing power; on the night of 25–26 October (Old Style), Red Guards and pro-soviet troops took strategic points in Petrograd and arrested government ministers. That planned operation ended a government whose enforcement capacity and social legitimacy had already been eroded over months.
 
-**Qualified conclusion:** Its war policy, delay over land and elections, economic chaos and dual power created a legitimacy gap the Bolsheviks exploited.
+Unlike February's broad overthrow of the Tsar, October was organised; war, divided authority and deferred reform made the government's survival improbable, not predetermined.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
@@ -956,19 +704,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Immediate decrees, withdrawal from war, Assembly dispersal, coercion, central control in civil war and NEP joined legitimacy, force and tactical retreat.
+Between October 1917 and Lenin's death in January 1924, Bolshevik rule survived through a changing combination of popular concessions, exclusion of rivals, military victory and economic retreat.
 
-**Analytical body:**
+Early decrees nationalised land, gave workers some factory control, limited working hours and widened state control over banks, mines and large industry. They answered popular demands. But the Bolsheviks lacked a Constituent Assembly majority; dispersing it in January 1918 closed the parliamentary route for opponents.
 
-1. **Claim and named evidence:** The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Lenin then accepted the March 1918 Treaty of Brest-Litovsk despite enormous territorial losses. Removing Russia from the world war bought the regime time to survive internal conflict; it was a strategic sacrifice, not an unqualified diplomatic triumph. During the 1918–20 Civil War the Reds benefited from their hold on Russia's central core and firmer Lenin–Trotsky leadership. The Whites lacked a united aim; foreign intervention against the Reds also let Bolsheviks present themselves as defenders of Russia. Victory was therefore not proof of universal support for their policies.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+The Cheka and Red Terror suppressed former elites and political rivals. Coercion was part of Lenin-era state-building, not something Stalin invented later. Yet compulsion alone could not repair production and rural exchange. The 1921 New Economic Policy let peasants retain surplus after tax and revived small trade while the state kept heavy industry, banking and transport and the party retained political power.
 
-**Qualified conclusion:** Immediate decrees, withdrawal from war, Assembly dispersal, coercion, central control in civil war and NEP joined legitimacy, force and tactical retreat.
+Consolidation combined concessions and military survival with coercion; NEP preserved, rather than surrendered, one-party rule.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
@@ -998,19 +742,17 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Heavy-industrial capacity rose rapidly, but coercive collectivisation, famine, poor consumption and lost expertise made achievement inseparable from immense cost.
+Stalin's transformation from the late 1920s built a formidable industrial state but did so by subordinating agriculture, consumption and human lives to centrally determined targets. Success in heavy industry cannot by itself settle the question of economic success.
 
-**Analytical body:**
+Five Year Plans accelerated output of coal, steel, pig iron and electricity, giving the USSR greater industrial and ultimately strategic capacity. They also imposed harsh workplace discipline and left consumer goods scarce. New urban workers, many drawn from villages, found opportunities for training and advancement; those gains did not remove the burdens borne by labour.
 
-1. **Claim and named evidence:** Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Collectivisation sought to control grain and reorganise peasant farming, rather than merely expand factories. By 1937 most farmland had been collectivised. Yet violent resistance, livestock losses and agricultural disruption undermined the claim that state control automatically raised food production. Norman Lowe reports estimates of more than five million deaths during the 1932–33 famine even as grain exports continued; exact totals and the distribution of responsibility remain contested. Peasant proprietorship was crushed, while migration supplied industry with workers. For women, greater entry into work and training coexisted with domestic burdens.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Political methods also affected productive capacity. The 1936 Constitution advertised democracy while power stayed with a one-party dictatorship; the 1936–38 Purges removed experienced officials and officers as well as rivals. Such destruction of expertise qualifies a balance sheet measured only in industrial output.
 
-**Qualified conclusion:** Heavy-industrial capacity rose rapidly, but coercive collectivisation, famine, poor consumption and lost expertise made achievement inseparable from immense cost.
+The Soviet survival of Nazi invasion demonstrates industrial and military resilience, not that coercion was necessary in every form. Under the Fourth Five Year Plan (1946–50) industry recovered quickly in official statistics, and the USSR tested its first atomic bomb in 1949. But agriculture lagged: famine returned in 1946 and 1952 grain output remained below 1940; repression continued until Stalin died on 5 March 1953.
+
+Stalin achieved heavy-industrial and strategic growth at immense social and agricultural cost.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
@@ -1041,17 +783,12 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Lenin created party monopoly, political police and anti-parliamentary rule; Stalin radicalised that framework into forced social revolution and vastly wider terror.
+Stalinism continued Leninism's one-party institutional framework but changed the scale and direction of its economic and coercive policies. Neither an innocent Leninist democracy nor an unaltered line from Lenin to Stalin fits the evidence.
 
-**Analytical body:**
+After October 1917 Bolshevik decrees nationalised land and widened controls over banks and major industry, while granting some factory control to workers. Lenin's government dispersed the Constituent Assembly in January 1918 after failing to win a majority. The Cheka and Red Terror then repressed former elites and political opponents during consolidation. Stalin inherited a state in which parliamentary competition had already been excluded and political policing was accepted as an instrument of rule.
 
-1. **Claim and named evidence:** The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Yet Lenin's New Economic Policy of 1921 permitted peasants to keep surplus after tax and revived small trade, even though heavy industry, banking, transport and the party's political monopoly stayed under state control. Stalin replaced this limited accommodation with Five Year Plans and forced collectivisation. By 1937 most farmland was collectivised, giving the state control over grain but provoking resistance, livestock collapse and famine. This was a second revolution from above, not a simple continuation of NEP.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Stalin's personal ascendancy also required contingent party struggles. As General Secretary he used organisational networks, rivals' underestimation and shifting alliances to isolate Trotsky, then Kamenev and Zinoviev, and finally Bukharin. In the 1936–38 Purges, terror reached into the party and armed forces, eliminating experienced officials and officers while making Stalin unchallengeable. The democratic appearance of the 1936 Constitution masked non-competitive one-party rule.
 
-**Qualified conclusion:** Lenin created party monopoly, political police and anti-parliamentary rule; Stalin radicalised that framework into forced social revolution and vastly wider terror.
+Some coercive means and institutions therefore predated Stalin; the forced transformation of peasant society and the breadth of the Purges were distinctive escalations. Continuity explains the available machinery of dictatorship, not the inevitability or full human cost of Stalin's choices.

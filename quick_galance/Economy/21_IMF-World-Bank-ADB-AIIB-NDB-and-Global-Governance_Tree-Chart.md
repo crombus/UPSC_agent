@@ -113,10 +113,12 @@ FINANCIAL STANDARD ARCHITECTURE
 | RFI / RCF | Rapid Financing Instrument / Rapid Credit Facility |
 | PRGT / RST / RSF | Poverty Reduction and Growth Trust / Resilience and Sustainability Trust / Facility |
 | IBRD / IDA | International Bank for Reconstruction and Development / International Development Association |
-| IFC / MIGA / ICSID | International Finance Corporation / Multilateral Investment Guarantee Agency / International Centre for Settlement of Investment Disputes |
+| IFC / MIGA / ICSID | International Finance Corporation / Multilateral Investment Guarantee Agency /
+   International Centre for Settlement of Investment Disputes |
 | ADB / AIIB / NDB | Asian Development Bank / Asian Infrastructure Investment Bank / New Development Bank |
 | IPF / DPF / PforR | Investment Project Financing / Development Policy Financing / Program-for-Results |
-| BIS / BCBS / FSB | Bank for International Settlements / Basel Committee on Banking Supervision / Financial Stability Board |
+| BIS / BCBS / FSB | Bank for International Settlements / Basel Committee on Banking Supervision / Financial
+   Stability Board |
 | G20 Finance Track | Finance ministers, central-bank governors, deputies and technical working groups |
 | DSSI | Debt Service Suspension Initiative |
 | RFA | Regional Financing Arrangement |
@@ -146,4 +148,5 @@ FINANCIAL STANDARD ARCHITECTURE
 6. Evaluate additionality, representation and measurable outcomes.
 7. Conclude with reformed multilateralism, not supranational government.
 
-**Boundary:** WTO belongs Topic 20 | BoP/reserve accounting Topic 19 | Basel ratios Topic 6 | infrastructure model detail Topic 18.
+**Boundary:** WTO belongs Topic 20 | BoP/reserve accounting Topic 19 | Basel ratios Topic 6 | infrastructure
+   model detail Topic 18.

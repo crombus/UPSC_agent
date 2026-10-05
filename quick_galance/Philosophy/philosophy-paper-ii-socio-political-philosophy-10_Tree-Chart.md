@@ -351,5 +351,10 @@ CASTE DISCRIMINATION: GANDHI AND AMBEDKAR
 - **Canonical Advanced owner:** `upsc-ai-kit\knowledge\Philosophy\_advanced\Socio-Political-Dossier.md` §10
 - **Verified PYQ ledger:** `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2018-2025.md`
 - **Matches:** the 22-panel ASCII master flow and the 23-card graphical rail of the same generation.
-- **Evidence discipline:** no caste name, community, region, State, district, population share, literacy figure, land-holding percentage, atrocity count, survey result or dataset is named; no figure or negotiating detail of the Poona Pact beyond the substitution, the primary-election mechanism and the increase in reserved seats is asserted; and no statute, judgment, commission report or amendment is used as evidence for or against a philosophical thesis.
+- **Evidence discipline:** no caste name, community, region, State, district,
+  population share, literacy figure, land-holding percentage, atrocity count,
+  survey result or dataset is named; no figure or negotiating detail of the
+  Poona Pact beyond substitution, primary-election mechanism and increased
+  reserved seats is asserted; no statute, judgment, commission report or
+  amendment is used as evidence for or against a philosophical thesis.
 - **Approval:** false — pending explicit user review of this topic.

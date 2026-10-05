@@ -1,880 +1,468 @@
 ---
-title: "The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis — Learner-v2 Refreshed"
-topic_key: medieval-indian-history-23
-cover_image: assets/medieval-indian-history-23_Teaching-Navigation_2026-08-30.png
+title: "Medieval History Topic 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis — Learning Session"
+subject: Medieval Indian History
+topic_number: 23
+gs_paper: GS-I
 ---
-# The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis - Complete Topic Package
 
-![Maratha forts state-building Deccan war and jagirdari crisis cover](assets/00_00_cover.png)
+# Medieval History Topic 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis
 
-> Subject: Medieval Indian History | GS-I | Prelims | Date: 2026-09-04.
+![Topic 23 cover](assets/00_cover.png)
+*Cover: the western Deccan operational world, Raigad sovereignty and the jagirdari crisis in one frame.*
 
-> Source order followed: Topic 23 basic/advanced Markdown; master chronology and answer-worthiness audit; PYQ routing/official-OCR corpus; bounded Topic 18, 21, 22, 24 and 25 links; local OCR Satish Chandra Part II and relevant local text; then live official UNESCO/ASI/Ministry of Culture/Government of Maharashtra heritage search. FACT statements are source-grounded; ANALYSIS statements are qualified.
+![Topic navigation](assets/00_navigation.png)
+*Complete session navigation: 20 sessions across 8 parts, then MCQs, PYQ/Mains practice, optional Advanced depth, and consolidated register notes.*
 
-### Learning roadmap
+**Contents / Session Index**
 
-1. Frame and geography  2. Mobilisation and sources  3. Shahji, Poona and early forts  4. Javli/Afzal Khan  5. Mughal conflict, Purandar and Agra  6. Coronation and southern reach  7. State/revenue/chauth  8. Military, navy and legitimacy  9. Sambhaji, Rajaram and Tarabai  10. Aurangzeb and jagirdari crisis  11. Sources, heritage, PYQ audit  12. MCQs, solved Mains and final register notes.
-
-### PRE-TEACH CHECKLIST
-
-**Book context:** queried - Topic 23 basic/advanced notes, Master Chronology, answer-worthiness audit and local OCR Satish Chandra Part II were checked. Topic 18, 21, 22, 24 and 25 are cross-linked only where needed.
-
-**CA Search:** "official UNESCO ASI Ministry of Culture Government of Maharashtra Maratha Military Landscapes Raigad Sindhudurg Pratapgad Panhala Shivneri Salher conservation 19 February 2026 to 19 August 2026"
-
-**CA Found:** No material fort-specific official update was identified in the six-month window. STATIC HERITAGE LINK retained: UNESCO's 2025 inscription of the Maratha Military Landscapes of India.
+- Basic Learning Session (Parts I-VIII, Sessions 1-20)
+  - Part I — Frame, Geography and Historical Method
+  - Part II — Pre-Shivaji Background and Early Territorial Logic
+  - Part III — Afzal Khan, Mughal Conflict and Negotiated Incorporation
+  - Part IV — Recovery, Coronation and Southern Reach
+  - Part V — State, Revenue, Fiscal Claims and War
+  - Part VI — Religion, Legitimacy and Imperial War
+  - Part VII — Aurangzeb's Deccan Policy and Jagirdari Crisis
+  - Part VIII — Sources, PYQ Verification and Heritage Link
+- Basic MCQs / Remediation (16 items, A/B/C/D rotation)
+- PYQs and Answer Practice
+  - Verified PYQ Ledger, 2018-2026
+  - Six Original Solved Mains Answers
+- Optional Advanced Depth — Not Required for a Core Answer
+- Consolidated Register Notes
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Medieval History Core is taught before optional enrichment. |
-| Evidence method | Claim → named site/text/inscription/coin/example → analysis → qualification. |
-| Source hierarchy | Archaeology, textual testimony, inscriptions, coins and scholarly interpretation remain visibly distinct. |
-| Contested issues | Competing interpretations are attributed, evidenced and bounded; certainty is not manufactured. |
-| Practice contract | Every solved item has demand decoding, an examiner-grade model, an executable answer/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Medieval-Indian-History\basic\23_Marathas-Shivaji-and-Deccan.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Medieval-Indian-History\basic\23_Marathas-Shivaji-and-Deccan.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Medieval-Indian-History\advanced\23_Marathas-Shivaji-and-Deccan.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Medieval-Indian-History\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Archaeological inference:** material context supports bounded reconstruction; absence is not automatic proof of non-existence.
-- **Textual testimony:** genre, authorship, redaction, patronage and temporal distance control what a text can prove.
-- **Inscription and coin evidence:** contemporary names, titles, claims and circulation are powerful but do not by themselves map uniform territorial control.
-- **Scholarly interpretation:** historian labels are arguments to test, not facts to memorise without evidence.
-- **PYQ discipline:** repository ledgers and locally held official papers control wording and metadata; reconstructed wording and unavailable official keys must be labelled.
-- **Current-status note, rechecked 2026-09-04:** PIB's 16 March 2026 release reports site-management and conservation arrangements for the twelve Maratha Military Landscapes forts, including ASI or state responsibility and site management. UNESCO identifies twelve forts, including Raigad, Shivneri and Sindhudurg, as a strategically located network supporting defence, trade protection and territorial control. These sources are used only as bounded heritage and spatial evidence. They do not prove every seventeenth-century tactical episode, modern nationalism, exact force sizes, or the institutional meaning of chauth or the jagirdari crisis.
-
-**Live/primary context sources recorded by the predecessor generation:**
-
-- `https://pib.gov.in/PressReleasePage.aspx?PRID=2240848&reg=1&lang=1`
-- `https://whc.unesco.org/en/list/1739/`
-
-
-
-![Refreshed teaching navigation](assets/medieval-indian-history-23_Teaching-Navigation_2026-08-30.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
 ### PART I - FRAME, GEOGRAPHY AND HISTORICAL METHOD
 
-### SESSION 1 — THE WESTERN DECCAN AS AN ECOLOGICAL-POLITICAL ZONE
+#### Session 1 — THE WESTERN DECCAN AS AN ECOLOGICAL-POLITICAL ZONE
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Chronology from the Poona setting to Aurangzeb's death](assets/01_chronology_1630_1707.png)
+*Chronology from the Poona setting to Aurangzeb's death*
 
-**Plain-language definition:** The western Deccan should be read as a set of opportunities and constraints, not as a natural machine that automatically produced Maratha power.
+![Western Deccan ecology and operational choices](assets/02_geography_ecology_map.png)
+*Western Deccan ecology and operational choices*
 
-**Technical definition:** Technically, The western Deccan as an ecological-political zone is analysed by relating Deccan to Maratha, then testing the relationship through Sidis and Portuguese.
+![Passes, forts and coast as one system](assets/03_passes_forts_coast_system.png)
+*Passes, forts and coast as one system*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Plain-language definition:** The western Deccan is the belt of the Sahyadri (Western Ghats), the Maval uplands and the Konkan coast whose passes, hill forts and creeks supplied the operational base for Maratha power.
 
-> The western Deccan should be read as a set of opportunities and constraints, not as a natural machine that automatically produced Maratha power.
+**Technical precision:** Ecological-political zone: a region where a fixed physical layout (ridge, pass, valley, creek) is converted into repeatable political and military capacity through fort-holding, garrisoning, supply and local alliance, rather than a zone whose terrain by itself produces a state.
 
-#### MUST-WRITE KEYWORDS
+**Answer-ready opening:** Terrain supplied opportunities and constraints; only organisation, coercion and diplomacy turned those opportunities into Maratha state power.
 
-- **The western Deccan as an ecological-political zone**
-- **Deccan**
-- **Maratha**
-- **Sidis**
-- **Portuguese**
-- **English**
+#### PARAGRAPH DEMONSTRATION
 
-**How to use them:** Frame the answer through The western Deccan as an ecological-political zone; define Deccan, connect Maratha with Sidis to explain the mechanism, and use Portuguese for the decisive comparison or qualification.
+**Claim:** Western Deccan geography enabled, but did not by itself create, Maratha state power. **Evidence:** named evidence: the Sahyadri ridge separated the upland plateau from the Konkan littoral; Maval valleys and passes shaped movement and supply; a hill fort could observe a route, store grain and arms, and signal a neighbouring garrison. **Analysis:** these features made a distributed operational system possible: forts, passes and creeks could be linked into one network of storage, intelligence and short-radius movement. **Qualification:** the same landscape held villages, hereditary office-holders, competing patrons and several states, so geography without coercion, negotiation, administration and a ruler-centred idiom of sovereignty produced no state at all.
 
-The western Deccan should be read as a set of opportunities and constraints, not as a natural machine that automatically produced Maratha power. The Sahyadri or Western Ghats divided the upland plateau from the Konkan littoral; the Maval valleys, ridges, passes and monsoon rhythms shaped movement, storage and communication. A hill fort could observe a route, hold grain and arms, shelter a garrison, signal a neighbour and stage a raid. The coast and its creeks added customs, maritime access and rivalry with the Sidis, Portuguese and English. These features made a distributed operational system possible.
+The Sahyadri or Western Ghats divided the upland plateau from the Konkan littoral; the Maval valleys, ridges, passes and monsoon rhythms shaped movement, storage and communication. A hill fort could observe a route, hold grain and arms, shelter a garrison, signal a neighbour and stage a raid. The coast and its creeks added customs, maritime access and rivalry with the Sidis of Janjira, the Portuguese and the English. These features made a distributed operational system possible.
 
-FACT: geography mattered because armies had to feed horses, move artillery, secure passes and keep lines of information open. ANALYSIS: geography did not confer command by itself. The same terrain contained villages, hereditary office-holders, competing patrons and several states. Shivaji's achievement lay in converting selected nodes into a political and fiscal network through coercion, negotiation, administration and a ruler-centred idiom of sovereignty. A fort without stores, men, records and nearby social support was not a state.
+FACT: geography mattered because armies had to feed horses, move artillery, secure passes and keep lines of information open. ANALYSIS: geography did not confer command by itself. Shivaji's achievement lay in converting selected nodes into a political and fiscal network through coercion, negotiation, administration and a ruler-centred idiom of sovereignty. A fort without stores, men, records and nearby social support was not a state.
 
-A good answer therefore rejects two opposite errors. It should not call the Marathas a mere product of hills, and it should not present terrain as a theatrical backdrop to a lone hero. Link ecology to choices: use of passes, fort stores, short movement, local intelligence and coastal defence. Then add the qualification that Bijapur's distractions, Mughal priorities, service networks and local bargains made each choice politically meaningful.
+A good answer therefore rejects two opposite errors: it should not call the Marathas a mere product of hills, and it should not present terrain as a theatrical backdrop to a lone hero. Link ecology to choices — use of passes, fort stores, short movement, local intelligence and coastal defence — then qualify with Bijapur's distractions, Mughal priorities, service networks and local bargains.
 
+**Keywords (use each once in your own recall sentence):** Sahyadri passes and Maval uplands, Konkan coastal creeks, Sidis of Janjira, Portuguese and English footholds, distributed fort-based operational system
 
-![Visual 1: chronology from the Poona setting to Aurangzeb's death](assets/01_01_chronology_1630_1707.png)
+**Recall flow:** Western Deccan geography enabled, but did not by itself create, Maratha state power. -> Sahyadri passes and Maval uplands -> Konkan coastal creeks -> Sidis of Janjira -> the same landscape held villages, patrons and rival states, so only coercion, negotiation and a ruler-centred idiom of sovereignty converted terrain into a state.
 
-*Visual 1: chronology from the Poona setting to Aurangzeb's death. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 2 — MOBILISATION, IDENTITY AND COMPETING HISTORICAL FRAMES
 
-![Visual 2: western Deccan ecology and operational choices](assets/02_02_geography_ecology_map.png)
+![Differentiated social and service networks](assets/04_social_service_network.png)
+*Differentiated social and service networks*
 
-*Visual 2: western Deccan ecology and operational choices. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Historiographical frames tested against evidence](assets/05_historiography_frames.png)
+*Historiographical frames tested against evidence*
 
-![Visual 3: passes, forts and coast as one system](assets/03_03_passes_forts_coast_system.png)
+![Deccan service world as bounded background](assets/06_pre_shivaji_service_world.png)
+*Deccan service world as bounded background*
 
-*Visual 3: passes, forts and coast as one system. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Plain-language definition:** Maratha political mobilisation is the process by which deshmukhs, Mavali peasant-soldiers, cavalry households, Brahman administrators, artisans, sailors and Deccani service personnel were drawn into one political project.
 
-#### CLOSING RECALL FLOW — THE WESTERN DECCAN AS AN ECOLOGICAL-POLITICAL ZONE
+**Technical precision:** Historiographical frame: an organising interpretive lens (nationalist, communal, regional-state, peasant/zamindar or institutional-continuity) that historians apply to the same evidence, each capturing part of the process and each needing source-checked limits.
 
-```text
-START / CONCEPT: The western Deccan as an ecological-political zone
-        |
-        v
-EXACT TERMS: The western Deccan as an ecological-political zone · Deccan · Maratha · Sidis · Portuguese · English
-        |
-        v
-MECHANISM / ARGUMENT: geography mattered because armies had to feed horses, move artillery, secure passes and keep lines of information open.
-        |
-        v
-CONSEQUENCE / CONTRAST: It should not call the Marathas a mere product of hills, and it should not present terrain as a theatrical backdrop to a lone hero.
-        |
-        v
-UPSC TRAP / ANSWER-USE: A fort without stores, men, records and nearby social support was not a state.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The western Deccan should be read as a set of opportunities and constraints, not as a natural machine that automatically produced Maratha power.
-```
-### SESSION 2 — MOBILISATION, IDENTITY AND COMPETING HISTORICAL FRAMES
+**Answer-ready opening:** Four rival frames explain parts of Maratha mobilisation, but none stands alone as a complete account.
 
-#### DEFINITION / WHAT THIS IS CALLED
+#### PARAGRAPH DEMONSTRATION
 
-**Plain-language definition:** A communal frame treats the state as an exclusive Hindu reaction; royal Hindu idiom is real, yet Persianate and Deccani institutions, Muslim officers and pragmatic diplomacy prevent that reduction.
+**Claim:** Maratha political mobilisation cannot be collapsed into a primordial nation, a homogeneous caste bloc, or a pure Hindu reaction. **Evidence:** named evidence: the coalition drew on deshmukhs and village elites, Mavalis, bargir and silhedar cavalry households, Brahman administrators, artisans, sailors and Muslim or other Deccani service personnel. **Analysis:** a nationalist frame captures anti-imperial political memory; a communal frame notes royal Hindu idiom; a regional-state frame explains forts, revenue and legitimacy; a peasant/zamindar frame highlights local power and recruitment. **Qualification:** none of these frames should be applied without source method: a saint's verse, a courtly genealogy, a later bakhar or a modern commemoration cannot by itself prove a universal political programme.
 
-**Technical definition:** A peasant/zamindar mobilisation frame highlights local power, extraction and recruitment, but must not dissolve the ruler and court into an automatic social uprising.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> A peasant/zamindar mobilisation frame highlights local power, extraction and recruitment, but must not dissolve the ruler and court into an automatic social uprising.
-
-#### MUST-WRITE KEYWORDS
-
-- **Mobilisation**
-- **identity**
-- **competing historical frames**
-- **Their**
-- **Hindu**
-- **Persianate**
-
-**How to use them:** Frame the answer through Mobilisation; define identity, connect competing historical frames with Their to explain the mechanism, and use Hindu for the decisive comparison or qualification.
-
-Maratha political mobilisation cannot be collapsed into a primordial nation, a homogeneous caste bloc or a pure Hindu reaction. Marathi language, landed and service networks, household claims, Bhakti-cultural settings and conflicts among Deccan powers all supplied resources for political action. The coalition included deshmukhs and village elites, Mavalis, bargir and silhedar cavalry households, Brahman administrators, artisans, sailors and Muslim or other Deccani service personnel. Their interests could overlap, but they were not identical.
+Marathi language, landed and service networks, household claims, Bhakti-cultural settings and conflicts among Deccan powers all supplied resources for political action. Their interests could overlap, but they were not identical.
 
 Four frames deserve testing rather than ritual recitation. A nationalist frame foregrounds independence and heroic resistance; it captures an anti-imperial political memory but risks modern nation-state language. A communal frame treats the state as an exclusive Hindu reaction; royal Hindu idiom is real, yet Persianate and Deccani institutions, Muslim officers and pragmatic diplomacy prevent that reduction. A regional-state frame explains forts, revenue, legitimacy and territorial coordination. A peasant/zamindar mobilisation frame highlights local power, extraction and recruitment, but must not dissolve the ruler and court into an automatic social uprising. Institutional-continuity analysis asks what was borrowed from Deccani practice.
 
-Source method makes the distinction operational. Do not infer a universal political programme from a saint's verse, a courtly genealogy, a later bakhar or a modern commemoration. Ask who produced the record, for whom, and what it can show. The strongest conclusion is layered: a regional state gained durability by mobilising diverse local and service networks while articulating a royal idiom that could claim autonomy.
+Source method makes the distinction operational: ask who produced a record, for whom, and what it can show. The strongest conclusion is layered — a regional state gained durability by mobilising diverse local and service networks while articulating a royal idiom that could claim autonomy.
 
+**Keywords (use each once in your own recall sentence):** deshmukhs and village elites, Mavali peasant-soldiery, bargir and silhedar cavalry households, Bhakti-cultural networks, nationalist and communal historiographical frames
 
-![Visual 4: differentiated social and service networks](assets/04_04_social_service_network.png)
+**Recall flow:** Maratha political mobilisation cannot be collapsed into a primordial nation, a homogeneous caste bloc, or a pure Hindu reaction. -> deshmukhs and village elites -> Mavali peasant-soldiery -> bargir and silhedar cavalry households -> none of these frames should be applied without source method, since a saint's verse, a courtly genealogy or a later bakhar each proves a different, narrower claim rather than one universal political programme.
 
-*Visual 4: differentiated social and service networks. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 5: historiographical frames tested against evidence](assets/05_05_historiography_frames.png)
-
-*Visual 5: historiographical frames tested against evidence. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 6: Deccan service world as bounded background](assets/06_06_pre_shivaji_service_world.png)
-
-*Visual 6: Deccan service world as bounded background. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — MOBILISATION, IDENTITY AND COMPETING HISTORICAL FRAMES
-
-```text
-START / CONCEPT: Mobilisation, identity and competing historical frames
-        |
-        v
-EXACT TERMS: Mobilisation · identity · competing historical frames · Their · Hindu · Persianate
-        |
-        v
-MECHANISM / ARGUMENT: The strongest conclusion is layered: a regional state gained durability by mobilising diverse local and service networks while articulating a royal idiom that could claim autonomy.
-        |
-        v
-CONSEQUENCE / CONTRAST: A nationalist frame foregrounds independence and heroic resistance; it captures an anti-imperial political memory but risks modern nation-state language.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not infer a universal political programme from a saint's verse, a courtly genealogy, a later bakhar or a modern commemoration.
-        |
-        v
-ANSWER-GRABBING FORMULATION: A peasant/zamindar mobilisation frame highlights local power, extraction and recruitment, but must not dissolve the ruler and court into an automatic social uprising.
-```
 ### PART II - PRE-SHIVAJI BACKGROUND AND EARLY TERRITORIAL LOGIC
 
-### SESSION 3 — SHAHJI, THE POONA HOUSEHOLD AND THE FIRST FORT PHASE
+#### Session 3 — SHAHJI, THE POONA HOUSEHOLD AND THE FIRST FORT PHASE
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Shahji's multi-court Deccan service network, including Golconda's neighbouring sphere](assets/07_shahji_network.png)
+*Shahji's multi-court Deccan service network, including Golconda's neighbouring sphere*
 
-**Plain-language definition:** The early fort phase is normally dated 1645-47.
+![Household legitimacy and attribution caution](assets/08_poona_household_legitimacy.png)
+*Household legitimacy and attribution caution*
 
-**Technical definition:** Dadoji Konddev may be discussed as an administrative actor in the Poona setting where evidence is secure; later arguments that turn him into an all-explaining tutor or erase him altogether are not a substitute for source criticism.
+![Precise early-fort chronology, 1645-47](assets/09_early_forts_chronology.png)
+*Precise early-fort chronology, 1645-47*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Plain-language definition:** Shahji Bhonsle was Shivaji's father, a Deccan service commander whose career moved between the Nizam Shahi (Ahmadnagar), Bijapur and Mughal establishments, holding a Poona-region jagir and later a Karnataka-Bangalore assignment.
 
-> The early fort phase is normally dated 1645-47.
+**Technical precision:** Mobile service politics: a career pattern in which a commander's loyalty followed shifting employment and patronage across rival Deccan/Mughal courts, distinct from a hereditary or nationalist anti-Mughal programme.
 
-#### MUST-WRITE KEYWORDS
+**Answer-ready opening:** Shahji's career shows mobile service politics across the Deccan, not a hereditary national programme handed down to his son.
 
-- **Shahji**
-- **the Poona household**
-- **the first fort phase**
-- **Topic**
-- **Bahmani**
-- **1645-47**
+#### PARAGRAPH DEMONSTRATION
 
-**How to use them:** Frame the answer through Shahji; define the Poona household, connect the first fort phase with Topic to explain the mechanism, and use Bahmani for the decisive comparison or qualification.
+**Claim:** Shahji Bhonsle's career demonstrates political mobility under pressure, not a straight national programme inherited by his son. **Evidence:** named evidence: Shahji served Ahmadnagar (Nizam Shahi), Bijapur and Mughal establishments in turn, supported a Nizam Shahi claimant during the contested final years of that sultanate, held a Poona-region base and later a Karnataka-Bangalore assignment; Bijapur employed him within its own wider Deccan service field that also touched Golconda's neighbouring sphere without Shahji serving every Deccan state simultaneously. **Analysis:** this pattern is best read as a commander converting shifting patronage into local footholds — a household base at Poona and a southern assignment — rather than as continuous resistance to a single named enemy. **Qualification:** claims that Shahji ran a continuous hereditary anti-Mughal programme, or that he served Golconda directly as a matter of course, outrun the evidence; his support for a Nizam Shahi claimant was mobile service politics in a fluid succession contest, not proto-nationalism.
 
-Topic 18 supplies the fuller story of Bahmani successor states, Malik Ambar and the 1636 Deccan settlement. Here those structures are background for a narrower question: how could a Poona-based household acquire room for action? Shahji Bhonsale moved among Nizam Shahi, Bijapur and Mughal service environments and developed interests in the Poona jagir as well as a Karnataka-Bangalore sphere. His career demonstrates political mobility under pressure, not a straight national programme inherited by his son.
+Topic 18 supplies the fuller story of Bahmani successor states, Malik Ambar and the 1636 Deccan settlement; here those structures are background for a narrower question — how could a Poona-based household acquire room for action? Shahji Bhonsle moved among Nizam Shahi, Bijapur and Mughal service environments. During the contested last years of the Ahmadnagar (Nizam Shahi) sultanate he backed a Nizam Shahi claimant to the throne — a documented instance of mobile service politics inside a collapsing court, not evidence of a continuous hereditary anti-Mughal national programme carried forward to his son. Bijapur's own Deccan service world extended toward Golconda's neighbouring sphere of influence; Shahji operated within that wider, overlapping field of Deccan service opportunities without having served every Deccan state himself. His later Karnataka-Bangalore assignment under Bijapur added a southern sphere alongside the Poona jagir.
 
-Jija Bai belongs in the account as a figure of household legitimacy and local authority. Claims about her exact political direction should not outrun the record. Dadoji Konddev may be discussed as an administrative actor in the Poona setting where evidence is secure; later arguments that turn him into an all-explaining tutor or erase him altogether are not a substitute for source criticism. Bhakti figures such as Tukaram or Ramdas are valuable cultural context, but a direct blueprint for state formation should not be asserted without a precise contemporary link.
+Jija Bai belongs in the account as a figure of household legitimacy and local authority; claims about her exact political direction should not outrun the record. Dadoji Konddev may be discussed as an administrative actor in the Poona setting where evidence is secure; later arguments that turn him into an all-explaining tutor or erase him altogether are not a substitute for source criticism. Bhakti figures such as Tukaram or Ramdas are valuable cultural context, but a direct blueprint for state formation should not be asserted without a precise contemporary link.
 
-The early fort phase is normally dated 1645-47. Use verbs carefully: Torna was taken early; Murumbdev was developed and associated with the name Rajgad, rather than being casually described as a simple 'capture of Rajgad'; Kondana was another key early acquisition. Such distinctions matter because a fort's political value was made through repair, supply, command and connection. The outcome was a Poona-Maval base, not yet a finished territorial kingdom.
+The early fort phase is normally dated 1645-47. Use verbs carefully: Torna was taken early; Murumbdev was developed and associated with the name Rajgad, rather than being casually described as a simple 'capture of Rajgad'; Kondana was another key early acquisition. The outcome was a Poona-Maval base, not yet a finished territorial kingdom.
 
+**Keywords (use each once in your own recall sentence):** Shahji Bhonsle's mobile service career, Nizam Shahi (Ahmadnagar) succession politics, Bijapur's wider Deccan service field, Poona-Maval jagir base, Jija Bai and household legitimacy
 
-![Visual 7: Shahji's multi-court service network](assets/07_07_shahji_network.png)
+**Recall flow:** Shahji Bhonsle's career demonstrates political mobility under pressure, not a straight national programme inherited by his son. -> Shahji Bhonsle's mobile service career -> Nizam Shahi (Ahmadnagar) succession politics -> Bijapur's wider Deccan service field -> claims that Shahji ran a continuous hereditary anti-Mughal programme outrun the evidence, since his shifting service was mobile-service politics in a fluid succession contest, not proto-nationalism.
 
-*Visual 7: Shahji's multi-court service network. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 4 — JAVLI AND THE CONVERSION OF TERRAIN INTO TERRITORIAL CAPACITY
 
-![Visual 8: household legitimacy and attribution caution](assets/08_08_poona_household_legitimacy.png)
+![Forts as military, administrative and legitimacy nodes](assets/10_fort_node_functions.png)
+*Forts as military, administrative and legitimacy nodes*
 
-*Visual 8: household legitimacy and attribution caution. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Javli's route and consolidation logic](assets/11_javli_strategic_logic.png)
+*Javli's route and consolidation logic*
 
-![Visual 9: precise early-fort chronology](assets/09_09_early_forts_chronology.png)
+**Plain-language definition:** The 1656 conquest of Javli removed the More family's political position in the Maval highlands and opened routes toward Satara and the Konkan.
 
-*Visual 9: precise early-fort chronology. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Technical precision:** Territorial capacity: the conversion of a jagir and a set of local relations (manpower, routes, local knowledge) into an administratively usable corridor, distinguished from a mere increase in map area.
 
-#### CLOSING RECALL FLOW — SHAHJI, THE POONA HOUSEHOLD AND THE FIRST FORT PHASE
+**Answer-ready opening:** Javli converted a jagir and local relations into territorial logic; geography enabled the repertoire, but political organisation and calculated coercion made it durable.
 
-```text
-START / CONCEPT: Shahji, the Poona household and the first fort phase
-        |
-        v
-EXACT TERMS: Shahji · the Poona household · the first fort phase · Topic · Bahmani · 1645-47
-        |
-        v
-MECHANISM / ARGUMENT: Shahji Bhonsale moved among Nizam Shahi, Bijapur and Mughal service environments and developed interests in the Poona jagir as well as a Karnataka-Bangalore sphere.
-        |
-        v
-CONSEQUENCE / CONTRAST: Dadoji Konddev may be discussed as an administrative actor in the Poona setting where evidence is secure; later arguments that turn him into an all-explaining tutor or erase him altogether are not a substitute for source criticism.
-        |
-        v
-UPSC TRAP / ANSWER-USE: His career demonstrates political mobility under pressure, not a straight national programme inherited by his son.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The early fort phase is normally dated 1645-47.
-```
-### SESSION 4 — JAVLI AND THE CONVERSION OF TERRAIN INTO TERRITORIAL CAPACITY
+#### PARAGRAPH DEMONSTRATION
 
-#### DEFINITION / WHAT THIS IS CALLED
+**Claim:** The Javli campaign should be read as institutional-territorial consolidation, not as a romantic proof of inevitable statehood. **Evidence:** named evidence: Javli's conquest in 1656 removed the More family's political position and strengthened access from the Maval highlands towards Satara and the Konkan, widening the pool of local knowledge, manpower and routes available to the emerging power. **Analysis:** forts functioned as nodes in this transformation — sites of garrison command, storage, intelligence, record-keeping, refuge, communications and political visibility — so a network of forts, not a single conquest, produced mobility. **Qualification:** calling Javli a mere geographical gain leaves out the political elimination and coercion involved, while calling it only violence misses its lasting administrative and operational consequences; Bijapur's wider difficulties and Shahji's position created openings but did not make consolidation automatic.
 
-**Plain-language definition:** The appropriate verdict is that Shivaji translated a jagir and a set of local relations into a territorial logic.
+Javli's conquest in 1656 was strategically consequential because it removed the More family's political position and strengthened access from the Maval highlands towards Satara and the Konkan. It also widened the pool of local knowledge, manpower and routes available to the emerging power.
 
-**Technical definition:** Calling it a mere geographical gain leaves out the political elimination and coercion through which a territorial corridor was created.
+Forts worked as nodes in this transformation. They were sites of garrison command, storage, intelligence, record-keeping, refuge, communications and political visibility. Their network could support mobility precisely because it was not only mobile: men and animals required provisions, information and safe points of concentration. At the same time, forts changed hands — an answer that treats a map as permanently coloured by one power mistakes a campaign system for a static state.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+Bijapur's wider difficulties and Shahji's position created openings, but they did not make consolidation automatic. The early strategy alternated between negotiation, local pressure and carefully chosen seizure. The appropriate verdict is that Shivaji translated a jagir and a set of local relations into a territorial logic.
 
-> The appropriate verdict is that Shivaji translated a jagir and a set of local relations into a territorial logic.
+**Keywords (use each once in your own recall sentence):** Javli conquest of 1656, More family's political position, Maval-Satara-Konkan corridor, forts as garrison, storage and intelligence nodes, negotiation and calculated coercion
 
-#### MUST-WRITE KEYWORDS
+**Recall flow:** The Javli campaign should be read as institutional-territorial consolidation, not as a romantic proof of inevitable statehood. -> Javli conquest of 1656 -> More family's political position -> Maval-Satara-Konkan corridor -> calling Javli a mere geographical gain leaves out the political elimination and coercion involved.
 
-- **Javli**
-- **the conversion of terrain into territorial capacity**
-- **Javli's**
-- **More**
-- **Maval**
-- **Satara**
-
-**How to use them:** Frame the answer through Javli; define the conversion of terrain into territorial capacity, connect Javli's with More to explain the mechanism, and use Maval for the decisive comparison or qualification.
-
-Javli's conquest in 1656 was strategically consequential because it removed the More family's political position and strengthened access from the Maval highlands towards Satara and the Konkan. It also widened the pool of local knowledge, manpower and routes available to the emerging power. Calling it a mere geographical gain leaves out the political elimination and coercion through which a territorial corridor was created. Calling it only violence, however, misses its administrative and operational consequences.
-
-Forts worked as nodes in this transformation. They were sites of garrison command, storage, intelligence, record-keeping, refuge, communications and political visibility. Their network could support mobility precisely because it was not only mobile: men and animals required provisions, information and safe points of concentration. At the same time, forts changed hands. An answer that treats a map as permanently coloured by one power mistakes a campaign system for a static state.
-
-Bijapur's wider difficulties and Shahji's position created openings, but they did not make consolidation automatic. The early strategy alternated between negotiation, local pressure and carefully chosen seizure. The appropriate verdict is that Shivaji translated a jagir and a set of local relations into a territorial logic. Geography enabled the repertoire; political organisation and calculated coercion made the repertoire durable.
-
-
-![Visual 10: forts as military, administrative and legitimacy nodes](assets/10_10_fort_node_functions.png)
-
-*Visual 10: forts as military, administrative and legitimacy nodes. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 11: Javli's route and consolidation logic](assets/11_11_javli_strategic_logic.png)
-
-*Visual 11: Javli's route and consolidation logic. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — JAVLI AND THE CONVERSION OF TERRAIN INTO TERRITORIAL CAPACITY
-
-```text
-START / CONCEPT: Javli and the conversion of terrain into territorial capacity
-        |
-        v
-EXACT TERMS: Javli · the conversion of terrain into territorial capacity · Javli's · More · Maval · Satara
-        |
-        v
-MECHANISM / ARGUMENT: Javli's conquest in 1656 was strategically consequential because it removed the More family's political position and strengthened access from the Maval highlands towards Satara and the Konkan.
-        |
-        v
-CONSEQUENCE / CONTRAST: Their network could support mobility precisely because it was not only mobile: men and animals required provisions, information and safe points of concentration.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Bijapur's wider difficulties and Shahji's position created openings, but they did not make consolidation automatic.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The appropriate verdict is that Shivaji translated a jagir and a set of local relations into a territorial logic.
-```
 ### PART III - AFZAL KHAN, MUGHAL CONFLICT AND NEGOTIATED INCORPORATION
 
-### SESSION 5 — AFZAL KHAN, PANHALA AND THE PROBLEM OF HEROIC NARRATIVE
+#### Session 5 — AFZAL KHAN, PANHALA AND THE PROBLEM OF HEROIC NARRATIVE
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Source versions of the Pratapgad encounter](assets/12_afzal_source_versions.png)
+*Source versions of the Pratapgad encounter*
 
-**Plain-language definition:** The Bijapur expedition under Afzal Khan and the meeting at Pratapgad in 1659 are central precisely because their later retellings are so vivid.
+![Political and military consequences](assets/13_pratapgad_consequences.png)
+*Political and military consequences*
 
-**Technical definition:** A secure core can be stated: the meeting occurred in a setting of mutual suspicion; both sides prepared for danger; Afzal Khan was killed; and the outcome gave Shivaji military resources, prestige and an enlarged political reputation.
+![Panhala, Salher and Pavan Khind: siege, battle and provenance caution](assets/14_panhala_pavan_khind_caution.png)
+*Panhala, Salher and Pavan Khind: siege, battle and provenance caution*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Plain-language definition:** The 1659 Pratapgad encounter was a meeting between Shivaji and the Bijapuri commander Afzal Khan, held in mutual suspicion, that ended with Afzal Khan's death.
 
-> The Bijapur expedition under Afzal Khan and the meeting at Pratapgad in 1659 are central precisely because their later retellings are so vivid.
+**Technical precision:** Heroic-narrative problem: the historiographical difficulty that later retellings of a real event (exact first blow, concealed weapons, sequence) diverge across genres, so a secure factual core must be separated from genre-specific elaboration.
 
-#### MUST-WRITE KEYWORDS
+**Answer-ready opening:** The Pratapgad encounter is historically secure at its core, but its most dramatic details belong to later retelling, not to a single verified script.
 
-- **Afzal Khan**
-- **Panhala**
-- **the problem of heroic narrative**
-- **The Bijapur**
-- **Pratapgad**
-- **Shivaji**
+#### PARAGRAPH DEMONSTRATION
 
-**How to use them:** Frame the answer through Afzal Khan; define Panhala, connect the problem of heroic narrative with The Bijapur to explain the mechanism, and use Pratapgad for the decisive comparison or qualification.
+**Claim:** The Bijapur expedition under Afzal Khan and the Pratapgad meeting of 1659 are historically important precisely because their vivid retellings must be separated from a secure factual core. **Evidence:** named evidence: the meeting occurred in a setting of mutual suspicion; both sides prepared for danger; Afzal Khan was killed; the outcome gave Shivaji captured camp resources, artillery, recruitment and enlarged political reputation. **Analysis:** the political lesson is that a seemingly stronger state could be challenged through preparation, site choice, intelligence and a network ready to exploit the moment — this explains the effect without granting supernatural agency to either side. **Qualification:** the exact first blow and the sequence of concealed weapons differ across accounts, so a responsible answer presents versions and their provenance; equally, the Panhala siege and the Salher campaigns show that mobile Maratha war did not exclude siege, defence or set-piece battle — Shivaji's forces both withstood and conducted formal sieges when the situation demanded it.
 
-The Bijapur expedition under Afzal Khan and the meeting at Pratapgad in 1659 are central precisely because their later retellings are so vivid. A secure core can be stated: the meeting occurred in a setting of mutual suspicion; both sides prepared for danger; Afzal Khan was killed; and the outcome gave Shivaji military resources, prestige and an enlarged political reputation. The exact first blow and the sequence of concealed weapons differ across accounts. A responsible answer presents versions and their provenance rather than declaring an uncontested moral script.
+The Bijapur expedition under Afzal Khan and the meeting at Pratapgad in 1659 are central precisely because their later retellings are so vivid. A secure core can be stated: the meeting occurred in a setting of mutual suspicion; both sides prepared for danger; Afzal Khan was killed; and the outcome gave Shivaji military resources, prestige and an enlarged political reputation. The exact first blow and the sequence of concealed weapons differ across accounts; a responsible answer presents versions and their provenance rather than declaring an uncontested moral script.
 
-The aftermath mattered beyond the encounter. Captured camp resources and artillery, recruitment, renewed confidence and a signal to local chiefs enhanced Shivaji's position. The political lesson was that a seemingly stronger state could be challenged through a combination of preparation, site choice, intelligence and a network ready to exploit a moment. This explains effect without granting supernatural agency to either side.
+The aftermath mattered beyond the encounter: captured camp resources and artillery, recruitment, renewed confidence and a signal to local chiefs enhanced Shivaji's position.
 
-Panhala, Siddi Jauhar's siege and the Baji Prabhu/Pavan Khind tradition require the same discipline. A difficult withdrawal and later memory can both be historically important. Yet detail belongs to genres: early documentation, later bakhar narrative and public commemoration do not carry equal evidentiary weight. Source caution is not a dismissal of memory; it distinguishes the event's core from the story's later elaboration.
+Panhala, Siddi Jauhar's siege and the Baji Prabhu/Pavan Khind tradition require the same discipline. A difficult withdrawal and later memory can both be historically important. The named evidence at Panhala — a fortress under prolonged siege, requiring defence, negotiation and an eventual break-out — together with the later Salher campaign of 1671-72, where Maratha forces met and defeated a Mughal army in open battle, shows that ganimi kava-style mobility did not exclude siege-holding, defensive stands or set battle when the terrain and balance of force allowed it. Detail belongs to genres: early documentation, later bakhar narrative and public commemoration do not carry equal evidentiary weight.
 
+**Keywords (use each once in your own recall sentence):** Afzal Khan's 1659 Bijapur expedition, Pratapgad meeting under mutual suspicion, captured camp resources and artillery, Panhala siege by Siddi Jauhar, Baji Prabhu/Pavan Khind tradition
 
-![Visual 12: source versions of the Pratapgad encounter](assets/12_12_afzal_source_versions.png)
+**Recall flow:** The Bijapur expedition under Afzal Khan and the Pratapgad meeting of 1659 are historically important precisely because their vivid retellings must be separated from a secure factual core. -> Afzal Khan's 1659 Bijapur expedition -> Pratapgad meeting under mutual suspicion -> captured camp resources and artillery -> the exact first blow and the sequence of concealed weapons differ across accounts.
 
-*Visual 12: source versions of the Pratapgad encounter. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 6 — SHAISTA KHAN, SURAT, JAI SINGH AND PURANDAR
 
-![Visual 13: political and military consequences](assets/13_13_pratapgad_consequences.png)
+![Shaista Khan's campaign problem](assets/15_shaista_khan_campaign.png)
+*Shaista Khan's campaign problem*
 
-*Visual 13: political and military consequences. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Poona raid as political signal, 1663](assets/16_poona_raid_1663.png)
+*Poona raid as political signal, 1663*
 
-![Visual 14: Panhala and Pavan Khind provenance caution](assets/14_14_panhala_pavan_khind_caution.png)
+![Surat's political economy, 1664](assets/17_surat_1664_political_economy.png)
+*Surat's political economy, 1664*
 
-*Visual 14: Panhala and Pavan Khind provenance caution. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Jai Singh's integrated strategy](assets/18_jai_singh_strategy.png)
+*Jai Singh's integrated strategy*
 
-#### CLOSING RECALL FLOW — AFZAL KHAN, PANHALA AND THE PROBLEM OF HEROIC NARRATIVE
+![Securely usable Purandar terms, 1665](assets/19_purandar_terms.png)
+*Securely usable Purandar terms, 1665*
 
-```text
-START / CONCEPT: Afzal Khan, Panhala and the problem of heroic narrative
-        |
-        v
-EXACT TERMS: Afzal Khan · Panhala · the problem of heroic narrative · The Bijapur · Pratapgad · Shivaji
-        |
-        v
-MECHANISM / ARGUMENT: A secure core can be stated: the meeting occurred in a setting of mutual suspicion; both sides prepared for danger; Afzal Khan was killed; and the outcome gave Shivaji military resources, prestige and an enlarged political reputation.
-        |
-        v
-CONSEQUENCE / CONTRAST: Yet detail belongs to genres: early documentation, later bakhar narrative and public commemoration do not carry equal evidentiary weight.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: this explains effect without granting supernatural agency to either side.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The Bijapur expedition under Afzal Khan and the meeting at Pratapgad in 1659 are central precisely because their later retellings are so vivid.
-```
-### SESSION 6 — SHAISTA KHAN, SURAT, JAI SINGH AND PURANDAR
+**Plain-language definition:** Between 1660 and 1665, Mughal viceroy Shaista Khan occupied Poona, Shivaji sacked Surat, and Jai Singh's campaign ended in the Treaty of Purandar.
 
-#### DEFINITION / WHAT THIS IS CALLED
+**Technical precision:** Treaty of Purandar (1665): a negotiated settlement in which Shivaji surrendered 23 of 35 forts, retained 12, and Sambhaji was granted a Mughal mansab of 5000, making Shivaji a subordinate ally rather than an eliminated rebel.
 
-**Plain-language definition:** Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders.
+**Answer-ready opening:** Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders; it was a negotiated, incomplete incorporation.
 
-**Technical definition:** The Treaty of Purandar (1665) transferred 23 forts while 12 were retained, and Sambhaji was granted mansab 5000.
+#### PARAGRAPH DEMONSTRATION
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders.
-
-#### MUST-WRITE KEYWORDS
-
-- **Shaista Khan**
-- **Surat**
-- **Jai Singh**
-- **Purandar**
-- **Mughal-Maratha**
-- **Mughal**
-
-**How to use them:** Frame the answer through Shaista Khan; define Surat, connect Jai Singh with Purandar to explain the mechanism, and use Mughal-Maratha for the decisive comparison or qualification.
+**Claim:** Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders. **Evidence:** named evidence: Shaista Khan's occupation of Poona was punctured by Shivaji's 1663 night raid; Surat was sacked in 1664; Jai Singh combined siege, diplomacy and a forward Bijapur policy, culminating in the 1665 Treaty of Purandar, which transferred 23 of 35 forts, retained 12, and granted Sambhaji mansab 5000. **Analysis:** Purandar is best read as an attempted incorporation — Mughal hierarchy tried to make Shivaji a useful subordinate ally while Shivaji retained a territorial base and strategic agency. **Qualification:** implausible dramatic detail should not replace the raid's real strategic meaning, Surat should not be read as banditry or as evidence of a modern national revenue system, and Purandar's terms should not be treated as a final or permanent settlement.
 
 Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders. Shaista Khan's occupation of Poona made Mughal power locally visible but exposed an army dispersed across hostile terrain and dependent on information. The 1663 raid had a large symbolic effect because it punctured the image of secure occupation; implausible dramatic detail should not be allowed to replace its strategic meaning. Mughal commanders also faced Bijapur as a competing front and a fort-and-mobility problem that a conventional siege could not instantly solve.
 
-Surat's sack in 1664 struck a premier Mughal port and a commercial world connected to merchants, customs and imperial credit. European factory records are useful for commercial disruption and rumour, not neutral total accounts of motive or loss. Claims of selective protection or exact loot require source-by-source support. The event can be analysed as coercive political economy: it created resources and visibility while challenging Mughal prestige. It was neither mere banditry nor evidence of a modern national revenue system.
+Surat's sack in 1664 struck a premier Mughal port and a commercial world connected to merchants, customs and imperial credit. European factory records are useful for commercial disruption and rumour, not neutral total accounts of motive or loss. The event can be analysed as coercive political economy: it created resources and visibility while challenging Mughal prestige. It was neither mere banditry nor evidence of a modern national revenue system.
 
-Jai Singh combined siege pressure, diplomacy and a forward policy toward Bijapur. The Treaty of Purandar (1665) transferred 23 forts while 12 were retained, and Sambhaji was granted mansab 5000. It also involved service and Bijapur-facing obligations. The agreement is best read as an attempted incorporation: Mughal hierarchy tried to make Shivaji useful, while Shivaji retained a territorial base and strategic agency. Records differ on revenue detail; avoid unverified figures.
+Jai Singh combined siege pressure, diplomacy and a forward policy toward Bijapur. The Treaty of Purandar (1665) transferred 23 forts while 12 were retained, and Sambhaji was granted mansab 5000; it also involved service and Bijapur-facing obligations. The agreement is best read as an attempted incorporation: Mughal hierarchy tried to make Shivaji useful, while Shivaji retained a territorial base and strategic agency. Records differ on revenue detail; avoid unverified figures.
 
+**Keywords (use each once in your own recall sentence):** Shaista Khan's occupation of Poona, 1663 Poona night raid, first sack of Surat, 1664, Jai Singh's siege-and-diplomacy campaign, Treaty of Purandar, 1665
 
-![Visual 15: Shaista Khan's campaign problem](assets/15_15_shaista_khan_campaign.png)
+**Recall flow:** Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders. -> Shaista Khan's occupation of Poona -> 1663 Poona night raid -> first sack of Surat, 1664 -> implausible dramatic detail should not replace the raid's real strategic meaning.
 
-*Visual 15: Shaista Khan's campaign problem. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 7 — AGRA: STATUS, CONFINEMENT, ESCAPE AND THE LIMITS OF SETTLEMENT
 
-![Visual 16: Poona raid as political signal](assets/16_16_poona_raid_1663.png)
+![Agra status dispute, 1666](assets/21_agra_status_dispute.png)
+*Agra status dispute, 1666*
 
-*Visual 16: Poona raid as political signal. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Event and escape-legend source ladder](assets/22_agra_escape_source_ladder.png)
+*Event and escape-legend source ladder*
 
-![Visual 17: Surat's political economy](assets/17_17_surat_1664_political_economy.png)
+![Bounded missed-settlement counterfactual](assets/23_missed_settlement.png)
+*Bounded missed-settlement counterfactual*
 
-*Visual 17: Surat's political economy. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Plain-language definition:** Shivaji's 1666 visit to Aurangzeb's Agra court ended in a status dispute, confinement and a subsequent escape, marking the collapse of the Purandar-based incorporation attempt.
 
-![Visual 18: Jai Singh's integrated strategy](assets/18_18_jai_singh_strategy.png)
+**Technical precision:** Missed accommodation: a historiographical judgment (notably Satish Chandra's) that Aurangzeb's failure to durably value Shivaji as an ally was a major, though not inevitable, political error.
 
-*Visual 18: Jai Singh's integrated strategy. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Answer-ready opening:** Agra shows that a negotiated settlement was possible but not guaranteed; a status crisis, not a predetermined betrayal, broke the incorporation attempt.
 
-![Visual 19: securely usable Purandar terms](assets/19_19_purandar_terms.png)
+#### PARAGRAPH DEMONSTRATION
 
-*Visual 19: securely usable Purandar terms. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Claim:** Agra in 1666 created a prestige crisis rather than confirming any prior plan to eliminate Shivaji. **Evidence:** named evidence: court placement, rank expectation and detention at Agra created a status dispute; Shivaji subsequently escaped from confinement. **Analysis:** Satish Chandra treats Aurangzeb's failure to durably value Shivaji as an ally as a major political mistake, useful as an analytical judgment about a missed accommodation rather than as proof of inevitability. **Qualification:** avoid teleology: settlement was possible but not guaranteed, and the exact escape method (including the well-known basket story) carries variable source weight that should be labelled rather than recited as certain fact.
 
-![Visual 20: negotiated incorporation, not final surrender](assets/20_20_incorporation_attempt.png)
+At Agra in 1666, court placement, rank expectation and detention created a prestige crisis. Shivaji escaped. Satish Chandra treats Aurangzeb's failure to value Shivaji as a durable ally as a major political mistake. Avoid teleology: settlement was possible but not guaranteed.
 
-*Visual 20: negotiated incorporation, not final surrender. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+The status dispute at Agra should be read against the Purandar terms: a mansab and a subordinate-ally role were offered, but rank placement, precedence and treatment at court could not be reconciled with Shivaji's own claim to independent standing. The escape restored Shivaji's freedom of action and effectively ended this particular incorporation attempt.
 
-#### CLOSING RECALL FLOW — SHAISTA KHAN, SURAT, JAI SINGH AND PURANDAR
+A missed-settlement counterfactual is useful only if bounded: it explains why one route to accommodation failed without claiming any single decision alone determined the outcome of 1707.
 
-```text
-START / CONCEPT: Shaista Khan, Surat, Jai Singh and Purandar
-        |
-        v
-EXACT TERMS: Shaista Khan · Surat · Jai Singh · Purandar · Mughal-Maratha · Mughal
-        |
-        v
-MECHANISM / ARGUMENT: The 1663 raid had a large symbolic effect because it punctured the image of secure occupation; implausible dramatic detail should not be allowed to replace its strategic meaning.
-        |
-        v
-CONSEQUENCE / CONTRAST: The Treaty of Purandar (1665) transferred 23 forts while 12 were retained, and Sambhaji was granted mansab 5000.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Mughal commanders also faced Bijapur as a competing front and a fort-and-mobility problem that a conventional siege could not instantly solve.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mughal-Maratha conflict before Purandar was not a simple contest between a giant empire and small raiders.
-```
-### SESSION 7 — AGRA: STATUS, CONFINEMENT, ESCAPE AND THE LIMITS OF SETTLEMENT
+**Keywords (use each once in your own recall sentence):** Agra court placement and rank expectation, Shivaji's 1666 detention, 1666 escape from Agra, missed-accommodation thesis, prestige crisis at court
 
-#### DEFINITION / WHAT THIS IS CALLED
+**Recall flow:** Agra in 1666 created a prestige crisis rather than confirming any prior plan to eliminate Shivaji. -> Agra court placement and rank expectation -> Shivaji's 1666 detention -> 1666 escape from Agra -> avoid teleology: settlement was possible but not guaranteed.
 
-**Plain-language definition:** Shivaji perceived the court's treatment as an insult to his status; confinement followed, and escape is the secure broad event.
-
-**Technical definition:** Its limit is that both actors had independent ambitions and a history of strategic bargaining.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Shivaji perceived the court's treatment as an insult to his status; confinement followed, and escape is the secure broad event.
-
-#### MUST-WRITE KEYWORDS
-
-- **Agra**
-- **status**
-- **confinement**
-- **escape**
-- **the limits of settlement**
-- **At Agra**
-
-**How to use them:** Frame the answer through Agra; define status, connect confinement with escape to explain the mechanism, and use the limits of settlement for the decisive comparison or qualification.
-
-At Agra in 1666, questions of reception and rank became politically explosive. Shivaji perceived the court's treatment as an insult to his status; confinement followed, and escape is the secure broad event. The popular story of exit in baskets or sweetmeat containers is a version in a layered narrative tradition, not a detail to present as exact court documentation. This distinction is an exam advantage: it shows the difference between an event, a source and a later visualisable legend.
-
-Jai Singh had treated Shivaji's alliance as valuable to a forward Deccan policy. Aurangzeb's narrower handling is therefore often judged, including by Satish Chandra, a major political error. But an answer must not turn this into a personality tale in which one gesture mechanically caused two decades of war. Shivaji also pursued autonomy strategically, and Mughal incorporation would have demanded enduring trust over rank, forts, revenue and Bijapur policy.
-
-The missed-settlement argument is a disciplined counterfactual. It asks whether an alliance after Purandar could have contained the conflict; it does not announce a certainty. Its strength is to explain the cost of failing to convert an opponent into a stakeholder. Its limit is that both actors had independent ambitions and a history of strategic bargaining. Use it to assess choices, not to replace evidence with regret.
-
-
-![Visual 21: Agra status dispute](assets/21_21_agra_status_dispute.png)
-
-*Visual 21: Agra status dispute. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 22: event and escape-legend source ladder](assets/22_22_agra_escape_source_ladder.png)
-
-*Visual 22: event and escape-legend source ladder. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 23: bounded missed-settlement counterfactual](assets/23_23_missed_settlement.png)
-
-*Visual 23: bounded missed-settlement counterfactual. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — AGRA: STATUS, CONFINEMENT, ESCAPE AND THE LIMITS OF SETTLEMENT
-
-```text
-START / CONCEPT: Agra: status, confinement, escape and the limits of settlement
-        |
-        v
-EXACT TERMS: Agra · status · confinement · escape · the limits of settlement · At Agra
-        |
-        v
-MECHANISM / ARGUMENT: Aurangzeb's narrower handling is therefore often judged, including by Satish Chandra, a major political error.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its limit is that both actors had independent ambitions and a history of strategic bargaining.
-        |
-        v
-UPSC TRAP / ANSWER-USE: The popular story of exit in baskets or sweetmeat containers is a version in a layered narrative tradition, not a detail to present as exact court documentation.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Shivaji perceived the court's treatment as an insult to his status; confinement followed, and escape is the secure broad event.
-```
 ### PART IV - RECOVERY, CORONATION AND SOUTHERN REACH
 
-### SESSION 8 — RECOVERY AFTER 1670, CORONATION AND THE SOUTHERN EXPEDITION
+#### Session 8 — RECOVERY AFTER 1670, CORONATION AND THE SOUTHERN EXPEDITION
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Post-1670 recovery as a campaign sequence](assets/24_recovery_1670.png)
+*Post-1670 recovery as a campaign sequence*
 
-**Plain-language definition:** The Karnataka/southern expedition of 1676-78 introduced strategic depth, resources and relations with the Tanjavur/Karnataka branch represented by Ekoji or Venkoji.
+![Coronation and sovereignty](assets/25_coronation_legitimacy.png)
+*Coronation and sovereignty*
 
-**Technical definition:** Kondana/Sinhagad and Tanaji have an unusually powerful later narrative life; use the fort's recovery as a dated campaign context while qualifying legend-heavy detail.
+![Genealogy/status debate and the royal era](assets/26_kshatriya_debate.png)
+*Genealogy/status debate and the royal era*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+![Southern expedition schematic](assets/27_southern_expedition_map.png)
+*Southern expedition schematic*
 
-> Kondana/Sinhagad and Tanaji have an unusually powerful later narrative life; use the fort's recovery as a dated campaign context while qualifying legend-heavy detail.
+**Plain-language definition:** After 1670 Shivaji recovered forts, sacked Surat a second time, and in 1674 was crowned Chhatrapati at Raigad with the Vedic scholar Gaga Bhatta officiating.
 
-#### MUST-WRITE KEYWORDS
+**Technical precision:** Coronation and era-dating: the 1674 Raigad coronation instituted a formal royal chronology (the Rajyabhisheka Shaka, counted from the coronation year) used on later Maratha documents and coinage, which is bounded evidence of assumed sovereignty, not of a modern calendar reform.
 
-- **Recovery after 1670**
-- **coronation**
-- **the southern expedition**
-- **Kondana**
-- **Sinhagad**
-- **1676-78**
+**Answer-ready opening:** The 1674 coronation converted a regional chief into a recognised sovereign whose reign was thereafter dated from his own royal era.
 
-**How to use them:** Frame the answer through Recovery after 1670; define coronation, connect the southern expedition with Kondana to explain the mechanism, and use Sinhagad for the decisive comparison or qualification.
+#### PARAGRAPH DEMONSTRATION
 
-From 1670, recovery involved renewed fort operations, the second sack of Surat and reassertion of leverage. Kondana/Sinhagad and Tanaji have an unusually powerful later narrative life; use the fort's recovery as a dated campaign context while qualifying legend-heavy detail. The point is not to diminish memory but to identify what sort of evidence establishes a precise action. Recovery was not a single reversal: it was a sequence of resource acquisition, fort recapture, renewed confidence and altered bargaining position.
+**Claim:** The Raigad coronation of 1674 supplied a sovereign idiom in the political language of the time, with a bounded but real dating consequence. **Evidence:** named evidence: Gaga Bhatta's role, Kshatriya genealogy, royal ritual and the assertion of chhatrapati status; a subsequent second rite is recorded in some accounts; the coronation year founded the Rajyabhisheka Shaka era used to date later Maratha documents and coinage. **Analysis:** the status debate itself is evidence that royal rank had to be made and defended — it addressed hierarchy, diplomacy and legitimacy toward chiefs and Deccani rulers in contemporary terms, and its own calendar shows contemporaries treated it as a genuine founding moment. **Qualification:** coronation did not create modern national independence or a universal calendar reform; if a second rite is mentioned, specify the source and its stated ritual reason rather than adding invented expenditure or ceremony detail.
 
-The Raigad coronation of 1674 supplied a sovereign idiom in the political language of the time. Gaga Bhatta's role, Kshatriya genealogy, royal ritual and the assertion of chhatrapati status addressed hierarchy, diplomacy and legitimacy. The status debate itself is evidence that royal rank had to be made and defended; it is not a transparent census of social origin. If a second rite is mentioned, specify the source and its stated ritual reason rather than adding invented expenditure or ceremony details. Coronation did not create a modern national independence. It created a recognised royal status that could address chiefs and Deccani rulers in contemporary terms.
+From 1670, recovery involved renewed fort operations, the second sack of Surat and reassertion of leverage. Kondana/Sinhagad and Tanaji have an unusually powerful later narrative life; use the fort's recovery as a dated campaign context while qualifying legend-heavy detail. Recovery was not a single reversal: it was a sequence of resource acquisition, fort recapture, renewed confidence and altered bargaining position.
 
-The Karnataka/southern expedition of 1676-78 introduced strategic depth, resources and relations with the Tanjavur/Karnataka branch represented by Ekoji or Venkoji. Jinji and Vellore belong to a longer southern strategic geography. Do not turn this bounded episode into a full later Tamil or Peshwa story. Shivaji's death in 1680 leaves a succession problem; Topic 25 owns the later eighteenth-century transformation.
+The Raigad coronation of 1674 supplied a sovereign idiom in the political language of the time. Gaga Bhatta's role, Kshatriya genealogy, royal ritual and the assertion of chhatrapati status addressed hierarchy, diplomacy and legitimacy. The status debate itself is evidence that royal rank had to be made and defended; it is not a transparent census of social origin. The coronation year also became the starting point of a royal era (the Rajyabhisheka Shaka) used to date subsequent Maratha grants and coins — a bounded but genuine sign that contemporaries treated 1674 as instituting a new sovereign chronology, not merely a ceremony. If a second rite is mentioned, specify the source and its stated ritual reason rather than adding invented expenditure or ceremony details. Coronation did not create a modern national independence; it created a recognised royal status that could address chiefs and Deccani rulers in contemporary terms.
 
+The Karnataka/southern expedition of 1676-79 introduced strategic depth, resources and relations with the Tanjavur/Karnataka branch represented by Ekoji or Venkoji. Jinji and Vellore belong to a longer southern strategic geography. Do not turn this bounded episode into a full later Tamil or Peshwa story. Shivaji's death in 1680 leaves a succession problem; Topic 25 owns the later eighteenth-century transformation.
 
-![Visual 24: post-1670 recovery as a campaign sequence](assets/24_24_recovery_1670.png)
+**Keywords (use each once in your own recall sentence):** renewed fort operations after 1670, second sack of Surat, 1670, Raigad coronation, 1674, and Gaga Bhatta, Kshatriya-status debate, Rajyabhisheka Shaka royal era-dating
 
-*Visual 24: post-1670 recovery as a campaign sequence. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Recall flow:** The Raigad coronation of 1674 supplied a sovereign idiom in the political language of the time, with a bounded but real dating consequence. -> renewed fort operations after 1670 -> second sack of Surat, 1670 -> Raigad coronation, 1674, and Gaga Bhatta -> coronation did not create modern national independence or a universal calendar reform; if a second rite is mentioned, name its source and stated ritual reason rather than inventing ceremonial or expenditure detail.
 
-![Visual 25: coronation and sovereignty](assets/25_25_coronation_legitimacy.png)
-
-*Visual 25: coronation and sovereignty. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 26: genealogy/status debate](assets/26_26_kshatriya_debate.png)
-
-*Visual 26: genealogy/status debate. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 27: southern expedition schematic](assets/27_27_southern_expedition_map.png)
-
-*Visual 27: southern expedition schematic. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — RECOVERY AFTER 1670, CORONATION AND THE SOUTHERN EXPEDITION
-
-```text
-START / CONCEPT: Recovery after 1670, coronation and the southern expedition
-        |
-        v
-EXACT TERMS: Recovery after 1670 · coronation · the southern expedition · Kondana · Sinhagad · 1676-78
-        |
-        v
-MECHANISM / ARGUMENT: The Karnataka/southern expedition of 1676-78 introduced strategic depth, resources and relations with the Tanjavur/Karnataka branch represented by Ekoji or Venkoji.
-        |
-        v
-CONSEQUENCE / CONTRAST: Recovery was not a single reversal: it was a sequence of resource acquisition, fort recapture, renewed confidence and altered bargaining position.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Coronation did not create a modern national independence.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Kondana/Sinhagad and Tanaji have an unusually powerful later narrative life; use the fort's recovery as a dated campaign context while qualifying legend-heavy detail.
-```
 ### PART V - STATE, REVENUE, FISCAL CLAIMS AND WAR
 
-### SESSION 9 — KINGSHIP, ASHTAPRADHAN AND FORT-LOCAL ADMINISTRATION
+#### Session 9 — KINGSHIP, ASHTAPRADHAN AND FORT-LOCAL ADMINISTRATION
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Ruler-centred state coordination](assets/28_shivaji_state_wheel.png)
+*Ruler-centred state coordination*
 
-**Plain-language definition:** The key qualification is that the Ashtapradhan was not a collective cabinet responsible to a legislature.
+![Ashtapradhan offices](assets/29_ashtapradhan_offices.png)
+*Ashtapradhan offices*
 
-**Technical definition:** Fort administration similarly reveals checks rather than a neat bureaucracy.
+![Why the cabinet analogy misleads](assets/30_cabinet_myth.png)
+*Why the cabinet analogy misleads*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+![Fort administration checks](assets/31_fort_administration_checks.png)
+*Fort administration checks*
 
-> The key qualification is that the Ashtapradhan was not a collective cabinet responsible to a legislature.
+![Local mediation through patils and deshmukhs](assets/32_local_administration.png)
+*Local mediation through patils and deshmukhs*
 
-#### MUST-WRITE KEYWORDS
+**Plain-language definition:** The Ashtapradhan was a council of eight named offices (Peshwa, Amatya, Sachiv, Mantri, Sumant, Senapati, Nyayadhish, Panditrao) individually responsible to Shivaji, not a collectively responsible modern cabinet.
 
-- **Kingship**
-- **Ashtapradhan**
-- **fort-local administration**
-- **Variants**
-- **The key qualification**
-- **Officers**
+**Technical precision:** Ruler-centred administration: a system in which named central offices, fort commands and hereditary local intermediaries (deshmukhs, patils, kulkarnis) operated together under negotiated central supervision, rather than through a uniform bureaucratic hierarchy.
 
-**How to use them:** Frame the answer through Kingship; define Ashtapradhan, connect fort-local administration with Variants to explain the mechanism, and use The key qualification for the decisive comparison or qualification.
+**Answer-ready opening:** Shivaji's state combined eight ruler-responsible offices with negotiated, not abolished, local power — the opposite of both a modern cabinet and a stateless raiding band.
+
+#### PARAGRAPH DEMONSTRATION
+
+**Claim:** The Ashtapradhan was not a collective cabinet responsible to a legislature. **Evidence:** named evidence: the eight offices were Peshwa, Amatya/Mazumdar, Sachiv, Mantri/Waqia-navis, Sumant/Dabir, Senapati, Nyayadhish and Panditrao, each individually answerable to the ruler and several capable of holding military as well as civil duties. **Analysis:** fort administration shows the same pattern of checks rather than uniform bureaucracy: Havaldar, sabnis and other command, store or record roles were commonly divided, and provincial/village administration ran through existing intermediaries such as patils, kulkarnis and deshmukhs. **Qualification:** later Peshwa-era dominance must not be projected backward onto the seventeenth century, and the specialised judicial/religious functions of Nyayadhish and Panditrao should not be merged into one modern department; Shivaji curbed illegal exactions but did not abolish deshmukhs, mirasdars or hereditary local rights.
 
 Shivaji's kingship joined sovereign terminology, royal household, forts, fiscal practice and local mediation. The state was ruler-centred but not therefore institutionless. The Ashtapradhan named Peshwa, Amatya or Mazumdar, Sachiv, Mantri or Waqia-navis, Senapati or Sar-i-naubat, Sumant or Dabir, Nyayadhish and Panditrao. Variants of title and description occur; an answer should give the functions cautiously rather than make the list a modern organisational chart.
 
 The key qualification is that the Ashtapradhan was not a collective cabinet responsible to a legislature. Officers were individually responsible to the ruler, and several could perform military as well as administrative duties. The specialised judicial and religious functions of Nyayadhish and Panditrao should not be casually merged into a single modern department. Later Peshwa-era dominance must not be projected backward to make seventeenth-century offices look like a later constitutional arrangement.
 
-Fort administration similarly reveals checks rather than a neat bureaucracy. Havaldar, sabnis and other command, store or record roles are commonly discussed as divided responsibilities; local variations and evidence limits need acknowledgment. Provincial and village-level administration operated through existing intermediaries. Information, oversight and discipline mattered, but a state order moved through patils, kulkarnis, deshmukhs and local bargains. This is why central authority and local mediation must be presented together.
+Fort administration similarly reveals checks rather than a neat bureaucracy. Havaldar, sabnis and other command, store or record roles are commonly discussed as divided responsibilities; local variations and evidence limits need acknowledgment. Provincial and village-level administration operated through existing intermediaries. This is why central authority and local mediation must be presented together: Shivaji curbed illegal exactions and over-mighty deshmukhs/mirasdars but did not abolish hereditary local rights, mokasa/jagir or landed intermediaries.
 
+**Keywords (use each once in your own recall sentence):** Ashtapradhan's eight named offices, individual ruler-responsibility of ministers, Havaldar and sabnis fort-command roles, patils, kulkarnis and deshmukhs, curbed but not abolished local rights
 
-![Visual 28: ruler-centred state coordination](assets/28_28_shivaji_state_wheel.png)
+**Recall flow:** The Ashtapradhan was not a collective cabinet responsible to a legislature. -> Ashtapradhan's eight named offices -> individual ruler-responsibility of ministers -> Havaldar and sabnis fort-command roles -> later Peshwa-era dominance must not be projected backward onto the seventeenth century.
 
-*Visual 28: ruler-centred state coordination. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 10 — REVENUE, AGRARIAN RELATIONS AND THE LIMITS OF REFORM
 
-![Visual 29: Ashtapradhan offices](assets/29_29_ashtapradhan_offices.png)
+![Revenue chain: estimate to enforcement](assets/33_revenue_chain.png)
+*Revenue chain: estimate to enforcement*
 
-*Visual 29: Ashtapradhan offices. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Annaji Datto's assessment, c. 1679](assets/34_annaji_assessment.png)
+*Annaji Datto's assessment, c. 1679*
 
-![Visual 30: why cabinet analogy misleads](assets/30_30_cabinet_myth.png)
+![Debated two-fifths claim](assets/35_two_fifths_caution.png)
+*Debated two-fifths claim*
 
-*Visual 30: why cabinet analogy misleads. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Deshmukh-state relation](assets/36_deshmukh_state_relation.png)
+*Deshmukh-state relation*
 
-![Visual 31: fort administration checks](assets/31_31_fort_administration_checks.png)
+**Plain-language definition:** Annaji Datto's revenue assessment of around 1679 measured and classified land, associating the demand with a debated share often stated near two-fifths plus cesses.
 
-*Visual 31: fort administration checks. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Technical precision:** Assessment versus collection: jama is the paper/assessed demand fixed by measurement and classification, while realised collection depended on local intermediaries, cesses, enforcement and war conditions — the two must never be treated as identical.
 
-![Visual 32: local mediation](assets/32_32_local_administration.png)
+**Answer-ready opening:** A precise-looking revenue fraction from one source is not licence to claim a uniform all-Deccan revenue law.
 
-*Visual 32: local mediation. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### PARAGRAPH DEMONSTRATION
 
-#### CLOSING RECALL FLOW — KINGSHIP, ASHTAPRADHAN AND FORT-LOCAL ADMINISTRATION
-
-```text
-START / CONCEPT: Kingship, Ashtapradhan and fort-local administration
-        |
-        v
-EXACT TERMS: Kingship · Ashtapradhan · fort-local administration · Variants · The key qualification · Officers
-        |
-        v
-MECHANISM / ARGUMENT: Fort administration similarly reveals checks rather than a neat bureaucracy.
-        |
-        v
-CONSEQUENCE / CONTRAST: The specialised judicial and religious functions of Nyayadhish and Panditrao should not be casually merged into a single modern department.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Later Peshwa-era dominance must not be projected backward to make seventeenth-century offices look like a later constitutional arrangement.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The key qualification is that the Ashtapradhan was not a collective cabinet responsible to a legislature.
-```
-### SESSION 10 — REVENUE, AGRARIAN RELATIONS AND THE LIMITS OF REFORM
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** A precise-looking fraction is not a license to claim an all-Deccan revenue law.
-
-**Technical definition:** Revenue farming or ijara must be described only where a given source specifies it.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> A precise-looking fraction is not a license to claim an all-Deccan revenue law.
-
-#### MUST-WRITE KEYWORDS
-
-- **Revenue**
-- **agrarian relations**
-- **the limits of reform**
-- **Annaji Datto's assessment around 1679**
-- **Annaji Datto's**
-- **It**
-
-**How to use them:** Frame the answer through Revenue; define agrarian relations, connect the limits of reform with Annaji Datto's assessment around 1679 to explain the mechanism, and use Annaji Datto's for the decisive comparison or qualification.
+**Claim:** Assessment strengthened the state's capacity to estimate demand, but assessment is not the same as realised collection or a uniform cultivator burden. **Evidence:** named evidence: Annaji Datto's assessment around 1679 measured and classified land; some standard accounts describe a demand near two-fifths plus cesses. **Analysis:** the analytical payoff is to track the chain — estimate, demand, village mediation, payment and enforcement — and ask where it broke down, since village headmen, patils, kulkarnis, deshmukhs and mirasdars remained essential to actual realisation. **Qualification:** a precise-looking fraction is not licence to claim an all-Deccan revenue law; Shivaji curbed illegal exactions but did not abolish hereditary rights or all jagir/mokasa arrangements, and revenue farming (ijara) must be named only where a specific source states it.
 
 Annaji Datto's assessment around 1679 is associated with measurement and classification of land. It strengthened the state's capacity to estimate demand, but assessment is not the same as realised collection or a uniform cultivator burden. Some standard accounts describe a demand around two-fifths plus cesses. Treat that as source-specific and debated: local conditions, extra levies, intermediaries, war and actual enforcement could change incidence. A precise-looking fraction is not a license to claim an all-Deccan revenue law.
 
 Village headmen and patils, kulkarnis, deshmukhs, mirasdars and cultivators remained essential. Shivaji curbed some illegal exactions and the arbitrary power of intermediaries, but he did not abolish hereditary rights, all jagir/mokasa arrangements or all forms of local authority. Cash salaries for regular soldiers improved ruler control in some contexts; they did not dissolve the wider agrarian and service economy. Revenue farming or ijara must be described only where a given source specifies it.
 
-The analytical payoff is to avoid peasant-liberator hagiography and cynical reduction alike. Measurement, oversight and curbs on predation could enhance capacity and protect parts of the revenue base. The same system extracted a demand and relied on intermediaries. A high-quality answer tracks the chain: estimate, demand, village mediation, payment and enforcement, then asks where it broke down.
+The analytical payoff is to avoid peasant-liberator hagiography and cynical reduction alike. Measurement, oversight and curbs on predation could enhance capacity and protect parts of the revenue base, while the same system extracted a demand and relied on intermediaries.
 
+**Keywords (use each once in your own recall sentence):** Annaji Datto's assessment, c. 1679, measurement and classification of land, debated two-fifths-plus incidence, village headmen, kulkarnis and mirasdars, cash-salaried regular soldiery
 
-![Visual 33: revenue chain](assets/33_33_revenue_chain.png)
+**Recall flow:** Assessment strengthened the state's capacity to estimate demand, but assessment is not the same as realised collection or a uniform cultivator burden. -> Annaji Datto's assessment, c. 1679 -> measurement and classification of land -> debated two-fifths-plus incidence -> a precise-looking fraction is not licence to claim an all-Deccan revenue law; Shivaji curbed illegal exactions but did not abolish hereditary rights or all jagir/mokasa arrangements.
 
-*Visual 33: revenue chain. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 11 — CHAUTH, SARDESHMUKHI AND OVERLAPPING FISCAL AUTHORITY
 
-![Visual 34: Annaji assessment](assets/34_34_annaji_assessment.png)
+![Chauth and sardeshmukhi distinguished](assets/37_chauth_sardeshmukhi.png)
+*Chauth and sardeshmukhi distinguished*
 
-*Visual 34: Annaji assessment. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Levy evolution into parallel practice](assets/38_levy_evolution.png)
+*Levy evolution into parallel practice*
 
-![Visual 35: debated two-fifths claim](assets/35_35_two_fifths_caution.png)
+**Plain-language definition:** Chauth was a one-fourth claim linked to a protection bargain in neighbouring territory; sardeshmukhi was a distinct additional ten-per-cent claim based on an asserted superior deshmukh right.
 
-*Visual 35: debated two-fifths claim. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Technical precision:** Overlapping fiscal authority: a condition in which chauth/sardeshmukhi collection by Maratha agents (kamaishdars) coexisted with continuing Mughal revenue claims in the same district, so payment did not automatically transfer territorial sovereignty.
 
-![Visual 36: deshmukh-state relation](assets/36_36_deshmukh_state_relation.png)
+**Answer-ready opening:** Chauth and sardeshmukhi were two distinct, named fiscal claims, and neither automatically equalled full territorial sovereignty.
 
-*Visual 36: deshmukh-state relation. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### PARAGRAPH DEMONSTRATION
 
-#### CLOSING RECALL FLOW — REVENUE, AGRARIAN RELATIONS AND THE LIMITS OF REFORM
-
-```text
-START / CONCEPT: Revenue, agrarian relations and the limits of reform
-        |
-        v
-EXACT TERMS: Revenue · agrarian relations · the limits of reform · Annaji Datto's assessment around 1679 · Annaji Datto's · It
-        |
-        v
-MECHANISM / ARGUMENT: Revenue farming or ijara must be described only where a given source specifies it.
-        |
-        v
-CONSEQUENCE / CONTRAST: It strengthened the state's capacity to estimate demand, but assessment is not the same as realised collection or a uniform cultivator burden.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: measurement, oversight and curbs on predation could enhance capacity and protect parts of the...
-        |
-        v
-ANSWER-GRABBING FORMULATION: A precise-looking fraction is not a license to claim an all-Deccan revenue law.
-```
-### SESSION 11 — CHAUTH, SARDESHMUKHI AND OVERLAPPING FISCAL AUTHORITY
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Its political meaning changed as collection became more organised and as later war and expansion generated parallel fiscal authority.
-
-**Technical definition:** For Topic 23, fiscal overlap explains how mobile war acquired a revenue mechanism and how that mechanism pressed upon Mughal authority.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> For Topic 23, fiscal overlap explains how mobile war acquired a revenue mechanism and how that mechanism pressed upon Mughal authority.
-
-#### MUST-WRITE KEYWORDS
-
-- **Chauth**
-- **sardeshmukhi**
-- **overlapping fiscal authority**
-- **It**
-- **Indian**
-- **Its**
-
-**How to use them:** Frame the answer through Chauth; define sardeshmukhi, connect overlapping fiscal authority with It to explain the mechanism, and use Indian for the decisive comparison or qualification.
+**Claim:** Chauth and sardeshmukhi were distinct claims that must not be merged into a single label or equated with full sovereignty. **Evidence:** named evidence: chauth was a one-quarter claim commonly explained through a protection-payment bargain but also backed by coercion; sardeshmukhi was an additional ten-per-cent claim justified through asserted superior deshmukh right. **Analysis:** in the later Deccan war, collection through agents and kamaishdars became a parallel fiscal network affecting Mughal jagirdars, local intermediaries and cultivators, which is why fiscal overlap explains how mobile war acquired a durable revenue mechanism. **Qualification:** a Mains response must add that neither fiscal label settles the question of actual control — an agent could collect, bargain or threaten in a district where Mughal officials still claimed authority, so payment could buy temporary security rather than transfer settled sovereignty.
 
 Chauth was a one-quarter claim or contribution in neighbouring territory, commonly explained through a protection-payment bargain but also backed by coercion. It had precedents in western Indian political practice and could not be equated mechanically either with sovereignty or with undifferentiated plunder. Its political meaning changed as collection became more organised and as later war and expansion generated parallel fiscal authority.
 
 Sardeshmukhi was distinct: an additional ten-percent claim justified through asserted superior deshmukh right. A Prelims response must keep the two percentages and rationales separate. A Mains response should add that neither fiscal label settles the question of actual control. An agent could collect, bargain or threaten in a district where Mughal officials still claimed authority; a payment could purchase temporary security rather than transfer settled sovereignty.
 
-In the late Deccan war, collection through agents and kamaishdars became historically important. Parallel demands affected Mughal jagirdars, local intermediaries and cultivators. The bridge to Topic 25 is later formalisation and eighteenth-century expansion; do not import the full confederacy narrative here. For Topic 23, fiscal overlap explains how mobile war acquired a revenue mechanism and how that mechanism pressed upon Mughal authority.
+In the late Deccan war, collection through agents and kamaishdars became historically important. Parallel demands affected Mughal jagirdars, local intermediaries and cultivators. The bridge to Topic 25 is later formalisation and eighteenth-century expansion; do not import the full confederacy narrative here.
 
+**Keywords (use each once in your own recall sentence):** chauth: one-fourth protection claim, sardeshmukhi: ten-per-cent superior-deshmukh claim, kamaishdars and parallel collection, protection-payment bargain, Mughal jagirdars under fiscal pressure
 
-![Visual 37: chauth and sardeshmukhi distinguished](assets/37_37_chauth_sardeshmukhi.png)
+**Recall flow:** Chauth and sardeshmukhi were distinct claims that must not be merged into a single label or equated with full sovereignty. -> chauth: one-fourth protection claim -> sardeshmukhi: ten-per-cent superior-deshmukh claim -> kamaishdars and parallel collection -> a Mains response must add that neither fiscal label settles the question of actual control, since an agent could collect, bargain or threaten in a district where Mughal officials still claimed authority, so payment bought temporary security rather than settled sovereignty.
 
-*Visual 37: chauth and sardeshmukhi distinguished. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 12 — MILITARY ORGANISATION, FORTS AND THE COAST
 
-![Visual 38: levy evolution into parallel practice](assets/38_38_levy_evolution.png)
+![Cavalry distinctions: bargir and silhedar](assets/39_cavalry_types.png)
+*Cavalry distinctions: bargir and silhedar*
 
-*Visual 38: levy evolution into parallel practice. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Mobile warfare loop](assets/40_mobile_warfare_loop.png)
+*Mobile warfare loop*
 
-#### CLOSING RECALL FLOW — CHAUTH, SARDESHMUKHI AND OVERLAPPING FISCAL AUTHORITY
+![Fort network schematic](assets/41_fort_network_map.png)
+*Fort network schematic*
 
-```text
-START / CONCEPT: Chauth, sardeshmukhi and overlapping fiscal authority
-        |
-        v
-EXACT TERMS: Chauth · sardeshmukhi · overlapping fiscal authority · It · Indian · Its
-        |
-        v
-MECHANISM / ARGUMENT: Chauth was a one-quarter claim or contribution in neighbouring territory, commonly explained through a protection-payment bargain but also backed by coercion.
-        |
-        v
-CONSEQUENCE / CONTRAST: It had precedents in western Indian political practice and could not be equated mechanically either with sovereignty or with undifferentiated plunder.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: its political meaning changed as collection became more organised and as later war and...
-        |
-        v
-ANSWER-GRABBING FORMULATION: For Topic 23, fiscal overlap explains how mobile war acquired a revenue mechanism and how that mechanism pressed upon Mughal authority.
-```
-### SESSION 12 — MILITARY ORGANISATION, FORTS AND THE COAST
+![Military logics compared](assets/42_mughal_maratha_military.png)
+*Military logics compared*
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Konkan coastal system and Sindhudurg](assets/43_navy_coast_map.png)
+*Konkan coastal system and Sindhudurg*
 
-**Plain-language definition:** The Maratha advantage was situational, not magical: it depended on information, support, forts and the opponent's overstretch.
+![Differentiated coastal actors](assets/44_coastal_actors.png)
+*Differentiated coastal actors*
 
-**Technical definition:** Fort recapture cycles show why one successful siege could fail to end a campaign.
+![Navy-scale caution: littoral, not blue-water](assets/45_navy_scale_caution.png)
+*Navy-scale caution: littoral, not blue-water*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Plain-language definition:** Shivaji's forces combined Mavali infantry, bargir and silhedar cavalry, fort garrisons and intelligence with a littoral navy of gunboats, grabs and gallivats based on fortified coastal points such as Sindhudurg.
 
-> The Maratha advantage was situational, not magical: it depended on information, support, forts and the opponent's overstretch.
+**Technical precision:** Ganimi kava: a repertoire of surprise, information, supply disruption, avoidance of unfavourable pitched battle and retreat toward secure fort nodes, adapted to Deccan terrain — not a single timeless 'guerrilla doctrine' and not a description that excludes sieges or set battles.
 
-#### MUST-WRITE KEYWORDS
+**Answer-ready opening:** The Maratha military advantage was situational, resting on information, forts and mixed remuneration, not a magical or purely mobile formula.
 
-- **Military organisation**
-- **forts**
-- **the coast**
-- **Bargir**
-- **Maratha**
-- **Ganimi kava**
+#### PARAGRAPH DEMONSTRATION
 
-**How to use them:** Frame the answer through Military organisation; define forts, connect the coast with Bargir to explain the mechanism, and use Maratha for the decisive comparison or qualification.
+**Claim:** The Maratha military advantage was situational, not magical: it depended on information, local support, forts and the opponent's overstretch. **Evidence:** named evidence: bargir cavalry rode state-provided horses while silhedar cavalry maintained their own; Mavali infantry, fort garrisons and intelligence networks complemented cavalry; the navy used gunboats, grabs and gallivats crewed by Koli, Bhandari and Muslim seafarers, based at forts such as Sindhudurg. **Analysis:** regular troops were typically paid in cash, but remuneration was mixed in practice — supplemented by plunder shares and local assignments — and this mixed system, not a purely cash or purely plunder-based force, sustained both mobile raiding and formal siege or battle capacity. **Qualification:** ganimi kava should not be turned into a modern ideological theory of insurgency, and it did not exclude siege-holding or pitched battle (Panhala, Salher); equally, the navy was a regional littoral force for creek defence, anti-Sidi operations and trade protection, not a blue-water empire-scale navy capable of commanding the Indian Ocean.
 
 Bargir and silhedar cavalry should be distinguished rather than treated as labels for all Maratha soldiers. A bargir was associated with a state-provided horse and equipment; a silhedar maintained his own. Mavali infantry, fort garrisons, intelligence networks and short operational movement complemented cavalry. Ganimi kava is best explained as a repertoire of surprise, information, supply disruption, avoidance of unfavourable battle and retreat toward secure nodes. It should not be turned into a modern ideological theory of insurgency.
 
-Comparison with Mughal military power should be concrete. The Mughal system could mobilise large cavalry formations, artillery and siege resources through a mansab-jagir apparatus. Its size did not eliminate the costs of hill warfare, communication and holding dispersed positions. The Maratha advantage was situational, not magical: it depended on information, support, forts and the opponent's overstretch. Fort recapture cycles show why one successful siege could fail to end a campaign.
+Remuneration was mixed rather than uniform: regular troops were commonly cash-paid, but plunder shares and local assignments (mokasa-type grants) also supported soldiers and commanders, so an all-cash caricature of the Maratha military economy is as misleading as an all-plunder one.
 
-The navy had regional strategic value. Konkan creeks, coastal forts, customs and trade brought Shivaji into contact and conflict with the Sidis of Janjira, Portuguese and English. Vessel terms such as gurab and galivat require source-grounded usage; Koli, Bhandari, Muslim and other sailors/commanders prevent a homogeneous communal description. This was not a blue-water empire-scale navy. It was a coastal capacity for defence, mobility, trade protection and pressure.
+Comparison with Mughal military power should be concrete. The Mughal system could mobilise large cavalry formations, artillery and siege resources through a mansab-jagir apparatus; its size did not eliminate the costs of hill warfare, communication and holding dispersed positions. The Maratha advantage was situational, not magical: it depended on information, support, forts and the opponent's overstretch. Fort recapture cycles show why one successful siege could fail to end a campaign.
 
+The navy had regional strategic value. Konkan creeks, coastal forts and trade brought Shivaji into contact and conflict with the Sidis of Janjira, the Portuguese and the English. The fleet used gunboats, grabs and gallivats alongside trading and supply craft, and Sindhudurg — built on a coastal island — together with other forts such as Vijaydurg anchored this littoral capacity. Koli, Bhandari, Muslim and other sailors/commanders prevent a homogeneous communal description. This was not a blue-water empire-scale navy; it was a coastal capacity for defence, mobility, trade protection and pressure.
 
-![Visual 39: cavalry distinctions](assets/39_39_cavalry_types.png)
+**Keywords (use each once in your own recall sentence):** bargir (state-horsed) and silhedar (self-equipped) cavalry, Mavali infantry and fort garrisons, ganimi kava mobile repertoire, gunboats, grabs and gallivats, Sindhudurg and other coastal forts
 
-*Visual 39: cavalry distinctions. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Recall flow:** The Maratha military advantage was situational, not magical: it depended on information, local support, forts and the opponent's overstretch. -> bargir (state-horsed) and silhedar (self-equipped) cavalry -> Mavali infantry and fort garrisons -> ganimi kava mobile repertoire -> ganimi kava should not be turned into a modern ideological theory of insurgency.
 
-![Visual 40: mobile warfare loop](assets/40_40_mobile_warfare_loop.png)
-
-*Visual 40: mobile warfare loop. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 41: fort network schematic](assets/41_41_fort_network_map.png)
-
-*Visual 41: fort network schematic. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 42: military logics compared](assets/42_42_mughal_maratha_military.png)
-
-*Visual 42: military logics compared. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 43: Konkan coastal system](assets/43_43_navy_coast_map.png)
-
-*Visual 43: Konkan coastal system. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 44: differentiated coastal actors](assets/44_44_coastal_actors.png)
-
-*Visual 44: differentiated coastal actors. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 45: navy-scale caution](assets/45_45_navy_scale_caution.png)
-
-*Visual 45: navy-scale caution. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — MILITARY ORGANISATION, FORTS AND THE COAST
-
-```text
-START / CONCEPT: Military organisation, forts and the coast
-        |
-        v
-EXACT TERMS: Military organisation · forts · the coast · Bargir · Maratha · Ganimi kava
-        |
-        v
-MECHANISM / ARGUMENT: The Mughal system could mobilise large cavalry formations, artillery and siege resources through a mansab-jagir apparatus.
-        |
-        v
-CONSEQUENCE / CONTRAST: It should not be turned into a modern ideological theory of insurgency.
-        |
-        v
-UPSC TRAP / ANSWER-USE: This was not a blue-water empire-scale navy.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The Maratha advantage was situational, not magical: it depended on information, support, forts and the opponent's overstretch.
-```
 ### PART VI - RELIGION, LEGITIMACY AND IMPERIAL WAR
 
-### SESSION 13 — HINDU ROYAL IDIOM, INSTITUTIONAL BORROWING AND SOURCE-CRITICAL INCLUSION
+#### Session 13 — HINDU ROYAL IDIOM, INSTITUTIONAL BORROWING AND SOURCE-CRITICAL INCLUSION
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Legitimacy and institutional plurality](assets/46_religious_legitimacy_matrix.png)
+*Legitimacy and institutional plurality*
 
-**Plain-language definition:** These dimensions are part of historical legitimacy and should not be erased.
+![Provenance before translation](assets/47_hindavi_swarajya_evidence.png)
+*Provenance before translation*
 
-**Technical definition:** Technically, Hindu royal idiom, institutional borrowing and source-critical inclusion is analysed by relating Hindu royal idiom to institutional borrowing, then testing the relationship through source-critical inclusion and These dimensions.
+![Balanced state-building verdict](assets/48_shivaji_balance_sheet.png)
+*Balanced state-building verdict*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Plain-language definition:** Shivaji used Sanskritic kingship, protection language and Hindu royal ritual as one legitimacy idiom, while his administration borrowed Persianate/Deccani institutions and employed Muslim officers and sailors.
 
-> These dimensions are part of historical legitimacy and should not be erased.
+**Technical precision:** 'Hindu state' as a bounded legitimacy idiom: a description valid only for the ceremonial and rhetorical register of kingship, and invalid the moment it is extended into a claim of an ethnically pure administration or a modern communal nation-state.
 
-#### MUST-WRITE KEYWORDS
+**Answer-ready opening:** Royal Hindu idiom and Persianate institutional borrowing coexisted; neither a perfect-tolerance legend nor an exclusive Hindu-state formula fits the evidence.
 
-- **Hindu royal idiom**
-- **institutional borrowing**
-- **source-critical inclusion**
-- **These dimensions**
-- **These**
-- **The right conclusion**
+#### PARAGRAPH DEMONSTRATION
 
-**How to use them:** Frame the answer through Hindu royal idiom; define institutional borrowing, connect source-critical inclusion with These dimensions to explain the mechanism, and use These for the decisive comparison or qualification.
+**Claim:** Shivaji's kingship combined a genuine Hindu royal idiom with pragmatic institutional borrowing, and both dimensions must be held together. **Evidence:** named evidence: Hindu royal idiom, protection claims, Sanskritised ceremony and coronation ritual coexisted with Persianate and Deccani administrative practices, Muslim officers and sailors in service, and pragmatic diplomatic choices. **Analysis:** the right conclusion is neither a perfect-tolerance legend nor an exclusive Hindu-state formula — royal idiom, administrative language, personnel and local practice belong to different evidentiary categories that must be assessed separately. **Qualification:** claims about protection of mosques, Qurans, women or particular communities, and the term Hindavi Swarajya, require exceptional source care: a prescription, a courtly anecdote, a later bakhar and a documented local act each prove different things, and Bhakti context should not be read as a direct political programme without a precise link.
 
 Shivaji used Hindu royal idiom, protection claims, Sanskritised ceremony and coronation ritual. These dimensions are part of historical legitimacy and should not be erased. Yet the state also drew on Persianate and Deccani administrative practices, employed Muslim officers and sailors, and made pragmatic diplomatic choices. The right conclusion is neither a perfect-tolerance legend nor an exclusive Hindu-state formula. Royal idiom, administrative language, personnel and local practice belong to different evidentiary categories.
 
@@ -882,339 +470,188 @@ Claims about protection of mosques, Qurans, women or particular communities requ
 
 Hindavi Swarajya should be used only when a precise source and context are supplied. It cannot automatically be translated into modern nation-state nationalism. A defensible formulation is that Shivaji articulated autonomy and sovereignty in a political world of multiple legitimacies. Bhakti context may illuminate a Marathi cultural field, but direct political programme should not be inferred from devotional literature alone.
 
+**Keywords (use each once in your own recall sentence):** Sanskritic royal idiom and coronation ritual, Persianate and Deccani administrative borrowing, Muslim officers, sailors and administrators, Hindavi Swarajya's bounded provenance, source-critical inclusion of Bhakti context
 
-![Visual 46: legitimacy and institutional plurality](assets/46_46_religious_legitimacy_matrix.png)
+**Recall flow:** Shivaji's kingship combined a genuine Hindu royal idiom with pragmatic institutional borrowing, and both dimensions must be held together. -> Sanskritic royal idiom and coronation ritual -> Persianate and Deccani administrative borrowing -> Muslim officers, sailors and administrators -> claims about protection of mosques, Qurans, women or particular communities require exceptional source care, since a prescription, a courtly anecdote and a documented local act each prove a different, narrower thing.
 
-*Visual 46: legitimacy and institutional plurality. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 14 — SAMBHAJI, ANNEXATION AND THE END OF BUFFER POLITICS
 
-![Visual 47: provenance before translation](assets/47_47_hindavi_swarajya_evidence.png)
+![Post-1680 succession](assets/49_post_1680_succession.png)
+*Post-1680 succession*
 
-*Visual 47: provenance before translation. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Sambhaji's strategic field](assets/50_sambhaji_actor_map.png)
+*Sambhaji's strategic field*
 
-![Visual 48: balanced state-building verdict](assets/48_48_shivaji_balance_sheet.png)
+![Annexation and burden](assets/51_bijapur_golconda_annexation.png)
+*Annexation and burden*
 
-*Visual 48: balanced state-building verdict. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Buffer-removal paradox](assets/52_buffer_removal_paradox.png)
+*Buffer-removal paradox*
 
-#### CLOSING RECALL FLOW — HINDU ROYAL IDIOM, INSTITUTIONAL BORROWING AND SOURCE-CRITICAL INCLUSION
+![Sambhaji capture source matrix](assets/53_sambhaji_capture_matrix.png)
+*Sambhaji capture source matrix*
 
-```text
-START / CONCEPT: Hindu royal idiom, institutional borrowing and source-critical inclusion
-        |
-        v
-EXACT TERMS: Hindu royal idiom · institutional borrowing · source-critical inclusion · These dimensions · These · The right conclusion
-        |
-        v
-MECHANISM / ARGUMENT: The right conclusion is neither a perfect-tolerance legend nor an exclusive Hindu-state formula.
-        |
-        v
-CONSEQUENCE / CONTRAST: Source criticism is not moral evasion; it prevents a modern identity debate from flattening the seventeenth-century archive.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Bhakti context may illuminate a Marathi cultural field, but direct political programme should not be inferred from devotional literature alone.
-        |
-        v
-ANSWER-GRABBING FORMULATION: These dimensions are part of historical legitimacy and should not be erased.
-```
-### SESSION 14 — SAMBHAJI, ANNEXATION AND THE END OF BUFFER POLITICS
+![Decentralisation after execution](assets/54_decapitation_decentralization.png)
+*Decentralisation after execution*
 
-#### DEFINITION / WHAT THIS IS CALLED
+**Plain-language definition:** Sambhaji succeeded Shivaji in 1680, continued the war under mounting Mughal, Sidi and Portuguese pressure, and was captured at Sangameshwar and executed in 1689 after Aurangzeb's 1686 Bijapur and 1687 Golconda annexations.
 
-**Plain-language definition:** Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 removed buffer states that had previously mediated Deccan politics.
+**Technical precision:** Buffer politics: a regional order in which independent sultanates (Bijapur, Golconda) mediated between the Mughals and the Marathas; their annexation removed this mediating layer and converted a three/four-cornered contest into a direct, more diffuse Mughal-Maratha war.
 
-**Technical definition:** Sambhaji was captured at Sangameshwar and executed in 1689.
+**Answer-ready opening:** Sambhaji's reign and execution mark the end of buffer politics, not the end of Maratha resistance.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### PARAGRAPH DEMONSTRATION
 
-> Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 removed buffer states that had previously mediated Deccan politics.
+**Claim:** Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 removed buffer states that had previously mediated Deccan politics. **Evidence:** named evidence: the annexations brought new territories, revenue claims and nobles, but also required garrisons, administration and long communications across disturbed districts; Sambhaji was captured at Sangameshwar and executed in 1689. **Analysis:** a nominal addition to jama was not equivalent to readily realised hasil, so the empire enlarged its sovereign claim while making the Maratha contest more diffuse and costly; Sambhaji's death removed a recognised negotiating head and helped shift resistance toward dispersed commanders, forts, local networks and fiscal claims. **Qualification:** Sambhaji should not be treated as either an inevitable failure or a simple continuation of Shivaji, since his administration and war choices were constrained by Prince Akbar's alliance and Mughal pressure; graphic execution details and a single immediate motive vary by source and should be separated from the secure chronological anchor.
 
-#### MUST-WRITE KEYWORDS
-
-- **Sambhaji**
-- **annexation**
-- **the end of buffer politics**
-- **Sambhaji's**
-- **His**
-- **Prince Akbar's**
-
-**How to use them:** Frame the answer through Sambhaji; define annexation, connect the end of buffer politics with Sambhaji's to explain the mechanism, and use His for the decisive comparison or qualification.
-
-Sambhaji's accession after 1680 followed an internal succession struggle. His administration and war choices must be located in a constrained field that included Prince Akbar's alliance, Mughal pressure and conflict around Portuguese and Sidi positions. The point is not to narrate every campaign, but to avoid treating him as either an inevitable failure or a simple continuation of Shivaji. Leadership faced a changing imperial strategy.
+Sambhaji's accession after 1680 followed an internal succession struggle. His administration and war choices must be located in a constrained field that included Prince Akbar's alliance, Mughal pressure and conflict around Portuguese and Sidi positions. The point is not to narrate every campaign, but to avoid treating him as either an inevitable failure or a simple continuation of Shivaji.
 
 Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 removed buffer states that had previously mediated Deccan politics. The acquisitions brought territories, revenue claims and nobles, but they also required garrisons, administration and long communications across disturbed districts. A nominal addition to jama was not equivalent to readily realised hasil. The paradox is consequential: the empire enlarged its sovereign claim while making the Maratha contest more diffuse and costly.
 
 Sambhaji was captured at Sangameshwar and executed in 1689. The capture and execution are secure chronological anchors. Graphic details, a single immediate motive and total religious interpretation vary by source and should be separated. His death did not end resistance; it removed a recognised negotiating head and helped shift resistance toward dispersed commanders, forts, local networks and fiscal claims. That is a mechanism, not a claim that decentralisation was automatically harmonious.
 
+**Keywords (use each once in your own recall sentence):** Sambhaji's succession struggle, 1680, Prince Akbar's alliance with Sambhaji, Bijapur (1686) and Golconda (1687) annexation, capture and execution at Sangameshwar, 1689, removal of a negotiable head, not of resistance
 
-![Visual 49: post-1680 succession](assets/49_49_post_1680_succession.png)
+**Recall flow:** Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 removed buffer states that had previously mediated Deccan politics. -> Sambhaji's succession struggle, 1680 -> Prince Akbar's alliance with Sambhaji -> Bijapur (1686) and Golconda (1687) annexation -> Sambhaji should not be treated as either an inevitable failure or a simple continuation of Shivaji.
 
-*Visual 49: post-1680 succession. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 15 — RAJARAM, JINJI, TARABAI AND THE DECENTRALISED RESISTANCE
 
-![Visual 50: Sambhaji's strategic field](assets/50_50_sambhaji_actor_map.png)
+![Rajaram and Jinji (Gingee) strategic depth](assets/55_rajaram_jinji_map.png)
+*Rajaram and Jinji (Gingee) strategic depth*
 
-*Visual 50: Sambhaji's strategic field. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Decentralised command wheel](assets/56_decentralized_command_wheel.png)
+*Decentralised command wheel*
 
-![Visual 51: annexation and burden](assets/51_51_bijapur_golconda_annexation.png)
+![Operations against dispersed deployment](assets/57_santaji_dhanaji_operations.png)
+*Operations against dispersed deployment*
 
-*Visual 51: annexation and burden. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Tarabai's regency for Shivaji II](assets/58_tarabai_leadership.png)
+*Tarabai's regency for Shivaji II*
 
-![Visual 52: buffer-removal paradox](assets/52_52_buffer_removal_paradox.png)
+![Siege-recapture loop, 1700-05](assets/59_siege_recapture_loop.png)
+*Siege-recapture loop, 1700-05*
 
-*Visual 52: buffer-removal paradox. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Plain-language definition:** After Sambhaji's execution, Rajaram escaped to the distant fort of Gingee, which fell in 1698 after a long Mughal siege only once Rajaram himself had already escaped; on his death in 1700 his widow Tarabai directed resistance in the name of their son, Shivaji II.
 
-![Visual 53: Sambhaji capture source matrix](assets/53_53_sambhaji_capture_matrix.png)
+**Technical precision:** Decentralised resistance: a war conducted through dispersed commanders (Santaji Ghorpade, Dhanaji Jadhav), fiscal agents and fort networks connected by loyalty to a royal cause rather than by one central command post.
 
-*Visual 53: Sambhaji capture source matrix. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Answer-ready opening:** Gingee's fall in 1698 marked the loss of a fortress, not the capture of Rajaram, who had already escaped; Tarabai's regency for Shivaji II then carried the royal cause forward.
 
-![Visual 54: decentralisation after execution](assets/54_54_decapitation_decentralization.png)
+#### PARAGRAPH DEMONSTRATION
 
-*Visual 54: decentralisation after execution. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Claim:** Distance, fortification and alternative lines of communication at Gingee could force a powerful empire to distribute men and resources across a very wide theatre. **Evidence:** named evidence: Rajaram's escape and the Jinji (Gingee) base supplied strategic depth; the long Mughal siege of Gingee ended only in 1698, by which time Rajaram had already escaped; Santaji Ghorpade, Dhanaji Jadhav, Ramchandra Pant Amatya and Shankaraji Narayan sustained command, fiscal and administrative functions after Rajaram's death in 1700, when Tarabai took up the regency for her son Shivaji II. **Analysis:** this dispersed structure allowed the war to survive the loss of a central leader, and during 1700-05 Aurangzeb's personal fort campaigns confronted a repetitive siege-recapture dynamic that explains why operational success could yield weak strategic return. **Qualification:** the fall of Gingee in 1698 must not be confused with the capture of Rajaram, who had escaped earlier; the named commanders should not be treated as one frictionless organisation, since personal followings, local bargaining and coordination problems remained, and decentralisation, while it increased resilience, also strengthened autonomous commanders and later fed confederate tendencies that Topic 25 examines in full.
 
-#### CLOSING RECALL FLOW — SAMBHAJI, ANNEXATION AND THE END OF BUFFER POLITICS
-
-```text
-START / CONCEPT: Sambhaji, annexation and the end of buffer politics
-        |
-        v
-EXACT TERMS: Sambhaji · annexation · the end of buffer politics · Sambhaji's · His · Prince Akbar's
-        |
-        v
-MECHANISM / ARGUMENT: Graphic details, a single immediate motive and total religious interpretation vary by source and should be separated.
-        |
-        v
-CONSEQUENCE / CONTRAST: The point is not to narrate every campaign, but to avoid treating him as either an inevitable failure or a simple continuation of Shivaji.
-        |
-        v
-UPSC TRAP / ANSWER-USE: A nominal addition to jama was not equivalent to readily realised hasil.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 removed buffer states that had previously mediated Deccan politics.
-```
-### SESSION 15 — RAJARAM, JINJI, TARABAI AND THE DECENTRALISED RESISTANCE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Santaji Ghorpade, Dhanaji Jadhav, Ramchandra Pant Amatya and Shankaraji Narayan are evidence that resistance rested on several command, fiscal and administrative nodes.
-
-**Technical definition:** Jinji belongs to the southern geography already opened by the earlier expedition, but the exact siege chronology should be sourced before recitation.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Jinji belongs to the southern geography already opened by the earlier expedition, but the exact siege chronology should be sourced before recitation.
-
-#### MUST-WRITE KEYWORDS
-
-- **Rajaram**
-- **Jinji**
-- **Tarabai**
-- **the decentralised resistance**
-- **Its analytical value**
-- **1700-05**
-
-**How to use them:** Frame the answer through Rajaram; define Jinji, connect Tarabai with the decentralised resistance to explain the mechanism, and use Its analytical value for the decisive comparison or qualification.
-
-Rajaram's escape and the Jinji base supplied strategic depth when the Mughal court expected a decisive settlement. Jinji belongs to the southern geography already opened by the earlier expedition, but the exact siege chronology should be sourced before recitation. Its analytical value is clear: distance, fortification and alternative lines of communication could force a powerful empire to distribute men and resources across a very wide theatre.
+Rajaram's escape and the Jinji (Gingee) base supplied strategic depth when the Mughal court expected a decisive settlement. The long Mughal siege of Gingee lasted years and ended only in 1698 — importantly, Rajaram himself had already escaped the fortress before its fall, so Gingee's capture removed a fort, not the person of the king. Its analytical value is clear: distance, fortification and alternative lines of communication could force a powerful empire to distribute men and resources across a very wide theatre.
 
 Santaji Ghorpade, Dhanaji Jadhav, Ramchandra Pant Amatya and Shankaraji Narayan are evidence that resistance rested on several command, fiscal and administrative nodes. Raids on communication, pressure on smaller detachments, fort links and collection systems created a war that could survive loss of a central leader. The names should not be made into a single frictionless organisation: personal followings, local bargaining and coordination problems remained.
 
-Rajaram died in 1700. Tarabai's regency and leadership are not a ceremonial footnote. She exercised political authority in organising legitimacy, patronage and resistance. During c.1700-05, Aurangzeb's personal fort campaigns confronted repetitive siege-recapture dynamics. This does not mean the Mughals were militarily powerless; it explains why operational success could yield weak strategic return. Shahu's captivity and later negotiation are a bridge only; the detailed eighteenth-century story belongs to Topic 25.
+Rajaram died in 1700. His widow Tarabai then led the resistance as regent for their young son Shivaji II, the dynastic basis of her authority; her regency and leadership are not a ceremonial footnote. She exercised political authority in organising legitimacy, patronage and resistance. During c.1700-05, Aurangzeb's personal fort campaigns confronted repetitive siege-recapture dynamics. This does not mean the Mughals were militarily powerless; it explains why operational success could yield weak strategic return. Decentralisation increased resilience but also strengthened autonomous commanders and fed later confederate tendencies — a bridge that Topic 25 examines in full, without importing that later story here. Shahu's captivity and later negotiation are a bridge only; the detailed eighteenth-century story belongs to Topic 25.
 
+**Keywords (use each once in your own recall sentence):** Rajaram's escape to Gingee, Gingee's fall in 1698 after Rajaram's escape, Santaji Ghorpade and Dhanaji Jadhav's operations, Tarabai's regency for Shivaji II, 1700-05 siege-recapture cycle
 
-![Visual 55: Rajaram and Jinji strategic depth](assets/55_55_rajaram_jinji_map.png)
+**Recall flow:** Distance, fortification and alternative lines of communication at Gingee could force a powerful empire to distribute men and resources across a very wide theatre. -> Rajaram's escape to Gingee -> Gingee's fall in 1698 after Rajaram's escape -> Santaji Ghorpade and Dhanaji Jadhav's operations -> the fall of Gingee in 1698 must not be confused with the capture of Rajaram.
 
-*Visual 55: Rajaram and Jinji strategic depth. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 56: decentralised command wheel](assets/56_56_decentralized_command_wheel.png)
-
-*Visual 56: decentralised command wheel. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 57: operations against dispersed deployment](assets/57_57_santaji_dhanaji_operations.png)
-
-*Visual 57: operations against dispersed deployment. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 58: Tarabai's leadership](assets/58_58_tarabai_leadership.png)
-
-*Visual 58: Tarabai's leadership. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 59: siege-recapture loop](assets/59_59_siege_recapture_loop.png)
-
-*Visual 59: siege-recapture loop. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — RAJARAM, JINJI, TARABAI AND THE DECENTRALISED RESISTANCE
-
-```text
-START / CONCEPT: Rajaram, Jinji, Tarabai and the decentralised resistance
-        |
-        v
-EXACT TERMS: Rajaram · Jinji · Tarabai · the decentralised resistance · Its analytical value · 1700-05
-        |
-        v
-MECHANISM / ARGUMENT: Santaji Ghorpade, Dhanaji Jadhav, Ramchandra Pant Amatya and Shankaraji Narayan are evidence that resistance rested on several command, fiscal and administrative nodes.
-        |
-        v
-CONSEQUENCE / CONTRAST: The names should not be made into a single frictionless organisation: personal followings, local bargaining and coordination problems remained.
-        |
-        v
-UPSC TRAP / ANSWER-USE: This does not mean the Mughals were militarily powerless; it explains why operational success could yield weak strategic return.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Jinji belongs to the southern geography already opened by the earlier expedition, but the exact siege chronology should be sourced before recitation.
-```
 ### PART VII - AURANGZEB'S DECCAN POLICY AND JAGIRDARI CRISIS
 
-### SESSION 16 — AURANGZEB'S DECCAN POLICY: FORMIDABLE EMPIRE, FAILING SETTLEMENT
+#### Session 16 — AURANGZEB'S DECCAN POLICY: FORMIDABLE EMPIRE, FAILING SETTLEMENT
 
-#### DEFINITION / WHAT THIS IS CALLED
+![Multiple Deccan motives](assets/60_aurangzeb_deccan_motives.png)
+*Multiple Deccan motives*
 
-**Plain-language definition:** Religious motivation can be a dimension of legitimacy and policy, but it is not a sufficient explanation for every decision in the Deccan.
+![Nominal gain and realised cost](assets/61_annexation_gain_cost.png)
+*Nominal gain and realised cost*
 
-**Technical definition:** Aurangzeb's policy had interacting objectives: to secure imperial sovereignty in the Deccan, remove the support or shelter offered by sultanates, subdue Maratha power, obtain strategic territory and manage dynastic, security and religious considerations.
+![Settlement counterfactual limits](assets/62_settlement_counterfactual.png)
+*Settlement counterfactual limits*
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Plain-language definition:** Aurangzeb's post-1681 Deccan policy pursued imperial sovereignty, the removal of sultanate shelter for rebels, the subduing of Maratha power and the acquisition of strategic territory, sustained by a formidable but increasingly strained military apparatus.
 
-> Religious motivation can be a dimension of legitimacy and policy, but it is not a sufficient explanation for every decision in the Deccan.
+**Technical precision:** 'Won Bijapur and Golconda but lost the Deccan': an analytical paradox distinguishing conquest recorded on a map from governable, revenue-realising authority on the ground.
 
-#### MUST-WRITE KEYWORDS
+**Answer-ready opening:** The Mughal empire remained formidable in the Deccan even as its settlement strategy repeatedly failed to convert conquest into governable authority.
 
-- **Aurangzeb's Deccan policy**
-- **formidable empire**
-- **failing settlement**
-- **Aurangzeb's**
-- **Deccan**
-- **Maratha**
+#### PARAGRAPH DEMONSTRATION
 
-**How to use them:** Frame the answer through Aurangzeb's Deccan policy; define formidable empire, connect failing settlement with Aurangzeb's to explain the mechanism, and use Deccan for the decisive comparison or qualification.
+**Claim:** Religious motivation can be a dimension of legitimacy and policy, but it is not a sufficient explanation for every Mughal decision in the Deccan. **Evidence:** named evidence: Aurangzeb's policy combined securing imperial sovereignty, removing sultanate shelter, subduing Maratha power, obtaining strategic territory and managing dynastic and security considerations; his long personal presence from 1681-82 intensified command centralisation and distance from northern politics. **Analysis:** the phrase that Aurangzeb 'won Bijapur and Golconda but lost the Deccan' names the difference between conquest on a map and governable authority, since annexation lengthened communications, added administrative claims, removed buffers and created more opportunities for local resistance and bargaining. **Qualification:** the empire remained formidable — simplified language of instant collapse is wrong — and missed-settlement arguments at Purandar/Agra remain counterfactual illustrations of an alternative path, not proof that one meeting alone determined 1707; 'Deccan ulcer' should not be used as an unexamined quotation without identifying its provenance.
 
 Aurangzeb's policy had interacting objectives: to secure imperial sovereignty in the Deccan, remove the support or shelter offered by sultanates, subdue Maratha power, obtain strategic territory and manage dynastic, security and religious considerations. Religious motivation can be a dimension of legitimacy and policy, but it is not a sufficient explanation for every decision in the Deccan. The empire remained formidable; simplified language of instant collapse obscures its capacity to sustain major campaigns.
 
 The phrase that Aurangzeb 'won Bijapur and Golconda but lost the Deccan' is useful as an analytical paradox. It names the difference between conquest on a map and governable authority. Annexation lengthened communications, added administrative claims, removed buffers and created more opportunities for local resistance and bargaining. His long personal presence from 1681/82 intensified command centralisation and distance from northern politics, while age and succession concerns compounded the burden. Do not use 'Deccan ulcer' as an unexamined quotation; identify its provenance if used.
 
-Missed-settlement arguments at Purandar/Agra and later stages remain counterfactual. They illuminate how Jai Singh's policy differed from narrow coercion, but Shivaji, Sambhaji and later actors were not passive candidates for absorption. The best verdict is multi-causal: a difficult regional war interacted with imperial decision-making, not a morality tale in which one meeting alone determined 1707.
+Missed-settlement arguments at Purandar/Agra and later stages remain counterfactual. They illuminate how Jai Singh's policy differed from narrow coercion, but Shivaji, Sambhaji and later actors were not passive candidates for absorption. The best verdict is multi-causal: a difficult regional war interacted with imperial decision-making, not a morality tale in which one meeting alone determined 1707. Annexation also displaced a layer of Deccani nobles and soldiers who had served Bijapur and Golconda; absorbing their assignment claims into the Mughal mansab-jagir system added new competitors for a limited pool of productive jagirs, a link developed fully in Session 17.
 
+**Keywords (use each once in your own recall sentence):** multiple interacting Deccan objectives, annexation of Bijapur and Golconda, 'won but lost the Deccan' paradox, long personal imperial presence from 1681-82, missed-settlement counterfactuals at Purandar and Agra
 
-![Visual 60: multiple Deccan motives](assets/60_60_aurangzeb_deccan_motives.png)
+**Recall flow:** Religious motivation can be a dimension of legitimacy and policy, but it is not a sufficient explanation for every Mughal decision in the Deccan. -> multiple interacting Deccan objectives -> annexation of Bijapur and Golconda -> 'won but lost the Deccan' paradox -> the empire remained formidable — simplified language of instant collapse is wrong — and missed-settlement arguments at Purandar/Agra remain counterfactual illustrations of an alternative path.
 
-*Visual 60: multiple Deccan motives. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 17 — JAGIRDARI CRISIS: DEFINITIONS, ROOTS AND AN EVIDENCE-LED MECHANISM
 
-![Visual 61: nominal gain and realised cost](assets/61_61_annexation_gain_cost.png)
+![Jagir vocabulary: mansab, jama, hasil, be-jagiri, paibaqi](assets/63_jagir_vocabulary.png)
+*Jagir vocabulary: mansab, jama, hasil, be-jagiri, paibaqi*
 
-*Visual 61: nominal gain and realised cost. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Jama and hasil distinction](assets/64_jama_hasil.png)
+*Jama and hasil distinction*
 
-![Visual 62: settlement counterfactual limits](assets/62_62_settlement_counterfactual.png)
+![Be-jagiri and jagir quality](assets/65_be_jagiri.png)
+*Be-jagiri and jagir quality*
 
-*Visual 62: settlement counterfactual limits. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Multi-causal crisis wheel](assets/66_jagirdari_multicausal_wheel.png)
+*Multi-causal crisis wheel*
 
-#### CLOSING RECALL FLOW — AURANGZEB'S DECCAN POLICY: FORMIDABLE EMPIRE, FAILING SETTLEMENT
+![Inflated Deccan jama and rank inflation](assets/67_deccan_inflated_jama.png)
+*Inflated Deccan jama and rank inflation*
 
-```text
-START / CONCEPT: Aurangzeb's Deccan policy: formidable empire, failing settlement
-        |
-        v
-EXACT TERMS: Aurangzeb's Deccan policy · formidable empire · failing settlement · Aurangzeb's · Deccan · Maratha
-        |
-        v
-MECHANISM / ARGUMENT: Aurangzeb's policy had interacting objectives: to secure imperial sovereignty in the Deccan, remove the support or shelter offered by sultanates, subdue Maratha power, obtain strategic territory and manage dynastic, security and religious considerations.
-        |
-        v
-CONSEQUENCE / CONTRAST: The phrase that Aurangzeb 'won Bijapur and Golconda but lost the Deccan' is useful as an analytical paradox.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not use 'Deccan ulcer' as an unexamined quotation; identify its provenance if used.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Religious motivation can be a dimension of legitimacy and policy, but it is not a sufficient explanation for every decision in the Deccan.
-```
-### SESSION 17 — JAGIRDARI CRISIS: DEFINITIONS, ROOTS AND AN EVIDENCE-LED MECHANISM
+**Plain-language definition:** The jagirdari crisis was the deepening gap, from the 1680s-90s Deccan, between the number and rank of claimants seeking productive jagirs and the supply of jagirs actually able to yield their assessed revenue.
 
-#### DEFINITION / WHAT THIS IS CALLED
+**Technical precision:** Mansab/jagir/jama/hasil/be-jagiri/paibaqi precisely distinguished: mansab is ranked service obligation; a jagir is the revenue assignment meant to support it; jama is assessed revenue; hasil is revenue actually collected; be-jagiri is a shortage of assignable productive jagirs; paibaqi is land recorded as unassigned or awaiting assignment, whose paper availability did not guarantee productive, realised income.
 
-**Plain-language definition:** The jagirdari crisis should be built from Topic 21 rather than treated as a slogan.
+**Answer-ready opening:** The jagirdari crisis must be built term by term from Topic 21, not recited as the slogan 'too many mansabdars'.
 
-**Technical definition:** The crisis was not only 'too many mansabdars'.
+#### PARAGRAPH DEMONSTRATION
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**Claim:** The jagirdari crisis was a multi-term, multi-causal fiscal-administrative-military problem, not a single arithmetic shortage. **Evidence:** named evidence: mansab expressed rank and service obligation; jama denoted assessed revenue while hasil denoted collection actually realised; be-jagiri named the shortage of assignable productive jagirs; paibaqi named land recorded as unassigned or awaiting assignment, whose presence on paper did not guarantee real, collectable income. **Analysis:** rank inflation — an expanding body of Mughal khanazads and princes, absorbed Deccani nobles from annexed Bijapur and Golconda, and Maratha or Maratha-origin mansabdars all claiming rank — pressed directly on a limited pool of productive jagirs; this rank-inflation pressure is distinct from be-jagiri (there being too few usable jagirs to go round) and from the jama-hasil gap (an assigned jagir yielding less than its paper value), even though all three interacted. **Qualification:** a worked numerical example (jama 100, hasil 55 after war and collection costs) illustrates the mechanism without asserting it as a recorded historical figure for any named district; short jagirdar tenure and frequent transfers, intended to limit any one noble's local entrenchment, instead encouraged extraction, corruption and factional competition, undermining the very troop maintenance the assignment was meant to fund.
 
-> The jagirdari crisis should be built from Topic 21 rather than treated as a slogan.
+The jagirdari crisis should be built from Topic 21 rather than treated as a slogan. A mansab expressed rank and service obligation; a jagir was a revenue assignment intended to support that obligation. Jama denotes assessed revenue, while hasil denotes collection actually realised. A jagir that looked adequate in assessed figures could be disturbed, over-assessed, expensive to collect or unable to yield cash at the required time. Be-jagiri refers to shortage of assignable productive jagirs, not merely a shortage of labels on paper. Paibaqi refers to land recorded in the revenue rolls as currently unassigned or awaiting assignment; its existence on paper was not the same as productive, realised income, and it must always be read with the record context that defines a specific entry.
 
-#### MUST-WRITE KEYWORDS
+Rank inflation is a distinct mechanism from be-jagiri and from the jama-hasil gap, though the three fed one another. An expanding pool of claimants — Mughal khanazads and princes seeking advancement, Deccani nobles absorbed after the 1686-87 annexation of Bijapur and Golconda, and Maratha or Maratha-origin commanders newly given mansabs — all pressed for rank and an accompanying jagir at the same time as the supply of productive assignments was shrinking under war disruption. This is rank inflation: more claimants with rank than the fisc could support with real jagirs, a problem of numbers and status that is conceptually separate from be-jagiri's problem of jagir quality and from the jama-hasil gap's problem of assessment versus collection.
 
-- **Jagirdari crisis**
-- **definitions**
-- **roots**
-- **an evidence-led mechanism**
-- **Topic**
-- **Jama**
+A worked analytical example clarifies the distinction without inventing a historical statistic: if an assignment has jama of 100 units but war, resistance and collection costs yield hasil of 55, the nominal service basis is already misleading. The jagirdar must maintain retainers from what can actually be realised, not from an accountant's claim. Short tenure and frequent transfers of jagirdars, meant to prevent local entrenchment, instead gave officials incentive to extract quickly, seek bribes and build factional protection before the next transfer — weakening rather than strengthening troop maintenance. The example is a model, not evidence that any named district had those exact figures.
 
-**How to use them:** Frame the answer through Jagirdari crisis; define definitions, connect roots with an evidence-led mechanism to explain the mechanism, and use Topic for the decisive comparison or qualification.
+The crisis was not only 'too many mansabdars'. It involved the quality and realisation of assignments, rank inflation among named claimant groups, inflated Deccan assessment, transfer corruption, factional competition, local resistance, Maratha parallel claims, the cost of contingent maintenance and administrative overload. Annexation increased nominal resources and claimants at the same time. The strongest answer separates fiscal mismatch, administrative malfunction, agrarian/social conflict and military consequence before reconnecting them.
 
-The jagirdari crisis should be built from Topic 21 rather than treated as a slogan. A mansab expressed rank and service obligation; a jagir was a revenue assignment intended to support that obligation. Jama denotes assessed revenue, while hasil denotes collection actually realised. A jagir that looked adequate in assessed figures could be disturbed, over-assessed, expensive to collect or unable to yield cash at the required time. Be-jagiri refers to shortage of assignable productive jagirs, not merely a shortage of labels on paper. Use paibaqi only with the record context that defines it.
+**Keywords (use each once in your own recall sentence):** mansab as ranked service obligation, jama-hasil assessment-collection gap, be-jagiri: shortage of productive jagirs, paibaqi: unsettled, awaiting-assignment land, rank inflation among Mughal, Deccani and Maratha claimants
 
-A worked analytical example clarifies the distinction without inventing a historical statistic: if an assignment has jama of 100 units but war, resistance and collection costs yield hasil of 55, the nominal service basis is already misleading. The jagirdar must maintain retainers from what can actually be realised, not from an accountant's claim. The example is a model, not evidence that any named district had those exact figures.
+**Recall flow:** The jagirdari crisis was a multi-term, multi-causal fiscal-administrative-military problem, not a single arithmetic shortage. -> mansab as ranked service obligation -> jama-hasil assessment-collection gap -> be-jagiri: shortage of productive jagirs -> a worked numerical example (jama 100, hasil 55 after war and collection costs) illustrates the mechanism as a model, not as a recorded figure for any named district.
 
-The crisis was not only 'too many mansabdars'. It involved the quality and realisation of assignments, month-scale roots, inflated Deccan assessment, transfer corruption, factional competition, new entrants and khanazads, local resistance, Maratha claims, cost of contingent maintenance and administrative overload. Annexation increased nominal resources and claimants at the same time. The strongest answer separates fiscal mismatch, administrative malfunction, agrarian/social conflict and military consequence before reconnecting them.
+#### Session 18 — LOCAL POWER, PARALLEL COLLECTION AND A MULTI-CAUSAL TRANSITION
 
+![Overlapping fiscal claims](assets/68_chauth_overlap.png)
+*Overlapping fiscal claims*
 
-![Visual 63: jagir vocabulary](assets/63_63_jagir_vocabulary.png)
+![Local revenue burden](assets/69_local_revenue_burden.png)
+*Local revenue burden*
 
-*Visual 63: jagir vocabulary. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Private-pact cycle](assets/70_private_pact_cycle.png)
+*Private-pact cycle*
 
-![Visual 64: jama and hasil distinction](assets/64_64_jama_hasil.png)
+![Military-fiscal feedback](assets/71_military_fiscal_feedback.png)
+*Military-fiscal feedback*
 
-*Visual 64: jama and hasil distinction. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Managed strain to crisis](assets/72_managed_strain_crisis.png)
+*Managed strain to crisis*
 
-![Visual 65: be-jagiri and jagir quality](assets/65_65_be_jagiri.png)
+![Topic 18-21-22-23-24-25 boundary continuity](assets/73_topic_continuity.png)
+*Topic 18-21-22-23-24-25 boundary continuity*
 
-*Visual 65: be-jagiri and jagir quality. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Plain-language definition:** Zamindars, deshmukhs and local armed groups mediated, resisted or bargained over revenue in a Deccan where Mughal jama-hasil gaps and Maratha chauth claims overlapped in the same district.
 
-![Visual 66: multi-causal crisis wheel](assets/66_66_jagirdari_multicausal_wheel.png)
+**Technical precision:** Parallel collection: the coexistence, in one locality, of a Mughal jagirdar's formal claim and a Maratha agent's (kamaishdar's) chauth claim, which made sovereignty a matter of practical bargaining rather than an uncontested fact.
 
-*Visual 66: multi-causal crisis wheel. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Answer-ready opening:** Local power and parallel collection, not Aurangzeb's decisions alone, drove the jagirdari crisis into a genuinely multi-causal transition.
 
-![Visual 67: inflated Deccan jama](assets/67_67_deccan_inflated_jama.png)
+#### PARAGRAPH DEMONSTRATION
 
-*Visual 67: inflated Deccan jama. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — JAGIRDARI CRISIS: DEFINITIONS, ROOTS AND AN EVIDENCE-LED MECHANISM
-
-```text
-START / CONCEPT: Jagirdari crisis: definitions, roots and an evidence-led mechanism
-        |
-        v
-EXACT TERMS: Jagirdari crisis · definitions · roots · an evidence-led mechanism · Topic · Jama
-        |
-        v
-MECHANISM / ARGUMENT: Jama denotes assessed revenue, while hasil denotes collection actually realised.
-        |
-        v
-CONSEQUENCE / CONTRAST: A worked analytical example clarifies the distinction without inventing a historical statistic: if an assignment has jama of 100 units but war, resistance and collection costs yield hasil of 55, the nominal service basis is already misleading.
-        |
-        v
-UPSC TRAP / ANSWER-USE: The crisis was not only 'too many mansabdars'.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The jagirdari crisis should be built from Topic 21 rather than treated as a slogan.
-```
-### SESSION 18 — LOCAL POWER, PARALLEL COLLECTION AND A MULTI-CAUSAL TRANSITION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Local power, parallel collection and a multi-causal transition comprises Local power, parallel collection and a multi-causal transition as its core connected dimensions.
-
-**Technical definition:** Zamindars, deshmukhs and local armed groups were neither merely officials nor simply landlords.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Do not homogenise local society; the outcome depended on locality, force and bargaining power.
-
-#### MUST-WRITE KEYWORDS
-
-- **Local power**
-- **parallel collection**
-- **a multi-causal transition**
-- **Zamindars**
-- **In**
-- **Mughal**
-
-**How to use them:** Frame the answer through Local power; define parallel collection, connect a multi-causal transition with Zamindars to explain the mechanism, and use In for the decisive comparison or qualification.
+**Claim:** Zamindars, deshmukhs and local armed groups were neither merely officials nor simply landlords, and their bargaining power made sovereignty negotiable in practice. **Evidence:** named evidence: in a disturbed locality, a Mughal jagirdar might confront a gap between jama and hasil, while a Maratha agent or kamaishdar could seek chauth in the same district; private arrangements between jagirdars and Maratha collectors could ease short-term disruption while eroding formal authority. **Analysis:** the final causal loop runs from long Deccan communications raising logistics, to campaigning disturbing hasil, to poorer jagir quality weakening troop maintenance, to troop shortfalls making campaigning harder, to repeated campaigns intensifying the disturbance. **Qualification:** do not homogenise local society — outcomes depended on locality, force and bargaining power — and this was neither full bankruptcy nor instant collapse, nor a crisis made only by Aurangzeb; it matured under the Deccan war, interacted with the Rajput rupture and religious-policy legitimacy issues owned by Topic 22, and fed the post-1707 transition that Topic 25 analyses in full.
 
 Zamindars, deshmukhs and local armed groups were neither merely officials nor simply landlords. They mediated collection, supplied information, resisted demands or made bargains. In a disturbed locality, a Mughal jagirdar might confront a gap between jama and hasil, while a Maratha agent or kamaishdar could seek chauth. Local intermediaries and cultivators could face overlapping claims. That overlap is central to the political meaning of fiscal collection: it makes sovereignty negotiable in practice.
 
@@ -1222,75 +659,29 @@ Private arrangements could ease short-term disruption yet erode imperial authori
 
 The final causal loop is best drawn rather than memorised as a list: long Deccan communications raised logistics; campaigning disturbed hasil; poorer jagir quality weakened troop maintenance; troop shortfalls made campaigning harder; repeated campaigns intensified the disturbance. Rajput rupture and religious-policy legitimacy issues from Topic 22 are linked factors, not substitute explanations. This was neither full bankruptcy nor instant collapse, nor a crisis made only by Aurangzeb. It matured under the Deccan war and fed the post-1707 transition that Topic 25 will analyse.
 
+**Keywords (use each once in your own recall sentence):** zamindars, deshmukhs and local armed groups, parallel Mughal-Maratha collection, private jagirdar-Maratha bargains, long Deccan communications, capture-garrison-move-recapture loop
 
-![Visual 68: overlapping fiscal claims](assets/68_68_chauth_overlap.png)
+**Recall flow:** Zamindars, deshmukhs and local armed groups were neither merely officials nor simply landlords, and their bargaining power made sovereignty negotiable in practice. -> zamindars, deshmukhs and local armed groups -> parallel Mughal-Maratha collection -> private jagirdar-Maratha bargains -> do not homogenise local society — outcomes depended on locality.
 
-*Visual 68: overlapping fiscal claims. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+### PART VIII - SOURCES, PYQ VERIFICATION AND HERITAGE LINK
 
-![Visual 69: local revenue burden](assets/69_69_local_revenue_burden.png)
+#### Session 19 — SOURCES, HISTORIOGRAPHY AND THE FACT-RISK LEDGER
 
-*Visual 69: local revenue burden. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Source matrix by genre](assets/74_source_matrix.png)
+*Source matrix by genre*
 
-![Visual 70: private-pact cycle](assets/70_70_private_pact_cycle.png)
+![Fact-risk ledger](assets/75_fact_risk_ledger.png)
+*Fact-risk ledger*
 
-*Visual 70: private-pact cycle. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Plain-language definition:** Topic 23 evidence spans Marathi bakhars (Sabhasad, Chitnis), Jedhe chronology/shakavali, Mughal Persian chronicles, European factory records, and material evidence (forts, coins, seals, inscriptions).
 
-![Visual 71: military-fiscal feedback](assets/71_71_military_fiscal_feedback.png)
+**Technical precision:** Fact-risk ledger: a working list of specific claims in this topic (Afzal Khan's first blow, Agra's basket-escape detail, revenue incidence, Hindavi Swarajya, navy size, Sambhaji's execution detail, jagirdari terminology) flagged for source-grounded, qualified use rather than confident recitation.
 
-*Visual 71: military-fiscal feedback. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Answer-ready opening:** Every source genre in this topic proves a different thing, and a fact-risk ledger converts that limit into an analytical safeguard.
 
-![Visual 72: managed strain to crisis](assets/72_72_managed_strain_crisis.png)
+#### PARAGRAPH DEMONSTRATION
 
-*Visual 72: managed strain to crisis. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-![Visual 73: Topic 21-23-25 continuity](assets/73_73_topic_continuity.png)
-
-*Visual 73: Topic 21-23-25 continuity. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### CLOSING RECALL FLOW — LOCAL POWER, PARALLEL COLLECTION AND A MULTI-CAUSAL TRANSITION
-
-```text
-START / CONCEPT: Local power, parallel collection and a multi-causal transition
-        |
-        v
-EXACT TERMS: Local power · parallel collection · a multi-causal transition · Zamindars · In · Mughal
-        |
-        v
-MECHANISM / ARGUMENT: This was neither full bankruptcy nor instant collapse, nor a crisis made only by Aurangzeb.
-        |
-        v
-CONSEQUENCE / CONTRAST: Such arrangements did not mean the state had formally ceded territory, but they created incentives, information channels and legitimacy for parallel collectors.
-        |
-        v
-UPSC TRAP / ANSWER-USE: In a disturbed locality, a Mughal jagirdar might confront a gap between jama and hasil, while a Maratha agent or kamaishdar could seek chauth.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Do not homogenise local society; the outcome depended on locality, force and bargaining power.
-```
-### PART VIII - SOURCES, PYQ AUDIT AND HERITAGE LINK
-
-### SESSION 19 — SOURCES, HISTORIOGRAPHY AND THE FACT-RISK LEDGER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Sources, historiography and the fact-risk ledger comprises Sources, historiography and the fact-risk ledger as its core connected dimensions.
-
-**Technical definition:** Technically, Sources, historiography and the fact-risk ledger is analysed by relating Sources to historiography, then testing the relationship through the fact-risk ledger and Sabhasad Bakhar.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Sources, historiography and the fact-risk ledger comprises Sources, historiography and the fact-risk ledger as its core connected dimensions.
-
-#### MUST-WRITE KEYWORDS
-
-- **Sources**
-- **historiography**
-- **the fact-risk ledger**
-- **Sabhasad Bakhar**
-- **Maratha**
-- **Later**
-
-**How to use them:** Frame the answer through Sources; define historiography, connect the fact-risk ledger with Sabhasad Bakhar to explain the mechanism, and use Maratha for the decisive comparison or qualification.
+**Claim:** Genre determines what a source is good for, and no single genre transparently narrates motive, popular support or exact numbers. **Evidence:** named evidence: Sabhasad Bakhar is an early courtly Maratha narrative valuable for political memory; Mughal Persian chronicles reveal imperial perception and campaign priorities, including the vocabulary of rebel or bandit; European factory records illuminate Surat and commercial disruption; forts, coins, seals and inscriptions show capacity, legitimacy and spatial organisation. **Analysis:** the Mughal 'rebel/bandit' vocabulary is itself evidence of state perspective, not a neutral social description, so modern nationalist, communal, Marxist/peasant and regional-state interpretations must be tied to evidence rather than offered as a forced false balance. **Qualification:** a working fact-risk ledger keeps six items in view: early forts need action-specific wording; Afzal Khan's first blow and Agra's basket detail are contested; revenue incidence is uneven; Hindavi Swarajya needs provenance; navy size must not be inflated; and jagirdari terminology needs conceptual precision.
 
 Sabhasad Bakhar is a relatively early courtly Maratha narrative and is valuable for political memory and an elite perspective, but patronage and heroic form require checking. Later bakhars, including Chitnis traditions, can preserve detail and legend; they demand corroboration rather than automatic rejection. Jedhe chronology or shakavali and administrative letters can anchor dates and local networks, yet they are terse and selective. Genre determines what a source is good for.
 
@@ -1298,2313 +689,508 @@ Mughal Persian chronicles reveal imperial perception, campaign priorities and th
 
 Keep a fact-risk ledger. Early forts require action-specific wording; Afzal Khan's first blow and Agra's basket detail are contested; revenue incidence is uneven; Hindavi Swarajya needs provenance; navy size must not be inflated; Sambhaji's execution details need genre caution; and jagirdari terminology needs conceptual precision. These safeguards make an answer more, not less, analytical.
 
+**Keywords (use each once in your own recall sentence):** Sabhasad Bakhar's courtly perspective, Jedhe chronology/shakavali dating anchors, Mughal Persian chronicles' 'rebel/bandit' vocabulary, European factory records on Surat, forts, coins, seals and inscriptions as material evidence
 
-![Visual 74: source matrix](assets/74_74_source_matrix.png)
+**Recall flow:** Genre determines what a source is good for, and no single genre transparently narrates motive, popular support or exact numbers. -> Sabhasad Bakhar's courtly perspective -> Jedhe chronology/shakavali dating anchors -> Mughal Persian chronicles' 'rebel/bandit' vocabulary -> a working fact-risk ledger keeps six items in view: early forts need action-specific wording; Afzal Khan's first blow and Agra's basket detail are contested; revenue incidence is uneven; Hindavi Swarajya needs provenance; navy size must not be inflated; and jagirdari terminology needs conceptual precision.
 
-*Visual 74: source matrix. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+#### Session 20 — BOUNDED HERITAGE AND SOURCE-METHOD LINKAGE
 
-![Visual 75: fact-risk ledger](assets/75_75_fact_risk_ledger.png)
+![UNESCO's 2025 twelve-component static heritage link](assets/76_unesco_component_map.png)
+*UNESCO's 2025 twelve-component static heritage link*
 
-*Visual 75: fact-risk ledger. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+![Heritage recognition and the 2026 conservation update are not event-proof](assets/77_heritage_history.png)
+*Heritage recognition and the 2026 conservation update are not event-proof*
 
-#### CLOSING RECALL FLOW — SOURCES, HISTORIOGRAPHY AND THE FACT-RISK LEDGER
+**Plain-language definition:** UNESCO's 2025 World Heritage listing of the Maratha Military Landscapes of India names twelve fortifications as a permanent heritage record, while a dated 2026 PIB release separately reports site-management and conservation arrangements for the same forts.
 
-```text
-START / CONCEPT: Sources, historiography and the fact-risk ledger
-        |
-        v
-EXACT TERMS: Sources · historiography · the fact-risk ledger · Sabhasad Bakhar · Maratha · Later
-        |
-        v
-MECHANISM / ARGUMENT: Sabhasad Bakhar is a relatively early courtly Maratha narrative and is valuable for political memory and an elite perspective, but patronage and heroic form require checking.
-        |
-        v
-CONSEQUENCE / CONTRAST: Mughal Persian chronicles reveal imperial perception, campaign priorities and the vocabulary of rebel or bandit; that vocabulary is itself evidence of state perspective, not a neutral social description.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Forts, coins, seals, inscriptions and landscape show capacity, legitimacy and spatial organisation; they do not transparently narrate every meeting or battle.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sources, historiography and the fact-risk ledger comprises Sources, historiography and the fact-risk ledger as its core connected dimensions.
-```
-### 20. Live-source result and static UNESCO heritage linkage
+**Technical precision:** Heritage-to-history bridge: a rule that a current heritage listing or conservation notice may only be used to open or close an answer, never to supply the historical narrative, chronology, motive or institutional meaning that period sources and scholarship alone can establish.
 
-PRE-TEACH CHECKLIST: Book context was drawn first from Topic 23 basic and advanced Markdown, then checked against locally OCR-searchable Satish Chandra Part II and local official/OCR CSE papers. CA search covered 19 February 2026 to 19 August 2026 for official UNESCO, ASI, Ministry of Culture and Government of Maharashtra material on the Maratha Military Landscapes, named forts and conservation.
+**Answer-ready opening:** A live heritage source is a bounded bridge into the historical argument, never a substitute for it.
 
-CURRENT GAP: no material fort-specific official conservation plan, technical report or new policy dated within that six-month window was identified in the searched official sources. Do not manufacture a current-affairs event from general heritage pages. This absence does not erase a valid STATIC HERITAGE LINK.
+#### PARAGRAPH DEMONSTRATION
 
-FACT - UNESCO's World Heritage Centre lists the Maratha Military Landscapes of India as a 2025 inscription with twelve major fortifications, mostly in Maharashtra and one in Tamil Nadu: Salher, Shivneri, Lohgad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, Sindhudurg and Gingee. UNESCO describes a network built, adapted or expanded by the Marathas between the late seventeenth and early nineteenth centuries, located across mountainous and coastal terrain and linked to defence, trade protection and territorial control. This is STATIC HERITAGE LINK, not recent CA.
+**Claim:** Heritage recognition supports present conservation value and the importance of a networked landscape, but it is not independent proof of any specific seventeenth-century event or institution. **Evidence:** named evidence: UNESCO's World Heritage Centre lists the Maratha Military Landscapes of India as a 2025 inscription covering twelve major fortifications — Salher, Shivneri, Lohgad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, Sindhudurg and Gingee — describing a network built, adapted or expanded by the Marathas between the late seventeenth and early nineteenth centuries; a separate, dated PIB release of 16 March 2026 reports site-management and conservation arrangements for these forts, including ASI or state responsibility. **Analysis:** the two items must be kept apart by date and function: the 2025 UNESCO listing is a static heritage fact usable as a spatial/significance bridge, while the 2026 PIB item is a current conservation-administration update usable only as a current-affairs anchor, and neither substitutes for period evidence on tactics, numbers or institutions. **Qualification:** in an answer, use UNESCO or the conservation update only after finishing the historical argument from period sources and modern scholarship; neither proves every battle legend, administrative office, exact force size, or the institutional meaning of chauth or the jagirdari crisis.
 
-The inference must be bounded. Heritage recognition supports present conservation value and the importance of a networked landscape. It is not independent proof of every battle legend, administrative office or claimed military number. In an answer, use UNESCO as a current bridge only after finishing the historical argument from period sources and modern scholarship.
+UNESCO's World Heritage Centre lists the Maratha Military Landscapes of India as a 2025 inscription with twelve major fortifications, mostly in Maharashtra and one in Tamil Nadu: Salher, Shivneri, Lohgad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, Sindhudurg and Gingee. UNESCO describes a network built, adapted or expanded by the Marathas between the late seventeenth and early nineteenth centuries, located across mountainous and coastal terrain and linked to defence, trade protection and territorial control. This is a static heritage fact, not a recent current-affairs event, and it supports present conservation value and the importance of a networked landscape without independently proving any specific seventeenth-century tactical episode, administrative office or claimed military number.
 
+Separately, and later in date, a Government of India (PIB) release of 16 March 2026 reports site-management and conservation arrangements for the same twelve Maratha Military Landscapes forts, including ASI or state responsibility for upkeep. This 2026 item is a dated current-affairs anchor about present-day heritage administration; it must not be merged with the 2025 UNESCO listing or presented as if it were seventeenth-century evidence.
 
-![Visual 76: UNESCO twelve-component static heritage link](assets/76_76_unesco_component_map.png)
+In an answer, use either source only as a bridge — after the historical argument is complete from period sources and modern scholarship — to show that the topic remains institutionally and publicly significant today. Historical chronology, causation, attribution and institutional claims remain controlled by period sources and explicit source criticism, not by a heritage listing or a conservation press note.
 
-*Visual 76: UNESCO twelve-component static heritage link. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Keywords (use each once in your own recall sentence):** UNESCO's 2025 Maratha Military Landscapes listing, twelve named component forts, 2026 PIB conservation/site-management update, heritage-to-history evidentiary boundary, spatial/defence-network significance
 
-![Visual 77: heritage recognition is not event-proof](assets/77_77_heritage_history.png)
-
-*Visual 77: heritage recognition is not event-proof. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-### SESSION 20 — BOUNDED LIVE LINKAGE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** These sources are used only as bounded heritage and spatial evidence.
-
-**Technical definition:** The live page is a heritage and source-method bridge only.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> These sources are used only as bounded heritage and spatial evidence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Bounded live linkage**
-- **These sources**
-- **These**
-- **They**
-- **The live page**
-
-**How to use them:** Frame the answer through Bounded live linkage; define These sources, connect These with They to explain the mechanism, and use The live page for the decisive comparison or qualification.
-
-PIB's 16 March 2026 release reports site-management and conservation arrangements for the twelve Maratha Military Landscapes forts, including ASI or state responsibility and site management. UNESCO identifies twelve forts, including Raigad, Shivneri and Sindhudurg, as a strategically located network supporting defence, trade protection and territorial control. These sources are used only as bounded heritage and spatial evidence. They do not prove every seventeenth-century tactical episode, modern nationalism, exact force sizes, or the institutional meaning of chauth or the jagirdari crisis.
-
-The live page is a heritage and source-method bridge only. Historical chronology, causation, attribution and institutional claims remain controlled by repository Markdown, OCR-searchable books and explicit source criticism.
-
-#### CLOSING RECALL FLOW — BOUNDED LIVE LINKAGE
-
-```text
-START / CONCEPT: Bounded live linkage
-        |
-        v
-EXACT TERMS: Bounded live linkage · These sources · These · They · The live page
-        |
-        v
-MECHANISM / ARGUMENT: The live page is a heritage and source-method bridge only.
-        |
-        v
-CONSEQUENCE / CONTRAST: They do not prove every seventeenth-century tactical episode, modern nationalism, exact force sizes, or the institutional meaning of chauth or the jagirdari crisis.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: they do not prove every seventeenth-century tactical episode, modern nationalism, exact force sizes, or...
-        |
-        v
-ANSWER-GRABBING FORMULATION: These sources are used only as bounded heritage and spatial evidence.
-```
-### MEDIEVAL DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** Shivaji's coronation (1674), fort network, revenue claims and military mobility formed a negotiated regional polity.
-- **Close distinction:** Ashtapradhan was not a modern cabinet; chauth and sardeshmukhi varied by claim, agreement, collection and territory.
-- **Evidence / interpretation limit:** Deccan war and jagirdari crisis interacted with succession, ecology and regional resistance but do not alone explain decline.
-
-### TOPIC 23 CLOSING MARATHA-DECCAN-JAGIR LEDGER
-
-Topic 23 owns western-Deccan ecology, Shahji, Shivaji's chronology and state,
-forts, Purandar/Agra, coronation, Ashtapradhan, revenue, chauth/sardeshmukhi,
-army/navy, Sambhaji-Rajaram-Tarabai, Aurangzeb after 1681, Bijapur/Golconda
-annexation, logistics and the acute jagirdari crisis. Topic 22 retains
-religious/Rajput policy; Topic 25 full post-1707 decline.
-
-Regional state formation joined Sahyadri passes, Maval infantry, Konkan coast,
-forts, deshmukh/village structures, Marathi networks and service mobility.
-Shahji's Ahmadnagar-Mughal-Bijapur career was mobile service politics, not a
-continuous national programme.
-
-Trace Torna/Rajgad/Kondana -> Javli 1656 -> Afzal Khan 1659 -> Shaista Khan
-1663 -> Surat 1664 -> Purandar 1665 -> Agra 1666 -> recovery/Surat 1670 ->
-coronation 1674 -> Karnataka/assessment -> death 1680 -> Aurangzeb south 1681
--> Bijapur 1686 -> Golconda 1687 -> Sambhaji 1689 -> Gingee/Rajaram ->
-Tarabai 1700 -> siege cycle -> 1707.
-
-Forts were treasury, store, refuge, pass, garrison, bargaining and sovereignty
-nodes requiring supply and local support. Purandar surrendered 23 forts and
-retained 12; Sambhaji received mansab 5000. Agra exposed incompatible status
-expectations. Coronation raised Shivaji among Maratha chiefs and asserted
-independent Kshatriya kingship without creating a modern nation-state.
-
-Ashtapradhan was eight ruler-responsible offices, not a cabinet. Shivaji curbed
-but did not abolish deshmukhs, mirasdars, jagir/mokasa or local negotiation.
-Annaji Datto's 1679 assessment and debated two-fifths-plus incidence require
-claim/realisation caution. Chauth was a one-fourth protection/political claim;
-sardeshmukhi a separate ten per cent superior-deshmukh claim.
-
-Ganimi kava, Mavali infantry, cavalry, intelligence, night movement and forts
-formed a mobile system, but Marathas also fought sieges and battles. The navy
-used Koli, Bhandari and Muslim seafarers for creek/coast, Sidi, trade and
-fort-support purposes; it was littoral, not blue-water.
-
-Sambhaji's 1689 execution removed a negotiable head and decentralised war.
-Rajaram's Gingee centre and Tarabai's post-1700 leadership connected dispersed
-commanders. Bijapur/Golconda annexation removed buffers and added forts,
-garrisons, nobles, soldiers and long communications. The 1700-05 capture-
-garrison-move-recapture loop produced declining returns.
-
-Jagirdari crisis combined be-jagiri, jama-hasil gap, unsettled paibaqi,
-inflated Deccan assessment, war disruption, parallel chauth, jagirdar private
-bargains, expanded elite claims, transfer corruption, thin contingents and
-zamindar/local power. Feedback ran from poor jagir to weak troops/harsh
-collection to resistance and still lower hasil. It was not only too many
-mansabdars and not total collapse by 1707.
-
-Direct Topic-23 CSE routes, 2018-2026: zero verified. The 2024 Bhatkal fort
-question belongs Topic 09; eighteenth-century Marathas Topic 25. Mains has no
-objective key.
-
-**Answer:** ecology/service -> fort network -> diplomacy/sovereignty ->
-institutions/fiscal claims -> successors -> annexation/logistics -> jagir
-feedback -> qualified regional-state and imperial-overextension verdict.
+**Recall flow:** Heritage recognition supports present conservation value and the importance of a networked landscape, but it is not independent proof of any specific seventeenth-century event or institution. -> UNESCO's 2025 Maratha Military Landscapes listing -> twelve named component forts -> 2026 PIB conservation/site-management update -> in an answer, use either source only as a bridge after the historical argument is complete, since neither independently proves any seventeenth-century tactic, office or institutional meaning.
 
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQs (20; key rotation A -> B -> C -> D repeated five times)
+Exactly 16 MCQs; correct-option rotation is A, B, C, D repeated 4 times (Q1=A, Q2=B, Q3=C, Q4=D, Q5=A, ...).
 
-Correct options are deliberately rotated by actual option placement, not by relabeling: A -> B -> C -> D through the full set. Read the explanation after attempting each item.
-
-![Visual 78: answer evidence spine](assets/78_78_mains_answer_spine.png)
-
-*Visual 78: answer evidence spine. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### Q1. Why is western Deccan geography relevant to Shivaji's rise?
-
+**Q1.** Why is western Deccan geography relevant to Shivaji's rise?
 - A. It offered routes, nodes and constraints that political organisation could exploit.
-
-- B. It prevented all Mughal movement.
-
+- B. It prevented all Mughal movement permanently.
 - C. It made diplomacy unnecessary.
-
 - D. It mechanically created a unified Maratha nation.
-
-**Answer: A.**
-**Explanation:** Terrain shaped choices, especially passes, forts and logistics. The closest distractor is the national-destiny claim, which confuses enabling conditions with automatic political unity.
-
-#### Q2. Which formulation best describes the early Murumbdev-Rajgad episode?
-
-- A. It was a Portuguese coastal fort.
-
-- B. It should distinguish development/refortification and renaming from a simple capture label.
-
-- C. It had no role in the Poona-Maval base.
-
-- D. It was obtained only after the 1665 treaty.
-
-**Answer: B.**
-**Explanation:** The discriminator is the action verb: Murumbdev's development as Rajgad is not the same claim as a clean capture. The 1665 option confuses the early fort phase with Purandar.
-
-#### Q3. What did the conquest of Javli in 1656 most directly change?
-
-- A. It transferred Surat customs to Shivaji.
-
-- B. It completed Mughal annexation of Bijapur.
-
-- C. It strengthened access from Maval toward Satara and the Konkan while eliminating a rival political position.
-
-- D. It created the Ashtapradhan as a cabinet.
-
-**Answer: C.**
-**Explanation:** Javli's importance is territorial and political: routes, manpower and the More challenge. The Surat option imports a separate commercial episode.
-
-#### Q4. Which statement is most defensible about Afzal Khan at Pratapgad?
-
-- A. Only supernatural explanation can explain the result.
-
-- B. Every contemporaneous source gives an identical sequence.
-
-- C. The episode ended all Bijapur-Maratha conflict.
-
-- D. The meeting involved mutual suspicion and armed precautions, while the exact first blow varies by source.
-
-**Answer: D.**
-**Explanation:** The correct approach separates a secure core from disputed sequencing. The 'identical source' distractor ignores courtly and later narrative variation.
-
-#### Q5. The 1663 Poona raid is best used as evidence that:
-
-- A. Mughal occupation could be vulnerable to local intelligence and surprise.
-
-- B. Shivaji had already conquered all Mughal India.
-
-- C. Artillery was irrelevant to early modern war.
-
-- D. No Mughal force remained in the Deccan.
-
-**Answer: A.**
-**Explanation:** It challenged the image of secure occupation, not the existence of Mughal power. The all-India option converts a raid into implausible territorial conquest.
-
-#### Q6. What is the safest reading of Surat's sack in 1664?
-
-- A. It was only a religious attack.
-
-- B. It affected a major commercial- imperial port and must be studied through source-specific claims.
-
-- C. It was a modern national tax collection.
-
-- D. European factory records are neutral totals of loot.
-
-**Answer: B.**
-**Explanation:** Surat linked commerce and imperial prestige. Factory records help but remain merchant sources, so the 'neutral totals' claim is the closest but wrong shortcut.
-
-#### Q7. Which Purandar term is securely retained in the topic evidence?
-
-- A. All 35 forts were permanently surrendered.
-
-- B. The treaty created an independent modern republic.
-
-- C. Shivaji ceded 23 forts, retained 12, and Sambhaji received mansab 5000.
-
-- D. No service obligation was involved.
-
-**Answer: C.**
-**Explanation:** The 23/12 division and Sambhaji's 5000 mansab anchor the treaty. 'All 35' confuses surrender language with the retained territorial base.
-
-#### Q8. Why is Purandar better described as an incorporation attempt than a final surrender?
-
-- A. It abolished Bijapur immediately.
-
-- B. It required Aurangzeb to abdicate.
-
-- C. It ended all later Mughal-Maratha contact.
-
-- D. It combined territorial concessions with service, mansab and continuing strategic bargaining.
-
-**Answer: D.**
-**Explanation:** The agreement tried to fit Shivaji into a Mughal-led forward policy. The 'ended contact' option misses Agra and renewed conflict.
-
-#### Q9. Which claim about Agra in 1666 is source-critical?
-
-- A. Escape after confinement is secure; basket or sweetmeat staging should be labelled a version.
-
-- B. No confinement occurred.
-
-- C. It was a coronation ceremony.
-
-- D. The event proves every later legend literally.
-
-**Answer: A.**
-**Explanation:** The distinction is event versus narrative detail. The literal-legend option treats later retelling as a court transcript.
-
-#### Q10. The 1674 coronation most directly expressed:
-
-- A. A twentieth-century nation-state constitution.
-
-- B. Sovereignty and status in contemporary political and ritual idiom.
-
-- C. The abolition of all Deccani borrowing.
-
-- D. A guarantee of universal acceptance of genealogy.
-
-**Answer: B.**
-**Explanation:** Coronation raised royal status and legitimacy; it was not modern independence. The genealogy option ignores visible status debate.
-
-#### Q11. Why is the Ashtapradhan not a modern cabinet?
-
-- A. It replaced fort administration entirely.
-
-- B. It had no named offices.
-
-- C. Its officers were individually responsible to the ruler and could hold non-modern combinations of duties.
-
-- D. It was elected by universal franchise.
-
-**Answer: C.**
-**Explanation:** The eight offices existed, but collective cabinet responsibility did not. The 'no named offices' distractor contradicts the office list.
-
-#### Q12. What is the best use of Annaji Datto's assessment?
-
-- A. As proof that every cultivator everywhere paid exactly two-fifths.
-
-- B. As proof that intermediaries disappeared.
-
-- C. As a navy-building programme.
-
-- D. As evidence of measurement-based state capacity with variable local incidence.
-
-**Answer: D.**
-**Explanation:** Assessment improves estimation, not uniform outcome. The exact universal rate option confuses a debated source claim with actual collection.
-
-#### Q13. How do chauth and sardeshmukhi differ?
-
-- A. Chauth is a one-quarter contribution claim; sardeshmukhi is an additional ten-percent superior-deshmukh claim.
-
-- B. Both are names for mansab rank.
-
-- C. Sardeshmukhi is a sea-fort tax only.
-
-- D. Both are exactly the same one-quarter levy.
-
-**Answer: A.**
-**Explanation:** The percentage and asserted rationale distinguish the two. The same-levy option is the standard Prelims trap.
-
-#### Q14. Which description fits ganimi kava best?
-
-- A. A modern ideology of mass revolution.
-
-- B. A repertoire of mobility, intelligence, surprise and supply disruption.
-
-- C. A permanent refusal to use forts.
-
-- D. A doctrine that cavalry never mattered.
-
-**Answer: B.**
-**Explanation:** The term should not be modernised into ideology. Fort support and cavalry both remain within the operational repertoire.
-
-#### Q15. Why should Shivaji's navy not be called a blue-water empire navy?
-
-- A. It had no relationship to forts.
-
-- B. It used no local sailors.
-
-- C. Its evidence supports regional coastal and creek defence, trade and pressure rather than oceanic supremacy.
-
-- D. It existed only after 1707.
-
-**Answer: C.**
-**Explanation:** Regional maritime capacity is significant without imagined oceanic scale. The 'only after 1707' option breaks chronology.
-
-#### Q16. Which formulation best captures religious legitimacy under Shivaji?
-
-- A. Royal ritual made diplomatic pragmatism impossible.
-
-- B. Administration was exclusively Hindu and created from nothing.
-
-- C. All sources prove uniform tolerance.
-
-- D. Hindu royal idiom coexisted with Deccani-Persianate borrowing and differentiated personnel.
-
-**Answer: D.**
-**Explanation:** The answer holds idiom and institutional plurality together. Exclusivity is the closest ideological oversimplification.
-
-#### Q17. What was the consequence of annexing Bijapur and Golconda?
-
-- A. The empire gained territory and claimants while losing buffers and adding administrative burdens.
-
-- B. It converted jama into hasil without collection.
-
-- C. It automatically ended Maratha resistance.
-
-- D. It removed all need for garrisons.
-
-**Answer: A.**
-**Explanation:** Annexation widened sovereign claim but deepened the governing problem. The jama-hasil option mistakes paper assessment for realised resources.
-
-#### Q18. Why did Sambhaji's execution not end resistance?
-
-- A. No fiscal collection continued.
-
-- B. It removed a recognised head and helped shift war toward dispersed commanders and networks.
-
-- C. All forts surrendered immediately.
-
-- D. Aurangzeb withdrew from the Deccan.
-
-**Answer: B.**
-**Explanation:** Decentralisation made resistance harder to negotiate, not impossible. The immediate-fort-surrender claim invents a total collapse.
-
-#### Q19. What is the analytical value of Tarabai's role after 1700?
-
-- A. She had no connection with administration.
-
-- B. She ended all Mughal military capacity in one battle.
-
-- C. It shows political leadership in regency, legitimacy and resistance rather than symbolic widowhood.
-
-- D. She belongs only to a nineteenth-century reform story.
-
-**Answer: C.**
-**Explanation:** Tarabai organised a continuing political-military field. The one-battle option reproduces a hero-story rather than a mechanism.
-
-#### Q20. What does jama-hasil mismatch mean?
-
-- A. It proves immediate state bankruptcy.
-
-- B. Hasil is another word for coronation.
-
-- C. Every jagir had no assessed revenue.
-
-- D. Assessed revenue can exceed what is actually collected, weakening service and troop maintenance.
-
-**Answer: D.**
-**Explanation:** The gap explains fiscal strain; it does not prove total collapse. The bankruptcy claim ignores continued imperial capacity.
-
-### Broad MCQs (44; key rotation A -> B -> A -> D repeated eleven times)
-
-Correct options are deliberately rotated by actual option placement, not by relabeling: A -> B -> A -> D through the full set. Read the explanation after attempting each item.
-
-![Visual 79: rapid recall before practice](assets/79_79_rapid_recall.png)
-
-*Visual 79: rapid recall before practice. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### Q21. Which feature best explains why forts mattered in state-building?
-
-- A. They linked garrison, store, communication, refuge and local command.
-
-- B. They eliminated need for revenue.
-
-- C. They were permanent symbols that never changed hands.
-
-- D. They were decorative residences only.
-
-**Answer: A.**
-**Explanation:** A fort was a multi-function node. The 'never changed hands' distractor ignores siege and recapture cycles.
-
-#### Q22. Which actor should not be erased from Maratha mobilisation?
-
-- A. No local intermediary existed.
-
-- B. Deshmukhs and village elites with their own hereditary and local interests.
-
-- C. Only Mughal officials mattered.
-
-- D. Only a homogeneous warrior caste mattered.
-
-**Answer: B.**
-**Explanation:** Mobilisation used differentiated social actors. Homogeneity is the tempting but false shortcut.
-
-#### Q23. Why is Shahji's career relevant?
-
-- A. It began after Shivaji's coronation.
-
-- B. It makes Jija Bai historically irrelevant.
-
-- C. It reveals shifting service across Deccan courts and a Poona/Karnataka political setting.
-
-- D. It proves a fixed anti-Mughal identity from birth.
-
-**Answer: C.**
-**Explanation:** Shahji's mobility is evidence of a service world, not a prewritten nationalism. The fixed identity option overreads later outcome.
-
-#### Q24. What is the best source-critical use of Bhakti context?
-
-- A. Every saint commanded the army.
-
-- B. It replaces administrative records.
-
-- C. It proves all groups had identical interests.
-
-- D. It can illuminate a cultural setting but not automatically prove a direct state programme.
-
-**Answer: D.**
-**Explanation:** Devotional literature does not transparently dictate policy. The administrative-record option confuses genres.
-
-#### Q25. Why does the More-family episode at Javli matter?
-
-- A. It shows territorial consolidation through elimination of a rival, route control and manpower access.
-
-- B. It was only a coastal naval battle.
-
-- C. It created the 1689 execution.
-
-- D. It was a Mughal court ritual.
-
-**Answer: A.**
-**Explanation:** Javli joined political coercion to strategic geography. The naval distractor mislocates its Maval-Satara-Konkkan logic.
-
-#### Q26. What is a sound inference from Pratapgad?
-
-- A. Terrain alone guarantees victory.
-
-- B. A prepared local force could convert terrain and intelligence into political advantage.
-
-- C. All later sources are equally reliable.
-
-- D. Bijapur ceased to exist in 1659.
-
-**Answer: B.**
-**Explanation:** The mechanism combines preparation, place and organisation. Terrain determinism is the closest but inadequate explanation.
-
-#### Q27. Which statement about Pavan Khind is appropriate?
-
-- A. Date it after 1707.
-
-- B. Treat every devotional retelling as court record.
-
-- C. Separate the historical withdrawal context from later tradition's detailed narrative.
-
-- D. Reject all memory as worthless.
-
-**Answer: C.**
-**Explanation:** Source qualification preserves both event and memory without flattening them. 'All memory worthless' is the opposite error.
-
-#### Q28. Why did Shaista Khan's large force face a strategic problem?
-
-- A. It had no cavalry.
-
-- B. It was stationed in Bengal.
-
-- C. It could not use any forts.
-
-- D. Occupation required information and control across terrain while other fronts competed for attention.
-
-**Answer: D.**
-**Explanation:** Scale does not equal local control. The Bengal option simply removes the campaign from its setting.
-
-#### Q29. What can European factory records contribute for Surat?
-
-- A. Merchant-facing evidence of commercial shock and rumour, checked against their interests.
-
-- B. A proof that no Indian actors traded.
-
-- C. An automatically complete military archive.
-
-- D. A replacement for all Persian sources.
-
-**Answer: A.**
-**Explanation:** Factory records provide a commercial lens, not neutral total knowledge. The 'complete archive' option overstates genre reach.
-
-#### Q30. What did Jai Singh's policy toward Shivaji seek?
-
-- A. To avoid any Bijapur policy.
-
-- B. To combine pressure and accommodation within a forward Deccan strategy.
-
-- C. To abolish Mughal hierarchy immediately.
-
-- D. To make all forts independent.
-
-**Answer: B.**
-**Explanation:** Jai Singh saw use in incorporation and a Bijapur-oriented strategy. 'Avoid Bijapur' reverses the policy context.
-
-#### Q31. Which Purandar reading is erroneous?
-
-- A. It included Sambhaji's mansab.
-
-- B. It involved a territorial concession.
-
-- C. It was a permanent end to Mughal-Maratha conflict.
-
-- D. It retained a Shivaji base.
-
-**Answer: C.**
-**Explanation:** The permanent-end statement is wrong because Agra and later conflict followed. The other options identify why it was an incorporation attempt.
-
-#### Q32. What made rank at Agra politically important?
-
-- A. It settled jagir realisation.
-
-- B. Rank was a private matter with no political meaning.
-
-- C. It concerned only naval vessel size.
-
-- D. Court placement expressed the status relationship that Shivaji was contesting.
-
-**Answer: D.**
-**Explanation:** Court hierarchy was political grammar. The jagir option belongs to a different analytical arena.
-
-#### Q33. Which caution applies to the second coronation claim?
-
-- A. Mention it only with a verified source and stated ritual rationale.
-
-- B. Invent expenditure to show royal power.
-
-- C. Treat it as a modern election.
-
-- D. Assume it proves universal consent.
-
-**Answer: A.**
-**Explanation:** Ritual repetition needs source-specific explanation. Universal consent cannot be inferred from an elite ceremony.
-
-#### Q34. The southern expedition is best analysed as:
-
-- A. A proof the Deccan had no local rulers.
-
-- B. A move for strategic depth, resources and dynastic-political leverage.
-
-- C. A replacement for fort policy.
-
-- D. A full eighteenth-century confederacy history.
-
-**Answer: B.**
-**Explanation:** The episode expands southern reach but should remain bounded. Importing later confederacy history is an ownership error.
-
-#### Q35. Which office pair is correctly associated with justice and religious grants?
-
-- A. Peshwa and Senapati only.
-
-- B. Bargir and silhedar.
-
-- C. Nyayadhish and Panditrao.
-
-- D. Havaldar and Koli.
-
-**Answer: C.**
-**Explanation:** Nyayadhish and Panditrao are differentiated offices. Bargir/silhedar are cavalry categories, a plausible but wrong pairing.
-
-#### Q36. Why is later Peshwa power a poor guide to seventeenth-century Ashtapradhan functioning?
-
-- A. It denies coronation happened.
-
-- B. It makes jama equal hasil.
-
-- C. It adds too many forts to a map.
-
-- D. It projects a later political balance backward onto ruler-centred offices.
-
-**Answer: D.**
-**Explanation:** Chronological projection is the error. The fiscal equation is unrelated to the office-function question.
-
-#### Q37. What is the function of divided fort offices?
-
-- A. They can create checks across command, records and stores.
-
-- B. They eliminate military command.
-
-- C. They make villages irrelevant.
-
-- D. They prove every fort used an identical constitution.
-
-**Answer: A.**
-**Explanation:** Checks are a useful model, but variation remains. Universal identical-chart claims exceed the evidence.
-
-#### Q38. Which statement fits local administration?
-
-- A. Forts alone collected all revenue.
-
-- B. Central orders moved through inherited local authority and negotiation.
-
-- C. Every deshmukh became a Mughal emperor.
-
-- D. All patils and kulkarnis disappeared.
-
-**Answer: B.**
-**Explanation:** The state used intermediaries rather than abolishing them. 'Forts alone' turns a node into an entire revenue system.
-
-#### Q39. What is the key caution about cash salary claims?
-
-- A. They mean no fort required stores.
-
-- B. They abolished agriculture.
-
-- C. They indicate a regular-troop preference in some contexts, not the disappearance of all local/service ties.
-
-- D. They prove all soldiers were cavalry.
-
-**Answer: C.**
-**Explanation:** Cash payment can enhance control without remaking all social relations. The agriculture distractor is a deliberately exaggerated inference.
-
-#### Q40. Why distinguish assessment from collection?
-
-- A. A rate is always uniform.
-
-- B. Collection occurs only at coronation.
-
-- C. Assessment has no relation to revenue.
-
-- D. A measured demand can remain unrealised because of locality, resistance and enforcement.
-
-**Answer: D.**
-**Explanation:** The chain from jama to hasil is the point. Uniform-rate reasoning mistakes administrative intention for actual incidence.
-
-#### Q41. What is a correct statement about deshmukhs?
-
-- A. Their power could be curbed and negotiated without being wholly abolished.
-
-- B. They were invented after 1707.
-
-- C. They were identical to all cultivators.
-
-- D. They had no local role.
-
-**Answer: A.**
-**Explanation:** Continuity plus constraint is more accurate than abolition. The 'identical cultivators' option removes a key intermediary distinction.
-
-#### Q42. Why is chauth not automatically sovereignty?
-
-- A. It was exactly sardeshmukhi.
-
-- B. A payment claim can operate amid overlapping authority and coercive bargaining.
-
-- C. It always ended Mughal officials' presence.
-
-- D. It was a Buddhist monastic levy.
-
-**Answer: B.**
-**Explanation:** Collection practice can erode authority without formal territorial transfer. The exactly-same option confuses chauth with sardeshmukhi.
-
-#### Q43. Which statement identifies sardeshmukhi?
-
-- A. A Mughal mansab of 5000.
-
-- B. A one-quarter naval customs duty.
-
-- C. An additional ten-percent claim justified by superior deshmukh right.
-
-- D. A fort commander title.
-
-**Answer: C.**
-**Explanation:** The ten-percent superior-right claim is the defining distinction. The 5000 distractor imports Sambhaji's mansab.
-
-#### Q44. What should a comparison of bargir and silhedar foreground?
-
-- A. A ban on cavalry movement.
-
-- B. A religious divide in all units.
-
-- C. An identical state-provided horse for both.
-
-- D. The relation of horse/equipment maintenance to military organisation.
-
-**Answer: D.**
-**Explanation:** Ownership/maintenance is the discriminator. Religious essentialism adds a division not supplied by the categories.
-
-#### Q45. Which statement best qualifies 'guerrilla warfare' here?
-
-- A. Use a period-sensitive repertoire of mobility rather than a modern ideological label.
-
-- B. It means never negotiating.
-
-- C. It means no intelligence was needed.
-
-- D. It makes naval strategy impossible.
-
-**Answer: A.**
-**Explanation:** Ganimi kava concerns tactical practice, not a full modern revolutionary ideology. 'Never negotiating' ignores Shivaji's diplomacy.
-
-#### Q46. What is the relationship between forts and mobility?
-
-- A. Forts prevent all intelligence gathering.
-
-- B. Fort stores and nodes can make rapid movement sustainable.
-
-- C. Mobility means forts were unnecessary.
-
-- D. Only coastal forts mattered.
-
-**Answer: B.**
-**Explanation:** Mobility needs logistical support. The unnecessary-fort claim misses the system relationship.
-
-#### Q47. What makes the Mughal-Maratha military comparison analytical?
-
-- A. It assumes all Mughals fought only on foot.
-
-- B. It ignores terrain and logistics.
-
-- C. It compares campaign logics and constraints rather than stereotypes of strong versus weak.
-
-- D. It declares artillery permanently useless.
-
-**Answer: C.**
-**Explanation:** A comparison asks where each system faced costs. The terrain-ignoring option destroys the very explanatory frame.
-
-#### Q48. Which coastal proposition is sound?
-
-- A. The coast had no relation to trade.
-
-- B. Only Europeans could navigate it.
-
-- C. All vessels had the same role.
-
-- D. Sea forts, creeks, customs and local sailors made the coast a political arena.
-
-**Answer: D.**
-**Explanation:** Coastal strategy joined commerce and defence. 'Only Europeans' erases Koli, Bhandari, Muslim and other local expertise.
-
-#### Q49. Why are vessel counts risky?
-
-- A. Fleet scale and terminology need documentary support and should not be inflated.
-
-- B. Counts prove every battle legend.
-
-- C. A coastal force equals a global empire.
-
-- D. No vessels existed.
-
-**Answer: A.**
-**Explanation:** Caution prevents blue-water mythmaking. The global-empire option turns regional capacity into an unsupported claim.
-
-#### Q50. What does Persianate borrowing demonstrate?
-
-- A. All personnel were religiously identical.
-
-- B. Shivaji's state adapted Deccani institutional resources alongside Hindu royal idiom.
-
-- C. No administration existed before 1674.
-
-- D. Royal idiom was absent.
-
-**Answer: B.**
-**Explanation:** Adaptation is compatible with indigenous sovereignty claims. The absent-royal-idiom choice is the opposite simplification.
-
-#### Q51. How should claims about protected religious sites be handled?
-
-- A. By treating every anecdote as uniform policy.
-
-- B. By refusing all source criticism.
-
-- C. By naming site, act, date, source genre and corroboration before generalising.
-
-- D. By using modern litigation as medieval proof.
-
-**Answer: C.**
-**Explanation:** Precise verbs and provenance matter. The uniform-policy option turns a local claim into an empire-wide conclusion.
-
-#### Q52. Why is a direct Bhakti-to-state claim risky?
-
-- A. It proves no Marathi world existed.
-
-- B. Bhakti had no cultural significance.
-
-- C. All literature is false.
-
-- D. Devotional context does not itself demonstrate a political command or programme.
-
-**Answer: D.**
-**Explanation:** The caution concerns inferential reach, not cultural irrelevance. 'No significance' is the straw-man alternative.
-
-#### Q53. What changed after Sambhaji's death?
-
-- A. Resistance could use decentralised command, fort and fiscal networks more diffusely.
-
-- B. Jinji vanished from strategy.
-
-- C. The Marathas ceased to collect revenue.
-
-- D. The Deccan became administratively simple.
-
-**Answer: A.**
-**Explanation:** Loss of a head did not erase infrastructure. The simplicity option reverses the decentralisation mechanism.
-
-#### Q54. Why did Jinji matter to Rajaram?
-
-- A. It was inside Surat port.
-
-- B. It offered distance and fortification as strategic depth against imperial concentration.
-
-- C. It ended need for all supplies.
-
-- D. It was a post-1707 British capital.
-
-**Answer: B.**
-**Explanation:** Strategic depth changes campaign geometry, not logistical needs. The no-supplies claim is an obvious but instructive false inference.
-
-#### Q55. What is historically important about Santaji and Dhanaji?
-
-- A. They fought only naval battles.
-
-- B. They made all local mediation vanish.
-
-- C. They illustrate pressure on communications and dispersed deployments within a networked war.
-
-- D. They were the two Ashtapradhan religious officers.
-
-**Answer: C.**
-**Explanation:** Their importance is operational, not office-list or exclusive naval role. The office distractor confuses military leaders with the council.
-
-#### Q56. What does Tarabai's regency demonstrate?
-
-- A. That no commanders mattered.
-
-- B. That succession ended in 1680.
-
-- C. That Mughal campaigning ceased in 1700.
-
-- D. Political agency in organising legitimacy, patronage and resistance after Rajaram's death.
-
-**Answer: D.**
-**Explanation:** Tarabai's leadership needs to be treated as action, not symbolism. The final distractor contradicts the fort-campaign phase.
-
-#### Q57. What is the analytical meaning of a siege-recapture cycle?
-
-- A. Tactical capture may yield weak strategic return when the adversary can recover nodes.
-
-- B. Every capture proves permanent sovereignty.
-
-- C. Only one side ever used forts.
-
-- D. Sieges require no logistics.
-
-**Answer: A.**
-**Explanation:** Cycles explain attrition and weak returns. Permanent-sovereignty is the map-colouring fallacy.
-
-#### Q58. Which is a defensible description of Aurangzeb's motivations?
-
-- A. No imperial aim existed.
-
-- B. Several aims - sovereignty, security, sultanate politics and Maratha subjugation - interacted.
-
-- C. Only one religious motive explains every decision.
-
-- D. The Deccan was outside Mughal concern.
-
-**Answer: B.**
-**Explanation:** Multi-causality is not evasion; it matches different policy arenas. The single-motive option is reductive.
-
-#### Q59. Why did annexation worsen administration?
-
-- A. Annexation removed local bargaining.
-
-- B. It shortened all communications.
-
-- C. New land and nobles added claims while distance, garrisons and low realisation added costs.
-
-- D. More territory always means more cash in hand.
-
-**Answer: C.**
-**Explanation:** Nominal expansion is not realised resource. The cash-in-hand claim mistakes jama for hasil.
-
-#### Q60. What makes a missed-settlement argument cautious?
-
-- A. It supplies exact unrecorded promises.
-
-- B. It claims history had only one inevitable path.
-
-- C. It removes all agency from Shivaji.
-
-- D. It identifies plausible alternatives while recognising autonomy, mistrust and uncertainty.
-
-**Answer: D.**
-**Explanation:** Counterfactuals must be bounded. Inevitable-path reasoning is the opposite of historical contingency.
-
-#### Q61. What does mansab describe in this context?
-
-- A. Rank and service obligation within Mughal administrative-military organisation.
-
-- B. A Maratha coastal fort.
-
-- C. A synonym for chauth.
-
-- D. The realised collection of a jagir.
-
-**Answer: A.**
-**Explanation:** Mansab is not jagir or hasil. The realised-collection option deliberately confuses rank with fiscal outcome.
-
-#### Q62. What does be-jagiri add beyond a count of nobles?
-
-- A. It means every noble was a cultivator.
-
-- B. It highlights shortage of assignable productive or usable revenue assignments.
-
-- C. It is the same as a navy shortage.
-
-- D. It proves no jagir had a jama.
-
-**Answer: B.**
-**Explanation:** Productivity and usability are central. The navy option makes a fiscal term absurdly literal.
-
-#### Q63. Why do inflated Deccan assessments matter?
-
-- A. They end transfer corruption.
-
-- B. They abolish garrison costs.
-
-- C. They can create nominal revenue claims that war-disturbed districts cannot realise.
-
-- D. They guarantee high hasil.
-
-**Answer: C.**
-**Explanation:** An inflated jama worsens the paper-realisation gap. Guaranteed-hasil is the exact misconception to avoid.
-
-#### Q64. How do private pacts affect sovereignty?
-
-- A. They prove local actors were passive.
-
-- B. They eliminate all coercion.
-
-- C. They automatically create legal independence.
-
-- D. They can secure local relief while normalising parallel fiscal authority.
-
-**Answer: D.**
-**Explanation:** Pacts are negotiated practical arrangements, not automatic formal cession. Passive-local-actor reasoning misses mediation.
-
-### Remedial MCQs (16; key rotation A -> B -> A -> D repeated four times)
-
-Correct options are deliberately rotated by actual option placement, not by relabeling: A -> B -> A -> D through the full set. Read the explanation after attempting each item.
-
-![Visual 75 repeat: fact-risk checks for distractors](assets/75_75_fact_risk_ledger.png)
-
-*Visual 75 repeat: fact-risk checks for distractors. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### Q65. Which answer rejects geography determinism?
-
-- A. Terrain enabled specific choices; organisation and local politics made them effective.
-
-- B. No actor made strategic decisions.
-
-- C. Mountains made revenue irrelevant.
-
-- D. The Sahyadris automatically created a nation.
-
-**Answer: A.**
-**Explanation:** The exact corrective is enablement without inevitability. The automatic-nation option is geography determinism in its clearest form.
-
-#### Q66. Which statement avoids proto-national inevitability?
-
-- A. Language alone made all interests identical.
-
-- B. Maratha political identity emerged through multiple service, landed, linguistic and conflict processes.
-
-- C. No political identity existed at all.
-
-- D. A modern nation-state existed unchanged in 1645.
-
-**Answer: B.**
-**Explanation:** The multiple-process formulation avoids both anachronism and denial. The unchanged-nation claim is the target error.
-
-#### Q67. What corrects the 'exclusively Hindu administration' claim?
-
-- A. No Muslim sailor or officer could serve.
-
-- B. All royal ritual was absent.
-
-- C. Hindu royal idiom coexisted with Deccani institutional borrowing and diverse personnel.
-
-- D. Every office was a Mughal invention.
-
-**Answer: C.**
-**Explanation:** Plurality is the key. The no-Muslim-service option is a factual and interpretive overclaim.
-
-#### Q68. Which early-fort wording is safest?
-
-- A. Treat Surat as an early hill fort.
-
-- B. Date all forts to the 1700s.
-
-- C. Call Rajgad a simple capture without qualification.
-
-- D. Describe Torna, Murumbdev/Rajgad and Kondana with capture/development distinctions.
-
-**Answer: D.**
-**Explanation:** Action-specific wording prevents a common factual error. Surat is a port, so its inclusion tests basic spatial discipline.
-
-#### Q69. How should an answer handle Afzal Khan's first blow?
-
-- A. State mutual suspicion and source variation rather than declare certainty.
-
-- B. Treat it as a revenue survey.
-
-- C. Say sources never mention the meeting.
-
-- D. Choose a version because it is more dramatic.
-
-**Answer: A.**
-**Explanation:** The issue is contested sequencing. Drama is not a criterion of historical certainty.
-
-#### Q70. What corrects 'Purandar was final surrender'?
-
-- A. It made Jai Singh a Maratha king.
-
-- B. It was a negotiated incorporation effort retaining a base and service relationship.
-
-- C. It abolished every fort.
-
-- D. It ended the Agra episode.
-
-**Answer: B.**
-**Explanation:** Retention and later conflict disprove final-surrender language. The Agra option reverses chronology.
-
-#### Q71. What corrects basket-escape certainty?
-
-- A. Use it as evidence for navy size.
-
-- B. Invent an exact basket count.
-
-- C. Escape is secure, but the basket/sweetmeat mechanism must be labelled a source version.
-
-- D. Deny the escape itself.
-
-**Answer: C.**
-**Explanation:** The method preserves event core while qualifying detail. Exact invented count is a classic false precision trap.
-
-#### Q72. Why is 'Ashtapradhan cabinet' inaccurate?
-
-- A. It was created by Tarabai after 1700.
-
-- B. The offices had no functions.
-
-- C. It means there were nine ministers.
-
-- D. It imports collective modern cabinet responsibility into ruler-centred offices.
-
-**Answer: D.**
-**Explanation:** The problem is analogy, not the existence of offices. Tarabai chronology is a separate error.
-
-#### Q73. What corrects 'deshmukhs and jagirs were abolished'?
-
-- A. Shivaji curbed and used intermediaries but did not erase hereditary rights or all assignments.
-
-- B. Revenue was no longer collected.
-
-- C. Every village became directly ruled without mediation.
-
-- D. Mirasdars ceased to exist everywhere.
-
-**Answer: A.**
-**Explanation:** Continuity with constraint is the discriminator. Direct-rule absolutism turns reform into an unproven revolution.
-
-#### Q74. How should the two-fifths figure be used?
-
-- A. As Sambhaji's mansab.
-
-- B. As a debated, source-specific assessment claim, not universal incidence.
-
-- C. As exact proof for every village.
-
-- D. As a naval levy.
-
-**Answer: B.**
-**Explanation:** The number needs context and qualification. Universalisation is the test's intended error.
-
-#### Q75. Which correction separates chauth from sardeshmukhi?
-
-- A. Neither involved fiscal claims.
-
-- B. Both are fort ranks.
-
-- C. Chauth is one-quarter; sardeshmukhi is an additional ten-percent claim.
-
-- D. Both mean the same one-quarter amount.
-
-**Answer: C.**
-**Explanation:** The two rates and rationales are distinct. 'Same amount' is the standard close distractor.
-
-#### Q76. Which correction avoids reducing chauth to sovereignty or plunder only?
-
-- A. It had no collectors.
-
-- B. It always settled lawful title.
-
-- C. It was entirely voluntary charity.
-
-- D. It functioned through protection claims, coercion and overlapping political authority.
-
-**Answer: D.**
-**Explanation:** The answer keeps bargaining and coercion together. The lawful-title claim makes collection mechanically sovereign.
-
-#### Q77. What corrects the blue-water navy myth?
-
-- A. The evidence supports regional coastal capability, not oceanic empire-scale power.
-
-- B. Every vessel could cross the Atlantic.
-
-- C. Sea forts had no strategic role.
-
-- D. Local sailors did not matter.
-
-**Answer: A.**
-**Explanation:** Scale is the issue, not absence. Atlantic capability is an anachronistic exaggeration.
-
-#### Q78. What corrects 'Sambhaji's execution ended resistance'?
-
-- A. No forts were used again.
-
-- B. It removed a head while making resistance more decentralised and difficult to negotiate.
-
-- C. Aurangzeb then left the Deccan.
-
-- D. All commanders disappeared.
-
-**Answer: B.**
-**Explanation:** The causal result is diffusion, not extinction. The no-forts option ignores the continuing fort war.
-
-#### Q79. What corrects 'annexation automatically strengthened the empire'?
-
-- A. It ended logistics.
-
-- B. It guaranteed high realised revenue.
-
-- C. It increased claims and territory while removing buffers and multiplying costs.
-
-- D. It eliminated local enemies.
-
-**Answer: C.**
-**Explanation:** The gain-cost paradox is the intended insight. Guaranteed revenue confuses acquisition with collection.
-
-#### Q80. What corrects 'jagirdari crisis means only too many nobles or instant collapse'?
-
-- A. It had no link to the Deccan war.
-
-- B. It proves total bankruptcy in one year.
-
-- C. It was a single-cause arithmetic shortage.
-
-- D. It joined jagir quality, jama-hasil gaps, war, resistance, transfers and troop maintenance strain.
-
-**Answer: D.**
-**Explanation:** The crisis is multi-causal and maturational. The one-year-bankruptcy choice turns structural strain into a cartoon.
+**Answer:** A
+**Explanation:** Terrain shaped choices, especially passes, forts and logistics. The closest distractor confuses enabling conditions with automatic national unity.
+
+**Q2.** Which formulation best describes Shahji Bhonsle's career?
+- A. A continuous anti-Mughal hereditary crusade later inherited by Shivaji.
+- B. Mobile service politics across Nizam Shahi, Bijapur and Mughal establishments, not a hereditary national programme.
+- C. Permanent, exclusive service to Golconda alone.
+- D. A purely ceremonial role with no territorial base.
+**Answer:** B
+**Explanation:** Shahji's shifting service commitments, including support for a Nizam Shahi claimant, show mobility under pressure, not proto-nationalism.
+
+**Q3.** What did the conquest of Javli in 1656 most directly change?
+- A. It abolished all hereditary local rights in the Deccan.
+- B. It created a permanent naval base.
+- C. It removed the More family's political position and opened Maval-Satara-Konkan routes.
+- D. It ended Bijapur's involvement in the region entirely.
+**Answer:** C
+**Explanation:** Javli's fall converted a rival's position into territorial capacity; it did not erase local rights or Bijapur's wider presence.
+
+**Q4.** Which statement is most defensible about Afzal Khan at Pratapgad, 1659?
+- A. Every dramatic detail in later retellings is independently verified.
+- B. The episode is entirely fictional invention.
+- C. Bijapur's power collapsed completely and immediately afterward.
+- D. A secure core (mutual suspicion, Afzal Khan's death, Maratha gains) is certain; the exact first blow is genre-dependent.
+**Answer:** D
+**Explanation:** The encounter's core outcome is secure; the vivid blow-by-blow sequence depends on later bakhar genre, not primary certainty.
+
+**Q5.** What is the safest reading of the Treaty of Purandar, 1665?
+- A. An attempted incorporation transferring 23 of 35 forts, retaining 12, with Sambhaji granted mansab 5000.
+- B. A final, unchangeable settlement ending all conflict.
+- C. A total, unconditional Maratha surrender of sovereignty.
+- D. An agreement with no fort or rank provisions at all.
+**Answer:** A
+**Explanation:** Purandar made Shivaji a subordinate ally while he retained a base and agency; it was not final or unconditional.
+
+**Q6.** Which claim about Agra in 1666 is source-critical?
+- A. The basket-escape detail is settled beyond any source debate.
+- B. Court placement, rank dispute and detention created a prestige crisis that Shivaji escaped.
+- C. Aurangzeb had already decided in advance to execute Shivaji.
+- D. The visit permanently ended all Mughal-Maratha contact.
+**Answer:** B
+**Explanation:** The crisis and escape are secure; the exact escape method carries variable, labelled source weight, and contact continued afterward.
+
+**Q7.** What did the 1674 coronation at Raigad most directly express?
+- A. A declaration of modern parliamentary democracy.
+- B. The founding of an exclusively Hindu bureaucratic state.
+- C. A recognised sovereign status validated by Gaga Bhatta, with its own royal era for dating documents.
+- D. A ceremonial event with no political or dating consequence.
+**Answer:** C
+**Explanation:** Coronation asserted Kshatriya kingship and founded a royal era; it did not create a modern nation-state or communal administration.
+
+**Q8.** Why is the Ashtapradhan not a modern cabinet?
+- A. Because it had fewer than three named offices.
+- B. Because it existed only after Shivaji's death.
+- C. Because it excluded all military functions from every office.
+- D. Its eight officers were individually responsible to the ruler, not collectively responsible to a legislature.
+**Answer:** D
+**Explanation:** Individual ruler-responsibility, with several officers also holding military duties, is the key structural difference from a modern cabinet.
+
+**Q9.** What is the best use of Annaji Datto's revenue assessment, c. 1679?
+- A. It measured and classified land, strengthening estimation, but assessment is not the same as realised collection.
+- B. It proves a single uniform Deccan-wide tax rate applied everywhere.
+- C. It shows Shivaji abolished all hereditary revenue rights.
+- D. It is evidence of a fully cash-based modern treasury.
+**Answer:** A
+**Explanation:** Assessment (jama) and realised collection (hasil) must stay distinct; the two-fifths figure is source-specific, not a universal law.
+
+**Q10.** How do chauth and sardeshmukhi differ?
+- A. Both terms describe the same single twenty-five-per-cent levy.
+- B. Chauth was a one-fourth protection-linked claim; sardeshmukhi was a separate ten-per-cent superior-deshmukh claim.
+- C. Chauth applied only to sea trade and sardeshmukhi only to forts.
+- D. Sardeshmukhi preceded chauth by two centuries and replaced it.
+**Answer:** B
+**Explanation:** The two claims were distinct in rate and justification and must never be merged into one label.
+
+**Q11.** Which formulation best fits Shivaji's military system?
+- A. An all-cash professional army with no plunder or local assignment.
+- B. A force that only ever avoided sieges and pitched battles.
+- C. A mixed force of cash-paid regulars, plunder shares and local assignments using ganimi kava alongside sieges and battles.
+- D. A navy-only force with no land component.
+**Answer:** C
+**Explanation:** Remuneration was mixed, and mobile tactics coexisted with siege-holding (Panhala) and set battle (Salher).
+
+**Q12.** Why should Shivaji's navy not be called a blue-water empire navy?
+- A. Because it had no ships at all.
+- B. Because it operated only against the Mughals and never the Sidis.
+- C. Because it was administratively identical to the Ashtapradhan.
+- D. It was a regional littoral force of gunboats, grabs and gallivats based at forts like Sindhudurg for coastal defence and trade protection.
+**Answer:** D
+**Explanation:** Coastal defence, anti-Sidi operations and trade protection describe a littoral capacity, not command of the open ocean.
+
+**Q13.** Which formulation best captures religious legitimacy under Shivaji?
+- A. A genuine Hindu royal idiom coexisted with Persianate institutions and Muslim officers, not an exclusive Hindu-state formula.
+- B. An exclusively Hindu administration with no Muslim personnel.
+- C. A purely secular state with no religious idiom at all.
+- D. A state whose legitimacy rested only on Bhakti poetry.
+**Answer:** A
+**Explanation:** Idiom, institutions and personnel are separate evidentiary categories that must be assessed together, not reduced to one formula.
+
+**Q14.** Why did Sambhaji's execution in 1689 not end Maratha resistance?
+- A. Because Sambhaji had already abdicated years earlier.
+- B. It removed a recognised negotiating head but shifted resistance toward dispersed commanders, forts and fiscal claims.
+- C. Because Aurangzeb immediately withdrew from the Deccan.
+- D. Because the Marathas had no other leaders remaining.
+**Answer:** B
+**Explanation:** Decapitation of leadership decentralised, rather than ended, a war sustained by multiple commanders and networks.
+
+**Q15.** What is the correct sequence for Gingee (Jinji)?
+- A. Gingee fell in 1689 with Rajaram captured inside it.
+- B. Gingee was never besieged by Mughal forces.
+- C. Rajaram escaped there for strategic depth; the fort fell in 1698 only after Rajaram himself had already escaped.
+- D. Gingee's fall ended all Maratha resistance in 1698.
+**Answer:** C
+**Explanation:** Distinguishing the fort's fall from Rajaram's person avoids the common error of conflating the two events.
+
+**Q16.** What does the jagirdari crisis mean in Topic 23?
+- A. Only an arithmetic excess of mansabdars over jagirs.
+- B. A single decision by Aurangzeb with no prior roots.
+- C. Total bureaucratic collapse completed by 1690.
+- D. A multi-causal gap combining rank inflation, be-jagiri, the jama-hasil gap, paibaqi ambiguity, war disruption and administrative strain.
+**Answer:** D
+**Explanation:** Reducing the crisis to one cause or one date misses its layered fiscal, administrative and military mechanism.
 
 ## PYQS AND ANSWER PRACTICE
 
-### PART IX - PRACTICE AND ANSWER WRITING
+### Verified PYQ Ledger, 2018-2026
 
-### Transparent PYQ audit and route decision
+| Year | Exam | Item | Routing | Marks/word-count | Key status |
+|---|---|---|---|---|---|
+| 2026 | Prelims/GS-I | No verified Topic-23 item located. | Not applicable — absence verified against the source-verification pass for this cycle. | — | No official key applicable (no verified question). |
+| 2024 | Prelims | Bhatkal (coastal Karnataka trade-port item). | Routed to Topic 09 (Indian Ocean trade/ports), not Topic 23 — Bhatkal's routing is a trade-history point, not a Maratha-Deccan one. | Prelims, marks not item-stated (word-count field not applicable to Prelims). | Official key exists for the cycle; routed away from Topic 23 on subject-matter grounds. |
+| 2022 | Prelims | Goa/Bijapur-linked options in a Portuguese/European-settlements question. | Routed to Modern-era European-settlements coverage, not Topic 23 — the tested content concerned European coastal settlement, not Maratha-Deccan state formation. | Prelims, marks not item-stated. | Official key exists for the cycle; routed away from Topic 23 on subject-matter grounds. |
+| 2019 | Prelims | Jagirdar/Zamindar distinction item. | Routed to Topic 24 (Mughal administration/society-economy), not Topic 23 — the tested distinction is a general Mughal-administration term, not the Deccan jagirdari-crisis mechanism. | Prelims, marks not item-stated. | Official key exists for the cycle; routed away from Topic 23 on subject-matter grounds. |
+| 2018 | Prelims | A question using the term 'Shivaji' in a non-Maratha (Modern-era) context. | Routed to Modern Indian History — a false keyword hit; the question's actual subject was a later-period figure/movement, not the seventeenth-century Maratha state. | Prelims, marks not item-stated. | Official key exists for the cycle; routed away from Topic 23 as a false keyword match. |
 
-**Audit scope:** Local official/OCR CSE Prelims and GS-I material for 2018-2026, the repository routing ledgers, and available official answer-key material were searched for exact direct questions on Shivaji, Maratha administration, Ashtapradhan, chauth/sardeshmukhi, forts, Purandar, coronation, navy, Sambhaji, Aurangzeb's Deccan and jagirdari crisis.
+No verified direct Topic-23 PYQ exists for 2018-2026, and no relevant 2026 item was found; only routing-ledger evidence for adjacent, non-Topic-23 items above is stated. Older-paper claims here rest on routing-ledger evidence only, not on independent inspection of the original papers.
 
-**Result:** No direct verified CSE 2018-2026 owner PYQ was located for this Topic 23 cluster. The routing ledgers do not assign a direct question to Topic 23; nearby generic Maratha Confederacy/eighteenth-century, UNESCO/current-affairs, Deccan geography and the 2024 Bhatkal-fort question belong elsewhere and are deliberately not misrouted. Local OCR searching also found no exact direct wording in the available official paper corpus.
+### Six Original Solved Mains Answers
 
-**Workbook policy consequence:** There is no fabricated 'official PYQ' or unofficial wording dressed up as one. No official key is claimed. The exercise set below is original practice, clearly marked as such. If a future direct question is added, preserve original option order and label any key as INFERRED ANSWER - NOT OFFICIALLY VERIFIED unless an official key is present.
+### Mains 1 — State formation / forts (10 marks)
 
-**Adjacent evidence, not PYQ substitution:** Satish Chandra's interpretation of Purandar/Agra, the Deccan war and the jagirdari mechanism is used for analytical practice. It is not a claim that UPSC has asked a word-for-word question on this topic.
+**Question:** Examine the role of hill forts in structuring Maratha state formation under Shivaji.
 
-### Examiner-grade solved Mains practice (12 answers)
+**Demand decoding:** The demand word 'examine' requires a reasoned account of function, not a list; the question is bounded to forts as a structuring device, not a full biography.
 
-![Visual 78: examiner-grade answer spine](assets/78_78_mains_answer_spine.png)
+**Executable plan:** 1) State the forts-as-network claim. 2) Give three named functions with evidence (Javli/Purandar/Panhala). 3) Add the qualification that forts alone did not suffice. 4) Close with a verdict.
 
-*Visual 78: examiner-grade answer spine. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+**Model answer** (150 words):
 
-#### Mains 1 - 10 marks | 150 words
+Hill forts gave Shivaji's early state a repeatable operational structure rather than a single capital-centred base. The conquest of Javli in 1656 removed the More family's control and opened Maval-Konkan routes, converting a contested pocket into a linked chain of garrisoned points. Purandar functioned as a negotiated strategic asset in 1665, when 23 of 35 forts passed to Mughal control while 12 were retained, showing forts as bargaining counters, not just walls. Panhala's 1660 siege and later recovery show forts sustaining defence and supply, not only shelter for retreat. Held forts allowed storage, intelligence and short-radius movement, letting a small core project authority over a wider, discontinuous territory. This capacity was necessary but not sufficient: forts needed garrisons, revenue and negotiated loyalty from deshmukhs and Mavali households to remain useful, and Purandar shows fort-holding itself was subject to negotiation and reversal. Forts therefore structured, without alone creating, Maratha state formation.
 
-**Question:** Explain how the ecology of the western Deccan contributed to, but did not determine, Shivaji's rise.
+**Marks-rationale (evidence-based):** Marks reward three distinct, named fort-linked functions (route control, negotiated asset, siege/defence) plus the explicit qualification that forts required garrisons/loyalty/revenue to matter; an answer naming only one fort or treating forts as sufficient on their own loses marks.
 
-**Directive alignment:** Explain a conditional contribution, then reject determinism.
+**Answer-specific improvement:** A weaker answer would describe forts only as passive shelters; strengthen it by naming the specific mechanism (route control, bargaining counter, siege-defence) each fort illustrates.
 
-**Introduction:** The western Deccan supplied an operational setting rather than an automatic political outcome. Sahyadri ridges, Maval valleys, Konkan creeks and passes altered the cost of movement, supply and surveillance.
+### Mains 2 — Sovereignty / administration (10 marks)
 
-**Claim - evidence - analysis:** First, hill forts such as the early Poona-Maval nodes linked defensive height to stores, garrisons and signals. This made short, informed movement possible; it did not make every hill-holder sovereign. Second, Javli in 1656 mattered because control over a rival political position opened routes toward Satara and the Konkan. The evidence shows terrain became useful only when combined with coercion and local recruitment. Third, the Konkan coast connected forts, creeks, customs and maritime rivals, creating a coastal dimension to state capacity.
+**Question:** Discuss how the 1674 coronation and the Ashtapradhan together expressed Shivaji's claim to sovereign authority.
 
-**Qualification:** Bijapur's distractions, Shahji's service-world connections, deshmukh and village networks, negotiations and fiscal organisation are indispensable. The same landscape also contained rival chiefs and imperial armies. Geography neither explains a homogeneous 'Maratha people' nor makes diplomacy superfluous.
+**Demand decoding:** 'Discuss' requires linking two named institutions (coronation, Ashtapradhan) to one shared claim (sovereignty), not describing each in isolation.
 
-**Verdict:** Shivaji converted ecological advantages into a political network through forts, information, local mediation and revenue; ecology enabled the repertoire, while organisation made it durable.
+**Executable plan:** 1) State the joint-claim thesis. 2) Coronation evidence: Gaga Bhatta, Kshatriya status, royal era. 3) Ashtapradhan evidence: eight ruler-responsible offices. 4) Qualify against modern-state or cabinet analogy. 5) Verdict.
 
-**Why this earns marks:** It answers the conditional directive, uses named spatial evidence and explicitly blocks geography determinism.
+**Model answer** (147 words):
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how the ecology of the western Deccan contributed to, but did not determine,…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+The 1674 Raigad coronation and the Ashtapradhan together converted military success into a recognised claim to sovereign authority. Gaga Bhatta's validation of Kshatriya status let Shivaji be crowned rather than remain a subordinate chief, and the new royal era (Rajyabhisheka Shaka) let documents and coins be dated from the ruler's reign, a mark of asserted sovereignty. Alongside this ceremonial claim, the Ashtapradhan gave it administrative substance: eight officers, such as Peshwa, Amatya, Senapati and Nyayadhish, individually responsible to the ruler, covered finance, justice, correspondence and military command. This pairing shows sovereignty asserted in idiom and institution, not ceremony alone. The structure is not a modern constitutional monarchy or collective cabinet: offices were individually answerable to Shivaji, several combined civil and military duties, and no legislature existed. The coronation and council are best read as a regional, early-modern assertion of kingship through ritual legitimacy and functionally divided administration.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Marks-rationale (evidence-based):** Full marks require both institutions linked to one claim, at least one named office beyond Peshwa, and the explicit anti-cabinet qualification; describing the coronation alone or listing all eight offices without the sovereignty link loses marks.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Answer-specific improvement:** If an answer treats the Ashtapradhan as a modern cabinet, correct it by stressing individual ruler-responsibility rather than collective legislative accountability.
 
-**How to improve this answer:** For “Explain how the ecology of the western Deccan contributed to, but did not determine,…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### Mains 3 — Military-fiscal structure (20 marks)
 
-#### Mains 2 - 15 marks | 250 words
+**Question:** Analyse the military-fiscal structure that sustained Maratha state power under Shivaji, with reference to the army, the navy and revenue claims.
 
-**Question:** Assess the role of forts in Shivaji's state-building.
+**Demand decoding:** 'Analyse' demands causal linkage between military organisation and fiscal claims, covering all three named elements (army, navy, revenue), not a description of any one alone.
 
-**Directive alignment:** Assess means weigh functions, evidence and limitation rather than narrate captures.
+**Executable plan:** 1) Thesis: military capacity and fiscal claims were mutually reinforcing. 2) Army: mixed cash-plunder-assignment pay, ganimi kava plus siege/battle (Salher). 3) Navy: littoral gunboats/grabs/gallivats/Sindhudurg. 4) Revenue: Annaji Datto assessment, chauth/sardeshmukhi distinction. 5) Qualification on assessment vs collection. 6) Verdict.
 
-**Introduction:** Shivaji's forts were infrastructure of state formation: military nodes, administrative stores, communication points and visible claims to authority.
+**Model answer** (225 words):
 
-**Military and operational role:** The 1645-47 early phase - Torna, Murumbdev developed as Rajgad, and Kondana - created a Poona-Maval base. The action-specific wording matters: development and renaming are not identical to capture. Javli in 1656 then tied Maval access to Satara-Konkkan routes. Fort stores, garrisons and signals made mobile operations sustainable; ganimi kava was not movement without logistical anchorage.
+Maratha state power under Shivaji rested on a military-fiscal structure in which army, navy and revenue claims reinforced one another rather than functioning as separate departments. The army combined cash-paid regulars, plunder shares and local assignments, and used mobile tactics (ganimi kava) alongside genuine siege defence at Panhala and a pitched battle at Salher (1671-72), giving flexible capacity across terrain and threat type. The navy was a regional littoral force of gunboats, grabs and gallivats based at coastal forts such as Sindhudurg, built to protect trade and contest the Sidis of Janjira rather than to command open-ocean routes. Sustaining both forces required revenue: Annaji Datto's assessment around 1679 measured and classified land to strengthen the jama (assessed demand), while chauth, a one-fourth protection-linked claim, and sardeshmukhi, a separate superior-deshmukh claim, extended fiscal reach beyond directly administered territory. These three elements were mutually reinforcing: assessed and claimed revenue paid regulars and financed the fleet, while army and navy protected the routes and coasts from which that revenue was drawn. The structure had real limits: assessment (jama) is not the same as realised collection (hasil), incidence of chauth varied by locality, and the navy's regional character meant it never became a deep-water force. The military-fiscal structure was therefore an integrated but bounded system, sufficient for regional power projection but resting on assessed rather than fully guaranteed resources.
 
-**Administrative and fiscal role:** Forts protected grain, arms, records and refuge, while officers such as havaldar and sabnis show the need to divide command and record functions. This made a fort an administrative as well as battlefield institution. Raigad's coronation setting in 1674 also turned a fortified centre into a spatial statement of sovereignty.
+**Marks-rationale (evidence-based):** High marks require all three elements (army, navy, revenue) integrated causally, at least one named fiscal term correctly distinguished (chauth vs sardeshmukhi, jama vs hasil), and the limits qualification; treating any one element in isolation or omitting the jama-hasil distinction caps the score.
 
-**Strategic limitation:** Forts changed hands. Aurangzeb's c.1700-05 siege-recapture cycle demonstrates that capture did not secure a final political outcome. A fort without nearby support, revenue and information could become an expensive liability. The network, rather than any isolated castle, was decisive.
+**Answer-specific improvement:** A common weakness is listing army/navy/revenue separately without showing the causal loop; strengthen by explicitly stating how revenue funded forces and how forces protected revenue sources.
 
-**Verdict:** Forts formed the skeleton of Shivaji's regional state, but their value arose from integration with local society, supply, revenue and mobile warfare.
+### Mains 4 — Successors / war (15 marks)
 
-**Why this earns marks:** It uses early forts, Javli, Raigad and later siege cycles as evidence, differentiates functions and gives a qualified verdict.
+**Question:** Examine how Sambhaji, Rajaram and Tarabai sustained Maratha resistance against Mughal power after 1680.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the role of forts in Shivaji's state-building.”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** 'Examine' requires tracing continuity and change in leadership and method across three named rulers, ending with an assessment of why resistance did not collapse.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable plan:** 1) Thesis: leadership changed while resistance continued through adaptation. 2) Sambhaji's reign and 1689 execution. 3) Rajaram's shift to Gingee, escape before its 1698 fall. 4) Tarabai's regency for Shivaji II from 1700. 5) Qualification: decentralisation, bridge to Topic 25. 6) Verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Model answer** (208 words):
 
-**How to improve this answer:** For “Assess the role of forts in Shivaji's state-building.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+After Shivaji's death in 1680, Maratha resistance persisted through successive leaders who adapted method to circumstance rather than repeating one fixed strategy. Sambhaji held the Mughal war effort through the 1680s until his capture and execution in 1689, which removed a recognised negotiating head but did not end the capacity to resist. Rajaram shifted the centre of resistance southward to the distant fort of Gingee for strategic depth; the fort itself fell only in 1698, after Rajaram had already escaped, so its capture marked a logistical, not a leadership, loss. Following Rajaram's death in 1700, Tarabai led resistance as regent for her young son Shivaji II, organising patronage and command in his name rather than ruling in a purely personal capacity. Across these three phases, authority became progressively more decentralised, resting increasingly on autonomous commanders and forts rather than one unchallenged court. This decentralisation strengthened resistance in the short run by multiplying points of command the Mughals had to defeat, and it is best read as a qualified bridge toward the more openly confederate tendencies treated fully under the later, post-1707 period, without collapsing that later development into this phase. Maratha resistance therefore survived 1680-1700 through adaptive, increasingly distributed leadership rather than through any single successor's unbroken command.
 
-#### Mains 3 - 15 marks | 250 words
+**Marks-rationale (evidence-based):** Full marks require all three named successors with the correct fort-versus-person distinction for Gingee, Shivaji II named as the basis of Tarabai's regency, and an explicit, bounded bridge to later confederacy without overclaiming into Topic 25's territory.
 
-**Question:** Examine Purandar and Agra as a failed attempt to incorporate Shivaji into Mughal strategy.
+**Answer-specific improvement:** If Gingee's fall is wrongly equated with Rajaram's capture, correct by stating the fort fell in 1698 only after his earlier escape.
 
-**Directive alignment:** Examine both negotiation and failure, avoiding a final-surrender narrative.
+### Mains 5 — Annexation strategy (20 marks)
 
-**Introduction:** Purandar and Agra reveal that Mughal-Maratha relations could move between coercion and incorporation; their failure was political and structural, not simply ceremonial.
+**Question:** Analyse why Aurangzeb's annexation of Bijapur and Golconda strengthened Mughal territorial claims but weakened Mughal capacity in the Deccan.
 
-**Purandar as incorporation:** Jai Singh's 1665 strategy combined siege, diplomacy and a forward Bijapur policy. The treaty's secure terms - 23 forts ceded, 12 retained, and Sambhaji's mansab of 5000 - show a hierarchy trying to bind Shivaji to service while preserving a territorial base. This is more complex than surrender: service obligations and strategic bargaining remained.
+**Demand decoding:** 'Analyse' requires explaining the paradox causally: how the same act produced a formal gain and a real operational cost, using named administrative/military evidence.
 
-**Agra as rupture:** At Agra in 1666, court rank and reception communicated political status. Shivaji's perceived insult, confinement and later escape turned an unstable agreement into mistrust. The escape is secure; basket/sweetmeat mechanics are source-version material. Satish Chandra's criticism of Aurangzeb's undervaluation of Shivaji captures the missed alliance value that Jai Singh had seen.
+**Executable plan:** 1) State the paradox thesis. 2) Territorial/formal gain: 1686 Bijapur, 1687 Golconda annexed. 3) Cost: displaced nobles/soldiers and unrealised claims on assignable land (paibaqi), long communications, jagirdari strain. 4) Add Gingee/Sambhaji war costs. 5) Qualification distinguishing map-conquest from governable authority. 6) Verdict.
 
-**Qualification:** A stable settlement was not guaranteed. Shivaji sought autonomy and could deploy negotiation instrumentally; Mughal hierarchy and Maratha sovereignty were difficult to reconcile. Thus the event should not be reduced to one ruler's bad manners.
+**Model answer** (245 words):
 
-**Verdict:** Purandar created a viable but fragile incorporation channel; Agra destroyed the political confidence needed to sustain it.
+Aurangzeb's annexation of Bijapur in 1686 and Golconda in 1687 extended Mughal territorial claims across the Deccan, yet the same act weakened the empire's practical capacity to govern the region it had formally absorbed. On the gain side, annexation removed two independent Deccan sultanates and placed their revenue and administrative apparatus nominally under Mughal control, a real extension of the map of imperial authority. On the cost side, annexation displaced Deccani nobles and soldiers who had served Bijapur and Golconda, and these displaced claimants added fresh demands for mansab and productive jagirs precisely when assignable land (paibaqi) and realised revenue were already strained, feeding the wider jagirdari crisis. Absorbing two additional sultanates lengthened supply and communication lines from the imperial core, while continuing war against Sambhaji, then Rajaram from Gingee (which fell only in 1698, after his escape), tied down large forces for years without a decisive end. The paradox is best read through the distinction between formal, map-level conquest and governable, revenue-realising authority: annexation produced the former quickly but the latter only partially and at high administrative-military cost. This does not mean the annexations were valueless; they were real territorial and fiscal gains, but they were achieved by adding unresolved claimant pressure and logistical strain rather than by a clean transfer of stable authority. Aurangzeb's Deccan strategy therefore illustrates how conquest and governability can diverge when absorbed elites, distance and prolonged war outrun an administration's capacity to convert new territory into secure, collectable revenue.
 
-**Why this earns marks:** It gives exact terms, explains court status as politics, qualifies the counterfactual and distinguishes secure event from legend.
+**Marks-rationale (evidence-based):** Top marks require the paradox stated causally (not just described), named displaced-claimant evidence (unrealised paibaqi assignments), the Gingee/Sambhaji war cost, and the map-conquest-versus-governable-authority distinction; omitting the claimant-pressure link to the jagirdari crisis caps the score.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine Purandar and Agra as a failed attempt to incorporate Shivaji into Mughal strategy.”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Answer-specific improvement:** A frequent gap is treating annexation as a cost-free gain; strengthen by explicitly naming displaced nobles/soldiers and their assignment claims as the mechanism connecting conquest to strain.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+### Mains 6 — Jagirdari crisis (15 marks)
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Question:** Examine the mechanisms behind the jagirdari crisis in the Mughal Deccan during Aurangzeb's reign.
 
-**How to improve this answer:** For “Examine Purandar and Agra as a failed attempt to incorporate Shivaji into Mughal strategy.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Demand decoding:** 'Examine' requires naming and linking multiple distinct mechanisms, not restating 'too many mansabdars, too few jagirs' as a single sufficient explanation.
 
-#### Mains 4 - 10 marks | 150 words
+**Executable plan:** 1) Thesis: multi-causal, not single-cause. 2) Rank inflation and claimant pressure (named groups). 3) Be-jagiri distinct from jama-hasil gap; paibaqi definition. 4) War disruption and short tenure/transfer/corruption. 5) Qualification. 6) Verdict.
 
-**Question:** How did the coronation of 1674 strengthen Shivaji's kingship?
+**Model answer** (217 words):
 
-**Directive alignment:** Explain mechanisms of strengthened kingship, not a ritual list.
+The Deccan jagirdari crisis under Aurangzeb was not a single arithmetic imbalance but the outcome of several linked mechanisms operating together. Continuous campaigning drew Mughal khanazads and princes, Deccani nobles and soldiers absorbed after the Bijapur and Golconda annexations, and Maratha-origin mansabdars into competition for rank, producing rank inflation, an increase in ranked claimants that outran the supply of productive jagirs. This claimant pressure fed be-jagiri, a shortage of assignable productive jagirs, which is distinct from the jama-hasil gap, the difference between assessed revenue (jama) and revenue actually collected (hasil) on land that was assigned; a jagir could exist on paper yet yield little real income. Paibaqi, land recorded as unassigned or awaiting assignment, compounded the problem because its paper availability did not guarantee productive, collectable income once granted. War disruption reduced agricultural output and made collection harder in contested tracts, while short tenures and frequent transfers gave jagirdars incentive to extract quickly rather than invest, encouraging corruption and straining troop maintenance obligations tied to rank. These mechanisms reinforced one another: rank inflation raised claims on a shrinking productive base, disrupted collection widened the jama-hasil gap, and short-tenure extraction worsened both. The jagirdari crisis is therefore best explained as a compounding, multi-causal fiscal-administrative strain rather than a single decision or a simple excess of claimants over posts.
 
-**Introduction:** Raigad's coronation in 1674 transformed accumulated power into an explicit claim of chhatrapati sovereignty in the idiom of contemporary hierarchy.
+**Marks-rationale (evidence-based):** Full marks require naming and distinguishing at least three mechanisms (rank inflation, be-jagiri, jama-hasil gap, paibaqi, short-tenure/transfer corruption) with the specific claimant groups; collapsing all mechanisms into 'too many mansabdars' alone loses significant marks.
 
-**Mechanisms:** Gaga Bhatta's role and Kshatriya genealogy addressed a status problem: royal ritual could place Shivaji above other chiefs and make diplomacy with Deccani sultans more legible. The ceremony connected royal household, fort-centre and revenue-bearing territory to a public language of authority. It also helped consolidate a Maratha political sentiment without requiring a modern nationalist reading.
-
-**Qualification:** Genealogical dispute demonstrates that legitimacy was contested, not automatically accepted. The coronation did not erase Deccani institutional borrowing, local intermediaries or the practical need for coercion and revenue. If a second ceremony is mentioned, its ritual rationale and source must be supplied rather than invented.
-
-**Verdict:** Coronation made sovereignty visible and negotiable in its own period, but it crowned a state-building process rather than replacing it.
-
-**Why this earns marks:** It treats ritual as political evidence, uses Gaga Bhatta/Raigad precisely and prevents anachronism.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How did the coronation of 1674 strengthen Shivaji's kingship?”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “How did the coronation of 1674 strengthen Shivaji's kingship?”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 5 - 20 marks | 250 words
-
-**Question:** Discuss Shivaji's administration and revenue policy without treating it as either a modern bureaucracy or a peasant revolution.
-
-**Directive alignment:** Discuss requires a balanced institutional account with two explicit rejected extremes.
-
-**Introduction:** Shivaji developed ruler-centred institutions that enhanced oversight and fiscal capacity while continuing to work through local intermediaries and inherited Deccani practices.
-
-**Administration:** The Ashtapradhan named Peshwa, Amatya/Mazumdar, Sachiv, Mantri/Waqia-navis, Senapati/Sar-i-naubat, Sumant/Dabir, Nyayadhish and Panditrao. Their existence demonstrates differentiated functions, but they were individually responsible to the ruler, not a collective cabinet. Later Peshwa dominance cannot be retrojected. In forts, divided roles including havaldar and sabnis suggest checks over command, stores and records, although a universal rigid chart should not be asserted.
-
-**Revenue and society:** Annaji Datto's assessment around 1679 used measurement and classification. It improved calculation, but jama is not hasil: local conditions determined realisation. The figure of about two-fifths plus cesses appears in some accounts and must be labelled debated/source-specific. Patils, kulkarnis, deshmukhs, mirasdars and cultivators remained active. Shivaji curbed illegal exactions and some intermediary autonomy; he did not abolish hereditary rights, all mokasa/jagir or local mediation. Cash salaries for regular troops were an instrument of control, not a universal social transformation.
-
-**Verdict:** The system was a capable regional state apparatus combining oversight, records and fiscal reform with negotiated local power and extraction.
-
-**Why this earns marks:** It names offices, links assessment to collection, rejects both anachronistic bureaucracy and hagiographic abolition, and includes evidence-led limits.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss Shivaji's administration and revenue policy without treating it as either a modern…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Discuss Shivaji's administration and revenue policy without treating it as either a modern…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 6 - 15 marks | 250 words
-
-**Question:** Evaluate the relationship between Shivaji's military system and coastal strategy.
-
-**Directive alignment:** Evaluate interaction and scale; do not list weapons or forts.
-
-**Introduction:** Shivaji's military system joined mobile land warfare to a regional coastal strategy, both sustained by forts, intelligence and local labour.
-
-**Land system:** Mavali infantry, fort garrisons and cavalry categories supplied complementary capabilities. Bargirs were associated with state-provided horse/equipment, whereas silhedars maintained their own; the distinction illuminates organisation rather than a complete social census. Ganimi kava describes surprise, intelligence, supply disruption and avoidance of unfavourable battle, anchored by forts and stores. It should not be translated into modern ideological insurgency.
-
-**Coastal system:** Konkan creeks, customs and sea forts connected defence and commerce. Engagements with the Sidis of Janjira, Portuguese and English made coastal capacity strategically valuable. Koli, Bhandari, Muslim and other sailors/commanders show why the navy cannot be described as socially or religiously homogeneous. Vessels such as gurabs and galivats should be named only when source context is clear.
-
-**Qualification:** This was not a blue-water empire-scale navy, and the number of vessels should not be inflated. Nor could fort-mobility neutralise Mughal artillery and siege capacity in every setting.
-
-**Verdict:** The strength lay in integration: forts, local intelligence, mobile war and coastal defence enlarged the state's range without making it omnipotent.
-
-**Why this earns marks:** It gives exact military distinctions, treats coast as political economy and adds the needed scale caution.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the relationship between Shivaji's military system and coastal strategy.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Evaluate the relationship between Shivaji's military system and coastal strategy.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 7 - 15 marks | 250 words
-
-**Question:** Assess the religious character of Shivaji's kingship.
-
-**Directive alignment:** Assess competing evidence rather than affirm either communal slogan.
-
-**Introduction:** Shivaji's kingship used a recognisable Hindu royal idiom, but its administrative practices and personnel make an exclusive communal-state description historically inadequate.
-
-**Evidence for royal idiom:** The 1674 Raigad coronation, Gaga Bhatta's Kshatriya genealogy and claims of protection deployed Sanskritised status language. These acts mattered because royal legitimacy was contested and needed ritual articulation. They can support an argument about sovereignty and political identity.
-
-**Evidence for plurality:** The state borrowed from Deccani and Persianate administrative practice and included Muslim officers and sailors alongside varied local groups. Coastal strategy depended on Koli, Bhandari and Muslim expertise; diplomacy was pragmatic. These facts do not negate Hindu idiom; they show that political institutions cannot be deduced from ceremony alone.
-
-**Source discipline:** Claims about mosques, Qurans, women or universal protection need a named act, date and source genre. A bakhar anecdote, an administrative order and local practice have different reaches. Hindavi Swarajya needs provenance and cannot automatically mean a modern nation-state.
-
-**Verdict:** Shivaji's kingship combined Hindu royal legitimacy with Deccani institutional continuity and practical plurality; its historical specificity is lost in both perfect-tolerance and exclusive-Hindu-state myths.
-
-**Why this earns marks:** It has a clear thesis, named evidence, source method and a balanced but non-evasive conclusion.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the religious character of Shivaji's kingship.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the religious character of Shivaji's kingship.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 8 - 20 marks | 250 words
-
-**Question:** Could a political settlement have prevented Aurangzeb's Deccan impasse? Analyse cautiously.
-
-**Directive alignment:** Analyse an alternative without claiming certainty.
-
-**Introduction:** A settlement was plausible at several moments, but not predetermined; it had to reconcile Mughal hierarchy with a growing Maratha autonomy project.
-
-**Evidence for possibility:** Jai Singh's Purandar strategy in 1665 recognised Shivaji's military and political usefulness against Bijapur. The treaty's 23/12-fort arrangement, Sambhaji's mansab 5000 and service obligations supplied a framework for incorporation. Agra's rank dispute, confinement and escape in 1666 then damaged confidence. Satish Chandra's judgement that Aurangzeb undervalued Shivaji identifies a strategic error: an opponent who might have become a stakeholder was treated narrowly.
-
-**Why settlement remained difficult:** Shivaji retained forts and independent objectives; Mughal service language could not easily contain sovereign claims sharpened by the 1674 coronation. Later, Sambhaji's strategic field, annexation of Bijapur and Golconda, and growing mistrust increased stakes. A post-1689 settlement also faced decentralised actors rather than one recognised head.
-
-**Qualification:** Counterfactuals cannot turn an unrealised agreement into proof. Aurangzeb's choices mattered, but war also grew from imperial sovereignty, local networks, fiscal interests and rival political ambitions.
-
-**Verdict:** A durable settlement was possible enough to expose the cost of its neglect, but structural incompatibility and changing actors mean it cannot be called certain.
-
-**Why this earns marks:** It uses Purandar/Agra evidence, states the counterfactual test and gives a reasoned limitation.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Could a political settlement have prevented Aurangzeb's Deccan impasse? Analyse cautiously.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Could a political settlement have prevented Aurangzeb's Deccan impasse? Analyse cautiously.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 9 - 10 marks | 150 words
-
-**Question:** Explain why Sambhaji's execution did not end the Maratha challenge.
-
-**Directive alignment:** Explain causal mechanism after a leadership loss.
-
-**Introduction:** Sambhaji's capture at Sangameshwar and execution in 1689 removed a recognised head, but it did not remove the fort, command and fiscal networks that sustained resistance.
-
-**Mechanism:** The execution altered negotiation by eliminating a leader with whom an imperial settlement might have been discussed. Rajaram's move toward Jinji supplied strategic depth; commanders such as Santaji Ghorpade and Dhanaji Jadhav could attack communications and dispersed detachments. Ramchandra Pant Amatya and Shankaraji Narayan represent administrative and networked dimensions. Chauth collection through agents increasingly overlapped with Mughal fiscal claims.
-
-**Qualification:** Do not claim decentralisation was automatic unity or that the Mughal army was powerless. Imperial siege campaigns remained formidable; the difficulty was weak strategic return from repeated capture and recapture.
-
-**Verdict:** Execution shifted the form of the conflict from a more centralised opponent to a diffuse, locally embedded challenge.
-
-**Why this earns marks:** It uses named post-1689 actors and shows a causal shift rather than a sentimental assertion.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why Sambhaji's execution did not end the Maratha challenge.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Explain why Sambhaji's execution did not end the Maratha challenge.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 10 - 15 marks | 250 words
-
-**Question:** Evaluate Tarabai's contribution to the survival of Maratha resistance.
-
-**Directive alignment:** Evaluate agency, evidence and limitation.
-
-**Introduction:** Tarabai's regency after Rajaram's death in 1700 was political leadership in a war of legitimacy, patronage and dispersed command, not merely symbolic succession.
-
-**Contribution:** She provided a dynastic focus at a moment when Aurangzeb expected central leadership to collapse. Her leadership helped coordinate resistance that used forts, local networks and commanders such as Santaji/Dhanaji traditions. The c.1700-05 siege-recapture pattern shows the context: Mughal forces could take forts, but their investment in time, supply and garrison did not always produce stable control. Tarabai's political work made a decentralised war claim continuity and direction.
-
-**Administrative implication:** A regency had to manage relationships among commanders, fiscal claims and local patrons. This is why gendered descriptions of a passive widow miss the evidence of rule. It also prevents an answer from reducing survival solely to terrain or male battlefield heroism.
-
-**Qualification:** Coordination could be uneven, and later Shahu/civil-war developments should not be imported as if they were already settled in 1700. Mughal military capacity persisted; resistance did not equal immediate triumph.
-
-**Verdict:** Tarabai was central to transforming a leadership crisis into a continuing political resistance, though success rested on a wider network rather than one individual.
-
-**Why this earns marks:** It makes her agency institutional and strategic, uses siege-cycle context and avoids both iconisation and erasure.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate Tarabai's contribution to the survival of Maratha resistance.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Evaluate Tarabai's contribution to the survival of Maratha resistance.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 11 - 20 marks | 250 words
-
-**Question:** Discuss the jagirdari crisis as a combined fiscal, administrative, agrarian and military problem.
-
-**Directive alignment:** Discuss a mechanism with four linked dimensions, not a single-cause definition.
-
-**Introduction:** The jagirdari crisis was a failure in the fit between rank/service claims, revenue assignments and what war-disturbed society could actually yield. It matured under the Deccan war; it was neither simple bankruptcy nor a mere surplus of nobles.
-
-**Fiscal dimension:** Jama was assessed revenue; hasil was actual collection. An apparently adequate jagir could yield poorly because assessment was inflated, areas were disturbed or collection was costly. Be-jagiri meant shortage of assignable productive/usable jagirs, not simply lack of paper labels. Topic 21's month-scale roots show the problem preceded its mature Deccan form.
-
-**Administrative and agrarian dimension:** Transfers, corruption, factional pressure, new entrants and khanazads competed for assignments. Zamindars, deshmukhs and local armed groups mediated or resisted revenue. Annexed Bijapur/Golconda districts added nominal jama and claimants, but also difficult administration. Collection pressure could be shifted down through intermediaries toward cultivators, though locality varied.
-
-**Military dimension:** A jagirdar unable to realise income could not maintain required contingents. Maratha agents/kamaishdars collected chauth alongside Mughal claims; private pacts could reduce immediate disruption yet normalise parallel authority. Thus weak hasil led to troop shortfall, harder campaigns and further disturbance.
-
-**Verdict:** The crisis was a feedback system in which fiscal mismatch, administrative competition, social resistance and war weakened each other without making the empire instantly powerless.
-
-**Why this earns marks:** It defines terms, supplies a four-part mechanism, connects Topic 21 roots to Deccan pressure and rejects two standard simplifications.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the jagirdari crisis as a combined fiscal, administrative, agrarian and military…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Discuss the jagirdari crisis as a combined fiscal, administrative, agrarian and military…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 12 - 20 marks | 250 words
-
-**Question:** Assess the proposition: 'Aurangzeb won Bijapur and Golconda but lost the Deccan.'
-
-**Directive alignment:** Assess a paradox by distinguishing territorial conquest from governable authority.
-
-**Introduction:** The proposition captures a real divergence between annexation and political control, but it should not obscure Mughal military capacity or make one ruler the sole cause of imperial strain.
-
-**Why 'won' is defensible:** Bijapur fell in 1686 and Golconda in 1687. These annexations enlarged imperial territory, removed formal sultanate rivals and brought new revenue claims and nobles. On a conquest map, they were major successes.
-
-**Why 'lost' is analytically useful:** Buffer removal expanded the Maratha field of action rather than settling it. Long communications, garrisons and Deccan administration raised costs; jama in disturbed territories did not reliably become hasil. Sambhaji's 1689 execution did not end war but preceded diffuse resistance under Rajaram, commanders and later Tarabai. Aurangzeb's personal fort campaigns around 1700-05 encountered repeated siege-recapture cycles. Chauth and private fiscal arrangements further eroded exclusive Mughal authority.
-
-**Qualification and source verdict:** Religious policy and Rajput rupture from Topic 22, factional competition and earlier mansab-jagir strains were linked factors. Persian chronicles reveal imperial framing; bakhars and local records need corroboration. The empire remained formidable and did not collapse in the Deccan overnight.
-
-**Verdict:** Aurangzeb achieved annexation but not a durable Deccan settlement. The war intensified a multi-causal administrative and fiscal strain whose post-1707 transition belongs to Topic 25.
-
-**Why this earns marks:** It gives exact annexation dates, separates map conquest from realisation, includes source method and reaches a graded conclusion.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the proposition: 'Aurangzeb won Bijapur and Golconda but lost the Deccan.'”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the proposition: 'Aurangzeb won Bijapur and Golconda but lost the Deccan.'”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Answer-specific improvement:** If be-jagiri and the jama-hasil gap are merged, correct by stating one concerns jagir supply and the other concerns assessment-versus-collection on an already-assigned jagir.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-### Advanced evidence notebook: twenty-eight source-to-argument labs
+Optional depth only; 12 source-to-argument labs. Nothing here is required for a core Basic answer.
 
-![Visual 77 repeat: keep heritage and historical proof distinct](assets/77_77_heritage_history.png)
+**Lab 1 — Jai Singh vs Aurangzeb on Shivaji.** *Source point:* Jai Singh treated Shivaji as a potential ally to fold into a forward Deccan policy; Aurangzeb treated him as a minor bhumia and refused durable concessions. *Task:* Which reading better explains the post-Agra breakdown, and what does the divergence cost the Mughal side?
 
-*Visual 77 repeat: keep heritage and historical proof distinct. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-#### Lab 1 - Birth-date discipline
+**Lab 2 — Be-jagiri as a distinct mechanism.** *Source point:* Be-jagiri names a shortage of assignable productive jagirs, separate from the jama-hasil gap on jagirs already assigned. *Task:* Show how the two mechanisms could operate on the same mansabdar at once without being the same problem.
 
-**Evidence focus:** The commonly used Shivneri-1630 birth date is a standard chronological anchor, while variant calendrical claims circulate in later debate.
+**Lab 3 — Chauth's documentary evolution.** *Source point:* Chauth moved from a protection-linked claim toward an organised levy collected through local agents (kamaish-dars) in contested districts. *Task:* What evidence would distinguish 'organised parallel administration' from 'mere extortion' in describing this shift?
 
-**Mechanism:** A sound answer does not need an inflated childhood story to explain later political capacity.
+**Lab 4 — Navy composition and communal claims.** *Source point:* The navy drew on local seafaring communities, including Muslim personnel, alongside Marathas. *Task:* Why does this evidence weigh against a narrowly communal description of Shivaji's state?
 
-**Boundary:** Name a date only with a source; do not turn birth commemoration into proof of later ideology.
+**Lab 5 — Revenue reform's real limit.** *Source point:* The 1679 assessment curbed but did not abolish deshmukh power, and its exact incidence is hard to reconstruct from surviving records. *Task:* State precisely what can and cannot be claimed about the assessment's completeness.
 
-**Answer use:** Use this as a one-line source-method caution before early-fort chronology.
+**Lab 6 — Annexation's dual consequence.** *Source point:* Annexing Bijapur and Golconda extended Mughal territorial claims while exposing longer communication lines and adding displaced claimants. *Task:* Construct the two-sided argument in no more than four sentences, naming the mechanism each time.
 
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Birth-date discipline**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
+**Lab 7 — Sambhaji's removal and decentralisation.** *Source point:* Sambhaji's execution removed a recognised head but made resistance more diffuse and harder to negotiate with as a whole. *Task:* Explain why removing a leader can decentralise, rather than end, an armed movement.
 
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: A sound answer does not need an inflated childhood story to explain later political capacity. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
+**Lab 8 — Cavalry-bureaucracy vs fort-guerrilla mismatch.** *Source point:* A cavalry-heavy mansabdari system faced prolonged fort-sieges and mobile Maratha operations across difficult terrain. *Task:* Identify the specific logistical mismatch this created for a Mughal army used to open-country campaigning.
 
-#### Lab 2 - Language and mobilisation
+**Lab 9 — Inflated Deccan jama and rank pressure.** *Source point:* Deccan assessments were pushed upward under war pressure even as productive capacity to match them lagged. *Task:* Trace how an inflated jama figure could still coexist with a real be-jagiri shortage.
 
-**Evidence focus:** Marathi language provided an important political-cultural field, but administration and service also operated in wider Deccani and Persianate environments.
+**Lab 10 — Hindavi Swarajya provenance caution.** *Source point:* A phrase sometimes attributed to Shivaji requires checking translation and manuscript provenance before use as a direct quotation. *Task:* Draft one sentence that uses the idea without over-claiming its exact documentary origin.
 
-**Mechanism:** Language can facilitate communication, patronage and memory without making every speaker a member of one political class.
+**Lab 11 — Local zamindars as a third actor.** *Source point:* Local zamindars and headmen bargained with both Mughal jagirdars and Maratha collectors rather than acting as passive subjects. *Task:* What does this add to a two-sided (Mughal-versus-Maratha) account of Deccan power?
 
-**Boundary:** Do not treat language as a caste census or as automatic sovereignty.
+**Lab 12 — Reading 'won but lost' as a governability claim.** *Source point:* The paradox phrase separates formal conquest from realised, collectable administrative authority. *Task:* Restate the claim once as an overclaim and once correctly bounded, and mark the difference.
 
-**Answer use:** Pair Marathi context with deshmukh, service and fort evidence.
+**Twelve rapid-recall drills:**
 
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Language and mobilisation**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Language can facilitate communication, patronage and memory without making every speaker a member of one political class. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 3 - Shahji and divided allegiance
-
-**Evidence focus:** Shahji's movements among Nizam Shahi, Bijapur and Mughal arenas and his Karnataka interests show elite service mobility.
-
-**Mechanism:** A household could preserve assets and opportunities by adapting to changing patrons; this is a mechanism of Deccan politics.
-
-**Boundary:** Do not read later Shivaji-Aurangzeb conflict backward into a fixed paternal programme.
-
-**Answer use:** Use Shahji to introduce contingency before discussing the Poona base.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Shahji and divided allegiance**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: A household could preserve assets and opportunities by adapting to changing patrons; this is a mechanism of Deccan politics. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 4 - Jija Bai and household politics
-
-**Evidence focus:** Jija Bai's place in the Poona household is significant for legitimacy and local authority, although exact directives must not be invented.
-
-**Mechanism:** Households supplied claims, patronage and social memory that could stabilise emerging authority.
-
-**Boundary:** Avoid both devotional idealisation and unsupported denial of agency.
-
-**Answer use:** Use the household as a bridge from jagir to local political legitimacy.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Jija Bai and household politics**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Households supplied claims, patronage and social memory that could stabilise emerging authority. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 5 - Forts and record keeping
-
-**Evidence focus:** Fort governance included stores, garrisons, correspondence and officers as well as walls and visible elevation.
-
-**Mechanism:** Records and supplies turn an elevated site into a durable command point capable of supporting movement.
-
-**Boundary:** Do not assume every fort had an identical office arrangement or permanent allegiance.
-
-**Answer use:** In a fort answer, add records and stores after military function.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Forts and record keeping**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Records and supplies turn an elevated site into a durable command point capable of supporting movement. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 6 - Violence at Javli
-
-**Evidence focus:** The More family's displacement at Javli is evidence of political elimination as well as territorial gain.
-
-**Mechanism:** New routes and manpower were obtained through coercion against a rival local power, not by a neutral map adjustment.
-
-**Boundary:** Do not romanticise consolidation as bloodless, or reduce the outcome to violence alone.
-
-**Answer use:** This adds social and political depth to a geography answer.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Violence at Javli**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: New routes and manpower were obtained through coercion against a rival local power, not by a neutral map adjustment. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 7 - Afzal Khan genres
-
-**Evidence focus:** Courtly Maratha narrative, Persianate adversarial framing and later public memory can disagree over conduct at Pratapgad.
-
-**Mechanism:** Genre and patronage shape blame, courage and sequence; agreement on consequence does not settle each detail.
-
-**Boundary:** Avoid assigning a fixed moral verdict to an uncorroborated first-blow narrative.
-
-**Answer use:** Write 'accounts differ' and return to military-political consequence.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Afzal Khan genres**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Genre and patronage shape blame, courage and sequence; agreement on consequence does not settle each detail. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 8 - Panhala withdrawal
-
-**Evidence focus:** The siege setting around Panhala and the memory of a difficult withdrawal are more secure than every detail of later heroic retelling.
-
-**Mechanism:** A withdrawal can preserve a force and therefore be strategically consequential even when it is not a conventional victory.
-
-**Boundary:** Do not dismiss regional memory; qualify its provenance instead.
-
-**Answer use:** Use it to demonstrate how source method improves rather than erases history.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Panhala withdrawal**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: A withdrawal can preserve a force and therefore be strategically consequential even when it is not a conventional victory. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 9 - Surat and merchant knowledge
-
-**Evidence focus:** European factory papers register merchant alarm, disrupted trade and circulating reports around Surat.
-
-**Mechanism:** They illuminate commercial impact and perceptions because their writers were embedded in trade, credit and security concerns.
-
-**Boundary:** They cannot by themselves establish a total loot figure or a neutral account of policy.
-
-**Answer use:** Use factory records as a named source with a merchant-lens limitation.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Surat and merchant knowledge**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: They illuminate commercial impact and perceptions because their writers were embedded in trade, credit and security concerns. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 10 - Jai Singh's forward policy
-
-**Evidence focus:** Jai Singh connected pressure on Shivaji to a larger Bijapur-oriented imperial strategy.
-
-**Mechanism:** An imperial commander could seek hierarchy and alliance together when a local power offered operational value.
-
-**Boundary:** Do not romanticise this as equality or assume Delhi uniformly agreed with him.
-
-**Answer use:** This is the best evidence for Purandar as incorporation rather than capitulation.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Jai Singh's forward policy**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: An imperial commander could seek hierarchy and alliance together when a local power offered operational value. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 11 - Court ritual and status
-
-**Evidence focus:** At Agra, relative placement at court was a language of hierarchy, not a minor etiquette dispute.
-
-**Mechanism:** Status communicated who could command, negotiate and claim dignity within an imperial order.
-
-**Boundary:** Avoid treating rank as private emotion or reducing later conflict to a single insult.
-
-**Answer use:** Link status to the structural difficulty of incorporation.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Court ritual and status**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Status communicated who could command, negotiate and claim dignity within an imperial order. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 12 - Recovery and resource cycle
-
-**Evidence focus:** The recovery phase after 1670 combined fort operations with renewed pressure on Surat and political reputation.
-
-**Mechanism:** Resource acquisition, legitimacy and territorial recovery can reinforce each other without being a single dramatic reversal.
-
-**Boundary:** Do not present Sinhagad/Tanaji traditions as a complete substitute for campaign analysis.
-
-**Answer use:** Use a campaign sequence rather than a hero episode.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Recovery and resource cycle**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Resource acquisition, legitimacy and territorial recovery can reinforce each other without being a single dramatic reversal. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 13 - Genealogy as political work
-
-**Evidence focus:** Gaga Bhatta's Kshatriya genealogy at the coronation addressed eligibility for high royal ritual.
-
-**Mechanism:** Genealogy was an instrument for making rank legible to contemporaries, which is why contest around it matters.
-
-**Boundary:** It is not biological proof of a fixed social origin or unanimous acceptance.
-
-**Answer use:** Use it to explain legitimacy, then qualify it with social contest.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Genealogy as political work**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Genealogy was an instrument for making rank legible to contemporaries, which is why contest around it matters. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 14 - Karnataka connections
-
-**Evidence focus:** The southern expedition linked Shivaji's interests to Jinji, Vellore and relations around Ekoji/Venkoji and Tanjavur.
-
-**Mechanism:** Strategic depth and resource access can make a distant theatre central during a later crisis, as Jinji shows after 1689.
-
-**Boundary:** Do not turn a seventeenth-century expedition into a complete history of later southern Maratha power.
-
-**Answer use:** Use it as a bounded bridge between Shivaji and Rajaram.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Karnataka connections**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Strategic depth and resource access can make a distant theatre central during a later crisis, as Jinji shows after 1689. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 15 - Office lists and practice
-
-**Evidence focus:** Ashtapradhan office titles supply a useful institutional vocabulary, but surviving descriptions are stronger on designation than on every day-to-day procedure.
-
-**Mechanism:** This is why individual responsibility to the ruler and mixed duties are more defensible than cabinet analogy.
-
-**Boundary:** Do not supply invented departmental budgets or modern separation-of-powers claims.
-
-**Answer use:** In Mains, list only selected offices and explain their institutional limit.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Office lists and practice**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: This is why individual responsibility to the ruler and mixed duties are more defensible than cabinet analogy. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 16 - Revenue rate and incidence
-
-**Evidence focus:** Measurement and classification can standardise an assessment process while local collection remains differentiated.
-
-**Mechanism:** The same nominal demand may have different effects owing to crop, cesses, intermediaries, war and enforcement.
-
-**Boundary:** Do not write a uniform two-fifths burden as if all villages were identical.
-
-**Answer use:** Use jama-hasil language even in a Shivaji revenue answer.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Revenue rate and incidence**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: The same nominal demand may have different effects owing to crop, cesses, intermediaries, war and enforcement. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 17 - Chauth as a relationship
-
-**Evidence focus:** Chauth was a fiscal claim embedded in a relationship of threat, protection, negotiation and political recognition.
-
-**Mechanism:** The mechanism shows why a payment can coexist with disputed territorial sovereignty.
-
-**Boundary:** Do not call every payer a fully subordinated subject or every collector a simple bandit.
-
-**Answer use:** This is a high-value distinction for Prelims and Mains.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Chauth as a relationship**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: The mechanism shows why a payment can coexist with disputed territorial sovereignty. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 18 - Coastal social evidence
-
-**Evidence focus:** Maritime work depended on local seafaring communities, including Koli, Bhandari and Muslim personnel.
-
-**Mechanism:** Personnel composition demonstrates that strategic capacity was assembled through specialised labour rather than one identity bloc.
-
-**Boundary:** Do not infer a uniform religious policy from an occupational list.
-
-**Answer use:** Use it to qualify the religious-character debate.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Coastal social evidence**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Personnel composition demonstrates that strategic capacity was assembled through specialised labour rather than one identity bloc. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 19 - Sambhaji source risk
-
-**Evidence focus:** The capture at Sangameshwar and execution in 1689 are chronological anchors, whereas elaborate torture narratives and exclusive motives vary by tradition.
-
-**Mechanism:** Separating core event from interpretive detail preserves the seriousness of violence without sensationalising unsupported particulars.
-
-**Boundary:** Do not make one source genre settle political, religious and personal motive simultaneously.
-
-**Answer use:** State the distinction before discussing decentralisation.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Sambhaji source risk**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Separating core event from interpretive detail preserves the seriousness of violence without sensationalising unsupported particulars. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 20 - Jinji and distance
-
-**Evidence focus:** Jinji's value lay in being a fortified southern base outside the immediate centre of Mughal concentration.
-
-**Mechanism:** Distance changes time, supply and communication, so it can make a centralised campaign geographically expensive.
-
-**Boundary:** Do not assume distance alone wins wars; garrison, patronage and local support remain necessary.
-
-**Answer use:** Use Jinji as named evidence for strategic depth.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Jinji and distance**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Distance changes time, supply and communication, so it can make a centralised campaign geographically expensive. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 21 - Tarabai and legitimacy
-
-**Evidence focus:** Tarabai's regency used dynastic legitimacy while organising a continuing resistance after Rajaram's death.
-
-**Mechanism:** Regency is political work because it distributes authority, validates commands and maintains patronage during uncertainty.
-
-**Boundary:** Do not make gender a decorative conclusion or claim she personally directed every field operation.
-
-**Answer use:** Use her to show leadership within a wider network.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Tarabai and legitimacy**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Regency is political work because it distributes authority, validates commands and maintains patronage during uncertainty. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 22 - Imperial capacity and strain
-
-**Evidence focus:** Aurangzeb could still sustain major armies and sieges while facing falling returns from long Deccan operations.
-
-**Mechanism:** Capacity and strain can coexist; a state need not be dead for its fiscal-military system to be under pressure.
-
-**Boundary:** Do not equate jagirdari crisis with an overnight vacuum of authority.
-
-**Answer use:** This qualification lifts a decline answer above a collapse narrative.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Imperial capacity and strain**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Capacity and strain can coexist; a state need not be dead for its fiscal-military system to be under pressure. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 23 - Annexed-noble pressure
-
-**Evidence focus:** Bijapur and Golconda annexation added Deccani elites and new claimants to an already pressured assignment system.
-
-**Mechanism:** Promotion and factional competition raise the political cost of scarce productive jagirs.
-
-**Boundary:** Do not reduce entrants to one ethnic category or assume every new noble received a usable jagir.
-
-**Answer use:** Link claimant pressure to quality and realisation of assignments.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Annexed-noble pressure**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Promotion and factional competition raise the political cost of scarce productive jagirs. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 24 - Jama and hasil example
-
-**Evidence focus:** A model in which jama is 100 and hasil 55 is an explanatory device, not a recovered historical district figure.
-
-**Mechanism:** It shows why a mansabdar's nominal entitlement cannot fund a contingent if collection is disturbed.
-
-**Boundary:** Do not cite analytical numbers as archival statistics.
-
-**Answer use:** Use the model to explain mechanism in a Mains answer.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Jama and hasil example**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: It shows why a mansabdar's nominal entitlement cannot fund a contingent if collection is disturbed. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 25 - Private pacts as evidence
-
-**Evidence focus:** A private payment arrangement between a jagirdar and a parallel collector can be a rational response to local insecurity.
-
-**Mechanism:** It turns fiscal weakness into political erosion because a competitor gains access, recognition and information.
-
-**Boundary:** Do not call every pact formal secession or assume local actors had no coercive agency.
-
-**Answer use:** This is the bridge from revenue to sovereignty.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Private pacts as evidence**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: It turns fiscal weakness into political erosion because a competitor gains access, recognition and information. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 26 - Modern historians and evidence
-
-**Evidence focus:** Nationalist, communal, Marxist/peasant and regional-state readings illuminate different questions about Shivaji and the Deccan.
-
-**Mechanism:** Their value depends on whether they connect a claim to source types - office, revenue, terrain, personnel or narrative - rather than simply adding labels.
-
-**Boundary:** Do not create false balance by treating every interpretation as equally evidenced.
-
-**Answer use:** End a historiography answer with a source-weighted verdict.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **Modern historians and evidence**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: Their value depends on whether they connect a claim to source types - office, revenue, terrain, personnel or narrative - rather than simply adding labels. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-#### Lab 27 - UNESCO as bounded bridge
-
-**Evidence focus:** UNESCO's 2025 twelve-fort inscription identifies present heritage value for a networked landscape, mostly in Maharashtra plus Gingee in Tamil Nadu.
-
-**Mechanism:** It can make a static topic memorable and connect conservation to fort geography.
-
-**Boundary:** It cannot independently verify a seventeenth-century battle sequence, fleet count or office list.
-
-**Answer use:** Label it STATIC HERITAGE LINK, especially because no six-month official fort-specific update was located.
-
-**Cross-check protocol:** Before using this point, identify whether the supporting material is a court narrative, administrative record, local chronology, merchant observation, material remain or modern synthesis. For **UNESCO as bounded bridge**, compare the claim with a source type able to show its scale and sequence. That discipline prevents a striking sentence from carrying more weight than it can bear, especially where a later retelling or an institutional label is involved.
-
-**Revision payoff:** The point is usable because it turns an isolated fact into a testable relationship: It can make a static topic memorable and connect conservation to fort geography. In a timed answer, write the fact, then the relationship, then the qualification. This keeps evidence from becoming decorative and makes the limitation part of the argument rather than an afterthought.
-
-### Evidence and answer-writing drills
-
-![Visual 74 repeat: source matrix for answer drills](assets/74_74_source_matrix.png)
-
-*Visual 74 repeat: source matrix for answer drills. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-#### Drill 1 - Fort verbs are evidence
-
-**Claim:** Write 'Torna was taken; Murumbdev was developed/renamed Rajgad; Kondana was acquired' rather than collapsing all actions into capture. This small distinction protects chronology and shows that state-building involved repair and provisioning as well as seizure.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 2 - Afzal Khan without moral certainty
-
-**Claim:** Start with mutual suspicion, meeting and killing; then say accounts vary on first blow. A courtly or later heroic account can show political memory, but it cannot by itself end the sequence dispute.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 3 - Purandar without surrender language
-
-**Claim:** Use 23 ceded, 12 retained and Sambhaji's 5000 mansab. Then explain why service plus retained forts makes the agreement an incorporation attempt rather than an endpoint.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 4 - Agra without basket certainty
-
-**Claim:** Treat confinement and escape as the historical core. Basket/sweetmeat staging needs a named source version; its popularity demonstrates memory, not direct verification.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 5 - Coronation without nationalism
-
-**Claim:** Gaga Bhatta and Kshatriya genealogy show a status-making ritual at Raigad. Explain sovereignty in seventeenth-century idiom; do not substitute a twentieth-century nation-state.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 6 - Revenue without universal rate
-
-**Claim:** Annaji Datto's assessment shows measurement and classification. Separate a source's about-two-fifths claim from actual incidence across villages, cesses and collection conditions.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 7 - Chauth without a false binary
-
-**Claim:** Describe one-quarter contribution/protection claim with coercive capacity; distinguish it from sardeshmukhi's additional ten-percent superior-right rationale. Payment can coexist with overlapping control.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 8 - Navy without oceanic myth
-
-**Claim:** Use coast, creeks, customs, sea forts and local sailors. The strongest conclusion is regional strategic capability, not an unsupported blue-water fleet.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 9 - Sambhaji without sensationalism
-
-**Claim:** Fix capture at Sangameshwar and execution in 1689, then separate source versions of details and motives. The political consequence was decentralisation, not instantaneous resistance collapse.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 10 - Tarabai without tokenism
-
-**Claim:** After Rajaram's 1700 death, explain regency as legitimacy, patronage and coordination in a dispersed war. This is a political mechanism, not an inspirational aside.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 11 - Jagirdari without arithmetic reduction
-
-**Claim:** Define mansab, jagir, jama, hasil and be-jagiri; reconnect them to war, transfers, local resistance, chauth and contingent maintenance. A noble count alone does not explain crisis.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-#### Drill 12 - Heritage without evidentiary leap
-
-**Claim:** UNESCO's 2025 twelve-fort inscription is a static conservation linkage. It corroborates present recognition of a landscape, not every battle legend or administrative detail.
-
-**Exam move:** State the named evidence, explain what it proves, add the limit, then return to the directive.
-
-### The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis — ADVANCED
-
-> **Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part II (Mughal Empire)* — chapters on "Climax and Crisis of the Mughal Empire: The Marathas and the Deccan" and "Assessment of Aurangzeb and the Jagirdari Crisis."
-> ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
-> *Companion: `basic/23_Marathas-Shivaji-and-Deccan.md`. Chronology spine: `00_Master-Chronology.md`.*
-
----
-
-### Mini-timeline
-
-| Date | Event |
-|---|---|
-| ✅ 1645–47 | Shivaji captures Rajgad (source: Rajgarh), Kondana and Torna near Poona |
-| ✅ 1656 | Javli conquest makes him undisputed master of Mavala highlands |
-| ✅ 1665 | Purandar treaty: Jai Singh's attempt to fit Shivaji into a forward Deccan policy |
-| ✅ 1666 | Agra visit/escape; Aurangzeb undervalues Shivaji's alliance |
-| ✅ 1674 | Shivaji's coronation; sovereignty and Maratha political identity strengthened |
-| ✅ 1679 | Annaji Datto completes a new revenue assessment under Shivaji |
-| ✅ 1686–87 | Bijapur and Golconda annexed |
-| ✅ 1689 | Sambhaji executed; Maratha resistance becomes decentralised |
-| ✅ 1700–05 | Aurangzeb personally drags the Mughal army from fort siege to fort siege |
-| ✅ 1707 | Aurangzeb dies, leaving the empire distracted and strained |
-
-### 1. Snapshot & core idea
-
-**Deeper — Jai Singh's missed settlement and Aurangzeb's strategic rigidity.**
-
-✅ Part II stresses that Jai Singh saw Shivaji within a larger **forward Deccan policy**: if Bijapur were conquered with Shivaji's help, the Maratha problem could be contained within a Mughal-led settlement.
-- ✅ Aurangzeb was reluctant, distrusted Shivaji, and refused to make the concessions needed to convert him into a stable ally.
-- ✅ The Agra visit exposed this difference: Jai Singh valued Shivaji politically; Aurangzeb treated him as a petty **bhumia**.
-- ✅ Chandra calls Aurangzeb's refusal to recognise Shivaji's importance and friendship one of his biggest political mistakes.
-
-**Deeper — Deccan annexation produced administrative and jagirdari stress.**
-
-✅ After annexing Bijapur and Golconda, Aurangzeb discovered that conquest was only the beginning of difficulties. The execution of **Sambhaji (1689)** removed a recognised Maratha head with whom compromise might have been made, and instead made resistance more diffuse.
-- ✅ Maratha commanders, local headmen and kamaish-dars set up parallel chauth collection in parts of the Deccan.
-- ✅ Mughal jagirdars in disturbed areas often could not collect even the paper income of their jagirs; some made private pacts to pay chauth to avoid disturbances.
-- ✅ The **jagirdari crisis** had administrative and social roots: mismatch of jama/hasil, entrenched zamindars, shortage of productive jagirs, corruption in transfers, and inflated Deccan assessments.
-
-**Deeper — Shivaji's state beyond forts and raids.**
-
-- ✅ The Ashtapradhan was not a cabinet; each officer answered to Shivaji, and the offices were substantially adapted from Deccani administrative practice.
-- ✅ Revenue reform curbed but did not abolish deshmukhs, ended some illegal exactions and revenue farming, and produced a measurement-based assessment in 1679; the exact incidence remains difficult to reconstruct.
-- ✅ Chauth had precedents in western Indian zamindari claims and became protection money/territorial assertion; sardeshmukhi was a distinct additional ten-per-cent claim.
-- ✅ The navy drew on local seafaring communities and Muslims as well as Marathas, undercutting a narrowly communal description of the state.
-
-### 2. Key classification / data
-
-| Problem | Mechanism in Part II | Consequence |
-|---|---|---|
-| ✅ Missed alliance | Aurangzeb undervalued Shivaji after Purandar/Agra | Maratha hostility revived |
-| ✅ Deccan annexation | Bijapur & Golconda absorbed, Karnataka hard to manage | Communication lines exposed |
-| ✅ Sambhaji execution | Recognised Maratha head removed | Resistance decentralised and all-pervasive |
-| ✅ Chauth in jagirs | Marathas collected through local agents/kamaish-dars | Mughal revenue authority eroded |
-| ✅ Jama vs hasil gap | Paper income exceeded real collection | Mansabdars could not maintain quotas |
-| ✅ Be-jagiri | Shortage of assignable productive jagirs | Khanazads dissatisfied; factionalism rose |
-| ⚠️ Military mismatch | Cavalry-heavy mansabdari vs fort/guerilla war | Mughal army exhausted in sieges |
-
-### 3. Study links
-
-> **Study link:** ✅ Aurangzeb's Rajput breach → `advanced/22_Aurangzeb-Religious-Policy-Rajputs.md`; eighteenth-century fragmentation → `advanced/25_Decline-of-the-Mughal-Empire.md`.
-> **Study link:** ⚠️ Compare Shivaji's fort-based mobility with Sultanate/Mughal centralised cavalry-bureaucratic systems.
-
-### 4. Must-Know Facts (Prelims)
-
-- ✅ Jai Singh besieged **Purandar (1665)** and negotiated the treaty with Shivaji.
-- ✅ Shivaji's **Agra escape (1666)** was a turning point in Mughal-Maratha relations.
-- ✅ Shivaji's coronation occurred in **1674**; Annaji Datto completed a revenue assessment in **1679**.
-- ✅ Aurangzeb annexed **Bijapur (1686)** and **Golconda (1687)**.
-- ✅ **Sambhaji** was captured and executed in **1689**.
-- ✅ Jagirdari crisis = shortage/quality of jagirs + jama/hasil mismatch + zamindar/Maratha resistance + administrative corruption.
-
-### 5. UPSC Traps
-
-> 🔑 Trap: The jagirdari crisis was not only "too many mansabdars"; Chandra links it to Deccan conditions, zamindar power, jama-hasil mismatch and war.
-
-- ❌ Bijapur-Golconda annexation automatically strengthened Mughal finance. → Correct: it increased territorial claims but also administrative strain.
-- ❌ Sambhaji's execution ended Maratha resistance. → Correct: it made resistance broader and harder to negotiate.
-- ❌ Chauth was merely bandit plunder. → Correct: in the late war it became an organised claim collected through agents in districts.
-- ❌ Jagirdari crisis means total Mughal collapse under Aurangzeb. → Correct: the empire remained powerful, but its systems were under severe pressure.
-
-### 6. 📰 Current link
-
-📰 **Current linkage (verify live before use):** Fort conservation can connect Shivaji's military geography with visitor management and local participation. Verify any UNESCO-linked plan, budget or duration from official records.
-
-### 7. Mains angles
-
-- ⚠️ "Aurangzeb won Bijapur and Golconda but lost the Deccan." Evaluate in light of Maratha resistance and jagirdari crisis.
-- ⚠️ Discuss the jagirdari crisis as a combined **social, administrative, military and fiscal** crisis.
-- ⚠️ Could a political settlement with Shivaji/Sambhaji/Shahu have altered Mughal-Maratha relations? Analyse using Chandra's arguments.
-
-### ➕ Concept — Jagirdari crisis in one line
-
-⚠️ **Jama-hasil mismatch + shortage of good jagirs + zamindar/Maratha resistance + war-cost pressure** = mansabdars unable to maintain troops, nobles dissatisfied, imperial authority weakened.
-
+1. Distinguish jama from hasil in one sentence, using a number only as an illustration, not a historical statistic.
+2. Name the two officers of the Ashtapradhan most often confused with each other, and state their correct functions.
+3. State one reason a hill fort mattered beyond shelter (route control, storage, signalling, or bargaining asset).
+4. Give the correct year-order for Javli, Purandar and Agra without checking notes.
+5. Explain why chauth and sardeshmukhi must not be merged into a single levy label.
+6. State the difference between be-jagiri and paibaqi in one line each.
+7. Give one named piece of evidence that Maratha warfare was not purely mobile/evasive.
+8. State why Gingee's 1698 fall is not the same event as Rajaram's capture.
+9. Name the dynastic basis of Tarabai's regency.
+10. State one reason annexation increased administrative strain rather than only revenue.
+11. Give one reason the Ashtapradhan should not be called a modern cabinet.
+12. State the current, dated status of the 2025 UNESCO heritage listing without merging it with the 2026 conservation update.
 ## CONSOLIDATED REGISTER NOTES
 
-### FINAL CONSOLIDATED REGISTER NOTES - TOPIC 23
+```
+ASCII MASTER FLOW -- TOPIC 23: THE MARATHAS, SHIVAJI & AURANGZEB'S DECCAN; JAGIRDARI CRISIS (16 panels)
 
-![Visual 79: rapid recall](assets/79_79_rapid_recall.png)
+[1] DEFINITION & SETTING
+  Topic 23 = Marathas' regional state formation under Shivaji (to 1680) + Aurangzeb's Deccan
+  annexation and prolonged war (1680s-1707) + the jagirdari fiscal-administrative crisis that
+  followed.
+  Sahyadri ridge + Maval upland valleys + Konkan coastal creeks -> distributed base:
+    ridge = passes/mobility | Maval = forts/supply | Konkan = customs/coastal contact/rival powers
+  CAUTION: terrain enabled, but did not by itself create, Maratha state power (no geography-
+  determinism).
 
-*Visual 79: rapid recall. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+[2] DECCAN SERVICE FIELD & SHAHJI BHONSLE
+  Nizam Shahi Ahmadnagar (collapsing) -> Bijapur / Mughal / Golconda-adjacent service world.
+  Shahji Bhonsle: mobile service politics, incl. support for a Nizam Shahi claimant -> Poona
+  jagir/household. NOT a hereditary anti-Mughal crusade; NOT proto-nationalism.
+  Jija Bai = household legitimacy/local authority (bounded); Dadoji Konddev = secure
+  administrative actor in the Poona setting (not sole state-architect).
 
+[3] STATE FORMATION: JAVLI -> FORTS -> AFZAL KHAN
+  Javli, 1656: the More family's position removed -> Maval-Satara-Konkan routes opened
+  (territorial capacity gained, not abolition of all hereditary rights).
+  First forts, 1645-47 -> expanding fort-anchored base.
+  Afzal Khan's death, Pratapgad, 1659: secure core (mutual suspicion, his death, Maratha
+  gains) is certain; the exact first-blow sequence is bakhar-genre dependent, not primary
+  certainty.
 
-#### Western Deccan operational setting
-- Sahyadri/Western Ghats, Maval highlands, Konkan creeks, plateau routes, passes, monsoon and forts shaped movement, supply and information.
-- Geography enabled tactical and fiscal choices; it did not mechanically create Maratha power.
-- Fort = garrison + store + signal + refuge + record + legitimacy node. A network matters more than an isolated fort.
-- Mobilisation was differentiated: deshmukhs, village elites, Mavalis, cavalry households, Brahman administrators and Deccani service networks. No homogeneous caste/class/nation.
+[4] MUGHAL CONTACT: SHAISTA KHAN -> SURAT -> PURANDAR -> AGRA
+  1663: Poona night raid on Shaista Khan (bold strike, dents Mughal prestige; not a war-
+  ending blow).
+  1664: first sack of Surat (commercial disruption; factory records = merchant source, not
+  a neutral or administrative one).
+  1665: Jai Singh's siege+diplomacy -> Treaty of Purandar: 23/35 forts transferred, 12
+  retained, Sambhaji granted mansab 5000 (incorporation attempt, NOT a final or
+  unconditional surrender).
+  1666: Agra detention -> prestige/rank crisis -> escape (secure); the basket-escape DETAIL
+  is a popular-narrative element whose provenance is separately flagged, not an
+  administrative record.
 
-#### Chronology and territorial logic
-- Early phase 1645-47: use action-specific fort wording - Torna; Murumbdev developed/renamed Rajgad; Kondana.
-- Javli, 1656: More-family elimination, Maval-to-Satara/Konkan routes, manpower and territorial consolidation.
-- Afzal Khan, 1659: mutual suspicion/armed precautions secure; first-blow sequence varies by source. Result: resources, prestige and expansion.
-- Shaista Khan/Poona raid, 1663: symbol of vulnerability, not all-India conquest. Surat 1664 and 1670: commercial-imperial pressure; factory sources are merchant lenses.
-- Purandar 1665: 23 forts ceded, 12 retained, Sambhaji mansab 5000; negotiated incorporation attempt, not final surrender.
-- Agra 1666: rank/status dispute, confinement and escape; basket detail is a labelled source version.
-- Coronation Raigad 1674: Gaga Bhatta, Kshatriya status, sovereignty in contemporary idiom; not modern national independence.
-- Southern expedition 1676-78: strategic depth/resources/dynastic relation; Shivaji dies 1680.
+[5] SOVEREIGNTY: CORONATION & LEGITIMACY
+  1674 Raigad coronation: Gaga Bhatta validates Kshatriya status -> Rajyabhisheka Shaka
+  (royal era used on later documents/coins = bounded dating evidence, not a modern
+  calendar reform).
+  Legitimacy idiom = Hindu royal symbolism + Persianate administrative institutions + Muslim
+  officers together -> plural legitimacy, NOT an exclusive Hindu-state formula.
 
-#### State and fiscal apparatus
-- Ashtapradhan: Peshwa; Amatya/Mazumdar; Sachiv; Mantri/Waqia-navis; Senapati/Sar-i-naubat; Sumant/Dabir; Nyayadhish; Panditrao.
-- Not a modern cabinet: individual responsibility to ruler; later Peshwa power must not be projected backward.
-- Fort checks: havaldar, sabnis and store/command roles where source supports; avoid universal rigid chart.
-- Annaji Datto assessment c.1679: measurement/classification; assess -> collect distinction always.
-- Patils, kulkarnis, deshmukhs, mirasdars and cultivators continued. Curbs on exactions did not abolish intermediary/hereditary rights or all mokasa/jagir.
-- About two-fifths plus cesses is debated/source-specific, not universal burden.
+[6] ADMINISTRATION: ASHTAPRADHAN & FORT-LOCAL CHECKS
+  Ashtapradhan (8 offices: Peshwa, Amatya/Mazumdar, Sachiv, Mantri/Waqia-navis, Sumant/Dabir,
+  Senapati, Nyayadhish, Panditrao) -> each individually ruler-responsible (NOT a collective
+  cabinet answerable to a legislature); several offices combine civil+military duties.
+  Fort level: Havaldar/sabnis command-store-record roles = a local administrative check.
+  Village/provincial level: patils, kulkarnis, deshmukhs retained (illegal exactions curbed,
+  hereditary local rights NOT abolished).
 
-#### Chauth, sardeshmukhi and war
-- Chauth = one-quarter contribution/protection claim in neighbouring territories; coercion + bargain; not automatic sovereignty or plunder only.
-- Sardeshmukhi = additional 10 percent claim through asserted superior deshmukh right; never equate with chauth.
-- Bargir: state-provided horse/equipment association. Silhedar: own horse/equipment. Ganimi kava = mobility, surprise, intelligence and supply disruption; not modern ideological insurgency.
-- Navy/coast: creeks, forts, customs, Sidis, Portuguese, English; Koli/Bhandari/Muslim and other sailors. Regional coastal capacity, not blue-water empire.
+[7] REVENUE & FISCAL CLAIMS
+  Annaji Datto's assessment, c.1679: strengthens jama (assessed demand) estimation; jama is
+  not the same as hasil (realised collection) -- the gap is source-specific, not a universal
+  rate.
+  Chauth = one-fourth protection-linked claim (origin) -> widened into a political/fiscal
+  claim over time.
+  Sardeshmukhi = a separate ten-per-cent superior-deshmukh claim.
+  Chauth and sardeshmukhi must stay distinct (different rate AND rationale); collection is
+  not the same as settled sovereignty.
 
-#### Legitimacy and evidence method
-- Hindu royal idiom and coronation coexist with Persianate/Deccani borrowing, Muslim personnel and pragmatism.
-- Hindavi Swarajya requires exact provenance; do not automatically translate as modern nationalism.
-- Sabhasad Bakhar: relatively early courtly account; later bakhars/Chitnis need corroboration. Jedhe shakavali/letters: dates/networks but terse. Persian chronicles: imperial lens. Factory records: merchant lens. Forts/coins/seals: capacity/legitimacy, not transparent event narrative.
-- Fact-risk: early-fort verbs; Afzal sequence; Agra detail; revenue incidence; phrase provenance; fleet scale; Sambhaji details; jagirdari terms.
+[8] MILITARY, NAVAL & FORT NETWORK
+  Cavalry: bargir (state-provided horse) + silhedar (own horse); Mavali infantry; fort
+  garrisons; intelligence networks.
+  Remuneration MIXED: cash pay + plunder shares + local (mokasa-type) assignments -- not
+  all-cash, not all-plunder.
+  Ganimi kava = a repertoire of surprise, information, supply-disruption and avoidance of
+  unfavourable battle; it COEXISTED with siege-holding (Panhala) and pitched battle (Salher)
+  -- it does not exclude conventional warfare.
+  Navy: gunboats, grabs, gallivats + trading/supply craft, based at Sindhudurg/Vijaydurg --
+  a REGIONAL LITTORAL force (coastal defence, anti-Sidi operations, trade protection), NOT a
+  blue-water empire navy.
+  Fort network: storage + observation + signalling + short-radius movement across linked
+  (not isolated) nodes.
 
-#### Post-1680 and Mughal Deccan
-- Sambhaji: contested accession; capture Sangameshwar/execution 1689; separate core chronology from graphic/motive claims.
-- Bijapur 1686 and Golconda 1687: buffers removed; territory/nobles/jama claims gained; garrison, distance and realisation burden increased.
-- Rajaram-Jinji: strategic depth. Santaji, Dhanaji, Ramchandra Pant and Shankaraji: dispersed command/fiscal links. Rajaram dies 1700.
-- Tarabai: regency, legitimacy and resistance leadership; c.1700-05 fort siege-recapture cycle.
-- Aurangzeb: sovereignty/security/sultanate/Maratha objectives interact. Empire still formidable; annexation success did not create a durable settlement.
+[9] SUCCESSORS: SAMBHAJI -> RAJARAM/GINGEE -> TARABAI
+  Sambhaji (r.1680-89): succession constrained by Prince Akbar's alliance and Mughal
+  pressure; captured at Sangameshwar, executed 1689 -- this removed a recognised
+  negotiating head but did NOT end resistance; it shifted resistance toward dispersed
+  commanders, forts and fiscal claims.
+  Rajaram: escaped to Gingee (Jinji) for strategic depth; the fort itself fell only in
+  1698, AFTER Rajaram had already escaped -- a fort's fall is not the same as its ruler's
+  capture.
+  Santaji Ghorpade, Dhanaji Jadhav, Ramchandra Pant Amatya and Shankaraji Narayan sustained
+  command, fiscal and administrative functions through decentralisation (not one
+  frictionless organisation).
+  Rajaram d.1700 -> Tarabai becomes regent for her son Shivaji II.
 
-#### Jagirdari crisis and causal loop
-- Mansab = rank/service; jagir = revenue assignment. Jama = assessment; hasil = actual collection. Be-jagiri = shortage of assignable productive/usable jagirs.
-- Roots: Topic 21 month-scale/mismatch. Maturation: war disturbance, inflated Deccan jama, transfer corruption, claimant competition, local resistance, chauth, contingent costs.
-- Parallel fiscal authority: Mughal jagirdar + Maratha agent/kamaishdar + intermediary claims can overlap. Private pact gives short relief but erodes exclusive sovereignty.
-- Loop: long communications -> logistics -> disturbed hasil -> weak jagir quality -> troop shortfall -> harder campaigning -> further disturbance.
-- Not only too many nobles; not full bankruptcy; not instant collapse; not Aurangzeb alone. Topic 22 Rajput rupture is linked; Topic 25 owns post-1707 transition.
+[10] AURANGZEB'S ANNEXATION & PROLONGED WAR
+  Bijapur annexed 1686 -> Golconda annexed 1687: removed buffer states that had mediated
+  Deccan politics; added territory, revenue claims and nobles, but ALSO required garrisons,
+  administration and long, disturbed communications.
+  'Aurangzeb won Bijapur and Golconda but lost the Deccan' = an analytical paradox
+  distinguishing MAP-CONQUEST from governable, revenue-realising authority -- not a
+  contemporary court verdict, and not proof the annexations achieved nothing.
+  1700-05: a repetitive siege-recapture dynamic around Gingee and other forts --
+  operational success with weak strategic return.
 
-#### PYQ and heritage route
-- 2018-2026 local official/OCR and routing audit: no direct verified CSE owner PYQ located for Topic 23. Do not misroute generic eighteenth-century Marathas, UNESCO or Deccan geography.
-- STATIC HERITAGE LINK: UNESCO 2025 Maratha Military Landscapes, twelve components - Salher, Shivneri, Lohgad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, Sindhudurg, Gingee. No material fort-specific official item found in the 19 Feb-19 Aug 2026 search window.
-- Mains spine: thesis -> named evidence -> mechanism -> qualification -> graded verdict.
+[11] JAGIRDARI CRISIS MECHANISMS (multi-causal, NOT one single cause)
+  Rank inflation: Mughal khanazads + absorbed Deccani nobles/soldiers + Maratha-origin
+  mansabdars all compete for a limited pool of productive jagirs.
+  Be-jagiri = a shortage of assignable productive jagirs (claimant pressure).
+  Jama-hasil gap = assessed revenue exceeding what is actually collected (the illustrative
+  worked example 'jama 100, hasil 55' is a TEACHING MODEL, not a verified district
+  statistic).
+  Paibaqi = land recorded as unassigned/awaiting assignment; paper status does not equal
+  realised income.
+  Short jagirdar tenure/frequent transfers: meant to prevent entrenchment, instead
+  encouraged quick extraction, bribery and factional competition -- weakening troop
+  maintenance.
+  War disruption (long Deccan campaigns) -> lower realised hasil -> poorer jagir quality ->
+  weaker troop maintenance -> more campaigning needed -> loop repeats.
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+[12] LOCAL POWER & MULTI-CAUSAL CONSEQUENCES
+  Zamindars, deshmukhs and local armed groups = neither pure officials nor simple landlords
+  -- they bargained, resisted, or struck private pacts amid PARALLEL Mughal jama-hasil gaps
+  and Maratha chauth claims in the same district, making sovereignty negotiable in practice.
+  Consequence chain: long communications raise logistics costs -> campaigning disturbs
+  hasil -> poorer jagir quality weakens troop maintenance -> troop shortfalls make
+  campaigning harder -> repeated campaigns intensify the disturbance (a closed loop, not a
+  single 1707 event).
+  Matured under the Deccan war; interacts with Topic 22's Rajput rupture/religious-policy
+  legitimacy issues; feeds the post-1707 transition that Topic 25 analyses in full
+  (boundary, not scope creep).
 
-#### ASCII MASTER FLOW — PANEL 1/12: Western Deccan: terrain becomes a fort network
+[13] SOURCES, HISTORIOGRAPHY & FACT-RISK LEDGER
+  Genres show different things: Sabhasad Bakhar (courtly Maratha memory) | Mughal Persian
+  chronicles (imperial perception; 'rebel/bandit' vocabulary is state perspective, not
+  neutral description) | European factory records (commercial disruption/rumour, not
+  Maratha ledgers) | forts/coins/inscriptions (capacity, legitimacy, spatial organisation).
+  Historiographical frames (nationalist / communal / Marxist-peasant / regional-state) must
+  be tied to evidence, not asserted as automatically complete.
+  FACT-RISK LEDGER (six items needing qualified language): early-fort action wording;
+  Afzal Khan's exact first blow; Agra's basket-escape detail; revenue-incidence figures;
+  Hindavi Swarajya's provenance; navy size (must not be inflated).
 
-```ascii-master
-INPUT -> Sahyadri passes + Maval infantry + Konkan creeks + agrarian bases
-SERVICE -> Ahmadnagar/Bijapur/Mughal competition opens political space
-SHAHJI -> mobile service and Poona base; not a continuous national programme
-FORT SYSTEM -> store + refuge + pass + garrison + treasury + bargaining
-REQUIRE -> revenue + water + repair + intelligence + local cooperation
-VERDICT -> organisation converts terrain into power; geography alone cannot.
-MUST REMEMBER: Shivaji's coronation (1674), fort network, revenue claims and military mobility
-  formed a negotiated regional polity.
+[14] PYQ STATUS, ANSWER SPINE & TRAPS
+  No verified DIRECT Topic-23 Prelims PYQ exists for 2018-2026; the 2018/2019/2022/2024
+  items are ROUTED to other topics (a Modern-History keyword hit; Topic 24 Mughal
+  administration; Modern-era European settlements; Topic 09 Indian-Ocean trade/ports) on
+  subject-matter grounds -- marks are NOT item-stated in the official record, so a fixed
+  mark value should not be asserted.
+  ANSWER SPINE: (1) frame geography as enabling, not determining -> (2) state formation via
+  forts, revenue and legitimacy, not romantic myth -> (3) plural legitimacy plus a real
+  administrative structure -> (4) a multi-causal jagirdari crisis, not 'too many
+  mansabdars' alone -> (5) qualify contested details using the fact-risk ledger.
+  RECURRING TRAPS: geography-determinism; treating Purandar or the coronation as final;
+  collapsing chauth/sardeshmukhi into one claim; inflating the navy to blue-water scale;
+  single-cause jagirdari-crisis claims; conflating a fort's fall with its ruler's capture.
+
+[15] HERITAGE & CURRENT LINKAGE (dated, bounded; not historical proof)
+  2025: UNESCO's 'Maratha Military Landscapes' listing names twelve component forts --
+  present-day heritage recognition, usable as a bounded bridge into the historical
+  argument, NOT primary evidence for any specific seventeenth-century battle or force size.
+  2026: a PIB conservation/site-management release -- a separate, later, administratively
+  distinct item; it must not be merged with the 2025 listing or treated as seventeenth-
+  century evidence.
+
+[16] TOPIC BOUNDARY (scope discipline)
+  Topic 18 = Mughal policy through 1657 | Topic 22 = religion/Rajput/North India |
+  Topic 23 (HERE) = Marathas/Shivaji/Aurangzeb's Deccan/jagirdari crisis |
+  Topic 24 = society/economy/culture | Topic 25 = post-1707 confederate period.
 ```
 
-#### ASCII MASTER FLOW — PANEL 2/12: Chronology from the 1640s to 1707
+### Register Notes
 
-```ascii-master
-1640s forts -> 1656 Javli -> 1659 Afzal Khan -> 1663 Shaista Khan
-1664 Surat -> 1665 Purandar -> 1666 Agra -> 1670 recovery
-1674 coronation -> 1676-79 Karnataka/revenue -> 1680 death
-1681 Aurangzeb south -> 1686 Bijapur -> 1687 Golconda
-1689 Sambhaji -> Rajaram/Gingee -> 1700 Tarabai
-1700-05 siege cycle -> 1707 unresolved imperial exit.
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Purandar, Agra and recovery
-
-```ascii-master
-JAI SINGH -> siege + diplomacy + proposed Mughal-Shivaji Deccan partnership
-1665 -> 23 forts surrendered | 12 retained | Sambhaji mansab 5000
-FORM -> subordinate alliance, not erased sovereignty or final peace
-1666 AGRA -> rank/placement/detention produce honour and trust rupture
-ESCAPE -> conflict resumes | 1670 -> forts and Surat recovered/raided
-MISSED SETTLEMENT -> possible political choice, never guaranteed outcome.
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Coronation and the language of sovereignty
-
-```ascii-master
-1674 RAIGAD -> independent royal rite and public status
-GAGA BHATTA -> Kshatriya validation amid contested social rank
-PURPOSE -> rise above Maratha chiefs + treaty equality + dynastic legitimacy
-IDIOM -> Sanskritic/Hindu kingship and regional political identity
-BORROWING -> Deccani-Persianate institutions and mixed service continue
-TRAP -> sovereignty claim is not modern communal nationalism.
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Ashtapradhan: eight offices, not a cabinet
-
-```ascii-master
-PESHWA/AMATYA/SACHIV/MANTRI -> administration, accounts, records, intelligence
-SUMANT/SENAPATI/NYAYADHISH/PANDITRAO -> diplomacy, army, justice, grants
-RELATION -> each responsible to Shivaji; no collective cabinet sovereignty
-LOCAL -> patil/deshmukh/mirasdar/village structures remain negotiated
-REFORM -> curb illegal exaction and over-mighty chiefs, not abolish all rights
-SOURCE LIMIT -> formal office list does not prove uniform daily functioning.
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Chauth and sardeshmukhi are distinct claims
-
-```ascii-master
-ASSESSMENT -> measurement/classification + village officers + Annaji 1679
-INCIDENCE -> about two-fifths plus cesses is debated; do not universalise
-CHAUTH -> one-fourth protection/non-raiding and later political claim
-SARDESHMUKHI -> separate additional 10% superior-deshmukh claim
-LATE WAR -> kamaishdars turn chauth into parallel district collection
-TRAP -> fiscal claim does not automatically equal territorial sovereignty.
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Cavalry and ganimi kava
-
-```ascii-master
-FORCE -> Mavali infantry + light cavalry + forts + intelligence
-METHOD -> speed + dispersal + night attack + supply disruption + negotiation
-GANIMI KAVA -> adaptive enemy-style irregular war, not timeless doctrine
-ALSO -> sieges, defence and set battles remain part of war
-MUGHAL BURDEN -> long routes + garrisons + seasons + elusive opponents
-VERDICT -> mobility worked as a system with forts and local revenue.
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Coast and navy: capability with scale limits
-
-```ascii-master
-PEOPLE -> Koli + Bhandari + Muslim + Maratha seafaring personnel
-CRAFT -> grabs/gallivats/gunboats + trading and supply vessels
-FORTS -> Sindhudurg/Vijaydurg/coastal nodes support creeks and routes
-AIMS -> Sidi check + trade/protection + supply + intelligence
-EUROPEANS -> negotiate/contest Portuguese and English presence
-LIMIT -> regional littoral capability, never Indian Ocean blue-water command.
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Resistance after Shivaji
-
-```ascii-master
-1680 -> Sambhaji wins succession | 1681 -> Prince Akbar connection
-1689 -> capture/execution removes recognised head, not resistance
-RAJARAM -> escapes to Gingee; distant royal centre + dispersed commanders
-1698 -> Gingee falls after Rajaram escapes
-1700 -> Tarabai leads for Shivaji II
-EFFECT -> decentralisation increases resilience and commander autonomy.
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Annexation removes buffers
-
-```ascii-master
-1686 BIJAPUR + 1687 GOLCONDA -> direct Mughal annexation
-GAIN -> territory, forts, treasury claims and formal sovereignty
-LOSS -> buffers, negotiable courts and local responsibility
-ADD -> Deccani nobles/soldiers + garrisons + long routes + administration
-LOOP 1700-05 -> capture fort -> garrison -> move -> Maratha return
-VERDICT -> conquest expands commitments faster than durable pacification.
-CLOSE DISTINCTION: Ashtapradhan was not a modern cabinet; chauth and sardeshmukhi varied by
-  claim, agreement, collection and territory.
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Jagirdari terms and the feedback loop
-
-```ascii-master
-BE-JAGIRI -> delay/shortage of productive assignment | PAIBAQI -> unsettled pool
-JAMA/HASIL -> paper claim exceeds collection in war-torn districts
-CHAUTH -> parallel Maratha claim | PRIVATE PACT -> jagirdar protects collection
-EXPANDED ELITE -> Mughal + Deccani + Maratha claimants
-FEEDBACK -> bad jagir -> weak troops/harsh collection -> resistance -> lower hasil
-DEBATE -> fiscal + administrative + military + social crisis, not one variable.
-EVIDENCE LIMIT: Deccan war and jagirdari crisis interacted with succession, ecology and
-  regional resistance but do not alone explain decline.
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Topic 23 final answer spine
-
-```ascii-master
-START -> ecology and Shahji service world; no geography/nationalist determinism
-TRACE -> forts/Javli -> Purandar/Agra -> coronation -> institutions
-EXPLAIN -> revenue + chauth/sardeshmukhi + army + littoral navy
-SUCCESSORS -> Sambhaji -> Rajaram/Gingee -> Tarabai
-IMPERIAL -> 1686/87 annexation -> logistics loop -> jagir feedback
-PYQ -> zero direct Topic-23 routes, 2018-2026; Mains has no key
-BOUND -> Topic 22 religion/Rajputs | Topic 25 full decline
-VERDICT -> regional state resilience exposed Mughal overextension.
-```
+- Geography (Sahyadri/Maval/Konkan) enabled but did not by itself create Maratha state power.
+- Shahji's career was mobile Deccan service (Bijapur, a Nizam Shahi claimant, and the wider Golconda-adjacent field), not hereditary nationalism.
+- Javli (1656) converted a contested pocket into route/node control; Afzal Khan's death (1659) is secure even where the blow-by-blow account is genre-dependent.
+- Purandar (1665) transferred 23 of 35 forts and granted Sambhaji mansab 5000 — a negotiated incorporation, not a final surrender.
+- Agra (1666) was a status/rank crisis Shivaji escaped; the exact escape method carries variable source weight.
+- The 1674 coronation founded a royal era (Rajyabhisheka Shaka) and asserted Kshatriya sovereignty; the Ashtapradhan's eight offices were individually ruler-responsible, not a collective cabinet.
+- Annaji Datto's c.1679 assessment strengthened estimation (jama); it is not the same as realised collection (hasil).
+- Chauth (one-fourth, protection-linked) and sardeshmukhi (a separate superior-deshmukh claim) must stay distinct.
+- Military remuneration mixed cash, plunder and local assignments; ganimi kava coexisted with siege defence (Panhala) and pitched battle (Salher).
+- The navy was a littoral force (gunboats, grabs, gallivats) based at forts like Sindhudurg — regional capacity, not a blue-water fleet.
+- Religious legitimacy combined a genuine Hindu royal idiom with Persianate institutions and Muslim personnel.
+- Sambhaji's 1689 execution decentralised, not ended, resistance; Rajaram used Jinji (Gingee) for depth and had already escaped when the fort fell in 1698; Tarabai regented for the named heir Shivaji II.
+- Bijapur (1686) and Golconda (1687) annexations added formal territory and displaced Deccani nobles/soldiers whose assignment claims fed jagir pressure.
+- The jagirdari crisis combines rank inflation (named Mughal, Deccani and Maratha-origin claimant groups), be-jagiri, the jama-hasil gap, paibaqi ambiguity, war disruption and short-tenure/transfer corruption — not one single cause.
+- Boundary discipline: Topic 18 carries policy through 1657, Topic 22 carries religion/Rajput/North India, Topic 24 carries society/economy/culture, Topic 25 carries the post-1707 confederate period.
+- No verified direct Topic-23 PYQ exists for 2018-2026; only routing-ledger evidence exists for adjacent items.

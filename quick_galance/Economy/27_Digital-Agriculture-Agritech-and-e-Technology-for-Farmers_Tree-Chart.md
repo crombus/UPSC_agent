@@ -73,14 +73,20 @@ DATA CUTOFF: 10 SEPTEMBER 2026 | EVERY CURRENT CLAIM NEEDS DATE + STATUS
 | Item | Verified status | Boundary |
 |---|---|---|
 | IDEA | June 2021 digital-ecosystem blueprint | Design framework, not completed registry |
-| Digital Agriculture Mission | Cabinet approval 3 Sep 2024; Rs 2,817 crore outlay, Rs 1,940 crore central share | Sanction is not expenditure or outcome |
+| Digital Agriculture Mission | Cabinet approval 3 Sep 2024; Rs 2,817 crore outlay, Rs 1,940 crore central share
+   | Sanction is not expenditure or outcome |
 | Krishi-DSS | Launched 16 Aug 2024 | Decision support, not autonomous authority |
-| Farmer Registry | DA&FW page checked 10 Sep 2026 displayed >10 crore Farmer IDs | Page snapshot; ID is not title or entitlement |
+| Farmer Registry | DA&FW page checked 10 Sep 2026 displayed >10 crore Farmer IDs | Page snapshot; ID is not
+   title or entitlement |
 | Georeferenced maps | Page displayed about 5 lakh plot-level village maps | Mapping does not cure legal disputes |
-| Digital Crop Survey | Page displayed >30 crore plots in 650 districts | Coverage does not prove accuracy or farmer benefit |
-| PM-KISAN | Portal checked 10 Sep 2026 displayed 9,44,65,646 benefited for Apr-Jul 2026-27 | Administrative period count; suspected cases may undergo physical verification |
-| PMFBY technology | Guidelines 2023; continuation/technology release 1 Jan 2025 through 2025-26 | Fresh post-window status must be rechecked |
-| e-NAM | Official Apr 2026 note: 1,656 mandis, 23 states + 4 UTs, >1.80 crore registered farmers as of Mar 2026 | Registration/trade does not prove farmer price gain |
+| Digital Crop Survey | Page displayed >30 crore plots in 650 districts | Coverage does not prove accuracy or
+   farmer benefit |
+| PM-KISAN | Portal checked 10 Sep 2026 displayed 9,44,65,646 benefited for Apr-Jul 2026-27 | Administrative
+   period count; suspected cases may undergo physical verification |
+| PMFBY technology | Guidelines 2023; continuation/technology release 1 Jan 2025 through 2025-26 | Fresh
+   post-window status must be rechecked |
+| e-NAM | Official Apr 2026 note: 1,656 mandis, 23 states + 4 UTs, >1.80 crore registered farmers as of Mar 2026
+   | Registration/trade does not prove farmer price gain |
 | DPDP | Rules notified 13 Nov 2025 with phased commencement | Enactment, notification and operation differ |
 | Drones | Drone Rules 2021 plus DA&FW 2023 agricultural SOP | Aviation approval does not authorise every input/task |
 
@@ -93,12 +99,14 @@ DATA CUTOFF: 10 SEPTEMBER 2026 | EVERY CURRENT CLAIM NEEDS DATE + STATUS
 - **DGCES / CCE:** Digital General Crop Estimation Survey / Crop Cutting Experiment.
 - **Krishi-DSS:** Krishi Decision Support System.
 - **MNCFC:** Mahalanobis National Crop Forecast Centre.
-- **GIS / GNSS / GPS / NavIC:** spatial information system / satellite navigation class / US constellation / Indian regional navigation system.
+- **GIS / GNSS / GPS / NavIC:** spatial information system / satellite navigation class / US constellation /
+   Indian regional navigation system.
 - **IoT / AI / ML:** Internet of Things / Artificial Intelligence / Machine Learning.
 - **PM-KISAN / DBT / eKYC:** income-support scheme / Direct Benefit Transfer / electronic Know Your Customer.
 - **KCC / KRP:** Kisan Credit Card / Kisan Rin Portal.
 - **PMFBY / YES-TECH / WINDS:** crop insurance / technology-based yield estimation / weather information network.
-- **e-NAM / SFAC / FPO:** electronic National Agriculture Market / Small Farmers' Agribusiness Consortium / Farmer Producer Organisation.
+- **e-NAM / SFAC / FPO:** electronic National Agriculture Market / Small Farmers' Agribusiness Consortium /
+   Farmer Producer Organisation.
 - **DPDP:** Digital Personal Data Protection.
 
 ## Prelims traps
@@ -115,7 +123,9 @@ DATA CUTOFF: 10 SEPTEMBER 2026 | EVERY CURRENT CLAIM NEEDS DATE + STATUS
 
 ## Mains spine
 
-**Farm-stage problem -> technology/data -> named dated evidence -> welfare mechanism -> weakest physical/institutional complement -> exclusion/error/platform risk -> correction/reform -> net-income, resilience and farmer-control verdict.**
+**Farm-stage problem -> technology/data -> named dated evidence -> welfare mechanism -> weakest
+   physical/institutional complement -> exclusion/error/platform risk -> correction/reform -> net-income,
+   resilience and farmer-control verdict.**
 
 ## Evaluation scorecard
 
@@ -128,4 +138,5 @@ DATA CUTOFF: 10 SEPTEMBER 2026 | EVERY CURRENT CLAIM NEEDS DATE + STATUS
 | Users registered | Did active use improve price, cost or risk? |
 | Claims digitised | Did timeliness, accuracy and appeal improve? |
 
-**Boundary:** Topic 13 owns full market institutions; Topic 14 owns input/credit/insurance depth; Topic 24 owns general digital-platform law; Topic 29 owns wider agricultural technology missions.
+**Boundary:** Topic 13 owns full market institutions; Topic 14 owns input/credit/insurance depth; Topic 24 owns
+   general digital-platform law; Topic 29 owns wider agricultural technology missions.

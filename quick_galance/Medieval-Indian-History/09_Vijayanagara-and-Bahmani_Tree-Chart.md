@@ -424,3 +424,13 @@ but centralising projects repeatedly collided with nayak, taraf and
 factional autonomy, producing successor states rather than abrupt
 civilizational breaks.
 ```
+
+
+## Verified 2026 routed support
+
+- **2026 GS-I Q11 (verified local paper):** "Vijayanagara architecture
+  exemplifies the amalgamation of past traditions with contemporary practices.
+  Elucidate with examples." (15 marks, 250 words). Treat as a routed
+  architecture-support PYQ here; the 2026 routing ledger assigns primary
+  ownership to Indian Art & Culture, but Topic 09 must still use it honestly
+  when architecture is discussed.

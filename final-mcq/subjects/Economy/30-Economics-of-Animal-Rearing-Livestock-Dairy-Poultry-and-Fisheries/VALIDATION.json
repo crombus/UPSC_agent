@@ -1,0 +1,58 @@
+{
+  "topic": "30-Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 49,
+      "answers": 49,
+      "max_option_spread": 22,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 12,
+        "C": 17,
+        "A": 11,
+        "B": 9
+      },
+      "fingerprint": "8b46ad463e81a830"
+    },
+    {
+      "bank": 2,
+      "questions": 49,
+      "answers": 49,
+      "max_option_spread": 22,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 13,
+        "A": 15,
+        "C": 9,
+        "B": 12
+      },
+      "fingerprint": "2ba1b75c45b6b4a8"
+    },
+    {
+      "bank": 3,
+      "questions": 49,
+      "answers": 49,
+      "max_option_spread": 22,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 14,
+        "A": 8,
+        "B": 20,
+        "D": 7
+      },
+      "fingerprint": "d37924335e02212e"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

@@ -15,25 +15,29 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 13 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Baseline diagnostic MCQs | 32 |
+| Question-specific option explanations (all MCQs) | 136 |
+| Examiner traps (all MCQs) | 34 |
+| Supplementary 2026 conceptual MCQs (each with four option explanations and a trap) | 2 |
+| Total MCQs (baseline plus coverage-driven supplements; not a quota) | 34 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 15 |
+| Original solved Mains models — six baseline plus targeted syllabus-gap practice | 7 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so that the answer cannot be spotted by shape.
+1. Attempt all diagnostic and supplementary MCQs without notes; read every option explanation after attempting the question.
 2. Work the eight remedial drills only after the core set. They target socialism collapsed into communism, "utopian" read as an insult and "scientific" as a guarantee, Gandhian trusteeship presented without its objection, fascism or liberalism imported as printed families and the 2022 equity part wrongly claimed, invented dates for authors the repository does not date, an Indian statute used as philosophical proof, the anarchist–Marxist exchange declared settled, and relevance stems answered with examples instead of the three-column judgment.
 3. Attempt each previous-year part under time before reading its solution. **Decide the family from the stem first**: four owned parts concern anarchism, two concern Gandhi, six concern Marxism, and two concern socialism as a family — one of which is shared with Gandhi.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 to 220 words, 15 marks about 250 to 330, 20 marks about 330 to 400**.
+4. Write all seven original models, including the targeted syllabus-gap question; prioritise directive, argument and evidence rather than a preset length limit. The number of practice models follows coverage, not a marks quota.
 5. Check every answer against the traps: anarchy used for anarchism, anarchism defined only negatively, Proudhon quoted without the qualification, Godwin and Tolstoy omitted from a taxonomy, "thesis–antithesis–synthesis" attributed to Marx, base → superstructure written as a mechanical cause, alienation treated as unhappiness or merged with exploitation, "dictatorship of the proletariat" read in its twentieth-century sense, "to each according to contribution" presented as Marx's ideal, the qualifier dropped from "relative autonomy", Gramsci merged with Althusser, socialism identified with state ownership, socialism used as a synonym for communism, and any Indian actor characterised.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+**Count rationale (34; not a fixed target):** The baseline tests anarchist strands and authority, Marxian production/alienation/ideology and its revisions, socialism's property and control problem and Gandhian objections. Two additional cases isolate the 2026 independence-of-anarchism and class-neutral-democracy traps. Fifteen primary-owned PYQs plus seven original Mains arguments test transitions and comparative remedies beyond single-answer checks. The early ideology vocabulary items are gateways, not evidence that every MCQ is at the same difficulty.
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+### Baseline MCQs — core diagnostics and remedial error-targeting drills
+
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Political Ideologies: Anarchism; Marxism and Socialism* — together with the six-component test for an ideology and the discriminating question of domination, the two senses of "ideology", anarchy against anarchism and the minimal-state test, the burden-of-justification argument and its load-bearing premise, Proudhon's qualification on property, the five strands and the Godwin–Tolstoy lineage, the four objections and the one that is conceded, Gandhi as a qualified political anarchist, Marxism's four simultaneous aspects and the safe use of dialectical materialism, historical materialism's fetters mechanism and the base–superstructure caution, alienation's four dimensions with the wages distinction, exploitation as structural and its difference from inequality, ideology as naturalisation rather than deception, the transitional dictatorship and communism, the Gotha two-phase distinction, the four classical claims revised by Lenin, Gramsci, Miliband–Poulantzas and Althusser, the agency difference between hegemony and the apparatuses, the internal limit of relative autonomy, and socialism as a family with the nationalisation-is-not-socialisation control. The eight remedial drills attack the errors that cost marks every year on this clause: collapsing socialism into communism, reading "utopian" as an insult and "scientific" as a guarantee, presenting Gandhian trusteeship without its objection, importing fascism or liberalism or claiming the 2022 equity part, mis-dating the provenance items the paper can punish, using an Indian statute as proof of a philosophical thesis, presenting the anarchist–Marxist exchange as settled, and answering a relevance stem with examples instead of the three-column judgment.
 
@@ -41,299 +45,469 @@ variant: learner-v2
 
 A candidate defines anarchism simply as "the belief that the state should be abolished". On the six-component test used in this package, what is chiefly missing from that definition?
 
-A. The historical sequence through which the doctrine developed, without which no political ideology can be properly identified or compared with its rivals.
-
-B. The names of the principal thinkers associated with it, since an ideology is constituted by the authors who articulate and defend its positions.
-
-C. The description, diagnosis, evaluation, strategy and regulative picture, without which an evaluative slogan has been supplied in place of a structure.
-
-D. The empirical evidence for its claims about society, since a doctrine unsupported by observation cannot count as an action-guiding political structure.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: chronology helps avoid anachronism but is not one of the six components, and a structure containing all six would qualify even if its history were unknown.
-- **B:** Incorrect: thinkers illustrate an ideology rather than constitute it, and the same doctrine can be held by writers who never read one another.
-- **C:** Correct: an ideology requires a description of person, society and power, a diagnosis of domination, an evaluation through freedom, equality and justice, a view of property, authority and the state, a strategy of change and a regulative picture of the order sought.
-- **D:** Incorrect: empirical support bears on whether an ideology is true, not on whether the structure before us is an ideology at all.
-
-**Examiner trap 1:** Opening an "evaluate X as a political ideology" answer without defining what an ideology is spends the introduction on the doctrine and leaves the examiner with no sign that the candidate has noticed the word the stem actually turns on.
+A. The description, diagnosis, evaluation, strategy and regulative picture, without which an evaluative slogan has been supplied in place of a structure.
+B. The empirical evidence for its claims about society, since a doctrine unsupported by observation cannot count as an action-guiding political structure.
+C. The historical sequence through which the doctrine developed, without which no political ideology can be properly identified or compared with its rivals.
+D. The names of the principal thinkers associated with it, since an ideology is constituted by the authors who articulate and defend its positions.
 
 #### MCQ 2. The question that separates the three printed families
 
 On the account developed in this package, what single question do anarchism, Marxism and socialism answer differently, and how do their answers divide?
 
-A. What chiefly produces domination — anarchism answers coercive authority, socialism answers socially uncontrolled property, and Marxism answers class relations generated by the mode of production.
-
-B. What form of government is best — anarchism answers direct democracy, socialism answers parliamentary rule, and Marxism answers the dictatorship of a disciplined vanguard party of professional revolutionaries.
-
-C. How wealth should be distributed — anarchism answers by need, socialism answers by contribution, and Marxism answers by an equal division of the total social product among all producing citizens.
-
-D. Whether human nature is good — anarchism answers yes, socialism answers conditionally, and Marxism answers that the question is settled by the level of productive forces a society has attained.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the discriminating question is what chiefly produces domination and what institutional change would remove it, and the three families are three rival answers to precisely that question.
-- **B:** Incorrect: forms of government belong to a different owner, and none of the three families is defined by a preferred constitutional form.
-- **C:** Incorrect: distribution is one axis among seven, and the contribution/need contrast belongs inside Marx's own two-phase account rather than between the families.
-- **D:** Incorrect: anarchism is an institutional thesis rather than an optimistic anthropology, and Marxism makes no claim that productive forces settle questions of human nature.
-
-**Examiner trap 2:** Treating the clause as three separate topics produces three sequential mini-essays, which is the commonest structural failure here and is visible to the examiner within the first paragraph of the answer.
+A. Whether human nature is good — anarchism answers yes, socialism answers conditionally, and Marxism answers that the question is settled by the level of productive forces a society has attained.
+B. What chiefly produces domination — anarchism answers coercive authority, socialism answers socially uncontrolled property, and Marxism answers class relations generated by the mode of production.
+C. What form of government is best — anarchism answers direct democracy, socialism answers parliamentary rule, and Marxism answers the dictatorship of a disciplined vanguard party of professional revolutionaries.
+D. How wealth should be distributed — anarchism answers by need, socialism answers by contribution, and Marxism answers by an equal division of the total social product among all producing citizens.
 
 #### MCQ 3. The two senses of "ideology" inside this clause
 
 Why must a candidate declare which sense of "ideology" is in play before answering a stem in this clause?
 
-A. Because the syllabus prints the word in the title of the clause, and examiners expect the printed wording to be reproduced verbatim in the opening line of every answer.
-
-B. Because the analytical sense applies to anarchism and socialism while the critical sense applies only to Marxism, so the wrong sense makes two of the three families unintelligible.
-
-C. Because one sense is used by supporters of a doctrine and the other by its opponents, so the choice signals whether the candidate is defending or attacking the position taken.
-
-D. Because the analytical sense names an avowed, argued structure while the critical sense names a framework in which historically specific relations appear natural and inevitable.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: reproducing the syllabus wording is good practice but has nothing to do with the ambiguity, which is conceptual rather than presentational.
-- **B:** Incorrect: the critical sense is a general account of how any social order naturalises itself, and it is not restricted in application to Marxism alone.
-- **C:** Incorrect: both senses are used analytically by supporters and critics alike, and neither carries an inbuilt evaluative stance towards the doctrine described.
-- **D:** Correct: the analytical sense picks out an organised, avowed and argued action-guiding structure, whereas the critical sense picks out a socially rooted framework through which historically specific relations appear natural, universal or inevitable.
-
-**Examiner trap 3:** Using "ideology" as a synonym for opinion, slogan or party programme abandons the concept that makes Marxism simultaneously an ideology in one sense and the theory of ideology in the other.
+A. Because the analytical sense applies to anarchism and socialism while the critical sense applies only to Marxism, so the wrong sense makes two of the three families unintelligible.
+B. Because one sense is used by supporters of a doctrine and the other by its opponents, so the choice signals whether the candidate is defending or attacking the position taken.
+C. Because the analytical sense names an avowed, argued structure while the critical sense names a framework in which historically specific relations appear natural and inevitable.
+D. Because the syllabus prints the word in the title of the clause, and examiners expect the printed wording to be reproduced verbatim in the opening line of every answer.
 
 #### MCQ 4. Anarchy against anarchism
 
 A 2020-pattern stem asks whether a prevailing pandemic will lead to anarchism in society. Which discrimination decides the answer?
 
-A. Anarchism refers to a movement while anarchy refers to a political party, so the stem is asking about organisational strength rather than about the doctrine itself.
-
-B. Anarchy is the absence or collapse of effective rule and may mean disorder, while anarchism is a normative critique of domination that proposes non-coercive order.
-
-C. Anarchy describes conditions in developing societies while anarchism describes conditions in developed ones, so the stem depends on which type of society is meant.
-
-D. Anarchy applies to short-term breakdown while anarchism applies to the same breakdown once it has persisted long enough to become the society's normal condition.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: neither term names a party, and treating the stem as a question about organisational strength substitutes a sociological enquiry for a philosophical one.
-- **B:** Correct: anarchy is a condition that may mean disorder, whereas anarchism is a doctrine with a positive institutional programme of voluntary association, mutual aid and federation.
-- **C:** Incorrect: the distinction is conceptual and not developmental, and neither term is indexed to a level of economic development.
-- **D:** Incorrect: duration does not convert a breakdown into a doctrine, and a permanently disordered society would still be an instance of anarchy rather than of anarchism.
-
-**Examiner trap 4:** Writing about looting, breakdown and the failure of authority answers a question about a condition when the paper has asked about an ideology, and no amount of subsequent argument recovers the marks lost in the framing.
+A. Anarchy describes conditions in developing societies while anarchism describes conditions in developed ones, so the stem depends on which type of society is meant.
+B. Anarchy applies to short-term breakdown while anarchism applies to the same breakdown once it has persisted long enough to become the society's normal condition.
+C. Anarchism refers to a movement while anarchy refers to a political party, so the stem is asking about organisational strength rather than about the doctrine itself.
+D. Anarchy is the absence or collapse of effective rule and may mean disorder, while anarchism is a normative critique of domination that proposes non-coercive order.
 
 #### MCQ 5. Why the libertarian minimal state is not a mild anarchism
 
 What exactly does anarchism object to in the night-watchman state restricted to protecting person and property?
 
-A. Its excessive size, since a state confined to protection still employs large numbers of officials and consumes resources that voluntary associations could use more efficiently.
-
-B. Its indifference to distribution, since a state that protects property without redistributing it entrenches the inequalities that the anarchist tradition exists to attack.
-
-C. Its historical origins, since every existing minimal state emerged from conquest and can therefore claim no legitimacy for the functions it has retained.
-
-D. Its retained monopoly, since anarchism targets the exclusive standing right to make, enforce and adjudicate law rather than the number of functions performed.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: size is not the discriminating test, and a very small state that retains the monopoly remains the target of the burden-of-justification argument.
-- **B:** Incorrect: distributive objections belong to the socialist and Marxist families, and several individualist anarchists share the minimal state's view of redistribution.
-- **C:** Incorrect: the anarchist claim is that historical existence establishes nothing about legitimacy either way, so origins cannot do the work this option assigns them.
-- **D:** Correct: anarchism rejects even the minimal state's monopoly of law-making, coercion and punishment, which is what the argument against a standing right to command is directed at.
-
-**Examiner trap 5:** Presenting anarchism as "the smallest possible government" makes it a variety of libertarianism and loses the doctrine's central claim, which concerns the exclusive right to command rather than the scale of administration.
+A. Its retained monopoly, since anarchism targets the exclusive standing right to make, enforce and adjudicate law rather than the number of functions performed.
+B. Its excessive size, since a state confined to protection still employs large numbers of officials and consumes resources that voluntary associations could use more efficiently.
+C. Its indifference to distribution, since a state that protects property without redistributing it entrenches the inequalities that the anarchist tradition exists to attack.
+D. Its historical origins, since every existing minimal state emerged from conquest and can therefore claim no legitimacy for the functions it has retained.
 
 #### MCQ 6. The load-bearing premise of the anarchist argument
 
 In the five-step argument against the state, which premise does the anarchist conclusion actually depend on, and why?
 
-A. The first, that legitimate authority must respect the autonomy and equality of persons, because this premise is denied by every serious defender of the state and is therefore where the dispute properly begins.
-
-B. The second, that the state claims a territorial monopoly, because a monopoly is by definition unjustifiable and the remaining premises merely elaborate that impossibility.
-
-C. The third, that obedience is demanded because a command is legally authoritative rather than because its content is independently right, since content-independence generates the subordination.
-
-D. The fifth, that the burden of justification has not been discharged, because the anarchist's whole case consists in the demonstrated historical failure of every consent theory to supply a justification.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the first premise is the least contested step in the chain, since defenders of the state typically accept it and argue that political authority satisfies it.
-- **B:** Incorrect: a monopoly is not unjustifiable by definition, and the argument has to show why this particular monopoly cannot be justified rather than assuming it.
-- **C:** Correct: content-independence is what distinguishes legal authority from moral advice, and it is precisely the demand for obedience irrespective of the addressee's own assessment that subordinates judgment to institutional will.
-- **D:** Incorrect: the fifth step is the conclusion rather than a premise, and it records the anarchist's verdict on the preceding chain instead of supporting it.
-
-**Examiner trap 6:** Writing the argument as continuous prose hides its structure; an examiner can see a numbered chain of premises immediately and cannot see an argument that has been dissolved into a paragraph of description.
+A. The second, that the state claims a territorial monopoly, because a monopoly is by definition unjustifiable and the remaining premises merely elaborate that impossibility.
+B. The third, that obedience is demanded because a command is legally authoritative rather than because its content is independently right, since content-independence generates the subordination.
+C. The fifth, that the burden of justification has not been discharged, because the anarchist's whole case consists in the demonstrated historical failure of every consent theory to supply a justification.
+D. The first, that legitimate authority must respect the autonomy and equality of persons, because this premise is denied by every serious defender of the state and is therefore where the dispute properly begins.
 
 #### MCQ 7. Proudhon on property, stated precisely
 
 Which formulation reproduces Proudhon's attack on property without overstating it?
 
-A. Property is attacked where it functions as an institutional power of appropriation and dependence, which leaves possession and reciprocal exchange defensible.
-
-B. Property in every form is theft, so that personal possessions, tools of trade and dwellings are equally illegitimate and must be surrendered to the commune.
-
-C. Property is legitimate where it is acquired by labour, so that all inherited holdings are void while purchased and worked holdings remain fully justified.
-
-D. Property is a natural right that the state has corrupted, so that abolishing the state would restore property to its original and uncorrupted moral condition.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the target is property where it operates as a power of appropriation and dependence over others' labour and life-chances, which is exactly why mutualism can defend possession while attacking property.
-- **B:** Incorrect: the blanket reading strips out the qualification that makes mutualism coherent, since mutualism explicitly preserves possession and exchange.
-- **C:** Incorrect: the labour-acquisition criterion belongs to a different tradition and does not capture Proudhon's objection to property as an institutional relation of power.
-- **D:** Incorrect: this reverses the position, since Proudhon treats exploitative property as itself a source of domination rather than as a natural right corrupted by government.
-
-**Examiner trap 7:** Quoting the slogan without the qualification makes Proudhon appear to attack personal possessions, and it removes the distinction between possession and property on which his whole programme of contracts and workers' associations depends.
+A. Property is legitimate where it is acquired by labour, so that all inherited holdings are void while purchased and worked holdings remain fully justified.
+B. Property is a natural right that the state has corrupted, so that abolishing the state would restore property to its original and uncorrupted moral condition.
+C. Property is attacked where it functions as an institutional power of appropriation and dependence, which leaves possession and reciprocal exchange defensible.
+D. Property in every form is theft, so that personal possessions, tools of trade and dwellings are equally illegitimate and must be surrendered to the commune.
 
 #### MCQ 8. Sorting the anarchist strands
 
 Four anarchist strands divide on the property axis and a fifth does not. Which statement correctly identifies the odd one and its distinctive claim?
 
-A. Individualist anarchism, which is distinctive because it permits markets and therefore cannot be located on an axis concerned with the ownership of productive resources.
-
-B. Philosophical anarchism, which is distinctive because it asserts that there is no automatic duty to obey the state while permitting critical allegiance to existing institutions.
-
-C. Anarcho-communism, which is distinctive because distribution by need concerns the disposal of the product rather than the ownership of the means of producing it.
-
-D. Mutualism, which is distinctive because contracts and workers' associations are coordinating devices rather than positions about who owns productive resources.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: individualist anarchism does take a position on property, asserting strong personal sovereignty, and its internal disagreement about markets is a variation within that position.
-- **B:** Correct: philosophical anarchism is defined by a claim about legitimacy rather than about ownership, holding that there is no automatic duty to obey while allowing critical allegiance to institutions.
-- **C:** Incorrect: anarcho-communism is squarely on the property axis, since common ownership of productive resources is precisely what it asserts.
-- **D:** Incorrect: mutualism's defence of possession against exploitative property is a property position, and its contractual devices follow from that position rather than replacing it.
-
-**Examiner trap 8:** Presenting all anarchists as collectivists ignores individualist and market-oriented variants, and it makes the family look internally uniform when the taxonomy question is asked precisely because it is not.
+A. Anarcho-communism, which is distinctive because distribution by need concerns the disposal of the product rather than the ownership of the means of producing it.
+B. Mutualism, which is distinctive because contracts and workers' associations are coordinating devices rather than positions about who owns productive resources.
+C. Individualist anarchism, which is distinctive because it permits markets and therefore cannot be located on an axis concerned with the ownership of productive resources.
+D. Philosophical anarchism, which is distinctive because it asserts that there is no automatic duty to obey the state while permitting critical allegiance to existing institutions.
 
 #### MCQ 9. Godwin and Tolstoy, kept precise
 
 Which pair of statements about Godwin and Tolstoy is accurate as the sources present them?
 
-A. Godwin advocates immediate insurrection against every existing government, and Tolstoy is the direct originator of Gandhi's organised mass politics and his constructive programme.
-
-B. Godwin offers rational and educative criticism of government as coercion recedes, and Tolstoy offers a Christian-pacifist refusal that influenced Gandhi without being identical to him.
-
-C. Godwin founds anarcho-communism on mutual aid, and Tolstoy founds collectivist anarchism on the claim that concentrated revolutionary authority creates a new ruling stratum.
-
-D. Godwin defends possession against exploitative property, and Tolstoy defends the abolition of organised religion as a precondition of any genuinely anarchist social order.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Godwin expects cooperation to grow as coercive institutions recede rather than calling for insurrection, and Gandhi's organised mass politics has no Tolstoyan counterpart.
-- **B:** Correct: this reproduces both attributions with the two qualifications the paper can punish — Godwin's educative rationalism and Tolstoy's status as an influence on rather than an equivalent of Gandhi.
-- **C:** Incorrect: mutual aid and anarchist communism belong to Kropotkin, and the warning about a new ruling stratum belongs to Bakunin.
-- **D:** Incorrect: the defence of possession is Proudhon's, and Tolstoy's position is a Christian-pacifist refusal of violence rather than an abolition of religion.
-
-**Examiner trap 9:** Omitting Godwin and Tolstoy from a strand-and-thinker taxonomy loses the breadth mark, while merging Tolstoy into Gandhi loses the precision mark — and a taxonomy stem is scored on both.
+A. Godwin offers rational and educative criticism of government as coercion recedes, and Tolstoy offers a Christian-pacifist refusal that influenced Gandhi without being identical to him.
+B. Godwin founds anarcho-communism on mutual aid, and Tolstoy founds collectivist anarchism on the claim that concentrated revolutionary authority creates a new ruling stratum.
+C. Godwin defends possession against exploitative property, and Tolstoy defends the abolition of organised religion as a precondition of any genuinely anarchist social order.
+D. Godwin advocates immediate insurrection against every existing government, and Tolstoy is the direct originator of Gandhi's organised mass politics and his constructive programme.
 
 #### MCQ 10. Which objection to anarchism is conceded
 
 Of the four standing objections to anarchism, which one receives a reply that is an admission rather than a refutation?
 
-A. The security dilemma, because the anarchist can only observe that states have themselves organised war and repression, which leaves the problem of private predation entirely unaddressed.
-
-B. The scale objection, because delegated and federated administration remains an aspiration for which the tradition supplies no worked institutional design at any level of complexity.
-
-C. The anthropological objection, because anarchists must ultimately assume a degree of natural benevolence that the historical record does not support anywhere.
-
-D. The hidden-authority objection, because expertise, informal status and economic power return after the state disappears and must be scrutinised inside voluntary associations.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the security reply is more than a counter-accusation, since it adds federated defence and restorative institutions as the positive institutional proposal.
-- **B:** Incorrect: the scale reply relocates the dispute successfully by distinguishing centralised domination from coordination, which is a substantive answer rather than an admission.
-- **C:** Incorrect: this is the strongest of the four replies, because anarchists need only deny that coercive hierarchy is the unique or best remedy rather than assert benevolence.
-- **D:** Correct: the reply concedes that this is a serious internal challenge and redirects anarchist theory towards scrutinising domination inside voluntary associations rather than merely abolishing formal offices.
-
-**Examiner trap 10:** Answering all four objections with equal confidence conceals the asymmetry that a critical-examination stem is scored on, and it removes the residual that decides whether political authority can be dispensed with completely.
+A. The anthropological objection, because anarchists must ultimately assume a degree of natural benevolence that the historical record does not support anywhere.
+B. The hidden-authority objection, because expertise, informal status and economic power return after the state disappears and must be scrutinised inside voluntary associations.
+C. The security dilemma, because the anarchist can only observe that states have themselves organised war and repression, which leaves the problem of private predation entirely unaddressed.
+D. The scale objection, because delegated and federated administration remains an aspiration for which the tradition supplies no worked institutional design at any level of complexity.
 
 #### MCQ 11. Gandhi as a political anarchist
 
 Which formulation states the relation between Gandhi and anarchism with the precision an evaluation stem requires?
 
-A. Gandhi is a moral and decentralist anarchist in ideal but a pragmatic reformer in political method, since non-violence, trusteeship and the constructive programme replace class war.
-
-B. Gandhi is a complete anarchist, since his demand for village self-rule and a minimal state is identical in content to the revolutionary programmes of Bakunin and Kropotkin alike.
-
-C. Gandhi is not an anarchist in any respect, since he negotiated with an imperial government and accepted an independent state possessing an army and a police force.
-
-D. Gandhi is an anarchist in method but not in ideal, since satyāgraha is a form of direct action while his end-state retains a fully sovereign national government.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the affinity holds at the level of the regulative ideal — self-rule, decentralised village republics, a state reduced to a minimum — while non-violence, trusteeship, religious ethics and the constructive programme break with classical social anarchism's method.
-- **B:** Incorrect: the identification ignores four structural breaks, of which the replacement of expropriation by trusteeship and of anti-theism by religious ethics are the sharpest.
-- **C:** Incorrect: the objection is decisive against an unqualified identification and irrelevant against the qualified claim the stem invites the candidate to assess.
-- **D:** Incorrect: this inverts the relation, since it is the end-state that is anarchist and the method that is reformist rather than the other way round.
-
-**Examiner trap 11:** Answering an "evaluate" stem with a flat yes or a flat no discards the qualification in which the marks lie, because the examiner is testing whether the candidate can locate exactly where a description fits and where it fails.
+A. Gandhi is not an anarchist in any respect, since he negotiated with an imperial government and accepted an independent state possessing an army and a police force.
+B. Gandhi is an anarchist in method but not in ideal, since satyāgraha is a form of direct action while his end-state retains a fully sovereign national government.
+C. Gandhi is a moral and decentralist anarchist in ideal but a pragmatic reformer in political method, since non-violence, trusteeship and the constructive programme replace class war.
+D. Gandhi is a complete anarchist, since his demand for village self-rule and a minimal state is identical in content to the revolutionary programmes of Bakunin and Kropotkin alike.
 
 #### MCQ 12. Marxism's four simultaneous aspects
 
 Why does the package insist that an evaluation of Marxism must separate four aspects before delivering a verdict?
 
-A. Because the four aspects were developed by four different thinkers in four different historical periods, so a verdict on Marxism must first specify which of the four authors is being evaluated.
-
-B. Because the syllabus prints Marxism alongside socialism, and the four aspects are the conventional device for distinguishing the two printed families of doctrine from one another.
-
-C. Because Marxism is simultaneously a method, a critique, a theory of change and a political project, and its diagnostic power and institutional record must be graded on different scales.
-
-D. Because a four-part structure is the conventional length for a fifteen-mark answer, and each aspect supplies roughly one paragraph of the required exposition.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: all four aspects are present in Marx himself, and the later revisions of Sessions 15 to 17 modify specific claims rather than supplying separate aspects.
-- **B:** Incorrect: socialism and Marxism are distinguished by the family/member relation and by the range of methods and ownership forms, not by this fourfold division.
-- **C:** Correct: the division prevents the illegitimate inference that a failure of the political project refutes the method or the critique, which is exactly what an evaluation stem tests.
-- **D:** Incorrect: the division is analytical rather than presentational, and using it as a paragraph template rather than as a grading device produces four descriptions and no verdict.
-
-**Examiner trap 12:** Delivering one global verdict on "Marxism" concedes that the candidate has not noticed the doctrine contains an analysis that may survive and a transitional programme that may not.
+A. Because a four-part structure is the conventional length for a fifteen-mark answer, and each aspect supplies roughly one paragraph of the required exposition.
+B. Because the four aspects were developed by four different thinkers in four different historical periods, so a verdict on Marxism must first specify which of the four authors is being evaluated.
+C. Because the syllabus prints Marxism alongside socialism, and the four aspects are the conventional device for distinguishing the two printed families of doctrine from one another.
+D. Because Marxism is simultaneously a method, a critique, a theory of change and a political project, and its diagnostic power and institutional record must be graded on different scales.
 
 #### MCQ 13. Using dialectical materialism safely
 
 Which combination correctly states what to keep from Hegel, what Marx rejects, and what should not be attributed to Marx at all?
 
-A. Keep the self-developing Idea, reject material conditioning, and do not attribute the claim that contradiction drives development, which belongs to Engels alone.
-
-B. Keep the primacy of consciousness, reject class struggle as a historical motor, and do not attribute the base–superstructure vocabulary, which is a later addition.
-
-C. Keep the priority of nature over history, reject praxis as a category, and do not attribute the doctrine of the withering away of the state to Marx himself.
-
-D. Keep the idea that contradiction drives development, reject the primacy of the self-developing Idea, and do not attribute "thesis–antithesis–synthesis" to Marx as a fixed law.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: this exactly reverses the inheritance, since Marx retains the role of contradiction and rejects the Idea rather than the other way round.
-- **B:** Incorrect: the primacy of consciousness is what Marx inverts, class struggle is central to his account, and base and superstructure are his own vocabulary.
-- **C:** Incorrect: praxis is a Marxian category rather than one he rejects, and the expectation about the state's withering is part of the tradition he initiates.
-- **D:** Correct: contradiction as the motor of development is retained, the self-developing Idea is rejected in favour of contradictions embedded in material life, and the three-step formula is a later textbook shorthand.
-
-**Examiner trap 13:** Writing "thesis–antithesis–synthesis" as Marx's own formula is a small attribution error that signals a large gap, because it shows the candidate has learned a summary rather than the argument.
+A. Keep the idea that contradiction drives development, reject the primacy of the self-developing Idea, and do not attribute "thesis–antithesis–synthesis" to Marx as a fixed law.
+B. Keep the self-developing Idea, reject material conditioning, and do not attribute the claim that contradiction drives development, which belongs to Engels alone.
+C. Keep the primacy of consciousness, reject class struggle as a historical motor, and do not attribute the base–superstructure vocabulary, which is a later addition.
+D. Keep the priority of nature over history, reject praxis as a category, and do not attribute the doctrine of the withering away of the state to Marx himself.
 
 #### MCQ 14. The mechanism inside historical materialism
 
 A 2023-pattern stem asks the candidate to explain historical materialism and discuss its relevance to social development and change. Which element supplies the mechanism of change?
 
 A. The base–superstructure relation, since law, politics and ideology are the instruments through which the ruling class directly imposes each successive mode of production.
-
 B. The development of productive forces to the point where existing relations of production become fetters, so that the conflict is fought out as social and political struggle.
-
 C. The distinction between productive forces and relations of production, since a classification of the two is what allows historical epochs to be distinguished from one another.
-
 D. The definition of the mode of production as the unity of forces and relations, since a unity of opposites is by itself sufficient to generate transformation over time.
+
+#### MCQ 15. The base–superstructure caution
+
+Which criticism of historical materialism should a candidate concede, and which should be refused?
+
+A. Concede that Marx denied any role whatever to political agency; refuse the claim that the theory has anything of substance to say about law, religion, art or culture.
+B. Concede that the theory is a description of feudal and early capitalist Europe only; refuse the claim that it makes any prediction about the direction of historical change.
+C. Concede a tendency toward economic reductionism; refuse the claim that Marx held the economic base to cause every idea mechanically, since he allows reciprocal effects and agency.
+D. Concede that the base and the superstructure are wholly indistinguishable in practice; refuse the claim that ownership relations carry any explanatory priority whatever.
+
+#### MCQ 16. Alienation, stated as Marx states it
+
+Which statement captures the feature of alienation that a 2024-pattern exposition stem is chiefly scored on?
+
+A. That alienation is a psychological condition produced by long working hours, which is why reductions in the working day are its most direct remedy.
+B. That alienation arises only under industrial factory production, so that agricultural and artisanal labour are by their nature free from estrangement.
+C. That alienation is identical with exploitation, since both describe the appropriation of the worker's product by the owner of the means of production.
+D. That alienation is broader than low wages, since a well-paid worker can remain alienated where labour, product and purpose are controlled by others.
+
+#### MCQ 17. Exploitation, and what distinguishes it from inequality
+
+Why does Marx insist that capitalist exploitation differs from theft, and what distinction follows?
+
+A. Because labour-power is bought under a formally free contract, so exploitation is a property of the relation of production while inequality is a property of the distribution of holdings.
+B. Because employers pay less than the prevailing market rate for labour, so exploitation is a failure of competition while inequality is the ordinary result of differences in skill and effort.
+C. Because the state protects the property of owners against all comers, so exploitation is a legal artefact while inequality is a natural feature of any society with a division of labour.
+D. Because workers do not understand the value they actually create, so exploitation is a cognitive failure while inequality is the measurable outcome that follows directly from that failure.
+
+#### MCQ 18. Ideology and the state in the classical critique
+
+Which pair of formulations states the classical Marxist claims about ideology and the state without the crudity that invites immediate counter-example?
+
+A. Ideology is the sum of a society's inherited superstitions, and the state is an autonomous bureaucracy pursuing institutional interests entirely distinct from those of every social class.
+B. Ideology is a framework in which historically specific relations appear natural, and the state secures the general conditions of the capitalist order while presenting itself as universal.
+C. Ideology is whatever a political party asserts in its published programme, and the state is the instrument that executes that programme once the party has secured an electoral majority.
+D. Ideology is deliberate deception practised by the ruling class, and the state is a neutral arbiter that the wealthy occasionally succeed in capturing for their own narrowly private purposes.
+
+#### MCQ 19. The transitional dictatorship and communism
+
+Which statement about the dictatorship of the proletariat and communism follows the sources exactly?
+
+A. Communism is the abolition of all authority whatever, and the dictatorship of the proletariat is the transitional period during which the last surviving forms of coordination are dismantled.
+B. Communism is a form of government in which a single disciplined party exercises permanent supremacy, and the dictatorship of the proletariat is the constitutional device that establishes it.
+C. The dictatorship of the proletariat denotes a transitional political supremacy of the working class, and communism is the classless order in which the political state loses its class function.
+D. The dictatorship of the proletariat is simply a synonym for socialism in its lower phase, and communism is the moment at which productive forces are fully socialised under central planning.
+
+#### MCQ 20. The Gotha two-phase distinction
+
+What does Marx's *Critique of the Gotha Programme* establish about distribution, and what must not be inferred from it?
+
+A. That distribution by contribution is the communist ideal, and that distribution according to need is a utopian aspiration Marx explicitly rejects as incompatible with material scarcity.
+B. That equal legal right becomes sufficient once class ownership ends, and that no further distributive principle is required in either phase of a fully communist society.
+C. That distribution should be identical for all persons from the outset, and that any differential provision reintroduces the bourgeois right the revolution was meant to abolish.
+D. That the lower phase distributes by contribution while retaining a bourgeois measure and the higher phase aspires to distribution by need, which is a projection rather than a law.
+
+#### MCQ 21. Which classical claim each successor revises
+
+Which mapping of classical Marxist claims to their revisers is correct as the sources present it?
+
+A. Lenin revises where revolution matures, Gramsci revises how ruling ideas rule, Miliband and Poulantzas revise what the state is, and Althusser revises what a subject is.
+B. Althusser revises the account of alienation, Miliband revises hegemony, Poulantzas revises democratic centralism and Gramsci revises the labour theory of value.
+C. Lenin revises the theory of ideology, Gramsci the theory of imperialism, Althusser the theory of the state and Poulantzas the theory of consciousness.
+D. Gramsci revises the location of revolution, Lenin revises the theory of the subject, Miliband revises historical materialism and Althusser revises the vanguard party.
+
+#### MCQ 22. Gramsci against Althusser
+
+Both give the superstructure real causal weight. What is the difference an examiner rewards?
+
+A. Gramsci writes only about the state while Althusser writes about the economy, so the two occupy different levels of the base–superstructure relation without ever competing.
+B. Gramsci's civil society is a terrain of contest where hegemony can be lost and counter-hegemony built, while Althusser's apparatuses are primarily mechanisms of reproduction.
+C. Gramsci confines his analysis to Italy while Althusser generalises to all capitalist societies, so their competing claims differ in scope rather than in explanatory content.
+D. Gramsci treats ideology as false belief while Althusser treats it as true belief that happens to serve the interests of the particular class that propagates it most effectively.
+
+#### MCQ 23. The internal limit of relative autonomy
+
+Why must the qualifier in "relative autonomy" be stated explicitly in any answer on the Marxist theory of the state?
+
+A. Because Miliband accepts relative autonomy as well, so the qualifier is what distinguishes the two writers from one another in the exchange between them.
+B. Because the term originates in Althusser's account of overdetermination, so using it without qualification imports a structuralist commitment the writer may not intend.
+C. Because a state autonomous from class power in the last instance is simply the pluralist state under another name, so the analysis would cease to be Marxist.
+D. Because Poulantzas uses the term only provisionally and later abandons it, so an unqualified use misrepresents the development of his own position over time.
+
+#### MCQ 24. Socialism as a family, and the ownership control
+
+Which statement most accurately captures socialism's family character and its central institutional caution?
+
+A. Socialism is the moderate wing of Marxism, and its central caution is that reforms should never be attempted before the productive forces have matured sufficiently for transition.
+B. Socialism is a programme of welfare provision financed by taxation, and its central caution is that public services must be universal rather than targeted at the poorest groups.
+C. Socialism is the doctrine that all productive property should be owned by the state, and its central caution is that private ownership must be extinguished quickly to prevent restoration.
+D. Socialism is a family of doctrines subjecting productive property to social control by several routes, and its central caution is that nationalisation is not automatically socialisation.
+
+#### MCQ 25. Remedial — socialism and communism are not synonyms
+
+A 2024-pattern stem asks the candidate to compare socialism and communism as two distinct political ideologies. Which opening move is required?
+
+A. Declaring the vocabulary sense in use, since in Marxist usage socialism often names a transitional lower phase while in wider political theory it names the whole family.
+B. Establishing which countries have described themselves as socialist and which as communist, and comparing the institutional records the two labels have produced.
+C. Explaining that the two words are interchangeable in ordinary political language, and that the stem therefore rests on a distinction without any real philosophical content.
+D. Asserting that communism is simply socialism carried to its logical conclusion, and then describing the additional measures the further stage would require.
+
+#### MCQ 26. Remedial — what "utopian" and "scientific" actually classify
+
+What do the labels "utopian socialism" and "scientific socialism" distinguish, and what do they not establish?
+
+A. They distinguish religious from secular socialists, and they do not establish whether spiritual motivation is compatible with a materialist account of history.
+B. They distinguish moral-exemplary from material-historical strategies of transformation, and they do not establish that the first is impracticable or the second predictively certain.
+C. They distinguish earlier from later socialists in strict chronological order, and they do not establish anything at all about the actual content of the doctrines so classified.
+D. They distinguish socialists who failed from socialists who succeeded, and they do not establish why the successful group achieved what the earlier group could not achieve.
+
+#### MCQ 27. Remedial — Gandhian socialism and the objection it must face
+
+Which treatment of Gandhian socialism meets the standard a 2021-pattern stem requires?
+
+A. Presenting trusteeship as a fully worked institutional mechanism with enforcement provisions, and treating the voluntary element as an administrative detail of implementation.
+B. Treating Gandhian socialism as a variety of welfare policy, and evaluating it by the coverage and adequacy of the provision it would deliver to the poorest households.
+C. Setting out its six elements and its means–ends argument, then conceding that trusteeship relies on voluntary moral conversion and may preserve unequal ownership.
+D. Listing non-possession, trusteeship, bread labour and village self-rule, and concluding that Gandhian socialism avoids every objection that Marxian and Fabian socialism face.
+
+#### MCQ 28. Remedial — what this clause does not own
+
+Which set of items is correctly excluded from this owner as the sources fix the boundary?
+
+A. Lenin, Gramsci and Althusser, all of whom belong to Forms of Government because their subject matter is the state and the exercise of political power.
+B. Alienation, historical materialism and surplus value, all of which belong to Social and Political Ideals because they concern equality and justice rather than ideology.
+C. Anarchism's strands, Gandhian socialism and the utopian socialists, all of which belong to Development and Social Progress because they concern models of social improvement.
+D. Fascism as a printed family, liberalism and neoliberalism as full doctrines, the 2022 Marxian equity part, and the full civil-disobedience ladder.
+
+#### MCQ 29. Remedial — the provenance the paper can punish
+
+Which set of attributions is accurate, with the dates the repository verifies?
+
+A. Marx's *Economic and Philosophic Manuscripts* 1844, the *Manifesto* 1848, the 1859 Preface, the *Critique of the Gotha Programme* 1875, Miliband 1969 and Poulantzas 1973.
+B. Marx's *Economic and Philosophic Manuscripts* 1859, the *Manifesto* 1875, the *Critique of the Gotha Programme* 1844, Miliband 1973 and Poulantzas 1969, with Gramsci's notebooks dated to 1926.
+C. Proudhon's *What Is Property?* 1840, Bakunin's *Statism and Anarchy* 1873, Kropotkin's *Mutual Aid* 1902 and Godwin's *Political Justice* 1793, each cited with page references to the standard editions.
+D. Lenin's *What Is To Be Done?* 1902, Gramsci's *Prison Notebooks* 1929, Althusser's essay on ideological state apparatuses 1970 and Engels's *Socialism: Utopian and Scientific* 1880.
+
+#### MCQ 30. Remedial — using India without characterising any actor
+
+How may the Directive Principles of State Policy be used in an answer in this clause?
+
+A. As evidence that Marxian socialism has been partially implemented in India, since Articles 38 and 39 adopt the language of minimising inequalities of income and status.
+B. As dated, non-justiciable constitutional facts illustrating what a state committed to social transformation on paper looks like, after which the philosophy is argued separately.
+C. As a demonstration that Gandhian socialism prevailed over Marxian socialism in the Constituent Assembly, since decentralisation appears alongside redistributive language.
+D. As proof that the Indian state is relatively autonomous from capital, since non-justiciable directives could not otherwise survive alongside constitutional property protections.
+
+#### MCQ 31. Remedial — the anarchist–Marxist exchange, stated honestly
+
+How should the dispute between Bakunin's warning and the Marxist reply be presented?
+
+A. As a merely verbal disagreement, since both sides oppose domination and differ only in the vocabulary they use to describe the institutions they would ultimately accept.
+B. As settled in Bakunin's favour, since transitional states have historically entrenched themselves rather than withered and the anarchist prediction has therefore been confirmed.
+C. As genuinely unresolved, since Bakunin predicts a new ruling stratum while Marxists reply that abolishing organisation disperses power unaccountably rather than removing it.
+D. As settled in the Marxists' favour, since no anarchist federation has ever coordinated a complex modern economy and the burden of proof therefore lies with the proposer.
+
+#### MCQ 32. Remedial — how a relevance stem must be structured
+
+A stem asks how far Marxism remains relevant, or what its future is under a prevailing free-market economy. What structure does the package prescribe?
+
+A. A survey of contemporary economic conditions in several different countries, followed by a judgment about whether those conditions resemble the ones Marx originally described.
+B. An account of the collapse of the communist regimes, followed by an assessment of whether any state today could plausibly adopt a fully Marxist political programme.
+C. A defence of Marx against his critics, followed by a demonstration that each one of the standard objections rests on a misunderstanding of the original texts.
+D. Three columns — what the analysis still explains, what it failed to predict, and what its institutional record forecloses — with no verdict offered on any country.
+
+### Supplementary 2026 conceptual diagnostics — 2 MCQs
+
+#### MCQ 33. Why anarchism is not mere borrowing
+
+What argument most directly establishes anarchism's distinctive premise?
+
+A. Its rejection of a centralised state as even a transitional emancipatory instrument is not entailed by either parent tradition.
+B. Anarchism is exclusively committed to individual ownership and rejects every collective association.
+C. Anarchism accepts the coercive state provided it is controlled by organised labour.
+D. Both classical liberalism and Marxism deny any need for public rules.
+
+#### MCQ 34. Marx's “pure democracy” objection
+
+Which argument would Marxists give against an allegedly class-neutral democracy while preserving the importance of political emancipation?
+
+A. Competitive elections can remedy class power without altering any material relation of production.
+B. Abstract equal citizenship can coexist with unequal control of production, so formal equality is real but incomplete.
+C. Legal equality exhausts political emancipation, though work and wealth remain unequal in society.
+D. Because political emancipation is incomplete, civil liberties have no independent value during class conflict.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: an ideology requires a description of person, society and power, a diagnosis of domination, an evaluation through freedom, equality and justice, a view of property, authority and the state, a strategy of change and a regulative picture of the order sought.
+- **B:** Incorrect: empirical support bears on whether an ideology is true, not on whether the structure before us is an ideology at all.
+- **C:** Incorrect: chronology helps avoid anachronism but is not one of the six components, and a structure containing all six would qualify even if its history were unknown.
+- **D:** Incorrect: thinkers illustrate an ideology rather than constitute it, and the same doctrine can be held by writers who never read one another.
+
+**Examiner trap 1:** Opening an "evaluate X as a political ideology" answer without defining what an ideology is spends the introduction on the doctrine and leaves the examiner with no sign that the candidate has noticed the word the stem actually turns on.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: anarchism is an institutional thesis rather than an optimistic anthropology, and Marxism makes no claim that productive forces settle questions of human nature.
+- **B:** Correct: the discriminating question is what chiefly produces domination and what institutional change would remove it, and the three families are three rival answers to precisely that question.
+- **C:** Incorrect: forms of government belong to a different owner, and none of the three families is defined by a preferred constitutional form.
+- **D:** Incorrect: distribution is one axis among seven, and the contribution/need contrast belongs inside Marx's own two-phase account rather than between the families.
+
+**Examiner trap 2:** Treating the clause as three separate topics produces three sequential mini-essays, which is the commonest structural failure here and is visible to the examiner within the first paragraph of the answer.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the critical sense is a general account of how any social order naturalises itself, and it is not restricted in application to Marxism alone.
+- **B:** Incorrect: both senses are used analytically by supporters and critics alike, and neither carries an inbuilt evaluative stance towards the doctrine described.
+- **C:** Correct: the analytical sense picks out an organised, avowed and argued action-guiding structure, whereas the critical sense picks out a socially rooted framework through which historically specific relations appear natural, universal or inevitable.
+- **D:** Incorrect: reproducing the syllabus wording is good practice but has nothing to do with the ambiguity, which is conceptual rather than presentational.
+
+**Examiner trap 3:** Using "ideology" as a synonym for opinion, slogan or party programme abandons the concept that makes Marxism simultaneously an ideology in one sense and the theory of ideology in the other.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the distinction is conceptual and not developmental, and neither term is indexed to a level of economic development.
+- **B:** Incorrect: duration does not convert a breakdown into a doctrine, and a permanently disordered society would still be an instance of anarchy rather than of anarchism.
+- **C:** Incorrect: neither term names a party, and treating the stem as a question about organisational strength substitutes a sociological enquiry for a philosophical one.
+- **D:** Correct: anarchy is a condition that may mean disorder, whereas anarchism is a doctrine with a positive institutional programme of voluntary association, mutual aid and federation.
+
+**Examiner trap 4:** Writing about looting, breakdown and the failure of authority answers a question about a condition when the paper has asked about an ideology, and no amount of subsequent argument recovers the marks lost in the framing.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: anarchism rejects even the minimal state's monopoly of law-making, coercion and punishment, which is what the argument against a standing right to command is directed at.
+- **B:** Incorrect: size is not the discriminating test, and a very small state that retains the monopoly remains the target of the burden-of-justification argument.
+- **C:** Incorrect: distributive objections belong to the socialist and Marxist families, and several individualist anarchists share the minimal state's view of redistribution.
+- **D:** Incorrect: the anarchist claim is that historical existence establishes nothing about legitimacy either way, so origins cannot do the work this option assigns them.
+
+**Examiner trap 5:** Presenting anarchism as "the smallest possible government" makes it a variety of libertarianism and loses the doctrine's central claim, which concerns the exclusive right to command rather than the scale of administration.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: a monopoly is not unjustifiable by definition, and the argument has to show why this particular monopoly cannot be justified rather than assuming it.
+- **B:** Correct: content-independence is what distinguishes legal authority from moral advice, and it is precisely the demand for obedience irrespective of the addressee's own assessment that subordinates judgment to institutional will.
+- **C:** Incorrect: the fifth step is the conclusion rather than a premise, and it records the anarchist's verdict on the preceding chain instead of supporting it.
+- **D:** Incorrect: the first premise is the least contested step in the chain, since defenders of the state typically accept it and argue that political authority satisfies it.
+
+**Examiner trap 6:** Writing the argument as continuous prose hides its structure; an examiner can see a numbered chain of premises immediately and cannot see an argument that has been dissolved into a paragraph of description.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the labour-acquisition criterion belongs to a different tradition and does not capture Proudhon's objection to property as an institutional relation of power.
+- **B:** Incorrect: this reverses the position, since Proudhon treats exploitative property as itself a source of domination rather than as a natural right corrupted by government.
+- **C:** Correct: the target is property where it operates as a power of appropriation and dependence over others' labour and life-chances, which is exactly why mutualism can defend possession while attacking property.
+- **D:** Incorrect: the blanket reading strips out the qualification that makes mutualism coherent, since mutualism explicitly preserves possession and exchange.
+
+**Examiner trap 7:** Quoting the slogan without the qualification makes Proudhon appear to attack personal possessions, and it removes the distinction between possession and property on which his whole programme of contracts and workers' associations depends.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: anarcho-communism is squarely on the property axis, since common ownership of productive resources is precisely what it asserts.
+- **B:** Incorrect: mutualism's defence of possession against exploitative property is a property position, and its contractual devices follow from that position rather than replacing it.
+- **C:** Incorrect: individualist anarchism does take a position on property, asserting strong personal sovereignty, and its internal disagreement about markets is a variation within that position.
+- **D:** Correct: philosophical anarchism is defined by a claim about legitimacy rather than about ownership, holding that there is no automatic duty to obey while allowing critical allegiance to institutions.
+
+**Examiner trap 8:** Presenting all anarchists as collectivists ignores individualist and market-oriented variants, and it makes the family look internally uniform when the taxonomy question is asked precisely because it is not.
+
+#### MCQ 9 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: this reproduces both attributions with the two qualifications the paper can punish — Godwin's educative rationalism and Tolstoy's status as an influence on rather than an equivalent of Gandhi.
+- **B:** Incorrect: mutual aid and anarchist communism belong to Kropotkin, and the warning about a new ruling stratum belongs to Bakunin.
+- **C:** Incorrect: the defence of possession is Proudhon's, and Tolstoy's position is a Christian-pacifist refusal of violence rather than an abolition of religion.
+- **D:** Incorrect: Godwin expects cooperation to grow as coercive institutions recede rather than calling for insurrection, and Gandhi's organised mass politics has no Tolstoyan counterpart.
+
+**Examiner trap 9:** Omitting Godwin and Tolstoy from a strand-and-thinker taxonomy loses the breadth mark, while merging Tolstoy into Gandhi loses the precision mark — and a taxonomy stem is scored on both.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: this is the strongest of the four replies, because anarchists need only deny that coercive hierarchy is the unique or best remedy rather than assert benevolence.
+- **B:** Correct: the reply concedes that this is a serious internal challenge and redirects anarchist theory towards scrutinising domination inside voluntary associations rather than merely abolishing formal offices.
+- **C:** Incorrect: the security reply is more than a counter-accusation, since it adds federated defence and restorative institutions as the positive institutional proposal.
+- **D:** Incorrect: the scale reply relocates the dispute successfully by distinguishing centralised domination from coordination, which is a substantive answer rather than an admission.
+
+**Examiner trap 10:** Answering all four objections with equal confidence conceals the asymmetry that a critical-examination stem is scored on, and it removes the residual that decides whether political authority can be dispensed with completely.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the objection is decisive against an unqualified identification and irrelevant against the qualified claim the stem invites the candidate to assess.
+- **B:** Incorrect: this inverts the relation, since it is the end-state that is anarchist and the method that is reformist rather than the other way round.
+- **C:** Correct: the affinity holds at the level of the regulative ideal — self-rule, decentralised village republics, a state reduced to a minimum — while non-violence, trusteeship, religious ethics and the constructive programme break with classical social anarchism's method.
+- **D:** Incorrect: the identification ignores four structural breaks, of which the replacement of expropriation by trusteeship and of anti-theism by religious ethics are the sharpest.
+
+**Examiner trap 11:** Answering an "evaluate" stem with a flat yes or a flat no discards the qualification in which the marks lie, because the examiner is testing whether the candidate can locate exactly where a description fits and where it fails.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the division is analytical rather than presentational, and using it as a paragraph template rather than as a grading device produces four descriptions and no verdict.
+- **B:** Incorrect: all four aspects are present in Marx himself, and the later revisions of Sessions 15 to 17 modify specific claims rather than supplying separate aspects.
+- **C:** Incorrect: socialism and Marxism are distinguished by the family/member relation and by the range of methods and ownership forms, not by this fourfold division.
+- **D:** Correct: the division prevents the illegitimate inference that a failure of the political project refutes the method or the critique, which is exactly what an evaluation stem tests.
+
+**Examiner trap 12:** Delivering one global verdict on "Marxism" concedes that the candidate has not noticed the doctrine contains an analysis that may survive and a transitional programme that may not.
+
+#### MCQ 13 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: contradiction as the motor of development is retained, the self-developing Idea is rejected in favour of contradictions embedded in material life, and the three-step formula is a later textbook shorthand.
+- **B:** Incorrect: this exactly reverses the inheritance, since Marx retains the role of contradiction and rejects the Idea rather than the other way round.
+- **C:** Incorrect: the primacy of consciousness is what Marx inverts, class struggle is central to his account, and base and superstructure are his own vocabulary.
+- **D:** Incorrect: praxis is a Marxian category rather than one he rejects, and the expectation about the state's withering is part of the tradition he initiates.
+
+**Examiner trap 13:** Writing "thesis–antithesis–synthesis" as Marx's own formula is a small attribution error that signals a large gap, because it shows the candidate has learned a summary rather than the argument.
+
+#### MCQ 14 — solution
 
 **Answer: B.**
 
@@ -345,17 +519,7 @@ D. The definition of the mode of production as the unity of forces and relations
 
 **Examiner trap 14:** Listing the five elements without the fetters mechanism answers the exposition half of the stem and silently abandons the half that concerns development and change.
 
-#### MCQ 15. The base–superstructure caution
-
-Which criticism of historical materialism should a candidate concede, and which should be refused?
-
-A. Concede that Marx denied any role whatever to political agency; refuse the claim that the theory has anything of substance to say about law, religion, art or culture.
-
-B. Concede that the theory is a description of feudal and early capitalist Europe only; refuse the claim that it makes any prediction about the direction of historical change.
-
-C. Concede a tendency toward economic reductionism; refuse the claim that Marx held the economic base to cause every idea mechanically, since he allows reciprocal effects and agency.
-
-D. Concede that the base and the superstructure are wholly indistinguishable in practice; refuse the claim that ownership relations carry any explanatory priority whatever.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -367,39 +531,19 @@ D. Concede that the base and the superstructure are wholly indistinguishable in 
 
 **Examiner trap 15:** Writing base → superstructure as a one-way mechanical cause hands the examiner the reductionism objection before it has been put, and no later qualification recovers the ground given away in that sentence.
 
-#### MCQ 16. Alienation, stated as Marx states it
+#### MCQ 16 — solution
 
-Which statement captures the feature of alienation that a 2024-pattern exposition stem is chiefly scored on?
-
-A. That alienation is broader than low wages, since a well-paid worker can remain alienated where labour, product and purpose are controlled by others.
-
-B. That alienation is a psychological condition produced by long working hours, which is why reductions in the working day are its most direct remedy.
-
-C. That alienation arises only under industrial factory production, so that agricultural and artisanal labour are by their nature free from estrangement.
-
-D. That alienation is identical with exploitation, since both describe the appropriation of the worker's product by the owner of the means of production.
-
-**Answer: A.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Correct: the wages distinction is the mark-bearing move, because it establishes that the concept concerns control over product, activity and purpose rather than remuneration.
-- **B:** Incorrect: alienation is a structural relation and not a mood, and shorter hours leave the control of labour, product and purpose exactly where they were.
-- **C:** Incorrect: the analysis concerns the relation under which labour is performed, and nothing in it confines estrangement to factory settings.
-- **D:** Incorrect: exploitation concerns appropriation of what is produced while alienation concerns dispossession of the activity and its meaning, and the paper has asked about each separately.
+- **A:** Incorrect: alienation is a structural relation and not a mood, and shorter hours leave the control of labour, product and purpose exactly where they were.
+- **B:** Incorrect: the analysis concerns the relation under which labour is performed, and nothing in it confines estrangement to factory settings.
+- **C:** Incorrect: exploitation concerns appropriation of what is produced while alienation concerns dispossession of the activity and its meaning, and the paper has asked about each separately.
+- **D:** Correct: the wages distinction is the mark-bearing move, because it establishes that the concept concerns control over product, activity and purpose rather than remuneration.
 
 **Examiner trap 16:** Treating alienation as unhappiness at work converts a philosophical category into a description of morale, and it makes the four dimensions look like a list of complaints rather than a derivation.
 
-#### MCQ 17. Exploitation, and what distinguishes it from inequality
-
-Why does Marx insist that capitalist exploitation differs from theft, and what distinction follows?
-
-A. Because labour-power is bought under a formally free contract, so exploitation is a property of the relation of production while inequality is a property of the distribution of holdings.
-
-B. Because employers pay less than the prevailing market rate for labour, so exploitation is a failure of competition while inequality is the ordinary result of differences in skill and effort.
-
-C. Because the state protects the property of owners against all comers, so exploitation is a legal artefact while inequality is a natural feature of any society with a division of labour.
-
-D. Because workers do not understand the value they actually create, so exploitation is a cognitive failure while inequality is the measurable outcome that follows directly from that failure.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
@@ -411,61 +555,31 @@ D. Because workers do not understand the value they actually create, so exploita
 
 **Examiner trap 17:** Describing exploitation as cheating or underpayment makes enforcement of existing rules the remedy, which is precisely the conclusion the analysis was constructed to block.
 
-#### MCQ 18. Ideology and the state in the classical critique
-
-Which pair of formulations states the classical Marxist claims about ideology and the state without the crudity that invites immediate counter-example?
-
-A. Ideology is deliberate deception practised by the ruling class, and the state is a neutral arbiter that the wealthy occasionally succeed in capturing for their own narrowly private purposes.
-
-B. Ideology is the sum of a society's inherited superstitions, and the state is an autonomous bureaucracy pursuing institutional interests entirely distinct from those of every social class.
-
-C. Ideology is a framework in which historically specific relations appear natural, and the state secures the general conditions of the capitalist order while presenting itself as universal.
-
-D. Ideology is whatever a political party asserts in its published programme, and the state is the instrument that executes that programme once the party has secured an electoral majority.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: ideology is not merely a lie, and treating the state as a neutral arbiter occasionally captured is the pluralist position rather than the Marxist one.
-- **B:** Incorrect: this drops the connection to specific relations of production and makes the state autonomous in the unqualified sense that Session 17 shows would end the analysis.
-- **C:** Correct: both formulations are precise, and the second carries the immediate qualification that relative autonomy is compatible with structural class function.
-- **D:** Incorrect: reducing ideology to a party programme abandons the critical concept entirely and reduces the state to an administrative mechanism.
-
-**Examiner trap 18:** Writing the instrumentalist claim without attaching relative autonomy walks straight into the standard counter-example of regulation and welfare directed against particular capitalists.
-
-#### MCQ 19. The transitional dictatorship and communism
-
-Which statement about the dictatorship of the proletariat and communism follows the sources exactly?
-
-A. Communism is a form of government in which a single disciplined party exercises permanent supremacy, and the dictatorship of the proletariat is the constitutional device that establishes it.
-
-B. The dictatorship of the proletariat denotes a transitional political supremacy of the working class, and communism is the classless order in which the political state loses its class function.
-
-C. The dictatorship of the proletariat is simply a synonym for socialism in its lower phase, and communism is the moment at which productive forces are fully socialised under central planning.
-
-D. Communism is the abolition of all authority whatever, and the dictatorship of the proletariat is the transitional period during which the last surviving forms of coordination are dismantled.
+#### MCQ 18 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the transitional supremacy of a class is not in itself a textual licence for permanent one-party rule, and the historical objection has to be argued rather than read off the word.
-- **B:** Correct: both definitions are reproduced as the sources give them, with the transitional character of the first and the class-function language of the second preserved.
-- **C:** Incorrect: this conflates a political form with a distributive phase and drops the classless, stateless content of the communist end-state.
-- **D:** Incorrect: the abolition of all authority is the anarchist end-state, and Marx expects the state to lose its class function rather than coordination to disappear.
+- **A:** Incorrect: this drops the connection to specific relations of production and makes the state autonomous in the unqualified sense that Session 17 shows would end the analysis.
+- **B:** Correct: both formulations are precise, and the second carries the immediate qualification that relative autonomy is compatible with structural class function.
+- **C:** Incorrect: reducing ideology to a party programme abandons the critical concept entirely and reduces the state to an administrative mechanism.
+- **D:** Incorrect: ideology is not merely a lie, and treating the state as a neutral arbiter occasionally captured is the pluralist position rather than the Marxist one.
+
+**Examiner trap 18:** Writing the instrumentalist claim without attaching relative autonomy walks straight into the standard counter-example of regulation and welfare directed against particular capitalists.
+
+#### MCQ 19 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the abolition of all authority is the anarchist end-state, and Marx expects the state to lose its class function rather than coordination to disappear.
+- **B:** Incorrect: the transitional supremacy of a class is not in itself a textual licence for permanent one-party rule, and the historical objection has to be argued rather than read off the word.
+- **C:** Correct: both definitions are reproduced as the sources give them, with the transitional character of the first and the class-function language of the second preserved.
+- **D:** Incorrect: this conflates a political form with a distributive phase and drops the classless, stateless content of the communist end-state.
 
 **Examiner trap 19:** Reading "dictatorship" in its twentieth-century sense converts a claim about class supremacy into a claim about party rule, which is exactly the equivocation the historical objection needs to be argued rather than assumed.
 
-#### MCQ 20. The Gotha two-phase distinction
-
-What does Marx's *Critique of the Gotha Programme* establish about distribution, and what must not be inferred from it?
-
-A. That distribution by contribution is the communist ideal, and that distribution according to need is a utopian aspiration Marx explicitly rejects as incompatible with material scarcity.
-
-B. That equal legal right becomes sufficient once class ownership ends, and that no further distributive principle is required in either phase of a fully communist society.
-
-C. That distribution should be identical for all persons from the outset, and that any differential provision reintroduces the bourgeois right the revolution was meant to abolish.
-
-D. That the lower phase distributes by contribution while retaining a bourgeois measure and the higher phase aspires to distribution by need, which is a projection rather than a law.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
@@ -477,193 +591,103 @@ D. That the lower phase distributes by contribution while retaining a bourgeois 
 
 **Examiner trap 20:** Presenting "to each according to contribution" as Marx's ideal reverses his argument, since it is the very measure he identifies as bourgeois and expects a later phase to abandon.
 
-#### MCQ 21. Which classical claim each successor revises
+#### MCQ 21 — solution
 
-Which mapping of classical Marxist claims to their revisers is correct as the sources present it?
-
-A. Lenin revises the theory of ideology, Gramsci the theory of imperialism, Althusser the theory of the state and Poulantzas the theory of consciousness.
-
-B. Gramsci revises the location of revolution, Lenin revises the theory of the subject, Miliband revises historical materialism and Althusser revises the vanguard party.
-
-C. Lenin revises where revolution matures, Gramsci revises how ruling ideas rule, Miliband and Poulantzas revise what the state is, and Althusser revises what a subject is.
-
-D. Althusser revises the account of alienation, Miliband revises hegemony, Poulantzas revises democratic centralism and Gramsci revises the labour theory of value.
-
-**Answer: C.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: every pairing is displaced by one position, and imperialism is Lenin's own contribution rather than a claim Gramsci revises.
-- **B:** Incorrect: the location of revolution is Lenin's revision and the theory of the subject is Althusser's, so the two are transposed here.
-- **C:** Correct: this reproduces C1 to C4 exactly — the maturation of revolution, the reflex theory of ruling ideas, the instrumental state, and the determination of consciousness by social being.
-- **D:** Incorrect: Althusser displaces the humanist categories rather than revising alienation as a claim, and none of the remaining three pairings is supported.
+- **A:** Correct: this reproduces C1 to C4 exactly — the maturation of revolution, the reflex theory of ruling ideas, the instrumental state, and the determination of consciousness by social being.
+- **B:** Incorrect: Althusser displaces the humanist categories rather than revising alienation as a claim, and none of the remaining three pairings is supported.
+- **C:** Incorrect: every pairing is displaced by one position, and imperialism is Lenin's own contribution rather than a claim Gramsci revises.
+- **D:** Incorrect: the location of revolution is Lenin's revision and the theory of the subject is Althusser's, so the two are transposed here.
 
 **Examiner trap 21:** Running Marx, Lenin, Gramsci and Althusser together as "the Marxist view" loses marks twice — once for imprecision and once for missing the internal debate where the analytical interest of the tradition lies.
 
-#### MCQ 22. Gramsci against Althusser
+#### MCQ 22 — solution
 
-Both give the superstructure real causal weight. What is the difference an examiner rewards?
-
-A. Gramsci confines his analysis to Italy while Althusser generalises to all capitalist societies, so their competing claims differ in scope rather than in explanatory content.
-
-B. Gramsci treats ideology as false belief while Althusser treats it as true belief that happens to serve the interests of the particular class that propagates it most effectively.
-
-C. Gramsci writes only about the state while Althusser writes about the economy, so the two occupy different levels of the base–superstructure relation without ever competing.
-
-D. Gramsci's civil society is a terrain of contest where hegemony can be lost and counter-hegemony built, while Althusser's apparatuses are primarily mechanisms of reproduction.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: both frameworks are general, and the difference concerns the distribution of agency rather than the geographical range of the claims.
-- **B:** Incorrect: neither treats ideology as a matter of belief being true or false, since for Gramsci it is leadership and for Althusser a material practice.
-- **C:** Incorrect: both are theories of the superstructure, and Althusser's apparatuses include the state as well as private institutions.
-- **D:** Correct: Gramsci therefore leaves more room for agency and political strategy, while Althusser explains stability more powerfully and struggles to explain change.
+- **A:** Incorrect: both are theories of the superstructure, and Althusser's apparatuses include the state as well as private institutions.
+- **B:** Correct: Gramsci therefore leaves more room for agency and political strategy, while Althusser explains stability more powerfully and struggles to explain change.
+- **C:** Incorrect: both frameworks are general, and the difference concerns the distribution of agency rather than the geographical range of the claims.
+- **D:** Incorrect: neither treats ideology as a matter of belief being true or false, since for Gramsci it is leadership and for Althusser a material practice.
 
 **Examiner trap 22:** Merging the two into a single "neo-Marxist theory of ideology" erases the strategic difference between a theory that generates a war of position and one that explains why strategies so often fail.
 
-#### MCQ 23. The internal limit of relative autonomy
-
-Why must the qualifier in "relative autonomy" be stated explicitly in any answer on the Marxist theory of the state?
-
-A. Because a state autonomous from class power in the last instance is simply the pluralist state under another name, so the analysis would cease to be Marxist.
-
-B. Because Poulantzas uses the term only provisionally and later abandons it, so an unqualified use misrepresents the development of his own position over time.
-
-C. Because Miliband accepts relative autonomy as well, so the qualifier is what distinguishes the two writers from one another in the exchange between them.
-
-D. Because the term originates in Althusser's account of overdetermination, so using it without qualification imports a structuralist commitment the writer may not intend.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the debate's value lies precisely in this boundary, since autonomy must be sufficient to explain regulation and concession yet bounded enough to preserve the class analysis.
-- **B:** Incorrect: the qualifier is integral to the position rather than provisional, and the exchange turns on defending relative autonomy rather than on abandoning it.
-- **C:** Incorrect: Miliband treats apparent autonomy as disguised capture, so the two are distinguished by whether autonomy is real rather than by the qualifier alone.
-- **D:** Incorrect: overdetermination is a related structuralist device, but the qualifier's function here is to bound the state's independence rather than to signal an allegiance.
-
-**Examiner trap 23:** Dropping the qualifier turns a Marxist argument into a pluralist one in a single sentence, and an examiner reading "the state is autonomous" has no way of knowing that a bounded claim was intended.
-
-#### MCQ 24. Socialism as a family, and the ownership control
-
-Which statement most accurately captures socialism's family character and its central institutional caution?
-
-A. Socialism is the doctrine that all productive property should be owned by the state, and its central caution is that private ownership must be extinguished quickly to prevent restoration.
-
-B. Socialism is a family of doctrines subjecting productive property to social control by several routes, and its central caution is that nationalisation is not automatically socialisation.
-
-C. Socialism is the moderate wing of Marxism, and its central caution is that reforms should never be attempted before the productive forces have matured sufficiently for transition.
-
-D. Socialism is a programme of welfare provision financed by taxation, and its central caution is that public services must be universal rather than targeted at the poorest groups.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: identifying socialism with state ownership is the error the family definition exists to prevent, since guild, market, cooperative and Gandhian variants reject it.
-- **B:** Correct: the family may proceed by revolution or parliament, planning or regulated markets, state ownership or cooperatives, and the control sentence distinguishes transfer of title from effective social control.
-- **C:** Incorrect: socialism is wider than Marxism rather than a wing of it, and several variants predate or reject Marx's account of maturation altogether.
-- **D:** Incorrect: tax-financed welfare provision describes social democracy, which retains private property under regulation rather than subjecting it to social control.
-
-**Examiner trap 24:** Treating a public sector, a cooperative or a welfare scheme as proof of socialism substitutes an institutional illustration for the philosophical question of who actually decides about investment and production.
-
-#### MCQ 25. Remedial — socialism and communism are not synonyms
-
-A 2024-pattern stem asks the candidate to compare socialism and communism as two distinct political ideologies. Which opening move is required?
-
-A. Asserting that communism is simply socialism carried to its logical conclusion, and then describing the additional measures the further stage would require.
-
-B. Declaring the vocabulary sense in use, since in Marxist usage socialism often names a transitional lower phase while in wider political theory it names the whole family.
-
-C. Establishing which countries have described themselves as socialist and which as communist, and comparing the institutional records the two labels have produced.
-
-D. Explaining that the two words are interchangeable in ordinary political language, and that the stem therefore rests on a distinction without any real philosophical content.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: presenting communism as socialism intensified is exactly the conflation the stem is testing, and it removes the property, state, distribution and method differences.
-- **B:** Correct: declaring the sense prevents the answer from equivocating halfway through, and stating the ambiguity explicitly is itself a mark-bearing move.
-- **C:** Incorrect: an institutional survey answers an empirical question, and the stem asks about two ideologies rather than about two sets of states.
-- **D:** Incorrect: the distinction is substantive on all four axes, and denying it abandons the comparison the stem requires.
-
-**Examiner trap 25:** Using "socialism" and "communism" interchangeably without specifying vocabulary and phase makes every subsequent contrast unstable, because the same word is doing two different jobs in the same answer.
-
-#### MCQ 26. Remedial — what "utopian" and "scientific" actually classify
-
-What do the labels "utopian socialism" and "scientific socialism" distinguish, and what do they not establish?
-
-A. They distinguish moral-exemplary from material-historical strategies of transformation, and they do not establish that the first is impracticable or the second predictively certain.
-
-B. They distinguish earlier from later socialists in strict chronological order, and they do not establish anything at all about the actual content of the doctrines so classified.
-
-C. They distinguish socialists who failed from socialists who succeeded, and they do not establish why the successful group achieved what the earlier group could not achieve.
-
-D. They distinguish religious from secular socialists, and they do not establish whether spiritual motivation is compatible with a materialist account of history.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: utopian socialism proceeds by exemplary communities and moral plans without a developed theory of class struggle, while scientific socialism claims a material-historical explanation — and neither label settles feasibility or certainty.
-- **B:** Incorrect: chronology correlates with the labels but does not define them, and a later moral-exemplary proposal would still be utopian in the methodological sense.
-- **C:** Incorrect: success and failure are not what the labels classify, and treating them so imports an empirical judgment the terms do not carry.
-- **D:** Incorrect: the religious/secular contrast cuts across the pair, as Gandhian socialism shows by combining spiritual ethics with a definite theory of transformation.
-
-**Examiner trap 26:** Reading "utopian" as foolish and "scientific" as infallible converts a methodological classification into a verdict, and it makes Owen, Fourier and Saint-Simon look like a preliminary error rather than a distinct strategy.
-
-#### MCQ 27. Remedial — Gandhian socialism and the objection it must face
-
-Which treatment of Gandhian socialism meets the standard a 2021-pattern stem requires?
-
-A. Listing non-possession, trusteeship, bread labour and village self-rule, and concluding that Gandhian socialism avoids every objection that Marxian and Fabian socialism face.
-
-B. Presenting trusteeship as a fully worked institutional mechanism with enforcement provisions, and treating the voluntary element as an administrative detail of implementation.
-
-C. Treating Gandhian socialism as a variety of welfare policy, and evaluating it by the coverage and adequacy of the provision it would deliver to the poorest households.
-
-D. Setting out its six elements and its means–ends argument, then conceding that trusteeship relies on voluntary moral conversion and may preserve unequal ownership.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the list without the objection produces an advocacy answer, and the stem's second half on contemporary relevance cannot be argued without the qualification.
-- **B:** Incorrect: the absence of enforceable institutions is precisely what makes the objection powerful, so describing it as an administrative detail concedes nothing and explains nothing.
-- **C:** Incorrect: this evaluates a philosophy of property and production by a policy metric, and it removes the non-violence and decentralisation commitments that define the variant.
-- **D:** Correct: Gandhi treats trusteeship as a non-violent direction of transition rather than praise of possessive entitlement, and the objection nonetheless remains powerful without enforceable institutions.
-
-**Examiner trap 27:** Presenting Gandhian socialism without the voluntary-conversion objection produces a description that cannot answer the relevance half of the stem, since relevance is precisely a judgment about what survives objection.
-
-#### MCQ 28. Remedial — what this clause does not own
-
-Which set of items is correctly excluded from this owner as the sources fix the boundary?
-
-A. Alienation, historical materialism and surplus value, all of which belong to Social and Political Ideals because they concern equality and justice rather than ideology.
-
-B. Anarchism's strands, Gandhian socialism and the utopian socialists, all of which belong to Development and Social Progress because they concern models of social improvement.
-
-C. Fascism as a printed family, liberalism and neoliberalism as full doctrines, the 2022 Marxian equity part, and the full civil-disobedience ladder.
-
-D. Lenin, Gramsci and Althusser, all of whom belong to Forms of Government because their subject matter is the state and the exercise of political power.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: alienation, historical materialism and surplus value are core owned doctrine here, and only the 2022 equity-against-equality demand is routed to Ideals.
-- **B:** Incorrect: anarchist strands, Gandhian socialism and the utopians are all owned here, with only development programmes and progress metrics routed elsewhere.
-- **C:** Correct: fascism is neither printed nor routed by any 2018 to 2025 part, liberalism and neoliberalism are comparison foils only, the 2022 equity part belongs to Ideals, and the disobedience ladder belongs to Individual and State.
-- **D:** Incorrect: the three neo-Marxists are admitted here because owned parts on Marxism's relevance, ideology and the state cannot be answered without them.
+- **A:** Incorrect: Miliband treats apparent autonomy as disguised capture, so the two are distinguished by whether autonomy is real rather than by the qualifier alone.
+- **B:** Incorrect: overdetermination is a related structuralist device, but the qualifier's function here is to bound the state's independence rather than to signal an allegiance.
+- **C:** Correct: the debate's value lies precisely in this boundary, since autonomy must be sufficient to explain regulation and concession yet bounded enough to preserve the class analysis.
+- **D:** Incorrect: the qualifier is integral to the position rather than provisional, and the exchange turns on defending relative autonomy rather than on abandoning it.
+
+**Examiner trap 23:** Dropping the qualifier turns a Marxist argument into a pluralist one in a single sentence, and an examiner reading "the state is autonomous" has no way of knowing that a bounded claim was intended.
+
+#### MCQ 24 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: socialism is wider than Marxism rather than a wing of it, and several variants predate or reject Marx's account of maturation altogether.
+- **B:** Incorrect: tax-financed welfare provision describes social democracy, which retains private property under regulation rather than subjecting it to social control.
+- **C:** Incorrect: identifying socialism with state ownership is the error the family definition exists to prevent, since guild, market, cooperative and Gandhian variants reject it.
+- **D:** Correct: the family may proceed by revolution or parliament, planning or regulated markets, state ownership or cooperatives, and the control sentence distinguishes transfer of title from effective social control.
+
+**Examiner trap 24:** Treating a public sector, a cooperative or a welfare scheme as proof of socialism substitutes an institutional illustration for the philosophical question of who actually decides about investment and production.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: declaring the sense prevents the answer from equivocating halfway through, and stating the ambiguity explicitly is itself a mark-bearing move.
+- **B:** Incorrect: an institutional survey answers an empirical question, and the stem asks about two ideologies rather than about two sets of states.
+- **C:** Incorrect: the distinction is substantive on all four axes, and denying it abandons the comparison the stem requires.
+- **D:** Incorrect: presenting communism as socialism intensified is exactly the conflation the stem is testing, and it removes the property, state, distribution and method differences.
+
+**Examiner trap 25:** Using "socialism" and "communism" interchangeably without specifying vocabulary and phase makes every subsequent contrast unstable, because the same word is doing two different jobs in the same answer.
+
+#### MCQ 26 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the religious/secular contrast cuts across the pair, as Gandhian socialism shows by combining spiritual ethics with a definite theory of transformation.
+- **B:** Correct: utopian socialism proceeds by exemplary communities and moral plans without a developed theory of class struggle, while scientific socialism claims a material-historical explanation — and neither label settles feasibility or certainty.
+- **C:** Incorrect: chronology correlates with the labels but does not define them, and a later moral-exemplary proposal would still be utopian in the methodological sense.
+- **D:** Incorrect: success and failure are not what the labels classify, and treating them so imports an empirical judgment the terms do not carry.
+
+**Examiner trap 26:** Reading "utopian" as foolish and "scientific" as infallible converts a methodological classification into a verdict, and it makes Owen, Fourier and Saint-Simon look like a preliminary error rather than a distinct strategy.
+
+#### MCQ 27 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the absence of enforceable institutions is precisely what makes the objection powerful, so describing it as an administrative detail concedes nothing and explains nothing.
+- **B:** Incorrect: this evaluates a philosophy of property and production by a policy metric, and it removes the non-violence and decentralisation commitments that define the variant.
+- **C:** Correct: Gandhi treats trusteeship as a non-violent direction of transition rather than praise of possessive entitlement, and the objection nonetheless remains powerful without enforceable institutions.
+- **D:** Incorrect: the list without the objection produces an advocacy answer, and the stem's second half on contemporary relevance cannot be argued without the qualification.
+
+**Examiner trap 27:** Presenting Gandhian socialism without the voluntary-conversion objection produces a description that cannot answer the relevance half of the stem, since relevance is precisely a judgment about what survives objection.
+
+#### MCQ 28 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the three neo-Marxists are admitted here because owned parts on Marxism's relevance, ideology and the state cannot be answered without them.
+- **B:** Incorrect: alienation, historical materialism and surplus value are core owned doctrine here, and only the 2022 equity-against-equality demand is routed to Ideals.
+- **C:** Incorrect: anarchist strands, Gandhian socialism and the utopians are all owned here, with only development programmes and progress metrics routed elsewhere.
+- **D:** Correct: fascism is neither printed nor routed by any 2018 to 2025 part, liberalism and neoliberalism are comparison foils only, the 2022 equity part belongs to Ideals, and the disobedience ladder belongs to Individual and State.
 
 **Examiner trap 28:** Importing fascism as a fourth printed ideology spends time on unowned material and risks a false equivalence between fascism and the three printed families that the sources explicitly forbid.
 
-#### MCQ 29. Remedial — the provenance the paper can punish
-
-Which set of attributions is accurate, with the dates the repository verifies?
-
-A. Marx's *Economic and Philosophic Manuscripts* 1844, the *Manifesto* 1848, the 1859 Preface, the *Critique of the Gotha Programme* 1875, Miliband 1969 and Poulantzas 1973.
-
-B. Marx's *Economic and Philosophic Manuscripts* 1859, the *Manifesto* 1875, the *Critique of the Gotha Programme* 1844, Miliband 1973 and Poulantzas 1969, with Gramsci's notebooks dated to 1926.
-
-C. Proudhon's *What Is Property?* 1840, Bakunin's *Statism and Anarchy* 1873, Kropotkin's *Mutual Aid* 1902 and Godwin's *Political Justice* 1793, each cited with page references to the standard editions.
-
-D. Lenin's *What Is To Be Done?* 1902, Gramsci's *Prison Notebooks* 1929, Althusser's essay on ideological state apparatuses 1970 and Engels's *Socialism: Utopian and Scientific* 1880.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
@@ -675,61 +699,31 @@ D. Lenin's *What Is To Be Done?* 1902, Gramsci's *Prison Notebooks* 1929, Althus
 
 **Examiner trap 29:** Attaching confident dates to Lenin, Gramsci, Althusser, Proudhon, Bakunin or Kropotkin manufactures precision the sources do not warrant, and a single invented year is more damaging than an honest citation by title alone.
 
-#### MCQ 30. Remedial — using India without characterising any actor
-
-How may the Directive Principles of State Policy be used in an answer in this clause?
-
-A. As proof that the Indian state is relatively autonomous from capital, since non-justiciable directives could not otherwise survive alongside constitutional property protections.
-
-B. As evidence that Marxian socialism has been partially implemented in India, since Articles 38 and 39 adopt the language of minimising inequalities of income and status.
-
-C. As dated, non-justiciable constitutional facts illustrating what a state committed to social transformation on paper looks like, after which the philosophy is argued separately.
-
-D. As a demonstration that Gandhian socialism prevailed over Marxian socialism in the Constituent Assembly, since decentralisation appears alongside redistributive language.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: their presence in the text is a legal fact that neither proves relative autonomy nor proves instrumental capture, and using them so settles by assertion what must be argued.
-- **B:** Incorrect: constitutional language does not establish that a doctrine has been implemented, and no claim about any Indian government or period may be made here.
-- **C:** Correct: Part IV, including Articles 38, 39 and 43, is used as a dated constitutional illustration only, with the philosophical question argued on its own ground.
-- **D:** Incorrect: this attributes an outcome to a historical body and characterises a period, both of which the discipline of this clause forbids.
-
-**Examiner trap 30:** Using a statute, scheme or judgment as evidence that a Marxist or socialist thesis is true confuses what a state has enacted with what its class character is, and it converts a philosophy answer into an uncited empirical claim.
-
-#### MCQ 31. Remedial — the anarchist–Marxist exchange, stated honestly
-
-How should the dispute between Bakunin's warning and the Marxist reply be presented?
-
-A. As settled in Bakunin's favour, since transitional states have historically entrenched themselves rather than withered and the anarchist prediction has therefore been confirmed.
-
-B. As genuinely unresolved, since Bakunin predicts a new ruling stratum while Marxists reply that abolishing organisation disperses power unaccountably rather than removing it.
-
-C. As settled in the Marxists' favour, since no anarchist federation has ever coordinated a complex modern economy and the burden of proof therefore lies with the proposer.
-
-D. As a merely verbal disagreement, since both sides oppose domination and differ only in the vocabulary they use to describe the institutions they would ultimately accept.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the historical record is a serious objection to the transitional argument, but the reply that unaccountable dispersal is also domination has not been answered by that record.
-- **B:** Correct: each side identifies a real danger created by the other's remedy, and the sources present the exchange as unresolved rather than as decided.
-- **C:** Incorrect: absence of a demonstrated federation supports the scale objection without touching Bakunin's prediction about concentrated revolutionary authority.
-- **D:** Incorrect: the disagreement concerns whether transitional sovereignty is necessary or self-defeating, which is a substantive institutional question rather than a verbal one.
+- **A:** Incorrect: constitutional language does not establish that a doctrine has been implemented, and no claim about any Indian government or period may be made here.
+- **B:** Correct: Part IV, including Articles 38, 39 and 43, is used as a dated constitutional illustration only, with the philosophical question argued on its own ground.
+- **C:** Incorrect: this attributes an outcome to a historical body and characterises a period, both of which the discipline of this clause forbids.
+- **D:** Incorrect: their presence in the text is a legal fact that neither proves relative autonomy nor proves instrumental capture, and using them so settles by assertion what must be argued.
+
+**Examiner trap 30:** Using a statute, scheme or judgment as evidence that a Marxist or socialist thesis is true confuses what a state has enacted with what its class character is, and it converts a philosophy answer into an uncited empirical claim.
+
+#### MCQ 31 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the disagreement concerns whether transitional sovereignty is necessary or self-defeating, which is a substantive institutional question rather than a verbal one.
+- **B:** Incorrect: the historical record is a serious objection to the transitional argument, but the reply that unaccountable dispersal is also domination has not been answered by that record.
+- **C:** Correct: each side identifies a real danger created by the other's remedy, and the sources present the exchange as unresolved rather than as decided.
+- **D:** Incorrect: absence of a demonstrated federation supports the scale objection without touching Bakunin's prediction about concentrated revolutionary authority.
 
 **Examiner trap 31:** Declaring the exchange settled in either direction removes the strongest available demonstration of critical control, because an unresolved dispute stated as unresolved is worth more than a confident verdict that ignores half the argument.
 
-#### MCQ 32. Remedial — how a relevance stem must be structured
-
-A stem asks how far Marxism remains relevant, or what its future is under a prevailing free-market economy. What structure does the package prescribe?
-
-A. A survey of contemporary economic conditions in several different countries, followed by a judgment about whether those conditions resemble the ones Marx originally described.
-
-B. An account of the collapse of the communist regimes, followed by an assessment of whether any state today could plausibly adopt a fully Marxist political programme.
-
-C. A defence of Marx against his critics, followed by a demonstration that each one of the standard objections rests on a misunderstanding of the original texts.
-
-D. Three columns — what the analysis still explains, what it failed to predict, and what its institutional record forecloses — with no verdict offered on any country.
+#### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -741,13 +735,35 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Examiner trap 32:** Answering a relevance stem with contemporary examples instead of an argument produces a description of the present that never states which of Marx's claims the present supports and which it embarrasses.
 
+#### MCQ 33 — solution
+
+**Answer: A.** **Option explanations:**
+- **A:** Correct: the attitude to transitional political authority is the distinguishing test.
+- **B:** Wrong: collectivist and mutualist anarchisms exist.
+- **C:** Wrong: this concedes the institution under challenge.
+- **D:** Wrong: neither tradition uniformly denies public rules.
+
+**Examiner trap 33:** Borrowed values do not logically settle whether an ideology has an independent anti-authority principle.
+
+#### MCQ 34 — solution
+
+**Answer: B.** **Option explanations:**
+- **A:** Wrong: formal electoral access does not by itself alter control over productive property.
+- **B:** Correct: it states both the achievement and limit of political emancipation.
+- **C:** Wrong: even political equality involves concrete legal guarantees; calling it exhaustive mistakes the object of Marx's criticism.
+- **D:** Wrong: the gap between political and human emancipation does not entail that liberties are worthless.
+
+**Examiner trap 34:** Critique of “pure” class-neutral democracy does not entail opposition to every democratic liberty.
+
+---
+
 ## PYQS AND ANSWER PRACTICE
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key; UPSC publishes no descriptive model answer for Philosophy Paper II. Question wording is reproduced exactly as printed in the official papers, including the paper's own spacing before the question mark in **"Do you subscribe to the political ideology of Anarchists ? Justify your answer."** and **"Are Marxian Socialism and individual freedom consistent ? Discuss critically."**, and the paper's own capitalisation in **"Evaluate Marxism as a Political Ideology."** — all preserved verbatim inside the question lines. The 2018 to 2025 Paper II texts are held locally, and the English wording of every part below follows the repository's verified Socio-Political PYQ ledger. Provenance is treated as examinable: **Marx, *Economic and Philosophic Manuscripts*, 1844**; **Marx and Engels, *Manifesto of the Communist Party*, 1848**; **Marx, Preface to *A Contribution to the Critique of Political Economy*, 1859**; **Marx, *Critique of the Gotha Programme*, 1875**; **Miliband, *The State in Capitalist Society*, 1969**; **Poulantzas, *Political Power and Social Classes*, 1973**; **the Constitution of India, Part IV, Articles 38, 39 and 43**, which are non-justiciable. No page, chapter, edition or invented quotation is asserted for Godwin, Proudhon, Bakunin, Kropotkin, Tolstoy, Lenin, Gramsci, Althusser, Engels, Owen, Fourier, Saint-Simon, Gandhi or M. N. Roy, and no date is asserted for any of them. ⚠️ Interpretive disputes — whether the base–superstructure relation retains a determinate commitment once reciprocal effects are allowed, whether species-being can be reconstructed without a universal human essence, whether relative autonomy can be bounded short of pluralism, and whether Gandhi's ideal should be classified as anarchism or as ethical decentralist socialism — are flagged as contested rather than settled. ❌ No empirical claim is made about any country, party, government, leader, period or class, Indian or otherwise, and no Indian statute, scheme or judgment is used as evidence for or against a philosophical thesis.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper II parts are written longer than General Studies answers. The working bands used here are **10 marks — about 150 to 220 words**, **15 marks — about 250 to 330 words**, and **20 marks — about 330 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the verdict heading and the "why this earns marks" notes are teaching apparatus that sit **outside** the timed word count.
+**Timed-practice convention.** Scale time and detail to the marks and directive, but do not impose a preset word limit on these learning models. Demand decoding and examiner notes are study aids; no answer earns marks merely by reaching a length.
 
 **Coverage.** ⚠️ **Corpus signal:** this clause owns **13 of 112** Socio-Political question-parts in the 2018–2025 corpus, distributed **2018: 2, 2019: 2, 2020: 2, 2021: 2, 2022: 0, 2023: 2, 2024: 2, 2025: 1**. All thirteen are solved in full below, followed by **six original solved Mains models**, two each at 10, 15 and 20 marks. The internal distribution is worth knowing before the examination: **anarchism** carries four parts (2018 Q2(c), 2020 Q1(e), 2021 Q3(a), 2023 Q1(b)); **Gandhi** carries two (2019 Q1(c), 2021 Q3(b)); **Marxism** carries six (2018 Q3(b), 2019 Q3(c), 2020 Q2(b), 2023 Q3(a), 2024 Q1(d), 2025 Q2(b)); and **socialism as a family** carries two, one of which is shared with Gandhi (2024 Q1(e), 2021 Q3(b)). ⚠️ Ownership discipline: the 2022 Marxian equity-against-equality 15-marker belongs to **Social and Political Ideals**; the 2021 unconditional-rights-and-anarchy part to **Individual and State**; the 2020 Gandhian social-development 20-marker to **Development and Social Progress**; the 2019 gender-equality-under-socialism part to **Gender Discrimination**; and the Gandhi–Ambedkar caste parts to **Caste Discrimination**. None of those is counted here. ❌ Do not route every occurrence of the words "state", "freedom" or "equality" to this owner: ownership turns on the printed families — anarchism, Marxism and socialism — and on the diagnoses of domination they generate.
 
@@ -781,7 +797,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** a first-person stem is scored on the **grading** of the position, not on its direction. Scripts that describe anarchism and then add "however, it is impractical" have not taken a position; scripts that endorse abolition without meeting the scale and hidden-authority objections have taken an indefensible one.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position two lines; doctrine and the anarchy discrimination three; the accepted argument four; the three answered objections and the conceded one four; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** position two lines; doctrine and the anarchy discrimination three; the accepted argument four; the three answered objections and the conceded one four; verdict two.
 
 - **Structure:** position → doctrine with the anarchy/anarchism line → the five-step argument → three objections relocated, one conceded → graded verdict.
 - **Doctrine:** the burden of justification; philosophical anarchism as a claim about legitimacy rather than institutions.
@@ -819,7 +835,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** the mark-bearing move is refusing both flat answers. A "yes" ignores the bureaucratic failure mode; a "no" tacitly assumes a non-interference conception of freedom that Marx explicitly rejects, and therefore answers a different question.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** freedom concept two lines; case for four; case against four; conditional verdict two; residual two.
+**Timed answer route — 15 marks (adapt to the directive):** freedom concept two lines; case for four; case against four; conditional verdict two; residual two.
 
 - **Structure:** define freedom → case for → case against → conditional verdict → residual.
 - **Doctrine:** non-domination plus self-development; equal right over unequal conditions.
@@ -855,7 +871,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** the stem says "evaluate", so the marks lie in locating exactly where the description fits. The efficient structure is affinity → breaks → the principle that explains the split → qualified formula.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** affinity three lines; breaks four; the means–ends principle two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** affinity three lines; breaks four; the means–ends principle two; verdict two.
 
 - **Structure:** affinity → four breaks → means–ends explanation → qualified verdict.
 - **Doctrine:** swarāj, village republics, minimal state, trusteeship, constructive programme.
@@ -893,7 +909,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** "future" stems tempt candidates into prediction. Converting the question into a judgment about explanatory standing, and separating diagnosis from prediction from institutional record, is what keeps the answer philosophical.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** frame two lines; survives four; conceded three; reconstructed three; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** frame two lines; survives four; conceded three; reconstructed three; verdict two.
 
 - **Structure:** reframe → what survives → what is conceded → what must be reconstructed → verdict.
 - **Doctrine:** exploitation, alienation, ideology, hegemony, relative autonomy.
@@ -929,7 +945,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** the stem is a trap built on one word. The whole answer is decided in the opening two lines, and the three-way control is what prevents the rest from becoming a description of the crisis.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** discrimination three lines; the three effects three; the mutual-aid limit two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** discrimination three lines; the three effects three; the mutual-aid limit two; verdict two.
 
 - **Structure:** discrimination → three simultaneous effects → why mutual aid is not adoption → verdict.
 - **Doctrine:** anarchism's negative, positive and institutional claims.
@@ -967,7 +983,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** "how far" forbids both "fully" and "not at all". Grading by aspect is the device that makes a degree judgment precise rather than evasive, and it is visible in the answer's structure.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** reading the stem two lines; four aspects three; grading five; India two; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** reading the stem two lines; four aspects three; grading five; India two; verdict two.
 
 - **Structure:** read the stem → four aspects → grade each → the Indian supplement → uneven verdict.
 - **Doctrine:** method, critique, theory of change, political project.
@@ -1005,7 +1021,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** the stem has two halves and the second is a **possibility** question, which cannot be answered by preference. The winning structure gives the doctrine its strongest form and then locates precisely the objection that its own defenders concede.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** ideology placement three lines; core argument and strands six; three answerable objections four; the conceded objection three; verdict three.
+**Timed answer route — 20 marks (adapt to the directive):** ideology placement three lines; core argument and strands six; three answerable objections four; the conceded objection three; verdict three.
 
 - **Structure:** six-component placement → the five-step argument with the three thinkers → strands → three objections relocated → hidden authority conceded → qualified negative.
 - **Doctrine:** the burden of justification; the negative, positive and institutional claims.
@@ -1045,7 +1061,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** the stem's second half is where scripts collapse into praise. Relevance must be argued in two columns — what survives objection and what must be qualified — or it is assertion.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** placement two lines; six features four; argument three; objection and reply three; relevance three; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** placement two lines; six features four; argument three; objection and reply three; relevance three; verdict two.
 
 - **Structure:** family placement → six features → the means–ends argument → objection and reply → two-column relevance → verdict.
 - **Doctrine:** trusteeship, bread labour, swarāj, sarvodaya, non-possession, decentralisation.
@@ -1081,7 +1097,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** "critically examine" a quotation means testing the inference from the doctrine to the wording. Locating the quantifier — *all*, *always*, *everywhere* — and asking which premise supplies it, is the analytical move.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** the argument four lines; the gap three; what survives two; verdict two.
+**Timed answer route — 10 marks (adapt to the directive):** the argument four lines; the gap three; what survives two; verdict two.
 
 - **Structure:** the five-step argument → the quantifier gap → what survives → graded verdict.
 - **Doctrine:** the burden of justification; content-independence.
@@ -1123,7 +1139,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** an exposition-plus-relevance stem must give the mechanism, not the vocabulary. Scripts that list five elements and then assert relevance have answered neither half properly.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** definition one line; elements four; mechanism five; caution three; three columns four; supplement and verdict three.
+**Timed answer route — 20 marks (adapt to the directive):** definition one line; elements four; mechanism five; caution three; three columns four; supplement and verdict three.
 
 - **Structure:** definition → five elements → six-step mechanism → the caution → three-column relevance → supplement → verdict.
 - **Doctrine:** forces, relations, mode, base/superstructure, class struggle, fetters.
@@ -1163,7 +1179,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** an exposition stem is scored on completeness and order, not on criticism. The one permitted critical line is the species-being caveat, and it belongs at the end.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** source one line; four dimensions four; derivation one; presupposition two; distinctions two; caveat one.
+**Timed answer route — 10 marks (adapt to the directive):** source one line; four dimensions four; derivation one; presupposition two; distinctions two; caveat one.
 
 - **Structure:** source → four dimensions in order → why the order is a derivation → presupposition → the two distinctions → contested caveat.
 - **Doctrine:** estranged labour in four dimensions; species-being.
@@ -1201,7 +1217,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** "compare as two distinct" requires the distinctness to be argued, not assumed. The vocabulary declaration is the move that prevents equivocation, and the fourth term — social democracy — shows control of the neighbourhood.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** vocabulary two lines; four axes four; distinctness in kind two; control one; verdict one.
+**Timed answer route — 10 marks (adapt to the directive):** vocabulary two lines; four axes four; distinctness in kind two; control one; verdict one.
 
 - **Structure:** declare the sense → four axes → why the difference is one of kind → social democracy as control → verdict.
 - **Doctrine:** the family definition; the Marxian higher phase.
@@ -1239,7 +1255,7 @@ D. Three columns — what the analysis still explains, what it failed to predict
 
 **Answer-writing focus:** the stem's own words — "as a Political Ideology" — are a scoring instruction. Placing Marxism on the six-component test and in both senses of the word does the first half; grading the four aspects does the second.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** double placement three lines; six components three; grading five; repairs two; verdict two.
+**Timed answer route — 15 marks (adapt to the directive):** double placement three lines; six components three; grading five; repairs two; verdict two.
 
 - **Structure:** both senses of ideology → six-component placement → grade four aspects → the tradition's own repairs → graded verdict.
 - **Doctrine:** analytical and critical senses; method, critique, theory of change, political project.
@@ -1247,9 +1263,43 @@ D. Three columns — what the analysis still explains, what it failed to predict
 - **Distinction:** diagnostic power against institutional prescription.
 - **Criticism:** the open question about whether safeguards are compatible with the theory, stated as contested.
 
+### 2026 verified primary-owned PYQs — supplementary solutions
+
+Both official-paper parts are routed here by `_PYQ-SocioPolitical-2026-Supplement.md` and are additional to the thirteen 2018–2025 primary-owned parts. The following are independent practice answers, not UPSC keys.
+
+#### Solved PYQ 14 · 2026 · Q1(c) · 10 marks
+
+**Printed question:** “Anarchism is not an independent political ideology in itself, rather it is inspired by liberalism on the one hand and socialism on the other. Analyze.”
+
+**Demand:** Reconstruct the dependence thesis and then assess what neither parent entails.
+
+**Model solution:** The thesis captures real borrowings. Liberalism's insistence on personal liberty, criticism of arbitrary coercion and voluntary association helps explain anarchism's opposition to rulers who claim a monopoly over obedience. Socialist criticism of concentrated property and economic exploitation helps explain mutualist, collectivist and anarchist-communist proposals for organising production cooperatively. But it does not follow that anarchism is merely liberalism plus socialism. Many liberals defend a limited state as guarantor of rights; many socialists defend transitional state power to change ownership. Anarchists reject the presumption that centralised political authority is necessary or legitimate, proposing federated and voluntary forms of coordination instead. The split between Marxist and anarchist wings at the First International's Hague Congress (1872) illustrates the disagreement over organised political power, not a complete rejection of collective emancipation. **Verdict:** anarchism draws on both traditions but has an independent anti-authoritarian premise and a distinctive objection to using the state even as a temporary instrument. Its challenge is to explain how non-coercive arrangements can solve conflict, enforce shared rules and prevent informal domination.
+
+**Why this earns marks:** Defends the strongest version of the question's thesis before stating the independence criterion and a serious objection.
+
+#### Solved PYQ 15 · 2026 · Q1(d) · 10 marks
+
+**Printed question:** “On what grounds does Marxism criticize pure democracy ?”
+
+**Demand:** Name *grounds* of critique; do not confuse Marx's argument with an opposition to every democratic claim.
+
+**Model solution:** Marxists criticise the claim that a formally universal “pure” democracy is neutral between classes. First, the state is situated within material relations of production: equal ballots do not by themselves neutralise concentrated ownership and influence. Second, political emancipation, such as equal legal citizenship, is not yet *human emancipation* from exploitation and dependence, a distinction Marx develops in *On the Jewish Question*. Third, abstract citizenship detaches the formally equal voter from the materially unequal worker or owner. Fourth, dominant ideas and institutions can reproduce the ruling class's account of the common good, so periodic authorisation may leave substantive control over work and resources untouched. Fifth, formally equal access to law or elections can coexist with unequal time, education and organisation needed to exercise these rights. The *Communist Manifesto* connects modern state power with class rule; Lenin's *The Proletarian Revolution and the Renegade Kautsky* polemicises against “pure democracy” as class-neutral. A Commune-type alternative stresses answerable and recallable delegates, though its actual ability to protect dissent needs separate scrutiny. **Verdict:** the Marxist objection is to the abstraction of democracy from class structure, not a proof that votes and liberties are worthless; abolishing formal protection without effective accountability could replace class domination with party domination.
+
+**Why this earns marks:** Specifies material, conceptual and institutional grounds and tests the proposed alternative against its own democratic standard.
+
+### ADDITIONAL ORIGINAL MAINS PRACTICE — uncovered syllabus demands
+
+#### Gap practice A · 20 marks · socialism versus paternalist trusteeship
+
+**Question:** Critically assess whether Gandhi's trusteeship provides a socialist alternative to Marx's demand for transformation of property relations.
+
+**Independent model solution:** Both diagnose the social harm caused by concentrated wealth, but they differ over why it persists and how it should be remedied. Gandhi's trusteeship asks owners to hold surplus wealth for the benefit of others, within a commitment to non-violence, self-restraint and local production. It tries to turn ownership into social responsibility without treating coercive expropriation or class conflict as the only path to change. Marx's critique of capitalist relations targets the structure through which owners command productive resources and appropriate surplus generated by labour. Voluntary generosity need not transfer decision-making power to workers or remove the dependence that makes exploitation possible. If trustees can retain title and unilaterally decide beneficiaries, an apparently benevolent arrangement reproduces paternalism. Conversely, replacing private title with public ownership is not automatically worker control: bureaucratic state management can reproduce domination under socialist language. A serious socialist benchmark therefore asks about democratic control of production, distribution and voice, not merely nationalisation. Gandhian practice offers a valuable criticism of violence, materialist consumerism and overcentralised industry; cooperatives or accountable community ownership might give institutional form to that aspiration. Yet the feasibility of voluntary restraint at scale remains an objection Gandhi must answer. Marx's structural diagnosis shows why benevolence alone cannot secure equitable bargaining power; Marxist strategies must themselves answer how dissent and individual liberty survive transition. **Verdict:** trusteeship can *motivate* egalitarian socialisation but is not sufficient by itself as a socialist transformation unless accountable institutions convert charitable discretion into enforceable claims and shared control.
+
+**Why this earns marks:** Tests mechanisms rather than labels, gives each thinker a serious objection and differentiates moral duty, ownership and control.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the paper's own idiom — two at 10 marks, two at 15 and two at 20 — each solved to the same standard as the previous-year parts above. None reproduces an owned stem; each targets a route the corpus has tested indirectly or is likely to test again.
+> The six baseline original questions and the additional Gandhi–Marx trusteeship comparison above give seven independent solved models. The baseline marks distribution is descriptive, not a limit on topic-driven practice.
 
 #### Original 1 · 10 marks
 

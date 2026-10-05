@@ -92,6 +92,9 @@ INFRASTRUCTURE SERVICE
 
 ## MAINS SPINE
 
-`Define service -> failure/network feature -> appraisal/readiness -> mode/payment -> risk table -> finance/fiscal exposure -> multimodal integration -> maintenance/service quality -> affordability -> lifecycle value`
+`Define service -> failure/network feature -> appraisal/readiness
+-> mode/payment -> risk table -> finance/fiscal exposure
+-> multimodal integration -> maintenance/service quality
+-> affordability -> lifecycle value`
 
 **Boundary:** Detailed energy infrastructure, fuels and energy security belong to Economy Topic 31.

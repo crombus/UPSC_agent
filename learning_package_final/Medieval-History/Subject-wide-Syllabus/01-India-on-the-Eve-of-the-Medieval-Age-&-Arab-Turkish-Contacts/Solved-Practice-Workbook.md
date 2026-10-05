@@ -6,244 +6,6 @@ topic_key: medieval-indian-history-01
 
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQ 01
-Which statement best describes north India on the eve of Turkish political expansion?
-
-- A. A regionalised political order containing substantial but fragmented centres of power
-- B. A unified Rajput confederacy under the Chauhans
-- C. A region without organised states after the disappearance of the Pratiharas
-- D. A commercial system disconnected from West Asia
-
-**Answer: A.** - The central distinction is between **absence of capacity** and **fragmentation of capacity**.
-
-### Learning MCQ 02
-The decline of the Palas, Pratiharas and Rashtrakutas is best understood as:
-
-- A. the replacement of all agrarian institutions
-- B. a transition towards regional successor polities
-- C. the end of Indian Ocean commerce
-- D. the immediate beginning of the Delhi Sultanate
-
-**Answer: B.** - Neither economy nor institutions vanished automatically with dynastic decline.
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — Satish Chandra, *History of Medieval India*, local PDF pp. 18 and 22; Part I, p. 8.
-🔍 CA Search: "India current affairs 2026 medieval maritime heritage Arab trade Malabar Muziris Pattanam archaeology"
-📰 CA Found: First International Spice Routes Conference, Kochi, 6–8 January 2026, official Kerala Tourism page.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 03
-With reference to Arab maritime activity before the Delhi Sultanate, consider the following statements:
-
-1. Arab traders displaced Indian traders from the Persian Gulf trade.
-2. Arab merchant settlements existed on the Malabar coast.
-3. Some Indian rulers permitted Muslim merchants to build mosques.
-
-Which of the statements given above are correct?
-
-- A. 1 and 2 only
-- B. 1, 2 and 3
-- C. 2 and 3 only
-- D. 1 and 3 only
-
-**Answer: C.** - Statement 1 reverses Satish Chandra's explicit point.
-
-### Learning MCQ 04
-The term “commercial diaspora” is most useful here because it captures:
-
-- A. the disappearance of religious identity in ports
-- B. the replacement of Indian rulers by merchant councils
-- C. the complete separation of ports from their hinterlands
-- D. merchants retaining long-distance ties while developing local institutions
-
-**Answer: D.** - 
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — Satish Chandra's distinction between the eighth-century Sind episode and the later Ghaznavid-Ghurid sequence.
-🔍 CA Search: "India 2026 Sind Debal Banbhore archaeological heritage Arab conquest inscription"
-📰 CA Found: no sufficiently reliable India-specific official development in the last six months. Banbhore/Debal remains a useful archaeological comparison, but identification claims require caution.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 05
-Which conclusion is most defensible regarding the Arab conquest of Sind?
-
-- A. It created a regional political foothold and a channel of cultural exchange without directly causing the later Sultanate.
-- B. It ended Indian merchant activity in the Arabian Sea.
-- C. It introduced Persian culture to Central Asian Turks.
-- D. It immediately established a north Indian sultanate.
-
-**Answer: A.** -
-
-### Learning MCQ 06
-An excavated port is identified with a port named in a medieval text. Which additional evidence most strengthens the identification?
-
-- A. A later legend alone
-- B. Convergent chronology, geography, stratigraphy and inscriptional evidence
-- C. The modern popularity of the identification
-- D. Similarity of one artefact to an object found elsewhere
-
-**Answer: B.** - 
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — Satish Chandra, Part I, local PDF pp. 8–10; *History of Medieval India*, p. 70.
-🔍 CA Search: "India 2026 Persian manuscripts digitisation medieval history Ministry of Culture"
-📰 CA Found: Gyan Bharatam mission and the 31 July 2026 National Digitisation Drive workshop; relevant to Persian and Arabic manuscript accessibility, but not evidence for tenth-century events.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 07
-The description of the early Turkish rulers as “Persianised” primarily refers to their:
-
-- A. biological descent from Iranian dynasties
-- B. rejection of Islamic legitimacy
-- C. adoption of Persian language, court culture and administrative practices
-- D. abandonment of military organisation
-
-**Answer: C.** -
-
-### Learning MCQ 08
-Which sequence best explains the rise of Ghazni?
-
-- A. Ghurid conquest of Delhi → establishment of Ghazni
-- B. Chola decline → Arab conquest of Baghdad → Ghaznavid rule
-- C. Stronger Abbasid centralisation → decline of commanders → rise of Indian merchants
-- D. Abbasid fragmentation → regional military competition → autonomous Turkish commanders
-
-**Answer: D.** - 
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — Satish Chandra, Part I, local PDF pp. 9–10, especially the phrase “outer bastions” and road communications.
-🔍 CA Search: "2026 India Afghanistan historical routes Kabul Jalalabad heritage current affairs"
-📰 CA Found: no credible topic-specific development in the last six months. The linkage remains conceptual: routes, strategic depth and frontier control.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 09
-In the present context, the “outer bastions” thesis is best understood as:
-
-- A. strategic depth provided by frontier zones and communication routes
-- B. a claim that conquest became inevitable in the eighth century
-- C. a religious boundary separating two civilisations
-- D. proof that north India had no organised defence
-
-**Answer: A.** -
-
-### Learning MCQ 10
-Improved road communications between Ghazni, Kabul and Jalalabad most directly enhanced:
-
-- A. the ritual authority of Indian kings
-- B. cavalry movement, supply and reinforcement
-- C. monsoon maritime trade
-- D. hereditary ownership under the iqta system
-
-**Answer: B.** - 
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — Satish Chandra, *History of Medieval India*, pp. 55–57 and 69–70; Part I, pp. 10–16.
-🔍 CA Search: "2026 Rajput medieval inscription heritage India current affairs"
-📰 CA Found: no credible directly linked development in the last six months. Gyan Bharatam remains a source-preservation anchor, not a factual update on Rajput polity.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 11
-Which explanation best captures the political limitation of the Rajput order?
-
-- A. Lack of agrarian revenue
-- B. Complete absence of fortified centres
-- C. Difficulty converting multiple substantial regional powers into durable unified command
-- D. Inability to raise any cavalry
-
-**Answer: C.** -
-
-### Learning MCQ 12
-The concept of “Rajputisation” most directly highlights:
-
-- A. the disappearance of Brahmanical legitimation
-- B. an unchanging racial category
-- C. the replacement of all cultivators by warriors
-- D. the interaction of agrarian expansion, political power and status formation
-
-**Answer: D.** - 
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — Satish Chandra's structural explanation in Part I, pp. 14–16, read with the authored advanced file.
-🔍 CA Search: "2026 military logistics historical routes India heritage cavalry technology medieval"
-📰 CA Found: none directly linked in the last six months. No decorative defence-current-affairs analogy is forced into a historical explanation.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 13
-Which statement about iqta is most appropriate for this topic?
-
-- A. It was a revenue assignment associated with military maintenance and ruler-controlled service.
-- B. It originated in the Rajput clan system.
-- C. It was unrestricted hereditary ownership of land and cultivators.
-- D. It abolished the need for cavalry.
-
-**Answer: A.** -
-
-### Learning MCQ 14
-The First Battle of Tarain is analytically important because it:
-
-- A. ended Ghaznavid control over Punjab
-- B. demonstrates that later Turkish victory was contingent rather than inevitable
-- C. established the Delhi Sultanate in 1191
-- D. proves that cavalry had no military value
-
-**Answer: B.** - 
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: queried — both Satish Chandra narratives and both mandatory Markdown files co-related.
-🔍 CA Search: "2026 India medieval maritime heritage manuscripts digitisation UPSC history"
-📰 CA Found: International Spice Routes Conference, January 2026; Gyan Bharatam National Digitisation Drive workshop, July 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Learning MCQ 15
-Which pairing is most accurate?
-
-- A. Persianisation — ethnic replacement of Turks by Iranians
-- B. Arab maritime contact — necessarily territorial sovereignty
-- C. Outer bastions — strategic depth and frontier communications
-- D. Rajput regionalisation — absence of state capacity
-
-**Answer: C.** -
-
-### Learning MCQ 16
-Which conclusion best synthesises the topic?
-
-- A. Turkish conquest was inevitable after the Arab conquest of Sind.
-- B. Weapon technology alone explains the political transition.
-- C. Indian Ocean trade ended before Turkish expansion.
-- D. A combination of frontier change, concentrated military organisation, regional rivalry and contingent decisions shifted the balance.
-
-**Answer: D.** - 
-
----
-
 ### Workbook MCQ 01
 Which formulation most accurately distinguishes Arab maritime contact from later Turkish political expansion?
 
@@ -251,8 +13,6 @@ Which formulation most accurately distinguishes Arab maritime contact from later
 - B. The former eliminated Indian merchants before the latter began.
 - C. The former began only after the establishment of the Delhi Sultanate.
 - D. Both were identical movements led by the same institutions.
-
-**Answer: A.** - The subject's master distinction is between overlapping but non-identical processes. Arab merchant activity long preceded 1206.
 
 ### Workbook MCQ 02
 Which political power is specifically associated in the source material with welcoming Arab traders and permitting mosques?
@@ -262,8 +22,6 @@ Which political power is specifically associated in the source material with wel
 - C. Tomaras
 - D. Hindu Shahis
 
-**Answer: B.** - This is evidence of commercial accommodation, not Arab sovereignty over the Rashtrakuta state.
-
 ### Workbook MCQ 03
 The most defensible description of the historical significance of the Arab conquest of Sind is:
 
@@ -271,8 +29,6 @@ The most defensible description of the historical significance of the Arab conqu
 - B. immediate establishment of the Delhi Sultanate
 - C. a regional political foothold and conduit of knowledge exchange separated by centuries from the Sultanate
 - D. origin of the Samanid state
-
-**Answer: C.** -
 
 ### Workbook MCQ 04
 Turkish military elites entering the Indian frontier were:
@@ -282,8 +38,6 @@ Turkish military elites entering the Indian frontier were:
 - C. culturally identical to the Abbasid caliphs
 - D. Islamised and substantially Persianised
 
-**Answer: D.** - “Turkish”, “Islamic” and “Persianate” describe different, intersecting dimensions.
-
 ### Workbook MCQ 05
 Who established himself as an independent ruler at Ghazni in 963?
 
@@ -292,17 +46,13 @@ Who established himself as an independent ruler at Ghazni in 963?
 - C. Muizzuddin Muhammad
 - D. Jayapala
 
-**Answer: A.** -
-
 ### Workbook MCQ 06
-The expression “outer bastions” in Satish Chandra is best read as:
+The expression "outer bastions" in Satish Chandra is best read as:
 
 - A. a fixed modern national border
 - B. strategic depth formed by frontier zones such as Zabulistan and Afghanistan
 - C. a religious boundary unaffected by roads
 - D. evidence that Delhi's fall was immediate
-
-**Answer: B.** -
 
 ### Workbook MCQ 07
 Which statement best describes the Rajput political order?
@@ -312,8 +62,6 @@ Which statement best describes the Rajput political order?
 - C. It contained substantial regional powers whose rivalry complicated durable coordination.
 - D. It maintained permanent unified command across north India.
 
-**Answer: C.** -
-
 ### Workbook MCQ 08
 Which statement regarding iqta is least inaccurate?
 
@@ -321,8 +69,6 @@ Which statement regarding iqta is least inaccurate?
 - B. It was necessarily hereditary and outside ruler control.
 - C. It was unrestricted private ownership of cultivators.
 - D. It was a revenue assignment linked to service and troop maintenance.
-
-**Answer: D.** -
 
 ### Workbook MCQ 09
 Arrange the following in chronological order:
@@ -337,17 +83,13 @@ Arrange the following in chronological order:
 - C. 1–4–2–3
 - D. 1–2–4–3
 
-**Answer: A.** - Sind, 711–12; Ghazni, 963; Muizzuddin, 1173; Tarain, 1191.
-
 ### Workbook MCQ 10
-“Persianate” is best understood as:
+"Persianate" is best understood as:
 
 - A. a synonym for Shia Islam
 - B. a transregional sphere of Persian language, literature, court culture and administration
 - C. proof of Iranian ethnicity
 - D. a maritime trading corporation
-
-**Answer: B.** -
 
 ### Workbook MCQ 11
 Improved communications between Ghazni, Kabul and Jalalabad would most directly:
@@ -357,8 +99,6 @@ Improved communications between Ghazni, Kabul and Jalalabad would most directly:
 - C. improve movement, supply, intelligence and reinforcement
 - D. eliminate the need for revenue
 
-**Answer: C.** -
-
 ### Workbook MCQ 12
 A commercial diaspora is:
 
@@ -366,8 +106,6 @@ A commercial diaspora is:
 - B. an administration based only on Persian texts
 - C. a conquering army settled on land grants
 - D. a mobile merchant community retaining long-distance ties while creating local institutions
-
-**Answer: D.** -
 
 ### Workbook MCQ 13
 Which concept best captures the movement of Indian astronomy into Arabic learning?
@@ -377,17 +115,13 @@ Which concept best captures the movement of Indian astronomy into Arabic learnin
 - C. Feudatory militarisation
 - D. Biological diffusion
 
-**Answer: A.** - Translation involves patrons, scholars, languages, selection and adaptation.
-
 ### Workbook MCQ 14
-Why is “political vacuum” an unsafe description of north India after Pratihara decline?
+Why is "political vacuum" an unsafe description of north India after Pratihara decline?
 
 - A. The Pratiharas continued unchanged until 1526.
 - B. Regional successor states possessed political, agrarian and military capacity.
 - C. No feudatories existed.
 - D. The Cholas ruled every part of north India.
-
-**Answer: B.** -
 
 ### Workbook MCQ 15
 What does the First Battle of Tarain, 1191, demonstrate most clearly for causal analysis?
@@ -397,8 +131,6 @@ What does the First Battle of Tarain, 1191, demonstrate most clearly for causal 
 - C. Turkish political success was not inevitable.
 - D. The Sultanate began in 1191.
 
-**Answer: C.** -
-
 ### Workbook MCQ 16
 Which is the strongest explanation of the political transition?
 
@@ -406,8 +138,6 @@ Which is the strongest explanation of the political transition?
 - B. weapon type alone
 - C. courage alone
 - D. interaction of frontier change, mobility, concentrated command, rivalry and contingent decisions
-
-**Answer: D.** -
 
 ### Workbook MCQ 17
 Consider the following statements:
@@ -423,8 +153,6 @@ Which statements are correct?
 - C. 1 and 3 only
 - D. 1, 2 and 3
 
-**Answer: A.** - Statement 3 confuses community infrastructure with sovereignty.
-
 ### Workbook MCQ 18
 Which distinction is most useful when analysing Rajput military resources?
 
@@ -432,8 +160,6 @@ Which distinction is most useful when analysing Rajput military resources?
 - B. aggregate resources versus resources concentrated under unified command
 - C. Hindu versus Muslim courage
 - D. cavalry versus all other arms
-
-**Answer: B.** -
 
 ### Workbook MCQ 19
 Rajputisation is most closely associated with:
@@ -443,8 +169,6 @@ Rajputisation is most closely associated with:
 - C. interaction among agrarian expansion, political power and status formation
 - D. replacement of agriculture by pastoralism
 
-**Answer: C.** -
-
 ### Workbook MCQ 20
 Which statement most accurately treats cavalry advantage?
 
@@ -452,8 +176,6 @@ Which statement most accurately treats cavalry advantage?
 - B. India had no mounted forces.
 - C. Cavalry mattered only because of ethnicity.
 - D. Mobility became decisive when integrated with command, remounts, intelligence and tactics.
-
-**Answer: D.** -
 
 ### Workbook MCQ 21
 The Gahadavalas are associated principally with:
@@ -463,8 +185,6 @@ The Gahadavalas are associated principally with:
 - C. Ghazni
 - D. Gujarat
 
-**Answer: A.** -
-
 ### Workbook MCQ 22
 Which pair is correctly matched?
 
@@ -472,8 +192,6 @@ Which pair is correctly matched?
 - B. Chauhans — Ajmer
 - C. Hindu Shahis — Chola maritime empire
 - D. Paramaras — Malabar merchant settlement
-
-**Answer: B.** -
 
 ### Workbook MCQ 23
 An excavated port and a named textual port should be identified with confidence only when:
@@ -483,8 +201,6 @@ An excavated port and a named textual port should be identified with confidence 
 - C. chronology, geography, stratigraphy and other evidence converge
 - D. the modern names sound similar
 
-**Answer: C.** -
-
 ### Workbook MCQ 24
 Why can the eighth-century Sind conquest not explain twelfth-century Ghurid expansion by itself?
 
@@ -492,8 +208,6 @@ Why can the eighth-century Sind conquest not explain twelfth-century Ghurid expa
 - B. Sind had no trade.
 - C. The Ghurids were Arab merchants.
 - D. centuries, different actors and transformed West/Central Asian institutions intervened
-
-**Answer: D.** -
 
 ### Workbook MCQ 25
 The International Spice Routes Conference of January 2026 is safest used in an answer as:
@@ -503,8 +217,6 @@ The International Spice Routes Conference of January 2026 is safest used in an a
 - C. proof that Arab traders ruled Kerala
 - D. proof of the exact location of every ancient port
 
-**Answer: A.** -
-
 ### Workbook MCQ 26
 Gyan Bharatam's digitisation programme can improve medieval research primarily by:
 
@@ -512,8 +224,6 @@ Gyan Bharatam's digitisation programme can improve medieval research primarily b
 - B. expanding preservation, cataloguing and research access
 - C. making later copies contemporary eyewitnesses
 - D. removing the need for palaeography
-
-**Answer: B.** -
 
 ### Workbook MCQ 27
 Which method is strongest for using a Persian court chronicle?
@@ -523,8 +233,6 @@ Which method is strongest for using a Persian court chronicle?
 - C. identify genre and patronage, then co-relate it with other evidence
 - D. treat silence as proof of absence
 
-**Answer: C.** -
-
 ### Workbook MCQ 28
 Which statement best distinguishes a raid from sustained expansion?
 
@@ -532,8 +240,6 @@ Which statement best distinguishes a raid from sustained expansion?
 - B. Expansion never seeks revenue.
 - C. A raid never uses cavalry.
 - D. sustained expansion requires bases, garrisons, information and recurring revenue
-
-**Answer: D.** -
 
 ### Workbook MCQ 29
 Which proposition best reflects the relationship between geography and conquest?
@@ -543,17 +249,13 @@ Which proposition best reflects the relationship between geography and conquest?
 - C. A mountain pass automatically determines political control.
 - D. Roads are irrelevant to cavalry.
 
-**Answer: A.** -
-
 ### Workbook MCQ 30
-Why is “the Turks came only as destroyers” analytically inadequate?
+Why is "the Turks came only as destroyers" analytically inadequate?
 
 - A. They rejected territorial rule.
 - B. They also carried Persianate administrative, literary and political institutions.
 - C. No conflict occurred.
 - D. They were all merchants.
-
-**Answer: B.** -
 
 ### Workbook MCQ 31
 Which framework produces the strongest causal answer?
@@ -563,8 +265,6 @@ Which framework produces the strongest causal answer?
 - C. structural condition + institutional mechanism + contingent trigger
 - D. civilisation versus civilisation
 
-**Answer: C.** -
-
 ### Workbook MCQ 32
 The best final judgement on the initial Turkish breakthrough is:
 
@@ -573,75 +273,395 @@ The best final judgement on the initial Turkish breakthrough is:
 - C. proof of universal Rajput military inferiority
 - D. made more probable by structural shifts but realised through contingent political and military choices
 
-**Answer: D.** - 
+### Workbook MCQ 33
+A historian finds an elaborate speech attributed to Dahir in the Chachnama. Which use of it is methodologically sound?
+
+- A. Treat it as a thirteenth-century Persian representation, testing its eighth-century claims against independent evidence.
+- B. Use its verbatim wording as a court transcript from Dahir's reign.
+- C. Reject the entire text because its alleged Arabic precursor has not survived.
+- D. Date the Arab invasion to the time of Ali Kufi, its Persian redactor.
+
+### Workbook MCQ 34
+Which finding would MOST directly challenge the proposition that conquest in Sind replaced all local administrative intermediaries?
+
+- A. Evidence that Arab ships crossed the Arabian Sea before the conquest.
+- B. Evidence of retained local officers collecting revenue under Arab garrisons.
+- C. Evidence that Baghdad hosted translators under the Abbasids.
+- D. Evidence that the Ghurids appointed commanders in north India.
+
+### Workbook MCQ 35
+A text labels Arabic astronomy 'Sindhind' and credits Indian learning. What conclusion best respects the transmission evidence?
+
+- A. Every Arabic theorem must be a word-for-word translation of a surviving Sanskrit verse.
+- B. Arab scholars had no role in modifying transmitted methods.
+- C. Sanskrit astronomical material entered multilingual translation and adaptation networks; exact attribution needs checking.
+- D. The astronomical exchange began only with the Ghurid capture of Delhi.
+
+### Workbook MCQ 36
+Which regional contrast MOST decisively qualifies the thesis of an all-India political-economic collapse before Turkish expansion?
+
+- A. The loss of Punjab proves that every southern port ceased operating.
+- B. Gahadavala competition implies Kashmir and the Deccan had identical institutions.
+- C. A Pratihara succession change ended every regional lineage at once.
+- D. Chola temple-centred agrarian and maritime strength alongside north-western frontier reverses.
+
+### Workbook MCQ 37
+What can a courtly claim of enormous booty at Somnath establish WITHOUT independent fiscal corroboration?
+
+- A. That victory and wealth were important to the chronicler's presentation, not the precise audited value seized.
+- B. The exact sum transferred to Ghazni's treasury.
+- C. The complete absence of political or religious symbolism in the raid.
+- D. That the same temple was permanently annexed as a province.
+
+### Workbook MCQ 38
+Al-Biruni's discussion of Indian social classifications rests heavily on learned interlocutors. Which inference is best supported?
+
+- A. He personally surveyed every village's occupational distribution.
+- B. It is valuable for textual and comparative intellectual history but cannot alone measure lived practice across India.
+- C. His use of Sanskrit automatically removed interpretive bias.
+- D. He wrote only military reports and had no interest in mathematics.
+
+### Workbook MCQ 39
+Which combination would best warrant identifying a contested excavated port as the Debal of a conquest account?
+
+- A. A later manuscript's place-name by itself, regardless of site chronology.
+- B. The presence of a mosque alone, regardless of dating or location.
+- C. Converging securely dated archaeology, geographical fit and independently corroborated textual indications.
+- D. A modern commemorative label assigned to the site without material evidence.
+
+### Workbook MCQ 40
+Which ordering preserves the distinction between frontier incorporation and the later creation of Sultanate authority?
+
+- A. Independent Delhi Sultanate → Arab conquest of Sind → Ghaznavid Punjab base → Tarain.
+- B. Somnath raid → immediate all-India Delhi sovereignty → Ghurid capture of Ghazni.
+- C. First Tarain → Delhi Sultanate → Sabuktigin's wars with Jayapala.
+- D. Hindu Shahi frontier reverses and Punjab base → Ghurid victories at Tarain and Chandawar → delegated enforcement → independent Delhi Sultanate.
+
+## MATCHING MCQ ANSWER KEY AND REMEDIATION
+
+### Workbook MCQ 01 — A
+- A. Correct. The subject's master distinction is between overlapping but non-identical processes: centuries of commercial-cultural contact versus a later, increasingly territorial-military thrust.
+- B. Incorrect. Indian merchants remained active around the Persian Gulf throughout; Arab trade did not displace them.
+- C. Incorrect. Arab maritime activity and Sind contact long preceded 1206; the chronology is reversed.
+- D. Incorrect. The two processes had different agents (merchants versus commanders/sultans), routes (sea versus frontier land) and effects (accommodation versus sovereignty change).
+
+**Trap:** treating "foreign contact" as one undifferentiated story instead of separate commercial and military processes.
+
+### Workbook MCQ 02 — B
+- A. Incorrect. The Gahadavalas were a Gangetic-plain (Kannauj) dynasty, not the power associated with this Deccan/west-coast commercial accommodation.
+- B. Correct. The Rashtrakutas are the power the source associates with welcoming Arab traders and permitting mosques — evidence of commercial accommodation, not Arab sovereignty over the Rashtrakuta state.
+- C. Incorrect. The Tomaras held the Delhi region and are unrelated to this specific mosque-permission episode.
+- D. Incorrect. The Hindu Shahis were a north-western frontier dynasty contesting the Ghaznavids, not a Deccan maritime power.
+
+**Trap:** inferring political submission or conquest from evidence of religious/commercial accommodation.
+
+### Workbook MCQ 03 — C
+- A. Incorrect. Indian and Arab merchants continued to coexist in Indian Ocean circuits after 712.
+- B. Incorrect. The Delhi Sultanate formed roughly five centuries later, through an entirely different Ghurid-Turkish process.
+- C. Correct. Sind gave the Arabs a bounded frontier province and a channel for translation and trade, without directly producing the later Sultanate.
+- D. Incorrect. The Samanids were a separate Central Asian Iranian dynasty whose rise is unconnected to the Sind campaign's origin.
+
+**Trap:** collapsing a bounded, centuries-removed regional episode into an all-India founding event.
+
+### Workbook MCQ 04 — D
+- A. Incorrect. They had already assimilated Iranian language and court culture after Abbasid fragmentation.
+- B. Incorrect. They were both Islamised and Persianised; the two are not mutually exclusive.
+- C. Incorrect. They were regional military commanders, not caliphal figures; "Persianate" describes a shared idiom, not identity with Baghdad.
+- D. Correct. "Turkish", "Islamic" and "Persianate" describe different, intersecting dimensions of the same elite.
+
+**Trap:** treating "Turkish" as a single undifferentiated ethnic or religious category rather than an intersecting military-cultural-religious formation.
+
+### Workbook MCQ 05 — A
+- A. Correct. Alp-tigin founded the Ghazni power centre in 963, opening the Ghaznavid sequence continued by Sabuktigin and Mahmud.
+- B. Incorrect. Firdausi was the Persian poet who composed the Shahnameh, not a ruler of Ghazni.
+- C. Incorrect. Muizzuddin Muhammad ibn Sam belongs to the later Ghurid phase (from 1173), two centuries after Alp-tigin.
+- D. Incorrect. Jayapala was the Hindu Shahi ruler who resisted Ghaznavid expansion, not its founder.
+
+**Trap:** confusing the Alp-tigin → Sabuktigin → Mahmud Ghaznavid sequence with the much later Ghurid sequence.
+
+### Workbook MCQ 06 — B
+- A. Incorrect. It is a historical strategic-depth concept, not a claim about modern national boundaries.
+- B. Correct. It names the frontier zones whose loss reduced India's strategic depth against Central Asian military states.
+- C. Incorrect. The concept is about roads, bases and control, not religion.
+- D. Incorrect. Frontier loss increased vulnerability gradually; it did not make conquest immediate or automatic.
+
+**Trap:** reading a strategic-depth metaphor as either a literal modern border or proof that conquest became inevitable.
+
+### Workbook MCQ 07 — C
+- A. Incorrect. Rajput states possessed forts, agrarian revenue and armies; capacity was not absent.
+- B. Incorrect. Iqta was a Turkish/Islamic revenue-service institution, not the organising principle of Rajput polities.
+- C. Correct. The order combined real regional capacity with a persistent coordination problem among rival sovereign centres.
+- D. Incorrect. Unified command was precisely what was difficult to sustain, not a permanent feature.
+
+**Trap:** conflating "difficulty of coordination" with "absence of capacity".
+
+### Workbook MCQ 08 — D
+- A. Incorrect. Iqta existed precisely to fund military-service obligations, not remove them.
+- B. Incorrect. It was held at the ruler's pleasure and could be reassigned, unlike hereditary property.
+- C. Incorrect. It assigned revenue collection rights, not unrestricted ownership over cultivators or land.
+- D. Correct. Iqta was a ruler-controlled revenue assignment tied to maintaining troops and service.
+
+**Trap:** mistaking a revocable service-linked revenue assignment for hereditary feudal landownership.
+
+### Workbook MCQ 09 — A
+- A. Correct. Sind, 711–12; Ghazni founded, 963; Muizzuddin takes Ghazni, 1173; First Tarain, 1191.
+- B. Incorrect. It swaps the Alp-tigin (963) and Muizzuddin (1173) order.
+- C. Incorrect. It places Alp-tigin's Ghazni before the Arab conquest of Sind, reversing the actual sequence by over two centuries.
+- D. Incorrect. It places the Sind conquest after Ghazni's Turkish state formation, which is chronologically impossible.
+
+**Trap:** assuming Ghazni's Turkish state formation preceded, rather than followed, the eighth-century Arab conquest of Sind.
+
+### Workbook MCQ 10 — B
+- A. Incorrect. It is a cultural-administrative category, not a doctrinal or sectarian one.
+- B. Correct. It names the shared language, literary and administrative sphere that Turkish elites adopted.
+- C. Incorrect. Persianisation was cultural and institutional, not a claim about biological or ethnic descent.
+- D. Incorrect. It describes a court-and-administration formation, not a commercial or maritime institution.
+
+**Trap:** equating a cultural-administrative sphere with a religious sect or an ethnic identity.
+
+### Workbook MCQ 11 — C
+- A. Incorrect. Monsoon winds are a maritime-trade factor, unrelated to overland frontier roads.
+- B. Incorrect. Road improvement is a Ghaznavid logistics factor; it has no bearing on Rajput political unification.
+- C. Correct. Roads converted frontier terrain into operational capacity: faster supply, intelligence and reinforcement.
+- D. Incorrect. Better roads did not remove the fiscal basis (iqta/revenue) that funded troops and campaigns.
+
+**Trap:** missing the specific logistics mechanism (mobility, supply, intelligence) and substituting an unrelated political or fiscal claim.
+
+### Workbook MCQ 12 — D
+- A. Incorrect. This is the opposite of a diaspora, which by definition retains external ties.
+- B. Incorrect. This describes an administrative-textual formation, not a merchant community.
+- C. Incorrect. This describes a military settlement (closer to iqta-holders), not commercial diaspora activity.
+- D. Correct. Commercial diasporas kept long-distance trade ties while building local institutions such as mosques and residences.
+
+**Trap:** confusing a settled merchant diaspora with a conquering or garrisoned military population.
+
+### Workbook MCQ 13 — A
+- A. Correct. Translation involves patrons, scholars, languages, selection and adaptation — an ecosystem, not a single event.
+- B. Incorrect. Knowledge transfer through Sind and beyond was intellectual/commercial, not a territorial-conquest process.
+- C. Incorrect. This is an unrelated military-institutional term with no bearing on scholarly transmission.
+- D. Incorrect. "Biological diffusion" is a category error; the process concerned texts and ideas, not populations or genetics.
+
+**Trap:** mistaking an intellectual transmission process (translation, patronage, scholarship) for a political or territorial one.
+
+### Workbook MCQ 14 — B
+- A. Incorrect. This is factually false; Pratihara power declined well before 1526.
+- B. Correct. Gahadavalas, Chauhans, Paramaras, Chalukyas, Chandellas and Tomars each retained real state capacity.
+- C. Incorrect. Feudatories were a normal part of these regional states' structure.
+- D. Incorrect. The Cholas were a southern, maritime power; they did not rule north India.
+
+**Trap:** equating the decline of one dominant dynasty with the total disappearance of organised political capacity.
+
+### Workbook MCQ 15 — C
+- A. Incorrect. The Ghurids fielded cavalry throughout; the battle does not show its absence.
+- B. Incorrect. Punjab's status as a Ghaznavid/Ghurid forward base was not reversed by this battle.
+- C. Correct. Prithviraj's 1191 victory is the key counter-evidence against treating Turkish success as predetermined.
+- D. Incorrect. The Delhi Sultanate formed roughly fifteen years later, around 1206, not at Tarain I.
+
+**Trap:** treating a single reverse or victory as proof of a predetermined outcome, or confusing Tarain I with the Sultanate's founding.
+
+### Workbook MCQ 16 — D
+- A. Incorrect. Religion alone cannot explain why Turkish states also lost battles to Rajput and other opponents.
+- B. Incorrect. Weapon type ignores logistics, finance and command that made mobility effective.
+- C. Incorrect. "Courage alone" is the bravery stereotype the source explicitly rejects.
+- D. Correct. The balanced, multi-causal formula matches the source's structural explanation.
+
+**Trap:** substituting any single monocausal factor (religion, technology or courage) for the required structural, multi-causal explanation.
+
+### Workbook MCQ 17 — A
+- A. Correct. Both settlement and continuing Indian mercantile activity are source-supported facts.
+- B. Incorrect. Statement 3 is false, so any option including it is wrong.
+- C. Incorrect. Statement 3 is false, so this option is also wrong despite Statement 1 being correct.
+- D. Incorrect. Including Statement 3 makes this option wrong even though 1 and 2 are true.
+
+**Trap:** Statement 3 confuses community religious infrastructure with proof of foreign sovereignty over the settlement.
+
+### Workbook MCQ 18 — B
+- A. Incorrect. Fort-building and temple patronage are not the analytically decisive axis for this question.
+- B. Correct. The key distinction is between resources that existed in aggregate and resources that could be pooled under one command.
+- C. Incorrect. This reproduces the rejected bravery/religion stereotype rather than a structural distinction.
+- D. Incorrect. Arms-type comparison does not capture the coordination problem that mattered most.
+
+**Trap:** reducing a structural capacity-versus-coordination analysis to a religious-courage framing.
+
+### Workbook MCQ 19 — C
+- A. Incorrect. Brahmanical legitimation was not eliminated; it remained part of the process.
+- B. Incorrect. Rajputisation was a longer social process, not one dated migration event.
+- C. Correct. It captures the interaction of agrarian expansion, political power and evolving status claims.
+- D. Incorrect. The process involved agrarian expansion, not the replacement of agriculture by pastoralism.
+
+**Trap:** treating a long-run social-formation process as a single dated event.
+
+### Workbook MCQ 20 — D
+- A. Incorrect. Outcomes depended on organisation and tactics, not an automatic animal-versus-animal hierarchy.
+- B. Incorrect. This is factually false; Indian armies fielded cavalry.
+- C. Incorrect. Ethnicity is not the operative variable; organisation and logistics are.
+- D. Correct. Mobility was decisive only when combined with command, remounts, intelligence and tactics.
+
+**Trap:** attributing a battlefield outcome to a single technology or ethnic factor instead of an organisational system.
+
+### Workbook MCQ 21 — A
+- A. Correct. Kannauj was the Gahadavala power base on the Gangetic plain.
+- B. Incorrect. Malwa is associated with the Paramaras, a separate dynasty.
+- C. Incorrect. Ghazni is the Turkish/Ghaznavid frontier base, unconnected to the Gahadavalas.
+- D. Incorrect. Gujarat is associated with the Chaulukyas/Chalukyas, not the Gahadavalas.
+
+**Trap:** confusing regional dynasty-territory pairings across distant zones of the subcontinent.
+
+### Workbook MCQ 22 — B
+- A. Incorrect. The Tomaras held the Delhi region, not Ghazni.
+- B. Correct. Ajmer was a principal Chauhan (Chahamana) base under Prithviraj and his line.
+- C. Incorrect. The Hindu Shahis were a north-western frontier power; the Chola maritime empire was an unrelated southern polity.
+- D. Incorrect. The Paramaras were centred on Malwa, not the Malabar merchant settlements.
+
+**Trap:** mixing up regional-dynasty geography across distant and unrelated zones of the subcontinent.
+
+### Workbook MCQ 23 — C
+- A. Incorrect. Popular tradition alone is not independent evidence of identification.
+- B. Incorrect. A single artefact cannot establish an identification by itself.
+- C. Correct. Convergent chronology, geography, stratigraphy and inscriptional evidence together justify confident identification (as debated for Banbhore/Debal).
+- D. Incorrect. Name similarity alone is weak, uncorroborated evidence.
+
+**Trap:** accepting a single weak strand of evidence (legend, one artefact or name similarity) as sufficient for archaeological identification.
+
+### Workbook MCQ 24 — D
+- A. Incorrect. This reverses the actual sequence; Ghazni's Turkish rulers long predate any Delhi Sultanate takeover of Ghazni.
+- B. Incorrect. Sind was in fact a commercial and knowledge conduit, not a trade-free zone.
+- C. Incorrect. The Ghurids were Persianate Turkish/Iranian military rulers, not Arab merchants.
+- D. Correct. Centuries of change, new actors and transformed Abbasid-successor institutions separate the two events.
+
+**Trap:** assuming a single distant eighth-century event mechanically and directly produced a twelfth-century political outcome.
+
+### Workbook MCQ 25 — A
+- A. Correct. It is a contemporary relevance anchor for maritime heritage and cultural corridors, not primary historical evidence.
+- B. Incorrect. It is a heritage/tourism event, not an archaeological chronology report.
+- C. Incorrect. Commercial settlement is not the same as political rule; no such conclusion follows.
+- D. Incorrect. A 2026 conference cannot establish the exact location of ancient ports.
+
+**Trap:** using a current-affairs anchor as if it were primary historical or archaeological proof.
+
+### Workbook MCQ 26 — B
+- A. Incorrect. Digitisation improves access, not the truth-value of a manuscript's claims.
+- B. Correct. It expands preservation, cataloguing and access for researchers.
+- C. Incorrect. Digitising a later copy does not make it a contemporary eyewitness account.
+- D. Incorrect. Palaeography and textual criticism remain necessary regardless of digitisation.
+
+**Trap:** confusing improved access to a source with automatic verification of its factual reliability.
+
+### Workbook MCQ 27 — C
+- A. Incorrect. Outright rejection discards genuinely useful evidence.
+- B. Incorrect. Literal acceptance ignores court patronage and idealisation.
+- C. Correct. Identifying genre and patronage, then corroborating with other evidence, is the source-critical method used throughout this topic.
+- D. Incorrect. A chronicle's silence on a topic does not prove that topic did not exist.
+
+**Trap:** swinging between naive acceptance and blanket rejection instead of applying genre-aware corroboration.
+
+### Workbook MCQ 28 — D
+- A. Incorrect. A raid (such as Mahmud's expeditions) need not change sovereignty at all.
+- B. Incorrect. Sustained expansion is precisely organised around recurring revenue.
+- C. Incorrect. Both raids and sustained campaigns could use cavalry.
+- D. Correct. Bases, garrisons, information and recurring revenue mark the shift from raid to durable expansion.
+
+**Trap:** collapsing "raid/plunder" and "conquest/annexation" into a single undifferentiated category.
+
+### Workbook MCQ 29 — A
+- A. Correct. Geography enabled but did not determine outcomes; logistics and institutions converted opportunity into power.
+- B. Incorrect. Frontier states such as the Hindu Shahis resisted for an extended period.
+- C. Incorrect. This is geographical determinism, which the topic explicitly rejects.
+- D. Incorrect. Roads were central to cavalry mobility, supply and reinforcement.
+
+**Trap:** substituting geographical determinism for the required "enabling condition, not sufficient cause" analysis.
+
+### Workbook MCQ 30 — B
+- A. Incorrect. This is factually false; territorial rule and revenue claims were central to the later transition.
+- B. Correct. Turkish elites also carried Persianate courtly, administrative and literary institutions, not destruction alone.
+- C. Incorrect. Conflict clearly occurred, including battles and resistance.
+- D. Incorrect. They were commanders and sultans operating military-fiscal states, not primarily merchants.
+
+**Trap:** reducing a complex political-institutional transition to a single destroyer/plunder narrative.
+
+### Workbook MCQ 31 — C
+- A. Incorrect. A single-technology explanation cannot account for reverses such as Tarain I or Gujarat 1178–79.
+- B. Incorrect. A moralised hero/villain frame is not a causal-historical explanation.
+- C. Correct. The condition–mechanism–trigger structure integrates structure, institutions and contingency.
+- D. Incorrect. A civilisation-versus-civilisation frame is the communal narrative the topic explicitly rejects.
+
+**Trap:** substituting a moralised or civilisational-clash frame for the required structural, multi-causal analysis.
+
+### Workbook MCQ 32 — D
+- A. Incorrect. Frontier change (Hindu Shahi losses, Ghaznavid roads, Punjab base) was directly relevant.
+- B. Incorrect. The Sind conquest, centuries earlier, did not predetermine the later Ghurid breakthrough.
+- C. Incorrect. Rajput victories at Gujarat (1178–79) and Tarain I (1191) disprove any claim of universal inferiority.
+- D. Correct. This is the balanced, evidence-based verdict the topic builds toward: structural probability realised through contingent choice.
+
+**Trap:** choosing between "predetermined" and "unrelated" instead of the required probabilistic, contingency-aware synthesis.
+
+### Workbook MCQ 33 — A
+- A. Correct. The text is a later Persian narrative associated with Ali Kufi; its reported speeches need corroboration.
+- B. Incorrect. A claimed lost Arabic source cannot establish that speeches were recorded verbatim.
+- C. Incorrect. Later composition limits literal use, but does not make the narrative historically useless.
+- D. Incorrect. The redaction date is not the date of Muhammad bin Qasim's campaign.
+
+**Trap:** Do not convert a later literary speech into a contemporary transcript or discard the whole source.
+
+### Workbook MCQ 34 — B
+- A. Incorrect. Earlier maritime contact does not specify Sind's post-conquest personnel.
+- B. Correct. Retained personnel alongside garrisons is direct counter-evidence to total replacement.
+- C. Incorrect. Baghdad's scholarship is a different setting and period from local administration.
+- D. Incorrect. Later Ghurid appointments cannot demonstrate how Sind was administered.
+
+**Trap:** Distinguish conquest of towns from wholesale replacement of governing personnel.
+
+### Workbook MCQ 35 — C
+- A. Incorrect. The label does not prove a direct one-to-one textual correspondence for every claim.
+- B. Incorrect. Transmission involved reconstruction and scholarly adaptation, not passive copying.
+- C. Correct. Siddhanta-linked knowledge travelled through layered Sanskrit, Middle Persian and Arabic pathways.
+- D. Incorrect. Abbasid-era exchanges predate Ghurid expansion into the Gangetic plain.
+
+**Trap:** A shared label identifies exchange, not an audited single text-to-text translation chain.
+
+### Workbook MCQ 36 — D
+- A. Incorrect. A frontier reversal cannot establish a universal maritime collapse.
+- B. Incorrect. Different regions followed different political and institutional trajectories.
+- C. Incorrect. Successor states emerged after Pratihara decline, not a simultaneous disappearance.
+- D. Correct. South Indian vitality and north-western military vulnerability coexist in the source's regional map.
+
+**Trap:** Do not extrapolate a north-western military story to the entire subcontinent.
+
+### Workbook MCQ 37 — A
+- A. Correct. Court rhetoric documents representations of prestige; exact numerical figures need corroboration.
+- B. Incorrect. Narrative figures vary and are not independently audited accounts.
+- C. Incorrect. Temple attacks could carry wealth, political and religious significance together.
+- D. Incorrect. A distant raid and durable territorial annexation are different outcomes.
+
+**Trap:** Read a triumphal chronicle as evidence for rhetoric before treating its quantities as accounts.
+
+### Workbook MCQ 38 — B
+- A. Incorrect. The work is not a subcontinental demographic census.
+- B. Correct. His linguistic effort and Brahmanical textual access yield insight with important representativeness limits.
+- C. Incorrect. Language learning improves access without eliminating selective informants or categories.
+- D. Incorrect. His comparative treatment includes mathematics, astronomy and social thought.
+
+**Trap:** Separate an elite textual account from a representative social census.
+
+### Workbook MCQ 39 — C
+- A. Incorrect. Textual names alone do not establish a one-to-one archaeological identification.
+- B. Incorrect. An undated or later mosque cannot assign an eighth-century port name.
+- C. Correct. Independent chronological, spatial and textual agreement raises confidence while allowing uncertainty.
+- D. Incorrect. Modern memory does not provide a contemporaneous site identification.
+
+**Trap:** Neither a name in a later text nor a single structure settles contested site identity.
+
+### Workbook MCQ 40 — D
+- A. Incorrect. The Sultanate arose long after the Sind and Ghaznavid phases, not before them.
+- B. Incorrect. The Somnath raid did not establish an all-India Delhi state.
+- C. Incorrect. Sabuktigin's Shahi conflict preceded the Tarain battles and Sultanate.
+- D. Correct. The sequence distinguishes a Ghaznavid base, Ghurid expansion, enforcement and subsequent independent rule.
+
+**Trap:** Do not insert state formation immediately after a raid or a single battle.
 
 ---
 
-### Remedial correction MCQs
-
-#### Remedial MCQ 01
-Which correction best addresses the claim that Sind immediately created the Delhi Sultanate?
-- A. Sind was a regional foothold and conduit; different actors and institutions produced the later Sultanate.
-- B. The Ghaznavids conquered Sind in the eighth century.
-- C. Arab maritime trade began only after 1206.
-- D. Sind and Delhi were ruled continuously by one dynasty after 712.
-**Answer: A.** The Arab conquest of Sind and the Ghurid-Sultanate transition were separated by centuries.
-
-#### Remedial MCQ 02
-What does Persianate most accurately describe in this context?
-- A. Persian biological ancestry.
-- B. A sphere of Persian language, court culture, literature and administration.
-- C. Rejection of Islam by Turkish commanders.
-- D. Replacement of every Indian language.
-**Answer: B.** Persianisation was cultural and institutional, not an ethnic category.
-
-#### Remedial MCQ 03
-Which statement correctly defines iqta in the pre-Sultanate transition?
-- A. A temple tax collected only at ports.
-- B. Unrestricted hereditary ownership of cultivators.
-- C. A ruler-controlled revenue assignment associated with service and troop maintenance.
-- D. A Rajput clan council.
-**Answer: C.** The assignment supported service obligations and did not automatically transfer full property rights.
-
-#### Remedial MCQ 04
-Which is the best correction to the claim that Rajput states had no resources?
-- A. Their only weakness was inferior personal courage.
-- B. They had no forts but controlled all cavalry imports.
-- C. They formed a permanent all-India confederacy.
-- D. Several had substantial revenue and armies, but durable inter-state coordination was difficult.
-**Answer: D.** The central distinction is individual state capacity versus pooled command.
-
-#### Remedial MCQ 05
-Why is cavalry alone an insufficient explanation of Turkish success?
-- A. Mobility worked through finance, logistics, intelligence, command and tactics.
-- B. Infantry played no role in medieval warfare.
-- C. Horses were absent from West and Central Asia.
-- D. Every mounted army won every battle.
-**Answer: A.** Military advantage was an organisational system rather than a single weapon.
-
-#### Remedial MCQ 06
-What can a permitted mosque in a merchant settlement establish most securely?
-- A. Abolition of Indian Ocean trade.
-- B. A resident community and local accommodation.
-- C. Immediate foreign annexation.
-- D. Uniform conversion of the surrounding population.
-**Answer: B.** Religious infrastructure does not by itself prove transferred sovereignty.
-
-#### Remedial MCQ 07
-Why should the north-west not be described as an eternally open gate?
-- A. Punjab was separated from Central Asia by the sea.
-- B. No army crossed it before 1206.
-- C. Routes became operational through political control, roads, bases, supply and intelligence.
-- D. Geography had no strategic importance.
-**Answer: C.** Terrain created opportunities and constraints that states had to organise.
-
-#### Remedial MCQ 08
-What is the correct use of digitised manuscripts in historical reconstruction?
-- A. Digitisation proves every manuscript is contemporary with the event.
-- B. Digital access removes genre and patronage bias.
-- C. A repository replaces archaeological corroboration.
-- D. Digitisation improves access, while dating, editing, translation and criticism remain necessary.
-**Answer: D.** Access and evidentiary reliability are separate questions.
+> **Remediation note:** Remediation for this topic's predictable errors (the "Sind founded the Sultanate" trap, the "Persianate = ethnicity" trap, the "iqta = hereditary ownership" trap, the "Rajputs had no resources" trap, the "cavalry alone" trap, the "mosque = sovereignty" trap, the "open gate" trap and the "digitisation = verification" trap) is integrated directly into the option-by-option explanations and trap lines of Workbook MCQs 01–40 (see the matching key above) (see, respectively, MCQs 03/24, 04/10, 08/13, 07/14/18, 16/20, 02/17, 06/11/29 and 26/27). No separate remedial MCQ bank is maintained.
 
 ### Semantic-completeness coverage drills — Medieval Topic 01
 
@@ -658,6 +678,8 @@ What is the correct use of digitised manuscripts in historical reconstruction?
 
 **PYQ status:** all seven retained questions are application items; Topic 01 has
 zero direct routed PYQs.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -844,13 +866,9 @@ How many of the above dynasties established their kingdoms in the early eighth c
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “M-1 · 2018 · GS-I · 10 marks · 150 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Open with a one-line thesis that these accounts are high-value external witnesses only when checked against genre and corroboration; take Xuanzang, Sulaiman/al-Masudi and Al-Biruni as three claim → evidence → limit units in that order; close with the graded corroboration verdict already given.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-1 · 2018 · GS-I · 10 marks · 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one further named traveller or an inscriptional/numismatic cross-check (for example Rashtrakuta-grant evidence for Arab settlement) to show corroboration beyond the three travellers already used.
 
 ### M-2 · 2020 · GS-I · 15 marks · 250 words
 
@@ -883,13 +901,9 @@ How many of the above dynasties established their kingdoms in the early eighth c
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “M-2 · 2020 · GS-I · 15 marks · 250 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Sequence the six named genres (Barani's chronicle and *Fatawa-i Jahandari*, Abul Fazl's *Akbarnama*/*Ain-i Akbari*, Badauni, Amir Khusrau, Gulbadan Begum, the *Fawa'id-ul-Fu'ad*) as claim → evidence → limit units, grouped by function (statecraft, dissent, domestic life, Sufi sociability), before the closing corroboration verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-2 · 2020 · GS-I · 15 marks · 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add a vernacular or inscriptional cross-check (for example a bhakti or regional-language source) to test whether the “spirit of the age” claim holds outside Persian elite circles.
 
 ### M-3 · 2023 · GS-I · 15 marks · 250 words
 
@@ -922,13 +936,9 @@ The question has two equal halves: identify changes and explain social influence
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “M-3 · 2023 · GS-I · 15 marks · 250 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Treat the five named technologies (spinning wheel, paper-making, Persian wheel, arch-and-dome, cavalry/road-post relays) as claim → mechanism → social effect → qualification units, holding the two-halves structure (change, then influence) throughout.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-3 · 2023 · GS-I · 15 marks · 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add a dated artefact or monument (for example a specific inscribed structure) to anchor the arch-and-dome claim beyond the Alai Darwaza reference already used.
 
 ### O-1 (10 marks · 150 words)
 
@@ -958,41 +968,17 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “O-1 (10 marks · 150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Use the three evidence clusters already built (regional successor states' capacity, the Chola counter-example, and the Gujarat 1178–79/Tarain 1191 resistance) as claim → evidence → qualification units, closing with the “regionalised order, not vacuum” verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-1 (10 marks · 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### O-2 (10 marks · 150 words)
-
-**Differentiate Arab maritime contact from Turkish military penetration into India.**
-
-#### Model answer
-
-> Arab maritime contact was a long-duration commercial-cultural process; Turkish penetration was increasingly military-territorial. **Arab settlements in Malabar and Rashtrakuta permission for mosques** prove negotiated residence under Indian sovereignty, although coastal accommodation did not exclude occasional conflict. **Indian merchants, physicians and craftsmen around the Persian Gulf and Baghdad** show reciprocal exchange rather than Arab displacement; goods moved with numerals, astronomy and medicine.
->
-> Turkish expansion operated through the north-west. **Ghazni's roads towards Kabul-Jalalabad and the later Punjab base** supported cavalry, supply and intelligence, turning contact into repeated campaigning and garrisoned control. These commanders were already Islamised and Persianised and carried revenue-service and courtly institutions, but frontier access did not ensure victory, as Muizzuddin's reverses in Gujarat and at Tarain show.
->
-> Thus the sea route usually produced diaspora, trade and cultural transmission, whereas the land route increasingly changed sovereignty. They intersected, but conquest neither began all contact nor followed automatically from commerce.
-
-**Why this earns marks:** It differentiates route, agents and political effect through three named evidence clusters and qualifies both processes within a 10-mark word scale.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “O-2 (10 marks · 150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-2 (10 marks · 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name one additional regional dynasty's specific institutional feature (for example a Chandella fort or a Paramara grant) to deepen the “named states” evidence cluster.
 
 ### O-3 (10 marks · 150 words)
 
 **What is meant by the Persianisation of Turkish elites, and why is it important for medieval Indian history?**
+
+#### Demand decoding
+
+“What is meant by” requires a precise definition before any narrative; “why is it important” requires at least one institutional consequence, not a restatement of the definition.
 
 #### Model answer
 
@@ -1006,49 +992,17 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “O-3 (10 marks · 150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Define Persianisation in one sentence, then use the two named evidence units already present (Ghazni's Persianate court/documentary kingship, and the iqta revenue-service assignment) as claim → evidence → qualification, closing with the “institutional recombination, not ethnic clash” verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-3 (10 marks · 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### O-4 (15 marks · 250 words)
-
-**Assess the role of the north-western frontier in the establishment of Turkish rule in north India.**
-
-#### Model answer
-
-> The north-western frontier was not an eternally open gateway; it was a layered system of buffers, routes and bases. **Hindu Shahi control over Kabul, Jalalabad and adjoining zones** created strategic depth between Central Asian military states and Punjab; their losses around 990–91 reduced that depth, although resistance continued. **Ghaznavid road improvement towards Kabul and Jalalabad** converted terrain into supply, intelligence, reinforcement and retreat. **Punjab's incorporation as a forward base** then lowered the cost of repeated operations and improved local information.
->
-> Frontier change enabled but did not determine conquest. **The Chaulukyas defeated Muizzuddin near Mount Abu in 1178–79**, proving that access through the frontier could be blocked by prepared regional power. **Prithviraj's victory at the First Battle of Tarain in 1191** similarly shows that battle outcomes depended on leadership and tactics. Even after success, Turkish forces could not retain distant **Anhilwara**, revealing the continuing constraint of operational distance.
->
-> The frontier became decisive only when geography combined with mobile cavalry, revenue mobilisation, concentrated command and divisions among north Indian powers. The “outer bastions” thesis is therefore useful for explaining lost strategic depth, but anachronistic if treated as a fixed national boundary and deterministic if made a sufficient cause. Institutions and political choices converted routes into power.
-
-**Why this earns marks:** It assesses frontier importance through six named examples, explains logistical mechanisms, and balances enabling structure with reverses and limits.
-
-#### Top-answer checklist
-
-- Buffers, roads and bases.
-- Hindu Shahis and Punjab.
-- Logistics mechanism.
-- At least one contingency.
-- “Enabling, not determining” verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “O-4 (15 marks · 250 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-4 (15 marks · 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add a specific named ruler or court title (for example Sabuktigin) to strengthen the “transregional political idiom” evidence beyond the general Ghazni reference.
 
 ### O-5 (15 marks · 250 words)
 
 **“The Rajput political order combined considerable strength with a severe coordination problem.” Discuss.**
+
+#### Demand decoding
+
+“Discuss” requires both sides of the quoted claim — strength and the coordination problem — not only one; a one-sided answer fails the directive.
 
 #### Model answer
 
@@ -1062,41 +1016,17 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “O-5 (15 marks · 250 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Present the named-dynasty capacity evidence and the two 1178–79/1191 victories first (proving strength), then the Prithviraj-isolation and Gahadavala non-assistance evidence (proving the coordination problem), closing with the “strong in legitimacy, limited in coordination” verdict already given.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-5 (15 marks · 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### O-6 (15 marks · 250 words)
-
-**How did commercial and intellectual exchanges prepare a cultural bridge between India and the Islamic world before Turkish political rule?**
-
-#### Model answer
-
-> Commercial and intellectual exchange created channels of familiarity long before Turkish sovereignty. **Arab settlements on the Malabar coast** show durable merchant diasporas under Indian rulers; **Rashtrakuta permission for mosques** proves negotiated religious space, but neither settlement nor worship implied foreign sovereignty. The network was reciprocal: **Indian merchants around the Persian Gulf and Indian physicians and craftsmen welcomed at Baghdad** demonstrate Indian agency rather than Arab displacement.
->
-> Commerce also carried knowledge. **Sind after the Arab conquest transmitted Indian numerals and astronomical works such as the *Surya Siddhanta* into Arabic scholarly environments**; this proves translation across political frontiers, although knowledge was selected and transformed rather than transferred unchanged. **Lahore's growth as an Arabic-Persian centre and the poetry of Masud Sad Salman** show that north-western cities became cultural intermediaries before the Delhi Sultanate; their literary evidence, however, represents educated circles more than the whole population.
->
-> The bridge did not abolish conflict. Sind was conquered, frontier warfare continued, and merchant accommodation did not equal mass conversion. Its importance was preparatory rather than deterministic: trade, migration, translation and resident communities supplied routes and institutions through which later Persianate political culture interacted with India. Conquest changed sovereignty, but did not initiate Indo-Islamic contact.
-
-**Why this earns marks:** It integrates five precise examples across commerce, migration and scholarship, explains what each proves, and qualifies “cultural bridge” against peaceful-contact romanticism.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “O-6 (15 marks · 250 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-6 (15 marks · 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one further named feudatory or alliance episode to strengthen the coordination-problem half without weakening the capacity half.
 
 ### O-7 (15 marks · 250 words)
 
 **Explain how cavalry mobility, revenue organisation and command interacted in the Turkish military advantage.**
+
+#### Demand decoding
+
+“Explain how … interacted” requires a mechanism linking all three named factors, not three separate lists; a paragraph that treats them independently misses the directive.
 
 #### Model answer
 
@@ -1112,17 +1042,17 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “O-7 (15 marks · 250 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Use the three interacting evidence units already built (Ghaznavid roads/Punjab base, iqta-funded troops, and Tarain II mounted-archer tactics with Tarain I as counter-evidence) as claim → evidence → qualification, closing with the “horses without finance, revenue without command, command without roads” interaction verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-7 (15 marks · 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add a specific horse-import route or price detail to make the “costly and dependent on trade” qualification more evidence-based.
 
 ### O-8 (20 marks · 300–350 words)
 
 **The establishment of Turkish rule in north India was a structural possibility, not a historical inevitability. Critically examine.**
+
+#### Demand decoding
+
+“Critically examine” requires testing the thesis against counter-evidence, not only illustrating it; both the enabling structures and the reverses (Gujarat 1178–79, the 1191/1192 reversal, the Anhilwara limit) must appear.
 
 #### Model answer
 
@@ -1140,47 +1070,17 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “O-8 (20 marks · 300–350 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Sequence the eight named evidence units already built — Abbasid fragmentation, Hindu Shahi losses, Ghaznavid roads/Punjab base, iqta, named Rajput states, the 1178–79 and 1191 reverses, the 1192 reversal, and the Hasan Nizami/coin evidence — as claim → evidence → qualification, closing with the existing “structural possibility, not inevitability” verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-8 (20 marks · 300–350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### O-9 (20 marks · 300–350 words)
-
-**Compare Arab maritime integration and Turkish military penetration as two distinct routes through which India became connected with West and Central Asia.**
-
-#### Model answer
-
-> Arab maritime integration and Turkish military penetration connected India to West and Central Asia through different routes, agents and institutions.
->
-> **The maritime route was commercial and diasporic.** **Arab settlements in Malabar** operated under Indian rulers, and **Rashtrakuta permission for mosques** proves negotiated religious space without loss of sovereignty. **Indian merchants, physicians and craftsmen around the Persian Gulf and at Baghdad** show reciprocal mobility, not foreign displacement. **Sind's transmission of Indian numerals and astronomical learning into Arabic scholarship** demonstrates that ports and frontier towns moved knowledge as well as goods; however, the Arab conquest of Sind remained a regional political episode and did not mechanically create the Sultanate.
->
-> **Sulaiman and al-Masudi's notices of Indian kingdoms and commerce** independently illuminate the reputation of these maritime circuits; they corroborate connectivity, but merchant testimony and outsider categories limit their social depth.
->
-> **The land route was increasingly military-territorial.** **Hindu Shahi losses around Kabul and Jalalabad**, followed by Ghaznavid road improvement and a **Punjab forward base**, reduced the logistical distance to the plains. **Iqta-based revenue-service organisation** helped rulers maintain mobile troops and concentrated command, though its institutional form changed in India. The agents were sultans, commanders and cavalry rather than primarily merchant communities, and the immediate effects included tribute, garrisons and sovereignty.
->
-> The routes nevertheless intersected. Lahore's Arabic-Persian learning and later **Amir Khusrau's Indian Persian literary culture** show that political centres entered older circuits of exchange. Conversely, the Muslim merchant colony encountered by Malik Kafur's army in the far south demonstrates that maritime communities persisted independently of northern conquest. Persianate institutions were further reshaped by Indian revenue practice, artisans, languages and local elites.
->
-> Neither process should be romanticised: trade could carry hierarchy and conflict, while conquest could generate cultural synthesis. Court and travel texts also privilege literate, mobile groups over cultivators and local vernacular worlds. Together the routes show a connected medieval history in which the sea produced long-duration exchange and the north-western frontier concentrated political transformation.
-
-**Why this earns marks:** It compares routes through seven integrated examples, explains interaction without collapsing trade into conquest, and gives a balanced 20-mark synthesis.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “O-9 (20 marks · 300–350 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-9 (20 marks · 300–350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one further named regional ruler's post-1192 resistance episode to extend the “durable sovereignty still required accommodation” qualification.
 
 ### O-10 (20 marks · 300–350 words)
 
 **“Organisation, not weapons; coordination, not courage; probability, not inevitability.” Use this proposition to explain the Turkish breakthrough in north India.**
+
+#### Demand decoding
+
+The quoted proposition has three paired clauses; the answer must address all three (organisation vs weapons, coordination vs courage, probability vs inevitability) rather than collapsing them into one general narrative.
 
 #### Model answer
 
@@ -1200,6 +1100,7 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ---
 
+#### Cross-cutting answer-writing protocol (applies across all six original models)
 
 1. Define the process before narrating events.
 2. Separate chronology from causation.
@@ -1212,10 +1113,6 @@ Define the expression, establish existing capacity, identify change and conclude
 9. Use “enabled”, “increased probability” and “mediated”, not “automatically caused”.
 10. End with a comparative, graded judgement.
 
-**Demand decoding:** The directive **answer** requires a direct position on “O-10 (20 marks · 300–350 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Executable answer plan:** Address each of the three paired clauses in turn as its own claim → evidence → qualification unit (Tarain II tactics/iqta/roads; Gujarat–Tarain I victories/Prithviraj isolation; Hindu Shahi losses/1191–92 reversal/Anhilwara limit), then close with the “contingent organisational success” verdict already given.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-10 (20 marks · 300–350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add a specific counter-example of a Turkish defeat by a non-Muslim opponent elsewhere to sharpen the existing point that the ghazi idiom cannot explain uneven campaign outcomes.

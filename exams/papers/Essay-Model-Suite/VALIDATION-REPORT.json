@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "checks": {
+    "prompt_rows": 100,
+    "v1_rows": 64,
+    "v2_holds": 36,
+    "pyq_answers": 6,
+    "new_prompts": 6,
+    "new_answers": 6,
+    "all_model_answers_1000_1200_words": true,
+    "prompt_answer_separation": true,
+    "pyq_prompt_bank_has_no_model_answer_sections": true,
+    "new_prompt_bank_has_no_model_answer_sections": true,
+    "pyq_answer_book_has_expected_refs": true,
+    "new_answer_book_has_expected_refs": true,
+    "modern_history_modified": false,
+    "csat_modified": false,
+    "strict_special_case_audit": true,
+    "manifest_word_counts_match_observed": true
+  },
+  "word_counts": {
+    "pyq": {
+      "PYQ-01": 1069,
+      "PYQ-02": 1033,
+      "PYQ-03": 1037,
+      "PYQ-04": 1028,
+      "PYQ-05": 1007,
+      "PYQ-06": 1000
+    },
+    "new": {
+      "NEW-01": 1020,
+      "NEW-02": 1002,
+      "NEW-03": 1029,
+      "NEW-04": 1000,
+      "NEW-05": 1010,
+      "NEW-06": 1001
+    }
+  },
+  "strict_special_case_audit": {
+    "report": "exams\\papers\\Essay-Model-Suite\\SPECIAL-CASE-AUDIT.json",
+    "actionable_findings": 0,
+    "duplicate_large_paragraph_groups": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "topic": "11-Land-Reforms-Green-Revolution-and-Cropping-Systems",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 12,
+        "B": 9,
+        "C": 13,
+        "A": 6
+      },
+      "fingerprint": "d3f66f6422c5f4ae"
+    },
+    {
+      "bank": 2,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 11,
+        "D": 10,
+        "B": 10,
+        "A": 9
+      },
+      "fingerprint": "5757aa236da7a3c0"
+    },
+    {
+      "bank": 3,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 8,
+        "B": 13,
+        "C": 11,
+        "A": 8
+      },
+      "fingerprint": "5260f43f7b0795fb"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

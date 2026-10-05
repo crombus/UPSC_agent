@@ -13,27 +13,29 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 12 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Original diagnostic MCQs — 24 core plus 8 remedial drills, plus 2 challenge items | 34 |
+| Question-specific option explanations | 136 |
+| Unique examiner traps | 34 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 14 |
+| Original solved Mains models — six baseline plus a Leibniz/*kalām* comparison | 7 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so the answer cannot be spotted by shape.
+1. Work the core MCQs without notes, then read explanations for rejected options; finish with the Third Way and Madhva discriminators.
 2. Work the eight remedial drills only after the core set. They target the conflations, inversions, misattributions and ownership errors that cost marks on this clause every year: proof confused with postulate, "first cause" read temporally, Paley fused with Aquinas, Hume overstated, Jaina proofs invented, Buddhism read as denying all gods, the Nyāya Lord made a material cause, and a cumulative case read as a chain.
 3. Attempt each previous-year part under time before reading its solution. **Decide the demanded structure from the directive first**: three parts are ontological, two are Aquinas parts, three are Nyāya parts, one is design-with-Hume, one is the moral argument, one is Jaina, one is Buddhist and one is the a priori/a posteriori distinction.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 words, 15 marks about 220 to 260, 20 marks about 320 to 360**.
+4. Write the seven original models in full, including the Leibniz/*kalām* comparison. Timed-paper planning does not cap PYQ analysis.
 5. Check every answer against the three tiers: is the argument **valid**, are its premises **true**, and does its conclusion reach the **God of religion**? A script that answers only the first has left two thirds of the marks on the table.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
-Philosophy Optional is examined only at the Mains stage, so **no question below is a Prelims previous-year question**. All thirty-two are original UPSC-style diagnostics written against this owner's doctrine.
+### Core and remedial diagnostics — 24 core, 8 remedial, plus 2 hard coverage extensions
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+Philosophy Optional is examined only at the Mains stage, so **no question below is a Prelims previous-year question**. All 34 diagnostics are original and keyed to this owner's doctrine.
+
+**Practice rule:** Inspect the argument and its counterexample. Every question carries four option explanations and an examiner trap.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Proofs for the Existence of God and their Critique (Indian and Western)* — covering the three tiers of assessment, the a priori/a posteriori division, Anselm's two forms with Gaunilo and Kant, the modal repair, essentially ordered causal series, the Five Ways, the Leibnizian and temporal-beginning variants, Kant's charge against the cosmological argument, the composition objection, the Fifth Way against Paley's analogy, Hume's five-front critique, the exact scope of Darwin's defeat, fine-tuning and its rivals, Kant's practical postulate, the three moral routes with the Euthyphro pressure, Nyāya's efficient causation, Udayana's grounds (*hetus*), unseen moral potency (*adṛṣṭa*) with the karma-superintendent (*karmādhyakṣa*), the Jaina motive argument, the Buddhist successive-or-simultaneous dilemma (*krama-akrama-virodha*), Mīmāṃsā's authorless Veda (*apauruṣeya*) with Cārvāka's attack on inference, and cumulative-case logic. The eight remedial drills attack the errors that cost marks every year on this clause.
 
@@ -41,23 +43,10 @@ Philosophy Optional is examined only at the Mains stage, so **no question below 
 
 A script argues that Aquinas' Second Way is formally valid, that its causal premise is defensible, and that it therefore establishes the God of classical theism. Which tier of assessment has the script omitted?
 
-A. Validity — whether the stated conclusion actually follows from the premises as they are set out.
-
-B. Soundness — whether the causal premise on which the whole inference rests is in fact true.
-
-C. Adequacy — whether the being reached carries the unity, necessity, personality and goodness of God.
-
-D. Consistency — whether the argument sits comfortably beside the other four Ways in the same article.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: validity is the tier the script has already claimed, and no critic in this debate denies that the Second Way can be set out in valid form.
-- **B:** Incorrect: soundness is also claimed, since the script explicitly defends the causal premise; the objection being missed lies beyond premise-truth.
-- **C:** Correct: adequacy asks whether a first efficient cause is thereby one, necessary, personal and good — the gap Kant marks when he says the passage to the most real being is unsupplied.
-- **D:** Incorrect: internal consistency across the Ways is not a standard assessment tier, and a mutually consistent set of arguments could still fail all three real tests.
-
-**Examiner trap 1:** Treating "valid" and "true premises" as the finish line loses the marks reserved for the conclusion-gap; every graded verdict on this clause must separately answer *what God, if any, the argument delivers*.
+A. Adequacy — whether the being reached carries the unity, necessity, personality and goodness of God.
+B. Consistency — whether the argument sits comfortably beside the other four Ways in the same article.
+C. Validity — whether the stated conclusion actually follows from the premises as they are set out.
+D. Soundness — whether the causal premise on which the whole inference rests is in fact true.
 
 #### MCQ 2. Where the a priori / a posteriori line actually falls
 
@@ -70,79 +59,352 @@ Consider the following statements about the classification of theistic arguments
 
 Which of the statements given above are correct?
 
-A. 1 and 3 only, because classification follows the source of the premises rather than the conclusion.
-
-B. 1, 2 and 4 only, because any argument reaching a perfect being must reason from that concept.
-
-C. 2 and 3 only, because omniscience and obligation are both non-empirical starting conditions.
-
-D. 1 and 4 only, because both begin from notions rather than from any observed feature.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: statement 1 holds because no other classical proof reasons from the concept alone, and statement 3 holds because Kant begins from the moral law as a datum of practical experience.
-- **B:** Incorrect: statement 2 fails because Nyāya begins from the world as a composite effect and needs invariable concomitance (*vyāpti*) fixed by observation.
-- **C:** Incorrect: statement 2 is false for the same reason, and dropping statement 1 discards the one uncontested a priori case in the whole tradition.
-- **D:** Incorrect: statement 4 fails because the Fourth Way begins from *observed degrees* of goodness, truth and nobility, not from a concept of the maximum.
-
-**Examiner trap 2:** Candidates classify by the modality of the conclusion; the examiner classifies by the source of the premises, which is why an argument to a necessary being can still be thoroughly a posteriori.
+A. 1 and 4 only, because both begin from notions rather than from any observed feature.
+B. 1 and 3 only, because classification follows the source of the premises rather than the conclusion.
+C. 1, 2 and 4 only, because any argument reaching a perfect being must reason from that concept.
+D. 2 and 3 only, because omniscience and obligation are both non-empirical starting conditions.
 
 #### MCQ 3. The two forms of Anselm's argument
 
 Which statement states the difference between *Proslogion* 2 and *Proslogion* 3 correctly?
 
-A. *Proslogion* 2 was composed against Gaunilo's parody, whereas *Proslogion* 3 was composed against Kant's predicate objection.
-
-B. The two forms establish an identical conclusion, the second being a devotional restatement without new argumentative content.
-
-C. *Proslogion* 2 establishes necessary existence by aseity, while *Proslogion* 3 retreats to existence in the understanding alone.
-
-D. *Proslogion* 2 argues that real existence is greater than mental existence, and *Proslogion* 3 that necessary existence is greater still.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Gaunilo's *In Behalf of the Fool* replies *after* the *Proslogion*, and Kant writes seven centuries later, so neither can be the addressee of a chapter.
-- **B:** Incorrect: the second form changes the modal status of the conclusion from bare existence to necessary existence grounded in self-existence (*aseity*), which is new content.
-- **C:** Incorrect: this inverts the two chapters; nothing in *Proslogion* 3 weakens the conclusion, and the weaker mental-existence claim is the assumption being refuted.
-- **D:** Correct: the first form uses the comparative "greater in reality", and the second upgrades it to a being whose non-existence cannot be thought — the form Anselm needs against Gaunilo.
-
-**Examiner trap 3:** Reproducing only *Proslogion* 2 makes Anselm's reply to the island parody unintelligible, because that reply depends entirely on necessary existence being unavailable to any contingent thing.
+A. The two forms establish an identical conclusion, the second being a devotional restatement without new argumentative content.
+B. *Proslogion* 2 establishes necessary existence by aseity, while *Proslogion* 3 retreats to existence in the understanding alone.
+C. *Proslogion* 2 argues that real existence is greater than mental existence, and *Proslogion* 3 that necessary existence is greater still.
+D. *Proslogion* 2 was composed against Gaunilo's parody, whereas *Proslogion* 3 was composed against Kant's predicate objection.
 
 #### MCQ 4. Gaunilo's island and what Anselm's reply actually secures
 
 Which statement best describes the exchange between Gaunilo and Anselm?
 
-A. Gaunilo shows that existence is not a determining predicate, and Anselm concedes the point while retaining the devotional value of the formula.
-
-B. Gaunilo parodies the form with a most perfect island, and Anselm replies that necessary existence belongs to God alone and to no contingent thing.
-
-C. Gaunilo denies that the fool possesses the concept of God at all, and Anselm answers by appealing to the authority of scripture rather than to argument.
-
-D. Gaunilo accepts Anselm's first form and rejects the second, while Anselm defends the first form and abandons the second as superfluous.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the predicate objection is Kant's diagnosis, not Gaunilo's parody, and Anselm concedes nothing — he restricts the argument's scope instead.
-- **B:** Correct: an island is by definition a contingent piece of the physical world and can be thought not to exist, so the principle does not reach it; the cost is that coherence of maximal greatness must now be shown independently.
-- **C:** Incorrect: Anselm's whole strategy is that the fool *does* possess the concept and is refuted out of his own understanding, and the reply is argumentative rather than scriptural.
-- **D:** Incorrect: Anselm relies on the second form precisely to answer the parody, so he can neither abandon it nor rest the reply on the first form alone.
-
-**Examiner trap 4:** A stronger script also notes that Gaunilo wrote of the most perfect *of* islands rather than the most perfect *conceivable* island — correcting the parody before answering it signals genuine reading of the exchange.
+A. Gaunilo denies that the fool possesses the concept of God at all, and Anselm answers by appealing to the authority of scripture rather than to argument.
+B. Gaunilo accepts Anselm's first form and rejects the second, while Anselm defends the first form and abandons the second as superfluous.
+C. Gaunilo shows that existence is not a determining predicate, and Anselm concedes the point while retaining the devotional value of the formula.
+D. Gaunilo parodies the form with a most perfect island, and Anselm replies that necessary existence belongs to God alone and to no contingent thing.
 
 #### MCQ 5. Kant's objection stated precisely
 
 Kant's central objection to the ontological argument is best stated as which of the following?
 
 A. Existence is not a real or determining predicate; it posits an object rather than adding content to a concept.
-
 B. The concept of a maximally great being is internally contradictory in the way that a round square is contradictory.
-
 C. Empirical evidence for a supremely perfect being is unavailable, so the conclusion cannot be responsibly asserted.
-
 D. The argument commits a fallacy of composition by moving from parts of the concept to the whole concept.
+
+#### MCQ 6. What the modal reconstruction changes and what it does not
+
+Malcolm, Hartshorne and Plantinga rebuild the argument around necessary existence. What is the accurate verdict on that repair?
+
+A. It abandons Anselm's second form and returns to the comparative reasoning of the first form dressed in symbolic notation.
+B. It survives the predicate objection but transfers the whole burden to the possibility premise, which a contrary possibility offsets.
+C. It converts the argument into an a posteriori inference, since possible worlds are established by empirical cosmological survey.
+D. It removes Kant's objection entirely, because modal logic shows that necessary existence is a determining predicate after all.
+
+#### MCQ 7. Essentially ordered and accidentally ordered causal series
+
+Why does the distinction between essentially and accidentally ordered causal series matter for Aquinas' Ways?
+
+A. It shows that efficient causes and final causes are interchangeable, so the Second and Fifth Ways collapse into a single argument.
+B. It shows that the universe must have begun a finite time ago, which is the conclusion the First and Second Ways are designed to reach.
+C. It shows that the "first" member is first in explanatory dependence, so an infinite series of derivative causes still lacks non-derivative causal power.
+D. It shows that Aquinas is arguing about temporal succession, so any beginningless universe would defeat the first three Ways outright.
+
+#### MCQ 8. Distinguishing what a Way starts from and what it actually establishes
+
+Which reconstruction respects both a Way's premises and the limits of its conclusion, rather than silently combining distinct arguments or claiming more than they establish?
+
+A. The Third Way begins from contingent things and thereby establishes, without further premises, the unique omniscient person who hears petitions.
+B. The Fourth Way begins from ordered degrees of perfection and thereby directly proves that each apparently lesser being was intentionally created for a purpose.
+C. The Fifth Way begins from natural goal-directedness, but its conclusion follows only by treating the world as a manufactured artefact in Paley's sense.
+D. The First Way begins from change as actualisation of potential and seeks an explanatory source of present actualisation, not merely the earliest event in time.
+
+#### MCQ 9. Aquinas, Leibniz and the temporal-beginning argument
+
+Which statement correctly separates the three cosmological forms?
+
+A. Aquinas argues from present dependence, Leibniz from why a contingent totality exists, and the third form from an origin premise.
+B. Leibniz argues from a first moment of time, Aquinas from sufficient reason, and the temporal-beginning form from essentially ordered series.
+C. Aquinas and Leibniz both rely on an origin in time, whereas the temporal-beginning form is neutral about whether the universe began.
+D. All three argue alike that the universe began to exist and that whatever begins to exist must have an external cause.
+
+#### MCQ 10. Kant's charge against the cosmological argument
+
+Kant argues that the cosmological argument conceals a dependence on the ontological argument. What exactly is the alleged concealed step?
+
+A. The claim that the world is contingent, which Kant thinks smuggles in a comparison with a necessary being.
+B. The claim that a necessary being must be the most real being, which can only be shown by analysing the concept of God.
+C. The claim that every event must have a cause, which Kant regards as an unjustified extension of a category beyond experience.
+D. The claim that an infinite regress of causes is impossible, which Kant treats as an illegitimate application of totality.
+
+#### MCQ 11. The composition objection and the brute-fact reply
+
+Which statement most accurately reports the composition objection and the standard theistic reply?
+
+A. The objection is that causation is only a habit of mind; the reply is that habits of mind can still track real regularities.
+B. The objection is that God would also require a cause; the reply is that God is defined as uncaused by stipulation.
+C. The objection is that a whole need not share a property of its parts; the reply is that the argument concerns dependence rather than a shared property.
+D. The objection is that the universe is a whole with no parts; the reply is that scientific cosmology has now settled the question.
+
+#### MCQ 12. Aquinas' Fifth Way against Paley's watch
+
+Which statement distinguishes the Fifth Way from Paley's design argument correctly?
+
+A. Paley argues that order is improbable on chance alone, whereas Aquinas argues that order is logically impossible without God.
+B. Both argue from artefacts to a designer, differing only in the illustration that each individual author happens to prefer.
+C. The Fifth Way argues from biological adaptation, whereas Paley argues from the regularity of inanimate physical law.
+D. The Fifth Way argues from regular directedness in things lacking knowledge; Paley argues by analogy from contrivance in artefacts.
+
+#### MCQ 13. Hume's critique of the design argument
+
+Which set correctly reports Hume's principal objections to the design argument?
+
+A. That the world–machine analogy is weak, that a cause need only be proportioned to its effect, and that evil and plural designers fit equally well.
+B. That design arguments are circular, that they misuse mathematical reasoning, and that they confuse necessity with contingency.
+C. That the world is too orderly to need explanation, that analogy is always invalid, and that intelligence is impossible without a body.
+D. That order is an illusion, that natural theology is irreligious, and that only special revelation can ground belief in God.
+
+#### MCQ 14. The exact scope of the Darwinian objection
+
+What does natural selection establish against the design argument, stated with proper limits?
+
+A. It disproves the existence of God by showing that the universe requires no explanation of any kind.
+B. It supplies a non-intentional explanation of biological adaptation, but does not by itself explain cosmic law or fine-tuning.
+C. It shows that Paley's watch analogy is invalid because watches, unlike organisms, are manufactured objects.
+D. It shows that apparent purpose in nature is an illusion produced by human psychological projection alone.
+
+#### MCQ 15. Fine-tuning and its live rivals
+
+Which statement about fine-tuning arguments is most defensible?
+
+A. Fine-tuning is a demonstrative proof, since the improbabilities involved are large enough to exclude any alternative.
+B. Fine-tuning is irrelevant to philosophy of religion, because physical constants are empirical matters with no metaphysical bearing.
+C. Fine-tuning offers at best a probabilistic consideration, and must be weighed against multiverse and observer-selection rivals.
+D. Fine-tuning revives Paley's analogy exactly, since the universe is shown to be literally a machine with adjusted parts.
+
+#### MCQ 16. What Kant's moral argument claims
+
+Which statement reports Kant's moral argument accurately?
+
+A. Moral obligation is unintelligible unless commanded by a divine lawgiver, so conscience theoretically demonstrates God.
+B. The existence of objective moral values proves God, since only a transcendent ground can make values stance-independent.
+C. Morality proves God because virtue is in fact rewarded with happiness in the observable course of human life.
+D. God and immortality are postulates of practical reason required for the possibility of the highest good, not objects of theoretical proof.
+
+#### MCQ 17. Three moral routes and the Euthyphro pressure
+
+Which statement correctly relates the moral-argument routes to the Euthyphro dilemma?
+
+A. The dilemma bears hardest on the divine-grounding route, asking whether acts are good because willed or willed because good.
+B. The dilemma refutes Kant's postulate, since a postulated God cannot ground any obligation whatever.
+C. The dilemma applies only to the conscience route, because conscience is a psychological faculty rather than a metaphysical ground.
+D. The dilemma is irrelevant to all three routes, since it concerns Greek piety rather than modern moral philosophy.
+
+#### MCQ 18. God's causal role in Nyāya
+
+Which statement states Nyāya's position on divine causation correctly?
+
+A. The Lord is neither efficient nor material cause but only the witness of a process governed wholly by unseen potency.
+B. The Lord (*Īśvara*) is the efficient and ordering cause who arranges eternal atoms, and never their material cause.
+C. The Lord is the material cause of the world, since the atoms are produced out of divine substance at each creation.
+D. The Lord is both efficient and material cause, on the model of Advaita's single reality appearing as the world.
+
+#### MCQ 19. Udayana's grounds for inferring the Lord
+
+Which statement about Udayana's enumeration of grounds (*hetus*) is most accurate?
+
+A. The grounds are exactly eight, fixed in wording, and every commentator glosses them identically.
+B. The grounds are drawn from perception of the Lord rather than from inference, which is why Cārvāka cannot attack them.
+C. A mnemonic verse in the *Nyāyakusumāñjali* is conventionally unpacked as eight grounds, but glosses of the last four differ.
+D. The grounds were introduced by Vātsyāyana and rejected by Udayana as insufficiently rigorous for a formal proof.
+
+#### MCQ 20. Unseen moral potency and the karma-superintendent
+
+Why does Nyāya argue that unseen moral potency (*adṛṣṭa*) requires a superintendent (*karmādhyakṣa*)?
+
+A. Because the Veda states that the Lord dispenses fruits, and scriptural testimony settles the metaphysical question.
+B. Because karma would otherwise operate instantaneously, leaving no interval in which moral effort could matter.
+C. Because unseen potency is a physical substance and every substance needs an owner to hold it in existence.
+D. Because unconscious merit and demerit cannot themselves select which agent receives which determinate fruit.
+
+#### MCQ 21. The Jaina case and what Jainism affirms instead
+
+Which statement about the Jaina position is correct?
+
+A. Jainism denies a creator and relocates divinity in the perfected soul, distinguishing the ford-maker from the liberated soul (*siddha*).
+B. Jainism treats the ford-maker as a responsive deity who answers petition once the four obscuring karmas are destroyed.
+C. Jainism proves a creator through the argument that its six substances require an intelligent external coordinator.
+D. Jainism denies a creator and also denies every form of divinity, making it indistinguishable from plain materialism.
+
+#### MCQ 22. The Buddhist dilemma about a permanent cause
+
+The Buddhist argument from successive-or-simultaneous production (*krama-akrama-virodha*) claims which of the following?
+
+A. That God cannot be perceived, and that what cannot be perceived cannot be the subject of any valid inference whatever.
+B. That a permanent unchanging cause must produce either all at once or successively, and both options are fatal to the theist.
+C. That the Buddha's silence on cosmogony demonstrates that no creator exists, since an omniscient teacher would have said so.
+D. That dependent origination is compatible with a creator, provided the creator acts only at the beginning of each cosmic cycle.
+
+#### MCQ 23. Mīmāṃsā and Cārvāka against Nyāya's theism
+
+Which pairing of school and objection is correct?
+
+A. Mīmāṃsā argues that unseen potency needs a dispenser, while Cārvāka argues that the Veda needs an author.
+B. Mīmāṃsā accepts the Lord as arranger of atoms, while Cārvāka accepts inference but denies scriptural testimony.
+C. Mīmāṃsā argues that the Veda is authorless and karma self-fructifying; Cārvāka argues that inference cannot reach the supersensible.
+D. Mīmāṃsā argues that the world is an effect requiring a maker, while Cārvāka argues that the maker must be perceptible.
+
+#### MCQ 24. Cumulative-case logic and the leaky-bucket objection
+
+Which statement about cumulative cases for theism is correct?
+
+A. A cumulative case is a chain of deductions, so it is exactly as strong as its own weakest individual component.
+B. A cumulative case succeeds only if at least one of its component arguments is demonstratively valid and sound.
+C. A cumulative case is identical with inference to the best explanation, since both compare rival total hypotheses.
+D. Several probability-raising arguments may jointly support theism, against which Flew objects that leaking buckets hold no water.
+
+### Remedial MCQs — common-error repair
+
+These eight drills target the conflations, inversions, misattributions and ownership errors that cost marks on this clause every year. Work them only after the twenty-four core diagnostics.
+
+#### MCQ 25. Repairing the confusion of proof, inference, probability and postulate
+
+Which classification of argumentative force is correct?
+
+A. Anselm claims deduction, design and fine-tuning claim probability or best explanation, and Kant claims a practical postulate.
+B. Anselm claims probability, Paley claims demonstration, and Kant claims an inference to the best explanation.
+C. All theistic arguments claim demonstrative force, and the differences between them are purely stylistic.
+D. All theistic arguments claim only probability, so the word "proof" in the syllabus is simply a misprint.
+
+#### MCQ 26. Repairing the temporal reading of "first cause"
+
+A candidate writes that Aquinas proves the universe began at a first moment. What is the correct repair?
+
+A. Aquinas proves a temporal beginning by philosophical argument, though he also accepts it on scriptural grounds.
+B. Aquinas holds that a temporal beginning is known by faith, and his Ways argue instead from present dependence.
+C. Aquinas denies any beginning, holding an eternal universe to be demonstrable against the theologians.
+D. Aquinas does prove a temporal beginning, but only in the Third Way, which the candidate has failed to cite.
+
+#### MCQ 27. Repairing the fusion of Paley with Aquinas
+
+Which correction of "Aquinas' watch argument" is right?
+
+A. The watch belongs to Hume, who introduced it in the *Dialogues* in order to expose the weakness of the analogy.
+B. The watch belongs to Kant, who used it to show that purposiveness is a regulative rather than a constitutive idea.
+C. The watch belongs to Paley's *Natural Theology* of 1802; Aquinas' Fifth Way argues from regular directedness without knowledge.
+D. The watch belongs to Aquinas' Fifth Way; Paley's contribution was to add the eye and the telescope as further illustrations.
+
+#### MCQ 28. Repairing "Hume proved there is no designer"
+
+What does Hume's critique actually establish?
+
+A. That design arguments are meaningless because theological language fails verification.
+B. That the argument is valid but unsound because its analogy premise is empirically false.
+C. That the universe is demonstrably the product of blind matter in motion over infinite time.
+D. That the inference is weak and its conclusion underdetermined, not that no designer exists.
+
+#### MCQ 29. Repairing the presupposition in the Jainism stem
+
+A stem asks candidates to state and evaluate the proofs for God's existence as propounded in Jainism. What is the correct opening move?
+
+A. State in the first line that Jainism propounds no proof of a creator, then supply its arguments against one and its account of divinity.
+B. Reply that the question is defective and decline to answer, since no Jaina proof of a creator exists.
+C. Supply the Nyāya proofs instead, since Jainism shares the atomism on which those proofs depend.
+D. Reconstruct the six substances as an implicit proof, treating their coordination as evidence of an intelligent orderer.
+
+#### MCQ 30. Repairing "Buddhism denies all gods"
+
+Which statement corrects the claim that Buddhism denies the existence of all divine beings?
+
+A. Buddhism accepts a creator but denies that the creator is omnipotent or morally perfect.
+B. Buddhism denies a creator while accepting long-lived impermanent divine beings inside the round of rebirth.
+C. Buddhism denies all divine beings, and later celestial figures in Mahāyāna are purely allegorical.
+D. Buddhism suspends judgment on every question about divine beings as an undeclared matter.
+
+#### MCQ 31. Repairing the material-cause error in Nyāya
+
+A candidate writes that Nyāya's Lord creates matter from nothing. What is the correct repair?
+
+A. The Lord creates atoms at the start of each cycle and reabsorbs them at dissolution, as in Sāṃkhya's account.
+B. The Lord creates nothing and merely observes, since unseen potency does all the causal work in the system.
+C. Atoms, selves, space, time and ether are eternal; the Lord is the efficient cause who conjoins atoms according to unseen potency.
+D. The Lord creates selves but not atoms, since selves are the only entities requiring an intelligent origin.
+
+#### MCQ 32. Repairing the chain reading of a cumulative case
+
+Which correction of "the cumulative case is only as strong as its weakest argument" is right?
+
+A. The saying is irrelevant, because cumulative cases are used only in Indian philosophy and not in Western natural theology.
+B. The saying is correct, because a cumulative case is a deductive chain in which any failed link breaks the inference.
+C. The saying is correct, because probability cannot be transferred between arguments with different subject matter.
+D. The saying misdescribes the structure: independent probability-raising strands aggregate like a rope or circumstantial brief.
+
+#### Hard coverage extensions — MCQs 33–34
+
+#### MCQ 33. What is the most exact criticism of Aquinas's move from all perishable things to a necessary being in the Third Way?
+
+A. The inference from every thing's possible non-existence to an interval in which nothing exists is not secured by the individual modal premises.
+B. The Principle of Sufficient Reason is disputable, so a necessary ground may not explain an entire contingent order.
+C. Necessity is not an ordinary positive predicate, so adding it to a divine *concept* cannot make that concept instantiated.
+D. Aquinas's account of dependence cannot establish that a first *temporal* cause existed before the universe.
+
+#### MCQ 34. Which is best supported by Madhva's argumentation rather than a conflation with Nyāya or Anselm?
+
+A. The five real differences jointly supply five distinct effect-to-maker inferences analogous to Nyāya's world-as-effect proof.
+B. Scriptural testimony names Viṣṇu as independent, with dependence arguments furnishing a metaphysical rationale that does not independently establish that identity.
+C. God's perfection yields God's existence directly from the concept of maximally perfect being; scripture then merely specifies the name Viṣṇu.
+D. Perception and inference establish both an independent ground and its identity as Viṣṇu without the help of scriptural testimony.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: adequacy asks whether a first efficient cause is thereby one, necessary, personal and good — the gap Kant marks when he says the passage to the most real being is unsupplied.
+- **B:** Incorrect: internal consistency across the Ways is not a standard assessment tier, and a mutually consistent set of arguments could still fail all three real tests.
+- **C:** Incorrect: validity is the tier the script has already claimed, and no critic in this debate denies that the Second Way can be set out in valid form.
+- **D:** Incorrect: soundness is also claimed, since the script explicitly defends the causal premise; the objection being missed lies beyond premise-truth.
+
+**Examiner trap 1:** Treating "valid" and "true premises" as the finish line loses the marks reserved for the conclusion-gap; every graded verdict on this clause must separately answer *what God, if any, the argument delivers*.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: statement 4 fails because the Fourth Way begins from *observed degrees* of goodness, truth and nobility, not from a concept of the maximum.
+- **B:** Correct: statement 1 holds because no other classical proof reasons from the concept alone, and statement 3 holds because Kant begins from the moral law as a datum of practical experience.
+- **C:** Incorrect: statement 2 fails because Nyāya begins from the world as a composite effect and needs invariable concomitance (*vyāpti*) fixed by observation.
+- **D:** Incorrect: statement 2 is false for the same reason, and dropping statement 1 discards the one uncontested a priori case in the whole tradition.
+
+**Examiner trap 2:** Candidates classify by the modality of the conclusion; the examiner classifies by the source of the premises, which is why an argument to a necessary being can still be thoroughly a posteriori.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the second form changes the modal status of the conclusion from bare existence to necessary existence grounded in self-existence (*aseity*), which is new content.
+- **B:** Incorrect: this inverts the two chapters; nothing in *Proslogion* 3 weakens the conclusion, and the weaker mental-existence claim is the assumption being refuted.
+- **C:** Correct: the first form uses the comparative "greater in reality", and the second upgrades it to a being whose non-existence cannot be thought — the form Anselm needs against Gaunilo.
+- **D:** Incorrect: Gaunilo's *In Behalf of the Fool* replies *after* the *Proslogion*, and Kant writes seven centuries later, so neither can be the addressee of a chapter.
+
+**Examiner trap 3:** Reproducing only *Proslogion* 2 makes Anselm's reply to the island parody unintelligible, because that reply depends entirely on necessary existence being unavailable to any contingent thing.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Anselm's whole strategy is that the fool *does* possess the concept and is refuted out of his own understanding, and the reply is argumentative rather than scriptural.
+- **B:** Incorrect: Anselm relies on the second form precisely to answer the parody, so he can neither abandon it nor rest the reply on the first form alone.
+- **C:** Incorrect: the predicate objection is Kant's diagnosis, not Gaunilo's parody, and Anselm concedes nothing — he restricts the argument's scope instead.
+- **D:** Correct: an island is by definition a contingent piece of the physical world and can be thought not to exist, so the principle does not reach it; the cost is that coherence of maximal greatness must now be shown independently.
+
+**Examiner trap 4:** A stronger script also notes that Gaunilo wrote of the most perfect *of* islands rather than the most perfect *conceivable* island — correcting the parody before answering it signals genuine reading of the exchange.
+
+#### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -154,193 +416,103 @@ D. The argument commits a fallacy of composition by moving from parts of the con
 
 **Examiner trap 5:** Writing "Kant refuted Anselm because we cannot see God" replaces a logical objection with an empiricist slogan and forfeits the predicate analysis the question is actually buying.
 
-#### MCQ 6. What the modal reconstruction changes and what it does not
+#### MCQ 6 — solution
 
-Malcolm, Hartshorne and Plantinga rebuild the argument around necessary existence. What is the accurate verdict on that repair?
+**Answer: B.**
 
-A. It removes Kant's objection entirely, because modal logic shows that necessary existence is a determining predicate after all.
+**Option explanations:**
+- **A:** Incorrect: the modal versions work exclusively with the second form, because only necessary existence gives the inference from one possible world to every world.
+- **B:** Correct: if maximal greatness is possible it is actual, but "possibly no maximally great being exists" yields the contrary result by the same logic, so coherence must be argued separately.
+- **C:** Incorrect: possible-worlds semantics is a modal framework, not an empirical survey, so the argument stays a priori throughout.
+- **D:** Incorrect: overstating the repair is a common script fault; necessary existence is defended as a modal status rather than as a rehabilitated ordinary predicate.
 
-B. It abandons Anselm's second form and returns to the comparative reasoning of the first form dressed in symbolic notation.
+**Examiner trap 6:** Announcing that the modal version "answers Kant" without naming the possibility premise reads as borrowed confidence; the mark lies in showing that the burden migrated rather than vanished.
 
-C. It survives the predicate objection but transfers the whole burden to the possibility premise, which a contrary possibility offsets.
-
-D. It converts the argument into an a posteriori inference, since possible worlds are established by empirical cosmological survey.
+#### MCQ 7 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: overstating the repair is a common script fault; necessary existence is defended as a modal status rather than as a rehabilitated ordinary predicate.
-- **B:** Incorrect: the modal versions work exclusively with the second form, because only necessary existence gives the inference from one possible world to every world.
-- **C:** Correct: if maximal greatness is possible it is actual, but "possibly no maximally great being exists" yields the contrary result by the same logic, so coherence must be argued separately.
-- **D:** Incorrect: possible-worlds semantics is a modal framework, not an empirical survey, so the argument stays a priori throughout.
-
-**Examiner trap 6:** Announcing that the modal version "answers Kant" without naming the possibility premise reads as borrowed confidence; the mark lies in showing that the burden migrated rather than vanished.
-
-#### MCQ 7. Essentially ordered and accidentally ordered causal series
-
-Why does the distinction between essentially and accidentally ordered causal series matter for Aquinas' Ways?
-
-A. It shows that the universe must have begun a finite time ago, which is the conclusion the First and Second Ways are designed to reach.
-
-B. It shows that the "first" member is first in explanatory dependence, so an infinite series of derivative causes still lacks non-derivative causal power.
-
-C. It shows that Aquinas is arguing about temporal succession, so any beginningless universe would defeat the first three Ways outright.
-
-D. It shows that efficient causes and final causes are interchangeable, so the Second and Fifth Ways collapse into a single argument.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Aquinas explicitly does not need a first moment; a temporally beginningless world is compatible with a here-and-now dependence hierarchy.
-- **B:** Correct: a hand moves a stick which moves a stone only while the hand acts, so borrowed power at every level never adds up to underived power, however long the chain.
-- **C:** Incorrect: reading "first" temporally is the standard misreading; it makes the regress objection look decisive when it is not even on target.
-- **D:** Incorrect: the Second Way concerns ordered efficient causation and the Fifth Way concerns regular directedness of non-conscious things, and they are separately assessed.
+- **A:** Incorrect: the Second Way concerns ordered efficient causation and the Fifth Way concerns regular directedness of non-conscious things, and they are separately assessed.
+- **B:** Incorrect: Aquinas explicitly does not need a first moment; a temporally beginningless world is compatible with a here-and-now dependence hierarchy.
+- **C:** Correct: a hand moves a stick which moves a stone only while the hand acts, so borrowed power at every level never adds up to underived power, however long the chain.
+- **D:** Incorrect: reading "first" temporally is the standard misreading; it makes the regress objection look decisive when it is not even on target.
 
 **Examiner trap 7:** Scripts that write "there cannot be an infinite regress" without saying *which kind* of series is at issue give the critic a free win, because accidental series may indeed be beginningless.
 
-#### MCQ 8. Mapping the Five Ways to their starting points
-
-Which pairing of an Aquinas Way with its starting point is correct?
-
-A. The Third Way begins from observed grades of perfection and terminates in a maximum that causes all lesser instances.
-
-B. The Fourth Way begins from the regular goal-directed behaviour of things that lack knowledge of their end.
-
-C. The Fifth Way begins from the contingency of things that are able to be and not to be within the world.
-
-D. The First Way begins from change understood as the reduction of potentiality to actuality by something already actual.
+#### MCQ 8 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: grades of perfection are the Fourth Way's starting point; the Third Way begins from things that come to be and pass away.
-- **B:** Incorrect: goal-directed behaviour without knowledge is the Fifth Way's datum, which is why it is a governance argument rather than an artefact analogy.
-- **C:** Incorrect: contingency belongs to the Third Way; the Fifth Way never argues from possibility and necessity at all.
-- **D:** Correct: motion in Aquinas means change generally, analysed as actualisation of potential, which cannot be self-supplied by what is merely potential.
+- **A:** Incorrect. Its starting point belongs to the Third Way, but a necessary explanatory ground is not thereby shown to possess all attributes of a petition-hearing Lord.
+- **B:** Incorrect. Degrees mark the Fourth Way, but a maximum or cause of perfections is not directly the purposive manufacture of each less-perfect being.
+- **C:** Incorrect. Aquinas's Fifth Way begins with natural teleology in non-knowing things; Paley's artefact analogy is a distinct argument, not an indispensable premise.
+- **D:** Correct. The First Way concerns the actualisation of potency and need not assert a first *temporal* event.
 
 **Examiner trap 8:** Merging the Five Ways into one "first cause" argument destroys the 2022 evaluative demand, which asks which Way is philosophically most interesting and therefore presupposes that they are genuinely distinct.
 
-#### MCQ 9. Aquinas, Leibniz and the temporal-beginning argument
-
-Which statement correctly separates the three cosmological forms?
-
-A. All three argue alike that the universe began to exist and that whatever begins to exist must have an external cause.
-
-B. Aquinas argues from present dependence, Leibniz from why a contingent totality exists, and the third form from an origin premise.
-
-C. Leibniz argues from a first moment of time, Aquinas from sufficient reason, and the temporal-beginning form from essentially ordered series.
-
-D. Aquinas and Leibniz both rely on an origin in time, whereas the temporal-beginning form is neutral about whether the universe began.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: only the temporal-beginning form makes an origin its premise; flattening the three is exactly what makes the regress objection imprecise.
-- **B:** Correct: the three differ in starting point and in what each must defend — dependence hierarchy, the principle of sufficient reason, and the beginning premise respectively.
-- **C:** Incorrect: this swaps the labels; sufficient reason is Leibniz's engine and the dependence hierarchy is Aquinas'.
-- **D:** Incorrect: it reverses the position of every form and would make Aquinas vulnerable to cosmological findings he never needed.
-
-**Examiner trap 9:** A critic who says "science shows the universe may be beginningless" defeats only the temporal-beginning form; naming which form is hit is the difference between a graded verdict and a generic one.
-
-#### MCQ 10. Kant's charge against the cosmological argument
-
-Kant argues that the cosmological argument conceals a dependence on the ontological argument. What exactly is the alleged concealed step?
-
-A. The claim that every event must have a cause, which Kant regards as an unjustified extension of a category beyond experience.
-
-B. The claim that an infinite regress of causes is impossible, which Kant treats as an illegitimate application of totality.
-
-C. The claim that the world is contingent, which Kant thinks smuggles in a comparison with a necessary being.
-
-D. The claim that a necessary being must be the most real being, which can only be shown by analysing the concept of God.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Kant's causal worry belongs to his general critique of the categories and is not the specific charge of ontological dependence.
-- **B:** Incorrect: the regress issue is a separate antinomy problem and does not involve identifying the terminus with the supremely perfect being.
-- **C:** Incorrect: contingency is conceded as the starting datum; the disputed move happens after a necessary being has been reached.
-- **D:** Correct: the passage from "a necessary being exists" to "that being is God" is achieved only by unpacking the divine concept, which is the ontological procedure.
-
-**Examiner trap 10:** Answering Kant with "but the world clearly needs a cause" misses the target, because his objection concerns the identification of the terminus rather than the demand for one.
-
-#### MCQ 11. The composition objection and the brute-fact reply
-
-Which statement most accurately reports the composition objection and the standard theistic reply?
-
-A. The objection is that a whole need not share a property of its parts; the reply is that the argument concerns dependence rather than a shared property.
-
-B. The objection is that the universe is a whole with no parts; the reply is that scientific cosmology has now settled the question.
-
-C. The objection is that causation is only a habit of mind; the reply is that habits of mind can still track real regularities.
-
-D. The objection is that God would also require a cause; the reply is that God is defined as uncaused by stipulation.
+#### MCQ 9 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: "every member is contingent, so the collection is contingent" is the composition move, and the theist answers by restating the argument as one about explanatory dependence.
-- **B:** Incorrect: nobody argues that the universe lacks parts, and appeals to settled cosmology are not what the classical exchange turns on.
-- **C:** Incorrect: the habit-of-mind analysis is Hume's account of causal belief, a different line of attack from composition.
-- **D:** Incorrect: bare stipulation would be question-begging; the serious reply argues that a necessary being's existence needs no external explanation.
+- **A:** Correct: the three differ in starting point and in what each must defend — dependence hierarchy, the principle of sufficient reason, and the beginning premise respectively.
+- **B:** Incorrect: this swaps the labels; sufficient reason is Leibniz's engine and the dependence hierarchy is Aquinas'.
+- **C:** Incorrect: it reverses the position of every form and would make Aquinas vulnerable to cosmological findings he never needed.
+- **D:** Incorrect: only the temporal-beginning form makes an origin its premise; flattening the three is exactly what makes the regress objection imprecise.
 
-**Examiner trap 11:** The reply is not complete until the answer records the standing counter — that allowing the contingent totality to be a brute fact rejects the principle of sufficient reason rather than refuting the argument.
+**Examiner trap 9:** A critic who says "science shows the universe may be beginningless" defeats only the temporal-beginning form; naming which form is hit is the difference between a graded verdict and a generic one.
 
-#### MCQ 12. Aquinas' Fifth Way against Paley's watch
+#### MCQ 10 — solution
 
-Which statement distinguishes the Fifth Way from Paley's design argument correctly?
+**Answer: B.**
 
-A. Both argue from artefacts to a designer, differing only in the illustration that each individual author happens to prefer.
+**Option explanations:**
+- **A:** Incorrect: contingency is conceded as the starting datum; the disputed move happens after a necessary being has been reached.
+- **B:** Correct: the passage from "a necessary being exists" to "that being is God" is achieved only by unpacking the divine concept, which is the ontological procedure.
+- **C:** Incorrect: Kant's causal worry belongs to his general critique of the categories and is not the specific charge of ontological dependence.
+- **D:** Incorrect: the regress issue is a separate antinomy problem and does not involve identifying the terminus with the supremely perfect being.
 
-B. The Fifth Way argues from biological adaptation, whereas Paley argues from the regularity of inanimate physical law.
+**Examiner trap 10:** Answering Kant with "but the world clearly needs a cause" misses the target, because his objection concerns the identification of the terminus rather than the demand for one.
 
-C. The Fifth Way argues from regular directedness in things lacking knowledge; Paley argues by analogy from contrivance in artefacts.
-
-D. Paley argues that order is improbable on chance alone, whereas Aquinas argues that order is logically impossible without God.
+#### MCQ 11 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: only Paley reasons by artefact analogy; treating the Fifth Way as an early watch argument invites Hume's analogy critique against a target it does not fit.
-- **B:** Incorrect: this reverses the two, since Paley's leading case is the adapted organism and Aquinas' is the lawful behaviour of natural bodies.
-- **C:** Correct: an arrow needs an archer because it lacks knowledge of its target, which is a governance argument rather than an inference from resemblance to machines.
-- **D:** Incorrect: Aquinas claims explanatory necessity rather than logical impossibility, and probability language belongs to later formulations.
+- **A:** Incorrect: the habit-of-mind analysis is Hume's account of causal belief, a different line of attack from composition.
+- **B:** Incorrect: bare stipulation would be question-begging; the serious reply argues that a necessary being's existence needs no external explanation.
+- **C:** Correct: "every member is contingent, so the collection is contingent" is the composition move, and the theist answers by restating the argument as one about explanatory dependence.
+- **D:** Incorrect: nobody argues that the universe lacks parts, and appeals to settled cosmology are not what the classical exchange turns on.
 
-**Examiner trap 12:** Attributing the watch-and-watchmaker illustration to Aquinas is a factual error the examiner reads instantly; the watch belongs to Paley's *Natural Theology* of 1802.
+**Examiner trap 11:** The reply is not complete until the answer records the standing counter — that allowing the contingent totality to be a brute fact rejects the principle of sufficient reason rather than refuting the argument.
 
-#### MCQ 13. Hume's critique of the design argument
-
-Which set correctly reports Hume's principal objections to the design argument?
-
-A. That design arguments are circular, that they misuse mathematical reasoning, and that they confuse necessity with contingency.
-
-B. That the world is too orderly to need explanation, that analogy is always invalid, and that intelligence is impossible without a body.
-
-C. That order is an illusion, that natural theology is irreligious, and that only special revelation can ground belief in God.
-
-D. That the world–machine analogy is weak, that a cause need only be proportioned to its effect, and that evil and plural designers fit equally well.
+#### MCQ 12 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: circularity and mathematical misuse are not Hume's charges here, and the necessity–contingency issue belongs to his treatment of cosmological reasoning.
-- **B:** Incorrect: Hume never claims that analogy is invalid as such; his complaint is that this particular analogy is remote and therefore weak.
-- **C:** Incorrect: Hume does not deny that order exists, and a retreat to revelation is the opposite of the position argued in the *Dialogues*.
-- **D:** Correct: these are the objections Philo presses — weak analogy, proportioning, underdetermination between one perfect designer and several imperfect ones, and evil as counter-evidence.
+- **A:** Incorrect: Aquinas claims explanatory necessity rather than logical impossibility, and probability language belongs to later formulations.
+- **B:** Incorrect: only Paley reasons by artefact analogy; treating the Fifth Way as an early watch argument invites Hume's analogy critique against a target it does not fit.
+- **C:** Incorrect: this reverses the two, since Paley's leading case is the adapted organism and Aquinas' is the lawful behaviour of natural bodies.
+- **D:** Correct: an arrow needs an archer because it lacks knowledge of its target, which is a governance argument rather than an inference from resemblance to machines.
+
+**Examiner trap 12:** Attributing the watch-and-watchmaker illustration to Aquinas is a factual error the examiner reads instantly; the watch belongs to Paley's *Natural Theology* of 1802.
+
+#### MCQ 13 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: these are the objections Philo presses — weak analogy, proportioning, underdetermination between one perfect designer and several imperfect ones, and evil as counter-evidence.
+- **B:** Incorrect: circularity and mathematical misuse are not Hume's charges here, and the necessity–contingency issue belongs to his treatment of cosmological reasoning.
+- **C:** Incorrect: Hume never claims that analogy is invalid as such; his complaint is that this particular analogy is remote and therefore weak.
+- **D:** Incorrect: Hume does not deny that order exists, and a retreat to revelation is the opposite of the position argued in the *Dialogues*.
 
 **Examiner trap 13:** Attributing the objections to Cleanthes reverses the *Dialogues*; Philo carries the critical case and Cleanthes defends the analogy.
 
-#### MCQ 14. The exact scope of the Darwinian objection
-
-What does natural selection establish against the design argument, stated with proper limits?
-
-A. It disproves the existence of God by showing that the universe requires no explanation of any kind.
-
-B. It supplies a non-intentional explanation of biological adaptation, but does not by itself explain cosmic law or fine-tuning.
-
-C. It shows that Paley's watch analogy is invalid because watches, unlike organisms, are manufactured objects.
-
-D. It shows that apparent purpose in nature is an illusion produced by human psychological projection alone.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
@@ -352,17 +524,7 @@ D. It shows that apparent purpose in nature is an illusion produced by human psy
 
 **Examiner trap 14:** Writing "Darwin destroyed the design argument" overreaches; the mark is earned by naming precisely which evidence base was displaced and which was not.
 
-#### MCQ 15. Fine-tuning and its live rivals
-
-Which statement about fine-tuning arguments is most defensible?
-
-A. Fine-tuning is a demonstrative proof, since the improbabilities involved are large enough to exclude any alternative.
-
-B. Fine-tuning is irrelevant to philosophy of religion, because physical constants are empirical matters with no metaphysical bearing.
-
-C. Fine-tuning offers at best a probabilistic consideration, and must be weighed against multiverse and observer-selection rivals.
-
-D. Fine-tuning revives Paley's analogy exactly, since the universe is shown to be literally a machine with adjusted parts.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -374,83 +536,43 @@ D. Fine-tuning revives Paley's analogy exactly, since the universe is shown to b
 
 **Examiner trap 15:** Using contemporary cosmology as if it were evidence *for* God converts a contested objection-space into a claimed proof, which the owner's evidence discipline explicitly forbids.
 
-#### MCQ 16. What Kant's moral argument claims
-
-Which statement reports Kant's moral argument accurately?
-
-A. God and immortality are postulates of practical reason required for the possibility of the highest good, not objects of theoretical proof.
-
-B. Moral obligation is unintelligible unless commanded by a divine lawgiver, so conscience theoretically demonstrates God.
-
-C. The existence of objective moral values proves God, since only a transcendent ground can make values stance-independent.
-
-D. Morality proves God because virtue is in fact rewarded with happiness in the observable course of human life.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the moral law already obligates autonomously; God enters only as a condition under which virtue and proportionate happiness could be united.
-- **B:** Incorrect: the divine-lawgiver route is a different moral argument, and Kant's autonomy thesis is designed to exclude heteronomous command.
-- **C:** Incorrect: the value-grounding route is an abductive argument associated with moral realism, again not Kant's postulate.
-- **D:** Incorrect: the manifest absence of such proportionality in experience is exactly why Kant must postulate rather than observe.
-
-**Examiner trap 16:** Writing that "Kant proves God through morality" contradicts the whole architecture of the first *Critique*; the correct formula is demolition of the theoretical proofs followed by practical reinstatement.
-
-#### MCQ 17. Three moral routes and the Euthyphro pressure
-
-Which statement correctly relates the moral-argument routes to the Euthyphro dilemma?
-
-A. The dilemma refutes Kant's postulate, since a postulated God cannot ground any obligation whatever.
-
-B. The dilemma applies only to the conscience route, because conscience is a psychological faculty rather than a metaphysical ground.
-
-C. The dilemma is irrelevant to all three routes, since it concerns Greek piety rather than modern moral philosophy.
-
-D. The dilemma bears hardest on the divine-grounding route, asking whether acts are good because willed or willed because good.
+#### MCQ 16 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: Kant's postulate does not ground obligation at all — the moral law grounds itself — so the dilemma cannot bite there in the first place.
-- **B:** Incorrect: the conscience route infers a lawgiver from the phenomenology of duty and is pressed instead by naturalistic explanations of conscience.
-- **C:** Incorrect: the dilemma is a general structural test of any attempt to found value on will, and its Greek origin does not limit its reach.
-- **D:** Correct: if goodness depends on will, morality becomes arbitrary; if will tracks antecedent goodness, the ground is not the divine will after all.
+- **A:** Incorrect: the divine-lawgiver route is a different moral argument, and Kant's autonomy thesis is designed to exclude heteronomous command.
+- **B:** Incorrect: the value-grounding route is an abductive argument associated with moral realism, again not Kant's postulate.
+- **C:** Incorrect: the manifest absence of such proportionality in experience is exactly why Kant must postulate rather than observe.
+- **D:** Correct: the moral law already obligates autonomously; God enters only as a condition under which virtue and proportionate happiness could be united.
 
-**Examiner trap 17:** Merging the three routes into "the moral argument" loses the marks, because the objection that defeats one route often leaves the other two untouched.
+**Examiner trap 16:** Writing that "Kant proves God through morality" contradicts the whole architecture of the first *Critique*; the correct formula is demolition of the theoretical proofs followed by practical reinstatement.
 
-#### MCQ 18. God's causal role in Nyāya
-
-Which statement states Nyāya's position on divine causation correctly?
-
-A. The Lord (*Īśvara*) is the efficient and ordering cause who arranges eternal atoms, and never their material cause.
-
-B. The Lord is the material cause of the world, since the atoms are produced out of divine substance at each creation.
-
-C. The Lord is both efficient and material cause, on the model of Advaita's single reality appearing as the world.
-
-D. The Lord is neither efficient nor material cause but only the witness of a process governed wholly by unseen potency.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: atoms (*paramāṇu*), selves, space, time and ether are eternal and uncreated, so the Lord arranges rather than manufactures from nothing.
-- **B:** Incorrect: material causation would abolish the atomism on which the whole Nyāya–Vaiśeṣika cosmology rests.
-- **C:** Incorrect: the single-reality model belongs to Advaita, which in any case treats the Lord as valid only at the empirical level.
-- **D:** Incorrect: a mere witness could not perform the initial conjunction of atoms or allot karmic fruits, which are the Lord's defining functions here.
+- **A:** Correct: if goodness depends on will, morality becomes arbitrary; if will tracks antecedent goodness, the ground is not the divine will after all.
+- **B:** Incorrect: Kant's postulate does not ground obligation at all — the moral law grounds itself — so the dilemma cannot bite there in the first place.
+- **C:** Incorrect: the conscience route infers a lawgiver from the phenomenology of duty and is pressed instead by naturalistic explanations of conscience.
+- **D:** Incorrect: the dilemma is a general structural test of any attempt to found value on will, and its Greek origin does not limit its reach.
+
+**Examiner trap 17:** Merging the three routes into "the moral argument" loses the marks, because the objection that defeats one route often leaves the other two untouched.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: a mere witness could not perform the initial conjunction of atoms or allot karmic fruits, which are the Lord's defining functions here.
+- **B:** Correct: atoms (*paramāṇu*), selves, space, time and ether are eternal and uncreated, so the Lord arranges rather than manufactures from nothing.
+- **C:** Incorrect: material causation would abolish the atomism on which the whole Nyāya–Vaiśeṣika cosmology rests.
+- **D:** Incorrect: the single-reality model belongs to Advaita, which in any case treats the Lord as valid only at the empirical level.
 
 **Examiner trap 18:** Calling Nyāya's God a creator from nothing imports an Abrahamic frame; the examinable formula is *efficient and ordering cause of an eternal material stock*.
 
-#### MCQ 19. Udayana's grounds for inferring the Lord
-
-Which statement about Udayana's enumeration of grounds (*hetus*) is most accurate?
-
-A. The grounds are exactly eight, fixed in wording, and every commentator glosses them identically.
-
-B. The grounds are drawn from perception of the Lord rather than from inference, which is why Cārvāka cannot attack them.
-
-C. A mnemonic verse in the *Nyāyakusumāñjali* is conventionally unpacked as eight grounds, but glosses of the last four differ.
-
-D. The grounds were introduced by Vātsyāyana and rejected by Udayana as insufficiently rigorous for a formal proof.
+#### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -462,61 +584,31 @@ D. The grounds were introduced by Vātsyāyana and rejected by Udayana as insuff
 
 **Examiner trap 19:** Listing eight Sanskrit words without a clause of content each converts an argument into vocabulary; the 2025 stem asks what proofs are offered, which means premises, not labels.
 
-#### MCQ 20. Unseen moral potency and the karma-superintendent
+#### MCQ 20 — solution
 
-Why does Nyāya argue that unseen moral potency (*adṛṣṭa*) requires a superintendent (*karmādhyakṣa*)?
-
-A. Because unseen potency is a physical substance and every substance needs an owner to hold it in existence.
-
-B. Because unconscious merit and demerit cannot themselves select which agent receives which determinate fruit.
-
-C. Because the Veda states that the Lord dispenses fruits, and scriptural testimony settles the metaphysical question.
-
-D. Because karma would otherwise operate instantaneously, leaving no interval in which moral effort could matter.
-
-**Answer: B.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: unseen potency is a quality of selves rather than a substance, and ownership would not explain intelligent allocation in any case.
-- **B:** Correct: allocation is a discriminating act, and an unconscious residue has no capacity to match a specific result to a specific agent at a specific time.
-- **C:** Incorrect: appealing to the Veda here would be circular, since Udayana separately argues that the Veda's authority itself presupposes a trustworthy author.
-- **D:** Incorrect: timing objections belong to the Buddhist attack on a permanent cause, not to Nyāya's positive case.
+- **A:** Incorrect: appealing to the Veda here would be circular, since Udayana separately argues that the Veda's authority itself presupposes a trustworthy author.
+- **B:** Incorrect: timing objections belong to the Buddhist attack on a permanent cause, not to Nyāya's positive case.
+- **C:** Incorrect: unseen potency is a quality of selves rather than a substance, and ownership would not explain intelligent allocation in any case.
+- **D:** Correct: allocation is a discriminating act, and an unconscious residue has no capacity to match a specific result to a specific agent at a specific time.
 
 **Examiner trap 20:** The Jaina and Mīmāṃsā reply — that karmic maturation is law-like, as poison acts without a supervisor — must be recorded, or the answer presents one side of a live dispute as settled.
 
-#### MCQ 21. The Jaina case and what Jainism affirms instead
+#### MCQ 21 — solution
 
-Which statement about the Jaina position is correct?
-
-A. Jainism proves a creator through the argument that its six substances require an intelligent external coordinator.
-
-B. Jainism denies a creator and also denies every form of divinity, making it indistinguishable from plain materialism.
-
-C. Jainism denies a creator and relocates divinity in the perfected soul, distinguishing the ford-maker from the liberated soul (*siddha*).
-
-D. Jainism treats the ford-maker as a responsive deity who answers petition once the four obscuring karmas are destroyed.
-
-**Answer: C.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: the six substances are advanced as making a creator redundant, which is the parsimony (*lāghava*) move rather than a proof.
-- **B:** Incorrect: Jainism is non-theistic but not irreligious; omniscient perfected beings occupy the place a creator would otherwise hold.
-- **C:** Correct: every ford-maker becomes a liberated soul, but not every liberated soul was a ford-maker, and neither creates, judges or responds.
-- **D:** Incorrect: the ford-maker is passion-free (*vītarāga*), so responsiveness is excluded by definition and worship is commemorative.
+- **A:** Correct: every ford-maker becomes a liberated soul, but not every liberated soul was a ford-maker, and neither creates, judges or responds.
+- **B:** Incorrect: the ford-maker is passion-free (*vītarāga*), so responsiveness is excluded by definition and worship is commemorative.
+- **C:** Incorrect: the six substances are advanced as making a creator redundant, which is the parsimony (*lāghava*) move rather than a proof.
+- **D:** Incorrect: Jainism is non-theistic but not irreligious; omniscient perfected beings occupy the place a creator would otherwise hold.
 
 **Examiner trap 21:** The 2019 stem asks for "the proofs for the existence of God as propounded in Jainism"; the first line must correct the presupposition rather than invent Jaina theistic proofs.
 
-#### MCQ 22. The Buddhist dilemma about a permanent cause
-
-The Buddhist argument from successive-or-simultaneous production (*krama-akrama-virodha*) claims which of the following?
-
-A. That God cannot be perceived, and that what cannot be perceived cannot be the subject of any valid inference whatever.
-
-B. That a permanent unchanging cause must produce either all at once or successively, and both options are fatal to the theist.
-
-C. That the Buddha's silence on cosmogony demonstrates that no creator exists, since an omniscient teacher would have said so.
-
-D. That dependent origination is compatible with a creator, provided the creator acts only at the beginning of each cosmic cycle.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -528,153 +620,79 @@ D. That dependent origination is compatible with a creator, provided the creator
 
 **Examiner trap 22:** Reducing the Buddhist case to "the Buddha was silent" surrenders the examinable argument; the metaphysical dilemma from Dharmakīrti and Śāntarakṣita is what the 2018 stem is testing.
 
-#### MCQ 23. Mīmāṃsā and Cārvāka against Nyāya's theism
-
-Which pairing of school and objection is correct?
-
-A. Mīmāṃsā argues that the world is an effect requiring a maker, while Cārvāka argues that the maker must be perceptible.
-
-B. Mīmāṃsā argues that unseen potency needs a dispenser, while Cārvāka argues that the Veda needs an author.
-
-C. Mīmāṃsā accepts the Lord as arranger of atoms, while Cārvāka accepts inference but denies scriptural testimony.
-
-D. Mīmāṃsā argues that the Veda is authorless and karma self-fructifying; Cārvāka argues that inference cannot reach the supersensible.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the effect-to-maker premise is Nyāya's own, and Mīmāṃsā's entire strategy is to deny that scripture needs any author at all.
-- **B:** Incorrect: the dispenser argument is Nyāya's, and the authorless Veda is precisely what Mīmāṃsā asserts against Udayana's testimony grounds.
-- **C:** Incorrect: Mīmāṃsā does not accept the Lord as arranger, and Cārvāka's characteristic move is to restrict valid knowledge largely to perception.
-- **D:** Correct: authorless scripture (*apauruṣeya*) with self-operating ritual potency (*apūrva*) removes Udayana's testimony grounds, and the attack on inference undercuts every inferential proof at once.
-
-**Examiner trap 23:** Treating Jainism, Buddhism, Mīmāṃsā and Cārvāka as one "Indian atheism" collapses four different objections; each denies a different premise of Nyāya's case.
-
-#### MCQ 24. Cumulative-case logic and the leaky-bucket objection
-
-Which statement about cumulative cases for theism is correct?
-
-A. Several probability-raising arguments may jointly support theism, against which Flew objects that leaking buckets hold no water.
-
-B. A cumulative case is a chain of deductions, so it is exactly as strong as its own weakest individual component.
-
-C. A cumulative case succeeds only if at least one of its component arguments is demonstratively valid and sound.
-
-D. A cumulative case is identical with inference to the best explanation, since both compare rival total hypotheses.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: probability-raising arguments can aggregate on a confirmation model, and the standard reply to Flew is that such arguments are not zero-valued, so the rope image beats the bucket image.
-- **B:** Incorrect: the chain metaphor is exactly the misreading; a rope or a circumstantial legal brief is the correct model.
-- **C:** Incorrect: the programme's whole point is that no component is demonstrative, which is why aggregation is being proposed at all.
-- **D:** Incorrect: best-explanation reasoning compares rival total hypotheses, while a cumulative case accumulates confirmation from independent evidence-items.
-
-**Examiner trap 24:** A cumulative case must be run as a *net* balance, so an answer that ignores suffering as evidence on the other side has not completed the calculation it started.
-
-### Remedial MCQs — common-error repair
-
-These eight drills target the conflations, inversions, misattributions and ownership errors that cost marks on this clause every year. Work them only after the twenty-four core diagnostics.
-
-#### MCQ 25. Repairing the confusion of proof, inference, probability and postulate
-
-Which classification of argumentative force is correct?
-
-A. Anselm claims probability, Paley claims demonstration, and Kant claims an inference to the best explanation.
-
-B. All theistic arguments claim demonstrative force, and the differences between them are purely stylistic.
-
-C. All theistic arguments claim only probability, so the word "proof" in the syllabus is simply a misprint.
-
-D. Anselm claims deduction, design and fine-tuning claim probability or best explanation, and Kant claims a practical postulate.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: this inverts every attribution, since Anselm's *reductio* is deductive in form and Paley's is explicitly an argument from analogy.
-- **B:** Incorrect: design arguments in their modern form claim confirmation rather than demonstration, and Kant refuses theoretical proof altogether.
-- **C:** Incorrect: the ontological family does claim deductive force, so a blanket probability reading misdescribes the tradition.
-- **D:** Correct: sorting the arguments by claimed force is the first move of a graded verdict, because each force-type is defeated in a different way.
-
-**Examiner trap 25:** Using "proof" as a single undifferentiated word makes every critique look equally decisive; naming the claimed force first is what allows a proportionate verdict at the end.
-
-#### MCQ 26. Repairing the temporal reading of "first cause"
-
-A candidate writes that Aquinas proves the universe began at a first moment. What is the correct repair?
-
-A. Aquinas does prove a temporal beginning, but only in the Third Way, which the candidate has failed to cite.
-
-B. Aquinas proves a temporal beginning by philosophical argument, though he also accepts it on scriptural grounds.
-
-C. Aquinas holds that a temporal beginning is known by faith, and his Ways argue instead from present dependence.
-
-D. Aquinas denies any beginning, holding an eternal universe to be demonstrable against the theologians.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: the Third Way argues from contingency rather than from an origin, and none of the five is a temporal-origin argument.
-- **B:** Incorrect: the claim that a beginning is philosophically demonstrable is precisely what Aquinas withholds.
-- **C:** Correct: the Ways are compatible with a beginningless world because "first" marks explanatory priority in a here-and-now dependence hierarchy.
-- **D:** Incorrect: he denies that eternity is demonstrable too, holding the question philosophically undecided either way.
+- **A:** Incorrect: the dispenser argument is Nyāya's, and the authorless Veda is precisely what Mīmāṃsā asserts against Udayana's testimony grounds.
+- **B:** Incorrect: Mīmāṃsā does not accept the Lord as arranger, and Cārvāka's characteristic move is to restrict valid knowledge largely to perception.
+- **C:** Correct: authorless scripture (*apauruṣeya*) with self-operating ritual potency (*apūrva*) removes Udayana's testimony grounds, and the attack on inference undercuts every inferential proof at once.
+- **D:** Incorrect: the effect-to-maker premise is Nyāya's own, and Mīmāṃsā's entire strategy is to deny that scripture needs any author at all.
 
-**Examiner trap 26:** This repair is worth marks in itself: stating that Aquinas did not need a first moment immunises the answer against the most common critical objection raised in scripts.
+**Examiner trap 23:** Treating Jainism, Buddhism, Mīmāṃsā and Cārvāka as one "Indian atheism" collapses four different objections; each denies a different premise of Nyāya's case.
 
-#### MCQ 27. Repairing the fusion of Paley with Aquinas
+#### MCQ 24 — solution
 
-Which correction of "Aquinas' watch argument" is right?
+**Answer: D.**
 
-A. The watch belongs to Paley's *Natural Theology* of 1802; Aquinas' Fifth Way argues from regular directedness without knowledge.
+**Option explanations:**
+- **A:** Incorrect: the chain metaphor is exactly the misreading; a rope or a circumstantial legal brief is the correct model.
+- **B:** Incorrect: the programme's whole point is that no component is demonstrative, which is why aggregation is being proposed at all.
+- **C:** Incorrect: best-explanation reasoning compares rival total hypotheses, while a cumulative case accumulates confirmation from independent evidence-items.
+- **D:** Correct: probability-raising arguments can aggregate on a confirmation model, and the standard reply to Flew is that such arguments are not zero-valued, so the rope image beats the bucket image.
 
-B. The watch belongs to Aquinas' Fifth Way; Paley's contribution was to add the eye and the telescope as further illustrations.
+**Examiner trap 24:** A cumulative case must be run as a *net* balance, so an answer that ignores suffering as evidence on the other side has not completed the calculation it started.
 
-C. The watch belongs to Hume, who introduced it in the *Dialogues* in order to expose the weakness of the analogy.
-
-D. The watch belongs to Kant, who used it to show that purposiveness is a regulative rather than a constitutive idea.
+#### MCQ 25 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: keeping the two apart matters because the analogy critique lands on Paley's argument and not on the governance argument.
-- **B:** Incorrect: this compounds the error; the eye and telescope comparison is also Paley's, not a supplement to Aquinas.
-- **C:** Incorrect: Hume attacks the artefact analogy but did not originate it, and his *Dialogues* precede Paley's book.
-- **D:** Incorrect: Kant's treatment of purposiveness in the third *Critique* is a separate doctrine and involves no watch.
+- **A:** Correct: sorting the arguments by claimed force is the first move of a graded verdict, because each force-type is defeated in a different way.
+- **B:** Incorrect: this inverts every attribution, since Anselm's *reductio* is deductive in form and Paley's is explicitly an argument from analogy.
+- **C:** Incorrect: design arguments in their modern form claim confirmation rather than demonstration, and Kant refuses theoretical proof altogether.
+- **D:** Incorrect: the ontological family does claim deductive force, so a blanket probability reading misdescribes the tradition.
 
-**Examiner trap 27:** Because the 2025 stem pairs the design argument with Hume's criticism, the attribution must be exact; a misattributed illustration undermines the exposition half of a two-part answer.
+**Examiner trap 25:** Using "proof" as a single undifferentiated word makes every critique look equally decisive; naming the claimed force first is what allows a proportionate verdict at the end.
 
-#### MCQ 28. Repairing "Hume proved there is no designer"
-
-What does Hume's critique actually establish?
-
-A. That the universe is demonstrably the product of blind matter in motion over infinite time.
-
-B. That the inference is weak and its conclusion underdetermined, not that no designer exists.
-
-C. That design arguments are meaningless because theological language fails verification.
-
-D. That the argument is valid but unsound because its analogy premise is empirically false.
+#### MCQ 26 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the Epicurean hypothesis is offered as a live rival that the theist cannot exclude, not as an established cosmology.
-- **B:** Correct: Hume attacks inferential strength and the identification of the cause, leaving the existence question open rather than closed.
-- **C:** Incorrect: verification-based dismissal is a twentieth-century move belonging to the religious-language clause.
-- **D:** Incorrect: Hume's complaint is that the analogy is remote and therefore weak, which affects inductive strength rather than deductive soundness.
+- **A:** Incorrect: the claim that a beginning is philosophically demonstrable is precisely what Aquinas withholds.
+- **B:** Correct: the Ways are compatible with a beginningless world because "first" marks explanatory priority in a here-and-now dependence hierarchy.
+- **C:** Incorrect: he denies that eternity is demonstrable too, holding the question philosophically undecided either way.
+- **D:** Incorrect: the Third Way argues from contingency rather than from an origin, and none of the five is a temporal-origin argument.
+
+**Examiner trap 26:** This repair is worth marks in itself: stating that Aquinas did not need a first moment immunises the answer against the most common critical objection raised in scripts.
+
+#### MCQ 27 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Hume attacks the artefact analogy but did not originate it, and his *Dialogues* precede Paley's book.
+- **B:** Incorrect: Kant's treatment of purposiveness in the third *Critique* is a separate doctrine and involves no watch.
+- **C:** Correct: keeping the two apart matters because the analogy critique lands on Paley's argument and not on the governance argument.
+- **D:** Incorrect: this compounds the error; the eye and telescope comparison is also Paley's, not a supplement to Aquinas.
+
+**Examiner trap 27:** Because the 2025 stem pairs the design argument with Hume's criticism, the attribution must be exact; a misattributed illustration undermines the exposition half of a two-part answer.
+
+#### MCQ 28 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: verification-based dismissal is a twentieth-century move belonging to the religious-language clause.
+- **B:** Incorrect: Hume's complaint is that the analogy is remote and therefore weak, which affects inductive strength rather than deductive soundness.
+- **C:** Incorrect: the Epicurean hypothesis is offered as a live rival that the theist cannot exclude, not as an established cosmology.
+- **D:** Correct: Hume attacks inferential strength and the identification of the cause, leaving the existence question open rather than closed.
 
 **Examiner trap 28:** Overstating Hume converts a careful sceptic into a dogmatic atheist and forfeits the balance the "along with its criticism" directive is buying.
 
-#### MCQ 29. Repairing the presupposition in the Jainism stem
-
-A stem asks candidates to state and evaluate the proofs for God's existence as propounded in Jainism. What is the correct opening move?
-
-A. State in the first line that Jainism propounds no proof of a creator, then supply its arguments against one and its account of divinity.
-
-B. Reply that the question is defective and decline to answer, since no Jaina proof of a creator exists.
-
-C. Supply the Nyāya proofs instead, since Jainism shares the atomism on which those proofs depend.
-
-D. Reconstruct the six substances as an implicit proof, treating their coordination as evidence of an intelligent orderer.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
@@ -686,17 +704,7 @@ D. Reconstruct the six substances as an implicit proof, treating their coordinat
 
 **Examiner trap 29:** A script that says only "Jainism is atheistic" loses half the marks; the positive doctrine of divinity as achieved perfection is part of what the stem asks to be evaluated.
 
-#### MCQ 30. Repairing "Buddhism denies all gods"
-
-Which statement corrects the claim that Buddhism denies the existence of all divine beings?
-
-A. Buddhism accepts a creator but denies that the creator is omnipotent or morally perfect.
-
-B. Buddhism denies a creator while accepting long-lived impermanent divine beings inside the round of rebirth.
-
-C. Buddhism denies all divine beings, and later celestial figures in Mahāyāna are purely allegorical.
-
-D. Buddhism suspends judgment on every question about divine beings as an undeclared matter.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
@@ -708,53 +716,59 @@ D. Buddhism suspends judgment on every question about divine beings as an undecl
 
 **Examiner trap 30:** The distinction between rejecting a creator and rejecting divinity is the difference between a precise comparative answer and a generic "Eastern atheism" paragraph.
 
-#### MCQ 31. Repairing the material-cause error in Nyāya
-
-A candidate writes that Nyāya's Lord creates matter from nothing. What is the correct repair?
-
-A. The Lord creates selves but not atoms, since selves are the only entities requiring an intelligent origin.
-
-B. The Lord creates atoms at the start of each cycle and reabsorbs them at dissolution, as in Sāṃkhya's account.
-
-C. The Lord creates nothing and merely observes, since unseen potency does all the causal work in the system.
-
-D. Atoms, selves, space, time and ether are eternal; the Lord is the efficient cause who conjoins atoms according to unseen potency.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: selves are eternal and uncreated in this system, so partial creation of selves misstates the ontology twice over.
-- **B:** Incorrect: Sāṃkhya has no lord as world-maker in its classical form, and Nyāya's atoms are never produced.
-- **C:** Incorrect: a purely observing lord could not perform the initial conjunction or allot fruits, which are the argued functions.
-- **D:** Correct: this states the ontology and the causal role together, which is what a comparison with Aquinas' source of being requires.
-
-**Examiner trap 31:** The 2018 comparison question turns on this point: Aquinas' God is the source of *being*, Udayana's the arranger of an *eternal* material stock and the allocator of karmic results.
-
-#### MCQ 32. Repairing the chain reading of a cumulative case
-
-Which correction of "the cumulative case is only as strong as its weakest argument" is right?
-
-A. The saying is correct, because a cumulative case is a deductive chain in which any failed link breaks the inference.
-
-B. The saying is correct, because probability cannot be transferred between arguments with different subject matter.
-
-C. The saying misdescribes the structure: independent probability-raising strands aggregate like a rope or circumstantial brief.
-
-D. The saying is irrelevant, because cumulative cases are used only in Indian philosophy and not in Western natural theology.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: the components are not deductions, so there is no link to break; the chain image imports the wrong logical form.
-- **B:** Incorrect: independent evidence-items with different subject matter are exactly what confirmation models are designed to combine.
-- **C:** Correct: the rope and the jury's converging circumstantial evidence are the standard images, and Udayana's collection of grounds is structurally the same move.
-- **D:** Incorrect: the programme is prominently Western in Swinburne and Mitchell, and its Indian analogue is the point of the comparison, not a substitute for it.
+- **A:** Incorrect: Sāṃkhya has no lord as world-maker in its classical form, and Nyāya's atoms are never produced.
+- **B:** Incorrect: a purely observing lord could not perform the initial conjunction or allot fruits, which are the argued functions.
+- **C:** Correct: this states the ontology and the causal role together, which is what a comparison with Aquinas' source of being requires.
+- **D:** Incorrect: selves are eternal and uncreated in this system, so partial creation of selves misstates the ontology twice over.
+
+**Examiner trap 31:** The 2018 comparison question turns on this point: Aquinas' God is the source of *being*, Udayana's the arranger of an *eternal* material stock and the allocator of karmic results.
+
+#### MCQ 32 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the programme is prominently Western in Swinburne and Mitchell, and its Indian analogue is the point of the comparison, not a substitute for it.
+- **B:** Incorrect: the components are not deductions, so there is no link to break; the chain image imports the wrong logical form.
+- **C:** Incorrect: independent evidence-items with different subject matter are exactly what confirmation models are designed to combine.
+- **D:** Correct: the rope and the jury's converging circumstantial evidence are the standard images, and Udayana's collection of grounds is structurally the same move.
 
 **Examiner trap 32:** The correct verdict still concedes the underdetermination objection — aggregation may raise probability without selecting the personal, morally perfect God of worship.
 
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. The inference shifts from individual possibilities to their simultaneous actual absence without an additional premise.
+- **B:** Incorrect as the *most exact criticism* of this step. Disputing a global explanatory principle is relevant to a Leibnizian reconstruction, not the specific shift from individual perishability to universal absence.
+- **C:** Incorrect for this argument. Kant's concept/predicate objection targets a priori ontological reasoning, not the Third Way's move from observed perishable things.
+- **D:** Incorrect for this inference. Aquinas need not claim a first event in time, so objecting that it fails to find such an event misses the dependence argument.
+
+**Examiner trap 33:** Rejecting a quantifier step does not refute *every* cosmological dependence argument.
+
+#### MCQ 34 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect. Fivefold difference articulates Madhva's ontology; treating each difference as a Nyāya-style maker inference changes the argument.
+- **B:** Correct. Scripture gives the Lord's identity; metaphysical dependence alone underdetermines it.
+- **C:** Incorrect. It imports Anselm's move from a maximal concept to existence; Madhva's perfection argument is not that proof.
+- **D:** Incorrect. Perception and inference matter, including in engaging scripture, but do not independently identify the ground as Viṣṇu.
+
+**Examiner trap 34:** Do not turn a Dvaita dependence rationale into Nyāya's effect-to-maker proof.
+
+**Coverage decision (34, not a quota):** The diagnostics distinguish a priori/a posteriori arguments, the Five Ways, Kant/Paley/Hume objections, Nyāya and anti-creator Indian challenges, theological adequacy, Aquinas's Third Way and Madhva's scripture/dependence distinction. The two final argument traps answer separate 2026 primary-owned demands; together the sets route all 14 verified 2018–2026 owner parts without treating five differences as five proofs.
+
 ## PYQS AND ANSWER PRACTICE
 
-### All 12 verified owner PYQs — exact wording, year and marks
+### The 12 verified 2018–2025 owner PYQs — exact wording, year and marks (2026 supplement below)
 
 All 12 items below are direct verified owner PYQs. Exact wording, years and marks are retained. Demand decoding, full model solutions, marks rationale, timing skeletons and examiner traps are pedagogic answer support, not an official answer key.
 
@@ -793,7 +807,7 @@ All 12 items below are direct verified owner PYQs. Exact wording, years and mark
 | Ideal thesis | The concept entails **necessary existence conditionally** — if God exists, God exists necessarily — but conceptual entailment cannot deliver instantiation |
 | Non-negotiables | Both forms of Anselm; Descartes; Gaunilo; Kant; the modal repair and its possibility-premise burden |
 
-#### Model answer (≈240 words)
+#### Model answer
 
 The ontological argument claims a unique entailment: that the very concept of God contains, and therefore yields, God's existence. Anselm defines God as **"that than which nothing greater can be conceived"**, where "greater" means more perfect. In *Proslogion* 2 he argues by *reductio*: if this being existed only in the understanding, a greater could be conceived — namely the same being existing in reality as well — which contradicts the definition. In *Proslogion* 3 the claim is strengthened: a being that cannot be thought not to exist is greater than one that can; God therefore exists **necessarily**, by aseity. Descartes recasts this through essence-containment: existence belongs to a supremely perfect being as three angles belong to a triangle.
 
@@ -853,7 +867,7 @@ Total  : 14 minutes
 | Ideal thesis | Structural convergence in inferring intelligence from order; decisive divergence over **material causation** and the role of **karma** |
 | Non-negotiables | All five Ways named; at least four Nyāya arguments named in Sanskrit; the efficient/material cause distinction |
 
-#### Model answer (≈345 words)
+#### Model answer
 
 Aquinas and the Naiyāyikas both practise **a posteriori** natural theology: each begins from a general feature of the world and argues to an ultimate intelligent reality. Their convergence is real, and so is their divergence.
 
@@ -920,7 +934,7 @@ Total  : 21 minutes
 | Ideal thesis | The arguments are decisive against an anthropomorphic purposive world-maker, weaker against a metaphysically refined classical theism |
 | Non-negotiables | At least four canonical lines, plus the theistic replies |
 
-#### Model answer (≈245 words)
+#### Model answer
 
 Buddhism rejects a creator God (*jagat-kartā*) without rejecting spiritual ultimacy; its critique is a systematic refusal of **explanatory surplus** rather than bare atheism.
 
@@ -975,13 +989,13 @@ Total  : 14 minutes
 
 | Element | Requirement |
 |---|---|
-| Directive | *State and evaluate* — exposition plus judgement, in 150 words |
+| Directive | *State and evaluate* — exposition plus judgement; keep both demands visible in timed practice |
 | Core issue | In what sense Jainism has a God at all, and what it proves about that God |
 | Scope boundary | Do not write a general essay on Jaina metaphysics |
 | Ideal thesis | Jainism denies God as creator but affirms **godhead**; its proofs establish attainable perfection, not a cosmic maker |
 | Non-negotiables | The denial/affirmation disambiguation; at least two positive proofs; one evaluative limit |
 
-#### Model answer (≈160 words)
+#### Model answer
 
 Jainism denies God as **creator**: the world was never created, since all substances are eternal and change only through modes (utpāda–vyaya–dhrauvya). But **"Jainism denies God, and yet does not deny godhead. Every liberated soul is a god."**
 
@@ -991,7 +1005,7 @@ Its proofs are accordingly proofs of attainable divinity. First, from the **intr
 
 #### Why this earns marks
 
-- **Structure:** disambiguate "God" → three proofs → one internal criticism → verdict, all within 150 words.
+- **Structure:** disambiguate "God" → three purported routes → one internal criticism → verdict; preserve the argument rather than enforcing a word cap.
 - **Doctrine:** *ananta-catuṣṭaya*; the five knowledges; *kevala-jñāna*; *siddha* and Tīrthaṅkara.
 - **Argument:** the gradation-to-limiting-case inference must be visible as an inference.
 - **Distinction:** God as world-maker versus God as perfected being; Jaina karma is **material (pudgala)**, not *adṛṣṭa*.
@@ -1016,7 +1030,7 @@ Total  : 8 minutes
 - Substituting a general account of *anekāntavāda* or the *tri-ratna*: **off-question**.
 - Equating Jaina karma with Nyāya's *adṛṣṭa*: **doctrinal error**.
 - Calling the *siddha* a creator or governor: **contradicts the doctrine**.
-- Exceeding the word limit at the cost of the evaluation: **the second directive verb is lost**.
+- Spending so much timed writing on exposition that the evaluation disappears: **the second directive verb is lost**.
 
 ---
 
@@ -1036,7 +1050,7 @@ Total  : 8 minutes
 | Ideal thesis | The argument is **formally coherent as a reductio**, but it is not *logically compelling*, because its crucial premise misclassifies existence |
 | Non-negotiables | Both forms; the validity/soundness distinction; Gaunilo; Kant; a stated verdict |
 
-#### Model answer (≈350 words)
+#### Model answer
 
 Whether Anselm's proof is "logical" must be split into two questions: is it **valid**, and is its key premise **legitimate**?
 
@@ -1099,7 +1113,7 @@ Total  : 21 minutes
 | Ideal thesis | The inferential form begs the question; Kant's postulational form is defensible but is **not a proof** |
 | Non-negotiables | Kant's three postulates; the highest good; "ought implies can"; Euthyphro correctly aimed |
 
-#### Model answer (≈250 words)
+#### Model answer
 
 The moral argument claims that ethical experience presupposes the reality of God. It takes two very different forms.
 
@@ -1161,7 +1175,7 @@ Total  : 15 minutes
 | Ideal thesis | The Ways are five distinct arguments; Way 3 (or Way 5) is most interesting, for stated philosophical reasons |
 | Non-negotiables | The *per se* / *per accidens* distinction; "first" as explanatory; a reasoned choice with objections handled |
 
-#### Model answer (≈350 words)
+#### Model answer
 
 Aquinas' Five Ways (*ST* I, q.2, a.3) are **five distinct a posteriori arguments**, not one argument restated. Each begins from a general feature of the world and concludes with the cautious formula "and this everyone understands to be God" — itself an admission that further work is needed to identify the terminus with the God of religion.
 
@@ -1221,7 +1235,7 @@ Total  : 21 minutes
 | Ideal thesis | A criterion-relative preference: a posteriori for evidential respectability, a priori for modal strength, neither for religious adequacy |
 | Non-negotiables | A multi-axis distinction table in prose; at least three exemplars; an explicit preference |
 
-#### Model answer (≈345 words)
+#### Model answer
 
 The distinction is not merely one of subject matter but of **evidential source, method, modal outcome and characteristic vulnerability**.
 
@@ -1285,7 +1299,7 @@ Total  : 21 minutes
 | Ideal thesis | Individually inconclusive and jointly cumulative; the redundancy objection is the deepest threat |
 | Non-negotiables | Four to five arguments in Sanskrit; the efficient/material cause thesis; Indian critics before Western ones |
 
-#### Model answer (≈350 words)
+#### Model answer
 
 Nyāya offers a rational, inferential theism. Īśvara is an eternal, omniscient special self, the **first efficient cause** — a demiurgus or builder of the ordered universe — **not its material cause**; He is also preserver and destroyer, which distinguishes Nyāya theism from deism.
 
@@ -1348,7 +1362,7 @@ Total  : 21 minutes
 | Ideal thesis | A clear reconstruction of both Anselmian forms and Descartes, criticised through Gaunilo and Kant |
 | Non-negotiables | The mark split must be visibly respected in the answer's proportions |
 
-#### Model answer (≈250 words)
+#### Model answer
 
 **Exposition (10).** The ontological proof is the sole classical **a priori** argument: it moves from the concept of God to God's existence without any empirical premise. Anselm defines God as **"that than which nothing greater can be conceived"**, where "greater" means more perfect — and deliberately not as "the most perfect being that there is", which would guarantee nothing. In *Proslogion* 2 he argues by *reductio*: even the fool who denies God understands the concept; but if this being existed in the understanding alone, we could conceive a greater — the same being existing in reality as well — which contradicts the definition; therefore it exists in reality. In *Proslogion* 3 he strengthens the conclusion: a being that cannot be thought not to exist is greater than one that can; and since God as infinitely perfect is not limited by time, both coming-to-be and ceasing-to-be are excluded. God therefore exists **necessarily**, by aseity. Descartes reformulates it in *Meditations* V: existence belongs to the essence of a supremely perfect being as three angles belong to a triangle, or a valley to a mountain; a perfect being lacking existence would lack a perfection.
 
@@ -1402,7 +1416,7 @@ Total  : 12 minutes
 | Ideal thesis | Hume defeats the argument as a demonstration and blocks the passage to the God of theism, without disproving a designer |
 | Non-negotiables | Aquinas' Way 5 distinguished from Paley; Paley's three riders; at least four Hume fronts; the 1779/1802 chronology |
 
-#### Model answer (≈355 words)
+#### Model answer
 
 The design or teleological argument runs from Plato's *Timaeus* through Aquinas to the modern period. Two forms must be distinguished. **Aquinas' Fifth Way** argues that things lacking cognition act for an end, and do so always or nearly always in the same way; such directedness cannot be chance, so they are directed by an intelligent being, as the arrow by the archer. **Paley's** argument, in Natural Theology (1802), is instead an **analogy**: finding a watch on a heath, with wheels, cogs, springs and balances all working together to measure time, I cannot attribute it to wind and rain as I could a stone; I must postulate an intelligent maker. Paley adds three riders — the inference survives never having seen a watch made, imperfect working, and parts whose function we cannot discover — and then builds a long **cumulative** case from the eye, the bird's wing, the fish's fin, planetary motion and the seasons.
 
@@ -1462,7 +1476,7 @@ Total  : 21 minutes
 | Ideal thesis | A structured set of mutually reinforcing inferences to an omniscient efficient cause, cumulatively rather than individually persuasive |
 | Non-negotiables | Sanskrit terminology; the efficient-cause thesis; a note that enumerations vary; a short evaluation |
 
-#### Model answer (≈250 words)
+#### Model answer
 
 Nyāya offers not one proof but an array — the tradition claims as many as ten, though enumerations vary across texts and summaries, so an answer should present the principal ones and say so.
 
@@ -1506,13 +1520,39 @@ Total  : 14 minutes
 
 ---
 
+### 2026 primary-owned PYQ supplement — two solved parts (2018–2026 total: 14)
+
+Exact stems and marks follow the verified 2026 Philosophy Paper II Section B supplement. Models are independent practice, not official UPSC solutions.
+
+#### 2026 Q5(b) · 10 marks
+
+> Discuss Aquinas' argument from the contingency of the world to prove the existence of God.
+
+**Demand:** Aquinas's *Third Way*, not all Five Ways or an argument from a first event.
+
+**Model solution.** Aquinas begins with things that come to be and perish: possible beings that need not exist. If everything were of this sort, he argues, there would once have been nothing; from nothing, without an already existent cause, nothing would now exist. Since something exists, at least one necessary being must exist. But a being necessary *through another* still requires explanation; the regress must end in a being necessary through itself, which Aquinas calls God. The argument is about explanatory dependence of contingent beings, not simply how long ago the cosmos began.
+
+The vulnerable inference is from “each thing can fail to exist” to “at some time all things failed to exist”: successive contingent beings could exist without any empty time. Even a necessary explanatory ground, if granted, is not automatically a unique, omniscient, perfectly good personal God. Aquinas can respond that the explanatory demand concerns the whole dependent order, not its temporal first member, but this requires a further premise about why an endless dependent series is insufficient. **Judgment:** Third Way raises a serious dependence question, but its quantifier step and transition from necessity to classical theism need additional defence.
+
+#### 2026 Q8(b) · 15 marks
+
+> Explain and examine Madhvacharya's arguments for the existence of God.
+
+**Demand:** Do not substitute Udayana's world-as-effect inference for Madhva; distinguish scriptural warrant from reconstructed metaphysical arguments.
+
+**Model solution.** Madhva's dualism (Dvaita) distinguishes the independent (*svatantra*) Viṣṇu from dependent (*paratantra*) selves and matter. Five real differences (*pañca-bheda*) describe this ontology; they are **not five proofs**. For Madhva, scriptural testimony identifies the supreme Lord decisively, while perception and inference have intrinsic validity within their proper domains: to dismiss them wholesale would undermine even reading and interpreting scripture. This epistemic framework matters because his case does not reduce to one detached syllogism.
+
+The metaphysical strand reasons from the finite world's dependence and ordered relations to an independent governor; this expresses the basic asymmetry of Dvaita rather than a temporal first cause. Scriptural revelation determines *which* independent being is Viṣṇu where unaided inference underdetermines divine identity. Design/order can suggest governance, but Madhva does not treat a design analogy as sufficient demonstration; perfection articulates God's character, not an Anselmian move from a concept to existence. Later Dvaita dialecticians, notably Jayatīrtha and Vyāsatīrtha, develop polished defences; do not silently attribute every later formulation verbatim to Madhva.
+
+**Examination:** Dependence is not itself proof that its terminus is one omniscient person; self-operating karma or rival metaphysics challenge that bridge. Scripture gives determinacy within a tradition but a rival scripture demands comparative justification. Madhva's achievement is a coherent account linking epistemic access to an ontologically independent Lord and permanently distinct dependents; it is weaker as a religiously neutral proof compelling someone who rejects the authority premise.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
 These retained models extend coverage rather than repeat a direct verified PYQ.
 
 #### Original 10-marker 1
 
-**Question:** Distinguish an essentially ordered from an accidentally ordered causal series, and explain why the distinction is indispensable to Aquinas' Second Way. **(10 marks, 150 words)**
+**Question:** Distinguish an essentially ordered from an accidentally ordered causal series, and explain why the distinction is indispensable to Aquinas' Second Way. **(10 marks)**
 
 ##### Demand decoding
 
@@ -1522,7 +1562,7 @@ These retained models extend coverage rather than repeat a direct verified PYQ.
 | Core issue | Why Aquinas may exclude one infinite regress without excluding all |
 | Ideal thesis | The distinction shows that "first" means explanatory, not temporal, priority |
 
-##### Model answer (≈155 words)
+##### Model answer
 
 An **accidentally ordered (per accidens)** series is one in which each cause, having produced its effect, may perish while the effect continues — as a grandfather begets a father who begets a son. Its members possess causal power in their own right, and an infinite backward series of such causes is not obviously incoherent; Aquinas indeed holds that reason alone cannot exclude an eternal world.
 
@@ -1542,7 +1582,7 @@ The distinction is indispensable because Aquinas' exclusion of infinite regress 
 
 #### Original 10-marker 2
 
-**Question:** "Jainism denies God but not godhead." Examine. **(10 marks, 150 words)**
+**Question:** "Jainism denies God but not godhead." Examine. **(10 marks)**
 
 ##### Demand decoding
 
@@ -1552,7 +1592,7 @@ The distinction is indispensable because Aquinas' exclusion of infinite regress 
 | Core issue | Two senses of "God": world-maker and perfected being |
 | Ideal thesis | The formula is accurate: Jainism rejects *jagat-kartā* and affirms attainable divinity |
 
-##### Model answer (≈160 words)
+##### Model answer
 
 The formula is accurate and philosophically precise. Jainism denies God as **creator**: the world was never made, since all six substances are eternal and reality is characterised by origination, decay and permanence (*utpāda–vyaya–dhrauvya*); change belongs to modes, not to a divine act. It reinforces this with anti-creator arguments — a perfect being can have no motive to create; creation from compassion is refuted by suffering; creation as sport is childish and cruel; and if God is self-existent, the world may equally be so.
 
@@ -1572,7 +1612,7 @@ Jaina divinity is therefore **plural, achieved, non-creative and exemplary**. It
 
 #### Original 15-marker 1
 
-**Question:** Does the modal version of the ontological argument escape Kant's objection? Discuss. **(15 marks, 240 words)**
+**Question:** Does the modal version of the ontological argument escape Kant's objection? Discuss. **(15 marks)**
 
 ##### Demand decoding
 
@@ -1582,7 +1622,7 @@ Jaina divinity is therefore **plural, achieved, non-creative and exemplary**. It
 | Core issue | Whether necessary existence is a modal status immune to the real-predicate objection |
 | Ideal thesis | It escapes the letter of Kant's objection but not its spirit, because the burden migrates to the possibility premise |
 
-##### Model answer (≈250 words)
+##### Model answer
 
 Kant's objection is that existence is not a real or determining predicate: it adds nothing to a concept but posits its object, as a hundred real thalers add no concept to a hundred possible ones. If so, Anselm's comparative — that existing in reality is *greater* — is illegitimate, and the argument builds its conclusion into its premise.
 
@@ -1606,7 +1646,7 @@ But it does not escape the objection's **spirit**. The entire weight now falls o
 
 #### Original 15-marker 2
 
-**Question:** Examine the Mīmāṃsā case that the authority of the Veda and the operation of karma together render a creator God redundant. **(15 marks, 240 words)**
+**Question:** Examine the Mīmāṃsā case that the authority of the Veda and the operation of karma together render a creator God redundant. **(15 marks)**
 
 ##### Demand decoding
 
@@ -1616,7 +1656,7 @@ But it does not escape the objection's **spirit**. The entire weight now falls o
 | Core issue | Whether normativity and desert can be secured without a divine guarantor |
 | Ideal thesis | The case is coherent and internally powerful, but purchases economy at the cost of explaining normativity's ultimate ground |
 
-##### Model answer (≈250 words)
+##### Model answer
 
 Mīmāṃsā's case has two limbs, each aimed at a distinct Nyāya proof.
 
@@ -1640,7 +1680,7 @@ Two criticisms remain. First, an eternal, authorless language that nevertheless 
 
 #### Original 20-marker 1
 
-**Question:** "Hume did not disprove design; he dismantled the inference." Critically examine with reference to the Dialogues Concerning Natural Religion. **(20 marks, 340 words)**
+**Question:** "Hume did not disprove design; he dismantled the inference." Critically examine with reference to the Dialogues Concerning Natural Religion. **(20 marks)**
 
 ##### Demand decoding
 
@@ -1650,7 +1690,7 @@ Two criticisms remain. First, an eternal, authorless language that nevertheless 
 | Core issue | The logical status of Hume's conclusions |
 | Ideal thesis | The thesis is correct: Hume's attacks are undercutting and adequacy-directed, not disproofs |
 
-##### Model answer (≈350 words)
+##### Model answer
 
 The thesis is correct, and defending it requires separating two waves of Hume's attack.
 
@@ -1677,7 +1717,7 @@ Neither wave is a **disproof**. Undercutting objections show the evidence does n
 
 #### Original 20-marker 2
 
-**Question:** "Every Indian argument against a creator God is either an economy move, a coherence move or an epistemic move." Critically examine this classification with reference to Jaina, Buddhist, Mīmāṃsā and Cārvāka positions. **(20 marks, 340 words)**
+**Question:** "Every Indian argument against a creator God is either an economy move, a coherence move or an epistemic move." Critically examine this classification with reference to Jaina, Buddhist, Mīmāṃsā and Cārvāka positions. **(20 marks)**
 
 ##### Demand decoding
 
@@ -1687,7 +1727,7 @@ Neither wave is a **disproof**. Undercutting objections show the evidence does n
 | Core issue | Whether four distinct schools share a common argumentative structure |
 | Ideal thesis | The classification fits well and is analytically useful, but some arguments straddle categories and one school resists placement |
 
-##### Model answer (≈350 words)
+##### Model answer
 
 The classification is largely accurate and analytically valuable, though it requires two qualifications.
 
@@ -1809,9 +1849,9 @@ Name the criterion: coherence, evidential contact, modal strength, explanatory e
 | 15 | 12–13 min | Frame → reconstruct → canonical example → strongest objection → best reply → assess validity and adequacy separately |
 | 20 | 17–18 min | Classify family → full steps → Indian/Western contrast → two objections with replies → underdetermination of attributes → criterion-named verdict |
 
-- **10 marks ≈ 150 words.** One controlled comparison is enough; do not spend half the answer on background.
-- **15 marks ≈ 220–260 words.** At least one technical distinction and one serious criticism.
-- **20 marks ≈ 320–360 words.** A comparative matrix or compact diagram may precede the prose; two objections, or one developed through reply and residual pressure.
+- **10 marks:** One controlled comparison is enough; do not spend half the answer on background.
+- **15 marks:** Develop at least one technical distinction and one serious criticism.
+- **20 marks:** A comparative matrix or compact diagram may precede the prose; develop two objections, or one through reply and residual pressure. These are timed-writing priorities, not limits on worked solutions.
 
 #### 9. Avoid generic prose
 
@@ -1912,12 +1952,18 @@ examination-length script without discarding the elements that earn marks.
 | Conceptual distinction (2022 a priori and a posteriori) | the source-of-premises rule; one example each side; the criterion-named preference | the historical illustration; the modal-logic detail |
 | Evaluative choice (2022 Five Ways) | the criterion, stated before the choice; the chosen Way's premises; the cost of the choice | the four Ways not chosen, reduced to one line each |
 
-⚠️ **Band budgets for this topic.** 10 marks ≈ 150 words: classification, premises, one
-presupposition, one objection, one-line verdict. 15 marks ≈ 220–260 words: add the canonical
-example, the proponent's reply, and separated verdicts on validity and adequacy. 20 marks
-≈ 320–360 words: add the Indian or Western analogue, a second objection with its reply, and the
-underdetermination point before a criterion-named conclusion.
+⚠️ **Argument-first compression for timed attempts.** For a shorter question: classify the proof, reconstruct its premises, identify a presupposition and objection, and judge what follows. For an extended evaluation: add a canonical example, the proponent's reply, separate validity from theological adequacy, compare an Indian or Western analogue if germane, and close on underdetermination. These are priority rules, not word ceilings.
 
 ⚠️ **What never gets cut:** the distinction between validity, soundness and adequacy; the
 attribution of the watch to Paley; the efficient-not-material role of the Nyāya Lord; and the
 closing statement of what the argument actually establishes.
+
+#### Further original Mains practice — explanatory scope beyond Five Ways
+
+**Original 7 · 20 marks — Compare Leibniz's argument from sufficient reason with a temporal-beginning argument for God. Does either establish the God of classical theism? Critically evaluate.**
+
+**Model solution.** Leibniz asks why the contingent order exists *at all* rather than merely which earlier event produced it. The principle of sufficient reason (PSR) demands a reason even for a hypothetically eternal aggregate of contingent things; because no member is self-explanatory, Leibniz locates its ultimate sufficient reason in a necessary being. A temporal-beginning (*kalām*) argument instead claims that what begins to exist has a cause and the universe began to exist, concluding that it has a cause. This route must defend a finite beginning against a past-infinite series and avoid confusing physical cosmology's earliest describable state with demonstrable creation from nothing.
+
+The routes do not automatically succeed or fail together. An eternal but dependent world would leave Leibniz's question intact while blocking the premise of a temporal beginning. Conversely one might accept a universe with a first moment while denying a universal PSR. Hume can challenge whether a whole series needs an explanation beyond the explanations of its members; the Leibnizian replies that this leaves the *existence of the whole contingent order* unexplained. A critic of the temporal argument asks whether causation, learnt within time, can intelligibly apply to time's origin; the advocate may frame the cause as ontological explanation rather than a preceding event, but then approaches Leibniz's different claim.
+
+**Theological adequacy:** Even if one grants either a necessary source or a first cause, uniqueness, omniscience, perfect goodness and providential care do not follow without further premises. A necessary explanatory ground could be impersonal, and a cause of one beginning need not be an ongoing sustainer. **Verdict:** Leibniz targets contingent dependence more deeply; *kalām* targets temporal finitude more directly. Both illuminate an explanatory question, neither independently demonstrates the full personal God of worship.

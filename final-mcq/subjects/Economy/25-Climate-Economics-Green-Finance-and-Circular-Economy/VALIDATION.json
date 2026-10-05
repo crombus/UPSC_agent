@@ -1,0 +1,58 @@
+{
+  "topic": "25-Climate-Economics-Green-Finance-and-Circular-Economy",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 11,
+        "A": 9,
+        "C": 12,
+        "B": 12
+      },
+      "fingerprint": "85481c2e30e8b449"
+    },
+    {
+      "bank": 2,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 11,
+        "A": 8,
+        "D": 13,
+        "C": 12
+      },
+      "fingerprint": "f6bbf30343de90f5"
+    },
+    {
+      "bank": 3,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 12,
+        "C": 10,
+        "D": 8,
+        "A": 14
+      },
+      "fingerprint": "cc066b90d4cb6687"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

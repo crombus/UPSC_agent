@@ -6,805 +6,384 @@ topic_key: world-history-17
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Foreign pressure and Qing decline?
+Source-bounded hard applications: attempt every item before consulting the separate key. The 1911–49 state-building chain, Mao-era campaigns, reform transition and distinct Asian trajectories are all tested.
 
-A. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-D. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
+### Q1. A historian explains 1911 solely as a constitutional innovation. What prior pressure does this omit?
 
-**Answer: A.**
-**Explanation:** Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis. The remaining options belong to different chronology, actor or analytical categories.
+A. Opium Wars, concessions and Japanese victories undermined Qing legitimacy before the dynastic collapse.
+B. The 1978 market reforms had already displaced Qing land policy.
+C. The KMT-CCP civil war ended before the Manchu dynasty fell.
+D. Geneva division of Vietnam directly abolished the Qing court.
 
-### Q2. Which chronology card should be filed under Foreign pressure and Qing decline?
+### Q2. What most directly shows that the 1911 Revolution did not finish Chinese state-building?
 
-A. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-B. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-C. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-D. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
+A. A stable multi-party parliament governed continuously until 1949.
+B. Yuan Shikai converted republican change into dictatorship, followed by warlord fragmentation.
+C. The PRC began in 1911 with a consolidated peasant army.
+D. The anti-Japanese war ended all provincial military autonomy at once.
 
-**Answer: B.**
-**Explanation:** Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. Which programme offered a republican alternative before the CCP won?
 
-### Q3. Which option preserves the source-bounded meaning of Foreign pressure and Qing decline?
+A. Mao Cultural Revolution promised immediate multi-party elections.
+B. Deng decollectivization formed the basis of the 1911 programme.
+C. Sun Yat-sen Three Principles linked nationalism, democracy and people livelihood.
+D. Kim Il-sung security doctrine replaced the KMT platform.
 
-A. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-B. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
+### Q4. What is the correct party sequence between the early republic and the Long March?
 
-**Answer: C.**
-**Explanation:** Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis. The remaining options belong to different chronology, actor or analytical categories.
+A. CCP founded in 1949 after winning the civil war and allied with KMT in 1978.
+B. KMT-CCP alliance broke in 1911 before the CCP existed.
+C. The Long March founded the KMT and ended the Japanese war.
+D. CCP founded in 1921, cooperated with KMT, then alliance broke in 1927.
 
-### Q4. Which statement avoids a close-option trap about Foreign pressure and Qing decline?
+### Q5. Why was Mao rural strategy more than a literal copy of an urban-worker revolutionary template?
 
-A. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-B. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-C. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-D. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
+A. China small urban proletariat made peasants and countryside the practical base of communist survival.
+B. The CCP rejected peasant organization and confined itself to factory strikes.
+C. The KMT made rural land reform the only cause of CCP victory.
+D. The Long March proved cities alone could shelter the communist leadership.
 
-**Answer: D.**
-**Explanation:** Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. The Long March was a retreat. Why can it still feature in a causal account of 1949?
 
-### Q5. Which statement correctly identifies Revolution of 1911?
+A. It immediately overthrew Chiang and proclaimed the PRC.
+B. It preserved cadres and elevated Mao, converting survival into political legitimacy.
+C. It proved that no communist leadership survived the civil war.
+D. It secured victory exclusively through Soviet regular troops.
 
-A. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-B. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-C. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-D. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
+### Q7. What changed in the KMT-CCP contest after the full-scale Japanese invasion?
 
-**Answer: A.**
-**Explanation:** The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship. The remaining options belong to different chronology, actor or analytical categories.
+A. Both parties ceased to exist until Deng reforms began.
+B. Foreign invasion ended all nationalism in communist messaging.
+C. National defence and war burdens reshaped the legitimacy and resources of the rivals.
+D. The 1911 dynastic settlement automatically settled the invasion.
 
-### Q6. Which chronology card should be filed under Revolution of 1911?
+### Q8. Which diagnosis best compares the two sides immediately before the 1949 outcome?
 
-A. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-B. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-C. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-D. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
+A. KMT land redistribution guaranteed national legitimacy while CCP avoided the countryside.
+B. The CCP won only because foreign treaties barred the KMT from administration.
+C. Neither party social standing mattered: 1911 legally guaranteed communist victory.
+D. KMT corruption, inflation and poor administration faced CCP discipline, rural contact and land-reform appeal.
 
-**Answer: B.**
-**Explanation:** The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. A claim says the 1949 outcome moved all Chinese political forces to the same mainland state. Which distinction is needed?
 
-### Q7. Which option preserves the source-bounded meaning of Revolution of 1911?
+A. Mao proclaimed the PRC while Chiang and supporters retreated to Taiwan.
+B. Chiang proclaimed the PRC and Mao governed Taiwan for the KMT.
+C. Yuan led both parties in a joint postwar republic.
+D. Sun Yat-sen resumed the presidency after the Long March.
 
-A. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-B. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-C. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-D. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
+### Q10. Land reform after 1949 proves a pluralist political system existed. What is the stronger assessment?
 
-**Answer: C.**
-**Explanation:** The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship. The remaining options belong to different chronology, actor or analytical categories.
+A. Land reform displaced the Communist Party with a multi-party parliament.
+B. Old landlord power weakened while party-state control expanded.
+C. Only foreign concessions changed, leaving rural hierarchy intact.
+D. The Great Leap Forward had already replaced all parties in 1911.
 
-### Q8. Which statement avoids a close-option trap about Revolution of 1911?
+### Q11. Why do Hundred Flowers and the Anti-Rightist turn belong in the same analytic question?
 
-A. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-B. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-C. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-D. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
+A. Both were foreign wars fought against the KMT in 1949.
+B. Both opened unrestricted party competition and free elections.
+C. A brief opening to criticism was followed by repression, clarifying limits of dissent.
+D. Both were merely agricultural market reforms under Deng.
 
-**Answer: D.**
-**Explanation:** The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. An answer treats the Great Leap Forward as Deng economic pragmatism. Which correction fits the record?
 
-### Q9. Which statement correctly identifies Warlord fragmentation?
+A. Deng organized the Great Leap as an export-promotion measure after Tiananmen.
+B. The Great Leap was solely a KMT wartime policy against Japan.
+C. Mao introduced multiparty elections through the Great Leap.
+D. Mao crash industrialization and communes brought disruption and famine; Deng later introduced market incentives.
 
-A. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-B. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-C. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-D. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
+### Q13. Which distinctive damage is linked to the Cultural Revolution rather than the Great Leap?
 
-**Answer: A.**
-**Explanation:** After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem. The remaining options belong to different chronology, actor or analytical categories.
+A. Mass mobilization against alleged enemies disrupted education, administration and social stability.
+B. Agricultural decollectivization restored private incentives in 1978.
+C. The Japanese occupation ended because of a communist civil-war alliance.
+D. The 1911 revolution produced a stable democratic bureaucracy.
 
-### Q10. Which chronology card should be filed under Warlord fragmentation?
+### Q14. How should Mao state-building be judged alongside the campaigns of the later Mao era?
 
-A. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-D. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
+A. The famine was proved harmless because unification succeeded.
+B. Unification and land reform were consequential but Great Leap and Cultural Revolution caused grave human and institutional costs.
+C. The Cultural Revolution alone founded the PRC in 1949.
+D. There were only failures: the party-state never consolidated authority.
 
-**Answer: B.**
-**Explanation:** After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. What does agricultural decollectivization in the Deng era establish politically?
 
-### Q11. Which option preserves the source-bounded meaning of Warlord fragmentation?
+A. Restored incentives automatically introduced competitive national elections.
+B. Communes expanded without any change in the rural economy.
+C. Market incentives and foreign investment expanded while Communist Party monopoly persisted.
+D. The PRC was replaced by the KMT government on the mainland.
 
-A. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-B. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-C. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-D. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
+### Q16. Why is Tiananmen a decisive test of a simple reform-equals-democracy thesis?
 
-**Answer: C.**
-**Explanation:** After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem. The remaining options belong to different chronology, actor or analytical categories.
+A. It ended all market reforms and introduced permanent KMT rule.
+B. It was the 1927 break between CCP and KMT.
+C. It was the 1950 Sino-Soviet friendship treaty.
+D. The 1989 protest crackdown coexisted with continued economic reform.
 
-### Q12. Which statement avoids a close-option trap about Warlord fragmentation?
+### Q17. Which comparison makes Vietnam analytically distinct from the Chinese route to power?
 
-A. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-B. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-C. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-D. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
+A. Communist victory fused with anti-colonial war, Geneva division and later reunification.
+B. Its revolution began through a Chinese-style 1911 overthrow of the Manchu dynasty.
+C. Its postcolonial independence was settled wholly by a UN Trusteeship vote.
+D. It lacked any nationalist claim and relied solely on inherited Chinese rule.
 
-**Answer: D.**
-**Explanation:** After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem. The remaining options belong to different chronology, actor or analytical categories.
+### Q18. A single-model chart treats North Korea as peasant civil-war China. What contradicts it?
 
-### Q13. Which statement correctly identifies Sun Yat-sen and Three Principles?
+A. Mao proclaimed the North Korean republic after the Long March.
+B. Kim Il-sung regime grew after Korean division and became intensely centralized.
+C. North Korean state emerged through Vietnamese Geneva reunification.
+D. The Korean state adopted Deng reform as its founding principle.
 
-A. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-B. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-C. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-D. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
+### Q19. What makes Khmer Rouge Cambodia a poor synonym for Vietnamese communism?
 
-**Answer: A.**
-**Explanation:** Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination. The remaining options belong to different chronology, actor or analytical categories.
+A. Both shared the same leadership and identical territorial settlement.
+B. Cambodia became communist solely through the 1911 Chinese revolution.
+C. Pol Pot rule involved extreme destructive social engineering, unlike the Vietnamese anti-colonial reunification path.
+D. Vietnam was ruled by Pol Pot while Cambodia was ruled by Kim Il-sung.
 
-### Q14. Which chronology card should be filed under Sun Yat-sen and Three Principles?
+### Q20. How can Laos be compared without making it merely a footnote to Cambodia?
 
-A. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-B. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-C. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-D. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
+A. Pol Pot governed Laos and applied the identical Khmer Rouge programme.
+B. The KMT established multiparty Lao government in 1949.
+C. Laos was unified by the Geneva division of Vietnam.
+D. Communist takeover in 1975 was followed by durable one-party rule and pragmatic economic adjustment.
 
-**Answer: B.**
-**Explanation:** Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination. The remaining options belong to different chronology, actor or analytical categories.
+### Q21. A dossier claims Moscow and Beijing were permanent enemies since their first treaty. Which evidence corrects it?
 
-### Q15. Which option preserves the source-bounded meaning of Sun Yat-sen and Three Principles?
+A. A 1950 mutual-assistance treaty preceded deterioration after 1956.
+B. Formal reconciliation in 1911 preceded a treaty in 1949.
+C. The 1984 grievances initiated their first diplomatic contacts.
+D. Both states fought together against Vietnam in February 1979.
 
-A. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-B. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-C. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-D. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
+### Q22. Why did Chinese leaders accuse Khrushchev of revisionism in the documented split?
 
-**Answer: C.**
-**Explanation:** Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination. The remaining options belong to different chronology, actor or analytical categories.
+A. He urged Mao to restore the Manchu dynasty as a constitutional monarch.
+B. His peaceful coexistence and nonviolent routes to communism appeared to revise Marxist-Leninist doctrine.
+C. He had proclaimed KMT rule over Soviet territory.
+D. He created UN vetoes for every newly independent state.
 
-### Q16. Which statement avoids a close-option trap about Sun Yat-sen and Three Principles?
+### Q23. What makes a purely doctrinal account of the Sino-Soviet split inadequate?
 
-A. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-B. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-C. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-D. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
+A. The only dispute was whether the UN had six principal organs.
+B. Both governments abandoned territorial claims immediately after 1956.
+C. Reduced Soviet aid and frontier grievances added material and territorial conflict.
+D. Moscow unilaterally granted China a permanent UN army.
 
-**Answer: D.**
-**Explanation:** Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination. The remaining options belong to different chronology, actor or analytical categories.
+### Q24. The claim of a unified communist Asian bloc is tested most sharply by which paired events?
 
-### Q17. Which statement correctly identifies CCP founded and alliance broken?
+A. KMT and CCP allied forever after the 1927 party rupture.
+B. Tiananmen produced a joint Sino-Soviet invasion of Japan.
+C. The Cultural Revolution united all Asian communist parties by binding treaty.
+D. Vietnam removed China-backed Pol Pot in 1978 and China attacked Vietnam in February 1979.
 
-A. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-B. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-C. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-D. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
+### Q25. Which sequence supplies a sourced bookend to the Sino-Soviet dispute?
 
-**Answer: A.**
-**Explanation:** The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927. The remaining options belong to different chronology, actor or analytical categories.
+A. After listed Chinese grievances in 1984 came 1985 economic agreements and Gorbachev Beijing reconciliation in May 1989.
+B. A 1964 formal reconciliation preceded the deterioration beginning in 1978.
+C. The 1950 treaty followed Gorbachev visit to Beijing.
+D. The 1979 Sino-Vietnamese war was the legal act ending the USSR.
 
-### Q18. Which chronology card should be filed under CCP founded and alliance broken?
+## SEPARATE SOLVED KEY AND REMEDIATION
 
-A. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-B. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-C. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-D. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
+### Q1 — A
 
-**Answer: B.**
-**Explanation:** The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** External humiliation helps explain the old regime legitimacy crisis.
+- **B (incorrect):** Post-Mao reform is far later.
+- **C (incorrect):** The party conflict belongs after 1911.
+- **D (incorrect):** Vietnamese partition is a different national sequence.
+- **Diagnostic trap:** A change in constitutional form did not arise in a vacuum.
 
-### Q19. Which option preserves the source-bounded meaning of CCP founded and alliance broken?
+### Q2 — B
 
-A. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-B. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-C. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-D. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
+- **A (incorrect):** Stability contradicts Yuan and warlord evidence.
+- **B (correct):** Dynasty removal did not create durable central authority.
+- **C (incorrect):** PRC proclamation belongs to 1949.
+- **D (incorrect):** War did not automatically eliminate fragmentation.
+- **Diagnostic trap:** Regime replacement is not the same as an effective state.
 
-**Answer: C.**
-**Explanation:** The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927. The remaining options belong to different chronology, actor or analytical categories.
+### Q3 — C
 
-### Q20. Which statement avoids a close-option trap about CCP founded and alliance broken?
+- **A (incorrect):** A Mao-era campaign cannot be Sun programme.
+- **B (incorrect):** Post-1978 policies cannot explain a pre-1949 platform.
+- **C (correct):** Sun supplied a rival political vocabulary to warlordism.
+- **D (incorrect):** The Korean regime is a different context.
+- **Diagnostic trap:** Do not portray communism as the sole anti-imperial alternative.
 
-A. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-D. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
+### Q4 — D
 
-**Answer: D.**
-**Explanation:** The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** The party preceded its eventual state victory.
+- **B (incorrect):** Rupture cannot predate party formation.
+- **C (incorrect):** The retreat was not KMT founding or war termination.
+- **D (correct):** Alliance then rupture explains the transition to sustained civil conflict.
+- **Diagnostic trap:** Do not reverse political organisation and eventual state capture.
 
-### Q21. Which statement correctly identifies Mao's peasant strategy?
+### Q5 — A
 
-A. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-B. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-C. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-D. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
+- **A (correct):** Social structure conditioned the strategy.
+- **B (incorrect):** The source stresses peasant contact and rural bases.
+- **C (incorrect):** KMT weakness is not proof of its exclusive land-reform programme.
+- **D (incorrect):** Long March preserved a retreating rural movement.
+- **Diagnostic trap:** Ideological ancestry does not determine an identical class strategy.
 
-**Answer: A.**
-**Explanation:** Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class. The remaining options belong to different chronology, actor or analytical categories.
+### Q6 — B
 
-### Q22. Which chronology card should be filed under Mao's peasant strategy?
+- **A (incorrect):** The PRC was proclaimed later.
+- **B (correct):** Organizational survival and leadership matter despite military retreat.
+- **C (incorrect):** The movement did survive.
+- **D (incorrect):** This is not the documented causal mechanism.
+- **Diagnostic trap:** Tactical retreat need not equal political defeat.
 
-A. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-B. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-C. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-D. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
+### Q7 — C
 
-**Answer: B.**
-**Explanation:** Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Both organizations remained actors.
+- **B (incorrect):** Patriotic credibility mattered to CCP appeal.
+- **C (correct):** Wartime performance became a political test.
+- **D (incorrect):** The earlier republic did not avert later invasion.
+- **Diagnostic trap:** War with Japan cannot be omitted from a civil-war explanation.
 
-### Q23. Which option preserves the source-bounded meaning of Mao's peasant strategy?
+### Q8 — D
 
-A. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-B. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-C. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-D. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
+- **A (incorrect):** This inverts both sides social positions.
+- **B (incorrect):** The source emphasizes domestic failings and CCP strengths.
+- **C (incorrect):** No such constitutional inevitability existed.
+- **D (correct):** Comparative governance and mobilization explain shifting support.
+- **Diagnostic trap:** Explain both competitors, not one external scapegoat.
 
-**Answer: C.**
-**Explanation:** Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class. The remaining options belong to different chronology, actor or analytical categories.
+### Q9 — A
 
-### Q24. Which statement avoids a close-option trap about Mao's peasant strategy?
+- **A (correct):** State proclamation and rival withdrawal are separate outcomes.
+- **B (incorrect):** The actors destinations and roles are inverted.
+- **C (incorrect):** Yuan belongs to the earlier republican crisis.
+- **D (incorrect):** Sun cannot lead the 1949 settlement.
+- **Diagnostic trap:** Do not erase the unresolved division from the victory narrative.
 
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-C. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-D. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
+### Q10 — B
 
-**Answer: D.**
-**Explanation:** Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Party political monopoly did not disappear.
+- **B (correct):** Social transformation and one-party consolidation coexisted.
+- **C (incorrect):** Rural relations were changed.
+- **D (incorrect):** This compresses incompatible eras.
+- **Diagnostic trap:** Redistribution does not prove political pluralism.
 
-### Q25. Which statement correctly identifies Long March, 1934-35?
+### Q11 — C
 
-A. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-B. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-C. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-D. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
+- **A (incorrect):** They were domestic political campaigns.
+- **B (incorrect):** Repression followed the opening.
+- **C (correct):** The sequence tests the boundary of tolerated criticism.
+- **D (incorrect):** Deng reforms are a different phase.
+- **Diagnostic trap:** Do not equate an invitation to speak with institutional freedom.
 
-**Answer: A.**
-**Explanation:** The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q12 — D
 
-### Q26. Which chronology card should be filed under Long March, 1934-35?
+- **A (incorrect):** The campaign belongs to the Mao era before 1978.
+- **B (incorrect):** The KMT did not undertake the Mao-era programme.
+- **C (incorrect):** The campaign was not a pluralist reform.
+- **D (correct):** Contrasting mechanisms and eras matters.
+- **Diagnostic trap:** Shared economic vocabulary cannot collapse opposite policy mechanisms.
 
-A. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-B. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-C. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-D. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
+### Q13 — A
 
-**Answer: B.**
-**Explanation:** The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** Assault on institutions differentiates the later Mao-era campaign.
+- **B (incorrect):** This is the post-Mao reform phase.
+- **C (incorrect):** Japanese-war outcome is not this campaign.
+- **D (incorrect):** 1911 did not stabilize institutions.
+- **Diagnostic trap:** Mao-era crises are not interchangeable.
 
-### Q27. Which option preserves the source-bounded meaning of Long March, 1934-35?
+### Q14 — B
 
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
-D. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
+- **A (incorrect):** Political success does not cancel disaster.
+- **B (correct):** A balanced record weighs achievement and catastrophe.
+- **C (incorrect):** The later campaign did not found the earlier state.
+- **D (incorrect):** The regime did extend central authority.
+- **Diagnostic trap:** Avoid both celebratory and wholly dismissive monocausal verdicts.
 
-**Answer: C.**
-**Explanation:** The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q15 — C
 
-### Q28. Which statement avoids a close-option trap about Long March, 1934-35?
+- **A (incorrect):** No democratic transition follows automatically.
+- **B (incorrect):** Decollectivization does change rural incentives.
+- **C (correct):** Separate economic opening from political pluralism.
+- **D (incorrect):** Neither KMT takeover nor party replacement is sourced.
+- **Diagnostic trap:** Marketization is not synonymous with democratization.
 
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy.
+### Q16 — D
 
-**Answer: D.**
-**Explanation:** The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Economic reforms did not end then.
+- **B (incorrect):** The party rupture occurred earlier.
+- **C (incorrect):** A treaty with the USSR is not the protest episode.
+- **D (correct):** Political repression and economic opening are compatible in the record.
+- **Diagnostic trap:** Political closure does not prove economic reversal.
 
-### Q29. Which statement correctly identifies Japanese invasion, 1937?
+### Q17 — A
 
-A. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-B. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-C. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-D. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
+- **A (correct):** Local anti-colonial nationalism and division shaped its path.
+- **B (incorrect):** Manchu collapse was a Chinese event.
+- **C (incorrect):** The specified mechanism is not in the source.
+- **D (incorrect):** Nationalism is central in Vietnam account.
+- **Diagnostic trap:** Common ideology does not erase national paths.
 
-**Answer: A.**
-**Explanation:** Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately. The remaining options belong to different chronology, actor or analytical categories.
+### Q18 — B
 
-### Q30. Which chronology card should be filed under Japanese invasion, 1937?
+- **A (incorrect):** Mao led the Chinese movement.
+- **B (correct):** Partition and highly centralized political organization distinguish it.
+- **C (incorrect):** Geneva division concerns Vietnam.
+- **D (incorrect):** Deng-era China is a later different case.
+- **Diagnostic trap:** Regional proximity is not an identical revolutionary genealogy.
 
-A. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-B. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-C. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-D. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
+### Q19 — C
 
-**Answer: B.**
-**Explanation:** Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Neither a shared ruler nor identical path is evidenced.
+- **B (incorrect):** The Chinese event did not directly install this regime.
+- **C (correct):** Distinct leadership, route and human consequences matter.
+- **D (incorrect):** The leaders and countries are reversed and mixed.
+- **Diagnostic trap:** Comparison should retain the Cambodian catastrophe.
 
-### Q31. Which option preserves the source-bounded meaning of Japanese invasion, 1937?
+### Q20 — D
 
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
-D. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
+- **A (incorrect):** The Khmer Rouge belonged to Cambodia.
+- **B (incorrect):** KMT China did not create this regime.
+- **C (incorrect):** Vietnamese division is not Lao reunification.
+- **D (correct):** Adaptation and quieter continuity distinguish the Lao case.
+- **Diagnostic trap:** Neighboring communist victories should be individuated.
 
-**Answer: C.**
-**Explanation:** Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately. The remaining options belong to different chronology, actor or analytical categories.
+### Q21 — A
 
-### Q32. Which statement avoids a close-option trap about Japanese invasion, 1937?
+- **A (correct):** The relationship moved from alliance to rupture.
+- **B (incorrect):** The cited early sequence is wrong.
+- **C (incorrect):** The grievances followed decades of relations.
+- **D (incorrect):** China attacked Soviet-backed Vietnam.
+- **Diagnostic trap:** A later split must not be projected back onto an earlier alliance.
 
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately.
+### Q22 — B
 
-**Answer: D.**
-**Explanation:** Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately. The remaining options belong to different chronology, actor or analytical categories.
+- **A (incorrect):** Restoration of Qing is not the source dispute.
+- **B (correct):** Doctrinal dispute was a concrete dimension of the breach.
+- **C (incorrect):** The KMT allegation is unrelated.
+- **D (incorrect):** UN governance is not the revisionism charge.
+- **Diagnostic trap:** Ideological language had political content, not merely propaganda.
 
-### Q33. Which statement correctly identifies KMT weaknesses?
+### Q23 — C
 
-A. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-D. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
+- **A (incorrect):** UN-organs counting is a separate question.
+- **B (incorrect):** Territorial issues persisted in the source.
+- **C (correct):** Resources and borders complicated doctrinal disagreements.
+- **D (incorrect):** No such army or settlement existed.
+- **Diagnostic trap:** Neither doctrine nor geopolitical interest alone explains the whole breach.
 
-**Answer: A.**
-**Explanation:** Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
+### Q24 — D
 
-### Q34. Which chronology card should be filed under KMT weaknesses?
+- **A (incorrect):** The parties split in 1927.
+- **B (incorrect):** The named military action is invented.
+- **C (incorrect):** No universal binding pact is sourced.
+- **D (correct):** Communist states and allies fought across national lines.
+- **Diagnostic trap:** Labels of ideology do not cancel interstate rivalry.
 
-A. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-B. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-C. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-D. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
+### Q25 — A
 
-**Answer: B.**
-**Explanation:** Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of KMT weaknesses?
-
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-C. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-D. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-
-**Answer: C.**
-**Explanation:** Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about KMT weaknesses?
-
-A. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-B. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy.
-
-**Answer: D.**
-**Explanation:** Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies CCP strengths?
-
-A. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-D. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-
-**Answer: A.**
-**Explanation:** Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under CCP strengths?
-
-A. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-B. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-
-**Answer: B.**
-**Explanation:** Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of CCP strengths?
-
-A. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-B. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-C. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-D. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-
-**Answer: C.**
-**Explanation:** Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about CCP strengths?
-
-A. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-B. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-C. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-D. Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT.
-
-**Answer: D.**
-**Explanation:** Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies People's Republic, 1949?
-
-A. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-B. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-
-**Answer: A.**
-**Explanation:** Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under People's Republic, 1949?
-
-A. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-B. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-C. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-D. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-
-**Answer: B.**
-**Explanation:** Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of People's Republic, 1949?
-
-A. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-B. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-C. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-D. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-
-**Answer: C.**
-**Explanation:** Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about People's Republic, 1949?
-
-A. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-B. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-C. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-D. Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan.
-
-**Answer: D.**
-**Explanation:** Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Early consolidation?
-
-A. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-B. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-
-**Answer: A.**
-**Explanation:** Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Early consolidation?
-
-A. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-B. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-C. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-D. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-
-**Answer: B.**
-**Explanation:** Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Early consolidation?
-
-A. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-B. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-C. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-D. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-
-**Answer: C.**
-**Explanation:** Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Early consolidation?
-
-A. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-B. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-C. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-D. Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly.
-
-**Answer: D.**
-**Explanation:** Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Hundred Flowers and Anti-Rightist turn?
-
-A. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-B. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-C. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-D. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-
-**Answer: A.**
-**Explanation:** A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Hundred Flowers and Anti-Rightist turn?
-
-A. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-B. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-C. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-D. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-
-**Answer: B.**
-**Explanation:** A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Hundred Flowers and Anti-Rightist turn?
-
-A. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-B. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-C. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-D. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-
-**Answer: C.**
-**Explanation:** A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Hundred Flowers and Anti-Rightist turn?
-
-A. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-B. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-C. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-D. A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent.
-
-**Answer: D.**
-**Explanation:** A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Great Leap Forward, 1958-61?
-
-A. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-B. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-C. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-D. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-
-**Answer: A.**
-**Explanation:** Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Great Leap Forward, 1958-61?
-
-A. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-B. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-C. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-D. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-
-**Answer: B.**
-**Explanation:** Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Great Leap Forward, 1958-61?
-
-A. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-B. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-C. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-D. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-
-**Answer: C.**
-**Explanation:** Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Great Leap Forward, 1958-61?
-
-A. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-D. Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing.
-
-**Answer: D.**
-**Explanation:** Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Cultural Revolution, 1966-76?
-
-A. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-B. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-C. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-D. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-
-**Answer: A.**
-**Explanation:** Mass mobilisation against alleged internal enemies damaged education, administration and social stability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Cultural Revolution, 1966-76?
-
-A. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-B. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-C. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-D. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-
-**Answer: B.**
-**Explanation:** Mass mobilisation against alleged internal enemies damaged education, administration and social stability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Cultural Revolution, 1966-76?
-
-A. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-D. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-
-**Answer: C.**
-**Explanation:** Mass mobilisation against alleged internal enemies damaged education, administration and social stability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Cultural Revolution, 1966-76?
-
-A. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-B. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. Mass mobilisation against alleged internal enemies damaged education, administration and social stability.
-
-**Answer: D.**
-**Explanation:** Mass mobilisation against alleged internal enemies damaged education, administration and social stability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Deng reform after 1978?
-
-A. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-B. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-C. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-D. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-
-**Answer: A.**
-**Explanation:** Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Deng reform after 1978?
-
-A. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-B. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-C. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-D. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-
-**Answer: B.**
-**Explanation:** Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Deng reform after 1978?
-
-A. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-D. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-
-**Answer: C.**
-**Explanation:** Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Deng reform after 1978?
-
-A. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform.
-
-**Answer: D.**
-**Explanation:** Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Tiananmen, 1989?
-
-A. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-B. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-C. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-D. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-
-**Answer: A.**
-**Explanation:** The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Tiananmen, 1989?
-
-A. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-B. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-C. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-D. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-
-**Answer: B.**
-**Explanation:** The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Tiananmen, 1989?
-
-A. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-D. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-
-**Answer: C.**
-**Explanation:** The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Tiananmen, 1989?
-
-A. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked.
-
-**Answer: D.**
-**Explanation:** The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Asian communist diversity?
-
-A. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-D. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-
-**Answer: A.**
-**Explanation:** North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Asian communist diversity?
-
-A. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-B. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-
-**Answer: B.**
-**Explanation:** North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Asian communist diversity?
-
-A. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-B. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-C. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-D. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-
-**Answer: C.**
-**Explanation:** North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Asian communist diversity?
-
-A. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-B. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-C. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-D. North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths.
-
-**Answer: D.**
-**Explanation:** North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Sino-Soviet split after 1956?
-
-A. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-
-**Answer: A.**
-**Explanation:** Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Sino-Soviet split after 1956?
-
-A. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-B. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-C. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-D. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-
-**Answer: B.**
-**Explanation:** Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Sino-Soviet split after 1956?
-
-A. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-D. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-
-**Answer: C.**
-**Explanation:** Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Sino-Soviet split after 1956?
-
-A. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-D. Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening.
-
-**Answer: D.**
-**Explanation:** Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Communist states at war and reconciliation?
-
-A. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis.
-D. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-
-**Answer: A.**
-**Explanation:** China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Communist states at war and reconciliation?
-
-A. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-B. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-C. The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship.
-D. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-
-**Answer: B.**
-**Explanation:** China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Communist states at war and reconciliation?
-
-A. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-B. After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem.
-C. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-D. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-
-**Answer: C.**
-**Explanation:** China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Communist states at war and reconciliation?
-
-A. The Chinese Communist Party was founded in 1921, cooperated with the KMT and entered deeper civil war after the alliance broke in 1927.
-B. Sun Yat-sen's nationalism, democracy and people's livelihood offered a republican alternative to warlordism and imperial subordination.
-C. Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class.
-D. China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit.
-
-**Answer: D.**
-**Explanation:** China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** The late diplomatic thaw is distinguished from earlier conflict.
+- **B (incorrect):** Neither early reconciliation nor those dates are supported.
+- **C (incorrect):** The treaty preceded the visit by decades.
+- **D (incorrect):** The war did not dissolve the USSR.
+- **Diagnostic trap:** Do not misdate the reconciliation or infer an unsourced cause of rupture.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -838,17 +417,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** It removed a dynasty without building institutions capable of controlling Yuan or provincial military rulers.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Opium Wars, concessions and Japanese victories weakened Qing dynasty authority and turned dynastic collapse into a legitimacy crisis. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The 1911 Revolution ended the Manchu dynasty but Yuan Shikai converted republican change into military dictatorship. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** After Yuan, provincial military rulers fought while central authority remained weak, making state-building the central political problem. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It removed a dynasty without building institutions capable of controlling Yuan or provincial military rulers.
+The 1911 Revolution ended the Manchu dynasty but did not solve the problem of governing China. Opium Wars, concessions and Japanese victories had damaged Qing legitimacy; removal of that dynasty did not create a civilian administration able to command provincial forces. Yuan Shikai converted the republican opening into military dictatorship. After him, warlords competed for territory while the centre remained weak. Sun Yat-sen offered nationalism, democracy and people's livelihood as a republican alternative, but a programme was not a monopoly of coercion or a settled political bargain. The KMT and CCP later cooperated and then split in 1927, deepening conflict rather than consolidating the republic. Foreign pressure and the later Japanese invasion intensified the state-building challenge. Thus 1911 changed the regime's name and ended dynastic rule; it did not make a stable democratic state inevitable.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
@@ -875,16 +444,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Military retreat preserved the movement, established Mao's leadership and created a legitimacy narrative for a rural revolutionary strategy.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Mao Zedong rooted communist survival among countryside peasants rather than relying on China's small urban working class. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Long March preserved the communist leadership, elevated Mao and converted survival into political legitimacy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Military retreat preserved the movement, established Mao's leadership and created a legitimacy narrative for a rural revolutionary strategy.
+The Long March of 1934–35 was militarily a retreat but politically a turning point. As communist forces escaped destruction, the movement retained cadres and leadership when defeat might have ended its bid for power. The ordeal elevated Mao Zedong and strengthened a rural strategy rooted in peasants rather than China's small urban working class. Survival could then be narrated as resilience and discipline, helping the CCP rebuild legitimacy. This mattered during the later anti-Japanese war, when the parties competed for patriotic and administrative credibility; it did not itself win the civil war. The CCP's 1949 victory also depended on land reform, peasant contact and the KMT's corruption, inflation and war exhaustion. The Long March is therefore best understood as organizational preservation and leadership consolidation, not as the instant founding of the People's Republic.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
@@ -913,18 +473,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The KMT lost legitimacy through corruption, inflation and war burden while communist discipline, land reform, rural organisation and patriotism built a governing alternative.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Full-scale Japanese invasion transformed civil conflict into a competition over national defence and damaged the KMT disproportionately. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Corruption, poor administration, inflation and weak mass appeal eroded Chiang Kai-shek's political legitimacy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Discipline, land reform, peasant contact and patriotic credibility allowed the CCP to out-govern as well as out-fight the KMT. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Mao proclaimed the People's Republic of China in 1949 while Chiang and the KMT retreated to Taiwan. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** The KMT lost legitimacy through corruption, inflation and war burden while communist discipline, land reform, rural organisation and patriotism built a governing alternative.
+The CCP won in 1949 through a comparison of governing capacity and social legitimacy, not through ideological destiny alone. The Qing collapse in 1911 had left a fragile republic, Yuan's dictatorship and warlord fragmentation. The CCP, founded in 1921, broke with the KMT after their alliance failed in 1927. Mao cultivated peasant support in rural bases where a narrowly urban-worker strategy had little purchase. The Long March preserved leadership, elevated Mao and turned survival into credibility. Communist discipline, land reform and contact with villagers contrasted with KMT corruption, inflation, poor administration and limited mass appeal. Full-scale Japanese invasion in 1937 further reshaped the struggle: the KMT carried major conventional war burdens, while the CCP strengthened its patriotic reputation. Neither Japanese pressure nor Soviet support by itself explains the outcome; domestic organization and the ability to govern mattered. Chiang Kai-shek and his supporters withdrew to Taiwan as Mao proclaimed the PRC in 1949. Thus peasant mobilization, wartime legitimacy and an opponent's administrative weakness combined to decide the civil war, without implying the revolution thereafter guaranteed political liberty.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
@@ -953,18 +502,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Mao unified and centralised China and weakened landlord power, but the Great Leap and Cultural Revolution converted state capacity into self-generated catastrophe.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Land reform and reconstruction weakened landlord power while a centralised one-party state expanded rapidly. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** A brief opening to criticism was followed by repression, exposing the narrow limits of organised dissent. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Crash industrialisation and communes produced severe disruption and famine and damaged Mao's standing. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Mass mobilisation against alleged internal enemies damaged education, administration and social stability. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Mao unified and centralised China and weakened landlord power, but the Great Leap and Cultural Revolution converted state capacity into self-generated catastrophe.
+Mao's impact must be judged in two registers: creation of a sovereign, unified party-state and the damage caused by its mass campaigns. After the PRC was proclaimed in 1949, land reform weakened landlord power; reconstruction and central administration reduced the fragmentation inherited from warlordism and war. Yet political consolidation tightened one-party control. Hundred Flowers briefly allowed criticism before the Anti-Rightist turn showed the limits of dissent. The Great Leap Forward of 1958–61 used crash industrialization and communes, producing severe disruption and famine rather than reliable development. The Cultural Revolution of 1966–76 mobilized attacks on alleged internal enemies and badly damaged education, administration and social stability. These were distinct campaigns with different mechanisms, not one prolonged event. Rural hierarchies changed, but so did the reach of coercive party control. A fair answer neither denies the achievement of national consolidation nor treats famine and institutional breakdown as incidental costs. The authority that enabled reconstruction could also impose catastrophic policies with inadequate correction. Post-1978 decollectivization and economic pragmatism therefore represent a real policy change, though not a retrospective democratization of Mao's legacy.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
@@ -991,16 +529,7 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Deng separated market adaptation from party monopoly, and Tiananmen enforced that boundary without reversing economic opening.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Agricultural decollectivisation, foreign investment and market mechanisms generated growth without multi-party political reform. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The protest movement was suppressed by force, while economic reform continued and political liberalisation remained blocked. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Deng separated market adaptation from party monopoly, and Tiananmen enforced that boundary without reversing economic opening.
+Post-Mao reform changed economic incentives while leaving the Communist Party's political monopoly intact. After the Cultural Revolution's disruption, Deng-era policy from 1978 emphasized pragmatic growth rather than repeated revolutionary mass campaigns. Agricultural decollectivization changed rural production; market mechanisms and foreign investment widened economic possibilities. This was not the Mao-era commune experiment of the Great Leap Forward: the two programmes moved incentives in opposite directions. Nor was it a transition to competitive multiparty politics. The one-party state continued to regulate the boundaries of dissent. The 1989 Tiananmen crackdown provided a decisive negative test of an assumption that economic liberalization automatically produces political freedom: protests were crushed while economic reform continued. The comparison with Vietnam's later market reform under party control shows that policy adaptation within a communist regime was not uniquely Chinese; North Korea and Khmer Rouge Cambodia took different paths. China's reform record thus requires two axes rather than a single label of 'liberalization': opening in economic organization and continuity in political command. It is historically inaccurate to claim either that Mao and Deng used the same economic tools or that Tiananmen permanently ended market reform. The consequence was rapid economic change without pluralist government.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
@@ -1028,14 +557,4 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** China, North Korea, Vietnam, Cambodia and Laos differed in route and social base, while the Sino-Soviet split and Sino-Vietnamese war disproved bloc unity.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** North Korea's divided-state centralisation, Vietnam's anti-colonial nationalism, Cambodia's Khmer Rouge extremism and Laos's pragmatic adjustment followed distinct paths. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Disputes over peaceful coexistence, revisionism, aid, territory and strategy broke the 1950 alliance and enabled the later US-China opening. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** China attacked Soviet-aligned Vietnam in February 1979; five-year agreements followed in July 1985 and formal Sino-Soviet reconciliation came with Gorbachev's May 1989 Beijing visit. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** China, North Korea, Vietnam, Cambodia and Laos differed in route and social base, while the Sino-Soviet split and Sino-Vietnamese war disproved bloc unity.
+Asian communism shared a vocabulary but followed different routes to power and different institutional outcomes. China's CCP emerged from a legitimacy crisis after the fall of the Qing, built rural peasant bases, defeated the KMT and founded the PRC in 1949; later Deng's market reforms did not displace one-party rule. North Korean communism developed under Kim Il-sung after Korea's division into a highly centralized state, not as a replay of China's Long March. Vietnam's communist victory fused anti-colonial nationalism with conflict after Geneva division and eventual reunification. Khmer Rouge Cambodia under Pol Pot pursued destructive social engineering on a very different scale and model; Laos took power in 1975 and later adjusted economically while retaining one-party rule. Nor did these regimes form a seamless international bloc. A Sino-Soviet mutual-assistance treaty in 1950 preceded deterioration after 1956 over peaceful coexistence, the charge of revisionism, aid and borders. Vietnam's removal of China-backed Pol Pot and China's February 1979 attack on Vietnam show communist states fighting each other. The 1985 economic agreements and Gorbachev's May 1989 Beijing visit mark later reconciliation, not proof of unbroken unity. Common ideology must therefore be read through anti-colonial struggle, partition, domestic social bases, territorial interest and state choice.

@@ -6,805 +6,555 @@ topic_key: modern-indian-history-11
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Pre-1857 civil rebellions?
+39 original hard MCQs. Attempt all before consulting the separate solution key.
 
-A. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-B. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-C. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-D. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
+### Q1. Which event is the main outbreak rather than the earlier Barrackpore incident?
 
-**Answer: A.**
-**Explanation:** Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Sepoys rose at Meerut on 10 May 1857 and proceeded to Delhi
+B. Mangal Pandey acted at Meerut on 29 March 1857 before marching on Jhansi
+C. Bahadur Shah Zafar began a planned insurrection at Delhi on 29 March 1857
+D. British troops recaptured Delhi on 10 May 1857 before the revolt spread
 
-### Q2. Which chronology card should be filed under Pre-1857 civil rebellions?
+### Q2. A candidate dates the symbolic centre to the site of the first major sepoy outbreak. Which correction is essential?
 
-A. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-B. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-C. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-D. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
+A. Delhi began the mutiny and Meerut housed the Mughal emperor
+B. Meerut was the outbreak site, while Delhi under Bahadur Shah Zafar became a symbolic centre
+C. Barrackpore was the capital ruled by Bahadur Shah during the revolt
+D. Kanpur hosted the original 10 May rising and Delhi remained uninvolved
 
-**Answer: B.**
-**Explanation:** Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. Which paired account of Awadh's annexation and lapse policy is accurate?
 
-### Q3. Which option should a candidate retain when revising Pre-1857 civil rebellions?
+A. Awadh lapsed in 1856 because its ruler had no biological heir
+B. Doctrine of Lapse followed the 1858 Crown transfer as a direct response to rebellion
+C. Awadh was annexed in 1856 for alleged misgovernment, not under the Doctrine of Lapse
+D. Awadh annexed the British Company in 1857 under an adoption provision
 
-A. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-B. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-C. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-D. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
+### Q4. A recruitment objection over overseas service would be traced first to which source of sepoy anxiety?
 
-**Answer: C.**
-**Explanation:** Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Government of India Act of 1858 granting sea-service exemptions
+B. The 1891 consent statute regulating army enlistment
+C. The Doctrine of Lapse setting sepoy rations after the cartridge dispute
+D. The General Service Enlistment Act of 1856 alongside pay and status grievances
 
-### Q4. Which statement avoids a common matching trap about Pre-1857 civil rebellions?
+### Q5. Why does an Enfield-cartridge explanation fail as a complete causal theory?
 
-A. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-B. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-C. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-D. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
+A. Rumours of cow and pig fat ignited pre-existing political, agrarian, religious and military grievances
+B. Cartridges explain Awadh's 1856 annexation and all earlier land alienation
+C. The issue was a fabricated post-1858 explanation unrelated to sepoys
+D. Cartridges alone account for identical uprisings across every presidency army
 
-**Answer: D.**
-**Explanation:** Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. What is the valid relationship between the Santhal Hool and 1857 for the 2019 GS-I demand?
 
-### Q5. Which statement correctly identifies Santhal Hool?
+A. The Hool was the first phase of a unified Bengal Army offensive planned at Meerut
+B. Sidhu and Kanhu's 1855-56 Hool demonstrates recurrent resistance but remained a distinct tribal uprising
+C. The Hool began after the Crown transfer to protest the 1858 Act
+D. Sidhu and Kanhu commanded the Delhi rebels under Bakht Khan
 
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-C. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-D. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
+### Q7. How should Sanyasi, Chuar, Kol and poligar risings enter an answer on 1857's prehistory?
 
-**Answer: A.**
-**Explanation:** The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. As four successive theatres of one all-India uprising directed by Zafar
+B. As exclusively Bengal-army service protests against the 1856 enlistment law
+C. As local, recurrent resistance to intrusive colonial rule without a single coordinating national command
+D. As proof that there were no protests before the cartridge episode
 
-### Q6. Which chronology card should be filed under Santhal Hool?
+### Q8. Why was Awadh a particularly combustible theatre after 1856?
 
-A. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-B. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-C. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-D. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
+A. Awadh's taluqdars had been restored before annexation and faced no grievance
+B. Its landed elites profited uniformly from the new settlement and opposed every sepoy
+C. It was outside the Bengal Army's recruiting region and free from agrarian stress
+D. Annexation unsettled rulers, taluqdars, court dependants and peasants, while Bengal Army recruitment linked sepoys to the region
 
-**Answer: B.**
-**Explanation:** The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. The 2026 provisional-key PYQ route concerns a land-settlement mechanism. Which description is supportable without inventing an official answer letter?
 
-### Q7. Which option should a candidate retain when revising Santhal Hool?
+A. The post-annexation summary settlement eroded taluqdar authority, and after the revolt the British restored their position
+B. The Company expanded taluqdar estates in 1856 and confiscated them uniformly after 1858
+C. Taluqdars gained statutory universal suffrage in 1856 and lost it under the Crown
+D. The local provisional 2026 answer letter conclusively proves an all-India landlord alliance
 
-A. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-B. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-C. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-D. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
+### Q10. Which finding best supports limited taluqdar-peasant complementarity in Awadh rather than a universal class alliance?
 
-**Answer: C.**
-**Explanation:** The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Every cultivator in India received an identical tax cut and joined a national landed party
+B. Returning taluqdars met little resistance from former tenants amid locally varied over-assessment
+C. Awadh tenants drove out taluqdars when they tried to return to villages
+D. Taluqdars had never lost status under the annexation settlement
 
-### Q8. Which statement avoids a common matching trap about Santhal Hool?
+### Q11. How should the figure 110,000 acres be used in an agrarian answer?
 
-A. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-B. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-C. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-D. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
+A. Land restored to Awadh taluqdars across India in 1858
+B. Land auctioned throughout Bengal between 1857 and 1858
+C. Land auctioned in the North-Western Provinces in 1853, illustrating pre-revolt alienation
+D. Land confiscated from Delhi's Mughal family in 1856
 
-**Answer: D.**
-**Explanation:** The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Why were mahajans and baniyas vulnerable to peasant attacks in affected districts?
 
-### Q9. Which statement correctly identifies Doctrine of Lapse?
+A. They had all commanded the Bengal Army under Zafar
+B. The cartridges were manufactured exclusively by these village financiers
+C. All the lenders had annexed Awadh in 1856 through the Lapse doctrine
+D. Indebted cultivators associated lenders and their bonds with auctions and loss of land
 
-A. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-B. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-C. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-D. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
+### Q13. Which roster matches place with participant without swapping symbols and commanders?
 
-**Answer: A.**
-**Explanation:** Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Delhi: Bakht Khan in rebel leadership and Bahadur Shah Zafar as symbolic emperor
+B. Delhi: Kunwar Singh as emperor and Begum Hazrat Mahal as artillery chief
+C. Delhi: Nana Saheb as Mughal emperor and Lakshmibai as Delhi commander
+D. Delhi: Sidhu and Kanhu jointly commanded the sepoys after Meerut
 
-### Q10. Which chronology card should be filed under Doctrine of Lapse?
+### Q14. A Kanpur essay names Nana Saheb but omits his associated rebel network. Which supplement fits?
 
-A. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-B. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-C. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-D. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
+A. Kunwar Singh and Khan Bahadur Khan, the two Kanpur commanders
+B. Tantia Tope and Azimullah Khan, both associated with Kanpur
+C. Bakht Khan and Bahadur Shah Zafar, both Kanpur Peshwa claimants
+D. Sidhu and Kanhu, Kanpur's Bengal Army leaders
 
-**Answer: B.**
-**Explanation:** Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. Which pair correctly distinguishes Awadh and Jhansi's prominent women in the 1857 record?
 
-### Q11. Which option should a candidate retain when revising Doctrine of Lapse?
+A. Begum Hazrat Mahal in Jhansi and Rani Lakshmibai in Lucknow
+B. Rukhmabai in Awadh and Savitribai Phule in Jhansi
+C. Begum Hazrat Mahal in Awadh and Rani Lakshmibai in Jhansi
+D. Rani Lakshmibai in Delhi and Begum Hazrat Mahal in Bihar
 
-A. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-B. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-C. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-D. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
+### Q16. A map marks Arrah and Bareilly. Which two leaders should it place there?
 
-**Answer: C.**
-**Explanation:** Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Bakht Khan in Arrah and Kunwar Singh in Bareilly
+B. Nana Saheb in Arrah and Tantia Tope in Bareilly
+C. Bahadur Shah Zafar in Bihar and Sidhu in Bareilly
+D. Kunwar Singh in Bihar/Arrah and Khan Bahadur Khan in Bareilly
 
-### Q12. Which statement avoids a common matching trap about Doctrine of Lapse?
+### Q17. Which map most faithfully depicts the revolt's main spatial concentration?
 
-A. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-B. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-C. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-D. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
+A. Delhi, upper Doab, Awadh, Rohilkhand, Bundelkhand and parts of Bihar
+B. Madras, Bombay and the whole of southern India with no Awadh theatre
+C. Only Barrackpore and Calcutta with no rural or princely centres
+D. Every Indian princely state in equal measure after the Meerut outbreak
 
-**Answer: D.**
-**Explanation:** Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. South and west did not repeat Awadh's pattern. Which mechanism is the most defensible explanation?
 
-### Q13. Which statement correctly identifies Annexation of Awadh?
+A. The same Bengal-army recruitment and identical taluqdar dispossession prevailed everywhere
+B. Different presidency armies, settlement beneficiaries, annexation histories and older colonial-linked elites
+C. A law formally prohibited any rebellion outside the upper Doab
+D. All non-participating Indians endorsed Company rule without reservations
 
-A. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-B. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-C. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-D. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
+### Q19. Why might a mirasidar in Madras have fewer reasons to join a northern taluqdar's rebellion?
 
-**Answer: A.**
-**Explanation:** Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1856 Awadh summary settlement removed every mirasidar's holdings in Madras
+B. Every Madras army unit marched to Delhi under a single mirasidar command
+C. Local elite power was buttressed by the south's settlement rather than recently dismantled as in Awadh
+D. The mirasidars commanded the Santhal Hool in 1855-56
 
-### Q14. Which chronology card should be filed under Annexation of Awadh?
+### Q20. An officer claims Delhi's ruler personally coordinated every rebel force. What evidence-based correction is needed?
 
-A. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-B. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-C. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-D. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
+A. Zafar personally directed Kanpur, Jhansi and Awadh through the telegraph
+B. Bakht Khan was crowned emperor in place of Zafar
+C. The Delhi rebels had no symbolic political authority at any point
+D. Bahadur Shah Zafar supplied symbolic legitimacy but not a unified all-India command
 
-**Answer: B.**
-**Explanation:** Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Which reading explains a rebel-side weakness rather than a British-side advantage?
 
-### Q15. Which option should a candidate retain when revising Annexation of Awadh?
+A. Separate regional leadership and restoration-oriented claims failed to yield a common programme
+B. Railway and telegraph moved loyal forces across the empire
+C. Punjab troops and cooperating princes strengthened British ranks
+D. Imperial naval reinforcement replenished colonial military resources
 
-A. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-B. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-C. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-D. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
+### Q22. Which list is confined to advantages the British could mobilise against rebels?
 
-**Answer: C.**
-**Explanation:** Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. A unified rebel command, abundant rebel artillery and a national treasury
+B. Railways and telegraph, loyal troops and princely support, and global reinforcements
+C. A universally sympathetic peasantry in the southern presidencies
+D. A successful rebel monopoly on European artillery and imperial warships
 
-### Q16. Which statement avoids a common matching trap about Annexation of Awadh?
+### Q23. Consider a contemporary British label 'sepoy mutiny'. What does it capture and omit?
 
-A. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-D. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
+A. It correctly proves there were no civil attacks or agrarian grievances
+B. It establishes that every prince fought for the Mughal emperor
+C. It captures military origin but neglects peasant, taluqdar and princely participation in several regions
+D. It shows the sepoys began in 1858 after the Company's demise
 
-**Answer: D.**
-**Explanation:** Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. Why must 'First War of Independence' be qualified rather than used as a complete description?
 
-### Q17. Which statement correctly identifies General Service Enlistment Act?
+A. The phrase is wrong solely because nobody resisted British rule outside barracks
+B. It means the uprising had no symbols of legitimacy or shared enemies
+C. It is a verified contemporary official Company description of the 1857 campaign
+D. Anti-colonial mobilisation was real in several regions but not all-India, unified or programmatically modern nationalist
 
-A. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-B. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-C. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-D. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
+### Q25. Which account best distinguishes S.B. Chaudhuri's and Eric Stokes-type perspectives from a simple barracks narrative?
 
-**Answer: A.**
-**Explanation:** The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Civil rebellion, peasant grievance and locally variable social structures shape the meaning of the uprising
+B. Both insist the cartridges were the only cause and peasants stayed passive
+C. Both claim all of India shared a single modern democratic platform
+D. Both explain events only through Bahadur Shah's written military orders
 
-### Q18. Which chronology card should be filed under General Service Enlistment Act?
+### Q26. A response on 1857 calls every earlier rebellion a single organised liberation front. Which rebuttal meets the 2019 PYQ?
 
-A. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-B. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-C. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-D. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
+A. Because Santhal Hool was in 1855-56, it had no relevance even as a comparison
+B. Earlier local civil and tribal risings reveal recurring colonial pressures, not a continuous coordinated national insurgency
+C. The 1856 enlistment law organised all earlier Sanyasi and Kol rebellions
+D. Only military service pay, never land or forest loss, animated these earlier risings
 
-**Answer: B.**
-**Explanation:** The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. A commander blames the revolt's failure only on poor courage. What comparative explanation is stronger?
 
-### Q19. Which option should a candidate retain when revising General Service Enlistment Act?
+A. The Crown had already settled all territorial disputes before 1856
+B. Every prince backed the rebels while British troops had no Indian allies
+C. Rebel resource, command and programme deficits met British communications, alliances and reinforcements
+D. The revolt was geographically universal but lacked a final declaration
 
-A. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-D. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
+### Q28. Which constitutional shift followed rather than triggered the revolt?
 
-**Answer: C.**
-**Explanation:** The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Charter Act of 1853 founded the Mughal government at Delhi
+B. The General Service Enlistment Act of 1856 replaced the Company with the Crown
+C. The Doctrine of Lapse of 1858 elevated Bahadur Shah as Viceroy
+D. The Government of India Act 1858 ended Company rule and transferred authority to the Crown
 
-### Q20. Which statement avoids a common matching trap about General Service Enlistment Act?
+### Q29. How did British policy toward the Awadh taluqdars change after the uprising?
 
-A. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-B. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
+A. Former authority was restored as the regime sought landed collaborators
+B. Their estates were abolished nationwide by a universal tenant suffrage statute
+C. All taluqdars joined a Mughal cabinet and retained administrative control after 1858
+D. The restoration happened before the 1856 annexation and caused the revolt
 
-**Answer: D.**
-**Explanation:** The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Which military consequence is linked to the post-1857 Crown state?
 
-### Q21. Which statement correctly identifies Enfield cartridge?
+A. Complete disbandment of all Indian soldiers and abolition of artillery
+B. A higher European ratio, European control of artillery and reorganised recruitment
+C. A lower European ratio and complete Indian command over artillery
+D. Restoration of pre-1857 Bengal-army composition without a policy response
 
-A. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-B. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-C. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-D. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
+### Q31. A student claims civil participation proves a modern national political programme. Which verdict fits the sources?
 
-**Answer: A.**
-**Explanation:** The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All Indian regions rebelled under a shared parliamentary constitution
+B. Only the Enfield cartridge mattered because rebels had no civil supporters
+C. A military beginning developed popular dimensions in parts of north India yet lacked one nationwide programme
+D. Every Bengal sepoy advocated the same agrarian land reform as the taluqdars
 
-### Q22. Which chronology card should be filed under Enfield cartridge?
+### Q32. Which claim about September 1857 and the end of the revolt respects chronology?
 
-A. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-B. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-C. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-D. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
+A. All resistance ended when Mangal Pandey acted in March 1857
+B. The Government of India Act was enacted at Delhi in September 1857 after immediate victory
+C. The Delhi proclamation came after the complete suppression in 1858
+D. Delhi was retaken in September 1857 but fighting continued into 1858
 
-**Answer: B.**
-**Explanation:** The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33. When interpreting non-participation, which statement avoids falsely equating quiet regions with loyalism?
 
-### Q23. Which option should a candidate retain when revising Enfield cartridge?
+A. Neutrality could reflect calculation, local rivalries or absent immediate grievances as well as support
+B. Every southern community was actively pro-British by unanimous vote
+C. All neutral rulers were merely waiting for orders from Bahadur Shah
+D. No Indian elite anywhere assisted the British because most areas stayed quiet
 
-A. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-B. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-C. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-D. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
+### Q34. Which source-grounded explanation links the peasant, the taluqdar and the sepoy in Awadh without declaring them one class?
 
-**Answer: C.**
-**Explanation:** The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q24. Which statement avoids a common matching trap about Enfield cartridge?
-
-A. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-
-**Answer: D.**
-**Explanation:** The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q25. Which statement correctly identifies Barrackpore?
-
-A. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-D. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-
-**Answer: A.**
-**Explanation:** Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q26. Which chronology card should be filed under Barrackpore?
-
-A. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-B. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-C. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-D. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-
-**Answer: B.**
-**Explanation:** Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q27. Which option should a candidate retain when revising Barrackpore?
-
-A. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-D. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-
-**Answer: C.**
-**Explanation:** Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q28. Which statement avoids a common matching trap about Barrackpore?
-
-A. Kunwar Singh led the revolt in Bihar despite his advanced age.
-B. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.
-
-**Answer: D.**
-**Explanation:** Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q29. Which statement correctly identifies Meerut outbreak?
-
-A. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-
-**Answer: A.**
-**Explanation:** The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q30. Which chronology card should be filed under Meerut outbreak?
-
-A. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-B. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-
-**Answer: B.**
-**Explanation:** The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q31. Which option should a candidate retain when revising Meerut outbreak?
-
-A. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-B. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-C. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-D. Kunwar Singh led the revolt in Bihar despite his advanced age.
-
-**Answer: C.**
-**Explanation:** The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q32. Which statement avoids a common matching trap about Meerut outbreak?
-
-A. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-B. Kunwar Singh led the revolt in Bihar despite his advanced age.
-C. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-D. The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.
-
-**Answer: D.**
-**Explanation:** The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q33. Which statement correctly identifies Delhi centre?
-
-A. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-
-**Answer: A.**
-**Explanation:** Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q34. Which chronology card should be filed under Delhi centre?
-
-A. Kunwar Singh led the revolt in Bihar despite his advanced age.
-B. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-C. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-D. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-
-**Answer: B.**
-**Explanation:** Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q35. Which option should a candidate retain when revising Delhi centre?
-
-A. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-B. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-C. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-D. Kunwar Singh led the revolt in Bihar despite his advanced age.
-
-**Answer: C.**
-**Explanation:** Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Delhi centre?
-
-A. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-B. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-C. Kunwar Singh led the revolt in Bihar despite his advanced age.
-D. Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.
-
-**Answer: D.**
-**Explanation:** Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies Kanpur leadership?
-
-A. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-B. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-C. Kunwar Singh led the revolt in Bihar despite his advanced age.
-D. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-
-**Answer: A.**
-**Explanation:** Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under Kanpur leadership?
-
-A. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-B. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-C. Kunwar Singh led the revolt in Bihar despite his advanced age.
-D. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-
-**Answer: B.**
-**Explanation:** Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising Kanpur leadership?
-
-A. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-B. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-C. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-D. Kunwar Singh led the revolt in Bihar despite his advanced age.
-
-**Answer: C.**
-**Explanation:** Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about Kanpur leadership?
-
-A. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-B. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.
-
-**Answer: D.**
-**Explanation:** Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Awadh leadership?
-
-A. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-B. Kunwar Singh led the revolt in Bihar despite his advanced age.
-C. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-D. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-
-**Answer: A.**
-**Explanation:** Begum Hazrat Mahal became a major political leader of resistance in Awadh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Awadh leadership?
-
-A. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-B. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-C. Kunwar Singh led the revolt in Bihar despite his advanced age.
-D. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-
-**Answer: B.**
-**Explanation:** Begum Hazrat Mahal became a major political leader of resistance in Awadh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Awadh leadership?
-
-A. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-B. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-C. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-D. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-
-**Answer: C.**
-**Explanation:** Begum Hazrat Mahal became a major political leader of resistance in Awadh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Awadh leadership?
-
-A. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-B. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-C. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-D. Begum Hazrat Mahal became a major political leader of resistance in Awadh.
-
-**Answer: D.**
-**Explanation:** Begum Hazrat Mahal became a major political leader of resistance in Awadh. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Jhansi leadership?
-
-A. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-B. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-C. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-D. Kunwar Singh led the revolt in Bihar despite his advanced age.
-
-**Answer: A.**
-**Explanation:** Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Jhansi leadership?
-
-A. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-B. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-
-**Answer: B.**
-**Explanation:** Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Jhansi leadership?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-C. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-D. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-
-**Answer: C.**
-**Explanation:** Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Jhansi leadership?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.
-
-**Answer: D.**
-**Explanation:** Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Bihar leadership?
-
-A. Kunwar Singh led the revolt in Bihar despite his advanced age.
-B. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-C. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-D. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-
-**Answer: A.**
-**Explanation:** Kunwar Singh led the revolt in Bihar despite his advanced age. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Bihar leadership?
-
-A. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-B. Kunwar Singh led the revolt in Bihar despite his advanced age.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-
-**Answer: B.**
-**Explanation:** Kunwar Singh led the revolt in Bihar despite his advanced age. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Bihar leadership?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. Kunwar Singh led the revolt in Bihar despite his advanced age.
-D. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-
-**Answer: C.**
-**Explanation:** Kunwar Singh led the revolt in Bihar despite his advanced age. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Bihar leadership?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-C. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-D. Kunwar Singh led the revolt in Bihar despite his advanced age.
-
-**Answer: D.**
-**Explanation:** Kunwar Singh led the revolt in Bihar despite his advanced age. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Bareilly leadership?
-
-A. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-B. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-
-**Answer: A.**
-**Explanation:** Khan Bahadur Khan is associated with rebel leadership at Bareilly. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Bareilly leadership?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-C. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-D. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-
-**Answer: B.**
-**Explanation:** Khan Bahadur Khan is associated with rebel leadership at Bareilly. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Bareilly leadership?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-D. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-
-**Answer: C.**
-**Explanation:** Khan Bahadur Khan is associated with rebel leadership at Bareilly. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Bareilly leadership?
-
-A. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-D. Khan Bahadur Khan is associated with rebel leadership at Bareilly.
-
-**Answer: D.**
-**Explanation:** Khan Bahadur Khan is associated with rebel leadership at Bareilly. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Awadh taluqdars?
-
-A. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-
-**Answer: A.**
-**Explanation:** British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Awadh taluqdars?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-C. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-D. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-
-**Answer: B.**
-**Explanation:** British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Awadh taluqdars?
-
-A. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-B. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-C. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: C.**
-**Explanation:** British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Awadh taluqdars?
-
-A. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-B. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-C. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-D. British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration.
-
-**Answer: D.**
-**Explanation:** British settlement displaced Awadh taluqdars before the revolt, and the post-revolt state restored their authority to secure collaboration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies North-Western Provinces auctions?
-
-A. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-B. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-C. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-D. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-
-**Answer: A.**
-**Explanation:** The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under North-Western Provinces auctions?
-
-A. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-B. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-C. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: B.**
-**Explanation:** The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising North-Western Provinces auctions?
-
-A. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-B. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-C. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: C.**
-**Explanation:** The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about North-Western Provinces auctions?
-
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-C. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-D. The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession.
-
-**Answer: D.**
-**Explanation:** The source records 110,000 acres auctioned in the North-Western Provinces in 1853 as a bounded index of agrarian dispossession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Uneven geography?
-
-A. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: A.**
-**Explanation:** The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Uneven geography?
-
-A. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-B. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-C. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-D. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-
-**Answer: B.**
-**Explanation:** The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Uneven geography?
-
-A. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-B. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-C. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-D. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-
-**Answer: C.**
-**Explanation:** The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Uneven geography?
-
-A. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-B. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-C. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-D. The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join.
-
-**Answer: D.**
-**Explanation:** The revolt concentrated in north and central India while south India, much of Punjab and many western regions did not join. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies British advantages?
-
-A. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-B. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-C. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: A.**
-**Explanation:** British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under British advantages?
-
-A. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-B. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-C. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-D. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-
-**Answer: B.**
-**Explanation:** British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising British advantages?
-
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-C. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-D. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-
-**Answer: C.**
-**Explanation:** British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about British advantages?
-
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-C. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-D. British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command.
-
-**Answer: D.**
-**Explanation:** British communications, reinforcements, resources, loyal rulers and loyal Indian troops outweighed fragmented rebel command. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Composite character?
-
-A. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-B. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-C. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: A.**
-**Explanation:** The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Composite character?
-
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-C. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-D. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-
-**Answer: B.**
-**Explanation:** The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Composite character?
-
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-C. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-D. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-
-**Answer: C.**
-**Explanation:** The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Composite character?
-
-A. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-B. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-C. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-D. The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions.
-
-**Answer: D.**
-**Explanation:** The most defensible description is a sepoy mutiny in origin that became a wider civil and popular revolt in several regions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Government of India Act 1858?
-
-A. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-B. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-C. Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy.
-D. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-
-**Answer: A.**
-**Explanation:** The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Government of India Act 1858?
-
-A. The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising.
-B. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-C. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-D. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-
-**Answer: B.**
-**Explanation:** The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Government of India Act 1858?
-
-A. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-B. Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.
-C. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-D. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-
-**Answer: C.**
-**Explanation:** The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Government of India Act 1858?
-
-A. The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause.
-B. Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of Lapse.
-C. The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice.
-D. The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown.
-
-**Answer: D.**
-**Explanation:** The Government of India Act 1858 ended Company rule and transferred authority directly to the Crown. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Each group fought exclusively to restore the Doctrine of Lapse
+B. Debt or over-assessment, loss of landed authority and regional recruitment brought distinct grievances together
+C. They were three names for the same Bengal Army rank after the 1856 Act
+D. Only cartridge grease mattered, and each group's interest was identical
+
+### Q35. How should 1857's later nationalist memory be evaluated alongside its original political goals?
+
+A. The later memory proves every 1857 leader wanted twentieth-century mass suffrage
+B. Because several rulers were neutral, no later political memory of resistance could develop
+C. Later anti-colonial memory mattered even though many contemporaries sought restoration of older authorities
+D. The revolt secured Indian independence in 1858 but the Crown reversed it
+
+### Q36. Which comparison best resists the claim that the 1857 uprising was a uniform revolt against one economic policy?
+
+A. Taluqdars, peasants and sepoys all joined because Bethune School opposed their wages
+B. All regions experienced the exact 1853 NWP auction figure and identical land tenure
+C. No landholder ever entered the rebellion and all soldiers were moneylenders
+D. Awadh taluqdars resisted lost authority, NWP peasants experienced alienation, and sepoys contested service practices
+
+### Q37. The Doctrine of Lapse sharpened resentment in which pre-1857 policy setting?
+
+A. Dalhousie-era annexations displaced ruling houses, distinct from the misgovernment rationale in Awadh
+B. A post-1858 programme gave all princes unrestricted succession and new territory
+C. An army drill under Mangal Pandey required recruits to sail overseas
+D. The 1853 NWP auction statute immediately annexed Awadh by inheritance
+
+### Q38. Which grievance explains the earlier Santhal Hool without absorbing it into the sepoy revolt?
+
+A. The requirement that all Santhal leaders join the Viceroy's artillery after 1858
+B. Pressure from dikus or outsiders on Santhal customary authority and livelihoods in 1855-56
+C. A command by Bahadur Shah Zafar to mobilise Bengal Army cantonments in 1855
+D. The post-revolt restoration of Awadh taluqdar rights under the Crown
+
+### Q39. A Bihar-centre question mentions a veteran rebel despite his advanced age. Who is meant?
+
+A. Khan Bahadur Khan, associated with Bareilly
+B. Bakht Khan, rebel commander associated with Delhi
+C. Kunwar Singh, associated with the Arrah/Bihar theatre
+D. Nana Saheb, prominent in Kanpur
+
+### Separate answer key: option-by-option reasoning
+
+**Q1 — A.**
+- **A:** The later Meerut rising became the major outbreak.
+- **B:** His March incident was at Barrackpore, not Meerut.
+- **C:** He became a symbolic head after the sepoys' arrival.
+- **D:** Delhi was recaptured months later in September.
+- **Trap:** Distinguish “Sepoys rose at Meerut on 10 May 1857 and proceeded to…” from “Mangal Pandey acted at Meerut on 29 March 1857 before marching…”: His March incident was at Barrackpore, not Meerut.
+
+**Q2 — B.**
+- **A:** The two places' roles are reversed.
+- **B:** Location of initiation differs from location of legitimisation.
+- **C:** The Mughal court was in Delhi.
+- **D:** The May outbreak was at Meerut and Delhi mattered centrally.
+- **Trap:** Distinguish “Meerut was the outbreak site, while Delhi under Bahadur Shah Zafar…” from “Barrackpore was the capital ruled by Bahadur Shah during the revolt”: The Mughal court was in Delhi.
+
+**Q3 — C.**
+- **A:** The stated annexation ground was alleged misgovernment.
+- **B:** The policy preceded the revolt.
+- **C:** Political grievance is real but the legal mechanism differs.
+- **D:** This reverses the actors and invents a mechanism.
+- **Trap:** Distinguish “Awadh was annexed in 1856 for alleged misgovernment, not under the…” from “Awadh annexed the British Company in 1857 under an adoption provision”: This reverses the actors and invents a mechanism.
+
+**Q4 — D.**
+- **A:** The 1858 Act transferred sovereignty after the revolt.
+- **B:** That statute concerns social legislation decades later.
+- **C:** Lapse was an annexation doctrine, not a ration rule.
+- **D:** This was a military concern preceding the trigger.
+- **Trap:** Distinguish “The General Service Enlistment Act of 1856 alongside pay and status…” from “The Government of India Act of 1858 granting sea-service exemptions”: The 1858 Act transferred sovereignty after the revolt.
+
+**Q5 — A.**
+- **A:** A trigger is not an exhaustive explanation of convergence.
+- **B:** The annexation and agrarian pressures predated the rumour.
+- **C:** Cartridge anxieties were part of the immediate 1857 context.
+- **D:** The revolt was regionally uneven.
+- **Trap:** Distinguish “Rumours of cow and pig fat ignited pre-existing political, agrarian, religious…” from “Cartridges explain Awadh's 1856 annexation and all earlier land alienation”: The annexation and agrarian pressures predated the rumour.
+
+**Q6 — B.**
+- **A:** The tribal revolt was not a sepoy phase.
+- **B:** Continuity of pressures does not imply organisational continuity.
+- **C:** It predates both the 1857 outbreak and Crown rule.
+- **D:** They led the Santhal uprising, not Delhi's sepoys.
+- **Trap:** Distinguish “Sidhu and Kanhu's 1855-56 Hool demonstrates recurrent resistance but remained a…” from “The Hool began after the Crown transfer to protest the 1858…”: It predates both the 1857 outbreak and Crown rule.
+
+**Q7 — C.**
+- **A:** They occurred separately and before his symbolic role.
+- **B:** These were civil or tribal risings across different contexts.
+- **C:** Prior rebellions help explain grievances, not a common plot.
+- **D:** Their existence defeats that negative assertion.
+- **Trap:** Distinguish “As local, recurrent resistance to intrusive colonial rule without a single…” from “As proof that there were no protests before the cartridge episode”: Their existence defeats that negative assertion.
+
+**Q8 — D.**
+- **A:** Restoration was a post-revolt policy development.
+- **B:** The summary settlement damaged taluqdar authority.
+- **C:** Both the army linkage and agrarian grievance mattered.
+- **D:** Political and social losses intersected with military networks.
+- **Trap:** Distinguish “Annexation unsettled rulers, taluqdars, court dependants and peasants, while Bengal Army…” from “Awadh's taluqdars had been restored before annexation and faced no grievance”: Restoration was a post-revolt policy development.
+
+**Q9 — A.**
+- **A:** This follows grievance, participation and conciliation without claiming the provisional key is official.
+- **B:** The source describes erosion then restoration, not that reverse sequence.
+- **C:** No such franchise mechanism is present.
+- **D:** A provisional key is not official and Awadh evidence is regional.
+- **Trap:** Distinguish “The post-annexation summary settlement eroded taluqdar authority, and after the revolt…” from “The Company expanded taluqdar estates in 1856 and confiscated them uniformly…”: The source describes erosion then restoration, not that reverse sequence.
+
+**Q10 — B.**
+- **A:** Neither a uniform tax cut nor such a party is supported.
+- **B:** Regional convergence does not prove all peasants everywhere agreed.
+- **C:** The cited source stresses little tenant resistance.
+- **D:** Loss of status is central to their grievance.
+- **Trap:** Distinguish “Returning taluqdars met little resistance from former tenants amid locally varied…” from “Awadh tenants drove out taluqdars when they tried to return to…”: The cited source stresses little tenant resistance.
+
+**Q11 — C.**
+- **A:** The figure is neither a restoration statistic nor all-India.
+- **B:** The place and interval are wrong.
+- **C:** Both the location and year bound the measurement.
+- **D:** The cited number concerns NWP auctions, not palace estates.
+- **Trap:** Distinguish “Land auctioned in the North-Western Provinces in 1853, illustrating pre-revolt alienation” from “Land confiscated from Delhi's Mughal family in 1856”: The cited number concerns NWP auctions, not palace estates.
+
+**Q12 — D.**
+- **A:** Moneylenders were not the Mughal's sepoy command.
+- **B:** The causal mechanism is debt and property, not cartridge production.
+- **C:** Annexation was British state action, not merchants' policy.
+- **D:** Targets illuminate agrarian dimensions of civil rebellion.
+- **Trap:** Distinguish “Indebted cultivators associated lenders and their bonds with auctions and loss…” from “They had all commanded the Bengal Army under Zafar”: Moneylenders were not the Mughal's sepoy command.
+
+**Q13 — A.**
+- **A:** Delhi combines a military organiser with Mughal legitimacy.
+- **B:** Kunwar Singh is linked to Bihar, Begum to Awadh.
+- **C:** These belong to Kanpur and Jhansi respectively.
+- **D:** Their uprising was the earlier Santhal Hool.
+- **Trap:** Distinguish “Delhi: Bakht Khan in rebel leadership and Bahadur Shah Zafar as…” from “Delhi: Kunwar Singh as emperor and Begum Hazrat Mahal as artillery…”: Kunwar Singh is linked to Bihar, Begum to Awadh.
+
+**Q14 — B.**
+- **A:** They belong to Bihar and Bareilly respectively.
+- **B:** These names complete the Kanpur group.
+- **C:** Their military and symbolic roles were at Delhi.
+- **D:** Their 1855-56 Santhal uprising was separate.
+- **Trap:** Distinguish “Tantia Tope and Azimullah Khan, both associated with Kanpur” from “Bakht Khan and Bahadur Shah Zafar, both Kanpur Peshwa claimants”: Their military and symbolic roles were at Delhi.
+
+**Q15 — C.**
+- **A:** Their regions are swapped.
+- **B:** Those women's agency belongs to other reform contexts.
+- **C:** Both are region-specific leaders of resistance.
+- **D:** Neither pairing matches their major centres.
+- **Trap:** Distinguish “Begum Hazrat Mahal in Awadh and Rani Lakshmibai in Jhansi” from “Rani Lakshmibai in Delhi and Begum Hazrat Mahal in Bihar”: Neither pairing matches their major centres.
+
+**Q16 — D.**
+- **A:** Bakht Khan is associated with Delhi and Kunwar Singh with Bihar.
+- **B:** Both figures belong to the Kanpur rebel network.
+- **C:** The symbolic emperor was in Delhi and Sidhu led a prior tribal rising.
+- **D:** Both place-name associations are source backed.
+- **Trap:** Distinguish “Kunwar Singh in Bihar/Arrah and Khan Bahadur Khan in Bareilly” from “Bakht Khan in Arrah and Kunwar Singh in Bareilly”: Bakht Khan is associated with Delhi and Kunwar Singh with Bihar.
+
+**Q17 — A.**
+- **A:** It reflects the northern and central concentration.
+- **B:** The southern presidencies largely remained outside.
+- **C:** Civil participation and multiple northern centres refute this.
+- **D:** Many rulers were neutral or British allies.
+- **Trap:** Distinguish “Delhi, upper Doab, Awadh, Rohilkhand, Bundelkhand and parts of Bihar” from “Madras, Bombay and the whole of southern India with no Awadh…”: The southern presidencies largely remained outside.
+
+**Q18 — B.**
+- **A:** The conditions were not uniformly present.
+- **B:** Several distinct regional variables explain uneven spread.
+- **C:** No such legal explanation is in the source.
+- **D:** Silence or calculation is not always positive loyalty.
+- **Trap:** Distinguish “Different presidency armies, settlement beneficiaries, annexation histories and older colonial-linked elites” from “A law formally prohibited any rebellion outside the upper Doab”: No such legal explanation is in the source.
+
+**Q19 — C.**
+- **A:** Awadh's settlement was not a Madras-wide measure.
+- **B:** The southern presidency army did not rise on that pattern.
+- **C:** Contrasting settlement outcomes shape incentives.
+- **D:** The Hool was an eastern tribal revolt led by Sidhu and Kanhu.
+- **Trap:** Distinguish “Local elite power was buttressed by the south's settlement rather than…” from “The mirasidars commanded the Santhal Hool in 1855-56”: The Hool was an eastern tribal revolt led by Sidhu and Kanhu.
+
+**Q20 — D.**
+- **A:** The sources do not support that assertion.
+- **B:** Bakht Khan was linked to command, not the Mughal title.
+- **C:** The proclamation of Zafar directly contradicts this.
+- **D:** Political symbolism is not operational control.
+- **Trap:** Distinguish “Bahadur Shah Zafar supplied symbolic legitimacy but not a unified all-India…” from “Zafar personally directed Kanpur, Jhansi and Awadh through the telegraph”: The sources do not support that assertion.
+
+**Q21 — A.**
+- **A:** Political fragmentation hindered coordination.
+- **B:** These were British communications advantages.
+- **C:** These were British allies, not rebel deficits.
+- **D:** This was a British logistical asset.
+- **Trap:** Distinguish “Separate regional leadership and restoration-oriented claims failed to yield a common…” from “Railway and telegraph moved loyal forces across the empire”: These were British communications advantages.
+
+**Q22 — B.**
+- **A:** The rebels lacked unified resources and institutions.
+- **B:** Communications, allies and resources amplified imperial strength.
+- **C:** Participation did not extend uniformly across the south.
+- **D:** The British held the decisive equipment and overseas supply.
+- **Trap:** Distinguish “Railways and telegraph, loyal troops and princely support, and global reinforcements” from “A universally sympathetic peasantry in the southern presidencies”: Participation did not extend uniformly across the south.
+
+**Q23 — C.**
+- **A:** Land auctions and Awadh's uprising contradict that.
+- **B:** Many princes supported or did not oppose the British.
+- **C:** Origin and later social scope must be considered separately.
+- **D:** The uprising preceded the 1858 transfer.
+- **Trap:** Distinguish “It captures military origin but neglects peasant, taluqdar and princely participation…” from “It shows the sepoys began in 1858 after the Company's demise”: The uprising preceded the 1858 transfer.
+
+**Q24 — D.**
+- **A:** Civil and agrarian resistance are documented.
+- **B:** Delhi's Mughal symbol and anti-British grievances contradict that.
+- **C:** It belongs to later nationalist interpretation, not official Company labelling.
+- **D:** The later nationalist reading should be weighed against geography and ideology.
+- **Trap:** Distinguish “Anti-colonial mobilisation was real in several regions but not all-India, unified…” from “The phrase is wrong solely because nobody resisted British rule outside…”: Civil and agrarian resistance are documented.
+
+**Q25 — A.**
+- **A:** Social-history analysis tests evidence region by region.
+- **B:** Their approaches foreground social participation.
+- **C:** Such uniform ideology is not supported.
+- **D:** Their lens is local social relations, not a single Mughal command.
+- **Trap:** Distinguish “Civil rebellion, peasant grievance and locally variable social structures shape the…” from “Both insist the cartridges were the only cause and peasants stayed…”: Their approaches foreground social participation.
+
+**Q26 — B.**
+- **A:** Its pressures make it relevant while its organisation remains distinct.
+- **B:** Structural recurrence differs from organisational identity.
+- **C:** The chronology makes that impossible.
+- **D:** Civil and tribal grievances were broader than pay.
+- **Trap:** Distinguish “Earlier local civil and tribal risings reveal recurring colonial pressures, not…” from “The 1856 enlistment law organised all earlier Sanyasi and Kol rebellions”: The chronology makes that impossible.
+
+**Q27 — C.**
+- **A:** Awadh's annexation and other grievances refute that.
+- **B:** The alliance structure was not uniform and benefited the British.
+- **C:** Both sides' asymmetries help explain defeat.
+- **D:** Its spread was regionally bounded.
+- **Trap:** Distinguish “Rebel resource, command and programme deficits met British communications, alliances and…” from “The revolt was geographically universal but lacked a final declaration”: Its spread was regionally bounded.
+
+**Q28 — D.**
+- **A:** It did not create rebel sovereignty.
+- **B:** That Act belongs to military grievance, not Crown transfer.
+- **C:** Neither the date nor the office fits the historical shift.
+- **D:** An outcome of suppression is distinct from the cause of 1857.
+- **Trap:** Distinguish “The Government of India Act 1858 ended Company rule and transferred…” from “The Charter Act of 1853 founded the Mughal government at Delhi”: It did not create rebel sovereignty.
+
+**Q29 — A.**
+- **A:** The change reverses pre-revolt dispossession in that region.
+- **B:** Neither the region nor this supposed statute is supported.
+- **C:** The Crown, not a Mughal cabinet, ruled afterward.
+- **D:** The before-and-after sequence is reversed.
+- **Trap:** Distinguish “Former authority was restored as the regime sought landed collaborators” from “Their estates were abolished nationwide by a universal tenant suffrage statute”: Neither the region nor this supposed statute is supported.
+
+**Q30 — B.**
+- **A:** The record supports restructuring, not those absolutes.
+- **B:** The military apparatus was deliberately reshaped after the rebellion.
+- **C:** This reverses the direction of change.
+- **D:** Army reorganisation was a major consequence.
+- **Trap:** Distinguish “A higher European ratio, European control of artillery and reorganised recruitment” from “A lower European ratio and complete Indian command over artillery”: This reverses the direction of change.
+
+**Q31 — C.**
+- **A:** Neither nationwide spread nor a constitution is evidenced.
+- **B:** Awadh and NWP agrarian evidence disproves the claim.
+- **C:** Participation need not entail modern national unity.
+- **D:** Their interests and restoration claims were not identical.
+- **Trap:** Distinguish “A military beginning developed popular dimensions in parts of north India…” from “Every Bengal sepoy advocated the same agrarian land reform as the…”: Their interests and restoration claims were not identical.
+
+**Q32 — D.**
+- **A:** The major uprising had not yet begun.
+- **B:** The Crown-transfer Act dates to 1858.
+- **C:** The Mughal symbol arose during the outbreak in May 1857.
+- **D:** Recapture of one centre was not simultaneous suppression everywhere.
+- **Trap:** Distinguish “Delhi was retaken in September 1857 but fighting continued into 1858” from “All resistance ended when Mangal Pandey acted in March 1857”: The major uprising had not yet begun.
+
+**Q33 — A.**
+- **A:** Not joining rebels is not the same as endorsing the Raj.
+- **B:** The sources provide no such evidence.
+- **C:** No unified command supports the claim.
+- **D:** Princes and other elites did provide support or neutrality.
+- **Trap:** Distinguish “Neutrality could reflect calculation, local rivalries or absent immediate grievances as…” from “Every southern community was actively pro-British by unanimous vote”: The sources provide no such evidence.
+
+**Q34 — B.**
+- **A:** Lapse concerned annexation, not every social grievance.
+- **B:** Convergence of interests does not erase differences.
+- **C:** The three refer to different social and military locations.
+- **D:** Civil and agrarian grievances have separate mechanisms.
+- **Trap:** Distinguish “Debt or over-assessment, loss of landed authority and regional recruitment brought…” from “They were three names for the same Bengal Army rank after…”: The three refer to different social and military locations.
+
+**Q35 — C.**
+- **A:** That imposes later objectives on earlier actors.
+- **B:** Regional limits do not preclude memory.
+- **C:** Historical legacy and original programme are different questions.
+- **D:** It was suppressed and Crown rule commenced.
+- **Trap:** Distinguish “Later anti-colonial memory mattered even though many contemporaries sought restoration of…” from “The revolt secured Indian independence in 1858 but the Crown reversed…”: It was suppressed and Crown rule commenced.
+
+**Q36 — D.**
+- **A:** The school is irrelevant to these different grievances.
+- **B:** A province-specific figure cannot be universalised.
+- **C:** Both halves contradict the documented participation.
+- **D:** Multiple local mechanisms converged against British rule.
+- **Trap:** Distinguish “Awadh taluqdars resisted lost authority, NWP peasants experienced alienation, and sepoys…” from “Taluqdars, peasants and sepoys all joined because Bethune School opposed their…”: The school is irrelevant to these different grievances.
+
+**Q37 — A.**
+- **A:** A named policy and a differently justified annexation should not be merged.
+- **B:** The post-revolt settlement leaned toward conciliation, not that supposed right.
+- **C:** The overseas-service concern belongs to the 1856 enlistment law.
+- **D:** Awadh was annexed in 1856 on alleged misgovernment.
+- **Trap:** Distinguish “Dalhousie-era annexations displaced ruling houses, distinct from the misgovernment rationale in…” from “A post-1858 programme gave all princes unrestricted succession and new territory”: The post-revolt settlement leaned toward conciliation, not that supposed right.
+
+**Q38 — B.**
+- **A:** The Hool predates the Viceroy and had no such army requirement.
+- **B:** Sidhu and Kanhu led a tribal rebellion with its own social causes.
+- **C:** The Mughal symbolic leadership pertains to the later 1857 outbreak.
+- **D:** That regional policy followed suppression of 1857.
+- **Trap:** Distinguish “Pressure from dikus or outsiders on Santhal customary authority and livelihoods…” from “A command by Bahadur Shah Zafar to mobilise Bengal Army cantonments…”: The Mughal symbolic leadership pertains to the later 1857 outbreak.
+
+**Q39 — C.**
+- **A:** Bareilly rather than Arrah identifies this leader.
+- **B:** Delhi rather than Bihar is his associated centre.
+- **C:** Both his region and advanced age distinguish the reference.
+- **D:** Kanpur is his rebel centre, not Arrah.
+- **Trap:** Distinguish “Kunwar Singh, associated with the Arrah/Bihar theatre” from “Nana Saheb, prominent in Kanpur”: Kanpur is his rebel centre, not Arrah.
 
 ### Semantic-completeness coverage drills — Modern Topic 11
 

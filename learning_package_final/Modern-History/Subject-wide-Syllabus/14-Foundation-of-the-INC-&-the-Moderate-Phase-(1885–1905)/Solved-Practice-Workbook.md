@@ -6,806 +6,731 @@ topic_key: modern-indian-history-14
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies British Indian Association?
+All questions are presented before the separate answer-and-remediation key. Historical claims follow the canonical Basic and Advanced topic owners; analytical deductions are identified in their explanations.
 
-A. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-B. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-C. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+### Q1. Arrange these pre-Congress milestones: Bengal British Indian Association, London East India Association, Poona Sarvajanik Sabha, Indian Association.
 
-**Answer: A.**
-**Explanation:** The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. British Indian Association → East India Association → Poona Sarvajanik Sabha → Indian Association
+B. East India Association → British Indian Association → Indian Association → Poona Sarvajanik Sabha
+C. Poona Sarvajanik Sabha → East India Association → British Indian Association → Indian Association
+D. Indian Association → British Indian Association → East India Association → Poona Sarvajanik Sabha
 
-### Q2. Which chronology card should be filed under British Indian Association?
+### Q2. Which leader–association–location triple is accurate for the 1866 initiative?
 
-A. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-B. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+A. Surendranath Banerjea—East India Association—Poona
+B. Dadabhai Naoroji—East India Association—London
+C. Ananda Mohan Bose—Poona Sarvajanik Sabha—London
+D. W.C. Bonnerjee—British Indian Association—Bombay
 
-**Answer: B.**
-**Explanation:** The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. A source describes Banerjea and Ananda Mohan Bose broadening political mobilisation. Identify their organisation.
 
-### Q3. Which option should a candidate retain when revising British Indian Association?
+A. The East India Association, established in London
+B. The Poona Sarvajanik Sabha, a western-India forum
+C. The Indian Association, established in 1876
+D. The British Indian Association in Bengal
 
-A. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-B. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-C. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-D. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
+### Q4. Which pairing correctly identifies the first Congress session without treating its organiser as its president?
 
-**Answer: C.**
-**Explanation:** The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Calcutta; A.O. Hume as president; Bonnerjee as organiser
+B. Bombay; Dadabhai Naoroji as president; Gokhale as organiser
+C. Poona; Pherozeshah Mehta as president; Hume as organiser
+D. Bombay; W.C. Bonnerjee as president; A.O. Hume as organiser
 
-### Q4. Which statement avoids a common matching trap about British Indian Association?
+### Q5. What does the verified count of seventy-two attach to in the Congress foundation account?
 
-A. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-B. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
+A. Delegates at the first INC session in Bombay
+B. Annual subscribers to Naoroji's East India Association
+C. Seats created by the Indian Councils Act of 1892
+D. Provincial associations affiliated to the Indian Association
 
-**Answer: D.**
-**Explanation:** The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Which reasoning best rebuts the claim that Hume's involvement proves Indian nationalism was invented by the Raj?
 
-### Q5. Which statement correctly identifies East India Association?
+A. Hume held no role whatever in the 1885 Congress
+B. Indian associations and grievances preceded Hume's facilitation of the all-India Congress
+C. The first Congress meeting created all earlier provincial associations retrospectively
+D. The safety-valve theory is an authenticated official policy document
 
-A. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-B. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+### Q7. How should the safety-valve interpretation be used in an evidence-conscious answer?
 
-**Answer: A.**
-**Explanation:** Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. State that a secret official order conclusively established the Congress as a safety valve
+B. Dismiss the presence of A.O. Hume as a factual invention
+C. Treat it as a disputed explanation and test it against pre-1885 Indian political organisation
+D. Assume that Indian leaders had no agency because Hume was British
 
-### Q6. Which chronology card should be filed under East India Association?
+### Q8. Which chronological route explains the rise of the all-India platform without inventing an overnight mass party?
 
-A. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-B. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-C. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+A. Universal adult membership → 1885 Congress → formation of provincial associations
+B. 1892 responsible government → Poona Sabha → 1885 Congress
+C. Swadeshi boycott → founding of East India Association → first Congress
+D. Provincial associations → trained political networks → 1885 Congress → annual national discussion
 
-**Answer: B.**
-**Explanation:** Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. A petition criticises British Indian military expenditure and the transfer of resources abroad. Which school of politics does this exemplify?
 
-### Q7. Which option should a candidate retain when revising East India Association?
+A. Moderate economic nationalism linking fiscal choices and the drain to colonial poverty
+B. An exclusive demand for immediate armed insurrection by the 1885 Congress
+C. An argument that Indian poverty had no relation to colonial policies
+D. A claim that the state already answered to an elected Indian cabinet
 
-A. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-B. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-C. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-D. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
+### Q10. Which proposition captures Dadabhai Naoroji's drain critique without attaching an invented total?
 
-**Answer: C.**
-**Explanation:** Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Every colonial transfer was voluntarily financed by elected Indian ministers
+B. Unrequited transfers under colonial rule were linked analytically to Indian poverty
+C. The drain began only after militant Swadeshi politics
+D. The drain thesis held British military expenditure entirely outside Indian revenue
 
-### Q8. Which statement avoids a common matching trap about East India Association?
+### Q11. Why does pairing Naoroji with R.C. Dutt improve a Mains discussion of Moderate economics?
 
-A. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-B. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-C. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-D. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
+A. It proves both founded the East India Association together
+B. It demonstrates Moderates confined criticism to a single civil-liberty petition
+C. It connects the drain argument with wider economic-history critique of colonial policy
+D. It shows the economic indictment was devised only after the Bengal partition
 
-**Answer: D.**
-**Explanation:** Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which combination reflects the administrative reform Moderates sought, rather than a concession already achieved?
 
-### Q9. Which statement correctly identifies Poona Sarvajanik Sabha?
+A. Immediate transfer of every service post to a Congress government
+B. Civil-service examinations solely in Britain with no Indian venue
+C. End of all council discussion in favour of executive appointments
+D. Indianisation of higher services and simultaneous ICS examinations in India and Britain
 
-A. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-B. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+### Q13. Which account of constitutional method avoids confusing it with mass non-cooperation?
 
-**Answer: A.**
-**Explanation:** The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Petitions, resolutions, press, meetings, deputations and council criticism
+B. Nationwide civil disobedience as the Congress's standard technique in the 1880s
+C. Refusal to address British public opinion under any circumstances
+D. Rejection of all political associations before the Congress was founded
 
-### Q10. Which chronology card should be filed under Poona Sarvajanik Sabha?
+### Q14. What did Moderates seek from representative councils that goes beyond a ceremonial gathering?
 
-A. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-B. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
+A. The immediate abolition of all councils in favour of appointed district officers
+B. Expanded membership, an elective principle, questions and budget scrutiny
+C. An elected majority and full cabinet responsibility already established in 1892
+D. Exclusive discussion of foreign affairs with no administrative or financial scrutiny
 
-**Answer: B.**
-**Explanation:** The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. What is the most accurate reading of the Indian Councils Act of 1892?
 
-### Q11. Which option should a candidate retain when revising Poona Sarvajanik Sabha?
+A. It gave elected Indian ministers control of the colonial cabinet and budget
+B. It was the first constitutional act enacted before the 1885 Congress
+C. It enlarged councils and allowed limited budget discussion and questions without responsible government
+D. It abolished demands for more representation by granting universal suffrage
 
-A. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-B. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-C. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+### Q16. A candidate writes that permission to discuss the budget meant power to decide expenditure. What distinction is necessary?
 
-**Answer: C.**
-**Explanation:** The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Budget debate was prohibited by the 1892 Act altogether
+B. The Act made every Indian expenditure subject to an Indian elected cabinet
+C. The Act replaced all councils with the Welby Commission
+D. Discussion and questioning under the 1892 Act did not confer control over the budget
 
-### Q12. Which statement avoids a common matching trap about Poona Sarvajanik Sabha?
+### Q17. Which demand treats civil liberties as part of nationalist organisation rather than a mere social preference?
 
-A. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-B. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-C. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-D. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
+A. Freedom of speech, press and association enabled criticism and political coordination
+B. An official ban on Indian newspapers to guarantee national unity
+C. Restriction of public meetings to prevent regional associations
+D. Suppression of council criticism in order to defend representative politics
 
-**Answer: D.**
-**Explanation:** The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. What historical role can the Welby Commission debate support without exaggerating constitutional success?
 
-### Q13. Which statement correctly identifies Indian Association?
+A. It converted every Congress demand into binding elected government
+B. It gave Indian financial criticism an official forum but did not transfer budgetary power
+C. It founded the Indian Association before Banerjea and Bose
+D. It replaced the need for Naoroji's economic critique
 
-A. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-B. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-C. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-D. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
+### Q19. Which limitation follows from the early Congress's predominantly educated and professional social base?
 
-**Answer: A.**
-**Explanation:** Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Congress represented all rural workers through universal membership in 1885
+B. No Indian political public could be formed through a press-based movement
+C. Its capacity to speak nationally grew before direct peasant-worker participation became broad
+D. The economic critique became false because its authors were urban professionals
 
-### Q14. Which chronology card should be filed under Indian Association?
+### Q20. How should one evaluate the phrase political mendicancy in relation to the Moderates?
 
-A. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-B. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-C. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+A. It was the Moderates' formal name for their own economic programme
+B. It proves that the 1892 councils immediately acquired sovereign power
+C. It shows that their petitions were addressed solely to peasants in rural India
+D. It names a later critique of petitioning but cannot erase the organisational and economic legacy
 
-**Answer: B.**
-**Explanation:** Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. What explains the significance of annual Congress meetings beyond passing resolutions?
 
-### Q15. Which option should a candidate retain when revising Indian Association?
+A. They linked provincial elites into a recurring all-India political forum
+B. They made every provincial association legally subordinate to an elected Congress cabinet
+C. They ended the need for newspapers or speeches in political education
+D. They instantly replaced the colonial executive with a responsible government
 
-A. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-B. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-C. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+### Q22. Which pair of associations best demonstrates activity outside a single Bengal-London axis before Congress?
 
-**Answer: C.**
-**Explanation:** Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. British Indian Association and Indian Association
+B. Poona Sarvajanik Sabha and Madras Mahajan Sabha
+C. East India Association and British Indian Association
+D. Indian National Congress and East India Association
 
-### Q16. Which statement avoids a common matching trap about Indian Association?
+### Q23. Which statement set is correct: (1) Hume assisted organisation; (2) Bonnerjee presided at the Bombay first session; (3) the first session had seventy-two delegates?
 
-A. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-B. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-C. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+A. Statements 1 and 2 only; the delegate count belongs to the 1892 councils
+B. Statements 2 and 3 only; Hume played no organisational role
+C. Statements 1, 2 and 3
+D. Statement 3 only; the president and organiser must be swapped
 
-**Answer: D.**
-**Explanation:** Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. Which statement set is correct: (1) Moderates sought simultaneous ICS exams; (2) they defended press liberty; (3) they demanded complete independence at their first meeting?
 
-### Q17. Which statement correctly identifies Madras Mahajan Sabha?
+A. Statements 1 and 3 only; press freedom was outside nationalism
+B. Statements 2 and 3 only; service access was irrelevant
+C. All three, including the first-session independence demand
+D. Statements 1 and 2 only
 
-A. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-B. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-C. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+### Q25. What causal chain connects Moderate economic criticism with later militant nationalism without collapsing the two?
 
-**Answer: A.**
-**Explanation:** The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Early drain critique delegitimised empire; later activists inherited it but rejected petition-only politics
+B. Moderates demanded boycott first and only later invented the drain critique
+C. Militants accepted all Moderate methods but rejected any criticism of colonial poverty
+D. The 1892 Act granted independence, leaving no political grievance for militants
 
-### Q18. Which chronology card should be filed under Madras Mahajan Sabha?
+### Q26. Which interpretation best captures the significance of 1892 as both a concession and a ceiling?
 
-A. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-B. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-C. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-D. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
+A. Universal adult franchise made constitutional agitation unnecessary
+B. Council procedure broadened while authority remained with the colonial executive
+C. The Congress gained immediate control of the armed forces and treasury
+D. The pre-Congress provincial associations were dissolved by statute
 
-**Answer: B.**
-**Explanation:** The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. A reviewer says English-educated leaders could not have built any nationalist public. Which evidence challenges this absolute judgement?
 
-### Q19. Which option should a candidate retain when revising Madras Mahajan Sabha?
+A. The INC began with universal membership across all castes and occupations
+B. Moderate nationalism required no communication between provincial organisations
+C. Press, council speeches and recurring annual sessions propagated a common vocabulary beyond a single province
+D. The 1892 Act created complete representative democracy
 
-A. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-B. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
+### Q28. Which comparison of two early associations is correctly attributed?
 
-**Answer: C.**
-**Explanation:** The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. British Indian Association—Poona, 1876; Indian Association—London, 1866
+B. East India Association—Madras, 1851; British Indian Association—London, 1870
+C. Poona Sarvajanik Sabha—Bombay first INC session; Indian Association—Welby Commission
+D. British Indian Association—Bengal, 1851; Poona Sarvajanik Sabha—western India, 1870
 
-### Q20. Which statement avoids a common matching trap about Madras Mahajan Sabha?
+### Q29. Which conclusion fairly weighs the achievements and limits of Moderate nationalism?
 
-A. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-B. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-C. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-D. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
+A. Limited immediate power accompanied durable political organisation and economic indictment
+B. The 1892 Act achieved full independence, making later struggle redundant
+C. Because the movement was socially narrow, its drain theory never reached later nationalists
+D. Because Hume helped organise, every Indian economic complaint was a colonial fabrication
 
-**Answer: D.**
-**Explanation:** The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Which leader pair is most suitable for illustrating the Moderate critique of colonial economic policy, rather than the first Congress presidency?
 
-### Q21. Which statement correctly identifies Bombay Presidency Association?
+A. A.O. Hume and W.C. Bonnerjee
+B. Dadabhai Naoroji and R.C. Dutt
+C. Surendranath Banerjea and Ananda Mohan Bose
+D. Curzon and Lytton
 
-A. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-B. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-C. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-D. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
+### Q31. How does the Indian Association's history constrain an overly simple 1885 origin story?
 
-**Answer: A.**
-**Explanation:** The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It was created by Congress after the 1892 Act
+B. It operated in London as Naoroji's British-opinion forum
+C. The Banerjea-Bose body already pursued broad political mobilisation before the INC
+D. It introduced responsible government at the first Congress session
 
-### Q22. Which chronology card should be filed under Bombay Presidency Association?
+### Q32. Why should early Moderate demands for an elective principle not be described as full electoral democracy?
 
-A. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-B. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+A. They excluded every request for Indian members on legislative councils
+B. They already established universal voting rights in the 1892 legislation
+C. They formally dissolved the councils and replaced them with the annual Congress
+D. Limited council representation and indirect election-like procedures fell short of an accountable executive
 
-**Answer: B.**
-**Explanation:** The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33. Which source-sensitive interpretation of loyalist political language and colonial economic criticism is sound?
 
-### Q23. Which option should a candidate retain when revising Bombay Presidency Association?
+A. Appeals to British liberal principles coexisted with a sustained critique of the drain and fiscal policy
+B. Loyalist phrasing proves Naoroji supported unrequited transfers
+C. The economic critique meant the Moderates never sought constitutional concessions
+D. Faith in British justice established that Indians controlled the colonial state
 
-A. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-B. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-C. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-D. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
+### Q34. When evaluating the 2021 GS-I Moderates PYQ, which answer plan is most responsive to its historical demand?
 
-**Answer: C.**
-**Explanation:** The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. List only the first session's delegate count as complete proof of later mass politics
+B. Link the Congress platform, economic critique and political education to later mobilisation, then qualify the narrow base
+C. Treat the 1892 Act as the final transfer of power and end the answer
+D. Answer solely with the safety-valve legend and omit Moderate methods and achievements
 
-### Q24. Which statement avoids a common matching trap about Bombay Presidency Association?
+### Q35. Which historical inference is supported by the coexistence of 1892 reform and subsequent militant critique?
 
-A. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
+A. The reform gave Moderates immediate control of the imperial executive
+B. The reform abolished Congress, necessitating a new all-India organisation
+C. The reform supplied procedural footholds but revealed the inadequacy of petitions for securing power
+D. The reform predates all provincial associations and therefore caused them
 
-**Answer: D.**
-**Explanation:** The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36. Which example most directly shows constitutional agitation addressing audiences inside and outside India?
 
-### Q25. Which statement correctly identifies First INC session?
+A. The 1905 boycott alone, without any petitioning or deputations
+B. A single provincial association without newspapers or meetings
+C. An armed uprising directed exclusively at the Raj's garrisons
+D. Council and press advocacy in India alongside Naoroji's London association and British-opinion work
 
-A. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-B. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+### Q37. Which demand helps distinguish the Moderates' accountability programme from their economic diagnosis?
 
-**Answer: A.**
-**Explanation:** The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Budget scrutiny through enlarged representative councils
+B. The conclusion that unrequited transfers helped produce poverty
+C. The finding that military expenditure burdened Indian finances
+D. The observation that deindustrialisation deepened impoverishment
 
-### Q26. Which chronology card should be filed under First INC session?
+### Q38. Which explanation best connects late nineteenth-century professional leadership with the form of its political action?
 
-A. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-B. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
+A. The early INC was a predominantly peasant army, hence its preference for military campaigns
+B. Lawyers, teachers and journalists used petitions, press and council argument while building a still-limited public
+C. Urban professional leadership automatically prevented all criticisms of British economic rule
+D. Most workers and peasants held official Congress cabinet posts after 1892
 
-**Answer: B.**
-**Explanation:** The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+## ANSWER KEY AND TARGETED REMEDIATION
 
-### Q27. Which option should a candidate retain when revising First INC session?
+### Q1 — A
 
-A. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
-D. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
+**Answer: A.** The dated sequence is 1851, 1866, 1870 and 1876; no dates are needed in the options.
 
-**Answer: C.**
-**Explanation:** The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The dated sequence is 1851, 1866, 1870 and 1876; no dates are needed in the options.
+- **B:** The Bengal body precedes the London body and Poona precedes the Indian Association.
+- **C:** Poona did not precede either of the first two bodies.
+- **D:** The Indian Association was last of these four, not first.
 
-### Q28. Which statement avoids a common matching trap about First INC session?
+**Trap:** Poona did not precede either of the first two bodies.
 
-A. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-B. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-C. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-D. The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates.
+### Q2 — B
 
-**Answer: D.**
-**Explanation:** The first Indian National Congress session met at Bombay in December 1885 with seventy-two delegates. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** Naoroji sought to influence British opinion from London.
 
-### Q29. Which statement correctly identifies A.O. Hume?
+**Option-by-option explanation:**
+- **A:** Banerjea founded the Indian Association with Bose, not this London body.
+- **B:** Naoroji sought to influence British opinion from London.
+- **C:** Bose is associated with the Indian Association rather than the Poona organisation.
+- **D:** Bonnerjee presided at the first Congress session, not this association-location pairing.
 
-A. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-B. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
+**Trap:** Banerjea founded the Indian Association with Bose, not this London body.
 
-**Answer: A.**
-**Explanation:** A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3 — C
 
-### Q30. Which chronology card should be filed under A.O. Hume?
+**Answer: C.** Both leaders and that date identify this pre-Congress political body.
 
-A. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-B. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
+**Option-by-option explanation:**
+- **A:** Naoroji founded the London association instead.
+- **B:** The Poona body is distinct from the Banerjea-Bose organisation.
+- **C:** Both leaders and that date identify this pre-Congress political body.
+- **D:** The earlier Bengal organisation is not this 1876 association.
 
-**Answer: B.**
-**Explanation:** A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** The earlier Bengal organisation is not this 1876 association.
 
-### Q31. Which option should a candidate retain when revising A.O. Hume?
+### Q4 — D
 
-A. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
-D. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
+**Answer: D.** This separates venue, elected presiding officer and organisational facilitator.
 
-**Answer: C.**
-**Explanation:** A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The first venue and the two roles are misplaced.
+- **B:** The first president was Bonnerjee, not Naoroji.
+- **C:** Poona was not the first-session venue.
+- **D:** This separates venue, elected presiding officer and organisational facilitator.
 
-### Q32. Which statement avoids a common matching trap about A.O. Hume?
+**Trap:** The first president was Bonnerjee, not Naoroji.
 
-A. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-B. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-C. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-D. A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation.
+### Q5 — A
 
-**Answer: D.**
-**Explanation:** A.O. Hume helped organise the Congress, but his role does not make Indian nationalism a colonial creation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** The figure describes delegates in December 1885, not membership across the Moderate period.
 
-### Q33. Which statement correctly identifies W.C. Bonnerjee?
+**Option-by-option explanation:**
+- **A:** The figure describes delegates in December 1885, not membership across the Moderate period.
+- **B:** The number is not sourced for the London body.
+- **C:** The first-session count is not a statutory council-seat figure.
+- **D:** The figure does not count pre-Congress societies.
 
-A. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
+**Trap:** The number is not sourced for the London body.
 
-**Answer: A.**
-**Explanation:** W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6 — B
 
-### Q34. Which chronology card should be filed under W.C. Bonnerjee?
+**Answer: B.** Organisational help explains an occasion, not the social origin of nationalism.
 
-A. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-B. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-C. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-D. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
+**Option-by-option explanation:**
+- **A:** The source explicitly credits him with organisational help.
+- **B:** Organisational help explains an occasion, not the social origin of nationalism.
+- **C:** The associations demonstrably preceded the INC.
+- **D:** The owners treat the theory as disputed interpretation, not proved policy.
 
-**Answer: B.**
-**Explanation:** W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** The owners treat the theory as disputed interpretation, not proved policy.
 
-### Q35. Which option should a candidate retain when revising W.C. Bonnerjee?
+### Q7 — C
 
-A. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
-D. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
+**Answer: C.** A putative organiser's motive cannot by itself explain nationwide nationalist development.
 
-**Answer: C.**
-**Explanation:** W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The owner cautions against unverified secret correspondence.
+- **B:** His organisational role is verified in the owner.
+- **C:** A putative organiser's motive cannot by itself explain nationwide nationalist development.
+- **D:** This mistakes an organiser's identity for the movement's causation.
 
-### Q36. Which statement avoids a common matching trap about W.C. Bonnerjee?
+**Trap:** This mistakes an organiser's identity for the movement's causation.
 
-A. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-B. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-C. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-D. W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885.
+### Q8 — D
 
-**Answer: D.**
-**Explanation:** W.C. Bonnerjee presided over the first Indian National Congress session at Bombay in 1885. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: D.** Institutions and publicity preceded the all-India meeting and extended its reach.
 
-### Q37. Which statement correctly identifies Safety-valve debate?
+**Option-by-option explanation:**
+- **A:** The early Congress lacked a universal mass base and drew on prior associations.
+- **B:** The 1892 Act did not introduce responsible government or precede Congress.
+- **C:** Boycott politics belongs to a later phase.
+- **D:** Institutions and publicity preceded the all-India meeting and extended its reach.
 
-A. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-D. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
+**Trap:** The 1892 Act did not introduce responsible government or precede Congress.
 
-**Answer: A.**
-**Explanation:** The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9 — A
 
-### Q38. Which chronology card should be filed under Safety-valve debate?
+**Answer: A.** Economic critique was substantive even while the method was constitutional.
 
-A. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-B. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-C. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-D. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
+**Option-by-option explanation:**
+- **A:** Economic critique was substantive even while the method was constitutional.
+- **B:** That is not the early Congress's repertoire.
+- **C:** The drain thesis argued the opposite.
+- **D:** Responsible government had not been conceded.
 
-**Answer: B.**
-**Explanation:** The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** That is not the early Congress's repertoire.
 
-### Q39. Which option should a candidate retain when revising Safety-valve debate?
+### Q10 — B
 
-A. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-B. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-C. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+**Answer: B.** The owner establishes the causal critique, not a fixed monetary estimate for every year.
 
-**Answer: C.**
-**Explanation:** The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Colonial fiscal control was not responsible to an Indian ministry.
+- **B:** The owner establishes the causal critique, not a fixed monetary estimate for every year.
+- **C:** Moderate economic nationalism predated 1905.
+- **D:** Military expenditure was among the Moderates' economic objections.
 
-### Q40. Which statement avoids a common matching trap about Safety-valve debate?
+**Trap:** Colonial fiscal control was not responsible to an Indian ministry.
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-C. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-D. The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness.
+### Q11 — C
 
-**Answer: D.**
-**Explanation:** The safety-valve explanation is a disputed interpretation; the Congress arose from accumulated Indian associations, grievances and national consciousness. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: C.** Both belong to Moderate analysis of structural impoverishment.
 
-### Q41. Which statement correctly identifies Moderate leadership?
+**Option-by-option explanation:**
+- **A:** The founder identified in the source is Naoroji.
+- **B:** Their economic arguments extended beyond that single method.
+- **C:** Both belong to Moderate analysis of structural impoverishment.
+- **D:** Their critical work belongs to the pre-1905 Moderate phase.
 
-A. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-B. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-C. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-D. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
+**Trap:** Their critical work belongs to the pre-1905 Moderate phase.
 
-**Answer: A.**
-**Explanation:** Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12 — D
 
-### Q42. Which chronology card should be filed under Moderate leadership?
+**Answer: D.** These were standing Moderate demands, not evidence that service equality had been granted.
 
-A. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-B. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-C. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-D. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
+**Option-by-option explanation:**
+- **A:** The Moderates sought reform within empire, not executive takeover.
+- **B:** They wanted the examination held simultaneously in both places.
+- **C:** They sought larger representative institutions, not suppression of councils.
+- **D:** These were standing Moderate demands, not evidence that service equality had been granted.
 
-**Answer: B.**
-**Explanation:** Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** The Moderates sought reform within empire, not executive takeover.
 
-### Q43. Which option should a candidate retain when revising Moderate leadership?
+### Q13 — A
 
-A. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-B. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-C. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
-D. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
+**Answer: A.** These were instruments of early Moderate agitation and political education.
 
-**Answer: C.**
-**Explanation:** Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** These were instruments of early Moderate agitation and political education.
+- **B:** That belongs to a later mass movement, not the early Moderate repertoire.
+- **C:** Deputations and Naoroji's London initiative did address that audience.
+- **D:** Pre-Congress bodies trained the movement's leaders.
 
-### Q44. Which statement avoids a common matching trap about Moderate leadership?
+**Trap:** That belongs to a later mass movement, not the early Moderate repertoire.
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-C. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-D. Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders.
+### Q14 — B
 
-**Answer: D.**
-**Explanation:** Naoroji, Gokhale, Pherozeshah Mehta, Ranade, R.C. Dutt, Tyabji, Banerjea and Bonnerjee were prominent Moderate leaders. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** Their demands linked representation to opportunities for public accountability.
 
-### Q45. Which statement correctly identifies Constitutional agitation?
+**Option-by-option explanation:**
+- **A:** That reverses their representative demand.
+- **B:** Their demands linked representation to opportunities for public accountability.
+- **C:** The Act fell far short of these outcomes.
+- **D:** Budget and administration were central to their programme.
 
-A. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-B. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-C. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+**Trap:** The Act fell far short of these outcomes.
 
-**Answer: A.**
-**Explanation:** Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15 — C
 
-### Q46. Which chronology card should be filed under Constitutional agitation?
+**Answer: C.** Procedure widened, but executive power was not made answerable to the councils.
 
-A. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-B. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-C. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-D. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
+**Option-by-option explanation:**
+- **A:** No such responsible government or budget control was created.
+- **B:** The Act followed the establishment of Congress.
+- **C:** Procedure widened, but executive power was not made answerable to the councils.
+- **D:** Neither universal franchise nor adequate representation resulted.
 
-**Answer: B.**
-**Explanation:** Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Neither universal franchise nor adequate representation resulted.
 
-### Q47. Which option should a candidate retain when revising Constitutional agitation?
+### Q16 — D
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-C. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+**Answer: D.** Parliamentary-sounding procedures were not equivalent to executive or fiscal responsibility.
 
-**Answer: C.**
-**Explanation:** Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The owner records limited budget discussion, not total prohibition.
+- **B:** The executive remained outside responsible Indian control.
+- **C:** The commission debate and council provisions were different developments.
+- **D:** Parliamentary-sounding procedures were not equivalent to executive or fiscal responsibility.
 
-### Q48. Which statement avoids a common matching trap about Constitutional agitation?
+**Trap:** The owner records limited budget discussion, not total prohibition.
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-C. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-D. Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience.
+### Q17 — A
 
-**Answer: D.**
-**Explanation:** Moderates used petitions, resolutions, public meetings, newspapers, legislative criticism and deputations rather than mass civil disobedience. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** These liberties sustained the public sphere that Moderate politics sought to enlarge.
 
-### Q49. Which statement correctly identifies Drain theory?
+**Option-by-option explanation:**
+- **A:** These liberties sustained the public sphere that Moderate politics sought to enlarge.
+- **B:** This contradicts the Moderates' defence of the press.
+- **C:** Meetings helped associations build a national political vocabulary.
+- **D:** Legislative criticism was part of constitutional agitation.
 
-A. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-B. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-C. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+**Trap:** This contradicts the Moderates' defence of the press.
 
-**Answer: A.**
-**Explanation:** Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18 — B
 
-### Q50. Which chronology card should be filed under Drain theory?
+**Answer: B.** A hearing for the fiscal indictment differs from Indian executive control.
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-C. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+**Option-by-option explanation:**
+- **A:** Such a sweeping result is not established by the debate.
+- **B:** A hearing for the fiscal indictment differs from Indian executive control.
+- **C:** That association belongs to an earlier and distinct development.
+- **D:** The critique remained central to Moderate nationalism.
 
-**Answer: B.**
-**Explanation:** Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Such a sweeping result is not established by the debate.
 
-### Q51. Which option should a candidate retain when revising Drain theory?
+### Q19 — C
 
-A. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-B. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-C. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
-D. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
+**Answer: C.** National organisation and mass social representation developed at different speeds.
 
-**Answer: C.**
-**Explanation:** Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Its initial base was narrow rather than universal.
+- **B:** Press and associations were important precisely for political education.
+- **C:** National organisation and mass social representation developed at different speeds.
+- **D:** Social limits do not automatically invalidate substantive colonial-economic analysis.
 
-### Q52. Which statement avoids a common matching trap about Drain theory?
+**Trap:** Social limits do not automatically invalidate substantive colonial-economic analysis.
 
-A. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-B. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-C. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-D. Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule.
+### Q20 — D
 
-**Answer: D.**
-**Explanation:** Dadabhai Naoroji's drain critique linked Indian poverty to the unrequited transfer of resources under colonial rule. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: D.** Assess methods and consequences separately, without treating a pejorative label as a full history.
 
-### Q53. Which statement correctly identifies Economic nationalism?
+**Option-by-option explanation:**
+- **A:** The source treats this as a later characterisation, not their self-description.
+- **B:** The Act's procedural concessions were modest.
+- **C:** The early method relied on educated forums and British/public audiences.
+- **D:** Assess methods and consequences separately, without treating a pejorative label as a full history.
 
-A. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-B. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-C. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+**Trap:** The source treats this as a later characterisation, not their self-description.
 
-**Answer: A.**
-**Explanation:** Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21 — A
 
-### Q54. Which chronology card should be filed under Economic nationalism?
+**Answer: A.** Repetition created networks and a shared national grievance vocabulary despite limited membership.
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-C. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-D. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
+**Option-by-option explanation:**
+- **A:** Repetition created networks and a shared national grievance vocabulary despite limited membership.
+- **B:** No elected national cabinet was established by the annual meetings.
+- **C:** Press and speeches reinforced the common platform.
+- **D:** A discussion forum did not displace the Raj's executive.
 
-**Answer: B.**
-**Explanation:** Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** A discussion forum did not displace the Raj's executive.
 
-### Q55. Which option should a candidate retain when revising Economic nationalism?
+### Q22 — B
 
-A. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-B. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-C. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
-D. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
+**Answer: B.** They demonstrate western and southern provincial political organisation before all-India consolidation.
 
-**Answer: C.**
-**Explanation:** Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Both examples are connected to Bengal and do not establish the requested geographic contrast.
+- **B:** They demonstrate western and southern provincial political organisation before all-India consolidation.
+- **C:** London and Bengal omit the western-southern provincial pair sought here.
+- **D:** The Congress is the later national platform rather than two provincial precursors.
 
-### Q56. Which statement avoids a common matching trap about Economic nationalism?
+**Trap:** Both examples are connected to Bengal and do not establish the requested geographic contrast.
 
-A. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-B. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-C. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-D. Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies.
+### Q23 — C
 
-**Answer: D.**
-**Explanation:** Moderate economic criticism joined the drain, deindustrialisation, land-revenue pressure, high military expenditure and discriminatory trade and service policies. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: C.** Organiser, president, venue and delegate figure all match the owner.
 
-### Q57. Which statement correctly identifies Indianisation of services?
+**Option-by-option explanation:**
+- **A:** The seventy-two figure belongs to the first Congress session.
+- **B:** Hume did assist organisation, even though he did not create nationalism.
+- **C:** Organiser, president, venue and delegate figure all match the owner.
+- **D:** Bonnerjee was president and Hume helped organise.
 
-A. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-B. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-C. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-D. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
+**Trap:** Hume did assist organisation, even though he did not create nationalism.
 
-**Answer: A.**
-**Explanation:** Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24 — D
 
-### Q58. Which chronology card should be filed under Indianisation of services?
+**Answer: D.** Administrative access and civil liberties were Moderate demands; immediate independence was not their early programme.
 
-A. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-B. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-C. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-D. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
+**Option-by-option explanation:**
+- **A:** Civil liberty was indeed part of their political agenda.
+- **B:** Indianisation and simultaneous examinations were standing demands.
+- **C:** The owner explicitly cautions against projecting later independence demands back onto early Congress.
+- **D:** Administrative access and civil liberties were Moderate demands; immediate independence was not their early programme.
 
-**Answer: B.**
-**Explanation:** Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Civil liberty was indeed part of their political agenda.
 
-### Q59. Which option should a candidate retain when revising Indianisation of services?
+### Q25 — A
 
-A. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-B. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-C. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
-D. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
+**Answer: A.** There is continuity of diagnosis and disagreement about mobilisation.
 
-**Answer: C.**
-**Explanation:** Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** There is continuity of diagnosis and disagreement about mobilisation.
+- **B:** The drain analysis preceded the militant/Swadeshi turn.
+- **C:** They differed on method while inheriting economic critique.
+- **D:** It offered limited procedure and no responsible government.
 
-### Q60. Which statement avoids a common matching trap about Indianisation of services?
+**Trap:** The drain analysis preceded the militant/Swadeshi turn.
 
-A. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-B. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-C. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-D. Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain.
+### Q26 — B
 
-**Answer: D.**
-**Explanation:** Moderates demanded greater Indian entry into higher administration and simultaneous civil-service examinations in India and Britain. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** A modest institutional opening also exposed the limits of petition-based reform.
 
-### Q61. Which statement correctly identifies Legislative councils?
+**Option-by-option explanation:**
+- **A:** The Act provided neither universal suffrage nor executive accountability.
+- **B:** A modest institutional opening also exposed the limits of petition-based reform.
+- **C:** Neither fiscal nor military sovereignty was transferred.
+- **D:** Their history cannot be read as an effect of the later Act.
 
-A. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-B. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-C. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-D. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
+**Trap:** Their history cannot be read as an effect of the later Act.
 
-**Answer: A.**
-**Explanation:** Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27 — C
 
-### Q62. Which chronology card should be filed under Legislative councils?
+**Answer: C.** A limited social base and a growing national political public can coexist.
 
-A. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-B. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-C. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-D. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
+**Option-by-option explanation:**
+- **A:** The first Congress was not a mass membership party.
+- **B:** Interregional coordination was central to its achievements.
+- **C:** A limited social base and a growing national political public can coexist.
+- **D:** The Act did not establish responsible government.
 
-**Answer: B.**
-**Explanation:** Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** The first Congress was not a mass membership party.
 
-### Q63. Which option should a candidate retain when revising Legislative councils?
+### Q28 — D
 
-A. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-B. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-C. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
-D. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
+**Answer: D.** Both place a regional association in the correct setting and period.
 
-**Answer: C.**
-**Explanation:** Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** These places and dates exchange three distinct institutions.
+- **B:** The East India Association was Naoroji's London body of 1866.
+- **C:** Neither is identified by the event paired here.
+- **D:** Both place a regional association in the correct setting and period.
 
-### Q64. Which statement avoids a common matching trap about Legislative councils?
+**Trap:** These places and dates exchange three distinct institutions.
 
-A. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-B. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-C. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-D. Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation.
+### Q29 — A
 
-**Answer: D.**
-**Explanation:** Moderates demanded enlarged councils, an elective principle, budget scrutiny and greater Indian representation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** Measure procedural gains against the later value of nationalist analysis and national platforms.
 
-### Q65. Which statement correctly identifies Civil liberties?
+**Option-by-option explanation:**
+- **A:** Measure procedural gains against the later value of nationalist analysis and national platforms.
+- **B:** The Act did not transfer sovereign or responsible power.
+- **C:** Later activists inherited that critique despite limited initial representation.
+- **D:** Hume's role cannot negate Indian political and economic grievances.
 
-A. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-B. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-C. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-D. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
+**Trap:** The Act did not transfer sovereign or responsible power.
 
-**Answer: A.**
-**Explanation:** Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30 — B
 
-### Q66. Which chronology card should be filed under Civil liberties?
+**Answer: B.** Their drain and economic-history critiques expose structural aspects of colonial policy.
 
-A. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-B. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-C. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-D. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
+**Option-by-option explanation:**
+- **A:** These names anchor organisation and first presidency, not the two economic critiques requested.
+- **B:** Their drain and economic-history critiques expose structural aspects of colonial policy.
+- **C:** They anchor the Indian Association's foundation.
+- **D:** Both are imperial administrators, not the Moderate economic critics sought.
 
-**Answer: B.**
-**Explanation:** Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** These names anchor organisation and first presidency, not the two economic critiques requested.
 
-### Q67. Which option should a candidate retain when revising Civil liberties?
+### Q31 — C
 
-A. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-B. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-C. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
-D. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
+**Answer: C.** Its earlier work challenges the idea that politics sprang wholly from Hume's initiative.
 
-**Answer: C.**
-**Explanation:** Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Its 1876 foundation preceded both Congress and the Act.
+- **B:** That describes the East India Association.
+- **C:** Its earlier work challenges the idea that politics sprang wholly from Hume's initiative.
+- **D:** No such reform followed from the organisation's existence.
 
-### Q68. Which statement avoids a common matching trap about Civil liberties?
+**Trap:** No such reform followed from the organisation's existence.
 
-A. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-B. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-C. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-D. Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government.
+### Q32 — D
 
-**Answer: D.**
-**Explanation:** Freedom of speech, press and association formed a durable part of Moderate criticism of colonial government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: D.** The difference between representation and responsibility is the tested constitutional distinction.
 
-### Q69. Which statement correctly identifies Indian Councils Act 1892?
+**Option-by-option explanation:**
+- **A:** Council enlargement was a major demand.
+- **B:** The Act supplied no such universal franchise.
+- **C:** Congress was a political platform, not the statutory legislature.
+- **D:** The difference between representation and responsibility is the tested constitutional distinction.
 
-A. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-B. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-C. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-D. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
+**Trap:** Congress was a political platform, not the statutory legislature.
 
-**Answer: A.**
-**Explanation:** The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33 — A
 
-### Q70. Which chronology card should be filed under Indian Councils Act 1892?
+**Answer: A.** Rhetorical loyalty cannot by itself prove the absence of anti-colonial economic nationalism.
 
-A. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-B. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-C. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-D. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
+**Option-by-option explanation:**
+- **A:** Rhetorical loyalty cannot by itself prove the absence of anti-colonial economic nationalism.
+- **B:** His drain critique argued those transfers impoverished India.
+- **C:** They pressed demands for councils and administrative reform too.
+- **D:** The limits of council reforms show the opposite.
 
-**Answer: B.**
-**Explanation:** The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** His drain critique argued those transfers impoverished India.
 
-### Q71. Which option should a candidate retain when revising Indian Councils Act 1892?
+### Q34 — B
 
-A. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-B. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-C. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
-D. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
+**Answer: B.** The question tests how a foundation was prepared, not whether immediate independence was won.
 
-**Answer: C.**
-**Explanation:** The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** One number cannot establish the multifaceted foundation or social limitations.
+- **B:** The question tests how a foundation was prepared, not whether immediate independence was won.
+- **C:** That act did not establish responsible government.
+- **D:** A disputed origin thesis does not answer the role-in-wider-movement demand.
 
-### Q72. Which statement avoids a common matching trap about Indian Councils Act 1892?
+**Trap:** One number cannot establish the multifaceted foundation or social limitations.
 
-A. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-B. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-C. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-D. The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government.
+### Q35 — C
 
-**Answer: D.**
-**Explanation:** The Indian Councils Act 1892 enlarged councils and allowed limited budget discussion and questions without responsible government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: C.** Continuity in economic argument coexisted with a dispute about political technique.
 
-### Q73. Which statement correctly identifies Political education?
+**Option-by-option explanation:**
+- **A:** Executive responsibility remained absent.
+- **B:** The Congress persisted after the legislation.
+- **C:** Continuity in economic argument coexisted with a dispute about political technique.
+- **D:** The pre-Congress associations arose earlier.
 
-A. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-B. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-C. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-D. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
+**Trap:** The pre-Congress associations arose earlier.
 
-**Answer: A.**
-**Explanation:** Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36 — D
 
-### Q74. Which chronology card should be filed under Political education?
+**Answer: D.** The Moderate strategy sought pressure through Indian public life and metropolitan opinion.
 
-A. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-B. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-C. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-D. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
+**Option-by-option explanation:**
+- **A:** The Swadeshi repertoire belongs to the later militant phase.
+- **B:** This omits the communication network characteristic of the method.
+- **C:** Military revolt is not the Moderate constitutional approach.
+- **D:** The Moderate strategy sought pressure through Indian public life and metropolitan opinion.
 
-**Answer: B.**
-**Explanation:** Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Military revolt is not the Moderate constitutional approach.
 
-### Q75. Which option should a candidate retain when revising Political education?
+### Q37 — A
 
-A. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-B. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-C. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
+**Answer: A.** Scrutiny proposes an institutional remedy, while drain analysis diagnoses colonial extraction.
 
-**Answer: C.**
-**Explanation:** Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Scrutiny proposes an institutional remedy, while drain analysis diagnoses colonial extraction.
+- **B:** This is a diagnosis, not the specified representative institutional remedy.
+- **C:** This identifies a grievance, not a council reform.
+- **D:** This is an economic explanation, not a constitutional mechanism.
 
-### Q76. Which statement avoids a common matching trap about Political education?
+**Trap:** This is a diagnosis, not the specified representative institutional remedy.
 
-A. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-B. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class.
+### Q38 — B
 
-**Answer: D.**
-**Explanation:** Annual sessions, newspapers and council speeches created a shared all-India grievance vocabulary and trained a national political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** Their training favoured constitutional channels without implying nationwide mass membership.
 
-### Q77. Which statement correctly identifies Moderate limitation and legacy?
+**Option-by-option explanation:**
+- **A:** The social base and method are both contrary to the owner.
+- **B:** Their training favoured constitutional channels without implying nationwide mass membership.
+- **C:** Professionals authored several key critiques.
+- **D:** There was no responsible Congress cabinet under the Act.
 
-A. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-B. The British Indian Association was formed in Bengal in 1851 and represented an early elite form of organised political articulation.
-C. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-D. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-
-**Answer: A.**
-**Explanation:** The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Moderate limitation and legacy?
-
-A. Dadabhai Naoroji founded the East India Association in London in 1866 to place Indian questions before British public opinion.
-B. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-C. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-D. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-
-**Answer: B.**
-**Explanation:** The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Moderate limitation and legacy?
-
-A. The Poona Sarvajanik Sabha emerged in 1870 as an important western-India forum claiming to represent public interests.
-B. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-C. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-D. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-
-**Answer: C.**
-**Explanation:** The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Moderate limitation and legacy?
-
-A. The Bombay Presidency Association became an important western-India pre-Congress body within the network that preceded the national organisation.
-B. Surendranath Banerjea and Ananda Mohan Bose founded the Indian Association in 1876 and pursued broader political mobilisation.
-C. The Madras Mahajan Sabha became a major pre-Congress political association in the Madras Presidency and helped develop regional public work before the all-India platform.
-D. The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism.
-
-**Answer: D.**
-**Explanation:** The Moderates had a narrow social base and excessive faith in British liberalism, yet built the organisation and critique inherited by later mass nationalism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
+**Trap:** Professionals authored several key critiques.
 ### Semantic-completeness coverage drills — Modern Topic 14
 
 | Control | Required answer route | Fatal trap |

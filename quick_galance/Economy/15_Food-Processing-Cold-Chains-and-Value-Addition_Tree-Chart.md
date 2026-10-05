@@ -68,15 +68,18 @@ Sanctioned -> installed -> operational -> utilised -> throughput -> verified out
 
 ## 6. REGULATORY MAP
 
-- **FSSAI:** Food Safety and Standards Authority of India under Food Safety and Standards Act, 2006; science-based domestic food-safety standards and regulation.
+- **FSSAI:** Food Safety and Standards Authority of India under Food Safety and Standards Act, 2006;
+   science-based domestic food-safety standards and regulation.
 - **Section 31:** applicable registration/licensing of food businesses.
-- **APEDA:** Agricultural and Processed Food Products Export Development Authority under APEDA Act, 1985; scheduled-product export development.
+- **APEDA:** Agricultural and Processed Food Products Export Development Authority under APEDA Act, 1985;
+   scheduled-product export development.
 - **SPS:** sanitary and phytosanitary rules protecting human, animal or plant health.
 - **HortiNet / TraceNet:** specified APEDA-linked traceability systems.
 
 ### ABBREVIATION DECODER
 
-- **PM Kisan SAMPADA Yojana:** Pradhan Mantri Kisan Scheme for Agro-Marine Processing and Development of Agro-Processing Clusters.
+- **PM Kisan SAMPADA Yojana:** Pradhan Mantri Kisan Scheme for Agro-Marine Processing and Development of
+   Agro-Processing Clusters.
 - **ICCVAI:** Integrated Cold Chain and Value Addition Infrastructure.
 - **PMFME:** Pradhan Mantri Formalisation of Micro Food Processing Enterprises.
 - **ODOP:** One District One Product.
@@ -92,9 +95,11 @@ Sanctioned -> installed -> operational -> utilised -> throughput -> verified out
 
 | Instrument | Current dated design | Boundary |
 |---|---|---|
-| PM Kisan SAMPADA | Rs 6,520 crore, 2021-22 to 2025-26; Cabinet 31 July 2025 | extension after March 2026 needs authority |
+| PM Kisan SAMPADA | Rs 6,520 crore, 2021-22 to 2025-26; Cabinet 31 July 2025 | extension after March 2026 needs
+   authority |
 | ICCVAI | integrated farm-level, hub, storage and refrigerated movement | cold store alone is insufficient |
-| Mega Food Parks | new approvals discontinued 1 April 2021; older commitments continued | 41 historically sanctioned in 2025 reporting |
+| Mega Food Parks | new approvals discontinued 1 April 2021; older commitments continued | 41 historically
+   sanctioned in 2025 reporting |
 | PMFME | Rs 10,000 crore, 2020-21 to 2025-26 | micro formalisation; ODOP != GI |
 | Operation Greens | TOP origin; notified short-/long-term interventions | TOTAL does not mean every crop always |
 | PLISFPI | Rs 10,900 crore, 2021-22 to 2026-27 | incremental performance; outlay != output |
@@ -130,4 +135,5 @@ INFRASTRUCTURE + FAIR INSTITUTIONS + STANDARDS + CAPEX/WORKING CAPITAL
  + SKILLS + BUYERS + OUTCOME AUDIT
 ```
 
-**Boundary:** APMC/FPO/contract law -> Topic 13; farm inputs -> Topic 14; manufacturing-wide PLI -> Topic 17; trade-law depth -> Topic 20.
+**Boundary:** APMC/FPO/contract law -> Topic 13; farm inputs -> Topic 14; manufacturing-wide PLI -> Topic 17;
+   trade-law depth -> Topic 20.

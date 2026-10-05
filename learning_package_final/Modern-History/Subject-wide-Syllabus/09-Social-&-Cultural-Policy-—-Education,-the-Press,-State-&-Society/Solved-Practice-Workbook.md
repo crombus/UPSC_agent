@@ -6,805 +6,638 @@ topic_key: modern-indian-history-09
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Hicky's Bengal Gazette?
+37 original, coverage-driven MCQs; answers rotate A → B → C → D. Questions precede the separate option-by-option key. Supplementary 2021 associations are inferred, not locally officially keyed.
 
-A. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-B. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-C. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-D. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
+### Q1. A curator groups early colonial initiatives by intended learner. Which label best fits Fort William College, Calcutta?
 
-**Answer: A.**
-**Explanation:** Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Wellesley's training of European Company civil servants in Indian languages and law
+B. Hastings's state grant to Indian village-school teachers under the Charter Act
+C. Bentinck's creation of three examining universities for Indian graduates
+D. Curzon's founding of an Orientalist seminary for Sanskrit scholars
 
-### Q2. Which chronology card should be filed under Hicky's Bengal Gazette?
+### Q2. Arrange these developments from earliest to latest: (1) Banaras Sanskrit College, (2) Hicky's Bengal Gazette, (3) Calcutta Madrasa, (4) Fort William College.
 
-A. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-D. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
+A. 3 → 2 → 1 → 4
+B. 2 → 3 → 1 → 4
+C. 2 → 1 → 4 → 3
+D. 1 → 3 → 2 → 4
 
-**Answer: B.**
-**Explanation:** Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. A register has two columns, 'Orientalist state support' and 'training European administrators'. Where do the Calcutta Madrasa and Fort William College belong respectively?
 
-### Q3. Which option should a candidate retain when revising Hicky's Bengal Gazette?
+A. Both in the European-administrator column
+B. Both in the Orientalist school column
+C. Madrasa in Orientalist support; Fort William in European-administrator training
+D. Madrasa in European training; Fort William in Anglicist mass schooling
 
-A. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-B. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-C. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-D. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
+### Q4. The 1813 Charter Act provided funds and opened a space for missions. Which conclusion is warranted WITHOUT reading later outcomes back into the statute?
 
-**Answer: C.**
-**Explanation:** Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It inaugurated the Calcutta Madrasa and converted it into a missionary college.
+B. It guaranteed universal village-school enrolment immediately.
+C. It created the Calcutta, Bombay and Madras universities.
+D. It assigned ₹1 lakh annually to education and permitted missionary activity, without proving delivery.
 
-### Q4. Which statement avoids a common matching trap about Hicky's Bengal Gazette?
+### Q5. A historian claims the Orientalist–Anglicist quarrel was ONLY about using English instead of Sanskrit. What is the strongest correction?
 
-A. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-B. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-C. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-D. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
+A. It disputed both the language and content of publicly supported learning: classical Indian versus Western knowledge.
+B. It concerned which newspaper should carry the government's press notices, not education.
+C. It was a dispute over whether British civil servants could be trained at Fort William in 1800.
+D. It ended when Wood's Despatch banned instruction through Indian languages at every level.
 
-**Answer: D.**
-**Explanation:** Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Put these education-policy steps in the correct sequence AND identify the implementing decision, not just an advocate's text.
 
-### Q5. Which statement correctly identifies Calcutta Madrasa?
+A. Wood's Despatch → Charter Act → Macaulay's Minute → Bentinck's resolution
+B. Charter Act → Macaulay's Minute → Bentinck's resolution → Wood's Despatch
+C. Charter Act → Bentinck's resolution → Wood's Despatch → Macaulay's Minute
+D. Macaulay's Minute → Charter Act → Wood's Despatch → Bentinck's resolution
 
-A. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-B. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-C. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-D. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
+### Q7. Consider: (1) Macaulay backed English higher education; (2) Bentinck's 1835 resolution implemented the Anglicist preference; (3) downward filtration meant educating an elite in hope of wider diffusion. Which set is defensible?
 
-**Answer: A.**
-**Explanation:** Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. (1) alone
+B. (2) and (3) alone
+C. (1), (2) and (3)
+D. (1) and (3) alone
 
-### Q6. Which chronology card should be filed under Calcutta Madrasa?
+### Q8. An examiner contrasts the 'Magna Carta' label with the actual 1854 recommendations. Which package belongs to Wood's Despatch?
 
-A. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-B. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-C. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-D. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
+A. Newspaper licensing, security deposits, and a ban on English journals
+B. Exclusive funding of Sanskrit colleges and abolition of grants to private schools
+C. Universal compulsory primary schooling achieved across all provinces
+D. Departments of Public Instruction, grants-in-aid, teacher training, vernacular primary schools and universities
 
-**Answer: B.**
-**Explanation:** Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. A report states that Wood's Despatch founded universities in 1854. Which edited sentence preserves the distinction between recommendation and establishment?
 
-### Q7. Which option should a candidate retain when revising Calcutta Madrasa?
+A. Wood recommended universities in 1854; examining universities at Calcutta, Bombay and Madras were set up in 1857.
+B. Wood founded universities in 1835, and the Hunter Commission renamed them in 1857.
+C. Bentinck's 1835 resolution already established the three presidency examining universities.
+D. The Calcutta Madrasa and Sanskrit College jointly became the three universities of 1857.
 
-A. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-B. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-C. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-D. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
+### Q10. Match the review to its focus: Hunter Commission, Indian Universities Act, Sadler Commission. Which alignment survives scrutiny?
 
-**Answer: C.**
-**Explanation:** Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Hunter—1904 university supervision; Universities Act—primary schools; Sadler—newspaper licences
+B. Hunter—1882 primary/secondary review; Universities Act—Curzon's 1904 oversight; Sadler—1917 university inquiry, notably Calcutta
+C. Hunter—1854 grants-in-aid blueprint; Universities Act—1882 repeal of press law; Sadler—1857 licensing
+D. Hunter—1835 English Minute; Universities Act—founding Fort William; Sadler—widow remarriage
 
-### Q8. Which statement avoids a common matching trap about Calcutta Madrasa?
+### Q11. A dissertation calls the 1854 blueprint evidence that girls and lower-caste pupils immediately had equal access. Identify the missing premise.
 
-A. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-B. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-C. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-D. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
+A. Presidency universities were founded as elementary village schools.
+B. The 1813 Charter Act outlawed every locally run Indian-language school.
+C. Provision for schooling does not prove equal take-up; gender, caste, class and regional barriers remained.
+D. Vernacular primary education was expressly prohibited by Wood's Despatch.
 
-**Answer: D.**
-**Explanation:** Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which causal account makes sense of Indian initiative in education without denying colonial intent?
 
-### Q9. Which statement correctly identifies Sanskrit College at Banaras?
+A. Colonial instruction produced only loyal recruits, so no Indian political professions appeared.
+B. Every Indian village was rapidly served by English-medium universities after 1857.
+C. Indian reformers rejected Western scientific learning uniformly as a colonial imposition.
+D. Administratively useful English instruction also enabled professional networks and anti-colonial argument, unevenly distributed.
 
-A. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-B. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-C. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-D. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
+### Q13. A timeline includes Hicky, Metcalfe, the 1857 Licensing Act and Lytton. Which sequence captures shifts in the press regime?
 
-**Answer: A.**
-**Explanation:** The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. First newspaper (1780) → liberalisation (1835) → revolt-era licensing (1857) → vernacular-targeted restriction (1878)
+B. First newspaper (1780) → revolt-era licensing (1835) → Metcalfe liberalisation (1857) → vernacular restriction (1878)
+C. First newspaper (1780) → liberalisation (1835) → vernacular restriction (1857) → general licensing (1878)
+D. First newspaper (1780) → licensing (1835) → revolt-era liberalisation (1857) → vernacular restriction (1878)
 
-### Q10. Which chronology card should be filed under Sanskrit College at Banaras?
+### Q14. A reviewer describes the Licensing Act of 1857 as a continuation of unbroken press freedom after Metcalfe. What changes the assessment?
 
-A. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-B. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-C. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-D. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
+A. The Act founded the three examining universities and did not address newspapers.
+B. A revolt-era licensing restriction interrupts that liberalisation without being identical to the later Vernacular Press Act.
+C. Its main purpose was funding vernacular primary education through private grants.
+D. It repealed Lytton's press restrictions retroactively before they were enacted.
 
-**Answer: B.**
-**Explanation:** The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. A paper calls Lytton's 1878 Vernacular Press Act a measure applied equally to English and Indian-language newspapers. Which observation is most damaging?
 
-### Q11. Which option should a candidate retain when revising Sanskrit College at Banaras?
+A. Ripon's 1882 repeal preceded the legislation.
+B. Metcalfe introduced exactly the same Act in 1835.
+C. Its selective target was Indian-language papers; Amrita Bazar Patrika's switch to English illustrates that boundary.
+D. The Act was an education grant intended to widen vernacular classroom access.
 
-A. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-B. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-C. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-D. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
+### Q16. Who did what in the 1878–1882 press-law reversal?
 
-**Answer: C.**
-**Explanation:** The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Ripon enacted the restriction and Lytton repealed it, ending licensing.
+B. Metcalfe enacted the restriction and Curzon repealed it, ending oversight.
+C. Lytton abolished all English newspapers and Ripon retained his enactment.
+D. Lytton restricted Indian-language papers; Ripon repealed that enactment amid criticism.
 
-### Q12. Which statement avoids a common matching trap about Sanskrit College at Banaras?
+### Q17. An essay says English education eradicated vernacular journalism, so the 1878 press statute was redundant. Which response fits the evidence?
 
-A. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-B. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-C. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-D. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
+A. Indian-language print persisted alongside English-educated publics; its political reach made selective restraint meaningful.
+B. Only English papers were singled out by the 1878 law because vernacular print had vanished.
+C. Hicky's 1780 paper was a government university and never a press precedent.
+D. Ripon's repeal in 1882 established an exclusive English-medium education system.
 
-**Answer: D.**
-**Explanation:** The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. Which contrast explains why the label 'liberator of the press' and a later repressive statute can both appear in one colonial history?
 
-### Q13. Which statement correctly identifies Fort William College?
+A. Metcalfe personally enacted and repealed Lytton's 1878 law in 1835.
+B. Metcalfe liberalised press policy in 1835; subsequent administrations could and did impose renewed controls.
+C. Lytton liberalised Indian-language journalism while Metcalfe prohibited it.
+D. Ripon restored the Charter Act's newspaper-university charter in 1813.
 
-A. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-B. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-C. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-D. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
+### Q19. Consider (1) Hicky's Bengal Gazette began in 1780; (2) the Vernacular Press Act specifically targeted Indian-language papers; (3) Ripon's repeal in 1882 proves no subsequent press restraints were possible. Which combination holds?
 
-**Answer: A.**
-**Explanation:** Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. (2) and (3) only — exclude the early newspaper
+B. (1), (2) and (3) — treat repeal as permanent immunity
+C. (1) and (2) only — keep repeal distinct from permanent freedom
+D. (1) and (3) only — set aside the language-specific law
 
-### Q14. Which chronology card should be filed under Fort William College?
+### Q20. A columnist attributes 1882's education review and press-law repeal to a single new 'Hunter Press Act'. What is the correct separation?
 
-A. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-B. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-C. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-D. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
+A. Hunter repealed the Vernacular Press Act while Ripon wrote a report on schooling.
+B. Ripon appointed Hunter to report on press liberty before repealing the 1878 education act.
+C. Hunter reviewed universities and Ripon repealed Wood’s Despatch, both in 1882.
+D. The Hunter Commission examined education; Ripon repealed the Vernacular Press Act in the same year.
 
-**Answer: B.**
-**Explanation:** Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Which pairing avoids conflating colonial legal power with Indian reform advocacy?
 
-### Q15. Which option should a candidate retain when revising Fort William College?
+A. Bentinck's Regulation XVII (1829) and Rammohan Roy's anti-sati campaign
+B. Vidyasagar's 1856 decree abolishing sati and Metcalfe's widow-remarriage petition
+C. Curzon's abolition of sati and Wellesley's widow-remarriage statute
+D. Macaulay's decree against slavery and Ripon's anti-sati legislation
 
-A. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-B. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-C. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-D. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
+### Q22. A student thinks Regulation XVII, the 1843 action on slavery and the 1856 widow-remarriage law are interchangeable. Choose the correct three-stage mapping.
 
-**Answer: C.**
-**Explanation:** Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Sati—1856; slavery—1829; widow remarriage—1843
+B. Sati—1829; legal action on slavery—1843; widow remarriage—1856
+C. Sati—1843; slavery—1856; widow remarriage—1829
+D. All three were provisions of the education Despatch of 1854
 
-### Q16. Which statement avoids a common matching trap about Fort William College?
+### Q23. An advocate says the Hindu Widows' Remarriage Act of 1856 arose spontaneously from colonial benevolence. What corrective evidence is central here?
 
-A. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-B. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-C. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-D. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
+A. It was the work of Metcalfe's 1835 press reform rather than reform campaigners.
+B. It preceded Bentinck's abolition of sati by several decades.
+C. Vidyasagar's scriptural reasoning and public advocacy helped secure the legal measure.
+D. It established automatic and universal acceptance of widow remarriage.
 
-**Answer: D.**
-**Explanation:** Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. Two commentaries disagree: 'the state alone modernised society' and 'the state played no part in reform'. Which bounded interpretation reconciles the evidence?
 
-### Q17. Which statement correctly identifies Charter Act of 1813?
+A. Only the state's 1813 education allocation ended sati and slavery in all districts.
+B. Indian campaigning alone made legal prohibition of sati unnecessary.
+C. The 1854 education Despatch itself legislated widow remarriage and suppressed slavery.
+D. Reformist pressure and state legislation interacted, while enforcement and social reception remained uneven.
 
-A. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-B. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-C. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-D. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
+### Q25. Which inference is most defensible from women's education and unequal access in colonial India?
 
-**Answer: A.**
-**Explanation:** The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Girls' and lower-caste schooling depended significantly on Indian initiatives; formal education schemes did not erase exclusions.
+B. Wood's proposal immediately guaranteed equal university entry to every girl in rural India.
+C. Downward filtration's explicit goal was universal female primary education by 1835.
+D. The first newspaper in 1780 proves women and men enjoyed equal access to the press.
 
-### Q18. Which chronology card should be filed under Charter Act of 1813?
+### Q26. A governor cites presidency universities as evidence of uniform education across princely states and the interior. What is the strongest objection?
 
-A. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-B. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-C. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-D. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
+A. The universities predate the Charter Act and cannot serve as nineteenth-century evidence.
+B. Examining universities in three presidency cities cannot establish evenly distributed access or regional coverage.
+C. The universities were founded in Banaras, Madanapalle and Fort William.
+D. Wood's Despatch expressly prohibited establishing universities anywhere in India.
 
-**Answer: B.**
-**Explanation:** The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. A paper credits the Indian Universities Act to the same administrator who repealed Lytton's press law. Which substitution corrects the mistake?
 
-### Q19. Which option should a candidate retain when revising Charter Act of 1813?
+A. Metcalfe's Indian Universities Act of 1835; Ripon's press repeal of 1904
+B. Sadler's 1904 Act; Curzon's repeal of 1878 controls
+C. Curzon's 1904 university supervision; Ripon's 1882 repeal of the Vernacular Press Act
+D. Bentinck's 1857 Act; Wellesley's 1835 press liberalisation
 
-A. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-B. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-C. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-D. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
+### Q28. A student assigns the Sadler Commission to school-level review and the Hunter Commission to Calcutta University. Which edit repairs the file?
 
-**Answer: C.**
-**Explanation:** The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Sadler drafted Wood's 1854 Despatch; Hunter started the Madrasa in 1781.
+B. Hunter regulated the 1878 vernacular press; Sadler repealed it in 1882.
+C. Both were the same commission issuing separate papers in 1835 and 1857.
+D. Hunter's 1882 review dealt especially with primary/secondary education; Sadler's 1917 inquiry examined universities, notably Calcutta.
 
-### Q20. Which statement avoids a common matching trap about Charter Act of 1813?
+### Q29. A Prelims solution reports the 2021 Madanapalle and Songs from Prison answers as 'officially keyed' merely because the author found supporting histories. What should a careful editor do?
 
-A. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-B. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-C. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-D. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
+A. Cite the supplementary Tagore/Gandhi evidence but mark answer labels inferred because the local official key is unavailable.
+B. Use the routed Prelims question numbers as proof that the local 2021 official answer key is held.
+C. Treat the surviving Songs from Prison scan as the UPSC-marked key for its question.
+D. Mark both associations unverified because the 2021 official key is unavailable locally.
 
-**Answer: D.**
-**Explanation:** The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. A source note distinguishes the 2021 Madanapalle demand from the anthem's first composition. Which association is supported by the owner's supplementary material?
 
-### Q21. Which statement correctly identifies Macaulay's Minute?
+A. Tagore first composed Jana Gana Mana at Madanapalle; its English rendering was made elsewhere.
+B. Tagore rendered Jana Gana Mana into English as The Morning Song of India during his Madanapalle visit.
+C. Margaret Cousins translated Jana Gana Mana into English while Tagore composed its music there.
+D. Tagore visited Madanapalle to establish a presidency examining university.
 
-A. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-B. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-C. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-D. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
+### Q31. When tracing a 2021 objective-demand card on Songs from Prison, which bibliographic caution is justified?
 
-**Answer: A.**
-**Explanation:** Macaulay's Minute of 1835 advocated English-medium Western learning for higher education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Credit John S. Hoyland with translating the lyrics and Gandhi only with arranging the book.
+B. Credit Tagore with the Indian-lyrics translations and Gandhi with preparing their publication.
+C. The scanned Songs from Prison identifies M.K. Gandhi's translations of Indian lyrics, prepared for publication by John S. Hoyland.
+D. Credit M.K. Gandhi as publisher and Hoyland as translator of the Indian lyrics.
 
-### Q22. Which chronology card should be filed under Macaulay's Minute?
+### Q32. A syllabus note asks why the 1878 restriction mattered politically despite limited access to formal education. Which mechanism is strongest?
 
-A. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-B. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-C. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-D. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
+A. Formal English education eliminated Indian-language audiences before politics developed.
+B. Press offences proved that the 1813 school grant had reached every household.
+C. The 1857 universities had direct jurisdiction to silence Indian-language editors.
+D. Vernacular print carried public criticism beyond the English-reading elite, making language-based control politically salient.
 
-**Answer: B.**
-**Explanation:** Macaulay's Minute of 1835 advocated English-medium Western learning for higher education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33. In a counterfactual, Wood's proposal for vernacular primary schooling is treated as identical to Macaulay's filtration theory. Which distinction rebuts the equation?
 
-### Q23. Which option should a candidate retain when revising Macaulay's Minute?
+A. Filtration privileged elite English education as a channel downward; Wood additionally proposed vernacular primary and system-wide institutions.
+B. Both documents had already founded the same three universities by 1835.
+C. The 1813 Act required all missionaries to teach only in Sanskrit colleges.
+D. Hunter's 1882 school review authored Macaulay's 1835 Minute.
 
-A. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-B. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-C. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-D. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
+### Q34. An essay claims the colonial state could neither educate officials nor restrain critics. Which paired example falsifies BOTH absolutes without endorsing the state?
 
-**Answer: C.**
-**Explanation:** Macaulay's Minute of 1835 advocated English-medium Western learning for higher education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Fort William trained Indian university examiners; the 1878 Act restricted all English newspapers.
+B. Fort William trained European Company officials; the 1878 Act singled out Indian-language newspapers.
+C. Calcutta Madrasa trained European Company officials; Metcalfe prohibited vernacular papers in 1835.
+D. The universities of 1857 trained European Company recruits; Ripon enacted the vernacular press restriction.
 
-### Q24. Which statement avoids a common matching trap about Macaulay's Minute?
+### Q35. Consider: (1) the 1854 education plan recommended grants-in-aid; (2) the 1857 universities were examining institutions; (3) the 1904 Universities Act reduced Curzon's official oversight. Which set holds?
 
-A. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-B. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-C. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-D. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
+A. (1) and (3) only — omit the examining universities
+B. (2) and (3) only — omit the aid proposal
+C. (1) and (2) only — reject the Curzon clause
+D. (1), (2) and (3) — include reduced Curzon oversight
 
-**Answer: D.**
-**Explanation:** Macaulay's Minute of 1835 advocated English-medium Western learning for higher education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36. An answer joins the abolition of sati to slavery law and widow remarriage as though all three statutes solved social resistance. Which test exposes the overclaim?
 
-### Q25. Which statement correctly identifies Bentinck's 1835 resolution?
+A. Their mere enactment implies no need to examine reformers, compliance or orthodox reaction.
+B. Compare the dates of enactment alone and infer which social practice disappeared earliest.
+C. Treat the 1854 education blueprint as proof that these social reforms gained equal acceptance.
+D. Compare each legal measure with Indian campaigning and limits of enforcement or household acceptance.
 
-A. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-B. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-C. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-D. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
+### Q37. A candidate sees 1835 twice in a mixed education/press chronology. Which pair belongs together WITHOUT conflation?
 
-**Answer: A.**
-**Explanation:** Bentinck's 1835 resolution implemented the Anglicist preference in state education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Macaulay's Minute and Bentinck's Anglicist resolution in education; Metcalfe's liberalisation in press policy.
+B. Wood's school blueprint and Lytton's restrictive press law were both issued in 1835.
+C. Curzon's University Act and Ripon's repeal were the two linked 1835 actions.
+D. Hicky published his first newspaper and the Hunter Commission reported in the same year.
 
-### Q26. Which chronology card should be filed under Bentinck's 1835 resolution?
+## SEPARATE MCQ ANSWER KEY — SOLUTIONS AND TRAPS
 
-A. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-B. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-C. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-D. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
+### Q1 — A
 
-**Answer: B.**
-**Explanation:** Bentinck's 1835 resolution implemented the Anglicist preference in state education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: Its intended trainees were European officials, not pupils of a mass Indian school system.
+- **B.** Wrong: The 1813 grant neither founded this college nor specifies such a teacher corps.
+- **C.** Wrong: The presidency universities arrived in 1857, well after the Wellesley initiative.
+- **D.** Wrong: Curzon belongs to later university oversight, not Fort William's origin.
 
-### Q27. Which option should a candidate retain when revising Bentinck's 1835 resolution?
+**Trap logic:** A college's location in India does not identify its intended students.
 
-A. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-B. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-C. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
-D. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
+### Q2 — B
 
-**Answer: C.**
-**Explanation:** Bentinck's 1835 resolution implemented the Anglicist preference in state education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Calcutta Madrasa (1781) followed the Gazette (1780), not vice versa.
+- **B.** Correct: Gazette 1780, Madrasa 1781, Sanskrit College 1791, Fort William 1800.
+- **C.** Wrong: Banaras (1791) cannot precede the 1781 Madrasa; the final placement is also wrong.
+- **D.** Wrong: Banaras was established after both the earliest press and the Madrasa.
 
-### Q28. Which statement avoids a common matching trap about Bentinck's 1835 resolution?
+**Trap logic:** Do not treat a first newspaper as a school or displace it from the 1780 opening.
 
-A. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-B. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-C. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-D. Bentinck's 1835 resolution implemented the Anglicist preference in state education.
+### Q3 — C
 
-**Answer: D.**
-**Explanation:** Bentinck's 1835 resolution implemented the Anglicist preference in state education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The Madrasa was a Hastings-era Orientalist institution, not a servants' training centre.
+- **B.** Wrong: Fort William had an official administrative training purpose distinct from Indian education.
+- **C.** Correct: The two sites share a colonial setting but were directed at different learner groups.
+- **D.** Wrong: Their functions are inverted here, and Fort William was not a mass school.
 
-### Q29. Which statement correctly identifies Metcalfe's press policy?
+**Trap logic:** Similar use of Indian languages does not mean identical pedagogic purposes.
 
-A. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-B. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-C. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-D. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
+### Q4 — D
 
-**Answer: A.**
-**Explanation:** Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Hastings's Madrasa precedes this parliamentary intervention by decades.
+- **B.** Wrong: An allocation cannot establish actual universal schooling or immediate implementation.
+- **C.** Wrong: The presidency universities date to 1857, not the Charter Act.
+- **D.** Correct: The appropriation and permission are provisions, not evidence of achieved mass access.
 
-### Q30. Which chronology card should be filed under Metcalfe's press policy?
+**Trap logic:** Statutory provision ≠ expenditure, enrolment or social equality.
 
-A. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-B. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-C. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-D. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
+### Q5 — A
 
-**Answer: B.**
-**Explanation:** Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: The choice implicated bodies of knowledge and the constituencies served by state support.
+- **B.** Wrong: Newspaper control is a related colonial issue, not the heart of this controversy.
+- **C.** Wrong: Fort William's administrative training is earlier and belongs to another learner group.
+- **D.** Wrong: Wood recommended vernacular primary schooling; it did not impose an all-English ban.
 
-### Q31. Which option should a candidate retain when revising Metcalfe's press policy?
+**Trap logic:** Orientalism was also a technology of rule, not simply cultural deference.
 
-A. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-B. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-C. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
-D. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
+### Q6 — B
 
-**Answer: C.**
-**Explanation:** Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Wood's blueprint followed the 1813 appropriation and 1835 Anglicist shift.
+- **B.** Correct: The Minute argued for the turn; Bentinck's 1835 resolution acted on it; Wood followed in 1854.
+- **C.** Wrong: The sequence dislocates Macaulay from the 1835 turn that preceded Wood.
+- **D.** Wrong: The 1813 settlement cannot follow an 1835 Minute.
 
-### Q32. Which statement avoids a common matching trap about Metcalfe's press policy?
+**Trap logic:** Minute ≠ government resolution ≠ later system-wide Despatch.
 
-A. The Hunter Commission of 1882 reviewed primary and secondary education.
-B. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-C. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-D. Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.
+### Q7 — C
 
-**Answer: D.**
-**Explanation:** Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The resolution and filtration theory are also part of the 1835 settlement.
+- **B.** Wrong: Macaulay's advocacy is essential; omission of (1) breaks the account.
+- **C.** Correct: All three distinguish argument, policy adoption and proposed social transmission.
+- **D.** Wrong: Excluding the implementing resolution confuses advocacy with state policy.
 
-### Q33. Which statement correctly identifies Wood's Despatch?
+**Trap logic:** Filtration describes a theory, not proof that diffusion succeeded.
 
-A. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-B. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-C. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-D. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
+### Q8 — D
 
-**Answer: A.**
-**Explanation:** Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The Despatch concerns education architecture, not a list of press penalties.
+- **B.** Wrong: Orientalist-only funding conflicts with its system-wide institutional proposals.
+- **C.** Wrong: Recommending primary schooling did not ensure universal compulsory access.
+- **D.** Correct: These institutional, financial and language-level provisions make a blueprint, not an outcome census.
 
-### Q34. Which chronology card should be filed under Wood's Despatch?
+**Trap logic:** Conventional 'Magna Carta' is a label, not a verbatim quotation from the Despatch.
 
-A. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-B. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-C. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-D. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
+### Q9 — A
 
-**Answer: B.**
-**Explanation:** Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: Its blueprint preceded the actual three presidency institutions by three years.
+- **B.** Wrong: Hunter's 1882 review did not perform the alleged renaming.
+- **C.** Wrong: The 1835 resolution advanced Anglicist higher education; it did not establish the 1857 universities.
+- **D.** Wrong: The older Orientalist institutions had separate functions and histories.
 
-### Q35. Which option should a candidate retain when revising Wood's Despatch?
+**Trap logic:** A recommendation's date must never be substituted for a founding date.
 
-A. The Hunter Commission of 1882 reviewed primary and secondary education.
-B. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-C. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
-D. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
+### Q10 — B
 
-**Answer: C.**
-**Explanation:** Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Curzon's 1904 measure concerns universities; Hunter's 1882 inquiry addressed school stages.
+- **B.** Correct: It separates review of primary/secondary issues, tighter university control and later university inquiry.
+- **C.** Wrong: These assign education labels to a Despatch and press events instead of their actual subjects.
+- **D.** Wrong: Neither Macaulay's position nor Fort William nor social legislation is one of those reviews.
 
-### Q36. Which statement avoids a common matching trap about Wood's Despatch?
+**Trap logic:** Commission, statute and Despatch are not interchangeable institutional forms.
 
-A. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-B. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-C. The Hunter Commission of 1882 reviewed primary and secondary education.
-D. Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.
+### Q11 — C
 
-**Answer: D.**
-**Explanation:** Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Those institutions examined higher-level students, not the entire school-age population.
+- **B.** Wrong: The Act allocated funds and allowed missionaries; the asserted blanket prohibition is unsupported.
+- **C.** Correct: The policy–delivery gap and uneven access require separate evidence on beneficiaries.
+- **D.** Wrong: Wood recommended the very primary instruction this answer says it prohibited.
 
-### Q37. Which statement correctly identifies Presidency universities?
+**Trap logic:** Do not deduce social coverage from the existence of an institutional blueprint.
 
-A. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-B. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-C. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-D. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
+### Q12 — D
 
-**Answer: A.**
-**Explanation:** Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Loyal clerks were an intended outcome, but the press and nationalist intelligentsia complicate 'only'.
+- **B.** Wrong: Universities were examining bodies, not a universal network of village schools.
+- **C.** Wrong: Reformers could seek science and law; demand cannot simply be reduced to coercion.
+- **D.** Correct: The unintended political use of education must be weighed against unequal entry.
 
-### Q38. Which chronology card should be filed under Presidency universities?
+**Trap logic:** Neither 'solely benevolent' nor 'solely reproductive of empire' captures the double edge.
 
-A. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-B. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-C. The Hunter Commission of 1882 reviewed primary and secondary education.
-D. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
+### Q13 — A
 
-**Answer: B.**
-**Explanation:** Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: Each step has a distinct role; press liberty fluctuated before the language-selective Act.
+- **B.** Wrong: The licensing and Metcalfe stages are transposed: liberalisation was in 1835, licensing in 1857.
+- **C.** Wrong: The 1857 restriction was licensing; the vernacular-selective law came in 1878.
+- **D.** Wrong: The opening and restriction in the middle of this sequence are assigned opposite functions.
 
-### Q39. Which option should a candidate retain when revising Presidency universities?
+**Trap logic:** Metcalfe's 'liberator' title never implies permanent press immunity.
 
-A. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-B. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-C. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
-D. The Hunter Commission of 1882 reviewed primary and secondary education.
+### Q14 — B
 
-**Answer: C.**
-**Explanation:** Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Universities were established that year, but are separate from the licensing measure.
+- **B.** Correct: The political crisis brought renewed controls; the 1878 law had a different, language-specific reach.
+- **C.** Wrong: Grants-in-aid belong to Wood's education proposals, not a press licence statute.
+- **D.** Wrong: Ripon repealed the later Act in 1882, not through a 1857 retrospective measure.
 
-### Q40. Which statement avoids a common matching trap about Presidency universities?
+**Trap logic:** Distinguish recurring press control from the specific scope of a particular Act.
 
-A. The Hunter Commission of 1882 reviewed primary and secondary education.
-B. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-C. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-D. Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.
+### Q15 — C
 
-**Answer: D.**
-**Explanation:** Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: A repeal must follow the 1878 enactment, not anticipate it.
+- **B.** Wrong: Metcalfe's liberalising policy preceded Lytton's restriction by decades.
+- **C.** Correct: Changing the paper's language exposed the law's discriminating reach.
+- **D.** Wrong: The policy addressed the press, not grants to schools.
 
-### Q41. Which statement correctly identifies Licensing Act of 1857?
+**Trap logic:** 'Vernacular' marks a legal targeting distinction, not a synonym for all newspapers.
 
-A. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-B. The Hunter Commission of 1882 reviewed primary and secondary education.
-C. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-D. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
+### Q16 — D
 
-**Answer: A.**
-**Explanation:** The Licensing Act of 1857 marked renewed press restriction during the revolt crisis. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Their roles are reversed, and repeal did not abolish all possible licensing.
+- **B.** Wrong: Neither Metcalfe's 1835 reform nor Curzon's university policy is this 1878–82 pair.
+- **C.** Wrong: The Act was selective; retaining rather than repealing also reverses Ripon's role.
+- **D.** Correct: The two viceroys represent restriction and reversal in that order.
 
-### Q42. Which chronology card should be filed under Licensing Act of 1857?
+**Trap logic:** Repeal of one Act is not proof of unrestricted publication thereafter.
 
-A. The Hunter Commission of 1882 reviewed primary and secondary education.
-B. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-C. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-D. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
+### Q17 — A
 
-**Answer: B.**
-**Explanation:** The Licensing Act of 1857 marked renewed press restriction during the revolt crisis. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: A coexisting vernacular public sphere explains why language-based restrictions were possible.
+- **B.** Wrong: The enacted target was Indian-language newspapers, contradicting this reversal.
+- **C.** Wrong: Hicky's publication belongs to press history, not to higher education institutions.
+- **D.** Wrong: A press-law repeal does not dictate school languages.
 
-### Q43. Which option should a candidate retain when revising Licensing Act of 1857?
+**Trap logic:** Press and education histories intersect, but neither replaces the other.
 
-A. The Hunter Commission of 1882 reviewed primary and secondary education.
-B. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-C. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
-D. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
+### Q18 — B
 
-**Answer: C.**
-**Explanation:** The Licensing Act of 1857 marked renewed press restriction during the revolt crisis. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The two actions are decades apart and belong to different policymakers.
+- **B.** Correct: An earlier opening did not constitutionally prevent the 1857 and 1878 restrictions.
+- **C.** Wrong: The positions of the two governors are inverted.
+- **D.** Wrong: Ripon's reversal was in 1882 and concerned the Vernacular Press Act.
 
-### Q44. Which statement avoids a common matching trap about Licensing Act of 1857?
+**Trap logic:** Institutional chronology matters more than an epithet about one administrator.
 
-A. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-B. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-C. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-D. The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.
+### Q19 — C
 
-**Answer: D.**
-**Explanation:** The Licensing Act of 1857 marked renewed press restriction during the revolt crisis. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Ripon's repeal does not validate the absolute claim in (3); Hicky also matters.
+- **B.** Wrong: Later controls remained possible; the assertion of permanent immunity is false.
+- **C.** Correct: The first-newspaper and selective-act claims stand, but the repeal's effect is bounded.
+- **D.** Wrong: The language-specific character in (2) is correct, whereas (3) overreaches.
 
-### Q45. Which statement correctly identifies Vernacular Press Act?
+**Trap logic:** A statute's repeal removes that statute, not the state's regulatory capacity.
 
-A. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-B. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-C. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-D. The Hunter Commission of 1882 reviewed primary and secondary education.
+### Q20 — D
 
-**Answer: A.**
-**Explanation:** Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Hunter is a commission on schooling, not the named legislative repealer.
+- **B.** Wrong: Hunter reviewed education, whereas the 1878 statute subject to repeal controlled vernacular newspapers.
+- **C.** Wrong: Hunter focused especially on primary/secondary education; Wood’s educational blueprint was not the press law repealed.
+- **D.** Correct: The coincident year should not collapse a review into a press enactment.
 
-### Q46. Which chronology card should be filed under Vernacular Press Act?
+**Trap logic:** Same-year chronology does not merge agencies or subjects.
 
-A. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-B. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-C. The Hunter Commission of 1882 reviewed primary and secondary education.
-D. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
+### Q21 — A
 
-**Answer: B.**
-**Explanation:** Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: The state's prohibition and an Indian reformer's campaign are complementary, not identical, roles.
+- **B.** Wrong: Vidyasagar campaigned for widow remarriage; Bentinck enacted the sati measure.
+- **C.** Wrong: These officials are associated here with universities and administrative training, respectively.
+- **D.** Wrong: Macaulay's Minute concerns education; these supposed reform decrees misattribute both officials.
 
-### Q47. Which option should a candidate retain when revising Vernacular Press Act?
+**Trap logic:** Avoid both the 'British gift' story and the story that reformers alone enacted statutes.
 
-A. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-B. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-C. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
-D. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
+### Q22 — B
 
-**Answer: C.**
-**Explanation:** Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The 1856 law concerns widows, while the 1829 prohibition concerns sati.
+- **B.** Correct: These separate policy outputs also require separate assessment of actual social uptake.
+- **C.** Wrong: Both the 1843 and 1856 markers have been reassigned to the wrong measures.
+- **D.** Wrong: A schooling blueprint did not enact three distinct social reform statutes.
 
-### Q48. Which statement avoids a common matching trap about Vernacular Press Act?
+**Trap logic:** Date-and-topic matching is necessary but never sufficient to establish social transformation.
 
-A. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-B. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-C. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-D. Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.
+### Q23 — C
 
-**Answer: D.**
-**Explanation:** Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: A press liberalisation cannot explain this particular social statute.
+- **B.** Wrong: The abolition of sati occurred in 1829, before this 1856 enactment.
+- **C.** Correct: Indian social argument interacted with colonial legislation; neither alone explains adoption.
+- **D.** Wrong: Orthodox resistance and enforcement limits forbid equating legality with widespread practice.
 
-### Q49. Which statement correctly identifies Repeal of the Vernacular Press Act?
+**Trap logic:** The named reformer is essential; legal change still differs from customary acceptance.
 
-A. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-B. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-C. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-D. The Hunter Commission of 1882 reviewed primary and secondary education.
+### Q24 — D
 
-**Answer: A.**
-**Explanation:** Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: School funds do not demonstrate the abolition or acceptance of unrelated practices.
+- **B.** Wrong: Campaigning mattered, but Regulation XVII was an actual state intervention.
+- **C.** Wrong: The Despatch is a school-policy document; the social measures had different dates.
+- **D.** Correct: Agency, law and implementation must be distinguished in both cases.
 
-### Q50. Which chronology card should be filed under Repeal of the Vernacular Press Act?
+**Trap logic:** Reject both unilateral authorship and instantaneous compliance.
 
-A. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-B. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-C. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-D. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
+### Q25 — A
 
-**Answer: B.**
-**Explanation:** Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: Caste, gender, class and locality conditioned uptake beyond a policy's formal wording.
+- **B.** Wrong: This reads equal delivery into a recommendation without evidence of access.
+- **C.** Wrong: Filtration prioritised an educated elite, rather than universal girls' schooling.
+- **D.** Wrong: A newspaper's founding cannot demonstrate parity in education or authorship.
 
-### Q51. Which option should a candidate retain when revising Repeal of the Vernacular Press Act?
+**Trap logic:** Treat exclusion and Indian agency as mechanisms, not invented literacy statistics.
 
-A. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-B. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-C. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
-D. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
+### Q26 — B
 
-**Answer: C.**
-**Explanation:** Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: They were established in 1857, after the 1813 Act.
+- **B.** Correct: Institutional concentration and social selectivity defeat the inference of universality.
+- **C.** Wrong: Those are different sites with other histories, not the three 1857 universities.
+- **D.** Wrong: Wood actually recommended universities in the education framework.
 
-### Q52. Which statement avoids a common matching trap about Repeal of the Vernacular Press Act?
+**Trap logic:** Check spatial reach before generalising from a metropolitan institution.
 
-A. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-B. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-C. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-D. Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism.
+### Q27 — C
 
-**Answer: D.**
-**Explanation:** Ripon repealed the Vernacular Press Act in 1882 after sustained Indian criticism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Metcalfe belongs to press liberalisation; Ripon's repeal occurred in 1882.
+- **B.** Wrong: Sadler was associated with the later inquiry, not the 1904 Act.
+- **C.** Correct: These are different subject areas, administrators and dates.
+- **D.** Wrong: The universities were founded in 1857; the press reform belongs to Metcalfe.
 
-### Q53. Which statement correctly identifies Hunter Commission?
+**Trap logic:** One official's reputation cannot be transferred between universities and press.
 
-A. The Hunter Commission of 1882 reviewed primary and secondary education.
-B. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-C. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-D. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
+### Q28 — D
 
-**Answer: A.**
-**Explanation:** The Hunter Commission of 1882 reviewed primary and secondary education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The Despatch is earlier policy, and Hastings is linked to the Madrasa.
+- **B.** Wrong: Neither commission is the named owner of those press measures.
+- **C.** Wrong: Their dates, remit and identity differ; neither is an 1835 or 1857 body.
+- **D.** Correct: This restores their respective levels and chronological placement.
 
-### Q54. Which chronology card should be filed under Hunter Commission?
+**Trap logic:** University inquiry and primary-school review are not substitutes even when both concern education.
 
-A. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-B. The Hunter Commission of 1882 reviewed primary and secondary education.
-C. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-D. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
+### Q29 — A
 
-**Answer: B.**
-**Explanation:** The Hunter Commission of 1882 reviewed primary and secondary education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: Historical support and possession of an official answer key are separate provenance claims.
+- **B.** Wrong: A question-routing ledger verifies demands, not possession of the official answer key.
+- **C.** Wrong: The book scan supports a translator attribution; it cannot certify a UPSC option letter.
+- **D.** Wrong: Missing local official-key provenance does not erase the supplementary evidence for the historical associations.
 
-### Q55. Which option should a candidate retain when revising Hunter Commission?
+**Trap logic:** Evidence for content never licenses a fabricated official-key citation.
 
-A. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-B. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-C. The Hunter Commission of 1882 reviewed primary and secondary education.
-D. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
+### Q30 — B
 
-**Answer: C.**
-**Explanation:** The Hunter Commission of 1882 reviewed primary and secondary education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The supplementary Madanapalle evidence concerns his English rendering, not the first composition.
+- **B.** Correct: The owner's supplementary account links that English rendering to the location, not the original writing of the song.
+- **C.** Wrong: The supplementary account links Tagore to English rendering and Cousins to musical notation, not these swapped roles.
+- **D.** Wrong: The Madanapalle link concerns a song translation, whereas the examining universities were Calcutta, Bombay and Madras.
 
-### Q56. Which statement avoids a common matching trap about Hunter Commission?
+**Trap logic:** This association remains inferred for the routed Prelims question; no local official 2021 key is held.
 
-A. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-B. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-C. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-D. The Hunter Commission of 1882 reviewed primary and secondary education.
+### Q31 — C
 
-**Answer: D.**
-**Explanation:** The Hunter Commission of 1882 reviewed primary and secondary education. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The scan credits Gandhi with translations; Hoyland prepared the publication.
+- **B.** Wrong: This reverses the documented translator and preparer; Tagore belongs to the separate Madanapalle demand.
+- **C.** Correct: The ownership evidence concerns translator and publication preparation; the routed answer is still inferred.
+- **D.** Wrong: Gandhi is identified as translator, and Hoyland prepared the work for publication, not vice versa.
 
-### Q57. Which statement correctly identifies Indian Universities Act?
+**Trap logic:** Do not conflate supplementary bibliographic evidence with the unavailable official key.
 
-A. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-B. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-C. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-D. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
+### Q32 — D
 
-**Answer: A.**
-**Explanation:** Curzon's Indian Universities Act of 1904 increased official supervision of universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Parallel vernacular journalism contradicts this extinction theory.
+- **B.** Wrong: Education appropriation is not evidence of universal readership.
+- **C.** Wrong: Examination bodies did not administer Lytton's targeted press legislation.
+- **D.** Correct: The press could extend political communication beyond the narrow English-educated group.
 
-### Q58. Which chronology card should be filed under Indian Universities Act?
+**Trap logic:** Avoid deriving audience size or precise circulation from the statute alone.
 
-A. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-B. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-C. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-D. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
+### Q33 — A
 
-**Answer: B.**
-**Explanation:** Curzon's Indian Universities Act of 1904 increased official supervision of universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: A level-of-schooling and institutional comparison shows the proposals differ in scope.
+- **B.** Wrong: The examining universities followed Wood's proposal in 1857.
+- **C.** Wrong: Permission for missionaries does not specify such a universal instructional mandate.
+- **D.** Wrong: Hunter's later review cannot be the authorship of an earlier Minute.
 
-### Q59. Which option should a candidate retain when revising Indian Universities Act?
+**Trap logic:** Distinguish the proposal for mass schooling from proof of its financing or delivery.
 
-A. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-B. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-C. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
-D. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
+### Q34 — B
 
-**Answer: C.**
-**Explanation:** Curzon's Indian Universities Act of 1904 increased official supervision of universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: The college trained European servants, and Lytton targeted the Indian-language press.
+- **B.** Correct: Capacity for official training and selective repression coexisted with unintended political opposition.
+- **C.** Wrong: The official training site was Fort William; Metcalfe liberalised rather than banned the press.
+- **D.** Wrong: Examining universities differ from Fort William, and Ripon repealed rather than enacted Lytton’s law.
 
-### Q60. Which statement avoids a common matching trap about Indian Universities Act?
+**Trap logic:** Testing two different state capacities requires two correctly assigned institutions.
 
-A. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-B. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-C. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-D. Curzon's Indian Universities Act of 1904 increased official supervision of universities.
+### Q35 — C
 
-**Answer: D.**
-**Explanation:** Curzon's Indian Universities Act of 1904 increased official supervision of universities. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Curzon's measure tightened rather than relaxed oversight; (2) is sound.
+- **B.** Wrong: Curzon's direction is misstated, though the university description stands.
+- **C.** Correct: Both early provisions are sound; the later oversight clause is reversed.
+- **D.** Wrong: The third assertion conflicts with the Act's supervisory effect.
 
-### Q61. Which statement correctly identifies Sadler Commission?
+**Trap logic:** Avoid mistaking expansion of universities for an end to state control.
 
-A. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-B. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-C. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-D. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
+### Q36 — D
 
-**Answer: A.**
-**Explanation:** The Sadler Commission of 1917 examined university education with special attention to Calcutta. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Wrong: Legal enactment alone cannot prove social practice changed everywhere.
+- **B.** Wrong: A statute’s chronological priority is not a measure of compliance or disappearance of the practice.
+- **C.** Wrong: Wood’s schooling proposals cannot establish social acceptance of separate reforms.
+- **D.** Correct: The separate analytical stages distinguish advocacy, statute and lived consequence.
 
-### Q62. Which chronology card should be filed under Sadler Commission?
+**Trap logic:** Source-backed reform chronology supports a qualified verdict, not a universal numerical claim.
 
-A. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-B. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-C. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-D. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
+### Q37 — A
 
-**Answer: B.**
-**Explanation:** The Sadler Commission of 1917 examined university education with special attention to Calcutta. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Explanation by option:**
+- **A.** Correct: Same calendar year contains distinct educational and press interventions under different names.
+- **B.** Wrong: Wood belongs to 1854 and Lytton's selective law to 1878.
+- **C.** Wrong: Their measures belong to 1904 and 1882 respectively.
+- **D.** Wrong: The first newspaper dates to 1780 and the school review to 1882.
 
-### Q63. Which option should a candidate retain when revising Sadler Commission?
-
-A. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-D. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-
-**Answer: C.**
-**Explanation:** The Sadler Commission of 1917 examined university education with special attention to Calcutta. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Sadler Commission?
-
-A. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-D. The Sadler Commission of 1917 examined university education with special attention to Calcutta.
-
-**Answer: D.**
-**Explanation:** The Sadler Commission of 1917 examined university education with special attention to Calcutta. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Abolition of sati?
-
-A. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-B. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-C. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-D. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-
-**Answer: A.**
-**Explanation:** Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Abolition of sati?
-
-A. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-B. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-C. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-D. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-
-**Answer: B.**
-**Explanation:** Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Abolition of sati?
-
-A. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-D. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-
-**Answer: C.**
-**Explanation:** Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Abolition of sati?
-
-A. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-B. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-C. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-D. Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning.
-
-**Answer: D.**
-**Explanation:** Regulation XVII under Bentinck abolished sati in 1829 after sustained Indian reformist campaigning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Legal action on slavery?
-
-A. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-D. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-
-**Answer: A.**
-**Explanation:** Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Legal action on slavery?
-
-A. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-B. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-C. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-D. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-
-**Answer: B.**
-**Explanation:** Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Legal action on slavery?
-
-A. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-D. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-
-**Answer: C.**
-**Explanation:** Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Legal action on slavery?
-
-A. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-B. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-C. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-D. Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence.
-
-**Answer: D.**
-**Explanation:** Colonial legislation legally addressed slavery in India in 1843, though law did not instantly erase social dependence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Widow Remarriage Act?
-
-A. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-B. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-C. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-D. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-
-**Answer: A.**
-**Explanation:** The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Widow Remarriage Act?
-
-A. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-B. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-C. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-D. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-
-**Answer: B.**
-**Explanation:** The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Widow Remarriage Act?
-
-A. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-B. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-C. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-D. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-
-**Answer: C.**
-**Explanation:** The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Widow Remarriage Act?
-
-A. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-B. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-C. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-D. The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign.
-
-**Answer: D.**
-**Explanation:** The Hindu Widows' Remarriage Act of 1856 followed Vidyasagar's scriptural and public campaign. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Double-edged education?
-
-A. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-B. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-C. Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.
-D. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-
-**Answer: A.**
-**Explanation:** English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Double-edged education?
-
-A. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-B. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-C. Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.
-D. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-
-**Answer: B.**
-**Explanation:** English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Double-edged education?
-
-A. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-B. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-C. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-D. The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.
-
-**Answer: C.**
-**Explanation:** English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Double-edged education?
-
-A. Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law.
-B. Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.
-C. The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity.
-D. English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary.
-
-**Answer: D.**
-**Explanation:** English education served colonial staffing needs but also enabled a press, professions and nationalist political vocabulary. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap logic:** A shared year does not mean a shared author, policy instrument or purpose.
 
 ### Semantic-completeness coverage drills — Modern Topic 09
 

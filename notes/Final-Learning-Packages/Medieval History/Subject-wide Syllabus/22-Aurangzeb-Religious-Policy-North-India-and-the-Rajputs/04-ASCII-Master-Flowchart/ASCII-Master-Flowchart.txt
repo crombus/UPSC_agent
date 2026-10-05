@@ -1,0 +1,170 @@
+AURANGZEB: RELIGIOUS POLICY, NORTH INDIA & THE RAJPUTS - ASCII MASTER FLOW
+==========================================================================
+
+STARTING QUESTION
+  How far did sharper hierarchy, uneven coercive practice and Rajput
+  mismanagement weaken Mughal legitimacy in North India?
+
+1) TOPIC BOUNDARY
+  Topic 21 -> succession war only as bridge to 1658.
+  Topic 22 -> law, jizyah, temple evidence, Jat/Satnami/Sikh context, Rajput rupture.
+  Topic 23 -> Shivaji, Marathas, Deccan war, jagirdari crisis.
+
+2) CHRONOLOGY ANCHORS
+  1658 accession result
+   -> 1667 Jai Singh dies
+   -> c.1669 temple-order/Jat environment
+   -> 1672 Satnami rising near Narnaul
+   -> 1675 Guru Tegh Bahadur executed at Delhi (Nov.)
+   -> 1678 Jaswant Singh dies at Jamrud
+   -> 1679 jizyah reimposed + Rajput war sharpens
+   -> Jan. 1681 Prince Akbar revolt
+   -> 1698 Ajit Singh recognised (limited)
+   -> 1699 Khalsa founded
+   -> 1704 southern suspension of jizyah
+   -> 1707 Aurangzeb dies / 1712 formal abolition
+
+3) LAW AND SOVEREIGNTY
+  sharia -> legal idiom / moral preference
+  zawabit -> ruler-made regulation / political discretion
+  Fatawa-i-Alamgiri -> Hanafi compendium, NOT constitution
+  empire -> emperor appoints / taxes / wars / grants exceptions
+  chain -> sharia opinion -> emperor frames order -> qazi or officer applies
+           or evades -> locality absorbs, negotiates or resists
+
+4) PERIODISE POLICY
+  early pragmatic continuity
+   -> court-symbolic puritan turn
+      (end of jharoka darshan / reduced Nauroz / limits on court music /
+       regulated coin formulae / muhtasibs appointed / mosque repair)
+   -> c.1669-79 sharper legal-symbolic differentiation
+   -> late wartime rule with exceptions and uneven enforcement
+  RULE -> symbolic change matters; uneven enforcement does not erase it.
+
+5) JIZYAH, 1679
+  poll tax on differentiated non-Muslim subjecthood; not land revenue, not customs
+  exempt categories -> women, children, indigent persons and some dependants
+  receipts -> separate treasury for needy Muslims / ulama, NOT general-treasury relief
+   + orthodoxy
+   + public assertion of Islamic rulership
+   + juristic / ulama patronage
+   + fiscal form
+   -> collector-subject friction, corruption, crop-failure remission
+   -> large official total (Satish Chandra) != realised yield
+   -> 1704 southern suspension -> 1712 abolition under Jahandar Shah
+   -> symbolic cost > neat fiscal gain
+
+6) TEMPLE POLICY METHOD
+  evidence ladder
+   1. general or provincial order
+   2. site-specific destruction / conversion / defacement
+   3. wartime punishment in rebellious zones
+   4. grants, protection or non-interference elsewhere
+   5. material remains and later complaint records
+  method -> dated site -> source type -> stated context -> actual action
+            -> regional reach -> counter-evidence
+  named cases -> c.1669 order context; Kashi Vishvanath; Keshava Rai temple at
+                 Mathura; 1679-80 Rajput-war demolitions in Jodhpur-Udaipur areas
+  counter-evidence -> grants, protection and non-interference continue elsewhere
+  RULE -> reject both caricatures: neither universal destruction nor blanket
+          exoneration fits the dated site-by-site evidence.
+
+7) DIFFERENTIATED INCORPORATION
+  continued Hindu, Rajput and some Maratha mansabdars in imperial service
+   + administrative need
+   + rank-jagir incentives
+  houses still in service after 1679 -> Amber, Bikaner, Bundi, Kota
+   - sharper public hierarchy
+   - discriminatory orders issued, modified or locally evaded
+   = composite service survives, equality does not
+  RULE -> continued service != equality; discrimination != total exclusion.
+
+8) NORTH INDIAN UNREST
+  Jats -> Mathura-Agra / cultivators, zamindars and clan communities
+       -> revenue pressure, local power, official coercion, religious-political climate
+       -> c.1669 rising under Gokula
+       -> later resistance under Rajaram and Churaman = recurrence, not one event
+  Satnamis -> Narnaul 1672 / local clash -> cultivator-artisan mobilisation -> suppression
+  Bundelas -> Champat Rai and later Chhatrasal / chiefship, extraction, service, rebellion
+  RULE -> each movement has its own locality, social base and chronology;
+          do not project the later Bharatpur state backward on to Gokula.
+
+9) GURU TEGH BAHADUR
+  guruship 1664 -> eastern travels -> return to Punjab -> arrest
+   -> execution at Delhi, November 1675
+  Persian security / rebellion framing
+    <-> Sikh martyr memory and defence of religious freedom
+    <-> later Kashmir-Pandit tradition: genre and chronology caution
+  Satish Chandra -> the punishment was unjustified
+  1699 Khalsa under Guru Gobind Singh -> major later consequence
+  verdict -> profound antecedent and deep legitimacy cost,
+             not a single automatic switch for every later Sikh development.
+
+10) RAJPUT ALLIANCE BEFORE BREACH
+  watan authority + mansab/jagir + honour and precedence
+   + succession recognition + military service
+  early Aurangzeb still relies on Jai Singh (1665 settlement with Shivaji)
+   and on Jaswant Singh in major service
+  RULE -> an unequal bargain stayed stable only while Mughal guarantees
+          remained credible.
+
+11) MARWAR CRISIS, 1678-79
+  Jaswant Singh dies at Jamrud, 1678
+   -> posthumous claimant Ajit Singh
+   -> Marwar taken into khalisa amid disputed succession, debt, withheld revenue
+      and disorder (khalisa precedent exists)
+   -> official overreach, search and conduct, custody of Ajit, honour politics
+   -> Inder Singh receives the tika -> Rathor sardars reject the settlement
+   -> competing claims of the ranis and Rathor sardars mishandled
+   -> Durgadas Rathore organises resistance and protects Ajit's claim
+   -> Rathors restore Ajit's tika at Jodhpur -> rival investiture, not imperial grant
+   -> succession + watan + debt + mistrust converge
+  evidence -> Waqa-i-Ajmer and the Jodhpur Hukumat-ri-Bahi
+  RULE -> khalisa != automatic annexation; the credibility of Mughal guarantees
+          is the real issue.
+
+12) MEWAR AND PRINCE AKBAR
+  Rana Raj Singh opposes occupation of Marwar and interference in succession
+   -> Mewar supports the Rathors -> Aravalli terrain raises imperial cost
+   -> Prince Akbar revolts January 1681 with Rathor support
+   -> Aurangzeb splits the coalition by letters, intelligence and manoeuvre;
+      Akbar flees towards the Deccan
+   -> revolt fails militarily; prestige and trust damage remains
+   -> Mewar settles after Raj Singh's death; Rathor war continues intermittently
+   -> 1698 recognition of Ajit Singh is limited, not full restoration
+
+13) HISTORIOGRAPHY AND VERDICT
+  communal monocause -> sees real discrimination, over-explains by identity
+  statecraft-only revision -> sees succession/debt/strategy, understates coercion
+  balanced view (Satish Chandra) -> orthodoxy + politics + locality + uneven reach
+  Chandra -> victim of circumstances AND maker of those circumstances
+  Chandra on Rajput policy -> blundering, yielding no real advantage
+  source ladder
+   - court chronicles -> official idiom and chronology, but selective
+   - farmans and grants -> local action, not empire-wide uniformity
+   - local Rajput records -> Waqa-i-Ajmer, Hukumat-ri-Bahi
+   - Sikh tradition -> memory and identity, genre caution
+   - material remains -> survival, damage, repair; never motive by itself
+  verdict -> differentiated incorporation survives institutionally, yet sharper
+             hierarchy and mishandled Rajput succession widen the gap between
+             coercive reach and political legitimacy.
+
+PRELIMS TRAPS
+  jizyah != land revenue, customs duty or a tax on every Hindu
+  jizyah receipts != relief of the general treasury
+  Fatawa-i-Alamgiri != constitution or uniform criminal code
+  khalisa != automatic or final annexation
+  continued Hindu service != equality
+  old/new temple distinction mattered formally but did not settle every case
+  one grant or one demolition never proves the whole empire
+  1698 recognition != restoration of the pre-1678 compact
+  Topic 23 owns the Deccan-Maratha war
+
+MAINS ANSWER SPINE
+  intro -> differentiated rule under pressure, dated and localised
+  body 1 -> sharia / zawabit and periodisation
+  body 2 -> jizyah and the temple evidence ladder
+  body 3 -> North Indian unrest and the Sikh legitimacy cost
+  body 4 -> Marwar-Mewar rupture and prestige loss
+  conclusion -> contributory to weakened legitimacy and alliance trust,
+                not the sole cause of imperial decline

@@ -1,0 +1,29 @@
+{
+  "topic": "09 Civil Services and Mission Karmayogi",
+  "status": "complete for original banks with explicit holds",
+  "counts": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45,
+    "total": 135
+  },
+  "owners": 45,
+  "exact_pyqs_live": 0,
+  "question_free": true,
+  "answers_separate": true,
+  "audits": {
+    "structural": "PASS",
+    "options": "PASS",
+    "hostile": "PASS",
+    "institutional_facts": "PASS",
+    "source_date": "PASS",
+    "cross_revision_distinctness": "PASS"
+  },
+  "holds": [
+    "2020 Prelims objective key/provenance",
+    "Mains routing and marking schemes",
+    "UPSC reproduction rights",
+    "dashboard/current-status counts",
+    "unsupported institutional fields"
+  ]
+}

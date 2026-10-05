@@ -1,0 +1,58 @@
+{
+  "topic": "23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 43,
+      "answers": 43,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 9,
+        "C": 11,
+        "B": 13,
+        "A": 10
+      },
+      "fingerprint": "c5b161ab5dd52e4d"
+    },
+    {
+      "bank": 2,
+      "questions": 43,
+      "answers": 43,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 12,
+        "B": 10,
+        "A": 13,
+        "D": 8
+      },
+      "fingerprint": "8f6e2eab9bf33612"
+    },
+    {
+      "bank": 3,
+      "questions": 43,
+      "answers": 43,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 12,
+        "B": 7,
+        "D": 13,
+        "C": 11
+      },
+      "fingerprint": "da65add4165c3e53"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

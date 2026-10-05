@@ -1,0 +1,58 @@
+{
+  "topic": "24-Services-Digital-Economy-Fintech-and-Platform-Markets",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 53,
+      "answers": 53,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 13,
+        "C": 16,
+        "A": 17,
+        "B": 7
+      },
+      "fingerprint": "b43ee1239b1bceff"
+    },
+    {
+      "bank": 2,
+      "questions": 53,
+      "answers": 53,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 13,
+        "D": 17,
+        "A": 13,
+        "C": 10
+      },
+      "fingerprint": "02c36d55da77ab7d"
+    },
+    {
+      "bank": 3,
+      "questions": 53,
+      "answers": 53,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 16,
+        "B": 9,
+        "A": 17,
+        "D": 11
+      },
+      "fingerprint": "cb575b65b085dea1"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "topic": "14-Participatory-Governance",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "revision_counts": {
+    "revision-1": 52,
+    "revision-2": 52,
+    "revision-3": 52
+  },
+  "total_originals": 156,
+  "key_counts": {
+    "revision-1": {
+      "B": 13,
+      "A": 13,
+      "C": 13,
+      "D": 13
+    },
+    "revision-2": {
+      "B": 13,
+      "D": 13,
+      "A": 13,
+      "C": 13
+    },
+    "revision-3": {
+      "D": 13,
+      "C": 13,
+      "B": 13,
+      "A": 13
+    }
+  },
+  "all_questions_four_options": true,
+  "questions_answer_free": true,
+  "question_answer_mapping_contiguous": true,
+  "affirmative_owner_coverage_each_revision": true,
+  "cross_revision_stems_distinct": true,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "2025 GS-II Mains routing, marking-scheme and reproduction rights",
+    "2026 objective provisional-key finality and reproduction rights",
+    "dynamic participatory-budgeting pilots, MyGov counts and consultation outcomes",
+    "cross-owner constitutional, entitlement, macro-fiscal and ethics boundaries"
+  ]
+}

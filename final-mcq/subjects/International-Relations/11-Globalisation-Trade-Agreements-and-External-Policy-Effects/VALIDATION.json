@@ -1,0 +1,41 @@
+{
+  "topic_key": "international-relations-11",
+  "title": "Globalisation, Trade Agreements and External-Policy Effects",
+  "release_date": "2026-10-04",
+  "status": "complete",
+  "banks": [
+    {
+      "revision": 1,
+      "questions": 49,
+      "answers": 49,
+      "coverage_rows": 49,
+      "status": "complete"
+    },
+    {
+      "revision": 2,
+      "questions": 49,
+      "answers": 49,
+      "coverage_rows": 49,
+      "status": "complete"
+    },
+    {
+      "revision": 3,
+      "questions": 49,
+      "answers": 49,
+      "coverage_rows": 49,
+      "status": "complete"
+    }
+  ],
+  "root_coverage_count": 49,
+  "source_rights_holds": [
+    "No exact PYQ reproduction pending permission/provenance",
+    "India Fisheries Subsidies acceptance individual deposit not independently authenticated"
+  ],
+  "nobel_or_major_award_facts": "not required; withheld",
+  "audits": {
+    "structural": "pass",
+    "hostile": "pass",
+    "source_date": "pass",
+    "leakage": "pass"
+  }
+}

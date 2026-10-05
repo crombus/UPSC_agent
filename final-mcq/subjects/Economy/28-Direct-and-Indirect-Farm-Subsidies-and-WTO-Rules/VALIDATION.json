@@ -1,0 +1,58 @@
+{
+  "topic": "28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 15,
+        "A": 8,
+        "B": 7,
+        "C": 12
+      },
+      "fingerprint": "32470fc466169b75"
+    },
+    {
+      "bank": 2,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 11,
+        "B": 6,
+        "D": 10,
+        "A": 15
+      },
+      "fingerprint": "58676810bd215079"
+    },
+    {
+      "bank": 3,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 16,
+        "A": 8,
+        "D": 10,
+        "B": 8
+      },
+      "fingerprint": "f1500d67f8e699e0"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

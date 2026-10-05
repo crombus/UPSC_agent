@@ -1,0 +1,58 @@
+{
+  "topic": "20-Foreign-Trade-WTO-FTAs-and-Protectionism",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 11,
+        "C": 11,
+        "B": 11,
+        "A": 11
+      },
+      "fingerprint": "16c3b90e72b7045b"
+    },
+    {
+      "bank": 2,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 11,
+        "C": 11,
+        "A": 11,
+        "B": 11
+      },
+      "fingerprint": "cca857d8abc0af35"
+    },
+    {
+      "bank": 3,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 11,
+        "D": 11,
+        "A": 11,
+        "B": 11
+      },
+      "fingerprint": "dcd36a291e415474"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

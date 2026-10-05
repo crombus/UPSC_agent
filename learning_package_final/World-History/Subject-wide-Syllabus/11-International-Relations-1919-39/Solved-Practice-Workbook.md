@@ -6,805 +6,487 @@ topic_key: world-history-11
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies League founded, 10 January 1920?
+### Q1. Why is 10 January 1920 significant in the interwar institutional chronology?
 
-A. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-B. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-C. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-D. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
+A. The League of Nations formally began its existence.
+B. Germany was admitted into the League at its founding.
+C. The USSR received a permanent League seat at its founding.
+D. The League signed the Munich Agreement on that date.
 
-**Answer: A.**
-**Explanation:** The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. Which League organ is matched to its principal role?
 
-### Q2. Which chronology card should be filed under League founded, 10 January 1920?
+A. Secretariat—annual all-member meeting on general policy.
+B. Council—smaller executive body handling political disputes.
+C. Assembly—court hearing binding cases between states.
+D. Permanent Court—administrative paperwork for the Council.
 
-A. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-B. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-C. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-D. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
+### Q3. A critic claims the League did nothing useful. Which counterexample challenges that claim without denying security failure?
 
-**Answer: B.**
-**Explanation:** The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation. The remaining options belong to different chronology, actor or analytical categories.
+A. The League successfully compelled Italy to leave Abyssinia.
+B. The League enforced a complete universal naval disarmament.
+C. Nansen's refugee work and health action against epidemics.
+D. The League's standing army expelled Japan from Manchuria.
 
-### Q3. Which option preserves the source-bounded meaning of League founded, 10 January 1920?
+### Q4. Select the combination that made collective security conditional on great-power resolve.
 
-A. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-B. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-C. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-D. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
+A. Full US participation, a standing League army and automatic sanctions.
+B. German founding membership and universal compliance with every League ruling.
+C. League control over the armed forces of all member states.
+D. US absence, unanimity requirements, no League army and reluctance of Britain and France to fight.
 
-**Answer: C.**
-**Explanation:** The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. How does the early League record complicate a purely failure-based verdict?
 
-### Q4. Which statement avoids a close-option trap about League founded, 10 January 1920?
+A. Disputes such as the Aaland Islands and Greek-Bulgarian clash were handled, unlike later great-power aggression.
+B. The League's handling of small disputes proves it deterred Japan in 1931.
+C. The Mosul dispute occurred only after the Second World War.
+D. Its health work automatically secured the Rhineland in 1936.
 
-A. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-B. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-C. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-D. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
+### Q6. What limitation qualifies the Washington Conferences of 1921–22?
 
-**Answer: D.**
-**Explanation:** The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation. The remaining options belong to different chronology, actor or analytical categories.
+A. They expelled Japan from the League for invading Manchuria.
+B. Naval limits eased Pacific tension temporarily but did not resolve Japanese continental ambitions.
+C. They guaranteed all German eastern frontiers indefinitely.
+D. They were held to set German reparations at a later sum.
 
-### Q5. Which statement correctly identifies League machinery and social work?
+### Q7. What distinguishes the Dawes Plan of 1924 from the subsequent Young Plan?
 
-A. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-B. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-C. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-D. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
+A. Dawes recognized Japanese sovereignty over Manchuria.
+B. Dawes provided a military guarantee of Poland's eastern frontier.
+C. Dawes used American loans to ease payment and enable French withdrawal from the Ruhr.
+D. Dawes abolished reparations and founded the League in 1924.
 
-**Answer: A.**
-**Explanation:** The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. A timeline claims that Germany joined the League before Locarno. What is the correction?
 
-### Q6. Which chronology card should be filed under League machinery and social work?
+A. Germany entered in 1920, then negotiated Locarno in 1938.
+B. Both events occurred after Munich in September 1938.
+C. Germany joined the League only after the invasion of Poland.
+D. Locarno was signed in 1925, and Germany entered the League in 1926.
 
-A. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-B. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-C. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-D. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
+### Q9. What is the geographical asymmetry of Locarno's security bargain?
 
-**Answer: B.**
-**Explanation:** The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories. The remaining options belong to different chronology, actor or analytical categories.
+A. It guaranteed Germany's western borders but not the eastern frontiers toward Poland and Czechoslovakia.
+B. It guaranteed the eastern frontiers but left the western border with France open.
+C. It concerned only Asian sea lanes and excluded Europe.
+D. It transferred the Saar directly to Germany under an Ottoman treaty.
 
-### Q7. Which option preserves the source-bounded meaning of League machinery and social work?
+### Q10. Which agreement renounced war in 1928 without creating an effective sanctions instrument?
 
-A. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-B. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-C. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-D. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
+A. Treaty of Lausanne.
+B. Kellogg-Briand Pact.
+C. Young Plan.
+D. Anglo-German Naval Agreement.
 
-**Answer: C.**
-**Explanation:** The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. What did the Young Plan of 1929 change in the reparations framework?
 
-### Q8. Which statement avoids a close-option trap about League machinery and social work?
+A. It made Germany's army size 100,000 for the first time.
+B. It conferred immunity from the Depression on Germany.
+C. It reduced the reparations total to £2000 million.
+D. It initiated the initial Versailles legal liability of 1919.
 
-A. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-B. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-C. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-D. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
+### Q12. The 1920s calm depended on American lending. Which sequence identifies the vulnerability?
 
-**Answer: D.**
-**Explanation:** The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories. The remaining options belong to different chronology, actor or analytical categories.
+A. The Depression created Dawes loans by increasing American credit to Germany.
+B. The Kellogg-Briand Pact legally compelled banks to continue lending.
+C. The League successfully replaced all recalled American loans with its own army budget.
+D. Dawes-era credit supported recovery; after 1929 credit withdrawal contributed to crisis and weakened international cooperation.
 
-### Q9. Which statement correctly identifies League structural weaknesses?
+### Q13. Which pair accurately describes membership and exit during the 1930s crisis?
 
-A. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-B. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-C. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-D. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
+A. Germany and Japan left in 1933; the USSR joined in 1934.
+B. The United States joined in 1933 while Germany founded the League.
+C. The USSR joined in 1920 and Japan entered in 1938.
+D. Germany remained a League member throughout World War II.
 
-**Answer: A.**
-**Explanation:** The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. Why is Manchuria in 1931 more than a regional border dispute in League history?
 
-### Q10. Which chronology card should be filed under League structural weaknesses?
+A. It was the direct military consequence of the Munich settlement.
+B. Japan's successful defiance showed a great power could retain gains despite collective-security claims.
+C. It proved the League would use its army to reverse conquest.
+D. It was Germany's first test of the demilitarised Rhineland.
 
-A. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-B. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-C. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-D. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
+### Q15. Which explanation of the Abyssinia crisis in 1935 fits the League's enforcement record?
 
-**Answer: B.**
-**Explanation:** The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement. The remaining options belong to different chronology, actor or analytical categories.
+A. It was settled entirely by the Kellogg-Briand sanctions clause.
+B. Japan invaded Abyssinia after leaving the League.
+C. Half-hearted sanctions against Italian aggression damaged the League's prestige.
+D. A League army decisively defeated Italy and restored Ethiopian sovereignty.
 
-### Q11. Which option preserves the source-bounded meaning of League structural weaknesses?
+### Q16. How did the 1935 Anglo-German Naval Agreement affect the anti-German alignment?
 
-A. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-B. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-C. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-D. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
+A. It united Britain, France and Italy in a lasting common embargo on Germany.
+B. It finally guaranteed Germany's eastern frontiers under Locarno.
+C. It ended German rearmament altogether.
+D. A separate British bargain undercut the Stresa Front and collective resistance.
 
-**Answer: C.**
-**Explanation:** The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. What lesson did Hitler plausibly take from the 1936 Rhineland remilitarisation?
 
-### Q12. Which statement avoids a close-option trap about League structural weaknesses?
+A. Protest without force suggested further revision could be attempted at manageable risk.
+B. France and Britain invaded Germany immediately and reversed it.
+C. Locarno had already legally ceded the Rhineland to Italy.
+D. League sanctions had successfully stopped the action before it began.
 
-A. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-B. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-C. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-D. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
+### Q18. Which distribution of external conduct during the Spanish Civil War matches the source?
 
-**Answer: D.**
-**Explanation:** The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement. The remaining options belong to different chronology, actor or analytical categories.
+A. Germany and Italy fought for the Spanish Republic against Franco.
+B. Germany and Italy aided Franco; Britain and France stayed out.
+C. Britain and France armed Franco while Italy enforced non-intervention.
+D. The USSR was excluded from the Munich Conference during the Spanish Civil War and therefore occupied Spain.
 
-### Q13. Which statement correctly identifies Washington Conferences, 1921-22?
+### Q19. Place the 1938 Anschluss within the broader appeasement sequence.
 
-A. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-B. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-C. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-D. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
+A. It was the accession of the USSR to the League.
+B. It was the 1925 western frontier guarantee.
+C. Austria was absorbed without effective resistance from the powers before the Munich cession of Sudetenland.
+D. Anschluss occurred after the occupation of Prague in March 1939.
 
-**Answer: A.**
-**Explanation:** The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. Which criticism of Munich addresses both procedure and strategic consequences?
 
-### Q14. Which chronology card should be filed under Washington Conferences, 1921-22?
+A. Czechoslovakia freely negotiated the cession with the USSR as chief signatory.
+B. The agreement only addressed the League's health commission.
+C. Munich transferred all German overseas colonies to Japan.
+D. Czechs and USSR were excluded; surrender of Sudetenland weakened Czechoslovakia's defence.
 
-A. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-B. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-C. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-D. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
+### Q21. What made the seizure of Prague in March 1939 a turning point for the rationale of appeasement?
 
-**Answer: B.**
-**Explanation:** The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition. The remaining options belong to different chronology, actor or analytical categories.
+A. Occupation of non-German Czech territory exposed expansion beyond ethnic self-determination.
+B. It restored Czechoslovakia after the Munich concession.
+C. It was the moment Germany first entered the League.
+D. It preceded Locarno and created its western border clause.
 
-### Q15. Which option preserves the source-bounded meaning of Washington Conferences, 1921-22?
+### Q22. Why did appeasement attract support before its failures became unmistakable?
 
-A. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-D. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
+A. It relied on a standing League army enforcing every concession.
+B. War memory, doubts about League force, perceived grievances, anti-Soviet fear and incomplete rearmament encouraged concessions.
+C. British leaders possessed overwhelming readiness and sought immediate continental war.
+D. It was a League treaty requiring unconditional surrender by all aggressors.
 
-**Answer: C.**
-**Explanation:** The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition. The remaining options belong to different chronology, actor or analytical categories.
+### Q23. What interpretation of Chamberlain's timing avoids hindsight-only judgment?
 
-### Q16. Which statement avoids a close-option trap about Washington Conferences, 1921-22?
+A. Munich clearly prevented all future German acquisitions.
+B. Chamberlain had been prime minister since the League began in 1920.
+C. Munich may have bought British rearmament time, yet also strengthened Hitler and weakened Czechoslovakia.
+D. Munich supplied Germany's first disarmament restriction in 1919.
 
-A. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-D. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
+### Q24. Which August–September 1939 sequence best connects diplomacy to war?
 
-**Answer: D.**
-**Explanation:** The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition. The remaining options belong to different chronology, actor or analytical categories.
+A. The Nazi-Soviet Pact followed Poland's invasion and forced Britain out of Europe.
+B. Poland invaded Germany after the USSR entered the League.
+C. Munich was signed after the invasion to cede Prague to Poland.
+D. Nazi-Soviet Pact eased Hitler's path to Poland; invasion was followed by British and French declarations of war.
 
-### Q17. Which statement correctly identifies Dawes Plan, 1924?
+### Q25. How should the Soviet pact be evaluated alongside failed western negotiations?
 
-A. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-B. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-C. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-D. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
+A. It enabled the attack on Poland, but Soviet claims of mistrust, slow western talks and buying time qualify a monocausal blame claim.
+B. The USSR had already invaded Poland in 1924 under the Dawes Plan.
+C. Western leaders and Poland had unreservedly accepted a Soviet alliance in 1939.
+D. The pact required Britain to sign Germany's invasion order.
 
-**Answer: A.**
-**Explanation:** The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr. The remaining options belong to different chronology, actor or analytical categories.
+### Q26. What separates Hitler's agency from structural background in a balanced origins-of-war answer?
 
-### Q18. Which chronology card should be filed under Dawes Plan, 1924?
+A. The Depression alone made particular invasions inevitable regardless of decisions.
+B. Versailles, Depression and appeasement enabled opportunity; expansion beyond Danzig and the attack on Poland establish decisive aggressive agency.
+C. Versailles ordered Hitler to occupy Prague and invade Poland.
+D. A. J. P. Taylor argued that Hitler wrote the Treaty of Versailles.
 
-A. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-B. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-C. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-D. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
+### Q27. Which historiographical juxtaposition accurately represents the League's record?
 
-**Answer: B.**
-**Explanation:** The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr. The remaining options belong to different chronology, actor or analytical categories.
+A. Henig argued that labour and refugee institutions never existed.
+B. The League's Court alone guaranteed peace through sanctions.
+C. Henig's institutional-legacy corrective coexists with Lowe's account of its failed coercive security function.
+D. Henig proved the League won a military campaign against Japan.
 
-### Q19. Which option preserves the source-bounded meaning of Dawes Plan, 1924?
+### Q28. Consider the League's record: (1) Nansen's refugee activity existed; (2) the United States was a founding member; (3) the League lacked its own army. Which set is correct?
 
-A. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-D. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
+A. 1 and 2 only.
+B. 2 and 3 only.
+C. 1, 2 and 3.
+D. 1 and 3 only.
 
-**Answer: C.**
-**Explanation:** The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr. The remaining options belong to different chronology, actor or analytical categories.
+### Q29. Match diplomacy to limitation: (i) Washington–Japanese continental ambitions; (ii) Locarno–unguaranteed east; (iii) Kellogg-Briand–no sanctions; (iv) Dawes–credit dependence. Which pairing set is defensible?
 
-### Q20. Which statement avoids a close-option trap about Dawes Plan, 1924?
+A. i, ii, iii and iv.
+B. i, ii and iii only; Dawes cancelled reliance on American credit.
+C. i and iv only; Locarno guaranteed the east and Kellogg-Briand imposed sanctions.
+D. ii and iii only; Washington permanently ended Japanese land ambitions.
 
-A. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
+### Q30. Arrange in increasing date: (i) Young Plan, (ii) Dawes Plan, (iii) Kellogg-Briand Pact, (iv) Locarno Treaties.
 
-**Answer: D.**
-**Explanation:** The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr. The remaining options belong to different chronology, actor or analytical categories.
+A. ii → iv → i → iii.
+B. ii → iv → iii → i.
+C. iv → ii → iii → i.
+D. ii → iii → iv → i.
 
-### Q21. Which statement correctly identifies Locarno Treaties, 1925?
+### Q31. Consider: (1) Manchuria preceded Abyssinia; (2) the naval agreement with Germany strengthened the Stresa Front; (3) Prague involved non-German territory. Which combination is correct?
 
-A. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-D. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
+A. 2 and 3 only.
+B. All three.
+C. 1 and 3 only.
+D. 1 and 2 only.
 
-**Answer: A.**
-**Explanation:** Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete. The remaining options belong to different chronology, actor or analytical categories.
+### Q32. A chronology claims Munich directly followed Manchuria, omitting intervening escalations. Which reconstruction restores the causal order?
 
-### Q22. Which chronology card should be filed under Locarno Treaties, 1925?
+A. Munich → Manchuria → Rhineland → Anschluss → Poland → Prague.
+B. Manchuria → Prague → Abyssinia → Munich → Poland → Pact.
+C. Manchuria → Anschluss → Locarno → Munich → Poland → Prague.
+D. Manchuria → Abyssinia and naval deal → Rhineland → Anschluss → Munich → Prague → Nazi-Soviet Pact → Poland.
 
-A. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-B. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-C. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-D. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
+## ANSWER KEY AND OPTION-BY-OPTION EXPLANATIONS
 
-**Answer: B.**
-**Explanation:** Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete. The remaining options belong to different chronology, actor or analytical categories.
+### Q1 — A
 
-### Q23. Which option preserves the source-bounded meaning of Locarno Treaties, 1925?
+- **A:** The founding date marks the start of the League's operations.
+- **B:** Germany entered only in 1926.
+- **C:** The USSR joined only in 1934.
+- **D:** Munich was in September 1938, outside the League's founding.
+- **Trap:** An institution's founding is not equivalent to universal membership.
 
-A. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-D. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
+### Q2 — B
 
-**Answer: C.**
-**Explanation:** Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The Secretariat ran administration rather than the plenary.
+- **B:** The Council's political function is distinct from the other organs.
+- **C:** The Assembly is the broad membership meeting, not the Court.
+- **D:** Legal interstate disputes belong to the Permanent Court.
+- **Trap:** Do not treat the League as a single undifferentiated body.
 
-### Q24. Which statement avoids a close-option trap about Locarno Treaties, 1925?
+### Q3 — C
 
-A. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-B. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
+- **A:** Sanctions against Italy were ineffective.
+- **B:** Disarmament failure was a key setback.
+- **C:** Refugee and health work were real social achievements.
+- **D:** The League lacked a standing army and did not expel Japan.
+- **Trap:** Administrative competence does not prove coercive power.
 
-**Answer: D.**
-**Explanation:** Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete. The remaining options belong to different chronology, actor or analytical categories.
+### Q4 — D
 
-### Q25. Which statement correctly identifies Germany and the League, 1926?
+- **A:** The USA never joined and the League had no army.
+- **B:** Germany entered only in 1926; powers could defy the League.
+- **C:** National forces were not universally handed over to the League.
+- **D:** All four actual deficiencies limited enforcement.
+- **Trap:** Institutional weakness and political unwillingness worked together.
 
-A. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-B. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-C. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-D. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
+### Q5 — A
 
-**Answer: A.**
-**Explanation:** Germany entered the League in 1926 during the brief phase of conditional reconciliation. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Limited successes coexist with failure against larger aggressors.
+- **B:** A success with smaller disputes does not establish deterrence of Japan.
+- **C:** Mosul belongs to the interwar examples.
+- **D:** Social work did not enforce Rhineland demilitarisation.
+- **Trap:** Scale and political stakes affect enforcement.
 
-### Q26. Which chronology card should be filed under Germany and the League, 1926?
+### Q6 — B
 
-A. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-B. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-C. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-D. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
+- **A:** Manchuria was invaded in 1931; Japan left in 1933.
+- **B:** The naval bargain left land ambitions unsettled.
+- **C:** Locarno later guaranteed western, not eastern, German borders.
+- **D:** Reparations diplomacy was distinct from Washington naval limits.
+- **Trap:** A naval arrangement is not a continental security settlement.
 
-**Answer: B.**
-**Explanation:** Germany entered the League in 1926 during the brief phase of conditional reconciliation. The remaining options belong to different chronology, actor or analytical categories.
+### Q7 — C
 
-### Q27. Which option preserves the source-bounded meaning of Germany and the League, 1926?
+- **A:** Manchuria does not belong to this reparations plan.
+- **B:** Locarno itself left eastern frontiers unguaranteed.
+- **C:** American credit and Ruhr de-escalation are the Dawes mechanism.
+- **D:** Dawes made payment manageable rather than abolishing it.
+- **Trap:** Credit restructuring is not debt cancellation.
 
-A. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-B. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-C. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-D. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
+### Q8 — D
 
-**Answer: C.**
-**Explanation:** Germany entered the League in 1926 during the brief phase of conditional reconciliation. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Germany did not join at the League's founding.
+- **B:** Locarno and accession belong to the 1920s thaw.
+- **C:** Germany had withdrawn by 1933, before Poland was invaded.
+- **D:** The agreement preceded German membership by a year.
+- **Trap:** Chronological proximity is not simultaneity.
 
-### Q28. Which statement avoids a close-option trap about Germany and the League, 1926?
+### Q9 — A
 
-A. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-B. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. Germany entered the League in 1926 during the brief phase of conditional reconciliation.
+- **A:** Western guarantees contrasted with exposed eastern boundaries.
+- **B:** The agreement's asymmetry runs in the opposite direction.
+- **C:** Washington concerned naval competition in the Pacific.
+- **D:** Saar administration and Turkish settlements are separate matters.
+- **Trap:** Western reconciliation did not eliminate eastern revisionism.
 
-**Answer: D.**
-**Explanation:** Germany entered the League in 1926 during the brief phase of conditional reconciliation. The remaining options belong to different chronology, actor or analytical categories.
+### Q10 — B
 
-### Q29. Which statement correctly identifies Kellogg-Briand Pact, 1928?
+- **A:** Lausanne revised the Turkish peace settlement in 1923.
+- **B:** Kellogg-Briand's norm lacked a sanctions clause.
+- **C:** Young in 1929 revised reparations.
+- **D:** The naval deal was concluded in 1935.
+- **Trap:** Renunciation without enforcement is not a security guarantee.
 
-A. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-B. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
+### Q11 — C
 
-**Answer: A.**
-**Explanation:** The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The military ceiling was a Versailles term.
+- **B:** Financial revisions could not prevent credit contraction.
+- **C:** The source gives this reduced amount and date.
+- **D:** Article 231 in Versailles provided the original legal basis.
+- **Trap:** Do not conflate original liability with later adjustment.
 
-### Q30. Which chronology card should be filed under Kellogg-Briand Pact, 1928?
+### Q12 — D
 
-A. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-B. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-C. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-D. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
+- **A:** The direction of the sequence is reversed.
+- **B:** A diplomatic antiwar pact did not bind bank lending.
+- **C:** The League army did not exist and could not replace credit.
+- **D:** Dependent recovery could unravel when external credit contracted.
+- **Trap:** Trace economic transmission rather than assert a magic Depression effect.
 
-**Answer: B.**
-**Explanation:** The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism. The remaining options belong to different chronology, actor or analytical categories.
+### Q13 — A
 
-### Q31. Which option preserves the source-bounded meaning of Kellogg-Briand Pact, 1928?
+- **A:** The source places both departures in 1933 and Soviet accession in 1934.
+- **B:** The USA never joined; Germany was not a founder.
+- **C:** Neither date in this alternative matches the stated membership record.
+- **D:** Germany withdrew before the war.
+- **Trap:** Entry and departure dates matter more than vague labels of membership.
 
-A. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-B. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-C. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
+### Q14 — B
 
-**Answer: C.**
-**Explanation:** The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Munich occurred seven years later.
+- **B:** Great-power impunity damaged the League's credibility.
+- **C:** The League had no army to deploy.
+- **D:** Manchuria involved Japan, not German Rhineland policy.
+- **Trap:** A Far Eastern failure preceded the European climax.
 
-### Q32. Which statement avoids a close-option trap about Kellogg-Briand Pact, 1928?
+### Q15 — C
 
-A. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-B. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-C. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-D. The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
+- **A:** Kellogg-Briand had no sanctions clause.
+- **B:** The aggressor was Italy, not Japan.
+- **C:** Incomplete sanctions signalled unwillingness to confront a major aggressor.
+- **D:** No standing League army produced that outcome.
+- **Trap:** Formal condemnation without effective action undermines deterrence.
 
-**Answer: D.**
-**Explanation:** The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism. The remaining options belong to different chronology, actor or analytical categories.
+### Q16 — D
 
-### Q33. Which statement correctly identifies Young Plan, 1929?
+- **A:** It did not consolidate a common embargo.
+- **B:** Locarno's frontier terms were not changed by this naval accord.
+- **C:** The agreement did not halt all rearmament.
+- **D:** The naval deal weakened common opposition by bypassing it.
+- **Trap:** Bilateral concessions can erode a multilateral front.
 
-A. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-B. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
+### Q17 — A
 
-**Answer: A.**
-**Explanation:** The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Lack of force increased the perceived room for revision.
+- **B:** No immediate invasion reversed the remilitarisation.
+- **C:** Italy had no such Rhineland cession.
+- **D:** The action was not prevented in advance.
+- **Trap:** A non-response can change an aggressor's risk calculation.
 
-### Q34. Which chronology card should be filed under Young Plan, 1929?
+### Q18 — B
 
-A. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-B. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-C. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
+- **A:** Germany and Italy supported Franco, not his opponents.
+- **B:** The source specifically contrasts intervention and non-intervention.
+- **C:** The stated alignment reverses the source account.
+- **D:** Munich exclusion is a different diplomatic event, not Soviet occupation of Spain.
+- **Trap:** Non-intervention did not mean every actor abstained.
 
-**Answer: B.**
-**Explanation:** The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse. The remaining options belong to different chronology, actor or analytical categories.
+### Q19 — C
 
-### Q35. Which option preserves the source-bounded meaning of Young Plan, 1929?
+- **A:** Soviet League membership began in 1934.
+- **B:** The western guarantees belong to Locarno.
+- **C:** Anschluss preceded the September 1938 Munich settlement.
+- **D:** Prague was the later step.
+- **Trap:** Austria's absorption is not the Sudetenland's cession.
 
-A. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-B. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-C. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-D. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
+### Q20 — D
 
-**Answer: C.**
-**Explanation:** The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The Czechs and USSR were excluded from the decisive talks.
+- **B:** Munich concerned territorial and strategic concessions, not health policy.
+- **C:** German colonies were dealt with in the earlier peace settlement.
+- **D:** Exclusion and loss of fortified territory are distinct but reinforcing harms.
+- **Trap:** The rights of the affected state cannot be inferred from its exclusion.
 
-### Q36. Which statement avoids a close-option trap about Young Plan, 1929?
+### Q21 — A
 
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-C. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-D. The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
+- **A:** Taking non-German territory contradicted finite-revision justification.
+- **B:** The occupation further dismembered the state.
+- **C:** Germany had joined the League in 1926 and left in 1933.
+- **D:** Prague in 1939 followed Locarno in 1925.
+- **Trap:** The nature of the claimed territory matters, not merely the date.
 
-**Answer: D.**
-**Explanation:** The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse. The remaining options belong to different chronology, actor or analytical categories.
+### Q22 — B
 
-### Q37. Which statement correctly identifies Depression as diplomatic turning point?
+- **A:** The League had no standing army.
+- **B:** Contemporaries had multiple contextual reasons for avoiding confrontation.
+- **C:** Unreadiness rather than overwhelming readiness shaped the case.
+- **D:** Appeasement was a policy, not an unconditional-surrender treaty.
+- **Trap:** Explaining a policy's motives does not endorse its consequences.
 
-A. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-B. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
+### Q23 — C
 
-**Answer: A.**
-**Explanation:** Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Prague in 1939 refutes permanent peace.
+- **B:** Chamberlain took office in 1937.
+- **C:** The benefit-of-time defence must be balanced against strategic loss.
+- **D:** Versailles, not Munich, imposed German military restrictions.
+- **Trap:** A rationale can be partly defensible while its result is damaging.
 
-### Q38. Which chronology card should be filed under Depression as diplomatic turning point?
+### Q24 — D
 
-A. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-B. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-C. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
+- **A:** This alternative reverses diplomatic and military order.
+- **B:** Poland did not invade Germany; Soviet accession was 1934.
+- **C:** Munich was in 1938, before the invasion.
+- **D:** The pact preceded invasion and the western declarations followed.
+- **Trap:** Non-aggression diplomacy did not itself constitute the invasion.
 
-**Answer: B.**
-**Explanation:** Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended. The remaining options belong to different chronology, actor or analytical categories.
+### Q25 — A
 
-### Q39. Which option preserves the source-bounded meaning of Depression as diplomatic turning point?
+- **A:** The advanced account gives both enabling and Soviet-defence arguments.
+- **B:** Dawes concerned reparations, not Soviet invasion.
+- **C:** Mistrust and slow negotiations impeded alliance.
+- **D:** Britain did not authorize the attack under the pact.
+- **Trap:** Acknowledging context need not erase the pact's role.
 
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-C. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
+### Q26 — B
 
-**Answer: C.**
-**Explanation:** Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Economic crisis does not predetermine specific aggressive choices.
+- **B:** Structural conditions and Hitler's decisions have different causal roles.
+- **C:** No treaty compelled those later actions.
+- **D:** Taylor challenged a fixed blueprint interpretation, not the treaty's authorship.
+- **Trap:** Avoid turning enabling conditions into commands.
 
-### Q40. Which statement avoids a close-option trap about Depression as diplomatic turning point?
+### Q27 — C
 
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-C. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-D. Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
+- **A:** The League had labour and refugee initiatives.
+- **B:** The Court could not substitute for member-state enforcement.
+- **C:** A limited institutional legacy need not erase a security failure.
+- **D:** No League army defeated Japan in Manchuria.
+- **Trap:** Failure at deterrence is not proof of zero institutional legacy.
 
-**Answer: D.**
-**Explanation:** Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended. The remaining options belong to different chronology, actor or analytical categories.
+### Q28 — D
 
-### Q41. Which statement correctly identifies Manchuria, 1931?
+- **A:** The USA never joined and statement 3 is true.
+- **B:** The USA was absent and statement 1 is true.
+- **C:** US absence falsifies the three-statement set.
+- **D:** Social work and lack of standing force are both documented.
+- **Trap:** Administrative achievement and enforcement weakness can coexist.
 
-A. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-B. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-C. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-D. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
+### Q29 — A
 
-**Answer: A.**
-**Explanation:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Each pact's distinct limitation is correctly matched.
+- **B:** Dawes depended on American lending rather than ending it.
+- **C:** Eastern frontiers were unguaranteed and the antiwar pact lacked sanctions.
+- **D:** Washington's naval limits did not settle continental expansion.
+- **Trap:** Normative agreements and financing arrangements have different weaknesses.
 
-### Q42. Which chronology card should be filed under Manchuria, 1931?
+### Q30 — B
 
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-C. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-D. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
+- **A:** Young followed Kellogg-Briand, not vice versa.
+- **B:** The sequence is 1924, 1925, 1928, 1929.
+- **C:** Dawes predates Locarno rather than following it.
+- **D:** Locarno predates Kellogg-Briand.
+- **Trap:** Do not mistake a reparations revision for the original Dawes restructuring.
 
-**Answer: B.**
-**Explanation:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. The remaining options belong to different chronology, actor or analytical categories.
+### Q31 — C
 
-### Q43. Which option preserves the source-bounded meaning of Manchuria, 1931?
+- **A:** Stresa was weakened, while the Manchuria chronology is true.
+- **B:** Statement 2 invalidates the all-true code.
+- **C:** The 1931 and 1935 crises are ordered, and the Prague seizure breached ethnic revisionism.
+- **D:** The 1935 bilateral naval deal weakened Stresa, and statement 3 is true.
+- **Trap:** A diplomatic bargain may damage a coalition even if called an agreement.
 
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-C. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-D. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
+### Q32 — D
 
-**Answer: C.**
-**Explanation:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Manchuria, 1931?
-
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-C. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-D. Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-
-**Answer: D.**
-**Explanation:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Abyssinia, 1935?
-
-A. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-B. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-C. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-
-**Answer: A.**
-**Explanation:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Abyssinia, 1935?
-
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-C. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-D. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-
-**Answer: B.**
-**Explanation:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Abyssinia, 1935?
-
-A. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-B. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-C. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-D. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-
-**Answer: C.**
-**Explanation:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Abyssinia, 1935?
-
-A. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-B. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-C. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-D. Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-
-**Answer: D.**
-**Explanation:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Anglo-German Naval Agreement, 1935?
-
-A. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-B. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-C. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-D. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-
-**Answer: A.**
-**Explanation:** Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Anglo-German Naval Agreement, 1935?
-
-A. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-B. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-C. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-D. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-
-**Answer: B.**
-**Explanation:** Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Anglo-German Naval Agreement, 1935?
-
-A. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-B. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-C. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-D. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-
-**Answer: C.**
-**Explanation:** Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Anglo-German Naval Agreement, 1935?
-
-A. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-B. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-C. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-D. Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-
-**Answer: D.**
-**Explanation:** Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Rhineland, 1936?
-
-A. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-B. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-C. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-D. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-
-**Answer: A.**
-**Explanation:** German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Rhineland, 1936?
-
-A. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-B. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-C. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-D. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-
-**Answer: B.**
-**Explanation:** German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Rhineland, 1936?
-
-A. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-B. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-C. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-D. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-
-**Answer: C.**
-**Explanation:** German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Rhineland, 1936?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-C. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-D. German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-
-**Answer: D.**
-**Explanation:** German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Spanish Civil War, 1936-39?
-
-A. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-B. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-C. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-D. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-
-**Answer: A.**
-**Explanation:** Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Spanish Civil War, 1936-39?
-
-A. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-B. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-C. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-D. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-
-**Answer: B.**
-**Explanation:** Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Spanish Civil War, 1936-39?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-C. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-D. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-
-**Answer: C.**
-**Explanation:** Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Spanish Civil War, 1936-39?
-
-A. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-B. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-C. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-D. Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-
-**Answer: D.**
-**Explanation:** Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Anschluss, 1938?
-
-A. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-B. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-C. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-D. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-
-**Answer: A.**
-**Explanation:** Germany absorbed Austria in 1938 without effective resistance from the other powers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Anschluss, 1938?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-C. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-D. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-
-**Answer: B.**
-**Explanation:** Germany absorbed Austria in 1938 without effective resistance from the other powers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Anschluss, 1938?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-C. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-D. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-
-**Answer: C.**
-**Explanation:** Germany absorbed Austria in 1938 without effective resistance from the other powers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Anschluss, 1938?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-C. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-D. Germany absorbed Austria in 1938 without effective resistance from the other powers.
-
-**Answer: D.**
-**Explanation:** Germany absorbed Austria in 1938 without effective resistance from the other powers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Munich, September 1938?
-
-A. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-B. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-C. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-D. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-
-**Answer: A.**
-**Explanation:** The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Munich, September 1938?
-
-A. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-B. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-C. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-D. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-
-**Answer: B.**
-**Explanation:** The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Munich, September 1938?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-C. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-D. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-
-**Answer: C.**
-**Explanation:** The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Munich, September 1938?
-
-A. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-B. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-C. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-D. The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-
-**Answer: D.**
-**Explanation:** The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Prague, March 1939?
-
-A. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-B. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-C. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-D. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-
-**Answer: A.**
-**Explanation:** Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Prague, March 1939?
-
-A. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-B. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-C. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-D. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-
-**Answer: B.**
-**Explanation:** Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Prague, March 1939?
-
-A. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-B. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-C. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-D. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-
-**Answer: C.**
-**Explanation:** Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Prague, March 1939?
-
-A. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-B. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-C. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-D. Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-
-**Answer: D.**
-**Explanation:** Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Nazi-Soviet Pact and Poland, 1939?
-
-A. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-B. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-C. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-D. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-
-**Answer: A.**
-**Explanation:** The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Nazi-Soviet Pact and Poland, 1939?
-
-A. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-B. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-C. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-D. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-
-**Answer: B.**
-**Explanation:** The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Nazi-Soviet Pact and Poland, 1939?
-
-A. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-B. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-C. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-D. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-
-**Answer: C.**
-**Explanation:** The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Nazi-Soviet Pact and Poland, 1939?
-
-A. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-B. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-C. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-D. The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
-
-**Answer: D.**
-**Explanation:** The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Appeasement and failure-of-order verdict?
-
-A. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-B. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-C. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-D. The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-
-**Answer: A.**
-**Explanation:** Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Appeasement and failure-of-order verdict?
-
-A. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-B. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-C. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-D. The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-
-**Answer: B.**
-**Explanation:** Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Appeasement and failure-of-order verdict?
-
-A. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-B. The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-C. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-D. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-
-**Answer: C.**
-**Explanation:** Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Appeasement and failure-of-order verdict?
-
-A. Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-B. The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition.
-C. The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-D. Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
-
-**Answer: D.**
-**Explanation:** Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Munich occurred in 1938, after Manchuria; Prague preceded Poland.
+- **B:** Prague in 1939 cannot precede Abyssinia in 1935; pact preceded Poland.
+- **C:** Locarno was 1925 and Prague came before the Polish invasion.
+- **D:** This preserves the main 1931–39 escalation and 1935, 1936, 1938, 1939 ordering.
+- **Trap:** Track military acts and diplomatic responses without compressing the intervening crises.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -816,258 +498,76 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Question:** Why did the League fail as a peace-enforcement body? Answer in about 150 words.
 
-**Model thesis:** Its design lacked automatic force, but the decisive weakness was political: Britain and France would not accept the risks collective security required.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The League failed as a peace-enforcement body because collective security required members to take risks against aggression, while its machinery and leading powers could not guarantee that response. Established on 10 January 1920, it combined a General Assembly, Council, Court, Secretariat and commissions. These institutions could administer mandates and minority questions and advance labour, refugee and health work; they did not automatically supply coercive power.
 
-- The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation.
-- The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-- The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-- Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-- Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
+The United States never joined, Germany entered only in 1926 and the USSR only in 1934. Unanimity rules and the absence of a standing army made effective action depend on Britain and France, neither willing to fight every aggressor. Japan's seizure of Manchuria in 1931 showed that a major power could retain its gains; half-hearted sanctions against Italy over Abyssinia in 1935 further damaged credibility.
 
-**Qualified conclusion:** Its design lacked automatic force, but the decisive weakness was political: Britain and France would not accept the risks collective security required.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the League fail as a peace-enforcement body? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did the League fail as a peace-enforcement body? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Its design lacked automatic force, but the decisive weakness was political: Britain and France would not accept the risks collective security required.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Its design lacked automatic force, but the decisive weakness was political: Britain and France would not accept the risks collective security required.
+Its administrative achievements make “complete failure” inaccurate. But when major powers resisted, the gap between collective-security promises and members' willingness to enforce them proved decisive.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Assess the Locarno phase. Answer in about 150 words.
 
-**Model thesis:** Dawes credit, western guarantees and German membership produced real easing, but dependence on prosperity and unguaranteed eastern frontiers made it conditional.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Locarno marked a real but geographically selective easing of interwar tension. The Dawes Plan of 1924 made reparations more manageable through American loans and enabled French withdrawal from the Ruhr. On that improved economic basis, the 1925 Locarno Treaties guaranteed Germany's western frontiers, reassuring France and Belgium; Germany entered the League in 1926. The 1928 Kellogg-Briand Pact renounced war, while the 1929 Young Plan reduced reparations, extending the mood of accommodation.
 
-- The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-- Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-- Germany entered the League in 1926 during the brief phase of conditional reconciliation.
-- Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
+Yet Locarno guaranteed no comparable eastern frontier for Poland and Czechoslovakia. Reconciliation in the west thus left revision in the east possible. Economic recovery was equally conditional: American lending underpinned European stability, and withdrawal of credit after the 1929 crash brought unemployment and political radicalisation. The loss of prosperity undermined confidence in compromise rather than simply reversing a treaty overnight.
 
-**Qualified conclusion:** Dawes credit, western guarantees and German membership produced real easing, but dependence on prosperity and unguaranteed eastern frontiers made it conditional.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the Locarno phase. Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Assess the Locarno phase. Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Dawes credit, western guarantees and German membership produced real easing, but dependence on prosperity and unguaranteed eastern frontiers made it conditional.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Germany entered the League in 1926 during the brief phase of conditional reconciliation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Dawes credit, western guarantees and German membership produced real easing, but dependence on prosperity and unguaranteed eastern frontiers made it conditional.
+Locarno was not a sham: it eased relations while credit and political cooperation lasted. But its unguaranteed eastern boundaries and dependence on transatlantic finance made it a partial settlement, not a durable European security system.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** How did the Depression transform interwar international relations? Answer in about 250 words.
 
-**Model thesis:** Credit withdrawal and unemployment weakened cooperation, empowered revisionist regimes and converted institutional weakness into successful aggression.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The Depression transformed interwar diplomacy by destroying the economic basis of the 1920s' limited reconciliation and narrowing governments' willingness to act collectively. The Dawes Plan of 1924 relied on American loans to ease German reparations and permit French withdrawal from the Ruhr. Locarno's western guarantees followed in 1925. Even the Young Plan's reduction of reparations to £2,000 million in 1929 arrived as that credit-based foundation began to fail.
 
-- The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr.
-- The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse.
-- Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended.
-- Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-- Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
+After the crash, American loans stopped or were called in. Financial stress, unemployment and political radicalisation in Germany weakened supporters of compromise and benefited revisionist politics. Governments preoccupied with domestic hardship were less inclined to risk trade or war for sanctions abroad. Thus the League's older defects—no army, unanimity and dependence on British-French resolve—became more damaging under conditions of scarce cooperation.
 
-**Qualified conclusion:** Credit withdrawal and unemployment weakened cooperation, empowered revisionist regimes and converted institutional weakness into successful aggression.
+Japan's seizure of Manchuria in 1931 exposed the ability of a great power to defy the League and keep territory. Hitler's accession in 1933 sharpened the European revisionist challenge; half-hearted sanctions during Italy's invasion of Abyssinia in 1935 advertised that collective security could not reliably impose costs. The sequence linked economic shock to diminished political will and the apparent cheapness of aggression, rather than treating economic crisis as a direct order to invade.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How did the Depression transform interwar international relations? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How did the Depression transform interwar international relations? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Credit withdrawal and unemployment weakened cooperation, empowered revisionist regimes and converted institutional weakness into successful aggression.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Credit withdrawal and unemployment weakened cooperation, empowered revisionist regimes and converted institutional weakness into successful aggression.
+The Depression was a decisive accelerator, not the sole origin of war: eastern frontiers remained unguaranteed at Locarno, and League enforcement had depended on state choices even before 1929. Economic collapse helped turn institutional vulnerabilities into repeated diplomatic failure.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Why did appeasement appear reasonable, and why did it fail? Answer in about 250 words.
 
-**Model thesis:** War memory, genuine grievances and weak readiness made concession defensible, but Munich excluded allies and Prague proved Hitler's aims were not finite.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Appeasement appeared reasonable because British and partly French leaders sought to avoid another catastrophe while confronting grievances they thought might be limited. The memory of the First World War, pacifist opinion, fear of communist Russia, doubts about League enforcement and British military unreadiness made negotiation attractive. Some Versailles arrangements were contested; delaying confrontation might also buy time for rearmament. This was not simply cowardice.
 
-- Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-- German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-- The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-- Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination.
-- Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
+Yet the policy depended on diagnosing Hitler as a negotiable revisionist. The Anglo-German Naval Agreement of 1935 fractured the Stresa Front, replacing joint resistance with separate bargains. Remilitarisation of the Rhineland in 1936 drew protest rather than force, suggesting to Hitler that future risks might pay. In September 1938 Munich conceded the Sudetenland while the Czechs and the USSR were excluded from the decision; loss of its frontier defences strategically weakened Czechoslovakia. Although concession could be defended in the language of German self-determination, repeated retreats weakened deterrence.
 
-**Qualified conclusion:** War memory, genuine grievances and weak readiness made concession defensible, but Munich excluded allies and Prague proved Hitler's aims were not finite.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did appeasement appear reasonable, and why did it fail? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did appeasement appear reasonable, and why did it fail? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** War memory, genuine grievances and weak readiness made concession defensible, but Munich excluded allies and Prague proved Hitler's aims were not finite.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** War memory, genuine grievances and weak readiness made concession defensible, but Munich excluded allies and Prague proved Hitler's aims were not finite.
+The diagnosis collapsed in March 1939 when Hitler occupied Prague and other non-German Czech lands: this was not the correction of a narrowly national grievance. Munich may have given Britain time to rearm, so resistance earlier cannot be assumed costless or certain to succeed. But concessions also strengthened Germany and signalled that commitments to smaller states might not be honoured. Appeasement was rational in its fear of war yet failed as a response to expanding ambitions that concessions did not satisfy.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Trace the collapse of collective security between 1931 and 1939. Answer in about 300 words.
 
-**Model thesis:** Manchuria established impunity; Abyssinia broke prestige; separate bargains, Rhineland, Spain, Anschluss and Munich removed deterrence before Poland.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The collapse of collective security from 1931 to 1939 was cumulative: each unpunished breach reduced the credibility of joint resistance and widened the next aggressor's options. Japan's invasion of Manchuria in 1931 showed that a great power could challenge the League and retain gains. After disarmament failed and Germany left the League in 1933, Italy's invasion of Abyssinia in 1935 met half-hearted sanctions; the League could neither deter aggression nor sustain its own prestige.
 
-- Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-- Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-- Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance.
-- German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed.
-- Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint.
-- Germany absorbed Austria in 1938 without effective resistance from the other powers.
-- The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia.
-- The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war.
+The breakdown was also caused by separate diplomacy. Britain's Anglo-German Naval Agreement in 1935 weakened the Stresa Front against German revision. Hitler's remilitarisation of the Rhineland in 1936 met protest without force; this made a risky move appear cheap. During the Spanish Civil War of 1936–39, Germany and Italy supported Franco while Britain and France stayed out, demonstrating how non-intervention by defenders coexisted with intervention by revisionists. Anschluss absorbed Austria in 1938 without effective outside resistance.
 
-**Qualified conclusion:** Manchuria established impunity; Abyssinia broke prestige; separate bargains, Rhineland, Spain, Anschluss and Munich removed deterrence before Poland.
+At Munich in September 1938, Britain and France conceded the Sudetenland without Czechoslovak or Soviet participation. The concession strategically weakened Czechoslovakia and undermined the case for collective defence of smaller states. Hitler's seizure of non-German Prague in March 1939 showed that territorial demands were not confined to self-determination. The Nazi-Soviet Pact of August 1939 then removed an immediate diplomatic barrier to the invasion of Poland; Britain and France declared war after the invasion in September.
 
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the collapse of collective security between 1931 and 1939. Answer in about 300 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Trace the collapse of collective security between 1931 and 1939. Answer in about 300 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Manchuria established impunity; Abyssinia broke prestige; separate bargains, Rhineland, Spain, Anschluss and Munich removed deterrence before Poland.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Germany absorbed Austria in 1938 without effective resistance from the other powers. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-8. **Claim and named evidence:** The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Manchuria established impunity; Abyssinia broke prestige; separate bargains, Rhineland, Spain, Anschluss and Munich removed deterrence before Poland.
+This sequence was neither an automatic progression nor solely a defect in the League's charter. Economic crisis, British and French war-readiness and distrust of Soviet partnership constrained choices, while Japan, Italy and Germany chose aggression. But repeated decisions not to enforce commitments taught revisionist powers that the costs of escalation were lower than advertised. Poland marked the failure of deterrence, not the moment a functioning collective-security system first broke down.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Was the interwar order doomed by institutional design or state choices? Answer in about 300 words.
 
-**Model thesis:** The League's structure mattered, but member-state choices repeatedly withheld enforcement; political will converted remediable weaknesses into systemic collapse.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The interwar order was vulnerable by design, but its destruction was not predetermined: states chose whether to give its promises force. Founded in January 1920, the League had an Assembly, Council, Court, Secretariat and commissions. They supported refugee assistance under Nansen, labour and health work, administration of mandates and minorities, and settlement of smaller disputes. Such achievements show that cooperation was possible; none supplied automatic military enforcement.
 
-- The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories.
-- The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement.
-- Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete.
-- The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism.
-- Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains.
-- Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness.
-- Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest.
+The United States never joined; Germany entered late, in 1926, and the USSR only in 1934. Unanimity, the absence of a League army and its association with the Versailles settlement made resistance to a major aggressor hard. The 1925 Locarno Treaties guaranteed western but not eastern German frontiers; their deliberate geographical limit left Poland and Czechoslovakia exposed. The 1928 Kellogg-Briand Pact renounced war without sanctions. Yet Dawes credit and Germany's League membership also produced a period of genuine easing, demonstrating that institutional weakness did not make every outcome inevitable.
 
-**Qualified conclusion:** The League's structure mattered, but member-state choices repeatedly withheld enforcement; political will converted remediable weaknesses into systemic collapse.
+The decisive test was political will under pressure. Japan's seizure of Manchuria in 1931 succeeded despite League opposition. During the Abyssinian crisis in 1935, members adopted half-hearted sanctions against Italy. Britain's separate naval agreement with Germany and the 1938 Munich concession similarly substituted bilateral accommodation for credible collective restraint. Appeasement answered some grievances that appeared finite and reflected fear of another war and incomplete rearmament; nevertheless, repeated concessions weakened deterrence while aggressors learned that protest might not be followed by enforcement. Hitler's occupation of non-German Prague in March 1939 exposed the limits of the grievance argument.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Was the interwar order doomed by institutional design or state choices? Answer in about 300…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Was the interwar order doomed by institutional design or state choices? Answer in about 300…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The League's structure mattered, but member-state choices repeatedly withheld enforcement; political will converted remediable weaknesses into systemic collapse.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** The League's structure mattered, but member-state choices repeatedly withheld enforcement; political will converted remediable weaknesses into systemic collapse.
+Design and choice cannot be separated: a stronger charter without committed powers would also have struggled, while committed members might have mitigated weak machinery. The Depression worsened incentives to cooperate, and aggressors retained responsibility for their actions. The order failed above all where its principal members withheld the risks that collective security necessarily demanded.

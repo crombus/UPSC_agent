@@ -50,8 +50,10 @@ RESIDENT <-> NON-RESIDENT TRANSACTIONS DURING A PERIOD
 - **Nominal:** observed price; **real:** relative-price adjusted.
 - **NEER:** trade-weighted nominal basket; **REER:** relative-price adjusted basket.
 - RBI series: 40 currencies, base 2015-16=100.
-- RBI policy, 8 Apr 2026: market-determined; intervention smooths excessive/disruptive volatility; no specific level or band.
-- IMF 2024 Article IV, published Feb 2025: de jure floating; de facto stabilised for Dec 2022-Nov 2024. This retrospective label is not an RBI target.
+- RBI policy, 8 Apr 2026: market-determined; intervention smooths excessive/disruptive volatility; no specific
+   level or band.
+- IMF 2024 Article IV, published Feb 2025: de jure floating; de facto stabilised for Dec 2022-Nov 2024. This
+   retrospective label is not an RBI target.
 
 ## FOREX MARKET AND RBI
 
@@ -101,6 +103,7 @@ VALUATION     -> CHANGES STOCK WITHOUT BoP TRANSACTION
 
 ## MAINS SPINE
 
-`Residence -> account -> sign -> composition -> financing -> quotation -> RBI/liquidity -> reserves/debt -> FEMA/trilemma -> qualified resilience verdict`
+`Residence -> account -> sign -> composition -> financing -> quotation -> RBI/liquidity -> reserves/debt ->
+   FEMA/trilemma -> qualified resilience verdict`
 
 **Boundary:** WTO rules, tariffs, FTAs and export-policy instruments belong to Economy Topic 20.

@@ -18,7 +18,9 @@ PARLIAMENTARY REPUBLIC
     `-- Article 65: acts as President during vacancy or discharges functions during inability
 ```
 
-**Answer line:** The President is a constitutional sentinel, not an alternative executive; the Vice-President is principally Rajya Sabha's presiding officer, not an ordinary deputy executive.
+**Answer line:** The President is a constitutional sentinel, not an
+alternative executive. The Vice-President is principally Rajya Sabha's
+presiding officer, not an ordinary deputy executive.
 
 ## 2. Origin and amendment timeline
 
@@ -138,7 +140,8 @@ CASES / PRACTICE
 `-- K. R. Narayanan: returned President's-Rule advice for reconsideration
 ```
 
-**Answer spine:** normal binding advice -> one reconsideration -> narrow contingency -> floor confidence -> no personal policy programme.
+**Answer spine:** normal binding advice -> one reconsideration
+-> narrow contingency -> floor confidence -> no personal policy programme.
 
 ## 7. Presidential power clusters
 
@@ -173,11 +176,13 @@ JUDICIAL / EXTERNAL / EMERGENCY
 | Article 111 ordinary Union Bill | assent, withhold, or return once | after re-passage, assent is mandatory |
 | Article 111 Money Bill | assent or withhold; cannot return | no return route |
 | Article 368 amendment Bill | assent obligatory after 24th Amendment (1971) | no veto |
-| Article 201 reserved State non-Money Bill | assent, withhold, or direct return through Governor | State re-passage does not textually compel assent |
+| Art. 201 reserved State non-Money Bill | assent, withhold, return via Governor | Re-passage not compelling |
 
 - **Pocket veto:** conventional label arising from Article 111's lack of a fixed time limit.
 - **Zail Singh / Indian Post Office (Amendment) Bill, 1986:** standard illustration of prolonged non-decision.
-- **2025 Article 143 opinion:** rejected court-made fixed clocks and deemed assent under Articles 200/201, while permitting limited intervention against glaring, prolonged and unexplained inaction.
+- **2025 Article 143 opinion:** rejected court-made fixed clocks and deemed
+  assent under Articles 200/201, while permitting limited intervention against
+  glaring, prolonged and unexplained inaction.
 
 ## 9. Ordinance under Article 123
 
@@ -274,7 +279,7 @@ DEPUTY CHAIRMAN: performs Chair duties during the acting-presidential period
 | House qualification | Lok Sabha | Rajya Sabha |
 | Oath administered by | CJI / senior-most available SC judge | President / appointee |
 | Resignation addressed to | Vice-President | President |
-| Removal | Article 61 impeachment; either House; 2/3 total in both | Article 67(b); Rajya Sabha effective majority + Lok Sabha agreement |
+| Removal | Art. 61 impeachment; either House; 2/3 total | Art. 67(b); RS effective majority + LS agreement |
 | Casual vacancy | election within six months | election as soon as possible |
 | Regular role | constitutional Head of State on advice | Rajya Sabha Chairman |
 | Contingency role | office to be continuously discharged | acts as President temporarily |
@@ -296,4 +301,6 @@ Exact Article
    -> qualified verdict
 ```
 
-**Final verdict:** The two offices secure continuity without displacing parliamentary responsibility: presidential dignity and Vice-Presidential procedure remain constitutionally bounded.
+**Final verdict:** The two offices secure continuity without displacing
+parliamentary responsibility: presidential dignity and Vice-Presidential
+procedure remain constitutionally bounded.

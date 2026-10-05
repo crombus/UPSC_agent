@@ -1,0 +1,18 @@
+=== LEARNING SESSION ===
+H2 count: 5
+MCQ stems: 16
+Option lines A/B/C/D: 64
+Answer lines: 16
+Mains headings (### M or Q##):
+##### Mains 1 - 10 marks
+##### Mains 2 - 10 marks
+##### Mains 3 - 15 marks
+##### Mains 4 - 15 marks
+##### Mains 5 - 20 marks
+##### Mains 6 - 20 marks
+
+=== WORKBOOK ===
+MCQ stems: 32
+Option lines A/B/C/D: 128
+Answer lines: 32
+Trap lines: 32

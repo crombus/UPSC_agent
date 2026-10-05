@@ -51,7 +51,9 @@ STRUCTURAL WEAKNESS -> DELICENSING + PSU RESERVATION CUT
 3. Specified hazardous chemicals: hydrocyanic acid/phosgene derivatives and specified isocyanates.
 4. Cigars/cigarettes of tobacco and manufactured tobacco substitutes.
 
-**Public-sector reservation:** Atomic Energy and core Railway operations, subject to notified mass-rapid-transport and specified-infrastructure exceptions. Delicensing does not remove safety, environment, land, competition or sector rules.
+**Public-sector reservation:** Atomic Energy and core Railway operations, subject to notified
+   mass-rapid-transport and specified-infrastructure exceptions. Delicensing does not remove safety, environment,
+   land, competition or sector rules.
 
 ## 5. CPSE ARCHITECTURE
 
@@ -59,9 +61,11 @@ STRUCTURAL WEAKNESS -> DELICENSING + PSU RESERVATION CUT
 - **PSE:** Public Sector Enterprise.
 - **CPSE:** Central Public Sector Enterprise.
 - Forms: departmental undertaking; statutory corporation; government company.
-- Companies Act section 2(45) government company: at least 51% paid-up share capital held by Central/State government(s), singly or jointly; includes a subsidiary.
+- Companies Act section 2(45) government company: at least 51% paid-up share capital held by Central/State
+   government(s), singly or jointly; includes a subsidiary.
 - **DPE:** Department of Public Enterprises—policy/performance framework.
-- **DIPAM:** Department of Investment and Public Asset Management—disinvestment, capital management and public-asset transactions.
+- **DIPAM:** Department of Investment and Public Asset Management—disinvestment, capital management and
+   public-asset transactions.
 - Owner/administrative ministry != board management != sector regulator.
 - Public-service obligation should be explicit and costed.
 - Soft budget constraint: expected rescue weakens restructuring/exit discipline.
@@ -70,14 +74,17 @@ STRUCTURAL WEAKNESS -> DELICENSING + PSU RESERVATION CUT
 
 | Status | Cumulative eligibility core |
 |---|---|
-| Maharatna | Navratna; Indian listing/public shareholding; 3-year average turnover >Rs25,000 crore, net worth >Rs15,000 crore, PAT >Rs5,000 crore; significant global presence |
+| Maharatna | Navratna; Indian listing/public shareholding; 3-year average turnover >Rs25,000 crore, net worth
+   >Rs15,000 crore, PAT >Rs5,000 crore; significant global presence |
 | Navratna | Schedule A + Miniratna-I + Excellent/Very Good MoU in 3 of preceding 5 years + score >=60/100 |
 | Miniratna-I | profit 3 consecutive years + positive net worth + PBT >=Rs30 crore in one |
 | Miniratna-II | profit 3 consecutive years + positive net worth |
 
-**Navratna six indicators:** net profit/net worth; manpower cost/total cost; PBDIT/capital employed; PBDIT/turnover; earnings per share; inter-sectoral performance.
+**Navratna six indicators:** net profit/net worth; manpower cost/total cost; PBDIT/capital employed;
+   PBDIT/turnover; earnings per share; inter-sectoral performance.
 
-**Decode:** PAT = Profit After Tax; PBT = Profit Before Tax; PBDIT = Profit Before Depreciation, Interest and Tax; MoU = Memorandum of Understanding. DPE review guidance checked through 16 June 2026.
+**Decode:** PAT = Profit After Tax; PBT = Profit Before Tax; PBDIT = Profit Before Depreciation, Interest and
+   Tax; MoU = Memorandum of Understanding. DPE review guidance checked through 16 June 2026.
 
 ## 7. DISINVESTMENT MAP
 
@@ -103,7 +110,8 @@ CLOSURE / MERGER / IBC RESOLUTION -> DISTINCT EXIT/RESTRUCTURING ROUTES
 3. Power, Petroleum, Coal and other Minerals.
 4. Banking, Insurance and Financial Services.
 
-- Strategic: bare-minimum public commercial presence at holding-company level; others may privatise, merge, subsidiarise or close.
+- Strategic: bare-minimum public commercial presence at holding-company level; others may privatise, merge,
+   subsidiarise or close.
 - Non-strategic: privatise where feasible, otherwise close.
 - Policy intent != transaction completion.
 
@@ -124,7 +132,8 @@ BE = Budget Estimate; RE = Revised Estimate. Combined budget head != pure disinv
 - Dominance itself is not prohibited; abuse is.
 - IBC provides corporate resolution/liquidation; it is not disinvestment policy.
 - Gains: entry, competition, scale, technology, choice and productivity.
-- Limits: job displacement, inequality, regional concentration, market power, weak domestic R&D and incomplete State capacity.
+- Limits: job displacement, inequality, regional concentration, market power, weak domestic R&D and incomplete
+   State capacity.
 
 ## 11. MAINS REFORM SPINE
 
@@ -133,4 +142,5 @@ NAME FAILURE -> CHOOSE HORIZONTAL/TARGETED TOOL -> PRESERVE COMPETITION
  -> MEASURE CAPABILITY/ADDITIONALITY -> PROTECT TRANSITION -> SUNSET/REVIEW
 ```
 
-**Boundary:** PLI/MSMEs/semiconductors -> Topic 17; detailed asset monetisation -> Topic 18; fiscal receipts -> Topic 9; IBC depth -> Topic 6.
+**Boundary:** PLI/MSMEs/semiconductors -> Topic 17; detailed asset monetisation -> Topic 18; fiscal receipts ->
+   Topic 9; IBC depth -> Topic 6.

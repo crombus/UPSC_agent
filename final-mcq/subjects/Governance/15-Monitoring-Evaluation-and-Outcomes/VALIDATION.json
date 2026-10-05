@@ -1,0 +1,43 @@
+{
+  "topic": "15-Monitoring-Evaluation-and-Outcomes",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "revision_counts": {
+    "revision-1": 56,
+    "revision-2": 56,
+    "revision-3": 56
+  },
+  "total_originals": 168,
+  "key_counts": {
+    "revision-1": {
+      "C": 14,
+      "B": 14,
+      "D": 14,
+      "A": 14
+    },
+    "revision-2": {
+      "B": 14,
+      "A": 14,
+      "C": 14,
+      "D": 14
+    },
+    "revision-3": {
+      "B": 14,
+      "A": 14,
+      "C": 14,
+      "D": 14
+    }
+  },
+  "all_questions_four_options": true,
+  "questions_answer_free": true,
+  "question_answer_mapping_contiguous": true,
+  "affirmative_owner_coverage_each_revision": true,
+  "cross_revision_stems_distinct": true,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "no direct routed Mains or applied objective PYQ owned by this topic in audited 2018\u20132026 ledgers",
+    "exact PYQ provenance, authenticated key and reproduction rights",
+    "OOMF 2026\u201327 coverage figure is date-specific",
+    "ADP/blocks current counts and dynamic ranks require re-check",
+    "no DMEO findings, effect sizes, completed-evaluation count or study attribution asserted"
+  ]
+}

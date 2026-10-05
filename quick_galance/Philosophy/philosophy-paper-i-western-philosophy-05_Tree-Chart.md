@@ -6,7 +6,11 @@
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
 > **Syllabus, verbatim:** *Hegel : Dialectical Method; Absolute Idealism.*
-> **Terminology:** English concept first, the German term immediately after in parentheses; every English sentence attributed to Hegel is a translation. The *Encyclopaedia* is cited by **§**, the *Phenomenology* by Preface **¶** or chapter, the *Science of Logic* by division, the *Philosophy of Right* by its Preface, and the history material **as lectures**.
+> **Terminology:** English concept first, the German term immediately after in
+> parentheses; every English sentence attributed to Hegel is a translation.
+> The *Encyclopaedia* is cited by **§**, the *Phenomenology* by Preface **¶** or
+> chapter, the *Science of Logic* by division, the *Philosophy of Right* by its
+> Preface, and the history material **as lectures**.
 
 ## Quick-Glance Tree Chart
 

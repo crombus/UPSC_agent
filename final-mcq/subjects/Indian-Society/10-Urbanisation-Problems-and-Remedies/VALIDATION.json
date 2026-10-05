@@ -1,0 +1,48 @@
+{
+  "topic": "10 \u2014 Urbanisation: Problems and Remedies",
+  "status": "complete for original banks",
+  "questions_total": 147,
+  "coverage_roots": 49,
+  "exact_objective_pyqs_live": 0,
+  "pyq_status": "concept-tested; exact wording/options withheld for provenance and reproduction-rights holds",
+  "revisions": {
+    "1": {
+      "questions": 49,
+      "answers": 49,
+      "keys": {
+        "A": 13,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      }
+    },
+    "2": {
+      "questions": 49,
+      "answers": 49,
+      "keys": {
+        "A": 13,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      }
+    },
+    "3": {
+      "questions": 49,
+      "answers": 49,
+      "keys": {
+        "A": 13,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      }
+    }
+  },
+  "checks": {
+    "answer_free_questions": true,
+    "four_options_each": true,
+    "one_to_one_answer_mapping": true,
+    "all_roots_affirmative_each_revision": true,
+    "cross_revision_stems_distinct": true,
+    "sources_and_traps_present": true
+  }
+}

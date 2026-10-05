@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topic_key": "international-relations-07",
+  "title": "India-Africa Development and Digital Partnership",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "banks": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45
+  },
+  "root_coverage": "complete",
+  "institutional_dimensions": "recorded with explicit holds",
+  "pyq_rights_and_key_holds": "explicit",
+  "hostile_audit": "pass",
+  "answer_leakage": "pass",
+  "source_date_audit": "pass"
+}

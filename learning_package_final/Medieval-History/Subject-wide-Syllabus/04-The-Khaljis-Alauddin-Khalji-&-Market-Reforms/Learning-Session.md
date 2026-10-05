@@ -56,7 +56,7 @@ cover_image: assets/medieval-indian-history-04_Teaching-Navigation_2026-08-30.pn
 #### Package counts, provenance and honest limitations
 
 - Learning sections: 24; learning MCQ loops: 16.
-- Workbook content: 3 verified or honestly-adjacent PYQs; 32 original broad-coverage MCQs; 12 remedial MCQs; 6 original solved Mains questions; final register modules: 10.
+- Workbook content: 3 verified or honestly-adjacent PYQs; 32 original MCQs with integrated remediation map; 6 original solved Mains questions; final register modules: 10.
 - Original PNG visuals: 25 total - 24 body visuals plus 1 topic-specific cover visual. All maps are schematic and not to scale.
 - Repository sources used most heavily: Topic 04 basic and advanced owners; bounded Topics 03, 05, 07 and 11; `README.md`; `00_Master-Chronology.md`; `REVISION-CHART_Ages-Eras-and-Distinctive-Features.md`; `ANSWER-WORTHINESS-AUDIT.md`; Prelims and Mains PYQ routing ledgers; locally exported PYQ Markdown.
 - OCR evidence used most heavily from Satish Chandra's *History of Medieval India* chapters on the Khaljis, Mongol threat, expansion, market reforms and culture, and from *Medieval India: From Sultanat to the Mughals, Part I* sections on the Mongol threat, internal restructuring, agrarian policy, state theory, cultural life and urban economy.
@@ -107,13 +107,13 @@ cover_image: assets/medieval-indian-history-04_Teaching-Navigation_2026-08-30.pn
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The best framing is source criticism plus state-capacity analysis.
+**Plain-language definition:** This opening session fixes the exact 1290-1320 boundary of the Khalji story and states the one safe lens for reading everything inside it: source criticism combined with state-capacity analysis.
 
-**Technical definition:** Technically, Scope, framing and chronology discipline is analysed by relating Scope to framing, then testing the relationship through chronology discipline and source criticism plus state-capacity analysis.
+**Technical definition:** Topic 04 begins at the 1290 Khalji accession and closes at the 1320 Tughlaq takeover; every claim inside that window must be traced to a named source class and tested against what a Delhi-centred coercive state could plausibly enforce, rather than accepted as settled fact.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The best framing is source criticism plus state-capacity analysis.
+> Read Alauddin Khalji through source criticism and state-capacity analysis, not through the label of saint, tyrant or proto-modern planner.
 
 #### MUST-WRITE KEYWORDS
 
@@ -124,7 +124,7 @@ cover_image: assets/medieval-indian-history-04_Teaching-Navigation_2026-08-30.pn
 - **1290 Khalji accession**
 - **1320 Tughlaq takeover**
 
-**How to use them:** Frame the answer through Scope; define framing, connect chronology discipline with source criticism plus state-capacity analysis to explain the mechanism, and use 1290 Khalji accession for the decisive comparison or qualification.
+**How to use them:** Open by naming the Scope and framing of the topic through its chronology discipline; anchor the clock at the 1290 Khalji accession, declare source criticism plus state-capacity analysis as the governing lens, and close on the 1320 Tughlaq takeover to mark where Topic 04 stops and Topic 05 begins.
 
 [FACT] Topic 04 begins from the **1290 Khalji accession** and runs to the **1320 Tughlaq takeover**.
 
@@ -152,6 +152,10 @@ cover_image: assets/medieval-indian-history-04_Teaching-Navigation_2026-08-30.pn
 - [ANALYSIS] Its success depended on making Delhi provisioned, cavalry affordable and nobles politically isolated.
 - [LIMIT] Its institutions were impressive, but not equally deep everywhere. The most intense evidence concerns **Delhi and the upper doab**, not every province.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin Khalji's regime is best understood as a coercive, Delhi-centred military-fiscal experiment rather than a welfare state or a uniform empire-wide command economy. **Named evidence:** its defining institutions - the three regulated Delhi markets, the doab's half-produce revenue demand and the standing cavalry raised against repeated Mongol invasions between 1299 and 1305 - survive mainly through Ziauddin Barani's later, aristocratic chronicle. **Analysis:** because these institutions cluster around the army's and the capital's needs rather than around subject welfare, and because the main source carries its own moralising bias, the safest exam frame combines source criticism (weighing what Barani could know and why he wrote) with state-capacity analysis (asking what a Delhi-centred medieval state could actually enforce, and where). **Qualification:** this rules out both the "medieval welfare state" caricature and the "uniform totalitarian empire" caricature; the correct register is a bounded, evidence-led description of a coercive military-fiscal system, strongest in Delhi and the upper doab and weaker at the frontier of Khalji power.
+
 #### CLOSING RECALL FLOW — SCOPE, FRAMING AND CHRONOLOGY DISCIPLINE
 
 ```text
@@ -167,33 +171,33 @@ MECHANISM / ARGUMENT: Alauddin Khalji's regime was neither a welfare price-contr
 CONSEQUENCE / CONTRAST: Its institutions were impressive, but not equally deep everywhere.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: it was a coercive, Delhi-centred military-fiscal experiment responding to frontier danger, elite conspiracy and...
+UPSC TRAP / ANSWER-USE: Calling the regime "first socialist", "anti-Hindu fanatic" or a "uniform national market regulator" is not accurate - each label collapses a bounded, Delhi-centred coercive system into an anachronistic slogan.
         |
         v
-ANSWER-GRABBING FORMULATION: The best framing is source criticism plus state-capacity analysis.
+ANSWER-GRABBING FORMULATION: Between 1290 and 1320, the only exam-safe register is a bounded, Delhi-centred military-fiscal experiment - never a welfare state, never a uniform empire.
 ```
 ### SESSION 2 — FROM MAMLUK CONSOLIDATION TO THE KHALJI "REVOLUTION"
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** [DEBATE] The phrase "Khalji revolution" is useful only if used carefully.
+**Plain-language definition:** This session tests the phrase "Khalji revolution" against what actually changed between the Mamluk order and 1290, so the word "revolution" is used precisely rather than as a slogan.
 
 **Technical definition:** Satish Chandra's concise OCR states that many non-Turks, including Khaljis and Indian Muslims, had long served in the Sultanate, especially in frontier and eastern spaces, but faced blocked advancement under old Turkish exclusivism.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> [DEBATE] The phrase "Khalji revolution" is useful only if used carefully.
+> Call 1290 a widening of the ruling elite, not a social revolution among cultivators, artisans or women.
 
 #### MUST-WRITE KEYWORDS
 
-- **From Mamluk consolidation to the Khalji "revolution"**
-- **not**
+- **broadened elite access**
 - **non-Turks**
 - **"Khalji revolution"**
 - **mixed Turkish-Afghan origin**
+- **institutional continuity**
 - **Pure continuity**
 
-**How to use them:** Frame the answer through From Mamluk consolidation to the Khalji "revolution"; define not, connect non-Turks with "Khalji revolution" to explain the mechanism, and use mixed Turkish-Afghan origin for the decisive comparison or qualification.
+**How to use them:** Open by naming the broadened elite access that 1290 created; use non-Turks and mixed Turkish-Afghan origin to show which group gained ground; invoke institutional continuity to prove Delhi, iqta and court routines survived unchanged; and reserve Pure continuity as the label for the weaker interpretation you are correcting.
 
 [FACT] The Mamluks left behind Delhi, iqta routines, coinage, court idiom and a frontier problem. They did **not** leave behind a stable succession or a permanently closed Turkish monopoly.
 
@@ -221,13 +225,17 @@ ANSWER-GRABBING FORMULATION: The best framing is source criticism plus state-cap
 - [FACT] They did **not** exclude Turks from office.
 - [ANALYSIS] Their rise showed that the Delhi Sultanate was becoming more Indian in recruitment without becoming socially egalitarian.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The "Khalji revolution" names a change in who could reach high Sultanate office, not a change in the structure of the state or in the condition of ordinary subjects. **Named evidence:** Jalaluddin Khalji's 1290 accession ended the old Turkish nobility's monopoly of the throne, yet Delhi remained the capital, iqta continued to fund the army, and Persianate court idiom carried on unbroken. **Analysis:** because the institutions that a genuine social or administrative revolution would have to change - land tenure, army financing, court language, urban hierarchy - stayed in place, while only the ethnic/factional composition of the ruling elite shifted, the safest reading is "elite recomposition inside a continuing Sultanate framework." **Qualification:** this does not make 1290 trivial; a monopoly ending is still a real and examinable political event, but it must never be inflated into a claim about mass social change among cultivators, artisans or women.
+
 #### CLOSING RECALL FLOW — FROM MAMLUK CONSOLIDATION TO THE KHALJI "REVOLUTION"
 
 ```text
 START / CONCEPT: From Mamluk consolidation to the Khalji "revolution"
         |
         v
-EXACT TERMS: From Mamluk consolidation to the Khalji "revolution" · not · non-Turks · "Khalji revolution" · mixed Turkish-Afghan origin · Pure continuity
+EXACT TERMS: broadened elite access · non-Turks · "Khalji revolution" · mixed Turkish-Afghan origin · institutional continuity · Pure continuity
         |
         v
 MECHANISM / ARGUMENT: Satish Chandra's concise OCR states that many non-Turks, including Khaljis and Indian Muslims, had long served in the Sultanate, especially in frontier and eastern spaces, but faced blocked advancement under old Turkish exclusivism.
@@ -236,10 +244,10 @@ MECHANISM / ARGUMENT: Satish Chandra's concise OCR states that many non-Turks, i
 CONSEQUENCE / CONTRAST: It does not mean a social revolution among cultivators, artisans, women or the subcontinent's population at large.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the Khaljis were described in the concise source as of mixed Turkish-Afghan origin.
+UPSC TRAP / ANSWER-USE: Naming the Khaljis as simply "mixed Turkish-Afghan" without adding that this widened, rather than replaced, the ruling class understates the political change of 1290.
         |
         v
-ANSWER-GRABBING FORMULATION: [DEBATE] The phrase "Khalji revolution" is useful only if used carefully.
+ANSWER-GRABBING FORMULATION: 1290 changed who could reach high office, not how peasants, artisans or women lived - the safest word is recomposition, not revolution.
 ```
 ### SESSION 3 — JALALUDDIN FIRUZ KHALJI AND ALAUDDIN'S VIOLENT ROAD TO POWER
 
@@ -251,7 +259,7 @@ ANSWER-GRABBING FORMULATION: [DEBATE] The phrase "Khalji revolution" is useful o
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Yet even if stylised, the contrast between Jalaluddin's relative leniency and Alauddin's harsher turn is strongly supported by the narrative structure of the local sources.
+> Jalaluddin ruled by conciliation and consent-seeking rhetoric; Alauddin ruled by murder, loot and enforced awe - the same office, two opposite styles of legitimacy.
 
 #### MUST-WRITE KEYWORDS
 
@@ -262,7 +270,7 @@ ANSWER-GRABBING FORMULATION: [DEBATE] The phrase "Khalji revolution" is useful o
 - **Kara/Awadh**
 - **Devagiri/Deogir**
 
-**How to use them:** Frame the answer through Jalaluddin Firuz Khalji; define Alauddin's violent road to power, connect willing support of the governed with conciliatory by Sultanate standards to explain the mechanism, and use Kara/Awadh for the decisive comparison or qualification.
+**How to use them:** Open by contrasting Jalaluddin Firuz Khalji's rhetoric of willing support of the governed with Alauddin's violent road to power; use Kara/Awadh and Devagiri/Deogir to supply the exact staging ground and wealth source of the coup; close by naming 1296 as the hinge where conciliatory kingship gave way to surveillance and confiscation.
 
 [FACT] Jalaluddin Khalji came to power in **1290** after overthrowing Balban's weak successors.
 
@@ -272,7 +280,7 @@ ANSWER-GRABBING FORMULATION: [DEBATE] The phrase "Khalji revolution" is useful o
 
 [FACT] Alauddin, then positioned at **Kara/Awadh**, raided **Devagiri/Deogir**, accumulated vast portable wealth, lured Jalaluddin into a vulnerable meeting and had him killed in **1296**.
 
-![03. Jalaluddin to Alauddin accession flow](assets/03_jalaluddin_to_alauddin_ac-2150ccce98.png)
+![03. Jalaluddin to Alauddin accession flow](assets/03_jalaluddin_to_alauddin_accession_flow.png)
 
 *Accession flow. Conciliation, Devagiri loot, the Kara murder and coerced legitimacy together explain the later politics of surveillance and confiscation.*
 
@@ -290,6 +298,10 @@ ANSWER-GRABBING FORMULATION: [DEBATE] The phrase "Khalji revolution" is useful o
 - [LIMIT] Jalaluddin's idealised language survives through later chroniclers, above all Barani, who writes with moral and political agendas.
 - [ANALYSIS] Yet even if stylised, the contrast between Jalaluddin's relative leniency and Alauddin's harsher turn is strongly supported by the narrative structure of the local sources.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's 1296 seizure of Delhi was a legitimacy crisis, not a smooth succession, and this crisis explains his later coercive style. **Named evidence:** he raided Devagiri while still a Kara-based commander, used that treasure to buy support, lured his uncle and father-in-law Jalaluddin into a vulnerable meeting, and had him assassinated before securing Delhi with distributed gold. **Analysis:** because his claim to rule rested on murder and money rather than accepted succession, Alauddin needed continuous demonstrations of control - surveillance, confiscation and terror - to prevent the same kind of conspiracy that had brought him to power; his later anti-rebellion ordinances are therefore a direct political response to his own path to the throne, not an abstract taste for cruelty. **Qualification:** Barani, writing decades later with a moralising agenda, shapes how "conciliatory" Jalaluddin and "harsh" Alauddin appear, so the contrast should be used as a structurally supported pattern, not a verbatim psychological verdict on either ruler.
+
 #### CLOSING RECALL FLOW — JALALUDDIN FIRUZ KHALJI AND ALAUDDIN'S VIOLENT ROAD TO POWER
 
 ```text
@@ -305,18 +317,18 @@ MECHANISM / ARGUMENT: Alauddin, then positioned at Kara/Awadh, raided Devagiri/D
 CONSEQUENCE / CONTRAST: The concise OCR describes him as the first Sultan clearly to argue that the state in India should rest on the willing support of the governed, and that a truly Islamic state was impossible in a land with a Hindu majority.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: yet even if stylised, the contrast between Jalaluddin's relative leniency and Alauddin's harsher turn...
+UPSC TRAP / ANSWER-USE: Treating Jalaluddin's conciliatory rhetoric and Alauddin's coercive style as identical, rather than contrasting, royal behaviour erases the very distinction the sources use to explain the Khalji turn.
         |
         v
-ANSWER-GRABBING FORMULATION: Yet even if stylised, the contrast between Jalaluddin's relative leniency and Alauddin's harsher turn is strongly supported by the narrative structure of the local sources.
+ANSWER-GRABBING FORMULATION: Devagiri wealth bought the murder of Jalaluddin, and that murder bought Alauddin a throne he then had to defend with terror, not tolerance.
 ```
 ### SESSION 4 — POLITICAL GEOGRAPHY OF KHALJI POWER
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Revenue reform, market regulation, army pay and urban provisioning were strongest in Delhi-Siri and the upper doab.
+**Plain-language definition:** Khalji power was not one uniform colour on the map; it graded from tight Delhi-centred control down to distant raided territory that paid tribute but was never administered.
 
-**Technical definition:** Technically, Political geography of Khalji power is analysed by relating Delhi-Siri and the upper doab to different layers, then testing the relationship through not and core zone.
+**Technical definition:** Political geography of Khalji power is best analysed as concentric zones - a directly enforced core, more directly incorporated near territories, tribute-bearing subordinate states, and deep campaign/raid zones - rather than as one flat imperial colour.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -327,11 +339,11 @@ ANSWER-GRABBING FORMULATION: Yet even if stylised, the contrast between Jalaludd
 - **Political geography of Khalji power**
 - **Delhi-Siri and the upper doab**
 - **different layers**
-- **not**
 - **core zone**
 - **more directly incorporated territories**
+- **tribute-bearing zones**
 
-**How to use them:** Frame the answer through Political geography of Khalji power; define Delhi-Siri and the upper doab, connect different layers with not to explain the mechanism, and use core zone for the decisive comparison or qualification.
+**How to use them:** Open by naming the core zone (Delhi-Siri and the upper doab) as the site of the heaviest enforcement; use different layers to introduce more directly incorporated territories, tribute-bearing zones and deep campaign reach as progressively looser forms of control; close by warning that political geography of Khalji power was graded, not a single uniform empire.
 
 [FACT] The Delhi core mattered most. Revenue reform, market regulation, army pay and urban provisioning were strongest in **Delhi-Siri and the upper doab**.
 
@@ -339,7 +351,7 @@ ANSWER-GRABBING FORMULATION: Yet even if stylised, the contrast between Jalaludd
 
 [LIMIT] Do **not** draw a hard modern border around all regions touched by Malik Kafur or later Khalji arms.
 
-![04. Political geography: core, annexed, tributary and campaign zones](assets/04_political_geography_core_-ed1b183451.png)
+![04. Political geography: core, annexed, tributary and campaign zones](assets/04_political_geography_core_campaign_tribute_zones.png)
 
 *Schematic political map. It distinguishes Delhi core, stronger annexation, subordinate allies, tribute belts and deep campaign reach. It is not to scale.*
 
@@ -354,33 +366,37 @@ ANSWER-GRABBING FORMULATION: Yet even if stylised, the contrast between Jalaludd
 | Warangal / Dwarasamudra | **tributary-success theatre, not neat Alauddin-era annexation** |
 | Mabar / Madurai | **campaign reach and plunder zone rather than stable Delhi province under Alauddin** |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Khalji power should be pictured as graded zones radiating from Delhi, not as one uniformly administered empire. **Named evidence:** Delhi-Siri and the upper doab carried direct khalisa revenue collection and market enforcement, Gujarat and Malwa were more directly incorporated, Ranthambore-Chittor-Rajasthan states paid tribute under selective garrisons, and Devagiri, Warangal, Dwarasamudra and Mabar were reached mainly through Malik Kafur's campaigns for treasure and submission. **Analysis:** because the intensity of taxation, market control and administrative presence falls away sharply the further a territory sits from Delhi, a single shaded map or a single word like "empire" hides the real difference between a taxed core and a raided periphery. **Qualification:** this zonal picture does not deny Khalji military reach into the far south; it only insists that reach, tribute and administration are three different things that must be separately proven for each region.
+
 #### CLOSING RECALL FLOW — POLITICAL GEOGRAPHY OF KHALJI POWER
 
 ```text
 START / CONCEPT: Political geography of Khalji power
         |
         v
-EXACT TERMS: Political geography of Khalji power · Delhi-Siri and the upper doab · different layers · not · core zone · more directly incorporated territories
+EXACT TERMS: Political geography of Khalji power · Delhi-Siri and the upper doab · different layers · core zone · more directly incorporated territories · tribute-bearing zones
         |
         v
 MECHANISM / ARGUMENT: Revenue reform, market regulation, army pay and urban provisioning were strongest in Delhi-Siri and the upper doab.
         |
         v
-CONSEQUENCE / CONTRAST: The resulting consequence is that do not draw a hard modern border around all regions touched by Malik Kafur...
+CONSEQUENCE / CONTRAST: Beyond that core, the Khalji polity worked through different layers: annexed provinces, tribute-paying Rajput states, restored subordinate rulers, and deep raiding or campaign zones in the Deccan.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: do not draw a hard modern border around all regions touched by Malik Kafur...
+UPSC TRAP / ANSWER-USE: Shading the whole subcontinent in one colour for "Khalji empire" is wrong - it erases the real gap between Delhi-Siri's direct control and Mabar's raided periphery.
         |
         v
-ANSWER-GRABBING FORMULATION: Do not draw a hard modern border around all regions touched by Malik Kafur or later Khalji arms.
+ANSWER-GRABBING FORMULATION: Delhi-Siri and the doab were taxed and policed directly; Gujarat and Malwa were incorporated; Rajasthan paid tribute; the Deccan was raided - four different verbs for four different zones.
 ```
 ### SESSION 5 — MONGOL THREAT: ACCURATE CHRONOLOGY AND DEFENSIVE RESPONSE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** "The first Mongol invasion happened under Jalaluddin Khalji" is false.
+**Plain-language definition:** Mongol pressure on India was a decades-long recurring danger, and the Alauddin-era crisis at Delhi is only its sharpest, best-documented episode.
 
-**Technical definition:** Technically, Mongol threat: accurate chronology and defensive response is analysed by relating Mongol threat to accurate chronology, then testing the relationship through defensive response and 1297-98 Jullundhar.
+**Technical definition:** Topic 04's Mongol chronology runs from Jullundhar (1297-98) through Siwistan (1298) and the Kili crisis (1299) to Targhi's siege pressure on Delhi and Siri (1303) and the decisive Amroha victory (1305), and each episode must be attached to its own year and commander.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -395,7 +411,7 @@ ANSWER-GRABBING FORMULATION: Do not draw a hard modern border around all regions
 - **1298 Siwistan**
 - **1299 Qutlugh Khwaja / Kili crisis**
 
-**How to use them:** Frame the answer through Mongol threat; define accurate chronology, connect defensive response with 1297-98 Jullundhar to explain the mechanism, and use 1298 Siwistan for the decisive comparison or qualification.
+**How to use them:** Open by rejecting the false "first invasion under Jalaluddin" claim; sequence 1297-98 Jullundhar, 1298 Siwistan and 1299 Qutlugh Khwaja / Kili crisis to build accurate chronology; then use 1303 Targhi and 1305 Amroha to show the defensive response hardening from survival to counter-attack.
 
 [FACT] The local OCR and Topic 03 package together make the following sequence secure: **1297-98 Jullundhar**, **1298 Siwistan**, **1299 Qutlugh Khwaja / Kili crisis**, **1303 Targhi's pressure on Delhi and Siri**, **1305 Amroha**, then stronger frontier recovery after Mongol confusion.
 
@@ -422,6 +438,10 @@ ANSWER-GRABBING FORMULATION: Do not draw a hard modern border around all regions
 - [LIMIT] "The first Mongol invasion happened under Jalaluddin Khalji" is false. Mongol pressure on the north-west and deeper Indian frontier predates him.
 - [LIMIT] It is also unsafe to claim that Mongol danger ended forever in 1305. What changed was the **immediacy and scale** of the threat to Delhi.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's Mongol chronology must be read as a five-episode sequence, not one generic "Mongol invasion" event. **Named evidence:** Ulugh Khan's 1297-98 win at Jullundhar and Zafar Khan's 1298 recovery of Siwistan predate Alauddin's own most severe crisis, the 1299 Qutlugh Khwaja/Kili emergency near Siri; Targhi's 1303 pressure on Delhi and Siri coincided with Alauddin's return from Chittor, and Malik Nayak's 1305 victory over Ali Beg and Tartaq at Amroha broke the aura of Mongol invincibility. **Analysis:** naming each year, commander and Delhi response prevents the two commonest PYQ traps - dating the first Mongol pressure to Jalaluddin's reign, and assuming Mongol danger vanished at a single stroke - and shows a state learning through repeated crisis rather than winning one decisive battle. **Qualification:** 1305 marks a shift in balance, not an end to Mongol activity altogether, so an answer should describe reduced immediacy and scale after 1305, not permanent closure of the frontier threat.
+
 #### CLOSING RECALL FLOW — MONGOL THREAT: ACCURATE CHRONOLOGY AND DEFENSIVE RESPONSE
 
 ```text
@@ -431,28 +451,28 @@ START / CONCEPT: Mongol threat: accurate chronology and defensive response
 EXACT TERMS: Mongol threat · accurate chronology · defensive response · 1297-98 Jullundhar · 1298 Siwistan · 1299 Qutlugh Khwaja / Kili crisis
         |
         v
-MECHANISM / ARGUMENT: It is also unsafe to claim that Mongol danger ended forever in 1305.
+MECHANISM / ARGUMENT: The local OCR and Topic 03 package together make the sequence secure: 1297-98 Jullundhar, 1298 Siwistan, 1299 Qutlugh Khwaja / Kili crisis, 1303 Targhi's pressure on Delhi and Siri, 1305 Amroha, then stronger frontier recovery after Mongol confusion.
         |
         v
-CONSEQUENCE / CONTRAST: Alauddin's response was not only battlefield courage.
+CONSEQUENCE / CONTRAST: Alauddin's response combined careful refusal of reckless battle, fort strengthening, camp fortification, larger cavalry recruitment and later frontier push-back rather than one single victorious charge.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: what changed was the immediacy and scale of the threat to Delhi.
+UPSC TRAP / ANSWER-USE: It is unsafe to claim Mongol danger ended forever in 1305; what changed after Amroha was the immediacy and scale of the threat to Delhi, not its complete disappearance.
         |
         v
-ANSWER-GRABBING FORMULATION: "The first Mongol invasion happened under Jalaluddin Khalji" is false.
+ANSWER-GRABBING FORMULATION: Name the year and the commander every time - Jullundhar, Siwistan, Kili, Targhi and Amroha are five separate tests, not one Mongol-invasion checkbox.
 ```
 ### SESSION 6 — ARMY REFORM: STANDING CAVALRY, DAGH, CHEHRA, FORTS AND CASH
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The key point is the creation of a checked cavalry system tied to price control, revenue extraction and frontier security.
+**Plain-language definition:** Army reform under Alauddin means a checked cavalry system - branded horses, recorded soldiers, cash pay and repaired forts - built to survive Mongol pressure on a fixed budget.
 
 **Technical definition:** Alauddin introduced or hardened a set of military controls that later tradition remembers through dagh (horse branding) and chehra (descriptive rolls).
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The key point is the creation of a checked cavalry system tied to price control, revenue extraction and frontier security.
+> Dagh and chehra are Khalji inventions, not Mughal ones - Sher Shah revived them and Akbar scaled them up.
 
 #### MUST-WRITE KEYWORDS
 
@@ -463,7 +483,7 @@ ANSWER-GRABBING FORMULATION: "The first Mongol invasion happened under Jalaluddi
 - **forts**
 - **cash**
 
-**How to use them:** Frame the answer through Army reform; define standing cavalry, connect dagh with chehra to explain the mechanism, and use forts for the decisive comparison or qualification.
+**How to use them:** Open by naming Army reform as a checked cavalry system; use dagh and chehra as the two inspection instruments that prevented fraud; connect forts and cash to show that frontier defence depended equally on fortification and affordable soldier pay.
 
 [FACT] Alauddin introduced or hardened a set of military controls that later tradition remembers through **dagh** (horse branding) and **chehra** (descriptive rolls).
 
@@ -471,7 +491,7 @@ ANSWER-GRABBING FORMULATION: "The first Mongol invasion happened under Jalaluddi
 
 [ANALYSIS] The key point is **not** isolated innovation. The key point is the creation of a **checked cavalry system** tied to price control, revenue extraction and frontier security.
 
-![06. Army reform system](assets/06_army_reform_dagh_chehra_f-78d575f5f9.png)
+![06. Army reform system](assets/06_army_reform_dagh_chehra_forts_cash_salary.png)
 
 *System visual. Cavalry inspection, cash pay, horse quality and fort repair worked together rather than as separate reforms.*
 
@@ -490,6 +510,10 @@ ANSWER-GRABBING FORMULATION: "The first Mongol invasion happened under Jalaluddi
 - [FACT] The concise OCR reports a **cavalryman's annual pay around 238 tankas** in Alauddin's time.
 - [LIMIT] OCR and manuscript variation affect the exact rendering of the additional second-horse allowance. Use the figure as a **reported pay scale marker**, not as modern audited payroll certainty.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's army reform was an integrated inspection-and-affordability system, not a single battlefield innovation. **Named evidence:** dagh branded horses to stop substitution, chehra recorded soldiers descriptively to stop false musters, frontier forts near the Beas were repaired, and a cavalryman's reported annual pay of around 238 tankas had to remain viable through cheap, price-controlled provisions. **Analysis:** each instrument solves a different fraud or cost problem - dagh stops horse substitution, chehra stops muster fraud, cash pay only works if prices stay low - so removing any one piece would have collapsed the affordability of a large standing cavalry under continuous Mongol pressure. **Qualification:** Topic 07's corrected provenance shows Alauddin originated these controls in the Sultanate; Sher Shah later revived and Akbar systematised them on an imperial scale, so dagh and chehra must never be misdated as Mughal inventions.
+
 #### CLOSING RECALL FLOW — ARMY REFORM: STANDING CAVALRY, DAGH, CHEHRA, FORTS AND CASH
 
 ```text
@@ -505,10 +529,10 @@ MECHANISM / ARGUMENT: Alauddin introduced or hardened a set of military controls
 CONSEQUENCE / CONTRAST: Use the figure as a reported pay scale marker, not as modern audited payroll certainty.
         |
         v
-UPSC TRAP / ANSWER-USE: The key point is not isolated innovation.
+UPSC TRAP / ANSWER-USE: The key point is not isolated battlefield innovation; dagh, chehra, cash and forts formed one linked checked-cavalry system.
         |
         v
-ANSWER-GRABBING FORMULATION: The key point is the creation of a checked cavalry system tied to price control, revenue extraction and frontier security.
+ANSWER-GRABBING FORMULATION: A branded horse, a recorded soldier and a cash wage are the three receipts that prove Alauddin's army reform was administrative, not just heroic.
 ```
 ### SESSION 7 — IMPERIAL EXPANSION IN THE NORTH: GUJARAT, RANTHAMBORE, CHITTOR AND MALWA
 
@@ -520,7 +544,7 @@ ANSWER-GRABBING FORMULATION: The key point is the creation of a checked cavalry 
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Gujarat and Malwa are best described as stronger incorporation zones.
+> Conquest method varied by theatre: Gujarat and Malwa were incorporated, Rajasthan was subjugated and tributary, and no single word covers all four campaigns.
 
 #### MUST-WRITE KEYWORDS
 
@@ -531,7 +555,7 @@ ANSWER-GRABBING FORMULATION: The key point is the creation of a checked cavalry 
 - **Malwa**
 - **subjugation plus tribute plus selective garrisoning**
 
-**How to use them:** Frame the answer through Imperial expansion in the north; define Gujarat, connect Ranthambore with Chittor to explain the mechanism, and use Malwa for the decisive comparison or qualification.
+**How to use them:** Open by separating Gujarat's incorporation from Ranthambore and Chittor's harder sieges; use Malwa to show a second, more direct incorporation case; close with subjugation plus tribute plus selective garrisoning as the safest umbrella phrase for the Rajasthan campaigns.
 
 [FACT] Gujarat was attacked in **1299**. The concise OCR emphasises its fertile wealth, western sea-ports and horse trade significance.
 
@@ -559,6 +583,10 @@ ANSWER-GRABBING FORMULATION: The key point is the creation of a checked cavalry 
 - [ANALYSIS] Gujarat and Malwa are best described as stronger incorporation zones.
 - [ANALYSIS] Rajasthan campaigns are best described as **subjugation plus tribute plus selective garrisoning**, not as one uniform administrative conquest.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's four northern campaigns achieved four different kinds of control, not one uniform conquest. **Named evidence:** Gujarat (1299) was raided for its ports and wealth and then incorporated; Ranthambore (1301) fell only after Hamirdeva's refusal to surrender Mongol fugitives forced a hard siege; Chittor (1303) fell after a long siege whose military outcome is separate from its later literary memory; and Malwa (c.1305) was brought under more direct Delhi administration than most Rajput states. **Analysis:** because incorporation, siege-conquest and tribute-taking are three distinct political relationships, describing all four campaigns with one word - "annexation" or "conquest" - erases exactly the distinctions that UPSC statement-based questions test. **Qualification:** "stronger incorporation" for Gujarat/Malwa and "subjugation plus tribute plus selective garrisoning" for the Rajasthan campaigns are the two safest umbrella phrases, but neither should be stretched to claim uniform day-to-day administration.
+
 #### CLOSING RECALL FLOW — IMPERIAL EXPANSION IN THE NORTH: GUJARAT, RANTHAMBORE, CHITTOR AND MALWA
 
 ```text
@@ -574,10 +602,10 @@ MECHANISM / ARGUMENT: Chittor fell in 1303 after a long siege; later romance mus
 CONSEQUENCE / CONTRAST: Rajasthan campaigns are best described as subjugation plus tribute plus selective garrisoning, not as one uniform administrative conquest.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: malwa was brought more directly under Delhi control than many Rajput states.
+UPSC TRAP / ANSWER-USE: Malwa's more direct control shows that "Rajput resistance" cannot be generalised uniformly across every western/central campaign.
         |
         v
-ANSWER-GRABBING FORMULATION: Gujarat and Malwa are best described as stronger incorporation zones.
+ANSWER-GRABBING FORMULATION: Gujarat's ports, Ranthambore's siege, Chittor's fall and Malwa's incorporation are four separate campaigns joined only by geography, not by a single method of control.
 ```
 ### SESSION 8 — THE DECCAN CAMPAIGNS UNDER MALIK KAFUR: TRIBUTE, TREASURE AND THE LIMITS OF ANNEXATION
 
@@ -589,7 +617,7 @@ ANSWER-GRABBING FORMULATION: Gujarat and Malwa are best described as stronger in
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Malik Kafur rose after Gujarat and became the leading commander of the Deccan campaigns.
+> Devagiri's restored ally, Warangal's tribute and Mabar's raid prove that "Deccan conquest" meant three different relationships, not one annexed empire.
 
 #### MUST-WRITE KEYWORDS
 
@@ -600,7 +628,7 @@ ANSWER-GRABBING FORMULATION: Gujarat and Malwa are best described as stronger in
 - **subordinate alliance**
 - **Warangal**
 
-**How to use them:** Frame the answer through The Deccan campaigns under Malik Kafur; define tribute, connect treasure with the limits of annexation to explain the mechanism, and use subordinate alliance for the decisive comparison or qualification.
+**How to use them:** Open by naming Malik Kafur as the delegated commander of the Deccan campaigns; use tribute and treasure to describe what Delhi actually extracted; contrast subordinate alliance (Devagiri) with Warangal's submission to show the limits of annexation under Alauddin.
 
 [FACT] Malik Kafur rose after Gujarat and became the leading commander of the Deccan campaigns.
 
@@ -628,6 +656,10 @@ ANSWER-GRABBING FORMULATION: Gujarat and Malwa are best described as stronger in
 - [ANALYSIS] Delhi wanted **wealth, prestige and leverage**, not always immediate district-by-district governance.
 - [LIMIT] The later Tughlaq annexation story must not be backdated into Alauddin's whole southern policy.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Malik Kafur's Deccan campaigns produced tribute, treasure and submission, not a single wave of Delhi annexation. **Named evidence:** Ramachandra of Devagiri was restored as a subordinate ally after submitting; Warangal, Dwarasamudra and Mabar/Madurai yielded treasure, elephants and tribute promises but not administered provinces under Alauddin. **Analysis:** because Delhi's goal in each case was wealth, prestige and leverage rather than district-by-district governance, "conquered the Deccan" overstates Alauddin's southern policy, while "raided the Deccan" understates its political seriousness - the accurate description sits between the two, naming tribute and restored subordination as the actual outcomes. **Qualification:** this changes once the Tughlaqs later pursue direct annexation of Warangal and other Deccan territories; that later phase belongs to Topic 05 and must not be read backward onto Alauddin's own reign.
+
 #### CLOSING RECALL FLOW — THE DECCAN CAMPAIGNS UNDER MALIK KAFUR: TRIBUTE, TREASURE AND THE LIMITS OF ANNEXATION
 
 ```text
@@ -643,10 +675,10 @@ MECHANISM / ARGUMENT: Ramachandra of Devagiri/Deogir was restored and honoured a
 CONSEQUENCE / CONTRAST: The later Tughlaq annexation story must not be backdated into Alauddin's whole southern policy.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: malik Kafur rose after Gujarat and became the leading commander of the Deccan campaigns.
+UPSC TRAP / ANSWER-USE: Writing that Malik Kafur "annexed the Deccan" is wrong - it collapses restored subordination, tribute-taking and deep raiding into one false single outcome.
         |
         v
-ANSWER-GRABBING FORMULATION: Malik Kafur rose after Gujarat and became the leading commander of the Deccan campaigns.
+ANSWER-GRABBING FORMULATION: Wealth, prestige and leverage, not a district-by-district land register, were what Delhi actually sought from Devagiri, Warangal, Dwarasamudra and Mabar.
 ```
 ### SESSION 9 — CHITTOR: SECURE EVIDENCE VERSUS LATER PADMAVAT TRADITION
 
@@ -658,18 +690,18 @@ ANSWER-GRABBING FORMULATION: Malik Kafur rose after Gujarat and became the leadi
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Chittor 1303 is a secure military event, but Padmavat is a later literary construction that transformed the event into a story of desire, honour and memory.
+> Khusrau's contemporary account of Chittor never mentions Padmini; the legend belongs to Jaisi, writing two centuries later.
 
 #### MUST-WRITE KEYWORDS
 
 - **Chittor**
 - **secure evidence versus later Padmavat tradition**
 - **siege of Chittor**
-- **not**
+- **source-layer separation**
 - **Malik Muhammad Jaisi**
 - **different questions**
 
-**How to use them:** Frame the answer through Chittor; define secure evidence versus later Padmavat tradition, connect siege of Chittor with not to explain the mechanism, and use Malik Muhammad Jaisi for the decisive comparison or qualification.
+**How to use them:** Open by anchoring the siege of Chittor through Amir Khusrau's near-contemporary account; use source-layer separation to keep the military event apart from later memory; name Malik Muhammad Jaisi to date the Padmavat legend precisely, and close by stating that history and literary afterlife answer different questions.
 
 [FACT] The near-contemporary court world, especially Amir Khusrau, securely anchors the **siege of Chittor** and Alauddin's victory.
 
@@ -693,13 +725,17 @@ ANSWER-GRABBING FORMULATION: Malik Kafur rose after Gujarat and became the leadi
 
 Chittor 1303 is a **secure military event**, but **Padmavat** is a later literary construction that transformed the event into a story of desire, honour and memory. The strongest answer keeps those layers separate without dismissing either.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Chittor's 1303 siege and the Padmavat legend must be treated as two separate evidentiary layers rather than one continuous story. **Named evidence:** Amir Khusrau's near-contemporary courtly account secures the siege and Alauddin's victory but never mentions Padmini, while Malik Muhammad Jaisi's Padmavat, composed only in the sixteenth century, supplies the mirror episode, the romantic pursuit and the jauhar narrative that later became inseparable from popular memory of Chittor. **Analysis:** because roughly two centuries separate the event from its most famous literary retelling, treating Jaisi's poem as eyewitness reportage would import Sufi-romance conventions into a military-political question, while dismissing Padmavat altogether would lose its real significance as later Rajput-Persianate memory. **Qualification:** even Khusrau's own slaughter narrative should be read as court panegyric rhetoric about a victorious siege, not a precise demographic record, so both the near-contemporary and the later source require separate, calibrated caution.
+
 #### CLOSING RECALL FLOW — CHITTOR: SECURE EVIDENCE VERSUS LATER PADMAVAT TRADITION
 
 ```text
 START / CONCEPT: Chittor: secure evidence versus later Padmavat tradition
         |
         v
-EXACT TERMS: Chittor · secure evidence versus later Padmavat tradition · siege of Chittor · not · Malik Muhammad Jaisi · different questions
+EXACT TERMS: Chittor · secure evidence versus later Padmavat tradition · siege of Chittor · source-layer separation · Malik Muhammad Jaisi · different questions
         |
         v
 MECHANISM / ARGUMENT: The same OCR notes that the Padmini story appears much later and is elaborated by Malik Muhammad Jaisi in the sixteenth century.
@@ -708,22 +744,22 @@ MECHANISM / ARGUMENT: The same OCR notes that the Padmini story appears much lat
 CONSEQUENCE / CONTRAST: The OCRed Part I notes that Khusrau reports a slaughter narrative at Chittor; this should be treated as conquest rhetoric from a court panegyric, not as a precise demography record.
         |
         v
-UPSC TRAP / ANSWER-USE: The OCR of Part I states that Khusrau's account does not mention the later Padmavati/Padmini legend.
+UPSC TRAP / ANSWER-USE: Writing the mirror episode or the romantic pursuit of Padmavati as a contemporary Chittor fact is not safe - it converts a sixteenth-century Sufi romance into thirteenth-century evidence.
         |
         v
-ANSWER-GRABBING FORMULATION: Chittor 1303 is a secure military event, but Padmavat is a later literary construction that transformed the event into a story of desire, honour and memory.
+ANSWER-GRABBING FORMULATION: Two centuries separate the siege from the legend - answer the exam question with Khusrau's Chittor, and reserve Jaisi's Padmavat for a question about memory, not military history.
 ```
 ### SESSION 10 — THEORY OF KINGSHIP AND ANTI-REBELLION CONTROLS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Theory of kingship and anti-rebellion controls comprises Theory of kingship, anti-rebellion controls and banquets or festivities as its core connected dimensions.
+**Plain-language definition:** After surviving conspiracies, Alauddin built a theory of kingship in which political necessity, not pure juristic ideal, justified direct controls on noble behaviour.
 
-**Technical definition:** Technically, Theory of kingship and anti-rebellion controls is analysed by relating Theory of kingship to anti-rebellion controls, then testing the relationship through banquets or festivities and marriage alliances without permission.
+**Technical definition:** Alauddin's anti-rebellion ordinances - restricting banquets, marriage alliances, wine and elite wealth accumulation while expanding intelligence networks - operationalised a kingship that valued central control over aristocratic autonomy.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Theory of kingship and anti-rebellion controls comprises Theory of kingship, anti-rebellion controls and banquets or festivities as its core connected dimensions.
+> Alauddin's anti-rebellion ordinances break noble solidarity, cut off conspiracy funding, and multiply surveillance in one coherent political design.
 
 #### MUST-WRITE KEYWORDS
 
@@ -734,7 +770,7 @@ ANSWER-GRABBING FORMULATION: Chittor 1303 is a secure military event, but Padmav
 - **wine and intoxicants**
 - **spying and information networks**
 
-**How to use them:** Frame the answer through Theory of kingship; define anti-rebellion controls, connect banquets or festivities with marriage alliances without permission to explain the mechanism, and use wine and intoxicants for the decisive comparison or qualification.
+**How to use them:** Open by naming theory of kingship as reason-of-state rather than juristic ideal; list banquets or festivities, marriage alliances without permission and wine and intoxicants as the three social restrictions; close with spying and information networks as the enforcement layer behind anti-rebellion controls.
 
 [FACT] After facing rebellions, Alauddin forbade nobles to hold **banquets or festivities**, to form **marriage alliances without permission**, and he restricted **wine and intoxicants**.
 
@@ -761,6 +797,10 @@ ANSWER-GRABBING FORMULATION: Chittor 1303 is a secure military event, but Padmav
 - [LIMIT] The detail is heavily Barani-shaped and should be treated as **reported royal policy**.
 - [ANALYSIS] Even if enforcement varied, the political logic is strong and fits Alauddin's wider behaviour.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's anti-rebellion ordinances form one coherent political mechanism aimed at faction control, not a random list of moral restrictions. **Named evidence:** he confiscated suspicious accumulations of wealth and grants, banned noble banquets and festive gatherings, required permission for elite marriage alliances, restricted wine, and expanded barid/munhiyan intelligence networks. **Analysis:** each measure removes one resource a conspiracy needs - funding, gathering space, marital alliance-building or secrecy - so read together they break noble solidarity, reduce resources for conspiracy, increase surveillance and preserve royal awe as a single integrated strategy rather than isolated puritanical rules. **Qualification:** because this detail survives mainly through Barani's reported royal policy, the ordinances should be read as the regime's stated design, with enforcement depth across the empire remaining uncertain rather than proven uniform.
+
 #### CLOSING RECALL FLOW — THEORY OF KINGSHIP AND ANTI-REBELLION CONTROLS
 
 ```text
@@ -776,10 +816,10 @@ MECHANISM / ARGUMENT: These rules form one coherent political mechanism: break n
 CONSEQUENCE / CONTRAST: Even if enforcement varied, the political logic is strong and fits Alauddin's wider behaviour.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: these rules form one coherent political mechanism.
+UPSC TRAP / ANSWER-USE: Reading these ordinances as random moral puritanism rather than coordinated anti-conspiracy design misses their real political function.
         |
         v
-ANSWER-GRABBING FORMULATION: Theory of kingship and anti-rebellion controls comprises Theory of kingship, anti-rebellion controls and banquets or festivities as its core connected dimensions.
+ANSWER-GRABBING FORMULATION: Confiscation, surveillance, and bans on banquets, wine and unauthorised marriages are four separate levers of the same anti-conspiracy machine.
 ```
 ### SESSION 11 — REVENUE REFORMS: KHALISA CORE, MEASUREMENT, HALF-PRODUCE DEMAND AND RURAL EFFECTS
 
@@ -791,7 +831,7 @@ ANSWER-GRABBING FORMULATION: Theory of kingship and anti-rebellion controls comp
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Barani's dramatic language about rural elites becoming destitute and their women working in Muslim houses is moral-political rhetoric and must not be read literally line by line.
+> Alauddin's revenue reform pushed the doab to a direct, half-produce khalisa demand and curbed the intermediaries who once softened that burden.
 
 #### MUST-WRITE KEYWORDS
 
@@ -802,7 +842,7 @@ ANSWER-GRABBING FORMULATION: Theory of kingship and anti-rebellion controls comp
 - **rural effects**
 - **around half of the produce**
 
-**How to use them:** Frame the answer through Revenue reforms; define khalisa core, connect measurement with half-produce demand to explain the mechanism, and use rural effects for the decisive comparison or qualification.
+**How to use them:** Open by naming the khalisa core and half-produce demand as the fiscal heart of the doab reform; use measurement to explain how the state tied demand to cultivated land; close on rural effects to weigh the burden this placed on khuts, muqaddams and chaudhuris.
 
 [FACT] Satish Chandra's concise and Part I OCRs both describe Alauddin raising land revenue to **around half of the produce** in the **upper doab** and making the area **khalisa**, i.e. directly yielding to the imperial treasury.
 
@@ -831,6 +871,10 @@ ANSWER-GRABBING FORMULATION: Theory of kingship and anti-rebellion controls comp
 - [LIMIT] Barani's dramatic language about rural elites becoming destitute and their women working in Muslim houses is moral-political rhetoric and must not be read literally line by line.
 - [ANALYSIS] The deeper point remains valid: Alauddin attacked the fiscal autonomy of rural intermediaries and tried to shift the state's relationship more directly onto cultivators and the local produce stream.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's doab revenue reform was designed to maximise direct state extraction by weakening the rural intermediaries who had previously absorbed part of the fiscal burden. **Named evidence:** the upper doab was made khalisa, revenue was measured against cultivated area and pushed to around half of the produce, and the privileges of khuts, muqaddams and chaudhuris were curtailed alongside new ghari and charai levies. **Analysis:** because measurement ties demand to actual land under cultivation rather than a negotiated lump sum, and because cutting intermediary privilege removes the layer that previously cushioned cultivators, the reform simultaneously raised state revenue and increased direct exposure for the peasantry. **Qualification:** Barani's report that rural elites were reduced to destitution is moralising rhetoric that cannot be read as a literal statistic, but the underlying direction of the policy - deeper extraction, weaker intermediaries - is corroborated across both OCR sources and should be trusted even where the dramatic wording is not.
+
 #### CLOSING RECALL FLOW — REVENUE REFORMS: KHALISA CORE, MEASUREMENT, HALF-PRODUCE DEMAND AND RURAL EFFECTS
 
 ```text
@@ -846,10 +890,10 @@ MECHANISM / ARGUMENT: The deeper point remains valid: Alauddin attacked the fisc
 CONSEQUENCE / CONTRAST: The demand was linked to measurement of cultivated area and to efforts to prevent the rich from shifting their burden downward.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: barani's dramatic language about rural elites becoming destitute and their women working in Muslim...
+UPSC TRAP / ANSWER-USE: Quoting Barani's destitution language as a literal social statistic is a trap - it mistakes moral-political rhetoric for a verified demographic report.
         |
         v
-ANSWER-GRABBING FORMULATION: Barani's dramatic language about rural elites becoming destitute and their women working in Muslim houses is moral-political rhetoric and must not be read literally line by line.
+ANSWER-GRABBING FORMULATION: Measurement plus a half-produce demand plus curtailed khuts, muqaddams and chaudhuris together explain why Delhi could tax the doab harder than any other zone.
 ```
 ### SESSION 12 — MARKET REGULATION AS AN INTEGRATED INSTITUTIONAL SYSTEM
 
@@ -861,7 +905,7 @@ ANSWER-GRABBING FORMULATION: Barani's dramatic language about rural elites becom
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The market policy is therefore best read as a city-scale administrative architecture, not a mere price edict.
+> Three named markets, one shahna each, and a Diwan-i-Riyasat above them turn Alauddin's price policy into a city-scale administrative machine.
 
 #### MUST-WRITE KEYWORDS
 
@@ -872,7 +916,7 @@ ANSWER-GRABBING FORMULATION: Barani's dramatic language about rural elites becom
 - **shahna**
 - **Diwan-i-Riyasat**
 
-**How to use them:** Frame the answer through Market regulation as an integrated institutional system; define foodgrains, connect costly cloth with horses, slaves and cattle to explain the mechanism, and use shahna for the decisive comparison or qualification.
+**How to use them:** Open by naming the three markets - foodgrains, costly cloth, and horses/slaves/cattle; use shahna to show each market's day-to-day supervisor; close with Diwan-i-Riyasat as the higher regulatory authority binding all three into one system.
 
 [FACT] The concise OCR states that Alauddin set up three main markets at Delhi: one for **foodgrains**, a second for **costly cloth**, and a third for **horses, slaves and cattle**.
 
@@ -882,7 +926,7 @@ ANSWER-GRABBING FORMULATION: Barani's dramatic language about rural elites becom
 
 [ANALYSIS] The market policy is therefore best read as a **city-scale administrative architecture**, not a mere price edict.
 
-![12. Market regulation institutional architecture](assets/12_market_regulation_institu-cfb7eb8909.png)
+![12. Market regulation institutional architecture](assets/12_market_regulation_institutional_architecture.png)
 
 *Institutional visual. Supervision, grain movement, stockholding and merchant registration all plug into the same Delhi-centred system.*
 
@@ -897,6 +941,10 @@ ANSWER-GRABBING FORMULATION: Barani's dramatic language about rural elites becom
 | State granaries | Buffer stocks in scarcity and siege |
 | Spies / informants | Detect evasion, overpricing and collusion |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's market control was a designed institutional system, not an improvised price announcement. **Named evidence:** the three named Delhi markets - for foodgrains, costly cloth and horses/slaves/cattle - each had a shahna supervising a merchant register, while banjaras, state granaries and spies fed supply, storage and intelligence into the same structure under the wider authority of the Diwan-i-Riyasat. **Analysis:** because each institutional node performs a distinct function - supervision, transport, storage or detection - and all report through a shared hierarchy up to the Sultan, the system meets the test of an administrative architecture rather than a single decree; a decree alone could not have moved grain, tracked merchants or punished evasion. **Qualification:** this institutional picture rests mainly on Barani, so its completeness and uniform enforcement across even Delhi's own neighbourhoods should be treated as reported design rather than an audited operations manual.
+
 #### CLOSING RECALL FLOW — MARKET REGULATION AS AN INTEGRATED INSTITUTIONAL SYSTEM
 
 ```text
@@ -909,13 +957,13 @@ EXACT TERMS: Market regulation as an integrated institutional system · foodgrai
 MECHANISM / ARGUMENT: Each was supervised by a shahna, with merchant registers and strict oversight.
         |
         v
-CONSEQUENCE / CONTRAST: The resulting consequence is that the market policy is therefore best read as a city-scale administrative architecture, not a...
+CONSEQUENCE / CONTRAST: Registered merchants, banjaras, state granaries, espionage and punitive enforcement all fed into the same regulated-market structure.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the market policy is therefore best read as a city-scale administrative architecture, not a...
+UPSC TRAP / ANSWER-USE: Describing Alauddin's market control as "just a price list" is wrong; it ignores the registers, transport, storage and intelligence layers that made the prices enforceable.
         |
         v
-ANSWER-GRABBING FORMULATION: The market policy is therefore best read as a city-scale administrative architecture, not a mere price edict.
+ANSWER-GRABBING FORMULATION: A register, a supervisor and a granary behind every fixed price is what separates Alauddin's market system from a mere royal decree.
 ```
 ### SESSION 13 — THE FOUR MARKET CLUSTERS AND THE PROBLEM OF PRICE SCHEDULES
 
@@ -927,7 +975,7 @@ ANSWER-GRABBING FORMULATION: The market policy is therefore best read as a city-
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> These are reported schedule markers, not proof of immutable empire-wide prices.
+> Wheat at 7 1/2 jitals per man is a Barani-reported schedule marker, not a certified empire-wide price index.
 
 #### MUST-WRITE KEYWORDS
 
@@ -938,7 +986,7 @@ ANSWER-GRABBING FORMULATION: The market policy is therefore best read as a city-
 - **sample reported prices**
 - **7 1/2 jitals per man**
 
-**How to use them:** Frame the answer through The four market clusters; define the problem of price schedules, connect three named physical market clusters with fourth analytical cluster to explain the mechanism, and use sample reported prices for the decisive comparison or qualification.
+**How to use them:** Open by naming the three named physical market clusters and adding the fourth analytical cluster for general goods; cite sample reported prices such as 7 1/2 jitals per man only as illustration; close by flagging the problem of price schedules - unit and manuscript variation.
 
 [FACT] The sources securely describe **three named physical market clusters**; Topic 04 uses a **fourth analytical cluster** to capture general regulated commodities beyond the three named spaces.
 
@@ -963,6 +1011,10 @@ ANSWER-GRABBING FORMULATION: The market policy is therefore best read as a city-
 
 - [ANALYSIS] If a question demands an example, use one or two **sample reported prices**, name **Barani via Satish Chandra**, and immediately add a unit/manuscript caveat.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's price schedules are best cited as illustrative examples, never as a certified statistical index. **Named evidence:** the sources report wheat at roughly 7 1/2 jitals per man, barley at 4, good rice at 5, a first-grade horse at 100-120 tankas and a pony at 10-25 tankas, organised across three named physical clusters (grain mandi, cloth/Sarai-i-Adl, horse-cattle-slave market) plus a fourth analytical cluster of wider controlled commodities. **Analysis:** because these figures survive only through Barani as reported by Satish Chandra, and because units and spellings vary across manuscripts and OCR transcriptions, quoting one or two prices with a source name and a unit caveat earns more marks than reciting a long list as if it were an audited price index. **Qualification:** the fourth cluster is this repository's own analytical grouping, not a named contemporary market square, so it should be used to organise the exam answer rather than quoted as an attested Sultanate institution.
+
 #### CLOSING RECALL FLOW — THE FOUR MARKET CLUSTERS AND THE PROBLEM OF PRICE SCHEDULES
 
 ```text
@@ -978,10 +1030,10 @@ MECHANISM / ARGUMENT: The sources securely describe three named physical market 
 CONSEQUENCE / CONTRAST: If a question demands an example, use one or two sample reported prices, name Barani via Satish Chandra, and immediately add a unit/manuscript caveat.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: these are reported schedule markers, not proof of immutable empire-wide prices.
+UPSC TRAP / ANSWER-USE: Quoting the fourth analytical cluster as if it were a fourth named contemporary market square is wrong; it confuses this repository's teaching category with a historical institution.
         |
         v
-ANSWER-GRABBING FORMULATION: These are reported schedule markers, not proof of immutable empire-wide prices.
+ANSWER-GRABBING FORMULATION: Cite a price, name Barani, add a unit caveat - that three-step move earns marks; reciting a long price list without caution does not.
 ```
 ### SESSION 14 — GRAIN SUPPLY, BANJARAS, GRANARIES AND RATIONING IN SCARCITY
 
@@ -993,7 +1045,7 @@ ANSWER-GRABBING FORMULATION: These are reported schedule markers, not proof of i
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The same OCR and the advanced owner note that all banjaras were registered and collectively responsible, while the state also built warehouses or granaries.
+> Registered banjaras, state granaries and scarcity-time release turned Delhi's grain supply into a monitored logistics chain, not a passive market.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1004,7 +1056,7 @@ ANSWER-GRABBING FORMULATION: These are reported schedule markers, not proof of i
 - **warehouses or granaries**
 - **some cultivators brought grain directly to local mandis**
 
-**How to use them:** Frame the answer through Grain supply; define banjaras, connect granaries with rationing in scarcity to explain the mechanism, and use warehouses or granaries for the decisive comparison or qualification.
+**How to use them:** Open by naming banjaras as the registered, collectively responsible transporters of Delhi's grain supply; use granaries and warehouses or granaries to show buffer-stock logic; close with rationing in scarcity and the qualification that some cultivators brought grain directly to local mandis.
 
 [FACT] Satish Chandra's concise OCR says Alauddin forced cultivators, especially through cash demand and pressure, to sell grain at low rates to **banjaras**, who carried it to towns at state-fixed prices.
 
@@ -1012,7 +1064,7 @@ ANSWER-GRABBING FORMULATION: These are reported schedule markers, not proof of i
 
 [FACT] Grain was released when there was famine or a danger of shortfall.
 
-![14. Grain supply and scarcity flow](assets/14_grain_supply_granary_banj-4e44507f4a.png)
+![14. Grain supply and scarcity flow](assets/14_grain_supply_granary_banjara_scarcity_flow.png)
 
 *Supply-chain visual. It shows why a price system needed logistics, storage and coercive monitoring.*
 
@@ -1027,6 +1079,10 @@ ANSWER-GRABBING FORMULATION: These are reported schedule markers, not proof of i
 #### Important qualification
 
 - [LIMIT] Part I's OCR itself notes that practice varied, because **some cultivators brought grain directly to local mandis**. The system was forceful, but not perfectly uniform.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Delhi's cheap grain supply depended on a monitored logistics chain, not simply on fixing a price. **Named evidence:** cultivators were pressed to sell at low, cash-linked rates to registered and collectively responsible banjaras, who carried grain into Delhi where state granaries stocked buffer supplies for release in famine or shortage. **Analysis:** because registration made banjaras jointly liable for delivery and granaries absorbed shocks in bad seasons, the state converted an ordinary agrarian surplus into a dependable, price-stabilising urban supply chain - each step (extraction, transport, storage, release) had to function for the fixed prices at Delhi's markets to hold. **Qualification:** Part I's own OCR notes that some cultivators still sold directly to local mandis outside this chain, so "forceful and organised" is accurate, but "perfectly uniform" is not.
 
 #### CLOSING RECALL FLOW — GRAIN SUPPLY, BANJARAS, GRANARIES AND RATIONING IN SCARCITY
 
@@ -1043,10 +1099,10 @@ MECHANISM / ARGUMENT: Grain was released when there was famine or a danger of sh
 CONSEQUENCE / CONTRAST: The system was forceful, but not perfectly uniform.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: banjaras and merchants become registered transport links.
+UPSC TRAP / ANSWER-USE: Assuming every cultivator sold only to state-registered banjaras at fixed prices is wrong; it overstates the uniformity of an admittedly forceful system.
         |
         v
-ANSWER-GRABBING FORMULATION: The same OCR and the advanced owner note that all banjaras were registered and collectively responsible, while the state also built warehouses or granaries.
+ANSWER-GRABBING FORMULATION: Extraction, transport, storage and release each had to work for Delhi's grain price to stay fixed - remove one link and the chain breaks.
 ```
 ### SESSION 15 — THE MILITARY-FISCAL CAUSAL CHAIN: REVENUE -> GRAIN -> PRICES -> SALARY -> ARMY
 
@@ -1058,7 +1114,7 @@ ANSWER-GRABBING FORMULATION: The same OCR and the advanced owner note that all b
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The most quoted argument in Topic 04's base files is that Mongol danger forced Alauddin to maintain a large cavalry army, but he lacked unlimited treasure.
+> Revenue, grain, prices and salary are one causal chain: break any link and a 238-tanka cavalryman's real pay collapses.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1069,7 +1125,7 @@ ANSWER-GRABBING FORMULATION: The same OCR and the advanced owner note that all b
 - **cavalry affordability**
 - **238 tankas annually**
 
-**How to use them:** Frame the answer through The military-fiscal causal chain; define revenue - grain - prices - salary - army, connect village extraction with urban provisioning to explain the mechanism, and use cavalry affordability for the decisive comparison or qualification.
+**How to use them:** Open by naming the military-fiscal causal chain as revenue - grain - prices - salary - army; use village extraction and urban provisioning to show the two ends of the chain; close on cavalry affordability and the reported 238 tankas annually figure as the payoff the whole chain protects.
 
 [FACT] The most quoted argument in Topic 04's base files is that Mongol danger forced Alauddin to maintain a large cavalry army, but he lacked unlimited treasure.
 
@@ -1097,6 +1153,10 @@ ANSWER-GRABBING FORMULATION: The same OCR and the advanced owner note that all b
 - [ANALYSIS] Urban consumers benefited, but that was secondary to the military-fiscal logic.
 - [LIMIT] A coercive capital-centred regime preserving cheap provisions for soldiers is not the same as a welfare or redistributive ideology.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Topic 04's single strongest answer-spine is the causal chain linking revenue, grain, prices, salary and army. **Named evidence:** heavy doab revenue extraction generated grain and cash for Delhi; that grain moved through banjaras and granaries into regulated markets; fixed prices there preserved the real value of a cavalryman's reported annual pay of around 238 tankas; and that affordable pay sustained the large standing cavalry needed against the Mongols. **Analysis:** because each link depends on the one before it - extraction feeds supply, supply feeds price control, price control feeds real wages, real wages feed army size - explaining any one reform (say, market regulation) without the others breaks the chain and produces an incomplete, monocausal answer. **Qualification:** urban consumers also benefited from stable prices, but that benefit was a by-product of army affordability, not evidence that the system was a welfare or redistributive programme.
+
 #### CLOSING RECALL FLOW — THE MILITARY-FISCAL CAUSAL CHAIN: REVENUE -> GRAIN -> PRICES -> SALARY -> ARMY
 
 ```text
@@ -1115,7 +1175,7 @@ CONSEQUENCE / CONTRAST: Urban consumers benefited, but that was secondary to the
 UPSC TRAP / ANSWER-USE: A coercive capital-centred regime preserving cheap provisions for soldiers is not the same as a welfare or redistributive ideology.
         |
         v
-ANSWER-GRABBING FORMULATION: The most quoted argument in Topic 04's base files is that Mongol danger forced Alauddin to maintain a large cavalry army, but he lacked unlimited treasure.
+ANSWER-GRABBING FORMULATION: Explain any one Khalji reform without this five-step chain and the answer becomes a list of facts instead of a mechanism.
 ```
 ### SESSION 16 — WHY DID ALAUDDIN REGULATE MARKETS? OBJECTIVES, INSTRUMENTS AND LIMITS
 
@@ -1127,7 +1187,7 @@ ANSWER-GRABBING FORMULATION: The most quoted argument in Topic 04's base files i
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> [DEBATE] Motives were multiple: military necessity, anti-noble politics, urban provisioning and price discipline all mattered.
+> Military necessity anchors the system, but anti-noble politics and urban provisioning rode alongside it - call it primarily, not exclusively, military-fiscal.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1138,7 +1198,7 @@ ANSWER-GRABBING FORMULATION: The most quoted argument in Topic 04's base files i
 - **primarily**
 - **Military necessity**
 
-**How to use them:** Frame the answer through Why did Alauddin regulate markets? Objectives; define instruments, connect limits with military-fiscal motive to explain the mechanism, and use primarily for the decisive comparison or qualification.
+**How to use them:** Open by placing the military-fiscal motive at the centre of objectives; use instruments to list the enforcement machinery already taught in Session 12; close on limits to show why the answer must qualify "primarily" rather than claim a single exclusive cause.
 
 [DEBATE] Motives were multiple: military necessity, anti-noble politics, urban provisioning and price discipline all mattered.
 
@@ -1148,7 +1208,7 @@ ANSWER-GRABBING FORMULATION: The most quoted argument in Topic 04's base files i
 
 [LIMIT] Avoid monocausal certainty. The system can be **primarily** military-fiscal without excluding other motives.
 
-![16. Objectives, instruments and limits](assets/16_price_control_objectives_-fca8bfd25c.png)
+![16. Objectives, instruments and limits](assets/16_price_control_objectives_instruments_limits.png)
 
 *Interpretive matrix. It prevents simplistic one-cause readings and keeps instrument and limit attached to each motive claim.*
 
@@ -1170,6 +1230,10 @@ ANSWER-GRABBING FORMULATION: The most quoted argument in Topic 04's base files i
 | Dependence on ruler's will | Explains rapid post-1316 unraveling |
 | Source dependence on Barani | Prevents statistical certainty and ideological slogans |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's market regulation is best explained as primarily a military-fiscal motive, without excluding secondary anti-noble and provisioning purposes. **Named evidence:** the reforms integrate directly with cavalry pay and Mongol defence (the strongest integrative link), while the same institutions - confiscation, wealth controls, surveillance - overlap with anti-rebellion policy, and Delhi's granary/rationing system plainly served urban provisioning too. **Analysis:** because a single set of institutions (registers, spies, granaries) simultaneously serves army affordability, noble control and capital supply, the question "what was the motive" cannot have one exclusive answer; ranking military necessity first while naming the others as real secondary effects is more defensible than either a monocausal or an undifferentiated "many reasons" answer. **Qualification:** the coercive administrative cost of running this system, and its dependence on the ruler's personal will, are themselves evidence that no motive - however important - produced a durable institution capable of surviving Alauddin's death.
+
 #### CLOSING RECALL FLOW — WHY DID ALAUDDIN REGULATE MARKETS? OBJECTIVES, INSTRUMENTS AND LIMITS
 
 ```text
@@ -1185,22 +1249,22 @@ MECHANISM / ARGUMENT: The operative mechanism is that military necessity, anti-n
 CONSEQUENCE / CONTRAST: The system can be primarily military-fiscal without excluding other motives.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: military necessity, anti-noble politics, urban provisioning and price discipline all mattered.
+UPSC TRAP / ANSWER-USE: Ranking anti-noble politics or urban provisioning above military necessity is wrong; it inverts the repository's own evidence-led hierarchy of motives.
         |
         v
-ANSWER-GRABBING FORMULATION: [DEBATE] Motives were multiple: military necessity, anti-noble politics, urban provisioning and price discipline all mattered.
+ANSWER-GRABBING FORMULATION: A single motive answer always loses marks here; rank military necessity first, but name anti-noble politics and provisioning as real, evidenced secondary effects.
 ```
 ### SESSION 17 — ENFORCEMENT, ESPIONAGE, PUNISHMENTS AND THE BLACK-MARKET PROBLEM
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Enforcement, espionage, punishments and the black-market problem comprises Enforcement, espionage and punishments as its core connected dimensions.
+**Plain-language definition:** Enforcement, espionage and harsh punishments, not the price list alone, are what actually made Alauddin's black-market crackdown work.
 
-**Technical definition:** Technically, Enforcement, espionage, punishments and the black-market problem is analysed by relating Enforcement to espionage, then testing the relationship through punishments and the black-market problem.
+**Technical definition:** Enforcement rested on barids and munhiyan reporting violations upward, on merchant and weight registers catching fraud, and on severe punishment deterring overpricing, short-weighing and fraudulent horse supply.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Enforcement, espionage, punishments and the black-market problem comprises Enforcement, espionage and punishments as its core connected dimensions.
+> A price schedule without enforcement is just a wish list; Alauddin paired his prices with spies, registers and harsh punishment.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1211,7 +1275,7 @@ ANSWER-GRABBING FORMULATION: [DEBATE] Motives were multiple: military necessity,
 - **overpricing**
 - **false weights**
 
-**How to use them:** Frame the answer through Enforcement; define espionage, connect punishments with the black-market problem to explain the mechanism, and use overpricing for the decisive comparison or qualification.
+**How to use them:** Open by naming enforcement and espionage as the backbone of price discipline; use overpricing and false weights as the two commonest violations; close with punishments and the black-market problem to show why surveillance could never be total.
 
 [FACT] The local sources repeatedly stress strict punishment for **overpricing**, **false weights**, **fraudulent horse supply** and other evasions.
 
@@ -1235,6 +1299,10 @@ ANSWER-GRABBING FORMULATION: [DEBATE] Motives were multiple: military necessity,
 - [LIMIT] No coercive price regime abolishes evasion entirely.
 - [ANALYSIS] The very intensity of surveillance suggests that slippage, collusion and quality substitution were real risks.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's price schedules were only as strong as the enforcement machinery that backed them. **Named evidence:** barids and munhiyan reported violations upward, registers tracked merchants and weights, and strict punishment targeted overpricing, false weights and fraudulent horse supply, while state advances to Multani cloth traders show the regime disciplining rather than eliminating commerce. **Analysis:** because a fixed price creates an incentive to hoard, short-weigh or sell off-book, the enforcement layer was not an optional add-on but a structural requirement of the whole market system - remove it and the price schedule becomes unenforceable. **Qualification:** the very intensity of this surveillance is itself evidence that a black market, evasion and collusion were real ongoing risks, not proof that the system achieved perfect compliance.
+
 #### CLOSING RECALL FLOW — ENFORCEMENT, ESPIONAGE, PUNISHMENTS AND THE BLACK-MARKET PROBLEM
 
 ```text
@@ -1250,10 +1318,10 @@ MECHANISM / ARGUMENT: Such a system could function only if the ruler distrusted 
 CONSEQUENCE / CONTRAST: This shows that Alauddin did not eliminate commerce.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: state advances to merchants are reported in the cloth sector, especially with Multani traders.
+UPSC TRAP / ANSWER-USE: Claiming the price schedule eliminated evasion entirely is wrong; it ignores that intense surveillance is itself evidence of a persistent black-market risk.
         |
         v
-ANSWER-GRABBING FORMULATION: Enforcement, espionage, punishments and the black-market problem comprises Enforcement, espionage and punishments as its core connected dimensions.
+ANSWER-GRABBING FORMULATION: Barids, munhiyan, registers and severe punishment are the enforcement receipts that turn a price schedule from a wish list into a working system.
 ```
 ### SESSION 18 — EFFECTIVENESS, GEOGRAPHIC SCOPE, MONETISATION AND URBAN ECONOMY
 
@@ -1265,7 +1333,7 @@ ANSWER-GRABBING FORMULATION: Enforcement, espionage, punishments and the black-m
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Part I's OCR states that one significant effect of Alauddin's agrarian reforms was the furthering of the growth of a market economy in villages and a more integral relationship between town and country.
+> Delhi became the biggest market for fine cloth under Alauddin - proof that regulation redirected commerce rather than destroying it.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1276,7 +1344,7 @@ ANSWER-GRABBING FORMULATION: Enforcement, espionage, punishments and the black-m
 - **growth of a market economy**
 - **monetisation and urban-provisioning**
 
-**How to use them:** Frame the answer through Effectiveness; define geographic scope, connect monetisation with urban economy to explain the mechanism, and use growth of a market economy for the decisive comparison or qualification.
+**How to use them:** Open by naming Delhi's rise as the biggest fine-cloth market as proof of effectiveness; use growth of a market economy and monetisation and urban-provisioning to show the reform's positive economic effect; close with geographic scope as the boundary that keeps the claim honest.
 
 [FACT] Part I's OCR states that one significant effect of Alauddin's agrarian reforms was the furthering of the **growth of a market economy** in villages and a more integral relationship between town and country.
 
@@ -1284,7 +1352,7 @@ ANSWER-GRABBING FORMULATION: Enforcement, espionage, punishments and the black-m
 
 [FACT] Land revenue in cash helped pay soldiers in cash; this fits a wider **monetisation and urban-provisioning** story rather than the destruction of trade.
 
-![18. Effectiveness and geographic scope matrix](assets/18_effectiveness_geographic_-b3efadae25.png)
+![18. Effectiveness and geographic scope matrix](assets/18_effectiveness_geographic_scope_matrix.png)
 
 *Scope visual. It asks the essential exam questions: where did the system work, for whom did it work, and how durable was it?*
 
@@ -1303,6 +1371,10 @@ ANSWER-GRABBING FORMULATION: Enforcement, espionage, punishments and the black-m
 - [FACT] Multani traders and other merchants remained active.
 - [ANALYSIS] Alauddin's system therefore intensified **monetised circulation under coercive supervision**, rather than ending the market.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's price and revenue reforms were effective at what they were designed to do - Delhi provisioning and cavalry-pay stability - without covering the whole empire or ending commerce. **Named evidence:** Part I's OCR credits the agrarian reforms with furthering village market growth and tighter town-country linkage, and separately records that Delhi became the biggest market for fine cloth once traders received state advances. **Analysis:** because cash revenue demand pushed cultivators toward monetised sale and merchants kept operating (and were even financed) under the new rules, the system's real effect was to intensify and redirect commercial circulation under coercive supervision, not to abolish trade - a claim of "destroyed commerce" is falsified by the same sources that document the reforms. **Qualification:** effectiveness here means Delhi-centred provisioning and salary stability; it does not mean equal-depth enforcement empire-wide or survival beyond Alauddin's own reign.
+
 #### CLOSING RECALL FLOW — EFFECTIVENESS, GEOGRAPHIC SCOPE, MONETISATION AND URBAN ECONOMY
 
 ```text
@@ -1315,13 +1387,13 @@ EXACT TERMS: Effectiveness · geographic scope · monetisation · urban economy 
 MECHANISM / ARGUMENT: The concise OCR also notes that Delhi became the biggest market for fine cloth after large advances were made to traders bringing goods there.
         |
         v
-CONSEQUENCE / CONTRAST: The resulting consequence is that part I's OCR states that one significant effect of Alauddin's agrarian reforms was the...
+CONSEQUENCE / CONTRAST: Land revenue in cash helped pay soldiers in cash, fitting a wider monetisation and urban-provisioning story rather than the destruction of trade.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: part I's OCR states that one significant effect of Alauddin's agrarian reforms was the...
+UPSC TRAP / ANSWER-USE: Claiming the system "destroyed commerce" is wrong; it ignores that the same sources record Delhi becoming the biggest fine-cloth market under Alauddin.
         |
         v
-ANSWER-GRABBING FORMULATION: Part I's OCR states that one significant effect of Alauddin's agrarian reforms was the furthering of the growth of a market economy in villages and a more integral relationship between town and country.
+ANSWER-GRABBING FORMULATION: The effect was strongest in Delhi's provisioning and army pay, real in monetisation and market growth, but never proven equal in depth across the whole empire.
 ```
 ### SESSION 19 — ALAUDDIN, ULEMA, RELIGION AND POLITICAL EXPEDIENCY
 
@@ -1333,7 +1405,7 @@ ANSWER-GRABBING FORMULATION: Part I's OCR states that one significant effect of 
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Even with that caution, the political principle is clear: Alauddin did not let juristic scruple alone define statecraft.
+> Alauddin subordinated juristic ideal to reason of state without becoming a modern secular ruler or an anti-religious one.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1342,9 +1414,9 @@ ANSWER-GRABBING FORMULATION: Part I's OCR states that one significant effect of 
 - **religion**
 - **political expediency**
 - **shara**
-- **not**
+- **reason of state**
 
-**How to use them:** Frame the answer through Alauddin; define ulema, connect religion with political expediency to explain the mechanism, and use shara for the decisive comparison or qualification.
+**How to use them:** Open by naming political expediency as Alauddin's guiding principle over strict shara conformity; use ulema and religion to show the relationship was tense, not absent; close with reason of state as the safe analytical label that avoids both secularism and theocracy claims.
 
 [FACT] The advanced OCR preserves the famous Barani-reported argument in which Alauddin prioritises what is necessary for the **state** over neat conformity to **shara**.
 
@@ -1352,7 +1424,7 @@ ANSWER-GRABBING FORMULATION: Part I's OCR states that one significant effect of 
 
 [ANALYSIS] Even with that caution, the political principle is clear: Alauddin did not let juristic scruple alone define statecraft. But that does **not** turn him into a modern secular ruler.
 
-![19. State-ulema political reasoning caution](assets/19_state_ulema_political_rea-1f3f6376bc.png)
+![19. State-ulema political reasoning caution](assets/19_state_ulema_political_reasoning_caution.png)
 
 *Caution visual. It keeps Jalaluddin's support rhetoric, Alauddin's state necessity and the limits of modern ideological labelling distinct.*
 
@@ -1370,13 +1442,17 @@ ANSWER-GRABBING FORMULATION: Part I's OCR states that one significant effect of 
 - [LIMIT] Jizya is not the main analytical axis of Topic 04.
 - [ANALYSIS] For this owner, **kharaj, ghari, charai, confiscation and market control** matter far more than a communal template.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin governed by reason of state rather than by strict juristic conformity, without this making him secular or anti-religious. **Named evidence:** Barani reports Alauddin arguing that state necessity, not neat shara conformity, should guide policy - a stance visible in his market ordinances and anti-noble controls, which have no direct scriptural basis. **Analysis:** because he still used Islamic legitimation and religious rhetoric while asserting wide discretion in practical rule, the correct label is a medieval "reason of state" idiom - not modern constitutional secularism (which separates religion from politics as a legal principle) and not a pure ulema-run theocracy (since political decisions repeatedly overrode juristic preference). **Qualification:** because Barani writes decades later with his own normative agenda, the exact wording of Alauddin's reported argument cannot be treated as verbatim transcript, even though the underlying political pattern is well supported.
+
 #### CLOSING RECALL FLOW — ALAUDDIN, ULEMA, RELIGION AND POLITICAL EXPEDIENCY
 
 ```text
 START / CONCEPT: Alauddin, ulema, religion and political expediency
         |
         v
-EXACT TERMS: Alauddin · ulema · religion · political expediency · shara · not
+EXACT TERMS: Alauddin · ulema · religion · political expediency · shara · reason of state
         |
         v
 MECHANISM / ARGUMENT: Because Barani writes later, the exact wording must be treated cautiously.
@@ -1385,10 +1461,10 @@ MECHANISM / ARGUMENT: Because Barani writes later, the exact wording must be tre
 CONSEQUENCE / CONTRAST: But that does not turn him into a modern secular ruler.
         |
         v
-UPSC TRAP / ANSWER-USE: Jizya is not the main analytical axis of Topic 04.
+UPSC TRAP / ANSWER-USE: Jizya and communal framing are not the main analytical axis here; kharaj, ghari, charai, confiscation and market control carry the topic's real weight.
         |
         v
-ANSWER-GRABBING FORMULATION: Even with that caution, the political principle is clear: Alauddin did not let juristic scruple alone define statecraft.
+ANSWER-GRABBING FORMULATION: Political necessity overriding neat juristic conformity is reason-of-state, an idiom of its own age - never rebrand it as modern constitutional secularism.
 ```
 ### SESSION 20 — ARCHITECTURE AND URBANISM: SIRI, ALAI DARWAZA, ALAI MINAR, HAUZ-I-ALAI
 
@@ -1400,7 +1476,7 @@ ANSWER-GRABBING FORMULATION: Even with that caution, the political principle is 
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The concise culture chapter states that Alauddin built his capital at Siri, planned a tower twice the height of the Qutb Minar but left it incomplete (Alai Minar), and added the Alai Darwaza to the Qutb complex.
+> Alai Darwaza is a mature scientific arch, not India's first - that title belongs to Balban's tomb in this repository's sequence.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1411,7 +1487,7 @@ ANSWER-GRABBING FORMULATION: Even with that caution, the political principle is 
 - **Alai Minar**
 - **Hauz-i-Alai**
 
-**How to use them:** Frame the answer through Architecture; define urbanism, connect Siri with Alai Darwaza to explain the mechanism, and use Alai Minar for the decisive comparison or qualification.
+**How to use them:** Open by naming Siri as the new defended capital tied to Mongol pressure; use Alai Darwaza and Alai Minar to show mature achievement alongside unfinished ambition; close with Hauz-i-Alai to link architecture to urban water-supply provisioning.
 
 [FACT] The concise culture chapter states that Alauddin built his capital at **Siri**, planned a tower twice the height of the Qutb Minar but left it incomplete (**Alai Minar**), and added the **Alai Darwaza** to the Qutb complex.
 
@@ -1437,6 +1513,10 @@ ANSWER-GRABBING FORMULATION: Even with that caution, the political principle is 
 - [FACT] Topic 11's corrected owner files stress that **Balban's tomb** is the first surviving true arch in the assigned sequence.
 - [LIMIT] Therefore do not write that Alai Darwaza was "India's first true arch". It marks **mature** mastery, not the earliest surviving example in this repository's source discipline.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's building programme expressed political ambition and military necessity as much as aesthetic taste. **Named evidence:** Siri was built as a new defended capital tied to Mongol pressure and army concentration; the Alai Darwaza added a scientifically constructed arch-and-dome gateway to the Qutb complex; the Alai Minar was begun at twice the Qutb Minar's height but left incomplete; and Hauz-i-Alai supplied water to the growing court and garrison population. **Analysis:** because each project answers a practical need - defence, ceremonial legitimacy, imperial display, urban water supply - Khalji architecture should be read as state capacity made visible, not as art produced in isolation from politics. **Qualification:** Topic 11's corrected sequence places the first surviving true arch at Balban's tomb, so Alai Darwaza must be described as a mature, technically confident phase of arch-and-dome construction, never as India's first true arch.
+
 #### CLOSING RECALL FLOW — ARCHITECTURE AND URBANISM: SIRI, ALAI DARWAZA, ALAI MINAR, HAUZ-I-ALAI
 
 ```text
@@ -1446,16 +1526,16 @@ START / CONCEPT: Architecture and urbanism: Siri, Alai Darwaza, Alai Minar, Hauz
 EXACT TERMS: Architecture · urbanism · Siri · Alai Darwaza · Alai Minar · Hauz-i-Alai
         |
         v
-MECHANISM / ARGUMENT: Therefore do not write that Alai Darwaza was "India's first true arch".
+MECHANISM / ARGUMENT: Each project answered a practical need in turn - Siri answered Mongol pressure and army concentration, Alai Darwaza answered ceremonial and technical ambition at the Qutb complex, and Hauz-i-Alai answered the court and garrison's water supply.
         |
         v
 CONSEQUENCE / CONTRAST: The same source also notes that the Hauz Khas area later became a pleasure and madrasa complex under Firuz, while the reservoir itself goes back to Alauddin's Hauz-i-Alai.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the same chapter says that the Alai Darwaza's dome and arches were, for the...
+UPSC TRAP / ANSWER-USE: Calling Alai Darwaza "India's first true arch" is wrong; it overwrites Topic 11's corrected sequence, which places that title with Balban's tomb.
         |
         v
-ANSWER-GRABBING FORMULATION: The concise culture chapter states that Alauddin built his capital at Siri, planned a tower twice the height of the Qutb Minar but left it incomplete (Alai Minar), and added the Alai Darwaza to the Qutb complex.
+ANSWER-GRABBING FORMULATION: Siri's ramparts, Alai Darwaza's arch and the unfinished Alai Minar together read as one statement of ambition backed by military necessity.
 ```
 ### SESSION 21 — SOURCES, AMIR KHUSRAU AND THE CULTURAL ARCHIVE OF THE KHALJI AGE
 
@@ -1467,7 +1547,7 @@ ANSWER-GRABBING FORMULATION: The concise culture chapter states that Alauddin bu
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The Khalji archive is therefore rich but uneven: a courtly Persian world records conquest, regulation and urban ambition better than village experience or subaltern voice.
+> Barani, Khusrau and Isami give three different vantage points on the same Khalji age - late-moralising, court-panegyric and displaced-retrospective.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1478,7 +1558,7 @@ ANSWER-GRABBING FORMULATION: The concise culture chapter states that Alauddin bu
 - **Isami**
 - **reported rule**
 
-**How to use them:** Frame the answer through Sources; define Amir Khusrau, connect the cultural archive of the Khalji age with Barani to explain the mechanism, and use Isami for the decisive comparison or qualification.
+**How to use them:** Open by naming Barani, Amir Khusrau and Isami as the three named chroniclers with distinct genres; use reported rule to flag that all three describe policy rather than certify it; close with the cultural archive of the Khalji age to frame why courtly Persian material dominates the evidence.
 
 [FACT] Topic 07's Persian-source bank and the OCR evidence together support the following source map: **Barani**, **Amir Khusrau**, **Isami**, plus inscriptions, coins and monuments.
 
@@ -1505,6 +1585,10 @@ ANSWER-GRABBING FORMULATION: The concise culture chapter states that Alauddin bu
 - [LIMIT] Khusrau is not a neutral field report.
 - [ANALYSIS] The strongest answers triangulate **reported rule**, **material evidence** and **modern caution**.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The Khalji age is documented through a small set of named sources, each with its own genre limitation, rather than through one neutral archive. **Named evidence:** Barani supplies ordinances, elite ideology and later memory of Alauddin but writes decades afterward with aristocratic bias; Amir Khusrau supplies campaign atmosphere and court culture but writes panegyric for a patron; Isami supplies a Deccan-transition narrative but writes retrospectively after displacement; monuments and coins add durable but silent material claims. **Analysis:** because each source class illuminates a different part of the picture (policy versus atmosphere versus later memory versus built evidence) and is silent or biased elsewhere, the strongest answers triangulate reported rule, material evidence and modern caution rather than leaning on a single chronicler as if it were a transparent record. **Qualification:** this triangulation strengthens the topic's political and institutional claims but leaves village experience, women's lives and subaltern voice thin in the archive - a real evidentiary gap, not something the sources can be pressed to answer.
+
 #### CLOSING RECALL FLOW — SOURCES, AMIR KHUSRAU AND THE CULTURAL ARCHIVE OF THE KHALJI AGE
 
 ```text
@@ -1520,10 +1604,10 @@ MECHANISM / ARGUMENT: The concise OCR calls Amir Khusrau the leading Persian wri
 CONSEQUENCE / CONTRAST: Khusrau is not a neutral field report.
         |
         v
-UPSC TRAP / ANSWER-USE: Barani is not a statistical officer.
+UPSC TRAP / ANSWER-USE: Treating Barani as a neutral statistical record is wrong; it ignores that he, like Khusrau, writes from within a genre with its own bias and silence.
         |
         v
-ANSWER-GRABBING FORMULATION: The Khalji archive is therefore rich but uneven: a courtly Persian world records conquest, regulation and urban ambition better than village experience or subaltern voice.
+ANSWER-GRABBING FORMULATION: Read Barani for policy, Khusrau for atmosphere and Isami for the transition - no single chronicler carries the whole Khalji story alone.
 ```
 ### SESSION 22 — MALIK KAFUR, SUCCESSION POLITICS, MUBARAK SHAH, KHUSRAU KHAN AND THE TUGHLAQ TRANSITION
 
@@ -1535,7 +1619,7 @@ ANSWER-GRABBING FORMULATION: The Khalji archive is therefore rich but uneven: a 
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Malik Kafur rose high under Alauddin, became malik naib / vice-regent, and after Alauddin's death helped elevate a minor son while blinding or imprisoning rivals.
+> Within four years of Alauddin's death, his vice-regent, his son and his slave-turned-usurper were all removed - proof that coercive institutions do not survive without a succession rule.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1546,7 +1630,7 @@ ANSWER-GRABBING FORMULATION: The Khalji archive is therefore rich but uneven: a 
 - **the Tughlaq transition**
 - **malik naib / vice-regent**
 
-**How to use them:** Frame the answer through Malik Kafur; define succession politics, connect Mubarak Shah with Khusrau Khan to explain the mechanism, and use the Tughlaq transition for the decisive comparison or qualification.
+**How to use them:** Open by tracing succession politics from Malik Kafur's brief regency through Mubarak Shah's reversals to Khusrau Khan's usurpation; use malik naib / vice-regent to name Kafur's formal post; close with the Tughlaq transition to mark exactly where Topic 04 hands over to Topic 05.
 
 [FACT] Malik Kafur rose high under Alauddin, became **malik naib / vice-regent**, and after Alauddin's death helped elevate a minor son while blinding or imprisoning rivals.
 
@@ -1570,6 +1654,10 @@ ANSWER-GRABBING FORMULATION: The Khalji archive is therefore rich but uneven: a 
 - [FACT] Topic 04 stops at the **hard-fought Tughlaq takeover**.
 - [FACT] Topic 05 owns Ghiyasuddin's settled policy, Muhammad bin Tughlaq's large-scale annexation and Firuz's later departures.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The 1316-1320 succession crisis shows that Alauddin's coercive institutions depended entirely on his personal presence, not on any settled transfer rule. **Named evidence:** Malik Kafur, as malik naib, elevated a minor son and blinded or imprisoned rivals before being killed by palace guards; Qutbuddin Mubarak Shah then reversed many agrarian and market controls to win support; Khusrau Khan seized power next, only for Ghiyasuddin Tughlaq to defeat him in 1320. **Analysis:** because four different power-holders followed one another within roughly four years, each undoing or ignoring the last one's policy, the sequence demonstrates that Alauddin's regime was a personally supervised coercive order, not an impersonal bureaucratic institution capable of self-perpetuation. **Qualification:** this does not mean everything vanished instantly - Delhi, iqta logic, army routines and urban infrastructure carried over into the Tughlaq order - so the correct claim is that Alauddin's personal grip collapsed first, not that the Sultanate itself dissolved.
+
 #### CLOSING RECALL FLOW — MALIK KAFUR, SUCCESSION POLITICS, MUBARAK SHAH, KHUSRAU KHAN AND THE TUGHLAQ TRANSITION
 
 ```text
@@ -1579,28 +1667,28 @@ START / CONCEPT: Malik Kafur, succession politics, Mubarak Shah, Khusrau Khan an
 EXACT TERMS: Malik Kafur · succession politics · Mubarak Shah · Khusrau Khan · the Tughlaq transition · malik naib / vice-regent
         |
         v
-MECHANISM / ARGUMENT: He was then quickly killed by palace guards.
+MECHANISM / ARGUMENT: Kafur's own killing by palace guards shows that even the vice-regent's power depended entirely on proximity to the throne, not on any independent institutional office.
         |
         v
 CONSEQUENCE / CONTRAST: The post-1316 sequence demonstrates that institutions without a stable succession ethic can remain formally present yet lose their disciplining capacity.
         |
         v
-UPSC TRAP / ANSWER-USE: It would still be wrong to say that everything vanished overnight.
+UPSC TRAP / ANSWER-USE: It would still be wrong to say that everything vanished overnight - Delhi, iqta logic, army routines and urban infrastructure survived into the Tughlaq order even as Alauddin's personal grip collapsed first.
         |
         v
-ANSWER-GRABBING FORMULATION: Malik Kafur rose high under Alauddin, became malik naib / vice-regent, and after Alauddin's death helped elevate a minor son while blinding or imprisoning rivals.
+ANSWER-GRABBING FORMULATION: What collapsed first was Alauddin's personal grip, not Delhi, iqta or the army - the Tughlaqs inherited institutions, not a vacuum.
 ```
 ### SESSION 23 — HISTORIOGRAPHY: COERCION, ECONOMY AND SOURCE-CAUTION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** They disagree more on how uniform, intentional, economically transformative or durable that state really was.
+**Plain-language definition:** Historians agree Alauddin built an unusually strong coercive state for his time; they disagree mainly on how uniform, deliberate, economically transformative or durable that state really was.
 
-**Technical definition:** Technically, Historiography: coercion, economy and source-caution is analysed by relating Historiography to coercion, then testing the relationship through economy and source-caution.
+**Technical definition:** Historiography of the Khalji age weighs a centralisation-heavy reading (K. S. Lal-type coercion emphasis), an agrarian-economic reading (Irfan Habib-type monetisation and surplus-extraction emphasis) and Satish Chandra's source-critical synthesis against one another to decide how far the evidence supports each claim.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> They disagree more on how uniform, intentional, economically transformative or durable that state really was.
+> Historians do not dispute that Alauddin built a formidable coercive state; they dispute how uniform, intentional and durable it actually was.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1611,7 +1699,7 @@ ANSWER-GRABBING FORMULATION: Malik Kafur rose high under Alauddin, became malik 
 - **uniform**
 - **intentional**
 
-**How to use them:** Frame the answer through Historiography; define coercion, connect economy with source-caution to explain the mechanism, and use uniform for the decisive comparison or qualification.
+**How to use them:** Open by naming the point of agreement - coercion - before turning to the real historiographical debate; use uniform and intentional to structure the disagreement; close on source-caution to justify why Satish Chandra's balanced reading anchors this repository.
 
 [DEBATE] Modern interpretations do not disagree on everything. They broadly agree that Alauddin built an unusually formidable coercive state for his context. They disagree more on how **uniform**, **intentional**, **economically transformative** or **durable** that state really was.
 
@@ -1638,6 +1726,10 @@ The strongest UPSC answer combines three moves:
 2. [ANALYSIS] explain the **economic and military mechanism**,
 3. [LIMIT] qualify **scope, source and durability**.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The historiographical debate on Alauddin Khalji is not about whether he built a coercive state, but about how far that coercion extended and how much it should be credited as deliberate economic policy. **Named evidence:** centralisation-heavy readings associated with K. S. Lal foreground the depth of coercion and surveillance; agrarian-economic readings in Irfan Habib's tradition foreground monetisation, surplus extraction and town-country linkage; Satish Chandra's synthesis - this repository's controlling line - foregrounds broadened elite recruitment, Mongol-driven military necessity and constant caution about Barani's veracity. **Analysis:** because each lens draws on the same limited Barani-heavy evidence base but weights coercion, economics or source-criticism differently, the strongest UPSC answer names the shared ground (a formidable coercive state existed) before showing exactly where the three lenses diverge on uniformity, intention and durability. **Qualification:** naming Satish Chandra's synthesis as this repository's control does not mean the other lenses are wrong; it means their claims about totality or economic transformation need the same source-caution applied throughout this topic.
+
 #### CLOSING RECALL FLOW — HISTORIOGRAPHY: COERCION, ECONOMY AND SOURCE-CAUTION
 
 ```text
@@ -1647,24 +1739,24 @@ START / CONCEPT: Historiography: coercion, economy and source-caution
 EXACT TERMS: Historiography · coercion · economy · source-caution · uniform · intentional
         |
         v
-MECHANISM / ARGUMENT: The strongest UPSC answer combines three moves.
+MECHANISM / ARGUMENT: The strongest UPSC answer acknowledges coercive centralisation, explains the economic and military mechanism, and then qualifies scope, source and durability.
         |
         v
-CONSEQUENCE / CONTRAST: [DEBATE] Modern interpretations do not disagree on everything.
+CONSEQUENCE / CONTRAST: Modern interpretations do not disagree on everything - they broadly agree Alauddin built an unusually formidable coercive state for his context.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: they disagree more on how uniform, intentional, economically transformative or durable that state really...
+UPSC TRAP / ANSWER-USE: Picking only one lens - pure centralisation, pure agrarian economics, or pure source-scepticism - rather than weighing all three, misrepresents a genuinely three-sided debate.
         |
         v
-ANSWER-GRABBING FORMULATION: They disagree more on how uniform, intentional, economically transformative or durable that state really was.
+ANSWER-GRABBING FORMULATION: Name Satish Chandra's synthesis as the repository's control, but credit K. S. Lal for coercive depth and Irfan Habib's tradition for the economic dimension.
 ```
 ### SESSION 24 — HISTORICAL SIGNIFICANCE AND GS-I ANSWER SPINE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Historical significance and GS-I answer spine comprises Historical significance, GS-I answer spine and wider elite recruitment as its core connected dimensions.
+**Plain-language definition:** The Khalji period's lasting significance lies in three linked achievements: a wider ruling elite, a hardened military-fiscal state, and a Deccan opening no later dynasty could ignore.
 
-**Technical definition:** Technically, Historical significance and GS-I answer spine is analysed by relating Historical significance to GS-I answer spine, then testing the relationship through wider elite recruitment and coercive military-fiscal experimentation.
+**Technical definition:** Topic 04's GS-I answer spine compresses the whole period into thesis -> evidence -> mechanism -> qualification -> verdict, anchored on wider elite recruitment, coercive military-fiscal experimentation and the Deccan opening.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -1677,9 +1769,9 @@ ANSWER-GRABBING FORMULATION: They disagree more on how uniform, intentional, eco
 - **wider elite recruitment**
 - **coercive military-fiscal experimentation**
 - **Deccan opening**
-- **The Khalji**
+- **ruler-dependent institutions**
 
-**How to use them:** Frame the answer through Historical significance; define GS-I answer spine, connect wider elite recruitment with coercive military-fiscal experimentation to explain the mechanism, and use Deccan opening for the decisive comparison or qualification.
+**How to use them:** Open with wider elite recruitment, coercive military-fiscal experimentation and Deccan opening as the topic's three-part significance; use GS-I answer spine to structure any essay-length question; close on ruler-dependent institutions to supply the mandatory limiting qualification.
 
 [ANALYSIS] The Khalji period matters because it brought together three processes: **wider elite recruitment**, **coercive military-fiscal experimentation**, and a **Deccan opening** that later dynasties could not ignore.
 
@@ -1698,72 +1790,29 @@ ANSWER-GRABBING FORMULATION: They disagree more on how uniform, intentional, eco
 - [ANALYSIS] "The Khalji revolution broadened access to the ruling class without democratising the polity."
 - [ANALYSIS] "The period opened the Deccan politically while proving the limits of ruler-dependent control."
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The Khalji period's historical significance rests on three linked achievements rather than any single reform. **Named evidence:** the 1290 accession widened elite recruitment beyond the old Turkish monopoly; Alauddin's dagh/chehra army reform, doab revenue measurement and Delhi market institutions built the Sultanate's sharpest military-fiscal system; and Malik Kafur's Deccan campaigns opened Devagiri, Warangal, Dwarasamudra and Mabar to Delhi's horizon for the first time. **Analysis:** because these three achievements reinforced one another - a wider elite staffed a harsher state, and a harsher state financed deeper expansion - the Khalji period should be presented as one integrated process in a GS-I answer, using the thesis -> evidence -> mechanism -> qualification -> verdict spine rather than three disconnected facts. **Qualification:** every one of these achievements was ruler-dependent; once Alauddin died, the system that had made them possible unravelled within four years, so "significant" must be paired with "institutionally fragile" in any complete verdict.
+
 #### CLOSING RECALL FLOW — HISTORICAL SIGNIFICANCE AND GS-I ANSWER SPINE
 
 ```text
 START / CONCEPT: Historical significance and GS-I answer spine
         |
         v
-EXACT TERMS: Historical significance · GS-I answer spine · wider elite recruitment · coercive military-fiscal experimentation · Deccan opening · The Khalji
+EXACT TERMS: Historical significance · GS-I answer spine · wider elite recruitment · coercive military-fiscal experimentation · Deccan opening · ruler-dependent institutions
         |
         v
 MECHANISM / ARGUMENT: Delhi became more deeply provisioned and militarised; the doab became more tightly linked to the capital; and imperial ambition reached far beyond earlier Sultanate limits.
         |
         v
-CONSEQUENCE / CONTRAST: "The Khalji moment was the Delhi Sultanate's sharpest experiment in coercive military-fiscal integration before the Tughlaqs." "Alauddin's market reforms were a Delhi-centred instrument for keeping a large cavalry affordable under Mongol pressure." "The Khalji revolution broadened access to the ruling class without democratising the polity." "The period opened the Deccan politically while proving the limits of ruler-dependent control.".
+CONSEQUENCE / CONTRAST: The Khalji revolution broadened access to the ruling class without democratising the polity, and the period opened the Deccan politically while proving the limits of ruler-dependent control.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the Khalji period matters because it brought together three processes.
+UPSC TRAP / ANSWER-USE: Praising the Khalji achievement without naming its ruler-dependent fragility is wrong; it turns a graded verdict into an uncritical celebration.
         |
         v
-ANSWER-GRABBING FORMULATION: The Khalji period matters because it brought together three processes: wider elite recruitment, coercive military-fiscal experimentation, and a Deccan opening that later dynasties could not ignore.
-```
-### SESSION 25 — BOUNDED LIVE LINKAGE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The live material is a teaching bridge only.
-
-**Technical definition:** Alauddin's Delhi-centred coercive military-fiscal system had different aims, institutions and economic conditions and is not treated as a direct precedent for modern price policy.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The live material is a teaching bridge only.
-
-#### MUST-WRITE KEYWORDS
-
-- **Bounded live linkage**
-- **The Department**
-- **Consumer Affairs Price Monitoring Division**
-- **The modern example**
-- **Alauddin's Delhi-centred**
-- **The live material**
-
-**How to use them:** Frame the answer through Bounded live linkage; define The Department, connect Consumer Affairs Price Monitoring Division with The modern example to explain the mechanism, and use Alauddin's Delhi-centred for the decisive comparison or qualification.
-
-The Department of Consumer Affairs Price Monitoring Division page was rechecked on 30 August 2026. It reports daily monitoring of 38 essential commodities through 575 reporting centres. The modern example is used only to teach the general analytical categories of information, supply, enforcement and geographic coverage. Alauddin's Delhi-centred coercive military-fiscal system had different aims, institutions and economic conditions and is not treated as a direct precedent for modern price policy.
-
-The live material is a teaching bridge only. Historical chronology, causation and institutional claims remain controlled by repository Markdown, OCR-searchable books and source criticism.
-
-#### CLOSING RECALL FLOW — BOUNDED LIVE LINKAGE
-
-```text
-START / CONCEPT: Bounded live linkage
-        |
-        v
-EXACT TERMS: Bounded live linkage · The Department · Consumer Affairs Price Monitoring Division · The modern example · Alauddin's Delhi-centred · The live material
-        |
-        v
-MECHANISM / ARGUMENT: The Department of Consumer Affairs Price Monitoring Division page was rechecked on 30 August 2026.
-        |
-        v
-CONSEQUENCE / CONTRAST: Alauddin's Delhi-centred coercive military-fiscal system had different aims, institutions and economic conditions and is not treated as a direct precedent for modern price policy.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the modern example is used only to teach the general analytical categories of information...
-        |
-        v
-ANSWER-GRABBING FORMULATION: The live material is a teaching bridge only.
+ANSWER-GRABBING FORMULATION: Wider elite recruitment financed a harsher state, and a harsher state financed the Deccan opening - one integrated process, not three separate facts, and all of it ruler-dependent.
 ```
 ### MEDIEVAL DEEP-REVIEW CORE CONTROL
 
@@ -2036,582 +2085,6 @@ effect -> source/geographic/duration limit -> verdict.
 
 **Why:** The 1316-1320 sequence shows how fast tightly personalised coercive systems can fray.
 
-### Original broad-coverage MCQs
-
-##### MCQ 01
-
-**Question:** Which statement best expresses the repository's framing of the Khalji period?
-
-- A. It is best read through source criticism and state-capacity analysis.
-- B. It should be described chiefly as a medieval socialist experiment.
-- C. It is mainly a romance about Padmavati.
-- D. It has no meaningful continuity with the Mamluk period.
-
-**Answer: A.**
-
-**Explanation:** Topic 04 deliberately rejects ideological caricature and reads policy through sources, mechanism and scope.
-
-##### MCQ 02
-
-**Question:** The "Khalji revolution" most safely refers to:
-
-- A. the immediate annexation of the whole Deccan
-- B. the widening of the ruling class beyond the old Turkish monopoly
-- C. the abolition of iqta assignments
-- D. the replacement of all nobles by village headmen
-
-**Answer: B.**
-
-**Explanation:** Elite composition changed significantly, but society as a whole was not revolutionised.
-
-##### MCQ 03
-
-**Question:** Jalaluddin Khalji's political style is best described as:
-
-- A. pure military despotism without any conciliatory element
-- B. identical to Alauddin's confiscatory style
-- C. comparatively tolerant and support-oriented by Sultanate standards
-- D. based on abolishing the army's frontier role
-
-**Answer: C.**
-
-**Explanation:** His rule is remembered for attempting to soften some harsher features of earlier monarchy.
-
-##### MCQ 04
-
-**Question:** Alauddin's road to power in 1296 pivoted on:
-
-- A. his architectural patronage at Siri
-- B. a village assembly election at Kara
-- C. a caliphal nomination received in Delhi
-- D. the Devagiri loot, the Kara meeting and the murder of Jalaluddin
-
-**Answer: D.**
-
-**Explanation:** Wealth from Devagiri and the Kara assassination underpin Alauddin's legitimacy problem.
-
-##### MCQ 05
-
-**Question:** In Topic 04's political-geography language, the Delhi-Siri-upper doab belt is:
-
-- A. the core enforcement and provisioning zone
-- B. a distant tribute zone
-- C. a purely literary construction of Barani
-- D. only a symbolic ceremonial landscape
-
-**Answer: A.**
-
-**Explanation:** This is where fiscal extraction, grain supply and price control were most deeply tied together.
-
-##### MCQ 06
-
-**Question:** The 1303 Mongol episode is most closely linked with:
-
-- A. the fall of Warangal
-- B. the fortification of the defended Siri position near Delhi
-- C. the capture of Siwistan
-- D. the treaty with Ramachandra of Devagiri
-
-**Answer: B.**
-
-**Explanation:** The Targhi crisis is the classic Siri moment in Khalji history.
-
-##### MCQ 07
-
-**Question:** Which pair is correctly matched?
-
-- A. Qutlugh Khwaja - Mabar campaign
-- B. Malik Nayak - siege of Chittor
-- C. Ali Beg and Tartaq - Amroha defeat
-- D. Targhi - conquest of Gujarat
-
-**Answer: C.**
-
-**Explanation:** Ali Beg and Tartaq are linked to the Amroha defeat of the Mongols.
-
-##### MCQ 08
-
-**Question:** In Alauddin's military administration, **chehra** refers to:
-
-- A. a provincial iqta record
-- B. a tax on grazing
-- C. a branded horse-mark
-- D. a descriptive roll of soldiers
-
-**Answer: D.**
-
-**Explanation:** Chehra helped prevent fictitious musters and false salary claims.
-
-##### MCQ 09
-
-**Question:** Gujarat mattered to Alauddin above all because of its:
-
-- A. ports, bullion and horse supply connections
-- B. monastic universities only
-- C. role as the Alai Minar's stone quarry
-- D. frontier snow passes
-
-**Answer: A.**
-
-**Explanation:** Gujarat's ports and wealth strengthened Delhi's fiscal and military position.
-
-##### MCQ 10
-
-**Question:** Ranthambore became a major Alauddin target partly because:
-
-- A. it housed the Diwan-i-Riyasat
-- B. Hamirdeva protected Mongol fugitives and defied Delhi
-- C. Jalaluddin had already annexed it completely
-- D. it was the main cloth market of the empire
-
-**Answer: B.**
-
-**Explanation:** Refuge to Mongol rebels and fort strength helped make Ranthambore urgent.
-
-##### MCQ 11
-
-**Question:** The safest statement about Chittor 1303 is that:
-
-- A. no siege took place and the story is wholly fictitious
-- B. the Padmavat narrative is a near-contemporary documentary account
-- C. a secure siege-and-conquest event later acquired a powerful literary afterlife
-- D. Khusrau wrote only about Padmavati and not about conquest
-
-**Answer: C.**
-
-**Explanation:** Historical siege and later literary romance occupy different evidentiary layers.
-
-##### MCQ 12
-
-**Question:** Malwa under the Khaljis is best described as:
-
-- A. only a tribute-paying Rajput state without direct intervention
-- B. a purely symbolic claim in court poetry
-- C. a zone never touched by Delhi power
-- D. more directly brought under Delhi administration than many Rajput states
-
-**Answer: D.**
-
-**Explanation:** Malwa is one of the clearer cases of stronger political incorporation.
-
-##### MCQ 13
-
-**Question:** Ramachandra of Devagiri is important because he:
-
-- A. was restored as a subordinate ally and became useful for later Deccan policy
-- B. permanently expelled Delhi from the south
-- C. wrote the Tarikh-i Firuz Shahi
-- D. built the Alai Darwaza
-
-**Answer: A.**
-
-**Explanation:** His restored, cooperative position shows that not all Deccan policy was immediate annexation.
-
-##### MCQ 14
-
-**Question:** Warangal under Alauddin is best characterised as:
-
-- A. identical in status to the upper doab khalisa zone
-- B. a theatre of submission and tribute before later annexation under the Tughlaqs
-- C. outside all Khalji military concern
-- D. an unquestioned Delhi province from the start
-
-**Answer: B.**
-
-**Explanation:** Tribute and submission came first; later annexation belongs mainly to the Tughlaq phase.
-
-##### MCQ 15
-
-**Question:** The main political purpose of the ban on elite banquets and marriage alliances was to:
-
-- A. increase temple revenues
-- B. replace horses with elephants
-- C. break aristocratic coalition-building
-- D. encourage Sufi egalitarianism
-
-**Answer: C.**
-
-**Explanation:** These ordinances targeted the social infrastructure of conspiracy.
-
-##### MCQ 16
-
-**Question:** Which statement about Alauddin's reported confiscations is most accurate?
-
-- A. They were merely a poetic metaphor.
-- B. They were irrelevant to noble politics.
-- C. They abolished all land grants in every province forever.
-- D. They sought to deny nobles the wealth needed for autonomous rebellion.
-
-**Answer: D.**
-
-**Explanation:** Confiscation and surveillance belong to the same anti-rebellion strategy.
-
-##### MCQ 17
-
-**Question:** In the revenue system of Topic 04, **khalisa** most directly means:
-
-- A. land whose revenue flowed directly to the imperial treasury
-- B. a cash salary scale
-- C. temple-free land only
-- D. a village committee
-
-**Answer: A.**
-
-**Explanation:** Khalisa is central to understanding why the doab mattered so much to Delhi.
-
-##### MCQ 18
-
-**Question:** Which rural groups are specifically targeted in the source tradition as privileged intermediaries?
-
-- A. Multani traders
-- B. khuts, muqaddams and chaudhuris
-- C. Chishti saints
-- D. qazis and muftis
-
-**Answer: B.**
-
-**Explanation:** They are the classic rural-intermediary trio in Alauddin's revenue debate.
-
-##### MCQ 19
-
-**Question:** The best reason to avoid calling Alauddin's price policy "socialism" is that it:
-
-- A. arose from nineteenth-century social theory
-- B. eliminated all market exchange
-- C. was aimed chiefly at funding and disciplining a large cavalry under frontier pressure
-- D. guaranteed equal welfare to all cultivators
-
-**Answer: C.**
-
-**Explanation:** The regime's primary logic was military-fiscal, not redistributive ideology.
-
-##### MCQ 20
-
-**Question:** Which institutional cluster most clearly belongs to market regulation?
-
-- A. Chihalgani, paibos, sijda and caliphal investiture
-- B. Mansabdars, zat and sawar
-- C. zabt, patta and qabauliyat
-- D. Shahna-i-Mandi, merchant registers, banjaras and state granaries
-
-**Answer: D.**
-
-**Explanation:** These are the linked regulatory nodes of the Delhi market system.
-
-##### MCQ 21
-
-**Question:** Sample prices such as wheat at 7 1/2 jitals per man are best used as:
-
-- A. reported schedule markers from Barani via Satish Chandra, with unit caution
-- B. official audited statistics from a modern revenue department
-- C. evidence that merchants disappeared from Delhi
-- D. proof of uniform prices across every province and year
-
-**Answer: A.**
-
-**Explanation:** They are useful only when accompanied by source and scope caution.
-
-##### MCQ 22
-
-**Question:** The grain-granary-banjara system mattered because it:
-
-- A. removed the need for cavalry pay
-- B. connected field extraction to capital provisioning under supervision
-- C. replaced all local mandis
-- D. ended the use of cash in the countryside
-
-**Answer: B.**
-
-**Explanation:** Without this chain, price controls could not stabilise Delhi in practice.
-
-##### MCQ 23
-
-**Question:** Which statement best captures the relation between market control and commerce?
-
-- A. Merchants ceased to exist in Gujarat and Delhi.
-- B. Trade became irrelevant once grain was stored.
-- C. The system regulated and channelled commerce rather than eliminating it.
-- D. Alauddin abolished merchants and trade itself.
-
-**Answer: C.**
-
-**Explanation:** State advances, registers and cloth inflow show controlled commerce, not no commerce.
-
-##### MCQ 24
-
-**Question:** One lasting economic significance attributed to Alauddin's agrarian reforms in Part I is:
-
-- A. the end of all village markets
-- B. the destruction of the town-country relationship
-- C. complete equality in rural society
-- D. the furthering of a market economy and tighter town-country linkage
-
-**Answer: D.**
-
-**Explanation:** Satish Chandra explicitly notes this broader structural effect.
-
-##### MCQ 25
-
-**Question:** Alauddin's reported stance on shara is best read as:
-
-- A. a reason-of-state position that qualified juristic neatness without making him a modern secular ruler
-- B. proof that the ulema fully ruled the state
-- C. evidence that religion was irrelevant to the Sultanate
-- D. a direct constitutional theory of secular citizenship
-
-**Answer: A.**
-
-**Explanation:** The issue is political expediency within a medieval idiom, not modern secularism.
-
-##### MCQ 26
-
-**Question:** Which monument is most directly tied to Alauddin's unfinished imperial ambition?
-
-- A. Quwwat-ul-Islam mosque
-- B. Alai Minar
-- C. Sultan Ghari
-- D. Tughlaqabad
-
-**Answer: B.**
-
-**Explanation:** Alai Minar expresses scale and incompletion in the Khalji phase.
-
-##### MCQ 27
-
-**Question:** The safest statement about Hauz-i-Alai / Hauz Khas is:
-
-- A. it was wholly unrelated to Alauddin
-- B. it was a Mongol frontier fort
-- C. the reservoir is linked to Alauddin, while Firuz later built around the site
-- D. it was built by Akbar as a market reservoir
-
-**Answer: C.**
-
-**Explanation:** Topic 04 must separate original reservoir association from later architectural reuse.
-
-##### MCQ 28
-
-**Question:** Which source is contemporary but also overtly court-panegyrical for Khalji campaigns?
-
-- A. Barani's Fatawa-i Jahandari
-- B. Ibn Battuta
-- C. Abul Fazl
-- D. Amir Khusrau's campaign writing
-
-**Answer: D.**
-
-**Explanation:** Khusrau is invaluable for atmosphere and sequence, but he writes from within court praise.
-
-##### MCQ 29
-
-**Question:** Malik Kafur's post-1316 importance lies chiefly in the fact that he:
-
-- A. became vice-regent and intervened decisively in succession politics
-- B. restored Jalaluddin to the throne
-- C. led the first Mongol invasion of India
-- D. founded the Tughlaq dynasty
-
-**Answer: A.**
-
-**Explanation:** His power after Alauddin's death exposes how unstable the succession structure was.
-
-##### MCQ 30
-
-**Question:** Qutbuddin Mubarak Shah is especially remembered in Topic 04 because he:
-
-- A. wrote Padmavat
-- B. abolished many of Alauddin's agrarian and market controls to gain support
-- C. permanently reunited all Deccan kingdoms with Delhi
-- D. restored many of the earlier controls and tightened market regulation still further
-
-**Answer: B.**
-
-**Explanation:** His reversals show how ruler-dependent the Khalji regime had been.
-
-##### MCQ 31
-
-**Question:** Historiographically, the most useful role of K. S. Lal-type readings in Topic 04 is to:
-
-- A. prove that Barani is unnecessary
-- B. establish Padmavat as contemporary archive
-- C. remind us of the regime's coercive depth, while still qualifying total-control claims
-- D. deny all military logic to the reforms
-
-**Answer: C.**
-
-**Explanation:** Centralisation-heavy readings help foreground coercion, but require scope caution.
-
-##### MCQ 32
-
-**Question:** The best concluding line for Topic 04 is that the Khalji phase:
-
-- A. mattered only for architecture and nothing else
-- B. was simply a literary myth
-- C. ended all later institutional continuity in the Sultanate
-- D. combined major military-fiscal experimentation with impressive but ruler-dependent coercive institutions
-
-**Answer: D.**
-
-**Explanation:** This captures both achievement and fragility.
-
-### Remedial MCQs - trap correction set
-
-##### Remedial MCQ 01
-
-**Question:** Which statement is the best antidote to the label "first socialist"?
-
-- A. Alauddin's controls were primarily military-fiscal, not welfare-ideological.
-- B. Alauddin abolished all private property.
-- C. Barani called the system socialist.
-- D. Alauddin's state redistributed land equally among peasants.
-
-**Answer: A.**
-
-**Explanation:** The policy aimed first at army affordability and Delhi provisioning.
-
-##### Remedial MCQ 02
-
-**Question:** The best correction to a romantic Padmavati-only reading of Chittor is:
-
-- A. Jaisi was Alauddin's court historian
-- B. the 1303 military event is secure, but the later Padmavat layer is literary memory
-- C. Khusrau wrote only about mirrors and romance
-- D. the siege never happened
-
-**Answer: B.**
-
-**Explanation:** This is the core source-critical distinction.
-
-##### Remedial MCQ 03
-
-**Question:** Which claim most clearly overstates the scope of Alauddin's price controls?
-
-- A. They were tied to cavalry affordability.
-- B. They were strongest in Delhi and linked core revenue zones to the capital.
-- C. They operated with equal day-to-day depth across the entire empire from Delhi to Mabar.
-- D. They relied on merchants, carriers and granaries.
-
-**Answer: C.**
-
-**Explanation:** Empire-wide uniformity is precisely what the evidence does not securely prove.
-
-##### Remedial MCQ 04
-
-**Question:** Which statement best corrects a simplistic annexation narrative about the Deccan?
-
-- A. Every Deccan kingdom immediately became a fully administered Delhi province under Alauddin.
-- B. The south had no significance for Delhi.
-- C. Malik Kafur never crossed the Vindhyas.
-- D. Tribute, treasure, restored subordination and later selective annexation must be distinguished.
-
-**Answer: D.**
-
-**Explanation:** Political relations differed sharply across Devagiri, Warangal, Dwarasamudra and Mabar.
-
-##### Remedial MCQ 05
-
-**Question:** Which statement best corrects misuse of Barani?
-
-- A. Barani is indispensable but must be read as a late, moralising aristocratic source.
-- B. Barani is useful only when repeated by later legend.
-- C. Barani should be ignored because he is biased.
-- D. Barani gives modern statistical series.
-
-**Answer: A.**
-
-**Explanation:** Topic 04 depends on Barani, but never uncritically.
-
-##### Remedial MCQ 06
-
-**Question:** Which statement best corrects a Mughal-first misunderstanding?
-
-- A. Dagh was a temple tax.
-- B. Dagh and chehra belong to Alauddin's military control and were later revived or systematised by others.
-- C. Dagh and chehra are only literary metaphors.
-- D. Dagh and chehra were first introduced by Akbar.
-
-**Answer: B.**
-
-**Explanation:** Topic 07's corrected provenance controls this point.
-
-##### Remedial MCQ 07
-
-**Question:** Which statement best corrects a communal overreading of Alauddin's agrarian reforms?
-
-- A. The policy was designed only as a spiritual discipline.
-- B. The policy affected only Muslim nobles.
-- C. The majority of cultivators were non-Muslim, but the policy's core logic was fiscal-military and anti-intermediary.
-- D. The policy had no fiscal logic at all.
-
-**Answer: C.**
-
-**Explanation:** Demography and fiscal logic must both be kept in view.
-
-##### Remedial MCQ 08
-
-**Question:** Which statement best corrects the idea that controlled markets meant the end of trade?
-
-- A. Banjaras were military officers only.
-- B. Gujarat ceased to matter once the market system began.
-- C. Merchants were abolished from Delhi.
-- D. State advances to traders and capital cloth inflow show regulated commerce, not commerce's disappearance.
-
-**Answer: D.**
-
-**Explanation:** The system disciplined trade but depended on traders and carriers.
-
-##### Remedial MCQ 09
-
-**Question:** Which statement best corrects overstatement about Alai Darwaza?
-
-- A. It marks a mature scientific arch-and-dome phase, while the earlier surviving true arch belongs to Balban's tomb in this repository's sequence.
-- B. It was built by Firuz Tughlaq.
-- C. It has no relation to Khalji political ambition.
-- D. It is the earliest surviving true arch in the assigned sequence.
-
-**Answer: A.**
-
-**Explanation:** This is a classic elimination trap in Sultanate art questions.
-
-##### Remedial MCQ 10
-
-**Question:** Which statement best corrects a simplistic reading of the post-1316 collapse?
-
-- A. The Tughlaqs inherited nothing from the Khaljis.
-- B. The rapid succession crisis revealed dependence on the ruler's personal coercive grip.
-- C. Every Khalji institution vanished instantly without residue.
-- D. Alauddin had already created a settled law of primogeniture.
-
-**Answer: B.**
-
-**Explanation:** Institutions remained, but disciplined obedience and succession control broke down.
-
-##### Remedial MCQ 11
-
-**Question:** Which statement best corrects a false reading of Jalaluddin?
-
-- A. Jalaluddin's reign has no ideological significance at all.
-- B. Jalaluddin ruled after Ghiyasuddin Tughlaq.
-- C. Jalaluddin's reported support-based rhetoric helps explain why Alauddin's reversal looked so sharp.
-- D. Jalaluddin was identical to Balban and Alauddin in political tone.
-
-**Answer: C.**
-
-**Explanation:** The contrast is central to understanding the Khalji turn.
-
-##### Remedial MCQ 12
-
-**Question:** Which statement best corrects misuse of the term "Khalji revolution"?
-
-- A. It means a mass peasant uprising against the Turkish state.
-- B. It means universal social equality under the Khaljis.
-- C. It means no continuity at all with the Mamluk order.
-- D. It means a substantial change in ruling-class access and composition within a continuing Delhi Sultanate framework.
-
-**Answer: D.**
-
-**Explanation:** This is the safest definition for UPSC use.
-
 ## PYQS AND ANSWER PRACTICE
 
 ### Verified and routed PYQs
@@ -2637,13 +2110,11 @@ Which of the statements given above is/are correct?
 
 **Why this earns marks:** It fixes the chronology by ruler, separates frontier pressure from the Delhi siege crisis and refuses to validate a statement only because it mentions a familiar Tughlaq name.
 
-**Demand decoding:** Treat “With reference to Indian history, consider the following statements: 1. The first Mongol…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** This is a three-statement elimination question that names three different rulers (Jalaluddin, Alauddin, Muhammad bin Tughlaq); each statement must be checked against its own ruler's chronology rather than treated as one generic claim about "Mongol invasions."
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Eliminate statement 1 first by naming that Mongol pressure on the north-west predates Jalaluddin (already anchored in Iltutmish's reign); confirm statement 2 by naming the 1303 Targhi crisis and Alauddin's defended Siri position; treat statement 3 cautiously since the framed wording does not match this repository's validated Tughlaq-era event; conclude with option (b).
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**How to improve this answer:** For “With reference to Indian history, consider the following statements: 1. The first Mongol…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**How to improve this answer:** Add the specific year (1303) and commander (Targhi) for statement 2 rather than a vague "Mongols besieged Delhi" claim, since UPSC statement-based questions reward exact chronology over generic recognition.
 
 ##### Adjacent PYQ 02 - UPSC GS-I 2020 (verified adjacent source question; primary routing elsewhere, but directly valuable for Topic 04 source criticism)
 
@@ -2663,13 +2134,11 @@ Hence, Persian sources do reflect the spirit of the age - but the spirit they sh
 
 **Why this earns marks:** The answer opens with a clear thesis, uses named sources from the Khalji age, links each source to what it proves, and qualifies each source instead of treating Persian writing as transparent fact.
 
-**Demand decoding:** The directive **comment** requires a direct position on “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Comment" asks for a direct evaluative position on whether Persian sources reflect the age's spirit, not a descriptive list of chronicles; the answer must name at least two sources, show what each proves, and state what each cannot prove.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with the qualified thesis (sources reflect the age, but through a courtly, argumentative lens); use Barani for policy and ordinances with his aristocratic bias flagged; use Khusrau for campaign atmosphere with his panegyric patronage flagged; close by naming the archive's silence on peasants and non-elite voices.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add Isami as a third named source to show the retrospective, Deccan-transition angle, since citing only two chroniclers leaves the "spirit of the age" claim resting on a narrower base than the topic actually supports.
 
 ##### Adjacent PYQ 03 - UPSC GS-I 2023 (verified adjacent Sultanate question; primary routing to broader administration/technology owners)
 
@@ -2691,15 +2160,13 @@ Therefore, Sultanate technological change mattered profoundly, but its historica
 
 **Why this earns marks:** It answers both parts of the question, uses precise Khalji-era examples, and converts technology into social and political consequences rather than listing devices mechanically.
 
+**Demand decoding:** The question has two explicit parts - "what changed" and "how did it influence society" - so a one-part answer listing only techniques without their social effect loses half the available marks.
+
+**Executable exam-length answer / compression plan:** List construction (true arch, dome, mortar), military-administrative (dagh, chehra) and textile/craft changes as the "what"; then dedicate the closing third of the answer explicitly to the "how", naming that these changes strengthened states, armies, merchants and courts more than they emancipated cultivators.
+
+**How to improve this answer:** Add one concrete building example beyond Alai Darwaza and Siri (such as a specific textile or irrigation technique named in the sources) to avoid over-relying on Khalji architecture alone for a Sultanate-wide question.
+
 ### Original solved Mains practice
-
-**Demand decoding:** The directive **answer** requires a direct position on “What were the major technological changes introduced during the Sultanate period? How did…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “What were the major technological changes introduced during the Sultanate period? How did…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### 10-mark Question 01
 
@@ -2719,13 +2186,11 @@ Thus, the term is useful only when limited to **ruling-class composition and pol
 
 **Why this earns marks:** It answers the directive directly, uses Satish Chandra's core insight, distinguishes elite from society and ends with a graded verdict.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Was the Khalji "revolution" more a reconfiguration of the ruling class than a social…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Discuss" requires taking a clear side on the reconfiguration-versus-revolution question within 150 words, not a neutral summary of both possible readings.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** State the verdict (reconfiguration, not revolution) in the opening line; support it with the ended Turkish monopoly of high office as positive evidence; balance it with continued Delhi-centred institutions and unchanged peasant condition as the limiting evidence; close in one line.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Was the Khalji "revolution" more a reconfiguration of the ruling class than a social…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name Malik Kafur specifically as an example of the widened elite Alauddin himself promoted, since a concrete post-1296 example strengthens the "reconfiguration" claim beyond the 1290 accession alone.
 
 #### 10-mark Question 02
 
@@ -2745,13 +2210,11 @@ Hence Mongol pressure did not produce only military response; it drove revenue r
 
 **Why this earns marks:** It converts frontier danger into an institutional chain rather than narrating battles in isolation.
 
-**Demand decoding:** The directive **explain** requires a direct position on “How did Mongol pressure reshape Alauddin Khalji's state? Explain. (Answer in 150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Explain" wants the causal mechanism linking Mongol pressure to state reform, not a battle-by-battle narrative of 1299-1305.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with the three named crises (1299 Kili, 1303 Siri-Delhi, 1305 Amroha) as the trigger; move directly to army reform (dagh, chehra, forts); close with the fiscal chain (doab revenue, grain movement, fixed prices) that made the army affordable.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “How did Mongol pressure reshape Alauddin Khalji's state? Explain. (Answer in 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add the reported 238-tanka cavalry pay figure with its unit caveat, since a named number anchors the "affordability" claim more precisely than a general statement about cheap provisions.
 
 #### 15-mark Question 01
 
@@ -2773,13 +2236,11 @@ Thus, the regulations were integrated, innovative and effective in context, but 
 
 **Why this earns marks:** The answer uses the required mechanism, names the offices, links rural and urban policy, and finishes with scope and durability limits.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine Alauddin Khalji's market regulations as an integrated military-fiscal system.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Examine" wants the internal mechanism of the market system laid out step by step, not a list of institutions without their causal links.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open with the Mongol-necessity thesis; trace the chain from doab revenue and khalisa control through banjara/granary transport to the Shahna-i-Mandi and Diwan-i-Riyasat's urban enforcement; close with the Delhi-centred, coercion-dependent limit.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Examine Alauddin Khalji's market regulations as an integrated military-fiscal system.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name at least one sample Barani-reported price (such as wheat at 7 1/2 jitals per man) with its unit caveat to show precise command of the evidence rather than describing the system only in institutional terms.
 
 #### 15-mark Question 02
 
@@ -2801,13 +2262,11 @@ A good UPSC answer therefore says: **Chittor 1303 is historically secure; Padmav
 
 **Why this earns marks:** It uses named evidence, honours literary significance without surrendering chronology, and shows exactly how source criticism operates.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the secure political-military evidence on Chittor from the later Padmavat…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Distinguish" requires a structured two-layer comparison (secure event versus later legend), not a single continuous narrative that blends both.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open by naming Khusrau as the near-contemporary anchor for the siege; add the courtly-panegyric caveat on his conquest rhetoric as a second layer; introduce Jaisi's sixteenth-century Padmavat as the third, clearly later layer; close with the verdict that both layers matter but answer different questions.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Distinguish the secure political-military evidence on Chittor from the later Padmavat…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add the two-century gap explicitly (1303 to Jaisi's sixteenth-century composition) as a numeric anchor, since naming the actual time gap is more persuasive than simply asserting that Padmavat is "later" without a number.
 
 #### 20-mark Question 01
 
@@ -2829,13 +2288,11 @@ Therefore, Alauddin's market control was a remarkable but bounded military-fisca
 
 **Why this earns marks:** It directly addresses the quotation, uses named evidence, shows mechanism, rejects two false binaries, and closes with a balanced critical verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on “"Alauddin Khalji's price control was neither socialism nor mere anti-merchant tyranny, but…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Critically evaluate" a quoted thesis with two named false binaries (socialism, anti-merchant tyranny) means the answer must explicitly reject both alternatives with evidence, not merely restate the given quotation as a conclusion.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open by accepting the quotation's thesis; build the Mongol-crisis-to-market-system causal chain as the main evidence body; explicitly refute "socialism" (coercion, not welfare) and "anti-merchant tyranny" (traders received state advances) as the two named alternatives; close with the Delhi-centred, ruler-dependent limit.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “"Alauddin Khalji's price control was neither socialism nor mere anti-merchant tyranny, but…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add the post-1316 collapse (Mubarak Shah's reversals) as direct evidence for the "bounded" and "not modern socialism" conclusion, since a system built for redistribution would not have been unwound for political convenience within a year of the ruler's death.
 
 #### 20-mark Question 02
 
@@ -2857,13 +2314,11 @@ Thus, the Khaljis achieved a major expansion and an extraordinary hardening of t
 
 **Why this earns marks:** It is organised by the exact themes in the question, uses concrete examples in each theme, and ends with a graded verdict instead of a flat celebration.
 
-**Demand decoding:** The directive **answer** requires a direct position on “What were the major technological changes introduced during the Sultanate period? How did…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** "Assess" three named dimensions (expansion, elite control, state formation) requires the answer to visibly organise itself by those three headings, each carrying its own achievement and its own limit, rather than one undifferentiated narrative.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Take the three dimensions in the question's own order; for each, name one achievement (widened elite, Gujarat/Malwa/Deccan reach, dagh/chehra/market system) immediately followed by its specific limit (uneven Deccan control, coercion-dependence, ruler-dependent succession); close with the single graded verdict linking all three limits to the post-1316 collapse.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “What were the major technological changes introduced during the Sultanate period? How did…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one explicit transition sentence connecting the three themes (wider elite staffed the harsher state, which financed the Deccan opening) so the three-part structure reads as one argument rather than three separate mini-essays.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 

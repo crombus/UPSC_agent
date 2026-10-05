@@ -2,7 +2,10 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-cooperation linkage.
 > **Core area:** Comparative multilateral environmental treaty architecture.
-> **Grounded in:** Convention on Biological Diversity (CBD, 1992); Basel Convention (1989); Stockholm Convention on POPs (2001); Montreal Protocol (1987); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Convention on Biological Diversity (CBD, 1992); Basel Convention (1989);
+> Rotterdam Convention (1998); Stockholm Convention on POPs (2001); Montreal Protocol (1987),
+> including the London (1990) and Kigali (2016) Amendments; audited UPSC Environment PYQs
+> (2024-2026 Prelims and 2024-2025 Mains). Treaty status checked to **5 October 2026**.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md`.*
 
@@ -34,11 +37,13 @@ precise, non-overlapping identification of each convention's specific scope.
 | ✅ **Kunming-Montreal Global Biodiversity Framework (CBD COP15, 2022)** | The CBD's current global strategic framework, including the widely cited "30x30" target (conserving 30% of terrestrial and marine areas by 2030). |
 | ✅ **Cartagena Protocol on Biosafety (2000)** | The CBD's first protocol, governing the safe transfer, handling and use of **living modified organisms (LMOs)** across borders, using the **advance informed agreement** procedure and grounded in the precautionary approach. Its **Nagoya-Kuala Lumpur Supplementary Protocol (2010)** deals with liability and redress. |
 | ✅ **Nagoya Protocol (2010)** | The CBD's second protocol, on **access to genetic resources and the fair and equitable sharing of benefits (ABS)** arising from their utilisation — the international instrument India's Biological Diversity Act architecture implements domestically. |
-| ✅ **Basel Convention (1989)** | Treaty controlling transboundary movements of hazardous wastes and their disposal, based on prior informed consent between exporting and importing countries. Its **Ban Amendment** (in force from December 2019) prohibits export of hazardous wastes from OECD/EU countries and Liechtenstein to all other Parties, and its **plastic-waste amendments** (adopted 2019, effective January 2021) brought most contaminated and mixed plastic scrap into the prior-informed-consent regime. |
-| ✅ **Rotterdam Convention (1998)** | The third member of the chemicals-and-waste cluster: it applies **Prior Informed Consent (PIC)** to international trade in listed hazardous chemicals and pesticides — Parties must be informed and consent before receiving them. Basel, Rotterdam and Stockholm are jointly administered and hold **back-to-back "BRS" COPs**. |
-| ✅ **Stockholm Convention (2001)** | Treaty aiming to eliminate or restrict production and use of Persistent Organic Pollutants (POPs) — chemicals that resist degradation, bioaccumulate, and are toxic. It began with the **"dirty dozen"** and operates through three annexes: **Annex A (elimination)**, **Annex B (restriction** — the standard example being DDT, retained for disease-vector control**)** and **Annex C (unintentional production**, e.g., dioxins and furans**)**. |
-| ✅ **Vienna Convention (1985) and Montreal Protocol (1987)** | The Vienna Convention is the **framework** treaty for protection of the ozone layer; the **Montreal Protocol** is the operative protocol under it, phasing out production and consumption of ozone-depleting substances (CFCs, halons and others), supported by a dedicated **Multilateral Fund** financing developing-country compliance. |
-| ✅ **Kigali Amendment (2016, to the Montreal Protocol)** | Amendment extending the Protocol's phase-down mandate to hydrofluorocarbons (HFCs) — potent greenhouse gases that, while not ozone-depleting, are regulated under this ozone treaty due to its proven institutional effectiveness. |
+| ✅ **Basel Convention (1989)** | Treaty controlling transboundary movements and disposal/recovery of hazardous and other covered wastes. Its original control chain is **classification → advance notification → written import consent (and transit response where applicable) → movement documents → environmentally sound management (ESM)**. PIC does not legalise dumping and the Convention does not prohibit every waste shipment. |
+| ✅ **Basel Ban Amendment (1995)** | In force internationally from **5 December 2019**. An **Annex VII Party bound by the Amendment** must prohibit exports to a **non-Annex VII State** of hazardous wastes covered by the Convention for Annex IV A final-disposal operations, and of Article 1(1)(a) hazardous wastes for Annex IV B recovery/recycling operations. Annex VII comprises OECD members, the European Union and Liechtenstein, but **Annex VII status—not OECD shorthand—is the operative treaty category**. |
+| ✅ **Rotterdam Convention (1998)** | Applies a **Prior Informed Consent (PIC) procedure** to chemicals listed in Annex III. An importing Party issues a general **import response**—consent, no consent or consent subject to conditions—which the Secretariat circulates; exporting Parties must ensure exporters comply. The Chemical Review Committee (CRC) reviews qualifying notifications/proposals and recommends listing, but the COP decides whether to add a chemical to Annex III. Rotterdam PIC is not a global ban or Basel-style shipment-by-shipment waste consent. |
+| ✅ **Stockholm Convention (2001)** | Controls POPs through a staged process: Annex D screening, Annex E risk profile and Annex F risk-management evaluation by the POPs Review Committee (POPRC), followed by a COP decision. **Annex A** requires elimination subject to listed specific exemptions; **Annex B** restricts production/use to acceptable purposes or exemptions (DDT is the standard example); **Annex C** requires reduction and, where feasible, ultimate elimination of unintentional releases such as dioxins and furans. |
+| ✅ **Vienna Convention (1985) and Montreal Protocol (1987)** | Vienna is the ozone-science/cooperation framework; Montreal is the operative protocol controlling treaty-defined production and consumption. The original **Annex A** covered specified CFCs and halons. Later amendments added further controlled groups and stronger institutions. |
+| ✅ **London Amendment (1990)** | Adopted on **29 June 1990** and in force from **10 August 1992**. It added **Annex B** controls for other fully halogenated CFCs, carbon tetrachloride and 1,1,1-trichloroethane (methyl chloroform), and established the Article 10 financial mechanism that includes the **Multilateral Fund** for agreed incremental compliance costs of eligible Article 5 Parties. |
+| ✅ **Kigali Amendment (2016, to the Montreal Protocol)** | Added **Annex F HFCs** and differentiated production/consumption **phase-down** schedules. HFCs are potent greenhouse gases but generally not ozone-depleting; Kigali does not convert them into ODS or require a universal zero phase-out. |
 
 ## 3. Topic mechanism
 
@@ -47,41 +52,45 @@ precise, non-overlapping identification of each convention's specific scope.
    Kunming-Montreal Global Biodiversity Framework) setting collective global targets that
    parties then translate into domestic action (in India, via the Biological Diversity Act,
    2002, cross-refer Topic 04).
-2. The Basel Convention specifically targets the historical problem of hazardous waste being
-   exported from wealthier countries to developing countries with weaker regulatory/disposal
-   capacity, requiring prior informed consent from the importing country before any
-   transboundary hazardous-waste shipment.
-3. The Stockholm Convention lists specific Persistent Organic Pollutant chemicals for
-   elimination or restricted use, based on scientific evidence of their persistence,
-   bioaccumulation and toxicity, with periodic Conference of the Parties reviews adding new
-   chemicals to its control lists.
-4. The Montreal Protocol set a binding phase-out schedule for ozone-depleting substances
-   (CFCs, halons, and others), which has been substantially successful in enabling
-   observed ozone-layer recovery — its widely cited status as the most successful
-   multilateral environmental agreement stems from its combination of clear, binding
-   phase-out timelines, financial/technology-transfer support for developing countries, and
-   near-universal ratification.
-5. The Montreal Protocol's Kigali Amendment (2016) extended its regulatory reach to
+2. Basel controls a proposed transboundary waste movement through classification, notification,
+   written consent, movement documentation and ESM. Its Ban Amendment is a narrower prohibitory
+   layer for specified **Annex VII-to-non-Annex VII** exports and binds only Parties that have
+   accepted it; neither the original Convention nor the Amendment means that all hazardous-waste
+   trade everywhere is illegal.
+3. Rotterdam regulates **listed chemicals and pesticides in trade**, not waste. Its PIC procedure
+   records and circulates an importing Party's general decision for an Annex III chemical.
+   Qualifying national notifications or a severely hazardous pesticide formulation proposal are
+   reviewed by the CRC; the COP, not the CRC, makes the Annex III listing decision.
+4. Stockholm regulates POPs through chemical-specific treaty controls. POPRC applies the Annex
+   D/E/F sequence and recommends; the COP decides whether the chemical enters Annex A, B or C and
+   whether specific exemptions or acceptable purposes apply. Scientific concern alone does not
+   create an operative listing.
+5. Montreal set binding schedules for treaty-defined production and consumption of controlled
+   ODS. Its annex architecture developed from Annex A CFCs/halons through the London Amendment's
+   Annex B substances and later controls including Annex C HCFCs and Annex E methyl bromide.
+   The London Amendment also supplied the Article 10 financial mechanism and Multilateral Fund,
+   pairing differentiated schedules with finance and technology.
+6. The Montreal Protocol's Kigali Amendment (2016) extended its regulatory reach to
    hydrofluorocarbons (HFCs) — chemicals that were originally adopted as ozone-safe
-   replacements for CFCs but are themselves potent greenhouse gases — illustrating how an
-   existing, proven treaty architecture can be extended to address a related but distinct
-   environmental problem (climate change) rather than negotiating an entirely new
-   instrument.
+   replacements for ODS but are themselves potent greenhouse gases. Kigali added Annex F and a
+   **phase-down**, not the ODS phase-out architecture, illustrating how an existing institution
+   can address a related but legally distinct climate problem.
 
 ## 4. Institutions and policy tools
 
 - ✅ **CBD Secretariat (Montreal, Canada):** administers the Convention on Biological
   Diversity.
-- ✅ **Basel Convention Secretariat (under UNEP):** administers the hazardous-waste treaty.
-- ✅ **Stockholm Convention Secretariat (under UNEP):** administers the POPs treaty.
-- ✅ **Rotterdam Convention Secretariat (jointly with Basel and Stockholm, under UNEP):**
-  administers the Prior Informed Consent procedure for listed hazardous chemicals and
-  pesticides; the three conventions share a joint secretariat and back-to-back COPs.
+- ✅ **Basel and Stockholm Convention secretariats (administered by UNEP):** serve their
+  respective waste and POPs treaties.
+- ✅ **Rotterdam Convention Secretariat (jointly provided by FAO and UNEP):** FAO serves the
+  Rome component and UNEP the Geneva component. The BRS synergies process coordinates services,
+  staffing and back-to-back COPs while preserving the three conventions' separate legal mandates.
 - ✅ **Ozone Secretariat (under UNEP):** administers the Vienna Convention and Montreal
   Protocol.
-- ✅ **Multilateral Fund for the Implementation of the Montreal Protocol:** finances
-  developing-country compliance — the feature most often credited for the Protocol's
-  near-universal ratification and effectiveness.
+- ✅ **Multilateral Fund for the Implementation of the Montreal Protocol:** part of the
+  London-Amendment Article 10 financial mechanism; meets agreed incremental costs of eligible
+  Article 5 Parties through conversion projects, technical assistance, training and
+  institutional strengthening.
 - ✅ **MoEFCC:** India's nodal ministry for implementation of and negotiation under all four
   conventions.
 
@@ -92,8 +101,14 @@ precise, non-overlapping identification of each convention's specific scope.
 - ⚠️ India's hazardous-waste import/export regulations (under domestic hazardous-waste
   management rules) implement its Basel Convention obligations, particularly relevant given
   historical controversies around ship-breaking and e-waste import issues.
+- ✅ As of **5 October 2026**, India is bound by the Basel plastic-waste and e-waste annex
+  amendments but has **not accepted the Ban Amendment**. Domestic import restrictions may be
+  stricter than the treaty minimum, so non-party status must not be rewritten as unrestricted
+  permission to import hazardous waste.
 - ⚠️ India has phased out or restricted various POPs pesticides under its Stockholm
   Convention obligations, coordinated with agricultural and industrial-chemical regulation.
+- ✅ India made the Stockholm Convention's **Article 25(4) declaration**: later annex
+  amendments bind India only after India deposits its acceptance for the specific amendment.
 - ⚠️ India's implementation of the Montreal Protocol (including the Kigali Amendment's
   HFC phase-down) involves coordinated action across refrigeration, air-conditioning and
   foam-manufacturing industries, given HFCs' widespread use as refrigerants.
@@ -102,9 +117,12 @@ precise, non-overlapping identification of each convention's specific scope.
 
 - ✅ The CBD has three specific objectives: conservation, sustainable use, and benefit-
   sharing — not conservation alone.
-- ✅ The Basel Convention specifically addresses transboundary hazardous-waste movement,
-  based on the prior-informed-consent principle.
-- ✅ The Stockholm Convention specifically targets Persistent Organic Pollutants (POPs).
+- ✅ Basel PIC controls a **waste movement** through notification, written consent,
+  documentation and ESM; legal consent does not make every resulting disposal lawful.
+- ✅ Rotterdam PIC circulates a Party's import response for an **Annex III chemical**; CRC
+  recommends listing and the COP decides.
+- ✅ Stockholm targets POPs through POPRC scientific review and COP placement in Annex A, B or
+  C; elimination, restriction and unintentional-release reduction are different obligations.
 - ✅ The Montreal Protocol (1987) is widely regarded as the most successful multilateral
   environmental agreement, credited with enabling observed ozone-layer recovery.
 - ✅ The Kigali Amendment (2016) extended the Montreal Protocol's mandate to
@@ -112,16 +130,24 @@ precise, non-overlapping identification of each convention's specific scope.
   ozone-depleting.
 - ✅ The CBD has **two protocols**: the **Cartagena Protocol on Biosafety (2000)** on living
   modified organisms, and the **Nagoya Protocol (2010)** on access and benefit-sharing.
-- ✅ **Basel, Rotterdam and Stockholm** form the jointly administered **"BRS" chemicals-and-
-  waste cluster** and hold back-to-back COPs; the **Rotterdam Convention (1998)** applies the
-  Prior Informed Consent procedure to trade in listed hazardous chemicals and pesticides.
-- ✅ The **Basel Ban Amendment** entered into force in **December 2019**; **plastic-waste
-  amendments** adopted in 2019 took effect in **January 2021**.
+- ✅ **Basel, Rotterdam and Stockholm** form the coordinated **BRS chemicals-and-waste
+  cluster** and hold back-to-back COPs. Rotterdam's Secretariat is jointly provided by
+  **FAO and UNEP**; coordination does not merge the treaty mandates.
+- ✅ The **Basel Ban Amendment** entered into force on **5 December 2019** for accepting
+  Parties. Its operative geographical test is **Annex VII → non-Annex VII**, not
+  developed/developing or OECD/non-OECD shorthand.
+- ✅ Basel plastic-waste amendments became effective on **1 January 2021** and e-waste
+  amendments on **1 January 2025** for Parties bound by them.
 - ✅ Stockholm's three annexes are **A (elimination), B (restriction — DDT), C (unintentional
   production — dioxins/furans)**.
 - ✅ The **Vienna Convention (1985)** is the framework treaty; the **Montreal Protocol (1987)**
-  is the operative instrument under it, financed for developing countries by the
-  **Multilateral Fund**.
+  is the operative control instrument.
+- ✅ The **London Amendment**, adopted on **29 June 1990** and in force from **10 August
+  1992**, added Annex B controlled substances and the Article 10 financial mechanism including
+  the Multilateral Fund.
+- ✅ Montreal's controlled-substance map is: Annex A CFCs/halons; Annex B other fully
+  halogenated CFCs, carbon tetrachloride and methyl chloroform; Annex C includes HCFCs; Annex E
+  covers methyl bromide; Kigali's Annex F covers HFCs.
 - ✅ Under Kigali, developing countries phase HFCs **down** (not out) on differentiated
   schedules; India is in the later of the two developing-country groups. ⚠️ Verify India's
   exact baseline years, freeze year and step-down percentages against the Ozone Secretariat
@@ -150,8 +176,17 @@ precise, non-overlapping identification of each convention's specific scope.
 - ❌ Kigali requires developing countries to phase **out** HFCs. -> It mandates a phase-**down**
   on differentiated schedules, not elimination.
 - ❌ The Basel Convention bans all hazardous-waste trade. -> The Convention itself imposes
-  prior informed consent; the separate **Ban Amendment** (in force December 2019) prohibits
-  export specifically from OECD/EU/Liechtenstein to other Parties.
+  PIC, documentation and ESM controls. The separate Ban Amendment applies, for accepting
+  Parties, to specified **Annex VII-to-non-Annex VII** exports; its final-disposal and
+  recovery limbs do not use identical waste wording.
+- ❌ Rotterdam PIC means that an importing state signs a fresh consent for every shipment. ->
+  Rotterdam records a general import response for an Annex III chemical; Basel controls an
+  individual proposed waste movement through notification and consent.
+- ❌ POPRC itself bans a chemical once it finds persistence or toxicity. -> POPRC completes
+  the Annex D/E/F review and recommends; the Stockholm COP adopts any Annex A/B/C amendment.
+- ❌ The London Amendment and Kigali Amendment regulate the same chemical problem. -> London
+  strengthened ODS controls, added Annex B substances and finance; Kigali added Annex F HFC
+  climate phase-down.
 - ❌ DDT is banned outright under the Stockholm Convention. -> It sits in **Annex B
   (restriction)**, permitting continued use for disease-vector control under specified
   conditions.
@@ -169,9 +204,17 @@ precise, non-overlapping identification of each convention's specific scope.
   latest National Biodiversity Strategy and Action Plan update before citing specific
   domestic progress figures.
 
-⚠️ **Interpretation caution:** each convention's Conference of the Parties periodically
-updates its specific chemical/substance lists (Stockholm) or strategic targets (CBD) — cite
-the specific COP year for any listed-chemical or target claim.
+- 📰 **2025 BRS COPs:** Basel COP17 adopted its 2025-2031 Strategic Framework; Rotterdam COP12
+  added carbosulfan and the specified fenthion formulation to Annex III; Stockholm COP12
+  adopted new Annex A amendments. Each decision follows its own treaty entry and Party-status
+  rule; a common meeting week does not create a common legal effect.
+- 📰 **Montreal status at 5 October 2026:** MOP37 met in Nairobi in November 2025; ExMOP6
+  resolved the outstanding 2026 Implementation Committee membership in July 2026; MOP38 was
+  scheduled for **2-6 November 2026** and had not yet occurred.
+
+⚠️ **Interpretation caution:** cite the specific COP/MOP decision, depositary communication
+and Party-status rule. Proposed, recommended, adopted, entered into force and implemented are
+different statuses.
 
 ## 9. PYQ application
 
@@ -184,7 +227,8 @@ the specific COP year for any listed-chemical or target claim.
 ## 10. Mains angles
 
 - ⚠️ Argue that the Montreal Protocol's success (binding, time-bound phase-out; finance and
-  technology-transfer support for developing countries; near-universal ratification)
+  technology-transfer support for developing countries; universal ratification of the
+  Protocol, while amendments retain separate consent status)
   provides a replicable template for other, currently less-effective multilateral
   environmental agreements.
 - ⚠️ Use the Kigali Amendment's extension of an existing ozone treaty to a climate problem
@@ -214,19 +258,51 @@ the specific COP year for any listed-chemical or target claim.
   Convention obligations.
 - ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — HFCs' role as potent greenhouse
   gases under the Kigali Amendment.
+
+### Persistent official treaty controls — checked 5 October 2026
+
+- Basel Convention text and Ban Amendment:
+  <https://www.basel.int/TheConvention/Overview/TextoftheConvention/tabid/1275/Default.aspx>
+  and
+  <https://www.basel.int/Implementation/LegalMatters/BanAmendment/QuestionsandAnswers/tabid/3596/Default.aspx>.
+- Basel amendment status:
+  <https://www.basel.int/Countries/StatusofRatifications/BanAmendment/tabid/1344/Default.aspx>,
+  <https://www.basel.int/Countries/StatusofRatifications/PlasticWasteamendments/tabid/8377/Default.aspx>
+  and
+  <https://www.basel.int/Countries/StatusofRatifications/EwasteAmendments/tabid/10103/Default.aspx>.
+- Rotterdam PIC, CRC and Secretariat:
+  <https://www.pic.int/Procedures/PICProcedure/tabid/1364>,
+  <https://www.pic.int/TheConvention/ChemicalReviewCommittee/OverviewandMandate/tabid/1059/language/en-US/Default.aspx>
+  and
+  <https://www.brsmeas.org/Secretariat/Overview/tabid/3609/language/en-US/Default.aspx>.
+- Stockholm listing procedure and annex status:
+  <https://www.pops.int/TheConvention/POPsReviewCommittee/tabid/2732/Default.aspx> and
+  <https://chm.pops.int/Countries/StatusofRatifications/Amendmentstoannexes/tabid/3486/Default.aspx>.
+- 2025 BRS decisions:
+  <https://www.basel.int/Portals/4/download.aspx?d=UNEP-CHW-COP.17-BC-17-1.English.pdf>,
+  <https://www.pic.int/TheConvention/Chemicals/AnnexIIIChemicals/tabid/1132/language/en-US/Default.aspx>
+  and <https://www.pops.int/TheConvention/ConferenceoftheParties/Meetings/COP12/tabid/9744/Default.aspx>.
+- Ozone Secretariat controls:
+  <https://ozone.unep.org/treaties/montreal-protocol>,
+  <https://ozone.unep.org/treaties/montreal-protocol/amendments/london-amendment-1990-amendment-montreal-protocol-agreed>,
+  <https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism>
+  and <https://ozone.unep.org/treaties/montreal-protocol/annex-f-hydrofluorocarbons>.
+
 ## 13. Core answer architecture (10/15/20-mark support)
 
 ### 13.1 Demand decoder and thesis
 
-- First state the **environmental object**, then its mechanism: biodiversity/ABS; hazardous-waste movement; POP chemical controls; ozone-depleting-substance phase-down.
+- First state the **environmental object**, then its mechanism: biodiversity/ABS; hazardous-
+  waste movement; Rotterdam chemical-trade PIC; POP controls; ODS phase-out; Annex F HFC
+  phase-down.
 - **Thesis:** convention performance depends on fit between problem, bindingness, finance, monitoring and domestic translation; one treaty’s success cannot be copied mechanically to a different problem.
 
 ### 13.2 Reusable comparative evidence units
 
 | Claim | Named evidence/example → significance | Qualification |
 |---|---|---|
-| Subject and mechanism are not interchangeable. | **CBD three objectives/Nagoya ABS; Basel PIC; Stockholm Annex A/B/C; Vienna–Montreal phase-out** → prevents treaty-name fact dumping. | Do not call Basel a chemical-production ban or Montreal a standalone convention. |
-| Design helps explain Montreal’s relative success. | **Binding schedules + Multilateral Fund + bounded substance list + Kigali adaptation** → connects compliance support and adaptability. | “Successful” does not mean every ozone/climate problem is solved or that HFCs are ozone-depleting. |
+| Subject and mechanism are not interchangeable. | **CBD three objectives/Nagoya ABS; Basel shipment PIC; Rotterdam Annex III import responses; Stockholm Annex A/B/C; Vienna-Montreal ODS phase-out** → prevents treaty-name fact dumping. | Do not turn Rotterdam into a waste treaty, Basel into a chemical-production ban or Montreal into a standalone convention. |
+| Design helps explain Montreal’s relative success. | **Binding ODS schedules + London-Amendment finance/Annex B expansion + Multilateral Fund + Kigali Annex F adaptation** → connects compliance support and adaptability. | “Successful” does not mean every ozone/climate problem is solved; HFC phase-down is legally and chemically distinct from ODS phase-out. |
 | Information changes benefit-sharing. | **CBD COP16 Cali Fund/DSI and India’s 2025 ABS Regulations** → shows genetic information can bypass a physical-sample access model. | A fund’s establishment is not evidence of completed distribution to communities. |
 
 ### 13.3 Mark-scaled spines

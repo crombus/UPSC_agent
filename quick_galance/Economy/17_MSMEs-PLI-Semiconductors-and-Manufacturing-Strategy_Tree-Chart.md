@@ -31,7 +31,8 @@ MANUFACTURING STRATEGY
 | Small | investment <= Rs 25 crore AND turnover <= Rs 100 crore |
 | Medium | investment <= Rs 125 crore AND turnover <= Rs 500 crore |
 | CGTMSE | eligible facilities up to Rs 10 crore from 1 April 2025; guarantee != grant |
-| TReDS | RBI Directions effective 23 June 2026; accepted receivables, multiple financiers, without recourse to seller |
+| TReDS | RBI Directions effective 23 June 2026; accepted receivables, multiple financiers, without recourse to
+   seller |
 | RAMP | Rs 6,062.45 crore; FY2022-FY2027; target 555,000 MSMEs |
 | ECLGS | emergency legacy; operational only through 31 March 2023 |
 | PLI | fourteen sectors; about Rs 1.97 lakh crore umbrella outlay; sector rules vary |
@@ -56,7 +57,9 @@ MANUFACTURING STRATEGY
 
 ## PLI DECODER
 
-**Fourteen sectors:** mobile/specified electronics; IT hardware; telecom/networking; pharmaceuticals; bulk drugs; medical devices; automobiles/components; ACC batteries; high-efficiency solar PV; white goods; food processing; MMF/technical textiles; speciality steel; drones/components.
+**Fourteen sectors:** mobile/specified electronics; IT hardware; telecom/networking; pharmaceuticals; bulk
+   drugs; medical devices; automobiles/components; ACC batteries; high-efficiency solar PV; white goods; food
+   processing; MMF/technical textiles; speciality steel; drones/components.
 
 | Instrument | Trigger/channel |
 |---|---|
@@ -65,7 +68,8 @@ MANUFACTURING STRATEGY
 | Tariff | raises import price |
 | Procurement preference | changes public-buyer demand |
 
-**Evaluation chain:** outlay -> approval -> investment -> production -> claim -> disbursement -> DVA/productivity/jobs/exports/spillovers -> counterfactual additionality -> sunset.
+**Evaluation chain:** outlay -> approval -> investment -> production -> claim -> disbursement ->
+   DVA/productivity/jobs/exports/spillovers -> counterfactual additionality -> sunset.
 
 ## SEMICONDUCTOR DECODER
 
@@ -90,7 +94,8 @@ MANUFACTURING STRATEGY
 - Crystal Matrix, Dholera: integrated compound-semiconductor fab plus ATMP approved 5 May 2026.
 - Suchi Semicon, Surat: OSAT approved 5 May 2026.
 
-**Status rule:** approval != fiscal-support agreement != groundbreaking != inauguration != commercial production != verified utilisation/yield.
+**Status rule:** approval != fiscal-support agreement != groundbreaking != inauguration != commercial production
+   != verified utilisation/yield.
 
 ## PRELIMS TRAPS
 
@@ -107,6 +112,8 @@ MANUFACTURING STRATEGY
 
 ## MAINS SPINE
 
-`Define -> dated perimeter -> failure -> instrument -> transmission -> named evidence -> DVA/productivity/jobs/exports/suppliers -> competition/fiscal/WTO risk -> evaluation -> sunset`
+`Define -> dated perimeter -> failure -> instrument -> transmission -> named evidence ->
+   DVA/productivity/jobs/exports/suppliers -> competition/fiscal/WTO risk -> evaluation -> sunset`
 
-**Boundaries:** Topic 16 owns industrial-policy evolution/PSU-disinvestment; Topic 18 owns detailed infrastructure, PPP and public-investment architecture.
+**Boundaries:** Topic 16 owns industrial-policy evolution/PSU-disinvestment; Topic 18 owns detailed
+   infrastructure, PPP and public-investment architecture.

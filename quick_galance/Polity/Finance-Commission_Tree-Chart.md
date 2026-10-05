@@ -1,6 +1,7 @@
 # FINANCE COMMISSION - QUICK-GLANCE TREE
 
-**Control date:** 8 September 2026 | **Core idea:** periodic constitutional equalisation through tax devolution, grants and transparent federal reasoning.
+**Control date:** 8 September 2026 | **Core idea:** periodic constitutional equalisation through tax devolution,
+   grants and transparent federal reasoning.
 
 ```text
 FINANCE COMMISSION
@@ -114,7 +115,8 @@ FINANCE COMMISSION
 
 ## DECODED TERMS
 
-- **Divisible pool:** CAG-certified net proceeds of taxes constitutionally shareable under Article 270 after exclusions and collection cost.
+- **Divisible pool:** CAG-certified net proceeds of taxes constitutionally shareable under Article 270 after
+   exclusions and collection cost.
 - **Vertical devolution:** States' collective percentage of that pool.
 - **Horizontal devolution:** distribution of the States' collective share among States.
 - **Equalisation:** transfer design reducing disparities in fiscal capacity and service cost.
@@ -128,4 +130,6 @@ FINANCE COMMISSION
 
 ## QUALIFIED CONCLUSION
 
-The Finance Commission is advisory in form but foundational in fiscal-federal practice. Its legitimacy depends on a transparent shareable base, equalising yet incentive-compatible allocation, adequate State autonomy, timely State-local devolution and stage-wise accountability from recommendation to audited release.
+The Finance Commission is advisory in form but foundational in fiscal-federal practice. Its legitimacy depends
+   on a transparent shareable base, equalising yet incentive-compatible allocation, adequate State autonomy, timely
+   State-local devolution and stage-wise accountability from recommendation to audited release.

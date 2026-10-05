@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/12: Scope: decline of command, not disappearance
+ASCII MASTER FLOW — PANEL 1/16: Scope: decline of command, not disappearance
 1707 -> imperial command weakens; dynasty, titles and Persianate grammar endure
 CORE WINDOW -> succession, factions, jagirs, regions and Nadir Shah to the 1740s
 NOT THE CLAIM -> instant 1707 collapse, universal Indian decline or Company inevitability
@@ -7,64 +7,93 @@ MUST REMEMBER: Aurangzeb's death in 1707 begins the core sequence; succession wa
   competition, jagirdari-fiscal stress, regional assertion and Nadir Shah's 1739 invasion
   interacted.
 
-ASCII MASTER FLOW — PANEL 2/12: Chronology from Aurangzeb to the 1740s
+ASCII MASTER FLOW — PANEL 2/16: Chronology from Aurangzeb to the 1740s
 1707 Aurangzeb dies -> Bahadur Shah I 1707-12 -> Jahandar Shah 1712-13
 1713 Farrukhsiyar rises with Sayyid support -> 1719 deposition and enthronements
 1720 Sayyids fall -> 1724 Nizam's Hyderabad autonomy -> 1739 Karnal and Delhi
 1740s -> regional bargaining and frontier pressure; later Durrani/Panipat stay bounded.
 
-ASCII MASTER FLOW — PANEL 3/12: Succession instability: throne becomes a prize
+ASCII MASTER FLOW — PANEL 3/16: Bahadur Shah I, 1707-1712: partial conciliation, not a settlement
+JAJAU 1707 -> defeats Azam | DECCAN 1709 -> defeats Kam Bakhsh
+POLICY -> conciliation with Rajputs, Marathas and Sikhs, not confrontation
+MARATHAS -> sardeshmukhi conceded; chauth and the Shahu-Tarabai succession left unresolved
+RESULT -> temporary calm bought at rising fiscal cost; no durable settlement reached.
+
+ASCII MASTER FLOW — PANEL 4/16: Succession instability: throne becomes a prize
 NO FIXED PRIMOGENITURE -> princes mobilise households and noble clients
 SUCCESSION WAR -> victory reallocates mansab, jagir and office
 REPEATED CONTEST -> emperor cannot credibly arbitrate elite competition
 RESULT -> political transmission fails; it is a mechanism, not a lone cause.
 
-ASCII MASTER FLOW — PANEL 4/12: Factions and the Sayyid moment
+ASCII MASTER FLOW — PANEL 5/16: Factions, the Sayyid moment and the 1717 farman
 TURANI / IRANI / AFGHAN / HINDUSTANI -> shifting patronage formations
 FARRUKHSIYAR 1713 -> Sayyid Brothers supply military-political support
+1717 FARMAN -> Farrukhsiyar grants the English Company duty-free trade in Bengal
+  (a commercial privilege, not a grant of territory or sovereignty)
 1719 -> kingmaking exposes the throne's dependence on coalition control
 1720 -> Sayyids removed; factional politics survives the two individuals.
 
-ASCII MASTER FLOW — PANEL 5/12: Jagirdari vocabulary prevents category errors
+ASCII MASTER FLOW — PANEL 6/16: Jagirdari vocabulary prevents category errors
 JAGIR -> transferable revenue assignment, not private landownership
 JAMA -> assessed claim | HASIL -> realised collection
 PAIBAQI -> reserve assignable pool | BE-JAGIRI -> usable jagir shortage
 TRAP -> nominal assessment never automatically measures treasury cash or welfare.
 
-ASCII MASTER FLOW — PANEL 6/12: Fiscal-military feedback loop
+ASCII MASTER FLOW — PANEL 7/16: Fiscal-military feedback loop
 MORE CLAIMANTS + WEAK PAIBAQI -> scramble for productive jagirs
 SHORT TENURE / EXTRACTION -> resistance, evasion, flight or negotiation
 LOWER HASIL -> unpaid contingents and weaker imperial service
 WEAKER CONTROL -> regional retention of revenue -> still lower central capacity.
 
-ASCII MASTER FLOW — PANEL 7/12: Aurangzeb's legacy: a weighted background
+ASCII MASTER FLOW — PANEL 8/16: Aurangzeb's legacy: a weighted background
 DECCAN WAR -> garrisons, transport, remounts and unresolved Maratha challenge
 ANNEXATIONS -> territory and claims grow faster than reliable realisation
 NORTH ABSENCE -> strains of supervision and arbitration
 QUALIFY -> legacy mattered, but Aurangzeb alone cannot explain post-1707 factions or regions.
 
-ASCII MASTER FLOW — PANEL 8/12: Agrarian and regional assertion
+ASCII MASTER FLOW — PANEL 9/16: Agrarian and regional assertion
 REVENUE PRESSURE -> zamindars, peasants and intermediaries bargain or resist
 GOVERNORS + BANKERS + ARMED FOLLOWINGS -> provincial resource control
 MARATHA / SIKH / JAT mobilisation -> distinct political routes, not one rebellion
 RESULT -> Delhi's weakening and regional state-making reinforce each other.
 
-ASCII MASTER FLOW — PANEL 9/12: Successor-state spectrum
-BENGAL -> Murshid Quli Khan | AWADH -> Saadat Khan | HYDERABAD -> Nizam-ul-Mulk
+ASCII MASTER FLOW — PANEL 10/16: Chauth and sardeshmukhi: Maratha claims turn into imperial bargains
+CHAUTH -> approximately one-quarter revenue claim over designated territory
+SARDESHMUKHI -> additional roughly ten-per-cent superior-chieftainship claim
+1718-19 SETTLEMENT -> Sayyid-brokered recognition of Shahu's claims for Maratha support
+FROM 1720 -> Baji Rao converts settled claims into offensive reach across Malwa/Gujarat.
+
+ASCII MASTER FLOW — PANEL 11/16: Successor-state spectrum
+BENGAL 1717 -> Murshid Quli Khan | AWADH 1722 -> Saadat Khan | HYDERABAD 1724 -> Nizam-ul-Mulk
 IMPERIAL OFFICE -> local revenue, army and patronage become durable
 COIN / KHUTBA / TITLE -> formal Mughal legitimacy may remain useful
 TRAP -> autonomy in substance does not require a modern declaration of independence.
 
-ASCII MASTER FLOW — PANEL 10/12: Nadir Shah: shock exposes a prior crisis
+ASCII MASTER FLOW — PANEL 12/16: Muhammad Shah, 1719-1748: long reign, shrinking centre
+1719 -> enthroned after the Sayyid-controlled succession crisis; 1720 -> Sayyids overthrown
+1724 -> Nizam-ul-Mulk himself quits the imperial wizarat and founds Hyderabad
+COURT CULTURE -> Delhi's music, poetry and painting flourish under the 'Rangila' patron-emperor
+TRAP -> 'Rangila' names a cultural sobriquet, not a structural cause; do not use it as an answer.
+
+ASCII MASTER FLOW — PANEL 13/16: Nadir Shah: shock exposes a prior crisis
 FRONTIER WEAKNESS + Persian military capacity -> invasion opportunity
 KARNAL, 24 FEBRUARY 1739 -> fragmented command loses to unified command
-DELHI -> sack, treasury loss and prestige shock; Muhammad Shah remains emperor
+DELHI -> massacre and plunder; PEACOCK THRONE and KOH-I-NOOR carried off
+OUTCOME -> Muhammad Shah remains emperor; territories west of the Indus ceded
 VERDICT -> accelerant and revealer, not the original cause of decline.
-CLOSE DISTINCTION: Decline of enforceable central command did not mean instant state collapse,
+CLOSE DISTINCTION: decline of enforceable central command did not mean instant state collapse,
   civilisational decline or disappearance of Mughal titles, revenue forms and Persianate
   legitimacy.
 
-ASCII MASTER FLOW — PANEL 11/12: Institutional continuity after contraction
+ASCII MASTER FLOW — PANEL 14/16: Bounded post-1740 frontier: Abdali and Panipat stay outside the core
+1747 -> Nadir Shah assassinated; Ahmad Shah Abdali (Durrani) rises in Afghanistan
+1748 -> Abdali's first invasion checked near Sirhind; Muhammad Shah dies the same year
+1748-1761 -> repeated Durrani invasions exploit the frontier opened in 1739
+1761 -> Third Battle of Panipat (Maratha-Durrani contest)
+BOUNDARY -> this sequence is a consequence/bridge only; its causes and course belong to
+  Medieval History Topic 25 and Modern History Topic 02, not to this core 1707-1740s answer.
+
+ASCII MASTER FLOW — PANEL 15/16: Institutional continuity after contraction
 EMPEROR / FARMAN / SANAD -> symbolic arbitration and legal vocabulary
 COIN + KHUTBA -> layered legitimacy | PERSIAN CHANCERY -> portable administration
 MANSAB / DIWAN / ZAMINDAR -> institutions repurposed in regional arenas
@@ -72,7 +101,12 @@ RULE -> continuity of form coexists with change in who commands resources.
 EVIDENCE LIMIT: Satish Chandra's jagirdari analysis, regional-state evidence and court
   chronicles must be compared; no single-ruler or British-inevitability thesis is sufficient.
 
-ASCII MASTER FLOW — PANEL 12/12: Topic 01 answer spine
+ASCII MASTER FLOW — PANEL 16/16: Source limits, PYQ ownership and Topic 01 answer spine
+SOURCE LIMIT -> no fixed casualty figure for the 1739 Delhi massacre; no invented official key
+PYQ OWNERSHIP -> zero direct routed CSE question for Topic 01 across 2018-2026
+  2021 Prelims Q48 (successor states) -> owned by Modern History Topic 02
+  2021 Prelims Q45 (pargana-sarkar-subah) -> owned by Medieval History Topic 16
+  2022 GS-I Mains Q2 (Company armies) -> owned by Modern History Topic 05
 OPEN -> central fiscal-military command declined inside a continuing political culture
 EXPLAIN -> succession + faction + jagir-agrarian strain + regional assertion
 WEIGH -> Deccan legacy matters; reject Aurangzeb-only monocausality

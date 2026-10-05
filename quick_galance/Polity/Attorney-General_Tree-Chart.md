@@ -94,4 +94,6 @@ CONSTITUTIONAL LAW OFFICERS
 
 ## Ten-second answer route
 
-**Article 76 clauses -> Article 88/105(4) voice without vote -> Rule 8 bounded outside work -> Article 165/177/194(4) State comparison -> independence limits -> transparent professional reform.**
+**Article 76 clauses -> Article 88/105(4) voice without vote
+-> Rule 8 bounded outside work -> Article 165/177/194(4) State comparison
+-> independence limits -> transparent professional reform.**

@@ -648,9 +648,9 @@ verified but honestly adjacent to Topic 04.
                               |
                               v
 2022 PRELIMS Q52 FANAM:
-routed monetary demand,
-but exact wording not locally recoverable;
-do not invent an official stem or key.
+ exact wording locally verified from the 2022 official-paper text;
+ answer inferred high confidence as coin terminology;
+ official key row still unavailable locally.
                               |
                               v
 Any Prelims answer without readable official key

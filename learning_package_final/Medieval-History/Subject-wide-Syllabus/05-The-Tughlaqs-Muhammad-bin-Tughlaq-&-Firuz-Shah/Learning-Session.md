@@ -54,8 +54,8 @@ cover_image: assets/medieval-indian-history-05_Teaching-Navigation_2026-08-30.pn
 
 #### Package counts, provenance and honest limitations
 
-- Learning sections: 24; learning MCQ loops: 16.
-- Workbook content: 4 verified or honestly-adjacent PYQs; 40 original broad-coverage MCQs; 12 remedial MCQs; 6 original solved Mains questions; final register modules: 10.
+- Learning sections: 24; learning MCQ loops in this main session: 16 (strict A -> B -> C -> D rotation, repeated four times).
+- Standalone workbook content: 32 distinct original objective questions with 128 option-specific explanations and an integrated remediation map; 4 verified or honestly-adjacent PYQs; 6 original solved Mains questions (two 10-mark, two 15-mark, two 20-mark). Final register modules in this file: 10.
 - Original PNG visuals: 26 total - 25 body visuals plus 1 topic-specific cover visual. All maps and route diagrams are schematic and not to scale.
 - Repository sources used most heavily: Topic 05 basic and advanced owners; bounded Topics 04, 06, 07, 08, 09 and 11; `README.md`; `00_Master-Chronology.md`; `REVISION-CHART_Ages-Eras-and-Distinctive-Features.md`; local PYQ routing ledgers; validated question wording preserved in earlier repository packages.
 - OCR evidence used most heavily from Satish Chandra's *History of Medieval India* chapters on Muhammad Tughlaq's experiments, Firuz and the decline of the Sultanate, and from *Medieval India: From Sultanat to the Mughals, Part I* chapters "Problems of a Centralised All-India-State" and "Reassertion of a State Based on Benevolence," plus the state and architecture chapters.
@@ -109,24 +109,24 @@ cover_image: assets/medieval-indian-history-05_Teaching-Navigation_2026-08-30.pn
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The strongest framing is source criticism plus state-capacity comparison.
+**Plain-language definition:** Scope and framing discipline means fixing exactly which years, rulers and questions Topic 05 owns before any Tughlaq judgement is offered.
 
-**Technical definition:** Technically, Scope, framing and chronology discipline is analysed by relating Scope to framing, then testing the relationship through chronology discipline and source criticism plus state-capacity comparison.
+**Technical definition:** Chronology discipline is the working rule that the 1320-1388 Tughlaq arc must be reconstructed by separating securely dated events, chronicler judgement and later legend before state capacity is compared across the three reigns.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The strongest framing is source criticism plus state-capacity comparison.
+> The Tughlaq century is best approached through source criticism plus state-capacity comparison rather than through the inherited labels of "mad king" and "benevolent builder".
 
 #### MUST-WRITE KEYWORDS
 
-- **Scope**
-- **framing**
-- **chronology discipline**
-- **source criticism plus state-capacity comparison**
-- **objective**
-- **administrative instrument**
+- **1320-1388 Tughlaq arc**
+- **source criticism**
+- **state-capacity comparison**
+- **objective versus administrative instrument**
+- **owner boundary with Topics 04, 06 and 09**
+- **secure event versus later legend**
 
-**How to use them:** Frame the answer through Scope; define framing, connect chronology discipline with source criticism plus state-capacity comparison to explain the mechanism, and use objective for the decisive comparison or qualification.
+**How to use them:** Open by fixing the 1320-1388 Tughlaq arc and the owner boundary with Topics 04, 06 and 09; declare source criticism and state-capacity comparison as the method; then test each policy as objective versus administrative instrument, keeping secure event apart from later legend.
 
 [FACT] Topic 05 owns the Tughlaq arc from **1320**, when Ghiyasuddin Tughlaq displaced Khusrau Khan, to **1388**, when Firuz Shah died and the succession order unravelled. It uses late Khalji collapse only as inherited context and treats Timur's invasion and the Sayyid-Lodi aftermath as the main subject of Topic 06.
 
@@ -154,48 +154,52 @@ cover_image: assets/medieval-indian-history-05_Teaching-Navigation_2026-08-30.pn
 - [ANALYSIS] Firuz Shah reduced punitive intensity, invested in canals and urban works, and stabilised the elite through heredity - but this traded short-term order for long-term central weakening.
 - [LIMIT] Neither ruler can be judged only by intention or only by outcome. For UPSC, the mark-winning move is to distinguish **objective**, **administrative instrument**, **social cost** and **durability**.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Topic 05 is a bounded study of how two very different Tughlaq strategies tried to hold one oversized Sultanate together between 1320 and 1388. **Named evidence:** the arc runs from Ghiyasuddin Tughlaq's defeat of Khusrau Khan in 1320, through Muhammad bin Tughlaq's Daulatabad, token-currency, doab and Diwan-i-Amir-i-Kohi measures, to Firuz Shah's canals, hereditary iqtas and death in 1388 - and it survives mainly through Barani, Isami, Ibn Battuta, Afif and the ruler's own *Futuhat*, checked against coins, canals and monuments. **Analysis:** because every one of those narrative sources is positioned - later, displaced, travelling or self-presenting - the safest method is to establish the dated event first, then ask what administrative instrument each policy required and whether the state could supply it. **Qualification:** that method disqualifies both the "mad king" caricature and the "benevolent welfare monarch" romance, and it also stops the answer from drifting into Timur, the Sayyids or full Vijayanagara-Bahmani history, which Topics 06 and 09 own.
+
 #### CLOSING RECALL FLOW — SCOPE, FRAMING AND CHRONOLOGY DISCIPLINE
 
 ```text
 START / CONCEPT: Scope, framing and chronology discipline
         |
         v
-EXACT TERMS: Scope · framing · chronology discipline · source criticism plus state-capacity comparison · objective · administrative instrument
+EXACT TERMS: 1320-1388 Tughlaq arc · source criticism · state-capacity comparison · objective versus administrative instrument · owner boundary with Topics 04, 06 and 09 · secure event versus later legend
         |
         v
-MECHANISM / ARGUMENT: For UPSC, the mark-winning move is to distinguish objective, administrative instrument, social cost and durability.
+MECHANISM / ARGUMENT: Chronological control works by anchoring each measure to a dated reign-phase first, so that Ghiyasuddin's restoration, Muhammad's experiments and Firuz's conciliation are compared as sequenced state strategies rather than as personality traits.
         |
         v
-CONSEQUENCE / CONTRAST: Muhammad bin Tughlaq should not be flattened into the schoolbook caricature of a "wise fool"; Firuz Shah should not be romanticised as a simply benevolent welfare ruler.
+CONSEQUENCE / CONTRAST: A chronology-first reading yields a comparison of two governing models - uniformising ambition against negotiated stability - instead of a moral ranking of two Sultans.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the real contrast is between two different ways of holding together a very large...
+UPSC TRAP / ANSWER-USE: Do not let Topic 05 drift into Timur, the Sayyids or full Vijayanagara-Bahmani history; the arc stops at Firuz's death in 1388 and hands the later narrative to Topic 06.
         |
         v
-ANSWER-GRABBING FORMULATION: The strongest framing is source criticism plus state-capacity comparison.
+ANSWER-GRABBING FORMULATION: Judge every Tughlaq measure by objective, administrative instrument, social cost and durability rather than by the reputation chroniclers attached to its author.
 ```
 ### SESSION 2 — FROM KHALJI COLLAPSE TO TUGHLAQ LEGITIMACY: GHIYASUDDIN, TUGHLAQABAD AND THE DEATH CONTROVERSY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The sharpest contrast is not Ghiyasuddin versus Firuz but Ghiyasuddin's moderated restoration versus Muhammad's high-speed uniformity project.
+**Plain-language definition:** The Tughlaq dynasty began when Ghiyasuddin Tughlaq, a north-western frontier commander, defeated Khusrau Khan in 1320 and rebuilt the legitimacy that the late Khalji crisis had destroyed.
 
-**Technical definition:** Ghiyasuddin's death in 1325 must be handled through source layers.
+**Technical definition:** Ghiyasuddin's short reign is a restoration phase defined by moderated revenue demand, protection of cultivation, renewed Warangal and Bengal assertion, and the fortified dynastic statement of Tughlaqabad.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The sharpest contrast is not Ghiyasuddin versus Firuz but Ghiyasuddin's moderated restoration versus Muhammad's high-speed uniformity project.
+> Muhammad bin Tughlaq inherited Ghiyasuddin's partly rebuilt authority, not a blank slate, and that inheritance is what makes his later acceleration intelligible.
 
 #### MUST-WRITE KEYWORDS
 
-- **From Khalji collapse to Tughlaq legitimacy**
-- **Ghiyasuddin**
+- **Ghiyasuddin Tughlaq**
+- **defeat of Khusrau Khan in 1320**
+- **moderation in revenue demand**
 - **Tughlaqabad**
-- **the death controversy**
-- **moderation**
-- **not**
+- **Afghanpur pavilion collapse of 1325**
+- **secure event versus conspiracy claim**
 
-**How to use them:** Frame the answer through From Khalji collapse to Tughlaq legitimacy; define Ghiyasuddin, connect Tughlaqabad with the death controversy to explain the mechanism, and use moderation for the decisive comparison or qualification.
+**How to use them:** Name Ghiyasuddin Tughlaq's defeat of Khusrau Khan in 1320, quote moderation in revenue demand as the reign's policy tone, use Tughlaqabad as material proof of fortified kingship, and close the Afghanpur pavilion collapse of 1325 by separating the secure event from the conspiracy claim.
 
 [FACT] Ghiyasuddin Tughlaq, the former frontier commander and warden of the marches, led a coalition of officers against Khusrau Khan in **1320**. In a hard-fought battle outside Delhi, Khusrau was defeated and killed, ending the late Khalji crisis.
 
@@ -207,7 +211,7 @@ ANSWER-GRABBING FORMULATION: The strongest framing is source criticism plus stat
 
 [LIMIT] Ghiyasuddin's death in **1325** must be handled through source layers. A pavilion erected by Ulugh Khan to welcome him after the Bengal campaign collapsed during the parade of captured elephants. Contemporary suspicion, later conspiracy stories and the Nizamuddin-Auliya curse legend all survive; the advanced OCR, however, states that modern research does **not** support the idea of a deliberate murderous conspiracy.
 
-![02. Ghiyasuddin transition, Tughlaqabad and death source layers](assets/02_ghiyas_transition_death_s-c9dcd22efd.png)
+![02. Ghiyasuddin transition, Tughlaqabad and death source layers](assets/02_ghiyas_transition_death_source_layers.png)
 
 *Transition visual. Secure political sequence, dynastic architecture and the death controversy are separated into evidence, report and legend.*
 
@@ -225,48 +229,52 @@ ANSWER-GRABBING FORMULATION: The strongest framing is source criticism plus stat
 - [ANALYSIS] Topic 05 should not begin with Muhammad as though he inherited a blank slate. He inherited Ghiyasuddin's partially restored authority, direct-ruled Deccan ambitions and a fresh dynastic legitimacy still being built.
 - [ANALYSIS] The sharpest contrast is not Ghiyasuddin versus Firuz but Ghiyasuddin's **moderated restoration** versus Muhammad's **high-speed uniformity project**.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Ghiyasuddin Tughlaq's brief reign matters less for its length than for the kind of state it handed on. **Named evidence:** he defeated Khusrau Khan outside Delhi in 1320, declared a policy of moderation under which taxation should neither ruin cultivators nor make them rich enough to rebel, restored neglected noble households, sent Ulugh Khan to recover the imperial position at Warangal, campaigned successfully in Bengal, and built the battered-walled fortress-capital of Tughlaqabad with its elevated domed tomb. **Analysis:** these are four different instruments - military victory, fiscal moderation, elite reconciliation and architectural display - working together to manufacture legitimacy for a dynasty that had none by descent, which is precisely the capacity Muhammad later spent. **Qualification:** the reign was too short to convert intention into durable institution, and its ending will not bear certainty: the pavilion collapse at Afghanpur in 1325 is secure, but deliberate murder is not established, and the saintly-curse story belongs to legend rather than evidence.
+
 #### CLOSING RECALL FLOW — FROM KHALJI COLLAPSE TO TUGHLAQ LEGITIMACY: GHIYASUDDIN, TUGHLAQABAD AND THE DEATH CONTROVERSY
 
 ```text
 START / CONCEPT: From Khalji collapse to Tughlaq legitimacy: Ghiyasuddin, Tughlaqabad and the death controversy
         |
         v
-EXACT TERMS: From Khalji collapse to Tughlaq legitimacy · Ghiyasuddin · Tughlaqabad · the death controversy · moderation · not
+EXACT TERMS: Ghiyasuddin Tughlaq · defeat of Khusrau Khan in 1320 · moderation in revenue demand · Tughlaqabad · Afghanpur pavilion collapse of 1325 · secure event versus conspiracy claim
         |
         v
-MECHANISM / ARGUMENT: Ghiyasuddin's death in 1325 must be handled through source layers.
+MECHANISM / ARGUMENT: Legitimacy was manufactured through combined instruments: military victory over Khusrau Khan, a declared fiscal moderation that protected cultivation, restoration of displaced noble households, and a fortified capital advertising a new dynastic style.
         |
         v
-CONSEQUENCE / CONTRAST: The advanced OCR explicitly praises his policy of moderation: taxation should not ruin the countryside, agriculture and crafts should expand, and the people should neither become so rich as to rebel nor so poor as to cease cultivation.
+CONSEQUENCE / CONTRAST: The state Muhammad received in 1325 was energised and still consolidating, so his experiments read as acceleration of an unfinished project rather than as repair of a ruined inheritance.
         |
         v
-UPSC TRAP / ANSWER-USE: Contemporary suspicion, later conspiracy stories and the Nizamuddin-Auliya curse legend all survive; the advanced OCR, however, states that modern research does not support the idea of a deliberate murderous conspiracy.
+UPSC TRAP / ANSWER-USE: The Afghanpur pavilion collapse is secure but deliberate murder is not; modern research does not support a proved conspiracy, and the Nizamuddin Auliya curse story must never be presented as evidence.
         |
         v
-ANSWER-GRABBING FORMULATION: The sharpest contrast is not Ghiyasuddin versus Firuz but Ghiyasuddin's moderated restoration versus Muhammad's high-speed uniformity project.
+ANSWER-GRABBING FORMULATION: Ghiyasuddin's reign is the hinge between Khalji breakdown and the Tughlaq experiment in empire, and it supplies the moderation baseline against which Muhammad's doab demand is later measured.
 ```
 ### SESSION 3 — MUHAMMAD BIN TUGHLAQ'S ACCESSION, INTELLECTUAL PROFILE AND THE PRESSURES OF SCALE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Barani's charge that Muhammad was a "rationalist" is valuable evidence, not merely abuse.
+**Plain-language definition:** Muhammad bin Tughlaq reached the throne in 1325 as an unusually learned ruler who also inherited the largest directly ruled Delhi Sultanate yet attempted.
 
-**Technical definition:** Muhammad's reign was a test of whether the Delhi Sultanate could move from a conquest-plus-tribute order to a more uniformly supervised all-India state.
+**Technical definition:** The pressures of scale name the structural mismatch between an empire reaching from the Punjab frontier to the Madurai horizon and the medieval instruments of communication, audit, transport and elite loyalty available to govern it.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Barani's charge that Muhammad was a "rationalist" is valuable evidence, not merely abuse.
+> Barani's charge that Muhammad bin Tughlaq was a "rationalist" is usable evidence about a contested politics of authority, not merely chronicler abuse.
 
 #### MUST-WRITE KEYWORDS
 
-- **Muhammad bin Tughlaq's accession**
-- **intellectual profile**
-- **the pressures of scale**
-- **Jinaprabha Suri**
-- **scale**
-- **uniformly supervised all-India state**
+- **accession of 1325**
+- **learning in philosophy, medicine and logic**
+- **Jinaprabha Suri and Hindu yogis**
+- **Barani's rationalist charge**
+- **pressures of imperial scale**
+- **conquest-plus-tribute versus uniform supervision**
 
-**How to use them:** Frame the answer through Muhammad bin Tughlaq's accession; define intellectual profile, connect the pressures of scale with Jinaprabha Suri to explain the mechanism, and use scale for the decisive comparison or qualification.
+**How to use them:** Open on the accession of 1325 and the ruler's learning in philosophy, medicine and logic; use Barani's rationalist charge and the meetings with Jinaprabha Suri and Hindu yogis to show a contested authority; then convert the pressures of imperial scale into the move from conquest-plus-tribute to uniform supervision.
 
 [FACT] Muhammad bin Tughlaq came to power in 1325 with an unusual intellectual profile for a medieval ruler. The local OCR describes him as deeply read in religion, philosophy, mathematics and medicine, interested in Persian and Hindi poetry, and willing to converse not only with Muslim mystics but also with Hindu yogis and Jain saints such as **Jinaprabha Suri**.
 
@@ -294,48 +302,52 @@ ANSWER-GRABBING FORMULATION: The sharpest contrast is not Ghiyasuddin versus Fir
 
 - [ANALYSIS] Muhammad's reign was a test of whether the Delhi Sultanate could move from a conquest-plus-tribute order to a more **uniformly supervised all-India state**. The answer was mixed: imagination outran coordination.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Muhammad bin Tughlaq's experiments become intelligible only when read as responses to imperial scale rather than as symptoms of temperament. **Named evidence:** he inherited the old north-Indian core together with Gujarat, Malwa, the Deccan, Warangal and the belt reaching toward Madurai, while the local source describes him as read in religion, philosophy, mathematics and medicine and willing to debate Muslim mystics, Hindu yogis and the Jain teacher Jinaprabha Suri. **Analysis:** an empire of that span imposed long roads, delayed information, expensive military transport and regionally uneven loyalty, so the reign's central problem was converting distant annexations into administratively legible and fiscally usable provinces. **Qualification:** Barani's hostile label of rationalist proves that the Sultan refused claims resting only on inherited religious authority and that his relations with orthodox theologians were strained from the start - it does not prove irreligion, and it cannot by itself explain any single policy.
+
 #### CLOSING RECALL FLOW — MUHAMMAD BIN TUGHLAQ'S ACCESSION, INTELLECTUAL PROFILE AND THE PRESSURES OF SCALE
 
 ```text
 START / CONCEPT: Muhammad bin Tughlaq's accession, intellectual profile and the pressures of scale
         |
         v
-EXACT TERMS: Muhammad bin Tughlaq's accession · intellectual profile · the pressures of scale · Jinaprabha Suri · scale · uniformly supervised all-India state
+EXACT TERMS: accession of 1325 · learning in philosophy, medicine and logic · Jinaprabha Suri and Hindu yogis · Barani's rationalist charge · pressures of imperial scale · conquest-plus-tribute versus uniform supervision
         |
         v
-MECHANISM / ARGUMENT: Muhammad's reign was a test of whether the Delhi Sultanate could move from a conquest-plus-tribute order to a more uniformly supervised all-India state.
+MECHANISM / ARGUMENT: Scale translated into policy pressure through four channels at once: frontier risk in the north-west, provisioning of Delhi from the doab, the cost of direct rule in the far south, and the cohesion of a widened and heterogeneous ruling coalition.
         |
         v
-CONSEQUENCE / CONTRAST: It shows that the Sultan would not accept many claims merely on inherited religious authority and that his relationship with orthodox theologians was tense from the start.
+CONSEQUENCE / CONTRAST: Reading the reign through scale converts a list of famous failures into a single diagnostic question about how far ambition, information and enforcement could be aligned.
         |
         v
-UPSC TRAP / ANSWER-USE: The problem was not simply "a ruler with strange ideas"; it was a ruler trying to make distant annexations administratively legible and fiscally usable.
+UPSC TRAP / ANSWER-USE: Intellectual openness must not be mistaken for tolerance as a policy programme, and the rationalist label must not be read as irreligion; the Sultan remained observant while quarrelling with orthodox intermediaries.
         |
         v
-ANSWER-GRABBING FORMULATION: Barani's charge that Muhammad was a "rationalist" is valuable evidence, not merely abuse.
+ANSWER-GRABBING FORMULATION: The reign tested whether the Delhi Sultanate could move from a conquest-plus-tribute order to a uniformly supervised all-India state, and its answer was that imagination outran coordination.
 ```
 ### SESSION 4 — THE FIVE EXPERIMENT-CLUSTERS: AIM, INSTRUMENT AND FAILURE MODE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The exam-safe move is not to rehearse a failure-list but to ask what each measure was trying to solve, what instrument it required, and where that instrument broke.
+**Plain-language definition:** The five experiment-clusters are the grouped administrative measures - Daulatabad, token currency, the doab fiscal reset, Diwan-i-Amir-i-Kohi and the frontier military projects - through which Muhammad bin Tughlaq's reign is normally examined.
 
-**Technical definition:** Chroniclers remembered Muhammad bin Tughlaq through "experiments" because they were visible moments when intention, instrument and administrative reality collided.
+**Technical definition:** Each cluster is analysed on a three-part grid of aim, administrative instrument and principal failure mode, so that the policy problem being solved is distinguished from the capacity gap that defeated it.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The exam-safe move is not to rehearse a failure-list but to ask what each measure was trying to solve, what instrument it required, and where that instrument broke.
+> The mark-winning move is to ask what each measure was trying to solve, what instrument it required and exactly where that instrument broke, instead of reciting a failure-list.
 
 #### MUST-WRITE KEYWORDS
 
-- **The five experiment-clusters**
-- **aim**
-- **instrument**
-- **failure mode**
-- **not**
+- **aim, instrument and failure mode**
 - **Daulatabad second capital**
+- **token currency**
+- **doab fiscal reset**
+- **Diwan-i-Amir-i-Kohi**
+- **frontier military projects**
 
-**How to use them:** Frame the answer through The five experiment-clusters; define aim, connect instrument with failure mode to explain the mechanism, and use not for the decisive comparison or qualification.
+**How to use them:** Run every cluster through aim, instrument and failure mode: pair the Daulatabad second capital with migration logistics, token currency with authentication, the doab fiscal reset with flexible assessment, Diwan-i-Amir-i-Kohi with honest local supervision, and the frontier military projects with sustainable finance and terrain knowledge.
 
 [ANALYSIS] Chroniclers remembered Muhammad bin Tughlaq through "experiments" because they were visible moments when intention, instrument and administrative reality collided. The exam-safe move is not to rehearse a failure-list but to ask what each measure was trying to solve, what instrument it required, and where that instrument broke.
 
@@ -356,48 +368,52 @@ ANSWER-GRABBING FORMULATION: Barani's charge that Muhammad was a "rationalist" i
 - [LIMIT] "Bold experiment" does **not** mean "modern policy laboratory." These were coercive medieval state measures operating through grain extraction, iqta assignments, military command and court authority.
 - [LIMIT] Failure did **not** erase significance. Several ideas - agricultural loans, developmental cultivation, second-capital logic, fiscal-monetary experimentation - had a long afterlife even when the immediate version failed.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Muhammad bin Tughlaq's measures share one analytical shape - a defensible aim attached to an instrument the Sultanate could not operate reliably. **Named evidence:** the Daulatabad second capital needed managed migration and dual-capital logistics; the token currency needed mint monopoly and anti-forgery verification; the doab fiscal reset needed assessment that tracked actual harvests; Diwan-i-Amir-i-Kohi needed honest shiqdars and credit discipline; the Khurasan and Qarachil projects needed sustained logistics and terrain intelligence. **Analysis:** grouping the measures by administrative problem rather than by legend shows that the recurring failure point was verification and follow-through, not conception, which is why the same ruler could be both inventive and destructive. **Qualification:** "experiment" must not be read as a modern policy laboratory, since these were coercive medieval measures working through grain extraction, iqta assignment and court authority; equally, failure did not erase significance, because agricultural loans, developmental cultivation and second-capital logic all had a long afterlife.
+
 #### CLOSING RECALL FLOW — THE FIVE EXPERIMENT-CLUSTERS: AIM, INSTRUMENT AND FAILURE MODE
 
 ```text
 START / CONCEPT: The five experiment-clusters: aim, instrument and failure mode
         |
         v
-EXACT TERMS: The five experiment-clusters · aim · instrument · failure mode · not · Daulatabad second capital
+EXACT TERMS: aim, instrument and failure mode · Daulatabad second capital · token currency · doab fiscal reset · Diwan-i-Amir-i-Kohi · frontier military projects
         |
         v
-MECHANISM / ARGUMENT: Chroniclers remembered Muhammad bin Tughlaq through "experiments" because they were visible moments when intention, instrument and administrative reality collided.
+MECHANISM / ARGUMENT: Grouping the measures by the administrative problem each tried to solve exposes a single repeated breakdown - the gap between what the centre could order and what it could verify - across monetary, fiscal, agrarian and military policy alike.
         |
         v
-CONSEQUENCE / CONTRAST: "Bold experiment" does not mean "modern policy laboratory." These were coercive medieval state measures operating through grain extraction, iqta assignments, military command and court authority.
+CONSEQUENCE / CONTRAST: The reign therefore produces one transferable lesson rather than five unconnected anecdotes: ambitious medieval policy fails at the point of enforcement far more often than at the point of design.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: several ideas - agricultural loans, developmental cultivation, second-capital logic, fiscal-monetary experimentation - had a...
+UPSC TRAP / ANSWER-USE: Do not call these measures a modern policy laboratory and do not treat failure as proof of insignificance; several ideas, including state agricultural credit, outlived the ruler who mishandled them.
         |
         v
-ANSWER-GRABBING FORMULATION: The exam-safe move is not to rehearse a failure-list but to ask what each measure was trying to solve, what instrument it required, and where that instrument broke.
+ANSWER-GRABBING FORMULATION: Test each Tughlaq experiment as aim, required instrument and failure mode, and the reign stops being a list of eccentricities and becomes a case study in state capacity.
 ```
 ### SESSION 5 — DAULATABAD: SECOND CAPITAL, SELECTIVE MIGRATION AND THE MYTH OF A TOTALLY EMPTIED DELHI
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The motive most safely attributed to Muhammad is the desire for a second capital better placed for southern oversight and more central to the enlarged empire.
+**Plain-language definition:** Daulatabad was Deogir renamed and developed as a second capital for southern supervision, with pressure to migrate falling mainly on officials, nobles, scholars, Sufis, merchants and artisans.
 
-**Technical definition:** Delhi remained inhabited, and coins continued to be struck there while the Sultan was at Daulatabad.
+**Technical definition:** Selective migration describes a phased, coercive relocation of designated service and elite groups along an organised road with halting stations, ward allocation and housing grants, rather than a total deportation of Delhi's population.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Delhi remained inhabited, and coins continued to be struck there while the Sultan was at Daulatabad.
+> Delhi remained inhabited and continued to strike coins while the Sultan sat at Daulatabad, which is the single fact that destroys the emptied-capital myth.
 
 #### MUST-WRITE KEYWORDS
 
-- **Daulatabad**
+- **Deogir renamed Daulatabad**
 - **second capital**
-- **selective migration**
-- **the myth of a totally emptied Delhi**
-- **entire**
-- **Muhammad shifted the entire population of Delhi**
+- **selective pressured migration**
+- **organised road and halting stations**
+- **Delhi mint continuity**
+- **Deccan centre of Islamic learning**
 
-**How to use them:** Frame the answer through Daulatabad; define second capital, connect selective migration with the myth of a totally emptied Delhi to explain the mechanism, and use entire for the decisive comparison or qualification.
+**How to use them:** State that Deogir renamed Daulatabad was a second capital, not a transfer; evidence the selective pressured migration and the organised road and halting stations; then use Delhi mint continuity against the emptying myth and close on Daulatabad's later life as a Deccan centre of Islamic learning.
 
 [FACT] Devagiri/Deogir was already central to Delhi's southern strategy before Muhammad's accession. Alauddin had raided it, later Delhi had used it as a base, and Muhammad himself had spent significant time there as prince and military commander. Renaming it **Daulatabad** was therefore politically meaningful, not whimsical.
 
@@ -411,7 +427,7 @@ ANSWER-GRABBING FORMULATION: The exam-safe move is not to rehearse a failure-lis
 
 [ANALYSIS] The long-term consequence was real even though the policy failed. Roads improved, north-south contact intensified, and many migrants - especially learned and religious figures - stayed back, helping Daulatabad become a Deccan centre of Islamic learning later useful to the Bahmani world.
 
-![05. Delhi-Daulatabad transfer phases and myth-corrections](assets/05_delhi_daulatabad_phases_myths.png)
+![05. Delhi-Daulatabad second-capital phases and myth-corrections](assets/05_delhi_daulatabad_phases_myths.png)
 
 *Phases visual. Planning, pressure, migration, return and long-run cultural consequences are separated from exaggerated myth.*
 
@@ -424,48 +440,52 @@ ANSWER-GRABBING FORMULATION: The exam-safe move is not to rehearse a failure-lis
 | Daulatabad was chosen randomly | It was already a strategic Deccan base and more central to the enlarged empire |
 | The move had no long-term effect | It intensified north-south communication and helped seed Deccan Islamic learning |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the Daulatabad project was a rational second-capital experiment implemented coercively, not the whimsical emptying of a city. **Named evidence:** Deogir was already a strategic Deccan base that Muhammad had commanded as prince; the road was organised with halting stations and facilities, the city was laid out in *mohallas*, and grants, houses and boarding arrangements were made for migrants - while Delhi remained inhabited and coins continued to be struck there. **Analysis:** that combination of prior strategic value and detailed logistical preparation shows a planned attempt to place the court nearer the enlarged empire's centre of gravity, which is a geopolitical argument rather than a psychological one. **Qualification:** the journey remained punishing in severe heat and was enforced by coercive inspection, and once the southern direct-rule project faltered in the mid-1330s the political purpose dissolved and return was permitted - yet the migration left a durable consequence, since many learned and religious migrants stayed and helped make Daulatabad a Deccan centre of Islamic learning.
+
 #### CLOSING RECALL FLOW — DAULATABAD: SECOND CAPITAL, SELECTIVE MIGRATION AND THE MYTH OF A TOTALLY EMPTIED DELHI
 
 ```text
 START / CONCEPT: Daulatabad: second capital, selective migration and the myth of a totally emptied Delhi
         |
         v
-EXACT TERMS: Daulatabad · second capital · selective migration · the myth of a totally emptied Delhi · entire · Muhammad shifted the entire population of Delhi
+EXACT TERMS: Deogir renamed Daulatabad · second capital · selective pressured migration · organised road and halting stations · Delhi mint continuity · Deccan centre of Islamic learning
         |
         v
-MECHANISM / ARGUMENT: These details matter because they show that the move was planned, not impulsively improvised.
+MECHANISM / ARGUMENT: A second capital was meant to shorten the distance between the court and the southern provinces, and the organised road, ward allocation and housing grants were the instruments through which that shortening was to be achieved.
         |
         v
-CONSEQUENCE / CONTRAST: Renaming it Daulatabad was therefore politically meaningful, not whimsical.
+CONSEQUENCE / CONTRAST: Southern breakaways removed the project's purpose before its logistics failed, so the collapse belongs to political geography rather than to distance alone.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the motive most safely attributed to Muhammad is the desire for a second capital...
+UPSC TRAP / ANSWER-USE: Never write that Delhi was emptied or abandoned; the secure correction is against total depopulation and permanent transfer, not against the coercion, hardship and discontent that the sources also record.
         |
         v
-ANSWER-GRABBING FORMULATION: Delhi remained inhabited, and coins continued to be struck there while the Sultan was at Daulatabad.
+ANSWER-GRABBING FORMULATION: Daulatabad should be argued as a second-capital project with phased coercive migration and a real cultural afterlife, since "capital transfer" misstates both the intention and the outcome.
 ```
 ### SESSION 6 — TOKEN CURRENCY: MONETARY IMAGINATION, CREDIBILITY FAILURE AND THE COUNTERFEIT PROBLEM
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The experiment is therefore better interpreted as a problem of state credibility and enforcement, not of civilisational ignorance.
+**Plain-language definition:** Token currency was Muhammad bin Tughlaq's issue of copper and brass coins carrying the declared value of the silver tanka.
 
-**Technical definition:** The local OCR explicitly refers to Chinese paper currency under Qublai Khan and to earlier Iranian experimentation.
+**Technical definition:** A fiduciary coinage of this kind survives only where the state holds an effective mint monopoly, a recognisable authentication standard and a credible redemption promise; the Indian issue failed on all three, and private imitation destroyed confidence.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The experiment is therefore better interpreted as a problem of state credibility and enforcement, not of civilisational ignorance.
+> The token experiment is best read as a failure of state credibility and enforcement, not as evidence of civilisational ignorance about money.
 
 #### MUST-WRITE KEYWORDS
 
-- **Token currency**
-- **monetary imagination**
-- **credibility failure**
-- **the counterfeit problem**
-- **copper and brass**
-- **control imitation and authenticate issue**
+- **copper and brass token coinage**
+- **silver tanka value**
+- **mint monopoly and authentication**
+- **private counterfeiting**
+- **redemption in precious metal**
+- **not paper currency**
 
-**How to use them:** Frame the answer through Token currency; define monetary imagination, connect credibility failure with the counterfeit problem to explain the mechanism, and use copper and brass for the decisive comparison or qualification.
+**How to use them:** Define the copper and brass token coinage carrying the silver tanka value, explain that mint monopoly and authentication were the required instrument, attribute collapse to private counterfeiting and costly redemption in precious metal, and insist that this was not paper currency.
 
 [FACT] Muhammad bin Tughlaq issued **copper and brass** coins intended to circulate at the value of the silver *tanka*. This was a token-currency experiment, but it must not be falsely described as "paper currency."
 
@@ -492,48 +512,52 @@ ANSWER-GRABBING FORMULATION: Delhi remained inhabited, and coins continued to be
 | Forgery ruined confidence | Central claim in Barani-derived narrative | The dramatic phrasing is rhetorical; the institutional lesson is the key point |
 | Withdrawal required redemption in precious metal | Clear in the narrative | Do not assume every forged coin was accepted; rejected pieces remained outside the fort |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the token currency failed for institutional rather than conceptual reasons. **Named evidence:** the coins were copper and brass carrying the silver tanka's declared value; the local source notes Chinese paper currency under Qublai Khan and earlier Iranian experimentation as precedents; Barani's line that every Hindu house became a mint, however rhetorical, records unofficial fabrication wide enough to destroy trust; and the scheme ended with redemption in precious metal, leaving rejected forgeries heaped outside the fort. **Analysis:** because comparable fiduciary money worked elsewhere, the decisive variable was not the idea but the state's inability to monopolise minting, authenticate genuine issues and refuse bad coin in tax payment. **Qualification:** motive should stay cautious, since Barani links the issue to military ambition and treasury pressure yet contradicts himself on whether the treasury was already drained, and a wider silver shortage remains possible context rather than proved cause; surviving specimens prove issue and design, never uniform circulation.
+
 #### CLOSING RECALL FLOW — TOKEN CURRENCY: MONETARY IMAGINATION, CREDIBILITY FAILURE AND THE COUNTERFEIT PROBLEM
 
 ```text
 START / CONCEPT: Token currency: monetary imagination, credibility failure and the counterfeit problem
         |
         v
-EXACT TERMS: Token currency · monetary imagination · credibility failure · the counterfeit problem · copper and brass · control imitation and authenticate issue
+EXACT TERMS: copper and brass token coinage · silver tanka value · mint monopoly and authentication · private counterfeiting · redemption in precious metal · not paper currency
         |
         v
-MECHANISM / ARGUMENT: [DEBATE] Barani links the move to military ambition and treasury pressure; modern inference can also connect it to a wider silver shortage and the desire to enlarge monetary circulation.
+MECHANISM / ARGUMENT: Declared value can only hold when issue, recognition and acceptance are controlled together, so once imitation could not be distinguished from official striking the coin's purchasing power and the state's revenue both collapsed.
         |
         v
-CONSEQUENCE / CONTRAST: This was a token-currency experiment, but it must not be falsely described as "paper currency.".
+CONSEQUENCE / CONTRAST: Withdrawal cost the treasury twice over, first in lost confidence and then in the precious metal paid out to redeem acceptable tokens.
         |
         v
-UPSC TRAP / ANSWER-USE: The best verdict is not "an absurd idea," but "a financially and conceptually intelligible idea without the institutional monopoly required to make token value credible.".
+UPSC TRAP / ANSWER-USE: Do not call the issue paper currency and do not equate it with modern fiat money, which rests on legal tender, controlled issue, authentication and institutional confidence that no fourteenth-century state possessed.
         |
         v
-ANSWER-GRABBING FORMULATION: The experiment is therefore better interpreted as a problem of state credibility and enforcement, not of civilisational ignorance.
+ANSWER-GRABBING FORMULATION: Call the scheme a financially and conceptually intelligible idea that lacked the institutional monopoly needed to make declared value credible.
 ```
 ### SESSION 7 — THE DOAB TAXATION CRISIS: STANDARD YIELD, FAMINE AND REBELLION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Even if the rhetoric is exaggerated, the reality of a major doab agrarian upheaval is difficult to deny.
+**Plain-language definition:** The doab taxation crisis was the agrarian breakdown in the Ganga-Yamuna doab caused when a raised revenue demand met oppressive collection and famine conditions together.
 
-**Technical definition:** The advanced OCR explicitly notes famine, rising grain prices, relief camps at Delhi, grain brought from Awadh and Muhammad's move to Swargadwari because the atmosphere of Delhi had become pestilential.
+**Technical definition:** Assessment by standard yield and official prices fixes the state's claim against a notional harvest and a notional market, so the effective burden rises automatically whenever actual output or actual prices fall.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The share demanded may still have been notionally half, but the effective burden under famine and oppressive collection could rise sharply.
+> The notional share may still have been half, but under famine and harsh collection the effective doab burden rose far beyond what any stated fraction suggests.
 
 #### MUST-WRITE KEYWORDS
 
-- **The doab taxation crisis**
-- **standard yield**
-- **famine**
-- **rebellion**
-- **ghari**
-- **charai**
+- **Ganga-Yamuna doab**
+- **standard yield and official prices**
+- **ghari and charai cesses**
+- **peasant flight and rebellion**
+- **famine and pestilential conditions**
+- **Swargadwari relief phase**
 
-**How to use them:** Frame the answer through The doab taxation crisis; define standard yield, connect famine with rebellion to explain the mechanism, and use ghari for the decisive comparison or qualification.
+**How to use them:** Locate the crisis in the Ganga-Yamuna doab, explain assessment by standard yield and official prices, add the rigorous collection of ghari and charai cesses, show peasant flight and rebellion as the result, and qualify with famine and pestilential conditions and the Swargadwari relief phase.
 
 [FACT] Early in Muhammad's reign, the Gangetic doab saw a serious agrarian crisis and rebellion. The crucial point in the advanced OCR is that the problem was not simply "higher taxes" in the abstract. The assessment used **standard yield** rather than actual produce, and official prices rather than actual market prices when converting the state's share into cash.
 
@@ -558,48 +582,52 @@ ANSWER-GRABBING FORMULATION: The experiment is therefore better interpreted as a
 | Famine | Grain scarcity, high prices, relief measures, move to Swargadwari | Climatic failure complicates pure "bad policy" explanations |
 | Historical lesson | Core-zone extraction without flexible information destroys credibility | Avoid treating the crisis as proof that the entire empire became ungovernable at once |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the doab crisis was produced by policy design, collector behaviour and climate interacting, not by any one of them alone. **Named evidence:** the state assessed on standard yield rather than actual produce and converted its share at official rather than market prices; the older *ghari* house tax and *charai* grazing tax were rigorously collected, with cattle branded and houses counted; Barani reports burnt grain-heaps, driven-off cattle, abandoned cultivation and devastation from Kannauj to Dalmau; and the advanced source records famine, rising grain prices, relief camps at Delhi, grain brought from Awadh and the Sultan's move to Swargadwari when Delhi's atmosphere turned pestilential. **Analysis:** rigid notional assessment removes precisely the flexibility a subsistence agrarian economy needs in a bad year, so the same nominal demand becomes confiscatory during scarcity and converts fiscal pressure into political revolt. **Qualification:** the comparison with Alauddin must stay careful, since he too demanded heavily yet faced less explosive resistance, and the chronicler's rhetoric about total devastation cannot fix either the exact escalation or its spread beyond the doab.
+
 #### CLOSING RECALL FLOW — THE DOAB TAXATION CRISIS: STANDARD YIELD, FAMINE AND REBELLION
 
 ```text
 START / CONCEPT: The doab taxation crisis: standard yield, famine and rebellion
         |
         v
-EXACT TERMS: The doab taxation crisis · standard yield · famine · rebellion · ghari · charai
+EXACT TERMS: Ganga-Yamuna doab · standard yield and official prices · ghari and charai cesses · peasant flight and rebellion · famine and pestilential conditions · Swargadwari relief phase
         |
         v
-MECHANISM / ARGUMENT: The advanced OCR explicitly notes famine, rising grain prices, relief camps at Delhi, grain brought from Awadh and Muhammad's move to Swargadwari because the atmosphere of Delhi had become pestilential.
+MECHANISM / ARGUMENT: Notional assessment transfers all harvest and price risk onto the cultivator, so a demand that looks unchanged on paper becomes confiscatory the moment output or prices fall.
         |
         v
-CONSEQUENCE / CONTRAST: The crucial point in the advanced OCR is that the problem was not simply "higher taxes" in the abstract.
+CONSEQUENCE / CONTRAST: Fiscal rigidity turned into political rebellion, and the state then had to spend on relief camps, imported grain and suppression what it had hoped to extract.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: alauddin had also demanded heavily, yet Muhammad faced sharper rebellion because the combination of...
+UPSC TRAP / ANSWER-USE: Do not reduce the crisis to a single cause; policy design, collector excess and climatic failure interacted, and treating the doab collapse as proof that the whole empire became ungovernable at once overstates the evidence.
         |
         v
-ANSWER-GRABBING FORMULATION: The share demanded may still have been notionally half, but the effective burden under famine and oppressive collection could rise sharply.
+ANSWER-GRABBING FORMULATION: Argue that core-zone extraction without flexible local information destroys the credibility on which the revenue itself depends.
 ```
 ### SESSION 8 — DIWAN-I-AMIR-I-KOHI: STATE LOANS, CULTIVATION EXTENSION AND THE LIMITS OF AGRARIAN ENGINEERING
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Money intended as loans was consumed for personal use, the new land was not adequately brought under cultivation, and recovery collapsed.
+**Plain-language definition:** The Diwan-i-Amir-i-Kohi was Muhammad bin Tughlaq's agricultural department, created to extend cultivation and improve crops through state loans after the doab famine.
 
-**Technical definition:** Technically, Diwan-i-Amir-i-Kohi: state loans, cultivation extension and the limits of agrarian engineering is analysed by relating Diwan-i-Amir-i-Kohi to cultivation extension, then testing the relationship through the limits of agrarian engineering and banjar.
+**Technical definition:** The scheme combined a bounded development tract of about thirty kroh by thirty kroh, roughly a hundred appointed shiqdars and *sondhar* advances for seed, wells and inputs, aiming at banjar or fallow land rather than genuinely uncultivable *usar* soil.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Money intended as loans was consumed for personal use, the new land was not adequately brought under cultivation, and recovery collapsed.
+> State agricultural credit failed here through personnel and recovery, not through absurdity of purpose: the loans were consumed, the land was not brought under the plough and repayment collapsed.
 
 #### MUST-WRITE KEYWORDS
 
 - **Diwan-i-Amir-i-Kohi**
-- **cultivation extension**
-- **the limits of agrarian engineering**
-- **banjar**
-- **30 kroh by 30 kroh**
-- **100 shiqdars**
+- **sondhar agricultural loans**
+- **thirty kroh by thirty kroh tract**
+- **about one hundred shiqdars**
+- **banjar rather than usar land**
+- **graded crop improvement**
 
-**How to use them:** Frame the answer through Diwan-i-Amir-i-Kohi; define cultivation extension, connect the limits of agrarian engineering with banjar to explain the mechanism, and use 30 kroh by 30 kroh for the decisive comparison or qualification.
+**How to use them:** Name the Diwan-i-Amir-i-Kohi and its sondhar agricultural loans, fix the scale at a thirty kroh by thirty kroh tract worked by about one hundred shiqdars, correct the target to banjar rather than usar land, and use graded crop improvement to show that the aim was development, not charity.
 
 [FACT] After the doab famine phase, Muhammad bin Tughlaq tried to reverse direction and promote agrarian development. A special department called the **Diwan-i-Amir-i-Kohi** was created to supervise a tract of about **30 kroh by 30 kroh**.
 
@@ -622,48 +650,52 @@ ANSWER-GRABBING FORMULATION: The share demanded may still have been notionally h
 - [ANALYSIS] Diwan-i-Kohi was **not** proof of modern developmental bureaucracy, but it was more than absurd overreach. It shows a state thinking in terms of credit, crop improvement and revenue through agrarian expansion.
 - [LIMIT] Scale claims belong to reported narrative, not precise administrative statistics.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the Diwan-i-Amir-i-Kohi was a genuine agrarian development experiment that failed on delivery. **Named evidence:** a special department supervised a tract of about thirty kroh by thirty kroh; roughly a hundred shiqdars were appointed with honour, horses and large sums for *sondhar* loans; Barani's own phrasing imagines a graded shift from barley to wheat, from wheat to sugarcane and then to higher-value crops such as grapes and dates; and the advanced source insists the target was *banjar* or barren land rather than genuinely uncultivable *usar*. **Analysis:** that correction changes the policy's status from impossible fantasy to risky but coherent agricultural extension, and locates the failure precisely - inexperienced or corrupt personnel consumed the advances, the new land was never adequately cultivated, and recovery collapsed. **Qualification:** reported sums such as seventy lakh tankas, or two crores in later recollection, must be handled as chronicler report rather than audited statistics, and the scheme's demonstrated scale remains small - yet state-supported agricultural credit and planned crop improvement reappear under Firuz and more systematically under the Mughals.
+
 #### CLOSING RECALL FLOW — DIWAN-I-AMIR-I-KOHI: STATE LOANS, CULTIVATION EXTENSION AND THE LIMITS OF AGRARIAN ENGINEERING
 
 ```text
 START / CONCEPT: Diwan-i-Amir-i-Kohi: state loans, cultivation extension and the limits of agrarian engineering
         |
         v
-EXACT TERMS: Diwan-i-Amir-i-Kohi · cultivation extension · the limits of agrarian engineering · banjar · 30 kroh by 30 kroh · 100 shiqdars
+EXACT TERMS: Diwan-i-Amir-i-Kohi · sondhar agricultural loans · thirty kroh by thirty kroh tract · about one hundred shiqdars · banjar rather than usar land · graded crop improvement
         |
         v
-MECHANISM / ARGUMENT: It shows a state thinking in terms of credit, crop improvement and revenue through agrarian expansion.
+MECHANISM / ARGUMENT: Credit-led cultivation extension depends on local officials who can select viable land, deliver advances honestly and enforce recovery, and the Sultanate supplied none of these three in sufficient quality.
         |
         v
-CONSEQUENCE / CONTRAST: The advanced OCR argues that the scheme aimed to bring banjar or barren land under cultivation, not genuinely uncultivable usar land, despite Barani's sharper wording.
+CONSEQUENCE / CONTRAST: The experiment consumed treasury resources and produced little new cultivation, yet it established a developmental vocabulary that later regimes reused with better supervision.
         |
         v
-UPSC TRAP / ANSWER-USE: Reported figures such as seventy lakh tankas or even two crores in later recollection must be handled as reported, not audited certainty.
+UPSC TRAP / ANSWER-USE: Do not accept Barani's sharper wording that barren *usar* soil was being farmed, and do not quote the reported loan totals as administrative statistics; both distortions turn a risky programme into a caricature.
         |
         v
-ANSWER-GRABBING FORMULATION: Money intended as loans was consumed for personal use, the new land was not adequately brought under cultivation, and recovery collapsed.
+ANSWER-GRABBING FORMULATION: Present the department as evidence that the Sultanate could think in terms of credit, crop improvement and revenue through agrarian expansion, while conceding that it could not yet administer such a programme.
 ```
 ### SESSION 9 — THE KHURASAN PROJECT AND THE QARACHIL EXPEDITION: DO NOT CONFLATE THEM
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The safer conclusion is that the project aimed at an outward strategic frontier and prestige offensive, not necessarily at a coherent transcontinental conquest plan.
+**Plain-language definition:** The Khurasan project was a planned and heavily recruited north-western offensive that was never launched as envisaged, while the Qarachil expedition was an actual Himalayan campaign that ended in disaster.
 
-**Technical definition:** The Qarachil expedition, by contrast, was a Himalayan campaign.
+**Technical definition:** Separating the two requires distinguishing planning and recruitment, which burdened the treasury, from execution in difficult terrain, which destroyed an army; they are different historical acts with different failure modes.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The safer conclusion is that the project aimed at an outward strategic frontier and prestige offensive, not necessarily at a coherent transcontinental conquest plan.
+> Khurasan was a frontier-strategy problem and Qarachil a terrain-and-logistics problem, and fusing them into one tale of irrationality destroys the history.
 
 #### MUST-WRITE KEYWORDS
 
-- **The Khurasan project**
-- **the Qarachil expedition**
-- **do not conflate them**
 - **Khurasan project**
-- **reported**
-- **Qarachil**
+- **Qarachil expedition**
+- **reported army of 370,000**
+- **Kulu-Kangra and Kumaon horizon**
+- **treasury burden of recruitment**
+- **not a campaign against China**
 
-**How to use them:** Frame the answer through The Khurasan project; define the Qarachil expedition, connect do not conflate them with Khurasan project to explain the mechanism, and use reported for the decisive comparison or qualification.
+**How to use them:** Keep the Khurasan project and the Qarachil expedition in separate columns: attach the reported army of 370,000 and the treasury burden of recruitment to the first, place the second in the Kulu-Kangra and Kumaon horizon, and state plainly that it was not a campaign against China.
 
 [FACT] The **Khurasan project** arose from north-western strategic anxiety. After the Tarmashirin episode and the fluid politics of Transoxiana, Iran, Ghazni and Afghanistan, Muhammad bin Tughlaq considered a forward move that could secure the frontier more aggressively. The advanced OCR suggests that even a limited aim - Kabul/Ghazni/Afghanistan - is more defensible than fantasies of global conquest.
 
@@ -691,48 +723,52 @@ ANSWER-GRABBING FORMULATION: Money intended as loans was consumed for personal u
 | Principal problem | Sustaining cost and purpose | Terrain, climate and over-extension |
 | Exam trap | "World conquest madness" | "China campaign" |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the two north-western and Himalayan ventures must be analysed separately because they failed for different reasons. **Named evidence:** the Khurasan project arose from frontier anxiety after the Tarmashirin episode and the fluid politics of Transoxiana, Iran, Ghazni and Afghanistan, and was supported by entertaining exiles and grandees and raising a force reported at 370,000; the Qarachil expedition, placed by the advanced source in the Kulu-Kangra and Kumaon-Kashmir horizon, suffered catastrophic environmental defeat, with the reported survival of ten men out of ten thousand, even though a local ruler later accepted Delhi's overlordship. **Analysis:** the first venture consumed money through recruitment and disbandment without ever testing the army in the field, while the second consumed an army through terrain and supply failure, so one is a fiscal-strategic failure and the other an operational one. **Qualification:** Barani sometimes expands the aim to Khurasan, Iraq and beyond, and the advanced source rejects outright the later claim of a Chinese campaign; the defensible reading limits the plan to an outward frontier and prestige objective, and marks both the 370,000 and the ten-of-ten-thousand as reported figures.
+
 #### CLOSING RECALL FLOW — THE KHURASAN PROJECT AND THE QARACHIL EXPEDITION: DO NOT CONFLATE THEM
 
 ```text
 START / CONCEPT: The Khurasan project and the Qarachil expedition: do not conflate them
         |
         v
-EXACT TERMS: The Khurasan project · the Qarachil expedition · do not conflate them · Khurasan project · reported · Qarachil
+EXACT TERMS: Khurasan project · Qarachil expedition · reported army of 370,000 · Kulu-Kangra and Kumaon horizon · treasury burden of recruitment · not a campaign against China
         |
         v
-MECHANISM / ARGUMENT: The Qarachil expedition, by contrast, was a Himalayan campaign.
+MECHANISM / ARGUMENT: Recruiting and maintaining a very large army converts strategy into a standing fiscal liability, so a campaign can damage the treasury decisively even when it is never fought.
         |
         v
-CONSEQUENCE / CONTRAST: Put differently: Khurasan was a frontier-strategy problem; Qarachil was a terrain-and-logistics problem.
+CONSEQUENCE / CONTRAST: Delhi therefore paid twice for its frontier ambition - in silver for the force that never marched, and in soldiers for the force that marched into the mountains.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the advanced OCR places it in the Kulu-Kangra / Kumaon-Kashmir horizon and explicitly rejects...
+UPSC TRAP / ANSWER-USE: Do not merge the two ventures and do not repeat the China story; the Himalayan objective is what the sources support, while the world-conquest reading rests on chronicler expansion rather than on evidence.
         |
         v
-ANSWER-GRABBING FORMULATION: The safer conclusion is that the project aimed at an outward strategic frontier and prestige offensive, not necessarily at a coherent transcontinental conquest plan.
+ANSWER-GRABBING FORMULATION: Argue that planning, recruitment and execution are distinct historical acts, and that Muhammad's frontier record fails differently in each of them.
 ```
 ### SESSION 10 — REBELLIONS, PLAGUE AND REGIONAL FRAGMENTATION: DECCAN, BENGAL, GUJARAT, SINDH AND THE LIMITS OF DIRECT RULE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Muhammad was still strong enough to suppress some western and central rebellions, which is why his total unpopularity should not be exaggerated.
+**Plain-language definition:** Regional fragmentation under Muhammad bin Tughlaq was the cumulative loss of direct rule across the Deccan, Bengal, the far south and other provinces through repeated rebellion, epidemic and overstretch.
 
-**Technical definition:** Bengal also became independent again, while Gujarat and Sindh required severe effort.
+**Technical definition:** The reign divides into an opening consolidation decade, in which revolts at Multan, Lakhnauti and Sindh were checked, and a second decade in which famine, southern revolt and epidemic reduced the striking power that had made suppression possible.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Bengal also became independent again, while Gujarat and Sindh required severe effort.
+> Regional fragmentation under Muhammad had no single cause: distance, fiscal pressure, elite opportunism, epidemic and endless campaigning together outpaced the centre's ability to restore credible control.
 
 #### MUST-WRITE KEYWORDS
 
-- **Rebellions**
-- **plague**
-- **regional fragmentation**
-- **Deccan**
-- **Bengal**
-- **Gujarat**
+- **consolidation decade then crisis decade**
+- **Mabar campaign and army plague**
+- **Harihara and Bukka**
+- **Bahmani breakaway near Daulatabad**
+- **Bengal independence regained**
+- **Gujarat and Sindh suppressed at heavy cost**
 
-**How to use them:** Frame the answer through Rebellions; define plague, connect regional fragmentation with Deccan to explain the mechanism, and use Bengal for the decisive comparison or qualification.
+**How to use them:** Divide the reign into a consolidation decade then a crisis decade; use the Mabar campaign and army plague as the turning point; note Harihara and Bukka and the Bahmani breakaway near Daulatabad as symptoms of southern contraction; then balance with Bengal independence regained while Gujarat and Sindh were suppressed at heavy cost.
 
 [FACT] The advanced OCR usefully divides Muhammad's reign into phases. The first decade after accession was largely about consolidation, with rebellions in places like Multan, Lakhnauti and Sindh checked. The second decade became much more difficult as famine, southern revolts and epidemic weakened the state's striking power.
 
@@ -762,33 +798,37 @@ ANSWER-GRABBING FORMULATION: The safer conclusion is that the project aimed at a
 
 - [ANALYSIS] Muhammad's empire did not collapse because one policy failed; it fragmented because **distance + fiscal pressure + elite opportunism + epidemic + repeated campaigning** outpaced the centre's ability to restore credible control.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** territorial contraction under Muhammad was cumulative and multi-causal rather than the consequence of any single rebellion. **Named evidence:** the first decade checked revolts at Multan, Lakhnauti and Sindh; the Mabar campaign then coincided with plague in the army, with the concise source reporting that two-thirds of it perished; shortly afterwards Harihara and Bukka founded the principality that grew into Vijayanagara while foreign nobles near Daulatabad launched the Bahmani state; Bengal regained independence; and Gujarat and Sindh were suppressed only with severe effort. **Analysis:** each theatre required the Sultan's personal presence, and repeated personal campaigning wore down the army while preventing the growth of stable delegated trust, so every suppressed revolt raised the cost of suppressing the next one. **Qualification:** Delhi's continuing ability to crush western and central rebellion shows that total unpopularity is overstated, and Topic 05 uses Vijayanagara and the Bahmani state only as evidence of Delhi's broken southern control, since their own institutions and politics belong to Topic 09.
+
 #### CLOSING RECALL FLOW — REBELLIONS, PLAGUE AND REGIONAL FRAGMENTATION: DECCAN, BENGAL, GUJARAT, SINDH AND THE LIMITS OF DIRECT RULE
 
 ```text
 START / CONCEPT: Rebellions, plague and regional fragmentation: Deccan, Bengal, Gujarat, Sindh and the limits of direct rule
         |
         v
-EXACT TERMS: Rebellions · plague · regional fragmentation · Deccan · Bengal · Gujarat
+EXACT TERMS: consolidation decade then crisis decade · Mabar campaign and army plague · Harihara and Bukka · Bahmani breakaway near Daulatabad · Bengal independence regained · Gujarat and Sindh suppressed at heavy cost
         |
         v
-MECHANISM / ARGUMENT: The first decade after accession was largely about consolidation, with rebellions in places like Multan, Lakhnauti and Sindh checked.
+MECHANISM / ARGUMENT: Repeated personal campaigning across widely separated theatres exhausted the army and blocked the growth of delegated authority, so each suppressed revolt raised the price of suppressing the next.
         |
         v
-CONSEQUENCE / CONTRAST: Muhammad was still strong enough to suppress some western and central rebellions, which is why his total unpopularity should not be exaggerated.
+CONSEQUENCE / CONTRAST: Direct rule gave way to contested sovereignty: some provinces were held at rising cost, while the far south and Bengal passed out of Delhi's reach altogether.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the second decade became much more difficult as famine, southern revolts and epidemic weakened...
+UPSC TRAP / ANSWER-USE: Do not treat Vijayanagara or the Bahmani kingdom as Topic 05 subject matter, and do not infer total unpopularity from southern losses when Gujarat and Sindh were still being reduced by the same ruler.
         |
         v
-ANSWER-GRABBING FORMULATION: Bengal also became independent again, while Gujarat and Sindh required severe effort.
+ANSWER-GRABBING FORMULATION: Write contraction as an interaction of distance, fiscal pressure, elite opportunism, epidemic shock and campaign fatigue, not as the verdict on one failed experiment.
 ```
 ### SESSION 11 — ADMINISTRATION, THE RULING CLASS AND MUHAMMAD'S STATE-CAPACITY PROBLEM
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Muhammad's reign is the Sultanate's clearest demonstration that administrative imagination without durable compliance mechanisms becomes self-defeating.
+**Plain-language definition:** Muhammad bin Tughlaq's state-capacity problem was the growing gap between a centralising administration that audited distant provinces and the trust, information and enforcement needed to make those orders stick.
 
-**Technical definition:** Technically, Administration, the ruling class and Muhammad's state-capacity problem is analysed by relating Administration to the ruling class, then testing the relationship through Muhammad's state-capacity problem and Ambition.
+**Technical definition:** Capacity here is measured across five dimensions - ambition, information, coercion, credibility and elite management - each of which the reign expanded in reach while weakening in reliability.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -796,14 +836,14 @@ ANSWER-GRABBING FORMULATION: Bengal also became independent again, while Gujarat
 
 #### MUST-WRITE KEYWORDS
 
-- **Administration**
-- **the ruling class**
-- **Muhammad's state-capacity problem**
-- **Ambition**
-- **Goals multiplied faster than institution-building**
-- **Information**
+- **centralised audit in the wazir's office**
+- **widened elite recruitment**
+- **new men outside old noble families**
+- **heterogeneous nobility**
+- **information delay and distortion**
+- **credibility after failed experiments**
 
-**How to use them:** Frame the answer through Administration; define the ruling class, connect Muhammad's state-capacity problem with Ambition to explain the mechanism, and use Goals multiplied faster than institution-building for the decisive comparison or qualification.
+**How to use them:** Evidence centralised audit in the wazir's office and widened elite recruitment of new men outside old noble families; explain that the resulting heterogeneous nobility widened talent while weakening cohesion; then attribute failure to information delay and distortion and to lost credibility after failed experiments.
 
 [FACT] Muhammad bin Tughlaq pushed administrative centralisation further than his predecessors. When provinces were annexed, revenue officials followed; according to Barani, the accounts of distant provinces were audited in the wazir's office in the same detailed fashion as villages in the doab.
 
@@ -831,48 +871,52 @@ ANSWER-GRABBING FORMULATION: Bengal also became independent again, while Gujarat
 
 - [ANALYSIS] Muhammad's reign is the Sultanate's clearest demonstration that **administrative imagination without durable compliance mechanisms becomes self-defeating**.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the reign extended the reach of central administration faster than it extended the reliability of that administration. **Named evidence:** Barani records that the accounts of distant provinces were audited in the wazir's office with the same detail as villages in the doab; the concise source records appointments of men outside old noble families, including those from occupational backgrounds such as barbers, cooks, weavers and wine-makers, alongside foreigners and a few Hindus; and Ibn Battuta still regarded the Delhi ruler as one of the great rulers of the world. **Analysis:** widened recruitment was a rational instrument for staffing a larger empire and for reducing dependence on closed aristocratic circles, but it produced a nobility of foreigners, Indian converts, older elite families and court favourites with no single identity, so the same measure that increased administrative supply reduced political cohesion. **Qualification:** Barani's fury at such appointments is evidence of aristocratic prejudice as much as of administrative reality, and the audit claim proves intent and procedure rather than accurate information, since distant provinces still generated severe delay and distortion.
+
 #### CLOSING RECALL FLOW — ADMINISTRATION, THE RULING CLASS AND MUHAMMAD'S STATE-CAPACITY PROBLEM
 
 ```text
 START / CONCEPT: Administration, the ruling class and Muhammad's state-capacity problem
         |
         v
-EXACT TERMS: Administration · the ruling class · Muhammad's state-capacity problem · Ambition · Goals multiplied faster than institution-building · Information
+EXACT TERMS: centralised audit in the wazir's office · widened elite recruitment · new men outside old noble families · heterogeneous nobility · information delay and distortion · credibility after failed experiments
         |
         v
-MECHANISM / ARGUMENT: It was a way of reducing dependence on closed old-noble circles and of staffing a larger empire through talent and loyalty outside inherited aristocratic networks.
+MECHANISM / ARGUMENT: Central audit and wider recruitment expanded what the court could demand, while distance, delay and a fractured elite coalition limited what it could verify or enforce.
         |
         v
-CONSEQUENCE / CONTRAST: The recruitment of "new men" was not random social chaos.
+CONSEQUENCE / CONTRAST: Each failed experiment cost credibility, and lost credibility made the next order harder to enforce, so administrative ambition became progressively more expensive.
         |
         v
-UPSC TRAP / ANSWER-USE: Such a coalition could staff a wide empire, but it was also prone to fracture.
+UPSC TRAP / ANSWER-USE: Barani's contempt for low-born appointees is not neutral reporting; do not convert aristocratic prejudice into proof that the appointments themselves caused administrative collapse.
         |
         v
-ANSWER-GRABBING FORMULATION: Muhammad's reign is the Sultanate's clearest demonstration that administrative imagination without durable compliance mechanisms becomes self-defeating.
+ANSWER-GRABBING FORMULATION: Frame the reign as a compliance problem rather than a competence problem: the orders were issued, but the machinery to verify obedience did not exist at that scale.
 ```
 ### SESSION 12 — BARANI, ISAMI, IBN BATTUTA AND MATERIAL EVIDENCE: HOW TO READ THE TUGHLAQ ARCHIVE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Barani is indispensable for Muhammad's experiments and elite ideology, but he wrote later, moralises strongly, uses rhetorical scaling and deeply resents low-born advancement.
+**Plain-language definition:** The Tughlaq archive is the mixed body of chronicles, travel narrative, ruler self-presentation and material remains through which both reigns must be reconstructed.
 
-**Technical definition:** Isami is near-contemporary and especially valuable when Delhi-Deccan relations are at stake, but he writes from displacement and retrospective memory.
+**Technical definition:** Reading the archive means matching each source to what its genre can prove - report, eyewitness experience, moral judgement or physical trace - and preferring the minimum secure statement that survives across more than one evidence family.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Barani is indispensable for Muhammad's experiments and elite ideology, but he wrote later, moralises strongly, uses rhetorical scaling and deeply resents low-born advancement.
+> No single chronicler can carry the Tughlaq century; the safest claim is the one that survives across more than one family of evidence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Barani**
+- **Ziauddin Barani**
 - **Isami**
 - **Ibn Battuta**
-- **material evidence**
-- **how to read the Tughlaq archive**
+- **Shams Siraj Afif and the Futuhat**
+- **coins, canals and monuments**
 - **minimum secure statement**
 
-**How to use them:** Frame the answer through Barani; define Isami, connect Ibn Battuta with material evidence to explain the mechanism, and use how to read the Tughlaq archive for the decisive comparison or qualification.
+**How to use them:** Place Ziauddin Barani, Isami, Ibn Battuta and Shams Siraj Afif and the Futuhat on one axis of genre and position, set coins, canals and monuments against them as material checks, and resolve disagreement by writing only the minimum secure statement.
 
 [FACT] The Tughlaq period cannot be taught safely through a single chronicler. Barani, Isami, Ibn Battuta, Afif, *Futuhat-i Firuz Shahi*, coins and buildings each record a different slice of reality.
 
@@ -884,7 +928,7 @@ ANSWER-GRABBING FORMULATION: Muhammad's reign is the Sultanate's clearest demons
 
 [FACT] **Material evidence** checks literary claims. Delhi mint continuity, Tughlaqabad, Ghiyasuddin's tomb, Kotla Firoz Shah, repaired monuments, canals and Ashokan-pillar movement all confirm activity; none by itself proves uniform administrative success.
 
-![12. Ibn Battuta, Barani, Isami and material evidence comparison](assets/12_source_matrix_barani_isam-6f55d0a205.png)
+![12. Ibn Battuta, Barani, Isami and material evidence comparison](assets/12_source_matrix_barani_isami_ibn_battuta.png)
 
 *Source-matrix visual. Use it to separate report, witness, moral judgement and physical trace.*
 
@@ -902,48 +946,52 @@ ANSWER-GRABBING FORMULATION: Muhammad's reign is the Sultanate's clearest demons
 
 - [ANALYSIS] When sources disagree, prefer the **minimum secure statement** that survives across more than one evidence family. This is the correct answer to both textbook caricature and ideological over-reading.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the Tughlaq period cannot be taught safely through any single source, because each records a different slice of reality. **Named evidence:** Barani supplies the policy sequence and elite ideology but writes later, moralises, scales rhetorically and resents low-born advancement; Isami is near-contemporary and valuable on Delhi-Deccan relations but writes from displacement; Ibn Battuta, from Tangier, lived for years at Muhammad's court and held judicial office, and is strongest on ceremony, gifts, punishments, roads, products and urban scale; Afif and the *Futuhat-i Firuz Shahi* record Firuz's works and benevolence in a celebratory and self-fashioning register; and Delhi mint continuity, Tughlaqabad, Ghiyasuddin's tomb, Kotla Firoz Shah, repaired monuments, canals and moved Ashokan pillars confirm activity. **Analysis:** matching each source to what its genre can prove converts contradiction into method, so that a policy's intent, its reported implementation and its physical trace are assembled rather than confused. **Qualification:** material evidence checks literary claims without replacing them, since surviving fabric proves resources, labour and ideology but never uniform administrative success, and the concise source notes that Ibn Battuta was more interested in the court than in ordinary lives.
+
 #### CLOSING RECALL FLOW — BARANI, ISAMI, IBN BATTUTA AND MATERIAL EVIDENCE: HOW TO READ THE TUGHLAQ ARCHIVE
 
 ```text
 START / CONCEPT: Barani, Isami, Ibn Battuta and material evidence: how to read the Tughlaq archive
         |
         v
-EXACT TERMS: Barani · Isami · Ibn Battuta · material evidence · how to read the Tughlaq archive · minimum secure statement
+EXACT TERMS: Ziauddin Barani · Isami · Ibn Battuta · Shams Siraj Afif and the Futuhat · coins, canals and monuments · minimum secure statement
         |
         v
-MECHANISM / ARGUMENT: Delhi mint continuity, Tughlaqabad, Ghiyasuddin's tomb, Kotla Firoz Shah, repaired monuments, canals and Ashokan-pillar movement all confirm activity; none by itself proves uniform administrative success.
+MECHANISM / ARGUMENT: Cross-checking works because the four narrative traditions were written from different positions and dates, so agreement between them, or between one of them and the material record, is much harder to manufacture than a single vivid claim.
         |
         v
-CONSEQUENCE / CONTRAST: Isami is near-contemporary and especially valuable when Delhi-Deccan relations are at stake, but he writes from displacement and retrospective memory.
+CONSEQUENCE / CONTRAST: Source-critical writing replaces both textbook caricature and ideological over-reading with bounded statements an examiner can verify.
         |
         v
-UPSC TRAP / ANSWER-USE: He is not a neutral field report.
+UPSC TRAP / ANSWER-USE: Barani is indispensable and dangerous at once; do not quote his numbers or speeches literally, and do not treat Ibn Battuta's vividness as statistical representativeness.
         |
         v
-ANSWER-GRABBING FORMULATION: Barani is indispensable for Muhammad's experiments and elite ideology, but he wrote later, moralises strongly, uses rhetorical scaling and deeply resents low-born advancement.
+ANSWER-GRABBING FORMULATION: When the sources disagree, write the claim that more than one evidence family supports, and label the remainder as report rather than fact.
 ```
 ### SESSION 13 — MUHAMMAD BIN TUGHLAQ AND RELIGION: ULEMA, CALIPHAL LEGITIMACY, SUFIS AND JUSTICE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** He associated with yogis and Jain saints, respected major Sufi tombs and is said to have connected himself at times with Hindu festivals such as Holi.
+**Plain-language definition:** Muhammad bin Tughlaq's religious politics combined personal observance and wide intellectual contact with open conflict against sections of the orthodox ulema.
 
-**Technical definition:** Muhammad bin Tughlaq was personally observant in prayers and fasting, yet the advanced OCR also presents him as a ruler who would not accept many things merely on faith.
+**Technical definition:** Caliphal legitimisation here means the substitution of the Abbasid Caliph's name on coins and the later receipt of a formal *manshur* from the Cairo-based line, used to answer a juristic challenge to the Sultan's authority.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Muhammad bin Tughlaq was personally observant in prayers and fasting, yet the advanced OCR also presents him as a ruler who would not accept many things merely on faith.
+> Muhammad bin Tughlaq's religious politics were a contest with the ulema over who may authorise rule, not a modern quarrel between belief and unbelief.
 
 #### MUST-WRITE KEYWORDS
 
-- **Muhammad bin Tughlaq**
-- **religion**
-- **ulema**
-- **caliphal legitimacy**
-- **Sufis**
-- **justice**
+- **personal observance in prayer and fasting**
+- **yogis, Jain saints and Sufi tombs**
+- **fatwa permitting rebellion**
+- **caliphal manshur from Cairo**
+- **shara supplemented by zawabit**
+- **lavish reward and drastic punishment**
 
-**How to use them:** Frame the answer through Muhammad bin Tughlaq; define religion, connect ulema with caliphal legitimacy to explain the mechanism, and use Sufis for the decisive comparison or qualification.
+**How to use them:** Begin from personal observance in prayer and fasting alongside contact with yogis, Jain saints and Sufi tombs; explain that this provoked a fatwa permitting rebellion; show the caliphal manshur from Cairo as the answer; then hold together shara supplemented by zawabit with the record of lavish reward and drastic punishment.
 
 [FACT] Muhammad bin Tughlaq was personally observant in prayers and fasting, yet the advanced OCR also presents him as a ruler who would not accept many things merely on faith. He associated with yogis and Jain saints, respected major Sufi tombs and is said to have connected himself at times with Hindu festivals such as Holi.
 
@@ -959,48 +1007,52 @@ ANSWER-GRABBING FORMULATION: Barani is indispensable for Muhammad's experiments 
 
 - [ANALYSIS] Muhammad's religious politics were about **contested authority**, not about a neat binary between belief and unbelief. He broadened the court's intellectual contact-zone while failing to persuade orthodox intermediaries that his style of rule was legitimate.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Muhammad's religious politics were about contested authority rather than about belief or unbelief. **Named evidence:** he was personally observant in prayer and fasting, yet associated with yogis and Jain saints, respected major Sufi tombs and is said to have joined Hindu festivals such as Holi; qazis responded by issuing a *fatwa* that made rebellion against him legally possible; he then substituted the Caliph's name on his coins and later obtained a formal *manshur* from the Cairo-based Abbasid line. **Analysis:** the sequence shows a ruler whose reason-of-state instincts led him to supplement *shara* with *zawabit* and to widen the court's intellectual contact-zone, and whose response to juristic attack was to seek an external and symbolically unimpeachable source of authorisation. **Qualification:** the gesture did not repair his standing with orthodox opponents, and the same reign is recorded by chroniclers and by Ibn Battuta alike for lavish reward and drastic punishment, so intellectual range must be linked to coercive intensity rather than substituted for it.
+
 #### CLOSING RECALL FLOW — MUHAMMAD BIN TUGHLAQ AND RELIGION: ULEMA, CALIPHAL LEGITIMACY, SUFIS AND JUSTICE
 
 ```text
 START / CONCEPT: Muhammad bin Tughlaq and religion: ulema, caliphal legitimacy, Sufis and justice
         |
         v
-EXACT TERMS: Muhammad bin Tughlaq · religion · ulema · caliphal legitimacy · Sufis · justice
+EXACT TERMS: personal observance in prayer and fasting · yogis, Jain saints and Sufi tombs · fatwa permitting rebellion · caliphal manshur from Cairo · shara supplemented by zawabit · lavish reward and drastic punishment
         |
         v
-MECHANISM / ARGUMENT: He associated with yogis and Jain saints, respected major Sufi tombs and is said to have connected himself at times with Hindu festivals such as Holi.
+MECHANISM / ARGUMENT: A juristic challenge to the Sultan's legitimacy was met by importing authority from outside the local ulema, since caliphal recognition could not be revoked by the qazis who had issued the fatwa.
         |
         v
-CONSEQUENCE / CONTRAST: A balanced answer therefore links intellectual range with coercive intensity instead of substituting one for the other.
+CONSEQUENCE / CONTRAST: Symbolic legitimation proved cheap to obtain and weak in effect, leaving the reign's central conflict with orthodox intermediaries unresolved.
         |
         v
-UPSC TRAP / ANSWER-USE: Muhammad's religious politics were about contested authority, not about a neat binary between belief and unbelief.
+UPSC TRAP / ANSWER-USE: Do not read the Sultan as a secular moderniser or as an anti-religious tyrant; neither label survives the combination of personal observance, caliphal petition and documented punitive violence.
         |
         v
-ANSWER-GRABBING FORMULATION: Muhammad bin Tughlaq was personally observant in prayers and fasting, yet the advanced OCR also presents him as a ruler who would not accept many things merely on faith.
+ANSWER-GRABBING FORMULATION: Write the religious history as a struggle over who may authorise rule, and show the caliphal rescript as the cost of that struggle rather than as its solution.
 ```
 ### SESSION 14 — FIRUZ SHAH'S ACCESSION AFTER THE SINDH CRISIS: CONCILIATION AS STATECRAFT
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The concise OCR is clear about his governing choice: he would appease the nobles, the army and the theologians, and would assert authority only over areas that could be administered from the centre without impossible strain.
+**Plain-language definition:** Firuz Shah Tughlaq succeeded in 1351 during the Sindh and Thatta crisis and chose conciliation of nobles, soldiers and theologians as his governing method.
 
-**Technical definition:** Technically, Firuz Shah's accession after the Sindh crisis: conciliation as statecraft is analysed by relating Firuz Shah's accession after the Sindh crisis to conciliation as statecraft, then testing the relationship through Nobles and High salaries, heredity, softer audit.
+**Technical definition:** Conciliation as statecraft means deliberately trading coercive central control for elite consent, and matching that trade with a reduced territorial horizon that the centre could actually administer.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The concise OCR is clear about his governing choice: he would appease the nobles, the army and the theologians, and would assert authority only over areas that could be administered from the centre without impossible strain.
+> Where Muhammad tried to make the empire uniform, Firuz tried to make what remained of it governable by lowering the coercive temperature and narrowing the horizon of ambition.
 
 #### MUST-WRITE KEYWORDS
 
-- **Firuz Shah's accession after the Sindh crisis**
-- **conciliation as statecraft**
-- **Nobles**
-- **High salaries, heredity, softer audit**
-- **Stronger oligarchic claims**
-- **Army**
+- **accession of 1351 during the Sindh crisis**
+- **appeasement of nobles, army and theologians**
+- **two failed Bengal campaigns**
+- **Jajnagar and Nagarkot raids**
+- **long Thatta campaign**
+- **caliphal investiture as symbolic prestige**
 
-**How to use them:** Frame the answer through Firuz Shah's accession after the Sindh crisis; define conciliation as statecraft, connect Nobles with High salaries, heredity, softer audit to explain the mechanism, and use Stronger oligarchic claims for the decisive comparison or qualification.
+**How to use them:** Date the accession of 1351 during the Sindh crisis, name the appeasement of nobles, army and theologians as the chosen method, evidence its limits through two failed Bengal campaigns, the Jajnagar and Nagarkot raids and the long Thatta campaign, and treat caliphal investiture as symbolic prestige rather than power.
 
 [FACT] Firuz Shah Tughlaq came to power in **1351** after Muhammad's death during the Sindh/Thatta phase. He inherited a shrinking but still large north-Indian Sultanate, with the south already gone, Bengal independent and nobles, soldiers and theologians all in need of reassurance.
 
@@ -1025,48 +1077,52 @@ ANSWER-GRABBING FORMULATION: Muhammad bin Tughlaq was personally observant in pr
 | Ulema | Symbolic orthodoxy and concessions | Narrower ideological climate |
 | Urban/core society | Public works, charity, hospitals, lower punitive terror | Concentration of benefits in core regions and favoured groups |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's accession marks a deliberate political bargain, not a decline of energy. **Named evidence:** he came to power in 1351 after Muhammad's death during the Sindh and Thatta phase, inheriting a shrinking but still large north-Indian Sultanate with the south gone and Bengal independent; the concise source states plainly that he would appease the nobles, the army and the theologians and assert authority only where the centre could administer without impossible strain; two Bengal campaigns failed, raids into Jajnagar and Nagarkot produced plunder or acknowledgement without enduring extension, and the long Thatta campaign became a lesson in the cost of overreach. **Analysis:** each constituency received a specific concession - high salaries and softer audit for nobles, village assignments and relaxed inspection for soldiers, symbolic orthodoxy for the ulema, public works and lower punitive terror for core society - so the bargain was systematic rather than merely passive. **Qualification:** the same bargain created stronger oligarchic claims, lower military readiness, a narrower ideological climate and benefits concentrated in favoured regions and groups, and his caliphal investiture and robes of honour were symbolic prestige rather than the foundation of power.
+
 #### CLOSING RECALL FLOW — FIRUZ SHAH'S ACCESSION AFTER THE SINDH CRISIS: CONCILIATION AS STATECRAFT
 
 ```text
 START / CONCEPT: Firuz Shah's accession after the Sindh crisis: conciliation as statecraft
         |
         v
-EXACT TERMS: Firuz Shah's accession after the Sindh crisis · conciliation as statecraft · Nobles · High salaries, heredity, softer audit · Stronger oligarchic claims · Army
+EXACT TERMS: accession of 1351 during the Sindh crisis · appeasement of nobles, army and theologians · two failed Bengal campaigns · Jajnagar and Nagarkot raids · long Thatta campaign · caliphal investiture as symbolic prestige
         |
         v
-MECHANISM / ARGUMENT: Two Bengal campaigns failed; raids into Jajnagar (Orissa) and Nagarkot produced plunder or acknowledgment but no enduring extension; the long Thatta campaign became a lesson in the cost of military overreach.
+MECHANISM / ARGUMENT: Each constituency was bought with a specific concession - salaries and softer audit for nobles, village assignments for soldiers, symbolic orthodoxy for the ulema, public works for core society - which is why the peace held for thirty-seven years.
         |
         v
-CONSEQUENCE / CONTRAST: He also sought caliphal investiture and robes of honour, but the advanced OCR treats this as symbolic prestige rather than the foundation of power.
+CONSEQUENCE / CONTRAST: Accepting a smaller horizon converted an unmanageable empire into a governable northern state, at the price of permanently abandoning the southern and eastern claims Muhammad had fought for.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: raids into Jajnagar (Orissa) and Nagarkot produced plunder or acknowledgment but no enduring extension.
+UPSC TRAP / ANSWER-USE: Firuz was neither militarily inactive nor an effective all-India reconqueror; the Bengal, Jajnagar, Nagarkot and Thatta record must not be flattened into either a peaceful reign or a successful one.
         |
         v
-ANSWER-GRABBING FORMULATION: The concise OCR is clear about his governing choice: he would appease the nobles, the army and the theologians, and would assert authority only over areas that could be administered from the centre without impossible strain.
+ANSWER-GRABBING FORMULATION: Argue that Firuz redefined what the centre would try to hold and whom it would placate, and that this redefinition is his real statecraft.
 ```
 ### SESSION 15 — HEREDITARY OFFICES, IQTAS AND MILITARY RELAXATION: THE LOGIC OF ELITE CONCILIATION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Firuz decreed that when a noble died, his office and often his iqta should pass to his son, son-in-law or, failing them, even a slave.
+**Plain-language definition:** Firuz Shah made high office, iqtas and even army service hereditary, allowing a dead holder's claim to pass to a son, son-in-law or slave.
 
-**Technical definition:** Technically, Hereditary offices, iqtas and military relaxation: the logic of elite conciliation is analysed by relating Hereditary offices to iqtas, then testing the relationship through military relaxation and the logic of elite conciliation.
+**Technical definition:** Elite conciliation here operated through four linked measures: hereditary succession to office and iqta, abolition of audit-torture, an unrevised *jama* after one early valuation, and soldiers paid by *wajh* assignments on village revenue.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Firuz decreed that when a noble died, his office and often his iqta should pass to his son, son-in-law or, failing them, even a slave.
+> Heredity bought the ruler an unusually quiet reign by converting office-holders into a propertied interest whose loyalty no longer had to be enforced.
 
 #### MUST-WRITE KEYWORDS
 
-- **Hereditary offices**
-- **iqtas**
-- **military relaxation**
-- **the logic of elite conciliation**
-- **iqta**
-- **Noble peace and predictability**
+- **hereditary offices and iqtas**
+- **end of audit-torture for nobles**
+- **unrevised jama after early valuation**
+- **wajh village assignments for soldiers**
+- **weakened horse-branding discipline**
+- **heredity rather than European feudalism**
 
-**How to use them:** Frame the answer through Hereditary offices; define iqtas, connect military relaxation with the logic of elite conciliation to explain the mechanism, and use iqta for the decisive comparison or qualification.
+**How to use them:** Set out hereditary offices and iqtas and the end of audit-torture for nobles; add the unrevised jama after early valuation and wajh village assignments for soldiers; prove decay through weakened horse-branding discipline; and insist on heredity rather than European feudalism as the correct description.
 
 [FACT] Firuz decreed that when a noble died, his office and often his **iqta** should pass to his son, son-in-law or, failing them, even a slave. He also stopped the earlier practice of torturing nobles or their agents when account deficits were found during audit.
 
@@ -1093,48 +1149,52 @@ ANSWER-GRABBING FORMULATION: The concise OCR is clear about his governing choice
 | Lower audit terror | Fiscal slack and patronage leakage |
 | Fewer internal rebellions in reign | Fragile succession after the ruler's death |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's hereditary settlement worked as political insurance in the short run and as institutional erosion in the long run. **Named evidence:** he decreed that a dead noble's office and often his iqta should pass to his son, son-in-law or failing them a slave; he stopped torturing nobles or their agents over account deficits; a new revenue valuation was made early but the *jama* was never revised afterwards, so grant-holders automatically gained as cultivation expanded; old soldiers could send sons, sons-in-law or slaves in their place and large parts of the army were paid by *wajh* assignments on village revenue; and horse-branding discipline decayed so far that the Sultan reportedly gave a soldier a gold tanka to bribe the clerk into passing a deficient horse. **Analysis:** each measure converted a revocable state grant into an expected family entitlement, which removed the fear on which audit and muster had depended and therefore removed the centre's principal lever over its own servants. **Qualification:** the lazy formula that Firuz feudalised the state should be avoided unless the debate is explained, because revenue assignment, office, landholding and sovereignty remained distinct; the safer description is heredity, localisation of claims and the weakening of central audit control.
+
 #### CLOSING RECALL FLOW — HEREDITARY OFFICES, IQTAS AND MILITARY RELAXATION: THE LOGIC OF ELITE CONCILIATION
 
 ```text
 START / CONCEPT: Hereditary offices, iqtas and military relaxation: the logic of elite conciliation
         |
         v
-EXACT TERMS: Hereditary offices · iqtas · military relaxation · the logic of elite conciliation · iqta · Noble peace and predictability
+EXACT TERMS: hereditary offices and iqtas · end of audit-torture for nobles · unrevised jama after early valuation · wajh village assignments for soldiers · weakened horse-branding discipline · heredity rather than European feudalism
         |
         v
-MECHANISM / ARGUMENT: Old soldiers could send sons, sons-in-law or slaves in their place; large parts of the army were paid by assignments on village revenue (wajh) rather than cash.
+MECHANISM / ARGUMENT: Converting revocable state grants into expected family entitlements removed the fear on which audit and muster depended, and with it the centre's main lever over its own servants.
         |
         v
-CONSEQUENCE / CONTRAST: A new revenue valuation was made early in the reign, but the jama was not revised later.
+CONSEQUENCE / CONTRAST: Noble rebellion fell sharply within the reign while recruitment narrowed, muster quality dropped and patronage leakage grew, leaving succession dangerously fragile.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: he also stopped the earlier practice of torturing nobles or their agents when account...
+UPSC TRAP / ANSWER-USE: Do not write that Firuz feudalised the Sultanate without explaining the debate, because revenue assignment, office, landholding and sovereignty did not merge into European-style private ownership by one decree.
         |
         v
-ANSWER-GRABBING FORMULATION: Firuz decreed that when a noble died, his office and often his iqta should pass to his son, son-in-law or, failing them, even a slave.
+ANSWER-GRABBING FORMULATION: Describe the settlement as heredity, localisation of claims and the weakening of central audit control, and let that phrasing carry the whole institutional argument.
 ```
 ### SESSION 16 — FIRUZ'S REVENUE, CESSES AND IRRIGATION TAX: CLAIM, IMPLEMENTATION AND LIMIT
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The four-tax formula commonly linked to Futuhat-i Firuz Shahi must be treated as a claim of correct order, not as proof that every locality actually lived under a perfectly simplified tax regime.
+**Plain-language definition:** Firuz Shah's fiscal policy claimed to restrict taxation to levies his juristic advisers regarded as *shara*-sanctioned, abolishing twenty-one cesses while adding a canal water charge.
 
-**Technical definition:** Technically, Firuz's revenue, cesses and irrigation tax: claim, implementation and limit is analysed by relating Firuz's revenue to cesses, then testing the relationship through irrigation tax and claim.
+**Technical definition:** The reign's assessment rested on sharing rather than rigid measurement after Khwaja Hisamuddin Junaid's inspection-based valuation, with *haqq-i-sharb* of ten per cent levied on villages benefiting from canal irrigation.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The four-tax formula commonly linked to Futuhat-i Firuz Shahi must be treated as a claim of correct order, not as proof that every locality actually lived under a perfectly simplified tax regime.
+> Firuz's fiscal policy was not anti-revenue; it made extraction socially softer in method, developmental in the core and more legible to orthodox juristic language.
 
 #### MUST-WRITE KEYWORDS
 
-- **Firuz's revenue**
-- **cesses**
-- **irrigation tax**
-- **claim**
-- **implementation**
-- **twenty-one cesses**
+- **abolition of twenty-one cesses**
+- **Khwaja Hisamuddin Junaid's valuation**
+- **sharing rather than rigid measurement**
+- **haqq-i-sharb of ten per cent**
+- **jizya as a separate tax on Brahmans too**
+- **claimed order versus local practice**
 
-**How to use them:** Frame the answer through Firuz's revenue; define cesses, connect irrigation tax with claim to explain the mechanism, and use implementation for the decisive comparison or qualification.
+**How to use them:** Open with the abolition of twenty-one cesses and Khwaja Hisamuddin Junaid's valuation; explain sharing rather than rigid measurement as the method; add haqq-i-sharb of ten per cent and jizya as a separate tax on Brahmans too; and close by separating claimed order versus local practice.
 
 [FACT] Firuz Shah wanted to align taxation more closely with what he and his juristic advisers considered *shara*-sanctioned. Contemporary and later accounts say that he abolished **twenty-one cesses**, among them charges linked to markets and earlier levies such as *ghari*.
 
@@ -1146,7 +1206,7 @@ ANSWER-GRABBING FORMULATION: Firuz decreed that when a noble died, his office an
 
 [LIMIT] The four-tax formula commonly linked to *Futuhat-i Firuz Shahi* must be treated as a claim of correct order, not as proof that every locality actually lived under a perfectly simplified tax regime.
 
-![15. Revenue, cesses and irrigation-policy matrix](assets/15_revenue_cess_irrigation_p-5dbd4158ab.png)
+![15. Revenue, cesses and irrigation-policy matrix](assets/15_revenue_cess_irrigation_policy_matrix.png)
 
 *Policy-matrix visual. It separates what Firuz claimed, what he built and what the evidence can securely show.*
 
@@ -1155,48 +1215,52 @@ ANSWER-GRABBING FORMULATION: Firuz decreed that when a noble died, his office an
 - [ANALYSIS] Firuz's fiscal policy was not anti-revenue. It was an attempt to make revenue extraction **socially softer in method, developmental in the core, and more legible to orthodox juristic language**.
 - [LIMIT] Because benefits concentrated in the core north-Indian belt and among office-holders, the policy cannot be read as a universal peasant charter.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's tax reform was a claim about juristic correctness as much as a change in what cultivators actually paid. **Named evidence:** contemporary and later accounts record the abolition of twenty-one cesses, including market charges and the older *ghari*; the advanced source states that Khwaja Hisamuddin Junaid's fresh valuation was made on inspection and that the basis of assessment was sharing rather than rigid measurement; canal irrigation carried an additional *haqq-i-sharb* of ten per cent from benefited villages, forming part of the Sultan's personal income; and jizya was made a separate tax and extended to Brahmans, ending their practical exemption. **Analysis:** sharing-based assessment is precisely the flexibility the doab lacked under Muhammad, which is why the regime could present itself as accommodative, while the water charge shows the same state recovering its investment from the beneficiaries of its own irrigation works. **Qualification:** the four-tax formula linked to the *Futuhat-i Firuz Shahi* is a claim of correct order, not proof that every locality lived under a simplified regime, and because the benefits concentrated in the northern core and among office-holders the policy cannot be read as a universal peasant charter.
+
 #### CLOSING RECALL FLOW — FIRUZ'S REVENUE, CESSES AND IRRIGATION TAX: CLAIM, IMPLEMENTATION AND LIMIT
 
 ```text
 START / CONCEPT: Firuz's revenue, cesses and irrigation tax: claim, implementation and limit
         |
         v
-EXACT TERMS: Firuz's revenue · cesses · irrigation tax · claim · implementation · twenty-one cesses
+EXACT TERMS: abolition of twenty-one cesses · Khwaja Hisamuddin Junaid's valuation · sharing rather than rigid measurement · haqq-i-sharb of ten per cent · jizya as a separate tax on Brahmans too · claimed order versus local practice
         |
         v
-MECHANISM / ARGUMENT: That distinction matters because it helps explain why Firuz's regime presented itself as more accommodative than Muhammad's doab policy.
+MECHANISM / ARGUMENT: Sharing-based assessment restored the harvest flexibility that standard-yield valuation had removed, while the irrigation charge let the state recover its canal investment from the villages that gained by it.
         |
         v
-CONSEQUENCE / CONTRAST: Firuz's fiscal policy was not anti-revenue.
+CONSEQUENCE / CONTRAST: Extraction became socially softer in method and juristically presentable, but its gains flowed disproportionately to the northern core and to hereditary grant-holders.
         |
         v
-UPSC TRAP / ANSWER-USE: The advanced OCR says that the fresh valuation by Khwaja Hisamuddin Junaid was made on inspection and that the basis of assessment was sharing, not rigid measurement.
+UPSC TRAP / ANSWER-USE: The four-tax formula is a claim of correct order rather than proof of uniform local practice, and the abolition of cesses must not be read as a universal peasant charter.
         |
         v
-ANSWER-GRABBING FORMULATION: The four-tax formula commonly linked to Futuhat-i Firuz Shahi must be treated as a claim of correct order, not as proof that every locality actually lived under a perfectly simplified tax regime.
+ANSWER-GRABBING FORMULATION: Argue that Firuz reformed the language and method of extraction more than its burden, and locate the reform's real beneficiaries before delivering a verdict.
 ```
 ### SESSION 17 — CANALS, GARDENS, TOWNS AND PUBLIC WORKS: DEVELOPMENTAL ENERGY IN THE NORTH-INDIAN CORE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Firuz's public works were concentrated in the core northern tract where the Sultanate still had the will and means to shape landscapes directly.
+**Plain-language definition:** Firuz Shah's public works were a state building programme of canals, dams, orchards, gardens and new towns concentrated in the north-Indian core.
 
-**Technical definition:** Firuz created a large department of public works and pursued irrigation aggressively.
+**Technical definition:** A dedicated department of public works administered the programme, whose principal works included a long canal from the Sutlej toward Hansi and Hisar, another from the Yamuna and further channels in the Haryana-Delhi tract, serving irrigation and new settlement together.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Firuz built dams, planted orchards and is said to have created large numbers of gardens around Delhi.
+> Firuz's works prove state-building, but of a geographically narrower state than Muhammad had tried to command.
 
 #### MUST-WRITE KEYWORDS
 
-- **Canals**
-- **gardens**
-- **towns**
-- **public works**
-- **developmental energy in the north-Indian core**
-- **Sutlej**
+- **department of public works**
+- **Sutlej canal to Hansi and Hisar**
+- **Yamuna canal**
+- **Hissar-Firuza foundation**
+- **dams, orchards and gardens**
+- **later Mughal and British repair**
 
-**How to use them:** Frame the answer through Canals; define gardens, connect towns with public works to explain the mechanism, and use developmental energy in the north-Indian core for the decisive comparison or qualification.
+**How to use them:** Name the department of public works, run the Sutlej canal to Hansi and Hisar and the Yamuna canal as the core evidence, attach the Hissar-Firuza foundation to them, add dams, orchards and gardens as revenue-plus-display, and use later Mughal and British repair to show the institutional afterlife.
 
 [FACT] Firuz created a large department of public works and pursued irrigation aggressively. The advanced OCR records a long canal from the **Sutlej** toward **Hansi/Hisar**, another from the **Yamuna**, and additional canals in the Haryana-Delhi tract. These were meant both for irrigation and for supplying water to new settlements.
 
@@ -1219,48 +1283,52 @@ ANSWER-GRABBING FORMULATION: The four-tax formula commonly linked to Futuhat-i F
 | Orchards and gardens | Productive revenue plus courtly display |
 | Dams and repairs | The state as custodian-builder, not only tax collector |
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's developmental energy was real but spatially bounded. **Named evidence:** he created a large department of public works; the advanced source records a long canal from the Sutlej toward Hansi and Hisar, another from the Yamuna and additional canals in the Haryana-Delhi tract, meant for irrigation and for supplying the new settlements; these works are tied directly to the founding of Hissar-Firuza; he built dams, planted orchards and is said to have created large numbers of gardens around Delhi; and later Mughal and British repair and extension gave some channels a far longer institutional life. **Analysis:** canal irrigation, new towns, orchards and repairs each convert state expenditure into future revenue and settlement, so the programme is evidence of a state acting as custodian-builder rather than only as tax collector. **Qualification:** every one of these works lies in the core northern tract where the Sultanate still had the will and means to shape landscapes directly, no comparable investment reached the Deccan, and the reported income from orchards belongs to the regime's developmental self-image rather than to audited accounts, so precise totals of canals, towns or gardens must not be invented.
+
 #### CLOSING RECALL FLOW — CANALS, GARDENS, TOWNS AND PUBLIC WORKS: DEVELOPMENTAL ENERGY IN THE NORTH-INDIAN CORE
 
 ```text
 START / CONCEPT: Canals, gardens, towns and public works: developmental energy in the north-Indian core
         |
         v
-EXACT TERMS: Canals · gardens · towns · public works · developmental energy in the north-Indian core · Sutlej
+EXACT TERMS: department of public works · Sutlej canal to Hansi and Hisar · Yamuna canal · Hissar-Firuza foundation · dams, orchards and gardens · later Mughal and British repair
         |
         v
-MECHANISM / ARGUMENT: Firuz created a large department of public works and pursued irrigation aggressively.
+MECHANISM / ARGUMENT: Canal water converted arid tracts into cultivable and taxable land, and the new towns it supplied then became market nodes, control points and prestige markers for the same state.
         |
         v
-CONSEQUENCE / CONTRAST: Firuz's public works were concentrated in the core northern tract where the Sultanate still had the will and means to shape landscapes directly.
+CONSEQUENCE / CONTRAST: Investment concentrated where the state was already strongest, deepening the northern core while leaving the lost southern provinces untouched by any comparable programme.
         |
         v
-UPSC TRAP / ANSWER-USE: They are evidence of state-building, but of a geographically narrower state than Muhammad had sought to command.
+UPSC TRAP / ANSWER-USE: Do not invent precise totals of canals, towns or gardens, and do not inflate the programme into empire-wide development; the chronicles supply a self-image, not an audited register.
         |
         v
-ANSWER-GRABBING FORMULATION: Firuz built dams, planted orchards and is said to have created large numbers of gardens around Delhi.
+ANSWER-GRABBING FORMULATION: Use the canals to argue that Firuz built a deeper state over a smaller map, and make that spatial point the heart of the verdict.
 ```
 ### SESSION 18 — URBANISM, ARCHITECTURE AND CONSERVATION UNDER FIRUZ: KOTLA, HAUZ KHAS, OLD MONUMENTS AND ASHOKAN PILLARS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Urbanism, architecture and conservation under Firuz: Kotla, Hauz Khas, old monuments and Ashokan pillars comprises Urbanism, architecture and conservation under Firuz as its core connected dimensions.
+**Plain-language definition:** Firuz Shah combined new urban foundation, repair of older monuments and the transport of Ashokan pillars into a single politics of building and appropriation.
 
-**Technical definition:** Upinder Singh's local extract, using Afif and the illustrated Sirat-i-Firuz Shahi, provides unusually vivid evidence for the transport of the Topra and Meerut Ashokan pillars to Delhi.
+**Technical definition:** Tughlaq architecture in this phase uses battered walls, high platforms and grey stone while combining arch principles with lintel-and-beam traditions, and Firuz's programme divides into new foundation, practical repair and prestige appropriation.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> This is one reason his reign matters for medieval conservation history.
+> Firuz's building record is a medieval politics of preservation, reuse and inscriptional prestige rather than heritage conservation in the modern civic sense.
 
 #### MUST-WRITE KEYWORDS
 
-- **Urbanism**
-- **architecture**
-- **conservation under Firuz**
-- **Kotla**
-- **Hauz Khas**
-- **old monuments**
+- **Firozabad and Kotla Firoz Shah**
+- **repairs to the Qutb Minar**
+- **Hauz Khas complex**
+- **Topra and Meerut Ashokan pillars**
+- **forty-two-wheeled carriage and silk-cotton cushioning**
+- **attribution caution**
 
-**How to use them:** Frame the answer through Urbanism; define architecture, connect conservation under Firuz with Kotla to explain the mechanism, and use Hauz Khas for the decisive comparison or qualification.
+**How to use them:** Anchor new foundation in Firozabad and Kotla Firoz Shah, evidence repair through repairs to the Qutb Minar and the Hauz Khas complex, use the Topra and Meerut Ashokan pillars with the forty-two-wheeled carriage and silk-cotton cushioning for appropriation, and end on attribution caution.
 
 [FACT] Tughlaq architecture carried forward the dynasty's austere idiom: battered walls, high platforms, grey stone and an effort to combine arch-principles with lintel-beam traditions. Ghiyasuddin's tomb and Tughlaqabad had already begun this visual language.
 
@@ -1288,6 +1356,11 @@ ANSWER-GRABBING FORMULATION: Firuz built dams, planted orchards and is said to h
 | Jaunpur | Firuz is associated in the advanced OCR with building or renovating it; later Sharqi development must be kept separate |
 | Qutb repair | Firuz repaired/rebuilt damaged upper portions; do not credit him with the whole monument |
 | Pillars | He transported the Topra and Meerut Ashokan pillars to Delhi; the later inscriptions and meanings remained layered |
+| Other towns named in general accounts | Only Firozabad/Kotla, Hissar-Firuza and the bounded Jaunpur association are attested in the source set used here. General textbook lists that add further Firuzian foundations, such as Fatehabad, are not independently supported by these sources, so this package names them as unverified attributions rather than asserting them |
+
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's monument policy operated on three distinct layers - practical repair, dynastic display and appropriation of prestigious older artefacts. **Named evidence:** he founded or renewed Firozabad on the Yamuna, whose surviving fort is Kotla Firoz Shah; the advanced source records his repairs to the Qutb Minar, to old mosques and tombs, and to the Hauz Khas complex; and Upinder Singh's local extract, drawing on Afif and the illustrated *Sirat-i-Firuz Shahi*, describes the transport of the Topra and Meerut Ashokan pillars to Delhi using tools, silk-cotton cushioning, a forty-two-wheeled carriage, river transport and palace re-erection. **Analysis:** moving an eleven-hundred-year-old imperial pillar into a new royal city is simultaneously a feat of engineering and a claim to inherit the authority of earlier sovereignty, which is why the pillar episode carries more political meaning than any single new building. **Qualification:** attribution must stay careful - he repaired and rebuilt damaged upper portions of the Qutb rather than building the monument, earlier Khalji work at Hauz Khas must be distinguished from Tughlaq additions, his association with building or renovating Jaunpur must be kept apart from later Sharqi development, and the pillars' inscriptions were not necessarily fully understood by those who moved them.
 
 #### CLOSING RECALL FLOW — URBANISM, ARCHITECTURE AND CONSERVATION UNDER FIRUZ: KOTLA, HAUZ KHAS, OLD MONUMENTS AND ASHOKAN PILLARS
 
@@ -1295,42 +1368,42 @@ ANSWER-GRABBING FORMULATION: Firuz built dams, planted orchards and is said to h
 START / CONCEPT: Urbanism, architecture and conservation under Firuz: Kotla, Hauz Khas, old monuments and Ashokan pillars
         |
         v
-EXACT TERMS: Urbanism · architecture · conservation under Firuz · Kotla · Hauz Khas · old monuments
+EXACT TERMS: Firozabad and Kotla Firoz Shah · repairs to the Qutb Minar · Hauz Khas complex · Topra and Meerut Ashokan pillars · forty-two-wheeled carriage and silk-cotton cushioning · attribution caution
         |
         v
-MECHANISM / ARGUMENT: The advanced OCR also associates him with Hissar-Firuza and with building or renovating Jaunpur, but this should be phrased cautiously because later regional histories add their own layers of attribution.
+MECHANISM / ARGUMENT: Repairing famous older monuments and re-erecting ancient pillars inside a new royal city transferred the prestige of earlier sovereignty onto the reigning dynasty at a fraction of the cost of original construction.
         |
         v
-CONSEQUENCE / CONTRAST: It was not "heritage conservation" in the modern civic sense, but it was certainly a medieval politics of preservation, reuse and inscriptional prestige.
+CONSEQUENCE / CONTRAST: The reign leaves an unusually rich material record, which allows literary claims about Firuz's works to be checked against surviving fabric.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: upinder Singh's local extract, using Afif and the illustrated Sirat-i-Firuz Shahi, provides unusually vivid...
+UPSC TRAP / ANSWER-USE: Do not credit Firuz with the whole Qutb Minar or with every later north-Indian town; his securely attested foundations are Firozabad and Hissar-Firuza, and other attributions such as Jaunpur require separation from later regional building.
         |
         v
-ANSWER-GRABBING FORMULATION: This is one reason his reign matters for medieval conservation history.
+ANSWER-GRABBING FORMULATION: Read Firuz's monuments as evidence for resources, labour and ideology, and never as a complete measure of the empire's prosperity.
 ```
 ### SESSION 19 — SLAVES, DIWAN-I-BANDAGAN AND THE POLITICAL ECONOMY OF COERCED SERVICE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Slaves, Diwan-i-Bandagan and the political economy of coerced service comprises Slaves, Diwan-i-Bandagan and the political economy of coerced service as its core connected dimensions.
+**Plain-language definition:** The Diwan-i-Bandagan was the separate department that administered Firuz Shah's very large establishment of slaves, collected as tribute from commanders and officials.
 
-**Technical definition:** Firuz's slave system should be read as state labour plus dynastic politics, not as welfare, nor as a simple copy of early mamluk practice.
+**Technical definition:** The establishment functioned as coerced state labour, palace service and an armed corps personally dependent on the ruler, supported by its own treasury, muster structure and administrative department.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Firuz's slave system should be read as state labour plus dynastic politics, not as welfare, nor as a simple copy of early mamluk practice.
+> Firuz's slave system should be read as state labour plus dynastic politics, not as welfare and not as a simple copy of early mamluk practice.
 
 #### MUST-WRITE KEYWORDS
 
-- **Slaves**
 - **Diwan-i-Bandagan**
-- **the political economy of coerced service**
-- **These**
-- **This**
-- **It**
+- **reported total of about 180,000**
+- **12,000 trained as artisans**
+- **royal karkhanas**
+- **armed corps dependent on the ruler**
+- **second organised interest-group**
 
-**How to use them:** Frame the answer through Slaves; define Diwan-i-Bandagan, connect the political economy of coerced service with These to explain the mechanism, and use This for the decisive comparison or qualification.
+**How to use them:** Name the Diwan-i-Bandagan with its own treasury and muster, mark the reported total of about 180,000 and the 12,000 trained as artisans as chronicle figures, distribute them across royal karkhanas and an armed corps dependent on the ruler, and close on the emergence of a second organised interest-group.
 
 [FACT] Firuz ordered officials and victorious commanders to send selected boys and youths to him as slaves. The reported total reaches about **180,000**, with **12,000** trained as artisans. These are reported chronicle numbers and must remain labelled as such.
 
@@ -1348,48 +1421,52 @@ ANSWER-GRABBING FORMULATION: This is one reason his reign matters for medieval c
 
 - [ANALYSIS] Firuz's slave system should be read as **state labour plus dynastic politics**, not as welfare, nor as a simple copy of early mamluk practice.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the slave establishment was an instrument of coerced production and personal dependence that ended by destabilising the reign it was meant to secure. **Named evidence:** Firuz ordered officials and victorious commanders to send selected boys and youths to him as slaves, and the reported total reaches about 180,000, of whom 12,000 were trained as artisans; they worked in royal *karkhanas*, served in household and palace roles and formed an armed corps personally dependent on the ruler; and a separate treasury, muster structure and administrative department existed for them. **Analysis:** building a service population outside the regular nobility widened the ruler's pool of direct dependants, which is exactly why it cut against his own stated aim of stable hereditary noble succession. **Qualification:** the figures are reported chronicle numbers rather than an audited census and must be labelled as such, the establishment was in no sense a benevolent shelter, and instead of unifying the state it created a second organised interest-group whose intervention became dangerous immediately after the ruler's death.
+
 #### CLOSING RECALL FLOW — SLAVES, DIWAN-I-BANDAGAN AND THE POLITICAL ECONOMY OF COERCED SERVICE
 
 ```text
 START / CONCEPT: Slaves, Diwan-i-Bandagan and the political economy of coerced service
         |
         v
-EXACT TERMS: Slaves · Diwan-i-Bandagan · the political economy of coerced service · These · This · It
+EXACT TERMS: Diwan-i-Bandagan · reported total of about 180,000 · 12,000 trained as artisans · royal karkhanas · armed corps dependent on the ruler · second organised interest-group
         |
         v
-MECHANISM / ARGUMENT: It was a system of coerced labour, political counterweight and court service that widened the ruler's direct dependants outside the regular nobility.
+MECHANISM / ARGUMENT: Recruiting dependants who owed everything to the ruler personally created a service bloc outside the nobility, giving the throne manpower that the hereditary elite could neither supply nor control.
         |
         v
-CONSEQUENCE / CONTRAST: This was not a benevolent shelter-home.
+CONSEQUENCE / CONTRAST: The corps survived the ruler who created it and became a king-making faction, so a measure designed to secure the dynasty helped destabilise its succession.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: these are reported chronicle numbers and must remain labelled as such.
+UPSC TRAP / ANSWER-USE: Do not describe the department as welfare and do not quote the 180,000 total as audited fact; it is a chronicler's large administrative claim about a system of coerced service.
         |
         v
-ANSWER-GRABBING FORMULATION: Firuz's slave system should be read as state labour plus dynastic politics, not as welfare, nor as a simple copy of early mamluk practice.
+ANSWER-GRABBING FORMULATION: Argue that the slave department reveals the political economy of the reign: production, service and factional insurance organised through unfree labour.
 ```
 ### SESSION 20 — CHARITY, HOSPITALS, MARRIAGES AND "BENEVOLENCE": WHO BENEFITED AND WHAT WERE THE LIMITS?
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Even with those limits, Firuz's assertion that the state should not only punish and collect taxes but should also provide benevolent support marks a genuine ideological shift from the hard punitive reputation of the previous reign.
+**Plain-language definition:** Firuz Shah's benevolence programme covered free hospital treatment, marriage assistance for poor girls, support for widows and orphans, lists of the unemployed and restored grants to scholars and shrines.
 
-**Technical definition:** Technically, Charity, hospitals, marriages and "benevolence": who benefited and what were the limits? is analysed by relating Charity to hospitals, then testing the relationship through marriages and "benevolence".
+**Technical definition:** Benevolent kingship here is an ideological claim that the state should support as well as punish and tax, implemented through charitable departments whose beneficiaries were socially selected rather than universal.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Even with those limits, Firuz's assertion that the state should not only punish and collect taxes but should also provide benevolent support marks a genuine ideological shift from the hard punitive reputation of the previous reign.
+> Firuz's charity, hospitals and marriage grants expanded the language of benevolent kingship while their benefits stayed socially selective and politically useful.
 
 #### MUST-WRITE KEYWORDS
 
-- **Charity**
-- **hospitals**
-- **marriages**
-- **"benevolence"**
-- **who benefited**
-- **beneficiaries**
+- **free hospital treatment**
+- **marriage assistance for poor girls**
+- **kotwals' lists of the unemployed**
+- **ban on mutilatory punishment**
+- **restored grants to scholars and shrines**
+- **selection of beneficiaries**
 
-**How to use them:** Frame the answer through Charity; define hospitals, connect marriages with "benevolence" to explain the mechanism, and use who benefited for the decisive comparison or qualification.
+**How to use them:** List free hospital treatment, marriage assistance for poor girls, the kotwals' lists of the unemployed and the ban on mutilatory punishment; add restored grants to scholars and shrines; then make the selection of beneficiaries the analytical hinge of the answer.
 
 [FACT] Firuz banned a range of mutilatory punishments in political and financial contexts, opened hospitals for free treatment, asked kotwals to prepare lists of the unemployed, arranged marriage assistance for poor girls and supported widows, orphans and the physically weak.
 
@@ -1407,48 +1484,52 @@ ANSWER-GRABBING FORMULATION: Firuz's slave system should be read as state labour
 
 - [ANALYSIS] Firuz was not a modern social-welfare ruler; he was a medieval ruler who expanded the **language and some practice of benevolent kingship** while keeping it socially selective and politically useful.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's benevolence was a genuine ideological shift delivered through socially selective institutions. **Named evidence:** he banned a range of mutilatory punishments in political and financial contexts, opened hospitals for free treatment, asked kotwals to prepare lists of the unemployed, arranged marriage assistance for poor girls, supported widows, orphans and the physically weak, and restored or increased grants to theologians, scholars, shrines and their dependants. **Analysis:** these measures appear across chroniclers and within the ruler's own self-presentation, which tells us that benevolence had become a claim a Sultan wanted associated with his name - a real change from the punitive reputation of the previous reign. **Qualification:** the advanced source itself suggests much of this help was intended above all for Muslims of respectable family status who had fallen on hard times, particularly around the capital, so this is not the language of a universal welfare state and the programme must be described as medieval benevolent kingship rather than as modern social policy.
+
 #### CLOSING RECALL FLOW — CHARITY, HOSPITALS, MARRIAGES AND "BENEVOLENCE": WHO BENEFITED AND WHAT WERE THE LIMITS?
 
 ```text
 START / CONCEPT: Charity, hospitals, marriages and "benevolence": who benefited and what were the limits?
         |
         v
-EXACT TERMS: Charity · hospitals · marriages · "benevolence" · who benefited · beneficiaries
+EXACT TERMS: free hospital treatment · marriage assistance for poor girls · kotwals' lists of the unemployed · ban on mutilatory punishment · restored grants to scholars and shrines · selection of beneficiaries
         |
         v
-MECHANISM / ARGUMENT: These measures appear across chroniclers and within Firuz's own self-presentation.
+MECHANISM / ARGUMENT: Charitable departments turned a moral claim into administrative routine - registers, grants and free treatment - which is why the claim outlived the ruler in chronicler memory.
         |
         v
-CONSEQUENCE / CONTRAST: This is not the language of a universal welfare state.
+CONSEQUENCE / CONTRAST: The state acquired a beneficent public identity that the previous reign had lost, while the material benefits remained concentrated near the capital and among favoured groups.
         |
         v
-UPSC TRAP / ANSWER-USE: Firuz was not a modern social-welfare ruler; he was a medieval ruler who expanded the language and some practice of benevolent kingship while keeping it socially selective and politically useful.
+UPSC TRAP / ANSWER-USE: Do not call Firuz a modern social-welfare ruler; the correct reading keeps the ideological shift real while marking the beneficiaries as socially selected and the provision as politically useful.
         |
         v
-ANSWER-GRABBING FORMULATION: Even with those limits, Firuz's assertion that the state should not only punish and collect taxes but should also provide benevolent support marks a genuine ideological shift from the hard punitive reputation of the previous reign.
+ANSWER-GRABBING FORMULATION: Show that benevolence was simultaneously a genuine ideological shift and a bounded, selective practice, and let that double judgement carry the answer.
 ```
 ### SESSION 21 — POLITICAL CONCILIATION AND SHARPER RELIGIOUS ORTHODOXY: JIZYA, ULEMA, TEMPLES AND TRANSLATIONS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The right contrast is not "tolerant versus intolerant" in the abstract, but political conciliation with elites and core society alongside sharper juristic marking of religious hierarchy.
+**Plain-language definition:** Firuz Shah combined political conciliation of elites with a sharper juristic marking of religious hierarchy, most visibly through jizya, ulema concessions and action against some temples and sects.
 
-**Technical definition:** Technically, Political conciliation and sharper religious orthodoxy: jizya, ulema, temples and translations is analysed by relating Political conciliation to sharper religious orthodoxy, then testing the relationship through jizya and ulema.
+**Technical definition:** The reign's religious policy is a compound: separate jizya extended to Brahmans, bans on practices the theologians considered un-Islamic, persecution of some Muslim sects held to be heretical, and simultaneous patronage of Sanskrit-to-Persian translation.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Do not turn translation patronage into proof that orthodoxy was absent; do not turn jizya and temple action into proof that every aspect of rule was defined only by religious hostility.
+> The usable contrast is not tolerance against intolerance but political conciliation with elites alongside sharper juristic marking of religious hierarchy.
 
 #### MUST-WRITE KEYWORDS
 
-- **Political conciliation**
-- **sharper religious orthodoxy**
-- **jizya**
-- **ulema**
-- **temples**
-- **translations**
+- **jizya as a separate tax**
+- **refusal of Brahman exemption**
+- **persecution of sects held heretical**
+- **destruction of some newly built temples**
+- **translations of medicine, music and mathematics**
+- **compound rather than single-word verdict**
 
-**How to use them:** Frame the answer through Political conciliation; define sharper religious orthodoxy, connect jizya with ulema to explain the mechanism, and use temples for the decisive comparison or qualification.
+**How to use them:** Establish jizya as a separate tax with refusal of Brahman exemption, add persecution of sects held heretical and the destruction of some newly built temples, set against these the translations of medicine, music and mathematics, and deliver a compound rather than single-word verdict.
 
 [FACT] Firuz tried to please the theologians by presenting himself as a properly Islamic ruler. He banned some practices they considered un-Islamic, persecuted some Muslim sects seen as heretical, and made **jizya** a separate tax while refusing to exempt Brahmans.
 
@@ -1468,47 +1549,52 @@ ANSWER-GRABBING FORMULATION: Even with those limits, Firuz's assertion that the 
 
 - [ANALYSIS] Firuz's state widened the discourse of benevolence but also strengthened orthodox authority. This tension is the key to the reign.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Firuz's religious policy must be written as a compound because its severe and its cultivated sides belong to the same programme. **Named evidence:** he banned practices the theologians considered un-Islamic, persecuted some Muslim sects held to be heretical, made jizya a separate tax and refused Brahmans their practical exemption; the sources also preserve the public burning of a Brahman accused of preaching and conversion, the destruction of some newly built temples or festival-sites near Delhi, and restrictions on Muslim women's visits to saintly shrines; and the same reign patronised translations of Sanskrit works on medicine, music and mathematics into Persian and received some Hindu chiefs with respect at court. **Analysis:** the combination shows a ruler purchasing ideological support from the ulema with juristic markers while keeping the cultural and administrative advantages of engagement, so conciliation and orthodoxy are two faces of one political settlement. **Qualification:** translation patronage does not prove that orthodoxy was absent, and jizya and temple action do not prove that every aspect of rule was defined by religious hostility; episodes require case-specific chronology, and both "uniform persecution" and "complete tolerance" are false.
+
 #### CLOSING RECALL FLOW — POLITICAL CONCILIATION AND SHARPER RELIGIOUS ORTHODOXY: JIZYA, ULEMA, TEMPLES AND TRANSLATIONS
 
 ```text
 START / CONCEPT: Political conciliation and sharper religious orthodoxy: jizya, ulema, temples and translations
         |
         v
-EXACT TERMS: Political conciliation · sharper religious orthodoxy · jizya · ulema · temples · translations
+EXACT TERMS: jizya as a separate tax · refusal of Brahman exemption · persecution of sects held heretical · destruction of some newly built temples · translations of medicine, music and mathematics · compound rather than single-word verdict
         |
         v
-MECHANISM / ARGUMENT: The right contrast is not "tolerant versus intolerant" in the abstract, but political conciliation with elites and core society alongside sharper juristic marking of religious hierarchy.
+MECHANISM / ARGUMENT: Juristic markers were the currency in which the ruler paid the ulema for the legitimacy his conciliatory politics required, which is why concession and severity rise together in the same reign.
         |
         v
-CONSEQUENCE / CONTRAST: Firuz's state widened the discourse of benevolence but also strengthened orthodox authority.
+CONSEQUENCE / CONTRAST: The settlement widened the discourse of benevolence while narrowing the ideological coalition on which the state could draw.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the advanced and concise OCRs preserve severe episodes.
+UPSC TRAP / ANSWER-USE: Neither uniform persecution nor complete tolerance is defensible; do not use the translations to erase the coercion or the coercion to erase the translations, and insist on case-specific chronology.
         |
         v
-ANSWER-GRABBING FORMULATION: Do not turn translation patronage into proof that orthodoxy was absent; do not turn jizya and temple action into proof that every aspect of rule was defined only by religious hostility.
+ANSWER-GRABBING FORMULATION: Write the reign as political conciliation plus sharper juristic hierarchy, and treat that tension as the key to Firuz's government rather than as an inconsistency to be resolved.
 ```
 ### SESSION 22 — MUHAMMAD VERSUS FIRUZ: AMBITION, FISCAL METHOD, ELITE MANAGEMENT, RELIGION AND DURABILITY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Muhammad bin Tughlaq and Firuz Shah used contrasting strategies to govern the Sultanate, one stressing ambitious direct control and the other stressing conciliation and hereditary stability.
+**Plain-language definition:** Comparing Muhammad bin Tughlaq with Firuz Shah means setting two contrasting answers to the same problem of holding a large Sultanate together from a northern core.
 
-**Technical definition:** The comparison turns on territorial imagination, fiscal instruments, elite recruitment, religious politics and durability rather than on a simple contrast between irrationality and benevolence.
+**Technical definition:** The comparison runs on five axes - territorial imagination, fiscal strategy, elite management, religious politics and durability - rather than on a contrast between irrationality and benevolence.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The two reigns reveal alternative responses to the same Sultanate problem of aligning territorial reach, agrarian revenue, elite compliance and administrative capacity.
+> The two reigns are alternative responses to one Sultanate problem: aligning territorial reach, agrarian revenue, elite compliance and administrative capacity.
 
 #### MUST-WRITE KEYWORDS
 
-- **Muhammad bin Tughlaq**
-- **Firuz Shah**
+- **territorial imagination**
 - **fiscal strategy**
 - **elite management**
-- **durability**
+- **religious politics**
+- **durability of rule**
+- **innovation without compliance versus stability without discipline**
 
-**How to use them:** Compare Muhammad bin Tughlaq and Firuz Shah through state capacity, fiscal strategy, elite management, religious politics and durability before giving a qualified verdict.
+**How to use them:** Run the comparison axis by axis - territorial imagination, fiscal strategy, elite management, religious politics and durability of rule - and close on innovation without compliance versus stability without discipline instead of ranking the two rulers morally.
 
 [ANALYSIS] The strongest comparison is structural. Muhammad tried to hold together a nearly pan-subcontinental empire by experimentation, direct supervision and uniformising pressure. Firuz accepted a smaller effective horizon and traded central sharpness for social peace in the north-Indian core.
 
@@ -1530,48 +1616,52 @@ ANSWER-GRABBING FORMULATION: Do not turn translation patronage into proof that o
 
 - [ANALYSIS] Muhammad stressed **innovation without secure compliance**; Firuz stressed **stability without secure central discipline**.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Muhammad and Firuz failed in opposite directions rather than at different levels of competence. **Named evidence:** Muhammad pursued direct-rule expansion to the south and frontier offensives, heavy assessment, a monetisation experiment and developmental loans, and widened recruitment to include foreigners and new men, while Firuz accepted a reduced northern Sultanate, softened extraction claims, invested in irrigation, and secured elites through heredity, high salaries and audit relaxation; in religion Muhammad was observant yet intellectually open and quarrelled with the orthodox ulema before seeking a caliphal rescript, whereas Firuz made jizya separate, conceded to the ulema and simultaneously patronised translations. **Analysis:** placed side by side, the two records show that the Sultanate could buy reach at the cost of credibility or credibility at the cost of reach, but had no instrument capable of delivering both. **Qualification:** neither the genius-versus-failure binary nor the benevolent-versus-fanatical binary survives this comparison, and short-term stability under Firuz is no more proof of administrative success than ambitious intention under Muhammad.
+
 #### CLOSING RECALL FLOW — MUHAMMAD VERSUS FIRUZ: AMBITION, FISCAL METHOD, ELITE MANAGEMENT, RELIGION AND DURABILITY
 
 ```text
 START / CONCEPT: Muhammad versus Firuz: ambition, fiscal method, elite management, religion and durability
         |
         v
-EXACT TERMS: Muhammad bin Tughlaq · Firuz Shah · fiscal strategy · elite management · durability
+EXACT TERMS: territorial imagination · fiscal strategy · elite management · religious politics · durability of rule · innovation without compliance versus stability without discipline
         |
         v
 MECHANISM / ARGUMENT: Muhammad pursued wider direct supervision through experiments and heterogeneous recruitment, while Firuz reduced coercive intensity through elite concessions, heredity and public works.
         |
         v
-CONSEQUENCE / CONTRAST: Muhammad's failures damaged trust and accelerated fragmentation, whereas Firuz achieved longer peace at the cost of weaker audit, military and succession controls.
+CONSEQUENCE / CONTRAST: Muhammad's failures damaged trust and accelerated fragmentation, whereas Firuz achieved a longer peace at the cost of weaker audit, military and succession controls.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not reduce the comparison to mad ruler versus kind ruler or treat either short-term stability or ambitious intention as proof of durable administrative success.
+UPSC TRAP / ANSWER-USE: Do not reduce the comparison to mad ruler versus kind ruler, and do not treat either short-term stability or ambitious intention as proof of durable administrative success.
         |
         v
-ANSWER-GRABBING FORMULATION: The two reigns reveal alternative responses to the same Sultanate problem of aligning territorial reach, agrarian revenue, elite compliance and administrative capacity.
+ANSWER-GRABBING FORMULATION: Conclude that Muhammad over-strained the Sultanate's capacity while Firuz undercut its central edge - overreach against over-accommodation.
 ```
 ### SESSION 23 — SUCCESSION, SLAVES, NOBLES AND POST-1388 INSTABILITY: WHY THE SULTANATE WEAKENED BEFORE TIMUR
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The groundwork had already been laid by hereditary office, military slackness, factional duality between nobles and slave corps, and unresolved succession.
+**Plain-language definition:** Post-1388 instability was the succession breakdown after Firuz Shah's death, in which princes, factional nobles and the slave corps competed while provincial governors asserted autonomy.
 
-**Technical definition:** Even before Firuz died, conflict had broken out between Prince Muhammad and the wazir Khan-i-Jahan II.
+**Technical definition:** The weakening was structural before it was dynastic: hereditary office, relaxed military discipline, a factional duality between nobles and the slave corps, and an unresolved succession rule reinforced one another.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The groundwork had already been laid by hereditary office, military slackness, factional duality between nobles and slave corps, and unresolved succession.
+> Timur's sack of Delhi in 1398-99 was a completing shock, not the single creator of a decline whose groundwork was already laid.
 
 #### MUST-WRITE KEYWORDS
 
-- **Succession**
-- **slaves**
-- **nobles**
-- **post-1388 instability**
-- **why the Sultanate weakened before Timur**
-- **completing shock**
+- **conflict between Prince Muhammad and Khan-i-Jahan II**
+- **failed joint-sovereignty experiments**
+- **slave corps as king-maker**
+- **autonomy in Gujarat, Malwa, Khandesh and Jaunpur**
+- **withheld revenue by local chiefs**
+- **completing shock rather than sole cause**
 
-**How to use them:** Frame the answer through Succession; define slaves, connect nobles with post-1388 instability to explain the mechanism, and use why the Sultanate weakened before Timur for the decisive comparison or qualification.
+**How to use them:** Start from the conflict between Prince Muhammad and Khan-i-Jahan II and the failed joint-sovereignty experiments; show the slave corps as king-maker; evidence contraction through autonomy in Gujarat, Malwa, Khandesh and Jaunpur and withheld revenue by local chiefs; then place Timur as a completing shock rather than sole cause.
 
 [FACT] Even before Firuz died, conflict had broken out between Prince Muhammad and the wazir Khan-i-Jahan II. The slave corps intervened, princely alignments shifted, and joint-sovereignty experiments failed to stabilise succession.
 
@@ -1588,48 +1678,52 @@ ANSWER-GRABBING FORMULATION: The two reigns reveal alternative responses to the 
 - [FACT] Topic 05 stops with the causal web of weakening.
 - [FACT] Topic 06 owns the full narrative of Timur, the Sayyids, Lodis and the fifteenth-century north-Indian balance of power.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the Sultanate's collapse of authority was well advanced before any external invasion. **Named evidence:** even before Firuz died, conflict broke out between Prince Muhammad and the wazir Khan-i-Jahan II, the slave corps intervened, princely alignments shifted and joint-sovereignty experiments failed to stabilise the succession; after 1388 repeated struggles among sons and grandsons followed, the slaves tried and failed to play king-maker, governors in Gujarat, Malwa, Khandesh and Jaunpur asserted autonomy, local chiefs withheld revenue and Delhi's practical zone contracted. **Analysis:** these are the direct consequences of the preceding reign's own settlement, because hereditary office removed the centre's leverage over its servants, relaxed muster removed its military edge, and the slave corps supplied a rival armed constituency with its own interest in the succession. **Qualification:** Topic 05 stops at this causal web; Timur's invasion of 1398-99 was a devastating later rupture and is owned, with the Sayyids and Lodis, by Topic 06.
+
 #### CLOSING RECALL FLOW — SUCCESSION, SLAVES, NOBLES AND POST-1388 INSTABILITY: WHY THE SULTANATE WEAKENED BEFORE TIMUR
 
 ```text
 START / CONCEPT: Succession, slaves, nobles and post-1388 instability: why the Sultanate weakened before Timur
         |
         v
-EXACT TERMS: Succession · slaves · nobles · post-1388 instability · why the Sultanate weakened before Timur · completing shock
+EXACT TERMS: conflict between Prince Muhammad and Khan-i-Jahan II · failed joint-sovereignty experiments · slave corps as king-maker · autonomy in Gujarat, Malwa, Khandesh and Jaunpur · withheld revenue by local chiefs · completing shock rather than sole cause
         |
         v
-MECHANISM / ARGUMENT: Even before Firuz died, conflict had broken out between Prince Muhammad and the wazir Khan-i-Jahan II.
+MECHANISM / ARGUMENT: Hereditary office removed the centre's leverage over its servants, relaxed muster removed its military edge, and the slave corps supplied a rival armed constituency with its own stake in who succeeded.
         |
         v
-CONSEQUENCE / CONTRAST: Timur's sack of Delhi in 1398-99 was therefore a completing shock, not the single creator of decline.
+CONSEQUENCE / CONTRAST: Delhi's practical zone of authority contracted province by province while the court exhausted itself in dynastic conflict.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: after Firuz's death in 1388, repeated struggles among sons and grandsons followed.
+UPSC TRAP / ANSWER-USE: Do not let Timur carry the whole explanation of decline, and do not narrate 1398-99 here; the invasion struck a state already weakened, and its full account belongs to Topic 06.
         |
         v
-ANSWER-GRABBING FORMULATION: The groundwork had already been laid by hereditary office, military slackness, factional duality between nobles and slave corps, and unresolved succession.
+ANSWER-GRABBING FORMULATION: Present post-1388 collapse as the delayed bill for Firuz's hereditary settlement, paid by a court that could no longer discipline its own servants.
 ```
 ### SESSION 24 — HISTORIOGRAPHY, HISTORICAL SIGNIFICANCE AND THE GS-I ANSWER SPINE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** [DEBATE] Older moralising narratives pushed Muhammad bin Tughlaq toward the labels "genius," "visionary" or "madman." The more defensible line, supported by the local sources, is a state-capacity reading: many policies had a rational objective, but they demanded trust, information and coordinated enforcement that the Sultanate could not reliably supply across that scale.
+**Plain-language definition:** Tughlaq historiography is the argument over how the two reigns should be labelled, and the state-capacity reading is the defensible replacement for the inherited adjectives.
 
-**Technical definition:** The Tughlaqs show that medieval imperial power did not fail only because rulers were virtuous or vicious; it succeeded or failed according to how far objectives, coercion, information, elite bargains and agrarian credibility could be aligned.
+**Technical definition:** Historical significance is assessed on five measurable counts: the widest reach of the Delhi Sultanate, the clearest pre-Mughal overstretch, transmission of north-Indian political culture into the Deccan, the most visible medieval canal programme in the northern core, and the institutional road to post-1388 fragmentation.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The Tughlaqs show that medieval imperial power did not fail only because rulers were virtuous or vicious; it succeeded or failed according to how far objectives, coercion, information, elite bargains and agrarian credibility could be aligned.
+> Tughlaq historiography becomes examinable only when the inherited labels are replaced by a state-capacity reading of objectives, coercion, information, elite bargains and agrarian credibility.
 
 #### MUST-WRITE KEYWORDS
 
-- **Historiography**
-- **historical significance**
-- **the GS-I answer spine**
+- **state-capacity reading**
+- **genius, visionary and madman labels**
+- **welfare-monarch reputation**
 - **widest reach of the Delhi Sultanate**
-- **objectives, coercion, information, elite bargains and agrarian credibility**
-- **DEBATE**
+- **pre-Mughal administrative overstretch**
+- **GS-I answer spine**
 
-**How to use them:** Frame the answer through Historiography; define historical significance, connect the GS-I answer spine with widest reach of the Delhi Sultanate to explain the mechanism, and use objectives, coercion, information, elite bargains and agrarian credibility for the decisive comparison or qualification.
+**How to use them:** Replace the genius, visionary and madman labels and the welfare-monarch reputation with a state-capacity reading; evidence significance through the widest reach of the Delhi Sultanate and pre-Mughal administrative overstretch; then compress all of it into the GS-I answer spine.
 
 [DEBATE] Older moralising narratives pushed Muhammad bin Tughlaq toward the labels "genius," "visionary" or "madman." The more defensible line, supported by the local sources, is a **state-capacity reading**: many policies had a rational objective, but they demanded trust, information and coordinated enforcement that the Sultanate could not reliably supply across that scale.
 
@@ -1649,76 +1743,33 @@ ANSWER-GRABBING FORMULATION: The groundwork had already been laid by hereditary 
 
 - [ANALYSIS] The Tughlaqs show that medieval imperial power did not fail only because rulers were virtuous or vicious; it succeeded or failed according to how far **objectives, coercion, information, elite bargains and agrarian credibility** could be aligned.
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** the Tughlaq reputation problem is solved by replacing adjectives with analysable categories. **Named evidence:** older moralising narratives pushed Muhammad toward "genius", "visionary" or "madman", and remembered Firuz as a welfare monarch, yet the local archive shows that Muhammad's policies carried rational objectives while demanding trust, information and coordinated enforcement the Sultanate could not supply, and that Firuz's conciliation strengthened oligarchy, relaxed audit, sharpened orthodoxy and weakened the army's quality even as it funded canals and hospitals. **Analysis:** converting each label into a question about objective, instrument, beneficiary and durability turns a reputational dispute into an examinable argument, which is exactly what a GS-I answer must do. **Qualification:** the categories do not erase the labels' partial truth - Muhammad's projects were genuinely imaginative and Firuz's works genuinely beneficial - and the period's significance is best measured by the widest reach of the Delhi Sultanate, its pre-Mughal overstretch, the transmission of north-Indian political culture into the Deccan, the northern canal programme and the institutional road to post-1388 fragmentation.
+
 #### CLOSING RECALL FLOW — HISTORIOGRAPHY, HISTORICAL SIGNIFICANCE AND THE GS-I ANSWER SPINE
 
 ```text
 START / CONCEPT: Historiography, historical significance and the GS-I answer spine
         |
         v
-EXACT TERMS: Historiography · historical significance · the GS-I answer spine · widest reach of the Delhi Sultanate · objectives, coercion, information, elite bargains and agrarian credibility · DEBATE
+EXACT TERMS: state-capacity reading · genius, visionary and madman labels · welfare-monarch reputation · widest reach of the Delhi Sultanate · pre-Mughal administrative overstretch · GS-I answer spine
         |
         v
-MECHANISM / ARGUMENT: [DEBATE] Older moralising narratives pushed Muhammad bin Tughlaq toward the labels "genius," "visionary" or "madman." The more defensible line, supported by the local sources, is a state-capacity reading: many policies had a rational objective, but they demanded trust, information and coordinated enforcement that the Sultanate could not reliably supply across that scale.
+MECHANISM / ARGUMENT: Each loaded adjective is converted into a question about objective, administrative instrument, beneficiary and durability, which is what turns a reputational dispute into an examinable argument.
         |
         v
-CONSEQUENCE / CONTRAST: [DEBATE] Firuz has often been remembered as a welfare monarch.
+CONSEQUENCE / CONTRAST: The reputations survive with their partial truth intact, but they no longer substitute for evidence about who benefited, who obeyed and what endured.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the Tughlaqs show that medieval imperial power did not fail only because rulers were...
+UPSC TRAP / ANSWER-USE: Do not open a Tughlaq answer with "visionary failure" or "welfare ruler"; a label may close a paragraph only after the evidence that disciplines it has already been supplied.
         |
         v
-ANSWER-GRABBING FORMULATION: The Tughlaqs show that medieval imperial power did not fail only because rulers were virtuous or vicious; it succeeded or failed according to how far objectives, coercion, information, elite bargains and agrarian credibility could be aligned.
-```
-### SESSION 25 — BOUNDED LIVE LINKAGE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The live page is a teaching bridge only.
-
-**Technical definition:** The Archaeological Survey of India's Qutb Minar page was rechecked on 30 August 2026.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The live page is a teaching bridge only.
-
-#### MUST-WRITE KEYWORDS
-
-- **Bounded live linkage**
-- **The Archaeological Survey**
-- **India's Qutb Minar**
-- **This**
-- **Firuz's**
-- **The live page**
-
-**How to use them:** Frame the answer through Bounded live linkage; define The Archaeological Survey, connect India's Qutb Minar with This to explain the mechanism, and use Firuz's for the decisive comparison or qualification.
-
-The Archaeological Survey of India's Qutb Minar page was rechecked on 30 August 2026. It states that inscriptions record repairs to the minar by Firuz Shah Tughlaq after its earlier Aibak-Iltutmish construction phases. This official material link helps teach repair, reuse and dynastic appropriation; it does not validate every literary claim about Firuz's public works or wider political programme.
-
-The live page is a teaching bridge only. Historical chronology, causation and institutional claims remain controlled by repository Markdown, OCR-searchable books and source criticism.
-
-#### CLOSING RECALL FLOW — BOUNDED LIVE LINKAGE
-
-```text
-START / CONCEPT: Bounded live linkage
-        |
-        v
-EXACT TERMS: Bounded live linkage · The Archaeological Survey · India's Qutb Minar · This · Firuz's · The live page
-        |
-        v
-MECHANISM / ARGUMENT: The Archaeological Survey of India's Qutb Minar page was rechecked on 30 August 2026.
-        |
-        v
-CONSEQUENCE / CONTRAST: This official material link helps teach repair, reuse and dynastic appropriation; it does not validate every literary claim about Firuz's public works or wider political programme.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: this official material link helps teach repair, reuse and dynastic appropriation.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The live page is a teaching bridge only.
+ANSWER-GRABBING FORMULATION: Anchor the GS-I spine in the widest reach of the Delhi Sultanate and the clearest pre-Mughal overstretch, and let historiography follow the evidence rather than lead it.
 ```
 ### MEDIEVAL DEEP-REVIEW CORE CONTROL
 
-- **Must remember:** Daulatabad transfer, token currency and Doab taxation were separate experiments with different aims and outcomes.
+- **Must remember:** The Daulatabad second capital, the token currency and the doab assessment were three separate experiments with different aims and outcomes; "capital transfer" is the wording this package corrects, not the wording it uses.
 - **Close distinction:** Failure must not be reduced to a timeless 'mad king' label; design, enforcement, ecology and source hostility matter.
 - **Evidence / interpretation limit:** Firuz Shah's canals, charities, slavery and religious policy require a combined fiscal, social and political reading.
 
@@ -1984,690 +2035,6 @@ regional/ecological effect -> outcome -> later stereotype.
 
 **Explanation:** This package's central comparison rests on different state strategies, not on shallow moral labels.
 
-### Original broad-coverage MCQs
-
-> **Rotation check rule:** This second original sequence restarts at **A** and rotates strictly through **B, C, D**.
-
-##### Broad MCQ 01
-
-**Question:** Why does Topic 05 begin with Ghiyasuddin Tughlaq rather than only with Muhammad bin Tughlaq?
-
-- A. Because Ghiyasuddin created the dynastic legitimacy and immediate political platform inherited by Muhammad.
-- B. Because Firuz Shah belonged to the same branch of Rajputs.
-- C. Because no Khalji ruler ever existed before him.
-- D. Because Ghiyasuddin founded Vijayanagara.
-
-**Answer: A.**
-
-**Explanation:** The Tughlaq story begins with the 1320 takeover and Ghiyasuddin's consolidation, not only with Muhammad's experiments.
-
-##### Broad MCQ 02
-
-**Question:** Tughlaqabad is best understood as:
-
-- A. a pleasure garden with no political meaning.
-- B. a fortified dynastic statement of military austerity and new legitimacy.
-- C. a Portuguese warehouse.
-- D. a Mughal observatory.
-
-**Answer: B.**
-
-**Explanation:** Tughlaqabad proclaimed a new regime through a fortified, sloping-wall architectural idiom.
-
-##### Broad MCQ 03
-
-**Question:** Which is the safest statement regarding Ghiyasuddin Tughlaq's death?
-
-- A. It is fully proved as a saintly curse.
-- B. It is fully proved as a deliberate murder by Muhammad bin Tughlaq.
-- C. The secure event is the pavilion collapse; conspiracy and curse narratives belong to layered and disputed source traditions.
-- D. There is no source at all about the event.
-
-**Answer: C.**
-
-**Explanation:** The package separates secure event, suspicion and legend instead of choosing certainty where the evidence does not.
-
-##### Broad MCQ 04
-
-**Question:** Why are Muhammad bin Tughlaq's policies better read through a state-capacity lens than a personality caricature?
-
-- A. Because his reign had no relation to geography.
-- B. Because every policy succeeded once correctly explained.
-- C. Because he never faced military problems.
-- D. Because many policies had intelligible aims but demanded coordination, trust and information that the Sultanate could not reliably supply.
-
-**Answer: D.**
-
-**Explanation:** The state-capacity lens explains why rational aims could yield coercive failure.
-
-##### Broad MCQ 05
-
-**Question:** The choice of Daulatabad was politically meaningful chiefly because:
-
-- A. Devagiri was already a strategic Deccan base and more central to the enlarged imperial space.
-- B. it lay closest to Tibet.
-- C. it had no settled population.
-- D. it had never been touched by Delhi before.
-
-**Answer: A.**
-
-**Explanation:** Daulatabad was chosen from an existing strategic logic, not at random.
-
-##### Broad MCQ 06
-
-**Question:** Which statement corrects the standard textbook exaggeration about the Daulatabad move?
-
-- A. The move affected only Bengal.
-- B. Pressure fell especially on elites and service groups, while Delhi remained inhabited and continued to function.
-- C. Coins ceased to be struck in Delhi forever.
-- D. No one moved at all.
-
-**Answer: B.**
-
-**Explanation:** The secure correction is against total depopulation, not against all coercion.
-
-##### Broad MCQ 07
-
-**Question:** Muhammad bin Tughlaq's token-currency experiment should NOT be described as:
-
-- A. fiduciary coinage.
-- B. a policy undermined by forgery.
-- C. paper currency.
-- D. a monetary experiment tied to credibility.
-
-**Answer: C.**
-
-**Explanation:** The package explicitly rejects the common but incorrect label "paper currency."
-
-##### Broad MCQ 08
-
-**Question:** What most directly ruined the token-currency experiment?
-
-- A. A total absence of military expenditure.
-- B. Refusal of all nobles to accept any metal coin.
-- C. The closing of all mints by order of Firuz Shah.
-- D. Failure to maintain trust by controlling authentication and counterfeiting.
-
-**Answer: D.**
-
-**Explanation:** The issue was not novelty alone but the state's weak monopoly over verification.
-
-##### Broad MCQ 09
-
-**Question:** Which feature of the doab policy most sharply increased the effective burden on cultivators?
-
-- A. Assessment by standard yield and official prices rather than actual output and market reality.
-- B. Replacing officials with village assemblies only.
-- C. Complete abolition of revenue demand.
-- D. Free canal irrigation for all India.
-
-**Answer: A.**
-
-**Explanation:** Standard-yield rigidity under stress was central to the crisis.
-
-##### Broad MCQ 10
-
-**Question:** Muhammad bin Tughlaq's move to Swargadwari in the famine phase indicates:
-
-- A. his conversion into a forest ascetic.
-- B. the severity of scarcity and pestilential conditions around Delhi during the agrarian crisis.
-- C. permanent abandonment of Delhi for Bengal.
-- D. the start of the Bahmani kingdom.
-
-**Answer: B.**
-
-**Explanation:** Swargadwari belongs to the relief-and-crisis sequence linked to the doab distress and famine.
-
-##### Broad MCQ 11
-
-**Question:** The most careful interpretation of Diwan-i-Amir-i-Kohi is that it aimed to:
-
-- A. create a seaborne customs network.
-- B. destroy cultivated land in the doab.
-- C. extend cultivation onto banjar land while improving crops through loans and supervision.
-- D. replace nobles with village priests.
-
-**Answer: C.**
-
-**Explanation:** The advanced OCR encourages the more precise reading of agricultural extension rather than impossible cultivation of unusable soil.
-
-##### Broad MCQ 12
-
-**Question:** What is the safest caution when discussing the Khurasan project?
-
-- A. It had no relation to the north-west frontier.
-- B. It was identical to the Qarachil expedition.
-- C. It certainly conquered Iraq.
-- D. Chroniclers inflate its scale and aim, so it should be treated as a strategic frontier project rather than automatic proof of world-conquest fantasy.
-
-**Answer: D.**
-
-**Explanation:** The package keeps the project within a strategic frontier frame and marks exaggerated chronicler claims.
-
-##### Broad MCQ 13
-
-**Question:** The Qarachil expedition is best described as:
-
-- A. a Himalayan campaign wrecked by terrain and over-extension.
-- B. a purely maritime expedition to Arabia.
-- C. the founding of Firozabad.
-- D. the abolition of jizya.
-
-**Answer: A.**
-
-**Explanation:** Qarachil belongs to mountain logistics, not to China or overseas war.
-
-##### Broad MCQ 14
-
-**Question:** Which statement best connects Muhammad bin Tughlaq's southern losses to later regional states?
-
-- A. Delhi's southern failures automatically created a stable pan-Indian federation.
-- B. Plague, distance and repeated rebellion weakened Delhi's direct rule, creating the setting for successor powers such as Vijayanagara and Bahmani.
-- C. The south remained completely unaffected by Delhi's crises.
-- D. Bengal created the Bahmani state.
-
-**Answer: B.**
-
-**Explanation:** Topic 05 treats Vijayanagara and Bahmani as outcomes of Delhi overstretch, while full state histories remain elsewhere.
-
-##### Broad MCQ 15
-
-**Question:** Barani's complaints about Muhammad bin Tughlaq appointing "mean and ignoble" men are most valuable because they reveal:
-
-- A. that all service castes ruled the empire successfully.
-- B. that no such officials ever existed.
-- C. elite resentment at widened recruitment and changing access to office.
-- D. the end of Persian as a court language.
-
-**Answer: C.**
-
-**Explanation:** The phrase is evidence about aristocratic ideology as much as about administration.
-
-##### Broad MCQ 16
-
-**Question:** What is the chief limitation of Ibn Battuta for reconstructing the Tughlaq state?
-
-- A. He never visited India.
-- B. He served only Firuz Shah.
-- C. He wrote only about Gupta temples.
-- D. He is strongest on courtly and travel experience, not on comprehensive village-level structural data.
-
-**Answer: D.**
-
-**Explanation:** Ibn Battuta is vivid and valuable, but his genre and location limit the scope of his evidence.
-
-##### Broad MCQ 17
-
-**Question:** Muhammad bin Tughlaq's turn toward caliphal investiture and the Caliph's name on coins is best explained as:
-
-- A. an attempt to answer orthodox hostility by reinforcing symbolic legitimacy.
-- B. a rejection of all Islamic political language.
-- C. a sign that Bengal had become the capital.
-- D. a revenue measure to fund canal digging under Firuz.
-
-**Answer: A.**
-
-**Explanation:** Caliphal symbolism was used to answer critics, though it did not fully solve the legitimacy problem.
-
-##### Broad MCQ 18
-
-**Question:** Firuz Shah's accession differed from Muhammad bin Tughlaq's imperial style because Firuz:
-
-- A. ended all concern for revenue.
-- B. accepted a smaller, more governable horizon and sought stability through conciliation.
-- C. immediately reconquered the deep south.
-- D. abandoned urban building.
-
-**Answer: B.**
-
-**Explanation:** Firuz's political bargain rested on governability, not on renewed all-India direct-rule ambition.
-
-##### Broad MCQ 19
-
-**Question:** The hereditary transfer of offices and iqtas under Firuz Shah most clearly encouraged:
-
-- A. stronger meritocracy.
-- B. permanent elimination of noble privilege.
-- C. entrenchment of office-holding families and weakening of central discipline.
-- D. the disappearance of rural revenue assignments.
-
-**Answer: C.**
-
-**Explanation:** Heredity reduced rebellion in the short run but deepened long-run oligarchic weakness.
-
-##### Broad MCQ 20
-
-**Question:** Why is Firuz Shah's jizya policy important for Topic 05?
-
-- A. It proves that all other taxes vanished overnight.
-- B. It had no relation to orthodoxy.
-- C. It shows that Brahmans became army commanders by right.
-- D. It illustrates Firuz's sharper juristic ordering of rule, including denial of the earlier practical Brahman exemption.
-
-**Answer: D.**
-
-**Explanation:** The jizya issue is central to understanding Firuz's combination of benevolence and orthodoxy.
-
-##### Broad MCQ 21
-
-**Question:** Under Firuz Shah, many soldiers of the central army were paid through:
-
-- A. village-revenue assignments known as *wajh*.
-- B. a fully salaried navy based at Cambay.
-- C. temple management rights in Odisha.
-- D. only imported Venetian silver.
-
-**Answer: A.**
-
-**Explanation:** The advanced OCR explicitly notes payment through village assignments, reinforcing heredity and localisation.
-
-##### Broad MCQ 22
-
-**Question:** In Topic 05, *haqq-i-sharb* is best understood as:
-
-- A. the salary of Ibn Battuta.
-- B. a water due or irrigation tax linked to canal benefit.
-- C. a slave-market cess.
-- D. a tax on paper manuscripts.
-
-**Answer: B.**
-
-**Explanation:** It refers to an irrigation-related levy, not to a general trade or market tax.
-
-##### Broad MCQ 23
-
-**Question:** Which statement about Firuz Shah's architectural and urban activity is the safest?
-
-- A. He had no connection at all with Hauz Khas or Kotla.
-- B. Every later city in north India was entirely his foundation.
-- C. He founded or renewed important urban sites, repaired earlier monuments and must be discussed with careful attribution rather than inflated total credit.
-- D. He destroyed all older monuments and built only new ones.
-
-**Answer: C.**
-
-**Explanation:** Attribution must be precise: Firuz was a major builder and repairer, but not the sole creator of every later urban centre.
-
-##### Broad MCQ 24
-
-**Question:** The movement of the Topra and Meerut Ashokan pillars to Delhi is most important because it demonstrates:
-
-- A. Firuz Shah's rejection of older political symbols.
-- B. that Tughlaq rulers lacked engineering knowledge.
-- C. the end of all inscriptional culture.
-- D. a fusion of technical transport skill, prestige appropriation and dynastic self-display.
-
-**Answer: D.**
-
-**Explanation:** The pillar episode is both a technological feat and an ideological act.
-
-##### Broad MCQ 25
-
-**Question:** The Diwan-i-Bandagan is best described as:
-
-- A. an organised apparatus managing a large body of slaves for labour, service and political dependence.
-- B. a voluntary marriage bureau.
-- C. a mint-control office for token currency.
-- D. a literary academy founded by Ibn Battuta.
-
-**Answer: A.**
-
-**Explanation:** The institution tied slave labour, palace service and power politics together.
-
-##### Broad MCQ 26
-
-**Question:** What is the sharpest limitation in calling Firuz Shah a "welfare monarch"?
-
-- A. He ruled only in the Deccan.
-- B. Much of the benevolence was selective, politically useful and concentrated among favoured or respectable groups rather than universally distributed.
-- C. He never undertook any charitable measure.
-- D. He abolished all hospitals.
-
-**Answer: B.**
-
-**Explanation:** The welfare label needs qualification because beneficiaries and motives were selective.
-
-##### Broad MCQ 27
-
-**Question:** Firuz Shah's patronage of translations from Sanskrit into Persian should lead to which conclusion?
-
-- A. Orthodoxy disappeared from the reign.
-- B. Jizya lost all significance.
-- C. Cultural interest and orthodox state-marking could coexist in the same reign.
-- D. The ulema had no role in politics.
-
-**Answer: C.**
-
-**Explanation:** Translation patronage does not cancel the evidence for sharper juristic orthodoxy.
-
-##### Broad MCQ 28
-
-**Question:** Firuz Shah's claim to have reduced mutilatory punishment should be read as:
-
-- A. a meaningless invention unsupported by any source tradition.
-- B. proof that coercion vanished from the Sultanate.
-- C. evidence that no rebellion occurred after 1351.
-- D. part of a benevolent self-presentation that reduced one style of punishment without eliminating power or coercion.
-
-**Answer: D.**
-
-**Explanation:** The package treats the claim as meaningful but not as proof of a non-coercive state.
-
-##### Broad MCQ 29
-
-**Question:** Which summary of Firuz Shah's military career is the safest?
-
-- A. Mixed campaigns in Bengal, Jajnagar, Nagarkot and Sindh, combined with refusal to attempt southern reconquest.
-- B. Complete military inactivity.
-- C. Total reconquest of the south and Bengal alike.
-- D. Exclusive focus on sea-borne warfare.
-
-**Answer: A.**
-
-**Explanation:** Firuz campaigned, but with limited durable results and no return to Muhammad's southern ambition.
-
-##### Broad MCQ 30
-
-**Question:** Firuz Shah's repeated search for caliphal investiture is best interpreted as:
-
-- A. a sign that Firuz abandoned Islam.
-- B. a symbolic reinforcement of legitimacy rather than a source of real executive power.
-- C. evidence that Bengal had accepted his suzerainty permanently.
-- D. proof that the Caliph directly governed Delhi.
-
-**Answer: B.**
-
-**Explanation:** By Firuz's time, caliphal prestige remained useful symbolically even though practical power lay elsewhere.
-
-##### Broad MCQ 31
-
-**Question:** Why must the *Futuhat-i Firuz Shahi* be read carefully?
-
-- A. Because it deals only with Portuguese trade.
-- B. Because it contains no political material.
-- C. Because it is a ruler's self-presentation and must be checked against other narrative and material evidence.
-- D. Because it was written by Chengiz Khan.
-
-**Answer: C.**
-
-**Explanation:** The *Futuhat* is valuable precisely because it reveals how Firuz wanted to be remembered.
-
-##### Broad MCQ 32
-
-**Question:** Which comparison most clearly distinguishes Muhammad bin Tughlaq from Firuz Shah?
-
-- A. Muhammad and Firuz both relied only on saints.
-- B. Muhammad ruled a smaller territory than Firuz.
-- C. Muhammad disliked administration while Firuz invented it.
-- D. Muhammad pursued high-risk innovation and direct supervision, whereas Firuz sought durable calm through conciliation and heredity.
-
-**Answer: D.**
-
-**Explanation:** This contrast captures the package's core comparative framework.
-
-##### Broad MCQ 33
-
-**Question:** Which factor most directly worsened post-1388 instability?
-
-- A. Interaction of hereditary office, factional nobles, ambitious princes and the slave corps.
-- B. Immediate reconquest of Madurai by Delhi.
-- C. Elimination of all provincial governors.
-- D. Permanent unity between princes and wazirs.
-
-**Answer: A.**
-
-**Explanation:** Succession weakness was cumulative and involved more than one courtly constituency.
-
-##### Broad MCQ 34
-
-**Question:** Timur's later invasion should be connected to Topic 05 in which way?
-
-- A. As proof that Firuz recovered the Deccan.
-- B. As a culminating shock that struck a Sultanate already weakened by earlier structural and succession problems.
-- C. As the single original cause of Tughlaq decline.
-- D. As an event of Muhammad bin Tughlaq's youth.
-
-**Answer: B.**
-
-**Explanation:** Topic 05 builds the preconditions; Topic 06 owns the full Timur narrative.
-
-##### Broad MCQ 35
-
-**Question:** Why is the Tughlaq phase historically significant in the larger Sultanate story?
-
-- A. It ended all north-south political contact.
-- B. It eliminated regional states permanently.
-- C. It combined the widest Delhi reach, dramatic over-stretch, Deccan political consequences and important northern irrigation-public-works initiatives.
-- D. It introduced no notable administrative or political shift.
-
-**Answer: C.**
-
-**Explanation:** The Tughlaq age is historically important both for expansion and for the visible limits of such expansion.
-
-##### Broad MCQ 36
-
-**Question:** The most defensible historiographical line on Muhammad bin Tughlaq is that he was:
-
-- A. a saintly planner betrayed only by fate.
-- B. a ruler whose every policy was modern and democratic.
-- C. simply insane and therefore beyond analysis.
-- D. an ambitious ruler with many rational aims whose sequencing, coercion and compliance mechanisms repeatedly failed.
-
-**Answer: D.**
-
-**Explanation:** This avoids both caricature and romantic rescue.
-
-##### Broad MCQ 37
-
-**Question:** The most defensible historiographical line on Firuz Shah is that he was:
-
-- A. a benevolent developmental ruler whose public works coexisted with heredity, orthodoxy and long-run central weakening.
-- B. a ruler about whom only European evidence exists.
-- C. uninterested in agriculture or towns.
-- D. identical in method to Muhammad bin Tughlaq.
-
-**Answer: A.**
-
-**Explanation:** Firuz's reputation must include both developmental initiatives and institutional softening.
-
-##### Broad MCQ 38
-
-**Question:** Which architectural feature is most closely associated with Tughlaq style in this package?
-
-- A. Neo-classical porticoes.
-- B. Battered or sloping walls combined with an austere fortified idiom.
-- C. Extensive marble pietra dura panels.
-- D. Circular Buddhist railings.
-
-**Answer: B.**
-
-**Explanation:** The package repeatedly uses the sloping-wall fortified style as a Tughlaq marker.
-
-##### Broad MCQ 39
-
-**Question:** Why are coins, canals, forts and pillars important alongside chronicles in Topic 05?
-
-- A. They matter only for ancient history.
-- B. They prove that every chronicle number is exact.
-- C. They anchor claims in material action while reminding us that physical survival does not automatically equal full administrative control.
-- D. They replace all written sources completely.
-
-**Answer: C.**
-
-**Explanation:** Material evidence is a corrective, not an omniscient substitute.
-
-##### Broad MCQ 40
-
-**Question:** Which one-line conclusion best sums up this workbook's argument?
-
-- A. Policy failure proves absence of purpose.
-- B. Benevolence alone guarantees stability.
-- C. Medieval rule can be explained entirely through morality tales.
-- D. The Tughlaq story is best read through the fit - or misfit - between ambition, information, coercion, revenue and elite management.
-
-**Answer: D.**
-
-**Explanation:** This is the package's master analytical sentence.
-
-#### Remedial MCQs - trap-correction set
-
-> **Rotation check rule:** This third original sequence restarts at **A** and rotates strictly through **B, C, D**.
-
-##### Remedial MCQ 01
-
-**Question:** Which correction best defeats the trap "Muhammad emptied Delhi completely"?
-
-- A. He imposed severe movement pressure, but mainly on elites and associated groups; Delhi remained inhabited and functioning.
-- B. Daulatabad never existed.
-- C. No movement occurred at all.
-- D. Only Bengal was moved.
-
-**Answer: A.**
-
-**Explanation:** The right correction is against total depopulation, not against coercion itself.
-
-##### Remedial MCQ 02
-
-**Question:** Which correction best defeats the trap "Muhammad introduced paper currency"?
-
-- A. Firuz Shah introduced it after 1351.
-- B. The experiment used copper-and-brass token coinage, not paper currency.
-- C. The policy abolished coinage.
-- D. The currency was only ceremonial gold.
-
-**Answer: B.**
-
-**Explanation:** This is one of the most common textbook mistakes and must be removed immediately.
-
-##### Remedial MCQ 03
-
-**Question:** Which correction best defeats the trap "Muhammad bin Tughlaq was simply mad"?
-
-- A. Every policy succeeded perfectly.
-- B. He never planned anything at all.
-- C. Many policies had rational aims, but their sequencing and enforcement outran the state's capacity.
-- D. Chroniclers never criticised him.
-
-**Answer: C.**
-
-**Explanation:** The state-capacity lens beats both caricature and romantic overcorrection.
-
-##### Remedial MCQ 04
-
-**Question:** Which correction best defeats the trap "Qarachil was an expedition to conquer China"?
-
-- A. Qarachil was a canal.
-- B. Qarachil was a Portuguese embassy.
-- C. Qarachil took place in Bengal.
-- D. Qarachil was a Himalayan campaign whose later "China" label is historically misleading.
-
-**Answer: D.**
-
-**Explanation:** The package explicitly separates the mountain-campaign reality from later exaggeration.
-
-##### Remedial MCQ 05
-
-**Question:** Which correction best defeats the trap "Diwan-i-Kohi proves absurd farming of impossible desert land only"?
-
-- A. The more careful reading is agricultural extension onto banjar land with loans and supervision, though badly implemented.
-- B. It was actually a minting reform.
-- C. It belonged to Firuz Shah's hospitals.
-- D. It had no relation to cultivation.
-
-**Answer: A.**
-
-**Explanation:** The objective was risky but intelligible; the failure lay in execution.
-
-##### Remedial MCQ 06
-
-**Question:** Which correction best defeats the trap "Firuz Shah created a modern welfare state"?
-
-- A. He hated public works.
-- B. His benevolence was real but selective, politically useful and embedded in a medieval social hierarchy.
-- C. No chronicler mentions charity under him.
-- D. He ruled only temple priests.
-
-**Answer: B.**
-
-**Explanation:** Social selectivity is essential to any accurate description of Firuz's benevolence.
-
-##### Remedial MCQ 07
-
-**Question:** Which correction best defeats the trap "hereditary iqtas were an unqualified administrative success"?
-
-- A. Heredity instantly revived the Deccan.
-- B. Heredity ended all faction.
-- C. The policy purchased short-term calm but weakened merit, discipline and central control in the long run.
-- D. The policy abolished all noble privilege.
-
-**Answer: C.**
-
-**Explanation:** This is the central limitation of Firuz's conciliation strategy.
-
-##### Remedial MCQ 08
-
-**Question:** Which correction best defeats the trap "translation patronage proves Firuz Shah was not orthodox"?
-
-- A. Jizya disappeared after translations began.
-- B. Translation and orthodoxy can never coexist.
-- C. Firuz did not patronise any translation at all.
-- D. Translation patronage coexisted with sharper juristic ordering, jizya enforcement and temple-related coercion.
-
-**Answer: D.**
-
-**Explanation:** The reign must be read as a combination, not as a one-word identity.
-
-##### Remedial MCQ 09
-
-**Question:** Which correction best defeats the trap "the slave department was mainly a welfare institution"?
-
-- A. It organised coerced labour, service and political dependence rather than universal social protection.
-- B. It was a merchants' port trust.
-- C. It built Tughlaqabad before 1320.
-- D. It regulated Brahman taxes only.
-
-**Answer: A.**
-
-**Explanation:** The slave institution was part of court power and labour control.
-
-##### Remedial MCQ 10
-
-**Question:** Which correction best defeats the trap "Firuz's canals transformed every corner of the old Delhi empire equally"?
-
-- A. The canals were built by Timur.
-- B. The works were concentrated in the north-Indian core and should not be inflated into empire-wide equal development.
-- C. There were no canals at all.
-- D. All canals were in Bengal only.
-
-**Answer: B.**
-
-**Explanation:** Spatial concentration is essential to understanding Firuz's developmental model.
-
-##### Remedial MCQ 11
-
-**Question:** Which correction best defeats the trap "Barani's dramatic numbers and moral language can be taken literally throughout"?
-
-- A. His account was written by Ibn Battuta.
-- B. Barani is useless and should be ignored.
-- C. Barani is indispensable but rhetorical, later and aristocratic, so his claims require cross-checking and minimum-secure phrasing.
-- D. Material evidence can never check narrative.
-
-**Answer: C.**
-
-**Explanation:** The correct method is critical use, not blind faith or total rejection.
-
-##### Remedial MCQ 12
-
-**Question:** Which correction best defeats the trap "Timur alone caused the fall of the Tughlaqs"?
-
-- A. Firuz's succession arrangements had already solved instability.
-- B. No decline had begun before 1398.
-- C. Timur restored the Tughlaqs.
-- D. Timur struck a Sultanate already weakened by heredity, faction, provincial assertion and succession crises.
-
-**Answer: D.**
-
-**Explanation:** The package places Timur as a culminating shock, not as the sole originating cause.
-
 ## PYQS AND ANSWER PRACTICE
 
 ### PYQ verification ledger and scope honesty
@@ -2696,13 +2063,11 @@ regional/ecological effect -> outcome -> later stereotype.
 
 **Why this earns marks:** It secures chronology by dynastic phase and stops the common trap of mechanically pairing "Muhammad bin Tughlaq" with every major north-western episode.
 
-**Demand decoding:** Treat “PYQ 01 - UPSC Prelims GS-I 2021 (direct routed relevance; statement wording verified…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** This is a three-statement chronology-matching item, so the demand is to test each ruler-event pairing separately rather than to judge the set as a whole. Two of the three pairings carry the classic Sultanate-to-Vijayanagara date traps, and the option row itself is only partly legible in the local OCR, so the answer must also declare what is verified wording and what is reconstruction.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Fix each statement to a reign before looking at the options: Chengiz Khan at the Indus belongs to Iltutmish (1210-36); Timur's crossing belongs to 1398-99, a decade after Firuz's death, not to Muhammad bin Tughlaq (1325-51); Vasco da Gama reached Kerala in 1498, long after Deva Raya II. Two eliminations leave statement 1 alone. Close by stating the key as inferred, not official.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**How to improve this answer:** For “PYQ 01 - UPSC Prelims GS-I 2021 (direct routed relevance; statement wording verified…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**How to improve this answer:** Add one sentence explaining why statement 2 is the designed trap: both Timur and Muhammad bin Tughlaq are associated with north-western crisis and with Delhi's humiliation, so the candidate who remembers theme instead of decade accepts the pairing. Naming 1398-99 against 1325-51 converts a vague memory into a decisive elimination.
 
 ##### Adjacent PYQ 02 - UPSC Prelims GS-I 2022 (adjacent frontier chronology question; exact wording verified locally)
 
@@ -2725,13 +2090,11 @@ Which of the statements given above is/are correct?
 
 **Why this earns marks:** It separates general Mongol pressure from specific Delhi-siege events and refuses to validate a statement merely because a familiar Tughlaq ruler is named.
 
-**Demand decoding:** Treat “With reference to Indian history, consider the following statements: 1. The first Mongol…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** The item asks which of three Mongol-frontier statements are correct, so the demand is to separate general Mongol pressure on the north-west from specific dated episodes, and to refuse a statement merely because it names a familiar Tughlaq ruler. It is routed to Topic 04 but is retained here because statement 3 tests Muhammad bin Tughlaq directly.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Test statement 1 against the frontier chronology - Mongol invasion predates Jalaluddin Khalji's accession, so it fails. Confirm statement 2 through the 1303 Targhi crisis, when Mongol pressure reached Delhi itself under Alauddin. Reject statement 3 as unsafe on the secure event-line this package uses for Muhammad's frontier troubles. That leaves 2 only.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**How to improve this answer:** For “With reference to Indian history, consider the following statements: 1. The first Mongol…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**How to improve this answer:** Strengthen the answer by saying what would have made statement 3 acceptable: a named north-western district, a date and a source. Because none of the three can be supplied from the local evidence, the correct examiner move is refusal rather than generous assent, and saying so explicitly demonstrates the elimination discipline the question rewards.
 
 ##### Adjacent PYQ 03 - UPSC GS-I 2020 (adjacent but highly useful source-criticism question; wording preserved in repository)
 
@@ -2749,13 +2112,11 @@ Hence Persian literary sources do reflect the spirit of the age, but the spirit 
 
 **Why this earns marks:** It uses Topic 05's source bank directly, names authors, explains what each source proves, and converts "reflect" into a method question rather than a slogan.
 
-**Demand decoding:** The directive **comment** requires a direct position on “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** “Comment” on whether Persian literary sources reflect the spirit of the age demands a direct position on the word “reflect”: the answer must decide whether these texts mirror their society or refract it, and must prove the decision with named authors rather than with a general defence of Persian historiography.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Open by conceding indispensability and immediately qualifying “reflect”. Then run four named units in 250 words - Barani on Muhammad's experiments with his aristocratic moralism; Isami on Deccan dislocation with his displacement; Ibn Battuta on court, roads and punishments with his traveller's preference for the remarkable; Afif and the *Futuhat* on Firuz's works with their self-fashioning. Close on refracted political culture checked against coins, canals and monuments.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** The weakest move is the generalisation that these texts are “courtly”. Replace it with one concrete instance - Barani's line that every Hindu house became a mint - and state precisely what it can and cannot prove: it establishes that counterfeiting was widespread enough to destroy confidence, but it cannot establish how many forgeries existed or where they circulated.
 
 ##### Adjacent PYQ 04 - UPSC GS-I 2023 (adjacent broader Sultanate question; wording preserved in repository)
 
@@ -2775,15 +2136,13 @@ Thus Sultanate technological change shaped Indian society by linking technique t
 
 **Why this earns marks:** It answers both parts, uses Tughlaq-era examples rather than generic listing, and converts technology into social consequence.
 
+**Demand decoding:** The question has two explicit parts - which technological changes appeared in the Sultanate period, and how they influenced Indian society - so marks are lost by answering only the first. The demand is diffusion and social consequence, not invention, and the answer must resist listing techniques without tracing who gained by them.
+
+**Executable exam-length answer / compression plan:** Allocate roughly 120 words to technique and 130 to consequence. Technique: true arch, dome and lime mortar; Tughlaq battered walls and large repair programmes; Firuz's canals as agrarian engineering; horse-branding, descriptive rolls and revenue audit as information technology; token coinage as failed fiscal technique. Consequence: state capacity, urban growth, settlement expansion and deepened stratification. Conclude that technique was tied to power and production.
+
+**How to improve this answer:** Sharpen the social half by naming who did not gain. The canals benefited villages in the Haryana-Delhi tract that paid *haqq-i-sharb*, while no comparable investment reached the Deccan - so the honest verdict is uneven diffusion, which is a stronger conclusion than the generic claim that technology empowered states more than it democratised society.
+
 ### Original solved Mains practice
-
-**Demand decoding:** The directive **answer** requires a direct position on “What were the major technological changes introduced during the Sultanate period? How did…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “What were the major technological changes introduced during the Sultanate period? How did…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 ##### Original Mains 01 - 10 marks - 150 words
 
@@ -2805,13 +2164,11 @@ Hence Ghiyasuddin's brief reign is the hinge between Khalji breakdown and the la
 
 **Why this earns marks:** It shows transition, policy tone, imperial handoff and source criticism in one compact structure.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the importance of Ghiyasuddin Tughlaq's short reign for understanding the wider…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** “Assess” requires a graded verdict on importance, not a narrative of a short reign. The scope word is “for understanding the wider Tughlaq age”, so every paragraph must earn its place by explaining something later in the topic - the moderation baseline, the imperial handoff, the dynastic idiom or the method of reading contested evidence.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** In 150 words use four compact units: 1320 and the end of the Khusrau Khan crisis; moderation in revenue demand as the baseline Muhammad later abandons; Warangal through Ulugh Khan and the successful Bengal campaign as the inheritance passed on; Tughlaqabad and the tomb as the dynastic idiom. Close on the Afghanpur collapse as a source-criticism lesson rather than a whodunnit.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the importance of Ghiyasuddin Tughlaq's short reign for understanding the wider…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one sentence making the moderation point do comparative work: Ghiyasuddin wanted cultivators neither rich enough to rebel nor poor enough to stop cultivating, which is exactly the flexibility the standard-yield doab assessment removed. Stating that link converts a descriptive paragraph into the hinge the directive asks for.
 
 ##### Original Mains 02 - 10 marks - 150 words
 
@@ -2831,13 +2188,11 @@ Therefore, these measures are best treated as credibility failures of a high-amb
 
 **Why this earns marks:** It links two famous policies through one analytical thread - credibility - and moves beyond stock storytelling.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why should the Daulatabad and token-currency measures of Muhammad bin Tughlaq be analysed…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The question supplies its own analytical frame - administrative credibility against eccentricity - so the answer must argue that frame rather than restate the two policies. Both halves must be covered, and the verdict must explain why a credibility reading explains more than a personality reading does.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Give each policy about 55 words and reserve 40 for the joint verdict. Daulatabad: prior strategic value of Devagiri, organised road and ward allocation, coercive migration, southern breakaways removing the purpose. Token currency: wider fiduciary precedents, failure of mint monopoly and authentication, redemption in precious metal. Verdict: both required compliance the state could not manufacture.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Why should the Daulatabad and token-currency measures of Muhammad bin Tughlaq be analysed…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Improve the answer by naming the single shared instrument that failed in both cases - verification. Delhi could not verify who had genuinely migrated any more than it could verify which token coins were official, and saying so turns two anecdotes into one institutional argument that an examiner can credit immediately.
 
 ##### Original Mains 03 - 15 marks - 250 words
 
@@ -2859,13 +2214,11 @@ Thus Muhammad's failure was not absence of thought, but a mismatch between imper
 
 **Why this earns marks:** It answers through a common concept - state capacity - and integrates fiscal, developmental and military evidence.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine how the doab crisis, Diwan-i-Amir-i-Kohi and the Khurasan/Qarachil episodes reveal…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** “Examine” three named episodes means each must be analysed in its own right and then tied to the common concept of state capacity. Treating the doab, Diwan-i-Amir-i-Kohi and the Khurasan/Qarachil ventures as a single blur of failure loses the marks that come from distinguishing fiscal, developmental and military capacity.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Spend about 60 words on each episode and 70 on synthesis. Doab: standard yield and official prices, *ghari* and *charai*, famine, Swargadwari - an information failure. Kohi: the thirty-kroh tract, about a hundred shiqdars, *sondhar* loans, banjar not usar - a supervision failure. Khurasan and Qarachil: a reported army of 370,000 never launched, and a Himalayan force destroyed by terrain - financial and logistical failures.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Examine how the doab crisis, Diwan-i-Amir-i-Kohi and the Khurasan/Qarachil episodes reveal…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** The answer currently asserts that the instruments were brittle; make it demonstrate this by naming the missing instrument in each case: harvest-responsive assessment, honest local credit officers and terrain intelligence respectively. Three named absences are far more persuasive than one repeated adjective.
 
 ##### Original Mains 04 - 15 marks - 250 words
 
@@ -2885,13 +2238,11 @@ Therefore, Firuz strengthened the **core landscape and immediate legitimacy** of
 
 **Why this earns marks:** It gives a balanced verdict and measures success in two time-scales - immediate and long-term.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss Firuz Shah Tughlaq's public works and benevolence. To what extent did they…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The stem sets an explicit two-way balance - to what extent did the works strengthen, and to what extent did they soften, the Sultanate. A one-sided praise or critique cannot score, and the conclusion must name the different time-scales on which the two answers operate.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Split 250 words into three parts. Strengthening (about 90): Sutlej and Yamuna canals into the Haryana-Delhi tract, Hissar-Firuza and Firozabad, repairs, hospitals and charity. Softening (about 110): hereditary office and iqta, *wajh* assignments, decayed horse-branding, the slave corps as a rival bloc, sharper orthodoxy and separate jizya. Verdict (about 50): core landscape strengthened, central edge softened.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Discuss Firuz Shah Tughlaq's public works and benevolence. To what extent did they…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Insert the spatial qualification explicitly: every named work lies in the northern core, and nothing comparable reached the lost southern provinces. That single geographic sentence answers “to what extent” far more precisely than an adjective, and it prevents the familiar error of treating Firuz's canals as empire-wide development.
 
 ##### Original Mains 05 - 20 marks - 250 words
 
@@ -2913,13 +2264,11 @@ Thus Muhammad over-strained the Sultanate's capacity, while Firuz undercut its c
 
 **Why this earns marks:** It compares ruler to ruler across four specified dimensions and gives a nuanced final contrast instead of a moral ranking.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Muhammad bin Tughlaq and Firuz Shah Tughlaq in terms of ambition, fiscal strategy,…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** “Compare” with four named axes is a structural instruction: ambition, fiscal strategy, elite management and durability must each receive ruler-to-ruler treatment. Writing a biography of Muhammad followed by a biography of Firuz forfeits the comparison marks even if every fact is correct.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Use four axis-paragraphs of roughly 55 words each and a 30-word verdict, and never leave an axis with only one ruler in it. Ambition: southern direct rule and frontier offensives against an accepted northern horizon. Fiscal: heavy assessment and token coinage against sharing assessment and *haqq-i-sharb*. Elite: new men against heredity and high salaries. Durability: rapid collapse of trust against slow institutional softening.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Compare Muhammad bin Tughlaq and Firuz Shah Tughlaq in terms of ambition, fiscal strategy,…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one sentence of common structure before the verdict: both rulers faced the same constraint - the Sultanate could buy reach at the cost of credibility, or credibility at the cost of reach, but possessed no instrument that delivered both. Naming the shared constraint lifts the answer from parallel description to genuine comparison.
 
 ##### Original Mains 06 - 20 marks - 250 words
 
@@ -2937,13 +2286,11 @@ Therefore, neither label should be discarded entirely, but both must be discipli
 
 **Why this earns marks:** It turns two familiar labels into a critical historiography answer anchored in evidence and qualification.
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “Historiography often contrasts Muhammad bin Tughlaq as a "visionary failure" and Firuz Shah…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** “Critically examine” two historiographical labels means testing what each label captures and what it conceals, for both rulers, before reaching a verdict. Simply rejecting both labels is as weak as accepting them; the marks lie in showing what disciplined use of each would look like.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** Devote about 90 words to each label and 70 to the joint verdict. “Visionary failure”: concede the rational objectives, then locate failure precisely in coercive migration without consent, token currency without mint control, agrarian credit without honest supervision and frontier projects without logistics. “Welfare ruler”: concede canals, hospitals and marriage assistance, then mark selectivity, heredity, the slave corps and separate jizya. Conclude by converting both labels into questions of beneficiary and durability.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Historiography often contrasts Muhammad bin Tughlaq as a "visionary failure" and Firuz Shah…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Strengthen the historiographical dimension by naming where each label comes from: Barani's moralising aristocratic register for Muhammad, and Afif with the ruler's own *Futuhat* for Firuz. Showing that the labels originate in positioned sources - not in neutral assessment - is exactly the critical move the directive demands.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -3038,7 +2385,7 @@ Therefore, neither label should be discarded entirely, but both must be discipli
 - ⚠️ Firuz Shah's benevolence should be balanced against elite appeasement, weakened audits and hereditary military decay.
 - ⚠️ The Tughlaq experience shows why all-India centralisation before the Mughals was fragile: distance, revenue extraction, nobility and regional identities.
 
-### ➕ Concept: "Second capital," not "capital transfer"
+### Concept: "Second capital," not "capital transfer"
 
 ⚠️ For Prelims statements, frame Daulatabad carefully: the source stresses a **second capital** and selective exodus, not the complete removal of Delhi's population or permanent abandonment of Delhi.
 
@@ -3100,14 +2447,14 @@ Therefore, neither label should be discarded entirely, but both must be discipli
 - Hereditary offices and iqtas brought short-term calm, long-term oligarchic weakness.
 - Army service also tended toward heredity; *wajh* village assignments and relaxed branding weakened discipline.
 - Canals, towns, gardens, dams, hospitals and repairs mattered, especially in the north-Indian core.
-- *haqq-i-sharb* = irrigation-related levy on canal beneficiaries.
+- *haqq-i-sharb* = a ten per cent water due levied on villages benefiting from the canals, counted as part of the Sultan's personal income.
 
 #### 09. Firuz's limits: slaves, orthodoxy and succession
 
 - Diwan-i-Bandagan = slave labour/service/political dependence, not welfare.
 - Benevolence was real but selective; not a modern welfare state.
 - Separate jizya, denial of Brahman exemption, temple-related coercion and sectarian action show sharper orthodoxy.
-- Succession after 1388 was weakened by princes, nobles and slave-corp interventions.
+- Succession after 1388 was weakened by contending princes, factional nobles and the slave corps acting as king-maker.
 
 #### 10. Comparative verdict and PYQ routes
 
@@ -3127,8 +2474,8 @@ Therefore, neither label should be discarded entirely, but both must be discipli
 1351 Firuz succeeds during Sindh campaign -> 1388 Firuz dies
 EVIDENCE: Barani + Isami + Ibn Battuta + Afif + coins + canals + monuments
 RULE: separate secure event, chronicler judgement and later legend.
-MUST REMEMBER: Daulatabad transfer, token currency and Doab taxation were separate experiments
-  with different aims and outcomes.
+MUST REMEMBER: Daulatabad second capital, token currency and doab assessment were separate
+  experiments with different aims and outcomes; never write "capital transfer".
 ```
 
 #### ASCII MASTER FLOW — PANEL 2/12: Three Tughlaq state strategies

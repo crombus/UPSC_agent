@@ -5,7 +5,9 @@
 > graphical at-a-glance package; it is the thirty-second refresher that carries
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
-> **Syllabus, verbatim:** *Rationalism (Descartes, Spinoza, Leibniz); Cartesian Method and Certain Knowledge; Substance; God; Mind-Body Dualism; Determinism and Freedom.*
+> **Syllabus, verbatim:** *Rationalism (Descartes, Spinoza, Leibniz); Cartesian
+> Method and Certain Knowledge; Substance; God; Mind-Body Dualism; Determinism
+> and Freedom.*
 > **Terminology:** English concept first, the original Latin or French term immediately after in parentheses.
 
 ## Quick-Glance Tree Chart
@@ -395,4 +397,8 @@ QUALIFIED CONCLUSION
 
 ## Thirty-Second Recall Line
 
-*One definition of substance, three degrees of strictness: three, one, infinitely many. God guarantees, is, selects. Mind and body interact, are one, are harmonised. Freedom is the will's assent, the intellect's adequacy, and spontaneity with intelligence and contingency. Every comparison needs a declared criterion.*
+*One definition of substance, three degrees of strictness: three, one,
+infinitely many. God guarantees, is, selects. Mind and body interact, are one,
+are harmonised. Freedom is the will's assent, the intellect's adequacy, and
+spontaneity with intelligence and contingency. Every comparison needs a
+declared criterion.*

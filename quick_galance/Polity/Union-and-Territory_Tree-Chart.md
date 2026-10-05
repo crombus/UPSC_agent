@@ -97,4 +97,5 @@ ARTICLES 1-4: FLEXIBLE MAP WITHIN AN INDISSOLUBLE UNION
    meaningful consultation, minority safeguards and negotiated transition.
 ```
 
-**Boundary note:** Detailed Union Territory administration belongs to Polity Topic 25; the full theory of federal relations belongs to Topic 12.
+**Boundary note:** Detailed Union Territory administration belongs to Polity
+Topic 25; the full theory of federal relations belongs to Topic 12.

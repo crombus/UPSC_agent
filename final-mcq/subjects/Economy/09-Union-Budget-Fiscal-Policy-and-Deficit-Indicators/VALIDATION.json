@@ -1,0 +1,58 @@
+{
+  "topic": "09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 12,
+        "A": 15,
+        "D": 16,
+        "C": 8
+      },
+      "fingerprint": "bf62c79359bc9161"
+    },
+    {
+      "bank": 2,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 19,
+        "C": 12,
+        "A": 12,
+        "D": 8
+      },
+      "fingerprint": "e98268bc8bb9e8af"
+    },
+    {
+      "bank": 3,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 11,
+        "B": 14,
+        "D": 11,
+        "C": 15
+      },
+      "fingerprint": "dfeb6e25880ed348"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

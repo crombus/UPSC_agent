@@ -19,21 +19,26 @@ Graphical master: 4800 x 15000 pixels at 300 DPI.
 Native-width tile rows: 0-4125, 3625-7750, 7250-11375, 10875-15000; 500-pixel overlap.
 
 Original Mains native-body alphanumeric counts:
-144, 130, 221, 225, 227, 207.
+144, 130, 236, 225, 232, 207.
 
-Learning Markdown: 146535 characters / 149304 bytes; SHA-256 3d1a5eef8604f71fafe8a0e1139afbdfe12bbe8bf3302d3d5f13a06a92a8c834.
-Workbook Markdown: 46650 characters / 47646 bytes; SHA-256 092ad05a7ced8e1fc9d7619de9a30e92bb88b67bd38dae6b23614d3d079a1bad.
-Quick-glance Markdown: 9543 characters / 9732 bytes; SHA-256 fd7a8f9dcf7526e3463b511948a94e84f3831488bfeec57049787efa75318296.
-ASCII source: 9409 characters / 9530 bytes; SHA-256 2f743ab3bb402b9ad6786819005451e8c71777840ee4ab706ad204a775a95567.
+Learning Markdown: 156224 characters / 156364 bytes; SHA-256 e813cf1d9ce8603b98b4966448faa8c98668d1af728f27c47df9d16b2af36d26.
+Workbook Markdown: 48788 characters / 48832 bytes; SHA-256 d40f484c0c97fdbf536ccc17f069de11fef4271ead17c236eba50edcedcbdbae.
+Quick-glance Markdown: 10746 characters / 10748 bytes; SHA-256 19afdde20015531829086c1672c697750d9d21303a82f500f78dde610660f502.
+ASCII source: 9508 characters / 9532 bytes; SHA-256 5621976fad8db051164c36dc0645897f853b684ac9725535fce760582aa6f81f.
 
-Learning PDF: 56 pages / 160668 extracted characters /
-101 bookmarks; SHA-256 2c9490ba6d593cf5d5de21a309a9b39b48174af3d4c8445c601d2c6991c9ef04.
-Workbook PDF: 21 pages / 55497 extracted characters /
-49 bookmarks; SHA-256 b7cee84b2dad41dd93161ea0547a7fbf184879bf9079cb85d86c40e4fbb325e7.
-ASCII PDF: 12 pages. Poster PDF: 1 page. Tiled PDF: 4 pages.
+Learning PDF: 57 pages / 167650 extracted characters /
+101 bookmarks; SHA-256 46131b18350f700584c835cd0f3943d9828c459c17634bd5cb9e772a10e41d2b.
+Workbook PDF: 21 pages / 56799 extracted characters /
+49 bookmarks; SHA-256 9648a2ad3be8857dbc11a79bb3be0eb511030db9f6db3dd895a8bf8309947bc9.
+ASCII PDF: 12 pages; SHA-256 8f66739ace66563aa4ee4c2a23e28dd8fe795286cca21a957483909d765dd639.
+Poster PDF: 1 page. Tiled PDF: 4 pages.
 
 Validation target passed: 25 visual-first Core sessions; exact 32-MCQ ABCD x8 rotation;
 128 unique substantive option explanations; 32 unique traps; five exact official-keyed
 2024-2025 PYQs and seven withheld-key historical routes; six original Mains models within native 150/250-word
 ceilings; final H2 consolidated notes; embedded/standalone ASCII equality; exact 4800 x 15000 master;
 four pixel-identical native-width crops; 16,500 optimised row-hash comparisons.
+
+Coverage repair completed 21 September 2026: restored WACR and the SDF-repo-MSF corridor, TReDS,
+preference-share types, credit-rating downgrade/conflict mechanics, bonus issues, book building and
+the GIFT IFSC/IFSCA perimeter across teaching, revision, assessment and core PDF surfaces.

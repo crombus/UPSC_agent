@@ -1,0 +1,17 @@
+# Rural Society and Agrarian Change — MCQ Practice
+
+- **Subject:** Indian Society
+- **Section:** Subject-wide Syllabus
+- **Topic key:** `indian-society-05`
+- **Available MCQs:** 80
+- **Source learning session:** `learning_package_final\Indian-Society\Subject-wide-Syllabus\05-Rural-Society-and-Agrarian-Change\Learning-Session.md`
+- **Source workbook:** `learning_package_final\Indian-Society\Subject-wide-Syllabus\05-Rural-Society-and-Agrarian-Change\Solved-Practice-Workbook.md`
+
+## Practice command
+
+`Start MCQ Practice: Indian Society — Rural Society and Agrarian Change`
+
+The assistant must ask one hard MCQ at a time, independently randomize the correct
+answer position, balance option length/detail, record the learner response, and then
+provide statement-wise analysis, full forms, objectives/functions, timelines,
+examples and trap logic before proceeding.

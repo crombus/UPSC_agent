@@ -1,0 +1,43 @@
+{
+  "topic": "13-Public-Finance-and-Service-Delivery-Tools",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "revision_counts": {
+    "revision-1": 48,
+    "revision-2": 48,
+    "revision-3": 48
+  },
+  "total_originals": 144,
+  "key_counts": {
+    "revision-1": {
+      "A": 12,
+      "B": 12,
+      "C": 12,
+      "D": 12
+    },
+    "revision-2": {
+      "A": 12,
+      "B": 12,
+      "C": 12,
+      "D": 12
+    },
+    "revision-3": {
+      "A": 12,
+      "B": 12,
+      "C": 12,
+      "D": 12
+    }
+  },
+  "all_questions_four_options": true,
+  "questions_answer_free": true,
+  "question_answer_mapping_contiguous": true,
+  "affirmative_owner_coverage_each_revision": true,
+  "cross_revision_stems_distinct": true,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "2022 GS-II Mains exact wording/marking-scheme/reproduction rights",
+    "objective-PYQ official key provenance and reproduction rights",
+    "SNA-SPARSH operational onboarding and reconciliation by scheme and State",
+    "dynamic DBT savings, beneficiary, scheme, failure-rate and PFMS coverage statistics",
+    "procurement thresholds, portal volumes and State fund-utilisation figures"
+  ]
+}

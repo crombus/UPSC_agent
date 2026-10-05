@@ -32,4 +32,4 @@
 - [22. Aurangzeb: Religious Policy, North India & the Rajputs](Subject-wide%20Syllabus/22-Aurangzeb-Religious-cf751acf-and-the-Rajputs/README.txt)
 - [23. The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis](Subject-wide%20Syllabus/23-The-Marathas-Shivaji-449d6447-Jagirdari-Crisis/README.txt)
 - [24. Mughal Society, Economy & Culture](Subject-wide%20Syllabus/24-Mughal-Society-Economy-and-Culture/README.txt)
-- [25. Decline of the Mughal Empire & the Eighteenth Century](Subject-wide%20Syllabus/25-Decline-of-the-42d09116-Eighteenth-Century/README.txt)
+- [25. Decline of the Mughal Empire & the Eighteenth Century](Subject-wide%20Syllabus/25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century/README.txt)

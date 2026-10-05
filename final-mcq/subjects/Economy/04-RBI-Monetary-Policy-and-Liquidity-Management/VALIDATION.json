@@ -1,0 +1,58 @@
+{
+  "topic": "04-RBI-Monetary-Policy-and-Liquidity-Management",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 43,
+      "answers": 43,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 10,
+        "A": 15,
+        "B": 9,
+        "C": 9
+      },
+      "fingerprint": "783f23ce6a7bba54"
+    },
+    {
+      "bank": 2,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 15,
+        "C": 8,
+        "D": 9,
+        "B": 8
+      },
+      "fingerprint": "6564297ff5d33219"
+    },
+    {
+      "bank": 3,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 19,
+        "B": 9,
+        "D": 9,
+        "A": 5
+      },
+      "fingerprint": "613f2fb150628fe1"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

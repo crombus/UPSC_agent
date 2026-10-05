@@ -1,0 +1,406 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-22T11:17:42+05:30",
+  "workspace_root_label": "upsc-agent",
+  "scope": "Non-destructive consolidation metadata; authoritative files remain in original locations.",
+  "policy": {
+    "all_large_pdfs_and_books_hashed": false,
+    "hash_scope": "Critical control, status, manifest and executable scripts only.",
+    "credentials_included": false,
+    "authoritative_content_copied_into_consolidation": false
+  },
+  "metrics": {
+    "catalog_subjects": 23,
+    "catalog_topics": 516,
+    "source_ready_topics": 516,
+    "learner_v2_latest_records": 516,
+    "resource_status_counts": {
+      "completed-validated": 516
+    },
+    "approval_status_counts": {
+      "unapproved": 516
+    },
+    "study_status_counts": {
+      "unverified": 480,
+      "completed": 26,
+      "in-progress": 10
+    },
+    "quick_glance_statistics": {
+      "total_topics": 479,
+      "completed": 479,
+      "pending": 0
+    }
+  },
+  "directories": [
+    {
+      "path": "learning_package_final",
+      "exists": true,
+      "file_count": 1505,
+      "total_bytes": 249408328,
+      "latest_mtime": "2026-09-22T10:40:17+05:30",
+      "priority": "P0-core",
+      "optional": false,
+      "purpose": "Final learning-package artifacts"
+    },
+    {
+      "path": "upsc-ai-kit\\knowledge",
+      "exists": true,
+      "file_count": 18565,
+      "total_bytes": 2299823187,
+      "latest_mtime": "2026-09-17T19:00:56+05:30",
+      "priority": "P0-core",
+      "optional": false,
+      "purpose": "Canonical Markdown knowledge"
+    },
+    {
+      "path": "quick_galance",
+      "exists": true,
+      "file_count": 482,
+      "total_bytes": 11631589,
+      "latest_mtime": "2026-09-22T07:35:11+05:30",
+      "priority": "P0-core",
+      "optional": false,
+      "purpose": "Quick-glance atlas and indexes"
+    },
+    {
+      "path": "tools",
+      "exists": true,
+      "file_count": 2056,
+      "total_bytes": 49034738,
+      "latest_mtime": "2026-09-21T12:36:05+05:30",
+      "priority": "P0-core",
+      "optional": false,
+      "purpose": "Generation and validation scripts"
+    },
+    {
+      "path": "ingestion",
+      "exists": true,
+      "file_count": 24,
+      "total_bytes": 11590220,
+      "latest_mtime": "2026-08-06T17:46:04+05:30",
+      "priority": "P0-core",
+      "optional": false,
+      "purpose": "Book ingestion pipeline"
+    },
+    {
+      "path": "notes",
+      "exists": true,
+      "file_count": 66558,
+      "total_bytes": 40097252887,
+      "latest_mtime": "2026-09-22T10:48:24+05:30",
+      "priority": "P1-large",
+      "optional": false,
+      "purpose": "Generated notes, workbooks, flowcharts and PDFs"
+    },
+    {
+      "path": "exams",
+      "exists": true,
+      "file_count": 105,
+      "total_bytes": 2881206,
+      "latest_mtime": "2026-09-11T06:31:10+05:30",
+      "priority": "P1-user-state",
+      "optional": false,
+      "purpose": "Question papers and answer keys"
+    },
+    {
+      "path": "attempts",
+      "exists": true,
+      "file_count": 128,
+      "total_bytes": 81219371,
+      "latest_mtime": "2026-09-10T17:57:55+05:30",
+      "priority": "P1-user-state",
+      "optional": false,
+      "purpose": "User attempts and evaluation history"
+    },
+    {
+      "path": "books",
+      "exists": true,
+      "file_count": 274,
+      "total_bytes": 2567060938,
+      "latest_mtime": "2026-09-11T19:22:36+05:30",
+      "priority": "P2-optional-large",
+      "optional": true,
+      "purpose": "Source PDFs; optional only if available elsewhere"
+    },
+    {
+      "path": "vectordb",
+      "exists": true,
+      "file_count": 850,
+      "total_bytes": 6991031166,
+      "latest_mtime": "2026-07-17T13:44:53+05:30",
+      "priority": "P2-optional-large",
+      "optional": true,
+      "purpose": "Local vector data; can be omitted when Qdrant is not required"
+    }
+  ],
+  "critical_files": [
+    {
+      "path": "README.md",
+      "exists": true,
+      "size_bytes": 1666,
+      "mtime": "2026-06-21T19:19:03+05:30",
+      "sha256": "f11102c341a0eaa198800c62b46c66819f5338f861330d2cabaf3cd8397f7e4f"
+    },
+    {
+      "path": "AGENTS.md",
+      "exists": true,
+      "size_bytes": 21234,
+      "mtime": "2026-09-05T14:08:04+05:30",
+      "sha256": "39edb7397c4fa616f9528a70d5da6525f16f0fe0c7c331b35f4dc60f0614d50c"
+    },
+    {
+      "path": "AGENT_MEMORY.md",
+      "exists": true,
+      "size_bytes": 59512,
+      "mtime": "2026-09-12T12:30:36+05:30",
+      "sha256": "3046e7eb97280b99075736b8a9c7a12f2c222b118563741975b7e6ea1272e3af"
+    },
+    {
+      "path": "UPSC-PROGRESS-TRACKER.md",
+      "exists": true,
+      "size_bytes": 22986,
+      "mtime": "2026-09-21T08:11:16+05:30",
+      "sha256": "c2dee63b16fe20cd445e203c7d03cf1e49ec8bbee62b397ef31ed6566c806f35"
+    },
+    {
+      "path": "EXPORT-PDF-STATUS.json",
+      "exists": true,
+      "size_bytes": 35821190,
+      "mtime": "2026-09-06T20:11:07+05:30",
+      "sha256": "b8d8060596a4b31f0af05392617f75a30d3e09ed9c4186d8ff334732b4c3f7d6"
+    },
+    {
+      "path": "EXPORT-PDF-COMMAND-INDEX.md",
+      "exists": true,
+      "size_bytes": 186707,
+      "mtime": "2026-09-06T20:11:16+05:30",
+      "sha256": "4efd198bc5c7b430ea397b902689bcc034e930513d65bd2295112ad6ad1bfe00"
+    },
+    {
+      "path": "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+      "exists": true,
+      "size_bytes": 233662,
+      "mtime": "2026-09-06T20:11:21+05:30",
+      "sha256": "f818d88310810d4fda48470803143c2d83ee7b77013b82549efb0de56462feb8"
+    },
+    {
+      "path": "requirements.txt",
+      "exists": true,
+      "size_bytes": 320,
+      "mtime": "2026-06-06T14:32:41+05:30",
+      "sha256": "195710e254730db2df4b1c363bc519be8b2fb43d3da1d0e359430aa8b1e06a99"
+    },
+    {
+      "path": "docker-compose.yml",
+      "exists": true,
+      "size_bytes": 2516,
+      "mtime": "2026-05-03T16:45:04+05:30",
+      "sha256": "83b422f3ff96810d2d7ecc4ff19f82d6e3470c83f4397f684ee58fec5c0d7606"
+    },
+    {
+      "path": "config.yaml",
+      "exists": true,
+      "size_bytes": 1910,
+      "mtime": "2026-06-06T11:17:23+05:30",
+      "sha256": "cf477788f0330b8df75282cc70bb9a8913c6b94ab31b10c1a19d837993509c6e"
+    },
+    {
+      "path": ".env.example",
+      "exists": true,
+      "size_bytes": 1942,
+      "mtime": "2026-08-09T10:51:29+05:30",
+      "sha256": "1a73dde2fa548abf8757f92e387004baffb0ae390ebc76790295b39fcdefb045"
+    },
+    {
+      "path": "ingestion\\requirements.txt",
+      "exists": true,
+      "size_bytes": 293,
+      "mtime": "2026-05-03T16:02:42+05:30",
+      "sha256": "5325deeff1d18efd400c40f5dd8a974ed23e24e720e4f10f02d22f508400d869"
+    },
+    {
+      "path": "ingestion\\ingest.py",
+      "exists": true,
+      "size_bytes": 14462,
+      "mtime": "2026-06-21T17:39:32+05:30",
+      "sha256": "2d316fe47cdf6c9d4134641917ef701659dd5a2157e4dacd53e73a33ac3a87af"
+    },
+    {
+      "path": "tools\\query_books.py",
+      "exists": true,
+      "size_bytes": 5800,
+      "mtime": "2026-06-21T09:04:35+05:30",
+      "sha256": "f3716b0220c7b4a90d34a8912597ddfc7b7281fbcb805722f9e995bb40c6cd9a"
+    },
+    {
+      "path": "tools\\upsc_register_pdf.py",
+      "exists": true,
+      "size_bytes": 51494,
+      "mtime": "2026-08-19T18:07:53+05:30",
+      "sha256": "20b6dc543763eaeaa903624db0aa7890eacf1a4f2d7374cb5e93d76a70a728f2"
+    },
+    {
+      "path": "tools\\upsc_exam_pdf.py",
+      "exists": true,
+      "size_bytes": 13515,
+      "mtime": "2026-06-06T17:27:15+05:30",
+      "sha256": "b16f53d8d30e5ca22d93ac0d1b084b43b679ebb5b161f3715d50f86997aa1952"
+    },
+    {
+      "path": "tools\\markdown_learning_pdf.py",
+      "exists": true,
+      "size_bytes": 60543,
+      "mtime": "2026-09-21T12:27:36+05:30",
+      "sha256": "259592ae1d7ed74389e5ce6770eb7293832d3a155a7e857a906b3e7a17d5fd0c"
+    },
+    {
+      "path": "tools\\generate_v2_topic_command_catalog.py",
+      "exists": true,
+      "size_bytes": 27612,
+      "mtime": "2026-08-24T09:01:31+05:30",
+      "sha256": "7b790721705d13540dfda2f3fd1609df3d6a2fabc3f3f4bfebe762bcefe79aff"
+    },
+    {
+      "path": "tools\\generate_v2_section_indexes.py",
+      "exists": true,
+      "size_bytes": 80981,
+      "mtime": "2026-08-28T07:17:01+05:30",
+      "sha256": "7e94cc133cefdf898602f46285df6dcf7650060d88d8ff3beaa6b4abefa15599"
+    },
+    {
+      "path": "tools\\finalize_v2_topic.py",
+      "exists": true,
+      "size_bytes": 8493,
+      "mtime": "2026-08-29T19:57:44+05:30",
+      "sha256": "a6c7580733fcec37b730d425c542dc5ecdaeb77858b1df517f1d094b250bc59c"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+      "exists": true,
+      "size_bytes": 821993,
+      "mtime": "2026-09-03T11:30:01+05:30",
+      "sha256": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    {
+      "path": "quick_galance\\TREE-CHART-STATUS.json",
+      "exists": true,
+      "size_bytes": 363112,
+      "mtime": "2026-09-07T00:26:10+05:30",
+      "sha256": "b4a6aa7f5059c1bb52c48092305aaa06b0aba6069441562dc4b19f8ad95b2d71"
+    },
+    {
+      "path": "quick_galance\\TREE-CHART-INDEX.md",
+      "exists": true,
+      "size_bytes": 123477,
+      "mtime": "2026-09-07T00:26:10+05:30",
+      "sha256": "b620f7d9c0926c0b399f3f6c52921a1662a705f2ce00dbc1e7867c26ec1932bc"
+    }
+  ],
+  "validation": {
+    "json": {
+      "INTEGRITY-MANIFEST.json": {
+        "valid": true,
+        "top_level_keys": [
+          "schema_version",
+          "generated_at",
+          "workspace_root_label",
+          "scope",
+          "policy",
+          "metrics",
+          "directories",
+          "critical_files",
+          "consolidation_files",
+          "validation"
+        ]
+      }
+    },
+    "csv": {
+      "SUBJECT-INVENTORY.csv": {
+        "valid": true,
+        "rows": 23,
+        "unique_keys": 23,
+        "columns": 20
+      },
+      "TOPIC-INVENTORY.csv": {
+        "valid": true,
+        "rows": 516,
+        "unique_keys": 516,
+        "columns": 27
+      }
+    },
+    "markdown_links": {
+      "MASTER-INDEX.md": {
+        "links_checked": 14,
+        "missing": [],
+        "valid": true
+      },
+      "TRANSFER-CHECKLIST.md": {
+        "links_checked": 0,
+        "missing": [],
+        "valid": true
+      },
+      "ENVIRONMENT-SETUP.md": {
+        "links_checked": 2,
+        "missing": [],
+        "valid": true
+      },
+      "DIRECTORY-MAP.md": {
+        "links_checked": 10,
+        "missing": [],
+        "valid": true
+      }
+    },
+    "topic_paths": {
+      "fields_checked": [
+        "source_basic",
+        "source_advanced",
+        "assembled_markdown",
+        "notes_pdf",
+        "workbook_pdf",
+        "quick_glance_path"
+      ],
+      "missing_by_field": {},
+      "valid": true
+    },
+    "errors": [],
+    "valid": true
+  },
+  "consolidation_files": [
+    {
+      "path": "UPSC-CONSOLIDATED\\MASTER-INDEX.md",
+      "size_bytes": 3127,
+      "mtime": "2026-09-22T11:19:15+05:30",
+      "sha256": "96fd981d4afc678c0a892b0ee28b7567dd4f06850d8f221e54b33b494b7bd885"
+    },
+    {
+      "path": "UPSC-CONSOLIDATED\\SUBJECT-INVENTORY.csv",
+      "size_bytes": 4692,
+      "mtime": "2026-09-22T11:19:15+05:30",
+      "sha256": "89e4e1b75232ee881668548583d1fa16fd9f64ddabec66ac5b0ed875e90bce70"
+    },
+    {
+      "path": "UPSC-CONSOLIDATED\\TOPIC-INVENTORY.csv",
+      "size_bytes": 501298,
+      "mtime": "2026-09-22T11:19:15+05:30",
+      "sha256": "d55801c481ee3bfe33a6576d0f7ae95d730ef111968bdc16cfd686d29b5cef21"
+    },
+    {
+      "path": "UPSC-CONSOLIDATED\\TRANSFER-CHECKLIST.md",
+      "size_bytes": 3637,
+      "mtime": "2026-09-22T11:17:54+05:30",
+      "sha256": "5c631e3e9512146db303b018865c4b8caa3ce6efeb28e8a0026b384bf032c546"
+    },
+    {
+      "path": "UPSC-CONSOLIDATED\\ENVIRONMENT-SETUP.md",
+      "size_bytes": 2114,
+      "mtime": "2026-09-22T11:17:54+05:30",
+      "sha256": "943a1b5ad77f92c06906daf7afc7ccefe04096436500417e61b5bd423c9bb1d5"
+    },
+    {
+      "path": "UPSC-CONSOLIDATED\\DIRECTORY-MAP.md",
+      "size_bytes": 2697,
+      "mtime": "2026-09-22T11:17:54+05:30",
+      "sha256": "c026a7baaa774a8769ea50f19f8bdda293fe942c5e69a6110e19e5d517723499"
+    }
+  ]
+}

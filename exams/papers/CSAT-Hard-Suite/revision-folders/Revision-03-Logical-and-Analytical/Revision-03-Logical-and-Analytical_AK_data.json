@@ -1,0 +1,577 @@
+{
+  "title": "CSAT Hard Revision Folder 3: Arrangements, coding, counting, relations, syllogisms and analytical constraints",
+  "difficulty": {
+    "label": "Very Hard",
+    "level": "CSAT-Hard-Suite / Very Hard",
+    "rubric": {
+      "reasoning_layers": "At least two linked deductions, constraints or conditional checks in every non-trivial item.",
+      "distractor_quality": "All four options are plausible, distinct and comparable in visible length and specificity.",
+      "time_pressure": "Complete paper: 80 questions in 120 minutes; revision drill: 40 questions in 75 minutes.",
+      "coverage": "Comprehension, numeracy/DI, logical-analytical reasoning and decision-making are balanced.",
+      "verification": "Every keyed answer is recomputed or independently constraint-checked before PDF generation."
+    }
+  },
+  "questions": [
+    {
+      "no": 1,
+      "category": "Comprehension",
+      "text": "The central contention developed in Passage 1 is that: Use the border-connectivity map as the complete information set for this question.",
+      "options": [
+        "That community-based forest governance is mainly technical and therefore has no significant distributive consequences.",
+        "That community-based forest governance should be left to spontaneous private action without accountable public oversight.",
+        "That community-based forest governance requires aligned incentives, evidence and local feedback rather than one universal prescription.",
+        "That community-based forest governance can be solved through one nationwide institutional reform under all conditions."
+      ],
+      "answer": 2,
+      "solution": "The passage links the issue to incentives, evidence and feedback; the alternatives are absolute or narrowly framed.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 2,
+      "category": "Comprehension",
+      "text": "Reading Passage 1 closely, which inference is justified? Use the vending-permit register as the complete information set for this question.",
+      "options": [
+        "An intervention may fail despite a desirable objective when its feedback loop remains weak.",
+        "A locally successful intervention will work identically elsewhere without any adaptation or review.",
+        "Administrative discretion is always harmful, even when evidence reveals local constraints.",
+        "Measurement adds little when an intervention has a persuasive and desirable objective."
+      ],
+      "answer": 0,
+      "solution": "The passage distinguishes a desirable objective from the quality of its feedback loop; it rejects universal claims.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 3,
+      "category": "Comprehension",
+      "text": "Passage 1 would be weakened most directly if which assumption failed? Use the safety-inspection file as the complete information set for this question.",
+      "options": [
+        "Central rules are never useful, even when they protect minimum entitlements.",
+        "Institutional learning can improve policy without requiring perfect foresight at the outset.",
+        "Local actors always possess complete information before implementation begins.",
+        "Every measurable outcome is morally decisive regardless of the chosen public objective."
+      ],
+      "answer": 1,
+      "solution": "The argument depends on learning through feedback; it does not require perfect information or reject all central rules.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 4,
+      "category": "Comprehension",
+      "text": "The authorial stance in Passage 1 is: Use the forest-response dashboard as the complete information set for this question.",
+      "options": [
+        "Analytical and cautious, weighing trade-offs while seeking workable improvement.",
+        "Celebratory and dismissive of risk, with little attention to implementation constraints.",
+        "Fatalistic about institutional change and doubtful that evidence can alter outcomes.",
+        "Purely polemical and adversarial, treating competing approaches as illegitimate."
+      ],
+      "answer": 0,
+      "solution": "The wording weighs trade-offs and improvement mechanisms rather than celebrating, rejecting or attacking them.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 5,
+      "category": "Comprehension",
+      "text": "With reference to Passage 2, which one of the following best captures its central claim? Use the school-recovery ledger as the complete information set for this question.",
+      "options": [
+        "That the use of evidence in welfare delivery is mainly technical and therefore has no significant distributive consequences.",
+        "That the use of evidence in welfare delivery can be solved through one nationwide institutional reform under all conditions.",
+        "That the use of evidence in welfare delivery requires aligned incentives, evidence and local feedback rather than one universal prescription.",
+        "That the use of evidence in welfare delivery should be left to spontaneous private action without accountable public oversight."
+      ],
+      "answer": 2,
+      "solution": "The passage links the issue to incentives, evidence and feedback; the alternatives are absolute or narrowly framed.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 6,
+      "category": "Comprehension",
+      "text": "Which one of the following is most directly inferable from Passage 2? Use the municipal works map as the complete information set for this question.",
+      "options": [
+        "An intervention may fail despite a desirable objective when its feedback loop remains weak.",
+        "Administrative discretion is always harmful, even when evidence reveals local constraints.",
+        "A locally successful intervention will work identically elsewhere without any adaptation or review.",
+        "Measurement adds little when an intervention has a persuasive and desirable objective."
+      ],
+      "answer": 0,
+      "solution": "The passage distinguishes a desirable objective from the quality of its feedback loop; it rejects universal claims.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 7,
+      "category": "Comprehension",
+      "text": "Which one of the following assumptions is necessary for the argument in Passage 2? Use the clinic-referral diary as the complete information set for this question.",
+      "options": [
+        "Every measurable outcome is morally decisive regardless of the chosen public objective.",
+        "Central rules are never useful, even when they protect minimum entitlements.",
+        "Local actors always possess complete information before implementation begins.",
+        "Institutional learning can improve policy without requiring perfect foresight at the outset."
+      ],
+      "answer": 3,
+      "solution": "The argument depends on learning through feedback; it does not require perfect information or reject all central rules.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 8,
+      "category": "Comprehension",
+      "text": "The tone of Passage 2 is best described as: Use the market-access survey as the complete information set for this question.",
+      "options": [
+        "Purely polemical and adversarial, treating competing approaches as illegitimate.",
+        "Analytical and cautious, weighing trade-offs while seeking workable improvement.",
+        "Fatalistic about institutional change and doubtful that evidence can alter outcomes.",
+        "Celebratory and dismissive of risk, with little attention to implementation constraints."
+      ],
+      "answer": 1,
+      "solution": "The wording weighs trade-offs and improvement mechanisms rather than celebrating, rejecting or attacking them.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 9,
+      "category": "Comprehension",
+      "text": "Passage 3 is principally arguing that: Use the ward-grievance register as the complete information set for this question.",
+      "options": [
+        "That school learning recovery requires aligned incentives, evidence and local feedback rather than one universal prescription.",
+        "That school learning recovery is mainly technical and therefore has no significant distributive consequences.",
+        "That school learning recovery can be solved through one nationwide institutional reform under all conditions.",
+        "That school learning recovery should be left to spontaneous private action without accountable public oversight."
+      ],
+      "answer": 0,
+      "solution": "The passage links the issue to incentives, evidence and feedback; the alternatives are absolute or narrowly framed.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 10,
+      "category": "Comprehension",
+      "text": "Passage 3 most clearly permits which inference? Use the coastal-service ledger as the complete information set for this question.",
+      "options": [
+        "Administrative discretion is always harmful, even when evidence reveals local constraints.",
+        "An intervention may fail despite a desirable objective when its feedback loop remains weak.",
+        "A locally successful intervention will work identically elsewhere without any adaptation or review.",
+        "Measurement adds little when an intervention has a persuasive and desirable objective."
+      ],
+      "answer": 1,
+      "solution": "The passage distinguishes a desirable objective from the quality of its feedback loop; it rejects universal claims.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 11,
+      "category": "Numeracy / DI",
+      "text": "If r is the remainder when 4^18 + 5^16 is divided by 12, what is r? Use the hill-health register as the complete information set for this question.",
+      "options": [
+        "9",
+        "5",
+        "7",
+        "4"
+      ],
+      "answer": 1,
+      "solution": "Compute powers modulo 12; cyclic reduction gives remainder 5.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 12,
+      "category": "Numeracy / DI",
+      "text": "How many integers from 3 through 92, inclusive, are divisible by 7 or 12, but not by both? Use the ration audit as the complete information set for this question.",
+      "options": [
+        "18",
+        "16",
+        "23",
+        "28"
+      ],
+      "answer": 0,
+      "solution": "Count multiples of 7 and 12, then remove twice the common multiples: the exclusive count is 18.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 13,
+      "category": "Numeracy / DI",
+      "text": "Solution A contains 21% solute and solution B contains 20% solute. If A and B are mixed in the volume ratio 8:1, what is the resulting concentration? Use the tank-restoration file as the complete information set for this question.",
+      "options": [
+        "20.11",
+        "20.89",
+        "20.67",
+        "20.50"
+      ],
+      "answer": 1,
+      "solution": "Use a weighted average: (8×21+20)/(8+1) = 20.89%.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 14,
+      "category": "Numeracy / DI",
+      "text": "Three independent teams complete a task in 16, 27 and 39 days respectively. Working together at constant rates, how many days are required? Use the hostel attendance sheet as the complete information set for this question.",
+      "options": [
+        "9.99",
+        "5.99",
+        "10.05",
+        "7.99"
+      ],
+      "answer": 3,
+      "solution": "Combined rate = 1/16+1/27+1/39; reciprocal = 7.99 days.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 15,
+      "category": "Numeracy / DI",
+      "text": "The average score of 23 candidates is 62. One score of 51 is replaced by 78. What is the new average? Use the river-route log as the complete information set for this question.",
+      "options": [
+        "3.87",
+        "63.17",
+        "60.83",
+        "63.23"
+      ],
+      "answer": 1,
+      "solution": "Change in average = (new−old)/23; new average = 63.17.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 16,
+      "category": "Numeracy / DI",
+      "text": "A quantity rises by 16%, falls by 21%, and then rises by 26%. What is the net percentage change? Use the border-connectivity map as the complete information set for this question.",
+      "options": [
+        "8.00%",
+        "21.00%",
+        "15.47%",
+        "19.47%"
+      ],
+      "answer": 2,
+      "solution": "Multiply successive factors: 1.0×(1+16/100)×(1−21/100)×(1+26/100); net = 15.47%.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 17,
+      "category": "Numeracy / DI",
+      "text": "A rectangle of dimensions 19 m by 11 m has squares of side 3 m removed from its four corners. What area remains? Use the vending-permit register as the complete information set for this question.",
+      "options": [
+        "173",
+        "65",
+        "191",
+        "185"
+      ],
+      "answer": 0,
+      "solution": "Removed area = 4×3²; remaining area = 19×11−4×3² = 173 m².",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 18,
+      "category": "Numeracy / DI",
+      "text": "A five-period index has values [11, 4, 6, 8, 10]; corresponding weights are [2, 3, 4, 5, 6]. What is the remainder when the weighted total is divided by 17? Use the safety-inspection file as the complete information set for this question.",
+      "options": [
+        "2",
+        "10",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "solution": "Weighted total = 158; 158 divided by 17 leaves remainder 5.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 19,
+      "category": "Numeracy / DI",
+      "text": "How many multiples of lcm(10, 10) lie in the inclusive interval [13, 47]? Use the forest-response dashboard as the complete information set for this question.",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "answer": 1,
+      "solution": "lcm(10,10) = 10; enumerate its multiples in the interval to obtain 3.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 20,
+      "category": "Numeracy / DI",
+      "text": "A sequence begins [4, 7, 11, 14]. Its successive increments are 3, 4, 3, 4, ... . What is the next term? Use the school-recovery ledger as the complete information set for this question.",
+      "options": [
+        "25",
+        "26",
+        "22",
+        "21"
+      ],
+      "answer": 3,
+      "solution": "The increments alternate 3, 4, 3, 4; the next increment is 3, giving 21.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 21,
+      "category": "Logical reasoning",
+      "text": "Seven people A, B, C, D, E, F and G sit in a row. C is third from the left; A is left of D; B and F are non-adjacent; G is not at an end. Which person cannot occupy fifth position? Use the municipal works map as the complete information set for this question.",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": 3,
+      "solution": "Enumerating all valid arrangements gives possible fifth-position occupants ['A', 'B', 'D', 'E', 'F', 'G']; C never appears there.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 22,
+      "category": "Logical reasoning",
+      "text": "Six candidates P, Q, R, S, T and U are ranked first to sixth. P is above R, R above U, S above R, Q below S, and T is not first. Which candidate cannot be third? Use the clinic-referral diary as the complete information set for this question.",
+      "options": [
+        "R",
+        "U",
+        "P",
+        "Q"
+      ],
+      "answer": 1,
+      "solution": "Testing all rankings gives possible third-place candidates ['P', 'Q', 'R', 'S', 'T']; U violates the partial-order constraints in every valid ranking.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 23,
+      "category": "Logical reasoning",
+      "text": "In a coding rule, each letter is replaced by its position multiplied by 5, then 3 is added and the result is reduced modulo 26 (A=0). What code is assigned to the letter whose position is 7? Use the market-access survey as the complete information set for this question.",
+      "options": [
+        "9",
+        "12",
+        "13",
+        "19"
+      ],
+      "answer": 1,
+      "solution": "(7×5+3) mod 26 = 12.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 24,
+      "category": "Logical reasoning",
+      "text": "All members of set X are in Y; no member of Y is in Z; exactly 4 members are in X, 6 additional members are in Y but not X, and 6 members are outside Y. How many members are in Y? Use the ward-grievance register as the complete information set for this question.",
+      "options": [
+        "12",
+        "10",
+        "11",
+        "16"
+      ],
+      "answer": 1,
+      "solution": "Y contains X plus Y-only members: 4+6 = 10.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 25,
+      "category": "Logical reasoning",
+      "text": "A field worker moves 6 km east and then 6 km north. What is the straight-line distance from the starting point, ignoring the path taken? Use the coastal-service ledger as the complete information set for this question.",
+      "options": [
+        "8.49",
+        "12.00",
+        "0.00",
+        "6.00"
+      ],
+      "answer": 0,
+      "solution": "Displacement = sqrt(6²+6²) = 8.49 km.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 26,
+      "category": "Logical reasoning",
+      "text": "M is the sister of N. N is the father of P. P is the daughter of Q. Relative to P, what is M? Use the hill-health register as the complete information set for this question.",
+      "options": [
+        "P's paternal aunt",
+        "P's grandmother",
+        "P's maternal aunt",
+        "P's paternal cousin"
+      ],
+      "answer": 0,
+      "solution": "N is P's father; M is N's sister, so M is P's paternal aunt.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 27,
+      "category": "Logical reasoning",
+      "text": "Exactly one of A, B and C is guilty and exactly one statement is true. A says B is guilty; B says A and C are innocent; C says B is innocent. Who is guilty? Use the ration audit as the complete information set for this question.",
+      "options": [
+        "A only",
+        "C only",
+        "No one",
+        "B only"
+      ],
+      "answer": 3,
+      "solution": "Assume exactly one of A, B and C is guilty and exactly one statement is true. A says B is guilty; B says A and C are innocent; C says B is innocent. Testing A, B and C in turn leaves only B guilty: A and C are then false, while B is true.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 28,
+      "category": "Logical reasoning",
+      "text": "From 7 proposals, 3 are selected. Two specified proposals cannot be selected together. How many selections are possible? Use the tank-restoration file as the complete information set for this question.",
+      "options": [
+        "30",
+        "35",
+        "32",
+        "27"
+      ],
+      "answer": 0,
+      "solution": "All selections minus those containing both specified proposals: C(7,3)−C(5,1) = 30.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 29,
+      "category": "Logical reasoning",
+      "text": "A team records 4 wins, 3 draws and 2 losses. With 3 points for a win, 1 for a draw and 0 for a loss, what is its points total? Use the hostel attendance sheet as the complete information set for this question.",
+      "options": [
+        "11",
+        "21",
+        "17",
+        "15"
+      ],
+      "answer": 3,
+      "solution": "Points = 3×4+3 = 15; losses add zero.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 30,
+      "category": "Logical reasoning",
+      "text": "A committee must choose an ordered pair of distinct coordinators from 7 eligible members. How many ordered pairs are possible? Use the river-route log as the complete information set for this question.",
+      "options": [
+        "49",
+        "50",
+        "21",
+        "42"
+      ],
+      "answer": 3,
+      "solution": "The first post has 7 choices and the second has 6; ordered pairs therefore total 7×6 = 42.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 31,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A measurement conflicts with credible user reports before a sanction is proposed. What should precede action? Use the border-connectivity map as the complete information set for this question.",
+      "options": [
+        "Triangulate the reading, maintenance record and a time-bound sample of affected users.",
+        "Treat oral reports as conclusive because lived experience cannot contain measurement error.",
+        "Suspend the entire programme immediately without checking either source of information.",
+        "Treat the instrument as conclusive because numerical readings are always objective."
+      ],
+      "answer": 0,
+      "solution": "Triangulation tests measurement and lived experience before a consequential administrative action.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 32,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A public message must announce an uncertain hazard. Which communication is most responsible? Use the vending-permit register as the complete information set for this question.",
+      "options": [
+        "Wait until every uncertainty disappears before communicating with the affected public.",
+        "Offer absolute reassurance so that uncertainty does not increase public anxiety.",
+        "State known facts, uncertainty, protective action and the timing of the next update.",
+        "Release raw technical figures without an instruction that people can follow."
+      ],
+      "answer": 2,
+      "solution": "Responsible risk communication is candid about uncertainty while giving a clear time-bound action.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 33,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. Scarce services must be allocated between a larger population and a higher untreated-need rate. What rule is soundest? Use the safety-inspection file as the complete information set for this question.",
+      "options": [
+        "Rotate resources randomly so that no indicator receives an explicit priority.",
+        "Use a transparent composite rule weighting scale, severity and access barriers.",
+        "Use population alone because scale is the only indicator that can be compared.",
+        "Use untreated-need rate alone because severity should always override the population base."
+      ],
+      "answer": 1,
+      "solution": "A transparent composite rule recognises scale and severity while making trade-offs reviewable.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 34,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A performance target encourages staff to close cases without resolving them. What correction is best? Use the forest-response dashboard as the complete information set for this question.",
+      "options": [
+        "Punish the last staff member who closed a case without changing the target design.",
+        "Abolish measurement entirely because every indicator creates some risk of gaming.",
+        "Pair closure with verified resolution and sample audits, then revise the incentive.",
+        "Raise the target further so that staff complete cases at a faster average rate."
+      ],
+      "answer": 2,
+      "solution": "The indicator must track intended outcomes and be protected against gaming through verification.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 35,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A vocal association claims to represent everyone, but consultation attendance is narrow. What should follow? Use the school-recovery ledger as the complete information set for this question.",
+      "options": [
+        "Record its view and widen outreach through accessible channels before concluding.",
+        "Exclude the association from later consultations because its claim cannot be trusted.",
+        "Decide only by the loudest vote among participants already present in the room.",
+        "Accept the claim because an organised association is presumed to represent all residents."
+      ],
+      "answer": 0,
+      "solution": "The process respects the association's input without mistaking it for complete representation.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 36,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A pilot produces mixed results across neighbourhoods. How should the administrator respond? Use the municipal works map as the complete information set for this question.",
+      "options": [
+        "Cancel it everywhere immediately because variation means the intervention has failed.",
+        "Examine context-specific results, adapt the design and publish the decision rule.",
+        "Scale it everywhere immediately because any positive result proves universal effectiveness.",
+        "Hide the mixed results until a later evaluation produces a simpler narrative."
+      ],
+      "answer": 1,
+      "solution": "Disaggregated evidence supports adaptation rather than premature scaling, cancellation or concealment.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 37,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A grievance channel receives fewer complaints after a redesign. What is the most careful interpretation? Use the clinic-referral diary as the complete information set for this question.",
+      "options": [
+        "Stop monitoring because the lower number already provides a sufficient success signal.",
+        "Conclude that service quality improved because fewer complaints always mean fewer problems.",
+        "Check accessibility, repeat-use patterns and independent feedback before judging the change.",
+        "Conclude that the redesign failed because every effective channel should receive more complaints."
+      ],
+      "answer": 2,
+      "solution": "Complaint counts need accessibility and independent-feedback checks before they can indicate improvement.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 38,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A contractor asks to relax a safety condition to meet a deadline. What should the officer do? Use the market-access survey as the complete information set for this question.",
+      "options": [
+        "Approve the relaxation because schedule performance is the most visible project outcome.",
+        "Assess the risk, apply the documented change-control rule and retain a safe alternative.",
+        "Reject every modification without examining whether an equivalent safeguard is available.",
+        "Ask the contractor to proceed informally so that the paperwork does not delay work."
+      ],
+      "answer": 1,
+      "solution": "A documented risk and change-control assessment protects safety without making procedure an empty ritual.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 39,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A beneficiary list contains duplicate names and some genuine exclusions. What is the right sequence? Use the ward-grievance register as the complete information set for this question.",
+      "options": [
+        "Deduplicate transparently, publish an appeal window and verify excluded claims.",
+        "Freeze enrolment indefinitely because cleaning the list may create further disputes.",
+        "Delete all duplicate-looking names first and accept the resulting list as final.",
+        "Add every claimant immediately and leave verification to a later unrecorded exercise."
+      ],
+      "answer": 0,
+      "solution": "Transparent deduplication plus appeal and verification addresses both leakage and wrongful exclusion.",
+      "source": "Original synthesis"
+    },
+    {
+      "no": 40,
+      "category": "Decision-making / problem solving",
+      "text": "In a hill block, a file concerning primary-health referrals is being reviewed by clinic managers; the available evidence includes referral registers. A local leader requests an exception for one influential applicant. What is defensible? Use the coastal-service ledger as the complete information set for this question.",
+      "options": [
+        "Ask the leader to obtain informal consent from staff before changing the record.",
+        "Grant the exception because the applicant's influence may speed wider cooperation.",
+        "Apply the published hardship criteria equally and document any exceptional decision.",
+        "Deny every request without checking whether a general hardship rule already exists."
+      ],
+      "answer": 2,
+      "solution": "Equal application of a published rule protects fairness while allowing genuinely defined hardship relief.",
+      "source": "Original synthesis"
+    }
+  ],
+  "source_policy": "Original synthesis; no exact PYQ reproduction."
+}

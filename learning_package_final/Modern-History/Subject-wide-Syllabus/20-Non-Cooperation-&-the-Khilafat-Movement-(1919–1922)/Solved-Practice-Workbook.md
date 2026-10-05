@@ -4,807 +4,487 @@ topic_key: modern-indian-history-20
 ---
 # Non-Cooperation & the Khilafat Movement (1919–1922) — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## MCQs — source-checked conceptual and remedial practice
 
-### Q1. Which statement correctly identifies Post-1919 convergence?
+Choose the single best answer. All questions precede the separate key. Historical PYQ status/demands and original Mains solutions remain below.
 
-A. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-B. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-C. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-D. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
+### Q1. Why is it misleading to attribute the 1920 mobilisation to the Khilafat question alone?
 
-**Answer: A.**
-**Explanation:** By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It combined Khilafat with Punjab-Rowlatt anger and wartime economic distress
+B. The Non-Cooperation programme began before the First World War
+C. Only the Bengal indigo tenants supplied the movement’s national base
+D. The movement was solely a protest against the 1924 Caliphate abolition
 
-### Q2. Which chronology card should be filed under Post-1919 convergence?
+### Q2. Which diplomatic issue made the Sultan-Caliph a focus of mobilisation in India?
 
-A. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-B. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-C. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-D. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
+A. Gandhi’s call to abolish the Caliphate in 1919
+B. Postwar Allied treatment of the Ottoman Empire and the Treaty of Sèvres
+C. The separate electorates introduced by the 1909 reform
+D. The 1919 Rowlatt detention powers issued by the Ottoman Sultan
 
-**Answer: B.**
-**Explanation:** By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. A candidate dates the formation of all Khilafat organisation to the Delhi meeting. What correction is needed?
 
-### Q3. Which option should a candidate retain when revising Post-1919 convergence?
+A. Only Mohammad Ali led the agitation; Shaukat Ali opposed it
+B. Hasrat Mohani headed the British government’s Punjab inquiry
+C. The Khilafat Committee predated the November 1919 conference; Ali brothers and other Muslim leaders were active
+D. The conference created the Congress Working Committee in 1919
 
-A. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-B. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-C. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-D. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
+### Q4. Which outcome was threatened at the November 1919 All-India Khilafat Conference in Delhi?
 
-**Answer: C.**
-**Explanation:** By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Immediate universal land-revenue refusal at Bardoli
+B. Election of Swarajists to legislatures in 1923
+C. Official abolition of the Caliphate by the conference
+D. Withdrawal of cooperation if the Khilafat demands were rejected
 
-### Q4. Which statement avoids a common matching trap about Post-1919 convergence?
+### Q5. How did Gandhi’s alliance strategy extend the issue beyond defence of the Caliph?
 
-A. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-B. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-C. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-D. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
+A. He linked the Muslim Khilafat grievance with Swaraj and Hindu-Muslim cooperation
+B. He required Hindus to accept the Ottoman Sultan as Indian sovereign
+C. He separated Khilafat entirely from anti-British nationalism
+D. He treated British constitutional councils as the sole form of action
 
-**Answer: D.**
-**Explanation:** By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. A timeline labels December 1920 Calcutta as Congress’s first adoption. Which edit repairs it?
 
-### Q5. Which statement correctly identifies Khilafat anxiety?
+A. Gaya adopted Non-Cooperation immediately after Chauri Chaura
+B. Adoption occurred at the September Calcutta Special Session
+C. Nagpur September 1920 inaugurated the Khilafat Committee
+D. The Delhi conference ratified the Congress resolution in September 1920
 
-A. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-B. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-C. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-D. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
+### Q7. What made Nagpur more than a second vote on the Calcutta programme?
 
-**Answer: A.**
-**Explanation:** Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It dissolved the AICC and barred a Working Committee
+B. It launched the Swaraj Party with Das and Nehru
+C. It ratified Non-Cooperation and reorganised Congress through linguistic committees and central organs
+D. It initiated separate electorates for the first time
 
-### Q6. Which chronology card should be filed under Khilafat anxiety?
+### Q8. A pamphlet says withholding land tax was the very first compulsory act in 1920. What is the best correction?
 
-A. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-B. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-C. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-D. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
+A. Taxes were never considered in any stage of the programme
+B. Boycott meant only refusing imported goods, not schools or councils
+C. Constructive work had no place in the programme
+D. Tax refusal was a contemplated later escalation after staged boycotts and constructive work
 
-**Answer: B.**
-**Explanation:** Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. Which evidence most directly shows that the boycott altered professional and domestic life?
 
-### Q7. Which option should a candidate retain when revising Khilafat anxiety?
+A. Students and lawyers exited colonial institutions; traders and women contributed to cloth boycott and khadi work
+B. Only council members surrendered foreign commissions
+C. Workers were prohibited from all political activity by Congress
+D. Participation was limited to a single Punjab city
 
-A. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-B. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-C. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-D. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
+### Q10. Which set of institutions best illustrates a durable educational answer to colonial-school boycott?
 
-**Answer: C.**
-**Explanation:** Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Tolstoy Farm, Phoenix Settlement, Ferozeshah Kotla and Jallianwala Bagh
+B. Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith
+C. Hunter Committee, Punjab Congress Inquiry, Satyagraha Sabha and HRA
+D. AICC, Working Committee, Council of State and Viceroy’s Council
 
-### Q8. Which statement avoids a common matching trap about Khilafat anxiety?
+### Q11. How does spinning khadi relate to the otherwise negative-sounding term ‘non-cooperation’?
 
-A. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-B. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-C. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-D. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
+A. It makes the boycotting of schools logically unnecessary everywhere
+B. It proves the campaign was only an industrial wage dispute
+C. It creates swadeshi capacity and a shared discipline alongside refusals of colonial goods and institutions
+D. It replaces all legal demands with immediate armed seizure of mills
 
-**Answer: D.**
-**Explanation:** Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which 1921 event combined high-profile boycott with a sharpening cycle of arrests?
 
-### Q9. Which statement correctly identifies Khilafat leadership?
+A. The execution of the Kakori defendants during the royal visit
+B. The formation of the Swaraj Party during the visit
+C. A Punjab massacre staged to welcome the Prince
+D. The visit of the Prince of Wales and the hartals against it
 
-A. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-B. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-C. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-D. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
+### Q13. Which reading of the Eka movement is best supported?
 
-**Answer: A.**
-**Explanation:** Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Its tenant grievances against rent, thekedars and share-rents developed with Madari Pasi’s autonomous leadership
+B. Eka was identical to Gandhi’s tightly disciplined Bardoli plan
+C. Eka originated from Caliphate abolition in Turkey
+D. Eka sought only factory bonuses in Ahmedabad
 
-### Q10. Which chronology card should be filed under Khilafat leadership?
+### Q14. How should small zamindar participation and the March 1922 suppression affect interpretation of Eka?
 
-A. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-B. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-C. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-D. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
+A. They place its suppression after 1930 civil disobedience
+B. They qualify a simple tenant-only or Congress-controlled narrative
+C. They prove official repression never reached the movement
+D. They make it a wholly urban professional lawyers’ movement
 
-**Answer: B.**
-**Explanation:** Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. Which claim about the 1921 Malabar rebellion requires both social and political qualifications?
 
-### Q11. Which option should a candidate retain when revising Khilafat leadership?
+A. It remained fully under Congress control throughout and never had a communal turn
+B. It started in Manjeri because the British abolished the Congress there
+C. Tenure and rent grievances helped spark it; it later acquired a communal character damaging the alliance
+D. It began solely as a 1924 Ottoman constitutional reform
 
-A. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-B. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-C. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-D. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
+### Q16. Why was Bardoli singled out for planned escalation in 1922?
 
-**Answer: C.**
-**Explanation:** Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The entire country was ordered to stop paying tax immediately in September 1920
+B. Bardoli was where the 1919 Jallianwala shooting occurred
+C. The town was the site of Ottoman treaty negotiations
+D. Gandhi intended selective mass civil disobedience and tax refusal in its Surat district taluqa while others stayed disciplined
 
-### Q12. Which statement avoids a common matching trap about Khilafat leadership?
+### Q17. What precise event upset the planned transition after 4 February 1922?
 
-A. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-D. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
+A. At Chauri Chaura a procession clashed with police and a burnt station killed twenty-two policemen
+B. At Delhi police burnt a tax office while Gandhi negotiated in 1919
+C. At Bardoli troops shot unarmed attendees at a walled garden
+D. At Malabar a national university was burnt as Congress policy
 
-**Answer: D.**
-**Explanation:** Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. A resolution of 12 February 1922 is called ‘Bardoli’ although the violent event occurred elsewhere. Explain.
 
-### Q13. Which statement correctly identifies Delhi Khilafat Conference?
+A. It was a resolution passed by the 1919 Delhi Khilafat Conference
+B. The Working Committee ratified withdrawal; Bardoli names the site of intended escalation, not Chauri Chaura
+C. Both Bardoli and Chauri Chaura were alternate names for a village in Gorakhpur
+D. Congress ratified a completed nationwide tax refusal there
 
-A. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-B. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-C. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-D. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
+### Q19. Which chronology avoids collapsing the movement’s withdrawal into the Khilafat endpoint?
 
-**Answer: A.**
-**Explanation:** The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Arrest in 1917, withdrawal in 1919, Caliphate abolition in 1920
+B. Withdrawal after Mustafa Kemal ended the institution in 1924
+C. Withdrawal in February 1922; Gandhi’s arrest in March; abolition of the Caliphate in 1924
+D. Caliphate abolition in 1919, withdrawal in 1920, arrest in 1924
 
-### Q14. Which chronology card should be filed under Delhi Khilafat Conference?
+### Q20. Which evaluation weighs legacy and limits without assigning one monocausal motive to withdrawal?
 
-A. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-B. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-C. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-D. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
+A. Every boycott became permanent and Hindu-Muslim cooperation remained unbroken
+B. Dutt and Bipin Chandra agreed that withdrawal was solely to save landlords
+C. Chauri Chaura showed the crowd was directly attacking landlord property
+D. Durable Congress structures and mass politicisation coexisted with reversible boycotts, fragile unity and a debate over Gandhi’s choice
 
-**Answer: B.**
-**Explanation:** The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Arrange the three political decisions in the correct order: Delhi Khilafat threat, Calcutta adoption, Nagpur ratification.
 
-### Q15. Which option should a candidate retain when revising Delhi Khilafat Conference?
+A. November 1919; September 1920; December 1920
+B. December 1920; September 1920; November 1919
+C. September 1919; November 1920; February 1922
+D. April 1921; December 1922; March 1924
 
-A. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-D. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
+### Q22. A case study describes national education as a ‘withdrawal without replacement’. Which counterexample is most probative?
 
-**Answer: C.**
-**Explanation:** The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 1924 abolition of the Caliphate created Jamia Millia Islamia
+B. New national universities and schools supported the boycott of state-linked education
+C. Ahmedabad arbitration fixed the separate political university system
+D. The Hunter inquiry issued the national school curriculum
 
-### Q16. Which statement avoids a common matching trap about Delhi Khilafat Conference?
+### Q23. How does Eka test the assertion that Congress controlled all 1921 rural mobilisation?
 
-A. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-B. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-C. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-D. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
+A. Rent was absent from Eka’s platform because only Ottoman policy mattered
+B. Eka was merely an alias for the 1922 Bardoli resolution
+C. Its rent demands, social coalition and leadership did not wholly accept Congress-Khilafat discipline
+D. Madari Pasi founded the AICC to enforce Congress orders
 
-**Answer: D.**
-**Explanation:** The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. Which movement combines a Manjeri conference connection with a later warning against romanticising unity?
 
-### Q17. Which statement correctly identifies Gandhi's alliance logic?
+A. The United Provinces Eka movement organised by Madari Pasi
+B. The 1921 Prince of Wales hartal in Bombay
+C. The 1917 Champaran indigo campaign
+D. The Malabar Mappila rebellion beginning August 1921
 
-A. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-B. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-C. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-D. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
+### Q25. What analytical distinction makes the Chauri Chaura withdrawal debatable rather than self-explanatory?
 
-**Answer: A.**
-**Explanation:** Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. One must separate the event, Gandhi’s discipline argument and competing explanations of his strategic motives
+B. One must say no police died and therefore Gandhi invented the incident
+C. One must present Dutt’s class thesis as a verified official Congress resolution
+D. One must treat the 1924 Turkish decree as the trigger on 12 February 1922
 
-### Q18. Which chronology card should be filed under Gandhi's alliance logic?
+### Q26. If councils, courts and schools were boycotted, which combination best identifies the counter-institutions?
 
-A. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-B. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-C. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-D. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
+A. Only surrender of titles without any positive institution
+B. National education and panchayats alongside khadi and swadeshi production
+C. A new Ottoman legislature and post-1924 Caliphate courts
+D. Immediate conversion of British courts into HRA cells
 
-**Answer: B.**
-**Explanation:** Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. Which paired date best demonstrates an escalating plan defeated before implementation?
 
-### Q19. Which option should a candidate retain when revising Gandhi's alliance logic?
+A. Calcutta session on 4 February 1922; Nagpur on 12 February
+B. Khilafat abolition on 4 February; Gandhi’s arrest on 12 February
+C. Chauri Chaura on 4 February 1922; Working Committee withdrawal on 12 February 1922
+D. Bardoli tax refusal on 4 February; successful national tax strike on 12 February
 
-A. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-B. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-C. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-D. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
+### Q28. Which claim best handles the post-withdrawal split’s relationship to the 1920 movement?
 
-**Answer: C.**
-**Explanation:** Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Swaraj Party founded Non-Cooperation in 1919
+B. The No-changers originated in the 1924 Turkish Caliphate government
+C. Every younger activist immediately joined HRA after withdrawal
+D. Disappointment opened a strategy debate between council-entry Swarajists and constructive-work No-changers
 
-### Q20. Which statement avoids a common matching trap about Gandhi's alliance logic?
+## ANSWER KEY AND ITEM-SPECIFIC EXPLANATIONS
 
-A. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-D. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
+### Q1 — A
 
-**Answer: D.**
-**Explanation:** Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Several distinct constituencies and grievances converged **Source-backed coverage:** By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
 
-### Q21. Which statement correctly identifies Calcutta Special Session?
+- **A (correct):** Several distinct constituencies and grievances converged
+- **B (incorrect):** The wartime and postwar grievances formed its context
+- **C (incorrect):** Champaran was an earlier regional experiment
+- **D (incorrect):** Abolition occurred after the movement’s withdrawal
+**Trap:** Do not project the 1924 endpoint onto 1920 causes.
 
-A. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-B. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-C. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-D. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
+### Q2 — B
 
-**Answer: A.**
-**Explanation:** The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A global postwar settlement became an Indian anti-colonial grievance **Source-backed coverage:** Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
 
-### Q22. Which chronology card should be filed under Calcutta Special Session?
+- **A (incorrect):** Khilafat leaders sought to defend the institution
+- **B (correct):** A global postwar settlement became an Indian anti-colonial grievance
+- **C (incorrect):** Those concern Indian constitutional representation
+- **D (incorrect):** Rowlatt was British Indian law
+**Trap:** Do not equate the Ottoman caliphate with the British Indian state.
 
-A. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-B. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-C. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-D. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
+### Q3 — C
 
-**Answer: B.**
-**Explanation:** The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Do not invent a committee founding date from a securely dated conference **Source-backed coverage:** Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
 
-### Q23. Which option should a candidate retain when revising Calcutta Special Session?
+- **A (incorrect):** Both brothers were leaders
+- **B (incorrect):** His role belongs to Khilafat politics, not the Punjab inquiry
+- **C (correct):** Do not invent a committee founding date from a securely dated conference
+- **D (incorrect):** Congress reorganisation came at Nagpur in 1920
+**Trap:** Separate organisational origins from the dated Delhi event.
 
-A. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-D. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
+### Q4 — D
 
-**Answer: C.**
-**Explanation:** The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The proposed tactic preceded formal Congress adoption **Source-backed coverage:** The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
 
-### Q24. Which statement avoids a common matching trap about Calcutta Special Session?
+- **A (incorrect):** That escalation was contemplated in 1922
+- **B (incorrect):** Swaraj Party politics followed withdrawal
+- **C (incorrect):** Mustafa Kemal’s abolition came in 1924
+- **D (correct):** The proposed tactic preceded formal Congress adoption
+**Trap:** A warning of non-cooperation is not the full 1920 Congress programme.
 
-A. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-B. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-C. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-D. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
+### Q5 — A
 
-**Answer: D.**
-**Explanation:** The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Instrumental unity and shared protest broadened participation **Source-backed coverage:** Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
 
-### Q25. Which statement correctly identifies Nagpur ratification and reorganisation?
+- **A (correct):** Instrumental unity and shared protest broadened participation
+- **B (incorrect):** Political alliance did not imply sovereignty transfer
+- **C (incorrect):** The linkage widened anti-colonial mobilisation
+- **D (incorrect):** The programme chiefly withheld cooperation from colonial institutions
+**Trap:** Do not confuse a united front with identical long-term goals.
 
-A. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-D. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
+### Q6 — B
 
-**Answer: A.**
-**Explanation:** The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Calcutta adoption precedes Nagpur ratification **Source-backed coverage:** The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
 
-### Q26. Which chronology card should be filed under Nagpur ratification and reorganisation?
+- **A (incorrect):** Gaya’s 1922 debate concerned council entry
+- **B (correct):** Calcutta adoption precedes Nagpur ratification
+- **C (incorrect):** Nagpur was the December ratification and reorganisation
+- **D (incorrect):** Delhi’s Khilafat meeting was November 1919
+**Trap:** Session name, decision and date must be matched.
 
-A. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-B. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-C. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-D. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
+### Q7 — C
 
-**Answer: B.**
-**Explanation:** The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The programme needed an organisation able to sustain mass action **Source-backed coverage:** The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
 
-### Q27. Which option should a candidate retain when revising Nagpur ratification and reorganisation?
+- **A (incorrect):** The structural change strengthened those organs
+- **B (incorrect):** That party emerged after 1922
+- **C (correct):** The programme needed an organisation able to sustain mass action
+- **D (incorrect):** The device predates the 1920 Congress session
+**Trap:** Never equate a political resolution with a full organisational reform.
 
-A. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-B. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-C. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
-D. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
+### Q8 — D
 
-**Answer: C.**
-**Explanation:** The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Stages linked personal renunciation, institutional boycott and potential mass refusal **Source-backed coverage:** The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
 
-### Q28. Which statement avoids a common matching trap about Nagpur ratification and reorganisation?
+- **A (incorrect):** Mass civil disobedience and tax refusal were envisaged
+- **B (incorrect):** Institutions and titles were also targeted
+- **C (incorrect):** Khadi and national education complemented boycott
+- **D (correct):** Stages linked personal renunciation, institutional boycott and potential mass refusal
+**Trap:** A future stage must not be redescribed as an achieved initial act.
 
-A. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-B. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-C. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-D. The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee.
+### Q9 — A
 
-**Answer: D.**
-**Explanation:** The Nagpur Congress of December 1920 ratified Non-Cooperation and reorganised Congress with linguistic provincial committees, an AICC and a stronger Working Committee. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Distinct actions by different groups broadened its social base **Source-backed coverage:** Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
 
-### Q29. Which statement correctly identifies Escalation ladder?
+- **A (correct):** Distinct actions by different groups broadened its social base
+- **B (incorrect):** The movement reached multiple social groups outside councils
+- **C (incorrect):** The account includes expanded popular participation
+- **D (incorrect):** The movement spread nationally with local variation
+**Trap:** Do not infer equal participation in every locality.
 
-A. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-D. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
+### Q10 — B
 
-**Answer: A.**
-**Explanation:** The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Exit from colonial schooling also required constructive institutional creation **Source-backed coverage:** The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
 
-### Q30. Which chronology card should be filed under Escalation ladder?
+- **A (incorrect):** These places do not form the 1920 national education network
+- **B (correct):** Exit from colonial schooling also required constructive institutional creation
+- **C (incorrect):** Those are inquiries or political organisations rather than national universities
+- **D (incorrect):** These are political/constitutional organs
+**Trap:** Do not confuse a protest site with a national educational alternative.
 
-A. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-B. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-C. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-D. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
+### Q11 — C
 
-**Answer: B.**
-**Explanation:** The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Charkha and panchayats helped build alternatives rather than mere abstention **Source-backed coverage:** The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
 
-### Q31. Which option should a candidate retain when revising Escalation ladder?
+- **A (incorrect):** Boycott and national education were complementary
+- **B (incorrect):** The programme spanned political and social spheres
+- **C (correct):** Charkha and panchayats helped build alternatives rather than mere abstention
+- **D (incorrect):** Constructive work was non-violent
+**Trap:** Boycott and construction are paired rather than mutually exclusive.
 
-A. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-B. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-C. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
-D. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
+### Q12 — D
 
-**Answer: C.**
-**Explanation:** The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A symbolic imperial visit offered an occasion for visible popular rejection **Source-backed coverage:** The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
 
-### Q32. Which statement avoids a common matching trap about Escalation ladder?
+- **A (incorrect):** Those executions occurred in 1927
+- **B (incorrect):** Party formation followed the 1922 split over strategy
+- **C (incorrect):** Jallianwala Bagh occurred in 1919
+- **D (correct):** A symbolic imperial visit offered an occasion for visible popular rejection
+**Trap:** Do not confuse repression during NCM with the earlier Punjab massacre.
 
-A. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-B. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-C. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-D. The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal.
+### Q13 — A
 
-**Answer: D.**
-**Explanation:** The programme escalated through renunciation of titles, boycott of schools, courts and councils, economic boycott of foreign cloth, constructive work, and a final planned stage of mass civil disobedience and tax refusal. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The recorded-rent comparison concerned rent commonly about fifty per cent above recorded levels **Source-backed coverage:** The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
 
-### Q33. Which statement correctly identifies Urban participants?
+- **A (correct):** The recorded-rent comparison concerned rent commonly about fifty per cent above recorded levels
+- **B (incorrect):** Eka’s leadership was not bound by Congress-Khilafat non-violent discipline
+- **C (incorrect):** The agrarian movement preceded the 1924 abolition
+- **D (incorrect):** Its focus was rural United Provinces tenancy
+**Trap:** Do not generalise a local agrarian programme into Congress instructions.
 
-A. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-B. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-C. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-D. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
+### Q14 — B
 
-**Answer: A.**
-**Explanation:** Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Local coalition and independent leadership varied from national Congress planning **Source-backed coverage:** Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
 
-### Q34. Which chronology card should be filed under Urban participants?
+- **A (incorrect):** The repression described here was by March 1922
+- **B (correct):** Local coalition and independent leadership varied from national Congress planning
+- **C (incorrect):** The movement was suppressed after severe repression
+- **D (incorrect):** Its base was rural with tenants and small landholders
+**Trap:** Do not presume all anti-colonial crowds had a single social class.
 
-A. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-B. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-C. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-D. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
+### Q15 — C
 
-**Answer: B.**
-**Explanation:** Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Peasant grievance, political mobilisation and later communal violence must be distinguished **Source-backed coverage:** The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
 
-### Q35. Which option should a candidate retain when revising Urban participants?
+- **A (incorrect):** The later communal turn is part of the record
+- **B (incorrect):** Manjeri’s April 1920 conference provided early impetus, not that cause
+- **C (correct):** Peasant grievance, political mobilisation and later communal violence must be distinguished
+- **D (incorrect):** Malabar unrest began in August 1921
+**Trap:** Neither flatten the uprising into tenancy alone nor label every phase identical.
 
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-C. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
-D. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
+### Q16 — D
 
-**Answer: C.**
-**Explanation:** Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Selection aimed to concentrate attention and maintain nationwide restraint **Source-backed coverage:** Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
 
-### Q36. Which statement avoids a common matching trap about Urban participants?
+- **A (incorrect):** The design was selective and later
+- **B (incorrect):** The massacre occurred at Amritsar
+- **C (incorrect):** The treaty question concerned Khilafat, not the selected Indian taluqa
+- **D (correct):** Selection aimed to concentrate attention and maintain nationwide restraint
+**Trap:** The 1922 plan is not the later separate 1928 Bardoli movement.
 
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-C. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-D. Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base.
+### Q17 — A
 
-**Answer: D.**
-**Explanation:** Students left institutions, lawyers suspended practice, traders boycotted foreign cloth, and women joined picketing and khadi work, widening the movement's social base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** The incident presented a direct challenge to the required non-violent discipline **Source-backed coverage:** On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
 
-### Q37. Which statement correctly identifies National institutions?
+- **A (correct):** The incident presented a direct challenge to the required non-violent discipline
+- **B (incorrect):** The incident was in Gorakhpur district in 1922
+- **C (incorrect):** That describes the 1919 Amritsar massacre
+- **D (incorrect):** This was a local police-station attack, not an authorised programme
+**Trap:** Do not attribute a local violent episode to a national Congress order.
 
-A. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-B. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-C. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-D. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
+### Q18 — B
 
-**Answer: A.**
-**Explanation:** The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A decision’s meeting-name and its precipitating event need not match **Source-backed coverage:** Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
 
-### Q38. Which chronology card should be filed under National institutions?
+- **A (incorrect):** The institutional decision was taken in 1922
+- **B (correct):** A decision’s meeting-name and its precipitating event need not match
+- **C (incorrect):** Bardoli is in Surat district
+- **D (incorrect):** Mass tax refusal was planned, not completed
+**Trap:** Distinguish planned campaign geography from crisis geography.
 
-A. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-B. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-C. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-D. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
+### Q19 — C
 
-**Answer: B.**
-**Explanation:** The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** One institutional endpoint outlived the Indian campaign **Source-backed coverage:** Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
 
-### Q39. Which option should a candidate retain when revising National institutions?
+- **A (incorrect):** That reverses the postwar sequence
+- **B (incorrect):** The movement ended earlier than abolition
+- **C (correct):** One institutional endpoint outlived the Indian campaign
+- **D (incorrect):** All three dates are wrong
+**Trap:** Do not make later Ottoman developments the immediate withdrawal cause.
 
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-C. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
-D. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
+### Q20 — D
 
-**Answer: C.**
-**Explanation:** The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Competing interpretations must state their evidence and limits, not assert a manufactured consensus **Source-backed coverage:** Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
 
-### Q40. Which statement avoids a common matching trap about National institutions?
+- **A (incorrect):** The source identifies reversibility and fragility
+- **B (incorrect):** Bipin Chandra directly rebutted Dutt’s class-protection thesis
+- **C (incorrect):** The rebuttal notes no anti-property intent there
+- **D (correct):** Competing interpretations must state their evidence and limits, not assert a manufactured consensus
+**Trap:** A historiographical thesis is not an uncontested event fact.
 
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-C. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-D. The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith.
+### Q21 — A
 
-**Answer: D.**
-**Explanation:** The boycott phase produced durable national institutions including Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Political alliance was assembled through distinct dated forums
 
-### Q41. Which statement correctly identifies Constructive programme?
+- **A (correct):** Political alliance was assembled through distinct dated forums
+- **B (incorrect):** This reverses each decision
+- **C (incorrect):** That confuses adoption with later withdrawal
+- **D (incorrect):** None matches these institutional decisions
+**Trap:** Do not conflate Khilafat’s warning with Congress ratification.
 
-A. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-B. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-C. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-D. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
+### Q22 — B
 
-**Answer: A.**
-**Explanation:** The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Constructive capacity made the educational exit more sustainable
 
-### Q42. Which chronology card should be filed under Constructive programme?
+- **A (incorrect):** The educational alternatives belonged to the boycott phase
+- **B (correct):** Constructive capacity made the educational exit more sustainable
+- **C (incorrect):** The labour dispute did not build the education network
+- **D (incorrect):** The inquiry was about Punjab
+**Trap:** The word boycott hides institution-building.
 
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-C. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-D. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
+### Q23 — C
 
-**Answer: B.**
-**Explanation:** The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** National mobilisation could create opportunities for independent local agendas
 
-### Q43. Which option should a candidate retain when revising Constructive programme?
+- **A (incorrect):** Excess rent and intermediaries were central grievances
+- **B (incorrect):** The two campaigns had different places and organisational relations
+- **C (correct):** National mobilisation could create opportunities for independent local agendas
+- **D (incorrect):** He was associated with autonomous Eka leadership
+**Trap:** Do not use a shared era as evidence of shared command.
 
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-C. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
-D. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
+### Q24 — D
 
-**Answer: C.**
-**Explanation:** The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Early political impetus does not erase the subsequent communal dimension
 
-### Q44. Which statement avoids a common matching trap about Constructive programme?
+- **A (incorrect):** Eka had a different region and agrarian trajectory
+- **B (incorrect):** That concerned an imperial visit and boycott
+- **C (incorrect):** That predates Manjeri and the Khilafat link
+- **D (correct):** Early political impetus does not erase the subsequent communal dimension
+**Trap:** Neither deny agrarian grievances nor excuse later communal harm.
 
-A. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-B. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-C. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-D. The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott.
+### Q25 — A
 
-**Answer: D.**
-**Explanation:** The constructive programme of khadi, charkha, swadeshi, national education, panchayats and Hindu-Muslim unity built an alternative moral economy alongside boycott. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Violence is documented; its national political interpretation is contested
 
-### Q45. Which statement correctly identifies Prince of Wales boycott?
+- **A (correct):** Violence is documented; its national political interpretation is contested
+- **B (incorrect):** Twenty-two policemen died in the fire
+- **C (incorrect):** It is an interpretation, not a Congress decision
+- **D (incorrect):** A later decree cannot cause an earlier decision
+**Trap:** A real incident does not settle all historiographical questions.
 
-A. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-B. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-C. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-D. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
+### Q26 — B
 
-**Answer: A.**
-**Explanation:** The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Constructive work could reach students, villages and consumers
 
-### Q46. Which chronology card should be filed under Prince of Wales boycott?
+- **A (incorrect):** Titles were one boycott measure, not the entire programme
+- **B (correct):** Constructive work could reach students, villages and consumers
+- **C (incorrect):** The counter-programme was Indian and anticolonial
+- **D (incorrect):** HRA formed in the subsequent decade
+**Trap:** Do not reduce organisational change to theatrical renunciation.
 
-A. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-B. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-C. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-D. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
+### Q27 — C
 
-**Answer: B.**
-**Explanation:** The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** A local incident preceded the formal decision to withdraw
 
-### Q47. Which option should a candidate retain when revising Prince of Wales boycott?
+- **A (incorrect):** The sessions occurred in 1920
+- **B (incorrect):** Abolition was 1924 and arrest March 1922
+- **C (correct):** A local incident preceded the formal decision to withdraw
+- **D (incorrect):** The proposed tax-refusal stage was called off
+**Trap:** Do not confuse a proposed escalation with an accomplished campaign.
 
-A. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-B. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-C. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-D. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
+### Q28 — D
 
-**Answer: C.**
-**Explanation:** The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Correct:** Institutional continuity coexisted with divergent post-1922 tactics
 
-### Q48. Which statement avoids a common matching trap about Prince of Wales boycott?
-
-A. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-B. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-C. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-D. The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country.
-
-**Answer: D.**
-**Explanation:** The 1921 visit of the Prince of Wales was met with a boycott and hartal that intensified repression and arrests across the country. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Eka movement?
-
-A. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-B. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-C. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-D. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-
-**Answer: A.**
-**Explanation:** The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Eka movement?
-
-A. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-B. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-C. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-D. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-
-**Answer: B.**
-**Explanation:** The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Eka movement?
-
-A. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-B. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-C. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-D. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-
-**Answer: C.**
-**Explanation:** The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Eka movement?
-
-A. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-B. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-C. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-D. The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline.
-
-**Answer: D.**
-**Explanation:** The Eka, or unity, movement in the United Provinces protested rent generally fifty per cent above the recorded rent, the oppression of thekedars, and share-rents, developing its own leadership under Madari Pasi and other leaders who did not accept Congress-Khilafat non-violent discipline. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Eka's cross-class base and end?
-
-A. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-B. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-C. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-D. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-
-**Answer: A.**
-**Explanation:** Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Eka's cross-class base and end?
-
-A. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-B. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-C. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-D. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-
-**Answer: B.**
-**Explanation:** Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Eka's cross-class base and end?
-
-A. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-B. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-C. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-D. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-
-**Answer: C.**
-**Explanation:** Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Eka's cross-class base and end?
-
-A. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-B. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-C. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-D. Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control.
-
-**Answer: D.**
-**Explanation:** Eka included many small zamindars alongside tenants and was suppressed by severe official repression by March 1922, marking its autonomy from Congress control. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Malabar Mappila rebellion?
-
-A. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-B. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-C. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-D. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-
-**Answer: A.**
-**Explanation:** The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Malabar Mappila rebellion?
-
-A. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-B. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-C. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-D. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-
-**Answer: B.**
-**Explanation:** The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Malabar Mappila rebellion?
-
-A. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-B. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-C. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-D. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-
-**Answer: C.**
-**Explanation:** The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Malabar Mappila rebellion?
-
-A. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-B. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-C. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-D. The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance.
-
-**Answer: D.**
-**Explanation:** The Mappila rebellion in Malabar from August 1921 grew from grievances over tenure security, renewal fees and high rents, gaining early impetus from the Malabar District Congress Conference at Manjeri in April 1920, but later acquired a communal character that damaged the Khilafat-Congress alliance. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Bardoli escalation plan?
-
-A. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-B. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-C. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-D. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-
-**Answer: A.**
-**Explanation:** Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Bardoli escalation plan?
-
-A. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-B. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-C. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-D. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-
-**Answer: B.**
-**Explanation:** Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Bardoli escalation plan?
-
-A. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-B. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-C. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-D. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-
-**Answer: C.**
-**Explanation:** Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Bardoli escalation plan?
-
-A. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-B. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-C. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-D. Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there.
-
-**Answer: D.**
-**Explanation:** Gandhi announced that mass civil disobedience and tax refusal would begin selectively in Bardoli taluqa of Surat district, with the rest of the country maintaining discipline so attention could concentrate there. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Chauri Chaura?
-
-A. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-B. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-C. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-D. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-
-**Answer: A.**
-**Explanation:** On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Chauri Chaura?
-
-A. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-B. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-C. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-D. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-
-**Answer: B.**
-**Explanation:** On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Chauri Chaura?
-
-A. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-B. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-C. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-D. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-
-**Answer: C.**
-**Explanation:** On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Chauri Chaura?
-
-A. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-B. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-C. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-D. On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen.
-
-**Answer: D.**
-**Explanation:** On 4 February 1922 a Congress-Khilafat procession at Chauri Chaura in Gorakhpur district clashed with police, then attacked and burned the police station, killing twenty-two policemen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Withdrawal and Bardoli resolution?
-
-A. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-B. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-C. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-D. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-
-**Answer: A.**
-**Explanation:** Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Withdrawal and Bardoli resolution?
-
-A. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-B. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-C. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-D. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-
-**Answer: B.**
-**Explanation:** Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Withdrawal and Bardoli resolution?
-
-A. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-B. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-C. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-D. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-
-**Answer: C.**
-**Explanation:** Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Withdrawal and Bardoli resolution?
-
-A. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-B. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-C. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-D. Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned.
-
-**Answer: D.**
-**Explanation:** Gandhi persuaded the Congress Working Committee to ratify withdrawal of Non-Cooperation on 12 February 1922 in the resolution known as the Bardoli resolution, named for the place where escalation had been planned. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Gandhi's arrest and Caliphate abolition?
-
-A. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-B. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-C. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-D. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-
-**Answer: A.**
-**Explanation:** Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Gandhi's arrest and Caliphate abolition?
-
-A. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-B. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-C. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-D. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-
-**Answer: B.**
-**Explanation:** Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Gandhi's arrest and Caliphate abolition?
-
-A. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-B. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-C. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-D. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-
-**Answer: C.**
-**Explanation:** Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Gandhi's arrest and Caliphate abolition?
-
-A. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-B. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-C. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-D. Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue.
-
-**Answer: D.**
-**Explanation:** Gandhi was arrested in March 1922 and sentenced to six years' imprisonment, and the Caliphate was abolished by Mustafa Kemal in 1924, ending the Khilafat issue. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Achievements, limits and consequences?
-
-A. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-B. By 1920 wartime economic distress, Rowlatt-Jallianwala anger and the emerging Khilafat question converged to make an all-India mass movement politically possible for the first time.
-C. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-D. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-
-**Answer: A.**
-**Explanation:** Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Achievements, limits and consequences?
-
-A. Indian Muslims feared harsh Allied treatment of the Ottoman Sultan-Caliph after the First World War and the Treaty of Sevres, feeding the Khilafat agitation.
-B. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-C. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-D. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-
-**Answer: B.**
-**Explanation:** Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Achievements, limits and consequences?
-
-A. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-B. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-C. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-D. Khilafat leadership included Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani, with a Khilafat Committee already active before the November 1919 Delhi conference.
-
-**Answer: C.**
-**Explanation:** Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Achievements, limits and consequences?
-
-A. The All-India Khilafat Conference at Delhi in November 1919 threatened withdrawal of cooperation if Khilafat demands were rejected.
-B. The Calcutta Special Session of September 1920 adopted the Non-Cooperation programme.
-C. Gandhi linked the Khilafat issue to Swaraj to build Hindu-Muslim unity and widen anti-British mobilisation beyond a narrow political class.
-D. Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property.
-
-**Answer: D.**
-**Explanation:** Non-Cooperation was the first genuinely all-India mass movement and left a reorganised Congress and durable institutions, but boycott proved reversible, Hindu-Muslim unity proved fragile after 1924, and the withdrawal opened the Swarajist-No-changer debate and a revolutionary drift among younger activists. The withdrawal itself remains a directly sourced historiographical debate: R. Palme Dutt's class-protection thesis in India Today reads it as Gandhi shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (incorrect):** The party arose from the post-1922 argument
+- **B (incorrect):** They were an internal Congress tendency
+- **C (incorrect):** The sources describe a drift among some, not universal recruitment
+- **D (correct):** Institutional continuity coexisted with divergent post-1922 tactics
+**Trap:** Never retroject the Swaraj Party into the 1920 adoption vote.
 
 ### Semantic-completeness coverage drills — Modern Topic 20
 

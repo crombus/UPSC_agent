@@ -1,0 +1,24 @@
+﻿subject_key,subject,sections,catalog_topics,source_ready,basic_owner_exists,advanced_owner_exists,resource_completed_validated,resource_other_or_unverified,approved,unapproved,approval_unverified,quick_glance_completed,study_completed,study_in_progress,study_unverified,canonical_knowledge_dir,final_package_dir,notes_dir,quick_glance_dir
+Ancient-Indian-History,Ancient History,1,27,27,27,27,27,0,0,27,0,27,0,0,27,upsc-ai-kit\knowledge\Ancient-Indian-History,learning_package_final\Ancient-History,notes\Ancient-Indian-History,quick_galance\Ancient-Indian-History
+Medieval-Indian-History,Medieval History,1,25,25,25,25,25,0,0,25,0,25,0,0,25,upsc-ai-kit\knowledge\Medieval-Indian-History,learning_package_final\Medieval-History,notes\Medieval-Indian-History,quick_galance\Medieval-Indian-History
+Modern-Indian-History,Modern History,1,38,38,38,38,38,0,0,38,0,38,0,0,38,upsc-ai-kit\knowledge\Modern-Indian-History,learning_package_final\Modern-History,notes\Modern-Indian-History,quick_galance\Modern-Indian-History
+World-History,World History,1,21,21,21,21,21,0,0,21,0,21,0,0,21,upsc-ai-kit\knowledge\World-History,learning_package_final\World-History,notes\World-History,quick_galance\World-History
+Indian-Art-and-Culture,Indian Art and Culture,1,15,15,15,15,15,0,0,15,0,15,0,0,15,upsc-ai-kit\knowledge\Indian-Art-and-Culture,learning_package_final\Indian-Art-and-Culture,notes\Indian-Art-and-Culture,quick_galance\Indian-Art-and-Culture
+Geography,Geography,2,37,37,37,37,37,0,0,37,0,37,0,0,37,upsc-ai-kit\knowledge\Geography,learning_package_final\Geography,notes\Geography,quick_galance\Geography
+Indian-Society,Indian Society,1,15,15,15,15,15,0,0,15,0,15,0,0,15,upsc-ai-kit\knowledge\Indian-Society,learning_package_final\Indian-Society,notes\Indian-Society,quick_galance\Indian-Society
+Polity,Polity,1,55,55,55,55,55,0,0,55,0,55,10,0,45,upsc-ai-kit\knowledge\Polity,learning_package_final\Polity,notes\Polity,quick_galance\Polity
+Governance,Governance,1,16,16,16,16,16,0,0,16,0,16,0,0,16,upsc-ai-kit\knowledge\Governance,learning_package_final\Governance,notes\Governance,quick_galance\Governance
+Social-Justice,Social Justice,1,17,17,17,17,17,0,0,17,0,17,0,0,17,upsc-ai-kit\knowledge\Social-Justice,learning_package_final\Social-Justice,notes\Social-Justice,quick_galance\Social-Justice
+International-Relations,International Relations,1,12,12,12,12,12,0,0,12,0,12,0,0,12,upsc-ai-kit\knowledge\International-Relations,learning_package_final\International-Relations,notes\International-Relations,quick_galance\International-Relations
+Economy,Economy,1,31,31,31,31,31,0,0,31,0,31,0,6,25,upsc-ai-kit\knowledge\Economy,learning_package_final\Economy,notes\Economy,quick_galance\Economy
+Environment-and-Ecology,Environment and Ecology,1,28,28,28,28,28,0,0,28,0,28,0,0,28,upsc-ai-kit\knowledge\Environment-and-Ecology,learning_package_final\Environment-and-Ecology,notes\Environment-and-Ecology,quick_galance\Environment-and-Ecology
+Science-and-Technology,Science and Technology,1,26,26,26,26,26,0,0,26,0,26,0,0,26,upsc-ai-kit\knowledge\Science-and-Technology,learning_package_final\Science-and-Technology,notes\Science-and-Technology,quick_galance\Science-and-Technology
+Internal-Security,Internal Security,1,12,12,12,12,12,0,0,12,0,12,12,0,0,upsc-ai-kit\knowledge\Internal-Security,learning_package_final\Internal-Security,notes\Internal-Security,quick_galance\Internal-Security
+Disaster-Management,Disaster Management,1,18,18,18,18,18,0,0,18,0,18,0,0,18,upsc-ai-kit\knowledge\Disaster-Management,learning_package_final\Disaster-Management,notes\Disaster-Management,quick_galance\Disaster-Management
+Ethics,Ethics,1,23,23,23,23,23,0,0,23,0,23,0,0,23,upsc-ai-kit\knowledge\Ethics,learning_package_final\Ethics,notes\Ethics,quick_galance\Ethics
+Political-Theory,Political Theory,1,23,23,23,23,23,0,0,23,0,23,0,0,23,upsc-ai-kit\knowledge\Political-Theory,learning_package_final\Political-Theory,notes\Political-Theory,quick_galance\Political-Theory
+Essay,Essay,1,16,16,16,16,16,0,0,16,0,0,0,0,16,upsc-ai-kit\knowledge\Essay,learning_package_final\Essay,notes\Essay,
+CSAT,CSAT,1,8,8,8,8,8,0,0,8,0,0,0,0,8,upsc-ai-kit\knowledge\CSAT,,notes\CSAT,
+Qualifying-English,Qualifying English,1,7,7,7,0,7,0,0,7,0,0,0,0,7,upsc-ai-kit\knowledge\Qualifying-English,learning_package_final\Qualifying-English,notes\Qualifying-English,
+Qualifying-Hindi,Qualifying Hindi,1,6,6,6,0,6,0,0,6,0,0,0,0,6,upsc-ai-kit\knowledge\Qualifying-Hindi,learning_package_final\Qualifying-Hindi,notes\Qualifying-Hindi,
+Philosophy,Philosophy Optional,4,40,40,0,40,40,0,0,40,0,40,4,4,32,upsc-ai-kit\knowledge\Philosophy,learning_package_final\Philosophy-Optional,notes\Philosophy,quick_galance\Philosophy

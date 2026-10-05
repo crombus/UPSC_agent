@@ -1,0 +1,14 @@
+{
+  "audit_date": "2026-10-04",
+  "subject": "Geography",
+  "topics": 37,
+  "topics_complete": 37,
+  "questions_per_bank": 44,
+  "banks_per_topic": 3,
+  "total_originals": 4884,
+  "exact_pyqs_reproduced": 0,
+  "concept_gap_audit": "PASS",
+  "concept_gaps": 0,
+  "findings": [],
+  "status": "PASS"
+}

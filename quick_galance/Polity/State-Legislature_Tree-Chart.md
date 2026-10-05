@@ -1,6 +1,7 @@
 # Polity 20 — State Legislature — Self-Contained Quick-Glance Tree
 
-> Stable sequence: core concept -> origin/timeline -> decoded constitutional spine -> mechanisms -> cases/reforms -> traps -> answer spine.
+> Stable sequence: core concept -> origin/timeline -> decoded constitutional
+> spine -> mechanisms -> cases/reforms -> traps -> answer spine.
 
 ## 1. Core concept and constitutional origin
 

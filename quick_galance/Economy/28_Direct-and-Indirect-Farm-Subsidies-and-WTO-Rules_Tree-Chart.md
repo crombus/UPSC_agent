@@ -63,7 +63,7 @@ FARM SUPPORT
 
 | Term | Decode | Trap |
 |---|---|---|
-| DBT | Direct Benefit Transfer; design can reimburse a supplier or pay a beneficiary | Fertiliser DBT is not PM-KISAN cash |
+| DBT | Direct Benefit Transfer; can reimburse supplier or beneficiary | Fertiliser DBT is not PM-KISAN cash |
 | NBS | Nutrient Based Subsidy for notified phosphatic and potassic grades | Urea is outside NBS |
 | MSP | Minimum Support Price announcement | Not identical to procurement |
 | AMS | Aggregate Measurement of Support | Not total Budget spending |

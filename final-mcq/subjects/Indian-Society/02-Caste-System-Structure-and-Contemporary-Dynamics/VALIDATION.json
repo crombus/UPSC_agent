@@ -1,0 +1,44 @@
+{
+  "topic_key": "indian-society-02",
+  "title": "Caste System: Structure and Contemporary Dynamics",
+  "status": "complete",
+  "original_questions_total": 126,
+  "revisions": {
+    "revision-1": {
+      "questions": 42,
+      "answers": 42,
+      "keys": {
+        "A": 10,
+        "B": 10,
+        "C": 12,
+        "D": 10
+      }
+    },
+    "revision-2": {
+      "questions": 42,
+      "answers": 42,
+      "keys": {
+        "A": 11,
+        "B": 12,
+        "C": 9,
+        "D": 10
+      }
+    },
+    "revision-3": {
+      "questions": 42,
+      "answers": 42,
+      "keys": {
+        "A": 11,
+        "B": 11,
+        "C": 11,
+        "D": 9
+      }
+    }
+  },
+  "pyq_exact_live": 0,
+  "pyq_hold": true,
+  "source_hold": true,
+  "hostile_audit": "pass",
+  "structural_audit": "pass",
+  "independent_learner_review": "pending"
+}

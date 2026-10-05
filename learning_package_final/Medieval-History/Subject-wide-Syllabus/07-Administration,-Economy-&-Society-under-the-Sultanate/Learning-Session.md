@@ -46,14 +46,11 @@ cover_image: assets/medieval-indian-history-07_Teaching-Navigation_2026-08-30.pn
 
 - `https://www.rbi.org.in/commonman/English/Currency/Scripts/Medieval.aspx`
 
-
-
 ![Refreshed teaching navigation](assets/medieval-indian-history-07_Teaching-Navigation_2026-08-30.png)
 
 *Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
 
 #### Package counts, provenance and honest limitations
-
 
 - Learning sections: 24; learning MCQ loops: 18.
 - Workbook content: 4 verified or honestly-adjacent solved PYQs; 32 original broad-coverage MCQs; 12 remedial trap MCQs; 6 original solved Mains questions; final register modules: 13.
@@ -67,7 +64,6 @@ cover_image: assets/medieval-indian-history-07_Teaching-Navigation_2026-08-30.pn
 
 #### Sources actually used
 
-
 | Source class | Exact source | Use and caveat |
 |---|---|---|
 | Repository knowledge | Topic 07 basic and advanced owners; bounded Topics 01, 03, 04, 05, 06, 10 and 11; Medieval README; Master Chronology; Revision Chart; Answer-Worthiness Audit; PYQ ledgers; prior complete packages for Topics 03-06. | Controlled chronology, topic boundaries, correction of older textbook overstatement, and exact repository semantics on offices, technology, fanam, Persian sources and local caution. |
@@ -77,7 +73,6 @@ cover_image: assets/medieval-indian-history-07_Teaching-Navigation_2026-08-30.pn
 | Live source | None required for completion. | A historical package of this kind was fully supportable from repository Markdown and local OCR-searchable books; no decorative current-affairs hook was forced into the topic. |
 
 #### Original visual asset index
-
 
 - `notes/Medieval-Indian-History/assets/07_Administration-Economy-Society-under-the-Sultanate/00_sultanate_admin_economy_society_cover.png`
 
@@ -145,24 +140,24 @@ cover_image: assets/medieval-indian-history-07_Teaching-Navigation_2026-08-30.pn
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The best exam-safe frame is changing, negotiated and regionally uneven rule.
+**Plain-language definition:** This session shows how to study the Sultanate without turning it into a ruler list: compare dynasties, track institutions through time and keep regional variation in view.
 
-**Technical definition:** Topic 07 spans the Delhi Sultanate from its thirteenth-century consolidation to the Lodi transition, but it does so through institutions, revenue, markets, social hierarchy and historiography rather than by repeating ruler-biographies already owned by Topics 03-06.
+**Technical definition:** Methodologically, Topic 07 is a cross-dynastic enquiry into a military-fiscal order whose administrative and social forms shifted from the Mamluks to the Lodis; every comparison has to be controlled by source hierarchy and chronology.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Topic 07 spans the Delhi Sultanate from its thirteenth-century consolidation to the Lodi transition, but it does so through institutions, revenue, markets, social hierarchy and historiography rather than by repeating ruler-biographies already owned by Topics 03-06.
+> Do not define the Delhi Sultanate once and for all; read it as a changing military-fiscal order whose institutions looked different under Mamluk consolidation, Khalji tightening, Tughlaq experimentation and Lodi bargaining.
 
 #### MUST-WRITE KEYWORDS
 
-- **Scope**
-- **framing**
+- **cross-dynastic comparison**
+- **military-fiscal order**
 - **chronology discipline**
-- **changing, negotiated and regionally uneven rule**
-- **Topics 03-06**
-- **Topic 08-09**
+- **negotiated rule**
+- **regional unevenness**
+- **source hierarchy**
 
-**How to use them:** Frame the answer through Scope; define framing, connect chronology discipline with changing, negotiated and regionally uneven rule to explain the mechanism, and use Topics 03-06 for the decisive comparison or qualification.
+**How to use them:** Open with the cross-dynastic frame, introduce military-fiscal order as the organising logic, and then use chronology discipline to show why negotiated rule and regional unevenness qualify every generalisation.
 
 [FACT] Topic 07 spans the Delhi Sultanate from its thirteenth-century consolidation to the Lodi transition, but it does so through institutions, revenue, markets, social hierarchy and historiography rather than by repeating ruler-biographies already owned by Topics 03-06.
 
@@ -181,54 +176,57 @@ cover_image: assets/medieval-indian-history-07_Teaching-Navigation_2026-08-30.pn
 | Topic 10 | Bhakti and Sufi movements in detail | Only the limited social and political relevance of ulema-Sufi-state interaction |
 | Topic 11 | Full architecture survey and style-history | Only technology, urban building demand and the evidentiary value of monuments |
 
-
-
 ![01. Thematic chronology and institution evolution spine](assets/01_thematic_chronology_insti-384c60a62b.png)
 
 *Chronology visual. It keeps the topic thematic by separating institutional change from ruler-list memorisation.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The best exam-safe frame is **changing, negotiated and regionally uneven rule**. **Evidence:** Topic 07 spans the Delhi Sultanate from its thirteenth-century consolidation to the Lodi transition, but it does so through institutions, revenue, markets, social hierarchy and historiography rather than by repeating ruler-biographies already owned by Topics 03-06. **Analysis:** Because the topic spans multiple dynasties and domains, the evidence yields pattern only through comparison; ruler-biographies alone cannot explain why one state label covered shifting revenue methods, elite coalitions and social hierarchies. **Qualification:** Any verdict must therefore be chronological, regional and source-sensitive rather than timeless.
+
 #### CLOSING RECALL FLOW — SCOPE, FRAMING AND CHRONOLOGY DISCIPLINE
 
 ```text
-START / CONCEPT: Scope, framing and chronology discipline
+START / CONCEPT: SCOPE, FRAMING AND CHRONOLOGY DISCIPLINE
         |
         v
-EXACT TERMS: Scope · framing · chronology discipline · changing, negotiated and regionally uneven rule · Topics 03-06 · Topic 08-09
+EXACT TERMS: cross-dynastic comparison · military-fiscal order · chronology discipline · negotiated rule · regional unevenness · source hierarchy
         |
         v
-MECHANISM / ARGUMENT: The best exam-safe frame is changing, negotiated and regionally uneven rule.
+MECHANISM / ARGUMENT: The argument works only when chronology controls comparison: the same office, tax label or social category carried different weight under different dynasties and in different regions.
         |
         v
-CONSEQUENCE / CONTRAST: Therefore the package separates normative Persian vocabulary, chronicler claims, actual administration and later textbook generalisation before drawing conclusions.
+CONSEQUENCE / CONTRAST: Any verdict must therefore be chronological, regional and source-sensitive rather than timeless.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: [DEBATE] Three distortions must be blocked at the beginning.
+UPSC TRAP / ANSWER-USE: The exam trap is the one-size-fits-all Sultanate—either a modern bureaucracy, a pure juristic state or a frozen Hindu-Muslim binary.
         |
         v
-ANSWER-GRABBING FORMULATION: Topic 07 spans the Delhi Sultanate from its thirteenth-century consolidation to the Lodi transition, but it does so through institutions, revenue, markets, social hierarchy and historiography rather than by repeating ruler-biographies already owned by Topics 03-06.
+ANSWER-GRABBING FORMULATION: A secure one-line frame is: Delhi worked as a military-fiscal order whose reach depended on negotiated local power and uneven evidence.
 ```
+
 ### SESSION 2 — STATE FORMATION: CONQUEST, COURT FORM AND INHERITED AGRARIAN STRUCTURES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** [DEBATE] The contrast is not between conquest and accommodation as mutually exclusive options.
+**Plain-language definition:** Here the story is not conquest alone: forts and cavalry won entry, but the state worked only when court culture and older agrarian arrangements were fitted together.
 
-**Technical definition:** Turkish conquest created fortified nodes, campaign corridors and cavalry households, but these alone did not produce a working state.
+**Technical definition:** State formation under the early Sultanate combined fortified military nodes, Persianate court forms and inherited revenue-bearing village structures mediated through local intermediaries.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Turkish conquest created fortified nodes, campaign corridors and cavalry households, but these alone did not produce a working state.
+> If the question asks how the Sultanate took shape, begin with conquest, but do not stop there: a durable state emerged only when military occupation was tied to agrarian continuity and courtly administration.
 
 #### MUST-WRITE KEYWORDS
 
-- **conquest**
-- **court form**
-- **inherited agrarian structures**
-- **hierarchical military-fiscal network**
-- **Turkish**
-- **Topic**
+- **fortified nodes**
+- **Persianate court forms**
+- **agrarian continuity**
+- **local intermediaries**
+- **revenue coordination**
+- **state formation**
 
-**How to use them:** Frame the answer through conquest; define court form, connect inherited agrarian structures with hierarchical military-fiscal network to explain the mechanism, and use Turkish for the decisive comparison or qualification.
+**How to use them:** Start from fortified nodes and campaign corridors, move to Persianate court forms, and then show how local intermediaries converted conquest into regular revenue and obedience.
 
 [FACT] Turkish conquest created fortified nodes, campaign corridors and cavalry households, but these alone did not produce a working state. Durable rule required revenue, communication, a persuasive court idiom and local intermediaries able to collect, report and police.
 
@@ -240,54 +238,57 @@ ANSWER-GRABBING FORMULATION: Topic 07 spans the Delhi Sultanate from its thirtee
 
 [DEBATE] The contrast is not between conquest and accommodation as mutually exclusive options. The actual historical process involved both: armed superiority at nodal points, then bargaining, delegation, audit and selective retention of local personnel.
 
-
-
 ![02. Sultanate state formation - coercion and negotiation network](assets/02_state_formation_coercion_-de72f5d4e8.png)
 
 *State-formation visual. It shows why conquest, Persianate court practice and inherited agrarian society had to be combined.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** This is why the Delhi Sultanate is best described as a **hierarchical military-fiscal network**. **Evidence:** Turkish conquest created fortified nodes, campaign corridors and cavalry households, but these alone did not produce a working state. Durable rule required revenue, communication, a persuasive court idiom and local intermediaries able to collect, report and police. **Analysis:** Fortified centres by themselves could hold territory only briefly; once revenue collection, local chiefs and village hierarchies were incorporated, conquest became a functioning state instead of a chain of raids. **Qualification:** Conquest and accommodation worked together here, not as mutually exclusive alternatives.
+
 #### CLOSING RECALL FLOW — STATE FORMATION: CONQUEST, COURT FORM AND INHERITED AGRARIAN STRUCTURES
 
 ```text
-START / CONCEPT: State formation: conquest, court form and inherited agrarian structures
+START / CONCEPT: STATE FORMATION: CONQUEST, COURT FORM AND INHERITED AGRARIAN STRUCTURES
         |
         v
-EXACT TERMS: conquest · court form · inherited agrarian structures · hierarchical military-fiscal network · Turkish · Topic
+EXACT TERMS: fortified nodes · Persianate court forms · agrarian continuity · local intermediaries · revenue coordination · state formation
         |
         v
-MECHANISM / ARGUMENT: At the same time, local agrarian structures were not rebuilt from zero.
+MECHANISM / ARGUMENT: Cavalry seizure created the opening, but state formation matured when existing agrarian networks were enrolled rather than uprooted.
         |
         v
-CONSEQUENCE / CONTRAST: [DEBATE] The contrast is not between conquest and accommodation as mutually exclusive options.
+CONSEQUENCE / CONTRAST: Conquest and accommodation worked together here, not as mutually exclusive alternatives.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the repository's Topic 01 and Topic 03 materials, read with the local OCR, show...
+UPSC TRAP / ANSWER-USE: Do not write as if Turkish victory automatically produced a ready-made bureaucracy, and do not swing to the opposite error of denying the force of conquest.
         |
         v
-ANSWER-GRABBING FORMULATION: Turkish conquest created fortified nodes, campaign corridors and cavalry households, but these alone did not produce a working state.
+ANSWER-GRABBING FORMULATION: The best compact line is that the Sultanate was built by conquest at the top and consolidation through inherited agrarian structures below.
 ```
+
 ### SESSION 3 — SULTAN, KINGSHIP, CALIPHATE AND POLITICAL EXPEDIENCY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The better contrast is between sharia-backed normative language and zawabit or political expediency.
+**Plain-language definition:** This session explains how a sultan looked legitimate: through prayer, coin, courtly style and practical rule, not by religion alone.
 
-**Technical definition:** Balban heightened awe and ceremonial distance; Alauddin argued that state necessity could not be reduced to juristic advice; Muhammad bin Tughlaq sought symbolic legitimacy while also issuing regulations; Firuz leaned further toward juristic approval without surrendering political calculation.
+**Technical definition:** Sultanate sovereignty operated through khutba, sikka, caliphal idiom, Persianate kingship and zawabit, with political expediency repeatedly reshaping the legal-religious balance.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The better contrast is between sharia-backed normative language and zawabit or political expediency.
+> Ask not whether the Sultanate was simply religious or secular; ask how khutba, coinage and reason of state were combined in practice.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sultan**
-- **kingship**
-- **caliphate**
-- **political expediency**
 - **khutba**
 - **sikka**
+- **caliphal recognition**
+- **zawabit**
+- **reason of state**
+- **sovereignty**
 
-**How to use them:** Frame the answer through Sultan; define kingship, connect caliphate with political expediency to explain the mechanism, and use khutba for the decisive comparison or qualification.
+**How to use them:** Name khutba and sikka first as public signs of rule, then bring in caliphal recognition, and only after that explain how zawabit and expediency modified the juristic ideal.
 
 [FACT] The sultan stood at the apex of military command, office distribution, coinage and high justice. Sovereignty was signalled through **khutba**, **sikka**, titulature, court ceremonial and the power to hear petitions or overrule great officials.
 
@@ -297,54 +298,57 @@ ANSWER-GRABBING FORMULATION: Turkish conquest created fortified nodes, campaign 
 
 [DEBATE] This is why modern labels such as 'secular' or 'theocratic' mislead. The better contrast is between **sharia-backed normative language** and **zawabit or political expediency**. Different rulers drew that balance differently, and the balance shifted with crisis.
 
-
-
 ![04. Sultan - khutba - sikka - caliphate legitimacy chain](assets/04_sultan_khutba_sikka_calip-58a8465063.png)
 
 *Legitimacy visual. It separates symbols of sovereignty from the material foundations of rule.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Kingship under the Sultanate therefore mixed Islamic legitimacy, Persianate performance and reason of state. **Evidence:** The sultan stood at the apex of military command, office distribution, coinage and high justice. Sovereignty was signalled through **khutba**, **sikka**, titulature, court ceremonial and the power to hear petitions or overrule great officials. **Analysis:** Control over coinage, office and justice made the sultan effectively sovereign even when caliphal sanction was thin or absent; symbols worked because administrative and military capacity stood behind them. **Qualification:** That is why modern labels such as “secular” or “theocratic” misdescribe the political grammar of the period.
+
 #### CLOSING RECALL FLOW — SULTAN, KINGSHIP, CALIPHATE AND POLITICAL EXPEDIENCY
 
 ```text
-START / CONCEPT: Sultan, kingship, caliphate and political expediency
+START / CONCEPT: SULTAN, KINGSHIP, CALIPHATE AND POLITICAL EXPEDIENCY
         |
         v
-EXACT TERMS: Sultan · kingship · caliphate · political expediency · khutba · sikka
+EXACT TERMS: khutba · sikka · caliphal recognition · zawabit · reason of state · sovereignty
         |
         v
-MECHANISM / ARGUMENT: Sovereignty was signalled through khutba, sikka, titulature, court ceremonial and the power to hear petitions or overrule great officials.
+MECHANISM / ARGUMENT: Legitimacy was assembled from multiple registers—Islamic idiom, Persianate performance and coercive success—not drawn from a single sacred source.
         |
         v
-CONSEQUENCE / CONTRAST: Balban heightened awe and ceremonial distance; Alauddin argued that state necessity could not be reduced to juristic advice; Muhammad bin Tughlaq sought symbolic legitimacy while also issuing regulations; Firuz leaned further toward juristic approval without surrendering political calculation.
+CONSEQUENCE / CONTRAST: That is why modern labels such as “secular” or “theocratic” misdescribe the political grammar of the period.
         |
         v
-UPSC TRAP / ANSWER-USE: Yet the evidence used across Topics 03 and 05 makes the key point unmistakable: such recognition enhanced status but did not create the army, the revenue base or the countryside network of rule.
+UPSC TRAP / ANSWER-USE: Avoid writing as though caliphal recognition settled succession or policy; Delhi rulers borrowed prestige but governed through their own calculations.
         |
         v
-ANSWER-GRABBING FORMULATION: The better contrast is between sharia-backed normative language and zawabit or political expediency.
+ANSWER-GRABBING FORMULATION: A high-scoring line is: Sultanate kingship fused Islamic symbols with Persianate monarchy and the hard logic of political expediency.
 ```
+
 ### SESSION 4 — CENTRAL DEPARTMENTS AND THE PROBLEM OF PROJECTING ONE REIGN ACROSS ALL CENTURIES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The OCR itself shows caution around Diwan-i-Risalat; the weight of the wazir and the subordinates of finance shifted; some offices are best evidenced only under stronger or better-documented reigns.
+**Plain-language definition:** This session is about the big offices at the centre and why you must not assume that one neat organisation chart lasted for three centuries.
 
-**Technical definition:** Technically, Central departments and the problem of projecting one reign across all centuries is analysed by relating Central departments to wazir / Diwan-i-Wizarat, then testing the relationship through ariz / Diwan-i-Arz and Diwan-i-Insha.
+**Technical definition:** The central apparatus comprised differentiated portfolios—wizarat, Diwan-i-Arz, Diwan-i-Insha, barid and, in some reconstructions, Diwan-i-Risalat—but their exact scope varied by reign and evidence base.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The OCR itself shows caution around Diwan-i-Risalat; the weight of the wazir and the subordinates of finance shifted; some offices are best evidenced only under stronger or better-documented reigns.
+> When writing on the Sultanates central administration, name the departments, then immediately warn the examiner that portfolios shifted over time.
 
 #### MUST-WRITE KEYWORDS
 
-- **Central departments**
-- **wazir / Diwan-i-Wizarat**
-- **ariz / Diwan-i-Arz**
-- **Diwan-i-Insha**
-- **Diwan-i-Risalat**
-- **sadr**
+- **wizarat**
+- **diwan-i-arz**
+- **diwan-i-insha**
+- **diwan-i-risalat**
+- **barid**
+- **portfolio variation**
 
-**How to use them:** Frame the answer through Central departments; define wazir / Diwan-i-Wizarat, connect ariz / Diwan-i-Arz with Diwan-i-Insha to explain the mechanism, and use Diwan-i-Risalat for the decisive comparison or qualification.
+**How to use them:** Use wizarat for finance, Arz for the army and Insha for correspondence, then qualify Risalat and barid by reign so the answer moves from department to portfolio variation.
 
 [FACT] The local OCR and Topic 03 package together confirm the main institutional cluster: **wazir / Diwan-i-Wizarat** for finance and oversight, **ariz / Diwan-i-Arz** for muster and equipment, **Diwan-i-Insha** for correspondence, and **Diwan-i-Risalat** in Satish Chandra's reconstruction for religious grants and pious matters.
 
@@ -354,54 +358,57 @@ ANSWER-GRABBING FORMULATION: The better contrast is between sharia-backed normat
 
 [ANALYSIS] Institutional differentiation was real, and this matters against caricatures of pure personal rule. But differentiation did not mean a modern file-driven bureaucracy. The crown relied on people whose actual reach depended on the ruler's strength, military follow-through and local mediation.
 
-
-
 ![03. Central departments comparison with period caveat](assets/03_central_departments_compa-1a4173a8fe.png)
 
 *Institution matrix. The point is function with chronology caution, not bureaucratic timelessness.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Institutional differentiation was real, and this matters against caricatures of pure personal rule. **Evidence:** The local OCR and Topic 03 package together confirm the main institutional cluster: **wazir / Diwan-i-Wizarat** for finance and oversight, **ariz / Diwan-i-Arz** for muster and equipment, **Diwan-i-Insha** for correspondence, and **Diwan-i-Risalat** in Satish Chandra's reconstruction for religious grants and pious matters. **Analysis:** Named departments show that rule was more than personal whim, but their shifting portfolios also prove that institutional form responded to political pressure rather than to a timeless constitutional blueprint. **Qualification:** Any chart must therefore be time-bound, not universal.
+
 #### CLOSING RECALL FLOW — CENTRAL DEPARTMENTS AND THE PROBLEM OF PROJECTING ONE REIGN ACROSS ALL CENTURIES
 
 ```text
-START / CONCEPT: Central departments and the problem of projecting one reign across all centuries
+START / CONCEPT: CENTRAL DEPARTMENTS AND THE PROBLEM OF PROJECTING ONE REIGN ACROSS ALL CENTURIES
         |
         v
-EXACT TERMS: Central departments · wazir / Diwan-i-Wizarat · ariz / Diwan-i-Arz · Diwan-i-Insha · Diwan-i-Risalat · sadr
+EXACT TERMS: wizarat · diwan-i-arz · diwan-i-insha · diwan-i-risalat · barid · portfolio variation
         |
         v
-MECHANISM / ARGUMENT: The crown relied on people whose actual reach depended on the ruler's strength, military follow-through and local mediation.
+MECHANISM / ARGUMENT: Centralisation worked through specialised offices, yet specialisation itself changed with dynastic priorities and with the survival of sources.
         |
         v
-CONSEQUENCE / CONTRAST: Topic 07 must resist the temptation to draw one permanent chart.
+CONSEQUENCE / CONTRAST: Any chart must therefore be time-bound, not universal.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: and this matters against caricatures of pure personal rule.
+UPSC TRAP / ANSWER-USE: Do not freeze Alauddin's or Firuz's arrangement into a permanent ministry chart; portfolios shifted by reign.
         |
         v
-ANSWER-GRABBING FORMULATION: The OCR itself shows caution around Diwan-i-Risalat; the weight of the wazir and the subordinates of finance shifted; some offices are best evidenced only under stronger or better-documented reigns.
+ANSWER-GRABBING FORMULATION: Use a sentence like: Delhi developed differentiated central departments, but no single reign supplies a permanent template for all Sultanate centuries.
 ```
+
 ### SESSION 5 — NOBILITY AND ELITE COMPOSITION: WIDER RECRUITMENT, SHARPER FACTION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** His rage is evidence for elite hierarchy as much as for the appointments themselves.
+**Plain-language definition:** The ruling elite widened over time, but wider recruitment also meant sharper faction and bargaining.
 
-**Technical definition:** The composition widened over time and varied by ruler.
+**Technical definition:** Sultanate nobility evolved from a narrow Turkish-mamluk core into a composite service elite including Tajiks/Persians, Khaljis, Afghans, Indian Muslims, converts and local allies, with faction structured by rank, household and access to iqta.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> [DEBATE] The safest way to write this is not 'racial conflict' or 'class conflict' alone, but status-stratified elite competition in which ethnicity, household rank, old service, new service and local landed connections all mattered.
+> Do not treat the nobility as a single ethnic bloc; the real story is widening recruitment under conditions of recurring faction.
 
 #### MUST-WRITE KEYWORDS
 
-- **Nobility**
-- **elite composition**
-- **wider recruitment**
-- **sharper faction**
-- **status-stratified elite competition**
-- **The Sultanate**
+- **Turks**
+- **Tajiks/Persians**
+- **Khaljis and Afghans**
+- **new men**
+- **faction**
+- **service elite**
 
-**How to use them:** Frame the answer through Nobility; define elite composition, connect wider recruitment with sharper faction to explain the mechanism, and use status-stratified elite competition for the decisive comparison or qualification.
+**How to use them:** Start with the Turkish-mamluk core, add Tajik and Persian administrators, then show how Khalji, Afghan and Indian entrants changed faction, access to iqta and court politics.
 
 [FACT] The Sultanate elite included Turks, military slaves, Tajiks/Persians, Khaljis, Afghans, Indian Muslims, converts, ulema, clerks, local chiefs and Hindu managers or accountants. The composition widened over time and varied by ruler.
 
@@ -411,54 +418,57 @@ ANSWER-GRABBING FORMULATION: The OCR itself shows caution around Diwan-i-Risalat
 
 [DEBATE] The safest way to write this is not 'racial conflict' or 'class conflict' alone, but **status-stratified elite competition** in which ethnicity, household rank, old service, new service and local landed connections all mattered.
 
-
-
 ![05. Nobility composition and faction matrix](assets/05_nobility_composition_faction_matrix.png)
 
 *Elite-composition visual. It shows why widening the ruling class changed both state capacity and political friction.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Political consequence followed social composition. **Evidence:** The Sultanate elite included Turks, military slaves, Tajiks/Persians, Khaljis, Afghans, Indian Muslims, converts, ulema, clerks, local chiefs and Hindu managers or accountants. The composition widened over time and varied by ruler. **Analysis:** Once the court moved beyond a closed Turkish circle, the pool of talent enlarged, but so did disputes over status and patronage; political instability followed from who could claim office, not merely from personal rivalries. **Qualification:** The safest label is not “racial conflict” alone but status-stratified elite competition.
+
 #### CLOSING RECALL FLOW — NOBILITY AND ELITE COMPOSITION: WIDER RECRUITMENT, SHARPER FACTION
 
 ```text
-START / CONCEPT: Nobility and elite composition: wider recruitment, sharper faction
+START / CONCEPT: NOBILITY AND ELITE COMPOSITION: WIDER RECRUITMENT, SHARPER FACTION
         |
         v
-EXACT TERMS: Nobility · elite composition · wider recruitment · sharper faction · status-stratified elite competition · The Sultanate
+EXACT TERMS: Turks · Tajiks/Persians · Khaljis and Afghans · new men · faction · service elite
         |
         v
-MECHANISM / ARGUMENT: The Sultanate elite included Turks, military slaves, Tajiks/Persians, Khaljis, Afghans, Indian Muslims, converts, ulema, clerks, local chiefs and Hindu managers or accountants.
+MECHANISM / ARGUMENT: Elite composition shaped politics because access to office, iqta and royal proximity redistributed both opportunity and resentment.
         |
         v
-CONSEQUENCE / CONTRAST: His rage is evidence for elite hierarchy as much as for the appointments themselves.
+CONSEQUENCE / CONTRAST: The safest label is not “racial conflict” alone but status-stratified elite competition.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the composition widened over time and varied by ruler.
+UPSC TRAP / ANSWER-USE: Avoid reducing every conflict to race alone: household rank, service seniority, pedigree and local landed links mattered alongside ethnicity.
         |
         v
-ANSWER-GRABBING FORMULATION: [DEBATE] The safest way to write this is not 'racial conflict' or 'class conflict' alone, but status-stratified elite competition in which ethnicity, household rank, old service, new service and local landed connections all mattered.
+ANSWER-GRABBING FORMULATION: A crisp line is: the Sultanate elite broadened socially even as competition within the service aristocracy grew more volatile.
 ```
+
 ### SESSION 6 — BANDAGAN AND MILITARY SLAVERY: ELITE TRAINING, NOT MASS CHATTEL EQUIVALENCE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Their careers show why military slavery cannot be read only as degradation; it was also an elite recruitment technology.
+**Plain-language definition:** These were not ordinary slaves in the generic sense but trained household dependants who could become military and political actors.
 
-**Technical definition:** Military slavery should not erase other forms of slavery.
+**Technical definition:** Bandagan or mamluks were elite military-household slaves formed through purchase, training, manumission and patronal incorporation; the institution cannot be collapsed into all forms of slavery under the Sultanate.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Their careers show why military slavery cannot be read only as degradation; it was also an elite recruitment technology.
+> The first move in any answer is definitional: separate bandagan from slavery in general before discussing their political role.
 
 #### MUST-WRITE KEYWORDS
 
-- **Bandagan**
+- **bandagan**
+- **household service**
 - **military slavery**
-- **elite training**
-- **not mass chattel equivalence**
-- **Topic**
-- **Aibak**
+- **manumission**
+- **loyalty network**
+- **coercion**
 
-**How to use them:** Frame the answer through Bandagan; define military slavery, connect elite training with not mass chattel equivalence to explain the mechanism, and use Topic for the decisive comparison or qualification.
+**How to use them:** Define bandagan as military-household dependants, explain training and patronage, and then show how manumission and high office made this a loyalty network with coercive implications.
 
 [FACT] Topic 03 establishes the core distinction: *mamluk* or military-household slavery referred to selected dependants trained in warfare, service, etiquette and loyalty. Manumission allowed them to hold office, marriage alliances and even sovereignty.
 
@@ -468,54 +478,57 @@ ANSWER-GRABBING FORMULATION: [DEBATE] The safest way to write this is not 'racia
 
 [LIMIT] Military slavery should not erase other forms of slavery. Domestic, artisanal, war-captive and palace slavery remained part of medieval society, usually without the path to power visible in the elite bandagan pattern.
 
-
-
 ![06. Bandagan lifecycle and political role](assets/06_bandagan_lifecycle_political_role.png)
 
 *Bandagan visual. It distinguishes recruitment, training, manumission and later political risk.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Yet the institution generated its own instability. **Evidence:** Topic 03 establishes the core distinction: *mamluk* or military-household slavery referred to selected dependants trained in warfare, service, etiquette and loyalty. Manumission allowed them to hold office, marriage alliances and even sovereignty. **Analysis:** Because advancement came through the rulers household, bandagan could strengthen the centre more effectively than autonomous nobles; the same concentration of patronage, however, bred succession struggles once that household fractured. **Qualification:** Military slavery should not erase the wider spectrum of bondage that also existed in Sultanate society.
+
 #### CLOSING RECALL FLOW — BANDAGAN AND MILITARY SLAVERY: ELITE TRAINING, NOT MASS CHATTEL EQUIVALENCE
 
 ```text
-START / CONCEPT: Bandagan and military slavery: elite training, not mass chattel equivalence
+START / CONCEPT: BANDAGAN AND MILITARY SLAVERY: ELITE TRAINING, NOT MASS CHATTEL EQUIVALENCE
         |
         v
-EXACT TERMS: Bandagan · military slavery · elite training · not mass chattel equivalence · Topic · Aibak
+EXACT TERMS: bandagan · household service · military slavery · manumission · loyalty network · coercion
         |
         v
-MECHANISM / ARGUMENT: The same household training that produced loyal commanders could also produce rivals once those men accumulated troops, assignments and prestige.
+MECHANISM / ARGUMENT: The institution converted personal dependence into state service by tying training, advancement and survival to the rulers household.
         |
         v
-CONSEQUENCE / CONTRAST: Military slavery should not erase other forms of slavery.
+CONSEQUENCE / CONTRAST: Military slavery should not erase the wider spectrum of bondage that also existed in Sultanate society.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: topic 03 establishes the core distinction.
+UPSC TRAP / ANSWER-USE: Do not equate elite military slavery with plantation-like mass chattel systems, but do not romanticise it as voluntary service either.
         |
         v
-ANSWER-GRABBING FORMULATION: Their careers show why military slavery cannot be read only as degradation; it was also an elite recruitment technology.
+ANSWER-GRABBING FORMULATION: A safe answer line is that bandagan were coercively recruited elite retainers whose value lay in trained loyalty, not in ordinary property rights over land.
 ```
+
 ### SESSION 7 — IQTA AS ASSIGNMENT, NOT SIMPLE PROPERTY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** In principle is not the same as in practice.
+**Plain-language definition:** Iqta means an assignment of revenue and duty, not private ownership of the countryside.
 
-**Technical definition:** Both the concise and advanced OCRs show the same basic logic: the crown claimed superior fiscal right; the muqti met expenditure and service obligations; surplus and accounts were, in principle, answerable to the centre; transfer or recall prevented permanent rooting when the state was strong.
+**Technical definition:** An iqta transferred to a muqti or wali the right to realise revenue and maintain order or troops under continuing state superiority, subject in principle to transfer, recall and audit.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Therefore the iqta must be explained as a moving field of negotiation, not as a fixed legal machine.
+> Whenever iqta appears in a question, define the assignment first and property second—that sequence prevents the classic UPSC trap.
 
 #### MUST-WRITE KEYWORDS
 
-- **Iqta as assignment**
-- **not simple property**
-- **Both**
-- **OCRs**
-- **In principle**
-- **In**
+- **iqta**
+- **muqti or wali**
+- **transfer**
+- **audit**
+- **troop maintenance**
+- **state claim**
 
-**How to use them:** Frame the answer through Iqta as assignment; define not simple property, connect Both with OCRs to explain the mechanism, and use In principle for the decisive comparison or qualification.
+**How to use them:** State iqta, identify the muqtis service obligations, and then explain transfer and audit before discussing troop maintenance or local power.
 
 [FACT] The iqta carried a right to realise revenue and often to maintain order and troops in a tract. The muqti or wali was not the absolute owner of soil and population.
 
@@ -525,54 +538,57 @@ ANSWER-GRABBING FORMULATION: Their careers show why military slavery cannot be r
 
 [LIMIT] In principle is not the same as in practice. Distance, armed followings, provincial autonomy and weak rulers reduced the effectiveness of transfer and audit. Therefore the iqta must be explained as a moving field of negotiation, not as a fixed legal machine.
 
-
-
 ![07. Iqta revenue-troop-audit-remittance flow](assets/07_iqta_revenue_troop_audit_-7eb76129f8.png)
 
 *Iqta flow visual. It puts service, expenditure, local mediation and central claim into one chain.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Iqta linked agrarian surplus to military capacity. **Evidence:** The iqta carried a right to realise revenue and often to maintain order and troops in a tract. The muqti or wali was not the absolute owner of soil and population. **Analysis:** Revenue assignment mattered because the state could support soldiers without paying every contingent directly from the centre; recall and audit show that the crown still tried to stop assignment from hardening into independent lordship. **Qualification:** In principle, therefore, iqta signified delegated fiscal authority rather than unrestricted landed ownership.
+
 #### CLOSING RECALL FLOW — IQTA AS ASSIGNMENT, NOT SIMPLE PROPERTY
 
 ```text
-START / CONCEPT: Iqta as assignment, not simple property
+START / CONCEPT: IQTA AS ASSIGNMENT, NOT SIMPLE PROPERTY
         |
         v
-EXACT TERMS: Iqta as assignment · not simple property · Both · OCRs · In principle · In
+EXACT TERMS: iqta · muqti or wali · transfer · audit · troop maintenance · state claim
         |
         v
-MECHANISM / ARGUMENT: Both the concise and advanced OCRs show the same basic logic: the crown claimed superior fiscal right; the muqti met expenditure and service obligations; surplus and accounts were, in principle, answerable to the centre; transfer or recall prevented permanent rooting when the state was strong.
+MECHANISM / ARGUMENT: The system channelled agrarian surplus to the army by delegating collection without surrendering ultimate state claim.
         |
         v
-CONSEQUENCE / CONTRAST: The muqti or wali was not the absolute owner of soil and population.
+CONSEQUENCE / CONTRAST: In principle, therefore, iqta signified delegated fiscal authority rather than unrestricted landed ownership.
         |
         v
-UPSC TRAP / ANSWER-USE: In principle is not the same as in practice.
+UPSC TRAP / ANSWER-USE: Do not write as if the muqti owned soil, peasants and office in a permanently hereditary sense.
         |
         v
-ANSWER-GRABBING FORMULATION: Therefore the iqta must be explained as a moving field of negotiation, not as a fixed legal machine.
+ANSWER-GRABBING FORMULATION: The most reliable formulation is: iqta was a service-linked revenue assignment that fed military capacity without converting land into simple private property.
 ```
+
 ### SESSION 8 — IQTA ACROSS DYNASTIES: TIGHTENING, OVERREACH AND HEREDITARY DRIFT
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** A mature answer explains iqta as one institution whose political meaning changed with central strength.
+**Plain-language definition:** The meaning of iqta changed with dynastic strength—tightened under some rulers, overstretched under others, and made more hereditary later.
 
-**Technical definition:** [DEBATE] The safest comparison with Mughal jagir is through tenure, accountability and service obligation.
+**Technical definition:** Across Mamluk, Khalji, Tughlaq and Firuzian phases, iqta oscillated between central supervision, over-centralising experiment and hereditary drift, making chronology essential to institutional analysis.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> A mature answer explains iqta as one institution whose political meaning changed with central strength.
+> Never discuss iqta as if it had one fixed form: the dynastic sequence is the argument.
 
 #### MUST-WRITE KEYWORDS
 
-- **Iqta across dynasties**
-- **tightening**
-- **overreach**
-- **hereditary drift**
-- **[DEBATE] The safest comparison with Mughal jagir**
-- **DEBATE**
+- **iqta across dynasties**
+- **Khalji tightening**
+- **Muhammad bin Tughlaq overreach**
+- **Firuz hereditary drift**
+- **central strength**
+- **institutional variation**
 
-**How to use them:** Frame the answer through Iqta across dynasties; define tightening, connect overreach with hereditary drift to explain the mechanism, and use [DEBATE] The safest comparison with Mughal jagir for the decisive comparison or qualification.
+**How to use them:** Anchor the answer in Mamluk consolidation, move to Khalji supervision, then contrast Muhammad bin Tughlaqs experiments with Firuzs hereditary concessions.
 
 [FACT] Under the Mamluks, iqta helped consolidation. Under Alauddin, closer supervision, khalisa expansion and direct revenue pressure in the core sharpened control. Under Muhammad bin Tughlaq, large empire and fiscal experimentation strained the system. Under Firuz, heredity and softer audit localised claims.
 
@@ -582,54 +598,57 @@ ANSWER-GRABBING FORMULATION: Therefore the iqta must be explained as a moving fi
 
 [LIMIT] Phrases such as 'feudalisation' may be used only if unpacked carefully. On their own they often hide more than they explain.
 
-
-
 ![08. Iqta evolution across dynasties](assets/08_iqta_evolution_across_dynasties.png)
 
 *Evolution visual. It shows why one sentence on iqta is never enough for all Sultanate centuries.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** This sequence matters more than any static definition. **Evidence:** Under the Mamluks, iqta helped consolidation. Under Alauddin, closer supervision, khalisa expansion and direct revenue pressure in the core sharpened control. Under Muhammad bin Tughlaq, large empire and fiscal experimentation strained the system. Under Firuz, heredity and softer audit localised claims. **Analysis:** Mamluk and Khalji rulers used iqta to discipline the service elite, but excessive experimentation under Muhammad bin Tughlaq and softer inheritance under Firuz altered the systems political meaning; chronology, not abstraction, explains the shift. **Qualification:** Terms such as “feudalisation” become useful only after these dynastic shifts are unpacked carefully.
+
 #### CLOSING RECALL FLOW — IQTA ACROSS DYNASTIES: TIGHTENING, OVERREACH AND HEREDITARY DRIFT
 
 ```text
-START / CONCEPT: Iqta across dynasties: tightening, overreach and hereditary drift
+START / CONCEPT: IQTA ACROSS DYNASTIES: TIGHTENING, OVERREACH AND HEREDITARY DRIFT
         |
         v
-EXACT TERMS: Iqta across dynasties · tightening · overreach · hereditary drift · [DEBATE] The safest comparison with Mughal jagir · DEBATE
+EXACT TERMS: iqta across dynasties · Khalji tightening · Muhammad bin Tughlaq overreach · Firuz hereditary drift · central strength · institutional variation
         |
         v
-MECHANISM / ARGUMENT: [DEBATE] The safest comparison with Mughal jagir is through tenure, accountability and service obligation.
+MECHANISM / ARGUMENT: Changes in audit, transfer and cash demand tracked the waxing and waning of central power.
         |
         v
-CONSEQUENCE / CONTRAST: The safest comparison with European feudalism is to say that the analogy is limited: a transferable state assignment tied to fiscal claim is not the same thing as an inherited proprietary fief.
+CONSEQUENCE / CONTRAST: Terms such as “feudalisation” become useful only after these dynastic shifts are unpacked carefully.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the same assignment logic could support centralisation in one phase and oligarchic localisation in...
+UPSC TRAP / ANSWER-USE: The trap is to quote a textbook definition from one reign and treat it as valid for all later centuries.
         |
         v
-ANSWER-GRABBING FORMULATION: A mature answer explains iqta as one institution whose political meaning changed with central strength.
+ANSWER-GRABBING FORMULATION: Use a line such as: iqta was not static; it hardened or loosened according to the balance between central ambition and local bargaining.
 ```
+
 ### SESSION 9 — PROVINCIAL AND LOCAL ADMINISTRATION: HIERARCHY BELOW THE PROVINCE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The hierarchy below the province was where negotiated sovereignty became real.
+**Plain-language definition:** Below the province, the Sultanate worked through smaller territorial levels and village intermediaries, not through a direct line from Delhi to every peasant.
 
-**Technical definition:** We should not turn the local layer into complete village autonomy.
+**Technical definition:** Provincial administration ran through muqtis or walis, shiqs, parganas and local revenue agents such as amils while khuts, muqaddams and chaudhuris mediated village society.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The hierarchy below the province was where negotiated sovereignty became real.
+> To explain how Delhi ruled locally, move downward: province, shiq, pargana, village intermediaries.
 
 #### MUST-WRITE KEYWORDS
 
-- **Provincial**
-- **local administration**
-- **hierarchy below the province**
-- **shiqs**
-- **parganas**
-- **sadis**
+- **muqti or wali**
+- **shiq**
+- **pargana**
+- **amil**
+- **khuts-muqaddams-chaudhuris**
+- **chronology caution**
 
-**How to use them:** Frame the answer through Provincial; define local administration, connect hierarchy below the province with shiqs to explain the mechanism, and use parganas for the decisive comparison or qualification.
+**How to use them:** Move from muqti or wali to shiq and pargana, then show how amils, khuts, muqaddams and chaudhuris converted provincial claims into local collection.
 
 [FACT] The advanced OCR notes provinces under larger rulers and confirms that below them one hears of **shiqs**, **parganas**, **sadis** and **chaurasis**, though not with equal clarity for all periods. The pargana was associated with the **amil**, while village society revolved around the **khut**, **muqaddam** and **patwari**.
 
@@ -639,54 +658,57 @@ ANSWER-GRABBING FORMULATION: A mature answer explains iqta as one institution wh
 
 [LIMIT] We should not turn the local layer into complete village autonomy. Nor should we turn it into a standardised district bureaucracy identical from Lahore to Mabar. The evidence supports something in between.
 
-
-
 ![09. Central-provincial-local negotiated hierarchy](assets/09_central_provincial_local_-2a728768de.png)
 
 *Hierarchy visual. It emphasises mediation, not a clean top-down administrative pipe.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The hierarchy below the province was where negotiated sovereignty became real. **Evidence:** The advanced OCR notes provinces under larger rulers and confirms that below them one hears of **shiqs**, **parganas**, **sadis** and **chaurasis**, though not with equal clarity for all periods. The pargana was associated with the **amil**, while village society revolved around the **khut**, **muqaddam** and **patwari**. **Analysis:** The lower hierarchy matters because collection, policing and information all depended on intermediaries; the state became visible at the village level only when these local actors cooperated or were compelled. **Qualification:** Village society therefore remained politically consequential rather than administratively invisible.
+
 #### CLOSING RECALL FLOW — PROVINCIAL AND LOCAL ADMINISTRATION: HIERARCHY BELOW THE PROVINCE
 
 ```text
-START / CONCEPT: Provincial and local administration: hierarchy below the province
+START / CONCEPT: PROVINCIAL AND LOCAL ADMINISTRATION: HIERARCHY BELOW THE PROVINCE
         |
         v
-EXACT TERMS: Provincial · local administration · hierarchy below the province · shiqs · parganas · sadis
+EXACT TERMS: muqti or wali · shiq · pargana · amil · khuts-muqaddams-chaudhuris · chronology caution
         |
         v
-MECHANISM / ARGUMENT: We should not turn the local layer into complete village autonomy.
+MECHANISM / ARGUMENT: Authority descended hierarchically, but it was implemented through local notables who already possessed social leverage.
         |
         v
-CONSEQUENCE / CONTRAST: The pargana was associated with the amil, while village society revolved around the khut, muqaddam and patwari.
+CONSEQUENCE / CONTRAST: Village society therefore remained politically consequential rather than administratively invisible.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: therefore no central revenue order could work without this stratum.
+UPSC TRAP / ANSWER-USE: Do not confuse village headship with imperial office, and do not imagine a fully autonomous village outside state reach.
         |
         v
-ANSWER-GRABBING FORMULATION: The hierarchy below the province was where negotiated sovereignty became real.
+ANSWER-GRABBING FORMULATION: A strong line is: below the province, Sultanate power was layered and mediated rather than direct and uniform.
 ```
+
 ### SESSION 10 — REVENUE SYSTEM: LEGAL CATEGORIES AND ACTUAL FISCAL PRACTICE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** [DEBATE] Therefore the correct method is to use legal categories as starting points, then ask what was actually being taken, from whom, through which intermediary and for which political purpose.
+**Plain-language definition:** This session defines Sultanate revenue as the mix of named taxes, cesses and collection practices through which rulers turned agrarian surplus into fiscal power.
 
-**Technical definition:** The local OCR is especially useful on the gap between label and practice.
+**Technical definition:** Sultanate fiscal practice moved between juristic categories—kharaj, ushr, zakat, jizya, khams—and cesses such as ghari, charai and later irrigation dues, with incidence shaped by coercive reach and political aim.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Alauddin's half-share demand in the upper doab, Muhammad bin Tughlaq's standard-yield cash incidence and Firuz's share-based reassessment show that actual revenue practice turned on political aim, local coercive ability and environmental conditions far more than on one legal formula.
+> Do not memorise tax labels in isolation; the examiner wants the gap between legal vocabulary and fiscal practice.
 
 #### MUST-WRITE KEYWORDS
 
-- **Revenue system**
-- **legal categories**
-- **actual fiscal practice**
-- **The local OCR**
-- **OCR**
-- **Early**
+- **kharaj**
+- **jizya**
+- **zakat and ushr**
+- **khams**
+- **ghari-charai**
+- **legal versus practical incidence**
 
-**How to use them:** Frame the answer through Revenue system; define legal categories, connect actual fiscal practice with The local OCR to explain the mechanism, and use OCR for the decisive comparison or qualification.
+**How to use them:** State kharaj, jizya, zakat/ushr and khams first, then separate juristic label from actual incidence by tracing collection, intermediaries and dynastic variation.
 
 [FACT] Sultanate revenue language included *kharaj*, *ushr*, *zakat*, *jizya*, *khams*, transit dues and cesses such as *ghari*, *charai* and later irrigation dues such as *haqq-i-sharb*.
 
@@ -696,54 +718,57 @@ ANSWER-GRABBING FORMULATION: The hierarchy below the province was where negotiat
 
 [DEBATE] Therefore the correct method is to use legal categories as starting points, then ask what was actually being taken, from whom, through which intermediary and for which political purpose.
 
-
-
 ![10. Revenue categories legal-vs-practice matrix](assets/10_revenue_categories_legal_-56b0090d6e.png)
 
 *Fiscal matrix. It separates juristic label from lived extraction, which is the heart of Topic 07.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Alauddin's half-share demand in the upper doab, Muhammad bin Tughlaq's standard-yield cash incidence and Firuz's share-based reassessment show that actual revenue practice turned on political aim, local coercive ability and environmental conditions far more than on one legal formula. **Evidence:** Sultanate revenue language included *kharaj*, *ushr*, *zakat*, *jizya*, *khams*, transit dues and cesses such as *ghari*, *charai* and later irrigation dues such as *haqq-i-sharb*. **Analysis:** Alauddin's half-share, Muhammad bin Tughlaq's harsh standard-yield cash demand and Firuz's reassessment all show that the state adapted fiscal instruments to military need and local conditions; legal terminology alone cannot explain the burden. **Qualification:** That is why revenue categories should be treated as starting points for investigation, not as ready-made descriptions of lived incidence.
+
 #### CLOSING RECALL FLOW — REVENUE SYSTEM: LEGAL CATEGORIES AND ACTUAL FISCAL PRACTICE
 
 ```text
-START / CONCEPT: Revenue system: legal categories and actual fiscal practice
+START / CONCEPT: REVENUE SYSTEM: LEGAL CATEGORIES AND ACTUAL FISCAL PRACTICE
         |
         v
-EXACT TERMS: Revenue system · legal categories · actual fiscal practice · The local OCR · OCR · Early
+EXACT TERMS: kharaj · jizya · zakat and ushr · khams · ghari-charai · legal versus practical incidence
         |
         v
-MECHANISM / ARGUMENT: [DEBATE] Therefore the correct method is to use legal categories as starting points, then ask what was actually being taken, from whom, through which intermediary and for which political purpose.
+MECHANISM / ARGUMENT: Revenue labels provided a language of rule, but extraction turned on assessment, intermediaries, ecology and the state's ability to enforce demand.
         |
         v
-CONSEQUENCE / CONTRAST: The local OCR is especially useful on the gap between label and practice.
+CONSEQUENCE / CONTRAST: That is why revenue categories should be treated as starting points for investigation, not as ready-made descriptions of lived incidence.
         |
         v
-UPSC TRAP / ANSWER-USE: Early on, jizya was often difficult to distinguish from land demand.
+UPSC TRAP / ANSWER-USE: Do not assume a tax name by itself tells you payer, rate or burden; distinguish legal category from the burden visible in practice.
         |
         v
-ANSWER-GRABBING FORMULATION: Alauddin's half-share demand in the upper doab, Muhammad bin Tughlaq's standard-yield cash incidence and Firuz's share-based reassessment show that actual revenue practice turned on political aim, local coercive ability and environmental conditions far more than on one legal formula.
+ANSWER-GRABBING FORMULATION: The safest answer line is that Sultanate taxation combined juristic vocabulary with highly variable political practice.
 ```
+
 ### SESSION 11 — ARMY AND LOGISTICS: CAVALRY, ELEPHANTS, BRANDING AND ROUTE SECURITY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Army and logistics: cavalry, elephants, branding and route security comprises Army, logistics and cavalry as its core connected dimensions.
+**Plain-language definition:** The Sultanate army was more than fighting men; it depended on horses, transport, inspection and secure routes.
 
-**Technical definition:** Technically, Army and logistics: cavalry, elephants, branding and route security is analysed by relating Army to logistics, then testing the relationship through cavalry and elephants.
+**Technical definition:** Military capacity rested on cavalry predominance, horse supply, dagh and chehra supervision, barid reporting, garrisons, forts, roads and transport labour.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Army and logistics: cavalry, elephants, branding and route security comprises Army, logistics and cavalry as its core connected dimensions.
+> Write the army as a logistical system, not merely a list of cavalry and elephants.
 
 #### MUST-WRITE KEYWORDS
 
-- **Army**
-- **logistics**
 - **cavalry**
-- **elephants**
-- **branding**
-- **route security**
+- **dagh**
+- **chehra**
+- **barid**
+- **forts and roads**
+- **salary supervision**
 
-**How to use them:** Frame the answer through Army; define logistics, connect cavalry with elephants to explain the mechanism, and use branding for the decisive comparison or qualification.
+**How to use them:** Start with cavalry, bring in horse supply and inspection, then connect barid, roads and forts to the state's ability to keep armies usable.
 
 [FACT] The Sultanate army centred on cavalry, but also used infantry, archers, elephants, miners, sappers, fort garrisons and transport labour. The concise OCR directly notes the sappers and miners attached to armies.
 
@@ -753,54 +778,57 @@ ANSWER-GRABBING FORMULATION: Alauddin's half-share demand in the upper doab, Muh
 
 [LIMIT] Chronicle troop totals are among the least safe materials in the archive. For UPSC, organisation, inspection, pay form and logistical chains are much stronger than raw numbers.
 
-
-
 ![11. Army, logistics and horse-supply system](assets/11_army_logistics_horse_supply_system.png)
 
 *Army-system visual. It shows why horse control, grain and intelligence belong in the same answer.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Military history here is really fiscal history plus transport history. **Evidence:** The Sultanate army centred on cavalry, but also used infantry, archers, elephants, miners, sappers, fort garrisons and transport labour. The concise OCR directly notes the sappers and miners attached to armies. **Analysis:** Branding and descriptive rolls mattered because they curtailed fraud in a horse-heavy system; without supply lines, surveillance and audited payment, cavalry superiority could exist on paper yet fail in campaign. **Qualification:** Chronicle totals therefore need more caution than administrative mechanisms do.
+
 #### CLOSING RECALL FLOW — ARMY AND LOGISTICS: CAVALRY, ELEPHANTS, BRANDING AND ROUTE SECURITY
 
 ```text
-START / CONCEPT: Army and logistics: cavalry, elephants, branding and route security
+START / CONCEPT: ARMY AND LOGISTICS: CAVALRY, ELEPHANTS, BRANDING AND ROUTE SECURITY
         |
         v
-EXACT TERMS: Army · logistics · cavalry · elephants · branding · route security
+EXACT TERMS: cavalry · dagh · chehra · barid · forts and roads · salary supervision
         |
         v
-MECHANISM / ARGUMENT: Chronicle troop totals are among the least safe materials in the archive.
+MECHANISM / ARGUMENT: Campaign success depended on moving animals, pay and intelligence across space, so fiscal control and route security became military necessities.
         |
         v
-CONSEQUENCE / CONTRAST: For UPSC, organisation, inspection, pay form and logistical chains are much stronger than raw numbers.
+CONSEQUENCE / CONTRAST: Chronicle totals therefore need more caution than administrative mechanisms do.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: military history here is really fiscal history plus transport history.
+UPSC TRAP / ANSWER-USE: Do not quote inflated troop numbers uncritically, and do not project Mughal offices like Mir Bakshi backward onto the Sultanate.
         |
         v
-ANSWER-GRABBING FORMULATION: Army and logistics: cavalry, elephants, branding and route security comprises Army, logistics and cavalry as its core connected dimensions.
+ANSWER-GRABBING FORMULATION: A compact formulation is: Sultanate military power rested on cavalry finance, horse control and the communications that kept them operational.
 ```
+
 ### SESSION 12 — POLICE, MARKET OVERSIGHT AND JUDICIAL PLURALITY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Judicial plurality was built into the structure.
+**Plain-language definition:** This session defines Sultanate policing and justice as a plural order of kotwal, muhtasib, qazi, royal regulation and local custom.
 
-**Technical definition:** The muhtasib checked weights, measures and public conduct in terms defined by Muslim moral law.
+**Technical definition:** Urban control involved the kotwal and muhtasib, formal Muslim adjudication involved qazi and mufti, and everyday order also reflected royal regulations, local custom and community forums.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Judicial plurality was built into the structure.
+> The cleanest exam entry is to say that Sultanate justice was plural: different offices and different norms operated side by side.
 
 #### MUST-WRITE KEYWORDS
 
-- **Police**
-- **market oversight**
-- **judicial plurality**
 - **kotwal**
 - **muhtasib**
 - **qazi**
+- **plural law**
+- **market oversight**
+- **royal regulations**
 
-**How to use them:** Frame the answer through Police; define market oversight, connect judicial plurality with kotwal to explain the mechanism, and use muhtasib for the decisive comparison or qualification.
+**How to use them:** Introduce kotwal and muhtasib as urban regulators, place qazi within formal adjudication, and then qualify the whole picture with panchayats, caste bodies and royal regulation.
 
 [FACT] The **kotwal** maintained urban order, regulated entry, watched markets and oversaw security. The **muhtasib** checked weights, measures and public conduct in terms defined by Muslim moral law. The **qazi** and **mufti** handled formal legal business for Muslims.
 
@@ -810,54 +838,57 @@ ANSWER-GRABBING FORMULATION: Army and logistics: cavalry, elephants, branding an
 
 [LIMIT] Delhi gives the richest evidence. It is unsafe to describe every town of the Sultanate as if it had identical policing density or documentary depth.
 
-
-
 ![12. Law and judicial pluralism network](assets/12_law_judicial_pluralism_network.png)
 
 *Judicial-pluralism visual. It links qazi courts, royal regulation, local custom and urban offices.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Judicial plurality was built into the structure. **Evidence:** The **kotwal** maintained urban order, regulated entry, watched markets and oversaw security. The **muhtasib** checked weights, measures and public conduct in terms defined by Muslim moral law. The **qazi** and **mufti** handled formal legal business for Muslims. **Analysis:** The kotwal's urban duties and the continued role of local community forums show that practical governance needed multiple forums of authority; plural law was not an exception but a built-in operating condition. **Qualification:** Delhi supplies the clearest evidence, so provincial uniformity should not be assumed.
+
 #### CLOSING RECALL FLOW — POLICE, MARKET OVERSIGHT AND JUDICIAL PLURALITY
 
 ```text
-START / CONCEPT: Police, market oversight and judicial plurality
+START / CONCEPT: POLICE, MARKET OVERSIGHT AND JUDICIAL PLURALITY
         |
         v
-EXACT TERMS: Police · market oversight · judicial plurality · kotwal · muhtasib · qazi
+EXACT TERMS: kotwal · muhtasib · qazi · plural law · market oversight · royal regulations
         |
         v
-MECHANISM / ARGUMENT: The muhtasib checked weights, measures and public conduct in terms defined by Muslim moral law.
+MECHANISM / ARGUMENT: No single court or code monopolised everyday order; policing, moral supervision and adjudication were distributed across institutions.
         |
         v
-CONSEQUENCE / CONTRAST: Sharia mattered, but it was not the only operating norm.
+CONSEQUENCE / CONTRAST: Delhi supplies the clearest evidence, so provincial uniformity should not be assumed.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the same OCR also states that Hindus were often governed by their own laws...
+UPSC TRAP / ANSWER-USE: Do not collapse all law into sharia, and do not pretend every town had Delhi's density of offices or documentation.
         |
         v
-ANSWER-GRABBING FORMULATION: Judicial plurality was built into the structure.
+ANSWER-GRABBING FORMULATION: Write it this way: Sultanate policing and justice were institutionally plural, with royal, juristic and local norms overlapping rather than replacing one another.
 ```
+
 ### SESSION 13 — AGRARIAN BASE: CROPS, IRRIGATION, WELLS, CANALS AND ENVIRONMENTAL RISK
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Agrarian base: crops, irrigation, wells, canals and environmental risk comprises Agrarian base, crops and irrigation as its core connected dimensions.
+**Plain-language definition:** The countryside mattered because crops, wells and canals set the limits within which the state could tax and towns could live.
 
-**Technical definition:** Agrarian history should therefore be read through ecology as well as administration.
+**Technical definition:** Agrarian output depended on crop pattern, irrigation by wells, lifts and canals, village hierarchies and environmental risk; the archive is richer on types of produce than on audited totals.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Topic 07 therefore uses crop range, irrigation form, and regional caution instead of invented output statistics.
+> Begin from production conditions, not from taxation alone: the Sultanate could only extract what ecology and irrigation made possible.
 
 #### MUST-WRITE KEYWORDS
 
-- **Agrarian base**
-- **crops**
-- **irrigation**
-- **wells**
+- **crop pattern**
+- **wells and lifts**
 - **canals**
+- **village hierarchy**
+- **surplus**
 - **environmental risk**
 
-**How to use them:** Frame the answer through Agrarian base; define crops, connect irrigation with wells to explain the mechanism, and use canals for the decisive comparison or qualification.
+**How to use them:** Name the crop pattern first, add wells and water-lifting devices, and then bring in canals and village hierarchy before making any claim about surplus.
 
 [FACT] The source base repeatedly mentions rice, sugarcane, wheat, oilseeds, sesame, indigo and cotton. Rain-fed agriculture remained dominant, but wells, bunds, tanks and local water control were significant.
 
@@ -867,54 +898,57 @@ ANSWER-GRABBING FORMULATION: Judicial plurality was built into the structure.
 
 [LIMIT] The evidence does not support neat production totals. Topic 07 therefore uses crop range, irrigation form, and regional caution instead of invented output statistics.
 
-
-
 ![14. Irrigation, crop and environment matrix](assets/14_irrigation_crop_environment_matrix.png)
 
 *Agrarian matrix. It keeps crops, water control and environmental limits in one analytical frame.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Agrarian history should therefore be read through ecology as well as administration. **Evidence:** The source base repeatedly mentions rice, sugarcane, wheat, oilseeds, sesame, indigo and cotton. Rain-fed agriculture remained dominant, but wells, bunds, tanks and local water control were significant. **Analysis:** Lists of rice, sugarcane, wheat, cotton and oilseeds matter because they point to differentiated agrarian zones; irrigation widened possibility, but drought, flood and uneven technology kept production unstable and region-specific. **Qualification:** Crop variety is therefore easier to prove than exact output totals.
+
 #### CLOSING RECALL FLOW — AGRARIAN BASE: CROPS, IRRIGATION, WELLS, CANALS AND ENVIRONMENTAL RISK
 
 ```text
-START / CONCEPT: Agrarian base: crops, irrigation, wells, canals and environmental risk
+START / CONCEPT: AGRARIAN BASE: CROPS, IRRIGATION, WELLS, CANALS AND ENVIRONMENTAL RISK
         |
         v
-EXACT TERMS: Agrarian base · crops · irrigation · wells · canals · environmental risk
+EXACT TERMS: crop pattern · wells and lifts · canals · village hierarchy · surplus · environmental risk
         |
         v
-MECHANISM / ARGUMENT: Agrarian history should therefore be read through ecology as well as administration.
+MECHANISM / ARGUMENT: Ecology shaped revenue capacity by influencing output, risk and the spatial concentration of cultivable surplus.
         |
         v
-CONSEQUENCE / CONTRAST: Rain-fed agriculture remained dominant, but wells, bunds, tanks and local water control were significant.
+CONSEQUENCE / CONTRAST: Crop variety is therefore easier to prove than exact output totals.
         |
         v
-UPSC TRAP / ANSWER-USE: The evidence does not support neat production totals.
+UPSC TRAP / ANSWER-USE: Do not invent neat production statistics from fragmentary evidence, and do not treat Firuz's canals as a universal agrarian revolution.
         |
         v
-ANSWER-GRABBING FORMULATION: Topic 07 therefore uses crop range, irrigation form, and regional caution instead of invented output statistics.
+ANSWER-GRABBING FORMULATION: A useful exam line is: Sultanate agrarian history must be read through production ecology as much as through state demand.
 ```
+
 ### SESSION 14 — SURPLUS TRANSFER, PEASANT BURDEN AND THE MILITARY-FISCAL STATE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Surplus transfer, peasant burden and the military-fiscal state comprises Surplus transfer, peasant burden and the military-fiscal state as its core connected dimensions.
+**Plain-language definition:** This session asks who carried the cost of the Sultanate's armies and towns, and how that burden moved upward from the village.
 
-**Technical definition:** Technically, Surplus transfer, peasant burden and the military-fiscal state is analysed by relating Surplus transfer to peasant burden, then testing the relationship through the military-fiscal state and Owner-cultivators.
+**Technical definition:** The military-fiscal state drew surplus through assessment, sharing arrangements, khalisa expansion, intermediary exactions and official yield calculations, with peasants bearing uneven but central burdens.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> This is the core of the military-fiscal interpretation.
+> To answer on peasant burden, follow the surplus: field to intermediary to iqta-holder or crown.
 
 #### MUST-WRITE KEYWORDS
 
-- **Surplus transfer**
-- **peasant burden**
-- **the military-fiscal state**
-- **Owner-cultivators**
-- **OCR**
-- **Firuz's**
+- **measurement**
+- **sharing**
+- **official yields**
+- **intermediary burden**
+- **khalisa**
+- **military-fiscal extraction**
 
-**How to use them:** Frame the answer through Surplus transfer; define peasant burden, connect the military-fiscal state with Owner-cultivators to explain the mechanism, and use OCR for the decisive comparison or qualification.
+**How to use them:** Start with measurement and sharing, then show how official yield, khalisa and intermediaries turned production into military revenue.
 
 [FACT] The overwhelming mass of cultivators worked close to subsistence, but not all rural groups stood alike. Owner-cultivators, prosperous village heads, chiefs and concessions for privileged intermediaries created strong internal differentiation.
 
@@ -924,54 +958,57 @@ ANSWER-GRABBING FORMULATION: Topic 07 therefore uses crop range, irrigation form
 
 [DEBATE] Historiography divides between growth and extraction less sharply than textbooks often suggest. Urban and commercial vitality was real; so was hard agrarian transfer. The strongest answer combines both.
 
-
-
 ![13. Agrarian surplus-transfer chain](assets/13_agrarian_surplus_transfer_chain.png)
 
 *Surplus-chain visual. It shows how peasant production, intermediaries and state demand fed court and town life.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** This is the core of the military-fiscal interpretation. **Evidence:** The overwhelming mass of cultivators worked close to subsistence, but not all rural groups stood alike. Owner-cultivators, prosperous village heads, chiefs and concessions for privileged intermediaries created strong internal differentiation. **Analysis:** The concept works because armies, elites and towns consumed resources that had to be realised from cultivators; differences among khuts, muqaddams and ordinary peasants show that rural burden was structured rather than uniformly shared. **Qualification:** Growth and extraction therefore have to be read together rather than as mutually exclusive interpretations.
+
 #### CLOSING RECALL FLOW — SURPLUS TRANSFER, PEASANT BURDEN AND THE MILITARY-FISCAL STATE
 
 ```text
-START / CONCEPT: Surplus transfer, peasant burden and the military-fiscal state
+START / CONCEPT: SURPLUS TRANSFER, PEASANT BURDEN AND THE MILITARY-FISCAL STATE
         |
         v
-EXACT TERMS: Surplus transfer · peasant burden · the military-fiscal state · Owner-cultivators · OCR · Firuz's
+EXACT TERMS: measurement · sharing · official yields · intermediary burden · khalisa · military-fiscal extraction
         |
         v
-MECHANISM / ARGUMENT: It pushed demand through a hierarchy in which local elites could protect themselves, shift burden downward or bargain with the centre.
+MECHANISM / ARGUMENT: Extraction linked agrarian labour to state coercion by converting rural produce into cash, grain and mounted power.
         |
         v
-CONSEQUENCE / CONTRAST: Urban and commercial vitality was real; so was hard agrarian transfer.
+CONSEQUENCE / CONTRAST: Growth and extraction therefore have to be read together rather than as mutually exclusive interpretations.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the advanced OCR explains that Firuz's irrigation success also channelled gain strongly toward holders...
+UPSC TRAP / ANSWER-USE: Do not romanticise urban and commercial growth while erasing the peasants who financed it; but do not flatten all rural society into one identical victim group either.
         |
         v
-ANSWER-GRABBING FORMULATION: This is the core of the military-fiscal interpretation.
+ANSWER-GRABBING FORMULATION: The most defensible line is that Sultanate growth rested on a military-fiscal transfer of rural surplus under uneven local conditions.
 ```
+
 ### SESSION 15 — CURRENCY, TRUST AND UNEVEN MONETISATION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Currency, trust and uneven monetisation comprises Currency, trust and uneven monetisation as its core connected dimensions.
+**Plain-language definition:** This session defines Sultanate monetisation as the widening but uneven use of coin, cash payment and credit in taxation, trade and urban exchange.
 
-**Technical definition:** Technically, Currency, trust and uneven monetisation is analysed by relating Currency to trust, then testing the relationship through uneven monetisation and tanka.
+**Technical definition:** Iltutmish's tanka-jital system, cash salaries, merchant credit and regional circulation created a widening but uneven monetised sphere; token-currency episodes must remain time-bound.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Token currency is a bounded example, not the whole monetary history of the Sultanate.
+> Write monetisation as a gradient, not as an all-India switch from barter to cash.
 
 #### MUST-WRITE KEYWORDS
 
-- **Currency**
-- **trust**
-- **uneven monetisation**
 - **tanka**
 - **jital**
-- **Iltutmish's**
+- **cash salaries**
+- **credit**
+- **regional variation**
+- **uneven monetisation**
 
-**How to use them:** Frame the answer through Currency; define trust, connect uneven monetisation with tanka to explain the mechanism, and use jital for the decisive comparison or qualification.
+**How to use them:** Define tanka and jital, link them to payment and exchange, then bring in credit and regional variation before judging the depth of monetisation.
 
 [FACT] Iltutmish's silver **tanka** and copper **jital** became important markers of stable Delhi-centred monetary authority. Satish Chandra's concise source sometimes uses *dirham* language for copper units, which itself is a reminder that terminology may vary by narrative register.
 
@@ -981,54 +1018,57 @@ ANSWER-GRABBING FORMULATION: This is the core of the military-fiscal interpretat
 
 [LIMIT] Token currency is a bounded example, not the whole monetary history of the Sultanate. It must never be described as paper currency.
 
-
-
 ![15. Currency and monetisation timeline](assets/15_currency_monetisation_timeline.png)
 
 *Monetisation visual. It places stable coinage, fiduciary experiment and uneven circulation on the same timeline.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Yet Topic 07 must reject the tidy textbook story of a linear march to a fully monetised economy. **Evidence:** Iltutmish's silver **tanka** and copper **jital** became important markers of stable Delhi-centred monetary authority. Satish Chandra's concise source sometimes uses *dirham* language for copper units, which itself is a reminder that terminology may vary by narrative register. **Analysis:** Stable silver and copper issues supported taxation and salaries, which in turn nourished markets and towns; the need for trust, metal supply and regional acceptance explains why monetisation advanced unevenly rather than linearly. **Qualification:** Token currency remains a bounded cautionary episode within that wider monetary story.
+
 #### CLOSING RECALL FLOW — CURRENCY, TRUST AND UNEVEN MONETISATION
 
 ```text
-START / CONCEPT: Currency, trust and uneven monetisation
+START / CONCEPT: CURRENCY, TRUST AND UNEVEN MONETISATION
         |
         v
-EXACT TERMS: Currency · trust · uneven monetisation · tanka · jital · Iltutmish's
+EXACT TERMS: tanka · jital · cash salaries · credit · regional variation · uneven monetisation
         |
         v
-MECHANISM / ARGUMENT: It was also real enough for Muhammad bin Tughlaq's token currency failure to become a classic problem of administrative trust.
+MECHANISM / ARGUMENT: Confidence in coinage and access to credit enabled wider exchange, yet agrarian and regional constraints limited how far cash relations penetrated.
         |
         v
-CONSEQUENCE / CONTRAST: Iltutmish's silver tanka and copper jital became important markers of stable Delhi-centred monetary authority.
+CONSEQUENCE / CONTRAST: Token currency remains a bounded cautionary episode within that wider monetary story.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: monetisation was real enough for cavalry salaries, market schedules and hundis to matter.
+UPSC TRAP / ANSWER-USE: Do not let Muhammad bin Tughlaq's token-currency experiment stand in for the entire monetary history of the Sultanate.
         |
         v
-ANSWER-GRABBING FORMULATION: Token currency is a bounded example, not the whole monetary history of the Sultanate.
+ANSWER-GRABBING FORMULATION: A safe verdict is: the Sultanate widened monetisation through coin, salary and credit, but never produced a fully uniform cash economy.
 ```
+
 ### SESSION 16 — URBANISATION: CAPITALS, QASBAS, PROVINCIAL TOWNS AND THE URBAN-REVIVAL DEBATE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** [DEBATE] Historians disagree over how transformative this was.
+**Plain-language definition:** Towns grew because courts, garrisons, markets and routes created demand, not because cities floated free from the countryside.
 
-**Technical definition:** Urban growth under the Sultanate is best explained through demand plus connection.
+**Technical definition:** Sultanate urbanisation involved capitals, qasbas, provincial towns, ports and market centres generated by court demand, military presence, craft production, trade and surplus transfer, while remaining debated in scale.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> [DEBATE] Historians disagree over how transformative this was.
+> The best way to open is to link towns to demand and connection: who consumed, who supplied, and how goods moved.
 
 #### MUST-WRITE KEYWORDS
 
-- **Urbanisation**
-- **capitals**
+- **court demand**
+- **garrisons**
 - **qasbas**
-- **provincial towns**
-- **the urban-revival debate**
-- **demand plus connection**
+- **market towns**
+- **urban revival debate**
+- **rural dependence**
 
-**How to use them:** Frame the answer through Urbanisation; define capitals, connect qasbas with provincial towns to explain the mechanism, and use the urban-revival debate for the decisive comparison or qualification.
+**How to use them:** Begin with capitals and garrisons, add qasbas and market towns, and then assess the urban-revival debate through their rural dependence.
 
 [FACT] Delhi and Daulatabad receive dramatic attention in the sources, but the urban world was much wider: Lahore, Multan, Kara, Lakhnauti, Anhilwara/Patan, Cambay/Khambayat and Sonargaon all appear as important nodes.
 
@@ -1038,54 +1078,57 @@ ANSWER-GRABBING FORMULATION: Token currency is a bounded example, not the whole 
 
 [DEBATE] Historians disagree over how transformative this was. Topic 07 therefore uses the phrase 'urban revival' or 'urban expansion' more safely than a mechanically celebratory 'urban revolution' without qualification.
 
-
-
 ![16. Urbanisation demand-supply network](assets/16_urbanisation_demand_supply_network.png)
 
 *Urbanisation visual. It connects towns to armies, merchants, craft and rural surplus rather than treating them in isolation.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Urban growth under the Sultanate is best explained through **demand plus connection**. **Evidence:** Delhi and Daulatabad receive dramatic attention in the sources, but the urban world was much wider: Lahore, Multan, Kara, Lakhnauti, Anhilwara/Patan, Cambay/Khambayat and Sonargaon all appear as important nodes. **Analysis:** Delhi, Lahore, Multan, Lakhnauti, Cambay and Sonargaon became important not by geography alone but because courts, merchants and transport routes concentrated demand there; that is why urbanisation varied sharply from place to place. **Qualification:** Historians may differ over the scale of the revival, but not over the need to connect towns to surplus and route systems.
+
 #### CLOSING RECALL FLOW — URBANISATION: CAPITALS, QASBAS, PROVINCIAL TOWNS AND THE URBAN-REVIVAL DEBATE
 
 ```text
-START / CONCEPT: Urbanisation: capitals, qasbas, provincial towns and the urban-revival debate
+START / CONCEPT: URBANISATION: CAPITALS, QASBAS, PROVINCIAL TOWNS AND THE URBAN-REVIVAL DEBATE
         |
         v
-EXACT TERMS: Urbanisation · capitals · qasbas · provincial towns · the urban-revival debate · demand plus connection
+EXACT TERMS: court demand · garrisons · qasbas · market towns · urban revival debate · rural dependence
         |
         v
-MECHANISM / ARGUMENT: Urban growth under the Sultanate is best explained through demand plus connection.
+MECHANISM / ARGUMENT: Urban growth followed nodes where administration, war, trade and craft demand converged.
         |
         v
-CONSEQUENCE / CONTRAST: Delhi and Daulatabad receive dramatic attention in the sources, but the urban world was much wider: Lahore, Multan, Kara, Lakhnauti, Anhilwara/Patan, Cambay/Khambayat and Sonargaon all appear as important nodes.
+CONSEQUENCE / CONTRAST: Historians may differ over the scale of the revival, but not over the need to connect towns to surplus and route systems.
         |
         v
-UPSC TRAP / ANSWER-USE: Topic 07 therefore uses the phrase 'urban revival' or 'urban expansion' more safely than a mechanically celebratory 'urban revolution' without qualification.
+UPSC TRAP / ANSWER-USE: Do not describe every town as a self-sustaining market miracle, and do not deny urban growth simply because it depended on rural extraction.
         |
         v
-ANSWER-GRABBING FORMULATION: [DEBATE] Historians disagree over how transformative this was.
+ANSWER-GRABBING FORMULATION: One strong line is: Sultanate towns grew where state demand and commercial connectivity reinforced each other.
 ```
+
 ### SESSION 17 — CRAFTS AND TECHNOLOGY: DIFFUSION, ADAPTATION AND SCALE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The better story is diffusion through existing craft skill, local demand, state projects and regional adaptation.
+**Plain-language definition:** This session defines Sultanate technological change as diffusion and adaptation in textiles, paper, irrigation, construction and warfare, studied through social effect rather than invention myths.
 
-**Technical definition:** The OCR evidence is strongest for paper-making, the wider use of the spinning wheel, the cotton-carder's bow, improved looms, water-lifting devices, lime mortar, arches, domes, armour, saddles and other metal crafts.
+**Technical definition:** Technological change under the Sultanate took the form of diffusion and adaptation—paper-making, spinning wheel, carder's bow, improved looms, water-lifting devices, lime mortar, arches, domes and equestrian equipment.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The better story is diffusion through existing craft skill, local demand, state projects and regional adaptation.
+> Treat technology as social history: ask what each device changed in labour, administration or construction.
 
 #### MUST-WRITE KEYWORDS
 
-- **Crafts**
-- **technology**
-- **diffusion**
-- **adaptation**
-- **scale**
-- **The OCR evidence**
+- **spinning wheel**
+- **carder's bow**
+- **paper-making**
+- **lime mortar**
+- **rahat or Persian wheel**
+- **social effects**
 
-**How to use them:** Frame the answer through Crafts; define technology, connect diffusion with adaptation to explain the mechanism, and use scale for the decisive comparison or qualification.
+**How to use them:** Begin with paper-making and the spinning wheel as evidence of diffusion, add irrigation devices and lime mortar/arches, and then show how each sector changed output, administration or hierarchy.
 
 [FACT] The OCR evidence is strongest for paper-making, the wider use of the spinning wheel, the cotton-carder's bow, improved looms, water-lifting devices, lime mortar, arches, domes, armour, saddles and other metal crafts.
 
@@ -1095,54 +1138,57 @@ ANSWER-GRABBING FORMULATION: [DEBATE] Historians disagree over how transformativ
 
 [DEBATE] The wrong story is one-way civilisation from outside to passive India. The better story is diffusion through existing craft skill, local demand, state projects and regional adaptation.
 
-
-
 ![17. Crafts and technology evidence matrix](assets/17_crafts_technology_evidence_matrix.png)
 
 *Technology matrix. It combines what can be said securely with the cautions demanded by the 2023 GS-I question.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The real historical value of these techniques lies in social effect. **Evidence:** The OCR evidence is strongest for paper-making, the wider use of the spinning wheel, the cotton-carder's bow, improved looms, water-lifting devices, lime mortar, arches, domes, armour, saddles and other metal crafts. **Analysis:** Paper supported accounting and correspondence, textile devices raised productive efficiency, and architectural techniques enlarged building scale; the point is not gadget-listing but the new range of administrative and craft possibilities they opened. **Qualification:** Technology adoption therefore has to be separated from any simplistic invention-by-one-ruler myth.
+
 #### CLOSING RECALL FLOW — CRAFTS AND TECHNOLOGY: DIFFUSION, ADAPTATION AND SCALE
 
 ```text
-START / CONCEPT: Crafts and technology: diffusion, adaptation and scale
+START / CONCEPT: CRAFTS AND TECHNOLOGY: DIFFUSION, ADAPTATION AND SCALE
         |
         v
-EXACT TERMS: Crafts · technology · diffusion · adaptation · scale · The OCR evidence
+EXACT TERMS: spinning wheel · carder's bow · paper-making · lime mortar · rahat or Persian wheel · social effects
         |
         v
-MECHANISM / ARGUMENT: The advanced OCR treats paper-making as a new industry and places the widespread use of the spinning wheel in India by the middle of the fourteenth century, with caution on origins and transfer routes.
+MECHANISM / ARGUMENT: Techniques became historically important when artisans, officials and cultivators used them to expand output or reduce transaction costs.
         |
         v
-CONSEQUENCE / CONTRAST: The OCR evidence is strongest for paper-making, the wider use of the spinning wheel, the cotton-carder's bow, improved looms, water-lifting devices, lime mortar, arches, domes, armour, saddles and other metal crafts.
+CONSEQUENCE / CONTRAST: Technology adoption therefore has to be separated from any simplistic invention-by-one-ruler myth.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: textile efficiency, easier record-keeping, deeper irrigation in some areas, larger building projects and better...
+UPSC TRAP / ANSWER-USE: Do not write a civilisational import story in which India passively receives ready-made technology from outside.
         |
         v
-ANSWER-GRABBING FORMULATION: The better story is diffusion through existing craft skill, local demand, state projects and regional adaptation.
+ANSWER-GRABBING FORMULATION: A balanced line is: Sultanate technology mattered through diffusion, adaptation and social effect rather than through isolated invention claims.
 ```
+
 ### SESSION 18 — INLAND AND MARITIME TRADE: CORRIDORS, SARAIS AND HORSES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Inland and maritime trade: corridors, sarais and horses comprises Inland, maritime trade and corridors as its core connected dimensions.
+**Plain-language definition:** Trade connected the countryside, towns and seaports, and the state cared because horses, grain, cloth and revenue all moved along those routes.
 
-**Technical definition:** Trade was not a decorative add-on to politics.
+**Technical definition:** Inland roads, sarais, horse imports, textile exports, port cities such as Cambay and Bengal's outlets, and route-security measures linked military need to commercial circulation.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Trees, sarais and relay systems show that transport infrastructure was a political concern.
+> Do not separate trade from governance: in the Sultanate, moving goods was also a problem of army supply and political order.
 
 #### MUST-WRITE KEYWORDS
 
-- **Inland**
-- **maritime trade**
-- **corridors**
-- **sarais**
-- **horses**
-- **Peshawar-Delhi-Sonargaon**
+- **sarais and roads**
+- **horse imports**
+- **textile exports**
+- **Cambay and Bengal**
+- **route security**
+- **inland-maritime linkage**
 
-**How to use them:** Frame the answer through Inland; define maritime trade, connect corridors with sarais to explain the mechanism, and use horses for the decisive comparison or qualification.
+**How to use them:** Start with roads and sarais, add horse imports and textile exports, and then show how inland and maritime corridors reinforced one another.
 
 [FACT] The Sultanate inherited and expanded long-distance trade through north-west routes, internal roads and maritime exchange. The sources repeatedly mention the Peshawar-Delhi-Sonargaon axis, the road to Daulatabad, and western links through Gujarat.
 
@@ -1152,54 +1198,57 @@ ANSWER-GRABBING FORMULATION: The better story is diffusion through existing craf
 
 [LIMIT] Route diagrams are schematic and not to scale. They indicate corridor logic, not exact continuous border control by Delhi.
 
-
-
 ![18. Inland and maritime trade route schematic](assets/18_inland_maritime_trade_rou-e53c8dd59c.png)
 
 *Trade-route visual. It emphasises corridors and nodes, not false cartographic precision.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Trade history belongs inside the state narrative because the army, the nobility and the urban population all depended on regular movement of grain, animals, cloth and money. **Evidence:** The Sultanate inherited and expanded long-distance trade through north-west routes, internal roads and maritime exchange. The sources repeatedly mention the Peshawar-Delhi-Sonargaon axis, the road to Daulatabad, and western links through Gujarat. **Analysis:** Horse imports fed cavalry, textiles and grain supported urban demand, and sarais reduced transaction risk; this is why trade sits inside the military-fiscal story rather than outside it. **Qualification:** Route maps should therefore be read as functional corridors rather than as exact-to-scale diagrams.
+
 #### CLOSING RECALL FLOW — INLAND AND MARITIME TRADE: CORRIDORS, SARAIS AND HORSES
 
 ```text
-START / CONCEPT: Inland and maritime trade: corridors, sarais and horses
+START / CONCEPT: INLAND AND MARITIME TRADE: CORRIDORS, SARAIS AND HORSES
         |
         v
-EXACT TERMS: Inland · maritime trade · corridors · sarais · horses · Peshawar-Delhi-Sonargaon
+EXACT TERMS: sarais and roads · horse imports · textile exports · Cambay and Bengal · route security · inland-maritime linkage
         |
         v
-MECHANISM / ARGUMENT: The sources repeatedly mention the Peshawar-Delhi-Sonargaon axis, the road to Daulatabad, and western links through Gujarat.
+MECHANISM / ARGUMENT: Commercial corridors sustained both war and urban life by carrying animals, grain, manufactures and cash across long distances.
         |
         v
-CONSEQUENCE / CONTRAST: Trade was not a decorative add-on to politics.
+CONSEQUENCE / CONTRAST: Route maps should therefore be read as functional corridors rather than as exact-to-scale diagrams.
         |
         v
-UPSC TRAP / ANSWER-USE: Route diagrams are schematic and not to scale.
+UPSC TRAP / ANSWER-USE: Do not treat ports as self-sufficient nodes; explain inland roads, sarais, brokers and security before making any maritime claim.
         |
         v
-ANSWER-GRABBING FORMULATION: Trees, sarais and relay systems show that transport infrastructure was a political concern.
+ANSWER-GRABBING FORMULATION: The safest formulation is that Sultanate trade operated through connected inland and maritime corridors, not through isolated ports.
 ```
+
 ### SESSION 19 — MERCHANTS, BROKERS, BANJARAS AND CREDIT
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Merchant initiative, finance and transport were indispensable, even where the state regulated, taxed or supervised their activity.
+**Plain-language definition:** This session shows who moved goods and money: merchants, brokers, transporters and credit networks, not the state alone.
 
-**Technical definition:** Wealthy merchants could lend heavily even to nobles.
+**Technical definition:** Commercial life involved Multanis, Khurasanis, Gujaratis, Bohras, Marwaris, sahs, dallals, banjaras and hundi-based credit, with different actors operating across distinct regional and commodity circuits.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Merchant initiative, finance and transport were indispensable, even where the state regulated, taxed or supervised their activity.
+> If asked about economy, widen the lens beyond taxation: merchants and credit gave the Sultanate its connective tissue.
 
 #### MUST-WRITE KEYWORDS
 
-- **Merchants**
-- **brokers**
+- **Multanis**
+- **sahs**
 - **banjaras**
-- **credit**
-- **Hundis**
-- **intervention did not erase market society**
+- **hundis**
+- **brokers or dallals**
+- **merchant finance**
 
-**How to use them:** Frame the answer through Merchants; define brokers, connect banjaras with credit to explain the mechanism, and use Hundis for the decisive comparison or qualification.
+**How to use them:** Name merchant groups, bring in banjaras for transport, and then explain brokers and hundis as the mechanisms that linked markets.
 
 [FACT] The OCR and Topic 07 advanced owner identify Multanis, Khurasanis, Afghans, Gujaratis, Marwaris, Jains and Bohras as important commercial actors, though in different settings and degrees. Wealthy merchants could lend heavily even to nobles.
 
@@ -1209,54 +1258,57 @@ ANSWER-GRABBING FORMULATION: Trees, sarais and relay systems show that transport
 
 [DEBATE] Alauddin's controls are best handled as a capital-centred military-fiscal episode inside this wider commercial system. Topic 07 therefore insists: **intervention did not erase market society**.
 
-
-
 ![19. Merchant-credit-transport network](assets/19_merchant_credit_transport_network.png)
 
 *Commerce visual. It shows how merchants, financiers and transporters mediated between countryside, town and state.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** This evidence blocks the habit of reducing the Sultanate economy to state extraction alone. **Evidence:** The OCR and Topic 07 advanced owner identify Multanis, Khurasanis, Afghans, Gujaratis, Marwaris, Jains and Bohras as important commercial actors, though in different settings and degrees. Wealthy merchants could lend heavily even to nobles. **Analysis:** The variety of merchant groups matters because no single community monopolised all trade; credit and brokerage allowed distant exchange to function even where coin availability or direct supervision was uneven. **Qualification:** Capital regulation in Delhi was thus only one episode inside a wider commercial system.
+
 #### CLOSING RECALL FLOW — MERCHANTS, BROKERS, BANJARAS AND CREDIT
 
 ```text
-START / CONCEPT: Merchants, brokers, banjaras and credit
+START / CONCEPT: MERCHANTS, BROKERS, BANJARAS AND CREDIT
         |
         v
-EXACT TERMS: Merchants · brokers · banjaras · credit · Hundis · intervention did not erase market society
+EXACT TERMS: Multanis · sahs · banjaras · hundis · brokers or dallals · merchant finance
         |
         v
-MECHANISM / ARGUMENT: Wealthy merchants could lend heavily even to nobles.
+MECHANISM / ARGUMENT: Exchange expanded because traders could transport bulky goods, mobilise credit and reduce risk through intermediation.
         |
         v
-CONSEQUENCE / CONTRAST: Banjaras carried grain and were central to provisioning mechanisms.
+CONSEQUENCE / CONTRAST: Capital regulation in Delhi was thus only one episode inside a wider commercial system.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: [DEBATE] Alauddin's controls are best handled as a capital-centred military-fiscal episode inside this wider...
+UPSC TRAP / ANSWER-USE: Do not reduce economic history to Alauddin's price-control episode or to state extraction alone.
         |
         v
-ANSWER-GRABBING FORMULATION: Merchant initiative, finance and transport were indispensable, even where the state regulated, taxed or supervised their activity.
+ANSWER-GRABBING FORMULATION: A useful line is: beneath the state's fiscal claims, a many-layered commercial world of merchants, carriers and credit kept circulation alive.
 ```
+
 ### SESSION 20 — SOCIAL GROUPS, CASTE AND NON-CENSUS HIERARCHY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Social groups are analytical labels, not exact population measures.
+**Plain-language definition:** Social order under the Sultanate cannot be drawn as one neat chart; many hierarchies overlapped.
 
-**Technical definition:** The sources are strongest on elites, yet they also reveal sharp social inequality.
+**Technical definition:** Varna-jati distinctions, occupational gradation, service mobility, ashraf-ajlaf language and status competition produced stratification without providing a census-like map valid for all regions.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Social groups are analytical labels, not exact population measures.
+> Open by refusing the tidy chart: Sultanate society had layered hierarchies, not one exhaustive social ladder.
 
 #### MUST-WRITE KEYWORDS
 
-- **Social groups**
-- **caste**
-- **non-census hierarchy**
-- **overlapping social layers**
-- **The sources**
-- **At**
+- **varna-jati**
+- **occupational hierarchy**
+- **ashraf-ajlaf caution**
+- **service mobility**
+- **status competition**
+- **stratification**
 
-**How to use them:** Frame the answer through Social groups; define caste, connect non-census hierarchy with overlapping social layers to explain the mechanism, and use The sources for the decisive comparison or qualification.
+**How to use them:** Begin with varna-jati, add occupational ranking, then use ashraf-ajlaf cautiously and finish with service mobility and status competition.
 
 [FACT] Sultanate society included rulers, nobles, ulema, officials, soldiers, peasants, artisans, merchants, slaves, mendicants, entertainers and service groups. The sources are strongest on elites, yet they also reveal sharp social inequality.
 
@@ -1266,60 +1318,61 @@ ANSWER-GRABBING FORMULATION: Merchant initiative, finance and transport were ind
 
 [LIMIT] Social groups are analytical labels, not exact population measures. The archive rarely allows precise numerical breakdowns.
 
-
-
 ![20. Social groups non-census matrix](assets/20_social_groups_non_census_matrix.png)
 
 *Social-matrix visual. It organises evidence without pretending to produce a medieval census.*
-
-
 
 ![21. Caste, jati and mobility process](assets/21_caste_jati_mobility_process.png)
 
 *Mobility visual. It shows why state service and towns mattered without dissolving hierarchy.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The historian should therefore think in terms of **overlapping social layers**, not a neat medieval census chart. **Evidence:** Sultanate society included rulers, nobles, ulema, officials, soldiers, peasants, artisans, merchants, slaves, mendicants, entertainers and service groups. The sources are strongest on elites, yet they also reveal sharp social inequality. **Analysis:** Because elites, peasants, artisans, merchants, slaves and mendicants occupied different positions within more than one status system, any single label captures only part of the structure; that is why analytical caution matters. **Qualification:** These social groups are therefore heuristic categories, not exact population counts.
+
 #### CLOSING RECALL FLOW — SOCIAL GROUPS, CASTE AND NON-CENSUS HIERARCHY
 
 ```text
-START / CONCEPT: Social groups, caste and non-census hierarchy
+START / CONCEPT: SOCIAL GROUPS, CASTE AND NON-CENSUS HIERARCHY
         |
         v
-EXACT TERMS: Social groups · caste · non-census hierarchy · overlapping social layers · The sources · At
+EXACT TERMS: varna-jati · occupational hierarchy · ashraf-ajlaf caution · service mobility · status competition · stratification
         |
         v
-MECHANISM / ARGUMENT: The historian should therefore think in terms of overlapping social layers, not a neat medieval census chart.
+MECHANISM / ARGUMENT: Hierarchy was reproduced through occupation, lineage, religion, office and control over surplus, with each axis weighing differently across regions.
         |
         v
-CONSEQUENCE / CONTRAST: The sources are strongest on elites, yet they also reveal sharp social inequality.
+CONSEQUENCE / CONTRAST: These social groups are therefore heuristic categories, not exact population counts.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: at the same time, the urban world and state service created more mixed settings...
+UPSC TRAP / ANSWER-USE: Do not use later or overgeneralised labels as if they mapped the whole subcontinent with bureaucratic precision.
         |
         v
-ANSWER-GRABBING FORMULATION: Social groups are analytical labels, not exact population measures.
+ANSWER-GRABBING FORMULATION: One strong line is: Sultanate society was stratified through overlapping social layers rather than one uniform medieval order.
 ```
+
 ### SESSION 21 — HINDUS, MUSLIMS AND CONVERSION: DIFFERENTIATED COMMUNITIES, NOT STATIC BLOCS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** The best social frame is therefore one of differentiated communities in unequal interaction.
+**Plain-language definition:** This session studies interaction and difference together, instead of treating Hindus and Muslims as sealed blocs.
 
-**Technical definition:** The OCR is explicit that Muslim society itself remained internally divided among Turks, Iranians, Afghans and Indian Muslims.
+**Technical definition:** Community relations turned on local politics, patronage, service, devotional contact and multi-causal conversion, while Muslim society itself remained internally stratified.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The best social frame is therefore one of differentiated communities in unequal interaction.
+> For Hindus, Muslims and conversion, begin by rejecting a static binary: the evidence shows differentiated communities interacting through politics, patronage and social contact.
 
 #### MUST-WRITE KEYWORDS
 
-- **Hindus**
-- **Muslims**
-- **conversion**
-- **differentiated communities**
-- **not static blocs**
-- **differentiated communities in unequal interaction**
+- **interaction**
+- **local politics**
+- **patronage**
+- **devotional contact**
+- **multi-causal conversion**
+- **anti-binary method**
 
-**How to use them:** Frame the answer through Hindus; define Muslims, connect conversion with differentiated communities to explain the mechanism, and use not static blocs for the decisive comparison or qualification.
+**How to use them:** Start with internal differentiation within Muslim society, then discuss local politics and patronage, and only then bring in conversion as one process among several.
 
 [FACT] The OCR is explicit that Muslim society itself remained internally divided among Turks, Iranians, Afghans and Indian Muslims. The advanced source uses *ashraf* and *ajlaf* language for status differentiation and shows discrimination against many converts and occupational groups.
 
@@ -1331,54 +1384,57 @@ ANSWER-GRABBING FORMULATION: Social groups are analytical labels, not exact popu
 
 [LIMIT] Topic 07 deliberately avoids a mass-conversion or total-exclusion narrative because neither is supported by the evidence base used here.
 
-
-
 ![22. Conversion multi-causal model](assets/22_conversion_multi_causal_model.png)
 
 *Conversion visual. It keeps political, social, devotional and regional mechanisms together and refuses single-cause explanation.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The best social frame is therefore one of **differentiated communities in unequal interaction**. **Evidence:** The OCR is explicit that Muslim society itself remained internally divided among Turks, Iranians, Afghans and Indian Muslims. The advanced source uses *ashraf* and *ajlaf* language for status differentiation and shows discrimination against many converts and occupational groups. **Analysis:** Since Muslim groups were divided by origin and status, and Hindu groups remained deeply stratified, cross-community relations were mediated by office, patronage and locality; broad civilisational binaries hide that lived complexity. **Qualification:** This is why mass-conversion and total-exclusion stories both outrun the evidence used in Topic 07.
+
 #### CLOSING RECALL FLOW — HINDUS, MUSLIMS AND CONVERSION: DIFFERENTIATED COMMUNITIES, NOT STATIC BLOCS
 
 ```text
-START / CONCEPT: Hindus, Muslims and conversion: differentiated communities, not static blocs
+START / CONCEPT: HINDUS, MUSLIMS AND CONVERSION: DIFFERENTIATED COMMUNITIES, NOT STATIC BLOCS
         |
         v
-EXACT TERMS: Hindus · Muslims · conversion · differentiated communities · not static blocs · differentiated communities in unequal interaction
+EXACT TERMS: interaction · local politics · patronage · devotional contact · multi-causal conversion · anti-binary method
         |
         v
-MECHANISM / ARGUMENT: Topic 07 deliberately avoids a mass-conversion or total-exclusion narrative because neither is supported by the evidence base used here.
+MECHANISM / ARGUMENT: Relations changed through everyday contact in service, markets, shrines and politics rather than through one master cause.
         |
         v
-CONSEQUENCE / CONTRAST: The concise OCR is equally explicit that Hindus were not absent from Sultanate power.
+CONSEQUENCE / CONTRAST: This is why mass-conversion and total-exclusion stories both outrun the evidence used in Topic 07.
         |
         v
-UPSC TRAP / ANSWER-USE: Bounded coercive episodes existed, but they do not explain the whole pattern.
+UPSC TRAP / ANSWER-USE: Do not make conversion the single key to every social change, and do not speak of Hindus or Muslims as internally uniform communities.
         |
         v
-ANSWER-GRABBING FORMULATION: The best social frame is therefore one of differentiated communities in unequal interaction.
+ANSWER-GRABBING FORMULATION: A balanced line is: Sultanate society consisted of differentiated communities interacting under unequal but shared political and economic conditions.
 ```
+
 ### SESSION 22 — SLAVERY, GENDER AND EVERYDAY MATERIAL INEQUALITY
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Slavery, gender and everyday material inequality comprises Slavery, gender and everyday material inequality as its core connected dimensions.
+**Plain-language definition:** This session asks how unfreedom and gender hierarchy shaped everyday life, while keeping elite exceptions separate from general social experience.
 
-**Technical definition:** Technically, Slavery, gender and everyday material inequality is analysed by relating Slavery to gender, then testing the relationship through everyday material inequality and purdah.
+**Technical definition:** The evidence spans domestic, military and artisanal slavery, chronicle-scale claims under Firuz, classed seclusion practices such as purdah, and uneven data on property, widowhood and women's labour.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> The OCR also shows that slavery lowered the status of free labour and helped structure elite comfort.
+> Begin with the distinction between elite military slavery and wider unfree labour, then shift to the classed nature of gender norms.
 
 #### MUST-WRITE KEYWORDS
 
-- **Slavery**
-- **gender**
-- **everyday material inequality**
+- **domestic slavery**
+- **military slavery**
+- **artisanal labour**
 - **purdah**
-- **Firuz's**
-- **The OCR**
+- **property and household**
+- **evidence ladder**
 
-**How to use them:** Frame the answer through Slavery; define gender, connect everyday material inequality with purdah to explain the mechanism, and use Firuz's for the decisive comparison or qualification.
+**How to use them:** Define the types of slavery first, mark Firuz's figures as chronicle claims, and then discuss purdah, household property and women's work through an evidence ladder.
 
 [FACT] Slavery remained an important part of Sultanate social life. Prisoners of war, purchased slaves, domestic slaves, artisanal slaves and bodyguards all appear in the evidence. Firuz's reported 1,80,000 slaves and 12,000 trained artisans must remain labelled as chronicle-scale claims, not audited census truth.
 
@@ -1388,60 +1444,61 @@ ANSWER-GRABBING FORMULATION: The best social frame is therefore one of different
 
 [DEBATE] Sati, jauhar, widow rights, property claims, royal women and women's labour must therefore be handled on an evidence ladder: prescription, elite norm, specific episode, then careful inference. Topic 07 does not romanticise either complete repression or complete emancipation.
 
-
-
 ![23. Slavery forms comparison](assets/23_slavery_forms_comparison.png)
 
 *Slavery visual. It keeps elite military slavery distinct from domestic, artisanal and captive forms.*
-
-
 
 ![24. Gender evidence ladder](assets/24_gender_evidence_ladder.png)
 
 *Gender visual. It shows why prescription, elite norm and lived practice must be kept separate.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Slavery remained an important part of Sultanate social life. **Evidence:** Slavery remained an important part of Sultanate social life. Prisoners of war, purchased slaves, domestic slaves, artisanal slaves and bodyguards all appear in the evidence. Firuz's reported 1,80,000 slaves and 12,000 trained artisans must remain labelled as chronicle-scale claims, not audited census truth. **Analysis:** The evidence shows that slavery structured labour and elite consumption while purdah marked upper-status household control; both phenomena therefore illuminate hierarchy, but neither can be generalised without social and evidentiary caution. **Qualification:** Sati, jauhar, widow rights, property claims, royal women and women's labour should therefore be handled on an evidence ladder: prescription, elite norm, specific episode, then careful inference.
+
 #### CLOSING RECALL FLOW — SLAVERY, GENDER AND EVERYDAY MATERIAL INEQUALITY
 
 ```text
-START / CONCEPT: Slavery, gender and everyday material inequality
+START / CONCEPT: SLAVERY, GENDER AND EVERYDAY MATERIAL INEQUALITY
         |
         v
-EXACT TERMS: Slavery · gender · everyday material inequality · purdah · Firuz's · The OCR
+EXACT TERMS: domestic slavery · military slavery · artisanal labour · purdah · property and household · evidence ladder
         |
         v
-MECHANISM / ARGUMENT: Firuz's reported 1,80,000 slaves and 12,000 trained artisans must remain labelled as chronicle-scale claims, not audited census truth.
+MECHANISM / ARGUMENT: Household dependence, coercive labour and elite gender control operated together to distribute comfort upward and vulnerability downward.
         |
         v
-CONSEQUENCE / CONTRAST: It does not justify a universal rule for all women.
+CONSEQUENCE / CONTRAST: Sati, jauhar, widow rights, property claims, royal women and women's labour should therefore be handled on an evidence ladder: prescription, elite norm, specific episode, then careful inference.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: [DEBATE] Sati, jauhar, widow rights, property claims, royal women and women's labour must therefore...
+UPSC TRAP / ANSWER-USE: Do not universalise the experience of courtly women to all women, and do not let the rise of a few military slaves erase the larger world of bondage.
         |
         v
-ANSWER-GRABBING FORMULATION: The OCR also shows that slavery lowered the status of free labour and helped structure elite comfort.
+ANSWER-GRABBING FORMULATION: A strong line is: Sultanate inequality was reproduced through multiple forms of slavery and through gender norms that were sharply classed and uneven.
 ```
+
 ### SESSION 23 — EDUCATION, LANGUAGE, ULEMA, SUFIS AND SOCIAL INTERACTION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** 'Composite culture' is a useful phrase only if mechanism is supplied - language contact, service, translation, shared urbanity, music or shrine interaction - not if it becomes a slogan.
+**Plain-language definition:** Knowledge moved through schools, mosques, khanqahs, courts and everyday language contact, not through one single institution.
 
-**Technical definition:** Topic 07 uses Sufis and ulema not to retell Topic 10, but to explain how language, legitimacy and social contact worked.
+**Technical definition:** Persianisation of administration, maktab-madrasa training, khanqah networks, Arabic religious prestige, Sanskrit continuities and Hindavi interaction together shaped the social life of learning.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Topic 07 uses Sufis and ulema not to retell Topic 10, but to explain how language, legitimacy and social contact worked.
+> When writing on education, do not isolate schools from language and legitimacy; the institutional and linguistic stories are the same story.
 
 #### MUST-WRITE KEYWORDS
 
-- **Education**
-- **language**
+- **Persianisation**
+- **maktabs and madrasas**
+- **khanqahs**
+- **Hindavi contact**
 - **ulema**
-- **Sufis**
-- **social interaction**
-- **Persian**
+- **Sufi-state interaction**
 
-**How to use them:** Frame the answer through Education; define language, connect ulema with Sufis to explain the mechanism, and use social interaction for the decisive comparison or qualification.
+**How to use them:** Begin with Persian as the language of administration, place maktabs, madrasas and khanqahs within that world, then add Hindavi contact and Persian-knowing Hindus to show widening access.
 
 [FACT] Maktabs, madrasas, mosques, khanqahs, courtly scholarship, Sanskrit learning and local teaching traditions coexisted. The spread of paper-making made record-keeping and manuscripts easier, but did not automatically democratise learning.
 
@@ -1453,60 +1510,61 @@ ANSWER-GRABBING FORMULATION: The OCR also shows that slavery lowered the status 
 
 [LIMIT] 'Composite culture' is a useful phrase only if mechanism is supplied - language contact, service, translation, shared urbanity, music or shrine interaction - not if it becomes a slogan.
 
-
-
 ![25. Education and language knowledge network](assets/25_education_language_knowledge_network.png)
 
 *Knowledge-network visual. It links institutions, paper, languages and service culture rather than isolating them.*
-
-
 
 ![26. State-ulema-Sufi relationship matrix](assets/26_state_ulema_sufi_relationship_matrix.png)
 
 *Relationship visual. It keeps juristic authority, saintly charisma and royal expediency analytically separate.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** Topic 07 uses Sufis and ulema not to retell Topic 10, but to explain how language, legitimacy and social contact worked. **Evidence:** Maktabs, madrasas, mosques, khanqahs, courtly scholarship, Sanskrit learning and local teaching traditions coexisted. The spread of paper-making made record-keeping and manuscripts easier, but did not automatically democratise learning. **Analysis:** Coexisting schools and language communities matter because learning served multiple ends—bureaucratic service, religious authority and social interaction; Persian expanded state culture, yet vernacular contact kept that culture permeable. **Qualification:** “Composite culture” earns marks only when these mechanisms are named rather than assumed.
+
 #### CLOSING RECALL FLOW — EDUCATION, LANGUAGE, ULEMA, SUFIS AND SOCIAL INTERACTION
 
 ```text
-START / CONCEPT: Education, language, ulema, Sufis and social interaction
+START / CONCEPT: EDUCATION, LANGUAGE, ULEMA, SUFIS AND SOCIAL INTERACTION
         |
         v
-EXACT TERMS: Education · language · ulema · Sufis · social interaction · Persian
+EXACT TERMS: Persianisation · maktabs and madrasas · khanqahs · Hindavi contact · ulema · Sufi-state interaction
         |
         v
-MECHANISM / ARGUMENT: 'Composite culture' is a useful phrase only if mechanism is supplied - language contact, service, translation, shared urbanity, music or shrine interaction - not if it becomes a slogan.
+MECHANISM / ARGUMENT: Administrative language created service demand, while devotional and urban contact widened the social reach of that linguistic order.
         |
         v
-CONSEQUENCE / CONTRAST: Persian became the leading language of administration and much elite literary production; Arabic retained high religious prestige; Hindavi and other vernaculars expanded in everyday speech, Sufi conversation, poetic expression and later literary growth.
+CONSEQUENCE / CONTRAST: “Composite culture” earns marks only when these mechanisms are named rather than assumed.
         |
         v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: chishti use of Hindavi, saint-yogi interaction, juristic office and court patronage all helped mediate...
+UPSC TRAP / ANSWER-USE: Do not use “composite culture” as a decorative conclusion unless you can show the mechanism—translation, service, shared urbanity or shrine contact.
         |
         v
-ANSWER-GRABBING FORMULATION: Topic 07 uses Sufis and ulema not to retell Topic 10, but to explain how language, legitimacy and social contact worked.
+ANSWER-GRABBING FORMULATION: A marks-safe line is: Sultanate educational life was plural, but Persianisation gave its most powerful institutional axis.
 ```
+
 ### SESSION 24 — SYNTHESIS AND HISTORIOGRAPHY: CENTRALISATION, FEUDALISM, URBAN CHANGE AND SOURCES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Synthesis and historiography: centralisation, feudalism, urban change and sources comprises Synthesis, historiography and centralisation as its core connected dimensions.
+**Plain-language definition:** This session defines the historiographical synthesis of Topic 07 as the testing of centralisation, feudal, urban and technological theses against a mixed source base.
 
-**Technical definition:** [DEBATE] Was there an urban revolution?
+**Technical definition:** Historiographical synthesis must test centralisation, feudal analogy, urban-revival and technological-diffusion theses against a mixed archive of chronicles, travellers, coins, inscriptions, architecture and archaeology.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Synthesis and historiography: centralisation, feudalism, urban change and sources comprises Synthesis, historiography and centralisation as its core connected dimensions.
+> Do not end with slogans like centralised, feudal or urban revolution; end by showing which thesis each body of evidence can actually sustain.
 
 #### MUST-WRITE KEYWORDS
 
-- **Synthesis**
-- **historiography**
-- **centralisation**
-- **feudalism**
-- **urban change**
-- **sources**
+- **centralisation debate**
+- **feudal analogy**
+- **urban revolution**
+- **technological change**
+- **multi-source method**
+- **qualified verdict**
 
-**How to use them:** Frame the answer through Synthesis; define historiography, connect centralisation with feudalism to explain the mechanism, and use urban change for the decisive comparison or qualification.
+**How to use them:** Take the debate one axis at a time—centralisation, iqta/feudal analogy, urban change and technology—and then close with source criticism and a qualified verdict.
 
 [DEBATE] Was the Sultanate centralised? Yes, at the apex; unevenly, below. This is why the strongest answer speaks of **centralising aspiration plus negotiated sovereignty**.
 
@@ -1520,996 +1578,388 @@ ANSWER-GRABBING FORMULATION: Topic 07 uses Sufis and ulema not to retell Topic 1
 
 [FACT] The core source matrix remains: Barani, Minhaj, Amir Khusrau, Ibn Battuta, Isami, Afif, coins, inscriptions, architecture, archaeology and regional texts. Every good answer should move from named evidence to mechanism to qualification to verdict.
 
-
-
 ![27. Centralisation debate](assets/27_centralisation_debate.png)
 
 *Centralisation visual. It turns a yes-or-no question into a layered argument.*
-
-
 
 ![28. Urban revolution and economic historiography matrix](assets/28_urban_revolution_economic-e0c74c60e8.png)
 
 *Historiography visual. It contrasts growth, extraction and technology without forcing false choices.*
 
-
-
 ![29. Source criticism matrix](assets/29_source_criticism_matrix.png)
 
 *Source matrix. It keeps genre and limitation at the centre of explanation.*
-
-
 
 ![30. GS-I answer spine](assets/30_gs1_answer_spine.png)
 
 *Answer-spine visual. It gives a repeatable structure for administrative, economic and social questions.*
 
+#### PARAGRAPH DEMONSTRATION — CLAIM → EVIDENCE → ANALYSIS → QUALIFICATION
+
+**Claim:** The core source matrix remains: Barani, Minhaj, Amir Khusrau, Ibn Battuta, Isami, Afif, coins, inscriptions, architecture, archaeology and regional texts. **Evidence:** The core source matrix remains: Barani, Minhaj, Amir Khusrau, Ibn Battuta, Isami, Afif, coins, inscriptions, architecture, archaeology and regional texts. Every good answer should move from named evidence to mechanism to qualification to verdict. **Analysis:** Because chronicles privilege elite intention while coins, inscriptions and architecture register public claims differently, no single source can settle the great debates; synthesis requires testing each thesis against multiple evidentiary registers. **Qualification:** No single label—centralised, feudal, secular or revolutionary—survives without qualification once that full source matrix is used.
+
 #### CLOSING RECALL FLOW — SYNTHESIS AND HISTORIOGRAPHY: CENTRALISATION, FEUDALISM, URBAN CHANGE AND SOURCES
 
 ```text
-START / CONCEPT: Synthesis and historiography: centralisation, feudalism, urban change and sources
+START / CONCEPT: SYNTHESIS AND HISTORIOGRAPHY: CENTRALISATION, FEUDALISM, URBAN CHANGE AND SOURCES
         |
         v
-EXACT TERMS: Synthesis · historiography · centralisation · feudalism · urban change · sources
+EXACT TERMS: centralisation debate · feudal analogy · urban revolution · technological change · multi-source method · qualified verdict
         |
         v
-MECHANISM / ARGUMENT: The better frame is diffusion and adaptation through artisans, courts, merchants and local needs.
+MECHANISM / ARGUMENT: Interpretations become persuasive only when multiple source types are cross-checked rather than read in isolation.
         |
         v
-CONSEQUENCE / CONTRAST: The comparison can illuminate service-linked assignment, but breaks down if it ignores state superiority, transfer, audit and the changing political meaning of assignment over time.
+CONSEQUENCE / CONTRAST: No single label—centralised, feudal, secular or revolutionary—survives without qualification once that full source matrix is used.
         |
         v
-UPSC TRAP / ANSWER-USE: Town growth, monetisation, crafts and trade were substantial, but their energy rested on agrarian extraction and hierarchy.
+UPSC TRAP / ANSWER-USE: The biggest trap is to turn one chronicler or one debate into the whole truth of the Sultanate.
         |
         v
-ANSWER-GRABBING FORMULATION: Synthesis and historiography: centralisation, feudalism, urban change and sources comprises Synthesis, historiography and centralisation as its core connected dimensions.
+ANSWER-GRABBING FORMULATION: A strong concluding line is: the Sultanate was centralising at the apex, negotiated below, commercially and technologically dynamic, yet recoverable only through a source-critical method.
 ```
-### SESSION 25 — BOUNDED LIVE LINKAGE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The live page is a teaching bridge only.
-
-**Technical definition:** The Reserve Bank of India's Medieval India coinage page was rechecked on 30 August 2026.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The live page is a teaching bridge only.
-
-#### MUST-WRITE KEYWORDS
-
-- **Bounded live linkage**
-- **The Reserve Bank**
-- **India's Medieval India**
-- **It**
-- **Delhi Sultanate**
-- **This**
-
-**How to use them:** Frame the answer through Bounded live linkage; define The Reserve Bank, connect India's Medieval India with It to explain the mechanism, and use Delhi Sultanate for the decisive comparison or qualification.
-
-The Reserve Bank of India's Medieval India coinage page was rechecked on 30 August 2026. It describes the consolidation of the tanka and jittal, an attempted standardisation under the Delhi Sultanate, expansion of the money economy and gold, silver and copper issues. This official numismatic bridge supports the package's coinage and monetisation section; its estimates and evaluative language are identified as RBI museum-page claims rather than universal measures of social welfare or uniform market penetration.
-
-The live page is a teaching bridge only. Historical chronology, causation and institutional claims remain controlled by repository Markdown, OCR-searchable books and source criticism.
-
-#### CLOSING RECALL FLOW — BOUNDED LIVE LINKAGE
-
-```text
-START / CONCEPT: Bounded live linkage
-        |
-        v
-EXACT TERMS: Bounded live linkage · The Reserve Bank · India's Medieval India · It · Delhi Sultanate · This
-        |
-        v
-MECHANISM / ARGUMENT: The Reserve Bank of India's Medieval India coinage page was rechecked on 30 August 2026.
-        |
-        v
-CONSEQUENCE / CONTRAST: It describes the consolidation of the tanka and jittal, an attempted standardisation under the Delhi Sultanate, expansion of the money economy and gold, silver and copper issues.
-        |
-        v
-UPSC TRAP / ANSWER-USE: This official numismatic bridge supports the package's coinage and monetisation section; its estimates and evaluative language are identified as RBI museum-page claims rather than universal measures of social welfare or uniform market penetration.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The live page is a teaching bridge only.
-```
-### MEDIEVAL DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** Iqta, muqti, kharaj, jizya and central diwans must be matched to their precise fiscal-administrative functions.
-- **Close distinction:** An iqta was not automatically private ownership or hereditary property across every reign and region.
-- **Evidence / interpretation limit:** Administrative ideals, chronicler prescriptions and uneven local practice must remain analytically separate.
-
-### TOPIC 07 CLOSING CROSS-DYNASTIC INSTITUTION LEDGER
-
-#### Source, law and practice
-
-- Chronicles and normative texts must be separated from farmans/orders,
-  inscriptions, coins, archaeology and travellers such as Ibn Battuta.
-- Sultanate sovereignty used coin, khutba, court, justice and appointments;
-  caliphal symbolism did not create modern legal sovereignty.
-- Sharia norms, ulama interpretation and sultanic zawabit/state regulation
-  interacted differently by reign.
-- Department names and portfolios changed; Diwan-i Risalat is especially
-  disputed between religious-grant and diplomatic reconstructions.
-
-#### Administration, iqta and revenue
-
-| Layer | Core institutions and caution |
-|---|---|
-| Centre | Wizarat/wazir; Arz/ariz-i mamalik; Insha; Risalat; sadr; qazi; barid |
-| Province/locality | wali/muqti; shiq; pargana/amil; village; khuts, muqaddams, chaudhuris |
-| Iqta | transferable/auditable revenue-service assignment; hereditary drift varied; not private land |
-| Revenue norms | kharaj, ushr, zakat, jizya, khams and cesses require legal-versus-practice distinction |
-| Army | mamluk/free cavalry, iqta contingents, infantry, elephants, forts, branding/rolls and frontier logistics |
-
-#### Economy, society and technology
-
-- Agrarian production, irrigation, crops, famine and state extraction differed
-  by region; peasants and intermediaries were not homogeneous.
-- Karkhanas, textiles, metals, paper and building linked village/town artisans
-  to court, army and merchant demand.
-- Towns and qasbas depended on hinterlands; transport, ports, money, hundis,
-  brokers and international networks varied regionally.
-- The urban-revolution thesis must be balanced against older settlements,
-  regional trajectories and agrarian dependence.
-- Political elites, ulama, Sufis, merchants, artisans, peasants, bandagan,
-  women, converts, non-Muslim communities and Rajputs formed overlapping,
-  stratified groups—not Hindu/Muslim sealed blocs.
-- Slavery had domestic, military, productive and captive forms; none maps
-  automatically onto Atlantic racial chattel slavery.
-- Persian, Arabic, Sanskrit, Hindavi and regional languages interacted.
-- Persian wheel, spinning wheel, paper, mortar/arch and gunpowder/firearms
-  require diffusion/adaptation and dating cautions, not one-event introduction.
-
-#### PYQ ownership
-
-- **Direct:** 2019 Prelims Q12; 2022 Prelims Q52 (fanam; exact stem unavailable);
-  2023 GS-I Q12.
-- **Adjacent:** 2022 Q57 -> Topic 04; 2020 GS-I Q12 -> Topic 24.
-
-**Final method:** legal norm -> ruler/dynasty -> institution -> regional practice
--> social/economic effect -> evidence limit -> change-over-time verdict.
 
 ## BASIC MCQS / REMEDIATION
 
 ### Learning MCQ 01
 
-
-**Question:** What is the safest opening description of Topic 07?
-
-- A. It studies institutions as changing, negotiated and regionally uneven across the Sultanate rather than repeating ruler biographies.
-- B. It treats the Delhi Sultanate as a finished modern bureaucracy from 1206 onward.
-- C. It replaces administration with only art and architecture.
-- D. It is a single-reign summary of Alauddin's reforms.
-
-**Answer: A.**
-
-**Explanation:** The topic is cross-dynastic and thematic; reduction to one ruler or one administrative diagram is exactly the trap to avoid.
-
-### Learning MCQ 02
-
-
-**Question:** Which statement best captures Sultanate state formation?
-
-- A. Persianate symbols replaced all local institutions overnight.
-- B. Military conquest created openings, but durable rule depended on court forms, local intermediaries and inherited agrarian structures.
-- C. Once Delhi won a battle, countryside administration became automatic.
-- D. State formation was purely urban and detached from villages.
-
-**Answer: B.**
-
-**Explanation:** The strongest answer links cavalry and forts to revenue, local collaboration and social continuities.
-
-### Learning MCQ 03
-
-
-**Question:** How should caliphal recognition be interpreted in Sultanate answers?
-
-- A. As irrelevant decorative theology with no political use.
-- B. As proof that the caliph governed India directly.
-- C. As symbolic recognition that could enhance standing but did not by itself create army, territory or revenue power.
-- D. As a permanent legal chain preventing rulers from issuing their own regulations.
-
-**Answer: C.**
-
-**Explanation:** Iltutmish and later rulers used caliphal idiom, but practical sovereignty rested elsewhere.
-
-### Learning MCQ 04
-
-
-**Question:** Which office statement is correct?
-
-- A. The ariz was the empire's supreme sovereign judge.
-- B. The Diwan-i-Insha permanently handled irrigation canals.
-- C. The Diwan-i-Risalat had one universally fixed portfolio in every reign.
-- D. The ariz or Diwan-i-Arz supervised the military department, but the sultan remained commander-in-chief.
-
-**Answer: D.**
-
-**Explanation:** This question tests against projecting later or unrelated portfolios onto Sultanate offices.
-
-### Learning MCQ 05
-
-
-**Question:** What is the best way to describe iqta?
-
-- A. A transferable fiscal-military assignment tied to service, administration and in-principle audit.
-- B. A modern district with salaried bureaucracy only.
-- C. A south Indian gold coin used in coastal trade.
-- D. Absolute private ownership of land and peasants.
-
-**Answer: A.**
-
-**Explanation:** Iqta should be defined through claim, service and recall - not as private estate.
-
-### Learning MCQ 06
-
-
-**Question:** Why must local administration be described cautiously?
-
-- A. Because no local officials existed below the province.
-- B. Because terms such as shiq, pargana, zamindar and qanungo do not have identical meaning or visibility across all Sultanate centuries.
-- C. Because only Mughal sources discuss local society.
-- D. Because villages were completely untouched by the state.
-
-**Answer: B.**
-
-**Explanation:** Chronology caution is essential in medieval administrative vocabulary.
-
-### Learning MCQ 07
-
-
-**Question:** Which revenue statement is safest?
-
-- A. Kharaj was only a symbolic tax and never a real burden.
-- B. Firuz abolished all non-sharia fiscal categories everywhere permanently.
-- C. Legal labels such as kharaj, jizya and zakat matter, but actual fiscal practice often merged, varied and depended on political circumstance.
-- D. Jizya had the same practical meaning in every district from 1206 to 1526.
-
-**Answer: C.**
-
-**Explanation:** UPSC rewards the distinction between juristic vocabulary and working extraction.
-
-### Learning MCQ 08
-
-
-**Question:** What drove Alauddin's dagh and chehra controls?
-
-- A. A village self-government reform.
-- B. A Lodi attempt to promote maritime trade.
-- C. A project to spread paper currency.
-- D. The need to supervise cavalry quality and salary claims within a military-fiscal system.
-
-**Answer: D.**
-
-**Explanation:** Horse branding and descriptive rolls belong to army control, not to Mughal-first mythology.
-
-### Learning MCQ 09
-
-
-**Question:** What is the best reading of Sultanate justice?
-
-- A. Sharia courts, royal regulations, kotwal policing and local custom coexisted in a plural and hierarchical order.
-- B. Village panchayats disappeared entirely after 1206.
-- C. Qazis governed non-Muslim communities in all matters without exception.
-- D. Only one uniform civil code operated everywhere.
-
-**Answer: A.**
-
-**Explanation:** Judicial pluralism is one of Topic 07's safest high-value themes.
-
-### Learning MCQ 10
-
-
-**Question:** Why is agrarian history central to Topic 07?
-
-- A. Because military spending was independent of revenue and grain.
-- B. Because peasant production and intermediary control financed the court, army and towns through surplus transfer.
-- C. Because Sultanate economy was mainly based on overseas tribute only.
-- D. Because towns had no relationship with villages.
-
-**Answer: B.**
-
-**Explanation:** A military-fiscal state cannot be explained without its agrarian base.
-
-### Learning MCQ 11
-
-
-**Question:** How should monetisation be described?
-
-- A. As irrelevant to trade because only gifts mattered.
-- B. As paper money introduced permanently by Muhammad bin Tughlaq.
-- C. As a real but uneven expansion of cash circuits, coin use and credit, not as a neat linear transition from barter to market modernity.
-- D. As complete replacement of grain demand by cash in every region.
-
-**Answer: C.**
-
-**Explanation:** Tanka, jital, hundis and salary systems all matter, but unevenly.
-
-### Learning MCQ 12
-
-
-**Question:** Which description of Sultanate urbanisation is safest?
-
-- A. Every town was only a military cantonment with no commerce.
-- B. The Sultanate had one single capital and no provincial cities.
-- C. Urban growth ended long-distance trade.
-- D. Towns grew through court demand, garrisons, trade, crafts and regional exchange, while still depending on rural surplus.
-
-**Answer: D.**
-
-**Explanation:** Urbanisation debate is strongest when tied to both demand and extraction.
-
-### Learning MCQ 13
-
-
-**Question:** What is the best way to answer the 2023 technology PYQ?
-
-- A. By linking devices and techniques to social effects on crafts, irrigation, construction, administration and hierarchy.
-- B. By claiming all technology came fully formed from one foreign source.
-- C. By listing inventions without saying who used them.
-- D. By discussing only gunpowder and nothing else.
-
-**Answer: A.**
-
-**Explanation:** The question is social-history oriented, not a trivia list.
-
-### Learning MCQ 14
-
-
-**Question:** How should Alauddin's market regulation be placed in the wider economy?
-
-- A. As proof that ordinary markets ceased to exist forever.
-- B. As an intense state intervention within a broader commercial world still run through merchants, banjaras, brokers and credit.
-- C. As the beginning of a socialist planned economy.
-- D. As a measure that removed all need for grain transport.
-
-**Answer: B.**
-
-**Explanation:** The market episode is important, but it should not swallow the whole economy.
-
-### Learning MCQ 15
-
-
-**Question:** What is the safest description of Muslims as a social category under the Sultanate?
-
-- A. Only foreign-born Muslims mattered in any occupation.
-- B. The terms ashraf, ajlaf and arzal can be projected backward without caution.
-- C. They were internally differentiated by ethnicity, status, occupation and origin; they were not one timeless homogeneous bloc.
-- D. All Muslims formed a perfectly equal community from the outset.
-
-**Answer: C.**
-
-**Explanation:** Status language changed over time and must be used carefully.
-
-### Learning MCQ 16
-
-
-**Question:** Which conversion statement is safest?
-
-- A. Conversion happened only by the sword.
-- B. No social or regional variation mattered.
-- C. Conversion happened only by mystical preaching and never by politics.
-- D. Conversion was multi-causal: patronage, mobility, local politics, devotional contact, frontier processes and belief all mattered in uneven ways.
-
-**Answer: D.**
-
-**Explanation:** This defeats the most common one-cause narratives.
-
-### Learning MCQ 17
-
-
-**Question:** How should gender evidence be handled?
-
-- A. By distinguishing elite prescription from practice and by noting class and regional variation in seclusion, property and ritual.
-- B. By claiming women disappear entirely from the source record.
-- C. By treating sati and jauhar as everyday universal institutions.
-- D. By assuming all women everywhere observed the same purdah pattern.
-
-**Answer: A.**
-
-**Explanation:** The evidence is uneven, but not nonexistent; cautious layering is essential.
-
-### Learning MCQ 18
-
-
-**Question:** What is the best closing line for a GS-I answer on Topic 07?
-
-- A. The Sultanate economy was prosperous for every class in the same way.
-- B. The Sultanate was centralising in aspiration, negotiated in practice, and socially uneven in effect.
-- C. The Sultanate was either fully feudal or fully modern, with no middle ground.
-- D. The Sultanate state can be understood entirely from one chronicle.
-
-**Answer: B.**
-
-**Explanation:** This verdict keeps institution, debate and social hierarchy together.
-
-### Original broad-coverage MCQs
-
-> **Rotation check rule:** This original broad-coverage sequence starts at **A** and rotates strictly through **B, C and D**.
-
-
-
-#### Broad MCQ 01
-
 **Question:** Which phrase most accurately describes the Delhi Sultanate?
 
-- A. A society without villages or intermediaries.
-- B. A timeless nation-state with fixed ministries.
-- C. A Persianate military-fiscal state whose central claims depended on negotiation below.
-- D. A purely spiritual caliphate run from Baghdad.
+- A. A Persianate military-fiscal state whose central claims depended on negotiation below.
+- B. A purely spiritual caliphate run from Baghdad.
+- C. A society without villages or intermediaries.
+- D. A timeless nation-state with fixed ministries.
 
-**Answer: C.**
+**Answer: A.**
 
 **Explanation:** The best phrase joins ideology, coercion and agrarian mediation.
 
-#### Broad MCQ 02
+**Option-wise explanation:**
+- A. **Correct.** The best phrase joins ideology, coercion and agrarian mediation.
+- B. **Incorrect.** "A purely spiritual caliphate run from Baghdad." runs into the topic trap: do not remove villages and intermediaries from the definition of the Sultanate.
+- C. **Incorrect.** "A society without villages or intermediaries." misreads the evidence; the best phrase joins ideology, coercion and agrarian mediation.
+- D. **Incorrect.** "A timeless nation-state with fixed ministries." falls once you remember that do not remove villages and intermediaries from the definition of the Sultanate.
+
+**Trap:** Do not remove villages and intermediaries from the definition of the Sultanate.
+
+### Learning MCQ 02
 
 **Question:** Why is the phrase 'Persianate' useful in Topic 07?
 
-- A. Because only Persian literature mattered in the Sultanate.
-- B. Because all rulers were ethnically Persian.
-- C. Because Persianate culture abolished local languages.
-- D. Because it captures a transregional language-administrative culture that could include rulers and officials of varied origins.
+- A. Because Persianate culture abolished local languages.
+- B. Because it captures a transregional language-administrative culture that could include rulers and officials of varied origins.
+- C. Because only Persian literature mattered in the Sultanate.
+- D. Because all rulers were ethnically Persian.
 
-**Answer: D.**
+**Answer: B.**
 
 **Explanation:** The term is cultural-political, not ethnic.
 
-#### Broad MCQ 03
+**Option-wise explanation:**
+- A. **Incorrect.** "Because Persianate culture abolished local languages." cannot stand because persianate is a cultural-administrative descriptor, not an ethnic label.
+- B. **Correct.** The term is cultural-political, not ethnic.
+- C. **Incorrect.** "Because only Persian literature mattered in the Sultanate." is too blunt for this topic; persianate is a cultural-administrative descriptor, not an ethnic label.
+- D. **Incorrect.** "Because all rulers were ethnically Persian." misses what the evidence actually shows: the term is cultural-political, not ethnic.
+
+**Trap:** Persianate is a cultural-administrative descriptor, not an ethnic label.
+
+### Learning MCQ 03
 
 **Question:** What made Delhi important beyond military conquest?
 
-- A. Coinage, chancery, migrant scholars, court ritual and revenue coordination reinforced its centrality.
-- B. It was the only town in north India.
-- C. It mattered only after the Mughals.
-- D. It had no link with monetisation.
+- A. It mattered only after the Mughals.
+- B. It had no link with monetisation.
+- C. Coinage, chancery, migrant scholars, court ritual and revenue coordination reinforced its centrality.
+- D. It was the only town in north India.
 
-**Answer: A.**
+**Answer: C.**
 
 **Explanation:** Delhi became a nodal political and cultural centre, not just a fort.
 
-#### Broad MCQ 04
+**Option-wise explanation:**
+- A. **Incorrect.** "It mattered only after the Mughals." overstates the case; delhi's centrality was institutional and monetary, not merely geographic.
+- B. **Incorrect.** "It had no link with monetisation." is ruled out by the fact that delhi became a nodal political and cultural centre, not just a fort.
+- C. **Correct.** Delhi became a nodal political and cultural centre, not just a fort.
+- D. **Incorrect.** "It was the only town in north India." strips away the nuance that delhi became a nodal political and cultural centre, not just a fort.
+
+**Trap:** Delhi's centrality was institutional and monetary, not merely geographic.
+
+### Learning MCQ 04
 
 **Question:** Which statement about succession under the Sultanate is safest?
 
-- A. Village panchayats chose the sultan.
-- B. Nomination, noble acceptance, military strength and household politics all shaped succession.
-- C. Primogeniture operated without interruption.
-- D. Caliphal appointment automatically settled succession.
+- A. Primogeniture operated without interruption.
+- B. Caliphal appointment automatically settled succession.
+- C. Village panchayats chose the sultan.
+- D. Nomination, noble acceptance, military strength and household politics all shaped succession.
 
-**Answer: B.**
+**Answer: D.**
 
 **Explanation:** This defeats simplistic dynastic assumptions.
 
-#### Broad MCQ 05
+**Option-wise explanation:**
+- A. **Incorrect.** "Primogeniture operated without interruption." does not fit the source-based line here; this defeats simplistic dynastic assumptions.
+- B. **Incorrect.** "Caliphal appointment automatically settled succession." confuses the issue because succession was negotiated and force-backed, not a clean primogeniture rule.
+- C. **Incorrect.** "Village panchayats chose the sultan." sounds neat, but this defeats simplistic dynastic assumptions.
+- D. **Correct.** This defeats simplistic dynastic assumptions.
+
+**Trap:** Succession was negotiated and force-backed, not a clean primogeniture rule.
+
+### Learning MCQ 05
 
 **Question:** Why should Diwan-i-Risalat be handled cautiously?
 
-- A. Because it was a Mughal-only innovation.
-- B. Because the office certainly never existed.
-- C. Because its exact portfolio is reconstructed differently by scholars and may shift across reigns.
-- D. Because it only managed artillery.
+- A. Because its exact portfolio is reconstructed differently by scholars and may shift across reigns.
+- B. Because it only managed artillery.
+- C. Because it was a Mughal-only innovation.
+- D. Because the office certainly never existed.
 
-**Answer: C.**
+**Answer: A.**
 
 **Explanation:** Terminology caution itself is a mark of strong historical method.
 
-#### Broad MCQ 06
+**Option-wise explanation:**
+- A. **Correct.** Terminology caution itself is a mark of strong historical method.
+- B. **Incorrect.** "Because it only managed artillery." runs into the topic trap: handle Diwan-i-Risalat with chronology-and-portfolio caution.
+- C. **Incorrect.** "Because it was a Mughal-only innovation." misreads the evidence; terminology caution itself is a mark of strong historical method.
+- D. **Incorrect.** "Because the office certainly never existed." falls once you remember that handle Diwan-i-Risalat with chronology-and-portfolio caution.
+
+**Trap:** Handle Diwan-i-Risalat with chronology-and-portfolio caution.
+
+### Learning MCQ 06
 
 **Question:** What was the political use of the barid network?
 
-- A. It minted copper jitals.
-- B. It managed Hindu temple endowments only.
-- C. It replaced the military department entirely.
-- D. It carried intelligence upward and helped rulers watch governors, nobles and markets.
+- A. It replaced the military department entirely.
+- B. It carried intelligence upward and helped rulers watch governors, nobles and markets.
+- C. It minted copper jitals.
+- D. It managed Hindu temple endowments only.
 
-**Answer: D.**
+**Answer: B.**
 
 **Explanation:** Information was a technology of rule.
 
-#### Broad MCQ 07
+**Option-wise explanation:**
+- A. **Incorrect.** "It replaced the military department entirely." cannot stand because barid means surveillance and reporting, not minting or military command.
+- B. **Correct.** Information was a technology of rule.
+- C. **Incorrect.** "It minted copper jitals." is too blunt for this topic; barid means surveillance and reporting, not minting or military command.
+- D. **Incorrect.** "It managed Hindu temple endowments only." misses what the evidence actually shows: information was a technology of rule.
+
+**Trap:** Barid means surveillance and reporting, not minting or military command.
+
+### Learning MCQ 07
 
 **Question:** Which social group is most directly linked to village headship in Topic 07's core evidence?
 
-- A. Muqaddams and related local landed intermediaries.
-- B. Caliphal envoys.
-- C. Barids.
-- D. Mir bakhshis.
+- A. Barids.
+- B. Mir bakhshis.
+- C. Muqaddams and related local landed intermediaries.
+- D. Caliphal envoys.
 
-**Answer: A.**
+**Answer: C.**
 
 **Explanation:** Village headship belongs to local agrarian hierarchy.
 
-#### Broad MCQ 08
+**Option-wise explanation:**
+- A. **Incorrect.** "Barids." overstates the case; keep village headship terms separate from imperial offices.
+- B. **Incorrect.** "Mir bakhshis." is ruled out by the fact that village headship belongs to local agrarian hierarchy.
+- C. **Correct.** Village headship belongs to local agrarian hierarchy.
+- D. **Incorrect.** "Caliphal envoys." strips away the nuance that village headship belongs to local agrarian hierarchy.
+
+**Trap:** Keep village headship terms separate from imperial offices.
+
+### Learning MCQ 08
 
 **Question:** Why is iqta not equivalent to European feudalism?
 
-- A. Because iqta had no connection at all with revenue.
-- B. Because the Sultanate state's superior claim, transfer power and audit logic differ from a simple proprietary-vassal model.
-- C. Because Europe had no cavalry.
-- D. Because iqta was a maritime customs office.
+- A. Because Europe had no cavalry.
+- B. Because iqta was a maritime customs office.
+- C. Because iqta had no connection at all with revenue.
+- D. Because the Sultanate state's superior claim, transfer power and audit logic differ from a simple proprietary-vassal model.
 
-**Answer: B.**
+**Answer: D.**
 
 **Explanation:** The comparison is useful only when its limits are stated.
 
-#### Broad MCQ 09
+**Option-wise explanation:**
+- A. **Incorrect.** "Because Europe had no cavalry." does not fit the source-based line here; the comparison is useful only when its limits are stated.
+- B. **Incorrect.** "Because iqta was a maritime customs office." confuses the issue because iqta is not shorthand for feudal private property.
+- C. **Incorrect.** "Because iqta had no connection at all with revenue." sounds neat, but the comparison is useful only when its limits are stated.
+- D. **Correct.** The comparison is useful only when its limits are stated.
+
+**Trap:** Iqta is not shorthand for feudal private property.
+
+### Learning MCQ 09
 
 **Question:** What does khalisa most clearly indicate?
 
-- A. A type of slave corps.
-- B. A class of urban merchants.
-- C. Revenue reserved for more direct crown collection and visibility.
-- D. The village police post.
+- A. Revenue reserved for more direct crown collection and visibility.
+- B. The village police post.
+- C. A type of slave corps.
+- D. A class of urban merchants.
 
-**Answer: C.**
+**Answer: A.**
 
 **Explanation:** Khalisa is central to any discussion of Alauddin or crown finance.
 
-#### Broad MCQ 10
+**Option-wise explanation:**
+- A. **Correct.** Khalisa is central to any discussion of Alauddin or crown finance.
+- B. **Incorrect.** "The village police post." runs into the topic trap: khalisa means crown-held revenue, not a social group or office.
+- C. **Incorrect.** "A type of slave corps." misreads the evidence; khalisa is central to any discussion of Alauddin or crown finance.
+- D. **Incorrect.** "A class of urban merchants." falls once you remember that khalisa means crown-held revenue, not a social group or office.
+
+**Trap:** Khalisa means crown-held revenue, not a social group or office.
+
+### Learning MCQ 10
 
 **Question:** Which ruler most clearly combined price regulation with military horse inspection?
 
-- A. Babur.
-- B. Khizr Khan Sayyid.
-- C. Raziya Sultan.
-- D. Alauddin Khalji.
+- A. Raziya Sultan.
+- B. Alauddin Khalji.
+- C. Babur.
+- D. Khizr Khan Sayyid.
 
-**Answer: D.**
+**Answer: B.**
 
 **Explanation:** Dagh and chehra must be placed correctly.
 
-#### Broad MCQ 11
+**Option-wise explanation:**
+- A. **Incorrect.** "Raziya Sultan." cannot stand because link Alauddin's horse controls to military-fiscal supervision, not to modern state analogies.
+- B. **Correct.** Dagh and chehra must be placed correctly.
+- C. **Incorrect.** "Babur." is too blunt for this topic; link Alauddin's horse controls to military-fiscal supervision, not to modern state analogies.
+- D. **Incorrect.** "Khizr Khan Sayyid." misses what the evidence actually shows: dagh and chehra must be placed correctly.
+
+**Trap:** Link Alauddin's horse controls to military-fiscal supervision, not to modern state analogies.
+
+### Learning MCQ 11
 
 **Question:** Which statement about Muhammad bin Tughlaq is safest for Topic 07?
 
-- A. He pushed centralisation, cash demand and recruitment widening further than his predecessors, but strained compliance and trust.
-- B. He abolished monetisation.
-- C. He ruled only Delhi and Palam.
-- D. He had no interest in caliphal legitimacy.
+- A. He ruled only Delhi and Palam.
+- B. He had no interest in caliphal legitimacy.
+- C. He pushed centralisation, cash demand and recruitment widening further than his predecessors, but strained compliance and trust.
+- D. He abolished monetisation.
 
-**Answer: A.**
+**Answer: C.**
 
 **Explanation:** The strongest line explains ambition and breakdown together.
 
-#### Broad MCQ 12
+**Option-wise explanation:**
+- A. **Incorrect.** "He ruled only Delhi and Palam." overstates the case; muhammad bin Tughlaq is over-centralising and experimental, not territorially insignificant.
+- B. **Incorrect.** "He had no interest in caliphal legitimacy." is ruled out by the fact that the strongest line explains ambition and breakdown together.
+- C. **Correct.** The strongest line explains ambition and breakdown together.
+- D. **Incorrect.** "He abolished monetisation." strips away the nuance that the strongest line explains ambition and breakdown together.
+
+**Trap:** Muhammad bin Tughlaq is over-centralising and experimental, not territorially insignificant.
+
+### Learning MCQ 12
 
 **Question:** Why does Firuz matter in Topic 07?
 
-- A. He abandoned public works entirely.
-- B. He softened audit, encouraged heredity, expanded canals and workshops, and sharpened some juristic markers such as separate jizya.
-- C. He removed all slave institutions.
-- D. He invented the iqta from nothing.
+- A. He removed all slave institutions.
+- B. He invented the iqta from nothing.
+- C. He abandoned public works entirely.
+- D. He softened audit, encouraged heredity, expanded canals and workshops, and sharpened some juristic markers such as separate jizya.
 
-**Answer: B.**
+**Answer: D.**
 
 **Explanation:** Firuz's regime altered both welfare and hierarchy.
 
-#### Broad MCQ 13
+**Option-wise explanation:**
+- A. **Incorrect.** "He removed all slave institutions." does not fit the source-based line here; firuz's regime altered both welfare and hierarchy.
+- B. **Incorrect.** "He invented the iqta from nothing." confuses the issue because firuz matters for canals, heredity and conciliation—not for abolishing institutions.
+- C. **Incorrect.** "He abandoned public works entirely." sounds neat, but firuz's regime altered both welfare and hierarchy.
+- D. **Correct.** Firuz's regime altered both welfare and hierarchy.
+
+**Trap:** Firuz matters for canals, heredity and conciliation—not for abolishing institutions.
+
+### Learning MCQ 13
 
 **Question:** What is the safest reading of jizya under the Sultanate?
 
-- A. It was absent from all Sultanate history.
-- B. It was always completely separate from land demand from the first day.
-- C. It mattered politically and symbolically, but it should not stand in for the totality of Hindu-Muslim social relations.
-- D. It proves that all policy was only religious.
+- A. It mattered politically and symbolically, but it should not stand in for the totality of Hindu-Muslim social relations.
+- B. It proves that all policy was only religious.
+- C. It was absent from all Sultanate history.
+- D. It was always completely separate from land demand from the first day.
 
-**Answer: C.**
+**Answer: A.**
 
 **Explanation:** The tax has to be placed in a broader fiscal and political field.
 
-#### Broad MCQ 14
+**Option-wise explanation:**
+- A. **Correct.** The tax has to be placed in a broader fiscal and political field.
+- B. **Incorrect.** "It proves that all policy was only religious." runs into the topic trap: do not let jizya swallow the whole social history of the Sultanate.
+- C. **Incorrect.** "It was absent from all Sultanate history." misreads the evidence; the tax has to be placed in a broader fiscal and political field.
+- D. **Incorrect.** "It was always completely separate from land demand from the first day." falls once you remember that do not let jizya swallow the whole social history of the Sultanate.
+
+**Trap:** Do not let jizya swallow the whole social history of the Sultanate.
+
+### Learning MCQ 14
 
 **Question:** What best explains the growth of hundis?
 
-- A. The replacement of silver coins by cowries in Delhi.
-- B. A ban on merchant initiative.
-- C. The end of road travel.
-- D. Long-distance trade, credit needs and the work of money-changers and financiers across regions.
+- A. The end of road travel.
+- B. Long-distance trade, credit needs and the work of money-changers and financiers across regions.
+- C. The replacement of silver coins by cowries in Delhi.
+- D. A ban on merchant initiative.
 
-**Answer: D.**
+**Answer: B.**
 
 **Explanation:** Hundis belong to commercial and financial integration.
 
-#### Broad MCQ 15
+**Option-wise explanation:**
+- A. **Incorrect.** "The end of road travel." cannot stand because hundi belongs to credit and remittance, not to cowry myths or road collapse.
+- B. **Correct.** Hundis belong to commercial and financial integration.
+- C. **Incorrect.** "The replacement of silver coins by cowries in Delhi." is too blunt for this topic; hundi belongs to credit and remittance, not to cowry myths or road collapse.
+- D. **Incorrect.** "A ban on merchant initiative." misses what the evidence actually shows: hundis belong to commercial and financial integration.
+
+**Trap:** Hundi belongs to credit and remittance, not to cowry myths or road collapse.
+
+### Learning MCQ 15
 
 **Question:** Which commodity cluster best captures long-distance Sultanate trade?
 
-- A. Textiles outward; horses, high-grade cloth and select goods inward.
-- B. Only war booty outward and nothing inward.
-- C. Only rice and wheat outward from every region.
-- D. Only temple icons and paper outward.
+- A. Only rice and wheat outward from every region.
+- B. Only temple icons and paper outward.
+- C. Textiles outward; horses, high-grade cloth and select goods inward.
+- D. Only war booty outward and nothing inward.
 
-**Answer: A.**
+**Answer: C.**
 
 **Explanation:** Textiles remained India's most important manufacturing strength.
 
-#### Broad MCQ 16
+**Option-wise explanation:**
+- A. **Incorrect.** "Only rice and wheat outward from every region." overstates the case; remember the core trade pair: textiles out, horses and select high-value goods in.
+- B. **Incorrect.** "Only temple icons and paper outward." is ruled out by the fact that textiles remained India's most important manufacturing strength.
+- C. **Correct.** Textiles remained India's most important manufacturing strength.
+- D. **Incorrect.** "Only war booty outward and nothing inward." strips away the nuance that textiles remained India's most important manufacturing strength.
+
+**Trap:** Remember the core trade pair: textiles out, horses and select high-value goods in.
+
+### Learning MCQ 16
 
 **Question:** What is the safest claim about artisans under the Sultanate?
 
-- A. They were all village serfs with no urban presence.
-- B. They worked in towns and villages, in independent settings and in state-linked workshops, under unequal social conditions.
-- C. They disappeared after market regulation.
-- D. They were all state slaves.
+- A. They disappeared after market regulation.
+- B. They were all state slaves.
+- C. They were all village serfs with no urban presence.
+- D. They worked in towns and villages, in independent settings and in state-linked workshops, under unequal social conditions.
 
-**Answer: B.**
+**Answer: D.**
 
 **Explanation:** Craft life was varied and often poorly documented.
 
-#### Broad MCQ 17
-
-**Question:** How should the spinning wheel be used in an answer?
-
-- A. As proof that every household became prosperous.
-- B. As a guaranteed twelfth-century Indian invention with exact first date.
-- C. As evidence of technological diffusion and textile efficiency, with chronology caution and social-effect analysis.
-- D. As irrelevant to cloth production.
-
-**Answer: C.**
-
-**Explanation:** Technology claims need both mechanism and caution.
-
-#### Broad MCQ 18
-
-**Question:** Why is the term 'urban revolution' debated?
-
-- A. Because only European trade created Indian towns.
-- B. Because no towns existed at all.
-- C. Because the debate concerns only architecture.
-- D. Because town growth, crafts and monetisation were real, yet they rested on coercive extraction and uneven benefit.
-
-**Answer: D.**
-
-**Explanation:** This is one of Topic 07's major historiographical axes.
-
-#### Broad MCQ 19
-
-**Question:** What is the safest interpretation of ashraf-ajlaf language?
-
-- A. It signals social differentiation within Muslim society, but its use needs chronology and source caution.
-- B. It is a fixed fourteenth-century bureaucratic census category everywhere.
-- C. It replaces all regional and occupational distinctions.
-- D. It proves perfect class equality among Muslims.
-
-**Answer: A.**
-
-**Explanation:** The labels are real and useful, but not timeless.
-
-#### Broad MCQ 20
-
-**Question:** Which statement best captures the position of Hindus under the Sultanate?
-
-- A. No Hindu served any state function.
-- B. They were not simply excluded: chiefs, peasants, merchants, soldiers, accountants and managers all remained important, amid conflict and hierarchy.
-- C. All Hindus were treated identically across all reigns.
-- D. Hindu society vanished from the countryside.
-
-**Answer: B.**
-
-**Explanation:** The strongest answer combines cooperation and coercion.
-
-#### Broad MCQ 21
-
-**Question:** Why is conversion a poor master-explanation for Sultanate society?
-
-- A. Because conversions never happened.
-- B. Because only rulers converted.
-- C. Because social history also turns on landed power, towns, labour, language, courts, trade and everyday negotiation.
-- D. Because conversions alone explain every town and market.
-
-**Answer: C.**
-
-**Explanation:** Conversion matters, but it is not the only explanatory engine.
-
-#### Broad MCQ 22
-
-**Question:** What is the best distinction between bandagan and wider slavery?
-
-- A. Bandagan were Mughal revenue clerks.
-- B. Bandagan were identical to all slaves in law and social effect.
-- C. Bandagan were simply village tenants.
-- D. Bandagan were elite household military slaves with training and office prospects, unlike most domestic or captive slaves.
-
-**Answer: D.**
-
-**Explanation:** This is a crucial conceptual distinction in Topic 07.
-
-#### Broad MCQ 23
-
-**Question:** How should purdah be described?
-
-- A. As a stronger upper-class and courtly norm that spread unevenly; not as a universal practice for all women in all regions.
-- B. As a Sultanate law imposed successfully on everyone.
-- C. As absent from all medieval India.
-- D. As identical among every caste and class.
-
-**Answer: A.**
-
-**Explanation:** Gender answers need class and region built in.
-
-#### Broad MCQ 24
-
-**Question:** Which statement about education is safest?
-
-- A. Paper-making ended manuscript culture.
-- B. Maktabs, madrasas, mosques, khanqahs, Sanskrit learning and practical multilingualism coexisted.
-- C. Persian replaced every other language immediately.
-- D. Only royal princes were educated.
-
-**Answer: B.**
-
-**Explanation:** Knowledge institutions were multiple, not singular.
-
-#### Broad MCQ 25
-
-**Question:** Why are Persian-knowing Hindus important for Topic 07?
-
-- A. They prove caste disappeared.
-- B. They were only nineteenth-century phenomena.
-- C. They show that administrative culture could expand across community lines without erasing hierarchy.
-- D. They prove Persian ceased to dominate administration.
-
-**Answer: C.**
-
-**Explanation:** Language competence created new service niches.
-
-#### Broad MCQ 26
-
-**Question:** Which statement about Sufis in Topic 07 is safest?
-
-- A. Sufis alone ran Sultanate law courts.
-- B. All Sufis were anti-state in every setting.
-- C. Topic 07 must ignore Sufis completely.
-- D. They matter here mainly as part of social interaction and political context, while full movement ownership belongs to Topic 10.
-
-**Answer: D.**
-
-**Explanation:** Boundary discipline is part of a strong package.
-
-#### Broad MCQ 27
-
-**Question:** How should temple destruction and patronage be framed in Topic 07?
-
-- A. Episodes must be placed in political, military and local context rather than being flattened into a single civilisational formula.
-- B. Every temple was always protected.
-- C. Every temple was always destroyed.
-- D. The issue is irrelevant to social history.
-
-**Answer: A.**
-
-**Explanation:** This avoids communal simplification while remaining evidence-led.
-
-#### Broad MCQ 28
-
-**Question:** What is the strongest way to read Barani?
-
-- A. As a perfectly neutral census reporter.
-- B. As indispensable for elite ideology and policy language, but shaped by aristocratic prejudice and normative aims.
-- C. As useless because he was biased.
-- D. As the only source that matters.
-
-**Answer: B.**
-
-**Explanation:** Good answers use Barani critically, not blindly.
-
-#### Broad MCQ 29
-
-**Question:** Why are coins valuable in Topic 07?
-
-- A. They show that all provinces used one fixed economy at all times.
-- B. They reveal precise peasant income.
-- C. They connect sovereignty, minting, monetisation and public claims without proving complete territorial control.
-- D. They replace the need for all written sources.
-
-**Answer: C.**
-
-**Explanation:** Coins are strong but bounded evidence.
-
-#### Broad MCQ 30
-
-**Question:** Which statement about qanungo is safest?
-
-- A. It is the normal office for every Mamluk village.
-- B. It replaced the kotwal.
-- C. It was another name for the ariz.
-- D. Use the term only with chronology caution; it is not a secure universal office for the early Sultanate local hierarchy.
-
-**Answer: D.**
-
-**Explanation:** Administrative vocabulary must be time-bound.
-
-#### Broad MCQ 31
-
-**Question:** What best captures Lodi politics from a Topic 07 perspective?
-
-- A. Afghan claims of consultation and equality complicated but did not abolish monarchy or centralisation.
-- B. The Lodis ruled only through Sufi shrines.
-- C. The Lodis rejected all revenue supervision.
-- D. The Lodis ended all iqta-like assignment structures overnight.
-
-**Answer: A.**
-
-**Explanation:** The Afghan angle is about elite bargaining, not statelessness.
-
-#### Broad MCQ 32
-
-**Question:** What is the safest one-line verdict on Sultanate society?
-
-- A. It was a static Hindu-Muslim binary with no shared spaces.
-- B. It was stratified, interactive and changing - never socially flat, never wholly segregated, never fully equal.
-- C. It can be reconstructed perfectly from one chronicle.
-- D. It was a casteless commercial utopia.
-
-**Answer: B.**
-
-**Explanation:** This verdict is short, balanced and high-yield.
-
-### Remedial trap MCQs
-
-> **Rotation check rule:** This remedial sequence restarts at **A** and rotates strictly through **B, C and D**.
-
-
-
-#### Remedial MCQ 01
-
-**Question:** Which mistake most distorts Topic 07?
-
-- A. Noting that departmental functions evolved.
-- B. Using chronology caution in local vocabulary.
-- C. Treating one ruler's office-chart as the permanent bureaucracy of the whole Sultanate.
-- D. Separating caliphal idiom from effective sovereignty.
-
-**Answer: C.**
-
-**Explanation:** The topic demands variation across Mamluk, Khalji, Tughlaq and Lodi phases.
-
-#### Remedial MCQ 02
-
-**Question:** Which description of iqta is wrong?
-
-- A. A service-linked assignment.
-- B. A mechanism that tied revenue to military obligation.
-- C. A tract whose holder could be transferred.
-- D. A permanent private estate freely inheritable without superior state claim.
-
-**Answer: D.**
-
-**Explanation:** This is the core remedial distinction.
-
-#### Remedial MCQ 03
-
-**Question:** What is the safest comparison with the Mughal jagir?
-
-- A. There is family resemblance in transferable revenue assignment, but no full equivalence in procedure, service scale or chronology.
-- B. Iqta had no link at all to military service.
-- C. Jagir existed unchanged before the Sultanate.
-- D. Iqta and jagir were identical in every respect.
-
-**Answer: A.**
-
-**Explanation:** Comparison helps only when differences are preserved.
-
-#### Remedial MCQ 04
-
-**Question:** Which statement is unsafe on state and religion?
-
-- A. Sharia mattered to legitimation and some offices.
-- B. The Sultanate can be labelled simply a timeless theocracy without discussing zawabit, expediency or political limits.
-- C. Ulema-state relations varied by ruler.
-- D. Rulers also issued state regulations.
-
-**Answer: B.**
-
-**Explanation:** The strongest answer refuses one-word labels.
-
-#### Remedial MCQ 05
-
-**Question:** What is the correct approach to conversion?
-
-- A. Explain everything through force alone.
-- B. Assume every region changed identically.
-- C. Reject one-cause narratives and map multiple local processes.
-- D. Explain everything through saintly preaching alone.
-
-**Answer: C.**
-
-**Explanation:** This is a recurring UPSC trap in medieval history.
-
-#### Remedial MCQ 06
-
-**Question:** Which statement about social categories is safest?
-
-- A. They erase ethnic and occupational differences.
-- B. They can replace all local evidence.
-- C. They are timeless democratic self-descriptions.
-- D. Terms like ashraf and ajlaf are useful only with chronology, source and status caution.
-
-**Answer: D.**
-
-**Explanation:** Never force later or broader categories as rigid census blocks.
-
-#### Remedial MCQ 07
-
-**Question:** How should technology transfer be framed?
-
-- A. As diffusion and adaptation through local artisans, state demand and regional conditions - not as one-way civilising import.
-- B. As a topic unrelated to society.
-- C. As proof that Indians had no prior craft skill.
-- D. As immediate uniform adoption everywhere.
-
-**Answer: A.**
-
-**Explanation:** UPSC prefers mechanism and adaptation over civilisational cliché.
-
-#### Remedial MCQ 08
-
-**Question:** What is wrong with describing towns as only military camps?
-
-- A. It notes court demand in urban growth.
-- B. It ignores textile production, merchant finance, administrative clerks, religious institutions and regional trade.
-- C. It links towns to roads and sarais.
-- D. It recognises that some towns began near garrisons.
-
-**Answer: B.**
-
-**Explanation:** Many towns were mixed military, administrative and commercial spaces.
-
-#### Remedial MCQ 09
-
-**Question:** What is the safest reading of slavery?
-
-- A. Slavery ended after the Mamluks.
-- B. Slavery was socially harmless because masters fed slaves.
-- C. Multiple forms existed, and slavery depressed free labour status even when some elite slaves rose high.
-- D. Only military slavery mattered.
-
-**Answer: C.**
-
-**Explanation:** This restores social history to the institution.
-
-#### Remedial MCQ 10
-
-**Question:** Which statement about Hindus under the Sultanate is most misleading?
-
-- A. Conflict and accommodation coexisted.
-- B. Local machinery often remained in Hindu hands.
-- C. Upper-caste restrictions also shaped interaction.
-- D. That they were uniformly excluded from administration, trade and military activity.
-
-**Answer: D.**
-
-**Explanation:** The simplest exclusion formula is historically unsafe.
-
-#### Remedial MCQ 11
-
-**Question:** How should under-80-word evidence boxes in answers be handled?
-
-- A. Use them as concise synthesis only when anchored in a larger argument with named evidence.
-- B. Avoid evidence because it complicates the narrative.
-- C. Write only verdicts and no mechanism.
-- D. Replace the whole answer with one slogan.
-
-**Answer: A.**
-
-**Explanation:** This reinforces answer architecture discipline.
-
-#### Remedial MCQ 12
-
-**Question:** Which closing judgement is best?
-
-- A. It can be summarised entirely by one tax term.
-- B. The Sultanate combined centralising aspiration, negotiated enforcement and socially uneven outcomes.
-- C. It was fully modern or fully feudal with no middle ground.
-- D. It changed nothing socially or economically.
-
-**Answer: B.**
-
-**Explanation:** This sentence recovers the whole topic in one line.
+**Option-wise explanation:**
+- A. **Incorrect.** "They disappeared after market regulation." does not fit the source-based line here; craft life was varied and often poorly documented.
+- B. **Incorrect.** "They were all state slaves." confuses the issue because artisans worked across town and countryside under unequal conditions.
+- C. **Incorrect.** "They were all village serfs with no urban presence." sounds neat, but craft life was varied and often poorly documented.
+- D. **Correct.** Craft life was varied and often poorly documented.
+
+**Trap:** Artisans worked across town and countryside under unequal conditions.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### Verified and honestly-adjacent PYQs
-
 
 #### Direct PYQ 01 - UPSC Prelims GS-I 2019 (directly relevant; exact wording verified locally)
 
@@ -2530,17 +1980,36 @@ D. 1, 2 and 3
 
 **Model explanation:** Statement 1 is correct because *amil* was the revenue-collection functionary at the relevant level. Statement 2 is incorrect because iqta had West and Central Asian antecedents before its Indian adaptation. Statement 3 is incorrect because *Mir Bakshi* belongs to the Mughal system; the Sultanate military department centred on the ariz and Diwan-i-Arz.  
 
-**Why this earns marks:** It tests statement-by-statement institutional placement and blocks both the indigenous-iqta myth and the Mughal-office projection trap.
+**Why this earns marks:** It tests institutional placement and blocks two classic traps at once.
 
-**Demand decoding:** Treat “Consider the following statements: 1. In the revenue administration of Delhi Sultanate, the…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** Verify each statement separately, preserve the official wording and keep the inferred key distinct from any official key.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
+**Executable exam-length answer / compression plan:** Check chronology, institution or wording first; eliminate each option with one named fact; end by stating the key-status limit.
 
 **How to improve this answer:** For “Consider the following statements: 1. In the revenue administration of Delhi Sultanate, the…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
 
-#### Adjacent PYQ 02 - UPSC GS-I 2020 (directly relevant source-method question; wording preserved in repository)
+#### Direct PYQ 02 - UPSC Prelims GS-I 2022 (directly relevant monetary-term question; exact wording verified locally)
+
+**Question:** In medieval India, the term "Fanam" referred to:
+
+A. Clothing  
+B. Coins  
+C. Ornaments  
+D. Weapons
+
+**Inferred answer - not officially verified locally:** **Coins**. Confidence: high.
+
+**Model explanation:** *Fanam* was a coin term in medieval India, especially in wider south Indian and coastal circulation. The exact stem and options are locally recoverable from the 2022 official-paper text file, but the local repository does not preserve the official UPSC key row, so the answer remains honestly marked as inferred.  
+
+**Why this earns marks:** It rewards lexical precision and blocks the material-culture distractor trap.
+
+**Demand decoding:** Treat the stem as a straightforward elimination problem in monetary terminology: identify *fanam* as coin-language, reject every non-numismatic option and state the official-key limit honestly.
+
+**Executable exam-length answer / compression plan:** In Prelims, define the term in one phrase, reject each non-monetary option quickly and avoid over-explaining beyond the lexical identification.
+
+**How to improve this answer:** Add one short contrast sentence linking *fanam* to wider medieval coin vocabulary such as tanka, jital or regional coastal circulation without pretending it was the only Sultanate coin in use.
+
+#### Adjacent PYQ 03 - UPSC GS-I 2020 (directly relevant source-method question; wording preserved in repository)
 
 **Question:** Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer in 250 words)
 
@@ -2554,15 +2023,13 @@ Thus Persian sources do reflect the age - especially its elite political culture
 
 **Why this earns marks:** It comments on the word 'reflect' itself, names multiple source types and turns source bias into method rather than complaint.
 
-**Demand decoding:** The directive **comment** requires a direct position on “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Comment** needs a position, evidence and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 15 marks, open with a thesis, organise five named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**How to improve this answer:** For “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
-**How to improve this answer:** For “Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Adjacent PYQ 03 - UPSC Prelims GS-I 2022 (adjacent but useful frontier-institution question; exact wording verified locally)
+#### Adjacent PYQ 04 - UPSC Prelims GS-I 2022 (adjacent but useful frontier-institution question; exact wording verified locally)
 
 **Question:** With reference to Indian history, consider the following statements:
 
@@ -2581,17 +2048,15 @@ Which of the statements given above is/are correct?
 
 **Model explanation:** Statement 1 is incorrect because Mongol pressure predates Jalaluddin Khalji. Statement 2 is correct because a major Mongol assault reached and besieged Delhi in Alauddin's time. Statement 3 is not secure in the form stated.  
 
-**Why this earns marks:** It is adjacent rather than core, but it sharpens the army-frontier chronology that any Topic 07 answer on cavalry finance and defence must keep straight.
+**Why this earns marks:** It sharpens the frontier chronology behind cavalry finance and defence.
 
-**Demand decoding:** Treat “With reference to Indian history, consider the following statements: 1. The first Mongol…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** Verify each statement separately, preserve the official wording and keep the inferred key distinct from any official key.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
+**Executable exam-length answer / compression plan:** Check chronology, institution or wording first; eliminate each option with one named fact; end by stating the key-status limit.
 
 **How to improve this answer:** For “With reference to Indian history, consider the following statements: 1. The first Mongol…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
 
-#### Direct PYQ 04 - UPSC GS-I 2023 (directly relevant; wording preserved in repository)
+#### Direct PYQ 05 - UPSC GS-I 2023 (directly relevant; wording preserved in repository)
 
 **Question:** What were the major technological changes introduced during the Sultanate period? How did those technological changes influence the Indian society? (Answer in 250 words)
 
@@ -2605,27 +2070,22 @@ Social effect was uneven. Urban workshops, state offices, merchants and military
 
 Thus technological change under the Sultanate contributed to urbanisation, stronger administration, wider textile production and military organisation, while remaining filtered through social inequality.  
 
-**Why this earns marks:** It answers both parts, moves from devices to effects and avoids the trap of a bare technology list.
+**Why this earns marks:** It moves from devices to effects instead of offering a bare list.
 
-**Demand decoding:** The directive **answer** requires a direct position on “What were the major technological changes introduced during the Sultanate period? How did…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Answer** here means cover both parts with evidence and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 15 marks, open with a thesis, organise five named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “What were the major technological changes introduced during the Sultanate period? How did…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “What were the major technological changes introduced during the Sultanate period? How did…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 ### PYQ verification ledger and scope honesty
 
-
-- **Directly routed and solved:** 2019 Prelims revenue administration and 2023 GS-I Sultanate technology. **Adjacent:** 2020 GS-I Persian sources belongs to Topic 24.
-- **Directly verified but honestly adjacent:** 2022 Prelims GS-I Mongol chronology question.
-- **Routed but exact wording not locally recoverable in the available paper set:** 2022 Prelims GS-I Q52 on *fanam* medieval monetary terminology. Topic 07 covers the demand honestly in the learning sections and in the register notes, but does not invent an unverified official stem.
+- **Directly routed and solved:** 2019 Prelims revenue administration, 2022 Prelims Q52 on *fanam* monetary terminology, and 2023 GS-I Sultanate technology.
+- **Adjacent but retained honestly:** 2020 GS-I Persian literary sources belongs to Topic 24, and 2022 Prelims GS-I Mongol chronology belongs to Topic 04 while remaining useful for Topic 07's frontier-military chronology.
+- The 2019 and 2022 Prelims items are still labelled **Inferred answer - not officially verified locally** wherever the local repository preserves the official paper wording but not the official UPSC key row.
 - No coaching-studio question and no optional-paper question has been relabelled as a UPSC PYQ.
 
 ### Original solved Mains questions
-
-
 
 #### Mains 01 - 10 marks
 
@@ -2639,15 +2099,13 @@ Yet this apex never operated in a social vacuum. Muqtis, amils, khuts, muqaddams
 
 Thus the best formulation is that the Sultanate was centralised in aspiration and more centralised than many earlier regional monarchies, but it remained negotiated in implementation. Distance, ecology, faction and local landed strength limited uniform bureaucratic control.  
 
-**Why this earns marks:** It opens with a direct thesis, names institutions, explains the local mechanism, adds dynastic variation and ends with a balanced verdict.
+**Why this earns marks:** It names institutions, explains the local mechanism and ends with a balanced verdict.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why the Delhi Sultanate is best described as a centralised apex resting on…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Explain** here means prove the thesis with evidence and end with a balanced verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 10 marks, open with a thesis, organise three named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Explain why the Delhi Sultanate is best described as a centralised apex resting on…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “Explain why the Delhi Sultanate is best described as a centralised apex resting on…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 #### Mains 02 - 10 marks
 
@@ -2655,21 +2113,19 @@ Thus the best formulation is that the Sultanate was centralised in aspiration an
 
 **Model answer:**
 
-The iqta was a fiscal-military assignment through which the sultan transferred the right to collect revenue from a tract to a muqti or wali in return for service, administration and troop maintenance. The holder preserved order, met authorised expenses and, in principle, remained accountable for the balance due to the centre. Transfer, recall and audit were the key checks.  
+The iqta was a fiscal-military assignment through which the sultan transferred the right to collect revenue from a tract to a muqti or wali in return for service, administration and troop maintenance. The holder preserved order, met authorised expenses and, in principle, answered to the centre for the balance due. Transfer, recall and audit were the key checks.  
 
-It should not be treated as private property because legal superiority remained with the state. The muqti did not own the soil, all peasants, or an automatically hereditary estate. Procedures differed across time: Mamluk rulers used iqta for consolidation, Alauddin tightened supervision in the core, Muhammad bin Tughlaq experimented with cash and revenue farming, and Firuz encouraged heredity and softer audit.  
+It should not be treated as private property because legal superiority remained with the state. The muqti did not own the soil, all peasants or an inherently hereditary estate. Practice differed across time: Mamluk rulers used iqta for consolidation, Alauddin tightened supervision in the core, Muhammad bin Tughlaq experimented with cash and revenue farming, and Firuz encouraged heredity and softer audit.  
 
-Therefore the iqta was a service-linked revenue assignment whose meaning changed with political strength. Calling it simple property, or equating it mechanically with European feudalism or Mughal jagir, obscures its historical function.  
+Therefore iqta was a service-linked revenue assignment whose meaning changed with political strength.  
 
-**Why this earns marks:** It defines the institution, shows mechanism, inserts chronology and blocks the standard property trap.
+**Why this earns marks:** It defines the institution, shows chronology and blocks the property trap.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How did the iqta system function, and why should it not be equated with private property?…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Answer** here means define the institution, show its mechanism and block the property mistake.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 10 marks, open with a thesis, organise three named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “How did the iqta system function, and why should it not be equated with private property?…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “How did the iqta system function, and why should it not be equated with private property?…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 #### Mains 03 - 15 marks
 
@@ -2687,13 +2143,11 @@ Hence growth and coercion must be read together. Urban revival was real - textil
 
 **Why this earns marks:** It links coinage, roads, finance and towns to the agrarian mechanism instead of narrating them separately.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the relationship between monetisation, urbanisation and agrarian extraction under…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Examine** here means connect the three processes and weigh growth against coercion.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 15 marks, open with a thesis, organise five named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Examine the relationship between monetisation, urbanisation and agrarian extraction under…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “Examine the relationship between monetisation, urbanisation and agrarian extraction under…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 #### Mains 04 - 15 marks
 
@@ -2711,13 +2165,11 @@ Therefore, changing noble composition was not a background detail. It shaped suc
 
 **Why this earns marks:** It uses chronology, named source bias and political consequence rather than listing communities mechanically.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the changing composition of the Sultanate nobility and its political consequences.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Assess** here means trace change over time and judge its political consequences.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 15 marks, open with a thesis, organise five named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the changing composition of the Sultanate nobility and its political consequences.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “Assess the changing composition of the Sultanate nobility and its political consequences.…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 #### Mains 05 - 20 marks
 
@@ -2735,13 +2187,11 @@ Thus the Sultanate is best read as a Persianate military-fiscal monarchy using I
 
 **Why this earns marks:** It answers both negations directly, organises the body into state and religion, and ends with a precise synthetic verdict.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “'The Delhi Sultanate was neither a uniform bureaucracy nor a timeless Islamic state.'…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Discuss** here means test both halves of the proposition with evidence and qualification.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable exam-length answer / compression plan:** For 20 marks, open with a thesis, organise six to eight named evidence units and close with a qualified verdict.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “'The Delhi Sultanate was neither a uniform bureaucracy nor a timeless Islamic state.'…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “'The Delhi Sultanate was neither a uniform bureaucracy nor a timeless Islamic state.'…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 #### Mains 06 - 20 marks
 
@@ -2751,23 +2201,21 @@ Thus the Sultanate is best read as a Persianate military-fiscal monarchy using I
 
 Technology diffusion and trade growth under the Delhi Sultanate reshaped production and exchange, but their social effects were filtered through hierarchy. Gains were real, yet unevenly distributed.  
 
-In production, wider use of the spinning wheel, cotton-carder's bow, improved looms, paper-making and construction techniques supported textiles, record-keeping and urban building. Water-lifting improvements and canals aided cultivation in some regions. Better roads, sarais and monetary circulation widened long-distance exchange. Merchant groups - Multanis, Gujaratis, Khurasanis, Marwaris, Jains and Bohras - worked with financiers and hundis to move goods and credit.  
+Wider use of the spinning wheel, cotton-carder's bow, improved looms, paper-making and construction techniques supported textiles, record-keeping and urban building. Water-lifting improvements and canals aided cultivation in some regions. Better roads, sarais, coins and credit widened long-distance exchange. Merchant groups such as Multanis, Gujaratis, Jains and Bohras worked with financiers and hundis to move goods and money.  
 
-These processes encouraged urbanisation and specialised craft activity. Delhi, Cambay, Sonargaon and other towns became centres of demand and exchange. Court consumption, army provisioning and merchant trade stimulated artisans in both towns and villages.  
+These changes encouraged urbanisation and specialised craft activity. Delhi, Cambay and Sonargaon became centres of demand and exchange, while court consumption, army provisioning and merchant trade stimulated artisans in towns and villages.  
 
-Yet the social gains were not equal. Peasants still bore heavy revenue pressure. Artisans often worked for low wages or in dependent conditions. Slavery - domestic, artisanal and military - remained embedded in elite society, and the use of slaves could depress the status of free labour. Upper-status prejudice persisted among both Hindu and Muslim elites; purdah and social restriction spread most strongly among the upper classes.  
+Yet the gains were unequal. Peasants still bore heavy revenue pressure. Artisans often worked for low wages or in dependent conditions. Slavery remained embedded in elite society, and upper-status prejudice persisted among Hindu and Muslim elites. Purdah and social restriction spread most strongly among upper groups.  
 
-Therefore technology and trade expanded capability, but they did not democratise society. They enlarged state power, urban consumption and commercial reach within a deeply stratified order.
+Therefore technology and trade expanded capability, but not social equality; they enlarged power and urban demand within a stratified order.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the social consequences of technology diffusion, trade growth and labour hierarchy…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** **Evaluate** here means show gains, hierarchy and limits together.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** For 20 marks, open with a thesis, organise six to eight named evidence units and close with a qualified verdict.
 
 **Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
 
-**How to improve this answer:** For “Evaluate the social consequences of technology diffusion, trade growth and labour hierarchy…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** For “Evaluate the social consequences of technology diffusion, trade growth and labour hierarchy…”, replace the weakest generalisation with one more named evidence unit and state its limit.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -2889,19 +2337,18 @@ Therefore technology and trade expanded capability, but they did not democratise
 
 - Technological changes of the Sultanate period and Indian society
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+> The table records demand and paper metadata only; it neither invents an answer key nor claims lexical presence proves full coverage.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
 ## CONSOLIDATED REGISTER NOTES
 
 ### Final consolidated register notes
 
-
 #### Register Module 01 - Chronology and ownership spine
 
 - Topic 07 covers Sultanate institutions across Mamluk, Khalji, Tughlaq, Sayyid and Lodi phases.
 - Topic 03-06 own political narrative in depth; Topic 07 owns the thematic synthesis.
-- Best timeline anchors: Iltutmish consolidation -> Balban kingship -> Alauddin military-fiscal tightening -> Muhammad bin Tughlaq's overreach -> Firuz's heredity and canals -> Lodi bargaining and transition.
+- Timeline anchors: Iltutmish -> Balban -> Alauddin -> Muhammad bin Tughlaq -> Firuz -> Lodis.
 - Use chronology to show change, not to turn the answer into a dynasty list.
 
 #### Register Module 02 - State formation formula
@@ -2913,7 +2360,7 @@ Therefore technology and trade expanded capability, but they did not democratise
 
 #### Register Module 03 - Kingship and legitimacy
 
-- Sultan = military commander, distributor of office and source of high justice.
+- Sultan: military commander, distributor of office and source of high justice.
 - Khutba and sikka signalled sovereignty.
 - Caliphal recognition enhanced standing; it did not create power.
 - Sharia mattered, but rulers repeatedly used political expediency and regulations.
@@ -2931,48 +2378,48 @@ Therefore technology and trade expanded capability, but they did not democratise
 
 #### Register Module 05 - Nobility and bandagan
 
-- Elite = Turks, Tajiks/Persians, Khaljis, Afghans, Indian Muslims, converts, ulema and local allies.
+- Elite mix: Turks, Tajiks/Persians, Khaljis, Afghans, Indian Muslims, converts, ulema and local allies.
 - Barani-style prejudice matters as evidence of status anxiety.
-- Bandagan = elite military-household slavery with training and possible manumission.
+- Bandagan: elite military-household slaves with training and possible manumission.
 - Distinguish this from domestic or artisanal slavery.
 
 #### Register Module 06 - Iqta essentials
 
 - Iqta = assignment, not simple private property.
-- Muqti / wali collected revenue, maintained order and in principle answered to the centre.
+- Muqti / wali collected revenue, kept order and in principle answered to the centre.
 - Transfer, recall and audit mattered when rulers were strong.
-- Khalji tightening and Firuz's heredity changed iqta's political meaning.
+- Khalji tightening and Firuzian heredity changed iqta's political meaning.
 - Compare with jagir carefully; do not equate automatically.
 
 #### Register Module 07 - Provincial and local administration
 
 - Shiq and pargana language requires chronology caution.
-- Amil, chaudhuri, khuts, muqaddams and patwari are high-yield terms.
+- Amil, chaudhuri, khuts, muqaddams and patwari are the key terms.
 - Qanungo is safer in later contexts; do not project everywhere backward.
 - Zamindar broadens over time; use cautiously.
 
 #### Register Module 08 - Revenue, army and law
 
-- Fiscal language: kharaj, jizya, zakat, ushr, khams, customs, cesses.
+- Key fiscal terms: kharaj, jizya, zakat, ushr, khams, customs and cesses.
 - Practice often diverged from formal category.
 - Dagh and chehra belong to cavalry supervision, not to Mughal invention.
-- Kotwal, qazi, muhtasib and local custom formed a plural legal world.
+- Kotwal, qazi, muhtasib and local custom formed a plural legal order.
 - Numbers are less useful than mechanism and hierarchy.
 
 #### Register Module 09 - Agrarian base and surplus transfer
 
 - Main crops: rice, sugarcane, wheat, oilseeds, sesame, indigo, cotton.
 - Irrigation: wells, bunds, tanks, later canals under Firuz.
-- Peasant burden worked through intermediaries; village elites could shift costs downward.
+- Peasant burden moved through intermediaries; village elites could shift costs downward.
 - Urban and military growth rested on agrarian transfer.
 
 #### Register Module 10 - Currency, towns, trade and technology
 
 - Silver tanka + copper jital = core coinage language.
 - Monetisation was real but uneven.
-- Important towns: Delhi, Lahore, Multan, Lakhnauti, Cambay, Sonargaon, Daulatabad.
+- Key towns: Delhi, Lahore, Multan, Lakhnauti, Cambay, Sonargaon and Daulatabad.
 - Textiles led trade; horses were crucial imports.
-- Paper-making, spinning wheel, cotton-carder's bow, rahat, lime mortar, arch and dome are the high-yield technology cluster.
+- Technology cluster: paper, spinning wheel, carder's bow, rahat, lime mortar, arch and dome.
 
 #### Register Module 11 - Society, conversion, slavery and gender
 
@@ -2987,15 +2434,15 @@ Therefore technology and trade expanded capability, but they did not democratise
 - Maktabs, madrasas, mosques, khanqahs and Sanskrit learning coexisted.
 - Persian dominated administration; Arabic retained scholarly prestige.
 - Hindavi and regional languages mattered in everyday contact and later literature.
-- Persian-knowing Hindus show administrative widening without social equality.
+- Persian-knowing Hindus show widening access without social equality.
 
 #### Register Module 13 - Historiography and answer language
 
 - Better than 'fully centralised': **centralising but unevenly realised**.
 - Better than 'feudal': **service-linked revenue assignment with limited analogy**.
-- Better than 'urban revolution' alone: **urban growth plus coercive extraction**.
-- Better than 'Islamic state' alone: **sharia, zawabit and expediency in changing balance**.
-- Best answer pattern: **claim -> named evidence -> mechanism -> limitation -> verdict**.
+- Better than 'urban revolution': **urban growth plus coercive extraction**.
+- Better than 'Islamic state': **sharia, zawabit and expediency in changing balance**.
+- Answer pattern: **claim -> named evidence -> mechanism -> limitation -> verdict**.
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
@@ -3072,20 +2519,14 @@ LESSON: military power rested on fiscal, commercial and informational systems.
 ```
 
 #### ASCII MASTER FLOW — PANEL 7/12: Agrarian surplus and irrigation
-
 ```ascii-master
 RAIN + WELLS + LIFTS + CANALS -> variable cultivation capacity
-                    |
 grain and cash crops -> village consumption + dues + marketable surplus
-                    |
 state, iqta holder and intermediaries compete over extraction
-                    |
 town demand and armies grow, while famine and harsh collection expose risk
 CAUTION: public works did not distribute gains equally.
 ```
-
 #### ASCII MASTER FLOW — PANEL 8/12: Coinage and monetisation evidence
-
 ```ascii-master
 TANKA / JITTAL -> units and denominations in an expanding money economy
 GOLD / SILVER / COPPER -> metal range, scarcity and regional variation
@@ -3094,54 +2535,33 @@ CASH REVENUE / SALARY -> links countryside, treasury, army and merchants
 RBI PAGE -> official museum synthesis, not a complete price or welfare series
 VERDICT: monetisation expanded unevenly; barter and payment in kind persisted.
 ```
-
 #### ASCII MASTER FLOW — PANEL 9/12: Urban craft and technology circuit
-
 ```ascii-master
-COURT + ARMY + MERCHANT DEMAND
-            |
-DELHI / DAULATABAD / MULTAN / CAMBAY and smaller qasbas
-            |
-textiles + paper + metal + leather + building crafts + royal karkhanas
-            |
-spinning wheel, carder's bow, improved looms, mortar and water lifting
+COURT + ARMY + MERCHANT DEMAND -> Delhi, Daulatabad, Multan, Cambay and smaller qasbas
+-> textiles, paper, metal, leather, building crafts and royal karkhanas
+-> spinning wheel, carder's bow, improved looms, mortar and water lifting
 RESULT: greater output and specialisation without equal gains for labour.
 ```
-
 #### ASCII MASTER FLOW — PANEL 10/12: Trade, transport and credit
-
 ```ascii-master
-VILLAGE PRODUCERS -> banjaras and local markets -> inland towns
+VILLAGE PRODUCERS -> local markets and banjaras -> inland towns
 MULTANIS / SAHS / BROKERS -> advances, exchange and merchant finance
 HUNDIS -> transfer and credit across distance
 CAMBAY / BENGAL PORTS -> Indian Ocean exchange and textile exports
-HORSE IMPORTS -> military demand links coast, merchants and court
-LIMIT: route activity does not prove uniform prosperity or state control.
-CLOSE DISTINCTION: An iqta was not automatically private ownership or hereditary property
-  across every reign and region.
+HORSE IMPORTS -> military demand tied coast, merchants and court
+LIMIT: route activity did not guarantee uniform prosperity or state control.
 ```
-
 #### ASCII MASTER FLOW — PANEL 11/12: Social differentiation without static blocs
-
 ```ascii-master
-ELITES -> mamluk/freeborn Turk + Khalji + Afghan + Tajik + Indian Muslim
-RELIGIOUS -> ulama + Sufis + temples/mosques + plural local practice
-ECONOMY -> merchants + artisans + peasants + intermediaries + labourers
-VARNA / JATI -> occupational continuity, adaptation, mobility and exclusion
-SLAVERY -> military + domestic + productive forms; not one Atlantic analogy
-GENDER -> elite/property/household and common labour agency differ
+ELITES -> Turks, Khaljis, Afghans, Tajiks and Indian Muslims
+RELIGIOUS -> ulama, Sufis, temples/mosques and plural local practice
+ECONOMY -> merchants, artisans, peasants, intermediaries and labourers
+VARNA / JATI -> continuity, adaptation, mobility and exclusion
+SLAVERY + GENDER -> multiple labour forms and unequal household norms
 RULE: Hindu and Muslim societies were neither sealed nor homogeneous blocs.
-EVIDENCE LIMIT: Administrative ideals, chronicler prescriptions and uneven local practice must
-  remain analytically separate.
 ```
-
 #### ASCII MASTER FLOW — PANEL 12/12: Topic 07 evidence and answer spine
-
 ```ascii-master
-OPEN -> changing military-fiscal state, centralising in aspiration
-ADMIN -> court + departments + iqta + local intermediaries
-ECONOMY -> agrarian surplus + money + towns + crafts + trade
-SOCIETY -> layered elites, labour, caste, community, slavery and gender
-METHOD -> chroniclers + travellers + coins + inscriptions + monuments
-CLOSE -> negotiated in practice, regionally uneven and socially unequal.
+ANSWER SPINE -> open state -> admin -> economy -> society -> method -> close with negotiated, uneven and unequal rule.
 ```
+

@@ -19,7 +19,7 @@ TOPIC 13:
 Humayun's accession, brothers and nobles
 + Gujarat/Bengal campaigns
 + Sher Khan's rise
-+ Chausa/Kanauj
++ Chausa/Kannauj
 + exile, Persian aid and restoration.
 TOPIC 12:
 Babur.
@@ -41,7 +41,7 @@ Mandu, Champaner, Ahmadabad.
 1534 Sher Khan wins Surajgarh.
 1537-38 Chunar/eastern campaign; Gaur captured.
 26 June 1539 Chausa.
-17 May 1540 Kanauj/Bilgram.
+17 May 1540 Kannauj/Bilgram.
 1540-1555 exile and recovery struggle.
 Safavid Shah Tahmasp aids Qandahar/Kabul recovery.
 1555 Delhi recovered.
@@ -332,11 +332,11 @@ and longer Mughal institutional development.
                      PRELIMS TRAPS
 Din Panah = Humayun.
 Chausa = 26 June 1539.
-Kanauj/Bilgram = 17 May 1540.
+Kannauj/Bilgram = 17 May 1540.
                               |
                               v
 Sher Khan:
-Bihar -> Surajgarh -> Bengal/Gaur -> Chausa -> Kanauj.
+Bihar -> Surajgarh -> Bengal/Gaur -> Chausa -> Kannauj.
                               |
                               v
 Shah Tahmasp:
@@ -373,7 +373,7 @@ not a Humayun PYQ; key unavailable locally.
 -> Chunar delay
 -> Gaur/Bengal
 -> Chausa
--> Kanauj
+-> Kannauj
 -> exile / Shah Tahmasp
 -> Qandahar-Kabul
 -> 1555 restoration
@@ -387,7 +387,7 @@ BODY:
 Gujarat test
 -> Afghan alternative
 -> Bengal objective
--> Chausa/Kanauj
+-> Chausa/Kannauj
 -> family/noble/geographic causes
 -> exile/restoration.
 QUALIFY:
@@ -401,3 +401,4 @@ mobilisation to a Bihar-Bengal resource base and better strategy; yet
 Humayun's Persian-backed return preserved the Mughal claim that Akbar
 would later turn into a deeper and more locally rooted empire.
 ```
+

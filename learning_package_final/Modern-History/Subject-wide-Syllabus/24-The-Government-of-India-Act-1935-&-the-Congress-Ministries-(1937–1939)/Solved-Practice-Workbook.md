@@ -6,821 +6,444 @@ topic_key: modern-indian-history-24
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Constitutional lineage to the 1935 Act?
+Select the single best answer. The separate key supplies item-specific reasons and a trap.
 
-A. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-B. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-C. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-D. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
+### Q1. A committee chronology runs from constitutional negotiation to legislation. Which order survives scrutiny?
 
-**Answer: A.**
-**Explanation:** The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Simon Report and RTCs → White Paper 1933 → Joint Select Committee → Act 1935
+B. Act 1935 → White Paper 1933 → RTCs → Simon Report
+C. RTCs → Act 1935 → White Paper 1933 → Joint Select Committee
+D. Joint Select Committee → Act 1935 → Simon Commission appointed in 1937
 
-### Q2. Which chronology card should be filed under Constitutional lineage to the 1935 Act?
+### Q2. Two statements concern the 1935 Act: I. It envisaged a federation of provinces and princely states. II. That federation actually operated from 1937. Select the valid evaluation.
 
-A. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-B. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-C. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-D. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
+A. Both false because no federation was even proposed
+B. I true; II false
+C. Both true because provincial elections activated the federal centre
+D. I false; II true because the princes formed a federation alone
 
-**Answer: B.**
-**Explanation:** The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. Why is princely-state accession pivotal to the federal half of the Act?
 
-### Q3. Which option should a candidate retain when revising Constitutional lineage to the 1935 Act?
+A. The Federal Court vetoed the princes’ accession in 1937
+B. Congress ministers abolished all princely states by executive order
+C. The proposed federation needed princely accession, which did not occur at the requisite level
+D. The provinces never held elections, so no prince could accede
 
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-C. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-D. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
+### Q4. Compare dyarchy’s fate in provinces and at the proposed centre.
 
-**Answer: C.**
-**Explanation:** The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Provincial dyarchy began in 1937 and federal central dyarchy ended in 1935
+B. Dyarchy ended everywhere and the centre became fully responsible immediately
+C. Both provincial and central dyarchy functioned side by side during 1937–39
+D. Provincial dyarchy was abolished; central dyarchy was provided but never operated
 
-### Q4. Which statement avoids a common matching trap about Constitutional lineage to the 1935 Act?
+### Q5. A Prelims statement puts Defence and External Affairs under the federal legislature. What is the decisive objection?
 
-A. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-C. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
+A. They were reserved subjects controlled by the Governor-General under the proposed federal scheme
+B. They were provincial transferred subjects decided by Congress premiers
+C. They were reserved to the Federal Court’s judges
+D. They were devolved to the princely states as a bloc
 
-**Answer: D.**
-**Explanation:** The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Which full set names the reserved central subjects in this source’s federal design?
 
-### Q5. Which statement correctly identifies Two separable halves of the Act?
+A. Defence, Railways, Currency and Salt
+B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas
+C. Defence, External Affairs, Education and Agriculture
+D. Police, Public Health, Irrigation and Local Government
 
-A. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-B. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-C. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-D. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
+### Q7. For an unenumerated subject under the 1935 federal scheme, where did residuary legislative authority lie?
 
-**Answer: A.**
-**Explanation:** The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. With the Federal Court
+B. With the Federal Assembly automatically
+C. With the Governor-General
+D. With each provincial legislature independently
 
-### Q6. Which chronology card should be filed under Two separable halves of the Act?
+### Q8. The 2024 official-key-confirmed PYQ tests two statements: federation provided; defence controlled by federal legislature. What conclusion follows?
 
-A. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-B. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-C. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-D. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
+A. Only the defence-legislature statement is correct
+B. Both are correct because central dyarchy functioned
+C. Neither is correct because princely states never acceded
+D. Only the federation-provision statement is correct
 
-**Answer: B.**
-**Explanation:** The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. Which boundary keeps the Federal Court and RBI from being attributed to the same 1935 statute?
 
-### Q7. Which option should a candidate retain when revising Two separable halves of the Act?
+A. The Court began in 1937 under the 1935 scheme; RBI arose from a separate 1934 RBI Act
+B. Both bodies were created only by the 1935 Act and began in 1937
+C. RBI was a princely-state court and the Federal Court a trade union
+D. Both were set up by the 1928 Nehru Report
 
-A. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-C. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-D. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
+### Q10. How should the 1937 status of Sind, Orissa and Burma be described?
 
-**Answer: C.**
-**Explanation:** The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All three were created by the 1931 Gandhi–Irwin Pact
+B. Sind and Orissa became separate provinces; Burma was separated from India
+C. All three entered the proposed All-India Federation as independent dominions
+D. Sind was abolished; Burma became a province of Orissa
 
-### Q8. Which statement avoids a common matching trap about Two separable halves of the Act?
+### Q11. Which treatment of enlarged franchise avoids a false claim of universal suffrage?
 
-A. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-B. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-C. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-D. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
+A. It contracted to the electorate of the 1909 councils
+B. It was available only to princely rulers and Congress ministers
+C. It grew substantially but remained limited; the approximate proportion is denominator-dependent
+D. It became universal adult franchise in every province
 
-**Answer: D.**
-**Explanation:** The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Classify the Act’s extension of separate electorates.
 
-### Q9. Which statement correctly identifies Federation never came into force?
+A. An abolition of every communal representation arrangement
+B. A prerequisite that made provinces sovereign republics
+C. A provision uniquely created by the Congress ministries of 1937
+D. An expansion of communal electoral differentiation despite wider constitutional institutions
 
-A. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-B. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-C. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-D. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
+### Q13. Why could Nehru call the Act a machine with strong brakes but no engine?
 
-**Answer: A.**
-**Explanation:** Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Safeguards and governor/viceroy discretion checked elected power despite new machinery
+B. It created no legislatures or provincial elections
+C. It gave Congress full command of defence and foreign policy
+D. It established a wholly sovereign federation in 1937
 
-### Q10. Which chronology card should be filed under Federation never came into force?
+### Q14. A provincial-election chart claims Congress refused to contest the 1937 polls. Correct it.
 
-A. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-B. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-C. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-D. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
+A. Congress entered office only after the March 1940 Lahore Resolution
+B. Congress contested and eventually ran ministries in eight of eleven provinces
+C. Congress contested but governed all eleven immediately
+D. Congress boycotted and the League formed ministries in all eleven
 
-**Answer: B.**
-**Explanation:** Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. Which grouping lists the six initial major Congress ministries without mixing the later additions?
 
-### Q11. Which option should a candidate retain when revising Federation never came into force?
+A. Bengal, Punjab, Sind, Bihar, NWFP and Assam
+B. United Provinces, Bengal, Hyderabad, Travancore, Burma and Assam
+C. Bombay, Madras, United Provinces, Bihar, Central Provinces and Orissa
+D. Bombay, Madras, NWFP, Assam, Sind and Punjab
 
-A. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-B. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-C. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-D. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
+### Q16. A ministry releases prisoners and eases curbs on public expression. Which inference is warranted?
 
-**Answer: C.**
-**Explanation:** Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All political prisoners including those convicted of violence were freed everywhere
+B. Congress had acquired unreviewable central sovereignty
+C. Provincial autonomy automatically abolished the colonial police
+D. Provincial office created limited space for civil liberties without ending governor safeguards
 
-### Q12. Which statement avoids a common matching trap about Federation never came into force?
+### Q17. What explains the limited agrarian reach of 1937–39 Congress ministries?
 
-A. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-C. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-D. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
+A. Tenancy reforms were attempted, but finance, governor powers and class tensions constrained change
+B. The 1935 Act forbade all agriculture in provincial jurisdictions
+C. All landlordism ended before Congress took office
+D. The ministries alone enacted Tebhaga’s two-thirds rule nationwide
 
-**Answer: D.**
-**Explanation:** Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. How did socialist and peasant mobilisation relate to ministry agendas?
 
-### Q13. Which statement correctly identifies Dyarchy redesigned, not merely abolished?
+A. Worker strikes could occur only after the 1939 resignations
+B. Pressure over labour and agrarian rights widened demands on Congress, but ministries remained constitutionally constrained
+C. The CSP replaced elected provincial cabinets with a national soviet in 1937
+D. AIKS served as the Governor-General’s appointed executive council
 
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-C. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-D. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
+### Q19. What is a source-responsible reading of the League’s 1937 electoral and political position?
 
-**Answer: A.**
-**Explanation:** The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Congress and the League merged into a single electoral party
+B. Deliverance Day preceded the 1937 elections
+C. It was not universally dominant in Muslim-majority regions; its later mobilisation and atrocity propaganda intensified estrangement
+D. It won every Muslim-majority provincial government in 1937
 
-### Q14. Which chronology card should be filed under Dyarchy redesigned, not merely abolished?
+### Q20. A note dates Congress ministry resignations to an electoral defeat in 1939. Repair the causal claim.
 
-A. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-B. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-C. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-D. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
+A. The princes’ refusal to accede led to immediate cabinet defeat in 1937
+B. The Lahore Resolution of March 1940 preceded and caused resignations
+C. The First RTC directly dissolved provincial ministries in 1930
+D. India’s unilateral entry into World War II without consulting Indian leaders prompted resignations in October–November 1939
 
-**Answer: B.**
-**Explanation:** The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Place Congress resignation, League Deliverance Day and Lahore Resolution in sequence.
 
-### Q15. Which option should a candidate retain when revising Dyarchy redesigned, not merely abolished?
+A. October–November 1939 → December 1939 → March 1940
+B. December 1939 → March 1940 → October–November 1939
+C. March 1940 → October–November 1939 → December 1939
+D. October–November 1939 → March 1940 → December 1939
 
-A. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-B. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-C. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-D. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
+### Q22. Which description of the Lahore Resolution avoids overstating the 1935 Act’s effects?
 
-**Answer: C.**
-**Explanation:** The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It was the document in which the Federal Court resigned over war
+B. It was a March 1940 League demand for separate Muslim states after the ministry crisis, not a 1935 statutory clause
+C. It was the Act’s original provision for an All-India Federation
+D. It was the first 1937 resolution authorising Congress ministries
 
-### Q16. Which statement avoids a common matching trap about Dyarchy redesigned, not merely abolished?
+### Q23. To compare 1935 constitutional design with practice in 1937–39, which paired judgment is sound?
 
-A. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-B. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-C. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-D. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
+A. Both operated as full responsible government without reserve powers
+B. Neither part had any operational significance because Congress boycotted
+C. Provincial autonomy operated with safeguards; the proposed federal centre and its central dyarchy never operated
+D. The federal centre operated, while provincial autonomy never began
 
-**Answer: D.**
-**Explanation:** The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. A 2018 PYQ asks who held residuary powers in the proposed federation; its local official key is absent. Which response respects provenance?
 
-### Q17. Which statement correctly identifies Governor's discretionary powers and special responsibilities?
+A. Declare the answer officially B because the options list Governor-General second
+B. Allocate the power to each provincial governor under the 1950 Constitution
+C. Refuse to analyse the statute because no official key is held
+D. Identify the Governor-General from the Act’s scheme without asserting an official 2018 answer letter
 
-A. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-C. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-D. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
+### Q25. Which claim describes why provincial autonomy under the Act was not unqualified ministerial rule?
 
-**Answer: A.**
-**Explanation:** Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Governors retained discretionary and special-responsibility powers, including minority protection and grave threats to peace
+B. Governors became ceremonial figures incapable of limiting any ministry
+C. Only the federal legislature could restrict provincial ministers after 1937
+D. The Federal Court itself directly appointed every Congress ministry
 
-### Q18. Which chronology card should be filed under Governor's discretionary powers and special responsibilities?
+### Q26. Which description of Section 93 distinguishes a standing safeguard from the immediate 1939 resignation trigger?
 
-A. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-B. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-C. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-D. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
+A. It created the Federal Court to rule on Tebhaga sharecropping
+B. It enabled a governor to assume provincial administration after failure of constitutional machinery; unilateral war entry drove Congress resignations
+C. It compelled Congress to resign in 1937 because the princes refused to accede
+D. It granted every minister a right to override the governor during a war
 
-**Answer: B.**
-**Explanation:** Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. What were the opposed considerations in Congress’s 1937 office-acceptance debate?
 
-### Q19. Which option should a candidate retain when revising Governor's discretionary powers and special responsibilities?
+A. Whether to abolish all provincial elections before the Act passed
+B. Whether the 1940 Lahore Resolution had already granted independence
+C. Risk of legitimising the colonial framework versus the organising and reform opportunities of provincial office
+D. Whether to invite princes alone to govern British Indian provinces
 
-A. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-B. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-C. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-D. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
+### Q28. A chart labels all eight Congress ministries immediate results of the first 1937 cabinet formation. What correction is needed?
 
-**Answer: C.**
-**Explanation:** Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. NWFP and Assam were never counted in the eight
+B. The eight ministries were created by the unrealised federal centre in 1935
+C. All eleven provinces formed Congress ministries on election day
+D. Six provinces formed the initial group; NWFP and Assam were later additions to the eight
 
-### Q20. Which statement avoids a common matching trap about Governor's discretionary powers and special responsibilities?
+### Q29. Different summaries estimate an enlarged 1935 electorate using varying denominators. Which numerical formulation avoids spurious exactness?
 
-A. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-B. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-C. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-D. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
+A. Roughly 30–35 million or around 10–14% of the population, with source/denominator qualification
+B. Exactly 35 million and exactly 14.000% in every province
+C. Every adult Indian above voting age without any property restrictions
+D. A smaller electorate than the pre-1935 colonial councils
 
-**Answer: D.**
-**Explanation:** Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+## MCQ ANSWER KEY — OPTION-BY-OPTION REASONING
 
-### Q21. Which statement correctly identifies Section 93 takeover power?
+### Q1 — A
 
-A. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-B. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-C. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-D. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
+- **A:** Preparatory reports and consultation preceded the statute.
+- **B:** An enacted 1935 Act cannot precede a 1933 proposal.
+- **C:** The White Paper preceded the eventual Act.
+- **D:** Simon appointment was in 1927, not 1937.
+- **Trap:** Do not treat a proposal as a later implementing statute.
 
-**Answer: A.**
-**Explanation:** Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q2 — B
 
-### Q22. Which chronology card should be filed under Section 93 takeover power?
+- **A:** The Act did explicitly propose a federation.
+- **B:** Federation was designed but princely non-accession kept it unrealised.
+- **C:** Provincial autonomy operated without federal commencement.
+- **D:** Princes did not establish an alternative functioning federation.
+- **Trap:** Provision and commencement require separate answers.
 
-A. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-B. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-C. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-D. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
+### Q3 — C
 
-**Answer: B.**
-**Explanation:** Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The Court is not the documented accession impediment.
+- **B:** Congress ministers governed provinces, not sovereign princely abolition.
+- **C:** Non-accession blocked the federal scheme despite an operational provincial part.
+- **D:** Provincial elections were held in 1937.
+- **Trap:** Failure of the federal half does not cancel the provincial half.
 
-### Q23. Which option should a candidate retain when revising Section 93 takeover power?
+### Q4 — D
 
-A. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-B. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-C. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-D. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
+- **A:** That reverses the constitutional design and dates.
+- **B:** The unrealised centre never gained full sovereign responsibility.
+- **C:** There was no operating central federal dyarchy.
+- **D:** Provincial autonomy replaced the older arrangement; central federal provision never commenced.
+- **Trap:** A planned federal provision is not an operating institution.
 
-**Answer: C.**
-**Explanation:** Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q5 — A
 
-### Q24. Which statement avoids a common matching trap about Section 93 takeover power?
+- **A:** These strategic portfolios were reserved from elected control.
+- **B:** Provincial ministries did not control central defence.
+- **C:** The Court was judicial, not defence executive.
+- **D:** Accession did not transfer control of both to princes collectively.
+- **Trap:** A federal legislature’s existence does not imply control over reserved subjects.
 
-A. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-B. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-C. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-D. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
+### Q6 — B
 
-**Answer: D.**
-**Explanation:** Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Railways, currency and salt do not replace the named set.
+- **B:** The specified four remained under Governor-General control.
+- **C:** Education and agriculture do not complete the four reserved central subjects.
+- **D:** This is a provincial-service cluster, not the federal reserved list.
+- **Trap:** Do not extend a partly correct list with plausible unrelated portfolios.
 
-### Q25. Which statement correctly identifies Reserved subjects and residuary power?
+### Q7 — C
 
-A. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-B. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-C. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-D. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
+- **A:** The Court adjudicated, rather than inherited, unlisted legislative topics.
+- **B:** The legislature did not automatically take residual authority.
+- **C:** The statutory residuary design vested it in the Governor-General.
+- **D:** Provinces were not given this unlisted-subject power.
+- **Trap:** Do not import the post-1950 Union-list framework into 1935.
 
-**Answer: A.**
-**Explanation:** Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q8 — D
 
-### Q26. Which chronology card should be filed under Reserved subjects and residuary power?
+- **A:** Defence was reserved to the Governor-General.
+- **B:** Central dyarchy was never brought into force.
+- **C:** Non-implementation does not mean no statutory provision.
+- **D:** The held Series-A key confirms only statement 1.
+- **Trap:** Distinguish source-backed provision from control and actual commencement.
 
-A. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-B. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-C. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-D. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
+### Q9 — A
 
-**Answer: B.**
-**Explanation:** Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Court and bank had distinct legislative foundations.
+- **B:** RBI had an earlier separate statutory source.
+- **C:** The RBI is a bank, not a princely judicial organ.
+- **D:** The Nehru Report was a draft, not their founding Act.
+- **Trap:** Chronological proximity is not common statutory parentage.
 
-### Q27. Which option should a candidate retain when revising Reserved subjects and residuary power?
+### Q10 — B
 
-A. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-B. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-C. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
-D. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
+- **A:** The Pact was a movement truce, not the provincial reorganisation statute.
+- **B:** The constitutional transition reorganised provinces and separated Burma.
+- **C:** The unrealised federation did not turn these into dominions.
+- **D:** Sind and Burma were not merged into Orissa.
+- **Trap:** Separation from India and creation of a province are different operations.
 
-**Answer: C.**
-**Explanation:** Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q11 — C
 
-### Q28. Which statement avoids a common matching trap about Reserved subjects and residuary power?
+- **A:** Sources describe franchise enlargement, not contraction.
+- **B:** Electors extended beyond princes and ministers.
+- **C:** The 1935 scheme expanded eligibility without adult universal voting.
+- **D:** Universal adult voting was not introduced in 1935.
+- **Trap:** Do not present an approximate share as an uncontested exact census figure.
 
-A. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-B. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-C. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-D. Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature.
+### Q12 — D
 
-**Answer: D.**
-**Explanation:** Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas were the four subjects formally reserved to the Governor-General at the federal level, and residuary legislative power over unlisted subjects was vested in the Governor-General rather than any legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** They were not abolished by the new framework.
+- **B:** Electoral categorisation did not transfer sovereignty.
+- **C:** The ministries operated under, not authored, the Act.
+- **D:** The Act retained and extended separate electorates.
+- **Trap:** Expanded voting and communal segmentation could coexist.
 
-### Q29. Which statement correctly identifies Franchise reform as a qualified range?
+### Q13 — A
 
-A. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-B. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-C. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-D. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
+- **A:** The metaphor targets limited responsible power behind institutional expansion.
+- **B:** Elections and provincial institutions did exist.
+- **C:** Strategic central subjects remained reserved.
+- **D:** Federation never entered operation.
+- **Trap:** Formal architecture is not equivalent to sovereign executive control.
 
-**Answer: A.**
-**Explanation:** The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q14 — B
 
-### Q30. Which chronology card should be filed under Franchise reform as a qualified range?
+- **A:** The ministries ran from 1937 to 1939, before Lahore 1940.
+- **B:** Office acceptance followed electoral participation in eight provinces.
+- **C:** The eight-of-eleven count rules out all eleven.
+- **D:** Neither a total boycott nor all-League ministries occurred.
+- **Trap:** Political rejection of the Act did not force electoral boycott.
 
-A. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-B. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-C. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-D. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
+### Q15 — C
 
-**Answer: B.**
-**Explanation:** The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Punjab, Bengal and Sind are not this six-ministry set.
+- **B:** Hyderabad/Travancore were princely states; Burma separate.
+- **C:** The other two ministries later included NWFP and Assam.
+- **D:** NWFP and Assam belong to the later portion; Sind and Punjab are false here.
+- **Trap:** Count the six first and two later without moving princely states into provincial lists.
 
-### Q31. Which option should a candidate retain when revising Franchise reform as a qualified range?
+### Q16 — D
 
-A. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-B. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-C. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
-D. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
+- **A:** A categorical release across all cases is not source-backed.
+- **B:** The federal centre never entered force.
+- **C:** Governor controls and policing constraints persisted.
+- **D:** Prisoner releases and liberties are part of the bounded ministry record.
+- **Trap:** Reform under constraint is neither zero change nor complete freedom.
 
-**Answer: C.**
-**Explanation:** The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q17 — A
 
-### Q32. Which statement avoids a common matching trap about Franchise reform as a qualified range?
+- **A:** Reform attempts encountered constitutional and social constraints.
+- **B:** Agrarian measures were possible and were attempted.
+- **C:** Landlordism did not end in 1937.
+- **D:** Tebhaga was a later regional struggle, not nationwide ministry legislation.
+- **Trap:** Do not confuse an enacted limited reform programme with land revolution.
 
-A. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-B. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-C. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-D. The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used.
+### Q18 — B
 
-**Answer: D.**
-**Explanation:** The 1935 Act's franchise reforms are best stated as a qualified range rather than one exact figure: estimates place the enlarged electorate at roughly 30 to 35 million voters, or roughly 10 to 14 per cent of the population depending on which denominator or source is used. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** AITUC and strikes preceded the ministry resignations.
+- **B:** Left/peasant politics pushed the economic agenda without controlling all policy.
+- **C:** CSP worked inside Congress, not as a substitute sovereign cabinet.
+- **D:** AIKS organised peasant interests, not imperial executive appointment.
+- **Trap:** Agenda-setting by social movements is not identical to state capacity.
 
-### Q33. Which statement correctly identifies RBI Act 1934 versus the 1935 Act?
+### Q19 — C
 
-A. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-B. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-C. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-D. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
+- **A:** Separate parties and political rivalry persisted.
+- **B:** Deliverance Day was December 1939.
+- **C:** League performance was uneven; subsequent polarisation mattered.
+- **D:** Universal dominance in 1937 is explicitly rejected in the source.
+- **Trap:** Do not retroject 1940s League strength into every 1937 province.
 
-**Answer: A.**
-**Explanation:** The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q20 — D
 
-### Q34. Which chronology card should be filed under RBI Act 1934 versus the 1935 Act?
+- **A:** Non-accession explains federal failure, not provincial defeat.
+- **B:** March 1940 followed the October–November 1939 resignations.
+- **C:** The 1930 conference preceded ministry formation by seven years.
+- **D:** War consultation and constitutional authority were the immediate dispute.
+- **Trap:** Differentiate federal non-accession, war protest and later League response.
 
-A. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-B. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-C. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-D. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
+### Q21 — A
 
-**Answer: B.**
-**Explanation:** The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The League marked Deliverance Day after the ministries resigned.
+- **B:** Deliverance Day did not precede resignation.
+- **C:** The Lahore Resolution came after both 1939 events.
+- **D:** March 1940 cannot precede December 1939.
+- **Trap:** An immediate political reaction is not the same as a subsequent constitutional demand.
 
-### Q35. Which option should a candidate retain when revising RBI Act 1934 versus the 1935 Act?
+### Q22 — B
 
-A. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-B. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-C. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
-D. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
+- **A:** The Federal Court was an institution, not the League resolution’s author.
+- **B:** The demand belonged to the subsequent League political sequence.
+- **C:** The federation in the Act concerned provinces and princely states.
+- **D:** Congress ministries followed elections, not this 1940 demand.
+- **Trap:** Do not conflate later separatist mobilisation with colonial statutory text.
 
-**Answer: C.**
-**Explanation:** The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q23 — C
 
-### Q36. Which statement avoids a common matching trap about RBI Act 1934 versus the 1935 Act?
+- **A:** Safeguards persisted and federal dyarchy never began.
+- **B:** Congress contested and provincial cabinets did function.
+- **C:** The provincial half and federal half had different implementation histories.
+- **D:** The implemented/unimplemented positions are reversed.
+- **Trap:** Distinguish formal provision, partial commencement and effective control.
 
-A. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-B. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-C. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-D. The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself.
+### Q24 — D
 
-**Answer: D.**
-**Explanation:** The Reserve Bank of India was established under the Reserve Bank of India Act, 1934, a separate statute enacted before the Government of India Act, 1935, so the Reserve Bank must never be described as a creation of the 1935 Act itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The option position is not evidence of a held official key.
+- **B:** The 1935 Act vested this legislative power centrally in the Governor-General.
+- **C:** Lack of key does not preclude source-based substantive analysis.
+- **D:** The source supports the office while key status remains unverified.
+- **Trap:** A supported content answer is not automatically an authenticated official key.
 
-### Q37. Which statement correctly identifies Federal Court and Burma separation, 1937?
+### Q25 — A
 
-A. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-B. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-C. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-D. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
+- **A:** Named special responsibilities qualified the ministry’s discretion.
+- **B:** Safeguards did not vanish on election day.
+- **C:** The unrealised federation did not monopolise provincial oversight.
+- **D:** Congress formed ministries after elections rather than Court appointment.
+- **Trap:** Formal responsible offices coexisted with executive override powers.
 
-**Answer: A.**
-**Explanation:** The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q26 — B
 
-### Q38. Which chronology card should be filed under Federal Court and Burma separation, 1937?
+- **A:** The Court and Tebhaga have different statutes and chronology.
+- **B:** A constitutional takeover power existed independently of the later war protest.
+- **C:** The ministries served until the 1939 war crisis.
+- **D:** Section 93 strengthened governor, not minister, discretion.
+- **Trap:** A reserve power need not be the specific cause of a particular resignation.
 
-A. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-B. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-C. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-D. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
+### Q27 — C
 
-**Answer: B.**
-**Explanation:** The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The Act preceded the 1937 electoral decision.
+- **B:** Lahore Resolution came later and was a League demand.
+- **C:** Entering office could deliver practical gains while appearing to validate an inadequate Act.
+- **D:** Princes did not appoint elected Congress provincial cabinets.
+- **Trap:** A tactical decision to govern is not ideological acceptance of the statute.
 
-### Q39. Which option should a candidate retain when revising Federal Court and Burma separation, 1937?
+### Q28 — D
 
-A. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-B. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-C. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-D. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
+- **A:** Excluding both changes the eventual count.
+- **B:** The federal centre never operated; elections were provincial.
+- **C:** Only eight of eleven provinces ultimately had Congress ministries.
+- **D:** The eventual count includes the two later ministries.
+- **Trap:** Distinguish eventual total from timing of provincial office formation.
 
-**Answer: C.**
-**Explanation:** The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q29 — A
 
-### Q40. Which statement avoids a common matching trap about Federal Court and Burma separation, 1937?
-
-A. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-B. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-C. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-D. The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events.
-
-**Answer: D.**
-**Explanation:** The Federal Court of India began functioning in 1937 to interpret disputes under the Act, and Burma's separation from India, provided for by the Act, took effect in 1937 as well — parallel developments rather than causally connected events. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies 1937 election and ministry-formation timing?
-
-A. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-B. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-C. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-D. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-
-**Answer: A.**
-**Explanation:** In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under 1937 election and ministry-formation timing?
-
-A. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-B. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-C. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-D. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-
-**Answer: B.**
-**Explanation:** In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising 1937 election and ministry-formation timing?
-
-A. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-B. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-C. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-D. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-
-**Answer: C.**
-**Explanation:** In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about 1937 election and ministry-formation timing?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-C. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-D. In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position.
-
-**Answer: D.**
-**Explanation:** In the elections of February 1937 Congress emerged as the largest party in most provinces. Congress ministries took office in six provinces in July 1937, the North-West Frontier Province followed later in 1937, and Assam followed in 1938, so the eight-of-eleven figure names the eventual, not the simultaneous, position. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies NWFP and Assam in the ministry count?
-
-A. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-B. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-C. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-D. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-
-**Answer: A.**
-**Explanation:** The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under NWFP and Assam in the ministry count?
-
-A. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-B. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-C. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-D. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-
-**Answer: B.**
-**Explanation:** The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising NWFP and Assam in the ministry count?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-C. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-D. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-
-**Answer: C.**
-**Explanation:** The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about NWFP and Assam in the ministry count?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-C. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-D. The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven.
-
-**Answer: D.**
-**Explanation:** The North-West Frontier Province is counted among the provinces where Congress formed a ministry, while Assam's Congress ministry followed only after initial coalition arrangements broke down, so its timing must not be flattened into the original seven. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies 1937 office-acceptance debate?
-
-A. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-B. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-C. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-D. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-
-**Answer: A.**
-**Explanation:** Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under 1937 office-acceptance debate?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-C. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-D. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-
-**Answer: B.**
-**Explanation:** Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising 1937 office-acceptance debate?
-
-A. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-B. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-C. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-D. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-
-**Answer: C.**
-**Explanation:** Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about 1937 office-acceptance debate?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-C. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-D. Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver.
-
-**Answer: D.**
-**Explanation:** Congress's 1937 office-acceptance debate weighed the risk of legitimising a limited constitutional structure against the organisational and reformist opportunities that provincial office could deliver. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Achievements of Congress ministries?
-
-A. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-B. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-C. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-D. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-
-**Answer: A.**
-**Explanation:** Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Achievements of Congress ministries?
-
-A. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-B. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-C. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-D. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-
-**Answer: B.**
-**Explanation:** Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Achievements of Congress ministries?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-C. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-D. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-
-**Answer: C.**
-**Explanation:** Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Achievements of Congress ministries?
-
-A. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-B. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-C. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-D. Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers.
-
-**Answer: D.**
-**Explanation:** Congress ministries expanded civil liberties, released political prisoners, advanced tenancy and debt-relief legislation, and promoted prohibition and primary education within their limited provincial powers. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Structural limits of Congress ministries?
-
-A. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-B. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-C. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-D. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-
-**Answer: A.**
-**Explanation:** The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Structural limits of Congress ministries?
-
-A. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-B. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-C. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-D. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-
-**Answer: B.**
-**Explanation:** The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Structural limits of Congress ministries?
-
-A. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-B. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-C. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-D. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-
-**Answer: C.**
-**Explanation:** The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Structural limits of Congress ministries?
-
-A. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-B. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-C. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-D. The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve.
-
-**Answer: D.**
-**Explanation:** The ministries' achievements were bounded by restricted provincial finance, landlord-weighted legislatures, governors' reserve powers, and continuing labour unrest that agrarian reform did not fully resolve. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies 1939 resignation of Congress ministries?
-
-A. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-B. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-C. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-D. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-
-**Answer: A.**
-**Explanation:** Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under 1939 resignation of Congress ministries?
-
-A. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-B. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-C. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-D. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-
-**Answer: B.**
-**Explanation:** Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising 1939 resignation of Congress ministries?
-
-A. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-B. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-C. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-
-**Answer: C.**
-**Explanation:** Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about 1939 resignation of Congress ministries?
-
-A. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-B. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-C. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-D. Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic.
-
-**Answer: D.**
-**Explanation:** Congress ministries resigned between October and November 1939 after the Viceroy declared India a party to the war without consulting Indian political opinion, a decision addressed fully within the Second World War topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Muslim League's Deliverance Day?
-
-A. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-B. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-C. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-D. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-
-**Answer: A.**
-**Explanation:** The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Muslim League's Deliverance Day?
-
-A. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-B. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-C. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-
-**Answer: B.**
-**Explanation:** The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Muslim League's Deliverance Day?
-
-A. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-B. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-C. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-
-**Answer: C.**
-**Explanation:** The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Muslim League's Deliverance Day?
-
-A. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-B. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-C. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-D. The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration.
-
-**Answer: D.**
-**Explanation:** The Muslim League observed 22 December 1939 as a Deliverance Day to mark the ministries' resignation, a response that must be read as one party reaction among several rather than a neutral national commemoration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Lahore Resolution as one link in a chain?
-
-A. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-B. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-C. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-D. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-
-**Answer: A.**
-**Explanation:** The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Lahore Resolution as one link in a chain?
-
-A. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-B. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-C. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-
-**Answer: B.**
-**Explanation:** The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Lahore Resolution as one link in a chain?
-
-A. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-B. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-C. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-
-**Answer: C.**
-**Explanation:** The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Lahore Resolution as one link in a chain?
-
-A. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-B. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-C. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-D. The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition.
-
-**Answer: D.**
-**Explanation:** The Lahore Resolution of March 1940 followed these events as one link in a longer chain of developments and must never be read as evidence of a single, simple causal path to Partition. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies 2024 Prelims GS-I Q62 as primary anchor?
-
-A. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-B. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-C. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-D. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-
-**Answer: A.**
-**Explanation:** The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under 2024 Prelims GS-I Q62 as primary anchor?
-
-A. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-B. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-C. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-D. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-
-**Answer: B.**
-**Explanation:** The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising 2024 Prelims GS-I Q62 as primary anchor?
-
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-C. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-D. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-
-**Answer: C.**
-**Explanation:** The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about 2024 Prelims GS-I Q62 as primary anchor?
-
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-C. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-D. The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic.
-
-**Answer: D.**
-**Explanation:** The 2024 Prelims GS-I question on the federal scheme and reserved powers of the Government of India Act, 1935 is answered from the Act's own text with a confirmed official key, and this package treats it as the primary revision anchor for the topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies 2018 Prelims GS-I Q38 residuary-power caution?
-
-A. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-B. The Act's constitutional lineage ran from the Simon Commission's 1930 report through three Round Table Conferences between 1930 and 1932, the 1933 White Paper and the Joint Select Committee's 1934 report before the Bill received royal assent in 1935.
-C. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-D. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-
-**Answer: A.**
-**Explanation:** A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under 2018 Prelims GS-I Q38 residuary-power caution?
-
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-C. The Act is best read as two separable halves: an All-India Federation with dyarchy at the centre, and provincial autonomy with dyarchy abolished in the provinces; each half must be evaluated on its own footing.
-D. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-
-**Answer: B.**
-**Explanation:** A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising 2018 Prelims GS-I Q38 residuary-power caution?
-
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-C. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-D. Although the All-India Federation was central to the Act's design, princely accession never reached the required threshold, so the Federation never came into force; describing the federation as having operated at any point is a factual error.
-
-**Answer: C.**
-**Explanation:** A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about 2018 Prelims GS-I Q38 residuary-power caution?
-
-A. The Act abolished provincial dyarchy and replaced it with provincial autonomy; central dyarchy was only proposed for the unrealised federal centre and never operated in practice.
-B. Provincial autonomy was bounded by the governor's discretionary powers and special responsibilities, which allowed a governor to override or restrain ministerial advice on named grounds such as minority protection and the prevention of grave menace to peace.
-C. Section 93 of the Act empowered a governor to take over a province's administration if constitutional machinery failed, a background reserve power that followed rather than caused the 1939 ministerial resignations.
-D. A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter.
-
-**Answer: D.**
-**Explanation:** A 2018 Prelims GS-I question probes the same Act's residuary-power design, but its official answer key is not held locally, so this package states the source-backed content without asserting an unverified answer letter. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Semantic-completeness coverage drills — Topic 24
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | How are philosophical sources dated? | oral layer → redaction → sutra/commentary → manuscript survival → confidence limit | one author-date for a composite corpus |
-| B | Did Upanishads reject ritual? | Brahmana/Aranyaka bridge → interiorization → knowledge/liberation → Vedic continuity | simple rupture |
-| C | What do astika and nastika mean? | identify speaker/criterion → Vedic authority or other-world claims → polemical use | theist versus atheist |
-| D | Why is the six-school list historical? | older traditions → sutra identities → later pairing/doxography | timeless Vedic canon |
-| E | How should lost schools be reconstructed? | opponent report → rare material anchor → corroboration → graded confidence | quoting Charvaka as intact scripture |
-| F | What sustained debate? | teacher → court/assembly → monastery/temple → patron → commentary | philosophy as private timeless insight |
-| G | What can Gargi and Maitreyi prove? | named textual voice → debate context → male archive and access limit | universal equality |
-| H | What is the Modern History cutoff? | Gupta/post-Gupta scholasticism → Kumarila/Dharmakirti/Shankara boundary → later owners | importing mature medieval Vedanta |
-
-**PYQ self-check:** separately solve 2024 Q58 through parable plus relative
-chronology, and 2022 Q56 through Aryadeva-Dignaga-Nathamuni identification.
+- **A:** The older qualified estimates are approximate and denominator-sensitive.
+- **B:** The two precise figures erase the source variation.
+- **C:** The Act fell far short of universal adult franchise.
+- **D:** Its franchise was significantly enlarged, not reduced.
+- **Trap:** Neither an expanded electorate nor a qualified percentage amounts to universal suffrage.
 
 ### Semantic-completeness coverage drills — Modern Topic 24
 

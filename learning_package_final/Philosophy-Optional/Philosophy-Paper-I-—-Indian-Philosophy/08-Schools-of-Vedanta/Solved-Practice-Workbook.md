@@ -5,106 +5,59 @@ variant: learner-v2
 ---
 # Schools of Vedānta — Solved Practice Workbook
 
-> **How to use this workbook.** Attempt every item before reading its key. The correct option position was fixed independently for each question from a randomised draw, so no rotation or predictable sequence can be exploited. Every option carries a question-specific explanation and every question carries a unique examiner trap. The solved previous-year questions reproduce the official printed wording exactly; the model answers are independent learner practice and are never official UPSC keys.
+> **How to use this workbook.** Four option explanations and an examiner trap accompany each MCQ; descriptive model answers are independent practice, not official UPSC keys.
 
-> **Contents.** 24 core diagnostics and 8 remedial drills, then 20 solved previous-year questions — every part primary-owned by syllabus item 19 across 2018–2025 — followed by six original solved Mains models at 2 × 10, 2 × 15 and 2 × 20 marks.
+> **Contents.** 35 coverage-driven MCQs (24 core, 8 remedial, 3 non-Advaita comparison), twenty primary-owned 2018–2025 PYQs and three primary-owned 2026 PYQs; eight original solved Mains models (2 × 10, 3 × 15, 3 × 20), extending to Vallabha and Caitanya.
+> **Why 35, not a quota:** Core 1–24 cover Brahman, self, world, error and liberation across schools; 25–32 repair Advaita appearance and attribution traps; 33–35 target the 2026 Nimbārka, Rāmānuja and Madhva cluster neglected by Advaita-only preparation. Item 1 now tests identity/difference exegesis rather than canon ownership. Some opening comparisons remain foundational, not uniformly hard.
 
-> **Declared answer bands.** 10 marks: 150–200 words. 15 marks: 250–300 words. 20 marks: 340–400 words. Every solved answer below states its exact word count.
+> **Timed practice.** Allocate time in proportion to marks and answer every directive with argument, objection, reply and verdict; no word ceiling or model length guarantees marks.
 
 ## BASIC MCQS / REMEDIATION
 
 ### Practice protocol
 
-Attempt every item before reading its key. The correct position was fixed **independently for each
-question** from a randomised draw, so there is no rotation, cycle or seed-derived sequence to
-exploit; the four positions occur eight times each and twice in every consecutive block of eight, no
-position repeats on consecutive questions, and no window of four items forms an A→B→C→D rotation or
-an ABAB alternation. Option length, specificity, grammar and formatting are balanced so that the
-correct answer is not visually identifiable; the key is the longest option in only a minority of
-items and every distractor carries comparable doctrinal detail.
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
-**Composition:** 24 core diagnostics (items 1–24) covering all nineteen teaching sessions, then 8
-remedial drills (items 25–32) targeting the errors this topic reliably produces.
+**Composition:** 24 core diagnostics (items 1–24), 8 remedial drills (25–32) and 3
+non-Advaita comparison drills (33–35).
 
 #### CORE DIAGNOSTICS
 
-#### MCQ 1. What makes Vedānta plural
+#### MCQ 1. One canon, opposed solutions to identity and difference
 
-Which statement best explains why one canon produced six commentarial schools?
+An examiner juxtaposes "You are That" with passages distinguishing the worshipper from the Lord. Why can both Advaita and qualified non-dualism claim scriptural warrant without one school simply abandoning the canon?
 
-A. The schools accept different scriptures, so their conclusions about the absolute must differ
-B. Bādarāyaṇa's aphorisms already contain three finished systems that later teachers merely restated
-C. The Upaniṣads contain only identity-sentences, so difference had to be imported from outside
-D. The canon is shared but its compact aphorisms under-determine which sentences are read literally
+A. They share scriptural sources but rank literal and qualified readings differently: Advaita uses the ultimate/empirical distinction while Rāmānuja construes unity as that of a Brahman really qualified by dependent selves.
+B. Both hold that differences are real modes of one Brahman; their only disagreement concerns whether devotion or philosophical study occurs first.
+C. Both take identity passages as unqualifiedly ultimate and difference passages as merely linguistic; they differ only over the existence of a creator.
+D. Both take difference passages as ultimate and interpret identity as the soul's independence from matter; they differ only over the number of qualities in Brahman.
 
-**Answer: D.** The canon is shared but its compact aphorisms under-determine which sentences are read literally
+#### MCQ 2. Causal indication without transforming *nirguṇa* Brahman
 
-- **A:** All six schools comment on the same threefold canon of Upaniṣads, Gītā and Brahma Sūtra, which is exactly why no school can win by citing a text the others reject.
-- **B:** The aphorisms are compact and do not contain later school-formulations ready-made; that under-determination is the structural cause of divergence, not a hidden completeness.
-- **C:** The Upaniṣads contain both identity-sentences and difference-sentences, and the whole hermeneutic problem is which set governs the reading of the other.
-- **D:** Correct — a shared, unamendable canon plus aphorisms that do not settle the literal-versus-secondary question forces each commentator to supply a metaphysics that saves the remaining sentences.
+A critic asks an Advaitin: "If Brahman is described as that from which the world's origin, sustenance and dissolution proceed, must the supposedly attributeless absolute undergo real change? And is being–consciousness–bliss a list of three incidental properties?" Which reply preserves **both** kinds of definition and answers the critic without borrowing Rāmānuja's ultimate reality of qualified difference?
 
-**Examiner trap 1:** Candidates write that the schools "differ about scripture," which is false and unrewarded; the marks lie in saying they agree about scripture and differ about its interpretation.
-
-#### MCQ 2. The two definitions of the absolute
-
-Consider the following statements about the Vedāntic definitions of ultimate reality.
-
-1. The essential definition (**svarūpa-lakṣaṇa**) states its intrinsic nature as being–consciousness–bliss.
-2. The relational definition (**taṭastha-lakṣaṇa**) indicates it as that from which origin, sustenance and dissolution proceed.
-3. The relational definition is used to state what the absolute is in itself, and the essential definition to explain its cosmological role.
-
-Which of the statements is or are correct?
-
-A. Statements 1 and 3 only, since both definitions ultimately describe intrinsic nature
-B. Statements 1 and 2 only, because statement 3 reverses the function of the two definitions
-C. Statement 2 only, as being–consciousness–bliss is a list of attributes rather than an essence
-D. All three statements, because the two definitions are interchangeable in Vedāntic usage
-
-**Answer: B.** Statements 1 and 2 only, because statement 3 reverses the function of the two definitions
-
-- **A:** Retains the correct first statement but keeps the reversal in the third, and also misdescribes the relational definition, which deliberately identifies by relation rather than by nature.
-- **B:** Correct — the essential definition says what the absolute is, the relational definition says why it is called the ground of the world, and statement 3 swaps those roles.
-- **C:** Being–consciousness–bliss is presented as expressing the very essence, not as a set of accidental predicates added to a substrate.
-- **D:** Interchangeability would destroy the division of labour that lets an answer supply both a metaphysics and a cosmology from one doctrine.
-
-**Examiner trap 2:** Answers give only the essential definition and then try to explain world-causation from it, losing the relational definition that alone licenses calling the absolute the ground of origin, sustenance and dissolution.
+A. The world's origin is Brahman's intrinsic and ultimate changing essence (*svarūpa-lakṣaṇa*), whereas being–consciousness–bliss is only a provisional pointer tied to our experience.
+B. Being–consciousness–bliss names intrinsic nature (*svarūpa*); world-causation indicates Brahman relationally (*taṭastha*) at the empirical level, not an ultimate transformation or three accidental qualities.
+C. Being–consciousness–bliss indicates intrinsic nature, but world-causation requires dependent selves and matter to be ultimately real modes of Brahman, so the distinction between empirical and ultimate is unnecessary.
+D. Being–consciousness–bliss indicates intrinsic nature, but the cause of the world is an entirely separate Īśvara, making world-origin a definition of a second ultimate rather than an indication of Brahman.
 
 #### MCQ 3. Qualityless and qualified
 
 Which statement correctly represents the three schools on whether the absolute has determinate attributes?
 
-A. Advaita denies limiting attributes but affirms essence; Rāmānuja affirms infinite auspicious qualities; Madhva adds independence
-B. Advaita denies all nature whatsoever; Rāmānuja accepts both a qualityless and a qualified level; Madhva accepts only the qualityless level
-C. Advaita and Rāmānuja agree that the absolute is qualityless; Madhva alone treats it as personal, qualified and worshipful
-D. All three schools accept a qualityless level above the personal Lord, differing only about whether that level can be worshipped
-
-**Answer: A.** Advaita denies limiting attributes but affirms essence; Rāmānuja affirms infinite auspicious qualities; Madhva adds independence
-
-- **A:** Correct — qualityless means free of limiting, relational and objectifiable attributes while being–consciousness–bliss remains the essence; Rāmānuja's absolute is qualified by infinite auspicious qualities; Madhva's is qualified and above all independent.
-- **B:** Contains the two commonest errors at once: it turns qualitylessness into blankness and credits Rāmānuja with a two-level scheme he explicitly rejects.
-- **C:** Rāmānuja rejects any qualityless level above the personal Lord, so pairing him with Advaita on this point inverts his central objection.
-- **D:** Only Advaita admits a qualityless level; for the other two there is no such level for worship to be measured against.
-
-**Examiner trap 3:** The sentence "Rāmānuja accepts both nirguṇa and saguṇa Brahman" is written almost reflexively and destroys the answer, because his entire critique presupposes that no level lies above the personal Lord.
+A. Advaita and Rāmānuja agree that the absolute is qualityless; Madhva alone treats it as personal, qualified and worshipful
+B. All three schools accept a qualityless level above the personal Lord, differing only about whether that level can be worshipped
+C. Advaita denies limiting attributes but affirms essence; Rāmānuja affirms infinite auspicious qualities; Madhva adds independence
+D. Advaita denies all nature whatsoever; Rāmānuja accepts both a qualityless and a qualified level; Madhva accepts only the qualityless level
 
 #### MCQ 4. Efficient and material causality
 
 Which school-and-position pairing on the world's causes is correct?
 
-A. Advaita makes the absolute the efficient cause only, with ignorance supplying the material cause
-B. Rāmānuja makes God the efficient cause and dependent primordial matter the material cause
-C. Madhva makes God the efficient cause and dependent primordial matter the material cause
-D. Nyāya makes God both efficient and material cause, unlike every Vedānta school
-
-**Answer: C.** Madhva makes God the efficient cause and dependent primordial matter the material cause
-
-- **A:** Advaita makes the absolute both causes precisely because no second material can exist; ignorance is the explanation of appearance, not an independent stuff alongside the absolute.
-- **B:** This is Madhva's position, not Rāmānuja's; Rāmānuja makes the absolute both causes through the real transformation of its non-conscious mode.
-- **C:** Correct — for Madhva God is efficient cause, primordial matter is the real dependent material cause, and universal dependence coexists with real eternal difference.
-- **D:** Nyāya assigns efficient causality to God and material causality to eternal atoms, which is the very split Vedānta claims to overcome.
-
-**Examiner trap 4:** The formula "Brahman is both efficient and material cause" is applied to all of Vedānta, whereas it holds for Advaita and Viśiṣṭādvaita in different senses and is denied by Madhva.
+A. Nyāya makes God both efficient and material cause, unlike every Vedānta school
+B. Advaita makes the absolute the efficient cause only, with ignorance supplying the material cause
+C. Rāmānuja makes God the efficient cause and dependent primordial matter the material cause
+D. Madhva makes God the efficient cause and dependent primordial matter the material cause
 
 #### MCQ 5. Why the instrument list is six and then restricted
 
@@ -115,15 +68,6 @@ B. Three are accepted, and inference is treated as the principal route to the no
 C. Six are accepted, and all six retain their full validity even after the absolute has been realised
 D. Perception is rejected outright, because the world that perception presents is dependently real
 
-**Answer: A.** Six are accepted, all confined to the empirical level, and testimony alone discloses the absolute
-
-- **A:** Correct — the Bhāṭṭa list of six is retained, the triad of knower, means and known confines all six to the empirical order, and revelation removes ignorance and lapses with it, as the clearing-nut settles with the mud.
-- **B:** Three is the Viśiṣṭādvaita and Dvaita count, and inference is expressly disqualified because there is no perceived instance of the absolute and no mark uniquely co-present with it.
-- **C:** Post-realisation survival of the instruments would leave a residual duality of knower and known, which is precisely what the non-dual thesis forbids.
-- **D:** Perception is denied ultimacy, not empirical validity; the world it presents is publicly valid and law-governed at its own level.
-
-**Examiner trap 5:** Writing that Advaita "rejects perception and inference" converts a two-level epistemology into scepticism and forfeits the distinction between denying ultimacy and denying validity.
-
 #### MCQ 6. Rāmānuja on indeterminate perception
 
 What exactly does Rāmānuja reject in the theory of indeterminate perception?
@@ -133,50 +77,23 @@ B. He accepts indeterminate perception but denies that any cognition grasps a qu
 C. He accepts indeterminate perception and holds that it does grasp a wholly qualifierless object
 D. He treats indeterminate and determinate perception as two names for one undifferentiated act
 
-**Answer: B.** He accepts indeterminate perception but denies that any cognition grasps a qualifierless object
-
-- **A:** He does not abolish indeterminate perception; he redefines it as the first cognition of an individual already apprehended with its configuration.
-- **B:** Correct — his thesis that all cognition is of the qualified is aimed at the possibility of a qualifierless object, which is why the qualityless absolute cannot be established by perception.
-- **C:** This would concede exactly what his argument denies, and would leave Advaita's absolute epistemically available.
-- **D:** He distinguishes them by order and content: the first cognition grasps the individual with its structure, the later one additionally recognises the generic character as recurrent.
-
-**Examiner trap 6:** Candidates report that Rāmānuja "denies nirvikalpaka perception," which misstates a redefinition as a rejection and loses the precise target of his argument.
-
 #### MCQ 7. Placing the Lord
 
 Which sequence correctly matches each school to its placement of the Lord?
 
-A. Advaita — the Lord is the final truth; Viśiṣṭādvaita — the Lord is provisional; Dvaita — the Lord is a mode
-B. Advaita — the Lord is unreal; Viśiṣṭādvaita — the Lord is only a world-soul; Dvaita — the Lord is one independent among many
-C. Advaita — the Lord is a semblance without cosmic function; Viśiṣṭādvaita — the Lord is qualityless; Dvaita — the Lord is dependent
-D. Advaita — the Lord is conditioned by illusion; Viśiṣṭādvaita — the Lord is the absolute; Dvaita — the Lord alone is independent
-
-**Answer: D.** Advaita — the Lord is conditioned by illusion; Viśiṣṭādvaita — the Lord is the absolute; Dvaita — the Lord alone is independent
-
-- **A:** Inverts Advaita and Viśiṣṭādvaita, and turns Madhva's supremely independent God into a mode, which is the one status his system exists to deny.
-- **B:** "Unreal" misstates a placement that is fully real at the empirical level, and Madhva admits exactly one independent reality, not several.
-- **C:** In Advaita the Lord is precisely the cosmically functioning creator and moral governor at the empirical level, and Rāmānuja's Lord is qualified, never qualityless.
-- **D:** Correct — conditioned by illusion, identical with the absolute, and uniquely independent are the three placements, and each generates that school's account of devotion.
-
-**Examiner trap 7:** Writing that "Advaita denies God" ignores that Advaita affirms the Lord as fully real at the empirical level and denies only ultimacy, which is the distinction the examiner is testing.
+A. Advaita — the Lord is unreal; Viśiṣṭādvaita — the Lord is only a world-soul; Dvaita — the Lord is one independent among many
+B. Advaita — the Lord is a semblance without cosmic function; Viśiṣṭādvaita — the Lord is qualityless; Dvaita — the Lord is dependent
+C. Advaita — the Lord is conditioned by illusion; Viśiṣṭādvaita — the Lord is the absolute; Dvaita — the Lord alone is independent
+D. Advaita — the Lord is the final truth; Viśiṣṭādvaita — the Lord is provisional; Dvaita — the Lord is a mode
 
 #### MCQ 8. The witness and the three states
 
 Which statement correctly represents Advaita's argument from the three states of experience?
 
-A. The report from deep sleep proves non-dual identity in a way that every rival school must accept
-B. The fourth standpoint is a further temporal episode that follows the state of deep sleep itself
-C. The report "I slept peacefully; I knew nothing" presupposes continuity and supports a witness
-D. In deep sleep the witness itself lapses, which is why the sleeper reports having known nothing
-
-**Answer: C.** The report "I slept peacefully; I knew nothing" presupposes continuity and supports a witness
-
-- **A:** The inference is school-relative; Rāmānuja and Nyāya accept an enduring self while rejecting its identity with the non-dual absolute, so presenting it as neutral proof overstates it.
-- **B:** The fourth standpoint is not another episode in a temporal series but the consciousness that underlies and illumines waking, dream and deep sleep alike.
-- **C:** Correct — a report about a period without object-cognition requires something that did not lapse during it, which is why manifestation is assigned to consciousness rather than to any mental state.
-- **D:** If the witness lapsed there would be nothing to ground the later report, and the argument would collapse into the very discontinuity it is designed to exclude.
-
-**Examiner trap 8:** The deep-sleep argument is presented as a knock-down proof of non-duality, when its honest strength is that it establishes an enduring witness and leaves the identity-claim to be argued separately.
+A. In deep sleep the witness itself lapses, which is why the sleeper reports having known nothing
+B. The report from deep sleep proves non-dual identity in a way that every rival school must accept
+C. The fourth standpoint is a further temporal episode that follows the state of deep sleep itself
+D. The report "I slept peacefully; I knew nothing" presupposes continuity and supports a witness
 
 #### MCQ 9. Three non-dual models of individuality
 
@@ -187,68 +104,32 @@ B. Limitation with Padmapāda and the mirrored face; reflection with Vācaspati 
 C. Semblance with Vācaspati Miśra and the mirrored face; limitation with Padmapāda and pot-space
 D. Reflection with Vācaspati Miśra and pot-space; semblance with Padmapāda and the mirrored face
 
-**Answer: A.** Limitation with Vācaspati Miśra and pot-space; reflection with Padmapāda and the mirrored face
-
-- **A:** Correct — delimitation by adjuncts is illustrated by one space appearing as many pot-spaces, while reflection in ignorance is illustrated by one face yielding many images.
-- **B:** Exchanges both the names and the images, so every element of the pairing is displaced by one position.
-- **C:** Attaches the semblance model to the wrong expositor and gives it the reflection image, while assigning the limitation image to the reflection line.
-- **D:** Gives the reflection model the limitation image and leaves the semblance model, which stresses ontological thinness, attached to a reflection analogy.
-
-**Examiner trap 9:** Because both models explain the same fact, candidates attach either name to either model, and the pot-space and mirror images are then swapped along with them.
-
 #### MCQ 10. Rāmānuja's device for a wide-knowing atomic self
 
 Why does an atomic self in Viśiṣṭādvaita not have a correspondingly narrow range of cognition?
 
-A. Because the self physically expands in exact proportion to the number of objects it is knowing
-B. Because atomicity is a property only of the liberated self and never of the self while it is bound
-C. Because attributive consciousness is a quality of the self that reveals objects and can extend
-D. Because the self temporarily borrows the Lord's omniscience during every single act of knowing
-
-**Answer: C.** Because attributive consciousness is a quality of the self that reveals objects and can extend
-
-- **A:** No physical expansion is proposed; the substantive self remains atomic and the extension belongs to its revealing quality.
-- **B:** Atomicity characterises the self as such; what differs between bondage and liberation is the degree of karmic obstruction on its attributive consciousness.
-- **C:** Correct — attributive consciousness contracts under karmic obstruction and expands without obstruction in liberation, so cognitive reach is decoupled from the size of the knower.
-- **D:** Borrowed omniscience would erase the self's status as a real knower and would make every cognition a divine act rather than the self's own.
-
-**Examiner trap 10:** Answers state that the self is atomic and then describe it as knowing distant objects without naming attributive consciousness, leaving an apparent contradiction where a precise doctrine exists.
+A. Because atomicity is a property only of the liberated self and never of the self while it is bound
+B. Because attributive consciousness is a quality of the self that reveals objects and can extend
+C. Because the self temporarily borrows the Lord's omniscience during every single act of knowing
+D. Because the self physically expands in exact proportion to the number of objects it is knowing
 
 #### MCQ 11. Grades of reality
 
 Which statement about the status of the world in Advaita Vedānta is correct?
 
-A. The world is wholly non-existent, like a hare's horn, and appears only through the misuse of language
-B. The world is dependently real: denied absolute reality but retaining public, law-governed validity
-C. The world is ultimately real but is temporarily hidden from us by the concealing power of ignorance
-D. The world occupies the apparent level of reality along with dream objects and the shell-silver illusion
-
-**Answer: B.** The world is dependently real: denied absolute reality but retaining public, law-governed validity
-
-- **A:** What is wholly non-existent never appears at all, whereas the world appears, coheres and supports action, which is exactly the difference the doctrine is built to mark.
-- **B:** Correct — the middle grade denies independence while preserving empirical functioning, which is why sublation by knowledge of the absolute is possible without collapsing into nihilism.
-- **C:** Ultimacy is precisely what is withheld; concealment explains why the absolute is not recognised, not why an ultimately real world is hidden.
-- **D:** The apparent level covers private, within-experience cancellations such as dream and shell-silver, while the world holds the empirical level with intersubjective validity.
-
-**Examiner trap 11:** Collapsing the middle grade into either of the outer two produces either realism or nihilism, and the single sentence "the world is unreal" is the commonest way candidates do it.
+A. The world occupies the apparent level of reality along with dream objects and the shell-silver illusion
+B. The world is wholly non-existent, like a hare's horn, and appears only through the misuse of language
+C. The world is dependently real: denied absolute reality but retaining public, law-governed validity
+D. The world is ultimately real but is temporarily hidden from us by the concealing power of ignorance
 
 #### MCQ 12. Apparent transformation and real transformation
 
 What is the best verdict on the claim that apparent transformation is the logical development of real transformation?
 
-A. It is straightforwardly true, since both doctrines assert that the effect really pre-exists in the cause
-B. It is straightforwardly false, since the two doctrines share no premise whatever
-C. It is partly true: the structure of cause-dependence is inherited, but the commitment to real change is abandoned
-D. The question cannot be answered, since real transformation belongs to Sāṃkhya and comparison across schools is illegitimate
-
-**Answer: C.** It is partly true: the structure of cause-dependence is inherited, but the commitment to real change is abandoned
-
-- **A:** Pre-existence is shared, but real transformation additionally requires genuine modification of the cause, which apparent transformation denies outright.
-- **B:** Both refuse production from nothing and both make the effect cause-dependent, so the shared architecture is real and cannot be waved away.
-- **C:** Correct — agreement is structural and disagreement is ontological, which is why milk-into-curd and rope-into-snake give the effect contrary grades of reality.
-- **D:** Cross-school comparison is precisely what the printed question invites, and Advaita itself develops its position by arguing against real transformation.
-
-**Examiner trap 12:** The word "development" is treated as a yes-or-no prompt, so candidates commit to one side and forfeit the graded verdict that the question is actually testing.
+A. The question cannot be answered, since real transformation belongs to Sāṃkhya and comparison across schools is illegitimate
+B. It is straightforwardly true, since both doctrines assert that the effect really pre-exists in the cause
+C. It is straightforwardly false, since the two doctrines share no premise whatever
+D. It is partly true: the structure of cause-dependence is inherited, but the commitment to real change is abandoned
 
 #### MCQ 13. Two powers and two locations
 
@@ -259,50 +140,23 @@ B. Illusion and ignorance are strictly synonymous terms in every Advaita text wi
 C. Illusion belongs to the individual self and ignorance to the Lord, reversing the usual textual association
 D. Ignorance is a mere absence of knowledge and therefore exercises no positive function whatever in bondage
 
-**Answer: A.** In many formulations illusion is cosmic and linked to the Lord, ignorance individual, though usage varies
-
-- **A:** Correct — the cosmic and individual association is the standard exam formula, and the honest qualification that sources are not uniform is itself part of the correct answer.
-- **B:** Strict synonymy is one usage among several, and asserting it as universal removes a distinction that examiners repeatedly test.
-- **C:** The association runs the other way; reversing it also breaks the link between illusion and the Lord's cosmic function.
-- **D:** Ignorance is held to be positive in form, since a bare absence could not perform both concealment and projection.
-
-**Examiner trap 13:** Candidates either flatten the two terms into synonyms or assert a rigid distinction as though it were universal; the mark-earning answer states the distinction and records the variation.
-
 #### MCQ 14. Two indescribabilities
 
 How do the indescribability of the absolute and the indescribability of illusion differ from one another?
 
-A. They mean the same thing, namely that neither can ever become an object of any means of valid knowledge
-B. The absolute is indescribable because it is sublated, while illusion is indescribable because it is never sublated
-C. The absolute is indescribable because we lack the vocabulary, while illusion is indescribable because it is unreal
-D. The absolute exceeds predication and is never sublated; illusion is indeterminate because experienced yet sublated
-
-**Answer: D.** The absolute exceeds predication and is never sublated; illusion is indeterminate because experienced yet sublated
-
-- **A:** Treating the two as one meaning erases the difference between a surplus that resists predication and an indeterminacy that resists classification.
-- **B:** This reverses both halves: the absolute is the unsublated reality, and it is illusion whose products are sublated by knowledge.
-- **C:** Vocabulary is not the issue; the absolute is non-objectifiable in principle, and illusion is not unreal, since sheer non-being could never appear.
-- **D:** Correct — one term marks what lies beyond the categories, the other marks what falls between them, and only the first is readily conceded by realist rivals.
-
-**Examiner trap 14:** The single word "indescribable" is treated as one doctrine, so the answer describes illusion twice and never states the absolute's non-objectifiability at all.
+A. The absolute is indescribable because we lack the vocabulary, while illusion is indescribable because it is unreal
+B. The absolute exceeds predication and is never sublated; illusion is indeterminate because experienced yet sublated
+C. They mean the same thing, namely that neither can ever become an object of any means of valid knowledge
+D. The absolute is indescribable because it is sublated, while illusion is indescribable because it is never sublated
 
 #### MCQ 15. Where the seven objections bite hardest
 
 On which two objections is Advaita generally regarded as most vulnerable, and for what reason?
 
-A. Concealment and cessation, because both of these replies depend entirely on the rope-snake model
-B. Locus and means of knowing, because the seat and proof of ignorance presuppose Advaita's standpoint
-C. Nature and indefinability, because both of them happen to be answered by the very same trichotomy
-D. Remover and cessation, because the undivided-form mental mode is admittedly a later formulation
-
-**Answer: B.** Locus and means of knowing, because the seat and proof of ignorance presuppose Advaita's standpoint
-
-- **A:** These are the two on which Advaita answers most convincingly, since the logic of sublation applies directly to both.
-- **B:** Correct — two Advaita sub-schools answer the locus question differently, and the disputed datum "I do not know" can be read as a mere absence, so both leave a genuine residue.
-- **C:** Being answered by one trichotomy is not itself a weakness; the weakness there is the prior acceptance of sublatability, which is a different point.
-- **D:** Lateness of a formulation is a caution about attribution, not a defeat of the reply; the removal-objection is answered adequately within the ladder-model.
-
-**Examiner trap 15:** All seven objections are listed with equal weight and no verdict, so a question that says "examine" is answered as though it said "enumerate."
+A. Remover and cessation, because the undivided-form mental mode is admittedly a later formulation
+B. Concealment and cessation, because both of these replies depend entirely on the rope-snake model
+C. Locus and means of knowing, because the seat and proof of ignorance presuppose Advaita's standpoint
+D. Nature and indefinability, because both of them happen to be answered by the very same trichotomy
 
 #### MCQ 16. Superimposition and the theory of error
 
@@ -313,158 +167,77 @@ B. Superimposition explains the status of the erroneous object, while the error-
 C. The error-theory applies only to shell-silver illusions, while superimposition applies only to the world
 D. Superimposition is the process of mutual transference; the error-theory states the object's status
 
-**Answer: D.** Superimposition is the process of mutual transference; the error-theory states the object's status
-
-- **A:** They are distinct doctrines that must be connected but not conflated, and the distinction is regularly examined.
-- **B:** This reverses the two roles: the process is superimposition, and the status of the product is what the error-theory supplies.
-- **C:** Both operate at both scales, which is the point of saying that what shell-silver is to shell, the world is to the absolute.
-- **D:** Correct — the transference of attributes between self and not-self is the process, and calling the presented object neither real nor unreal is the accompanying ontology.
-
-**Examiner trap 16:** Answers use the two terms interchangeably in one paragraph, which makes the argument circular: the error is explained by the process and the process by the error.
-
 #### MCQ 17. The great sentence
 
 How does Advaita make the great sentence "that thou art" philosophically intelligible?
 
-A. By taking both words in their full direct meanings and then asserting their strict literal identity
-B. By abandoning both direct meanings entirely and substituting a purely figurative and poetic sense
-C. By abandoning the incompatible portions of both direct meanings and retaining the implied meaning
-D. By treating the sentence as an injunction to meditate rather than as a statement of accomplished fact
-
-**Answer: C.** By abandoning the incompatible portions of both direct meanings and retaining the implied meaning
-
-- **A:** Literal identity is impossible, since omniscience and cosmic causality cannot be the same as finitude, agency and ignorance.
-- **B:** Total abandonment would leave a figure of speech rather than an identity, and Advaita needs strict identity of essence.
-- **C:** Correct — part-abandoning implication drops the conflicting portions and keeps pure consciousness, exactly as "this is that Devadatta" drops then-there and now-here and keeps the person.
-- **D:** Reading it as an injunction is the earlier-Mīmāṃsā style of subordinating statements of fact to action, which Advaita expressly resists.
-
-**Examiner trap 17:** The Devadatta parallel is quoted as decoration rather than as the argument, so the answer names the device without ever showing what is dropped and what is kept.
+A. By abandoning the incompatible portions of both direct meanings and retaining the implied meaning
+B. By treating the sentence as an injunction to meditate rather than as a statement of accomplished fact
+C. By taking both words in their full direct meanings and then asserting their strict literal identity
+D. By abandoning both direct meanings entirely and substituting a purely figurative and poetic sense
 
 #### MCQ 18. Comparing the three liberations
 
 Which row correctly pairs each school with its own account of liberation?
 
-A. Advaita — eternal service with graded bliss; Viśiṣṭādvaita — recognition of identity; Dvaita — communion without identity
-B. Advaita — communion without identity; Viśiṣṭādvaita — eternal service with graded bliss; Dvaita — recognition of identity
-C. Advaita — recognition of identity; Viśiṣṭādvaita — eternal service with graded bliss; Dvaita — communion without identity
-D. Advaita — recognition of identity; Viśiṣṭādvaita — communion without identity; Dvaita — eternal service with graded bliss
-
-**Answer: D.** Advaita — recognition of identity; Viśiṣṭādvaita — communion without identity; Dvaita — eternal service with graded bliss
-
-- **A:** Rotates all three positions by two places, giving Advaita the doctrine of graded bliss that belongs only to Madhva.
-- **B:** Rotates all three by one place and leaves recognition, which is Advaita's distinctive claim, attached to a school that denies identity outright.
-- **C:** Right about Advaita but exchanges the other two, attaching gradation to Rāmānuja, who holds liberated souls alike in essential type.
-- **D:** Correct — removal of ignorance yields recognition, unobstructed attributive consciousness yields communion, and permanent difference yields graded eternal service.
-
-**Examiner trap 18:** Because all three involve knowledge, devotion or both, candidates conclude that the schools "broadly agree," which is precisely the flattening the 2022 comparison penalises.
+A. Advaita — recognition of identity; Viśiṣṭādvaita — eternal service with graded bliss; Dvaita — communion without identity
+B. Advaita — recognition of identity; Viśiṣṭādvaita — communion without identity; Dvaita — eternal service with graded bliss
+C. Advaita — eternal service with graded bliss; Viśiṣṭādvaita — recognition of identity; Dvaita — communion without identity
+D. Advaita — communion without identity; Viśiṣṭādvaita — eternal service with graded bliss; Dvaita — recognition of identity
 
 #### MCQ 19. Inseparable dependence
 
 Which statement about the doctrine of inseparable dependence is correct?
 
-A. Selves and matter are real, distinct, and incapable of existing or being conceived apart from the absolute
-B. Selves and matter are numerically identical with the absolute once liberating knowledge has been attained
-C. Selves and matter are independent substances related to the absolute only by external efficient causality
-D. Selves and matter are dependent appearances that vanish altogether on the dawning of liberating knowledge
-
-**Answer: A.** Selves and matter are real, distinct, and incapable of existing or being conceived apart from the absolute
-
-- **A:** Correct — the relation is stronger than a conceptual link and weaker than identity, which is exactly what allows real plurality inside a single substantive whole.
-- **B:** Numerical identity is what Rāmānuja denies; treating modes as identical with their substance would collapse his system into the position he attacks.
-- **C:** Independence is denied, and the relation is one of inseparable qualification rather than external causal production.
-- **D:** Vanishing appearances is the Advaita account he replaces; his modes are real and are not cancelled by liberation.
-
-**Examiner trap 19:** Candidates paraphrase the doctrine as "a kind of oneness," which quietly converts an inseparable qualifier into an identity and loses the school's entire middle position.
+A. Selves and matter are independent substances related to the absolute only by external efficient causality
+B. Selves and matter are dependent appearances that vanish altogether on the dawning of liberating knowledge
+C. Selves and matter are real, distinct, and incapable of existing or being conceived apart from the absolute
+D. Selves and matter are numerically identical with the absolute once liberating knowledge has been attained
 
 #### MCQ 20. Fivefold difference
 
 Which set correctly names the five real and eternal differences?
 
-A. God–soul, God–world, soul–world, world–time, and soul–time differences
-B. God–soul, soul–soul, God–matter, matter–time, and soul–time differences
-C. Soul–God, soul–soul, soul–matter, God–matter, matter–matter
-D. Soul–God, soul–matter, God–matter, God–time, and matter–matter differences
-
-**Answer: C.** Soul–God, soul–soul, soul–matter, God–matter, matter–matter
-
-- **A:** Omits both internal differences, which are the members that make plurality irreducible, and introduces time as a relatum that the doctrine does not use.
-- **B:** Retains soul–soul but drops soul–matter and matter–matter, and again imports time into the scheme.
-- **C:** Correct — the two internal differences among souls and among material things are as ultimate as the three cross-category ones, and they carry the doctrine's distinctive consequences.
-- **D:** Drops difference among souls, which is the member that underwrites gradation in liberation, and adds a God–time pair that is not part of the fivefold list.
-
-**Examiner trap 20:** The doctrine is reduced to "difference between God and world," which is compatible with qualified non-dualism as well and therefore proves nothing distinctive about Dvaita.
+A. Soul–God, soul–matter, God–matter, God–time, and matter–matter differences
+B. God–soul, God–world, soul–world, world–time, and soul–time differences
+C. God–soul, soul–soul, God–matter, matter–time, and soul–time differences
+D. Soul–God, soul–soul, soul–matter, God–matter, matter–matter
 
 #### MCQ 21. Nimbārka on matter
 
 According to the standard classification, non-conscious reality in Nimbārka's system includes which items?
 
-A. Ordinary primordial matter, the internal organ, and the great sentences
-B. Ordinary primordial matter, non-prakritic divine substance, and time
-C. Ordinary primordial matter, atoms, and the unseen potency of ritual
-D. Ordinary primordial matter, divine substance, and the individual self
-
-**Answer: B.** Ordinary primordial matter, non-prakritic divine substance, and time
-
-- **A:** The internal organ is a product within material nature, and the great sentences belong to scripture rather than to the ontology of the non-conscious.
-- **B:** Correct — the threefold classification is ordinary material nature and its products, non-prakritic substance associated with the divine realm, and time, with the caution that expositions vary on the placement of time.
-- **C:** Atoms belong to Nyāya-Vaiśeṣika cosmology, and unseen ritual potency belongs to Mīmāṃsā, so both are imports from other systems.
-- **D:** The individual self is conscious by definition and therefore cannot be listed under the non-conscious.
-
-**Examiner trap 21:** Candidates invent extra subtypes to fill the answer, when the required move is to state the adopted threefold classification and record that terminology varies.
+A. Ordinary primordial matter, non-prakritic divine substance, and time
+B. Ordinary primordial matter, atoms, and the unseen potency of ritual
+C. Ordinary primordial matter, divine substance, and the individual self
+D. Ordinary primordial matter, the internal organ, and the great sentences
 
 #### MCQ 22. The chief-wrestler debate
 
 Why is Sāṃkhya treated as Advaita Vedānta's chief metaphysical rival?
 
-A. Because it denies that the effect pre-exists in its cause and so threatens the whole of Vedāntic causation
-B. Because it accepts the authority of revealed scripture even more strictly than the Vedāntins themselves do
-C. Because it makes liberation depend upon the performance of ritual action rather than upon discriminative knowledge
-D. Because it is a close rival: it accepts pre-existence and one material ground, but makes that ground unconscious
-
-**Answer: D.** Because it is a close rival: it accepts pre-existence and one material ground, but makes that ground unconscious
-
-- **A:** Sāṃkhya is the classical defender of the pre-existence of the effect, which is precisely the premise it shares with Vedānta in transformed fashion.
-- **B:** Its distinctive commitments are argued largely on independent grounds, and Śaṃkara's charge is that it cannot claim full scriptural support for a dual ontology.
-- **C:** Sāṃkhya makes liberation turn on discriminative knowledge, which is another point of closeness rather than of divergence.
-- **D:** Correct — proximity in architecture with divergence on the consciousness of the ground is exactly what makes it the decisive match.
-
-**Examiner trap 22:** Sāṃkhya is dismissed as "atheistic materialism," which both misdescribes it and destroys the point that its danger lies in how much it shares with Vedānta.
+A. Because it makes liberation depend upon the performance of ritual action rather than upon discriminative knowledge
+B. Because it is a close rival: it accepts pre-existence and one material ground, but makes that ground unconscious
+C. Because it denies that the effect pre-exists in its cause and so threatens the whole of Vedāntic causation
+D. Because it accepts the authority of revealed scripture even more strictly than the Vedāntins themselves do
 
 #### MCQ 23. Consequences of absolutism
 
 Which statement most accurately expresses the consequence of non-dual absolutism for ethical life?
 
-A. Ethical distinctions are abolished outright, since the absolute alone is finally real
-B. Ethical life remains fully binding at the empirical level while losing its claim to ultimacy
-C. Ethical life is itself ultimate, since purification is necessary for liberating knowledge to dawn
-D. Ethical distinctions belong to the apparent level of reality along with dream objects and illusions
-
-**Answer: B.** Ethical life remains fully binding at the empirical level while losing its claim to ultimacy
-
-- **A:** Abolition is not entailed; the thesis reclassifies rather than cancels, which is why purification remains indispensable in practice.
-- **B:** Correct — duty, merit, sin and karmic causality are valid within worldly existence and are denied only final status, which is exactly the point at which critics press the charge of downgrading.
-- **C:** Necessity as a preparation does not confer ultimacy; action purifies but is not the direct remover of ignorance.
-- **D:** The apparent level covers private cancellations within experience, whereas ethical life belongs to the public empirical order.
-
-**Examiner trap 23:** Answers oscillate between "ethics is destroyed" and "ethics is ultimate," when the doctrine's actual position is binding-but-not-final, and the criticism is precisely about that middle status.
+A. Ethical distinctions belong to the apparent level of reality along with dream objects and illusions
+B. Ethical distinctions are abolished outright, since the absolute alone is finally real
+C. Ethical life remains fully binding at the empirical level while losing its claim to ultimacy
+D. Ethical life is itself ultimate, since purification is necessary for liberating knowledge to dawn
 
 #### MCQ 24. The crypto-Buddhist charge
 
 What is the most defensible assessment of the charge that Advaita is crypto-Buddhism?
 
-A. It fails as an identification, but the shared denial of ultimate world-reality remains a real pressure
-B. It succeeds completely, since both systems deny the reality of the world in exactly the same sense
-C. It is wholly irrelevant, since Advaita and Buddhism share no doctrine or consequence at any level
-D. It fails, because Advaita affirms the independent reality of the world exactly as Nyāya realism does
-
-**Answer: A.** It fails as an identification, but the shared denial of ultimate world-reality remains a real pressure
-
-- **A:** Correct — a shared consequence does not entail a shared premise, so the charge cannot establish identity, yet the convergence on world-negation is a genuine pressure-point rather than nothing.
-- **B:** The senses differ: emptiness is standardly presented as absence of own-being, whereas the absolute is a positive ground that is never sublated.
-- **C:** Denying any shared feature ignores the convergence that generated the charge and makes the reply look evasive.
-- **D:** Advaita denies the world independent ultimate reality, which is exactly what the Nyāya realist affirms, so the two positions are not the same.
-
-**Examiner trap 24:** The charge is either accepted outright or dismissed outright, whereas the mark-earning answer refutes the identification and concedes the pressure.
+A. It succeeds completely, since both systems deny the reality of the world in exactly the same sense
+B. It is wholly irrelevant, since Advaita and Buddhism share no doctrine or consequence at any level
+C. It fails, because Advaita affirms the independent reality of the world exactly as Nyāya realism does
+D. It fails as an identification, but the shared denial of ultimate world-reality remains a real pressure
 
 #### REMEDIAL DRILLS
 
@@ -472,55 +245,28 @@ D. It fails, because Advaita affirms the independent reality of the world exactl
 
 Which statement follows from the distinction between the dependently real and the wholly non-existent?
 
-A. Both are equally cancelled by liberating knowledge, so the distinction has no real work to do
-B. The wholly non-existent appears vividly but briefly, whereas the dependently real never appears
-C. Both are alike products of ignorance, and the difference between them is only one of duration
-D. The dependently real appears and is later sublated; the wholly non-existent never appears
-
-**Answer: D.** The dependently real appears and is later sublated; the wholly non-existent never appears
-
-- **A:** Only the dependently real is cancelled, since cancellation presupposes a prior appearance that the wholly non-existent never had.
-- **B:** This reverses the two: the hare's horn is the standard example of what never appears, and the world is what appears and functions.
-- **C:** Duration is not the criterion; presentability is, and the wholly non-existent fails it absolutely rather than briefly.
-- **D:** Correct — appearance followed by sublation defines the middle grade, and never being presented defines the outer one, which is why the world is not a hare's horn.
-
-**Examiner trap 25:** The sentence "the world is unreal" is written once in the introduction and silently governs the rest of the answer, converting a graded ontology into nihilism.
+A. The dependently real appears and is later sublated; the wholly non-existent never appears
+B. Both are equally cancelled by liberating knowledge, so the distinction has no real work to do
+C. The wholly non-existent appears vividly but briefly, whereas the dependently real never appears
+D. Both are alike products of ignorance, and the difference between them is only one of duration
 
 #### MCQ 26. Qualitylessness is not blankness
 
 Which formulation of the qualityless absolute is correct?
 
-A. It is free of limiting and objectifiable attributes, while being–consciousness–bliss expresses its essence
-B. It is devoid of all nature whatsoever, so that nothing can be said of it either truly or falsely at all
-C. It possesses infinite auspicious qualities but is called qualityless because those qualities stay hidden
-D. It is qualityless at one level and qualified at another level, both of those levels being equally ultimate
-
-**Answer: A.** It is free of limiting and objectifiable attributes, while being–consciousness–bliss expresses its essence
-
-- **A:** Correct — the negation targets predicates that would make the absolute one item among knowable items, and the essence is affirmed rather than removed.
-- **B:** Total absence of nature is the caricature that Rāmānuja attacks, and conceding it hands the critic the argument at the outset.
-- **C:** Hidden qualities is a Viśiṣṭādvaita-flavoured description that misstates both schools, since Rāmānuja's qualities are manifest and Advaita's essence is not a set of qualities.
-- **D:** The two levels are not equally ultimate; the qualified Lord belongs to the empirical order and is sublated in the absolute.
-
-**Examiner trap 26:** A single clause such as "Brahman has no nature at all" undoes an otherwise accurate answer, because every later paragraph then defends an indefensible position.
+A. It is qualityless at one level and qualified at another level, both of those levels being equally ultimate
+B. It is free of limiting and objectifiable attributes, while being–consciousness–bliss expresses its essence
+C. It is devoid of all nature whatsoever, so that nothing can be said of it either truly or falsely at all
+D. It possesses infinite auspicious qualities but is called qualityless because those qualities stay hidden
 
 #### MCQ 27. Inseparable dependence is not identity
 
 Which pair of claims correctly separates Rāmānuja's position from that of Advaita Vedānta?
 
-A. Rāmānuja holds that the modes are numerically identical with the absolute; Advaita holds that they are appearances
-B. Rāmānuja holds that modes are real and inseparable but not identical; Advaita holds that plurality lacks ultimacy
-C. Rāmānuja holds that the modes are independent substances; Advaita holds that they are merely dependent substances
-D. Rāmānuja holds that the modes are sublated in liberation; Advaita holds that they survive the liberating knowledge
-
-**Answer: B.** Rāmānuja holds that modes are real and inseparable but not identical; Advaita holds that plurality lacks ultimacy
-
-- **A:** Numerical identity is exactly the reading Rāmānuja rejects, and attributing it to him erases the middle position his system exists to occupy.
-- **B:** Correct — real distinctness within inseparable dependence on one substantive whole is his thesis, and denial of ultimate plurality is Advaita's.
-- **C:** Independence would make the modes second absolutes, which the doctrine of inseparable existence explicitly forbids.
-- **D:** This inverts both schools: Advaita sublates plurality in liberating knowledge, while Rāmānuja's modes remain real in the liberated state.
-
-**Examiner trap 27:** Because the school is called qualified non-dualism, candidates hear "non-dualism" and describe modes as ultimately one with God, which is the very identity-claim the qualification denies.
+A. Rāmānuja holds that the modes are sublated in liberation; Advaita holds that they survive the liberating knowledge
+B. Rāmānuja holds that the modes are numerically identical with the absolute; Advaita holds that they are appearances
+C. Rāmānuja holds that modes are real and inseparable but not identical; Advaita holds that plurality lacks ultimacy
+D. Rāmānuja holds that the modes are independent substances; Advaita holds that they are merely dependent substances
 
 #### MCQ 28. Naming the two powers correctly
 
@@ -531,6 +277,370 @@ B. Concealment and projection are alternative names for a single undivided funct
 C. Concealment belongs to ignorance alone, while projection is exercised by the absolute itself
 D. Concealment hides the absolute's nature; projection throws up the world of names and forms
 
+#### MCQ 29. Liberation while living
+
+Which statement about liberation while living is correct?
+
+A. It is central to Advaita, and is not accepted in that strict sense by Viśiṣṭādvaita or Dvaita
+B. It is rejected by Advaita, which requires the fall of the body before liberation can occur
+C. It is accepted by Dvaita, because gradation among liberated souls begins during embodiment
+D. It is accepted by all three principal Vedānta schools as the very highest form of liberation
+
+#### MCQ 30. Reading the printed 2018 demand
+
+The 2018 paper asks how Rāmānuja refutes the doctrine of illusion and why illusion is "needed" by both Rāmānuja and Śaṅkara. What is the correct approach?
+
+A. Decline to answer the second sentence, on the ground that it is philosophically unusual
+B. Flag the anomaly, state that Rāmānuja rejects Advaitic illusion, and compare explanations
+C. Treat the second sentence as evidence that Śaṅkara borrowed the doctrine from Rāmānuja
+D. Argue that Rāmānuja secretly accepts an indescribable cosmic illusion under a different name
+
+#### MCQ 31. Distinguishing a summary verse from a great sentence
+
+Which statement about the verse "the absolute is real, the world is dependent appearance, the individual self is none other than the absolute" is correct?
+
+A. It is a compact formulation of Rāmānuja's position on the world and the individual self
+B. It is a Dvaita verse used to summarise the doctrine of the fivefold real differences
+C. It is a traditional Advaita summary rather than a standard Upaniṣadic great sentence
+D. It is the fifth great sentence, drawn from the same corpus as "that thou art" itself
+
+#### MCQ 32. Attribution and ownership discipline
+
+Which statement is correct about attribution and question-ownership within this syllabus item?
+
+A. The unique differentiator in Dvaita is an undisputed doctrine with a single standard formulation
+B. The undivided-form mental mode is a verbatim formula of Śaṅkara, used in his own commentary on the aphorisms
+C. The reflection model is associated with Vācaspati Miśra, while the limitation model belongs to Padmapāda
+D. The 2018 question on the Advaita reaction to real transformation is primary-owned by Sāṃkhya
+
+#### MCQ 33. Nimbārka's dependence without erasure
+
+Which account best captures difference-and-non-difference (*dvaitādvaita*)?
+
+A. Individual selves and matter are real, distinct dependent attributes or powers of Brahman: neither independent rival absolutes nor numerically identical with Brahman.
+B. God, souls and matter are real and eternally differentiated, with dependence marking divine sovereignty rather than constitutive non-difference.
+C. Souls and matter are real dependent modes within one qualified Brahman, so difference is wholly a distinction between substance and its attributes rather than coequal difference and non-difference.
+D. Souls and matter have empirical reality but lose all distinctness on reaching ultimate Brahman, which alone survives sublation.
+
+#### MCQ 34. Rāmānuja's cit–acit objection
+
+Which difficulty specifically concerns the *transfer of a dependent's defects* to perfect Brahman when Rāmānuja's body–soul analogy is read literally, rather than intrinsic change, moral agency or ontological independence?
+
+A. Individual agents' karmic culpability must either transfer to their indwelling divine ruler or negate any meaningful dependent agency.
+B. A finite body's imperfections and a conscious self's bondage seem to become defects in an all-perfect indwelling Brahman if their unity is understood without the distinction of dependent modes.
+C. Souls' real distinctness seems to require a second independent substance, thereby removing their status as Brahman's inseparable modes.
+D. Changes in material modes entail corresponding intrinsic changes in Brahman even if Brahman remains the controlling inner ruler.
+
+#### MCQ 35. Difference and liberation in Madhva
+
+Which reading of fivefold difference (*pañcavidha-bheda*) is correct?
+
+A. They are the five pairings among God, selves and matter at the empirical level, but self–self and matter–matter distinction is dissolved in liberation.
+B. They preserve God–self, God–matter and self–matter difference, but treat self–self and matter–matter plurality as reducible to shared universal natures.
+C. They distinguish God–self, God–matter, self–self, self–matter and matter–matter; liberation does not abolish this real differentiation.
+D. They mark real God–self and self–matter difference in bondage, but merge the five relations when a liberated self knows its identity with God.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.** The tension is exegetical and metaphysical, not the result of two incompatible canons.
+
+- **A:** Correct — both account for both groups of sentences, but the status assigned to difference determines their doctrines of self, world and liberation.
+- **B:** Incorrect: real dependent modes characterise Rāmānuja's position, not Śaṅkara's ultimate sublation of separative individuality.
+- **C:** Incorrect: Rāmānuja refuses to demote real God–self distinction to mere linguistic appearance.
+- **D:** Incorrect: Advaita does not treat ultimate difference as a settled literal premise of its scriptural reading.
+
+**Examiner trap 1:** Citation of a single identity or difference sentence cannot decide the debate without explaining which statements govern the reading of the others.
+
+#### MCQ 2 — solution
+
+**Answer: B.** The relational world-source formula does not convert Advaita's intrinsic nature into a changing material object.
+
+- **A:** Incorrect: it turns the causal relation used to identify Brahman through the world into change in Brahman's ultimate essence and demotes the essential definition to a mere empirical indicator.
+- **B:** Correct: the *svarūpa* formula expresses nature rather than detachable qualities, while the *taṭastha* formula indicates the same Brahman through empirical world-causation without forcing real ultimate modification.
+- **C:** Incorrect for **Advaita**: real qualified selves and matter fit Rāmānuja's account, not the Advaitin reply to how causal language can operate without ultimate difference.
+- **D:** Incorrect: Īśvara as empirically operative Brahman is not a second independent ultimate; splitting the referents leaves the scriptural causal indication of Brahman unanswered.
+
+**Examiner trap 2:** Two legitimate definitions need not assert two Brahmans or a real transformation of the *nirguṇa* absolute; importing qualified non-dualism as Advaita's reply collapses the comparison.
+
+#### MCQ 3 — solution
+
+**Answer: C.** Advaita denies limiting attributes but affirms essence; Rāmānuja affirms infinite auspicious qualities; Madhva adds independence
+
+- **A:** Rāmānuja rejects any qualityless level above the personal Lord, so pairing him with Advaita on this point inverts his central objection.
+- **B:** Only Advaita admits a qualityless level; for the other two there is no such level for worship to be measured against.
+- **C:** Correct — qualityless means free of limiting, relational and objectifiable attributes while being–consciousness–bliss remains the essence; Rāmānuja's absolute is qualified by infinite auspicious qualities; Madhva's is qualified and above all independent.
+- **D:** Contains the two commonest errors at once: it turns qualitylessness into blankness and credits Rāmānuja with a two-level scheme he explicitly rejects.
+
+**Examiner trap 3:** The sentence "Rāmānuja accepts both nirguṇa and saguṇa Brahman" is written almost reflexively and destroys the answer, because his entire critique presupposes that no level lies above the personal Lord.
+
+#### MCQ 4 — solution
+
+**Answer: D.** Madhva makes God the efficient cause and dependent primordial matter the material cause
+
+- **A:** Nyāya assigns efficient causality to God and material causality to eternal atoms, which is the very split Vedānta claims to overcome.
+- **B:** Advaita makes the absolute both causes precisely because no second material can exist; ignorance is the explanation of appearance, not an independent stuff alongside the absolute.
+- **C:** This is Madhva's position, not Rāmānuja's; Rāmānuja makes the absolute both causes through the real transformation of its non-conscious mode.
+- **D:** Correct — for Madhva God is efficient cause, primordial matter is the real dependent material cause, and universal dependence coexists with real eternal difference.
+
+**Examiner trap 4:** The formula "Brahman is both efficient and material cause" is applied to all of Vedānta, whereas it holds for Advaita and Viśiṣṭādvaita in different senses and is denied by Madhva.
+
+#### MCQ 5 — solution
+
+**Answer: A.** Six are accepted, all confined to the empirical level, and testimony alone discloses the absolute
+
+- **A:** Correct — the Bhāṭṭa list of six is retained, the triad of knower, means and known confines all six to the empirical order, and revelation removes ignorance and lapses with it, as the clearing-nut settles with the mud.
+- **B:** Three is the Viśiṣṭādvaita and Dvaita count, and inference is expressly disqualified because there is no perceived instance of the absolute and no mark uniquely co-present with it.
+- **C:** Post-realisation survival of the instruments would leave a residual duality of knower and known, which is precisely what the non-dual thesis forbids.
+- **D:** Perception is denied ultimacy, not empirical validity; the world it presents is publicly valid and law-governed at its own level.
+
+**Examiner trap 5:** Writing that Advaita "rejects perception and inference" converts a two-level epistemology into scepticism and forfeits the distinction between denying ultimacy and denying validity.
+
+#### MCQ 6 — solution
+
+**Answer: B.** He accepts indeterminate perception but denies that any cognition grasps a qualifierless object
+
+- **A:** He does not abolish indeterminate perception; he redefines it as the first cognition of an individual already apprehended with its configuration.
+- **B:** Correct — his thesis that all cognition is of the qualified is aimed at the possibility of a qualifierless object, which is why the qualityless absolute cannot be established by perception.
+- **C:** This would concede exactly what his argument denies, and would leave Advaita's absolute epistemically available.
+- **D:** He distinguishes them by order and content: the first cognition grasps the individual with its structure, the later one additionally recognises the generic character as recurrent.
+
+**Examiner trap 6:** Candidates report that Rāmānuja "denies nirvikalpaka perception," which misstates a redefinition as a rejection and loses the precise target of his argument.
+
+#### MCQ 7 — solution
+
+**Answer: C.** Advaita — the Lord is conditioned by illusion; Viśiṣṭādvaita — the Lord is the absolute; Dvaita — the Lord alone is independent
+
+- **A:** "Unreal" misstates a placement that is fully real at the empirical level, and Madhva admits exactly one independent reality, not several.
+- **B:** In Advaita the Lord is precisely the cosmically functioning creator and moral governor at the empirical level, and Rāmānuja's Lord is qualified, never qualityless.
+- **C:** Correct — conditioned by illusion, identical with the absolute, and uniquely independent are the three placements, and each generates that school's account of devotion.
+- **D:** Inverts Advaita and Viśiṣṭādvaita, and turns Madhva's supremely independent God into a mode, which is the one status his system exists to deny.
+
+**Examiner trap 7:** Writing that "Advaita denies God" ignores that Advaita affirms the Lord as fully real at the empirical level and denies only ultimacy, which is the distinction the examiner is testing.
+
+#### MCQ 8 — solution
+
+**Answer: D.** The report "I slept peacefully; I knew nothing" presupposes continuity and supports a witness
+
+- **A:** If the witness lapsed there would be nothing to ground the later report, and the argument would collapse into the very discontinuity it is designed to exclude.
+- **B:** The inference is school-relative; Rāmānuja and Nyāya accept an enduring self while rejecting its identity with the non-dual absolute, so presenting it as neutral proof overstates it.
+- **C:** The fourth standpoint is not another episode in a temporal series but the consciousness that underlies and illumines waking, dream and deep sleep alike.
+- **D:** Correct — a report about a period without object-cognition requires something that did not lapse during it, which is why manifestation is assigned to consciousness rather than to any mental state.
+
+**Examiner trap 8:** The deep-sleep argument is presented as a knock-down proof of non-duality, when its honest strength is that it establishes an enduring witness and leaves the identity-claim to be argued separately.
+
+#### MCQ 9 — solution
+
+**Answer: A.** Limitation with Vācaspati Miśra and pot-space; reflection with Padmapāda and the mirrored face
+
+- **A:** Correct — delimitation by adjuncts is illustrated by one space appearing as many pot-spaces, while reflection in ignorance is illustrated by one face yielding many images.
+- **B:** Exchanges both the names and the images, so every element of the pairing is displaced by one position.
+- **C:** Attaches the semblance model to the wrong expositor and gives it the reflection image, while assigning the limitation image to the reflection line.
+- **D:** Gives the reflection model the limitation image and leaves the semblance model, which stresses ontological thinness, attached to a reflection analogy.
+
+**Examiner trap 9:** Because both models explain the same fact, candidates attach either name to either model, and the pot-space and mirror images are then swapped along with them.
+
+#### MCQ 10 — solution
+
+**Answer: B.** Because attributive consciousness is a quality of the self that reveals objects and can extend
+
+- **A:** Atomicity characterises the self as such; what differs between bondage and liberation is the degree of karmic obstruction on its attributive consciousness.
+- **B:** Correct — attributive consciousness contracts under karmic obstruction and expands without obstruction in liberation, so cognitive reach is decoupled from the size of the knower.
+- **C:** Borrowed omniscience would erase the self's status as a real knower and would make every cognition a divine act rather than the self's own.
+- **D:** No physical expansion is proposed; the substantive self remains atomic and the extension belongs to its revealing quality.
+
+**Examiner trap 10:** Answers state that the self is atomic and then describe it as knowing distant objects without naming attributive consciousness, leaving an apparent contradiction where a precise doctrine exists.
+
+#### MCQ 11 — solution
+
+**Answer: C.** The world is dependently real: denied absolute reality but retaining public, law-governed validity
+
+- **A:** The apparent level covers private, within-experience cancellations such as dream and shell-silver, while the world holds the empirical level with intersubjective validity.
+- **B:** What is wholly non-existent never appears at all, whereas the world appears, coheres and supports action, which is exactly the difference the doctrine is built to mark.
+- **C:** Correct — the middle grade denies independence while preserving empirical functioning, which is why sublation by knowledge of the absolute is possible without collapsing into nihilism.
+- **D:** Ultimacy is precisely what is withheld; concealment explains why the absolute is not recognised, not why an ultimately real world is hidden.
+
+**Examiner trap 11:** Collapsing the middle grade into either of the outer two produces either realism or nihilism, and the single sentence "the world is unreal" is the commonest way candidates do it.
+
+#### MCQ 12 — solution
+
+**Answer: D.** It is partly true: the structure of cause-dependence is inherited, but the commitment to real change is abandoned
+
+- **A:** Cross-school comparison is precisely what the printed question invites, and Advaita itself develops its position by arguing against real transformation.
+- **B:** Pre-existence is shared, but real transformation additionally requires genuine modification of the cause, which apparent transformation denies outright.
+- **C:** Both refuse production from nothing and both make the effect cause-dependent, so the shared architecture is real and cannot be waved away.
+- **D:** Correct — agreement is structural and disagreement is ontological, which is why milk-into-curd and rope-into-snake give the effect contrary grades of reality.
+
+**Examiner trap 12:** The word "development" is treated as a yes-or-no prompt, so candidates commit to one side and forfeit the graded verdict that the question is actually testing.
+
+#### MCQ 13 — solution
+
+**Answer: A.** In many formulations illusion is cosmic and linked to the Lord, ignorance individual, though usage varies
+
+- **A:** Correct — the cosmic and individual association is the standard exam formula, and the honest qualification that sources are not uniform is itself part of the correct answer.
+- **B:** Strict synonymy is one usage among several, and asserting it as universal removes a distinction that examiners repeatedly test.
+- **C:** The association runs the other way; reversing it also breaks the link between illusion and the Lord's cosmic function.
+- **D:** Ignorance is held to be positive in form, since a bare absence could not perform both concealment and projection.
+
+**Examiner trap 13:** Candidates either flatten the two terms into synonyms or assert a rigid distinction as though it were universal; the mark-earning answer states the distinction and records the variation.
+
+#### MCQ 14 — solution
+
+**Answer: B.** The absolute exceeds predication and is never sublated; illusion is indeterminate because experienced yet sublated
+
+- **A:** Vocabulary is not the issue; the absolute is non-objectifiable in principle, and illusion is not unreal, since sheer non-being could never appear.
+- **B:** Correct — one term marks what lies beyond the categories, the other marks what falls between them, and only the first is readily conceded by realist rivals.
+- **C:** Treating the two as one meaning erases the difference between a surplus that resists predication and an indeterminacy that resists classification.
+- **D:** This reverses both halves: the absolute is the unsublated reality, and it is illusion whose products are sublated by knowledge.
+
+**Examiner trap 14:** The single word "indescribable" is treated as one doctrine, so the answer describes illusion twice and never states the absolute's non-objectifiability at all.
+
+#### MCQ 15 — solution
+
+**Answer: C.** Locus and means of knowing, because the seat and proof of ignorance presuppose Advaita's standpoint
+
+- **A:** Lateness of a formulation is a caution about attribution, not a defeat of the reply; the removal-objection is answered adequately within the ladder-model.
+- **B:** These are the two on which Advaita answers most convincingly, since the logic of sublation applies directly to both.
+- **C:** Correct — two Advaita sub-schools answer the locus question differently, and the disputed datum "I do not know" can be read as a mere absence, so both leave a genuine residue.
+- **D:** Being answered by one trichotomy is not itself a weakness; the weakness there is the prior acceptance of sublatability, which is a different point.
+
+**Examiner trap 15:** All seven objections are listed with equal weight and no verdict, so a question that says "examine" is answered as though it said "enumerate."
+
+#### MCQ 16 — solution
+
+**Answer: D.** Superimposition is the process of mutual transference; the error-theory states the object's status
+
+- **A:** They are distinct doctrines that must be connected but not conflated, and the distinction is regularly examined.
+- **B:** This reverses the two roles: the process is superimposition, and the status of the product is what the error-theory supplies.
+- **C:** Both operate at both scales, which is the point of saying that what shell-silver is to shell, the world is to the absolute.
+- **D:** Correct — the transference of attributes between self and not-self is the process, and calling the presented object neither real nor unreal is the accompanying ontology.
+
+**Examiner trap 16:** Answers use the two terms interchangeably in one paragraph, which makes the argument circular: the error is explained by the process and the process by the error.
+
+#### MCQ 17 — solution
+
+**Answer: A.** By abandoning the incompatible portions of both direct meanings and retaining the implied meaning
+
+- **A:** Correct — part-abandoning implication drops the conflicting portions and keeps pure consciousness, exactly as "this is that Devadatta" drops then-there and now-here and keeps the person.
+- **B:** Reading it as an injunction is the earlier-Mīmāṃsā style of subordinating statements of fact to action, which Advaita expressly resists.
+- **C:** Literal identity is impossible, since omniscience and cosmic causality cannot be the same as finitude, agency and ignorance.
+- **D:** Total abandonment would leave a figure of speech rather than an identity, and Advaita needs strict identity of essence.
+
+**Examiner trap 17:** The Devadatta parallel is quoted as decoration rather than as the argument, so the answer names the device without ever showing what is dropped and what is kept.
+
+#### MCQ 18 — solution
+
+**Answer: B.** Advaita — recognition of identity; Viśiṣṭādvaita — communion without identity; Dvaita — eternal service with graded bliss
+
+- **A:** Right about Advaita but exchanges the other two, attaching gradation to Rāmānuja, who holds liberated souls alike in essential type.
+- **B:** Correct — removal of ignorance yields recognition, unobstructed attributive consciousness yields communion, and permanent difference yields graded eternal service.
+- **C:** Rotates all three positions by two places, giving Advaita the doctrine of graded bliss that belongs only to Madhva.
+- **D:** Rotates all three by one place and leaves recognition, which is Advaita's distinctive claim, attached to a school that denies identity outright.
+
+**Examiner trap 18:** Because all three involve knowledge, devotion or both, candidates conclude that the schools "broadly agree," which is precisely the flattening the 2022 comparison penalises.
+
+#### MCQ 19 — solution
+
+**Answer: C.** Selves and matter are real, distinct, and incapable of existing or being conceived apart from the absolute
+
+- **A:** Independence is denied, and the relation is one of inseparable qualification rather than external causal production.
+- **B:** Vanishing appearances is the Advaita account he replaces; his modes are real and are not cancelled by liberation.
+- **C:** Correct — the relation is stronger than a conceptual link and weaker than identity, which is exactly what allows real plurality inside a single substantive whole.
+- **D:** Numerical identity is what Rāmānuja denies; treating modes as identical with their substance would collapse his system into the position he attacks.
+
+**Examiner trap 19:** Candidates paraphrase the doctrine as "a kind of oneness," which quietly converts an inseparable qualifier into an identity and loses the school's entire middle position.
+
+#### MCQ 20 — solution
+
+**Answer: D.** Soul–God, soul–soul, soul–matter, God–matter, matter–matter
+
+- **A:** Drops difference among souls, which is the member that underwrites gradation in liberation, and adds a God–time pair that is not part of the fivefold list.
+- **B:** Omits both internal differences, which are the members that make plurality irreducible, and introduces time as a relatum that the doctrine does not use.
+- **C:** Retains soul–soul but drops soul–matter and matter–matter, and again imports time into the scheme.
+- **D:** Correct — the two internal differences among souls and among material things are as ultimate as the three cross-category ones, and they carry the doctrine's distinctive consequences.
+
+**Examiner trap 20:** The doctrine is reduced to "difference between God and world," which is compatible with qualified non-dualism as well and therefore proves nothing distinctive about Dvaita.
+
+#### MCQ 21 — solution
+
+**Answer: A.** Ordinary primordial matter, non-prakritic divine substance, and time
+
+- **A:** Correct — the threefold classification is ordinary material nature and its products, non-prakritic substance associated with the divine realm, and time, with the caution that expositions vary on the placement of time.
+- **B:** Atoms belong to Nyāya-Vaiśeṣika cosmology, and unseen ritual potency belongs to Mīmāṃsā, so both are imports from other systems.
+- **C:** The individual self is conscious by definition and therefore cannot be listed under the non-conscious.
+- **D:** The internal organ is a product within material nature, and the great sentences belong to scripture rather than to the ontology of the non-conscious.
+
+**Examiner trap 21:** Candidates invent extra subtypes to fill the answer, when the required move is to state the adopted threefold classification and record that terminology varies.
+
+#### MCQ 22 — solution
+
+**Answer: B.** Because it is a close rival: it accepts pre-existence and one material ground, but makes that ground unconscious
+
+- **A:** Sāṃkhya makes liberation turn on discriminative knowledge, which is another point of closeness rather than of divergence.
+- **B:** Correct — proximity in architecture with divergence on the consciousness of the ground is exactly what makes it the decisive match.
+- **C:** Sāṃkhya is the classical defender of the pre-existence of the effect, which is precisely the premise it shares with Vedānta in transformed fashion.
+- **D:** Its distinctive commitments are argued largely on independent grounds, and Śaṃkara's charge is that it cannot claim full scriptural support for a dual ontology.
+
+**Examiner trap 22:** Sāṃkhya is dismissed as "atheistic materialism," which both misdescribes it and destroys the point that its danger lies in how much it shares with Vedānta.
+
+#### MCQ 23 — solution
+
+**Answer: C.** Ethical life remains fully binding at the empirical level while losing its claim to ultimacy
+
+- **A:** The apparent level covers private cancellations within experience, whereas ethical life belongs to the public empirical order.
+- **B:** Abolition is not entailed; the thesis reclassifies rather than cancels, which is why purification remains indispensable in practice.
+- **C:** Correct — duty, merit, sin and karmic causality are valid within worldly existence and are denied only final status, which is exactly the point at which critics press the charge of downgrading.
+- **D:** Necessity as a preparation does not confer ultimacy; action purifies but is not the direct remover of ignorance.
+
+**Examiner trap 23:** Answers oscillate between "ethics is destroyed" and "ethics is ultimate," when the doctrine's actual position is binding-but-not-final, and the criticism is precisely about that middle status.
+
+#### MCQ 24 — solution
+
+**Answer: D.** It fails as an identification, but the shared denial of ultimate world-reality remains a real pressure
+
+- **A:** The senses differ: emptiness is standardly presented as absence of own-being, whereas the absolute is a positive ground that is never sublated.
+- **B:** Denying any shared feature ignores the convergence that generated the charge and makes the reply look evasive.
+- **C:** Advaita denies the world independent ultimate reality, which is exactly what the Nyāya realist affirms, so the two positions are not the same.
+- **D:** Correct — a shared consequence does not entail a shared premise, so the charge cannot establish identity, yet the convergence on world-negation is a genuine pressure-point rather than nothing.
+
+**Examiner trap 24:** The charge is either accepted outright or dismissed outright, whereas the mark-earning answer refutes the identification and concedes the pressure.
+
+#### MCQ 25 — solution
+
+**Answer: A.** The dependently real appears and is later sublated; the wholly non-existent never appears
+
+- **A:** Correct — appearance followed by sublation defines the middle grade, and never being presented defines the outer one, which is why the world is not a hare's horn.
+- **B:** Only the dependently real is cancelled, since cancellation presupposes a prior appearance that the wholly non-existent never had.
+- **C:** This reverses the two: the hare's horn is the standard example of what never appears, and the world is what appears and functions.
+- **D:** Duration is not the criterion; presentability is, and the wholly non-existent fails it absolutely rather than briefly.
+
+**Examiner trap 25:** The sentence "the world is unreal" is written once in the introduction and silently governs the rest of the answer, converting a graded ontology into nihilism.
+
+#### MCQ 26 — solution
+
+**Answer: B.** It is free of limiting and objectifiable attributes, while being–consciousness–bliss expresses its essence
+
+- **A:** The two levels are not equally ultimate; the qualified Lord belongs to the empirical order and is sublated in the absolute.
+- **B:** Correct — the negation targets predicates that would make the absolute one item among knowable items, and the essence is affirmed rather than removed.
+- **C:** Total absence of nature is the caricature that Rāmānuja attacks, and conceding it hands the critic the argument at the outset.
+- **D:** Hidden qualities is a Viśiṣṭādvaita-flavoured description that misstates both schools, since Rāmānuja's qualities are manifest and Advaita's essence is not a set of qualities.
+
+**Examiner trap 26:** A single clause such as "Brahman has no nature at all" undoes an otherwise accurate answer, because every later paragraph then defends an indefensible position.
+
+#### MCQ 27 — solution
+
+**Answer: C.** Rāmānuja holds that modes are real and inseparable but not identical; Advaita holds that plurality lacks ultimacy
+
+- **A:** This inverts both schools: Advaita sublates plurality in liberating knowledge, while Rāmānuja's modes remain real in the liberated state.
+- **B:** Numerical identity is exactly the reading Rāmānuja rejects, and attributing it to him erases the middle position his system exists to occupy.
+- **C:** Correct — real distinctness within inseparable dependence on one substantive whole is his thesis, and denial of ultimate plurality is Advaita's.
+- **D:** Independence would make the modes second absolutes, which the doctrine of inseparable existence explicitly forbids.
+
+**Examiner trap 27:** Because the school is called qualified non-dualism, candidates hear "non-dualism" and describe modes as ultimately one with God, which is the very identity-claim the qualification denies.
+
+#### MCQ 28 — solution
+
 **Answer: D.** Concealment hides the absolute's nature; projection throws up the world of names and forms
 
 - **A:** The two functions are exchanged, which also breaks the parallel with the two components of superimposition.
@@ -540,79 +650,88 @@ D. Concealment hides the absolute's nature; projection throws up the world of na
 
 **Examiner trap 28:** The two powers are named in the right order but described in the wrong one, which usually happens because the answer is recalled as a phrase rather than as two distinct explanatory jobs.
 
-#### MCQ 29. Liberation while living
+#### MCQ 29 — solution
 
-Which statement about liberation while living is correct?
+**Answer: A.** It is central to Advaita, and is not accepted in that strict sense by Viśiṣṭādvaita or Dvaita
 
-A. It is accepted by all three principal Vedānta schools as the very highest form of liberation
-B. It is central to Advaita, and is not accepted in that strict sense by Viśiṣṭādvaita or Dvaita
-C. It is rejected by Advaita, which requires the fall of the body before liberation can occur
-D. It is accepted by Dvaita, because gradation among liberated souls begins during embodiment
-
-**Answer: B.** It is central to Advaita, and is not accepted in that strict sense by Viśiṣṭādvaita or Dvaita
-
-- **A:** For Rāmānuja embodiment remains a condition of bondage, so a liberation compatible with embodiment cannot be the highest state.
-- **B:** Correct — once ignorance is destroyed the body continues by commenced karma, whereas the realist theisms treat liberation as incompatible with continued embodiment in that sense.
-- **C:** Advaita affirms it, and the disembodied state that follows adds no new liberation to what knowledge has already accomplished.
-- **D:** Gradation concerns the ranks of liberated souls after release and does not license liberation during embodiment.
+- **A:** Correct — once ignorance is destroyed the body continues by commenced karma, whereas the realist theisms treat liberation as incompatible with continued embodiment in that sense.
+- **B:** Advaita affirms it, and the disembodied state that follows adds no new liberation to what knowledge has already accomplished.
+- **C:** Gradation concerns the ranks of liberated souls after release and does not license liberation during embodiment.
+- **D:** For Rāmānuja embodiment remains a condition of bondage, so a liberation compatible with embodiment cannot be the highest state.
 
 **Examiner trap 29:** Candidates transfer liberation while living to every Vedānta school because all three speak of knowledge, and the distinctive Advaita claim is then wasted.
 
-#### MCQ 30. Reading the printed 2018 demand
+#### MCQ 30 — solution
 
-The 2018 paper asks how Rāmānuja refutes the doctrine of illusion and why illusion is "needed" by both Rāmānuja and Śaṅkara. What is the correct approach?
+**Answer: B.** Flag the anomaly, state that Rāmānuja rejects Advaitic illusion, and compare explanations
 
-A. Argue that Rāmānuja secretly accepts an indescribable cosmic illusion under a different name
-B. Decline to answer the second sentence, on the ground that it is philosophically unusual
-C. Flag the anomaly, state that Rāmānuja rejects Advaitic illusion, and compare explanations
-D. Treat the second sentence as evidence that Śaṅkara borrowed the doctrine from Rāmānuja
-
-**Answer: C.** Flag the anomaly, state that Rāmānuja rejects Advaitic illusion, and compare explanations
-
-- **A:** Manufacturing a hidden acceptance contradicts the seven objections and invents doctrine to fit an unusual stem.
-- **B:** Refusing a printed part of the question forfeits its marks; the demand must be engaged, not avoided.
-- **C:** Correct — the honest route names the anomaly, states the refutation, and answers the comparative demand through inseparable dependence as Rāmānuja's alternative explanation of plurality.
-- **D:** The chronology is inverted and no such borrowing is claimed by any source, so the option adds a fabricated historical claim to a doctrinal error.
+- **A:** Refusing a printed part of the question forfeits its marks; the demand must be engaged, not avoided.
+- **B:** Correct — the honest route names the anomaly, states the refutation, and answers the comparative demand through inseparable dependence as Rāmānuja's alternative explanation of plurality.
+- **C:** The chronology is inverted and no such borrowing is claimed by any source, so the option adds a fabricated historical claim to a doctrinal error.
+- **D:** Manufacturing a hidden acceptance contradicts the seven objections and invents doctrine to fit an unusual stem.
 
 **Examiner trap 30:** Faced with an odd stem, candidates either rationalise it into a false doctrine or ignore it; the disciplined response is to flag, correct and then answer the recoverable demand.
 
-#### MCQ 31. Distinguishing a summary verse from a great sentence
+#### MCQ 31 — solution
 
-Which statement about the verse "the absolute is real, the world is dependent appearance, the individual self is none other than the absolute" is correct?
+**Answer: C.** It is a traditional Advaita summary rather than a standard Upaniṣadic great sentence
 
-A. It is a traditional Advaita summary rather than a standard Upaniṣadic great sentence
-B. It is the fifth great sentence, drawn from the same corpus as "that thou art" itself
-C. It is a compact formulation of Rāmānuja's position on the world and the individual self
-D. It is a Dvaita verse used to summarise the doctrine of the fivefold real differences
-
-**Answer: A.** It is a traditional Advaita summary rather than a standard Upaniṣadic great sentence
-
-- **A:** Correct — it compresses the Advaita position and is used in the printed 2022 question, but the four standard great sentences are the identity statements drawn from the Upaniṣads themselves.
-- **B:** There is no fifth member of the standard list, and treating a doctrinal summary as revelation misstates the textual status of the quotation.
-- **C:** Rāmānuja denies that the world is dependent appearance and denies non-difference of the self from the absolute, so the verse states the position he opposes.
-- **D:** The verse asserts identity, which is the exact opposite of the fivefold difference doctrine.
+- **A:** Rāmānuja denies that the world is dependent appearance and denies non-difference of the self from the absolute, so the verse states the position he opposes.
+- **B:** The verse asserts identity, which is the exact opposite of the fivefold difference doctrine.
+- **C:** Correct — it compresses the Advaita position and is used in the printed 2022 question, but the four standard great sentences are the identity statements drawn from the Upaniṣads themselves.
+- **D:** There is no fifth member of the standard list, and treating a doctrinal summary as revelation misstates the textual status of the quotation.
 
 **Examiner trap 31:** The verse is quoted in the answer as scripture, which converts a strong textual discrimination into an avoidable attribution error.
 
-#### MCQ 32. Attribution and ownership discipline
+#### MCQ 32 — solution
 
-Which statement is correct about attribution and question-ownership within this syllabus item?
+**Answer: D.** The 2018 question on the Advaita reaction to real transformation is primary-owned by Sāṃkhya
 
-A. The undivided-form mental mode is a verbatim formula of Śaṅkara, used in his own commentary on the aphorisms
-B. The reflection model is associated with Vācaspati Miśra, while the limitation model belongs to Padmapāda
-C. The 2018 question on the Advaita reaction to real transformation is primary-owned by Sāṃkhya
-D. The unique differentiator in Dvaita is an undisputed doctrine with a single standard formulation
-
-**Answer: C.** The 2018 question on the Advaita reaction to real transformation is primary-owned by Sāṃkhya
-
-- **A:** It is a later systematic explanation of how knowledge removes error and should not be presented as Śaṅkara's own wording.
-- **B:** The associations are reversed; delimitation is linked to Vācaspati Miśra and reflection to Padmapāda and the Vivaraṇa line.
-- **C:** Correct — the routing ledger assigns that part to Sāṃkhya, so it is supporting material for Vedānta rather than one of the twenty owned questions.
-- **D:** Expositions of the unique differentiator vary, and the honest answer reports it with that caution rather than as settled doctrine.
+- **A:** Expositions of the unique differentiator vary, and the honest answer reports it with that caution rather than as settled doctrine.
+- **B:** It is a later systematic explanation of how knowledge removes error and should not be presented as Śaṅkara's own wording.
+- **C:** The associations are reversed; delimitation is linked to Vācaspati Miśra and reflection to Padmapāda and the Vivaraṇa line.
+- **D:** Correct — the routing ledger assigns that part to Sāṃkhya, so it is supporting material for Vedānta rather than one of the twenty owned questions.
 
 **Examiner trap 32:** Ownership and attribution are treated as bookkeeping rather than as content, so answers claim borrowed questions and quote later formulations as primary-source wording.
 
 ---
+
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: maintains real distinction and dependent non-difference.
+- **B:** Incorrect: dependence construed as divine sovereignty over eternally distinct reals approaches Madhva's dualism rather than Nimbārka's difference-and-non-difference.
+- **C:** Incorrect: over-assimilates Nimbārka to Rāmānuja's qualified-substance vocabulary and underplays the paired real predicates.
+- **D:** Incorrect: this grants only empirical pluralism and ultimately sublates distinction, unlike Nimbārka's enduring real difference.
+
+**Examiner trap 33 / remediation:** State in which respects dependence preserves unity and attributes preserve difference.
+
+#### MCQ 34 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: it states an agency dilemma too absolutely; dependent agency need not make God morally culpable, though its reconciliation remains difficult.
+- **B:** Correct: real qualification raises the problem of imperfection in a perfect divine ground.
+- **C:** Incorrect: real difference need not amount to independent substance if the explanatory relation of inseparable dependence is defensible.
+- **D:** Incorrect: Rāmānuja distinguishes change of dependent modes from intrinsic mutability of the ruling self; the objection requires the further claim in C about defects under literal identity.
+
+**Examiner trap 34 / remediation:** Dependence of body on ruler does not entail that every bodily defect belongs to ruler.
+
+#### MCQ 35 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: makes two of the five distinctions ultimately unreal despite Madhva's ontological realism.
+- **B:** Incorrect: shared natures do not erase numerically distinct souls or material particulars in Madhva's fivefold scheme.
+- **C:** Correct: gives all five distinctions and their consequence for enduring devotion.
+- **D:** Incorrect: imports an ultimate merger incompatible with Madhva's enduring distinctness.
+
+**Examiner trap 35 / remediation:** Write the three kinds (God, selves, matter), then enumerate five distinct pairs.
+
 ## PYQS AND ANSWER PRACTICE
 
 > **Ownership.** Vedānta owns twenty primary parts in the 2018–2025 Paper I corpus — three in 2018,
@@ -623,13 +742,10 @@ D. The unique differentiator in Dvaita is an undisputed doctrine with a single s
 > primary-owned elsewhere.
 
 > **Status of the model answers.** UPSC Mains publishes no official answer key or model answer. Every
-> solution below is independent learner practice written to the stated word band and directive, and it
+> solution below is independent learner practice addressing the directive without an arbitrary word cap, and it
 > is never presented as an official key.
 
-> **Declared answer bands.** 10 marks: 150–200 words. 15 marks: 250–300 words. 20 marks: 340–400
-> words. Every solved answer states its exact word count.
-
-### VERIFIED PREVIOUS-YEAR QUESTIONS — 20 COMPLETE SOLUTIONS
+### VERIFIED PREVIOUS-YEAR QUESTIONS — 20 COMPLETE 2018–2025 SOLUTIONS, PLUS 3 FOR 2026
 
 #### Solved PYQ 1 — 2018, Question 5(c), 10 marks
 
@@ -640,7 +756,7 @@ D. The unique differentiator in Dvaita is an undisputed doctrine with a single s
 **Directive read.** "Difference" is the operative word. A paragraph on each term without a stated
 contrast scores badly; the answer must isolate the sense in which each is called indescribable.
 
-**Model answer (190 words).**
+**Model answer.**
 
 Advaita applies one word, indescribable (**anirvacanīya**), to two items for opposite reasons, and
 the difference decides whether the system is coherent.
@@ -673,7 +789,7 @@ a critical asymmetry instead of a summary.
 **Directive read.** Four named systems, comparative exposition. Advaita is not asked and should not
 occupy the answer. The comparison must be structured, not four sequential summaries.
 
-**Model answer (375 words).**
+**Model answer.**
 
 All four systems are theistic and treat grace as indispensable, so a comparison that stops at
 "devotion and grace" explains nothing. What separates them is what a soul *is*, from which four
@@ -725,7 +841,7 @@ contested element in Dvaita, and closes with a single comparative formula.
 printed, since Rāmānuja rejects Advaitic illusion; it must be flagged and then answered as a demand
 about how each system explains plurality.
 
-**Model answer (294 words).**
+**Model answer.**
 
 Rāmānuja's refutation is the sevenfold charge of incoherence (**sapta-anupapatti**). Ignorance can
 have no tenable locus (**āśraya**): placed in the absolute it destroys pure consciousness, placed
@@ -765,7 +881,7 @@ and converts the odd second demand into a genuine comparison of explanatory stra
 **Directive read.** "Logical consequences" means derivation. A restatement of Advaita's doctrines in
 sequence does not answer it; each consequence must be shown to follow from the single thesis.
 
-**Model answer (366 words).**
+**Model answer.**
 
 Advaitic absolutism is the thesis that ultimate reality alone is finally real
 (**pāramārthika**), everything else being empirically real (**vyāvahārika**) and sublatable. Five
@@ -818,7 +934,7 @@ demands, and closes with a graded verdict that names both readings.
 **Directive read.** "Significance," not "enumerate." All five must be named, but the marks lie in
 what follows from them.
 
-**Model answer (179 words).**
+**Model answer.**
 
 Madhva's fivefold difference (**pañcavidhabheda**) asserts five real and eternal differences:
 soul–God (**jīva-īśvara-bheda**), soul–soul (**jīva-jīva-bheda**), soul–matter
@@ -850,7 +966,7 @@ a restatement.
 **Directive read.** Two demands — nature and types. Both must appear, and the classification must be
 stated with the caution that expositions vary.
 
-**Model answer (182 words).**
+**Model answer.**
 
 In Nimbārka's dualistic non-dualism (**dvaitādvaita**), non-conscious reality (**acit**) is real,
 dependent and transformable. Its nature is fixed by the school's governing relation: matter differs
@@ -881,7 +997,7 @@ school's characteristic relation and soteriology.
 **Directive read.** Two terms and one relation. The relation is the graded element: the answer must
 say why the witness is not simply a second self standing beside the individual.
 
-**Model answer (293 words).**
+**Model answer.**
 
 In non-dualism the individual self (**jīva**) is ultimate reality appearing finite: consciousness
 delimited or reflected in ignorance (**avidyā**) together with the internal organ, and therefore
@@ -921,7 +1037,7 @@ qualifies the school's own supporting argument.
 **Directive read.** Two verbs — refute and establish — plus "critically." The answer needs a
 refutation, a positive construction, and a residual assessment.
 
-**Model answer (392 words).**
+**Model answer.**
 
 The problem of error asks what is presented when a shell is seen as silver. Nyāya answers with
 apprehension otherwise (**anyathā-khyāti**): the silver is real silver, known elsewhere, wrongly
@@ -970,7 +1086,7 @@ work, and delivers a graded verdict rather than an endorsement.
 **Directive read.** "Compare and contrast" requires both the shared ground and the divergence, and
 rewards a structured comparison over two separate expositions.
 
-**Model answer (281 words).**
+**Model answer.**
 
 Both thinkers agree on three things: the world depends entirely on ultimate reality; there is no
 second independent principle; and scripture is the final authority for what the world is. They
@@ -1010,7 +1126,7 @@ evaluative line plus one line showing awareness of a third option.
 **Directive read.** Two terms, one philosopher. "Status" means ontological standing, so the answer
 must state what kind of reality each has and what follows.
 
-**Model answer (284 words).**
+**Model answer.**
 
 Madhva's ontology is governed by one division: only God is independent (**svatantra**); everything
 else is dependent (**paratantra**). Both the individual self and the world fall on the dependent
@@ -1050,7 +1166,7 @@ difference, and ends with strength and cost together.
 **Directive read.** "Do you agree?" asks for a reasoned position, not an opinion. The word
 "development" makes an unqualified yes or no wrong; the answer must grade the agreement.
 
-**Model answer (198 words).**
+**Model answer.**
 
 I agree only partially, and the qualification carries the argument.
 
@@ -1085,7 +1201,7 @@ rather than the word "transformation."
 **Directive read.** Three terms whose *ontological status* is asked, framed by a quoted verse. The
 verse must be used as an organising thesis, and its textual status should be identified.
 
-**Model answer (398 words).**
+**Model answer.**
 
 The quoted line compresses Advaita into three claims: ultimate reality is real, the world is
 dependent appearance, and the individual self is none other than ultimate reality. It is a
@@ -1136,7 +1252,7 @@ consciousness, and closes with the cost the doctrine pays.
 **Directive read.** "Differ" is the whole question. Shared ground must be stated briefly and then
 left; the body must be organised by points of divergence.
 
-**Model answer (272 words).**
+**Model answer.**
 
 Both are theists who reject Advaitic identity, hold God, soul and world to be real, and make
 devotion and grace indispensable. Stating this and stopping is the standard failure; the differences
@@ -1181,7 +1297,7 @@ structural formula plus each system's cost.
 **Directive read.** "Briefly discuss" still requires the mechanism. Naming the device without
 showing what is dropped and what is kept is the standard half-answer.
 
-**Model answer (171 words).**
+**Model answer.**
 
 Taken literally the sentence is false. The direct meaning (**vācyārtha**) of *tat* is the
 omniscient, remote Lord associated with illusion; the direct meaning of *tvam* is the finite,
@@ -1213,7 +1329,7 @@ adds the rival reading in one line.
 **Directive read.** Two targets — the absolute and the Lord. An answer that criticises only the
 qualityless absolute answers half the question.
 
-**Model answer (387 words).**
+**Model answer.**
 
 Rāmānuja's critique has two halves, matching the two terms named, and both rest on one
 epistemological thesis: *sarvaṃ vijñānaṃ saviśeṣam* — all cognition is of the qualified.
@@ -1263,7 +1379,7 @@ locating the disagreement in a shared prior question.
 **Directive read.** Three demands: explain the definition, give Śaṅkara's *illustrations*, and add
 independent comment. The illustrations are not optional decoration here.
 
-**Model answer (296 words).**
+**Model answer.**
 
 The definition is **prāptasya prāptiḥ**. Liberation produces nothing new because the self is always
 ultimate reality; bondage is ignorance alone, so release can only be the removal of ignorance by
@@ -1302,7 +1418,7 @@ independent comment rather than a restatement.
 **Directive read.** "Critically" in a ten-marker means one clear limit, not a survey. The three
 conditions of bodyhood must be stated before the limit is drawn.
 
-**Model answer (191 words).**
+**Model answer.**
 
 The statement is accurate as far as it goes. In Rāmānuja's system selves (**cit**) and matter
 (**acit**) constitute ultimate reality's body (**śarīra**), while ultimate reality is their
@@ -1330,9 +1446,9 @@ rather than generalised praise.
 > **Printed question.** Examine Rāmānuja’s seven objections against Māyāvāda of Advaita.
 
 **Directive read.** "Examine" requires more than enumeration. All seven must appear, but at least
-one reply and a verdict on relative force are needed within the word band.
+one reply and a verdict on relative force are needed in a timed response.
 
-**Model answer (200 words).**
+**Model answer.**
 
 The sevenfold charge of incoherence (**sapta-anupapatti**) attacks the doctrine of ignorance at
 seven points; names and order vary slightly across expositions.
@@ -1367,7 +1483,7 @@ actually survive.
 **Directive read.** The school is specified as Advaita, and examples are demanded explicitly. The
 examples must be interpreted, not merely named.
 
-**Model answer (284 words).**
+**Model answer.**
 
 Efficient cause (**nimitta-kāraṇa**) is the intelligent agency that brings an effect about; material
 cause (**upādāna-kāraṇa**) is that out of which it is constituted. Ordinarily these are two things —
@@ -1406,7 +1522,7 @@ transformation, and closes with the named objection and the criterion at stake.
 **Directive read.** Two halves, explicitly. An ontological exposition without the soteriological
 significance forfeits roughly half the marks.
 
-**Model answer (400 words).**
+**Model answer.**
 
 **The model.** The original–reflection model (**bimba-pratibimba-vāda**) takes ultimate reality or
 pure consciousness as the original (**bimba**) and the empirical self as its reflection
@@ -1450,16 +1566,16 @@ liberation, and closes with a limit that includes a named rival use of the same 
 ---
 ### ORIGINAL SOLVED MAINS PRACTICE
 
-> Six original questions in the examination's own idiom — two at 10 marks, two at 15 and two at 20 —
-> with complete model answers in the declared bands. These are learner practice, not previous-year
-> questions.
+> Originals 1–6 form the initial set; originals 7–8 after the 2026 PYQs address Vallabha,
+> Caitanya and distinctions between Nimbārka and Rāmānuja. All eight are learner practice, not PYQs;
+> answer depth follows each directive rather than a preset length.
 
 #### Original 1 — 10 marks
 
 > **Question.** Distinguish between the dependently real (**mithyā**) and the wholly non-existent
 > (**tuccha**) in Advaita Vedānta, and state why the distinction is indispensable.
 
-**Model answer (179 words).**
+**Model answer.**
 
 The wholly non-existent (**tuccha**) is what is never presented in any experience — the standard
 examples are the hare's horn and the son of a barren woman. It cannot be cancelled, because
@@ -1486,7 +1602,7 @@ reasons rather than one repeated, and ends with the objection that the distincti
 > **Question.** "Nirguṇa does not mean blankness." Examine this claim with reference to Śaṅkara's
 > conception of ultimate reality.
 
-**Model answer (191 words).**
+**Model answer.**
 
 The claim is correct, and its defence turns on identifying what qualitylessness negates.
 
@@ -1514,7 +1630,7 @@ self-luminosity ground, and concedes the precise point at which the rival object
 > **Question.** Compare the accounts of the individual self offered by Śaṅkara, Rāmānuja and Madhva,
 > and assess which best explains both bondage and moral responsibility.
 
-**Model answer (288 words).**
+**Model answer.**
 
 **Śaṅkara.** The individual (**jīva**) is ultimate reality appearing finite through ignorance,
 explained by limitation (**avaccheda-vāda**, pot-space), reflection (**pratibimba-vāda**, the
@@ -1552,7 +1668,7 @@ the question names, and gives a graded verdict with each school's specific cost.
 > **Question.** "The disagreement between Vedānta's schools is finally a disagreement about the
 > criterion of reality." Critically examine.
 
-**Model answer (282 words).**
+**Model answer.**
 
 The claim is substantially correct, and testing it clarifies why the schools cannot refute one
 another directly.
@@ -1593,7 +1709,7 @@ instead of merely endorsing it.
 > **Question.** Evaluate the doctrine of indescribable illusion (**māyā**) as an explanatory
 > principle, with reference to the objections it attracts and the replies available to Advaita.
 
-**Model answer (394 words).**
+**Model answer.**
 
 **What the doctrine claims.** Illusion is the beginningless (**anādi**), dependent power through
 which a non-dual absolute appears as a plural world. It is neither being (**sat**) nor non-being
@@ -1638,7 +1754,7 @@ winner.
 > relation of the finite to the absolute identity, qualification or difference?" Discuss with
 > reference to at least four printed syllabus terms.
 
-**Model answer (392 words).**
+**Model answer.**
 
 The claim is a strong organising thesis, and testing it against four printed terms shows both its
 power and its limit.
@@ -1682,3 +1798,71 @@ is exactly how a comparative answer should be built.
 **Why this earns marks.** It applies the thesis systematically to four named syllabus terms, uses
 each school's technical vocabulary, and then limits the thesis with the wider schools and the prior
 criterion question instead of merely confirming it.
+
+### 2026 PRIMARY-OWNED VERIFIED PYQS — three additional complete solutions
+
+#### 2026 · Q7(c) · 15 marks
+
+> **Verified question:** Do you agree with Nimbarka's explanation of the nature of God, Souls and Matter? Justify your answer.
+
+**Demand decoded:** Reconstruct three ontological terms and argue *for or against* their joint coherence; merely labelling *dvaitādvaita* does not answer the evaluative directive.
+
+**Model answer.** Nimbārka's difference-and-non-difference (*dvaitādvaita*) proposes one supreme Brahman/Īśvara, with conscious selves (*cit*) and non-conscious matter (*acit*) as real but dependent existents. God is the independent ground and governor; selves know, act and experience under limitation, while matter provides the field and instruments of embodied experience. Each dependent reality is *different* from God in nature and function, yet *non-different* insofar as it cannot exist or operate autonomously from its ground. The sun and its rays illustrate a genuinely related plurality without two independent suns; the analogy expresses dependence, not simple numerical identity. Liberation does not require the abolition of the soul's distinctness, making devotion intelligible.
+
+I agree **conditionally** that this position avoids two rival costs. Against a radical reading of Advaita appearance (*vivarta*), treating world and agents as real gives action, bondage and worship non-illusory subjects. Against an independent-substance dualism, common dependence on God explains unity and ordered change. It also gives content to scriptural language that affirms both unity and difference.
+
+But "difference" and "non-difference" cannot hold of precisely the same relata under precisely the same respect: the view needs a clear distinction between distinct natures and existential dependence. A critic can ask whether existential dependence truly establishes *identity* rather than merely asymmetric causal relation; if not, *non-difference* risks becoming a rhetorical label. Nor can the sun-ray image by itself establish how an immutable divine source sustains real changing matter without change in the source. Nimbārka's strongest defence is that the relata are real, related and asymmetrically dependent, not two absolute substances; the price is an unreduced primitive relation between dependence and distinctness.
+
+**Outstanding-answer check:** Specify God, souls and matter; explain both sides of *dvaitādvaita* by different respects; defend a conditional verdict against at least one opponent and one internal difficulty.
+
+#### 2026 · Q8(b) · 15 marks
+
+> **Verified question:** Critically explain Ramanuja's conception of Brahman with special reference to the difficulties in explaining the relation of Brahman to Spirit (Cit) and Matter (Acit).
+
+**Demand decoded:** Explain qualified non-dualism first; focus critique on how one perfect Brahman contains real mutable and suffering dependents, rather than repeating Māyā objections alone.
+
+**Model answer.** For Rāmānuja, the supreme Brahman is the personal, omniscient and infinitely excellent Nārāyaṇa, not an ultimately attributeless absolute. Qualified non-dualism (*viśiṣṭādvaita*) affirms one Brahman **qualified by** real conscious selves (*cit*) and non-conscious matter (*acit*). Souls and matter are not illusory; they are inseparably dependent (*apr̥thaksiddha*) modes of God. Rāmānuja's body–soul analogy makes the asymmetry vivid: the body exists for and is governed by an indwelling self; likewise God is the inner ruler (*antaryāmin*) of all selves and the cosmos. Liberation preserves the distinct soul's knowledge and devotion rather than dissolving it into an impersonal identity.
+
+The difficulty is how a flawless, immutable and omnipotent Brahman can be *really qualified* by changing matter and finite souls suffering bondage. If they are God's body in a straightforward physical sense, do their defects and mutations become God's own? Rāmānuja distinguishes **dependence** from sharing every predicate: the ruler is not morally stained by the ruled's limited knowledge, and changing body-states do not require the governing self to change essentially. Brahman can thus be both material ground and intelligent cause without being reduced to empirical imperfection.
+
+Yet this reply invites further questions. A completely dependent self must still possess agency if karma and surrender (*prapatti*) are meaningful; divine governance and responsible wrongdoing are not automatically reconciled by the analogy. An Advaitin asks why real limitation is compatible with absolute non-duality; a dualist asks why distinct subjects should count as *one* substance rather than closely governed dependents. Rāmānuja's view succeeds as a robust account of real devotion and worldhood only if inseparable qualification is a genuine ontological relation, not a metaphor for control.
+
+**Outstanding-answer check:** Name Brahman and both dependent kinds, explain *apr̥thaksiddhi* and the analogy, set out defect/change and agency objections, give the best internal reply and a limited judgement.
+
+#### 2026 · Q8(c) · 15 marks
+
+> **Verified question:** Why does the Dualistic School of Vedanta consider that differences (Bhedas) have separate existence and constitute the unique nature of things? Answer with reference to the theory of five-fold difference (Pancavidhabheda).
+
+**Demand decoded:** Enumerate five differences and show why they are constitutive of real individuality, rather than merely listing examples or confusing Madhva with Rāmānuja.
+
+**Model answer.** Madhva's dualist Vedānta (*dvaita*) rejects the reduction of worldly and personal plurality to an appearance of one undifferentiated consciousness. A real object has a determinate nature *in distinction from* others: God, individual self and matter are not interchangeable even where all finite existents depend on God. Difference (*bheda*) is therefore not merely a temporary mental comparison superimposed on an ultimately identical substrate; it marks the actual particularity of distinct things. The theory of fivefold difference (*pañcavidha-bheda*) states: God–self (*īśvara–jīva*), God–matter (*īśvara–jaḍa*), self–self (*jīva–jīva*), self–matter (*jīva–jaḍa*) and matter–matter (*jaḍa–jaḍa*). The distinctions are real even though God alone is independent (*svatantra*) and other entities are dependent (*asvatantra*).
+
+Why insist on this? Difference in nature (*svarūpa-bheda*) makes a thing itself determinate, not merely a term selected by someone's comparison. God–self difference prevents a limited dependent knower from being the independent Lord; God–matter difference protects divine sovereignty over insentient nature; self–self difference preserves distinct karmic histories and, for Madhva, graded destinies; self–matter difference prevents consciousness from becoming a material quality; and matter–matter difference preserves the distinct causal roles of material things. Knowledge presupposes a knower, known object and true discrimination; devotion presupposes a worshipper distinct from the worshipped. If difference vanished upon liberation, worship and the reality of multiple liberated selves would dissolve. Madhva therefore maintains real differentiation even in release, without granting finite selves divine independence.
+
+The contest is sharper than "plurality versus unity." Advaita can account for ordinary difference at the empirical level (*vyavahāra*) while denying its ultimacy; Madhva argues that a truth-giving experience of difference cannot be invalidated merely by positing an unexperienced ultimate identity. Conversely the Advaitin asks whether mutually distinct eternal dependents beside God compromise God's absoluteness. Madhva's distinction between independent deity and dependent reals offers an internal answer, but the coherence of eternal dependence remains a metaphysical commitment, not proof from the bare fact that objects are distinguishable now. The further ethical objection—whether unalterable gradation among souls compromises moral equality—is not settled merely by declaring differences eternal.
+
+**Outstanding-answer check:** List all five pairings and explain each one's philosophical job; specify *svarūpa-bheda* rather than inferring independent rival creators, confront the Advaita empirical/ultimate distinction and acknowledge the graded-souls ethical challenge.
+
+### ADDITIONAL ORIGINAL SOLVED MAINS — under-tested Vedānta branches
+
+#### Original 7 · 20 marks — Vallabha and Caitanya beyond the standard triad
+
+**Question:** Compare Vallabha's pure non-dualism (*śuddhādvaita*) and Caitanya's inconceivable difference-and-non-difference (*acintya-bhedābheda*) on the status of the world, divine dependence and liberation. Evaluate whether "inconceivable" answers or postpones the charge of contradiction.
+
+**Model answer.** Both schools reject the move from divine unity to the conclusion that the experienced world is simply a false appearance. Vallabha's pure non-dualism (*śuddhādvaita*) takes Brahman/Kṛṣṇa as the one complete reality, genuinely manifest in the world without being polluted or diminished by that manifestation. The world is thus real and divine, not an error requiring an ultimately unreal principle of illusion (*māyā*) to sustain it. Bondage involves ignorance of one's true relationship to God, and liberation is loving participation through grace and devotion (*puṣṭi-bhakti*), not destruction of the world.
+
+Caitanya's tradition affirms the simultaneous real distinction and inseparable dependence of God, individual souls and the world. As divine energies (*śakti*), souls and nature are non-different from their source in dependence, yet are different in identity and function. Devotional liberation sustains the worshipper–worshipped relation rather than dissolving the individual into impersonal identity. "Inconceivable" (*acintya*) cautions that finite logical categories cannot exhaust God's relation to divine energies; it must not license the assertion that the *same* relata both differ and do not differ in precisely the same respect without qualification.
+
+Vallabha faces the question why a fully pure manifest Brahman appears in a world of suffering without divine perfection suffering the world's defects. Caitanya can answer that divine energy's dependent modes are not identical with the divine source in every predicate; but once that distinction is made explicit, the critic can ask whether *acintya* adds explanation beyond asymmetrical dependence. Conversely, refusing any residue of mystery may force a reductive choice between an illusion-world and independently existing rivals of God. The strongest defensible use of *acintya* marks a limit of finite conceptual capture *after* specifying distinctness and dependence; used instead to exempt contradictions from scrutiny, it postpones rather than solves the problem.
+
+**Outstanding-answer check:** Differentiate the two schools by real manifestation versus divine-energy relation, name both liberation paths and give the strongest objection to each without mislabelling either as Advaita.
+
+#### Original 8 · 15 marks — non-Advaita causal precision
+
+**Question:** Contrast Nimbārka's difference-and-non-difference with Rāmānuja's inseparable qualification concerning souls and matter. Can dependence alone count as non-difference? Give a reasoned verdict.
+
+**Model answer.** Nimbārka affirms God as independent ground and real conscious souls (*cit*) and matter (*acit*) as dependent existents: difference (*bheda*) preserves distinct natures, and non-difference (*abheda*) expresses their inseparability from divine support. The sun and rays illuminate dependence without making rays separate suns. Rāmānuja's qualified non-dualism (*viśiṣṭādvaita*) treats souls and matter as the real body or modes of one Brahman: inseparability (*apr̥thaksiddhi*) characterises how a qualifier depends on the qualified whole, while the inner ruler (*antaryāmin*) directs without collapsing dependent selves into illusion.
+
+Both protect devotion's distinct subjects and the experienced world's reality against world-subverting readings of Advaita. Their emphases differ: Nimbārka gives explicit coequal statement to difference and non-difference, whereas Rāmānuja explains one qualified substance with structurally dependent modes. The objection is whether a relation of total existential dependence establishes *identity* at all. A shadow depends on its source but is not therefore numerically identical to it. Rāmānuja's defender can reply that "one" names a structured, internally qualified whole rather than simple identity; Nimbārka's defender can distinguish distinct essence from non-independent existence. Both escape formal contradiction only by indexing their predicates to different respects. That is a genuine explanatory advance, though it leaves the metaphysical structure of dependence to be justified, not merely asserted by analogy.
+
+**Outstanding-answer check:** Specify each school's unity claim rather than calling both "partly dualist"; test the sun-ray and body-soul analogies for what they establish and what they do not.

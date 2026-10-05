@@ -1,0 +1,58 @@
+{
+  "topic": "03-Inflation-Price-Indices-and-Business-Cycles",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 13,
+        "A": 11,
+        "C": 8,
+        "D": 8
+      },
+      "fingerprint": "b8ccddb36edb587b"
+    },
+    {
+      "bank": 2,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 14,
+        "C": 8,
+        "B": 12,
+        "A": 6
+      },
+      "fingerprint": "a50bd0335c9b03c4"
+    },
+    {
+      "bank": 3,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 12,
+        "B": 9,
+        "C": 11,
+        "A": 8
+      },
+      "fingerprint": "ff5d41d8dd9ccff1"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

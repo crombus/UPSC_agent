@@ -66,7 +66,8 @@ PANEL 8/12 - PESA AND COMMUNITY GOVERNANCE
     v
 PANEL 9/12 - PLANNING, ACCOUNTABILITY, AND DIGITAL TOOLS
 +-- Gram Sabha priorities -> GPDP -> tier convergence -> Article 243ZD District Planning Committee.
-+-- eGramSwaraj supports planning/accounts; AuditOnline supports audit workflow; SVAMITVA supports rural survey/property cards.
++-- eGramSwaraj supports planning/accounts; AuditOnline supports audit workflow; SVAMITVA supports rural
+   survey/property cards.
 +-- RGSA supports capacity; portals do not create legal authority, consent, data quality, or service outcomes.
 `-- Women must be assessed through access -> agency -> outcome; proxy control is a risk, not a stereotype.
     |
@@ -75,13 +76,15 @@ PANEL 10/12 - ELECTION AND RESERVATION CASES
 +-- Kishansing Tomar (2006): constitutional local-election calendar must be honoured.
 +-- K. Krishna Murthy (2010): local political reservation needs distinct constitutional and empirical analysis.
 +-- Vikas Kishanrao Gawali (2021): dedicated commission, contemporaneous inquiry, body-wise quota, aggregate ceiling.
-+-- Rahul Ramesh Wagh orders (2022): no OBC-reserved seats before triple-test compliance; use open category until lawful reservation.
++-- Rahul Ramesh Wagh orders (2022): no OBC-reserved seats before triple-test compliance; use open category
+   until lawful reservation.
 +-- Suresh Mahajan (10 May 2022): unfinished compliance cannot indefinitely postpone constitutionally due elections.
 `-- State of Goa v Fouziya Imtiaz Shaikh (2021): SEC must be independent of the State executive.
     |
     v
 PANEL 11/12 - ELECTION DISPUTES AND SOURCE DISCIPLINE
-+-- Article 243O limits ordinary challenges to delimitation/seat allotment and routes results through election petitions.
++-- Article 243O limits ordinary challenges to delimitation/seat allotment and routes results through election
+   petitions.
 +-- It does not abolish statutory remedies or every bounded constitutional-review question.
 +-- Separate Constitution -> central statute -> State Act/rule -> notification -> local practice.
 `-- Never universalise nomenclature, chairperson method, quota enhancement, taxes, committee tenure, or devolution.
@@ -91,10 +94,14 @@ PANEL 12/12 - REFORM, TRAPS, AND ANSWER SPINE
 +-- Reform: activity maps -> accountable staff -> untied finance + fair own revenue -> timely SFC/independent SEC.
 +-- Then strengthen Gram Sabha, social audit, PESA compliance, district planning, and assisted digital access.
 +-- Traps: 1992 vs 24 April 1993; 29 vs 18; SEC vs ECI; Fifth vs Sixth Schedule; one-third floor vs State enhancement.
-+-- Answer spine: define -> constitutional rule -> mechanism -> named evidence/case -> gap -> qualification -> verdict.
-`-- Qualified verdict: representation becomes self-government only when authority, staff, money, and citizen scrutiny converge.
++-- Answer spine: define -> constitutional rule -> mechanism -> named evidence/case -> gap -> qualification ->
+   verdict.
+`-- Qualified verdict: representation becomes self-government only when authority, staff, money, and citizen
+   scrutiny converge.
 ```
 
 ## SOURCE AND USE LIMIT
 
-Constitutional minima are national. PESA is a central statute for Fifth Schedule Scheduled Areas. Names, chairperson methods, enhanced quotas, taxes, committee tenure, devolution details, election petitions, and implementation must be checked in the relevant State Act, rule, notification, or local record.
+Constitutional minima are national. PESA is a central statute for Fifth Schedule Scheduled Areas. Names,
+   chairperson methods, enhanced quotas, taxes, committee tenure, devolution details, election petitions, and
+   implementation must be checked in the relevant State Act, rule, notification, or local record.

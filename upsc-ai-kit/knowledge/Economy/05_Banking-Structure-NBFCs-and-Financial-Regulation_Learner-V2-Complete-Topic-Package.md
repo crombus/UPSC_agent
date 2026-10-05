@@ -1150,14 +1150,16 @@ systemic importance while preserving useful institutional diversity.
   credit, education, housing, social infrastructure, renewable energy and
   "weaker sections" — with sub-targets such as **18% for agriculture** (of
   which 10% must reach small and marginal farmers) and **12% for weaker
-  sections**; RRBs and Small Finance Banks face a higher 75% overall PSL
-  target with a 15% weaker-sections sub-target.
+  sections**. RRBs face a 75% overall PSL target with a 15% weaker-sections
+  sub-target. From FY 2025-26, Small Finance Banks face a 60% overall target
+  (40% under prescribed sub-targets plus 20% in any eligible priority sector)
+  with a 12% weaker-sections sub-target.
   ⚠️ **Why it supports the claim:** PSL shows that Indian banking regulation
   layers a social/developmental mandate on top of ordinary commercial lending,
   distinguishing it from a pure profit-maximising credit-allocation model.
   ⚠️ **Limit / status caution:** PSL targets, sub-targets and categories are
-  revised periodically through RBI Master Directions (most recently effective
-  from 1 April 2025); an answer should state that a specific ratio is the
+  revised periodically through RBI Master Directions (effective from 1 April
+  2025 and updated through 11 September 2026); an answer should state that a specific ratio is the
   **current RBI-notified target as of the latest Master Direction** rather than
   treat it as a permanent constitutional or statutory figure, and shortfalls
   are typically routed to funds such as NABARD's RIDF rather than penalised as

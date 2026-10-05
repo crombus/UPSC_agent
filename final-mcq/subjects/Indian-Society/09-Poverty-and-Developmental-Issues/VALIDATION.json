@@ -1,0 +1,49 @@
+{
+  "topic": "09 \u2014 Poverty and Developmental Issues",
+  "status": "complete for original banks",
+  "questions_total": 144,
+  "revisions": {
+    "1": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "C": 12,
+        "B": 12,
+        "D": 12,
+        "A": 12
+      }
+    },
+    "2": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "C": 12,
+        "B": 12,
+        "D": 12,
+        "A": 12
+      }
+    },
+    "3": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "A": 12,
+        "B": 12,
+        "D": 12,
+        "C": 12
+      }
+    }
+  },
+  "coverage_roots": 48,
+  "exact_objective_pyqs_live": 0,
+  "pyq_status": "concept-tested; exact wording/options withheld for provenance and reproduction-rights holds",
+  "checks": {
+    "answer_free_questions": true,
+    "four_options_each": true,
+    "one_to_one_answer_mapping": true,
+    "all_roots_affirmative_each_revision": true,
+    "option_balance": true,
+    "cross_revision_stems_distinct": true,
+    "sources_and_traps_present": true
+  }
+}

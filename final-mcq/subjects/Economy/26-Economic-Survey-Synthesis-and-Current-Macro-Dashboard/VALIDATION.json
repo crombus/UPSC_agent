@@ -1,0 +1,58 @@
+{
+  "topic": "26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 16,
+        "D": 15,
+        "A": 10,
+        "B": 10
+      },
+      "fingerprint": "054681914bbec420"
+    },
+    {
+      "bank": 2,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 7,
+        "C": 13,
+        "D": 15,
+        "A": 16
+      },
+      "fingerprint": "33bc4b60ba0f8de4"
+    },
+    {
+      "bank": 3,
+      "questions": 51,
+      "answers": 51,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 18,
+        "D": 11,
+        "A": 14,
+        "B": 8
+      },
+      "fingerprint": "557a836f3dbf49ab"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

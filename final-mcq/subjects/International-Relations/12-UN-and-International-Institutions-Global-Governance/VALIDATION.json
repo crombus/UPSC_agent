@@ -1,0 +1,38 @@
+{
+  "topic_key": "international-relations-12",
+  "title": "UN and International Institutions: Global Governance",
+  "status": "complete",
+  "release_date": "2026-10-04",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 48,
+      "answers": 48,
+      "coverage_rows": 48,
+      "status": "complete"
+    },
+    {
+      "revision": 2,
+      "questions": 48,
+      "answers": 48,
+      "coverage_rows": 48,
+      "status": "complete"
+    },
+    {
+      "revision": 3,
+      "questions": 48,
+      "answers": 48,
+      "coverage_rows": 48,
+      "status": "complete"
+    }
+  ],
+  "root_coverage": 48,
+  "total_questions": 144,
+  "exact_pyqs_live": 0,
+  "holds": [
+    "official-key provenance",
+    "UPSC reproduction permission",
+    "provisional 2026 key",
+    "dated current-status claims"
+  ]
+}

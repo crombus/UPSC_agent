@@ -35,8 +35,10 @@ BASE + RATE -> STATUTORY LIABILITY -> MARKET ADJUSTMENT -> ECONOMIC BURDEN
 | Article 246 | Ordinary Union/State/Concurrent legislative distribution through Seventh Schedule |
 | Article 246A | Special GST power: Parliament and States legislate; Parliament exclusive for inter-State GST |
 | Article 248 | Parliamentary residuary power, expressly subject to Article 246A |
-| Article 269A | Union levies/collects inter-State GST; apportionment and place-of-supply law; imports deemed inter-State |
-| Article 270 | Distribution of shareable net Union tax proceeds; specified cesses and Article 271 surcharges excluded |
+| Article 269A | Union levies/collects inter-State GST; apportionment and place-of-supply law; imports deemed
+   inter-State |
+| Article 270 | Distribution of shareable net Union tax proceeds; specified cesses and Article 271 surcharges
+   excluded |
 | Article 271 | Union surcharge power except GST under Article 246A; proceeds accrue to Union |
 | Article 275 | Grants-in-aid of State revenues |
 | Article 279A | GST Council's composition, recommendations, voting and dispute mechanism |
@@ -91,11 +93,15 @@ aviation turbine fuel await the date recommended under Article 279A(5).
 
 | Fact | Date/status |
 |---|---|
-| Broad rate rationalisation | Most changes effective 22 September 2025: 5% merit, 18% standard, special 40%, plus nil/other notification-specific treatments |
-| Registration | Goods relief Rs 40 lakh in adopting jurisdictions / Rs 20 lakh in listed jurisdictions from 1 April 2019; services generally Rs 20/10 lakh; Section 24 and other exceptions apply |
-| Composition | Goods Rs 1.5 crore / Rs 75 lakh in specified States; separate service/mixed scheme Rs 50 lakh, effective 1 April 2019 |
+| Broad rate rationalisation | Most changes effective 22 September 2025: 5% merit, 18% standard, special 40%,
+   plus nil/other notification-specific treatments |
+| Registration | Goods relief Rs 40 lakh in adopting jurisdictions / Rs 20 lakh in listed jurisdictions from 1
+   April 2019; services generally Rs 20/10 lakh; Section 24 and other exceptions apply |
+| Composition | Goods Rs 1.5 crore / Rs 75 lakh in specified States; separate service/mixed scheme Rs 50 lakh,
+   effective 1 April 2019 |
 | Compensation transition | Five-year guarantee ended June 2022; 2015-16 base and 14% protected growth |
-| Current compensation cess | Notification 03/2025-Compensation Cess (Rate), dated 31 December 2025, made specified entries nil from 1 February 2026 |
+| Current compensation cess | Notification 03/2025-Compensation Cess (Rate), dated 31 December 2025, made
+   specified entries nil from 1 February 2026 |
 
 **Never quote an item rate without checking its operative notification.**
 

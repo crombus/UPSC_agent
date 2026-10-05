@@ -1,0 +1,474 @@
+{
+  "subject": "Economy",
+  "audit_date": "2026-10-04",
+  "topics": 31,
+  "status": "PASS",
+  "findings": {},
+  "topic_summaries": [
+    {
+      "topic": "01-National-Income-GDP-GVA-and-Measurement",
+      "status": "PASS",
+      "questions_per_bank": [
+        52,
+        51,
+        52
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "4202ddeb7ef9d387",
+        "e9f22837ed3f8636",
+        "94b37ddd3326cfdf"
+      ]
+    },
+    {
+      "topic": "02-Growth-Development-HDI-IHDI-and-MPI",
+      "status": "PASS",
+      "questions_per_bank": [
+        90,
+        92,
+        92
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "94ec369e7922661c",
+        "8144c0364e4cb7f6",
+        "5b673f6aad4b07d9"
+      ]
+    },
+    {
+      "topic": "03-Inflation-Price-Indices-and-Business-Cycles",
+      "status": "PASS",
+      "questions_per_bank": [
+        40,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "b8ccddb36edb587b",
+        "a50bd0335c9b03c4",
+        "ff5d41d8dd9ccff1"
+      ]
+    },
+    {
+      "topic": "04-RBI-Monetary-Policy-and-Liquidity-Management",
+      "status": "PASS",
+      "questions_per_bank": [
+        43,
+        40,
+        42
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "783f23ce6a7bba54",
+        "6564297ff5d33219",
+        "613f2fb150628fe1"
+      ]
+    },
+    {
+      "topic": "05-Banking-Structure-NBFCs-and-Financial-Regulation",
+      "status": "PASS",
+      "questions_per_bank": [
+        44,
+        44,
+        44
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "f19946d5a01f9eeb",
+        "db9758aaf49a5855",
+        "72a4a97ea2b58159"
+      ]
+    },
+    {
+      "topic": "06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion",
+      "status": "PASS",
+      "questions_per_bank": [
+        40,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "ffd4539ead7398aa",
+        "ff095a7799f6f2e8",
+        "8062aa653ca0bd75"
+      ]
+    },
+    {
+      "topic": "07-Money-Market-Capital-Market-and-Financial-Instruments",
+      "status": "PASS",
+      "questions_per_bank": [
+        40,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "db981788d431ea71",
+        "f1876a952f805e2f",
+        "39ad6e5c8f4738c7"
+      ]
+    },
+    {
+      "topic": "08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds",
+      "status": "PASS",
+      "questions_per_bank": [
+        47,
+        47,
+        47
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "f114070ea1560839",
+        "eff01dce0e21bcfa",
+        "af7ad44c507fe2ab"
+      ]
+    },
+    {
+      "topic": "09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators",
+      "status": "PASS",
+      "questions_per_bank": [
+        51,
+        51,
+        51
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "bf62c79359bc9161",
+        "e98268bc8bb9e8af",
+        "dfeb6e25880ed348"
+      ]
+    },
+    {
+      "topic": "10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism",
+      "status": "PASS",
+      "questions_per_bank": [
+        40,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "8d090288c26f8f52",
+        "7ad0feb4ed765c95",
+        "490958ee0c26ed0e"
+      ]
+    },
+    {
+      "topic": "11-Land-Reforms-Green-Revolution-and-Cropping-Systems",
+      "status": "PASS",
+      "questions_per_bank": [
+        40,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "d3f66f6422c5f4ae",
+        "5757aa236da7a3c0",
+        "5260f43f7b0795fb"
+      ]
+    },
+    {
+      "topic": "12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security",
+      "status": "PASS",
+      "questions_per_bank": [
+        44,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "53ddff523e07301d",
+        "1c6f4579d5ea07cf",
+        "51c10f3e1de662a3"
+      ]
+    },
+    {
+      "topic": "13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains",
+      "status": "PASS",
+      "questions_per_bank": [
+        43,
+        41,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "71035340538ef84a",
+        "230012d4b12914ed",
+        "ace5b7eaa6992bee"
+      ]
+    },
+    {
+      "topic": "14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture",
+      "status": "PASS",
+      "questions_per_bank": [
+        47,
+        47,
+        47
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "9224792099e40b72",
+        "c13e499699000767",
+        "3f8076628836e5be"
+      ]
+    },
+    {
+      "topic": "15-Food-Processing-Cold-Chains-and-Value-Addition",
+      "status": "PASS",
+      "questions_per_bank": [
+        44,
+        44,
+        44
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "be8366bf2c95033d",
+        "d510330b433d30e9",
+        "dee764c2142b1a90"
+      ]
+    },
+    {
+      "topic": "16-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy",
+      "status": "PASS",
+      "questions_per_bank": [
+        42,
+        42,
+        42
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "e4b434ddd588d52a",
+        "b8ac47c017b032f9",
+        "60767ce24262dbdf"
+      ]
+    },
+    {
+      "topic": "17-Infrastructure-PPPs-Logistics-and-Public-Investment",
+      "status": "PASS",
+      "questions_per_bank": [
+        40,
+        40,
+        40
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "0335af1f216943d4",
+        "7b2bd94b8be1ee69",
+        "2695b9adffc3b42d"
+      ]
+    },
+    {
+      "topic": "18-Energy-Infrastructure-Power-Fuels-and-Energy-Security",
+      "status": "PASS",
+      "questions_per_bank": [
+        48,
+        48,
+        48
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "0d284ecddead15fe",
+        "37e71abe12c7715c",
+        "417b4ec22962782d"
+      ]
+    },
+    {
+      "topic": "19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves",
+      "status": "PASS",
+      "questions_per_bank": [
+        47,
+        47,
+        47
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "1acc1ec3cb289392",
+        "7f2aa7f8077f6c19",
+        "0b7588e1e1a8e725"
+      ]
+    },
+    {
+      "topic": "20-Foreign-Trade-WTO-FTAs-and-Protectionism",
+      "status": "PASS",
+      "questions_per_bank": [
+        44,
+        44,
+        44
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "16c3b90e72b7045b",
+        "cca857d8abc0af35",
+        "dcd36a291e415474"
+      ]
+    },
+    {
+      "topic": "21-Climate-Economics-Green-Finance-and-Circular-Economy",
+      "status": "PASS",
+      "questions_per_bank": [
+        44,
+        44,
+        44
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "85481c2e30e8b449",
+        "f6bbf30343de90f5",
+        "cc066b90d4cb6687"
+      ]
+    },
+    {
+      "topic": "22-Employment-Labour-Codes-Skills-and-Demographic-Dividend",
+      "status": "PASS",
+      "questions_per_bank": [
+        53,
+        53,
+        53
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "10b55e437723aa9b",
+        "f097ca9f7860c2b1",
+        "430c194d36e6425a"
+      ]
+    },
+    {
+      "topic": "23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth",
+      "status": "PASS",
+      "questions_per_bank": [
+        43,
+        43,
+        43
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "c5b161ab5dd52e4d",
+        "8f6e2eab9bf33612",
+        "da65add4165c3e53"
+      ]
+    },
+    {
+      "topic": "24-Services-Digital-Economy-Fintech-and-Platform-Markets",
+      "status": "PASS",
+      "questions_per_bank": [
+        53,
+        53,
+        53
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "b43ee1239b1bceff",
+        "02c36d55da77ab7d",
+        "cb575b65b085dea1"
+      ]
+    },
+    {
+      "topic": "25-Climate-Economics-Green-Finance-and-Circular-Economy",
+      "status": "PASS",
+      "questions_per_bank": [
+        44,
+        44,
+        44
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "85481c2e30e8b449",
+        "f6bbf30343de90f5",
+        "cc066b90d4cb6687"
+      ]
+    },
+    {
+      "topic": "26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard",
+      "status": "PASS",
+      "questions_per_bank": [
+        51,
+        51,
+        51
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "054681914bbec420",
+        "33bc4b60ba0f8de4",
+        "557a836f3dbf49ab"
+      ]
+    },
+    {
+      "topic": "27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers",
+      "status": "PASS",
+      "questions_per_bank": [
+        46,
+        46,
+        46
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "f96b53d1cdc232c9",
+        "dd8e3012d0ac41ed",
+        "047f4f0ee0f30988"
+      ]
+    },
+    {
+      "topic": "28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules",
+      "status": "PASS",
+      "questions_per_bank": [
+        42,
+        42,
+        42
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "32470fc466169b75",
+        "58676810bd215079",
+        "f1500d67f8e699e0"
+      ]
+    },
+    {
+      "topic": "29-Agricultural-Technology-Missions-and-Mission-Mode-Policy",
+      "status": "PASS",
+      "questions_per_bank": [
+        46,
+        46,
+        46
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "5f24d3b1f18fa317",
+        "a358f38ae41050ba",
+        "614228245a0d4de4"
+      ]
+    },
+    {
+      "topic": "30-Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries",
+      "status": "PASS",
+      "questions_per_bank": [
+        49,
+        49,
+        49
+      ],
+      "max_option_spread": 22,
+      "fingerprints": [
+        "8b46ad463e81a830",
+        "2ba1b75c45b6b4a8",
+        "d37924335e02212e"
+      ]
+    },
+    {
+      "topic": "31-Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security",
+      "status": "PASS",
+      "questions_per_bank": [
+        48,
+        48,
+        48
+      ],
+      "max_option_spread": 30,
+      "fingerprints": [
+        "0d284ecddead15fe",
+        "37e71abe12c7715c",
+        "417b4ec22962782d"
+      ]
+    }
+  ]
+}

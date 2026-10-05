@@ -1081,17 +1081,16 @@
       "section": "Subject-wide Syllabus",
       "source_record_id": "medieval-indian-history-25:learner-v2:g5",
       "source_generation": 5,
-      "approval": "Approval pending",
-      "destination_folder": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-42d09116-Eighteenth-Century",
+      "approval": "approved: false — unapproved, not passed",
+      "destination_folder": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century",
       "navigation_command": "Open final package: Medieval History — Subject-wide Syllabus — Decline of the Mughal Empire & the Eighteenth Century",
       "links": {
-        "readme": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-42d09116-Eighteenth-Century\\README.txt",
-        "complete_learning_session": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-42d09116-Eighteenth-Century\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
-        "solved_practice_workbook": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-42d09116-Eighteenth-Century\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
-        "graphical_flowchart": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-42d09116-Eighteenth-Century\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
-        "ascii_master_flowchart": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-42d09116-Eighteenth-Century\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf"
+        "readme": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century\\README.txt",
+        "complete_learning_session": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+        "solved_practice_workbook": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+        "ascii_master_flowchart": "Medieval History\\Subject-wide Syllabus\\25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf"
       },
-      "status": "passed"
+      "status": "not passed"
     },
     {
       "topic_key": "modern-indian-history-01",

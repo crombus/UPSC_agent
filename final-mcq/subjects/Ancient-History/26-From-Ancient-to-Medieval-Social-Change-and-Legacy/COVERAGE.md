@@ -1,0 +1,45 @@
+# Topic 26 — From Ancient to Medieval: Social Change & Legacy
+
+**Status:** all three original sets `complete` (**40/40/40 = 120 original questions**); directly owned solved-PYQ work `in_progress` pending an independent official-paper ownership census. **Zero exact PYQs reproduced.** This is not an assertion that every official paper has been inspected visually or that blind difficulty has been demonstrated.
+
+## Source and ownership ledger
+
+- Canonical Basic: [26_From-Ancient-to-Medieval-Legacy.md](../../../../upsc-ai-kit/knowledge/Ancient-Indian-History/basic/26_From-Ancient-to-Medieval-Legacy.md), **all §§1–24**, including the extended semantic-completeness repair (§§9–24). Canonical Advanced: [matching advanced owner](../../../../upsc-ai-kit/knowledge/Ancient-Indian-History/advanced/26_From-Ancient-to-Medieval-Legacy.md), **all §§1–7**.
+- [Topic 26 solved workbook](../../../../learning_package_final/Ancient-History/Subject-wide-Syllabus/26-From-Ancient-to-Medieval-Social-Change-&-Legacy/Solved-Practice-Workbook.md), **entire file**: forty authored MCQs, option explanations, eight explicit remedial questions, ten adjacent PYQ entries and six solved Mains practice questions. [Topic 26 All-Topics-MCQ atlas](../../../../upsc-ai-kit/practice/All-Topics-MCQ/Ancient-History/Subject-wide-Syllabus/26-From-Ancient-to-Medieval-Social-Change-&-Legacy/MCQ-Bank-With-Solutions.md), entire file including sixteen learning MCQs, thirty-two generic workbook entries, eight remedials and semantic drills. **Atlas caveat:** some generic workbook questions repeat unrelated identical options with inconsistent keys; they are *not* copied or treated as a trusted answer source.
+- [R. S. Sharma, *India's Ancient Past*](../../../../books/India%20Ancient%20Past%20By%20RS%20Sharma.pdf), OCR PDF chs. 31–33, especially PDF pp. 330–355; [Upinder Singh, *A History of Ancient and Early Medieval India*](../../../../books/1118Singh%2C%20Upinder.%20_A%20History%20of%20Ancient%20and%20Early%20Medieval%20India%2C%202nd%20Ed.%20%5BEasy%20Reading%5D_-1.pdf), searchable PDF pp. **1322** (Pulankurichi, *miyatchi* / *karan-kilamai*), **1556–1557** (Pehoa/Ahar/Siyadoni/Gwalior; *mandapika*) and **1561** (toll houses). Sharma pp. 350–353 checked for Aryabhata, Varahamihira, Brahmagupta, Charaka, Sushruta, decimal notation and medicine; no unsupported invention, date or present clinical efficacy inferred.
+- [Master chronology](../../../../upsc-ai-kit/knowledge/Ancient-Indian-History/00_Master-Chronology.md) contextualizes Gupta/post-Gupta and Chola-boundary dates. Precise year labels are heuristic, not universal social boundaries. Sources are cited for **each** solved question in its own `ANSWERS.md`.
+
+### Direct Topic-26 scope versus neighbouring owners
+
+This is the synthesis owner of gradual and regional transition, land grants as contested documents, agrarian and caste reconfiguration, religion/institutions, language and legacy. Topic 22 owns detailed Pala/post-Gupta dynasties and their direct Prelims PYQs; Topic 23 owns Pallava/Chalukya monuments and titles; Topic 10 owns Buddhism's doctrinal and Sanghabhuti PYQ; Topic 20 owns Gupta ruler/Faxian; Topic 21 owns specific Gupta culture; Topic 24 owns detailed darshana doctrines; Topic 25 owns overseas cultural exchange; Topic 27 owns mature Imperial Chola administration, naval power and Srivijaya; Indian Art & Culture 03 owns Nagara shikhara identification. Those appear only as bounded, newly written comparative evidence here, not recycled exact questions.
+
+## Auditable per-set knowledge and error ledger
+
+Each set independently tests all rows; question numbers below are **actual question references**, not aspirational headings. Follow the linked per-set ledgers for the exact question-to-dimension map:
+
+| Testable evidence / trap | [Revision 1](revision-1/COVERAGE.md) | [Revision 2](revision-2/COVERAGE.md) | [Revision 3](revision-3/COVERAGE.md) |
+|---|---|---|---|
+| Period thresholds c. AD 300–550 / 550–750 / 750–1000; AD 1206 a dynastic rather than social marker; colonial periodization | Q01–03 | Q01–02 | Q01–02 |
+| Feudal tendencies versus regional state building, Mukhia's analogy warning and Stein's bounded segmentary model | Q04–06 | Q03–05 | Q03–05 |
+| Grant form, brahmadeya/agrahara/devadana, Pulankurichi donee/cultivator rights, formula versus actual enforcement and fiscal/judicial distinctions | Q07–11 | Q06–09 | Q06–09 |
+| Frontier cultivation, irrigation/ecology, existing forest users, agency and *vishti* | Q12–13 | Q10–12 | Q10–12 |
+| Changing *samanta*, multiple scales of political authority, regional rulers and Huna boundary | Q14–15, Q39 | Q13–14, Q39 | Q13–14, Q39 |
+| Coinage/import limitations, urban contraction plus renewal, named *mandapika*/*hatta* and specific Pehoa–Ahar–Siyadoni–Gwalior evidence | Q16–18, Q35 | Q15–17, Q35 | Q15–17, Q35 |
+| Temple/monastery fiscal, archival, redistributive and learning roles; Nalanda as supported institution | Q19–20 | Q18–19 | Q18–19 |
+| Varna ideal versus jati/occupation/genealogy, exclusions and mobility | Q21–22 | Q20–22 | Q20–21 |
+| Queen donor, *stridhana*, religious labour, temple women and differentiated rights | Q23–24 | Q23–24 | Q22–23 |
+| Puranic localization and local agency; bhakti/equality caution; cross-tradition tantra; Buddhist and Jain institutional persistence | Q25–28, Q38 | Q25–28, Q38 | Q24–27, Q38 |
+| Sanskrit prestige + local-language epigraphy; northern/eastern/western/Deccan/southern comparison, no retrojected Chola institutions | Q29–30, Q36–37 | Q29–30, Q36–37 | Q28–29, Q36–37 |
+| Legacy beyond spirituality: medicine, mathematical astronomy, crafts, geography, art/literature, limits, preservation versus modern reinvention | Q31–34, Q40 | Q31–34, Q40 | Q30–34, Q40 |
+
+## Exact-PYQ hold and uniqueness
+
+Basic §23 routes **no verified Prelims PYQ directly to Topic 26**. Its ten workbook PYQs are explicitly *adjacent*: Mains 2022 GS-I Q12 (Gupta/Chola, Topics 21/27), 2020 GS-I Q2 (Pala Buddhism, Topic 22), 2024 GS-I Q2 (Pallavas, Topic 23); Prelims 2025 Set-A Q14 (Pallava ruler, Topic 23) and Q15 (Faxian, Topic 20), 2024 Set-A Q64 (Sanghabhuti, Topic 10), 2020 Q24 (dynastic order, Topics 22/23/27) and Q97 (places, Topic 22), 2021 Q34 (post-Gupta north, Topic 22), 2026 Set-A Q4 (shikharas, Indian Art & Culture 03). The 2025 and 2024 items are already solved under their owners; the older 2020/2021 exact answers lack checked matching final official Set-A keys/papers in the local record, and 2026 has only a provisional key. **All ten are withheld**: no adjacent item copied into a set; no inferred workbook key presented as final official. An independent paper-by-paper census for any missed directly owned Topic-26 PYQ remains open. Any subsequently found item needs an **unchanged local paper AND matching checked final official Set-A key** before publication, and must be included only once across the sets.
+
+## Original-set acceptance and residual limits
+
+- Three sets contain distinct authored stems and ask different things: R1 classifies evidence and categories; R2 cross-checks institutional, economic and historiographical claims; R3 applies source-critical reasoning to cases. The initial 31–32 questions per set were extended with **named** Pulankurichi, market nodes, east/west/Deccan religion, Huna and specific science/medicine evidence rather than silently dropping these examples. The practice atlas's patterned or mismatched source key was never reused.
+- Each answer-free paper has forty numbered four-option questions; its separate key has forty corresponding entries, source links and explicit **A, B, C and D** explanations. Option positions were independently shuffled with OS randomness, **not** A→B→C→D rotation. Source-link targets, one-to-one numbering, distributions, stem uniqueness, answer neutrality and non-leakage were checked after final render. Follow-up, per-option historical-competitor reviews replaced remote or anachronistic distractors in all three sets and updated matching explanations. Further length-cue checks also guarded against keys being predictably *neither* longest nor shortest: among items with a unique character-length extreme, R1 has keyed longest/shortest **12/36 and 7/32**, R2 **7/29 and 7/31**, R3 **7/32 and 8/32**; maximum within-item character gaps are **13/15/10** respectively. Non-correct alternatives are either real competing evidence categories/models or specifically defined inference traps, not additional correct answers.
+- **Residual limitations:** internal source/competitor review is not a blind learner difficulty study; one-word keyed-length differences and intrinsically straightforward foundational recall remain possible. No claim of independently completed official-paper census or universally psychometric UPSC difficulty is made. A future correction to an already attempted set requires explicit versioning.
+
+**Next catalogue item:** Topic 27 — Imperial Cholas: State, Society, Economy & Maritime Power. No Topic-27 set generated or modified here; Topic 25 was not edited.

@@ -6,805 +6,459 @@ topic_key: world-history-08
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Colonial social hierarchy?
+### Questions — conceptual, comparative and remedial
 
-A. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-B. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-C. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-D. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
+One best answer per question; the separate key below explains every alternative.
 
-**Answer: A.**
-**Explanation:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. The remaining options belong to different chronology, actor or analytical categories.
+#### Q1. Which order preserves the distinct Haitian revolutionary and independence benchmarks?
 
-### Q2. Which chronology card should be filed under Colonial social hierarchy?
+A. Revolution in 1791, independence in 1804
+B. Independence in 1791, revolution in 1804
+C. Both revolution and independence in 1808
+D. Revolution in 1810, independence in 1822
 
-A. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-B. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-C. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-D. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
+#### Q2. What made Haiti a control case for assessing the social content of independence?
 
-**Answer: B.**
-**Explanation:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. The remaining options belong to different chronology, actor or analytical categories.
+A. The Haitian revolution began only after Bolívar’s Gran Colombia
+B. Formerly enslaved actors overthrew French rule and established a free Black republic, unlike many creole-led mainland outcomes
+C. Haiti’s independence left French sovereignty intact
+D. Haiti followed Pedro I into constitutional monarchy
 
-### Q3. Which option preserves the source-bounded meaning of Colonial social hierarchy?
+#### Q3. In colonial hierarchy, who were the creoles whose grievance shaped much mainland leadership?
 
-A. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-B. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-C. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-D. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
+A. All enslaved Africans in plantation colonies
+B. Indigenous communities granted automatic colonial office
+C. American-born whites with economic standing but restricted access to the highest offices
+D. Europe-born Spanish or Portuguese officials holding top posts
 
-**Answer: C.**
-**Explanation:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. The remaining options belong to different chronology, actor or analytical categories.
+#### Q4. Which grievance was specifically political despite creole wealth?
 
-### Q4. Which statement avoids a close-option trap about Colonial social hierarchy?
+A. Creoles were all legally enslaved in Spanish America
+B. No American-born people could participate in commerce
+C. Peninsulares were forbidden from any administrative posts
+D. Top colonial offices were disproportionately reserved for Europe-born peninsulares
 
-A. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-B. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-C. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-D. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
+#### Q5. Which set combines long-run grievances with an opportunity rather than treating them as one cause?
 
-**Answer: D.**
-**Explanation:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. The remaining options belong to different chronology, actor or analytical categories.
+A. Trade controls and elite exclusion predated the Napoleonic weakening of the Iberian metropole
+B. Napoleon created colonial social hierarchy only after 1824
+C. Independence caused colonial trade restrictions in 1808
+D. The Enlightenment was the only immediate military cause in 1825
 
-### Q5. Which statement correctly identifies Trade restrictions and ideas?
+#### Q6. What change in 1808 most directly undercut the legitimacy of Spain’s American governors?
 
-A. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-B. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-C. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-D. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
+A. Ayacucho removed Spanish power in 1808
+B. Napoleon’s intervention destabilised the monarchy and encouraged local juntas to challenge inherited authority
+C. Spain conquered Haiti from France in 1808
+D. The independence of Brazil destroyed Spanish colonial offices
 
-**Answer: A.**
-**Explanation:** Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives. The remaining options belong to different chronology, actor or analytical categories.
+#### Q7. Which simultaneous 1808 development helps explain the distinct Portuguese-American path?
 
-### Q6. Which chronology card should be filed under Trade restrictions and ideas?
+A. The Haitian Revolution began in Brazil
+B. San Martín crossed the Andes with the Portuguese court
+C. The Portuguese court shifted to Brazil as Napoleon intervened in Iberia
+D. Pedro I proclaimed independence in 1808
 
-A. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-B. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-C. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-D. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
+#### Q8. Identify the correct sequence of Mexican leadership and settlement.
 
-**Answer: B.**
-**Explanation:** Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives. The remaining options belong to different chronology, actor or analytical categories.
+A. Iturbide’s 1810 revolt, then Hidalgo, with independence in 1804
+B. Morelos founded Gran Colombia before Hidalgo’s revolt
+C. Pedro I replaced Morelos in the Mexican republic in 1822
+D. Hidalgo’s 1810 Grito de Dolores, then Morelos, then Iturbide and independence in 1821
 
-### Q7. Which option preserves the source-bounded meaning of Trade restrictions and ideas?
+#### Q9. Why is the Mexican path especially resistant to a simple “creole elite uprising” summary?
 
-A. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-B. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-C. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-D. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
+A. It moved from Hidalgo’s popular/Indigenous mobilisation through Morelos to an Iturbide-led conservative settlement
+B. The revolt was led continuously by Haiti’s formerly enslaved majority
+C. The Spanish monarchy retained undisputed control until 1825
+D. Mexico’s route followed Pedro I’s Portuguese monarchy
 
-**Answer: C.**
-**Explanation:** Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives. The remaining options belong to different chronology, actor or analytical categories.
+#### Q10. Match the correct campaign pairings.
 
-### Q8. Which statement avoids a close-option trap about Trade restrictions and ideas?
+A. Bolívar—Portuguese court transfer; San Martín—Leopold’s Congo
+B. Bolívar—New Granada/Gran Colombia; San Martín—Andes/Chile
+C. Bolívar—Grito de Dolores; San Martín—Brazilian monarchy
+D. Bolívar—Haitian independence in 1804; San Martín—Mexico in 1821
 
-A. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-B. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-C. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-D. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
+#### Q11. Which milestone correctly attaches to San Martín’s southern campaign?
 
-**Answer: D.**
-**Explanation:** Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives. The remaining options belong to different chronology, actor or analytical categories.
+A. Issuing the Grito de Dolores in 1810
+B. Forming Gran Colombia under Pedro I in 1822
+C. Crossing the Andes into Chile in 1817
+D. Securing New Granada in 1819
 
-### Q9. Which statement correctly identifies Haitian Revolution begins, 1791?
+#### Q12. What is the best interpretation of Gran Colombia’s formation and later fragmentation?
 
-A. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-B. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-C. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-D. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
+A. It proves every region of Spanish America remained a single state
+B. It was the name of San Martín’s Chilean army
+C. It demonstrates Brazil abolished monarchy in 1819
+D. Bolívar’s northern integration could secure independence without making continental unity durable
 
-**Answer: A.**
-**Explanation:** The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution. The remaining options belong to different chronology, actor or analytical categories.
+#### Q13. Place New Granada (N), Mexico’s independence (M), Ayacucho (A) and Bolivia (B) in order.
 
-### Q10. Which chronology card should be filed under Haitian Revolution begins, 1791?
+A. N–M–A–B
+B. M–N–A–B
+C. N–A–M–B
+D. N–M–B–A
 
-A. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-B. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-C. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-D. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
+#### Q14. What does Ayacucho in 1824 support without exaggeration?
 
-**Answer: B.**
-**Explanation:** The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution. The remaining options belong to different chronology, actor or analytical categories.
+A. It made Brazil independent under a republican assembly
+B. It broke major royalist military power in South America, contributing to the collapse of Spain’s position
+C. It created the Haitian republic immediately
+D. It launched Hidalgo’s Mexican uprising
 
-### Q11. Which option preserves the source-bounded meaning of Haitian Revolution begins, 1791?
+#### Q15. Which pairing captures Brazil’s path and a key social limit?
 
-A. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-B. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-C. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-D. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
+A. Bolívar, 1819: permanent merger with Gran Colombia
+B. Dessalines, 1804: Portuguese court rule in Brazil
+C. Pedro I, 1822: monarchical separation from Portugal with slavery persisting
+D. Hidalgo, 1810: abolition of monarchy and slavery across Brazil
 
-**Answer: C.**
-**Explanation:** The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution. The remaining options belong to different chronology, actor or analytical categories.
+#### Q16. Which exact description avoids confusing the timing of slavery’s abolition in Haiti and mainland cases?
 
-### Q12. Which statement avoids a close-option trap about Haitian Revolution begins, 1791?
+A. All Spanish-American states abolished slavery in 1804
+B. Brazil’s 1822 independence necessarily ended slavery
+C. Haiti retained French plantation slavery unchanged after independence
+D. Haiti’s revolution immediately remade the slavery order; abolition was not simultaneous across newly independent mainland states
 
-A. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-B. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
+#### Q17. Which inference explains political independence without general social equality?
 
-**Answer: D.**
-**Explanation:** The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution. The remaining options belong to different chronology, actor or analytical categories.
+A. Replacing peninsular officials with creole elites could preserve unequal land, racial and labour arrangements
+B. Creoles lost all land on the day Spain withdrew
+C. Formerly enslaved people everywhere became heads of state
+D. Trade controls alone prove all social hierarchies disappeared
 
-### Q13. Which statement correctly identifies Haiti independent, 1804?
+#### Q18. How should one characterise the role of Indigenous and mestizo participants?
 
-A. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-B. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-C. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-D. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
+A. Their postwar equality follows necessarily from republican constitutions
+B. They could supply mobilisation and fighting strength while remaining socially subordinate after victory
+C. Their role was absent from Hidalgo’s movement
+D. They held all top colonial posts before 1808
 
-**Answer: A.**
-**Explanation:** Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution. The remaining options belong to different chronology, actor or analytical categories.
+#### Q19. Which mechanism, not merely label, explains post-independence caudillismo?
 
-### Q14. Which chronology card should be filed under Haiti independent, 1804?
+A. A complete colonial tradition of broad self-government eliminated military power
+B. Haitian independence in 1804 appointed every mainland leader
+C. War-made commanders and armed clientage could supplant fragile civilian institutions
+D. Continental federation permanently removed regional interests
 
-A. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-B. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-C. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-D. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
+#### Q20. What combination most plausibly hindered Bolívar’s wider union?
 
-**Answer: B.**
-**Explanation:** Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution. The remaining options belong to different chronology, actor or analytical categories.
+A. A united Spanish imperial legislature absorbed Gran Colombia peacefully
+B. San Martín’s Chilean crossing in 1817 physically unified all republics
+C. Brazil’s monarchy compelled all Spanish-speaking states to merge
+D. Regional elite interests, long distances and weak communications outlasted military cooperation
 
-### Q15. Which option preserves the source-bounded meaning of Haiti independent, 1804?
+#### Q21. Which source-bounded use of Lowe’s account is sound?
 
-A. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-B. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-C. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-D. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
+A. Use its post-independence underdevelopment, poverty, illiteracy and instability as continuity context, not as proof of a cultural defect
+B. Quote Lowe for a precise census of every new republic
+C. Infer that foreign powers alone produced all coups
+D. Treat poverty as evidence that independence never happened
 
-**Answer: C.**
-**Explanation:** Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution. The remaining options belong to different chronology, actor or analytical categories.
+#### Q22. Which contrast best preserves both resemblance and difference with later African/Asian decolonisation?
 
-### Q16. Which statement avoids a close-option trap about Haiti independent, 1804?
+A. None of the movements affected social hierarchies
+B. Both ended overseas sovereignty, but early-1800s creole-led settler secessions differed from many post-1945 nationalist movements
+C. Every twentieth-century settlement was negotiated while every Latin American war was peaceful
+D. Indian nationalism and Bolívar’s campaigns were identical mass organisations
 
-A. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-B. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
+#### Q23. Which statement about “five paths” uses the source’s count discipline correctly?
 
-**Answer: D.**
-**Explanation:** Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution. The remaining options belong to different chronology, actor or analytical categories.
+A. New Granada and Gran Colombia are two extra paths independent of Bolívar
+B. San Martín’s Andes crossing is a sixth independent regional path
+C. Northern and southern South America, Mexico, Brazil and Haiti are five; 1808 is their shared trigger, not a sixth path
+D. Haiti and Brazil are one path because both abandoned slavery in 1822
 
-### Q17. Which statement correctly identifies Iberian crisis, 1808?
+#### Q24. Which evidence most clearly differentiates political form after the breaks?
 
-A. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-B. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-C. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-D. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
+A. All five trajectories installed identical republican institutions in 1808
+B. Bolívar became monarch of Portuguese Brazil
+C. Mexico’s Grito de Dolores declared Haitian independence
+D. Mainland Spanish America largely produced republics whereas Pedro I’s Brazil retained a monarchy
 
-**Answer: A.**
-**Explanation:** Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas. The remaining options belong to different chronology, actor or analytical categories.
+#### Q25. A student credits the 1826 Panama congress with causing independence in 1808. What source-bounded correction applies?
 
-### Q18. Which chronology card should be filed under Iberian crisis, 1808?
+A. The 1826 linkage concerns Bolívar’s later regional-cooperation project, not the origin of the 1808 Iberian crisis
+B. The congress launched Haiti’s 1791 revolution
+C. The congress founded the Portuguese court in Brazil
+D. The congress ended royalist power at Ayacucho in 1824
+
+#### Q26. Which postwar interpretation best avoids a moral caricature of the creole leaders?
 
-A. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-B. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-C. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-D. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-
-**Answer: B.**
-**Explanation:** Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Iberian crisis, 1808?
-
-A. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-B. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-C. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-D. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-
-**Answer: C.**
-**Explanation:** Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Iberian crisis, 1808?
-
-A. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-B. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-C. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-D. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-
-**Answer: D.**
-**Explanation:** Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Mexico's Grito, 1810?
-
-A. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-B. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-
-**Answer: A.**
-**Explanation:** Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Mexico's Grito, 1810?
-
-A. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-B. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-
-**Answer: B.**
-**Explanation:** Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Mexico's Grito, 1810?
-
-A. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-B. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-C. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-D. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-
-**Answer: C.**
-**Explanation:** Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Mexico's Grito, 1810?
-
-A. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-D. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-
-**Answer: D.**
-**Explanation:** Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies San Martin crosses the Andes, 1817?
-
-A. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-B. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-
-**Answer: A.**
-**Explanation:** Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under San Martin crosses the Andes, 1817?
-
-A. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-B. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-
-**Answer: B.**
-**Explanation:** Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of San Martin crosses the Andes, 1817?
-
-A. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-D. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-
-**Answer: C.**
-**Explanation:** Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about San Martin crosses the Andes, 1817?
-
-A. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-D. Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-
-**Answer: D.**
-**Explanation:** Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Bolivar and Gran Colombia, 1819?
-
-A. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-B. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-C. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-D. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-
-**Answer: A.**
-**Explanation:** Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Bolivar and Gran Colombia, 1819?
-
-A. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-B. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-C. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-D. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-
-**Answer: B.**
-**Explanation:** Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Bolivar and Gran Colombia, 1819?
-
-A. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-B. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-C. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-D. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-
-**Answer: C.**
-**Explanation:** Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Bolivar and Gran Colombia, 1819?
-
-A. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-D. Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-
-**Answer: D.**
-**Explanation:** Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Mexico independent, 1821?
-
-A. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-D. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-
-**Answer: A.**
-**Explanation:** Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Mexico independent, 1821?
-
-A. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-B. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-C. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-D. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-
-**Answer: B.**
-**Explanation:** Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Mexico independent, 1821?
-
-A. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-D. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-
-**Answer: C.**
-**Explanation:** Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Mexico independent, 1821?
-
-A. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-B. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-C. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-D. Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer.
-
-**Answer: D.**
-**Explanation:** Mexico became independent in 1821 after a movement that began as popular revolt ended under a conservative former royalist officer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Brazil under Pedro I, 1822?
-
-A. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-D. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-
-**Answer: A.**
-**Explanation:** Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Brazil under Pedro I, 1822?
-
-A. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-B. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-C. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-D. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-
-**Answer: B.**
-**Explanation:** Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Brazil under Pedro I, 1822?
-
-A. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-B. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-C. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-D. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-
-**Answer: C.**
-**Explanation:** Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Brazil under Pedro I, 1822?
-
-A. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-B. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-C. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-D. Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-
-**Answer: D.**
-**Explanation:** Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Ayacucho, 1824?
-
-A. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-B. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-C. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-D. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-
-**Answer: A.**
-**Explanation:** The victory at Ayacucho in 1824 broke major Spanish royalist power in South America. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Ayacucho, 1824?
-
-A. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-B. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-C. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-D. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-
-**Answer: B.**
-**Explanation:** The victory at Ayacucho in 1824 broke major Spanish royalist power in South America. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Ayacucho, 1824?
-
-A. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-B. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-C. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-D. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-
-**Answer: C.**
-**Explanation:** The victory at Ayacucho in 1824 broke major Spanish royalist power in South America. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Ayacucho, 1824?
-
-A. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-B. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-C. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-D. The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-
-**Answer: D.**
-**Explanation:** The victory at Ayacucho in 1824 broke major Spanish royalist power in South America. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Bolivia, 1825?
-
-A. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-B. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-C. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-D. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-
-**Answer: A.**
-**Explanation:** Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Bolivia, 1825?
-
-A. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-B. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-C. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-D. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-
-**Answer: B.**
-**Explanation:** Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Bolivia, 1825?
-
-A. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-B. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-C. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-D. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-
-**Answer: C.**
-**Explanation:** Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Bolivia, 1825?
-
-A. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-B. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-C. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-D. Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-
-**Answer: D.**
-**Explanation:** Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Five distinct paths?
-
-A. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-B. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-C. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-D. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-
-**Answer: A.**
-**Explanation:** Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Five distinct paths?
-
-A. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-B. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-C. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-D. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-
-**Answer: B.**
-**Explanation:** Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Five distinct paths?
-
-A. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-B. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-C. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-D. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-
-**Answer: C.**
-**Explanation:** Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Five distinct paths?
-
-A. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-B. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-C. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-D. Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-
-**Answer: D.**
-**Explanation:** Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Creole elite transfer?
-
-A. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-B. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-C. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-D. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-
-**Answer: A.**
-**Explanation:** Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Creole elite transfer?
-
-A. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-B. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-C. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-D. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-
-**Answer: B.**
-**Explanation:** Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Creole elite transfer?
-
-A. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-B. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-C. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-D. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-
-**Answer: C.**
-**Explanation:** Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Creole elite transfer?
-
-A. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-B. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-C. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-D. Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-
-**Answer: D.**
-**Explanation:** Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Haiti as control case?
-
-A. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-B. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-C. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-D. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-
-**Answer: A.**
-**Explanation:** Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Haiti as control case?
-
-A. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-B. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-C. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-D. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-
-**Answer: B.**
-**Explanation:** Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Haiti as control case?
-
-A. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-B. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-C. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-D. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-
-**Answer: C.**
-**Explanation:** Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Haiti as control case?
-
-A. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-B. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-C. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-D. Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-
-**Answer: D.**
-**Explanation:** Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Gran Colombia and fragmentation?
-
-A. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-B. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-C. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-D. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-
-**Answer: A.**
-**Explanation:** Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Gran Colombia and fragmentation?
-
-A. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-B. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-C. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-D. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-
-**Answer: B.**
-**Explanation:** Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Gran Colombia and fragmentation?
-
-A. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-B. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-C. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-D. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-
-**Answer: C.**
-**Explanation:** Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Gran Colombia and fragmentation?
-
-A. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-B. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-C. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-D. Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-
-**Answer: D.**
-**Explanation:** Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Caudillismo?
-
-A. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-B. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-C. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-D. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-
-**Answer: A.**
-**Explanation:** Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Caudillismo?
-
-A. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-B. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-C. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-D. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-
-**Answer: B.**
-**Explanation:** Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Caudillismo?
-
-A. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-B. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-C. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-D. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-
-**Answer: C.**
-**Explanation:** Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Caudillismo?
-
-A. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-B. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-C. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-D. Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-
-**Answer: D.**
-**Explanation:** Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Political independence without equality?
-
-A. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-B. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-C. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-D. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-
-**Answer: A.**
-**Explanation:** Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Political independence without equality?
-
-A. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-B. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-C. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-D. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-
-**Answer: B.**
-**Explanation:** Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Political independence without equality?
-
-A. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-B. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-C. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-D. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-
-**Answer: C.**
-**Explanation:** Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Political independence without equality?
-
-A. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-B. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-C. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-D. Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-
-**Answer: D.**
-**Explanation:** Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Comparison with later decolonisation?
-
-A. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-B. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-C. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-D. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-
-**Answer: A.**
-**Explanation:** Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Comparison with later decolonisation?
-
-A. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-B. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-C. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-D. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-
-**Answer: B.**
-**Explanation:** Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Comparison with later decolonisation?
-
-A. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-B. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-C. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-D. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-
-**Answer: C.**
-**Explanation:** Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Comparison with later decolonisation?
-
-A. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-B. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-C. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-D. Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers.
-
-**Answer: D.**
-**Explanation:** Latin American independence was often creole-led settler-descended secession, unlike many later Asian and African mass nationalist transfers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies States before nations?
-
-A. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-B. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-C. Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-D. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-
-**Answer: A.**
-**Explanation:** Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under States before nations?
-
-A. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-B. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-C. Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-D. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-
-**Answer: B.**
-**Explanation:** Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of States before nations?
-
-A. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-B. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-C. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-D. The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-
-**Answer: C.**
-**Explanation:** Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about States before nations?
-
-A. Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-B. Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-C. Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-D. Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-
-**Answer: D.**
-**Explanation:** Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups. The remaining options belong to different chronology, actor or analytical categories.
+A. Social equality emerged everywhere merely because old governors left
+B. Their liberation of political sovereignty was real, but social and landed power often remained concentrated
+C. Independence was fictitious because inequality remained
+D. Every creole consciously sought to perpetuate slavery in every region
+
+#### Q27. Which pair accurately distinguishes two different termini?
+
+A. Mexico became independent in 1817; Bolivia emerged in 1822
+B. Mexico became independent in 1824; Bolivia emerged in 1819
+C. Mexico became independent in 1821; Bolivia emerged in 1825
+D. Mexico became independent in 1804; Bolivia emerged in 1810
+
+#### Q28. Which outline best meets a question on why new states struggled to build stable democracy?
+
+A. Write only biographies of Bolívar and San Martín
+B. Assert that republican constitutions immediately removed racial hierarchy
+C. Blame only foreign interference and ignore internal institutions
+D. Link war-made armed authority, regional elite landholding, thin civilian institutions and unequal social inclusion
+
+#### Q29. Which combination of influences broadened possibilities without itself fixing the sequence of independence wars?
+
+A. Enlightenment ideas alongside American, French and Haitian revolutionary examples
+B. The 1824 Ayacucho victory and 1825 Bolivian state existed before 1808
+C. The 1914 European alliance blocs dictated every 1810 junta
+D. Abolition in every colony accompanied American and French declarations automatically
+
+#### Q30. What does the transition from Morelos to Iturbide demand in a Mexican independence answer?
+
+A. Describe the whole Mexican movement as a uniform republican plantation revolt
+B. Explain how an early popular revolt culminated in a conservative settlement under a former royalist officer
+C. Treat Iturbide as the first leader to issue the 1810 Grito
+D. Assume Morelos transferred Mexican sovereignty to Haiti in 1804
+
+#### Q31. Which choice preserves Bolívar’s connection to the 1825 landmark without equating it to Gran Colombia’s formation?
+
+A. The 1825 state was named after San Martín’s Brazilian monarchy
+B. Bolívar had already permanently united all Spanish America by 1825
+C. New Granada and the Gran Colombia project took shape in 1819; Bolivia’s emergence belongs to 1825
+D. Bolivia emerged in 1819 and Gran Colombia in 1825
+
+#### Q32. Which comparison of slavery and constitutional form is historically discriminating?
+
+A. Both Haiti and Brazil became identical free Black republics in 1804
+B. Neither Haiti nor Brazil broke colonial sovereignty
+C. All Spanish-American republics abolished slavery immediately upon Mexico’s 1821 independence
+D. Haiti’s emancipation joined independence in 1804; Brazil’s monarchical independence in 1822 did not end slavery
+
+### Separate answer key — four-option reasoning
+
+**Q1 — A.**
+- **A:** The source differentiates the beginning of revolt from the establishment of the new state
+- **B:** These reverse the two benchmark years
+- **C:** 1808 marks the Iberian crisis elsewhere
+- **D:** 1810 belongs to Mexican revolt, 1822 to Brazil
+- **Trap:** An uprising is not identical in date or meaning to independence.
+
+**Q2 — B.**
+- **A:** Its 1791 opening predates the northern campaigns
+- **B:** The Haitian Revolution combined anti-colonial and anti-slavery transformations
+- **C:** Independence ended French rule
+- **D:** Pedro I is associated with Brazil, not Haiti
+- **Trap:** Do not infer that every anti-colonial movement abolished slavery.
+
+**Q3 — C.**
+- **A:** Their role was distinct and central in Haiti
+- **B:** These groups were generally subordinate
+- **C:** The owner distinguishes elite property and local birth from peninsular office-holding
+- **D:** This describes peninsulares
+- **Trap:** Do not confuse creole ancestry and place of birth with a mass-democratic coalition.
+
+**Q4 — D.**
+- **A:** The source calls them wealthy American-born whites
+- **B:** Trade restrictions existed, but this universal claim is unsupported
+- **C:** They occupied the top posts
+- **D:** Creoles could possess wealth while facing exclusion from senior colonial power
+- **Trap:** Political exclusion can coexist with social privilege.
+
+**Q5 — A.**
+- **A:** The 1808 shock opened an opportunity to act on existing grievances
+- **B:** The hierarchy preceded the crisis
+- **C:** The restrictions were an antecedent grievance
+- **D:** Ideas inspired movements but do not alone explain the timing of war
+- **Trap:** Distinguish a permissive external trigger from older internal pressures.
+
+**Q6 — B.**
+- **A:** The battle is dated 1824
+- **B:** The metropole’s crisis produced an opening for colonial autonomy and independence
+- **C:** Haiti had already gained independence in 1804
+- **D:** Brazil’s 1822 break concerned Portugal
+- **Trap:** A junta first claiming authority amid crisis need not already be a fully independent republic.
+
+**Q7 — C.**
+- **A:** Haiti’s revolution began in 1791 in a French colony
+- **B:** His Chile campaign belongs to 1817
+- **C:** The court’s transfer differentiates Brazil’s political setting from Spanish-American juntas
+- **D:** Brazilian independence is dated 1822
+- **Trap:** Shared Iberian shock did not produce identical institutions or outcomes.
+
+**Q8 — D.**
+- **A:** Hidalgo initiated the 1810 phase; 1804 is Haiti
+- **B:** Gran Colombia belongs to Bolívar’s northern project
+- **C:** Pedro I is tied to Brazil
+- **D:** The popular rising preceded the conservative settlement
+- **Trap:** Mexico’s endpoint should not be projected back onto its popular opening.
+
+**Q9 — A.**
+- **A:** The social base and leadership changed across phases
+- **B:** That is the distinct Haitian case
+- **C:** Mexico’s independence is dated 1821
+- **D:** Brazil is the monarchical Portuguese-American case
+- **Trap:** A changing coalition is not evidence that the early mass phase never occurred.
+
+**Q10 — B.**
+- **A:** Neither event is part of their liberation campaigns
+- **B:** Northern political integration and southern Andes campaign have separate emphases
+- **C:** Grito belongs to Hidalgo; Brazil to Pedro I
+- **D:** Neither campaign corresponds to those events
+- **Trap:** Their theatres intersected around Peru but their political projects were not identical.
+
+**Q11 — C.**
+- **A:** Hidalgo initiated this Mexican rising
+- **B:** Gran Colombia relates to Bolívar; Pedro I to Brazil
+- **C:** This movement from an external base is the owner’s 1817 landmark
+- **D:** This is associated with Bolívar
+- **Trap:** Avoid swapping a southern campaign milestone with northern republican state-building.
+
+**Q12 — D.**
+- **A:** Subsequent fragmentation refutes permanence
+- **B:** The project belongs to Bolívar
+- **C:** Brazil remained on a distinct monarchical path
+- **D:** State-building across regions faced competing elite interests and weak communications
+- **Trap:** Liberation and lasting federation require different political capacities.
+
+**Q13 — A.**
+- **A:** The owner dates them 1819, 1821, 1824 and 1825
+- **B:** Mexico’s 1821 settlement followed New Granada in 1819
+- **C:** Ayacucho in 1824 came after Mexican independence
+- **D:** Bolivia emerged in 1825 after Ayacucho
+- **Trap:** Keep the 1824 military collapse distinct from the 1825 state landmark.
+
+**Q14 — B.**
+- **A:** Brazil’s monarchical independence dates to 1822
+- **B:** The owner makes it a major military turning point rather than the origin of all independent states
+- **C:** Haiti had been independent since 1804
+- **D:** That revolt began in 1810
+- **Trap:** Do not date every Latin American independence to a single battle.
+
+**Q15 — C.**
+- **A:** Brazil was not incorporated into that northern project
+- **B:** Dessalines belongs to Haiti’s revolutionary path
+- **C:** The Basic owner contrasts political separation with the persistence of slavery
+- **D:** Hidalgo led the Mexican popular phase
+- **Trap:** Brazilian political independence was not a republic-making slave emancipation.
+
+**Q16 — D.**
+- **A:** Haiti’s date cannot be generalised to the mainland
+- **B:** The Basic owner says slavery persisted there
+- **C:** A formerly enslaved population founded the new free Black state
+- **D:** The Basic owner explicitly warns against universalising the Haitian outcome
+- **Trap:** Anti-colonial sovereignty and anti-slavery transformation are analytically distinct.
+
+**Q17 — A.**
+- **A:** Leadership drawn from privileged groups did not automatically redistribute power
+- **B:** The owner instead emphasises elite continuity
+- **C:** This would wrongly generalise Haiti
+- **D:** Commercial autonomy does not imply racial or landed equality
+- **Trap:** Ask who gained governing office and who retained land and coercive power.
+
+**Q18 — B.**
+- **A:** Legal form does not establish material redistribution
+- **B:** The owner distinguishes participation from the distribution of benefits
+- **C:** Mexico’s early popular/Indigenous phase is explicit
+- **D:** Europe-born peninsulares dominated the highest offices
+- **Trap:** Participation in a liberation war does not prove equal postwar citizenship.
+
+**Q19 — C.**
+- **A:** The owner stresses weak civilian administrative preparation
+- **B:** The cases have separate trajectories
+- **C:** Personal loyalty, regional landowners and military resources displaced institutional legitimacy
+- **D:** Regional fragmentation made integration difficult
+- **Trap:** No individually named caudillo is verified by this owner.
+
+**Q20 — D.**
+- **A:** Gran Colombia was an independence-era political project
+- **B:** Military advance does not itself constitute durable federation
+- **C:** No such integration is sourced
+- **D:** The Basic owner ties fragmentation to geography and distinct postwar political interests
+- **Trap:** Winning independence is not equivalent to building a permanent federation.
+
+**Q21 — A.**
+- **A:** The Advanced owner confines Lowe’s summary and explicitly warns against cultural determinism
+- **B:** No population tally is verified in this owner
+- **C:** Internal institutions and inequality also mattered
+- **D:** Political sovereignty and social conditions are separate dimensions
+- **Trap:** A contextual generalisation does not license fabricated country-level statistics.
+
+**Q22 — B.**
+- **A:** Their consequences were varied and Haiti was socially radical
+- **B:** The owner differentiates chronology, leadership and colonial type while acknowledging exceptions
+- **C:** The comparison cites armed struggles and conventional liberation wars
+- **D:** The source cautions against a one-to-one analogy
+- **Trap:** Decolonisation is a comparative category, not one uniform script.
+
+**Q23 — C.**
+- **A:** They belong within the northern project
+- **B:** It is an event within the southern campaign
+- **C:** The Basic owner explicitly separates common Iberian shock from five regional trajectories
+- **D:** Their regimes and slavery outcomes were distinct
+- **Trap:** Count regional trajectories, not leaders, stages or common enabling shocks.
+
+**Q24 — D.**
+- **A:** Haiti’s 1804 and Brazil’s 1822 dates alone disprove this
+- **B:** He is linked to northern South America and Gran Colombia
+- **C:** Mexico’s 1810 appeal belongs to its own sequence
+- **D:** Brazil’s monarchical path is an explicit contrast to many Spanish-American outcomes
+- **Trap:** Republican terminology does not guarantee a democratic social order.
+
+**Q25 — A.**
+- **A:** The owner limits the official bicentennial current link to the congress and cooperation
+- **B:** This reverses chronology by decades
+- **C:** Court transfer followed the 1808 Iberian shock
+- **D:** Ayacucho predates the 1826 project
+- **Trap:** A present-day commemoration cannot establish causal priority over earlier events.
+
+**Q26 — B.**
+- **A:** Officeholding change does not automatically alter hierarchy
+- **B:** The owner combines anticolonial change with the limits of elite-led transformation
+- **C:** Sovereign states did emerge
+- **D:** Leadership motives and outcomes differed by case
+- **Trap:** Critique structural limits without denying real emancipation from imperial authority.
+
+**Q27 — C.**
+- **A:** 1817 is Andes crossing; 1822 is Brazil
+- **B:** 1824 is Ayacucho; 1819 New Granada/Gran Colombia
+- **C:** The chronology assigns 1821 to Mexico and 1825 to Bolivia
+- **D:** 1804 marks Haiti, 1810 the Grito
+- **Trap:** Memorised dates should be attached to events, not shuffled between regions.
+
+**Q28 — D.**
+- **A:** Campaigns alone cannot account for later governing structures
+- **B:** The owner stresses continued inequality
+- **C:** The source recognises external pressures alongside internal problems
+- **D:** This explains mechanisms rather than invoking supposed cultural incapacity
+- **Trap:** Treat instability as historical and institutional, not a national-character diagnosis.
+
+**Q29 — A.**
+- **A:** The owner distinguishes ideational models from the 1808 metropolitan opportunity
+- **B:** Both milestones followed the Iberian crisis
+- **C:** These belong to a much later world-war setting
+- **D:** The owner stresses uneven slavery and social outcomes
+- **Trap:** Inspiration is not the immediate Iberian trigger or a guarantee of emancipation.
+
+**Q30 — B.**
+- **A:** Its popular-to-conservative sequence resists that single model
+- **B:** The owner explicitly identifies reversal of coalition and leadership
+- **C:** The Grito was issued by Hidalgo
+- **D:** Haiti’s independence has a separate chronology
+- **Trap:** A final elite settlement must not erase an earlier popular/Indigenous phase.
+
+**Q31 — C.**
+- **A:** Neither San Martín nor Brazil explains the Bolivia milestone
+- **B:** Larger unions later fragmented
+- **C:** Northern liberation had multiple distinct political milestones
+- **D:** The dates are reversed
+- **Trap:** A symbolic endpoint of one campaign is not proof of durable continental federation.
+
+**Q32 — D.**
+- **A:** Brazil was independent under Pedro I only in 1822 and followed monarchy
+- **B:** Both became independent by different paths
+- **C:** The source explicitly rejects general abolition at independence
+- **D:** The two cases separate social revolution from formal political separation
+- **Trap:** State form and emancipation must each be checked case by case.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -816,244 +470,82 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local 2018-2
 
 **Question:** Why was the Iberian crisis of 1808 decisive? Answer in about 150 words.
 
-**Model thesis:** It broke metropolitan legitimacy and opened space for juntas, allowing long-standing creole, trade and ideological grievances to become independence movements.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-- Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-- Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-
-**Qualified conclusion:** It broke metropolitan legitimacy and opened space for juntas, allowing long-standing creole, trade and ideological grievances to become independence movements.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why was the Iberian crisis of 1808 decisive? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why was the Iberian crisis of 1808 decisive? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** It broke metropolitan legitimacy and opened space for juntas, allowing long-standing creole, trade and ideological grievances to become independence movements.
+The Iberian crisis of 1808 was decisive because it disrupted the authority that held the colonial system together. Napoleon's invasion of Spain destabilised its monarchy; in Portuguese America the court's move to Brazil similarly altered the relationship between colony and metropole. In Spanish America, juntas could now claim a provisional right to govern in the monarch's absence. A long-standing grievance thus acquired an immediate political opening.
 
-**Analytical body:**
+Creoles possessed land and wealth but faced peninsular domination of the highest offices; colonial trade restrictions frustrated commercial interests. Enlightenment arguments and the American, French and Haitian examples had made alternatives imaginable, yet ideas alone had not dissolved imperial authority. Nor did a junta automatically mean a common demand for independence: Indigenous peoples, mestizos and enslaved Africans faced different forms of subordination from those confronting wealthy creoles.
 
-1. **Claim and named evidence:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It broke metropolitan legitimacy and opened space for juntas, allowing long-standing creole, trade and ideological grievances to become independence movements.
+The crisis therefore acted as a trigger, not a complete cause. It converted conflicts over office, trade and political legitimacy into movements with different leaders and social programmes across the region.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Why is Haiti central to Latin American independence history? Answer in about 150 words.
 
-**Model thesis:** Haiti fused anti-colonial independence with anti-slavery social revolution, revealing the social limits of creole-led mainland movements.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution.
-- Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution.
-- Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together.
-
-**Qualified conclusion:** Haiti fused anti-colonial independence with anti-slavery social revolution, revealing the social limits of creole-led mainland movements.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why is Haiti central to Latin American independence history? Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why is Haiti central to Latin American independence history? Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Haiti fused anti-colonial independence with anti-slavery social revolution, revealing the social limits of creole-led mainland movements.
+Haiti is central because its independence was also an anti-slavery social revolution. The uprising began in 1791, and independence in 1804 established the first free Black republic of the modern era. The action of enslaved people, associated with leaders including Toussaint Louverture and Dessalines, made emancipation integral to the break with colonial rule, rather than a reform postponed until after sovereignty.
 
-**Analytical body:**
+This outcome exposes the limits of treating 'Latin American independence' as a single process. On much of the Spanish-American mainland, creole elites sought to replace peninsular officeholders while retaining land and social power; Indigenous and enslaved populations did not uniformly acquire equal rights. Brazil's monarchical independence under Pedro I in 1822 likewise did not immediately abolish slavery. Haiti thus offers a sharp comparison of who made a revolution and whom it benefited.
 
-1. **Claim and named evidence:** The Haitian Revolution began in 1791 as an anti-colonial and anti-slavery social revolution. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Haiti became independent in 1804 as the first free Black republic of the modern era and the region's most socially radical revolution. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Haiti shows the different outcome produced when enslaved people rather than creole elites led independence: emancipation and political rupture occurred together. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Haiti fused anti-colonial independence with anti-slavery social revolution, revealing the social limits of creole-led mainland movements.
+It was not a template mechanically repeated elsewhere: military struggles, class leadership and institutions varied. Its significance lies precisely in showing that independence could transform racial and labour relations as well as transfer political sovereignty.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Compare Bolivar and San Martin. Answer in about 250 words.
 
-**Model thesis:** They were complementary liberators in different theatres: Bolivar combined army and continental political project in the north, while San Martin advanced regular armies from the south.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-- Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-- The victory at Ayacucho in 1824 broke major Spanish royalist power in South America.
-- Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign.
-- Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-
-**Qualified conclusion:** They were complementary liberators in different theatres: Bolivar combined army and continental political project in the north, while San Martin advanced regular armies from the south.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Bolivar and San Martin. Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Compare Bolivar and San Martin. Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** They were complementary liberators in different theatres: Bolivar combined army and continental political project in the north, while San Martin advanced regular armies from the south.
+Simón Bolívar and José de San Martín were complementary liberators rather than interchangeable heroes. Each challenged Spanish royalist rule, but the geography of their campaigns and the political scale of their projects differed.
 
-**Analytical body:**
+San Martín's southern theatre linked Argentina, Chile and Peru. His crossing of the Andes into Chile in 1817 shows how an organised army could take the struggle across difficult terrain and then carry it towards the royalist position in Peru. Military movement from the south was his distinctive contribution; it should not be confused with sole authorship of the final defeat of Spanish power. Ayacucho in 1824 marked the collapse of major royalist military resistance in South America, after campaigns involving more than one leader and army.
 
-1. **Claim and named evidence:** Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The victory at Ayacucho in 1824 broke major Spanish royalist power in South America. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Bolivia emerged as an independent state in 1825, symbolically completing Bolivar's northern campaign. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Bolívar operated principally through northern South America. Securing New Granada in 1819 supplied a strategic base, while Gran Colombia embodied an ambition to join liberated territories in a larger political union. His campaigns were associated with Venezuela, Colombia, Ecuador, Peru and the state of Bolivia, which emerged in 1825. Yet a name on a map did not guarantee a lasting continental state: distance, weak communications and regional elite interests undermined union.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Their theatres converged around Peru, making any simple north-versus-south division incomplete. Neither man's armies alone account for all local participation, and neither's victories settled questions about land, citizenship or race.
 
-**Qualified conclusion:** They were complementary liberators in different theatres: Bolivar combined army and continental political project in the north, while San Martin advanced regular armies from the south.
+San Martín's regular-army advance and Bolívar's military-political construction helped end Spanish control through different routes. Their shared success in liberation contrasts with the fragility of integration afterward.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Why did political independence not produce social equality? Answer in about 250 words.
 
-**Model thesis:** The creole class that led most movements benefited from existing land and racial hierarchies, so sovereignty changed faster than social power.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-- Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-- Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-
-**Qualified conclusion:** The creole class that led most movements benefited from existing land and racial hierarchies, so sovereignty changed faster than social power.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did political independence not produce social equality? Answer in about 250 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why did political independence not produce social equality? Answer in about 250 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The creole class that led most movements benefited from existing land and racial hierarchies, so sovereignty changed faster than social power.
+Political independence did not necessarily redistribute land or dismantle racial hierarchy. Across much of mainland Latin America independence leaders were creoles: wealthy American-born whites denied the highest offices by peninsulares, but already powerful.
 
-**Analytical body:**
+Removing peninsular authority therefore answered one creole demand without automatically answering the demands of Indigenous peoples, mestizos or enslaved Africans. Landholding and the capacity to govern remained concentrated in many new states, while unequal citizenship survived the transfer of sovereignty. This was not simply a failure to announce republican principles. Those who controlled property, armed forces and office could reproduce older relationships under new political labels. In Mexico, Hidalgo's Grito de Dolores in 1810 initiated a popular phase continued by Morelos, yet independence ultimately came through a conservative settlement under Iturbide. The changing leadership helps explain why popular mobilisation need not yield popular control.
 
-1. **Claim and named evidence:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Haiti supplies crucial counter-evidence to a claim that independence and social change could never coincide. Beginning with an uprising of enslaved people in 1791 and becoming independent in 1804, it linked emancipation to sovereignty. By contrast, Brazil's independence under Pedro I in 1822 was monarchical, and slavery survived it. These cases also warn against assuming that every Spanish-American republic followed the same social path.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** The creole class that led most movements benefited from existing land and racial hierarchies, so sovereignty changed faster than social power.
+The central distinction is between ending imperial authority and transforming who owns land, works under coercion and enjoys political rights. Creole predominance made the first achievable without the second in many places, but Haiti demonstrates that the outcome depended on the social forces driving independence.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Explain the causes, course and varied paths of Latin American independence. Answer in about 300 words.
 
-**Model thesis:** Colonial hierarchy and trade restriction met the 1808 imperial collapse, but Haiti, Mexico, Brazil and the two South American theatres produced distinct outcomes.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate.
-- Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives.
-- Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas.
-- Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide.
-- Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre.
-- Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation.
-- Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars.
-- Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes.
-
-**Qualified conclusion:** Colonial hierarchy and trade restriction met the 1808 imperial collapse, but Haiti, Mexico, Brazil and the two South American theatres produced distinct outcomes.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the causes, course and varied paths of Latin American independence. Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Explain the causes, course and varied paths of Latin American independence. Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Colonial hierarchy and trade restriction met the 1808 imperial collapse, but Haiti, Mexico, Brazil and the two South American theatres produced distinct outcomes.
+Latin American independence resulted from structural grievances and an imperial legitimacy crisis, but its course cannot be collapsed into one creole republican revolt. Colonial peninsulares held senior offices while wealthy creoles faced political exclusion and trade monopoly constrained commerce. Indigenous peoples, mestizos and enslaved Africans experienced different, deeper subordination. Enlightenment thinking and the American, French and Haitian revolutions widened political possibilities without determining who would benefit.
 
-**Analytical body:**
+The immediate rupture came in 1808: Napoleon invaded Spain and the Portuguese court moved to Brazil. Spanish-American juntas challenged metropolitan authority, though royalist support within the colonies meant prolonged fighting rather than instant separation. In the north Bolívar secured New Granada in 1819 and built Gran Colombia as a political-military centre; Bolivia's emergence in 1825 followed the defeat of major royalist power at Ayacucho in 1824. San Martín advanced from the southern theatre, crossing the Andes into Chile in 1817 and carrying war towards Peru. Neither regional campaign alone accounts for every victory.
 
-1. **Claim and named evidence:** Peninsulares monopolised top offices, creoles possessed wealth but faced political restriction, and mestizos, Indigenous peoples and enslaved Africans remained subordinate. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Colonial monopoly bred economic resentment while Enlightenment, American, French and Haitian examples widened the imaginable alternatives. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Napoleon invaded Spain in 1808 while the Portuguese court shifted to Brazil, destabilising metropolitan legitimacy and encouraging colonial juntas. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Hidalgo issued the Grito de Dolores in 1810, beginning a popular Mexican phase later continued by Morelos and converted into a conservative settlement under Iturbide. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Jose de San Martin crossed the Andes into Chile in 1817, making Argentina, Chile and Peru the southern liberation theatre. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Simon Bolivar secured New Granada in 1819 and built Gran Colombia as the political-military centre of northern liberation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** Brazil became independent under Pedro I in 1822 through a monarchical path distinct from Spanish-American republican wars. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-8. **Claim and named evidence:** Northern South America, southern South America, Mexico, Brazil and Haiti followed five distinct political and social routes. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Other routes make the contrast clearer. Hidalgo's Grito de Dolores in Mexico in 1810 opened a popular phase continued by Morelos, but independence came under Iturbide through a more conservative settlement. Brazil became independent under Pedro I in 1822 through a monarchical path rather than the Spanish-American republican wars. Haiti's revolution began in 1791 and produced independence in 1804 through enslaved people's anti-slavery struggle: emancipation and sovereignty coincided there in a way they did not across most of the mainland.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Colonial hierarchy and trade restriction met the 1808 imperial collapse, but Haiti, Mexico, Brazil and the two South American theatres produced distinct outcomes.
+Thus five paths—northern and southern South America, Mexico, Brazil and Haiti—shared the erosion of Iberian power but differed in leadership, violence and social results. Independence commonly transferred sovereignty faster than it changed landholding or racial hierarchy; Haiti demonstrates that this imbalance was historically contingent, not inevitable.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Assess the post-independence problems of Latin American state-building. Answer in about 300 words.
 
-**Model thesis:** War-made military authority, creole oligarchy, regional fragmentation and weak institutions created states before nations and encouraged caudillismo.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance.
-- Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions.
-- Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation.
-- Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states.
-- Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups.
-
-**Qualified conclusion:** War-made military authority, creole oligarchy, regional fragmentation and weak institutions created states before nations and encouraged caudillismo.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the post-independence problems of Latin American state-building. Answer in about 300…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Assess the post-independence problems of Latin American state-building. Answer in about 300…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** War-made military authority, creole oligarchy, regional fragmentation and weak institutions created states before nations and encouraged caudillismo.
+Independence created sovereign states before many had stable political institutions or widely shared national loyalties. The wars supplied officers and armed followers as well as governments, while old inequalities persisted beneath new constitutions. Assessing state-building requires distinguishing political fragmentation from the unequal social foundations of authority.
 
-**Analytical body:**
+The fate of Bolívar's Gran Colombia illustrates the integration problem. Victories in New Granada and elsewhere supported a continental political project, yet distance, weak communications and regional elite interests pulled larger unions apart. Military success against Spain could not itself resolve how authority and resources would be distributed among provinces. The emergence of Bolivia in 1825 symbolised liberation, not the permanent union of all liberated territories.
 
-1. **Claim and named evidence:** Across much of mainland Latin America, independence displaced peninsular officials while confirming creole landholding and political dominance. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Bolivar's continental project did not endure as geography, regional elite interests and weak communications fragmented larger unions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Caudillismo described personalist strongman rule resting on military reputation, armed clientage and weak institutions after prolonged wars of liberation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Imperial sovereignty ended, but land concentration, racial hierarchy and unequal citizenship survived in many new states. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** Independence created states and armies before stable institutions and shared national political communities, contributing to oligarchy and recurring coups. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+War also encouraged caudillismo: personalist leaders relied on military reputations, armed clienteles and the weakness of durable institutions. Such rule was a possible response to fragile administrations, not the inevitable constitution of every new state. Rival armies and elites could turn disputes over power into coups, making orderly succession difficult. The problem was compounded because independence on much of the mainland displaced peninsular officials but confirmed creole landholding and officeholding. Indigenous communities, mestizos and enslaved populations did not automatically gain equal access to property or citizenship, reducing the social reach of supposedly national governments.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Comparison checks any uniform verdict. Mexico's popular phase under Hidalgo and Morelos gave way to a conservative settlement under Iturbide; Brazil remained monarchical after independence under Pedro I in 1822. Haiti's anti-slavery revolution established a different social starting point. None proves that all successor states developed alike, and differences within countries also mattered.
 
-**Qualified conclusion:** War-made military authority, creole oligarchy, regional fragmentation and weak institutions created states before nations and encouraged caudillismo.
+State-building therefore required more than removing Iberian sovereignty: governments had to integrate regions, restrain military power and widen political membership. Fragmentation, oligarchy and caudillismo reflected the interaction of wartime institutions with inherited social hierarchy, not simply the personal failures of individual liberators.

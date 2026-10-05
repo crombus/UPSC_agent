@@ -1,0 +1,54 @@
+{
+  "topic": "geography-34",
+  "title": "World Regional Geography Continents and Countries",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "banks": {
+    "1": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "B": 11,
+        "C": 11,
+        "D": 11,
+        "A": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "2": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "B": 11,
+        "A": 11,
+        "D": 11,
+        "C": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "3": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "D": 11,
+        "B": 11,
+        "A": 11,
+        "C": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    }
+  },
+  "total_originals": 132,
+  "exact_pyqs": 0,
+  "cross_bank_exact_stem_overlap": 0,
+  "option_length_cues": 0,
+  "generic_rationale_findings": 0,
+  "pyq_status": "held for provenance and reproduction rights",
+  "source_digest": "926d224d4c7a597b95a2ef2fd6354bd9686d2bd4b8de7eba13950cd56cbde0c1"
+}

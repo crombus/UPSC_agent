@@ -1,0 +1,46 @@
+{
+  "topic_key": "indian-society-05",
+  "title": "Rural Society and Agrarian Change",
+  "status": "complete_for_original_banks",
+  "revisions": {
+    "revision-1": {
+      "questions": 50,
+      "answers": 50,
+      "keys": {
+        "B": 13,
+        "D": 13,
+        "A": 12,
+        "C": 12
+      }
+    },
+    "revision-2": {
+      "questions": 50,
+      "answers": 50,
+      "keys": {
+        "C": 13,
+        "A": 13,
+        "D": 12,
+        "B": 12
+      }
+    },
+    "revision-3": {
+      "questions": 50,
+      "answers": 50,
+      "keys": {
+        "D": 13,
+        "B": 13,
+        "A": 12,
+        "C": 12
+      }
+    }
+  },
+  "coverage_roots": 50,
+  "pyqs_included": 0,
+  "exact_pyq_status": "held_for_provenance_and_reproduction_rights",
+  "learner_blind_review": "pending",
+  "source_order": [
+    "canonical Markdown owners",
+    "OCR/official GS-I evidence",
+    "official survey and constitutional boundaries"
+  ]
+}

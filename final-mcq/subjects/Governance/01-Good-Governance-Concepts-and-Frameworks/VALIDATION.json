@@ -1,0 +1,29 @@
+{
+  "topic": "01-Good-Governance-Concepts-and-Frameworks",
+  "title": "Good Governance: Concepts and Frameworks",
+  "status": "complete-original-banks-with-explicit-holds",
+  "audit_date": "2026-10-04",
+  "counts": {
+    "revision-1": 61,
+    "revision-2": 64,
+    "revision-3": 65,
+    "total_originals": 190,
+    "exact_pyqs": 0
+  },
+  "coverage_owner_rows": 29,
+  "issuer_holds": [
+    "R1 Q14",
+    "R2 Q14",
+    "R3 Q14"
+  ],
+  "pyq_hold": "2018 GS-I Rule of Law Index: paper/key/reproduction rights not all authenticated",
+  "checks": {
+    "structural": true,
+    "option_balance": true,
+    "answer_leakage": true,
+    "cross_revision_distinctness": true,
+    "institutional_facts": true,
+    "hostile": true
+  },
+  "next_pending": "02 Government Policy Design and Implementation"
+}

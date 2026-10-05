@@ -1,0 +1,58 @@
+{
+  "topic": "02-Growth-Development-HDI-IHDI-and-MPI",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 90,
+      "answers": 90,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 23,
+        "D": 24,
+        "B": 24,
+        "C": 19
+      },
+      "fingerprint": "94ec369e7922661c"
+    },
+    {
+      "bank": 2,
+      "questions": 92,
+      "answers": 92,
+      "max_option_spread": 22,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 27,
+        "D": 20,
+        "B": 19,
+        "A": 26
+      },
+      "fingerprint": "8144c0364e4cb7f6"
+    },
+    {
+      "bank": 3,
+      "questions": 92,
+      "answers": 92,
+      "max_option_spread": 23,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 26,
+        "A": 21,
+        "D": 27,
+        "C": 18
+      },
+      "fingerprint": "5b673f6aad4b07d9"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

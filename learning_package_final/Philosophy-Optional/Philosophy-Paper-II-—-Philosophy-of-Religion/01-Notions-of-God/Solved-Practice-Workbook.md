@@ -13,51 +13,40 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2024 | 13 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Original diagnostic MCQs — 24 core plus 8 remedial drills, plus 2 challenge items | 34 |
+| Question-specific option explanations | 136 |
+| Unique examiner traps | 34 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 15 |
+| Original solved Mains models — six baseline, two additional Indian-school comparators | 8 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so the answer cannot be spotted by shape.
+1. Work the core MCQs without notes, then read explanations for rejected options too; finish with the attribute/devotion questions.
 2. Work the eight remedial drills only after the core set. They target the conflations, inversions, misattributions and ownership errors that cost marks on this clause every year.
 3. Attempt each previous-year part under time before reading its solution. **Decide the demanded model from the stem first**: three parts are Western-model parts, five are Indian-school parts, two are personal/impersonal parts, two are attribute-coherence parts, and one is a manifestation part.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 to 220 words, 15 marks about 250 to 330, 20 marks about 330 to 400**.
+4. Write the eight original Mains models, including both additional Indian-school comparators, in full. Timed-paper lengths are practice aids, **not ceilings on the depth needed to answer a PYQ**.
 5. Check every answer against the traps: pantheism read as panentheism, quality-transcending Brahman read as non-existence, inseparability read as identity, a nature question answered with existence proofs, transcendence read as distance, timelessness offered as a complete solution, one-God belief equated with classical theism, and the four senses of divine manifestation merged into one.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
-Philosophy Optional is examined only at the Mains stage, so **no question below is a Prelims previous-year question**. All thirty-two are original UPSC-style diagnostics written against this owner's doctrine.
+### Core and remedial diagnostics — 24 core, 8 remedial, plus 2 hard coverage extensions
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+Philosophy Optional is examined only at the Mains stage, so **no question below is a Prelims previous-year question**. All 34 diagnostics are original and keyed to this owner's doctrine.
+
+**Practice rule:** Evaluate each argument's premises and counterexample. Every question carries four option explanations and an examiner trap.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Notions of God: Attributes; Relation to Man and the World. (Indian and Western)* — covering the conceptual grammar of a God-concept, affirmative and negative God-talk, the classification grid from monotheism to panentheism, the six role-profiles, creation from nothing (*creatio ex nihilo*) and primary/secondary causation, the full attribute package with its coherence costs, the two paradoxes and their four named exits, timeless and everlasting eternity, changelessness (immutability) and non-passibility (impassibility), non-composition (divine simplicity) with its Indian parallel, personhood without embodiment, Spinoza's substance metaphysics, non-dualism (Advaita), qualified non-dualism (Viśiṣṭādvaita), Nyāya's God (*Īśvara*), the non-creator Indian profiles, and the Hindu plurality verdict. The eight remedial drills attack the errors that cost marks every year on this clause: collapsing pantheism into panentheism, reading quality-transcending Brahman (*nirguṇa Brahman*) as non-existence, converting inseparability (*apṛthaksiddhi*) into identity, answering a nature-of-God question with existence proofs, spatialising transcendence, stopping at "God is outside time", equating one-God belief with classical theism, and merging four distinct senses of divine physical manifestation.
 
-#### MCQ 1. What a notion of God must fix before any proof becomes relevant
+#### MCQ 1. Whether an established first cause supplies the God of devotion
 
-This clause treats a notion of God as a structured concept, not a sacred name. Which statement states most precisely what such a notion must fix?
+Suppose a valid causal argument establishes exactly one necessary ground of contingent things. A critic objects that it still has not established the God invoked in devotional prayer. Which response identifies the *missing philosophical bridge* most precisely?
 
-A. The referent, the admissible divine predicates, the model of ultimacy, and the relations to world and to persons.
-
-B. The historical religion in which the word "God" first acquired a settled devotional and liturgical use.
-
-C. The psychological needs that devotion to a supreme being is normally expected to satisfy in believers.
-
-D. The empirical procedure by which the existence of a supreme being could be publicly tested or falsified.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: reference, predicates, model and relation are the four layers that make worship and explanation intelligible, and together they fix what any later proof would have to establish.
-- **B:** Incorrect: chronological priority settles usage, not content; the same word carries different grammars in classical theism, in Spinoza and in non-dualism (Advaita).
-- **C:** Incorrect: religious function follows from the concept rather than defining it, and a purely functional account cannot separate pantheism from panentheism.
-- **D:** Incorrect: testability belongs to Topic 02, Proofs; conceptual analysis comes first, since a demonstrated first cause is not thereby personal, omniscient or worship-worthy.
-
-**Examiner trap 1:** Opening with "God means the supreme being" and moving straight to arguments forfeits the classification marks; the examiner is buying the grammar of the concept, not a dictionary gloss.
+A. Specify whether the ground can know and respond to persons, possess morally assessable attributes, and act in or sustain the world; necessity and unity alone decide none of these.
+B. Establish which historical tradition first called a necessary ground “God”; earlier usage would make the ground personal without further premises.
+C. Show that belief in this ground satisfies psychological needs for devotion; its practical success would settle whether the ground itself is personal.
+D. Defend the validity and soundness of the original causal argument; theological adequacy follows automatically once the ground is necessary.
 
 #### MCQ 2. Affirmative and negative God-talk
 
@@ -65,67 +54,28 @@ D. The empirical procedure by which the existence of a supreme being could be pu
 
 **Reason (R):** Denying that creaturely predicates apply in the creaturely mode still leaves directional content — that the divine is not finite, not composite and not dependent.
 
-A. A is true, but R is false.
-
-B. A is false, but R is true.
-
-C. Both A and R are true, and R is the correct explanation of A.
-
-D. Both A and R are true, but R is not the correct explanation of A.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: R is not false; it states the standard defence of negation, namely that the limits removed are creaturely limits and not reality itself.
-- **B:** Incorrect: A is true, because affirmative (cataphatic) speech survives negation in a purified, analogical form rather than being cancelled by it.
-- **C:** Correct: the reason supplies exactly the content that keeps negation from collapsing into silence, so it explains the assertion rather than merely accompanying it.
-- **D:** Incorrect: the connection is explanatory, not incidental — the residual directional content is the whole ground on which A is defended.
-
-**Examiner trap 2:** Presenting negation and affirmation as rival theories loses the point: too little reserve produces anthropomorphism and too much makes reference and worship indeterminate, so the answer must state the control, not choose a side.
+A. A is false, but R is true.
+B. Both A and R are true, and R is the correct explanation of A.
+C. Both A and R are true, but R is not the correct explanation of A.
+D. A is true, but R is false.
 
 #### MCQ 3. The classification grid, stated precisely
 
 Which pairing of a label with its defining claim is correct?
 
-A. Contextual one-deity supremacy (*henotheism*): the deity currently invoked is addressed with the language of supremacy without the other deities being denied.
-
-B. Exclusive one-God worship (*monolatry*): only one deity is held to exist, and every rival deity is declared unreal by that very worship.
-
-C. Classical theism: one God is affirmed, with no further commitment regarding creation, non-composition, changelessness or perfect goodness.
-
-D. Metaphysical oneness (*monism*): one personal creator is affirmed, so oneness of reality and oneness of deity become interchangeable claims.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: this is the pattern F. Max Müller named in the Ṛgveda, with the finer variant "one-god-at-a-time" (*kathenotheism*) for successive supremacy across hymns.
-- **B:** Incorrect: exclusive worship of one God is compatible with allowing that others may exist; it is a claim about worship, not about ontology.
-- **C:** Incorrect: one-God belief is only the counting claim; classical theism adds necessity, creation and sustaining, perfect goodness, eternity, changelessness and non-composition.
-- **D:** Incorrect: oneness of reality denies plurality of *reality*, while one-God belief denies plurality of *deity*; the two can come apart, as quality-transcending Brahman shows.
-
-**Examiner trap 3:** Using "polytheism", "henotheism" and "oneness of reality" as stylistic variants destroys the 2018 answer, because the whole question turns on which plurality — of ultimates, or of names and forms — is being asserted.
+A. Classical theism: one God is affirmed, with no further commitment regarding creation, non-composition, changelessness or perfect goodness.
+B. Metaphysical oneness (*monism*): one personal creator is affirmed, so oneness of reality and oneness of deity become interchangeable claims.
+C. Contextual one-deity supremacy (*henotheism*): the deity currently invoked is addressed with the language of supremacy without the other deities being denied.
+D. Exclusive one-God worship (*monolatry*): only one deity is held to exist, and every rival deity is declared unreal by that very worship.
 
 #### MCQ 4. The defining commitment of deism
 
 Which statement gives the defining commitment of deism as classified in this owner?
 
 A. Deism denies that the world has any cause beyond itself and therefore rejects the notion of creation altogether.
-
 B. Deism accepts continuing miracles and special revelation while denying that the creator is personal in any sense.
-
 C. Deism identifies God with the totality of nature and therefore abandons the creator-and-creature distinction.
-
 D. Deism affirms a creator of the world and its natural order while rejecting continuing revelatory or miraculous intervention.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: that is a denial of creation, not deism; the deist keeps the creator and removes only the continuing intervention.
-- **B:** Incorrect: this inverts the position, since it is precisely miracles and special revelation that deism withdraws while retaining a personal source.
-- **C:** Incorrect: identity of God and nature is pantheism; deism preserves the distinction and lets the world run by its own established laws.
-- **D:** Correct: creation plus rational order plus withdrawal is the "cosmic clockmaker" profile, religiously remote yet metaphysically theistic.
-
-**Examiner trap 4:** Writing that deism "is really atheism" is a straight error: deism affirms a creator, and the correct criticism is religious remoteness, not disbelief.
 
 #### MCQ 5. Identity, inclusion and Spinoza's exact position
 
@@ -137,79 +87,361 @@ Consider the following statements.
 
 Which of the statements given above are correct?
 
-A. 1 and 3 only
-
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: statement 3 fails, because finite things are modes of one infinite substance expressed under infinitely many attributes, of which we know Thought and Extension.
-- **B:** Incorrect: it repeats the same reduction of Spinoza's substance to matter while dropping the correct identity claim in statement 1.
-- **C:** Correct: identity for pantheism and inclusion-with-excess for panentheism are the two defining formulas, and both are stated accurately here.
-- **D:** Incorrect: statements 1 and 2 are sound, but including statement 3 converts Spinoza's substance monism into a materialist inventory of bodies.
-
-**Examiner trap 5:** "Pantheism means God is the universe" is examiner shorthand that becomes wrong the moment Spinoza is named, because intelligible reality under Thought is as much God as extended reality is.
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
 
 #### MCQ 6. Role-profiles are not synonyms
 
 Which statement about the role-profiles of "God" is correct?
 
-A. Creator and sustainer state one role twice, since making a thing already includes keeping it in being over time.
-
-B. Moral governor is a devotional image only, and it generates no distinct philosophical pressure of its own.
-
-C. Ground of being is a revisionary profile: it makes God the non-dependent source of actuality rather than one being among beings, and it makes personality and worship harder to state.
-
-D. Absolute and creator are equivalent profiles, because whatever creates must stand in a real relation to what it creates.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: creation concerns the dependence of creaturely being as such, while sustaining concerns its continuation at every moment, and the second raises the timelessness problem the first does not.
-- **B:** Incorrect: moral governance carries its own pressure — autonomy, desert and the distribution of suffering — which is why it is listed as a separate role.
-- **C:** Correct: Paul Tillich's "being-itself" is a revisionary profile rather than a proof or a synonym for every classical use of the word "God", and its cost is exactly the difficulty about addressability.
-- **D:** Incorrect: absoluteness asserts non-relativity and ontological basicness, and an impersonal absolute may cease to resemble a personal creator at all.
-
-**Examiner trap 6:** Treating creator, sustainer, ruler, moral governor, ground and absolute as one list of honorifics wastes the relation question in 2024, where the marks lie in which role is doing the causal work.
+A. Moral governor is a devotional image only, and it generates no distinct philosophical pressure of its own.
+B. Ground of being is a revisionary profile: it makes God the non-dependent source of actuality rather than one being among beings, and it makes personality and worship harder to state.
+C. Absolute and creator are equivalent profiles, because whatever creates must stand in a real relation to what it creates.
+D. Creator and sustainer state one role twice, since making a thing already includes keeping it in being over time.
 
 #### MCQ 7. Creation from nothing, stated without the picture-thinking
 
 Which statement expresses creation from nothing (*creatio ex nihilo*) correctly?
 
-A. God fashioned the world out of a primordial stuff called "nothing", which existed before the creative act began.
-
-B. Creation denies any independent material co-principle and asserts that the whole being of creatures depends continuously on God.
-
-C. Creation is the first event in a temporal series, after which the world persists by its own inertia without further dependence.
-
-D. Creation is the rearrangement of eternal atoms by an intelligent orderer who supplies motion but not existence.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: "nothing" is not a material; the phrase denies a material co-principle rather than naming an exotic one.
-- **B:** Correct: the doctrine is one of total ontological dependence, which is why God can be the primary sustaining cause through which genuine secondary natural causes still operate.
-- **C:** Incorrect: this is closer to the deist picture; classical theism makes dependence continuous rather than initial.
-- **D:** Incorrect: that is the Nyāya profile, in which eternal atoms remain the material cause and God is the efficient, ordering cause — a deliberate contrast, not a definition.
-
-**Examiner trap 7:** Answering the 2024 manifestation question with a manufacturing image concedes the objection before it is stated; the answer must first separate making from ontological dependence.
+A. Creation is the rearrangement of eternal atoms by an intelligent orderer who supplies motion but not existence.
+B. God fashioned the world out of a primordial stuff called "nothing", which existed before the creative act began.
+C. Creation denies any independent material co-principle and asserts that the whole being of creatures depends continuously on God.
+D. Creation is the first event in a temporal series, after which the world persists by its own inertia without further dependence.
 
 #### MCQ 8. Power over the absolutely possible
 
 An objector argues that an omnipotent God must be able to create a stone too heavy to lift, and that either ability or inability refutes omnipotence. Which reply is philosophically standard for this owner?
 
 A. The objection succeeds, so omnipotence must be abandoned and replaced by the claim that God is merely the most powerful existing being.
-
 B. The objection fails because God's power is exercised only over spiritual realities, so questions about stones are category mistakes.
-
 C. The objection fails because divine power extends only to what God has actually decided to do, and nothing else is a genuine task.
-
 D. The objection fails because a contradictory description names no possible object of power, and the paradox is best restated as a tension between first-order and second-order power.
+
+#### MCQ 9. The deliberate outlier on the eternal truths
+
+Which position holds that even the necessary truths depend on the divine will, thereby accepting that logic itself is contingent?
+
+A. Descartes's doctrine that God freely creates the eternal truths.
+B. Molina's account of knowledge of counterfactuals of freedom.
+C. Ockham's distinction between hard facts and soft facts.
+D. Aquinas's restriction of omnipotence to the absolutely possible.
+
+#### MCQ 10. The foreknowledge dilemma, premise by premise
+
+Which statement reproduces the foreknowledge dilemma in the form the examiner rewards?
+
+A. Free acts have no reasons at all if they are known in advance, so rational agency collapses.
+B. God infallibly believed at an earlier time that the agent will act; the past is now fixed; an infallible belief cannot be false; so the agent cannot do otherwise.
+C. Divine knowledge causes the foreseen act, so the agent is compelled and freedom is destroyed.
+D. God learns what agents will do only after they act, so exhaustive foreknowledge is impossible.
+
+#### MCQ 11. The four named exits and their costs
+
+Match each reply to the foreknowledge dilemma with the cost usually charged against it.
+
+A. Timeless eternity revises the classical attribute; hard/soft facts deny foreknowledge; middle knowledge must be specified non-circularly; open theism faces the grounding objection.
+B. Timeless eternity must be specified non-circularly; hard/soft facts face the grounding objection; middle knowledge revises the attribute; open theism denies foreknowledge.
+C. Timeless eternity denies that there is any *fore*knowledge; hard/soft facts must be specified non-circularly; middle knowledge faces the grounding objection; open theism revises the classical attribute.
+D. Timeless eternity faces the grounding objection; hard/soft facts revise the attribute; middle knowledge denies foreknowledge; open theism must be specified non-circularly.
+
+#### MCQ 12. Timeless possession of life, and its dilemma
+
+Which statement about divine eternity is correct?
+
+A. Eternity entails that God cannot be the cause of temporal effects, since a timeless cause could only produce timeless results.
+B. Eternity is a devotional honorific with no bearing on the coherence of knowledge, action or responsiveness.
+C. Eternity means unending duration through time, and no philosopher in this tradition has proposed any alternative reading.
+D. Eternity may be read either as timeless possession of life or as everlasting existence through all time, and the timeless reading raises a dilemma about contingency.
+
+#### MCQ 13. Changelessness against religious personality
+
+Which reading of changelessness (immutability) and non-passibility (impassibility) is defensible on this owner's account?
+
+A. Constancy of character and purpose is affirmed, and new temporal relations or effects are distinguished from intrinsic change in God.
+B. God is entirely inert, so words like knowing, loving and responding are strictly meaningless when used of the divine.
+C. God changes with the world in every respect, so the classical attribute is simply abandoned as incoherent.
+D. Changelessness applies to God's essence but implies that God has no relation to creatures of any kind whatever.
+
+#### MCQ 14. Non-composition and the two hardest objections
+
+The doctrine of divine simplicity denies every kind of composition in God. Which statement pairs the doctrine with its two standard objections correctly?
+
+A. It denies composition; the objections are that creation becomes necessary and that the divine attributes would be many things rather than one.
+B. It denies composition; the objections are modal collapse, since God is identical with the divine act of will, and Plantinga's point that if God is identical with a property then God is a property and not an agent.
+C. It denies composition; the objections are that God would then be spatially extended and that God could not be worshipped.
+D. It denies composition; the objections are that God would be temporal and that divine goodness would depend on an external standard.
+
+#### MCQ 15. The Indian parallel to non-composition
+
+Which statement gives the Indian analogue of the simplicity dispute accurately?
+
+A. Rāmānuja endorses the quality-less absolute and adds only that devotion is empirically useful for ordinary worshippers.
+B. Madhva denies attributes to Viṣṇu altogether, which is why his system is classified as a form of non-dualism.
+C. Being, consciousness and bliss (*sat-cit-ānanda*) are essential nature-defining marks (*svarūpa-lakṣaṇa*) rather than qualities in a substrate, while defining Brahman as world-cause is the accidental or relational mark (*taṭastha-lakṣaṇa*).
+D. Being, consciousness and bliss are three separate substances that jointly compose Brahman, exactly as body and soul compose a human being.
+
+#### MCQ 16. Personhood without embodiment
+
+Which statement about divine personhood is correct?
+
+A. Personhood is incompatible with transcendence, so any personal God must be a finite being inside the world.
+B. Personhood requires a body, since intelligence and will are known to us only in embodied agents with sensory organs.
+C. Personhood requires masculine language, because scriptural usage settles the metaphysics of the divine nature.
+D. Personhood means intelligence, will, knowledge, love and addressability, predicated analogically rather than univocally of a non-corporeal reality.
+
+#### MCQ 17. The one-substance argument
+
+Which sequence reconstructs Spinoza's argument for one substance correctly?
+
+A. Substance is conceived through itself; two substances cannot share an attribute; an absolutely infinite substance excludes any rival substance; therefore only God or Nature is substance.
+B. Every substance is caused by another; an infinite regress is impossible; therefore one substance is uncaused; therefore that substance is a personal creator.
+C. Minds and bodies are substances; substances interact causally; therefore a third substance unites them; therefore God is that unifying substance.
+D. Attributes are perceived by the intellect; perception is unreliable; therefore substance is unknowable; therefore God is beyond every attribute.
+
+#### MCQ 18. Divine freedom in Spinoza
+
+Which statement about Spinoza's God is correct?
+
+A. God chooses among alternative possible worlds and selects the best, which is why the world exhibits order.
+B. God acts from the necessity of the divine nature, and freedom means self-determination rather than choice among alternatives.
+C. God creates at a first moment and then withdraws, leaving nature to run by laws already established.
+D. God is a transitive cause standing outside nature and acting upon it from without.
+
+#### MCQ 19. Two standpoints and apparent transformation
+
+Which statement about non-dualism (Advaita) is correct?
+
+A. The world is sheer non-existence, so the rope-snake illustration means that nothing whatever appears.
+B. Brahman really transforms into the world, so the relation between them is one of genuine modification (*pariṇāma*).
+C. The personal Lord is Brahman at the transactional level (*vyāvahārika*), while quality-transcending Brahman is ultimate (*pāramārthika*), the world being apparent transformation (*vivarta*).
+D. Quality-transcending Brahman and the personal Lord (*Īśvara*) are two equally ultimate realities standing side by side.
+
+#### MCQ 20. The terminology control that examiners notice
+
+Which statement uses the technical vocabulary of Advaita correctly?
+
+A. Quality-transcending Brahman is itself indeterminable (*anirvacanīya*), being neither real nor unreal in exactly the sense in which the world-appearance is neither.
+B. Both Brahman and the world-appearance are indeterminable, which is why the two are finally identical in status.
+C. Neither Brahman nor the world-appearance is indeterminable, since Advaita admits only one level of truth.
+D. Quality-transcending Brahman is ineffable because objectifying predication fails, while indeterminability (*anirvacanīya*) is the status of the cosmic power of appearance and the world-appearance.
+
+#### MCQ 21. Inseparability without identity
+
+Which statement about Rāmānuja's qualified non-dualism is correct?
+
+A. Selves and matter are real qualifications forming the body of Brahman, related by inseparability (*apṛthaksiddhi*), with God as both material and efficient cause.
+B. Selves are appearances produced by the cosmic power of appearance and are cancelled when knowledge arises.
+C. Selves are eternally separate substances with no dependence on God, related to him only by moral obligation.
+D. Selves are identical with Brahman, so liberation consists in recognising that the individual self was always the whole of Brahman.
+
+#### MCQ 22. The nature of God in Nyāya
+
+Which statement states the Nyāya notion of God (*Īśvara*) correctly?
+
+A. God is a devotional postulate with no cosmological function, added to the system only in later theistic literature.
+B. God is one eternal, incorporeal, omniscient self who is the efficient and ordering cause of the world and the supervisor of karma, while eternal atoms remain the material cause.
+C. God is the material cause of the world, since atoms are produced from the divine substance at the beginning of each cycle.
+D. God is one self among many finite selves and is bound by unseen moral potency (*adṛṣṭa*) exactly as they are.
+
+#### MCQ 23. Religion without a creator inside India
+
+Which statement about the non-creator Indian profiles is correct?
+
+A. Non-creator systems are best described as irreligious, since religion requires an omnipotent maker of the world.
+B. Classical Yoga's special self (*puruṣa-viśeṣa*) creates nature and directs its evolution from primordial matter.
+C. Mīmāṃsā, Sāṃkhya, Buddhism and Jainism dispense with a creator God while retaining accounts of moral order, ultimacy or liberation.
+D. All Indian systems are theistic once their scriptural commitments are examined carefully enough.
+
+#### MCQ 24. The verdict on Hindu plurality
+
+Which verdict on "Is Hinduism polytheistic?" is best supported by the evidence this owner allows?
+
+A. It is straightforwardly polytheistic, since temples, festivals and village practice address many deities with distinct competencies.
+B. It is straightforwardly monotheistic, since one existent is spoken of variously by the wise (Ṛgveda 1.164.46).
+C. It is straightforwardly monistic, since the Upaniṣads reduce the many gods to one reality.
+D. It is not adequately described as polytheistic: plural practice, contextual supremacy, sectarian one-God devotion and Upaniṣadic oneness coexist, so plurality lies in names, forms and access rather than in ultimates.
+
+### Remedial MCQs — common-error repair
+
+These eight drills are diagnostic rather than encyclopaedic. Each targets one error that recurs in scripts on this clause; work them only after the twenty-four core questions.
+
+#### MCQ 25. Repairing the pantheism and panentheism conflation
+
+A script writes: "Panentheism is only a softer word for pantheism, since both make the world divine." What exactly is wrong?
+
+A. Identity leaves no divine reality beyond the world, whereas inclusion-with-excess keeps immanence and transcendence together, and this difference decides what worship, providence and evil can mean.
+B. Nothing is wrong, because both positions deny that God transcends the world in any sense at all.
+C. The error is verbal only, since the two words differ in origin but not in the relation they assert.
+D. Panentheism is the stronger identity claim, because inclusion is a tighter relation than mere identity.
+
+#### MCQ 26. Repairing "quality-transcending Brahman means nothing exists"
+
+A script writes: "Since Brahman is without qualities, Advaita's ultimate is an empty nothing." What is the correct reply?
+
+A. The objection fails because Advaita in fact ascribes ordinary empirical qualities to Brahman at the ultimate level.
+B. Negation removes limiting empirical predicates rather than reality, and Brahman is affirmed as being, consciousness and bliss (*sat-cit-ānanda*) as essential nature-defining marks.
+C. The objection fails because the world alone is real, so nothing turns on how Brahman is described.
+D. The objection is decisive, and Advaita therefore abandons the quality-transcending description in its later literature.
+
+#### MCQ 27. Repairing inseparability read as identity
+
+A script writes: "For Rāmānuja the self is inseparable from God, and therefore the self is God." Where does the inference fail?
+
+A. It fails because Rāmānuja denies that selves are real, so nothing can be inseparable from God.
+B. It fails because inseparability holds only during liberation and not in ordinary embodied life.
+C. It fails because inseparability is a relation between a qualifier and what it qualifies, so the self belongs to God without ever becoming the whole of God.
+D. It fails because Rāmānuja treats the self as the body of God and the world as the soul of God.
+
+#### MCQ 28. Repairing the ownership error in the Nyāya question
+
+A 2021-style question asks for the nature of God in Nyāya, and the script reconstructs Udayana's inferences at length. What is the fault?
+
+A. The fault is stylistic, since the inferences are correct but should have been summarised more briefly.
+B. The fault is that Nyāya has no doctrine of divine attributes, so the question cannot be answered as printed.
+C. There is no fault, since the nature of God in Nyāya is exhausted by the arguments that establish God.
+D. The demand is the divine profile — one, eternal, incorporeal, omniscient, efficient cause, karmic governor — while the inferences belong to Proofs for the Existence of God.
+
+#### MCQ 29. Repairing spatialised transcendence
+
+A script writes: "God is transcendent, which means God is far away from the world, and immanent, which means God is physically inside it." What is the correction?
+
+A. Transcendence signifies ontological independence rather than spatial remoteness, and immanence signifies sustaining presence and activity rather than physical inclusion.
+B. Both terms are devotional images with no philosophical content, so the sentence is harmless.
+C. Transcendence should be dropped, since a God beyond the world could not act within it.
+D. Immanence should be dropped, since presence inside the world would make God a part of the world.
+
+#### MCQ 30. Repairing the "God is outside time" shortcut
+
+A script answers the freedom-and-foreknowledge question by asserting that God is timeless, and stops there. What is missing?
+
+A. Nothing is missing, since timelessness removes the problem entirely and no further statement is required.
+B. The script must say which premise the eternity move targets — the fixity of the past — and must then pay the cost about divine responsiveness and contingency.
+C. The script must abandon timelessness, because no classical writer defends it as a reply to this dilemma.
+D. The script must add that divine knowledge causes the act, since that is what timelessness implies.
+
+#### MCQ 31. Repairing "one God, therefore classical theism"
+
+A script treats belief in one God as equivalent to classical theism. What does the equation omit?
+
+A. It omits only the historical claim that classical theism developed within a particular philosophical tradition.
+B. It omits the requirement that God be worshipped exclusively, which is the sole difference between the two.
+C. It omits necessity, creation and continuous sustaining, perfect goodness, eternity, changelessness and non-composition, which one-God belief by itself does not supply.
+D. It omits nothing of substance, since any monotheist is committed to the classical attribute package by implication.
+
+#### MCQ 32. Repairing the four senses of divine physical manifestation
+
+The 2024 statement claims that the ultimate cause of the world must have some physical manifestation. Which analysis best separates the notions at stake?
+
+A. Pantheism refutes the statement outright, because identifying God with nature removes every question about manifestation.
+B. Incarnation and material causation are the same claim, so the statement is true in every tradition that accepts descent-forms.
+C. Physical manifestation is required by Viśiṣṭādvaita, since calling the world God's body means God has a physical form.
+D. Descent or manifestation, embodiment, material causation and metaphysical dependence are four distinct notions, and ultimacy requires only the last, which physical form would in fact compromise.
+
+#### Hard coverage extensions — MCQs 33–34
+
+#### MCQ 33. A critic claims that a timeless God cannot know “it is now noon”. Which reply most directly preserves omniscience *without* claiming that God occupies each creature's changing first-person perspective?
+
+A. God knows every tenseless fact indexed to a time, while whether knowledge of the moving present adds irreducible content remains disputed.
+B. God knows each changing present by acquiring the corresponding new belief; this retains a *temporal* omniscient God but leaves timelessness unaddressed.
+C. God can have each creature's first-person knowledge only by occupying that creature's unique perspective; this makes omniscience depend on assuming every subject position.
+D. God eternally sees every event as present, so distinguishing knowledge of an indexed truth from experience of a moving present is unnecessary.
+
+#### MCQ 34. Which conjunction captures devotion under Advaita and Rāmānuja without treating “impersonal” as equivalent to “unworthy of worship”?
+
+A. Advaita permits devotion because quality-transcending Brahman is ultimately a second person; Rāmānuja regards the devotional Lord as real only until liberation.
+B. Advaita permits worship of personal Īśvara empirically while denying ultimate subject–object duality; Rāmānuja treats the personal Lord as ultimate and dependent souls as ultimately real.
+C. Advaita's personal Īśvara is ultimately real in the same way as Rāmānuja's Lord, but Rāmānuja makes individual souls only empirically real.
+D. Both sustain devotion empirically while treating knowledge of an ultimately impersonal Brahman as the sole direct means to liberation.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. Necessity and unity specify a ground but not its character or human/world relations; a Spinozistic substance and a personal Lord have different devotional implications.
+- **B:** Incorrect. Linguistic priority cannot turn an impersonal ground into an intentional respondent; usage and the inferred entity's nature remain distinct.
+- **C:** Incorrect. Practical comfort may explain belief but cannot establish whether its object answers prayer or cares about anyone.
+- **D:** Incorrect. Formal validity and true premises would establish only the argument's *stated conclusion*; further premises must bridge that conclusion to morally good, responsive theism.
+
+**Examiner trap 1:** Do not infer omniscience, benevolence and providence from “necessary first cause”; the proof's success and the God-concept's adequacy are separate.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: A is true, because affirmative (cataphatic) speech survives negation in a purified, analogical form rather than being cancelled by it.
+- **B:** Correct: the reason supplies exactly the content that keeps negation from collapsing into silence, so it explains the assertion rather than merely accompanying it.
+- **C:** Incorrect: the connection is explanatory, not incidental — the residual directional content is the whole ground on which A is defended.
+- **D:** Incorrect: R is not false; it states the standard defence of negation, namely that the limits removed are creaturely limits and not reality itself.
+
+**Examiner trap 2:** Presenting negation and affirmation as rival theories loses the point: too little reserve produces anthropomorphism and too much makes reference and worship indeterminate, so the answer must state the control, not choose a side.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: one-God belief is only the counting claim; classical theism adds necessity, creation and sustaining, perfect goodness, eternity, changelessness and non-composition.
+- **B:** Incorrect: oneness of reality denies plurality of *reality*, while one-God belief denies plurality of *deity*; the two can come apart, as quality-transcending Brahman shows.
+- **C:** Correct: this is the pattern F. Max Müller named in the Ṛgveda, with the finer variant "one-god-at-a-time" (*kathenotheism*) for successive supremacy across hymns.
+- **D:** Incorrect: exclusive worship of one God is compatible with allowing that others may exist; it is a claim about worship, not about ontology.
+
+**Examiner trap 3:** Using "polytheism", "henotheism" and "oneness of reality" as stylistic variants destroys the 2018 answer, because the whole question turns on which plurality — of ultimates, or of names and forms — is being asserted.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: that is a denial of creation, not deism; the deist keeps the creator and removes only the continuing intervention.
+- **B:** Incorrect: this inverts the position, since it is precisely miracles and special revelation that deism withdraws while retaining a personal source.
+- **C:** Incorrect: identity of God and nature is pantheism; deism preserves the distinction and lets the world run by its own established laws.
+- **D:** Correct: creation plus rational order plus withdrawal is the "cosmic clockmaker" profile, religiously remote yet metaphysically theistic.
+
+**Examiner trap 4:** Writing that deism "is really atheism" is a straight error: deism affirms a creator, and the correct criticism is religious remoteness, not disbelief.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: identity for pantheism and inclusion-with-excess for panentheism are the two defining formulas, and both are stated accurately here.
+- **B:** Incorrect: statements 1 and 2 are sound, but including statement 3 converts Spinoza's substance monism into a materialist inventory of bodies.
+- **C:** Incorrect: statement 3 fails, because finite things are modes of one infinite substance expressed under infinitely many attributes, of which we know Thought and Extension.
+- **D:** Incorrect: it repeats the same reduction of Spinoza's substance to matter while dropping the correct identity claim in statement 1.
+
+**Examiner trap 5:** "Pantheism means God is the universe" is examiner shorthand that becomes wrong the moment Spinoza is named, because intelligible reality under Thought is as much God as extended reality is.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: moral governance carries its own pressure — autonomy, desert and the distribution of suffering — which is why it is listed as a separate role.
+- **B:** Correct: Paul Tillich's "being-itself" is a revisionary profile rather than a proof or a synonym for every classical use of the word "God", and its cost is exactly the difficulty about addressability.
+- **C:** Incorrect: absoluteness asserts non-relativity and ontological basicness, and an impersonal absolute may cease to resemble a personal creator at all.
+- **D:** Incorrect: creation concerns the dependence of creaturely being as such, while sustaining concerns its continuation at every moment, and the second raises the timelessness problem the first does not.
+
+**Examiner trap 6:** Treating creator, sustainer, ruler, moral governor, ground and absolute as one list of honorifics wastes the relation question in 2024, where the marks lie in which role is doing the causal work.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: that is the Nyāya profile, in which eternal atoms remain the material cause and God is the efficient, ordering cause — a deliberate contrast, not a definition.
+- **B:** Incorrect: "nothing" is not a material; the phrase denies a material co-principle rather than naming an exotic one.
+- **C:** Correct: the doctrine is one of total ontological dependence, which is why God can be the primary sustaining cause through which genuine secondary natural causes still operate.
+- **D:** Incorrect: this is closer to the deist picture; classical theism makes dependence continuous rather than initial.
+
+**Examiner trap 7:** Answering the 2024 manifestation question with a manufacturing image concedes the objection before it is stated; the answer must first separate making from ontological dependence.
+
+#### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -221,105 +453,55 @@ D. The objection fails because a contradictory description names no possible obj
 
 **Examiner trap 8:** Replying only "God cannot do the logically impossible" without naming the first-order/second-order distinction leaves the sharper version of the paradox untouched and caps the answer.
 
-#### MCQ 9. The deliberate outlier on the eternal truths
-
-Which position holds that even the necessary truths depend on the divine will, thereby accepting that logic itself is contingent?
-
-A. Aquinas's restriction of omnipotence to the absolutely possible.
-
-B. Descartes's doctrine that God freely creates the eternal truths.
-
-C. Molina's account of knowledge of counterfactuals of freedom.
-
-D. Ockham's distinction between hard facts and soft facts.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Aquinas moves in the opposite direction, treating contradictions as non-things so that they place no limit on power.
-- **B:** Correct: universal possibilism is coherent but expensive, because it purchases unrestricted power at the price of making the eternal truths contingent on will.
-- **C:** Incorrect: middle knowledge (*scientia media*) addresses foreknowledge of free acts, not the modal status of necessary truths.
-- **D:** Incorrect: the hard/soft distinction concerns the fixity of the past, not the dependence of logic on the divine will.
-
-**Examiner trap 9:** Using Descartes as the default theistic reply misrepresents the tradition; he is the outlier, and citing him as standard doctrine costs precision marks.
-
-#### MCQ 10. The foreknowledge dilemma, premise by premise
-
-Which statement reproduces the foreknowledge dilemma in the form the examiner rewards?
-
-A. Divine knowledge causes the foreseen act, so the agent is compelled and freedom is destroyed.
-
-B. God learns what agents will do only after they act, so exhaustive foreknowledge is impossible.
-
-C. Free acts have no reasons at all if they are known in advance, so rational agency collapses.
-
-D. God infallibly believed at an earlier time that the agent will act; the past is now fixed; an infallible belief cannot be false; so the agent cannot do otherwise.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the dilemma is modal rather than causal, and every serious version concedes that knowing is not causing.
-- **B:** Incorrect: this denies the omniscience the question presupposes instead of exposing the tension inside it.
-- **C:** Incorrect: a known act can remain fully reason-responsive; foreknowledge threatens alternative possibilities, not rationality.
-- **D:** Correct: infallible past belief plus accidental necessity of the past yields the fixity of the future act, which is exactly where the argument must be attacked.
-
-**Examiner trap 10:** Writing that "God's knowledge does not cause the act, hence there is no problem" answers a premise nobody defends and leaves the fixity premise untouched.
-
-#### MCQ 11. The four named exits and their costs
-
-Match each reply to the foreknowledge dilemma with the cost usually charged against it.
-
-A. Timeless eternity denies that there is any *fore*knowledge; hard/soft facts must be specified non-circularly; middle knowledge faces the grounding objection; open theism revises the classical attribute.
-
-B. Timeless eternity faces the grounding objection; hard/soft facts revise the attribute; middle knowledge denies foreknowledge; open theism must be specified non-circularly.
-
-C. Timeless eternity revises the classical attribute; hard/soft facts deny foreknowledge; middle knowledge must be specified non-circularly; open theism faces the grounding objection.
-
-D. Timeless eternity must be specified non-circularly; hard/soft facts face the grounding objection; middle knowledge revises the attribute; open theism denies foreknowledge.
+#### MCQ 9 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the Boethian move removes temporal priority, the Ockhamist move relocates fixity, Molinism buys knowledge of counterfactuals of freedom at the price of truthmakers, and open theism amends omniscience itself.
-- **B:** Incorrect: it transfers the grounding objection from middle knowledge, where it originates, to the eternity reply, which faces a different problem about divine responsiveness.
-- **C:** Incorrect: eternity does not revise omniscience — that is open theism's move — and the soft-fact strategy does not deny foreknowledge at all.
-- **D:** Incorrect: the non-circularity demand belongs to the hard/soft distinction, and open theism denies future truths rather than foreknowledge as such.
+- **A:** Correct: universal possibilism is coherent but expensive, because it purchases unrestricted power at the price of making the eternal truths contingent on will.
+- **B:** Incorrect: middle knowledge (*scientia media*) addresses foreknowledge of free acts, not the modal status of necessary truths.
+- **C:** Incorrect: the hard/soft distinction concerns the fixity of the past, not the dependence of logic on the divine will.
+- **D:** Incorrect: Aquinas moves in the opposite direction, treating contradictions as non-things so that they place no limit on power.
 
-**Examiner trap 11:** Naming all four exits without stating which premise each one denies produces a list rather than an argument; the verdict must say what the reconciliation costs.
+**Examiner trap 9:** Using Descartes as the default theistic reply misrepresents the tradition; he is the outlier, and citing him as standard doctrine costs precision marks.
 
-#### MCQ 12. Timeless possession of life, and its dilemma
-
-Which statement about divine eternity is correct?
-
-A. Eternity means unending duration through time, and no philosopher in this tradition has proposed any alternative reading.
-
-B. Eternity may be read either as timeless possession of life or as everlasting existence through all time, and the timeless reading raises a dilemma about contingency.
-
-C. Eternity entails that God cannot be the cause of temporal effects, since a timeless cause could only produce timeless results.
-
-D. Eternity is a devotional honorific with no bearing on the coherence of knowledge, action or responsiveness.
+#### MCQ 10 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the everlasting reading exists, but the timeless reading is the classical one, and the contrast between them is itself examinable.
-- **B:** Correct: one timeless act can ground temporal effects, yet if no alternative divine act is possible, the contingency of creation is placed under pressure.
-- **C:** Incorrect: the standard position is precisely that a single timeless act grounds a temporal order; the difficulty concerns responsiveness, not causal reach.
-- **D:** Incorrect: eternity constrains what can be said about action, knowledge of tensed facts and response, so it is doctrinally loaded rather than decorative.
+- **A:** Incorrect: a known act can remain fully reason-responsive; foreknowledge threatens alternative possibilities, not rationality.
+- **B:** Correct: infallible past belief plus accidental necessity of the past yields the fixity of the future act, which is exactly where the argument must be attacked.
+- **C:** Incorrect: the dilemma is modal rather than causal, and every serious version concedes that knowing is not causing.
+- **D:** Incorrect: this denies the omniscience the question presupposes instead of exposing the tension inside it.
+
+**Examiner trap 10:** Writing that "God's knowledge does not cause the act, hence there is no problem" answers a premise nobody defends and leaves the fixity premise untouched.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: eternity does not revise omniscience — that is open theism's move — and the soft-fact strategy does not deny foreknowledge at all.
+- **B:** Incorrect: the non-circularity demand belongs to the hard/soft distinction, and open theism denies future truths rather than foreknowledge as such.
+- **C:** Correct: the Boethian move removes temporal priority, the Ockhamist move relocates fixity, Molinism buys knowledge of counterfactuals of freedom at the price of truthmakers, and open theism amends omniscience itself.
+- **D:** Incorrect: it transfers the grounding objection from middle knowledge, where it originates, to the eternity reply, which faces a different problem about divine responsiveness.
+
+**Examiner trap 11:** Naming all four exits without stating which premise each one denies produces a list rather than an argument; the verdict must say what the reconciliation costs.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the standard position is precisely that a single timeless act grounds a temporal order; the difficulty concerns responsiveness, not causal reach.
+- **B:** Incorrect: eternity constrains what can be said about action, knowledge of tensed facts and response, so it is doctrinally loaded rather than decorative.
+- **C:** Incorrect: the everlasting reading exists, but the timeless reading is the classical one, and the contrast between them is itself examinable.
+- **D:** Correct: one timeless act can ground temporal effects, yet if no alternative divine act is possible, the contingency of creation is placed under pressure.
 
 **Examiner trap 12:** Asserting that God is "beyond time" and stopping there converts a live dilemma into a slogan; state the temporal effects and the contingency cost in the same sentence.
 
-#### MCQ 13. Changelessness against religious personality
-
-Which reading of changelessness (immutability) and non-passibility (impassibility) is defensible on this owner's account?
-
-A. Constancy of character and purpose is affirmed, and new temporal relations or effects are distinguished from intrinsic change in God.
-
-B. God is entirely inert, so words like knowing, loving and responding are strictly meaningless when used of the divine.
-
-C. God changes with the world in every respect, so the classical attribute is simply abandoned as incoherent.
-
-D. Changelessness applies to God's essence but implies that God has no relation to creatures of any kind whatever.
+#### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -331,83 +513,43 @@ D. Changelessness applies to God's essence but implies that God has no relation 
 
 **Examiner trap 13:** Defending changelessness by making God emotionally inert wins the metaphysics and loses the religion; the verdict should concede that the repair narrows what the believer wanted to assert.
 
-#### MCQ 14. Non-composition and the two hardest objections
+#### MCQ 14 — solution
 
-The doctrine of divine simplicity denies every kind of composition in God. Which statement pairs the doctrine with its two standard objections correctly?
-
-A. It denies composition; the objections are that God would then be spatially extended and that God could not be worshipped.
-
-B. It denies composition; the objections are that God would be temporal and that divine goodness would depend on an external standard.
-
-C. It denies composition; the objections are that creation becomes necessary and that the divine attributes would be many things rather than one.
-
-D. It denies composition; the objections are modal collapse, since God is identical with the divine act of will, and Plantinga's point that if God is identical with a property then God is a property and not an agent.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: extension is denied by simplicity rather than entailed by it, and unworshippability is a downstream religious complaint rather than the technical objection.
-- **B:** Incorrect: temporality is denied by eternity, and the independence of goodness is the Euthyphro problem, which belongs to Religion and Morality.
-- **C:** Incorrect: the first half is a garbled version of modal collapse, and the second half states the doctrine's denial rather than an objection to it.
-- **D:** Correct: modal collapse threatens the contingency of creation, and Plantinga's objection in *Does God Have a Nature?* attacks the property-identity reading directly.
+- **A:** Incorrect: the first half is a garbled version of modal collapse, and the second half states the doctrine's denial rather than an objection to it.
+- **B:** Correct: modal collapse threatens the contingency of creation, and Plantinga's objection in *Does God Have a Nature?* attacks the property-identity reading directly.
+- **C:** Incorrect: extension is denied by simplicity rather than entailed by it, and unworshippability is a downstream religious complaint rather than the technical objection.
+- **D:** Incorrect: temporality is denied by eternity, and the independence of goodness is the Euthyphro problem, which belongs to Religion and Morality.
 
 **Examiner trap 14:** Glossing simplicity as God being "uncomplicated" throws away a technical thesis about composition, essence and existence and guarantees a mid-band script.
 
-#### MCQ 15. The Indian parallel to non-composition
-
-Which statement gives the Indian analogue of the simplicity dispute accurately?
-
-A. Being, consciousness and bliss (*sat-cit-ānanda*) are essential nature-defining marks (*svarūpa-lakṣaṇa*) rather than qualities in a substrate, while defining Brahman as world-cause is the accidental or relational mark (*taṭastha-lakṣaṇa*).
-
-B. Being, consciousness and bliss are three separate substances that jointly compose Brahman, exactly as body and soul compose a human being.
-
-C. Rāmānuja endorses the quality-less absolute and adds only that devotion is empirically useful for ordinary worshippers.
-
-D. Madhva denies attributes to Viṣṇu altogether, which is why his system is classified as a form of non-dualism.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the essential-mark and relational-mark distinction is the functional Indian analogue of non-composition, and it is the discriminating detail that lifts a 15- or 20-marker.
-- **B:** Incorrect: treating the three terms as components reintroduces exactly the composition the formula denies.
-- **C:** Incorrect: Rāmānuja attacks the quality-less absolute head-on, arguing that a wholly undetermined entity is neither knowable, nameable nor worshippable, so Brahman must be qualified (*saviśeṣa*).
-- **D:** Incorrect: Madhva takes the third route, using a real distinguisher (*viśeṣa*) within a partless substance so that Viṣṇu can possess genuine attributes without composition.
-
-**Examiner trap 15:** Importing Aquinas's vocabulary into Vedānta without the essential-mark and relational-mark distinction produces a comparison the examiner cannot mark as informed.
-
-#### MCQ 16. Personhood without embodiment
-
-Which statement about divine personhood is correct?
-
-A. Personhood requires a body, since intelligence and will are known to us only in embodied agents with sensory organs.
-
-B. Personhood requires masculine language, because scriptural usage settles the metaphysics of the divine nature.
-
-C. Personhood means intelligence, will, knowledge, love and addressability, predicated analogically rather than univocally of a non-corporeal reality.
-
-D. Personhood is incompatible with transcendence, so any personal God must be a finite being inside the world.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: our access to personal predicates is embodied, but the inference from how we learn a word to what it must denote is exactly the anthropomorphic fallacy.
-- **B:** Incorrect: masculine or feminine language establishes no biological sex in a non-corporeal God, though exclusive usage does shape authority and imagination.
-- **C:** Correct: analogical predication preserves real reference and addressability while refusing univocal transfer from finite psychology.
-- **D:** Incorrect: classical theism holds transcendence and personality together, and Viśiṣṭādvaita makes a supremely personal Brahman the transcendent whole.
+- **A:** Incorrect: Rāmānuja attacks the quality-less absolute head-on, arguing that a wholly undetermined entity is neither knowable, nameable nor worshippable, so Brahman must be qualified (*saviśeṣa*).
+- **B:** Incorrect: Madhva takes the third route, using a real distinguisher (*viśeṣa*) within a partless substance so that Viṣṇu can possess genuine attributes without composition.
+- **C:** Correct: the essential-mark and relational-mark distinction is the functional Indian analogue of non-composition, and it is the discriminating detail that lifts a 15- or 20-marker.
+- **D:** Incorrect: treating the three terms as components reintroduces exactly the composition the formula denies.
+
+**Examiner trap 15:** Importing Aquinas's vocabulary into Vedānta without the essential-mark and relational-mark distinction produces a comparison the examiner cannot mark as informed.
+
+#### MCQ 16 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: classical theism holds transcendence and personality together, and Viśiṣṭādvaita makes a supremely personal Brahman the transcendent whole.
+- **B:** Incorrect: our access to personal predicates is embodied, but the inference from how we learn a word to what it must denote is exactly the anthropomorphic fallacy.
+- **C:** Incorrect: masculine or feminine language establishes no biological sex in a non-corporeal God, though exclusive usage does shape authority and imagination.
+- **D:** Correct: analogical predication preserves real reference and addressability while refusing univocal transfer from finite psychology.
 
 **Examiner trap 16:** Answering the personal/impersonal question by treating "personal" as human-shaped destroys the 2019 and 2023 parts, because both sides of the debate reject that reading.
 
-#### MCQ 17. The one-substance argument
-
-Which sequence reconstructs Spinoza's argument for one substance correctly?
-
-A. Substance is conceived through itself; two substances cannot share an attribute; an absolutely infinite substance excludes any rival substance; therefore only God or Nature is substance.
-
-B. Every substance is caused by another; an infinite regress is impossible; therefore one substance is uncaused; therefore that substance is a personal creator.
-
-C. Minds and bodies are substances; substances interact causally; therefore a third substance unites them; therefore God is that unifying substance.
-
-D. Attributes are perceived by the intellect; perception is unreliable; therefore substance is unknowable; therefore God is beyond every attribute.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
@@ -419,17 +561,7 @@ D. Attributes are perceived by the intellect; perception is unreliable; therefor
 
 **Examiner trap 17:** Writing "Spinoza says God is nature" without the substance-attribute-mode machinery answers the 2022 part but not the 2024 part, which asks how the notion is *embedded* in the metaphysics.
 
-#### MCQ 18. Divine freedom in Spinoza
-
-Which statement about Spinoza's God is correct?
-
-A. God chooses among alternative possible worlds and selects the best, which is why the world exhibits order.
-
-B. God acts from the necessity of the divine nature, and freedom means self-determination rather than choice among alternatives.
-
-C. God creates at a first moment and then withdraws, leaving nature to run by laws already established.
-
-D. God is a transitive cause standing outside nature and acting upon it from without.
+#### MCQ 18 — solution
 
 **Answer: B.**
 
@@ -441,127 +573,67 @@ D. God is a transitive cause standing outside nature and acting upon it from wit
 
 **Examiner trap 18:** Calling Spinoza a deist because both reduce miracles conflates withdrawal with identity and inverts the God-world relation the question is testing.
 
-#### MCQ 19. Two standpoints and apparent transformation
+#### MCQ 19 — solution
 
-Which statement about non-dualism (Advaita) is correct?
+**Answer: C.**
 
-A. Quality-transcending Brahman and the personal Lord (*Īśvara*) are two equally ultimate realities standing side by side.
+**Option explanations:**
+- **A:** Incorrect: the world is empirically available and sublatable, not absolute nothing — the snake genuinely appears, which is the point of the illustration.
+- **B:** Incorrect: real transformation is the Viśiṣṭādvaita and Sāṃkhya route; Advaita's world is apparent transformation, so Brahman undergoes no real change.
+- **C:** Correct: the level distinction is what allows Advaita to honour devotion while denying that plurality is finally real.
+- **D:** Incorrect: the two are related by level, not by parity; the personal Lord is Brahman as related to the cosmic power of appearance (*māyā*).
 
-B. The world is sheer non-existence, so the rope-snake illustration means that nothing whatever appears.
+**Examiner trap 19:** Saying "for Advaita the world is unreal" without the sublation vocabulary invites the standard objection that experience is denied, and the 2022 answer then loses its qualification.
 
-C. Brahman really transforms into the world, so the relation between them is one of genuine modification (*pariṇāma*).
-
-D. The personal Lord is Brahman at the transactional level (*vyāvahārika*), while quality-transcending Brahman is ultimate (*pāramārthika*), the world being apparent transformation (*vivarta*).
+#### MCQ 20 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: the two are related by level, not by parity; the personal Lord is Brahman as related to the cosmic power of appearance (*māyā*).
-- **B:** Incorrect: the world is empirically available and sublatable, not absolute nothing — the snake genuinely appears, which is the point of the illustration.
-- **C:** Incorrect: real transformation is the Viśiṣṭādvaita and Sāṃkhya route; Advaita's world is apparent transformation, so Brahman undergoes no real change.
-- **D:** Correct: the level distinction is what allows Advaita to honour devotion while denying that plurality is finally real.
+- **A:** Incorrect: this is the commonest terminological error in Vedānta scripts, since indeterminability marks what is different from both the real and the unreal, which Brahman is not.
+- **B:** Incorrect: collapsing the statuses erases the level distinction on which the whole system rests.
+- **C:** Incorrect: Advaita explicitly works with the transactional and ultimate levels, and sublation presupposes exactly that difference.
+- **D:** Correct: Brahman is *sat*, the one reality, and its ineffability is the failure of predication (*avācya*; "whence words turn back", Taittirīya Upaniṣad 2.9; method: *neti neti*, Bṛhadāraṇyaka Upaniṣad 2.3.6).
 
-**Examiner trap 19:** Saying "for Advaita the world is unreal" without the sublation vocabulary invites the standard objection that experience is denied, and the 2022 answer then loses its qualification.
+**Examiner trap 20:** Glossing quality-transcending Brahman as "indeterminable" reads as second-hand knowledge; the examiner has seen the phrase misapplied often enough to treat it as a marker.
 
-#### MCQ 20. The terminology control that examiners notice
-
-Which statement uses the technical vocabulary of Advaita correctly?
-
-A. Quality-transcending Brahman is ineffable because objectifying predication fails, while indeterminability (*anirvacanīya*) is the status of the cosmic power of appearance and the world-appearance.
-
-B. Quality-transcending Brahman is itself indeterminable (*anirvacanīya*), being neither real nor unreal in exactly the sense in which the world-appearance is neither.
-
-C. Both Brahman and the world-appearance are indeterminable, which is why the two are finally identical in status.
-
-D. Neither Brahman nor the world-appearance is indeterminable, since Advaita admits only one level of truth.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Brahman is *sat*, the one reality, and its ineffability is the failure of predication (*avācya*; "whence words turn back", Taittirīya Upaniṣad 2.9; method: *neti neti*, Bṛhadāraṇyaka Upaniṣad 2.3.6).
-- **B:** Incorrect: this is the commonest terminological error in Vedānta scripts, since indeterminability marks what is different from both the real and the unreal, which Brahman is not.
-- **C:** Incorrect: collapsing the statuses erases the level distinction on which the whole system rests.
-- **D:** Incorrect: Advaita explicitly works with the transactional and ultimate levels, and sublation presupposes exactly that difference.
-
-**Examiner trap 20:** Glossing quality-transcending Brahman as "indeterminable" reads as second-hand knowledge; the examiner has seen the phrase misapplied often enough to treat it as a marker.
-
-#### MCQ 21. Inseparability without identity
-
-Which statement about Rāmānuja's qualified non-dualism is correct?
-
-A. Selves are identical with Brahman, so liberation consists in recognising that the individual self was always the whole of Brahman.
-
-B. Selves and matter are real qualifications forming the body of Brahman, related by inseparability (*apṛthaksiddhi*), with God as both material and efficient cause.
-
-C. Selves are appearances produced by the cosmic power of appearance and are cancelled when knowledge arises.
-
-D. Selves are eternally separate substances with no dependence on God, related to him only by moral obligation.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: that is the Advaita thesis; Rāmānuja preserves difference within dependence, so the self never becomes the whole of God.
-- **B:** Correct: the body-and-self relation (*śarīra-śarīrī*) makes the world a real transformation (*pariṇāma*) rather than an appearance, and grounds devotion and surrender.
-- **C:** Incorrect: cancellation of the self belongs to the rival system; here the individual self remains eternally real in communion.
-- **D:** Incorrect: complete independence of selves would abolish the inseparability that defines the system and would move the position towards Madhva's dualism without his dependence axiom.
+- **A:** Correct: the body-and-self relation (*śarīra-śarīrī*) makes the world a real transformation (*pariṇāma*) rather than an appearance, and grounds devotion and surrender.
+- **B:** Incorrect: cancellation of the self belongs to the rival system; here the individual self remains eternally real in communion.
+- **C:** Incorrect: complete independence of selves would abolish the inseparability that defines the system and would move the position towards Madhva's dualism without his dependence axiom.
+- **D:** Incorrect: that is the Advaita thesis; Rāmānuja preserves difference within dependence, so the self never becomes the whole of God.
 
 **Examiner trap 21:** Translating inseparability as identity is the single most costly error in the 2022 and 2020 parts, because it converts qualified non-dualism into the system it was built to refute.
 
-#### MCQ 22. The nature of God in Nyāya
-
-Which statement states the Nyāya notion of God (*Īśvara*) correctly?
-
-A. God is the material cause of the world, since atoms are produced from the divine substance at the beginning of each cycle.
-
-B. God is one self among many finite selves and is bound by unseen moral potency (*adṛṣṭa*) exactly as they are.
-
-C. God is a devotional postulate with no cosmological function, added to the system only in later theistic literature.
-
-D. God is one eternal, incorporeal, omniscient self who is the efficient and ordering cause of the world and the supervisor of karma, while eternal atoms remain the material cause.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the material cause is the eternal atoms; conflating the two destroys the causal architecture the 2021 question is testing.
-- **B:** Incorrect: God is distinct from finite selves precisely in being untouched by karmic bondage while administering its fruits.
-- **C:** Incorrect: God performs indispensable ordering and moral-governance work, and in the theistic profile is also the authoritative source of scripture.
-- **D:** Correct: one, eternal, incorporeal, omniscient, efficient cause and karmic governor is the exact profile, with atoms retained as material cause.
-
-**Examiner trap 22:** Answering the 2021 nature question by reciting Udayana's inferences imports Topic 02 and leaves the actual demand — the attributes and causal role — unanswered.
-
-#### MCQ 23. Religion without a creator inside India
-
-Which statement about the non-creator Indian profiles is correct?
-
-A. Classical Yoga's special self (*puruṣa-viśeṣa*) creates nature and directs its evolution from primordial matter.
-
-B. Mīmāṃsā, Sāṃkhya, Buddhism and Jainism dispense with a creator God while retaining accounts of moral order, ultimacy or liberation.
-
-C. All Indian systems are theistic once their scriptural commitments are examined carefully enough.
-
-D. Non-creator systems are best described as irreligious, since religion requires an omnipotent maker of the world.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the special self is untouched by affliction and karma and functions as the archetypal teacher, not as the creator of nature's evolution.
-- **B:** Correct: the eternal Veda and ritual order, independent selves and primordial nature, and the non-creator paths of Buddhism and Jainism each preserve religion without a maker.
-- **C:** Incorrect: theistic reinterpretation flattens exactly the internal diversity the Indian half of this clause is asking about.
-- **D:** Incorrect: "non-theistic" does not mean irreligious or morally empty; each profile retains ultimacy, discipline and liberation.
+- **A:** Incorrect: God performs indispensable ordering and moral-governance work, and in the theistic profile is also the authoritative source of scripture.
+- **B:** Correct: one, eternal, incorporeal, omniscient, efficient cause and karmic governor is the exact profile, with atoms retained as material cause.
+- **C:** Incorrect: the material cause is the eternal atoms; conflating the two destroys the causal architecture the 2021 question is testing.
+- **D:** Incorrect: God is distinct from finite selves precisely in being untouched by karmic bondage while administering its fruits.
+
+**Examiner trap 22:** Answering the 2021 nature question by reciting Udayana's inferences imports Topic 02 and leaves the actual demand — the attributes and causal role — unanswered.
+
+#### MCQ 23 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: "non-theistic" does not mean irreligious or morally empty; each profile retains ultimacy, discipline and liberation.
+- **B:** Incorrect: the special self is untouched by affliction and karma and functions as the archetypal teacher, not as the creator of nature's evolution.
+- **C:** Correct: the eternal Veda and ritual order, independent selves and primordial nature, and the non-creator paths of Buddhism and Jainism each preserve religion without a maker.
+- **D:** Incorrect: theistic reinterpretation flattens exactly the internal diversity the Indian half of this clause is asking about.
 
 **Examiner trap 23:** Writing that "Indian philosophy is spiritual and therefore theistic" collapses the Indian material into one voice and forfeits the parity marks the paper reserves for precision.
 
-#### MCQ 24. The verdict on Hindu plurality
-
-Which verdict on "Is Hinduism polytheistic?" is best supported by the evidence this owner allows?
-
-A. It is straightforwardly polytheistic, since temples, festivals and village practice address many deities with distinct competencies.
-
-B. It is straightforwardly monotheistic, since one existent is spoken of variously by the wise (Ṛgveda 1.164.46).
-
-C. It is straightforwardly monistic, since the Upaniṣads reduce the many gods to one reality.
-
-D. It is not adequately described as polytheistic: plural practice, contextual supremacy, sectarian one-God devotion and Upaniṣadic oneness coexist, so plurality lies in names, forms and access rather than in ultimates.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
@@ -573,65 +645,31 @@ D. It is not adequately described as polytheistic: plural practice, contextual s
 
 **Examiner trap 24:** Answering with a bare yes or no throws away the 2018 part; the criterion — plurality of ultimates against plurality of names and forms — must be announced before it is applied.
 
-### Remedial MCQs — common-error repair
+#### MCQ 25 — solution
 
-These eight drills are diagnostic rather than encyclopaedic. Each targets one error that recurs in scripts on this clause; work them only after the twenty-four core questions.
-
-#### MCQ 25. Repairing the pantheism and panentheism conflation
-
-A script writes: "Panentheism is only a softer word for pantheism, since both make the world divine." What exactly is wrong?
-
-A. Nothing is wrong, because both positions deny that God transcends the world in any sense at all.
-
-B. The error is verbal only, since the two words differ in origin but not in the relation they assert.
-
-C. Panentheism is the stronger identity claim, because inclusion is a tighter relation than mere identity.
-
-D. Identity leaves no divine reality beyond the world, whereas inclusion-with-excess keeps immanence and transcendence together, and this difference decides what worship, providence and evil can mean.
-
-**Answer: D.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: panentheism affirms that God exceeds the world, which is a transcendence claim that pantheism drops.
-- **B:** Incorrect: the difference is structural, and it changes the God-world relation rather than the label attached to it.
-- **C:** Incorrect: inclusion is weaker than identity in exactly the relevant respect, since it leaves a divine remainder outside the world.
-- **D:** Correct: the two consequences named — the availability of transcendence and the intelligibility of address — are what the distinction is for.
+- **A:** Correct: the two consequences named — the availability of transcendence and the intelligibility of address — are what the distinction is for.
+- **B:** Incorrect: panentheism affirms that God exceeds the world, which is a transcendence claim that pantheism drops.
+- **C:** Incorrect: the difference is structural, and it changes the God-world relation rather than the label attached to it.
+- **D:** Incorrect: inclusion is weaker than identity in exactly the relevant respect, since it leaves a divine remainder outside the world.
 
 **Examiner trap 25:** The conflation usually enters through the sentence "God is in everything"; that phrase is neutral between the two positions and must be replaced by the exact relation.
 
-#### MCQ 26. Repairing "quality-transcending Brahman means nothing exists"
+#### MCQ 26 — solution
 
-A script writes: "Since Brahman is without qualities, Advaita's ultimate is an empty nothing." What is the correct reply?
-
-A. The objection is decisive, and Advaita therefore abandons the quality-transcending description in its later literature.
-
-B. The objection fails because Advaita in fact ascribes ordinary empirical qualities to Brahman at the ultimate level.
-
-C. Negation removes limiting empirical predicates rather than reality, and Brahman is affirmed as being, consciousness and bliss (*sat-cit-ānanda*) as essential nature-defining marks.
-
-D. The objection fails because the world alone is real, so nothing turns on how Brahman is described.
-
-**Answer: C.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: Advaita retains the description and answers the charge; it is Rāmānuja who presses the objection, and the reply is doctrinal, not a retreat.
-- **B:** Incorrect: empirical qualities belong to the transactional level, and ascribing them ultimately would concede the objection.
-- **C:** Correct: apophatic removal of finite predicates leaves a positively affirmed non-dual reality, which is why the marks lie in the word "limiting".
-- **D:** Incorrect: this inverts the system, in which the world is dependent and sublatable rather than the sole reality.
+- **A:** Incorrect: empirical qualities belong to the transactional level, and ascribing them ultimately would concede the objection.
+- **B:** Correct: apophatic removal of finite predicates leaves a positively affirmed non-dual reality, which is why the marks lie in the word "limiting".
+- **C:** Incorrect: this inverts the system, in which the world is dependent and sublatable rather than the sole reality.
+- **D:** Incorrect: Advaita retains the description and answers the charge; it is Rāmānuja who presses the objection, and the reply is doctrinal, not a retreat.
 
 **Examiner trap 26:** Answering the objection with "Brahman is beyond words, so no reply is needed" abandons the argument; the reply must state what negation removes and what it leaves.
 
-#### MCQ 27. Repairing inseparability read as identity
-
-A script writes: "For Rāmānuja the self is inseparable from God, and therefore the self is God." Where does the inference fail?
-
-A. It fails because Rāmānuja denies that selves are real, so nothing can be inseparable from God.
-
-B. It fails because inseparability holds only during liberation and not in ordinary embodied life.
-
-C. It fails because inseparability is a relation between a qualifier and what it qualifies, so the self belongs to God without ever becoming the whole of God.
-
-D. It fails because Rāmānuja treats the self as the body of God and the world as the soul of God.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
@@ -643,61 +681,31 @@ D. It fails because Rāmānuja treats the self as the body of God and the world 
 
 **Examiner trap 27:** The inference is often smuggled in by the English word "one"; write "inseparable but not identical" explicitly, because the examiner is looking for that qualification.
 
-#### MCQ 28. Repairing the ownership error in the Nyāya question
+#### MCQ 28 — solution
 
-A 2021-style question asks for the nature of God in Nyāya, and the script reconstructs Udayana's inferences at length. What is the fault?
-
-A. There is no fault, since the nature of God in Nyāya is exhausted by the arguments that establish God.
-
-B. The demand is the divine profile — one, eternal, incorporeal, omniscient, efficient cause, karmic governor — while the inferences belong to Proofs for the Existence of God.
-
-C. The fault is stylistic, since the inferences are correct but should have been summarised more briefly.
-
-D. The fault is that Nyāya has no doctrine of divine attributes, so the question cannot be answered as printed.
-
-**Answer: B.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: an argument that something exists does not by itself state what that thing is, which is exactly the distinction this clause enforces.
-- **B:** Correct: the owner supplies the attribute and relation profile, and the cross-topic firewall keeps the inference apparatus with Topic 02.
-- **C:** Incorrect: the problem is not length but relevance, and a shorter irrelevant passage would still miss the demand.
-- **D:** Incorrect: Nyāya supplies a detailed profile, including omniscience, incorporeality, efficient causation and the administration of unseen moral potency (*adṛṣṭa*).
+- **A:** Incorrect: the problem is not length but relevance, and a shorter irrelevant passage would still miss the demand.
+- **B:** Incorrect: Nyāya supplies a detailed profile, including omniscience, incorporeality, efficient causation and the administration of unseen moral potency (*adṛṣṭa*).
+- **C:** Incorrect: an argument that something exists does not by itself state what that thing is, which is exactly the distinction this clause enforces.
+- **D:** Correct: the owner supplies the attribute and relation profile, and the cross-topic firewall keeps the inference apparatus with Topic 02.
 
 **Examiner trap 28:** A single sentence such as "God is proved by the argument from effects, and his nature follows" is enough to trigger this fault; state the profile first and route the proofs away explicitly.
 
-#### MCQ 29. Repairing spatialised transcendence
+#### MCQ 29 — solution
 
-A script writes: "God is transcendent, which means God is far away from the world, and immanent, which means God is physically inside it." What is the correction?
-
-A. Transcendence should be dropped, since a God beyond the world could not act within it.
-
-B. Immanence should be dropped, since presence inside the world would make God a part of the world.
-
-C. Transcendence signifies ontological independence rather than spatial remoteness, and immanence signifies sustaining presence and activity rather than physical inclusion.
-
-D. Both terms are devotional images with no philosophical content, so the sentence is harmless.
-
-**Answer: C.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: the classical position holds both together, and dropping transcendence would concede the world's independence.
-- **B:** Incorrect: immanence correctly understood does not make God a worldly part; it makes God the sustaining ground of worldly being.
-- **C:** Correct: replacing the spatial picture with dependence language is what makes the 2023 part answerable, since the question asks in what *sense* both hold.
-- **D:** Incorrect: both terms carry precise metaphysical commitments, and the loose reading generates the pantheism confusion in the next paragraph.
+- **A:** Correct: replacing the spatial picture with dependence language is what makes the 2023 part answerable, since the question asks in what *sense* both hold.
+- **B:** Incorrect: both terms carry precise metaphysical commitments, and the loose reading generates the pantheism confusion in the next paragraph.
+- **C:** Incorrect: the classical position holds both together, and dropping transcendence would concede the world's independence.
+- **D:** Incorrect: immanence correctly understood does not make God a worldly part; it makes God the sustaining ground of worldly being.
 
 **Examiner trap 29:** Diagrams with God drawn "above" and "inside" the world reinforce the error; if a diagram is used, label the arrows with dependence and sustaining rather than with distance.
 
-#### MCQ 30. Repairing the "God is outside time" shortcut
-
-A script answers the freedom-and-foreknowledge question by asserting that God is timeless, and stops there. What is missing?
-
-A. Nothing is missing, since timelessness removes the problem entirely and no further statement is required.
-
-B. The script must say which premise the eternity move targets — the fixity of the past — and must then pay the cost about divine responsiveness and contingency.
-
-C. The script must abandon timelessness, because no classical writer defends it as a reply to this dilemma.
-
-D. The script must add that divine knowledge causes the act, since that is what timelessness implies.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
@@ -709,53 +717,59 @@ D. The script must add that divine knowledge causes the act, since that is what 
 
 **Examiner trap 30:** The shortcut is attractive because it sounds decisive; examiners treat it as the standard mid-band answer, and the marks sit in the sentence that follows it.
 
-#### MCQ 31. Repairing "one God, therefore classical theism"
-
-A script treats belief in one God as equivalent to classical theism. What does the equation omit?
-
-A. It omits necessity, creation and continuous sustaining, perfect goodness, eternity, changelessness and non-composition, which one-God belief by itself does not supply.
-
-B. It omits nothing of substance, since any monotheist is committed to the classical attribute package by implication.
-
-C. It omits only the historical claim that classical theism developed within a particular philosophical tradition.
-
-D. It omits the requirement that God be worshipped exclusively, which is the sole difference between the two.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the counting claim fixes the number of deities and leaves every metaphysical commitment of classical theism still to be argued.
-- **B:** Incorrect: a deist and a finite-God theorist can both be monotheists while rejecting central classical claims.
-- **C:** Incorrect: the difference is doctrinal rather than historical, and the historical remark would not repair the substantive omission.
-- **D:** Incorrect: exclusive worship is the mark of one-God worship (*monolatry*) and does not by itself deliver necessity, simplicity or eternity.
-
-**Examiner trap 31:** The equation usually appears in the opening line as "theism, that is, belief in one God"; correct it in the definition itself, because everything downstream inherits the imprecision.
-
-#### MCQ 32. Repairing the four senses of divine physical manifestation
-
-The 2024 statement claims that the ultimate cause of the world must have some physical manifestation. Which analysis best separates the notions at stake?
-
-A. Incarnation and material causation are the same claim, so the statement is true in every tradition that accepts descent-forms.
-
-B. Physical manifestation is required by Viśiṣṭādvaita, since calling the world God's body means God has a physical form.
-
-C. Descent or manifestation, embodiment, material causation and metaphysical dependence are four distinct notions, and ultimacy requires only the last, which physical form would in fact compromise.
-
-D. Pantheism refutes the statement outright, because identifying God with nature removes every question about manifestation.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: a descent-form is a mode of appearing, while material causation concerns what the world is made from; they answer different questions.
-- **B:** Incorrect: the body-and-self relation makes the world God's real dependent body without giving God an anthropomorphic physical form.
-- **C:** Correct: distinguishing the four notions lets the answer concede the religious weight of manifestation while denying the metaphysical necessity claimed by the statement.
-- **D:** Incorrect: identification with nature is one contested position among several and cannot by itself refute a general modal claim about ultimacy.
+- **A:** Incorrect: the difference is doctrinal rather than historical, and the historical remark would not repair the substantive omission.
+- **B:** Incorrect: exclusive worship is the mark of one-God worship (*monolatry*) and does not by itself deliver necessity, simplicity or eternity.
+- **C:** Correct: the counting claim fixes the number of deities and leaves every metaphysical commitment of classical theism still to be argued.
+- **D:** Incorrect: a deist and a finite-God theorist can both be monotheists while rejecting central classical claims.
+
+**Examiner trap 31:** The equation usually appears in the opening line as "theism, that is, belief in one God"; correct it in the definition itself, because everything downstream inherits the imprecision.
+
+#### MCQ 32 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: identification with nature is one contested position among several and cannot by itself refute a general modal claim about ultimacy.
+- **B:** Incorrect: a descent-form is a mode of appearing, while material causation concerns what the world is made from; they answer different questions.
+- **C:** Incorrect: the body-and-self relation makes the world God's real dependent body without giving God an anthropomorphic physical form.
+- **D:** Correct: distinguishing the four notions lets the answer concede the religious weight of manifestation while denying the metaphysical necessity claimed by the statement.
 
 **Examiner trap 32:** Agreeing with the statement because "we know causes only through their effects" imports an epistemic point into a metaphysical claim; the answer must mark that shift explicitly.
 
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. Indexed truths offer a possible timeless knowledge account without claiming to occupy each first-person perspective; whether they exhaust knowledge of *now* remains open.
+- **B:** Incorrect for this stem. Temporal divine knowledge is a live alternative, but does not preserve the stipulated *timeless* knower.
+- **C:** Incorrect for this stem. It may address the *de se* objection only by assuming the first-person perspectives the stem expressly sets aside.
+- **D:** Incorrect. Eternal presence is a Boethian reply to foreknowledge, but by itself does not explain whether an irreducibly moving “now” is captured.
+
+**Examiner trap 33:** A qualified tenseless reply is not proof that tense contributes no irreducible information.
+
+#### MCQ 34 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect. It reverses Advaita's ultimate non-duality and Rāmānuja's ultimately personal Lord.
+- **B:** Correct. It distinguishes Advaita's empirical devotional relation from Rāmānuja's ultimately real God–soul relation.
+- **C:** Incorrect. It switches the levels: Advaita's personal worship is empirical, whereas Rāmānuja's God and distinct souls are ultimately real.
+- **D:** Incorrect. It assimilates Rāmānuja's real devotional communion and grace to Advaita's knowledge-centred release.
+
+**Examiner trap 34:** “Empirical” does not mean worship is practically pointless in Advaita.
+
+**Coverage decision (34, not a quota):** The diagnostic sequence tests Indian and Western divine models, affirmative/negative predicates, power/knowledge coherence, world and self relations, devotional address and the 2026 omniscience objections. These correspond to the printed clause and all 15 primary-owned 2018–2026 question-parts; the last two were retained because tense/first-person knowledge and devotion had distinct failure modes not captured by classification questions.
+
 ## PYQS AND ANSWER PRACTICE
 
-### All 13 verified owner PYQs — exact wording, year and marks
+### The 13 verified owner PYQs from 2018–2024 — exact wording, year and marks (2026 supplement below)
 
 > The models are pedagogic examiner-grade answers, not official UPSC solutions. No primary Notions-of-God question appears in the audited 2025 paper.
 
@@ -1494,9 +1508,37 @@ model-specific objection and reply. This prevents the common error of contrastin
 Spinoza's ontology with Ramanuja's devotional practice without explaining the intermediate
 metaphysical relation.
 
+### 2026 primary-owned PYQ supplement — two further solved parts (2018–2026 total: 15)
+
+The exact stems and marks follow the verified 2026 Philosophy Paper II Section B supplement. These are independent practice solutions, not UPSC answer keys; cross-owned theodicy and proof arguments remain supporting comparisons only.
+
+#### 2026 Q7(b) · 15 marks
+
+> Discuss the difference between personalistic and impersonalistic notions of God in the context of devotion.
+
+**Demand:** Compare what the two models permit *a devotee to do*, not simply list divine attributes.
+
+**Model solution.** A personal God is an intentional, addressable ultimate who may know, love and respond to worshippers; an impersonal ultimate is not thereby unreal, but does not stand opposite the worshipper as a second person. Devotion (*bhakti*) as prayer, surrender and reciprocal grace appears most straightforward on the former model. For Rāmānuja, qualified non-dualism (Viśiṣṭādvaita) identifies the ultimate with a personal Brahman: souls and matter are real, distinct yet inseparable body of God; the inner controller (antaryāmin) receives devotion, and liberation preserves individual service. Madhva's independent Lord and dependent, permanently distinct selves furnish another strong I–Thou structure.
+
+In Śaṃkara's non-dualism (Advaita), quality-transcending Brahman (nirguṇa Brahman) is ultimately non-dual: a permanent second-person relation cannot be the final truth if self and Brahman are identical. Yet the personal Lord (saguṇa Īśvara) is genuinely available for worship at the empirical level (vyāvahārika); devotion can purify the mind for liberating knowledge. Calling this worship *mere nonsense* confuses empirical validity with ultimate non-duality. In the Western comparison, classical theism supports petition and providence, whereas Spinoza's impersonal God/Nature as necessary substance is not a free respondent to requests; his intellectual love of God supplies a transformed rather than reciprocal devotion.
+
+**Evaluation:** The apparent incompatibility turns on the *kind* of devotion: petitions and grace presuppose a responsive personal agent, but contemplative reverence and disciplined self-transformation need not. Advaita retains devotion without assigning ultimate duality; Rāmānuja insists the relation itself is real. Neither personal/impersonal nor with/without devotion is therefore a simple binary.
+
+#### 2026 Q8(c) · 15 marks
+
+> Present an account of criticisms against omniscience and omnipotence as attributes of God.
+
+**Demand:** Organise by objections and test the costs of replies, rather than restating dictionary definitions.
+
+**Model solution.** The stone paradox asks whether an omnipotent God can make a stone God cannot lift: either answer seems to limit power. Aquinas replies that a self-contradictory description denotes no possible task, so omnipotence ranges over what is absolutely possible; the objection then shifts to whether the restriction is independently principled or convenient. Descartes's stronger divine-voluntarist option even makes eternal truths dependent on God, at the cost of making ordinary logical assessment of the attribute harder. Mackie's higher-order version asks whether God can create free agents whose powers God cannot subsequently control: granting freedom limits intervention; denying it risks reducing creaturely agency. A perfectly good and powerful creator's permission of terrible evil poses an additional moral challenge, though its full theodicy belongs to the problem-of-evil question.
+
+Against omniscience, infallible foreknowledge plus the fixity of the past appears to rule out acting otherwise. Knowing an act does not *cause* it, but absence of causation alone does not remove the modal problem. Boethius denies temporal *fore*knowledge by positing an eternal present; Ockham distinguishes hard past facts from past facts dependent on future acts; Molina invokes middle knowledge of what free creatures would do, inviting the grounding question. Each reply owes an account of divine knowledge or temporal dependence.
+
+Two further difficulties resist the familiar foreknowledge formula. Knowledge *de se*: can God know what it is like for this creature to think “I am this person” without becoming that creature? Distinguish knowledge of every true indexed proposition from occupying each first-person standpoint. Tensed change: can a timeless, immutable knower know “it is now noon” when *now* changes? A tenseless truth-at-a-time reply preserves propositions but may not capture presentness as experienced. **Verdict:** Coherent restricted power and indexed knowledge remain available, but only by specifying their scope; the paradoxes expose philosophical commitments rather than proving simple formal inconsistency.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-Six original questions, two each at 10, 15 and 20 marks, written in the style and directive vocabulary of Philosophy Paper II. They are learner practice, not previous-year questions, and no model answer below is an official UPSC key. The working bands used throughout this package are **10 marks — about 150 to 220 words**, **15 marks — about 250 to 330 words**, and **20 marks — about 330 to 400 words**; demand decoding and the "why this earns marks" notes sit outside the timed count.
+Six baseline original questions, two each at 10, 15 and 20 marks, are joined by two further Indian-school models below. All eight are learner practice, not PYQs or official UPSC keys. Follow each directive's argument burden without imposing an arbitrary length.
 
 #### Original 10-marker 1
 
@@ -1813,19 +1855,19 @@ A conclusion should name the **criterion** used: coherence, religious adequacy, 
 
 ##### 10 marks
 
-- About 150 words.
+- Prioritise the exact directive within the timed attempt.
 - One controlled comparison is enough.
 - Do not spend half the answer on background.
 
 ##### 15 marks
 
-- About 220-250 words.
+- Allow enough space for the demanded comparison and assessment.
 - Include at least one technical distinction and one serious criticism.
 - Make every paragraph answer the directive.
 
 ##### 20 marks
 
-- About 320-350 words.
+- Develop the full argument, objections and reasoned assessment before compressing for time.
 - Use a comparative matrix or compact diagram before prose if useful.
 - Include two objections or one objection developed through reply and residual pressure.
 - Rank or judge by an explicit philosophical criterion.
@@ -1948,11 +1990,27 @@ which model best satisfies the criterion chosen and what philosophical cost rema
 
 Use these after the detailed models; they do not replace the models.
 
-#### All 13 verified owner PYQs — exact wording, year and marks — timed-paper upgrade
+#### The 13 verified 2018–2024 owner PYQs — timed-paper upgrade
 
 **How to improve this answer:** For the demand **All 13 verified owner PYQs — exact wording, year and marks**, state the verdict in the introduction, reconstruct the relevant argument as premises leading to a conclusion, attach at least one named text/argument or canonical example to each major claim, present the strongest objection and reply, and finish with a qualified judgment rather than a thinker-summary.
 
 **Executable compression plan:** 10 marks — thesis + 3 argument moves + 1 objection + verdict; 15 marks — thesis + 4-5 moves with named evidence + objection/reply + qualification; 20 marks — add interpretive dispute, disciplined comparison and a graded conclusion. Preserve technical terms and cut decorative biography first.
+
+
+#### Further original Mains practice — under-sampled Indian God–world models
+
+**Original 7 · 20 marks — Critically compare Śaiva Siddhānta and Kashmir Śaivism as accounts of God's relation to souls and the world. Does either avoid the difficulties of Advaita's world-appearance?**
+
+**Model solution.** Distinguish the two Śaiva metaphysics before assigning either the label “Śiva worship”. In Śaiva Siddhānta, Lord (*pati*), bound individual soul (*paśu*) and binding factors (*pāśa*) are real and irreducible. Śiva governs, reveals, sustains and grants grace; the world is not merely an illusion in the mind of the devotee. Śiva is an efficient cause and the material basis of manifest order lies in *māyā*: neither should be collapsed into a human-like deity physically becoming each object. Liberation overcomes bondage with divine grace but does not turn the soul numerically into Śiva. The advantage is an intelligible personal devotion and a real target of moral effort; the remaining question is how an all-governing Lord permits persistent bondage without inheriting responsibility for it.
+
+Kashmir Śaivism instead identifies the ultimate with self-luminous and self-reflective consciousness (*prakāśa–vimarśa*). Through freedom (*svātantrya*) Śiva genuinely manifests differentiated reality (*ābhāsa*); the soul's liberation is recognition (*pratyabhijñā*) of its deeper identity with Śiva. Thus the world is an expression of the divine, not merely a deceptive appearance to be denied. Against Śaṃkara's Advaita, this can affirm the reality of manifestation without treating the Absolute as inert; yet the claim that finitude and ignorance issue from freedom raises its own question: why does full self-awareness freely obscure itself and produce suffering? Conversely Advaita argues that a genuinely altered Absolute loses changeless ultimacy; Kashmir Śaivism denies that manifestation requires loss of identity. **Verdict:** Siddhānta protects real difference and devotion; Kashmir Śaivism protects real expression and recognition. Neither makes the explanatory cost of bondage disappear, and neither is simply another name for Advaita.
+
+**Original 8 · 15 marks — Examine whether treating Devī or Śakti as the ultimate collapses divine agency into unconscious primordial nature. Compare a Śākta account with Sāṃkhya and classical theism.**
+
+**Model solution.** The claim that ultimate Śakti is merely cosmic matter mistakes metaphysical activity for unconscious mechanism. Śākta approaches may treat Devī as the conscious, dynamic ultimate: power is neither an inert instrument of an independently male God nor simply the dependent empirical appearance of Advaita. This permits intentional divine agency, immanence in manifest processes and a possible devotional relation without requiring a masculine or embodied creator. Sāṃkhya, by contrast, explains evolution by primordial nature (*prakṛti*) in the presence of distinct consciousnesses (*puruṣas*); *prakṛti* is not a knowing chooser, and the school does not need an omnipotent material manufacturer. Classical theism distinguishes the creator from the created order and typically makes God its continuing ground rather than identifying every manifestation with the divine.
+
+The comparison turns on consciousness, causation and ultimacy: does divine power *know and choose*, is it the material of the world, and is it exhausted by its manifestations? Feminine iconography alone decides none of these. **Objection:** if Śakti is present in all change, do defects and evil become divine attributes? A Śākta reply distinguishes the unlimited source from finite constrained manifestations, but must explain the constraint rather than simply rename it. **Judgment:** Conscious divine power need not collapse into Sāṃkhya's unconscious nature; its explanatory cost concerns how a perfect dynamic ultimate relates to limitation and suffering.
+
 
 #### PYQ 1 — 2018, Q5(e), 10 marks — timed-paper upgrade
 

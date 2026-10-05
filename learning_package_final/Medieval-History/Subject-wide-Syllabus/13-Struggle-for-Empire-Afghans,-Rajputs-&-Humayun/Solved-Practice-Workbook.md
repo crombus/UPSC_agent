@@ -6,777 +6,995 @@ topic_key: medieval-indian-history-13
 
 ## BASIC MCQS / REMEDIATION
 
-### PART II. Learning MCQ loops: 18 questions
+### Part I — 44 workbook MCQs (questions only)
 
-The correct-option sequence is printed for audit: **ABCDABCDABCDABCDAB**.
+#### Workbook MCQ 1
 
-#### Q1. What best describes the empire Humayun received in December 1530?
-
-- A. A conquest with weak finances, shallow administration, active Afghan resistance and mobile nobles.
-- B. A polity where Timurid princes had abandoned all claims to separate shares.
-- C. A kingdom whose eastern and western frontiers were already permanently secured.
-- D. A settled revenue state with a uniformly loyal service elite.
-
-**Answer: A.**
-**Explanation:** Babur's conquest opened Delhi–Agra but did not create an entrenched Indian ruling apparatus; the inherited constraints were fiscal, administrative, political and regional. The closest distractor is **B**; A settled revenue state with a uniformly loyal service elite. does not survive the source-based distinction in the stem.
-
-#### Q2. Why is Kamran's early position not best described as an immediate explanation of every later Mughal defeat?
-
-- A. He never held territory outside Kabul.
-- B. He held Kabul–Qandahar and then Lahore–Punjab, but the early eastern and Gujarat episodes also had independent strategic causes.
-- C. He submitted all troops to Humayun after 1530.
-- D. He commanded Sher Khan's forces at Chausa.
-
-**Answer: B.**
-**Explanation:** Kamran's de facto partition mattered, yet the evidence warns against making fraternal rivalry a universal explanation before the Bengal crisis and Chausa. The closest distractor is **A**; He never held territory outside Kabul. does not survive the source-based distinction in the stem.
-
-#### Q3. What is the safest treatment of Dadrah/Daurah and Chunar chronology?
-
-- A. Their day and month are fixed by every chronicle.
-- B. Nizamuddin Ahmad describes both in exactly the same sequence as Abul Fazl.
-- C. Nizamuddin's different dating/sequence means precise reconstruction is qualified, while the consolidation logic remains clear.
-- D. The discrepancy proves that no Afghan threat existed.
-
-**Answer: C.**
-**Explanation:** The source issue affects tight chronology, not the broader reading that Humayun sought to secure eastern Uttar Pradesh without yet invading Bihar. The closest distractor is **B**; Nizamuddin Ahmad describes both in exactly the same sequence as Abul Fazl. does not survive the source-based distinction in the stem.
-
-#### Q4. Chunar was strategically important chiefly because it:
-
-- A. was the only route between Delhi and Bengal.
-- B. was a ceremonial capital of Gujarat.
-- C. automatically controlled every Bengal river crossing.
-- D. sat at a key approach toward Bihar and Bengal, linking fort, land movement and river-side communications.
-
-**Answer: D.**
-**Explanation:** A powerful fort could threaten a campaign's communications, but it was one node within a wider logistical landscape, not a magical single-cause bottleneck. The closest distractor is **C**; automatically controlled every Bengal river crossing. does not survive the source-based distinction in the stem.
-
-#### Q5. Din Panah is best read as:
-
-- A. a Delhi-centred legitimacy and political project whose full institutional effect could not be immediate.
-- B. a Safavid military camp in Kabul.
-- C. a monument built after Humayun's death by Akbar.
-- D. proof that Humayun had permanently abandoned Agra.
-
-**Answer: A.**
-**Explanation:** Delhi's accumulated imperial prestige made a new capital intelligible; the project should neither be romanticised nor dismissed as fantasy. The closest distractor is **B**; proof that Humayun had permanently abandoned Agra. does not survive the source-based distinction in the stem.
-
-#### Q6. Which statement captures the Karnavati–rakhi story responsibly?
-
-- A. It is fully confirmed by a contemporary Mughal dispatch.
-- B. A later Rajasthani account records a bracelet tradition, but the cited contemporary evidence is silent; it is historiographical memory, not event proof.
-- C. It proves Humayun captured Chittor in 1532.
-- D. It establishes a permanent Mughal–Rajput alliance.
-
-**Answer: B.**
-**Explanation:** The issue is provenance: a later tradition can illuminate memory, but silence in contemporary sources prevents treating it as settled political fact. The closest distractor is **D**; It proves Humayun captured Chittor in 1532. does not survive the source-based distinction in the stem.
-
-#### Q7. Humayun's 1535 Gujarat campaign shows that:
-
-- A. Humayun was incapable of rapid campaigning.
-- B. Gujarat lacked any military capacity.
-- C. military drive brought Mandu, Champaner and Ahmedabad, but conquest was not converted into durable administration.
-- D. Bahadur Shah had no connection with Malwa or Chittor.
-
-**Answer: C.**
-**Explanation:** The campaign demonstrates real operational ability; its failure lay in settlement, coordination and willingness to administer, rather than in a denial of the victories. The closest distractor is **A**; Gujarat lacked any military capacity. does not survive the source-based distinction in the stem.
-
-#### Q8. Why did Gujarat slip from Mughal control after the campaign?
-
-- A. Humayun never appointed anyone in Gujarat.
-- B. A single local popular uprising expelled every Mughal force.
-- C. Portuguese troops occupied all of Malwa.
-- D. Disunited command, reluctant nobles, weak revenue settlement, regional reassertion and Bahadur Shah's recovery worked together.
-
-**Answer: D.**
-**Explanation:** Askari received charge and divisions were assigned, but the arrangements did not generate stable co-operation or locally rooted rule. The closest distractor is **B**; Humayun never appointed anyone in Gujarat. does not survive the source-based distinction in the stem.
-
-#### Q9. Sher Khan's rise must be understood as:
-
-- A. a Bihar-centred Afghan state-building challenge with regional resources, alliances and growing independence.
-- B. a Portuguese governor at Diu.
-- C. a minor court rebel with no territorial base.
-- D. a Mughal officer permanently bound by the first Chunar agreement.
-
-**Answer: A.**
-**Explanation:** Surajgarh, Bihar and Gaur reveal an autonomous political trajectory; the earlier accommodation did not freeze Sher Khan in a subordinate role. The closest distractor is **D**; a Mughal officer permanently bound by the first Chunar agreement. does not survive the source-based distinction in the stem.
-
-#### Q10. The Bengal campaign was not merely an attempt to rescue a displaced Bengal ruler because:
-
-- A. Sher Khan offered Humayun all of Gujarat.
-- B. the source presents Bengal itself—wealth, strategic extent and an imperial north-Indian vision—as the central prize.
-- C. Humayun had no contact with Bengal politics.
-- D. Gaur lay west of Agra.
-
-**Answer: B.**
-**Explanation:** Mahmud Shah's appeal was an additional reason in the narrative; it cannot displace the broader contest over Bengal and imperial reach. The closest distractor is **A**; Humayun had no contact with Bengal politics. does not survive the source-based distinction in the stem.
-
-#### Q11. The six-month 1537–38 siege of Chunar mattered because it:
-
-- A. made river movement irrelevant thereafter.
-- B. immediately destroyed Sher Khan's Bihar base.
-- C. consumed time while Sher Khan captured Gaur and reconfigured the eastern contest.
-- D. proved Bengal had been annexed before the siege.
-
-**Answer: C.**
-**Explanation:** The fort had operational importance, but its fall did not dissolve Sher Khan's wider coalition or prevent his Bengal advance. The closest distractor is **A**; immediately destroyed Sher Khan's Bihar base. does not survive the source-based distinction in the stem.
-
-#### Q12. What made Humayun's occupation of Gaur strategically hazardous?
-
-- A. Mewar's army surrounded Gaur.
-- B. Humayun had no army in Bengal.
-- C. the city had no river links.
-- D. Sher Khan could press the lines back toward Agra while nobles lacked commitment to govern a distant region.
-
-**Answer: D.**
-**Explanation:** The problem was not a vacant army but communications, horses, distance, administrative reluctance and a rival who exploited the western corridor. The closest distractor is **C**; Humayun had no army in Bengal. does not survive the source-based distinction in the stem.
-
-#### Q13. At Chausa on 26 June 1539, the clearest source-grounded operational criticism is that Humayun:
-
-- A. kept the Karmnasa at his back, deployed poorly and was surprised by Sher Khan.
-- B. was defeated at Delhi by Bahadur Shah.
-- C. lost because all Rajputs switched sides.
-- D. had no knowledge that Sher Khan existed.
-
-**Answer: A.**
-**Explanation:** The battle is explained through position, surprise and command within a fatigued campaign, not by pretending the Afghan challenge had been invisible for years. The closest distractor is **B**; had no knowledge that Sher Khan existed. does not survive the source-based distinction in the stem.
-
-#### Q14. Kannauj/Bilgram, 17 May 1540, differs from Chausa because it:
-
-- A. occurred before Humayun's accession.
-- B. was the decisive battle after Chausa that removed Humayun from north India, fought with a hastily assembled force without Kamran's hardened troops.
-- C. was an unimportant skirmish won by the Mughals.
-- D. was a Gujarat siege.
-
-**Answer: B.**
-**Explanation:** Chausa exposed vulnerability; Kannauj converted it into political displacement. Kamran's non-cooperation mattered acutely after Chausa. The closest distractor is **D**; was an unimportant skirmish won by the Mughals. does not survive the source-based distinction in the stem.
-
-#### Q15. Which assessment of Askari and Hindal is historically balanced?
-
-- A. They were Afghan chiefs under Sher Khan.
-- B. They controlled the Safavid court.
-- C. They broadly served Humayun until the Bengal phase, after which Hindal's independent bid and elite defections sharpened the crisis.
-- D. They opposed Humayun from the first month of his reign.
-
-**Answer: C.**
-**Explanation:** The source expressly cautions that their opposition has been overextended backward; chronology matters to causal explanation. The closest distractor is **A**; They opposed Humayun from the first month of his reign. does not survive the source-based distinction in the stem.
-
-#### Q16. Humayun's recourse to Shah Tahmasp should be described as:
-
-- A. a wholly cost-free rescue that ended all frontier problems.
-- B. a forced religious conversion established by an uncontested source.
-- C. proof that Qandahar never mattered to the Mughals.
-- D. a political alliance and aid relationship requiring careful treatment of its conditions, enabling recovery of Qandahar and Kabul in 1545.
-
-**Answer: D.**
-**Explanation:** The secure point is assistance and recovery; over-simple conversion tales exceed the precision allowed by the assigned evidence. The closest distractor is **C**; a forced religious conversion established by an uncontested source. does not survive the source-based distinction in the stem.
-
-#### Q17. The 1555 restoration is best explained by:
-
-- A. Humayun's return through a field opened by Sur fragmentation, followed by recovery of Delhi—not by retroactively erasing 1540.
-- B. an Ottoman conquest of north India.
-- C. Sher Shah's personal surrender in 1555.
-- D. a direct continuation of Gujarat administration from 1535.
-
-**Answer: A.**
-**Explanation:** Restoration demonstrates resilience and opportunity, but it does not turn the earlier loss of state capacity into a fiction. The closest distractor is **C**; a direct continuation of Gujarat administration from 1535. does not survive the source-based distinction in the stem.
-
-#### Q18. A defensible final judgement on Humayun is that:
-
-- A. Afghan success was caused by a timeless tribal trait.
-- B. his imperial aims outran fiscal, administrative and logistical depth, while Sher Khan's leadership and Afghan regional capacity made the gap decisive.
-- C. personal weakness alone explains everything.
-- D. he never showed military energy in any theatre.
-
-**Answer: B.**
-**Explanation:** The evidence supports neither caricature nor exoneration: decision sequencing and character matter within an inherited structural and competitive political field. The closest distractor is **A**; personal weakness alone explains everything. does not survive the source-based distinction in the stem.
-
-### PART IV. Premium broad-coverage MCQs: 40 original questions
-
-The correct-option sequence is printed for audit: **ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD**.
-
-#### Q1. The most accurate meaning of 'unfinished conquest' in this topic is:
-
-- A. A completed Bengal revenue survey.
-- B. A permanent settlement with every Afghan chief.
-- C. A political gain without fully rooted fiscal-administrative control.
-- D. A dynasty with no territorial centre at all.
-
-**Answer: C.**
-**Explanation:** It denotes fragility after conquest, not the absence of a Delhi–Agra core. The closest distractor is **D**; A permanent settlement with every Afghan chief. does not survive the source-based distinction in the stem.
-
-#### Q2. Babur's late fiscal difficulty matters to Humayun because it:
-
-- A. gave Gujarat to Bahadur Shah.
-- B. made Chunar inaccessible by river.
-- C. ended the need to pay begs.
-- D. left an already stretched treasury beside a large military-political task.
-
-**Answer: D.**
-**Explanation:** The fiscal inheritance conditioned capacity; it did not make every campaign impossible. The closest distractor is **D**; ended the need to pay begs. does not survive the source-based distinction in the stem.
-
-#### Q3. A Timurid partition norm most directly complicated sovereignty by:
+**Question:** A Timurid partition norm most directly complicated sovereignty by:
 
 - A. making princely shares politically plausible even when the sovereign expected loyalty.
 - B. placing Sher Khan in charge of Kabul.
 - C. requiring every province to be formally independent.
 - D. abolishing all royal claims.
 
-**Answer: A.**
-**Explanation:** Share expectations did not eliminate kingship; they put pressure on its exclusive territorial form. The closest distractor is **A**; abolishing all royal claims. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 2
 
-#### Q4. Kamran's retention of khutba and sikka in Humayun's name initially indicates:
+**Question:** Kamran's retention of khutba and sikka in Humayun's name initially indicates:
 
 - A. a completed union of all Mughal territory.
 - B. formal acknowledgement alongside a de facto regional power position.
 - C. a Safavid conquest of Punjab.
 - D. a Rajput treaty at Chittor.
 
-**Answer: B.**
-**Explanation:** Outer forms of sovereignty coexisted with Kamran's practical territorial autonomy. The closest distractor is **B**; a completed union of all Mughal territory. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 3
 
-#### Q5. The main value of the Dadrah/Daurah discrepancy for an answer is to:
+**Question:** The main value of the Dadrah/Daurah discrepancy for an answer is to:
 
 - A. replace all evidence with a popular legend.
 - B. make Nizamuddin Ahmad a contemporary eyewitness to every event.
 - C. teach source method and date caution without abandoning the strategic narrative.
 - D. deny that Humayun fought Afghans.
 
-**Answer: C.**
-**Explanation:** It disciplines claims about sequence; it does not nullify the conflict. The closest distractor is **C**; make Nizamuddin Ahmad a contemporary eyewitness to every event. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 4
 
-#### Q6. Kalinjar belongs to the early phase because it:
+**Question:** Kalinjar belongs to the early phase because it:
 
 - A. marked restoration in 1555.
 - B. was captured by Sher Khan after Gaur.
 - C. was a port on the Gujarat coast.
 - D. formed part of a southern defensive-fort setting around Agra and preceded the Chunar episode.
 
-**Answer: D.**
-**Explanation:** The fort setting explains a consolidation move before the main east-west struggle. The closest distractor is **D**; marked restoration in 1555. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 5
 
-#### Q7. At the first Chunar accommodation, Humayun's calculation was that:
+**Question:** At the first Chunar accommodation, Humayun's calculation was that:
 
 - A. Sher Khan was not yet a sufficient danger to require a Bihar campaign, and an accommodation held tactical value.
 - B. Chunar no longer mattered at all.
 - C. Bahadur Shah would govern Bihar for him.
 - D. the Mughal empire had already conquered Bengal.
 
-**Answer: A.**
-**Explanation:** The compromise was a contemporary calculation, not proof of ignorance about all eastern politics. The closest distractor is **A**; Bahadur Shah would govern Bihar for him. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 6
 
-#### Q8. Din Panah's location and timing most strongly support the view that it:
+**Question:** Din Panah's location and timing most strongly support the view that it:
 
 - A. was a Portuguese coastal enclave.
 - B. used Delhi's prestige to frame a dynastic political project.
 - C. was a private library unrelated to politics.
 - D. replaced every previous Mughal centre overnight.
 
-**Answer: B.**
-**Explanation:** Building at Delhi carried legitimacy, even though a capital project alone could not solve state depth. The closest distractor is **B**; replaced every previous Mughal centre overnight. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 7
 
-#### Q9. Bahadur Shah's power rested on:
+**Question:** Bahadur Shah's power rested on:
 
 - A. the dismantling of all Gujarati ports.
 - B. only a small Afghan jagir near Jaunpur.
 - C. Gujarat, Malwa acquisition, pressure toward Rajasthan and artillery resources in a western regional state.
 - D. direct control of Kabul under Humayun.
 
-**Answer: C.**
-**Explanation:** This was a substantial regional challenge, not a peripheral rebellion. The closest distractor is **B**; only a small Afghan jagir near Jaunpur. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 8
 
-#### Q10. A sound explanation for Humayun's stance near Chittor avoids:
+**Question:** A sound explanation for Humayun's stance near Chittor avoids:
 
 - A. placing Malwa–Mewar–Gujarat in a strategic field.
 - B. recognising Rajput resistance.
 - C. linking eastern Rajasthan to the Agra–Delhi position.
 - D. reducing the episode solely to a romanticised rakhi anecdote.
 
-**Answer: D.**
-**Explanation:** The later legend cannot substitute for the documented regional power calculus. The closest distractor is **A**; placing Malwa–Mewar–Gujarat in a strategic field. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 9
 
-#### Q11. At Mandsor, Humayun's response to Bahadur Shah's defended camp was to:
+**Question:** At Mandsor, Humayun's response to Bahadur Shah's defended camp was to:
 
 - A. avoid a frontal assault and squeeze supplies, exposing the limits of the camp's defensive plan.
 - B. leave Malwa for Bengal immediately.
 - C. attack blindly because artillery did not exist.
 - D. appoint Sher Khan governor of Gujarat.
 
-**Answer: A.**
-**Explanation:** This is evidence of operational judgement rather than a blanket incompetence thesis. The closest distractor is **A**; attack blindly because artillery did not exist. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 10
 
-#### Q12. The capture of Champaner demonstrates:
+**Question:** The capture of Champaner demonstrates:
 
 - A. the immediate creation of a stable Gujarat bureaucracy.
 - B. a significant military success whose treasure could not substitute for political settlement.
 - C. the automatic loyalty of every Gujarati noble.
 - D. the end of Portuguese interest at Diu.
 
-**Answer: B.**
-**Explanation:** Fort capture and treasure acquisition did not build an administrative coalition. The closest distractor is **C**; the automatic loyalty of every Gujarati noble. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 11
 
-#### Q13. Askari's Gujarat assignment is important because it:
+**Question:** Askari's Gujarat assignment is important because it:
 
 - A. makes Bengal a Mughal province.
 - B. proves Askari never held any command.
 - C. shows a formal attempt at direct administration that did not generate co-ordinated authority.
 - D. defeated Sher Khan at Chausa.
 
-**Answer: C.**
-**Explanation:** The issue is failed implementation and elite cohesion, not a complete absence of planning. The closest distractor is **B**; proves Askari never held any command. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 12
 
-#### Q14. The phrase 'rootlessness of Mughal nobles' means:
+**Question:** The phrase 'rootlessness of Mughal nobles' means:
 
 - A. they were all born in Central Asia.
 - B. they had no families anywhere.
 - C. they had no military resources.
 - D. their stronger attachment to the Delhi–Agra zone made distant Gujarat and Bengal administration unattractive.
 
-**Answer: D.**
-**Explanation:** It is a political-administrative observation, not a literal statement about birthplace. The closest distractor is **C**; they were all born in Central Asia. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 13
 
-#### Q15. Surajgarh belongs in Sher Khan's rise because it:
+**Question:** Surajgarh belongs in Sher Khan's rise because it:
 
 - A. helped Sher Khan break Bengal's pressure on Bihar and marked a higher political standing.
 - B. occurred after Humayun's death.
 - C. was a battle won by Humayun in Malwa.
 - D. was a Portuguese naval action.
 
-**Answer: A.**
-**Explanation:** The 1534 victory contributes to the move from local sardar to regional contender. The closest distractor is **A**; was a battle won by Humayun in Malwa. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 14
 
-#### Q16. The best reading of Gaur in 1538 is:
+**Question:** The best reading of Gaur in 1538 is:
 
 - A. an Afghan camp with no Bengal context.
 - B. Bengal's capital, whose seizure gave Sher Khan resources and changed the scale of the contest.
 - C. a fort built by Humayun after 1555.
 - D. a city without strategic or symbolic value.
 
-**Answer: B.**
-**Explanation:** Gaur made the struggle a contest for a large eastern polity, not only a fort dispute. The closest distractor is **A**; a city without strategic or symbolic value. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 15
 
-#### Q17. Why did Humayun not simply bypass Chunar in 1537?
+**Question:** Why did Humayun not simply bypass Chunar in 1537?
 
 - A. Kamran demanded it as his residence.
 - B. it stood in Rajasthan between Chittor and Mandu.
 - C. A hostile fort could threaten communications during a Bengal advance.
 - D. Bengal had already become loyal.
 
-**Answer: C.**
-**Explanation:** The route-function is the point; a key fort posed a communications risk. The closest distractor is **B**; it stood in Rajasthan between Chittor and Mandu. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 16
 
-#### Q18. Sher Khan's offer regarding Bihar and Bengal demonstrates:
+**Question:** Sher Khan's offer regarding Bihar and Bengal demonstrates:
 
 - A. that Humayun had already lost Kabul.
 - B. his continued acceptance of a Mughal jagir only.
 - C. the end of Afghan state-building.
 - D. a negotiation between actors each imagining a wider political order, with Bengal as a central issue.
 
-**Answer: D.**
-**Explanation:** The terms illustrate independent political ambition, even though reports of negotiations require source caution. The closest distractor is **A**; his continued acceptance of a Mughal jagir only. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 17
 
-#### Q19. Humayun's stay at Gaur could not solve the Bengal problem because:
+**Question:** Humayun's stay at Gaur could not solve the Bengal problem because:
 
 - A. officers' lack of commitment, horse losses, distance and broken communications undermined administration.
 - B. Bengal lacked any local population.
 - C. Chittor remained unconquered.
 - D. no one could travel by river.
 
-**Answer: A.**
-**Explanation:** The occupation encountered a capacity problem rather than merely a missing ceremony of annexation. The closest distractor is **A**; Bengal lacked any local population. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 18
 
-#### Q20. Hindal's move at Agra during the Bengal phase shows:
+**Question:** Hindal's move at Agra during the Bengal phase shows:
 
 - A. that Kamran was never politically active.
 - B. how elite defections and a princely bid compounded a campaign already stretched eastward.
 - C. the earliest cause of the 1530 inheritance.
 - D. a Portuguese intervention in the north.
 
-**Answer: B.**
-**Explanation:** Its timing matters: it intensified a later crisis, rather than explaining all prior episodes. The closest distractor is **B**; that Kamran was never politically active. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 19
 
-#### Q21. Chausa should be analysed as:
+**Question:** Chausa should be analysed as:
 
 - A. a proof that no Mughal force reached Bihar.
 - B. a decisive 1540 restoration victory.
 - C. a battle where position, surprise, command and campaign exhaustion converged.
 - D. a naval battle at Diu.
 
-**Answer: C.**
-**Explanation:** The Karmnasa-back position and surprise explain the disaster better than a single moral trait. The closest distractor is **D**; a proof that no Mughal force reached Bihar. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 20
 
-#### Q22. The distinct significance of Kannauj/Bilgram is that it:
+**Question:** The distinct significance of Kannauj/Bilgram is that it:
 
 - A. settled Gujarat's administration.
 - B. was fought before Chausa.
 - C. brought Shah Tahmasp to Delhi.
 - D. converted the prior shock into a decisive Afghan victory that displaced Humayun from north India.
 
-**Answer: D.**
-**Explanation:** It must be separated from Chausa by date, force condition and political result. The closest distractor is **D**; brought Shah Tahmasp to Delhi. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 21
 
-#### Q23. Kamran's hardened troops matter especially because:
+**Question:** Kamran's hardened troops matter especially because:
 
 - A. their non-availability after Chausa deprived Humayun of a significant reinforcement in the decisive phase.
 - B. they were stationed at Gaur under Hindal.
 - C. they supplied Humayun at Chausa without conditions.
 - D. they fought for Bahadur Shah at Mandu.
 
-**Answer: A.**
-**Explanation:** The source assigns their importance to the post-Chausa turning point, not to every earlier campaign. The closest distractor is **A**; they supplied Humayun at Chausa without conditions. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 22
 
-#### Q24. A fair reading of the brothers is:
+**Question:** A fair reading of the brothers is:
 
 - A. their conduct has no relation to state structure.
 - B. their roles changed across time; rivalry interacted with campaign stress, legitimacy and noble calculation.
 - C. they determined Bahadur Shah's Portuguese policy.
 - D. all were either heroes or traitors throughout.
 
-**Answer: B.**
-**Explanation:** Chronology resists a static family-villain narrative. The closest distractor is **A**; all were either heroes or traitors throughout. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 23
 
-#### Q25. The exile in Sindh underscores that:
+**Question:** The exile in Sindh underscores that:
 
 - A. Humayun controlled every regional ruler.
 - B. Sher Shah granted Humayun Bengal.
 - C. regional rulers such as Sindh's authorities and Maldeo did not automatically risk themselves for a fallen Mughal.
 - D. Iran was irrelevant to recovery.
 
-**Answer: C.**
-**Explanation:** Loss of the north Indian core exposed the limits of dynastic prestige without usable resources. The closest distractor is **B**; Humayun controlled every regional ruler. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 24
 
-#### Q26. Safavid help under Shah Tahmasp should be presented as:
+**Question:** Safavid help under Shah Tahmasp should be presented as:
 
 - A. a literary legend with no recovery outcome.
 - B. an entirely religious crusade with no frontier politics.
 - C. a direct annexation of Delhi by Iran.
 - D. a consequential political alliance whose terms and sectarian dimensions require precise sourcing.
 
-**Answer: D.**
-**Explanation:** The safe historical result is aid in the recovery of Qandahar and Kabul; reductionism is unsafe. The closest distractor is **C**; a direct annexation of Delhi by Iran. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 25
 
-#### Q27. The 1545 recovery of Qandahar and Kabul provided:
+**Question:** The 1545 recovery of Qandahar and Kabul provided:
 
 - A. a north-western base from which a later return became possible.
 - B. the elimination of Sur factions in Delhi.
 - C. a restoration of Gujarat through Askari.
 - D. instant control of all north India.
 
-**Answer: A.**
-**Explanation:** It rebuilt a territorial platform, but the Delhi–Agra recovery came only later. The closest distractor is **B**; instant control of all north India. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 26
 
-#### Q28. Sur fragmentation matters in 1555 because it:
+**Question:** Sur fragmentation matters in 1555 because it:
 
 - A. was caused by the 1535 Champaner siege.
 - B. created openings that Humayun could exploit in regaining Delhi.
 - C. proves Sher Shah never had a state.
 - D. made Afghanistan irrelevant.
 
-**Answer: B.**
-**Explanation:** A strong ruler's earlier success and a successor regime's fragmentation are not contradictory. The closest distractor is **A**; proves Sher Shah never had a state. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 27
 
-#### Q29. Humayun's death in 1556 is historically significant because:
+**Question:** Humayun's death in 1556 is historically significant because:
 
 - A. it took place before Chausa.
 - B. it ended the Mughal line.
 - C. the restored dynasty passed into Akbar's accession crisis rather than becoming a settled personal rule.
 - D. it transferred Delhi to Bahadur Shah.
 
-**Answer: C.**
-**Explanation:** The succession point connects restoration to the next phase without claiming smooth stability. The closest distractor is **C**; it ended the Mughal line. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 28
 
-#### Q30. Which formulation rejects the opium caricature without exonerating Humayun?
+**Question:** Which formulation rejects the opium caricature without exonerating Humayun?
 
 - A. He made no serious error.
 - B. His private habits mechanically decided every battle.
 - C. Sher Khan had no role in the outcome.
 - D. Campaign energy in Gujarat coexisted with poor sequencing, administrative limits and serious misjudgement of Sher Khan.
 
-**Answer: D.**
-**Explanation:** Historical judgement should compare demonstrated capacity with demonstrable decisions and opposition. The closest distractor is **D**; Sher Khan had no role in the outcome. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 29
 
-#### Q31. A source-critical hierarchy would treat:
+**Question:** A source-critical hierarchy would treat:
 
 - A. Nizamuddin's compressed chronology, later Mughal narratives and regional traditions as sources with different reach and limits.
 - B. a later popular legend as superior to all contemporary evidence.
 - C. a monument as direct proof of every sixteenth-century political event.
 - D. all Mughal chronicles as identical.
 
-**Answer: A.**
-**Explanation:** Different genres answer different questions; source criticism prevents chronology and memory from being flattened. The closest distractor is **B**; all Mughal chronicles as identical. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 30
 
-#### Q32. UNESCO's Humayun's Tomb description is useful in this package only as:
+**Question:** UNESCO's Humayun's Tomb description is useful in this package only as:
 
 - A. proof that Karnavati sent a rakhi.
 - B. a bounded modern heritage anchor for dynastic memory, garden-tomb form and conservation.
 - C. evidence for the troop position at Chausa.
 - D. a replacement for early Mughal chronicles.
 
-**Answer: B.**
-**Explanation:** A later monument can illuminate memorialisation and architecture, not establish contested campaign events. The closest distractor is **A**; proof that Karnavati sent a rakhi. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 31
 
-#### Q33. The Rajput dimension of this struggle is best framed as:
+**Question:** The most accurate meaning of 'unfinished conquest' in this topic is:
 
-- A. evidence that every conflict was religiously binary.
-- B. a unified army permanently allied to either side.
-- C. variable relations among Mewar, Gujarat and Mughal power, not a permanent homogeneous Rajput bloc.
-- D. irrelevant to Malwa and Chittor.
+- A. A completed Bengal revenue survey.
+- B. A permanent settlement with every Afghan chief.
+- C. A political gain without fully rooted fiscal-administrative control.
+- D. A dynasty with no territorial centre at all.
 
-**Answer: C.**
-**Explanation:** Mewar and Chittor belong to a shifting regional field rather than title-tokenism. The closest distractor is **D**; evidence that every conflict was religiously binary. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 32
 
-#### Q34. The Portuguese/Diu context belongs here because:
+**Question:** Babur's late fiscal difficulty matters to Humayun because it:
 
-- A. it proves a Portuguese victory at Kannauj.
-- B. Portugal controlled Gaur.
-- C. Humayun built Diu.
-- D. Bahadur Shah's coastal pressures and Diu context intersected with Gujarat politics; the detail remains bounded to Topic 08's larger frame.
+- A. gave Gujarat to Bahadur Shah.
+- B. made Chunar inaccessible by river.
+- C. ended the need to pay begs.
+- D. left an already stretched treasury beside a large military-political task.
 
-**Answer: D.**
-**Explanation:** It provides west-coast context without becoming the topic's main explanation. The closest distractor is **A**; it proves a Portuguese victory at Kannauj. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 33
 
-#### Q35. Which causal ordering is strongest for Gujarat?
+**Question:** Which inference from Akbar’s birth at Amarkot in 1542 is most defensible?
 
-- A. Military success → weak settlement and elite coordination → regional reassertion and Mughal withdrawal.
-- B. Chausa → capture of Mandu.
-- C. Treasure → automatic allegiance → permanent administration.
-- D. Bahadur Shah's death → no need for a campaign.
+- A. Local protection and household networks could sustain a dispossessed dynasty without imperial territorial control.
+- B. The Sur regime recognized Humayun as sovereign throughout Sindh.
+- C. Amarkot supplied Humayun with the armies that retook Delhi in 1555.
+- D. Safavid assistance had already delivered Qandahar by 1542.
 
-**Answer: A.**
-**Explanation:** The chain keeps operational success and political failure in the correct order. The closest distractor is **A**; Treasure → automatic allegiance → permanent administration. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 34
 
-#### Q36. Which causal ordering is strongest for Bengal?
+**Question:** A historian compares Gulbadan Begum’s Humayun-nama with official dynastic histories. Which reading respects the different evidentiary scope?
 
-- A. Kabul recovery → Surajgarh.
-- B. Long siege and eastward advance → Gaur occupation amid administrative weakness → communications pressure → Chausa.
-- C. Karnavati legend → Chunar falls.
-- D. Gaur occupation → completed Mughal administration → Sher Khan disappears.
+- A. The memoir proves all battlefield force totals because its author belonged to the family.
+- B. The memoir illuminates kinship and exile from a later household perspective, while official histories also have imperial agendas.
+- C. An official chronicle alone settles private conversations word for word.
+- D. Both accounts are useless because neither author was a modern archaeologist.
 
-**Answer: B.**
-**Explanation:** This sequence connects choices, logistics and rival action without reducing the outcome to weather or personality. The closest distractor is **B**; Karnavati legend → Chunar falls. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 35
 
-#### Q37. The Afghan alternative should not be stereotyped because:
+**Question:** Which sequence correctly distinguishes the decisive Sur fragmentation from the earlier imperial defeats?
 
-- A. they were incapable of administration.
-- B. every Afghan chief supported Sher Khan from the beginning.
-- C. its effectiveness rested on identifiable regional roots, military networks, leadership and political organisation.
-- D. Afghans possessed a fixed timeless military essence.
+- A. Sur rivalry after Islam Shah → Chausa → Gaur → Delhi restored.
+- B. Chausa → Delhi restored → Kannauj → Safavid refuge.
+- C. Chausa → Kannauj → north-western recovery → Sur rivalries → reconquest of Delhi.
+- D. Gaur → Safavid aid → Dadrah → Kannauj → Delhi restored.
 
-**Answer: C.**
-**Explanation:** The explanatory variables are coalition, resources, terrain and leadership, not essentialised identity. The closest distractor is **B**; Afghans possessed a fixed timeless military essence. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 36
 
-#### Q38. A strong 20-marker on Humayun should:
+**Question:** Coins and khutba bearing Humayun’s name in a province under Kamran establish most directly:
 
-- A. list every date without an argument.
-- B. treat restoration as proof that there was no failure.
-- C. omit Sher Khan to focus on personality.
-- D. link inheritance, campaign sequencing, rival capacity, brothers/nobles, logistics and a qualified verdict.
+- A. Humayun’s personal command of each provincial garrison.
+- B. Continuous collection of provincial revenue by Delhi officials.
+- C. The absence of fraternal negotiation in the Timurid house.
+- D. A public claim of overlordship compatible with Kamran’s substantial regional autonomy.
 
-**Answer: D.**
-**Explanation:** A multidimensional argument explains both collapse and recovery. The closest distractor is **D**; omit Sher Khan to focus on personality. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 37
 
-#### Q39. The forward link to Topic 14 should be:
+**Question:** In comparing the two Chunar episodes, which statement avoids conflating them?
 
-- A. Sher Shah's rise creates the next topic; detailed Sur reforms remain there.
-- B. a claim that all Akbar's institutions were copied unchanged.
-- C. detailed Sur revenue administration as if it occurred before Chausa.
-- D. a denial that the Sur interregnum mattered.
+- A. An initial accommodation left Sher Khan room in Bihar; the later prolonged siege consumed time while Bengal communications shifted.
+- B. The first accommodation was the six-month 1537–38 siege, followed by Dadrah in 1555.
+- C. Both episodes prove Sher Khan lacked access to eastern forts and revenue.
+- D. The later siege secured permanent Mughal revenue control in Bengal.
 
-**Answer: A.**
-**Explanation:** The boundary keeps this topic's political-military struggle distinct from the subsequent administrative study. The closest distractor is **B**; a claim that all Akbar's institutions were copied unchanged. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 38
 
-#### Q40. The forward link to Akbar should be:
+**Question:** Which pairing best distinguishes Mughal success in Gujarat from its political limit?
 
-- A. the 1555 recovery ended all succession risks.
-- B. Humayun's restoration supplied a dynastic opening, while Akbar's later consolidation addressed a still-fragile inheritance.
-- C. Akbar immediately ruled from Gaur.
-- D. Akbar's later era had no relationship to Humayun's experience.
+- A. Chausa won in Gujarat; Kamran governed Bengal without challenge.
+- B. Mandu and Champaner demonstrated operational reach; Askari’s untenable assignment exposed weak occupation capacity.
+- C. Sher Khan’s seizure of Gaur established Mughal administration in Ahmedabad.
+- D. Bahadur Shah’s Portuguese encounter was the direct cause of the Chunar siege.
 
-**Answer: B.**
-**Explanation:** This relates phases without projecting Akbar's institutions backward. The closest distractor is **A**; Akbar's later era had no relationship to Humayun's experience. does not survive the source-based distinction in the stem.
+#### Workbook MCQ 39
 
-### PART V. Remedial MCQs: 12 targeted misconception checks
+**Question:** What does the Surajgarh–Gaur comparison show about Sher Khan’s ascent?
 
-The correct-option sequence is printed for audit: **ABCDABCDABCD**.
+- A. Surajgarh was the decisive 1540 Mughal defeat, whereas Gaur was a Safavid port.
+- B. Both prove all Afghan chiefs submitted permanently before 1534.
+- C. Surajgarh strengthened prestige against Bengal forces; securing Gaur’s resources changed the scale of his Bihar–Bengal challenge.
+- D. Gaur gave Humayun permanent control of Sher Khan’s Bengal treasury.
 
-#### Q1. Which date-event pair is secure?
+#### Workbook MCQ 40
 
-- A. Kannauj — December 1530
-- B. Chausa — 17 May 1540
-- C. Chausa — 26 June 1539
-- D. Delhi recovery — 1540
+**Question:** Which conclusion about the 1555 reconquest is warranted by Machhiwara, Sirhind and Sikandar Sur?
 
-**Answer: C.**
-**Explanation:** Chausa is dated 26 June 1539; 17 May 1540 belongs to Kannauj/Bilgram. The closest distractor is **B**; Chausa — 17 May 1540 does not survive the source-based distinction in the stem.
+- A. The restoration was secured by a single Persian army that fought every northern battle.
+- B. Islam Shah personally handed Delhi to Humayun in 1555.
+- C. Afghan resistance disappeared from India the instant Lahore was recovered.
+- D. Mughal campaigning through Punjab exploited divided Sur claims; victory did not itself complete imperial consolidation.
 
-#### Q2. Which battle finally displaced Humayun from north India?
+#### Workbook MCQ 41
 
-- A. Dadrah/Daurah
-- B. Mandsor
-- C. Surajgarh
-- D. Kannauj/Bilgram
+**Question:** Which claim about Humayun’s courtly astrology and Dinpanah has the soundest evidentiary boundary?
 
-**Answer: D.**
-**Explanation:** Kannauj/Bilgram was the decisive 1540 defeat; Dadrah/Daurah was an earlier success against eastern Afghans. The closest distractor is **A**; Dadrah/Daurah does not survive the source-based distinction in the stem.
+- A. Courtly cosmology and the Delhi capital project reveal practices of kingship; neither alone proves irrational command or a single builder for every surviving wall.
+- B. Planetary ceremonial colours demonstrate that Sher Khan controlled the Delhi mint.
+- C. Every Purana Qila wall was built by Humayun and therefore dates the Bengal march.
+- D. Dinpanah’s name establishes that all north Indian nobles had embraced the Mughal dynasty.
 
-#### Q3. Which statement about the Karnavati tradition is safe?
+#### Workbook MCQ 42
 
-- A. It is a later tradition requiring provenance caution.
-- B. It establishes a permanent Rajput bloc.
-- C. It proves Humayun occupied Chittor.
-- D. It is a fully corroborated contemporary dispatch.
+**Question:** A chronicler reports exact casualties at Chausa. What should an analytical answer do?
 
-**Answer: A.**
-**Explanation:** The source warning is about later provenance and contemporary silence, not about a settled event. The closest distractor is **A**; It is a fully corroborated contemporary dispatch. does not survive the source-based distinction in the stem.
+- A. Repeat the number as a census and use it to explain Kannauj automatically.
+- B. Treat the number as a source claim; explain exposed position, surprise, weather and severed communications with appropriate qualification.
+- C. Reject the battle itself because premodern casualty figures can be uncertain.
+- D. Infer from the reported losses that Mughal artillery was never used in India.
 
-#### Q4. What does the Chunar siege best show?
+#### Workbook MCQ 43
 
-- A. Humayun had no artillery.
-- B. A strategic communications problem could consume time while the eastern contest changed.
-- C. Sher Khan was already defeated permanently.
-- D. One fort alone caused the Mughal collapse.
+**Question:** Which distinction about Qandahar and Kabul is best supported by the recovery narrative?
 
-**Answer: B.**
-**Explanation:** Chunar mattered operationally but cannot bear an exclusive causal claim. The closest distractor is **A**; One fort alone caused the Mughal collapse. does not survive the source-based distinction in the stem.
+- A. Shah Tahmasp administered both cities for Humayun continuously until 1555.
+- B. Qandahar and Kabul were inherited peacefully from Kamran before Safavid refuge.
+- C. Safavid support enabled a 1545 north-western recovery, but control of Kabul still involved renewed fraternal and local struggles.
+- D. Possession of these cities automatically extinguished rival Sur rule in Delhi.
 
-#### Q5. Which brother's hardened troops particularly mattered after Chausa?
+#### Workbook MCQ 44
 
-- A. Askari's
-- B. Sulaiman Mirza's
-- C. Kamran's
-- D. Hindal's
+**Question:** Which use of Humayun’s Tomb is methodologically defensible in a workbook on the first reign?
 
-**Answer: C.**
-**Explanation:** The source links Kamran's 10,000 hardened troops and refusal of unified command to the post-Chausa crisis. The closest distractor is **B**; Askari's does not survive the source-based distinction in the stem.
+- A. Its garden plan proves the number of troops at Kannauj.
+- B. Its patronage establishes the exact terms of Shah Tahmasp’s military aid.
+- C. Its 1560s construction proves Dinpanah’s 1530s walls were built by the same workers.
+- D. As a later dynastic memorial it illuminates Akbar-era representation, not the operational outcome of Humayun’s 1530s campaigns.
 
-#### Q6. Din Panah was:
+### Part II — Matched answer key and option-wise explanations
 
-- A. a Gujarat fort taken in 1535.
-- B. a Bengal port under Sher Khan.
-- C. a Safavid city captured in 1545.
-- D. a Delhi capital project tied to legitimacy and prestige.
+#### Answer key — 1
+**Correct answer: A**
 
-**Answer: D.**
-**Explanation:** Din Panah was built at Delhi; it should be interpreted politically rather than as a campaign fort. The closest distractor is **A**; a Gujarat fort taken in 1535. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Correct. Timurid custom could recognize one sovereign and still make princely territorial shares seem politically plausible, so exclusive centralized sovereignty remained under pressure.
+- **B.** Incorrect. Sher Khan belongs to Bihar-Chunar politics, not to the Timurid division of Kabul among Babur's sons.
+- **C.** Incorrect. Patrimonial sharing encouraged bargaining and quasi-partition, but it did not require every province to become a formally independent state.
+- **D.** Incorrect. The norm weakened unified control; it did not abolish the ruler's superior claim to kingship, khutba or sikka.
 
-#### Q7. Sher Khan's offer over Bengal demonstrates:
+**Examiner trap:** patrimony confused with the abolition of kingship
 
-- A. Bengal, not merely a personal feud, was central to the contest.
-- B. Gujarat had already been restored.
-- C. Humayun had accepted his sovereignty permanently.
-- D. he had ceased all political ambition.
+#### Answer key — 2
+**Correct answer: B**
 
-**Answer: A.**
-**Explanation:** The offer makes Bengal a disputed imperial prize; no final settlement followed. The closest distractor is **B**; Humayun had accepted his sovereignty permanently. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Incorrect. Khutba and sikka in Humayun's name preserved a formal imperial claim, but they did not prove that Kamran's Punjab power had dissolved into complete territorial unity.
+- **B.** Correct. Kamran could exercise real regional authority while still acknowledging Humayun in the ceremonial language of sovereignty.
+- **C.** Incorrect. No Safavid conquest of Punjab is at issue here; the point concerns Mughal fraternal politics within the Timurid house.
+- **D.** Incorrect. Chittor belongs to the Rajput-Gujarat theatre, whereas khutba and sikka show Kamran's formal relation to Humayun.
 
-#### Q8. The heritage anchor for Humayun's Tomb is used to discuss:
+**Examiner trap:** formal sovereignty mistaken for effective unity
 
-- A. a source for Chausa deployment.
-- B. dynastic memory and conservation, not sixteenth-century political-event proof.
-- C. direct evidence of Dadrah's date.
-- D. proof of a rakhi exchange.
+#### Answer key — 3
+**Correct answer: C**
 
-**Answer: B.**
-**Explanation:** UNESCO describes the later monument and its architecture; it cannot decide contested campaign narratives. The closest distractor is **A**; a source for Chausa deployment. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Incorrect. Source disagreement requires caution, but it does not permit replacing chronicle evidence with legend.
+- **B.** Incorrect. Nizamuddin Ahmad was a later compiler with a compressed chronology; the issue is comparison of sources, not eyewitness certainty.
+- **C.** Correct. The discrepancy teaches students to qualify precise dating while preserving the secure strategic reading of eastern Afghan pressure and Humayun's response.
+- **D.** Incorrect. The campaigns remain historically secure; what is disputed is the exact ordering of Dadrah/Daurah and Chunar, not the existence of the Afghan challenge.
 
-#### Q9. Which interpretation of Gujarat is fair?
+**Examiner trap:** chronology caution inflated into total uncertainty
 
-- A. Bahadur Shah had no regional power.
-- B. It was an unbroken Mughal provincial success.
-- C. It was a major military achievement but failed as durable direct administration.
-- D. Humayun never reached Mandu.
+#### Answer key — 4
+**Correct answer: D**
 
-**Answer: C.**
-**Explanation:** The campaign's temporal military success and administrative reversal must be held together. The closest distractor is **B**; It was an unbroken Mughal provincial success. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Incorrect. 1555 belongs to Humayun's restoration after exile, whereas Kalinjar sits in the accession-period consolidation sequence.
+- **B.** Incorrect. Gaur and Sher Khan's Bengal phase came much later than the Kalinjar-Chunar stage.
+- **C.** Incorrect. Kalinjar was an inland Bundelkhand fort, not a port on the Gujarat coast.
+- **D.** Correct. In the assigned sequence, Kalinjar forms part of the southern defensive-fort setting around Agra and precedes the Chunar episode.
 
-#### Q10. Why did Gaur not become a secure Mughal gain?
+**Examiner trap:** Kalinjar and the eastern phase detached from strategic sequencing
 
-- A. The city did not exist.
-- B. Kamran surrendered all Punjab troops.
-- C. Chittor was unconquered.
-- D. Distant administration, weak noble commitment and cut communications undermined occupation.
+#### Answer key — 5
+**Correct answer: A**
 
-**Answer: D.**
-**Explanation:** The eastern occupation's weakness came from capacity and communication, not from the unrelated Chittor front. The closest distractor is **D**; Chittor was unconquered. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Correct. Humayun accepted a tactical settlement because he had other fronts to watch and had not yet committed himself to a full Bihar campaign against Sher Khan.
+- **B.** Incorrect. Chunar still mattered as an eastern route-fort; the accommodation shows limited prioritisation, not total indifference.
+- **C.** Incorrect. Bahadur Shah was the western rival in Gujarat-Malwa, not a ruler who could administer Bihar on Humayun's behalf.
+- **D.** Incorrect. Bengal had not already been conquered, which is why the eastern problem continued to grow.
 
-#### Q11. Which statement avoids an Afghan stereotype?
+**Examiner trap:** first Chunar accommodation narrated as simple blindness
 
-- A. Sher Khan mobilised regional networks, resources, leadership and home-terrain advantages.
-- B. Afghan success needed no strategy.
-- C. All Afghans acted identically.
-- D. Afghan capacity had no territorial basis.
+#### Answer key — 6
+**Correct answer: B**
 
-**Answer: A.**
-**Explanation:** The account explains political-military organisation rather than attributing success to an essential trait. The closest distractor is **A**; All Afghans acted identically. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Incorrect. Din Panah was a Delhi political-city project, not a Portuguese coastal enclave.
+- **B.** Correct. Founding Din Panah at Delhi used the prestige of the old imperial centre to frame Mughal kingship as a public dynastic project.
+- **C.** Incorrect. Even if Humayun valued books and courtly culture, Din Panah cannot be reduced to a private library without political meaning.
+- **D.** Incorrect. The project did not erase Agra or every older Mughal centre overnight; it expressed ambition more than accomplished reorganisation.
 
-#### Q12. What did the restoration of 1555 not mean?
+**Examiner trap:** Din Panah reduced to fantasy architecture
 
-- A. The Mughal dynasty gained a platform for Akbar's accession.
-- B. The earlier failure was automatically erased.
-- C. The 1540 collapse can be ignored.
-- D. Humayun regained Delhi amid Sur fragmentation.
+#### Answer key — 7
+**Correct answer: C**
 
-**Answer: B.**
-**Explanation:** Return is not retrospective cancellation; a good verdict keeps collapse, recovery and continuing fragility together. The closest distractor is **C**; The 1540 collapse can be ignored. does not survive the source-based distinction in the stem.
+**Option-wise explanations:**
+- **A.** Incorrect. Gujarat's commercial strength mattered because its ports existed and generated resources; Bahadur Shah's power did not rest on dismantling them.
+- **B.** Incorrect. A tiny Afghan jagir near Jaunpur describes neither Bahadur Shah's resource base nor his west-Indian reach.
+- **C.** Correct. Bahadur Shah combined Gujarat's wealth with Malwa, pressure toward Rajasthan and serious artillery-backed regional power.
+- **D.** Incorrect. Kabul belonged to north-west Timurid politics, not to Bahadur Shah's power structure.
 
-### Semantic-completeness coverage drills — Medieval Topic 13
+**Examiner trap:** Bahadur Shah treated as trivial side-show
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Critique Humayun sources. | Gulbadan/Akbar/Rashidi/Afghan/coin/fabric -> perspective | neutral biography |
-| B | Explain brothers. | Timurid patrimony -> Kamran/Askari/Hindal chronology -> command/resources | villains alone |
-| C | Map western theatre. | Bahadur/Mewar/Chittor -> Mandu/Champaner -> administration/Portuguese boundary | victory=control |
-| D | Trace Sher Khan. | Bihar/Chunar/Surajgarh/Bengal/Gaur/Rohtas -> coalition and resources | inevitable rise |
-| E | Compare battles. | Chausa river/monsoon/surprise -> Kannauj set battle/cohesion -> weighted causes | one error |
-| F | Analyse exile. | Sindh/Rajasthan -> Hamida/Amarkot -> Safavid bargain -> Qandahar/Kabul | total Persianization |
-| G | Explain reconquest. | Sur fragmentation -> Lahore/Machhiwara/Sirhind -> Bairam/Delhi -> fragility | full consolidation |
-| H | Assess Humayun. | ambition/errors -> structural limits -> persistence/restoration -> succession | luck/opium caricature |
+#### Answer key — 8
+**Correct answer: D**
 
-**PYQ status:** zero direct CSE routes; 2023 Gujarat-Portuguese-Diu remains an
-adjacent Topic-08 route.
+**Option-wise explanations:**
+- **A.** Incorrect. Any sound explanation should place Chittor inside the wider Malwa-Mewar-Gujarat strategic field.
+- **B.** Incorrect. Recognising Rajput resistance is part of the explanation; the mistake lies in replacing strategy with legend.
+- **C.** Incorrect. Eastern Rajasthan did matter because it affected the security of the Agra-Delhi core.
+- **D.** Correct. The exam-safe move is to reject a purely rakhi-based reading and explain the regional power calculus instead.
+
+**Examiner trap:** Chittor context replaced by legend or sentiment
+
+#### Answer key — 9
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. Humayun showed operational judgement at Mandsor by avoiding Bahadur Shah's prepared camp and pressing supplies instead of gifting the enemy a favourable artillery battle.
+- **B.** Incorrect. The Bengal turn belonged later; at Mandsor Humayun was still contesting the western theatre.
+- **C.** Incorrect. Artillery was central to Bahadur Shah's camp defence, which is exactly why a blind frontal assault was unattractive.
+- **D.** Incorrect. Sher Khan was Humayun's eastern rival, not a Mughal governor placed over Gujarat.
+
+**Examiner trap:** Mandsor logic confused with reckless frontal attack
+
+#### Answer key — 10
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Seizing Champaner and its treasure did not automatically create a functioning provincial bureaucracy in Gujarat.
+- **B.** Correct. Champaner was a real military success, but captured forts and treasure could not substitute for loyal officers, settlement and local political integration.
+- **C.** Incorrect. Gujarati nobles did not become automatically loyal because one stronghold fell.
+- **D.** Incorrect. Portuguese pressure around Diu remained relevant after the Gujarat campaign and later intersected with Bahadur Shah's death.
+
+**Examiner trap:** one captured fort treated as durable province
+
+#### Answer key — 11
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Askari's Gujarat appointment says nothing about Bengal becoming a settled Mughal province.
+- **B.** Incorrect. The point is the opposite: Askari did receive command, but that command failed to stabilise Gujarat.
+- **C.** Correct. His assignment shows a formal Mughal attempt at provincial administration that did not generate durable co-ordination.
+- **D.** Incorrect. Chausa belongs to the later Bihar-Bengal war with Sher Khan, not to Askari's Gujarat role.
+
+**Examiner trap:** Askari blamed as sole cause of Gujarat failure
+
+#### Answer key — 12
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Here 'rootlessness' is not an ethnic census of noble birthplaces; it describes weak attachment to distant Indian conquests.
+- **B.** Incorrect. The phrase has nothing to do with nobles lacking households or kin.
+- **C.** Incorrect. Mughal nobles clearly possessed military resources; the issue was their unwillingness to remain and administer far-off regions steadily.
+- **D.** Correct. Satish Chandra uses the idea to explain why Gujarat and Bengal looked less attractive than the Delhi-Agra heartland to many Mughal officers.
+
+**Examiner trap:** rootlessness read as ethnicity instead of administrative commitment
+
+#### Answer key — 13
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. Surajgarh raised Sher Khan from a Bihar power-holder to a much larger contender by checking Bengal and enhancing prestige.
+- **B.** Incorrect. Surajgarh belongs to 1534, long before Humayun's death in 1556.
+- **C.** Incorrect. The battle is part of Sher Khan's Bihar-Bengal ascent, not a Mughal success in Malwa.
+- **D.** Incorrect. Nothing in the event is maritime or Portuguese; it was an eastern land campaign.
+
+**Examiner trap:** Surajgarh omitted from Sher Khan's rise
+
+#### Answer key — 14
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Gaur was the Bengal capital, so stripping it of Bengal context removes the whole strategic point of Sher Khan's move.
+- **B.** Correct. Taking Gaur brought treasure, prestige and strategic leverage, turning Sher Khan from a Bihar rival into a Bengal-scale challenger.
+- **C.** Incorrect. Gaur was an old Bengal capital, not a city founded by Humayun after 1555.
+- **D.** Incorrect. Precisely because Gaur had political and material value, its seizure changed the scale of the eastern contest.
+
+**Examiner trap:** Gaur occupation mistaken for Bengal control
+
+#### Answer key — 15
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Chunar was not a residence demanded by Kamran; its importance lay in eastern campaign communications.
+- **B.** Incorrect. The fort belonged to the route system toward Bihar, not to the Rajasthan theatre between Chittor and Mandu.
+- **C.** Correct. Leaving a hostile Chunar in the rear could endanger the road-river links of a Bengal advance.
+- **D.** Incorrect. Bengal was not a pacified loyal zone, which is why communications and siege choices mattered so much.
+
+**Examiner trap:** Chunar bypass imagined as cost-free
+
+#### Answer key — 16
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Kabul is unrelated to the bargaining issue here; the question concerns Sher Khan's eastern position in Bihar and Bengal.
+- **B.** Incorrect. The offer matters precisely because Sher Khan was thinking beyond the subordinate place of an ordinary jagirdar.
+- **C.** Incorrect. Negotiation over Bihar and Bengal does not mark the end of Afghan state-building; it shows its growing ambition.
+- **D.** Correct. The proposal reveals two large political imaginations colliding: Sher Khan sought recognised eastern authority, while Humayun envisaged Bengal inside wider imperial unity.
+
+**Examiner trap:** Sher Khan's offer read as proof of subordination
+
+#### Answer key — 17
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. Distance from Agra, weak administrative commitment, horse losses and broken rear communications made Gaur an exposed occupation rather than a secure settlement.
+- **B.** Incorrect. Bengal's population was never the issue; the problem was governing the province under hostile strategic conditions.
+- **C.** Incorrect. Chittor belonged to the western theatre and had nothing to do with why Gaur became untenable.
+- **D.** Incorrect. River travel existed, but river-monsoon conditions complicated movement instead of making it impossible.
+
+**Examiner trap:** distance narrated without communications logic
+
+#### Answer key — 18
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Hindal's move does not erase Kamran's wider role; it shows that the crisis involved multiple princely actors.
+- **B.** Correct. Hindal's Agra bid mattered because it encouraged elite defection at the moment Humayun was already overstretched in Bengal.
+- **C.** Incorrect. This disturbance belongs to the Bengal-phase crisis, not to the inherited conditions of 1530.
+- **D.** Incorrect. The episode concerns Mughal princely politics at Agra, not Portuguese intervention.
+
+**Examiner trap:** Hindal's rear move projected backward as the origin of all crisis
+
+#### Answer key — 19
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Humayun had already campaigned in Bihar and Bengal, so Chausa cannot mean that no Mughal force reached the east.
+- **B.** Incorrect. Chausa was Sher Khan's 1539 victory, not a Mughal restoration in 1540.
+- **C.** Correct. The safest analysis joins exposed position near the Karmnasa, surprise attack, campaign strain and command failure.
+- **D.** Incorrect. Diu is a western maritime setting, whereas Chausa was a Gangetic land-river battle against Sher Khan.
+
+**Examiner trap:** Chausa merged with later expulsion
+
+#### Answer key — 20
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Kannauj/Bilgram did not settle Gujarat; it decided the Mughal-Afghan struggle for north India.
+- **B.** Incorrect. The chronology runs the other way: Chausa came in 1539 and Kannauj followed in 1540.
+- **C.** Incorrect. Shah Tahmasp's aid belongs to the exile-and-recovery story after Humayun lost north India.
+- **D.** Correct. Kannauj turned earlier damage into final displacement because Humayun fought with a weakened, hastily assembled force and lost the core region.
+
+**Examiner trap:** Kannauj treated as repetition without fresh political effect
+
+#### Answer key — 21
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. After Chausa, the absence of Kamran's seasoned troops mattered because Humayun entered the decisive phase without a reinforcement that could stiffen his army.
+- **B.** Incorrect. Those hardened troops were associated with Kamran's north-western position, not with Hindal at Gaur.
+- **C.** Incorrect. The point of the source is their non-availability, not their ready service to Humayun.
+- **D.** Incorrect. They matter to Mughal fraternal politics after Chausa, not to Bahadur Shah's Gujarat campaign.
+
+**Examiner trap:** Kamran's troops ignored in the final phase
+
+#### Answer key — 22
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. The brothers operated inside a patrimonial Timurid order, so their conduct cannot be detached from state structure.
+- **B.** Correct. Kamran, Askari and Hindal mattered differently at different moments; rivalry, logistics, legitimacy and noble calculation changed the weight of each role.
+- **C.** Incorrect. Bahadur Shah's dealings with the Portuguese belong to Gujarat's external politics, not to the interpretation of the brothers.
+- **D.** Incorrect. A timeless hero-versus-traitor story ignores chronology and the mixed record of service, delegation and defection.
+
+**Examiner trap:** brothers turned into timeless villains
+
+#### Answer key — 23
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Exile shows the opposite: Humayun could not command automatic obedience from regional rulers once he had lost power.
+- **B.** Incorrect. Sher Shah was Humayun's conqueror, not a benefactor who restored Bengal to him.
+- **C.** Correct. Sindh, Marwar and neighbouring rulers calculated their own risks, which reveals how thin Mughal support became after defeat.
+- **D.** Incorrect. Iranian assistance became crucial precisely because subcontinental sanctuary and support were so limited.
+
+**Examiner trap:** exile told as lonely romance instead of negotiated refuge
+
+#### Answer key — 24
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Shah Tahmasp's help had real consequences in the recovery of Qandahar and Kabul.
+- **B.** Incorrect. Sectarian issues may enter some narratives, but reducing the episode to a pure religious crusade strips away frontier politics and diplomatic bargaining.
+- **C.** Incorrect. Safavid support did not annex Delhi to Iran; Humayun used it to rebuild his own position in the north-west.
+- **D.** Correct. This is the exam-safe presentation: emphasise political aid and recovery, then qualify any disputed conditions or sectarian details by source.
+
+**Examiner trap:** Safavid aid reduced to miracle or total conversion
+
+#### Answer key — 25
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. Recovering Qandahar and Kabul restored a viable north-western base, without which the later return to India would have been impossible.
+- **B.** Incorrect. Sur power in Delhi lasted beyond 1545; that recovery occurred on the frontier, not in the Indo-Gangetic core.
+- **C.** Incorrect. Askari's Gujarat role belonged to the failed 1530s western occupation, not to the 1545 north-west recovery.
+- **D.** Incorrect. Qandahar and Kabul gave Humayun a base, not immediate rule over all north India.
+
+**Examiner trap:** Qandahar-Kabul recovery treated as final stability
+
+#### Answer key — 26
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. The 1550s Sur fragmentation was not caused by the old Champaner campaign of 1535.
+- **B.** Correct. Humayun's return succeeded not only because he had rebuilt strength, but because the Sur polity had split and opened room for recovery.
+- **C.** Incorrect. A later dynastic breakdown does not erase the reality of Sher Shah's earlier state-building.
+- **D.** Incorrect. Afghanistan remained relevant because Humayun's restored strength still rested on the Qandahar-Kabul base.
+
+**Examiner trap:** Sur fragmentation omitted from the 1555 explanation
+
+#### Answer key — 27
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Humayun died in 1556 after restoration, not before the 1539 Chausa defeat.
+- **B.** Incorrect. The Mughal line continued under Akbar.
+- **C.** Correct. His death matters because restoration had barely been secured when succession passed into Akbar's precarious early phase rather than a long settled Humayun reign.
+- **D.** Incorrect. Bahadur Shah had died long earlier, so Humayun's death did not transfer Delhi to Gujarat.
+
+**Examiner trap:** library-fall anecdote replacing political significance
+
+#### Answer key — 28
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. This turns correction into acquittal by pretending Humayun made no serious errors.
+- **B.** Incorrect. A private-habit caricature is too mechanical; it cannot replace campaign sequence, logistics, brothers and Sher Khan's ability.
+- **C.** Incorrect. Any balanced explanation must preserve Sher Khan as a major historical actor.
+- **D.** Correct. This formulation keeps Humayun's misjudgements in view while rejecting a single-cause moral caricature.
+
+**Examiner trap:** rehabilitation turned into exoneration
+
+#### Answer key — 29
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct. A sound hierarchy distinguishes between Nizamuddin's compressed chronology, later Mughal reconstructions and regional traditions instead of treating them as one type of evidence.
+- **B.** Incorrect. Later popular memory can be useful, but it cannot outrank all contemporary or near-contemporary evidence by default.
+- **C.** Incorrect. A monument or UNESCO description may illuminate memory and architecture, not troop movement or every sixteenth-century political event.
+- **D.** Incorrect. Mughal chronicles differ in date, purpose, patronage and detail, so source criticism cannot flatten them into sameness.
+
+**Examiner trap:** memoir and chronicle ranked without provenance control
+
+#### Answer key — 30
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Incorrect. A modern heritage description cannot prove the Karnavati-rakhi story.
+- **B.** Correct. In this topic the UNESCO page is used narrowly: as a modern heritage anchor for dynastic memory, tomb-garden form and conservation, not as campaign evidence.
+- **C.** Incorrect. A heritage note on Humayun's Tomb cannot establish battlefield deployment at Chausa.
+- **D.** Incorrect. Chronicles remain necessary for sixteenth-century politics; UNESCO is a bounded supplementary aid, not a replacement archive.
+
+**Examiner trap:** Humayun's Tomb used as campaign evidence
+
+#### Answer key — 31
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Incorrect. A completed Bengal revenue survey belongs to a far later administrative completeness than the topic's opening condition.
+- **B.** Incorrect. Afghan resistance remained active, so no permanent settlement with every chief existed.
+- **C.** Correct. 'Unfinished conquest' means victories had created a core but not a securely rooted fiscal-administrative order across the newly claimed empire.
+- **D.** Incorrect. Babur did leave a territorial centre in Delhi-Agra; the problem was fragility, not total absence.
+
+**Examiner trap:** inheritance flattened into either emptiness or complete stability
+
+#### Answer key — 32
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Incorrect. Bahadur Shah's rise in Gujarat had its own western causes; Babur's fiscal strain did not simply hand him the province.
+- **B.** Incorrect. Chunar's geography did not change because Babur's treasury was weak.
+- **C.** Incorrect. Financial strain made rewarding and maintaining begs harder, not unnecessary.
+- **D.** Correct. Humayun inherited a stretched treasury at the same time that he had to manage nobles, brothers and multiple regional rivals.
+
+**Examiner trap:** fiscal strain turned into a single-cause campaign answer
+
+#### Answer key — 33
+
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct: the birth during exile evidences survival through local refuge and the household, not effective empire.
+- **B.** Sur recognition throughout Sindh is not established by a birth at Amarkot.
+- **C.** Local protection for a family cannot be equated with financing and commanding the later reconquest.
+- **D.** The Qandahar recovery followed Safavid help in 1545, after the 1542 birth.
+
+**Examiner trap:** household refuge mistaken for sovereign control
+
+#### Answer key — 34
+
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Family proximity does not validate exact military totals outside the memoir’s evidentiary range.
+- **B.** Correct: a retrospective family memoir and imperial account each offer situated, differently selective evidence.
+- **C.** Imperial patronage is a reason to test representations, not certify reconstructed dialogue.
+- **D.** Situated evidence has limits but is not therefore worthless.
+
+**Examiner trap:** source proximity confused with unrestricted eyewitness authority
+
+#### Answer key — 35
+
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Post-Islam Shah rivalries came after, not before, the 1539 defeat at Chausa.
+- **B.** Restoration in 1555 did not precede the 1540 defeat or Safavid refuge.
+- **C.** Correct: defeat in 1539–40, Qandahar/Kabul recovery in 1545, fragmentation and return in 1555.
+- **D.** Dadrah belongs to Humayun’s early reign, not the period after Safavid aid.
+
+**Examiner trap:** later Sur succession crisis projected back onto the first defeat
+
+#### Answer key — 36
+
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Ceremonial attribution cannot establish direct operational command of each garrison.
+- **B.** The name on a coin does not by itself demonstrate where all revenue was collected.
+- **C.** Such symbolic acknowledgement can coexist with a contested patrimonial settlement.
+- **D.** Correct: nominal sovereignty and effective provincial power need not coincide.
+
+**Examiner trap:** public titulature treated as a census of actual control
+
+#### Answer key — 37
+
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct: the first settlement and later lengthy siege have different strategic consequences.
+- **B.** The six-month operation belongs to the later 1537–38 eastern campaign, not the first settlement.
+- **C.** Sher Khan’s fort and Bihar base make the proposed absence of resources untenable.
+- **D.** Taking a fort neither guaranteed Bengal revenue administration nor prevented a cut return route.
+
+**Examiner trap:** two Chunar phases collapsed into one siege
+
+#### Answer key — 38
+
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Chausa was an Afghan victory in the eastern theatre, not a Mughal Gujarat victory.
+- **B.** Correct: captured centres reveal military success but not stable local administration.
+- **C.** Gaur was an eastern Bengal event and cannot establish Mughal Gujarat governance.
+- **D.** The later Portuguese encounter cannot explain the earlier Chunar operation.
+
+**Examiner trap:** capture of a stronghold equated with durable provincial settlement
+
+#### Answer key — 39
+
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** Kannauj in 1540, not Surajgarh, decisively expelled Humayun.
+- **B.** Afghan coalitions were contingent, not a permanently united bloc fixed in 1534.
+- **C.** Correct: a regional victory and later handling of Bengal’s capital mark different stages of resource accumulation.
+- **D.** Sher Khan removed resources from Gaur; Mughal occupation did not yield secure treasury control.
+
+**Examiner trap:** early regional victory confused with later territorial resource strategy
+
+#### Answer key — 40
+
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** Safavid aid helped build the earlier north-western base, not a sole army responsible for every 1555 battle.
+- **B.** Islam Shah’s rule precedes the later fragmentation and return; no such handover occurred.
+- **C.** Displacing Sikandar in the Delhi–Punjab contest did not abolish Afghan resistance everywhere.
+- **D.** Correct: named campaigns and rival Sur claimants explain recovery without claiming completed rule.
+
+**Examiner trap:** restoration inflated into instant stable consolidation
+
+#### Answer key — 41
+
+**Correct answer: A**
+
+**Option-wise explanations:**
+- **A.** Correct: court language and a multiphase built site require distinct, bounded interpretations.
+- **B.** Ceremonial classification cannot demonstrate control of a mint by a political opponent.
+- **C.** The site has complex phases and later rebuilding; building attribution cannot date an eastern campaign.
+- **D.** An imperial project’s name is not evidence of universal elite allegiance.
+
+**Examiner trap:** court symbolism or multiphase archaeology converted into causal certainty
+
+#### Answer key — 42
+
+**Correct answer: B**
+
+**Option-wise explanations:**
+- **A.** Chronicle totals are not independently verified census data, and Chausa does not mechanically explain 1540.
+- **B.** Correct: discriminate uncertain counts from better-supported causal and chronological links.
+- **C.** Questionable exact figures do not erase a securely attested battle.
+- **D.** Battle losses cannot prove a universal claim about a military technology.
+
+**Examiner trap:** chronicle casualty estimate presented as exact measurement
+
+#### Answer key — 43
+
+**Correct answer: C**
+
+**Option-wise explanations:**
+- **A.** The source describes assistance and negotiation, not permanent Safavid administration of both cities.
+- **B.** Recovery came after exile and diplomatic assistance, amid conflict rather than peaceful inheritance.
+- **C.** Correct: distinguish an aided return from the continuing contest for Kabul.
+- **D.** The north-western base made a later return possible but did not by itself displace Delhi’s rulers.
+
+**Examiner trap:** frontier recovery mistaken for immediate reunification of India
+
+#### Answer key — 44
+
+**Correct answer: D**
+
+**Option-wise explanations:**
+- **A.** A later building cannot count soldiers in an earlier battle.
+- **B.** Funerary patronage does not document a Safavid diplomatic bargain.
+- **C.** Later architecture cannot independently establish an earlier work force.
+- **D.** Correct: distinguish posthumous memory from evidence contemporaneous with war.
+
+**Examiner trap:** posthumous monument made eyewitness to an earlier battle
 
 ## PYQS AND ANSWER PRACTICE
 
-### PART III. PYQ route audit, direct gap and adjacent-route discipline
+### Direct PYQ ownership audit
 
-#### Direct-PYQ result
+The canonical Basic and Advanced Topic 13 owners were rechecked first. They route **zero direct UPSC Civil Services PYQs to Topic 13 for 2018–2026**, and no exact Humayun-owned prelims wording is locally secure enough to reproduce from the adjacent Gujarat route. That gap is preserved honestly here.
 
-[FACT] The repository's 2018–2023 Prelims routing ledger, 2024–2025 integration audit and 2026 audit were checked for this Topic 13 ownership. They contain **no direct verified CSE 2018–2025 question owned by Medieval History Topic 13 on Humayun, Sher Khan, Chausa, Kannauj/Bilgram, Din Panah, or Humayun's restoration**. This is a genuine direct-PYQ gap; no question or answer key is invented to fill it.
+### Transparent routed / adjacent support items
 
-[FACT] A trustworthy **adjacent** route exists in the 2023 Prelims GS-I routing ledger: the neutral, verified ledger label is **“Medieval Gujarat rulers Portuguese and Diu surrender”**, owned by Topic 08, not Topic 13. The ledger explicitly says that the answer key is unavailable locally. This package does not reproduce a reconstructed exact paper wording, does not assign a letter, and does not call it a Humayun PYQ.
+All four retained support items below are explicitly **adjacent or routed support PYQs**, not relabelled direct Topic 13 ownership claims. They are kept because they sharpen chronology discipline, source method and military-technology reasoning relevant to Topic 13.
 
-| Category | Status | Safe use in this package |
-|---|---|---|
-| Direct CSE 2018–2025 Topic 13 PYQ | None located in audited routing records | State the gap; use original practice |
-| Exact adjacent official wording on Humayun/Chausa/Kannauj/Sher Khan | None located with trustworthy local wording/provenance | Do not manufacture a quotation |
-| Topic 08 Gujarat–Portuguese/Diu route | Adjacent 2023 ledger route; key unavailable locally | Link as context for Bahadur Shah, with ownership retained by Topic 08 |
-| Inferred answer | Not needed here | If ever used, label **INFERRED ANSWER — NOT OFFICIALLY VERIFIED** with evidence and elimination |
+#### Adjacent PYQ 1 — UPSC Prelims GS-I 2021 chronology route (wording verified locally; key inferred)
 
-#### Transparent adjacent study routes
+**Question as securely verified from local OCR:** Consider the following statements:
 
-- **Topic 12:** Babur's foundational but fragile conquest and the preceding Afghan/Lodi setting.
-- **Topic 08:** Gujarat, Malwa, Mewar and the bounded Portuguese/Diu context.
-- **Topic 14:** Sher Shah and Sur institutions after the political-military rise explained here.
-- **Topic 15:** Akbar's difficult accession and later consolidation after Humayun's 1555–56 transition.
+1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince.
+2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.
+3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.
 
-[ANALYSIS] A PYQ gap does not make the topic minor. Its demand families—state capacity, campaign logistics, historical source criticism, regional power, battle comparison and qualified causation—are reusable in GS-I answers and Prelims statement elimination.
+**Option-row status:** The local OCR preserves the combination row imperfectly, but earlier validated repository usage supports the standard set containing “1 only”, “1 and 2”, “3 only” and “2 and 3”.
 
-### PART VI. Original Mains practice and examiner-grade model solutions
+**Inferred answer — not officially verified locally:** **1 only.** Confidence: high.
 
-Every model follows claim → named evidence/example → analysis → qualification → conclusion. These are original UPSC-style prompts, not official questions.
+**How to think it through:** Statement 1 is correct because Chinggis Khan reached the Indus in 1221 during Iltutmish's reign. Statement 2 is incorrect because Timur's Indian invasion belongs to 1398, far after Muhammad bin Tughluq. Statement 3 is incorrect because Vasco da Gama reached Kerala in 1498, long after Deva Raya II. For Topic 13, this route matters only as chronology discipline: if earlier medieval dates are blurred, the Humayun-Sher Khan sequence also becomes easy to misplace.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Direct-PYQ result”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This is a chronology-elimination question. In Topic 13, its use is bounded: keep pre-Mughal medieval anchors clear so 1530-1556 chronology is not written against a blurred background.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** Test each statement independently by ruler and date; once Statements 2 and 3 fail, the combination narrows to “1 only”.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It shows exact chronological elimination and honestly preserves the inferred-key status instead of pretending to hold an official local answer row.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**How to improve/strengthen:** Add the year 1398 explicitly when rejecting Timur so north-west frontier chronology becomes even harder to confuse with sixteenth-century Mughal events.
 
-**How to improve this answer:** For “Direct-PYQ result”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+#### Adjacent PYQ 2 — UPSC Prelims GS-I 2022 frontier chronology route (wording verified locally; key inferred)
 
-#### Mains 1. Examine the proposition that Humayun inherited an unfinished conquest.
+**Question:** With reference to Indian history, consider the following statements:
 
-**10 marks | 150 words | Original UPSC-style practice**
+1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.
+2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.
+3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.
+
+Which of the statements given above is/are correct?
+
+- A. 1 and 2
+- B. 2 only
+- C. 1 and 3
+- D. 3 only
+
+**Inferred answer — not officially verified locally:** **B. 2 only.** Confidence: high.
+
+**How to think it through:** Statement 1 falls because Mongol pressure on India predates Jalaluddin Khalji. Statement 2 stands because Alauddin's reign did face a major Mongol assault that reached Delhi. Statement 3 is not retained in the secure repository route, so the safe answer remains B. For Topic 13, this item works only as adjacent frontier chronology and should not be relabelled as a Humayun PYQ.
+
+**Demand decoding:** Answer statement-by-statement and keep earlier frontier chronology separate from the later Humayun-Afghan struggle.
+
+**Executable answer/elimination plan:** Reject Statement 1 first on chronology, preserve Statement 2, then treat Statement 3 cautiously within the already-audited repository route before choosing B.
+
+**Why this earns marks / route earns marks:** It earns marks by separating earlier Mongol frontier pressure from later Mughal chronology instead of collapsing all north-west crises together.
+
+**How to improve/strengthen:** Name Alauddin Khalji directly in the elimination line so the accepted statement is anchored to a ruler, not merely to a period label.
+
+#### Routed PYQ 3 — UPSC GS-I 2020 source-method support
+
+**Question:** Persian literary sources of medieval India reflect the spirit of the age. Comment. (Answer in 250 words)
+
+**Model answer:** Persian literary sources are indispensable because they preserve kingship, conquest, morality and courtly self-presentation; yet they reflect the age only when read with genre caution. For Topic 13, the most transferable examples are Gulbadan Begum's *Humayun-nama*, later Mughal chronicles such as the *Akbarnama* and compilations like *Tabaqat-i Akbari*, together with Afghan memory texts such as Sarwani's *Tarikh-i Sher Shahi*. These works reveal household politics, exile, kingship, diplomacy and the political language of the sixteenth century, but none is a transparent mirror. Gulbadan is retrospective and family-centred, official chronicles carry dynastic teleology, and Afghan narratives have their own retrospective admiration. Hence Persian literary texts reflect the age in a refracted way. Their greatest value lies in showing elite assumptions, political vocabulary and remembered crisis, while coins, forts, inscriptions and chronology control provide the needed check. For Topic 13, the safest lesson is to use memoir and chronicle boldly for perspective, but never as untested final authority.
+
+**Demand decoding:** Treat this as a source-method question: explain value and limitation together, then show how *Humayun-nama* and later chronicles illuminate Topic 13 without exhausting it.
+
+**Executable answer/elimination plan:** Open with the value-limitation thesis, move to Gulbadan and later Persian/Afghan texts as named evidence, then close with corroboration through material and chronological checks.
+
+**Why this earns marks / route earns marks:** It turns a general Persian-source demand into a precise Humayun-era evidence lesson without pretending that the question is Topic 13-owned.
+
+**How to improve/strengthen:** Add one sentence naming what coins, khutba or fort occupation can show so the non-literary corroboration rule appears even more sharply.
+
+#### Routed PYQ 4 — UPSC GS-I 2023 technology route
+
+**Question:** What were the major technological changes introduced during the Sultanate period? How did those technological changes influence the Indian society? (Answer in 250 words)
+
+**Model answer:** The Sultanate mattered technologically because it accelerated the spread and systematisation of techniques in architecture, warfare and administration. Topic 13 borrows this route only for the military and communication angle. By Humayun's time, firearms, fortified positions, route-forts and mobile command had become more consequential in north Indian warfare, but Chausa and Kannauj show that technology mattered only when joined to logistics and organisation. Chunar's strategic value lay in route control, while Sher Khan's success depended on intelligence, movement and communications as much as on armed force. The larger social effect of such technological change lay in state capacity: stronger siege work, more demanding military coordination and sharper pressure on revenue and supply. Yet this must not be romanticised as automatic progress. Technology strengthened states and commanders unevenly, and in Topic 13 superior political organisation still mattered more than the mere possession of guns or forts. The best borrowed lesson is that early Mughal-Afghan warfare belongs to a wider history of changing military techniques, but cannot be reduced to hardware alone.
+
+**Demand decoding:** Use the question as a technology-plus-society prompt, then borrow Chunar, communications and battlefield organisation only as bounded examples relevant to Topic 13.
+
+**Executable answer/elimination plan:** List broader technological fields quickly, then narrow to eastern route-forts, firearms and command so the answer remains tied to the verified question.
+
+**Why this earns marks / route earns marks:** It earns marks because it keeps the topic within its proper boundary: Topic 13 can illuminate state capacity and warfare without pretending to own the full Sultanate technology question.
+
+**How to improve/strengthen:** Add one short phrase distinguishing fort, firearm and communication technology so the borrowed Topic 13 examples appear as a subset of the larger medieval change.
+
+
+### Original solved Mains questions
+
+Exactly six original Mains models are retained below: **2 × 10 marks**, **2 × 15 marks**, **2 × 20 marks**.
+
+#### Original Mains 1 — Examine the proposition that Humayun inherited an unfinished conquest. (10 marks; 150 words)
 
 **Model solution**
 
@@ -788,71 +1006,16 @@ Every model follows claim → named evidence/example → analysis → qualificat
 
 **Conclusion.** The phrase 'unfinished conquest' therefore means a mismatch between territorial claim and institutional depth. It explains vulnerability without denying agency: Humayun still had to choose priorities, and Sher Khan still had to build an alternative coalition.
 
-**Why this earns marks:** It defines the proposition, deploys fiscal, administrative and Afghan evidence, and ends with a qualified causal verdict rather than a personality label.
-
 **Demand decoding:** The directive **examine** requires a direct position on “Mains 1. Examine the proposition that Humayun inherited an unfinished conquest.”, coverage of every clause, evidence-led analysis and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It defines the proposition, deploys fiscal, administrative and Afghan evidence, and ends with a qualified causal verdict rather than a personality label.
 
-**How to improve this answer:** For “Mains 1. Examine the proposition that Humayun inherited an unfinished conquest.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** For “Mains 1. Examine the proposition that Humayun inherited an unfinished conquest.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-#### Mains 2. Assess structural and personal factors in Humayun's failure.
 
-**15 marks | 200 words | Original UPSC-style practice**
-
-**Model solution**
-
-**Claim.** Humayun's fall cannot be explained either by a private moral defect or by structures that made choices irrelevant. Structural fragility set the field; sequencing and judgement shaped how he lost it.
-
-**Structural field.** Babur's stretched finances, large beg assignments and shallow local roots restricted the administrative reach of the new Mughal regime. Kamran's Lahore–Punjab position represented a de facto partition inside a Timurid political culture of princely shares. In the east, Sher Khan possessed a Bihar base, Afghan networks and later Bengal resources. These conditions meant that a ruler could not safely assume that a military advance would yield settled authority.
-
-**Personal and strategic choices.** Humayun nevertheless displayed ability: at Mandsor he avoided a frontal assault on Bahadur Shah's defended camp and used a supply squeeze; he took Mandu, Champaner and Ahmedabad. The failure followed when victory was treated as equivalent to administration. Askari's Gujarat charge lacked co-ordination and noble commitment. In Bengal, the six-month Chunar siege and long stay at Gaur gave Sher Khan time to threaten communications. At Chausa, placing the Karmnasa behind his position and permitting surprise were concrete operational errors.
-
-**Qualification.** The old 'opium' caricature is inadequate. Mirza Haider's observation is a source, not a total explanation; the record also shows sustained campaigning. Equally, rehabilitation cannot make Chausa or the Bengal sequence disappear.
-
-**Conclusion.** Humayun's ambition outran the fiscal, logistical and administrative capacity available to enforce it. Personal error made an inherited vulnerability exploitable by a capable opponent.
-
-**Why this earns marks:** The answer weighs both levels, uses named episodes, challenges a caricature through source method, and gives a graded conclusion.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Mains 2. Assess structural and personal factors in Humayun's failure.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 2. Assess structural and personal factors in Humayun's failure.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 3. Discuss the Afghan challenge under Sher Khan as a political-military alternative.
-
-**15 marks | 200 words | Original UPSC-style practice**
-
-**Model solution**
-
-**Claim.** Sher Khan was not simply a rebellious jagirdar who happened to defeat an emperor. By the late 1530s he represented an alternative north-Indian political project, built from a Bihar base, Afghan networks, Bengal resources and superior strategic adaptation.
-
-**Evidence and mechanism.** Chunar gave Sher Khan a strong eastern position, while the Afghan field extended across east Uttar Pradesh and Bihar. The earlier Mughal–Afghan contest had already shown that these regions contained mobile leaders and sanctuaries. Sher Khan's victory at Surajgarh in 1534 against Bengal pressure strengthened his Bihar position; the subsequent seizure of Gaur enlarged his resource and symbolic reach. The reported offer to leave Bihar and remit revenue if Bengal were confirmed to him is analytically revealing: it treats Bengal as a sovereign-scale prize, not as an office held at imperial pleasure.
-
-At Chausa, Sher Khan exploited Humayun's exposed posture; at Kannauj/Bilgram he led the force that decisively expelled the Mughals from north India. These were not accidents of ethnic identity. They joined leadership, regional roots, intelligence, movement, terrain and an ability to gather Afghan support under a credible command.
-
-**Qualification.** Afghan politics were not permanently uniform: chiefs had differing interests, and no timeless 'tribal' essence explains success. Mughal errors—especially the Bengal communications problem and later fractured command—enlarged the opportunity. Detailed Sur administrative reforms belong to the following topic and should not be pre-dated here.
-
-**Conclusion.** Sher Khan's strength lay in converting a regional Afghan social-military field into a state-building coalition at the exact moment Mughal expansion exceeded its administrative base.
-
-**Why this earns marks:** It replaces a stereotype with concrete evidence, distinguishes political scale from office-holding, and respects the Topic 14 boundary.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Mains 3. Discuss the Afghan challenge under Sher Khan as a political-military alternative.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 3. Discuss the Afghan challenge under Sher Khan as a political-military alternative.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 4. Evaluate Humayun's Gujarat campaign.
-
-**10 marks | 150 words | Original UPSC-style practice**
+#### Original Mains 2 — Evaluate Humayun's Gujarat campaign. (10 marks; 150 words)
 
 **Model solution**
 
@@ -866,47 +1029,39 @@ The holding problem was different. Humayun gave Askari overall responsibility an
 
 **Conclusion.** Gujarat shows the central lesson of the topic: battle success without administrative settlement becomes a temporary occupation.
 
-**Why this earns marks:** It separates campaign from governance, supplies named military evidence, and qualifies both the failure and the achievement.
-
 **Demand decoding:** The directive **evaluate** requires a direct position on “Mains 4. Evaluate Humayun's Gujarat campaign.”, coverage of every clause, evidence-led analysis and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It separates campaign from governance, supplies named military evidence, and qualifies both the failure and the achievement.
 
-**How to improve this answer:** For “Mains 4. Evaluate Humayun's Gujarat campaign.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** For “Mains 4. Evaluate Humayun's Gujarat campaign.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-#### Mains 5. Analyse the Bengal campaign as a test of logistics and imperial ambition.
 
-**20 marks | 250 words | Original UPSC-style practice**
+#### Original Mains 3 — Discuss the Afghan challenge under Sher Khan as a political-military alternative. (15 marks; 250 words)
 
 **Model solution**
 
-**Claim.** Humayun's Bengal expedition was not a narrow punitive march against Sher Khan. It tested an expansive claim to northern imperial unity against the actual logistical and administrative capacity of the early Mughal regime.
+**Claim.** Sher Khan was not simply a rebellious jagirdar who happened to defeat an emperor. By the late 1530s he represented an alternative north-Indian political project, built from a Bihar base, Afghan networks, Bengal resources and superior strategic adaptation.
 
-**Imperial aim.** The local Part II discussion treats Bengal as the principal prize. Mahmud Shah's appeal after Gaur fell was an additional reason, but Bengal's wealth, strategic extent and place in a Delhi-Sultanate-scale imagination made it central. Sher Khan's own stance—after Surajgarh and the capture of Gaur—confirms that the issue was a political order under Mughal or Afghan leadership.
+**Evidence and mechanism.** Chunar gave Sher Khan a strong eastern position, while the Afghan field extended across east Uttar Pradesh and Bihar. The earlier Mughal–Afghan contest had already shown that these regions contained mobile leaders and sanctuaries. Sher Khan's victory at Surajgarh in 1534 against Bengal pressure strengthened his Bihar position; the subsequent seizure of Gaur enlarged his resource and symbolic reach. The reported offer to leave Bihar and remit revenue if Bengal were confirmed to him is analytically revealing: it treats Bengal as a sovereign-scale prize, not as an office held at imperial pleasure.
 
-**Logistics and geography.** Humayun left Agra in the rainy season of 1537 and invested Chunar because a powerful hostile fort could threaten communications toward Bengal. Its six-month capture consumed time while Sher Khan took Gaur. The fort was strategically relevant, but not an all-purpose explanation: it operated with land routes, river movement, supply and the political choices of both sides. At Gaur, horse losses, distance and a return route vulnerable to Sher Khan's westward moves increased the burden.
+At Chausa, Sher Khan exploited Humayun's exposed posture; at Kannauj/Bilgram he led the force that decisively expelled the Mughals from north India. These were not accidents of ethnic identity. They joined leadership, regional roots, intelligence, movement, terrain and an ability to gather Afghan support under a credible command.
 
-**Administrative capacity.** The Gujarat precedent reappeared more sharply. Mughal officers did not want to settle a distant territory they saw as foreign; a reluctant governor was not an accidental detail but evidence of the regime's limited local rooting. Sher Khan's moves against links toward Agra turned occupation into isolation. Hindal's independent bid at Agra made the campaign's domestic rear equally unstable.
+**Qualification.** Afghan politics were not permanently uniform: chiefs had differing interests, and no timeless 'tribal' essence explains success. Mughal errors—especially the Bengal communications problem and later fractured command—enlarged the opportunity. Detailed Sur administrative reforms belong to the following topic and should not be pre-dated here.
 
-**Qualification.** Humayun was not wholly inactive or incompetent: he reached Gaur and brought much of the army back toward Chausa despite harassment. Monsoon, rivers and climate affected operations, but geography does not independently decide politics.
+**Conclusion.** Sher Khan's strength lay in converting a regional Afghan social-military field into a state-building coalition at the exact moment Mughal expansion exceeded its administrative base.
 
-**Conclusion.** Bengal exposed the mismatch between a vision of all-north-Indian sovereignty and a state unable to staff, supply and communicate across that vision. The failure was therefore logistical, administrative and strategic at once.
+**Demand decoding:** The directive **discuss** requires a direct position on “Mains 3. Discuss the Afghan challenge under Sher Khan as a political-military alternative.”, coverage of every clause, evidence-led analysis and a qualified verdict.
 
-**Why this earns marks:** It answers the directive at two scales, embeds Chunar/Gaur/Agra evidence, treats geography as a mechanism, and avoids both weather determinism and moral caricature.
+**Executable answer/elimination plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Mains 5. Analyse the Bengal campaign as a test of logistics and imperial ambition.”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Why this earns marks / route earns marks:** It replaces a stereotype with concrete evidence, distinguishes political scale from office-holding, and respects the Topic 14 boundary.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**How to improve/strengthen:** For “Mains 3. Discuss the Afghan challenge under Sher Khan as a political-military alternative.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**How to improve this answer:** For “Mains 5. Analyse the Bengal campaign as a test of logistics and imperial ambition.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 6. Compare Chausa and Kannauj/Bilgram in the collapse of Humayun's first reign.
-
-**15 marks | 200 words | Original UPSC-style practice**
+#### Original Mains 4 — Compare Chausa and Kannauj/Bilgram in the collapse of Humayun's first reign. (15 marks; 250 words)
 
 **Model solution**
 
@@ -922,71 +1077,16 @@ The holding problem was different. Humayun gave Askari overall responsibility an
 
 **Conclusion.** The pair shows how tactical error, rival capacity and post-defeat political fragmentation can turn a reversible shock into regime collapse.
 
-**Why this earns marks:** It uses dates, battlefield mechanism and force condition, then makes a true comparison rather than two disconnected mini-narratives.
-
 **Demand decoding:** The directive **compare** requires a direct position on “Mains 6. Compare Chausa and Kannauj/Bilgram in the collapse of Humayun's first reign.”, coverage of every clause, evidence-led analysis and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It uses dates, battlefield mechanism and force condition, then makes a true comparison rather than two disconnected mini-narratives.
 
-**How to improve this answer:** For “Mains 6. Compare Chausa and Kannauj/Bilgram in the collapse of Humayun's first reign.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** For “Mains 6. Compare Chausa and Kannauj/Bilgram in the collapse of Humayun's first reign.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-#### Mains 7. Examine brothers and nobility in Humayun's loss of power.
 
-**10 marks | 150 words | Original UPSC-style practice**
-
-**Model solution**
-
-**Claim.** Fraternal and noble politics weakened Humayun, but their causal force changed across the reign. A chronology-sensitive answer avoids treating them as a pre-written explanation for every failure.
-
-**Evidence and analysis.** Kamran's seizure of Lahore and control across Punjab created a de facto partition. Humayun confirmed the position while facing Afghan activity in the east and Bahadur Shah in the west. The decision reflected an immediate political calculation, though it weakened central authority and encouraged wider princely claims. Askari's and Hindal's early roles were not uniformly hostile: they broadly served Humayun until the Bengal crisis. Askari was entrusted with Gujarat; Hindal's independent move at Agra occurred when Humayun was stretched in Bengal and dissatisfied nobles joined him.
-
-Noble rootlessness linked family politics to administration. Gujarat and Bengal were distant from the Delhi–Agra region in which many Mughal chiefs had settled; they resisted prolonged service and did not create stable local coalitions. After Chausa, Kamran's refusal to place his hardened troops under Humayun's command sharply worsened the military balance before Kannauj.
-
-**Qualification.** Brothers did not cause Humayun's early victory loss at Gujarat by themselves, nor did nobles make Sher Khan's leadership irrelevant. The state confronted real Afghan and regional competitors.
-
-**Conclusion.** Dynastic partition norms and factional nobles amplified a structural crisis; they became most destructive after battlefield confidence had already collapsed.
-
-**Why this earns marks:** It names Kamran, Askari and Hindal separately, ties elite behaviour to administration, and refuses one-cause family blame.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Mains 7. Examine brothers and nobility in Humayun's loss of power.”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 7. Examine brothers and nobility in Humayun's loss of power.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 8. Discuss the Rajput–Gujarat–Mughal triangle, with special reference to source caution on the Karnavati tradition.
-
-**15 marks | 200 words | Original UPSC-style practice**
-
-**Model solution**
-
-**Claim.** The Rajput dimension in Humayun's reign is best understood through a changing regional triangle of Mewar, Gujarat–Malwa and the Mughal core, not through a permanent Rajput bloc or a single sentimental anecdote.
-
-**Regional field.** Bahadur Shah of Gujarat had expanded into Malwa and sought influence in Rajasthan. Chittor's siege and Mewar's resistance mattered because eastern Rajasthan connected the Gujarat–Malwa theatre with the Agra–Delhi zone. Humayun's movement toward Gwalior and later his 1535 campaign therefore belong to strategic geography: control or pressure in Malwa and Rajasthan affected the security of the northern imperial core. Bahadur Shah's Diu/Portuguese context is relevant only as bounded Topic 08 background to a Gujarat ruler operating under multiple pressures; it should not displace the inland political field.
-
-**Source caution.** A mid-seventeenth-century Rajasthani account reports that Rani Karnavati sent a bracelet as rakhi and Humayun responded. The assigned source observes that contemporary records do not mention the episode. A careful answer may call it later historiographical memory, not evidence that decisively caused Humayun's action or proved a permanent Mughal–Rajput alliance. It cannot establish that Humayun captured Chittor.
-
-**Qualification.** Source silence does not make regional politics empty: the Chittor context, Bahadur Shah's campaigns and Humayun's strategic responses are independently analysable. Nor should Rajputs be treated as mere props; Mewar's resistance materially affected the field.
-
-**Conclusion.** The triangle demonstrates plural regional politics. Good source method protects that complexity from both romantic legend and communal simplification.
-
-**Why this earns marks:** It integrates geography, campaign logic and provenance criticism while keeping the Portuguese reference in its proper bounded role.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Mains 8. Discuss the Rajput–Gujarat–Mughal triangle, with special reference to source…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Mains 8. Discuss the Rajput–Gujarat–Mughal triangle, with special reference to source…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 9. Assess Humayun's exile and Safavid assistance as a phase of political recovery.
-
-**20 marks | 250 words | Original UPSC-style practice**
+#### Original Mains 5 — Assess Humayun's exile and Safavid assistance as a phase of political recovery. (20 marks; 250 words)
 
 **Model solution**
 
@@ -1002,19 +1102,16 @@ Noble rootlessness linked family politics to administration. Gujarat and Bengal 
 
 **Conclusion.** Exile transformed Humayun from a dispossessed claimant into a ruler rebuilding resources through diplomacy and frontier recovery. It is a political recovery phase, not a narrative interlude.
 
-**Why this earns marks:** It uses Sindh, Maldeo, Shah Tahmasp, Qandahar and Kabul as evidence, addresses religious caution directly, and links aid to the later restoration without monocausality.
-
 **Demand decoding:** The directive **assess** requires a direct position on “Mains 9. Assess Humayun's exile and Safavid assistance as a phase of political recovery.”, coverage of every clause, evidence-led analysis and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It uses Sindh, Maldeo, Shah Tahmasp, Qandahar and Kabul as evidence, addresses religious caution directly, and links aid to the later restoration without monocausality.
 
-**How to improve this answer:** For “Mains 9. Assess Humayun's exile and Safavid assistance as a phase of political recovery.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** For “Mains 9. Assess Humayun's exile and Safavid assistance as a phase of political recovery.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-#### Mains 10. Explain the significance and limits of Humayun's restoration in 1555.
 
-**20 marks | 250 words | Original UPSC-style practice**
+#### Original Mains 6 — Explain the significance and limits of Humayun's restoration in 1555. (20 marks; 250 words)
 
 **Model solution**
 
@@ -1030,12 +1127,10 @@ Noble rootlessness linked family politics to administration. Gujarat and Bengal 
 
 **Conclusion.** 1555 marks dynastic rehabilitation, not the erasure of 1540. Its significance lies precisely in preserving a fragile opening through which a later, more durable Mughal consolidation became possible.
 
-**Why this earns marks:** It treats restoration causally, bounds heritage evidence and transitions to Akbar.
-
 **Demand decoding:** The directive **explain** requires a direct position on “Mains 10. Explain the significance and limits of Humayun's restoration in 1555.”, coverage of every clause, evidence-led analysis and a qualified verdict.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Executable answer/elimination plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks / route earns marks:** It treats restoration causally, bounds heritage evidence and transitions to Akbar.
 
-**How to improve this answer:** For “Mains 10. Explain the significance and limits of Humayun's restoration in 1555.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve/strengthen:** For “Mains 10. Explain the significance and limits of Humayun's restoration in 1555.”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.

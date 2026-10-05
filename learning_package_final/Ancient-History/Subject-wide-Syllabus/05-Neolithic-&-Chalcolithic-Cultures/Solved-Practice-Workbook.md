@@ -4,13 +4,13 @@ topic_key: ancient-indian-history-05
 ---
 # Neolithic and Chalcolithic Cultures: Solved Practice Workbook
 
-> **Source discipline:** the 32 MCQs and six Mains questions are original. The 2021 Prelims question is transcribed from the local official paper; its answer is clearly labelled inferred because the matching official key is unavailable locally.
+> **Source discipline:** the 52 MCQs and six Mains questions are original. The 2021 Prelims question is transcribed from the local official paper; its answer is clearly labelled inferred because the matching official key is unavailable locally.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 ORIGINAL HARD MCQS
+### 52 ORIGINAL HARD MCQS
 
-> Correct options rotate strictly A -> B -> C -> D, repeated eight times. All 128 option explanations and all 32 examiner traps are question-specific.
+> Correct options rotate strictly A -> B -> C -> D, repeated thirteen times. All 208 option explanations and all 52 examiner traps are question-specific.
 
 #### Q1
 
@@ -20,6 +20,469 @@ Which combination is the strongest diagnostic basis for calling a context Neolit
 - B. A single polished celt found on the surface
 - C. Any handmade pot regardless of context
 - D. The first appearance of a copper ornament
+
+#### Q2
+
+Which sequence best preserves the evidentiary distinction in archaeobotany?
+
+- A. Domestication -> presence -> cultivation -> dependence
+- B. Presence -> possible use -> cultivation -> domestication -> economic dependence
+- C. Cultivation -> presence -> migration -> ethnicity
+- D. Pottery -> grain -> state taxation -> urbanism
+
+#### Q3
+
+Which evidence most strongly supports managed herding rather than occasional hunting?
+
+- A. One cattle tooth without context
+- B. A species name in an old excavation report
+- C. A patterned age-sex kill profile with pens, dung and secure chronology
+- D. A figurine interpreted as a bull
+
+#### Q4
+
+Why is pottery not a universal marker of the beginning of farming?
+
+- A. Because all early farmers used metal vessels
+- B. Because pottery appears only in cities
+- C. Because pottery cannot store grain
+- D. Because food production may precede pottery and pottery can occur among foragers
+
+#### Q5
+
+What is the safest inference from substantial storage facilities in a village?
+
+- A. Delayed consumption and organised access to reserves became important
+- B. A centralized tax state certainly existed
+- C. All households possessed equal surplus
+- D. The settlement had abandoned mobility completely
+
+#### Q6
+
+Which geographical statement about Mehrgarh is correct?
+
+- A. It is in the Kashmir Valley of present-day India
+- B. It lies in the Kachi plain of Baluchistan in present-day Pakistan
+- C. It is a middle-Ganga rice site in Bihar
+- D. It is a southern ash-mound settlement in Karnataka
+
+#### Q7
+
+Which pair is correctly matched?
+
+- A. Burzahom - rock-cut shrine complex
+- B. Gufkral - Mature Harappan dockyard
+- C. Burzahom - pit structures and strong bone-stone tool evidence
+- D. Mehrgarh - eastern Indian post-built settlement
+
+#### Q8
+
+What is the best use of the Burzahom human-animal burial evidence?
+
+- A. It proves one named religion
+- B. It establishes a universal dog cult
+- C. It demonstrates hereditary kingship
+- D. It supports mortuary and human-animal relationship questions while leaving belief uncertain
+
+#### Q9
+
+Which statement about Koldihwa-Mahagara is most defensible?
+
+- A. They are central to rice debates, but dates and wild/domestic identification require caution
+- B. They conclusively prove the world's first domesticated rice
+- C. They are copper-mining settlements in Rajasthan
+- D. They contain no continuity from Mesolithic technology
+
+#### Q10
+
+Why is Lahuradewa significant?
+
+- A. It proves that all rice farming diffused from Mehrgarh
+- B. It strengthens an early middle-Ganga rice-cultivation pathway
+- C. It is the type-site of Jorwe pottery
+- D. It is a Kashmir pit-dwelling site
+
+#### Q11
+
+Which description best fits Chirand?
+
+- A. A Khetri-belt copper workshop
+- B. A south Indian ash mound only
+- C. A Bihar site with a long Neolithic-Chalcolithic sequence, bone tools and mixed riverine subsistence
+- D. A Mature Harappan port
+
+#### Q12
+
+How should similarities between Daojali Hading tools and eastern Asian forms be used?
+
+- A. As proof of one race
+- B. As proof of a known language
+- C. As a precise date without samples
+- D. As a contact or comparison hypothesis requiring independent chronological evidence
+
+#### Q13
+
+Which statement best characterises the South Indian Neolithic?
+
+- A. Cattle pastoralism, cultivation, ground stone, pottery and varied mobility could coexist
+- B. It was uniformly urban and literate
+- C. It lacked all crop production
+- D. Every site was a temporary cowpen
+
+#### Q14
+
+Which interpretation of ash mounds is most defensible?
+
+- A. They were all volcanic deposits
+- B. They reflect repeated burning of cattle-linked accumulations, with function assessed site by site
+- C. They were all royal crematoria
+- D. They prove a single pan-Indian ritual
+
+#### Q15
+
+Which relation between pastoralism and agriculture is best supported?
+
+- A. They are mutually exclusive stages
+- B. Pastoralism necessarily disappears with storage
+- C. They can interact through manure, fodder, traction, mobility and risk-spreading
+- D. Cultivation proves permanent immobility
+
+#### Q16
+
+What does 'Chalcolithic' most precisely indicate?
+
+- A. An iron-using urban civilization
+- B. A society using only copper tools
+- C. A single ethnic culture across India
+- D. Copper or copper-alloy objects coexisting with stone and other technologies
+
+#### Q17
+
+Which association is correct for Ahar-Banas?
+
+- A. South-eastern Rajasthan, black-and-red ware, copper and farming-herding settlements
+- B. Kashmir, pit dwellings and bone harpoons
+- C. Assam, shouldered celts and uncertain dates
+- D. Western Deccan, Jorwe ware and Inamgaon
+
+#### Q18
+
+Why is Ganeshwar-Jodhpura important?
+
+- A. It was the capital of a Harappan empire
+- B. It links a copper-craft concentration to the Khetri resource zone and wider contacts
+- C. It proves OCP and copper hoards were one people
+- D. It is the earliest rice site in the Ganga plain
+
+#### Q19
+
+Which inference from rich Kayatha deposits is strongest?
+
+- A. They prove an egalitarian village
+- B. They prove a hereditary monarchy
+- C. They suggest unequal access or affluent households while the institution of rank remains uncertain
+- D. They prove every copper object was locally mined
+
+#### Q20
+
+Which sequence is most appropriate for central-western Chalcolithic comparison?
+
+- A. Harappan -> Mesolithic -> Kayatha
+- B. Jorwe -> Lower Palaeolithic -> Malwa
+- C. Daojali Hading -> Savalda -> Burzahom
+- D. Kayatha and Malwa horizons compared with Savalda and later Deccan sequences site by site
+
+#### Q21
+
+Which feature is associated with Malwa culture?
+
+- A. Painted pottery and substantial villages at sites such as Navdatoli and Eran
+- B. Pit dwellings at Burzahom
+- C. Shouldered celts at Daojali Hading alone
+- D. Rock-cut shrines at Ganeshwar
+
+#### Q22
+
+What is the safest statement about Savalda?
+
+- A. It is identical to Mature Harappan urbanism
+- B. It is an early western-Deccan Chalcolithic horizon in the Tapi region, distinguished by its own ceramic sequence
+- C. It is a Kashmir aceramic phase
+- D. It is a north-eastern Neolithic migration marker
+
+#### Q23
+
+Which statement best describes Jorwe culture?
+
+- A. It is restricted to one copper mine
+- B. It is defined by iron technology
+- C. It is a western-Deccan Chalcolithic tradition with painted pottery and varied settlement hierarchy
+- D. Every Jorwe settlement was an urban centre
+
+#### Q24
+
+What does Inamgaon most securely demonstrate?
+
+- A. A deciphered script and palace bureaucracy
+- B. A universal chiefdom model for India
+- C. A direct Harappan colony
+- D. A detailed rural Chalcolithic sequence with houses, storage, craft, burials and changing subsistence
+
+#### Q25
+
+Which statement best fits eastern Chalcolithic evidence?
+
+- A. Rice, fish, animals, regional pottery and post-built houses can form a mixed village assemblage
+- B. Copper abundance alone defines social complexity
+- C. All eastern sites copied Ahar pottery
+- D. Sparse architecture proves absence of organisation
+
+#### Q26
+
+How should differential grave goods be interpreted?
+
+- A. As proof of a named afterlife doctrine
+- B. As evidence of unequal treatment or possible status, tested against age, context and wider patterns
+- C. As proof that every village had kings
+- D. As evidence that burials were economically irrelevant
+
+#### Q27
+
+Which comparison between Harappan and non-Harappan Chalcolithic communities is sound?
+
+- A. Both were identical because both used copper
+- B. Every rural culture was a failed city
+- C. They could overlap and exchange while differing in urban scale, writing, planning and institutional integration
+- D. Harappan decline ended all farming villages
+
+#### Q28
+
+What is required before drought is used to explain settlement abandonment?
+
+- A. A dry climate anywhere in India
+- B. One abandoned house
+- C. A later literary memory
+- D. Chronological alignment, a plausible mechanism and comparison with social-economic alternatives
+
+#### Q29
+
+Which statement best describes transition toward Iron Age and Early Historic formations?
+
+- A. Iron, copper-stone and older village practices overlapped unevenly across regions
+- B. Iron instantly eliminated copper and stone everywhere
+- C. Every Chalcolithic village became an Early Historic city
+- D. The transition proves one migrating population
+
+#### Q30
+
+What is an 'archaeological culture'?
+
+- A. A biologically homogeneous race
+- B. A recurring association of material traits used analytically in a region and period
+- C. A proven language community
+- D. A state with known borders
+
+#### Q31
+
+Which site-region-feature set is correctly matched?
+
+- A. Daojali Hading - Maharashtra - Jorwe ware
+- B. Inamgaon - Kashmir - pit dwelling sequence
+- C. Piklihal - southern Deccan - cattle-linked habitation and ash-mound landscape
+- D. Gilund - Assam - shouldered celts
+
+#### Q32
+
+Which inference about social organisation is least defensible?
+
+- A. Public works can imply coordinated labour
+- B. Craft concentrations can suggest specialisation
+- C. Unequal storage can suggest differentiated access
+- D. A large house automatically proves a hereditary chiefdom
+
+#### Q33
+
+A river-basin survey finds favourable climate, greater population density and later cultivation. Which conclusion best survives comparison with a similarly situated basin that retained intensive foraging?
+
+- A. Environmental opportunity and resource pressure are candidate mechanisms, but adoption requires locally tested social and ecological evidence
+- B. Comparable climate establishes that both basins independently domesticated the same crop
+- C. Population density alone fixes the date at which both basins abandoned foraging
+- D. Cultivation in one basin proves a single migration introduced every associated technology
+
+#### Q34
+
+At a stratified site, starch grains occur on a grinding stone and specialist analysis identifies non-shattering rachis bases in securely dated crop remains. Which comparison is sound?
+
+- A. Both observations independently prove the same degree of economic dependence on farming
+- B. Starch supports plant processing; rachis morphology more directly tests domestication, but neither alone measures dietary dependence
+- C. Starch proves cultivation, whereas rachis morphology is useful only for identifying crop presence
+- D. Rachis morphology dates the beginning of cultivation, whereas starch determines its share of the diet
+
+#### Q35
+
+An excavator reports many juvenile caprine bones and declares herding proven. Which additional investigation most directly tests the inference without assuming that selective hunting was impossible?
+
+- A. Count figurines showing horned animals and infer their ritual importance
+- B. Assign all juvenile bones to domesticates using age alone
+- C. Compare repeated sex-age profiles with corrals, dung, morphology and secure phase dates
+- D. Treat the absence of pottery as proof of mobile herding
+
+#### Q36
+
+Which proposed comparison between the Kashmir sites is defensible?
+
+- A. Gufkral's ceramic phase dates all Burzahom pit structures to a single synchronous horizon
+- B. Shared valley ecology implies identical shifts from pits to surface houses at both sites
+- C. Burzahom's bone tools rule out Gufkral's earlier aceramic settlement phase
+- D. Gufkral's changing aceramic/ceramic sequence complements Burzahom's pit, tool and burial evidence without requiring identical phases
+
+#### Q37
+
+Consider: (1) an aceramic Mehrgarh phase can have containers made of non-pottery materials; (2) ceramic appearance must coincide with the first cultivation; (3) a ceramic transition is one part of a longer local settlement and craft sequence. Which statements are consistent with the evidence?
+
+- A. 1 and 3 only
+- B. 1 and 2 only
+- C. 2 and 3 only
+- D. 1, 2 and 3
+
+#### Q38
+
+A rice impression at Koldihwa is confidently identified, but the enclosing layer contains redeposited material. Which claim remains warranted?
+
+- A. The impression fixes the world's first domesticated rice at that layer's apparent date
+- B. Rice is present in the assemblage; direct dating and undisturbed context are still needed before claiming an early cultivation horizon
+- C. Redeposition proves no people at this site ever cultivated plants
+- D. A rice impression alone establishes a separate biological origin of domestication
+
+#### Q39
+
+Which comparison best uses eastern evidence without projecting one uniform culture across Bihar and Bengal?
+
+- A. Shared rice remains establish that Chirand and Pandu Rajar Dhibi used the same pottery sequence
+- B. Chirand's bone tools establish identical craft specialisation throughout Bengal's post-built sites
+- C. Chirand's bone tools and mixed riverine sequence can be compared with Bengal's rice, regional pottery and post-built Chalcolithic settlement evidence
+- D. Post-built houses at Pandu Rajar Dhibi date all stages of Chirand's long occupation
+
+#### Q40
+
+Daojali Hading and Sarutaru are compared with tool forms elsewhere in eastern Asia. Which next step is methodologically strongest?
+
+- A. Declare the makers a single language family from the stone shapes
+- B. Transfer dates from a distant typological parallel to both sites
+- C. Identify a one-way population migration from shouldered celts alone
+- D. Establish each local assemblage's context and dates before testing technological contact or adaptation
+
+#### Q41
+
+At Utnur a burnt deposit is linked to a cattle enclosure, while at Budihal habitation and production remains occur near an ash mound. What follows most securely?
+
+- A. Mound formation must be reconstructed with adjoining activity areas; evidence for cattle-linked burning need not dictate one function for both sites
+- B. Both assemblages prove identical royal funerary ceremonies
+- C. Budihal's production evidence excludes any pastoral activity
+- D. The enclosure at Utnur proves every southern Neolithic village was permanently occupied
+
+#### Q42
+
+Which inference about Sanganakallu–Kupgal is better supported than a purely “temporary cowpen” classification?
+
+- A. Its quarrying evidence excludes habitation from the same regional landscape
+- B. Settlement, stone quarrying/ground-stone production and cattle-linked activity indicate a multi-activity landscape
+- C. Its cattle evidence fixes a single function for quarrying and ground-stone tools
+- D. Its ground-stone production establishes year-round occupation at every nearby camp
+
+#### Q43
+
+A carnelian bead is recovered at a Malwa village near copper objects. Which inference needs the fewest unobserved links?
+
+- A. The village's location fixes the geological source of both materials without compositional tests
+- B. The bead and copper's co-deposition establishes one workshop for both crafts
+- C. The assemblage invites a resource-and-exchange inquiry; provenance and production stages require further analysis
+- D. Shared object styles establish direct exchange with a single named distant centre
+
+#### Q44
+
+Spindle whorls and fibre traces are found at a Chalcolithic village. Which inference is calibrated to the evidence?
+
+- A. Spindle whorls demonstrate full-time specialist workshops rather than household production
+- B. Fibre traces by themselves establish export rather than local textile use
+- C. Missing loom fragments rule out weaving even where components could have decayed
+- D. Spinning or textile work is plausible; its specialist scale and exchange organisation require wider contextual evidence
+
+#### Q45
+
+A region has small hamlets, a large fortified settlement and a nearby copper-working locality. What is the strongest first-order interpretation?
+
+- A. A differentiated settlement network is plausible, but hierarchy of political authority needs additional evidence
+- B. The fortified site necessarily directed production at every copper-working locality
+- C. The copper-working locality must rank above the fortified settlement because metalwork is specialised
+- D. All hamlets' lower rank demonstrates political subordination rather than differing site functions
+
+#### Q46
+
+Arrange the broad textbook Chalcolithic culture horizons from earlier to later, while allowing for regional overlap:
+
+- A. Jorwe → Kayatha → Malwa
+- B. Kayatha → Malwa → Jorwe
+- C. Malwa → Jorwe → Kayatha
+- D. Jorwe → Malwa → Kayatha
+
+#### Q47
+
+Consider: (1) OCP settlements and copper-hoard distributions partly overlap; (2) an unstratified hoard can securely date the associated habitation phase; (3) Ganeshwar-Jodhpura must not be folded into OCP merely because both concern copper. Which set is defensible?
+
+- A. The partial overlap and the proposed secure dating, but not the Ganeshwar distinction
+- B. The proposed secure dating and the Ganeshwar distinction, but not the partial overlap
+- C. The partial overlap and the Ganeshwar distinction, but not the proposed secure dating
+- D. The partial overlap, the proposed secure dating and the Ganeshwar distinction
+
+#### Q48
+
+Isotope data suggest one buried person's non-local childhood, and DNA yields a limited population comparison. Which claim is least warranted?
+
+- A. Mobility may be explored against burial context and local isotopic baselines
+- B. Restricted DNA sampling limits inferences about population relationships
+- C. Both proxies can refine a life-history hypothesis without supplying a social label
+- D. The combined results uniquely establish that person's language and named ethnic identity
+
+#### Q49
+
+A Chalcolithic layer contains charred wheat, millet and a few wild-plant remains but no quantified sampling strategy. Which conclusion is justified?
+
+- A. These plants occurred in the recovered assemblage; their dietary shares or yields cannot be calculated from mere presence
+- B. The most numerous recovered grain necessarily contributed the greatest share of all consumed calories
+- C. Several crop species prove cultivation supplied all food at the settlement
+- D. Wild-plant traces alone establish that crops were never grown locally
+
+#### Q50
+
+Two child burials in a western Maharashtra Chalcolithic cemetery have different numbers of ornaments. Which sequence of inference is sound?
+
+- A. Ornaments → inherited caste title → fully documented state
+- B. Differential mortuary treatment → possible unequal access or status → test with household and wider cemetery patterns
+- C. Equal age → identical living conditions despite unequal grave assemblages
+- D. Buried ornaments → proof of one named theology for the whole region
+
+#### Q51
+
+A Late Jorwe centre becomes smaller while several neighbouring hamlets persist and evidence for mobile herding grows. Which use of “decline” is most exact?
+
+- A. All production and regional population certainly disappeared
+- B. The entire Indian Chalcolithic ended simultaneously
+- C. Central-site contraction may coexist with redistribution and pastoral adaptation; track each variable separately
+- D. A shrinking centre proves drought was the sole cause without independent climatic dates
+
+#### Q52
+
+An excavator finds copper, microliths and pottery in one securely dated village phase. Which interpretation avoids an artificial technological ladder?
+
+- A. Copper's presence dates all associated microliths to an earlier residual phase
+- B. The combined toolkit proves that copper replaced stone for every cutting task
+- C. The presence of pottery establishes permanent residence throughout the phase
+- D. Co-occurrence can represent task-specific technologies and mixed subsistence; contextual analysis must establish their uses
+
+## SEPARATE MCQ ANSWER KEY AND OPTION-WISE EXPLANATIONS
+
+#### Q1
 
 **Answer: A.**
 
@@ -32,15 +495,7 @@ Which combination is the strongest diagnostic basis for calling a context Neolit
 
 > **Examiner trap 1:** Do not let one visually distinctive artefact substitute for an assemblage.
 
-
 #### Q2
-
-Which sequence best preserves the evidentiary distinction in archaeobotany?
-
-- A. Domestication -> presence -> cultivation -> dependence
-- B. Presence -> possible use -> cultivation -> domestication -> economic dependence
-- C. Cultivation -> presence -> migration -> ethnicity
-- D. Pottery -> grain -> state taxation -> urbanism
 
 **Answer: B.**
 
@@ -53,15 +508,7 @@ Which sequence best preserves the evidentiary distinction in archaeobotany?
 
 > **Examiner trap 2:** A plant at a site is not automatically a domesticated staple.
 
-
 #### Q3
-
-Which evidence most strongly supports managed herding rather than occasional hunting?
-
-- A. One cattle tooth without context
-- B. A species name in an old excavation report
-- C. A patterned age-sex kill profile with pens, dung and secure chronology
-- D. A figurine interpreted as a bull
 
 **Answer: C.**
 
@@ -74,15 +521,7 @@ Which evidence most strongly supports managed herding rather than occasional hun
 
 > **Examiner trap 3:** Domestication is an assemblage-level population process.
 
-
 #### Q4
-
-Why is pottery not a universal marker of the beginning of farming?
-
-- A. Because all early farmers used metal vessels
-- B. Because pottery appears only in cities
-- C. Because pottery cannot store grain
-- D. Because food production may precede pottery and pottery can occur among foragers
 
 **Answer: D.**
 
@@ -95,15 +534,7 @@ Why is pottery not a universal marker of the beginning of farming?
 
 > **Examiner trap 4:** Associated innovations need not begin together.
 
-
 #### Q5
-
-What is the safest inference from substantial storage facilities in a village?
-
-- A. Delayed consumption and organised access to reserves became important
-- B. A centralized tax state certainly existed
-- C. All households possessed equal surplus
-- D. The settlement had abandoned mobility completely
 
 **Answer: A.**
 
@@ -116,15 +547,7 @@ What is the safest inference from substantial storage facilities in a village?
 
 > **Examiner trap 5:** Storage supports planning; it does not automatically prove the state.
 
-
 #### Q6
-
-Which geographical statement about Mehrgarh is correct?
-
-- A. It is in the Kashmir Valley of present-day India
-- B. It lies in the Kachi plain of Baluchistan in present-day Pakistan
-- C. It is a middle-Ganga rice site in Bihar
-- D. It is a southern ash-mound settlement in Karnataka
 
 **Answer: B.**
 
@@ -137,15 +560,7 @@ Which geographical statement about Mehrgarh is correct?
 
 > **Examiner trap 6:** Historical subcontinental relevance must not erase present-day geography.
 
-
 #### Q7
-
-Which pair is correctly matched?
-
-- A. Burzahom - rock-cut shrine complex
-- B. Gufkral - Mature Harappan dockyard
-- C. Burzahom - pit structures and strong bone-stone tool evidence
-- D. Mehrgarh - eastern Indian post-built settlement
 
 **Answer: C.**
 
@@ -158,15 +573,7 @@ Which pair is correctly matched?
 
 > **Examiner trap 7:** Pit structures are not rock-cut temples.
 
-
 #### Q8
-
-What is the best use of the Burzahom human-animal burial evidence?
-
-- A. It proves one named religion
-- B. It establishes a universal dog cult
-- C. It demonstrates hereditary kingship
-- D. It supports mortuary and human-animal relationship questions while leaving belief uncertain
 
 **Answer: D.**
 
@@ -179,15 +586,7 @@ What is the best use of the Burzahom human-animal burial evidence?
 
 > **Examiner trap 8:** Burial treatment is observable; theology is reconstructed cautiously.
 
-
 #### Q9
-
-Which statement about Koldihwa-Mahagara is most defensible?
-
-- A. They are central to rice debates, but dates and wild/domestic identification require caution
-- B. They conclusively prove the world's first domesticated rice
-- C. They are copper-mining settlements in Rajasthan
-- D. They contain no continuity from Mesolithic technology
 
 **Answer: A.**
 
@@ -200,15 +599,7 @@ Which statement about Koldihwa-Mahagara is most defensible?
 
 > **Examiner trap 9:** Earliest claims must survive context, date and taxonomy checks.
 
-
 #### Q10
-
-Why is Lahuradewa significant?
-
-- A. It proves that all rice farming diffused from Mehrgarh
-- B. It strengthens an early middle-Ganga rice-cultivation pathway
-- C. It is the type-site of Jorwe pottery
-- D. It is a Kashmir pit-dwelling site
 
 **Answer: B.**
 
@@ -221,15 +612,7 @@ Why is Lahuradewa significant?
 
 > **Examiner trap 10:** A regional centre does not by itself prove one independent domestication event.
 
-
 #### Q11
-
-Which description best fits Chirand?
-
-- A. A Khetri-belt copper workshop
-- B. A south Indian ash mound only
-- C. A Bihar site with a long Neolithic-Chalcolithic sequence, bone tools and mixed riverine subsistence
-- D. A Mature Harappan port
 
 **Answer: C.**
 
@@ -242,15 +625,7 @@ Which description best fits Chirand?
 
 > **Examiner trap 11:** Site identification should combine region, period and diagnostic evidence.
 
-
 #### Q12
-
-How should similarities between Daojali Hading tools and eastern Asian forms be used?
-
-- A. As proof of one race
-- B. As proof of a known language
-- C. As a precise date without samples
-- D. As a contact or comparison hypothesis requiring independent chronological evidence
 
 **Answer: D.**
 
@@ -263,15 +638,7 @@ How should similarities between Daojali Hading tools and eastern Asian forms be 
 
 > **Examiner trap 12:** Similarity generates a testable question, not an ethnic conclusion.
 
-
 #### Q13
-
-Which statement best characterises the South Indian Neolithic?
-
-- A. Cattle pastoralism, cultivation, ground stone, pottery and varied mobility could coexist
-- B. It was uniformly urban and literate
-- C. It lacked all crop production
-- D. Every site was a temporary cowpen
 
 **Answer: A.**
 
@@ -284,15 +651,7 @@ Which statement best characterises the South Indian Neolithic?
 
 > **Examiner trap 13:** Cattle prominence must not erase agriculture or settlement diversity.
 
-
 #### Q14
-
-Which interpretation of ash mounds is most defensible?
-
-- A. They were all volcanic deposits
-- B. They reflect repeated burning of cattle-linked accumulations, with function assessed site by site
-- C. They were all royal crematoria
-- D. They prove a single pan-Indian ritual
 
 **Answer: B.**
 
@@ -305,15 +664,7 @@ Which interpretation of ash mounds is most defensible?
 
 > **Examiner trap 14:** Do not force one function onto every ash mound.
 
-
 #### Q15
-
-Which relation between pastoralism and agriculture is best supported?
-
-- A. They are mutually exclusive stages
-- B. Pastoralism necessarily disappears with storage
-- C. They can interact through manure, fodder, traction, mobility and risk-spreading
-- D. Cultivation proves permanent immobility
 
 **Answer: C.**
 
@@ -326,15 +677,7 @@ Which relation between pastoralism and agriculture is best supported?
 
 > **Examiner trap 15:** Treat livelihood strategies as a portfolio, not a binary.
 
-
 #### Q16
-
-What does 'Chalcolithic' most precisely indicate?
-
-- A. An iron-using urban civilization
-- B. A society using only copper tools
-- C. A single ethnic culture across India
-- D. Copper or copper-alloy objects coexisting with stone and other technologies
 
 **Answer: D.**
 
@@ -347,15 +690,7 @@ What does 'Chalcolithic' most precisely indicate?
 
 > **Examiner trap 16:** Copper presence does not mean total metal replacement.
 
-
 #### Q17
-
-Which association is correct for Ahar-Banas?
-
-- A. South-eastern Rajasthan, black-and-red ware, copper and farming-herding settlements
-- B. Kashmir, pit dwellings and bone harpoons
-- C. Assam, shouldered celts and uncertain dates
-- D. Western Deccan, Jorwe ware and Inamgaon
 
 **Answer: A.**
 
@@ -368,15 +703,7 @@ Which association is correct for Ahar-Banas?
 
 > **Examiner trap 17:** Keep Ahar-Banas distinct from both Harappan cities and other Chalcolithic cultures.
 
-
 #### Q18
-
-Why is Ganeshwar-Jodhpura important?
-
-- A. It was the capital of a Harappan empire
-- B. It links a copper-craft concentration to the Khetri resource zone and wider contacts
-- C. It proves OCP and copper hoards were one people
-- D. It is the earliest rice site in the Ganga plain
 
 **Answer: B.**
 
@@ -389,15 +716,7 @@ Why is Ganeshwar-Jodhpura important?
 
 > **Examiner trap 18:** Ore proximity and exchanged forms do not prove political absorption.
 
-
 #### Q19
-
-Which inference from rich Kayatha deposits is strongest?
-
-- A. They prove an egalitarian village
-- B. They prove a hereditary monarchy
-- C. They suggest unequal access or affluent households while the institution of rank remains uncertain
-- D. They prove every copper object was locally mined
 
 **Answer: C.**
 
@@ -410,15 +729,7 @@ Which inference from rich Kayatha deposits is strongest?
 
 > **Examiner trap 19:** Inequality is easier to infer than the exact institution producing it.
 
-
 #### Q20
-
-Which sequence is most appropriate for central-western Chalcolithic comparison?
-
-- A. Harappan -> Mesolithic -> Kayatha
-- B. Jorwe -> Lower Palaeolithic -> Malwa
-- C. Daojali Hading -> Savalda -> Burzahom
-- D. Kayatha and Malwa horizons compared with Savalda and later Deccan sequences site by site
 
 **Answer: D.**
 
@@ -431,15 +742,7 @@ Which sequence is most appropriate for central-western Chalcolithic comparison?
 
 > **Examiner trap 20:** Do not turn relative cultural sequences into one mechanical all-India ladder.
 
-
 #### Q21
-
-Which feature is associated with Malwa culture?
-
-- A. Painted pottery and substantial villages at sites such as Navdatoli and Eran
-- B. Pit dwellings at Burzahom
-- C. Shouldered celts at Daojali Hading alone
-- D. Rock-cut shrines at Ganeshwar
 
 **Answer: A.**
 
@@ -452,15 +755,7 @@ Which feature is associated with Malwa culture?
 
 > **Examiner trap 21:** Use culture-site-marker triads rather than isolated site names.
 
-
 #### Q22
-
-What is the safest statement about Savalda?
-
-- A. It is identical to Mature Harappan urbanism
-- B. It is an early western-Deccan Chalcolithic horizon in the Tapi region, distinguished by its own ceramic sequence
-- C. It is a Kashmir aceramic phase
-- D. It is a north-eastern Neolithic migration marker
 
 **Answer: B.**
 
@@ -473,15 +768,7 @@ What is the safest statement about Savalda?
 
 > **Examiner trap 22:** Savalda is a distinct horizon, not a spare label for Jorwe.
 
-
 #### Q23
-
-Which statement best describes Jorwe culture?
-
-- A. It is restricted to one copper mine
-- B. It is defined by iron technology
-- C. It is a western-Deccan Chalcolithic tradition with painted pottery and varied settlement hierarchy
-- D. Every Jorwe settlement was an urban centre
 
 **Answer: C.**
 
@@ -494,15 +781,7 @@ Which statement best describes Jorwe culture?
 
 > **Examiner trap 23:** A wide distribution does not imply one polity or one settlement type.
 
-
 #### Q24
-
-What does Inamgaon most securely demonstrate?
-
-- A. A deciphered script and palace bureaucracy
-- B. A universal chiefdom model for India
-- C. A direct Harappan colony
-- D. A detailed rural Chalcolithic sequence with houses, storage, craft, burials and changing subsistence
 
 **Answer: D.**
 
@@ -515,15 +794,7 @@ What does Inamgaon most securely demonstrate?
 
 > **Examiner trap 24:** Use Inamgaon deeply but never generalise it to every Jorwe site.
 
-
 #### Q25
-
-Which statement best fits eastern Chalcolithic evidence?
-
-- A. Rice, fish, animals, regional pottery and post-built houses can form a mixed village assemblage
-- B. Copper abundance alone defines social complexity
-- C. All eastern sites copied Ahar pottery
-- D. Sparse architecture proves absence of organisation
 
 **Answer: A.**
 
@@ -536,15 +807,7 @@ Which statement best fits eastern Chalcolithic evidence?
 
 > **Examiner trap 25:** Material scarcity in excavation is not automatic social simplicity.
 
-
 #### Q26
-
-How should differential grave goods be interpreted?
-
-- A. As proof of a named afterlife doctrine
-- B. As evidence of unequal treatment or possible status, tested against age, context and wider patterns
-- C. As proof that every village had kings
-- D. As evidence that burials were economically irrelevant
 
 **Answer: B.**
 
@@ -557,15 +820,7 @@ How should differential grave goods be interpreted?
 
 > **Examiner trap 26:** Mortuary difference permits graded inference, not certainty about belief or rank.
 
-
 #### Q27
-
-Which comparison between Harappan and non-Harappan Chalcolithic communities is sound?
-
-- A. Both were identical because both used copper
-- B. Every rural culture was a failed city
-- C. They could overlap and exchange while differing in urban scale, writing, planning and institutional integration
-- D. Harappan decline ended all farming villages
 
 **Answer: C.**
 
@@ -578,15 +833,7 @@ Which comparison between Harappan and non-Harappan Chalcolithic communities is s
 
 > **Examiner trap 27:** Overlap does not mean identity; difference does not mean isolation.
 
-
 #### Q28
-
-What is required before drought is used to explain settlement abandonment?
-
-- A. A dry climate anywhere in India
-- B. One abandoned house
-- C. A later literary memory
-- D. Chronological alignment, a plausible mechanism and comparison with social-economic alternatives
 
 **Answer: D.**
 
@@ -599,15 +846,7 @@ What is required before drought is used to explain settlement abandonment?
 
 > **Examiner trap 28:** Environmental correlation must be converted into a dated mechanism.
 
-
 #### Q29
-
-Which statement best describes transition toward Iron Age and Early Historic formations?
-
-- A. Iron, copper-stone and older village practices overlapped unevenly across regions
-- B. Iron instantly eliminated copper and stone everywhere
-- C. Every Chalcolithic village became an Early Historic city
-- D. The transition proves one migrating population
 
 **Answer: A.**
 
@@ -620,15 +859,7 @@ Which statement best describes transition toward Iron Age and Early Historic for
 
 > **Examiner trap 29:** Later technology does not create a universal replacement boundary.
 
-
 #### Q30
-
-What is an 'archaeological culture'?
-
-- A. A biologically homogeneous race
-- B. A recurring association of material traits used analytically in a region and period
-- C. A proven language community
-- D. A state with known borders
 
 **Answer: B.**
 
@@ -641,15 +872,7 @@ What is an 'archaeological culture'?
 
 > **Examiner trap 30:** Culture labels classify patterns; they do not name ready-made peoples.
 
-
 #### Q31
-
-Which site-region-feature set is correctly matched?
-
-- A. Daojali Hading - Maharashtra - Jorwe ware
-- B. Inamgaon - Kashmir - pit dwelling sequence
-- C. Piklihal - southern Deccan - cattle-linked habitation and ash-mound landscape
-- D. Gilund - Assam - shouldered celts
 
 **Answer: C.**
 
@@ -662,15 +885,7 @@ Which site-region-feature set is correctly matched?
 
 > **Examiner trap 31:** Site questions are solved through the full region-period-marker triad.
 
-
 #### Q32
-
-Which inference about social organisation is least defensible?
-
-- A. Public works can imply coordinated labour
-- B. Craft concentrations can suggest specialisation
-- C. Unequal storage can suggest differentiated access
-- D. A large house automatically proves a hereditary chiefdom
 
 **Answer: D.**
 
@@ -682,6 +897,266 @@ Which inference about social organisation is least defensible?
 - **D:** Correct: House size alone cannot identify hereditary political office.
 
 > **Examiner trap 32:** Chiefdom is a model requiring converging settlement, production and mortuary evidence.
+
+#### Q33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: Contrasting outcomes under similar conditions rule out a sufficient single-factor explanation.
+- **B:** Incorrect: Similar opportunity is not a biological domestication sequence in either basin.
+- **C:** Incorrect: Indirect population estimates do not date adoption or demonstrate abandonment.
+- **D:** Incorrect: Plants, techniques and people can move separately, while local experimentation remains possible.
+
+> **Examiner trap 33:** An enabling condition is not proof of a sufficient cause.
+
+#### Q34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Neither a processing trace nor crop morphology quantifies subsistence reliance.
+- **B:** Correct: The two proxies answer different questions, and associated context remains essential.
+- **C:** Incorrect: Starch signals processing, not necessarily cultivation; rachis traits can test domestication.
+- **D:** Incorrect: Morphology alone dates neither initial cultivation nor the crop's proportion in meals.
+
+> **Examiner trap 34:** Distinguish a plant-use proxy from a biological domestication trait.
+
+#### Q35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Depictions reveal representation, not demographic control of living animals.
+- **B:** Incorrect: Hunters can also select juveniles; age is not a domestic/wild diagnosis.
+- **C:** Correct: Independent demographic, contextual and chronological indicators distinguish management more convincingly.
+- **D:** Incorrect: An aceramic context says little by itself about herd ownership.
+
+> **Examiner trap 35:** A managed-looking kill pattern needs independent checks against selective hunting.
+
+#### Q36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Gufkral's pottery cannot date all Burzahom structures independently.
+- **B:** Incorrect: Shared climate cannot force identical architectural timing at separate sites.
+- **C:** Incorrect: Burzahom's bone tools cannot negate an aceramic phase at Gufkral.
+- **D:** Correct: The sites illuminate different aspects of a Kashmir valley sequence, with chronology checked locally.
+
+> **Examiner trap 36:** Complementary sites are not necessarily synchronised site plans.
+
+#### Q37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: Aceramic does not mean container-free, and ceramic change is not the whole settlement history.
+- **B:** Incorrect: Statement 2 falsely makes pottery and cultivation start together.
+- **C:** Incorrect: Statement 2 is false and this combination wrongly discards the container distinction.
+- **D:** Incorrect: Including statement 2 converts a possible sequence into a universal rule.
+
+> **Examiner trap 37:** “Aceramic” describes pottery, not the absence of storage technology.
+
+#### Q38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: A displaced impression cannot support an exact earliest date or domesticated status.
+- **B:** Correct: Identification of a plant must be kept separate from its date, cultivation and morphology.
+- **C:** Incorrect: A disturbed layer weakens this inference, not all evidence for site subsistence.
+- **D:** Incorrect: Independent domestication requires a biological sequence, not a single impression.
+
+> **Examiner trap 38:** A secure species identification is not automatically a secure stratigraphic date.
+
+#### Q39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Rice at both sites cannot establish a shared ceramic chronology.
+- **B:** Incorrect: Craft evidence at one Bihar site does not define every Bengal settlement.
+- **C:** Correct: This compares economic themes while keeping site-specific assemblages distinct.
+- **D:** Incorrect: Another site's post-built houses do not date Chirand's entire sequence.
+
+> **Examiner trap 39:** Shared rice-based adaptation does not create a single eastern archaeological culture.
+
+#### Q40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Similar objects do not identify the language of their producers.
+- **B:** Incorrect: Chronology cannot be borrowed solely from typological resemblance.
+- **C:** Incorrect: Shared forms could arise through contact, imitation or independent adaptation.
+- **D:** Correct: Uneven north-eastern dating makes local context the prerequisite to wider comparison.
+
+> **Examiner trap 40:** A map of artefact similarities is not a dated migration route.
+
+#### Q41
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: Context can identify formation and activity but cannot universalise motivation.
+- **B:** Incorrect: No evidence here demonstrates monarchy or a shared mortuary ceremony.
+- **C:** Incorrect: Production and cattle activity can coexist in a mixed settlement.
+- **D:** Incorrect: An enclosure does not establish year-round habitation across a region.
+
+> **Examiner trap 41:** Do not confuse evidence for how ash accumulated with why people burned it.
+
+#### Q42
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Quarrying and settlement may coexist in a single regional landscape.
+- **B:** Correct: The site's production and habitation associations extend beyond a single stock-keeping facility.
+- **C:** Incorrect: Cattle and stone production need not serve the same single purpose.
+- **D:** Incorrect: Production in a landscape does not establish residence duration at all sites.
+
+> **Examiner trap 42:** Cattle prominence does not erase lithic production and settlement.
+
+#### Q43
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Findspot does not fix raw-material origin without provenance analysis.
+- **B:** Incorrect: Two materials in one deposit need not come from a single workshop.
+- **C:** Correct: Material presence establishes a question, not the entire extraction-to-discard chain.
+- **D:** Incorrect: Similar styles can spread through intermediate exchange or imitation.
+
+> **Examiner trap 43:** A commodity's destination does not reveal every upstream producer or controller.
+
+#### Q44
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Whorls occur in household as well as specialist production.
+- **B:** Incorrect: Fibre in a village need not represent an exported product.
+- **C:** Incorrect: Perishable components and preservation bias preclude that negative inference.
+- **D:** Correct: Tools indicate an activity more readily than its production scale or market structure.
+
+> **Examiner trap 44:** Evidence of a craft is not evidence of its political economy.
+
+#### Q45
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: Variation in scale and function supports a network hypothesis without identifying a state.
+- **B:** Incorrect: Fortification alone does not establish control of another site's workshops.
+- **C:** Incorrect: Specialised craft function need not imply a higher settlement rank.
+- **D:** Incorrect: Smaller sites can differ in function without demonstrable subordination.
+
+> **Examiner trap 45:** Settlement hierarchy is not synonymous with a documented hierarchy of rulers.
+
+#### Q46
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: It places the broadly later Jorwe horizon ahead of Kayatha and Malwa.
+- **B:** Correct: Sharma's broad bands begin with Kayatha, followed by Malwa and then Jorwe; ranges overlap.
+- **C:** Incorrect: Kayatha cannot be moved to the end of the stated textbook sequence.
+- **D:** Incorrect: It reverses the broad culture-horizon order completely.
+
+> **Examiner trap 46:** Ordering broad textbook horizons does not date every site or exclude overlap.
+
+#### Q47
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Statement 2 assumes the missing stratigraphic association and neglects statement 3.
+- **B:** Incorrect: Statement 2 is false and the documented partial overlap in statement 1 remains valid.
+- **C:** Correct: The distributions can overlap without equating hoards, OCP habitation and the Khetri-zone complex.
+- **D:** Incorrect: A stray hoard has no secure contextual date for a particular habitation layer.
+
+> **Examiner trap 47:** Geographic co-occurrence cannot replace excavated association.
+
+#### Q48
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Local baselines are precisely what can make the mobility inference testable.
+- **B:** Incorrect: Sample limits are a necessary qualification to any population comparison.
+- **C:** Incorrect: Combined evidence can inform life history without identifying social identity.
+- **D:** Correct: Neither chemical signature nor genome uniquely supplies a language or archaeological ethnicity.
+
+> **Examiner trap 48:** Biological mobility is not linguistic or ethnic identification.
+
+#### Q49
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: Recovery establishes occurrence but not proportional consumption, productivity or total livelihood.
+- **B:** Incorrect: Uneven sampling and preservation prevent counts from equalling calorie shares.
+- **C:** Incorrect: Several crops can coexist with gathering, hunting or fishing.
+- **D:** Incorrect: Wild plants in a deposit do not rule out cultivation on nearby fields.
+
+> **Examiner trap 49:** Excavated presence is not a measure of economic dependence.
+
+#### Q50
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Neither inherited office nor a state is identified by grave ornaments.
+- **B:** Correct: The observable contrast warrants a cautious social hypothesis and independent tests.
+- **C:** Incorrect: Similar age does not cancel the material difference or settle its explanation.
+- **D:** Incorrect: Mortuary objects alone do not disclose a region-wide doctrine.
+
+> **Examiner trap 50:** Children's grave differences strengthen an inequality question, not a caste diagnosis.
+
+#### Q51
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Persistent hamlets and herding contradict automatic total disappearance.
+- **B:** Incorrect: One regional centre cannot date an all-India end.
+- **C:** Correct: It separates settlement size from population, mobility and livelihood changes.
+- **D:** Incorrect: Environmental causation requires a dated local mechanism and alternatives.
+
+> **Examiner trap 51:** State which variable declined before claiming societal collapse.
+
+#### Q52
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Secure association precludes automatically declaring stone residual.
+- **B:** Incorrect: Copper and stone can serve different tasks simultaneously.
+- **C:** Incorrect: Pottery can coexist with mobility and intermittent occupation.
+- **D:** Correct: Secure association defeats a universal replacement sequence without revealing every tool's function.
+
+> **Examiner trap 52:** Stratified coexistence is evidence against a mandatory stone-to-copper replacement rule.
 
 
 ## PYQS AND ANSWER PRACTICE

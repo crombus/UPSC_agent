@@ -105,9 +105,12 @@ SOCIAL SECURITY
 | LFPR / WPR / UR | Labour Force Participation Rate / Worker Population Ratio / Unemployment Rate |
 | ps+ss / CWS / CDS | Principal plus subsidiary status / Current Weekly Status / Current Daily Status |
 | TVET / RPL | Technical and Vocational Education and Training / Recognition of Prior Learning |
-| MSDE / NSDC / SSC | Ministry of Skill Development and Entrepreneurship / National Skill Development Corporation / Sector Skill Council |
-| PMKVY / PM-NAPS / JSS | Pradhan Mantri Kaushal Vikas Yojana / Pradhan Mantri National Apprenticeship Promotion Scheme / Jan Shikshan Sansthan |
-| EPFO / EPF / EPS / EDLI | Employees' Provident Fund Organisation / Provident Fund / Pension Scheme / Deposit Linked Insurance |
+| MSDE / NSDC / SSC | Ministry of Skill Development and Entrepreneurship / National Skill Development
+   Corporation / Sector Skill Council |
+| PMKVY / PM-NAPS / JSS | Pradhan Mantri Kaushal Vikas Yojana / Pradhan Mantri National Apprenticeship Promotion
+   Scheme / Jan Shikshan Sansthan |
+| EPFO / EPF / EPS / EDLI | Employees' Provident Fund Organisation / Provident Fund / Pension Scheme / Deposit
+   Linked Insurance |
 | ESIC | Employees' State Insurance Corporation |
 | OSHWC | Occupational Safety, Health and Working Conditions |
 | UAN | Universal Account Number; context distinguishes EPFO and e-Shram usage |
@@ -140,4 +143,5 @@ SOCIAL SECURITY
 6. Measure quantity, hours, real earnings, security, productivity and inclusion.
 7. Conclude with employment-rich structural transformation, not scheme listing.
 
-**Boundary:** Poverty/inclusion belongs Topic 23 | platform-market structure Topic 24 | MSME tools Topic 17 | inflation mechanics Topic 3.
+**Boundary:** Poverty/inclusion belongs Topic 23 | platform-market structure Topic 24 | MSME tools Topic 17 |
+   inflation mechanics Topic 3.

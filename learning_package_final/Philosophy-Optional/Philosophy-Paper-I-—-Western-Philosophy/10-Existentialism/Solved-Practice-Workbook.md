@@ -13,247 +13,117 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 14 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Original MCQs — 24 core, 8 remedial, 2 targeted extensions | 34 |
+| Question-specific option explanations | 136 |
+| Unique examiner traps | 34 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 16 |
+| Original solved Mains models — including an added faith-and-ethics problem | 7 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so that the answer cannot be spotted by shape.
+1. Attempt the diagnostic MCQs without notes, then read every option explanation, including those for the options you rejected.
 2. Work the eight remedial drills only after the core set. They target the provenance, dating, translation and ownership errors that cost marks every year in this clause.
 3. Attempt each previous-year part under time before reading its solution. Decode the directive first: three of the fourteen owned parts hand you a **statement**, and for those the first move is always to locate the sentence inside its own author's system.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band.
+4. Write all seven original models, including the added Kierkegaardian faith-and-ethics problem; marks guide analytical scope.
 5. Check every answer against the traps: the ownership of the slogan, the pseudonym attribution, the non-moral reading of authenticity, and the difference in kind between fear and anxiety.
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+### 34 original MCQs — 24 core diagnostics, 8 remedial drills and 2 targeted 2026 extensions
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated, and no cycle such as `ABCD` can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Existence and Essence; Choice, Responsibility and Authentic Existence; Being-in-the-world and Temporality* — together with the family-label warning and the ownership of the slogan, "truth is subjectivity" and its dialectical complement, the structural form of the anti-Hegelian argument, the three spheres with their characteristic collapses, the leap against mediation, the teleological suspension staged by Johannes de Silentio, anxiety as objectless and despair as a misrelation, indirect communication and the printed attribution rule, the paper-knife argument and the exact place of atheism in it, Heidegger's repudiation and *Being and Time* §9, the in-itself/for-itself distinction and both halves of the non-self-identity formula, nihilation and the impossible synthesis, non-choice as choice, the three moods of the 1945 lecture, the facticity/transcendence structure of bad faith, the self-deception paradox and its pre-reflective solution, motive-constitution against determinism, the Look and shame as recognition, and the two failing strategies that yield conflict. The eight remedial drills attack the confusions that cost marks every year: the provenance of the slogans, the unfinished state of *Being and Time*, the correct rendering of *das Nichts nichtet*, the Lowrie/Hong split over *Angest*, the non-moral status of authenticity, the corrected reading of "hell is other people", the derived rather than defective status of clock-time, and the ownership fence around Topics 02, 05, 07 and 09, Nietzsche and Paper II.
 
-#### MCQ 1. What kind of thing "existentialism" is
+#### MCQ 1. Three distinct sources of existential responsibility
 
-Which statement most accurately describes the standing of the term "existentialism" in relation to the three thinkers printed in the syllabus?
+An agent says, "I simply followed the role expected of me, so I cannot be answerable for this choice." Which diagnosis correctly distinguishes the three thinkers without treating existentialism as a single shared method?
 
-A. It is a retrospective family label that only Sartre accepted and defined for himself.
+A. Kierkegaard questions whether universal social roles express the existing individual's commitment; Heidegger diagnoses absorption in the "they"; Sartre sees the denial of one's situated freedom as bad faith.
+B. Kierkegaard calls every socially shared commitment inauthentic; Heidegger argues choice is unconstrained by thrownness; Sartre says roles eliminate freedom.
+C. Kierkegaard, Heidegger and Sartre all diagnose this as failure to exercise one identical faculty of unconstrained choice; their vocabulary alone differs.
+D. Kierkegaard makes God's command publicly demonstrable, Heidegger defines authentic role-conformity as conscience, and Sartre restricts bad faith to deliberate false statements.
 
-B. It is a school founded by Kierkegaard, systematised by Heidegger and popularised in France by Sartre after the Second World War.
+#### MCQ 2. A shared word, unlike accounts of authenticity
 
-C. It is a method of philosophical analysis that all three thinkers applied to different subject-matters while sharing its procedural rules.
+Both Heidegger and Sartre speak of evading one's possibilities. Which comparative claim best respects the different mechanisms?
 
-D. It is a doctrine whose founding thesis is that human beings have no nature, a thesis each of the three defended in his own vocabulary.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Kierkegaard died in 1855 and never met the word; Heidegger explicitly denied the label in the "Letter on Humanism"; only Sartre accepted it and, in the 1945 lecture published in 1946, defined it.
-- **B:** Incorrect: it invents a lineage. Kierkegaard founded nothing called existentialism, and Heidegger's fundamental ontology is not a systematisation of Kierkegaard's religious writings.
-- **C:** Incorrect: there is no shared procedure — Kierkegaard writes indirectly through pseudonyms, Heidegger conducts an existential analytic, Sartre a phenomenological ontology.
-- **D:** Incorrect: the "no nature" thesis in that form is Sartre's, and Heidegger repudiated precisely the humanistic reading it presupposes.
-
-**Examiner trap 1:** Writing "the existentialists held that…" assumes a shared doctrine, and the assumption is refuted by two of the three printed thinkers, one of whom denied the label in print and one of whom died before it existed.
-
-#### MCQ 2. Which printed limb belongs almost entirely to one thinker
-
-The syllabus prints three limbs: *Existence and Essence*; *Choice, Responsibility and Authentic Existence*; *Being-in-the-world and Temporality*. Which claim about their distribution is correct?
-
-A. The first limb is Heidegger's, since only he analyses the essence of Dasein as lying in its existence.
-
-B. The second limb is Kierkegaard's, since only he treats choice as a qualitative leap rather than as deliberation.
-
-C. The third limb is almost entirely Heidegger's, with Sartre entering only as a contrast.
-
-D. All three limbs are shared equally, which is why the syllabus names three thinkers rather than one.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the first limb turns on Sartre's slogan and on Heidegger's repudiation of it, so it cannot be assigned to Heidegger alone.
-- **B:** Incorrect: choice, responsibility and authenticity are handled by all three in incompatible registers — faith, freedom and finitude.
-- **C:** Correct: being-in-the-world and temporality are Heideggerian technical structures; Sartre's ecstatic temporality is read off freedom, not off Being, and Kierkegaard's "moment" is a different concept entirely.
-- **D:** Incorrect: the asymmetry is exactly why 2019 Q3(a) and 2022 Q2(a) are Heidegger questions while 2024 Q4(a) is a comparison question.
-
-**Examiner trap 2:** Distributing the three limbs evenly across the three thinkers produces an answer that spends a third of a Heidegger question on Kierkegaard, which is the commonest way of failing 2022 Q2(a).
+A. Heidegger's authenticity requires transcending the social world, while Sartre's bad faith can be cured by merely stating an honest psychological report.
+B. Heidegger's falling into the public "they" is a mode of being-in-the-world; Sartre's bad faith is a self-deceptive flight between facticity and transcendence, neither of which removes situated choice.
+C. Heidegger's being-towards-death and Sartre's freedom describe identical existential structures, so either alone supplies the complete explanation of bad faith.
+D. Heidegger's falling and Sartre's bad faith are both moral vices freely chosen by an unconstrained subject prior to any social involvement.
 
 #### MCQ 3. What "truth is subjectivity" asserts
 
 The thesis that truth is subjectivity is argued in the *Concluding Unscientific Postscript* (1846). What does it assert?
 
-A. That no proposition is true independently of someone's believing it, so that objective truth is an illusion produced by grammar.
-
-B. That for ethical and religious truth the mode of appropriation is decisive, without denying objective truth in logic or history.
-
-C. That the passion with which a belief is held is evidence for its truth, so that sincerity functions as a criterion of correctness.
-
-D. That truth is whatever the existing individual finds it useful to affirm in the situation in which he is placed.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Climacus denies the *sufficiency* of objective truth for existential matters, not its existence; logic and history retain their objective standing.
-- **B:** Correct: the thesis concerns the *how* of appropriation — infinite passionate inwardness, commitment, risk — for truths that must be lived rather than merely known.
-- **C:** Incorrect: passion is the mode of relation, not evidence; treating it as a criterion converts the thesis into the relativism it is designed to avoid.
-- **D:** Incorrect: usefulness is a pragmatist criterion nowhere present in the *Postscript*, and it makes existential truth a matter of convenience.
-
-**Examiner trap 3:** Reading the thesis as relativism makes its companion sentence "subjectivity is untruth" unintelligible, which is the internal evidence that the relativist reading cannot be right.
+A. That truth is whatever the existing individual finds it useful to affirm in the situation in which he is placed.
+B. That no proposition is true independently of someone's believing it, so that objective truth is an illusion produced by grammar.
+C. That for ethical and religious truth the mode of appropriation is decisive, without denying objective truth in logic or history.
+D. That the passion with which a belief is held is evidence for its truth, so that sincerity functions as a criterion of correctness.
 
 #### MCQ 4. The function of "subjectivity is untruth"
 
 Why does Climacus also assert that subjectivity is untruth?
 
-A. Because the existing subject stands in sin and finitude and therefore needs the leap.
-
-B. Because subjective certainty is unreliable and must always be corrected by objective inquiry conducted in a community of enquirers.
-
-C. Because the pseudonymous form requires each thesis to be balanced by its opposite in order to preserve the reader's freedom to choose.
-
-D. Because passion distorts judgement, so that the more inwardly a belief is held the less likely it is to correspond to how things are.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the existing subject is not identical with the eternal, and the recognition of that non-identity is what makes the leap necessary rather than optional.
-- **B:** Incorrect: the sentence is not an epistemological caution about unreliable feelings; it is a claim about the subject's standing before God.
-- **C:** Incorrect: this makes the sentence a formal device of the method rather than a substantive theological claim, which reverses the order of explanation.
-- **D:** Incorrect: it converts a doctrine about sin and finitude into a psychological generalisation about bias.
-
-**Examiner trap 4:** Quoting "truth is subjectivity" without its complement leaves the relativism charge unanswered; quoting both, and explaining why a relativist could not use the second, answers it in one sentence.
+A. Because subjective certainty is unreliable and must always be corrected by objective inquiry conducted in a community of enquirers.
+B. Because the pseudonymous form requires each thesis to be balanced by its opposite in order to preserve the reader's freedom to choose.
+C. Because passion distorts judgement, so that the more inwardly a belief is held the less likely it is to correspond to how things are.
+D. Because the existing subject stands in sin and finitude and therefore needs the leap.
 
 #### MCQ 5. The structure of Kierkegaard's objection to Hegel
 
 Which formulation best captures the *structural* form of Kierkegaard's objection to Hegel's system?
 
-A. The system is internally inconsistent, since its categories cannot be derived from one another without circularity at the decisive transitions.
-
-B. The system is empirically false, since history does not in fact display the rational development the dialectic requires it to display.
-
-C. No system can contain the one who builds it: a logical system is possible, an existential system is not.
-
-D. The system is morally objectionable, since it subordinates the suffering of individuals to the achievements of the world-spirit.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: internal inconsistency is a Hegelian-scholarship dispute; Kierkegaard's point holds even if the derivations succeed.
-- **B:** Incorrect: an empirical objection would be answerable by better history, whereas Kierkegaard's objection concerns what any completed system must omit.
-- **C:** Correct: the systematiser must still exist, choose and die, so the existing individual is the one item the system cannot absorb without cancelling it.
-- **D:** Incorrect: the moral complaint is a consequence some critics draw, not the argument Kierkegaard actually mounts.
-
-**Examiner trap 5:** Reducing the critique to "Kierkegaard disliked abstraction" removes the argument and leaves a temperament, which is why the 2023 part asks specifically how he argues *in favour of the individual as the essence of spirit*.
+A. No system can contain the one who builds it: a logical system is possible, an existential system is not.
+B. The system is morally objectionable, since it subordinates the suffering of individuals to the achievements of the world-spirit.
+C. The system is internally inconsistent, since its categories cannot be derived from one another without circularity at the decisive transitions.
+D. The system is empirically false, since history does not in fact display the rational development the dialectic requires it to display.
 
 #### MCQ 6. The three spheres and their limits
 
 Which pairing of sphere and characteristic collapse is correct throughout?
 
-A. Aesthetic — guilt; ethical — paradox; religious — boredom.
-
-B. Aesthetic — paradox; ethical — boredom; religious — guilt.
-
-C. Aesthetic — guilt; ethical — boredom; religious — paradox.
-
-D. Aesthetic — boredom; ethical — guilt; religious — paradox.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: it inverts the sequence entirely; boredom belongs to a life organised around the interesting, not to faith.
-- **B:** Incorrect: paradox is the structure of faith, which is the religious sphere, and it cannot characterise the aesthetic.
-- **C:** Incorrect: guilt arises from the impossibility of perfectly fulfilling a universal ethical demand, so it belongs to the ethical sphere.
-- **D:** Correct: nothing binds in the aesthetic, so the self fragments; the ethical demand cannot be perfectly met, so guilt arises; faith is not rational or universal, so it lives as paradox.
-
-**Examiner trap 6:** Listing the spheres without their internal collapses makes them look like preferences; naming the collapse of each is what shows why a leap to the next becomes intelligible.
+A. Aesthetic — guilt; ethical — boredom; religious — paradox.
+B. Aesthetic — boredom; ethical — guilt; religious — paradox.
+C. Aesthetic — guilt; ethical — paradox; religious — boredom.
+D. Aesthetic — paradox; ethical — boredom; religious — guilt.
 
 #### MCQ 7. The leap, and the phrase "leap of faith"
 
 Which statement about the transition between spheres and the phrase "leap of faith" is correct?
 
 A. The transition is a Hegelian mediation performed at a higher level, and "leap of faith" is Kierkegaard's own term for it in *Fear and Trembling*.
-
 B. The transition is a gradual psychological maturation, and "leap of faith" translates the Danish *Troens Spring* exactly as Kierkegaard wrote it.
-
 C. The transition is a qualitative leap, and "leap of faith" is the English tradition's fused phrase rather than a Kierkegaardian term.
-
 D. The transition is a leap only from the ethical to the religious, and elsewhere the movement between spheres proceeds by ordinary deliberation.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the leap is defined against mediation, and the fused English phrase is not Kierkegaard's.
-- **B:** Incorrect: maturation would make the movement continuous, which is precisely what "qualitative" denies.
-- **C:** Correct: Kierkegaard writes of *the leap* and of faith; the compound phrase belongs to the English reception, and saying so in one clause discharges the provenance caution.
-- **D:** Incorrect: the spheres are qualitatively distinct throughout, and relapse from any of them is always possible.
-
-**Examiner trap 7:** Presenting the spheres as a developmental ladder implies that one grows out of the aesthetic, whereas Kierkegaard's point is that one leaps and can always fall back.
 
 #### MCQ 8. Who analyses Abraham, and what the analysis does
 
 *Fear and Trembling* (1843) treats Abraham under the heading of the teleological suspension of the ethical. Which statement is correct?
 
-A. It is written by Johannes de Silentio, who admires faith without possessing it, and it stages the paradox rather than licensing private revelation.
-
-B. It is written by Kierkegaard under his own name, and it establishes that a direct divine command may override the moral law whenever the individual is sincere.
-
-C. It is written by Johannes Climacus, whose humorist standpoint allows him to describe the knight of faith from within the religious sphere itself.
-
-D. It is written by Anti-Climacus, and it shows that the ethical is permanently cancelled once the individual enters the religious sphere of existence.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the pseudonym's name records his position — he can describe Abraham but not understand him — and the text presents the paradox of faith rather than a moral permission.
-- **B:** Incorrect: the book is pseudonymous, and reading it as a licence for private revelation is the standard misuse Kierkegaard scholarship warns against.
-- **C:** Incorrect: Climacus writes the *Fragments* and the *Postscript* and describes himself as not a Christian; he is not the author of *Fear and Trembling*.
-- **D:** Incorrect: Anti-Climacus writes *The Sickness unto Death* (1849) and *Practice in Christianity* (1850), and the ethical is suspended in relation to a higher telos, not abolished.
-
-**Examiner trap 8:** Attributing pseudonymous books to Kierkegaard ignores an instruction he printed himself in the "First and Last Declaration", where he asks that the pseudonym be quoted instead.
+A. It is written by Kierkegaard under his own name, and it establishes that a direct divine command may override the moral law whenever the individual is sincere.
+B. It is written by Johannes Climacus, whose humorist standpoint allows him to describe the knight of faith from within the religious sphere itself.
+C. It is written by Anti-Climacus, and it shows that the ethical is permanently cancelled once the individual enters the religious sphere of existence.
+D. It is written by Johannes de Silentio, who admires faith without possessing it, and it stages the paradox rather than licensing private revelation.
 
 #### MCQ 9. What makes anxiety philosophically disclosive
 
 On the analysis given in *The Concept of Anxiety* (1844), what distinguishes anxiety from fear?
 
-A. Anxiety is more intense than fear, and its greater intensity overwhelms the capacity to identify what is threatening.
-
-B. Anxiety concerns future harms while fear concerns present ones, so the two differ only in the temporal location of the object that each of them takes.
-
-C. Anxiety has no determinate object, so what it discloses is not an entity but possibility — freedom's own "possibility of being able".
-
-D. Anxiety is a mood while fear is an emotion, and moods differ from emotions in lacking any intentional structure whatever.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: intensity would make the two differ in degree, whereas the analysis requires a difference in kind.
-- **B:** Incorrect: fear can be directed at future harms and remain fear; the distinguishing feature is objectlessness, not tense.
-- **C:** Correct: because there is no entity for anxiety to be about, what it discloses must be a structure, and Vigilius Haufniensis names that structure the dizziness of freedom.
-- **D:** Incorrect: it introduces a mood/emotion taxonomy the text does not use, and denying all intentional structure would make anxiety mere confusion.
-
-**Examiner trap 9:** Describing anxiety as "fear without a clear cause" preserves the object and merely makes it obscure, which loses the argument that an objectless state must be disclosing something other than an object.
+A. Anxiety has no determinate object, so what it discloses is not an entity but possibility — freedom's own "possibility of being able".
+B. Anxiety is a mood while fear is an emotion, and moods differ from emotions in lacking any intentional structure whatever.
+C. Anxiety is more intense than fear, and its greater intensity overwhelms the capacity to identify what is threatening.
+D. Anxiety concerns future harms while fear concerns present ones, so the two differ only in the temporal location of the object that each of them takes.
 
 #### MCQ 10. Despair, as *The Sickness unto Death* defines it
 
 What is despair, on the analysis given by Anti-Climacus in 1849?
 
 A. A prolonged emotional condition of hopelessness that follows repeated failure to realise the projects one has chosen.
-
 B. A misrelation in the relation the self is — the self failing to be itself before the power that established it.
-
 C. The recognition that the ethical demand cannot be fulfilled, which drives the individual out of the ethical sphere.
-
 D. The mood in which the possibility of one's own death first becomes an issue for the existing individual as such.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: despair on this account may be entirely unfelt, so it cannot be identified with an emotional condition.
-- **B:** Correct: the self is defined as a relation that relates itself to itself and thereby to the power that established it, and despair is a fault within that relation.
-- **C:** Incorrect: that describes the collapse of the ethical sphere into guilt, which is a different analysis in a different pseudonymous work.
-- **D:** Incorrect: this conflates despair with anxiety, and imports a Heideggerian concern that Kierkegaard's text does not carry.
-
-**Examiner trap 10:** Treating despair as sadness makes the claim that despair is universal look like an empirical exaggeration, when it is a structural claim about the self's relation to its ground.
 
 #### MCQ 11. Why the doctrine forces the method
 
@@ -266,57 +136,369 @@ Consider the following claims about indirect communication.
 
 Which of the above are correct?
 
-A. 1 and 2 only.
-
-B. 2 and 3 only.
-
-C. 1, 2 and 4 only.
-
-D. 1, 3 and 4 only.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: it includes the biographical motive, which is not the argument, and omits the two steps that make the argument work.
-- **B:** Incorrect: it retains the biographical motive and drops the premise about what kind of truth is at stake.
-- **C:** Incorrect: 4 is correct but 2 is not, and dropping 3 removes the step in which the falsification actually occurs.
-- **D:** Correct: the three steps form the argument — the kind of truth, the falsification that direct transmission would cause, and the Socratic form that avoids it.
-
-**Examiner trap 11:** Explaining pseudonymity by the author's temperament or circumstances converts an argument into a biography, and loses the point that the form is deduced from the doctrine.
+A. 2 and 3 only.
+B. 1, 2 and 4 only.
+C. 1, 3 and 4 only.
+D. 1 and 2 only.
 
 #### MCQ 12. The "First and Last Declaration"
 
 What does Kierkegaard do in the "First and Last Declaration" appended to the *Postscript* (1846)?
 
-A. He renounces the pseudonymous authorship entirely and asks readers to disregard the books published under invented names.
-
-B. He acknowledges the pseudonymous books while calling himself their "author's author" and asks that citations name the pseudonym.
-
-C. He explains that the pseudonyms were adopted to avoid prosecution, and announces that he will henceforth publish only under his own name.
-
-D. He identifies each pseudonym with a stage of his own biography, so that the works may be read as a spiritual autobiography.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: he does not renounce them; he acknowledges authorship while refusing to be quoted as their speaker.
-- **B:** Correct: he describes himself as only the "author's author", a prompter (*souffleur*) who produced characters, and asks that the pseudonym's name be quoted instead of his own.
-- **C:** Incorrect: no such legal motive is stated, and the pseudonymous works continue after 1846 with Anti-Climacus in 1849 and 1850.
-- **D:** Incorrect: the pseudonyms are existence-possibilities rather than autobiographical stages, and Anti-Climacus is placed deliberately above the author himself.
-
-**Examiner trap 12:** Citing "Kierkegaard in *Fear and Trembling*" is not merely loose but contrary to a printed instruction, so the correct attribution is a mark available at no cost.
+A. He explains that the pseudonyms were adopted to avoid prosecution, and announces that he will henceforth publish only under his own name.
+B. He identifies each pseudonym with a stage of his own biography, so that the works may be read as a spiritual autobiography.
+C. He renounces the pseudonymous authorship entirely and asks readers to disregard the books published under invented names.
+D. He acknowledges the pseudonymous books while calling himself their "author's author" and asks that citations name the pseudonym.
 
 #### MCQ 13. The exact role of atheism in the paper-knife argument
 
 In Sartre's argument for "existence precedes essence", what role does atheism play?
 
 A. It is a premise: because there is no divine artisan, there is no antecedent design for the human being.
-
 B. It is a conclusion: the absence of any fixed human nature shows that no creator could have conceived one in advance.
-
 C. It is an illustration: the artisan is introduced only to make the structure of essence and existence vivid to a lay audience.
-
 D. It is a corollary: once freedom is recognised as absolute, the existence of a determining God is seen to be incompatible with it.
+
+#### MCQ 14. Heidegger on essence and existence
+
+Which statement correctly reports Heidegger's relation to the formula "existence precedes essence"?
+
+A. He is silent about it, since the "Letter on Humanism" concerns the history of Being and does not discuss Sartre's formulations.
+B. He repudiates it as a humanistic inversion: §9 makes an ontological claim, and Sartre stays inside the metaphysics of subjectivity.
+C. He accepts it as a compressed statement of *Being and Time* §9, while regretting its use in a popular lecture rather than a technical work.
+D. He accepts its negative half — that there is no fixed human nature — while rejecting the positive claim that man creates himself.
+
+#### MCQ 15. What kind of distinction the in-itself/for-itself distinction is
+
+Sartre distinguishes being-in-itself from being-for-itself. What kind of distinction is this?
+
+A. A distinction between the world as science describes it and the world as it appears within ordinary pre-scientific experience.
+B. A distinction between matter and mind, corresponding to the two substances of Cartesian dualism in a phenomenological idiom.
+C. An ontological distinction between being that is self-identical and being that is not what it is and is what it is not.
+D. An epistemological distinction between what can be known directly and what can be known only through reflective self-awareness.
+
+#### MCQ 16. Both halves of the formula
+
+"Consciousness is what it is not and is not what it is." Which reading gives both halves correctly?
+
+A. "Is what it is not" — it cannot coincide with its past; "is not what it is" — it is defined by a future it does not yet possess.
+B. "Is what it is not" — it misdescribes itself in bad faith; "is not what it is" — it can always revise the description it has given.
+C. "Is what it is not" — it depends on the Other for the being it has; "is not what it is" — it refuses the fixed identity that the Other's look confers upon it.
+D. "Is what it is not" — it is defined by a future it does not yet possess; "is not what it is" — it cannot coincide with its past or facticity.
+
+#### MCQ 17. Nihilation and the impossible synthesis
+
+Which statement about nihilation and the for-itself's desire is correct?
+
+A. Nihilation introduces nothingness into being, and the for-itself desires to become self-identical while remaining conscious — an impossible ideal.
+B. Nihilation is the act by which the for-itself denies the existence of the world outside consciousness, and its desire is to sustain that denial indefinitely.
+C. Nihilation is the negation of one's past, and the for-itself desires to be free of every past so that no facticity constrains it.
+D. Nihilation destroys the in-itself, and the for-itself's desire is to complete that destruction so that only consciousness remains.
+
+#### MCQ 18. Non-choice
+
+"I can always choose, but I ought to know that if I do not choose, I am still choosing." What does this assert?
+
+A. That some situations offer no acceptable options, in which case refusing to act is the only responsible course available.
+B. That deferral and conformity are themselves stances, so that the attempt to escape choosing is already a choice.
+C. That deliberation must terminate in a decision, since an indefinitely postponed deliberation is not a genuine deliberation at all.
+D. That every choice, however trivial, has consequences for others and therefore carries a responsibility one cannot decline.
+
+#### MCQ 19. The three moods of the 1945 lecture
+
+In *Existentialism Is a Humanism*, what do anguish, abandonment and despair respectively name?
+
+A. Fear of death; loss of religious belief; recognition that most projects fail.
+B. Vertigo before freedom; the loss of community; resignation in the face of history.
+C. Vertigo before one's own freedom; the absence of any *a priori* value; acting without reliance on outcomes beyond one's action.
+D. Guilt before others; the absence of divine forgiveness; the impossibility of ever completing any project that one has begun in the course of a finite life.
+
+#### MCQ 20. The structure of bad faith
+
+Which formulation states the structure of bad faith correctly?
+
+A. It is the deliberate assertion of what one knows to be false, directed at oneself rather than at another person.
+B. It is the repression of an unwelcome truth, which then continues to operate on conduct from outside conscious awareness.
+C. It is the failure to act on values one sincerely holds, and it is therefore a species of weakness of will rather than of deception.
+D. It is the collapse of the tension between facticity and transcendence, by living as though only one dimension were real.
+
+#### MCQ 21. The self-deception paradox
+
+How does Sartre answer the objection that self-deception is impossible because the deceiver must know what the deceived does not?
+
+A. By denying that consciousness is self-identical, so that truth and its denial can be held in a single pre-reflective, non-thetic stance.
+B. By dividing the person into a censoring agency and a censored one, which is precisely what the analysis of the unconscious was designed to supply.
+C. By arguing that the deception is temporally staggered, so that one knows at one moment and has genuinely forgotten at the next.
+D. By treating bad faith as a limiting ideal that is never fully achieved, so that the paradox describes something no one actually does.
+
+#### MCQ 22. Freedom and determinism
+
+On Sartre's account, why does a motive not determine action?
+
+A. Because motives conflict with one another, and where several motives are present none of them can be singled out as the determining one.
+B. Because a motive acquires action-guiding force only through the meaning conferred on it, and that conferral is itself an act of the for-itself.
+C. Because motives are mental events without causal power, and only physical events can stand in causal relations to bodily movements.
+D. Because the for-itself is able to suspend any of its motives by an act of will, and any motive that is suspended has by that very fact been overridden.
+
+#### MCQ 23. The Look
+
+What does Sartre's analysis of the Look establish?
+
+A. That other minds exist, since the behaviour of others cannot be explained without attributing consciousness to them.
+B. That the body is primarily an object for others, and only secondarily the medium of one's own practical engagement.
+C. That shame is by its structure shame before someone, so that the Other is lived rather than inferred as the condition of my having an outside.
+D. That social roles are imposed on us from without, so that the self is simply a product of the expectations other people direct towards it over time.
+
+#### MCQ 24. Why conflict follows
+
+Sartre concludes that conflict is the original meaning of being-for-others. Which pair of reasons supports that conclusion?
+
+A. Others compete for scarce goods, and scarcity is the permanent background against which all human relations are formed.
+B. Others judge us by standards we did not set, and no standard set by another can be authoritative for a free being.
+C. Others are opaque to us, and the impossibility of knowing another's inner life makes stable cooperation permanently insecure.
+D. Assimilating the Other's freedom destroys the freedom it seeks, and objectifying him destroys the recognition it wants.
+
+#### MCQ 25. Remedial drill — where the slogans come from
+
+Which statement about the provenance of Sartre's best-known phrases is correct?
+
+A. Both phrases come from the lecture *Existentialism Is a Humanism*, delivered in October 1945 and published in 1946.
+B. "Existence precedes essence" is from *Being and Nothingness* (1943) and "condemned to be free" from the *Critique of Dialectical Reason* (1960).
+C. Both phrases were coined by Sartre's critics and adopted by him only after the label "existentialism" had become current in France.
+D. "Condemned to be free" and "existence precedes essence" both appear in *Being and Nothingness* (1943), and the 1945 lecture merely repeats them.
+
+#### MCQ 26. Remedial drill — the state of *Being and Time*
+
+Which statement about *Being and Time* (1927) is correct?
+
+A. It was published in two volumes, the second of which appeared in 1929 under the title "What is Metaphysics?".
+B. It was published unfinished: only Divisions One and Two of Part One appeared, and Division III was never published.
+C. It was published unfinished, and Heidegger completed it in the Stambaugh edition of 1996 with the addition of the missing division.
+D. It was published complete in 1927, and the later "turn" abandoned its conclusions in favour of a new starting point in language.
+
+#### MCQ 27. Remedial drill — rendering *das Nichts nichtet*
+
+In "What is Metaphysics?" (1929) Heidegger writes *Das Nichts nichtet*. Which rendering is acceptable?
+
+A. "Nothingness annihilates", which conveys the destructive force the German verb is intended to express.
+B. "There is nothing", which avoids the neologism while retaining the sense of the sentence for an English reader.
+C. "Nothing noths", or equivalently "the nothing nothings".
+D. "Nothing noughts", which preserves the play on the arithmetical zero in the German original.
+
+#### MCQ 28. Remedial drill — translating *Angest*
+
+Why should an answer name a translation, or use the Danish word once, when discussing Kierkegaard's *Angest*?
+
+A. Because Kierkegaard used the term inconsistently across his works, so each occurrence has to be dated before it can be translated.
+B. Because the German *Angst* and the Danish *Angest* are false friends, and the two words name unrelated states.
+C. Because the Danish term has no English equivalent, so any translation misrepresents the concept it names.
+D. Because Lowrie renders it "dread" and Hong renders it "anxiety", and the book's English title differs accordingly.
+
+#### MCQ 29. Remedial drill — the status of authenticity
+
+Which statement about Heidegger's *Eigentlichkeit* is correct?
+
+A. It is an existential modification, not a moral category; Dasein is inauthentic proximally and for the most part, and this is structural.
+B. It is a political stance, since resoluteness is said to require commitment to a historical community and to the destiny it has inherited.
+C. It is a moral virtue whose opposite, inauthenticity, is a culpable failure to live according to one's own standards.
+D. It is a psychological achievement in which anxiety is mastered and the fear of death is finally overcome.
+
+#### MCQ 30. Remedial drill — "hell is other people"
+
+How should the line from *Huis clos* (1944) be handled in an answer?
+
+A. Quote it as evidence that Sartre abandoned the ontology of *Being and Nothingness* in favour of a literary treatment of the same themes.
+B. Quote it, then give Sartre's own correction: it describes twisted relations, and the characters are dead and therefore fixed.
+C. Quote it as Sartre's considered view that human relations are inherently poisonous and cannot be improved by any effort.
+D. Avoid it entirely, since a line from a play carries no philosophical weight and cannot be cited in a philosophy answer.
+
+#### MCQ 31. Remedial drill — ordinary time
+
+Which statement about Heidegger's treatment of ordinary or "vulgar" time is correct?
+
+A. Clock-time is primordial, and Dasein's ecstatic temporality is a subjective distortion of the objective now-series.
+B. Clock-time is an illusion produced by falling, and authentic Dasein dispenses with measurement altogether.
+C. Clock-time is a derived interpretation reached through world-time and public dating; "vulgar" names a levelling, not a moral defect.
+D. Clock-time and primordial temporality are two wholly independent structures, and neither of them is derivable from the other in either direction.
+
+#### MCQ 32. Remedial drill — the ownership fence
+
+Which item is correctly assigned to this syllabus clause rather than to another owner?
+
+A. The theory of essences and free imaginative variation, since Heidegger and Sartre both employ phenomenological method.
+B. The dialectical method and the doctrine of Absolute Spirit, since Kierkegaard's whole position is defined against them.
+C. The doctrine of eternal recurrence and the will to power, since Nietzsche is standardly grouped with the existentialists in survey histories.
+D. Heidegger's rejection of the transcendental ego, since the burden of that argument is his own account of being-in-the-world.
+
+#### MCQ 33. Sartre's "nothing" against Husserl
+
+Sartre's description of consciousness as nothingness chiefly means that consciousness
+
+A. nihilates given being by distancing itself from its facts and projecting possibilities, beyond Husserl's description of object-givenness.
+B. is wholly independent of factual constraints, so freedom consists in escaping one's situation whenever one negates it.
+C. is the absence of a real object in perception, so nihilating activity occurs only in mistaken expectation or hallucination.
+D. is a determinate absence first disclosed in reflection, so the for-itself cannot be conscious of itself before it judges what it lacks.
+
+#### MCQ 34. Authenticity within the everyday
+
+Which answer best interprets Heideggerian authenticity?
+
+A. The anonymous "they" remains the authentic norm when a choice is publicly approved, because shared recognition confirms self-ownership.
+B. Anticipatory resoluteness appropriates finite possibilities within thrown being-in-the-world rather than escaping everyday relations.
+C. Anxiety guarantees authenticity by disclosing death as one's ownmost possibility even if the person never commits to a situated choice.
+D. Resoluteness requires escaping common practices, since the public world can give no intelligible possibilities for a self to own.
+
+### Why this MCQ count fits this clause
+
+**34, coverage-driven:** the first two former label/printed-limb questions now compare **actual responsibility and authenticity arguments**. Further diagnostics separate Kierkegaardian subjectivity/faith and pseudonymous method, Sartrean freedom, facticity, bad faith and the Other, and Heideggerian being-in-the-world, care, mortality and time. Two added discriminators address the 2026 nothingness/Husserl and authenticity questions. Sixteen owned PYQs and seven originals supply full critical comparison, including faith's ethical limits; reworded identification questions would add no depth.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the diagnoses converge on an evasion but differ in their grounds—subjective appropriation, owned finite possibility, and self-deception about freedom within facticity.
+- **B:** Incorrect: Kierkegaard can affirm ethical commitments, Heidegger's possibilities are thrown and situated, and Sartrean roles never automatically cancel responsibility.
+- **C:** Incorrect: the three accounts differ over faith, finitude and freedom, not merely synonyms for an identical metaphysical faculty.
+- **D:** Incorrect: faith is not publicly demonstrable for Kierkegaard, conscience does not equate to conformism for Heidegger, and Sartrean bad faith need not be an intentional lie.
+
+**Examiner trap 1:** The label "existentialist" is not an argument; keep the source of responsibility and each philosopher's account of situation distinct.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Heidegger's authentic mode inhabits the shared world; Sartre's bad faith is not overcome by a single declarative avowal.
+- **B:** Correct: different diagnoses relate shared practices and situated freedom differently without confusing falling with Sartrean bad faith.
+- **C:** Incorrect: Heidegger's mortality-structured care cannot simply substitute for Sartre's account of conscious self-division.
+- **D:** Incorrect: falling is a structural everyday possibility, not automatically a freely chosen moral vice, and neither thinker posits an unsituated self.
+
+**Examiner trap 2:** An overlap in the word "inauthentic" does not establish that Sartre's bad faith is Heidegger's falling under another name.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: usefulness is a pragmatist criterion nowhere present in the *Postscript*, and it makes existential truth a matter of convenience.
+- **B:** Incorrect: Climacus denies the *sufficiency* of objective truth for existential matters, not its existence; logic and history retain their objective standing.
+- **C:** Correct: the thesis concerns the *how* of appropriation — infinite passionate inwardness, commitment, risk — for truths that must be lived rather than merely known.
+- **D:** Incorrect: passion is the mode of relation, not evidence; treating it as a criterion converts the thesis into the relativism it is designed to avoid.
+
+**Examiner trap 3:** Reading the thesis as relativism makes its companion sentence "subjectivity is untruth" unintelligible, which is the internal evidence that the relativist reading cannot be right.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the sentence is not an epistemological caution about unreliable feelings; it is a claim about the subject's standing before God.
+- **B:** Incorrect: this makes the sentence a formal device of the method rather than a substantive theological claim, which reverses the order of explanation.
+- **C:** Incorrect: it converts a doctrine about sin and finitude into a psychological generalisation about bias.
+- **D:** Correct: the existing subject is not identical with the eternal, and the recognition of that non-identity is what makes the leap necessary rather than optional.
+
+**Examiner trap 4:** Quoting "truth is subjectivity" without its complement leaves the relativism charge unanswered; quoting both, and explaining why a relativist could not use the second, answers it in one sentence.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the systematiser must still exist, choose and die, so the existing individual is the one item the system cannot absorb without cancelling it.
+- **B:** Incorrect: the moral complaint is a consequence some critics draw, not the argument Kierkegaard actually mounts.
+- **C:** Incorrect: internal inconsistency is a Hegelian-scholarship dispute; Kierkegaard's point holds even if the derivations succeed.
+- **D:** Incorrect: an empirical objection would be answerable by better history, whereas Kierkegaard's objection concerns what any completed system must omit.
+
+**Examiner trap 5:** Reducing the critique to "Kierkegaard disliked abstraction" removes the argument and leaves a temperament, which is why the 2023 part asks specifically how he argues *in favour of the individual as the essence of spirit*.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: guilt arises from the impossibility of perfectly fulfilling a universal ethical demand, so it belongs to the ethical sphere.
+- **B:** Correct: nothing binds in the aesthetic, so the self fragments; the ethical demand cannot be perfectly met, so guilt arises; faith is not rational or universal, so it lives as paradox.
+- **C:** Incorrect: it inverts the sequence entirely; boredom belongs to a life organised around the interesting, not to faith.
+- **D:** Incorrect: paradox is the structure of faith, which is the religious sphere, and it cannot characterise the aesthetic.
+
+**Examiner trap 6:** Listing the spheres without their internal collapses makes them look like preferences; naming the collapse of each is what shows why a leap to the next becomes intelligible.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the leap is defined against mediation, and the fused English phrase is not Kierkegaard's.
+- **B:** Incorrect: maturation would make the movement continuous, which is precisely what "qualitative" denies.
+- **C:** Correct: Kierkegaard writes of *the leap* and of faith; the compound phrase belongs to the English reception, and saying so in one clause discharges the provenance caution.
+- **D:** Incorrect: the spheres are qualitatively distinct throughout, and relapse from any of them is always possible.
+
+**Examiner trap 7:** Presenting the spheres as a developmental ladder implies that one grows out of the aesthetic, whereas Kierkegaard's point is that one leaps and can always fall back.
+
+#### MCQ 8 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the book is pseudonymous, and reading it as a licence for private revelation is the standard misuse Kierkegaard scholarship warns against.
+- **B:** Incorrect: Climacus writes the *Fragments* and the *Postscript* and describes himself as not a Christian; he is not the author of *Fear and Trembling*.
+- **C:** Incorrect: Anti-Climacus writes *The Sickness unto Death* (1849) and *Practice in Christianity* (1850), and the ethical is suspended in relation to a higher telos, not abolished.
+- **D:** Correct: the pseudonym's name records his position — he can describe Abraham but not understand him — and the text presents the paradox of faith rather than a moral permission.
+
+**Examiner trap 8:** Attributing pseudonymous books to Kierkegaard ignores an instruction he printed himself in the "First and Last Declaration", where he asks that the pseudonym be quoted instead.
+
+#### MCQ 9 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: because there is no entity for anxiety to be about, what it discloses must be a structure, and Vigilius Haufniensis names that structure the dizziness of freedom.
+- **B:** Incorrect: it introduces a mood/emotion taxonomy the text does not use, and denying all intentional structure would make anxiety mere confusion.
+- **C:** Incorrect: intensity would make the two differ in degree, whereas the analysis requires a difference in kind.
+- **D:** Incorrect: fear can be directed at future harms and remain fear; the distinguishing feature is objectlessness, not tense.
+
+**Examiner trap 9:** Describing anxiety as "fear without a clear cause" preserves the object and merely makes it obscure, which loses the argument that an objectless state must be disclosing something other than an object.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: despair on this account may be entirely unfelt, so it cannot be identified with an emotional condition.
+- **B:** Correct: the self is defined as a relation that relates itself to itself and thereby to the power that established it, and despair is a fault within that relation.
+- **C:** Incorrect: that describes the collapse of the ethical sphere into guilt, which is a different analysis in a different pseudonymous work.
+- **D:** Incorrect: this conflates despair with anxiety, and imports a Heideggerian concern that Kierkegaard's text does not carry.
+
+**Examiner trap 10:** Treating despair as sadness makes the claim that despair is universal look like an empirical exaggeration, when it is a structural claim about the self's relation to its ground.
+
+#### MCQ 11 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: it retains the biographical motive and drops the premise about what kind of truth is at stake.
+- **B:** Incorrect: 4 is correct but 2 is not, and dropping 3 removes the step in which the falsification actually occurs.
+- **C:** Correct: the three steps form the argument — the kind of truth, the falsification that direct transmission would cause, and the Socratic form that avoids it.
+- **D:** Incorrect: it includes the biographical motive, which is not the argument, and omits the two steps that make the argument work.
+
+**Examiner trap 11:** Explaining pseudonymity by the author's temperament or circumstances converts an argument into a biography, and loses the point that the form is deduced from the doctrine.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: no such legal motive is stated, and the pseudonymous works continue after 1846 with Anti-Climacus in 1849 and 1850.
+- **B:** Incorrect: the pseudonyms are existence-possibilities rather than autobiographical stages, and Anti-Climacus is placed deliberately above the author himself.
+- **C:** Incorrect: he does not renounce them; he acknowledges authorship while refusing to be quoted as their speaker.
+- **D:** Correct: he describes himself as only the "author's author", a prompter (*souffleur*) who produced characters, and asks that the pseudonym's name be quoted instead of his own.
+
+**Examiner trap 12:** Citing "Kierkegaard in *Fear and Trembling*" is not merely loose but contrary to a printed instruction, so the correct attribution is a mark available at no cost.
+
+#### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -328,127 +510,67 @@ D. It is a corollary: once freedom is recognised as absolute, the existence of a
 
 **Examiner trap 13:** Missing the premissory role of atheism makes it impossible to explain why Kierkegaard, a Christian, can be an existentialist while rejecting the slogan.
 
-#### MCQ 14. Heidegger on essence and existence
-
-Which statement correctly reports Heidegger's relation to the formula "existence precedes essence"?
-
-A. He accepts it as a compressed statement of *Being and Time* §9, while regretting its use in a popular lecture rather than a technical work.
-
-B. He accepts its negative half — that there is no fixed human nature — while rejecting the positive claim that man creates himself.
-
-C. He is silent about it, since the "Letter on Humanism" concerns the history of Being and does not discuss Sartre's formulations.
-
-D. He repudiates it as a humanistic inversion: §9 makes an ontological claim, and Sartre stays inside the metaphysics of subjectivity.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: he does not accept it at all; §9 is expressly distinguished from the Sartrean reading.
-- **B:** Incorrect: the objection is not to one half of the formula but to the framework that generates both halves.
-- **C:** Incorrect: the "Letter on Humanism", written 1946 and published 1947, addresses Sartre's slogan directly.
-- **D:** Correct: reversing the priority of essence and existence leaves man at the centre, which for Heidegger is the metaphysics the Being-question is meant to displace.
-
-**Examiner trap 14:** Quoting §9 as evidence that Heidegger agrees with Sartre uses the very sentence Heidegger wrote the "Letter on Humanism" to reclaim.
-
-#### MCQ 15. What kind of distinction the in-itself/for-itself distinction is
-
-Sartre distinguishes being-in-itself from being-for-itself. What kind of distinction is this?
-
-A. A distinction between matter and mind, corresponding to the two substances of Cartesian dualism in a phenomenological idiom.
-
-B. An ontological distinction between being that is self-identical and being that is not what it is and is what it is not.
-
-C. An epistemological distinction between what can be known directly and what can be known only through reflective self-awareness.
-
-D. A distinction between the world as science describes it and the world as it appears within ordinary pre-scientific experience.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the in-itself is not matter and the for-itself is not mind; a mental state considered as a completed fact would be in-itself.
-- **B:** Correct: the contrast is between full self-coincidence and constitutive non-coincidence, which is why nihilation rather than substance is the operative concept.
-- **C:** Incorrect: it is not a distinction between modes of knowing but between modes of being.
-- **D:** Incorrect: that is a contrast between attitudes to one world, not a division of being into two regions.
+- **A:** Incorrect: the "Letter on Humanism", written 1946 and published 1947, addresses Sartre's slogan directly.
+- **B:** Correct: reversing the priority of essence and existence leaves man at the centre, which for Heidegger is the metaphysics the Being-question is meant to displace.
+- **C:** Incorrect: he does not accept it at all; §9 is expressly distinguished from the Sartrean reading.
+- **D:** Incorrect: the objection is not to one half of the formula but to the framework that generates both halves.
+
+**Examiner trap 14:** Quoting §9 as evidence that Heidegger agrees with Sartre uses the very sentence Heidegger wrote the "Letter on Humanism" to reclaim.
+
+#### MCQ 15 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: that is a contrast between attitudes to one world, not a division of being into two regions.
+- **B:** Incorrect: the in-itself is not matter and the for-itself is not mind; a mental state considered as a completed fact would be in-itself.
+- **C:** Correct: the contrast is between full self-coincidence and constitutive non-coincidence, which is why nihilation rather than substance is the operative concept.
+- **D:** Incorrect: it is not a distinction between modes of knowing but between modes of being.
 
 **Examiner trap 15:** Translating the pair as "matter and mind" makes the impossible synthesis of a *pour-soi-en-soi* look like a mind-body union rather than the contradictory ideal of a self-identical consciousness.
 
-#### MCQ 16. Both halves of the formula
+#### MCQ 16 — solution
 
-"Consciousness is what it is not and is not what it is." Which reading gives both halves correctly?
+**Answer: D.**
 
-A. "Is what it is not" — it is defined by a future it does not yet possess; "is not what it is" — it cannot coincide with its past or facticity.
+**Option explanations:**
+- **A:** Incorrect: it swaps the halves, which destroys the connection between the first half and the project.
+- **B:** Incorrect: bad faith is an *application* of the formula, not its meaning; the formula states an ontological structure.
+- **C:** Incorrect: being-for-others is a further dimension analysed in Part III, not the content of this formula.
+- **D:** Correct: the first half is the projective, futural dimension and the second the refusal of coincidence with facticity, illustrated by the waiter who is and is not a waiter.
 
-B. "Is what it is not" — it cannot coincide with its past; "is not what it is" — it is defined by a future it does not yet possess.
+**Examiner trap 16:** Unpacking only one half turns a fifteen-mark question into a definition, since the whole point is that the two halves name the future and the past dimensions of one non-coincidence.
 
-C. "Is what it is not" — it misdescribes itself in bad faith; "is not what it is" — it can always revise the description it has given.
-
-D. "Is what it is not" — it depends on the Other for the being it has; "is not what it is" — it refuses the fixed identity that the Other's look confers upon it.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the first half is the projective, futural dimension and the second the refusal of coincidence with facticity, illustrated by the waiter who is and is not a waiter.
-- **B:** Incorrect: it swaps the halves, which destroys the connection between the first half and the project.
-- **C:** Incorrect: bad faith is an *application* of the formula, not its meaning; the formula states an ontological structure.
-- **D:** Incorrect: being-for-others is a further dimension analysed in Part III, not the content of this formula.
+- **A:** Correct: consciousness stands back from what is and negates it, and the resulting ideal — a *pour-soi-en-soi*, that is, God — is contradictory, which is why man is called a useless passion.
+- **B:** Incorrect: Sartre affirms the in-itself's brute existence; nothing in the doctrine denies that the world is.
+- **C:** Incorrect: this narrows nihilation to one of its exercises and replaces the impossible synthesis with an ordinary wish.
+- **D:** Incorrect: nihilation does not annihilate anything; it introduces distance, question and possibility into what is.
 
-**Examiner trap 16:** Unpacking only one half turns a fifteen-mark question into a definition, since the whole point is that the two halves name the future and the past dimensions of one non-coincidence.
+**Examiner trap 17:** Omitting the impossible synthesis leaves the account without its conclusion, and the phrase "useless passion" then looks like rhetoric rather than the result of an argument.
 
-#### MCQ 17. Nihilation and the impossible synthesis
-
-Which statement about nihilation and the for-itself's desire is correct?
-
-A. Nihilation destroys the in-itself, and the for-itself's desire is to complete that destruction so that only consciousness remains.
-
-B. Nihilation introduces nothingness into being, and the for-itself desires to become self-identical while remaining conscious — an impossible ideal.
-
-C. Nihilation is the act by which the for-itself denies the existence of the world outside consciousness, and its desire is to sustain that denial indefinitely.
-
-D. Nihilation is the negation of one's past, and the for-itself desires to be free of every past so that no facticity constrains it.
+#### MCQ 18 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: nihilation does not annihilate anything; it introduces distance, question and possibility into what is.
-- **B:** Correct: consciousness stands back from what is and negates it, and the resulting ideal — a *pour-soi-en-soi*, that is, God — is contradictory, which is why man is called a useless passion.
-- **C:** Incorrect: Sartre affirms the in-itself's brute existence; nothing in the doctrine denies that the world is.
-- **D:** Incorrect: this narrows nihilation to one of its exercises and replaces the impossible synthesis with an ordinary wish.
-
-**Examiner trap 17:** Omitting the impossible synthesis leaves the account without its conclusion, and the phrase "useless passion" then looks like rhetoric rather than the result of an argument.
-
-#### MCQ 18. Non-choice
-
-"I can always choose, but I ought to know that if I do not choose, I am still choosing." What does this assert?
-
-A. That deliberation must terminate in a decision, since an indefinitely postponed deliberation is not a genuine deliberation at all.
-
-B. That every choice, however trivial, has consequences for others and therefore carries a responsibility one cannot decline.
-
-C. That some situations offer no acceptable options, in which case refusing to act is the only responsible course available.
-
-D. That deferral and conformity are themselves stances, so that the attempt to escape choosing is already a choice.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the claim is not about the logic of deliberation but about the impossibility of a stance-free relation to a situation.
-- **B:** Incorrect: this is the universalisability point, which is a further thesis and not what this sentence states.
-- **C:** Incorrect: it converts a structural claim into practical advice for hard cases.
-- **D:** Correct: because the for-itself must take up some relation to its situation, non-choice is a way of choosing, and it is typically a way of choosing in bad faith.
+- **A:** Incorrect: it converts a structural claim into practical advice for hard cases.
+- **B:** Correct: because the for-itself must take up some relation to its situation, non-choice is a way of choosing, and it is typically a way of choosing in bad faith.
+- **C:** Incorrect: the claim is not about the logic of deliberation but about the impossibility of a stance-free relation to a situation.
+- **D:** Incorrect: this is the universalisability point, which is a further thesis and not what this sentence states.
 
 **Examiner trap 18:** Reading the sentence as a maxim about procrastination loses its ontological force, and the 2021 part explicitly asks for Sartre's *conception of choice and responsibility* in its light.
 
-#### MCQ 19. The three moods of the 1945 lecture
-
-In *Existentialism Is a Humanism*, what do anguish, abandonment and despair respectively name?
-
-A. Fear of death; loss of religious belief; recognition that most projects fail.
-
-B. Vertigo before freedom; the loss of community; resignation in the face of history.
-
-C. Vertigo before one's own freedom; the absence of any *a priori* value; acting without reliance on outcomes beyond one's action.
-
-D. Guilt before others; the absence of divine forgiveness; the impossibility of ever completing any project that one has begun in the course of a finite life.
+#### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -460,17 +582,7 @@ D. Guilt before others; the absence of divine forgiveness; the impossibility of 
 
 **Examiner trap 19:** Translating Sartre's *désespoir* by Kierkegaard's despair merges a lecture-term about reliance on outcomes with a theological account of the self's misrelation to its ground.
 
-#### MCQ 20. The structure of bad faith
-
-Which formulation states the structure of bad faith correctly?
-
-A. It is the deliberate assertion of what one knows to be false, directed at oneself rather than at another person.
-
-B. It is the repression of an unwelcome truth, which then continues to operate on conduct from outside conscious awareness.
-
-C. It is the failure to act on values one sincerely holds, and it is therefore a species of weakness of will rather than of deception.
-
-D. It is the collapse of the tension between facticity and transcendence, by living as though only one dimension were real.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
@@ -482,17 +594,7 @@ D. It is the collapse of the tension between facticity and transcendence, by liv
 
 **Examiner trap 20:** Defining bad faith as self-deception in general omits the pair of terms the doctrine turns on, and the 2018 part cannot then be answered, since it asks how bad faith connects with inauthenticity and alienation.
 
-#### MCQ 21. The self-deception paradox
-
-How does Sartre answer the objection that self-deception is impossible because the deceiver must know what the deceived does not?
-
-A. By denying that consciousness is self-identical, so that truth and its denial can be held in a single pre-reflective, non-thetic stance.
-
-B. By dividing the person into a censoring agency and a censored one, which is precisely what the analysis of the unconscious was designed to supply.
-
-C. By arguing that the deception is temporally staggered, so that one knows at one moment and has genuinely forgotten at the next.
-
-D. By treating bad faith as a limiting ideal that is never fully achieved, so that the paradox describes something no one actually does.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -504,39 +606,19 @@ D. By treating bad faith as a limiting ideal that is never fully achieved, so th
 
 **Examiner trap 21:** Solving the paradox by importing the unconscious contradicts the position being expounded, and it also removes the reason Sartre needs the non-self-identity thesis in the first place.
 
-#### MCQ 22. Freedom and determinism
+#### MCQ 22 — solution
 
-On Sartre's account, why does a motive not determine action?
-
-A. Because motives are mental events without causal power, and only physical events can stand in causal relations to bodily movements.
-
-B. Because the for-itself is able to suspend any of its motives by an act of will, and any motive that is suspended has by that very fact been overridden.
-
-C. Because motives conflict with one another, and where several motives are present none of them can be singled out as the determining one.
-
-D. Because a motive acquires action-guiding force only through the meaning conferred on it, and that conferral is itself an act of the for-itself.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: Sartre is not defending epiphenomenalism or any thesis about the causal powers of the mental.
-- **B:** Incorrect: this makes freedom a faculty of veto exercised over pre-existing forces, which is the voluntarism the analysis avoids.
-- **C:** Incorrect: conflict among motives is a psychological commonplace and would leave determinism untouched.
-- **D:** Correct: no motive operates as an external cause, because what makes it a motive is the significance it has within a project the for-itself is pursuing.
+- **A:** Incorrect: conflict among motives is a psychological commonplace and would leave determinism untouched.
+- **B:** Correct: no motive operates as an external cause, because what makes it a motive is the significance it has within a project the for-itself is pursuing.
+- **C:** Incorrect: Sartre is not defending epiphenomenalism or any thesis about the causal powers of the mental.
+- **D:** Incorrect: this makes freedom a faculty of veto exercised over pre-existing forces, which is the voluntarism the analysis avoids.
 
 **Examiner trap 22:** Presenting Sartre as denying that circumstances constrain anything produces the caricature critics attack, whereas the doctrine concedes facticity and denies only that the for-itself becomes a thing among causes.
 
-#### MCQ 23. The Look
-
-What does Sartre's analysis of the Look establish?
-
-A. That other minds exist, since the behaviour of others cannot be explained without attributing consciousness to them.
-
-B. That the body is primarily an object for others, and only secondarily the medium of one's own practical engagement.
-
-C. That shame is by its structure shame before someone, so that the Other is lived rather than inferred as the condition of my having an outside.
-
-D. That social roles are imposed on us from without, so that the self is simply a product of the expectations other people direct towards it over time.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
@@ -548,17 +630,7 @@ D. That social roles are imposed on us from without, so that the self is simply 
 
 **Examiner trap 23:** Retelling the keyhole scene without the first stage removes the crucial premise that pre-reflective consciousness is egoless, so the ego that appears under the Look no longer looks conferred.
 
-#### MCQ 24. Why conflict follows
-
-Sartre concludes that conflict is the original meaning of being-for-others. Which pair of reasons supports that conclusion?
-
-A. Others compete for scarce goods, and scarcity is the permanent background against which all human relations are formed.
-
-B. Others judge us by standards we did not set, and no standard set by another can be authoritative for a free being.
-
-C. Others are opaque to us, and the impossibility of knowing another's inner life makes stable cooperation permanently insecure.
-
-D. Assimilating the Other's freedom destroys the freedom it seeks, and objectifying him destroys the recognition it wants.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
@@ -570,171 +642,91 @@ D. Assimilating the Other's freedom destroys the freedom it seeks, and objectify
 
 **Examiner trap 24:** Listing the two strategies without saying why each fails leaves the conclusion unsupported, and the failure-reasons are precisely what a fifteen- or twenty-mark answer is being paid for.
 
-#### MCQ 25. Remedial drill — where the slogans come from
+#### MCQ 25 — solution
 
-Which statement about the provenance of Sartre's best-known phrases is correct?
-
-A. "Condemned to be free" and "existence precedes essence" both appear in *Being and Nothingness* (1943), and the 1945 lecture merely repeats them.
-
-B. Both phrases come from the lecture *Existentialism Is a Humanism*, delivered in October 1945 and published in 1946.
-
-C. "Existence precedes essence" is from *Being and Nothingness* (1943) and "condemned to be free" from the *Critique of Dialectical Reason* (1960).
-
-D. Both phrases were coined by Sartre's critics and adopted by him only after the label "existentialism" had become current in France.
-
-**Answer: B.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: the 1943 treatise is a technical ontology and does not contain the popular formulations.
-- **B:** Correct: the slogans belong to the popular lecture, which Sartre later regretted publishing — a point worth one clause in any answer.
-- **C:** Incorrect: it splits the pair across the wrong works and dates one of them seventeen years too late.
-- **D:** Incorrect: the phrases are Sartre's own, and the lecture is where he sets them out.
+- **A:** Correct: the slogans belong to the popular lecture, which Sartre later regretted publishing — a point worth one clause in any answer.
+- **B:** Incorrect: it splits the pair across the wrong works and dates one of them seventeen years too late.
+- **C:** Incorrect: the phrases are Sartre's own, and the lecture is where he sets them out.
+- **D:** Incorrect: the 1943 treatise is a technical ontology and does not contain the popular formulations.
 
 **Examiner trap 25:** Sourcing the slogans to *Being and Nothingness* misses the difference between a technical ontology and a popular defence, and the distinction is exactly the kind of precision the paper rewards.
 
-#### MCQ 26. Remedial drill — the state of *Being and Time*
+#### MCQ 26 — solution
 
-Which statement about *Being and Time* (1927) is correct?
-
-A. It was published complete in 1927, and the later "turn" abandoned its conclusions in favour of a new starting point in language.
-
-B. It was published in two volumes, the second of which appeared in 1929 under the title "What is Metaphysics?".
-
-C. It was published unfinished: only Divisions One and Two of Part One appeared, and Division III was never published.
-
-D. It was published unfinished, and Heidegger completed it in the Stambaugh edition of 1996 with the addition of the missing division.
-
-**Answer: C.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the book is incomplete on its own terms, and the turn is a change of approach rather than the abandonment of a finished result.
-- **B:** Incorrect: "What is Metaphysics?" is the 1929 Freiburg inaugural lecture, not a second volume.
-- **C:** Correct: Division III ("Time and Being") and the whole of Part Two were never published, which is why one must never write that Heidegger completes his analysis of Being in the book.
-- **D:** Incorrect: Stambaugh's 1996 volume is a translation, and it adds no missing text.
+- **A:** Incorrect: "What is Metaphysics?" is the 1929 Freiburg inaugural lecture, not a second volume.
+- **B:** Correct: Division III ("Time and Being") and the whole of Part Two were never published, which is why one must never write that Heidegger completes his analysis of Being in the book.
+- **C:** Incorrect: Stambaugh's 1996 volume is a translation, and it adds no missing text.
+- **D:** Incorrect: the book is incomplete on its own terms, and the turn is a change of approach rather than the abandonment of a finished result.
 
 **Examiner trap 26:** Writing that *Being and Time* completes the analysis of Being asserts something the book itself denies, and it removes the internal objection that any critical account of Heidegger should register.
 
-#### MCQ 27. Remedial drill — rendering *das Nichts nichtet*
-
-In "What is Metaphysics?" (1929) Heidegger writes *Das Nichts nichtet*. Which rendering is acceptable?
-
-A. "Nothing noths", or equivalently "the nothing nothings".
-
-B. "Nothing noughts", which preserves the play on the arithmetical zero in the German original.
-
-C. "Nothingness annihilates", which conveys the destructive force the German verb is intended to express.
-
-D. "There is nothing", which avoids the neologism while retaining the sense of the sentence for an English reader.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: these are the standard renderings, and the coined verb is deliberate — the Nothing is presented as doing something rather than as a mere absence.
-- **B:** Incorrect: "noughts" is simply wrong, and the German makes no arithmetical play.
-- **C:** Incorrect: "annihilates" imports a destructive sense the analysis does not carry; the point is disclosure, not destruction.
-- **D:** Incorrect: rendering it as an existential denial removes the verb and with it the whole provocation Carnap attacked.
-
-**Examiner trap 27:** Reproducing "nothing noughts" signals that the sentence has been copied from an unreliable summary, and it also weakens the cross-reference to the logical-positivist attack, which turns on the exact wording.
-
-#### MCQ 28. Remedial drill — translating *Angest*
-
-Why should an answer name a translation, or use the Danish word once, when discussing Kierkegaard's *Angest*?
-
-A. Because the Danish term has no English equivalent, so any translation misrepresents the concept it names.
-
-B. Because Lowrie renders it "dread" and Hong renders it "anxiety", and the book's English title differs accordingly.
-
-C. Because Kierkegaard used the term inconsistently across his works, so each occurrence has to be dated before it can be translated.
-
-D. Because the German *Angst* and the Danish *Angest* are false friends, and the two words name unrelated states.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the term is translatable; the difficulty is that two standard traditions translate it differently.
-- **B:** Correct: *The Concept of Dread* (Lowrie) and *The Concept of Anxiety* (Hong) are the same book, and naming the translation prevents an apparent contradiction.
-- **C:** Incorrect: the difficulty is one of reception rather than of authorial inconsistency.
-- **D:** Incorrect: the two are cognate and the analyses are related, though not identical — which is a point about doctrine, not about translation.
-
-**Examiner trap 28:** Referring to "*The Concept of Dread*" and "*The Concept of Anxiety*" as two works doubles Kierkegaard's bibliography and reveals that the sources were not checked against one another.
-
-#### MCQ 29. Remedial drill — the status of authenticity
-
-Which statement about Heidegger's *Eigentlichkeit* is correct?
-
-A. It is a moral virtue whose opposite, inauthenticity, is a culpable failure to live according to one's own standards.
-
-B. It is a psychological achievement in which anxiety is mastered and the fear of death is finally overcome.
-
-C. It is an existential modification, not a moral category; Dasein is inauthentic proximally and for the most part, and this is structural.
-
-D. It is a political stance, since resoluteness is said to require commitment to a historical community and to the destiny it has inherited.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: inauthenticity carries no blame, because falling is an ontological structure rather than a failure of will.
-- **B:** Incorrect: anticipatory resoluteness is not the mastery of a feeling; being-toward-death concerns a possibility, not an emotion.
-- **C:** Correct: authenticity changes the ownership of an existence rather than its moral quality, and the call of conscience issues no content whatever.
-- **D:** Incorrect: this reads the later political catastrophe back into the analysis, which is the objection critics press rather than the doctrine itself.
+- **A:** Incorrect: "annihilates" imports a destructive sense the analysis does not carry; the point is disclosure, not destruction.
+- **B:** Incorrect: rendering it as an existential denial removes the verb and with it the whole provocation Carnap attacked.
+- **C:** Correct: these are the standard renderings, and the coined verb is deliberate — the Nothing is presented as doing something rather than as a mere absence.
+- **D:** Incorrect: "noughts" is simply wrong, and the German makes no arithmetical play.
 
-**Examiner trap 29:** Glossing authenticity as "being true to yourself" imports a popular ideal, and it makes the strongest objection — that the doctrine is formally empty — impossible to state.
+**Examiner trap 27:** Reproducing "nothing noughts" signals that the sentence has been copied from an unreliable summary, and it also weakens the cross-reference to the logical-positivist attack, which turns on the exact wording.
 
-#### MCQ 30. Remedial drill — "hell is other people"
+#### MCQ 28 — solution
 
-How should the line from *Huis clos* (1944) be handled in an answer?
+**Answer: D.**
 
-A. Quote it, then give Sartre's own correction: it describes twisted relations, and the characters are dead and therefore fixed.
+**Option explanations:**
+- **A:** Incorrect: the difficulty is one of reception rather than of authorial inconsistency.
+- **B:** Incorrect: the two are cognate and the analyses are related, though not identical — which is a point about doctrine, not about translation.
+- **C:** Incorrect: the term is translatable; the difficulty is that two standard traditions translate it differently.
+- **D:** Correct: *The Concept of Dread* (Lowrie) and *The Concept of Anxiety* (Hong) are the same book, and naming the translation prevents an apparent contradiction.
 
-B. Quote it as Sartre's considered view that human relations are inherently poisonous and cannot be improved by any effort.
+**Examiner trap 28:** Referring to "*The Concept of Dread*" and "*The Concept of Anxiety*" as two works doubles Kierkegaard's bibliography and reveals that the sources were not checked against one another.
 
-C. Avoid it entirely, since a line from a play carries no philosophical weight and cannot be cited in a philosophy answer.
-
-D. Quote it as evidence that Sartre abandoned the ontology of *Being and Nothingness* in favour of a literary treatment of the same themes.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Sartre explained in a 1965 recorded preface that the line does not mean relations with others are always poisonous, and that the three characters can no longer change their acts.
-- **B:** Incorrect: this is the popular misreading the author himself corrected.
-- **C:** Incorrect: the line follows from the analysis of being-for-others and is legitimately citable when its context is supplied.
-- **D:** Incorrect: the play and the treatise are contemporaneous and mutually supporting, not successive positions.
+- **A:** Correct: authenticity changes the ownership of an existence rather than its moral quality, and the call of conscience issues no content whatever.
+- **B:** Incorrect: this reads the later political catastrophe back into the analysis, which is the objection critics press rather than the doctrine itself.
+- **C:** Incorrect: inauthenticity carries no blame, because falling is an ontological structure rather than a failure of will.
+- **D:** Incorrect: anticipatory resoluteness is not the mastery of a feeling; being-toward-death concerns a possibility, not an emotion.
 
-**Examiner trap 30:** Quoting the line without the correction converts an ontological thesis about objectification into a slogan about misanthropy, and it forfeits an easy demonstration of familiarity with the source.
+**Examiner trap 29:** Glossing authenticity as "being true to yourself" imports a popular ideal, and it makes the strongest objection — that the doctrine is formally empty — impossible to state.
 
-#### MCQ 31. Remedial drill — ordinary time
-
-Which statement about Heidegger's treatment of ordinary or "vulgar" time is correct?
-
-A. Clock-time is an illusion produced by falling, and authentic Dasein dispenses with measurement altogether.
-
-B. Clock-time is a derived interpretation reached through world-time and public dating; "vulgar" names a levelling, not a moral defect.
-
-C. Clock-time and primordial temporality are two wholly independent structures, and neither of them is derivable from the other in either direction.
-
-D. Clock-time is primordial, and Dasein's ecstatic temporality is a subjective distortion of the objective now-series.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: clock measurement is practically indispensable, and nothing in the analysis condemns it.
-- **B:** Correct: the derivation runs from ecstatic temporality through world-time to public dating and measurement, and the levelling concerns a conceptual interpretation rather than conduct.
-- **C:** Incorrect: independence would defeat the point of Division Two, which is to show the derivative status of the ordinary conception.
-- **D:** Incorrect: it reverses the order of foundation the analysis is constructed to establish.
+- **A:** Incorrect: the play and the treatise are contemporaneous and mutually supporting, not successive positions.
+- **B:** Correct: Sartre explained in a 1965 recorded preface that the line does not mean relations with others are always poisonous, and that the three characters can no longer change their acts.
+- **C:** Incorrect: this is the popular misreading the author himself corrected.
+- **D:** Incorrect: the line follows from the analysis of being-for-others and is legitimately citable when its context is supplied.
+
+**Examiner trap 30:** Quoting the line without the correction converts an ontological thesis about objectification into a slogan about misanthropy, and it forfeits an easy demonstration of familiarity with the source.
+
+#### MCQ 31 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: it reverses the order of foundation the analysis is constructed to establish.
+- **B:** Incorrect: clock measurement is practically indispensable, and nothing in the analysis condemns it.
+- **C:** Correct: the derivation runs from ecstatic temporality through world-time to public dating and measurement, and the levelling concerns a conceptual interpretation rather than conduct.
+- **D:** Incorrect: independence would defeat the point of Division Two, which is to show the derivative status of the ordinary conception.
 
 **Examiner trap 31:** Treating "vulgar time" as inauthentic in a moral sense converts a claim about the order of foundation into a complaint about punctuality, and overclaiming here is a standard way of losing the assessment marks.
 
-#### MCQ 32. Remedial drill — the ownership fence
-
-Which item is correctly assigned to this syllabus clause rather than to another owner?
-
-A. The theory of essences and free imaginative variation, since Heidegger and Sartre both employ phenomenological method.
-
-B. The dialectical method and the doctrine of Absolute Spirit, since Kierkegaard's whole position is defined against them.
-
-C. The doctrine of eternal recurrence and the will to power, since Nietzsche is standardly grouped with the existentialists in survey histories.
-
-D. Heidegger's rejection of the transcendental ego, since the burden of that argument is his own account of being-in-the-world.
+#### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -748,15 +740,41 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 ---
 
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the for-itself's negation and freedom are an ontological radicalisation of intentionality.
+- **B:** Incorrect: consciousness's distance from given facts does not abolish **facticity** or material and social conditions of action.
+- **C:** Incorrect: Pierre's absence illustrates negation, but intentionality and nothingness extend beyond cases of absent or unreal objects.
+- **D:** Incorrect: Sartre's pre-reflective self-awareness and negation are not products of reflective judgment alone.
+
+**Examiner trap 33:** "Nothingness" is not the thesis that consciousness is absent or unconscious.
+
+#### MCQ 34 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: public approval by itself indicates neither anticipatory resolve nor ownership of the chosen possibility.
+- **B:** Correct: anticipation, thrownness and concrete choice belong together.
+- **C:** Incorrect: anxiety discloses finitude, but authentic existence also requires **resoluteness** within a concrete situation.
+- **D:** Incorrect: the they-world supplies shared practices in which possibilities can be resolutely appropriated rather than escaped.
+
+**Examiner trap 34:** Authenticity is a mode of *how* to exist, not a list of prestigious or antisocial activities.
+
 ## PYQS AND ANSWER PRACTICE
+
+**Timed practice:** Use the printed mark value and directive to budget time, then cover every subpart with claim, named evidence, argument, objection or reply, and a qualified verdict. The following examiner checklists are study aids, not word-count ceilings or guarantees of marks.
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key; UPSC publishes no descriptive model answers for Philosophy Paper I. Question wording is reproduced exactly as printed in the official papers, including the typographic quotation marks the repository ledger records and the printed spelling of names. The 2018 to 2025 Paper I texts are held locally, and the English wording of every part below follows the repository's verified Western Philosophy PYQ ledger. *Being and Time* is cited by **§ number**, which is stable across the Macquarrie and Robinson (1962) and Stambaugh (1996, revised Schmidt 2010) translations; Kierkegaard's pseudonymous works are cited **by pseudonym**, following the "First and Last Declaration" appended to the *Postscript* (1846); and Sartre's slogans are dated to the lecture of **October 1945**, published **1946**, rather than to *Being and Nothingness* (**1943**). Interpretive disputes — whether the leap is fideism, whether bad faith is coherent without an unconscious, whether authenticity is formally empty, and whether conflict is really the original meaning of being-for-others — are flagged as contested rather than settled.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper I parts are written longer than General Studies answers. The working bands used here are **10 marks — about 150 to 220 words**, **15 marks — about 250 to 330 words**, and **20 marks — about 330 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the verdict heading and the "why this earns marks" notes are teaching apparatus that sit **outside** the timed word count.
+**Answer-depth convention.** The mark value indicates relative argumentative scope, not a workbook word cap. Develop each demanded claim with named textual evidence, reasoning, an objection or qualification where appropriate, and a defensible verdict; the demand-decoding and examiner notes are study apparatus, not prescribed answer lengths.
 
-**Coverage.** ⚠️ **Corpus signal:** this clause owns **14 of 112** Western Philosophy question-parts in the 2018–2025 corpus — **joint-highest** with Rationalism and with Moore, Russell and Early Wittgenstein — and it owns **at least one part in every one of the eight years**. All fourteen are solved in full below, followed by **six original solved Mains models**, two each at 10, 15 and 20 marks. The internal distribution is worth knowing before the exam: **Sartre** carries eight parts (2018, 2019, 2020, 2021, 2023, 2024, 2025 and, jointly, the comparison part), **Kierkegaard** four (2020, 2022, 2023, 2024) and **Heidegger** three (2018, 2019, 2022); the twenty-mark parts cluster on Heidegger's being-in-the-world and on Kierkegaard's subjectivity, while the ten-mark parts test single distinctions. Three of the fourteen are **statement questions** (2020 Q4(a), 2021 Q4(b), 2023 Q3(c)), and for those the first move is always to locate the sentence inside its own author's system.
+**Coverage.** ⚠️ **Corpus signal (2018–2025 only):** this clause owns **14 of 112** Western Philosophy parts — joint-highest with Rationalism and Moore–Russell–Early Wittgenstein — with at least one in each of those eight years. Those fourteen and two additional primary-owned 2026 parts are solved below, followed by **seven original solved Mains models**, including a Kierkegaardian faith-and-ethics problem. The earlier distribution was Sartre eight, Kierkegaard four, Heidegger three (a mixed comparison counts for both thinkers, but is one question-part); 2026 adds one Sartre–Husserl comparison and one Heidegger question. Statement questions require locating the quotation in the named author's argument before evaluating it.
 
 #### Solved PYQ 1 · 2018 · Q1(d) · 10 marks
 
@@ -788,7 +806,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the question contains two verbs — "connect" and "lead to" — so the answer must be a chain, not a definition.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** thesis one line; structure three; connection four; alienation three; qualification one.
 
 - **Structure:** thesis → the two dimensions → bad faith → inauthenticity → alienation → limit.
 - **Doctrine:** facticity/transcendence; the collapse of the tension.
@@ -826,7 +843,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the first sentence of the question belongs to another owner. Attribute it accurately in one line and move.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis one line; *epoché* three; rejection six; being-in-the-world eight; assessment two.
 
 - **Structure:** define → object → replace → assess.
 - **Doctrine:** suspension and residue; unitary structure; equipment; care.
@@ -864,7 +880,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the ruling must arrive first; a script that describes authenticity without denying the identification has answered a question that was not asked.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** ruling one line; inauthenticity four; conscience and death five; temporality eight; assessment two.
 
 - **Structure:** ruling → why → how authenticity arises → temporality → limit.
 - **Doctrine:** *das Man*, falling, conscience, being-toward-death, the ecstases.
@@ -902,7 +917,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the examiner is testing whether the candidate can state *why* Sartre thinks the question is malformed, not merely that he defends freedom.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** thesis one line; argument four; ontology three; situation three; criticism three.
 
 - **Structure:** dissolution → argument → ontology → qualification → criticism.
 - **Doctrine:** nihilation; meaning-conferral; facticity.
@@ -946,7 +960,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** "in the context of the single individual" is not decoration; an answer that expounds the thesis without the bearer has answered half the question.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis one line; attribution two; assertion three; denials three; complement three; single individual five; method two; verdict two.
 
 - **Structure:** thesis → attribution → assertion → denials → complement → bearer → method → verdict.
 - **Doctrine:** appropriation; subjectivity as untruth; the crowd; indirect communication.
@@ -988,7 +1001,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the concession in the first half is what most scripts miss; showing it first makes the critical section credible rather than adversarial.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis one line; first half three; second half three; "always" three; wider position four; criticism four; verdict two.
 
 - **Structure:** locate → unpack both halves → fix the modal → connect → criticise → rule.
 - **Doctrine:** facticity/transcendence; existence precedes essence; bad faith.
@@ -1028,7 +1040,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** "critically discuss" means the assessment must be a third of the answer, not a closing sentence.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** thesis one line; structural claim three; bad faith two; responsibility three; criticism four; verdict two.
 
 - **Structure:** locate the sentence → structural claim → bad faith → responsibility → criticism → rule.
 - **Doctrine:** freedom as constitutive; non-choice as choice; universalisability.
@@ -1068,7 +1079,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** "critical account" makes assessment part of the exposition, not an appendix; the emptiness charge should be signalled before it is developed.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis one line; structure three; worldhood five; care two; authenticity seven; criticism four.
 
 - **Structure:** what → how → assess.
 - **Doctrine:** unitary compound; equipment; care; *das Man*; death.
@@ -1110,7 +1120,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the two halves must be joined; a script that defines subjectivity and then narrates three stages without connecting them has written two answers.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis one line; definition three; three spheres nine; movement three; verdict two.
 
 - **Structure:** definition → three spheres with collapses → the leap → verdict.
 - **Doctrine:** appropriation; the spheres; the teleological suspension; the two knights.
@@ -1148,7 +1157,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** ten marks and two demands — the argument and the assessment. One contrast pair, not four, and a ruling in the last two lines.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** thesis one line; target two; argument three; contrasts three; verdict two.
 
 - **Structure:** thesis → target → argument → contrasts → bounded verdict.
 - **Doctrine:** existential against logical system; leap against mediation.
@@ -1190,7 +1198,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** "chief features" invites a list; the statement forbids one. Derive the features from the formula and the answer becomes an argument.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** thesis one line; contrast three; two halves four; nihilation three; consequences four; objection two.
 
 - **Structure:** definition → contrast → both halves → mechanism → consequences → objection.
 - **Doctrine:** en-soi/pour-soi; nihilation; the impossible synthesis.
@@ -1230,7 +1237,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the whole answer turns on one distinction; state it in line one and use the remaining space to protect it.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** thesis one line; attribution one; definition three; denials two; safeguard two; ruling three.
 
 - **Structure:** thesis → attribution → definition → denials → safeguard → ruling.
 - **Doctrine:** the *how* against the *what*.
@@ -1270,7 +1276,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** the question presupposes shared ownership. Correct it in the first line *while answering*, rather than complaining about the premise.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** thesis one line; Sartre's argument five; Heidegger four; Kierkegaard three; three freedoms six; verdict two.
 
 - **Structure:** correct the attribution → the argument → the two refusals → three freedoms → verdict.
 - **Doctrine:** paper-knife; §9; the existing individual.
@@ -1308,7 +1313,6 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 
 **Answer-writing focus:** ten marks reward precision, not coverage; the two formulas and the impossible synthesis are the whole examinable content.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** thesis one line; en-soi three; pour-soi four; nihilation two; consequence two.
 
 - **Structure:** thesis → in-itself → for-itself → mechanism → consequence.
 - **Doctrine:** self-identity; nihilation; the contradictory ideal.
@@ -1316,9 +1320,31 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 - **Distinction:** ontological, not mind–matter.
 - **Criticism:** implicit — the coherence of non-self-identity, if space allows.
 
+### 2026 verified primary-owned PYQs
+
+Q2(c) is primarily owned here, with a Husserl comparison half cross-linked to Phenomenology; Q3(b) is Heidegger-owned here.
+
+#### 2026 · Q2(c) · 15 marks
+
+**Question:** Describe Sartre's notion of consciousness as 'nothing'. How is it different from Husserl's notion of consciousness? Discuss.
+
+**Model answer.** Sartre's *Being and Nothingness* distinguishes the self-identical **in-itself** (*en-soi*) from consciousness as **for-itself** (*pour-soi*). A conscious subject does not simply coincide with a fixed set of properties: it can take distance from what it is, negate a present fact and project possibilities. Waiting for Pierre at a café, I encounter **his absence** against the expectation that he might be there; negation is not merely a positive thing among café objects. "Nothingness" thus designates consciousness's **nihilating relation to being**, not nonexistence, lack of experience or the claim that physical objects are illusions. This structure makes freedom possible while leaving freedom **situated** by facticity, other people and material constraints; bad faith evades the tension by identifying wholly with a role or pretending to be pure unconstrained choice.
+
+Husserl too rejects treating consciousness as an inert container: intentionality means every act is **consciousness of something**, and *Ideas I* investigates how an object is given in the **noesis–noema correlation** after suspension of the natural attitude. He describes a transcendental ego as a pole of lived acts and seeks the constitution of object-sense. Sartre inherits intentionality but rejects a constituting ego **inside** consciousness ("The Transcendence of the Ego"): the ego appears as an object of reflection, while pre-reflective consciousness is non-positional awareness of itself in being aware of its object. Sartre makes negation, temporal projection and concrete freedom central to ontology rather than methodically reducing the world to examine transcendental constitution. The distinction should not caricature Husserl as a psychologist of mental pictures: intentional consciousness can intend a nonexistent object; the live dispute is whether a transcendental ego and reduction or a non-egological, world-involved for-itself best explains subjectivity.
+
+#### 2026 · Q3(b) · 15 marks
+
+**Question:** Explain Heidegger's conception of authenticity and inauthenticity as modes of Dasein's being.
+
+**Model answer.** *Being and Time* analyses Dasein as a being for whom **its own being is an issue**, always already **being-in-the-world**. It is **thrown** into circumstances not of its choosing, yet projects possibilities within them. Everyday **inauthenticity** (*Uneigentlichkeit*) names absorption in the anonymous "**they**" (*das Man*): one acts, speaks and judges as "one" does, allowing public average understandings to settle one's possibilities. Idle talk, curiosity and ambiguity can sustain this falling into the everyday. It is a **structural mode**, not a moral diagnosis that other people or ordinary work are inherently bad.
+
+Anxiety discloses the uncanniness of this familiar world and one's ownmost possibility of **being-towards-death**: no one can die *my* death in my place. **Conscience's call** summons Dasein from the they-self to its own **guilt** in the existential sense of a groundless responsibility for finite possibilities, not proof of a specific crime. **Resoluteness** anticipates mortality and commits to concrete possibilities in the shared historical situation; it does not escape thrownness or social existence. Heidegger's temporal analysis joins projection towards a future, retrieval of a past and presence in action rather than treating authenticity as a timeless inner state.
+
+Authenticity therefore modifies **how** Dasein inhabits the same world, not **which unusual lifestyle** it adopts. A criticism is that the formal call to "own" possibilities offers too little ethical criterion for selecting them and risks seeming compatible with troubling political commitments. Heidegger's defence is that existential analysis identifies conditions for responsible appropriation, not a moral decision procedure; that reply leaves the substantive ethical worry open. Avoid confusing Sartrean bad faith with Heideggerian falling: their analyses overlap but are not identical doctrines.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the style of the paper — two each at 10, 15 and 20 marks — covering the parts of the clause the 2018–2025 corpus has not yet examined directly: Kierkegaardian anxiety, the "they" and falling, the Look, indirect communication, the fear/anxiety comparison, and the movement-level objections. Every model answer is independent learner practice.
+> Seven original questions in the style of the paper. The earlier six develop anxiety, everyday falling, the Look, indirect communication and cross-thinker objections; the additional faith-and-ethics question tests the under-examined Abraham paradox. Every model answer is independent learner practice.
 
 #### Original 1 · 10 marks
 
@@ -1481,5 +1507,23 @@ D. Heidegger's rejection of the transcendental ego, since the burden of that arg
 - **Evidence:** *Postscript* (1846); "Letter on Humanism" (1946/47); *Critique of Dialectical Reason* (1960); §26.
 - **Distinction:** misdescription against genuine residue.
 - **Criticism:** formal emptiness; thin community; partial replies conceded.
+
+#### Original 7 · 20 marks · untested faith-and-ethics demand
+
+**Question:** Critically examine Kierkegaard's account of the single individual before God through Abraham's trial in *Fear and Trembling*. Can the teleological suspension of the ethical be distinguished from arbitrary private exception-making?
+
+##### Independent model answer
+
+**Thesis.** Kierkegaard's pseudonymous author **Johannes de Silentio** presents Abraham as a challenge to a system that can wholly mediate the individual's duty through universal ethical norms. The text tests the possibility of an **absolute relation to the Absolute**, but does not supply a public licence for a person to violate ethical obligations whenever they feel inspired.
+
+**The ethical difficulty.** Abraham is commanded to sacrifice Isaac (*Genesis* 22). Ethically, killing a child cannot be explained as ordinary civic duty; if the universal ethical alone is highest, Abraham is a murderer. In *Fear and Trembling* (1843), the **tragic hero** can justify sacrificing a loved one by appeal to a higher publicly articulable ethical cause (Agamemnon is a deliberately unsettling example). Abraham cannot: his relation to God would require a **teleological suspension** of the ethical for the sake of a higher telos, not abolition of the ethical as a rule for everyone. His inability to justify himself in universal ethical speech accounts for the work's silence, dread and paradox.
+
+**Double movement.** The **knight of infinite resignation** gives Isaac up and reconciles himself to loss; the **knight of faith** both makes that movement and believes, "**by virtue of the absurd**", that he will receive Isaac back in this finite life. Faith is not an unusually strong probability assessment or a shortcut from ignorance to information. Nor is the story the straightforward **ethical stage** as in a social development sequence: the religious demand both presupposes the force of the ethical and cannot be exhausted by it. The book's question is whether such a singular relation is possible at all; the pseudonymous narrator repeatedly declares his inability to understand Abraham, a fact that forbids treating his analysis as Kierkegaard's uncomplicated policy prescription.
+
+**Objection and reply.** If the believer's private assurance can override a universal moral prohibition, how distinguish Abraham from fanaticism? **No public test** follows from the account: anyone could assert an absolute command while expecting others to accept its authority. Kierkegaard's presentation emphasises anguished responsibility, isolation and the inability to communicate a vindication, rather than congratulating easy exemption. This distinguishes psychologically costly faith from casual convenience but does **not** provide an objective test protecting Isaac or third parties. A Hegelian argues that genuine ethical reconciliation cannot reside in incommunicable inwardness; a Kierkegaardian replies that subsuming this case under a general rule destroys exactly what faith purports to be. Both sides have a cost.
+
+**Verdict.** As an existential critique of reducing religious commitment to public ethical calculation, the paradox is powerful. As a **normative criterion** for when harming another is permitted, it is inadequate and must not be applied as a real-world authorisation. The difference between a philosophical description of faith's irreducibility and endorsement of exceptional violence is the answer's necessary ethical boundary.
+
+**Why this earns marks:** Addresses the demanding "can it be distinguished?" directive; distinguishes tragic hero, resignation and faith with textual evidence; states the strongest objection and concedes the limit rather than making private conviction self-certifying.
 
 ---

@@ -4,16 +4,15 @@ topic_key: ancient-indian-history-16
 ---
 # Central Asian Contacts: Indo-Greeks, Shakas, Kushanas — Solved Practice Workbook
 
-> **Practice contract:** exactly 32 original hard MCQs precede the verified PYQ block; strict A → B → C → D rotation repeats eight times; 128 option explanations and 32 examiner traps are separately identifiable. Official PYQ wording and key status are preserved.
+> **Practice contract:** 40 original hard MCQs; strict A → B → C → D rotation repeats ten times; 160 option explanations and 40 examiner traps are separately identifiable. All prompts precede the separate answer key; original PYQ and Mains solutions are retained. Official PYQ wording and key status are preserved.
 
-## BASIC MCQS / REMEDIATION
+## PRACTICE QUESTIONS — ATTEMPT BEFORE CONSULTING THE KEY
 
-### 32 ORIGINAL HARD MCQS
+### 40 ORIGINAL HARD MCQS
 
-> These are original questions, not UPSC PYQs. Correct keys rotate A → B → C → D exactly eight times. All 128 option explanations and all 32 examiner traps are separately identifiable.
+> Original questions, not UPSC PYQs. Correct options rotate A → B → C → D exactly ten times.
 
 #### Q1
-
 Which frame best describes post-Mauryan Central Asian contacts?
 
 - A. Distinct Indo-Greek, Shaka, Indo-Parthian and Kushana formations overlapped across regions and routes.
@@ -21,6 +20,374 @@ Which frame best describes post-Mauryan Central Asian contacts?
 - C. All four groups were branches of the Yuezhi confederation.
 - D. Political change was confined to one invasion of the Punjab.
 
+#### Q2
+For reconstructing fragmented Indo-Greek dynasties, which evidence is most diagnostic?
+
+- A. Later Puranic lists without corroboration.
+- B. Named portrait coins with legends, monograms, weights and overstrike sequences.
+- C. The distribution of one pottery type treated as a political map.
+- D. A single Buddhist dialogue read as a court chronicle.
+
+#### Q3
+Demetrius is most safely associated with which development?
+
+- A. The repair of the Sudarshana lake recorded at Junagadh.
+- B. The foundation of the Shaka era in 78 CE.
+- C. An early second-century BCE Bactrian Greek movement south of the Hindu Kush.
+- D. The final unification of the five Yuezhi principalities.
+
+#### Q4
+Which statement about Menander is best supported?
+
+- A. He was the author of the Milindapanha.
+- B. He was a Kardamaka Mahakshatrapa.
+- C. His entire biography is fixed by contemporary inscriptions.
+- D. He was an Indo-Greek ruler securely known from coins and remembered as Milinda in Buddhist dialogue tradition.
+
+#### Q5
+The Milindapanha is most useful when treated as:
+
+- A. A layered Buddhist dialogue illuminating reasoning and Menander's cultural memory.
+- B. An official verbatim transcript of Menander's court.
+- C. A contemporary Greek military dispatch.
+- D. Conclusive proof that every Indo-Greek subject became Buddhist.
+
+#### Q6
+What does the Heliodorus pillar at Besnagar directly establish?
+
+- A. Menander founded a monastery at Mathura.
+- B. An envoy of Antialcidas identified as a Bhagavata and dedicated a Garuda pillar to Vasudeva.
+- C. All Indo-Greeks collectively converted to Vaishnavism.
+- D. The Kushanas governed Vidisha through a satrap.
+
+#### Q7
+Which pairing best preserves early Shaka chronology in the north-west?
+
+- A. Maues—Guishuang unification; Azes—Rabatak genealogy.
+- B. Maues—Junagadh Sanskrit prashasti; Azes—Mathura devakula.
+- C. Maues—Taxila/Gandhara coins and inscriptional evidence; Azes—later north-western coin sequence and debated era association.
+- D. Maues—Satavahana matronymics; Azes—Ashokan dhamma.
+
+#### Q8
+How should Shaka political history be organised?
+
+- A. As one dynasty ruling Taxila, Mathura and western India simultaneously.
+- B. As a purely nomadic phase with no settled institutions.
+- C. As a short interval without regional continuities.
+- D. As several regional branches whose dates and authority overlapped with Indo-Greek, Pahlava, Satavahana and Kushana powers.
+
+#### Q9
+The titles kshatrapa and mahakshatrapa are best understood as:
+
+- A. Flexible satrapal titles whose actual powers varied and could support delegated rule or regional sovereignty.
+- B. Fixed equivalents of modern district magistrate and governor.
+- C. Exclusively Buddhist monastic ranks.
+- D. Titles used only by Kushana kings at Purushapura.
+
+#### Q10
+Which evidence most securely links Nahapana's displacement to Gautamiputra Satakarni?
+
+- A. A later legend of Kanishka's council.
+- B. Gautamiputra's overstrikes on Nahapana's silver coins.
+- C. The Heliodorus pillar.
+- D. A Chinese account of Yuezhi migration.
+
+#### Q11
+Rudradaman I's Junagadh inscription is especially valuable because it:
+
+- A. Is a neutral census of every Western Kshatrapa district.
+- B. Proves Sanskrit instantly replaced Prakrit across India.
+- C. Combines a dated Shaka-era record, Sudarshana-lake repair, genealogy, conquest claims and courtly Sanskrit.
+- D. Shows Rudradaman was a Satavahana ruler.
+
+#### Q12
+Gondophares should be placed in which political formation?
+
+- A. The Indo-Greek house of Menander.
+- B. The Kardamaka Western Kshatrapas.
+- C. The Kushana line after Vasudeva.
+- D. The Indo-Parthian or Pahlava layer, known through coins and inscriptions such as Takht-i-Bahi.
+
+#### Q13
+The Great Yuezhi movement is reconstructed chiefly by correlating:
+
+- A. Chinese historical accounts with Central Asian archaeology, coins and later Kushana evidence.
+- B. Only the Junagadh inscription.
+- C. Only the Milindapanha.
+- D. Sangam poems with Gupta land grants.
+
+#### Q14
+Kujula Kadphises is best associated with:
+
+- A. Founding the Shaka era beyond dispute.
+- B. Early Kushana consolidation and expansion south of the Hindu Kush, visible mainly through coins.
+- C. Composing the Buddhacharita.
+- D. Issuing the Junagadh prashasti.
+
+#### Q15
+Which description of Vima Kadphises is most defensible?
+
+- A. He issued no gold and used only Buddhist imagery.
+- B. He was the Indo-Parthian king linked to St Thomas.
+- C. His gold and copper issues display expanding monetary capacity and Shiva/Oesho-related iconography.
+- D. He is known only from the Milindapanha.
+
+#### Q16
+Which chronology statement is safest?
+
+- A. Kanishka certainly founded the Shaka era in 78 CE.
+- B. Every Kushana inscription uses the same undisputed era.
+- C. Kanishka's accession can be dated to one exact year without debate.
+- D. The Shaka era begins in 78 CE, while a major modern chronology places Kanishka around 127 CE and keeps the association contested.
+
+#### Q17
+Why is the Rabatak inscription central to Kushana history?
+
+- A. It gives a Bactrian-in-Greek-script royal text with genealogy, titulature, deity language and eastern city claims.
+- B. It is a Greek-language biography of Menander.
+- C. It is the official transcript of Kanishka's Buddhist council.
+- D. It proves uniform Kushana taxation throughout the Ganga delta.
+
+#### Q18
+Kushana political geography is best represented as:
+
+- A. A maritime kingdom with no Central Asian core.
+- B. A multi-centred network linking Bactria, Kapisa/Begram, Purushapura, Taxila and Mathura through varied tiers of control.
+- C. A uniform province system centred only at Pataliputra.
+- D. An empire whose borders equal all Kushana coin findspots.
+
+#### Q19
+What does a Kushana coin found far east of the strongest imperial core prove first?
+
+- A. Direct annexation and taxation of the findspot.
+- B. The location of the issuing mint.
+- C. Circulation, exchange or deposition that requires contextual interpretation.
+- D. A permanent Kushana garrison.
+
+#### Q20
+The Kushana titles shaonano shao and devaputra most directly express:
+
+- A. Guild membership and monastic rank.
+- B. Abolition of regional intermediaries.
+- C. A modern doctrine of popular sovereignty.
+- D. King-of-kings and son-of-god claims that exalted royal authority across cultural idioms.
+
+#### Q21
+Which description of the Silk Routes is most accurate for this topic?
+
+- A. Changing overland corridors connected China, the Tarim Basin, Bactria, Gandhara and India, while maritime routes linked western ports to West Asia and Rome.
+- B. One paved road was owned continuously by Kanishka.
+- C. Only Chinese silk travelled and no Indian goods moved.
+- D. Sea trade made caravan cities irrelevant.
+
+#### Q22
+What is the strongest inference from Kushana gold coinage?
+
+- A. Every peasant household used gold daily.
+- B. The state and elite circuits possessed substantial high-value monetary and bullion capacity.
+- C. Rome politically controlled the Kushana Empire.
+- D. Copper and barter disappeared from the economy.
+
+#### Q23
+Which statement about cavalry and the stirrup is historically safest?
+
+- A. Central Asian rulers invented every Indian military technique.
+- B. Kushanas certainly introduced the modern iron stirrup across India in the first century CE.
+- C. Mounted warfare, saddles, horse gear and trousered cavalry gained visibility, but the secure dating and diffusion of true stirrups require separate archaeological proof.
+- D. Coins showing horsemen prove identical battlefield practice in every province.
+
+#### Q24
+Kushana coin pantheons are best interpreted as:
+
+- A. Proof that the population practised one uniform syncretic religion.
+- B. Random decoration without political communication.
+- C. Evidence that Kanishka was exclusively Buddhist.
+- D. Plural royal iconography addressing varied constituencies through Iranian, Greek, Indian and Buddhist divine forms.
+
+#### Q25
+Which statement best distinguishes Kanishka's patronage from Mahayana origins?
+
+- A. Kanishka was a major Buddhist patron, but Mahayana developed through longer textual, monastic and social processes.
+- B. Kanishka wrote every Mahayana sutra.
+- C. The fourth council is documented by a contemporary official transcript.
+- D. Buddhist transmission to Central Asia depended only on royal missions.
+
+#### Q26
+Gandhara art is most accurately described as:
+
+- A. Pure Greek sculpture transplanted unchanged into India.
+- B. A Buddhist artistic tradition of north-western workshops combining Hellenistic, Iranian, Central Asian and Indic resources.
+- C. A copy of Mathura with no regional material base.
+- D. A Gupta invention unrelated to Kushana patronage.
+
+#### Q27
+Which contrast between Mathura and Gandhara is strongest?
+
+- A. Mathura produced no Buddhist images.
+- B. Gandhara alone created anthropomorphic Buddha images beyond dispute.
+- C. Mathura used red sandstone and older local idioms across Buddhist, Jaina, Brahmanical and royal images, while Gandhara favoured north-western schist/stucco traditions.
+- D. Mathura merely copied Roman marble sculpture.
+
+#### Q28
+Which language-script pairing is correct?
+
+- A. Rabatak—Sanskrit in Kharoshthi.
+- B. Indo-Greek coins—Latin in Brahmi.
+- C. Junagadh—Bactrian in Greek script.
+- D. Rabatak—Bactrian in Greek script; many Indo-Greek issues—Greek and Prakrit legends using Greek and Kharoshthi.
+
+#### Q29
+How should claims about calendars, clothing and science be framed?
+
+- A. As selective, evidence-specific exchanges: the Shaka era is distinct from Kanishka's disputed accession; tunics/trousers appear in contact-zone imagery; astronomical vocabulary moved without proving wholesale importation.
+- B. Every calendar, garment and scientific idea in India arrived with one invasion.
+- C. The national Shaka calendar proves Kanishka founded the era.
+- D. Royal dress on one statue establishes the clothing of every social class.
+
+#### Q30
+Which formulation best captures social assimilation?
+
+- A. Foreign-origin elites instantly lost all previous cultural forms.
+- B. Integration was negotiated through titles, language, marriage, donation, guilds and cults, while identities and power remained unequal and regionally varied.
+- C. Brahmanical labels provide a complete census of lived status.
+- D. Only kings participated in cultural exchange.
+
+#### Q31
+Which account of Kushana decline is most defensible?
+
+- A. One invasion ended all Kushana authority, trade and Buddhism at once.
+- B. Gold coinage stopped everywhere on a single date.
+- C. Dynastic division, Sasanian pressure, regional successors and changing fiscal-route conditions produced staggered contraction with cultural continuities.
+- D. The Western Kshatrapas vanished before Kushana formation.
+
+#### Q32
+Which method gives the most reliable overall reconstruction?
+
+- A. Treat every later legend as literal history.
+- B. Draw borders from the widest coin distribution.
+- C. Assume art style reveals the ethnicity of each sculptor.
+- D. Triangulate coins, inscriptions, archaeology, Chinese/classical texts and Buddhist traditions, grading each claim by date, genre, region and scale.
+
+#### Q33
+
+Arrange these evidentiary anchors in the most defensible relative order: (1) Heliodorus at Besnagar, (2) Rudradaman at Junagadh, (3) Kanishka at Rabatak, (4) Indo-Parthian Gondophares in the Takht-i-Bahi record. Which ordering respects their broad historical placement without equating disputed era years?
+
+- A. 1 → 4 → 3 → 2
+- B. 4 → 1 → 2 → 3
+- C. 1 → 3 → 4 → 2
+- D. 3 → 1 → 4 → 2
+
+#### Q34
+
+A bilingual coin gives a Greek legend on one face and Kharoshthi Prakrit on the other. Which conclusion follows most securely?
+
+- A. The Greek legend proves the ruler governed Greece.
+- B. The issue addressed users across more than one linguistic/graphic convention; it does not establish that every subject was bilingual.
+- C. The Kharoshthi legend proves that the die was cut at Pataliputra.
+- D. Two scripts prove a single uniform imperial religion.
+
+#### Q35
+
+Consider three claims: (1) Rudradaman’s Junagadh record mentions repairs to the Sudarshana reservoir; (2) its Sanskrit praise is a neutral audit of all campaigns; (3) earlier Mauryan and Ashokan phases of the reservoir appear in its retrospective account. Which assessment is best?
+
+- A. Only 2 is supported.
+- B. Only 1 is supported.
+- C. 1 and 3 are supported, while 2 mistakes courtly praise for a neutral chronicle.
+- D. All three are supported.
+
+#### Q36
+
+If a Kushana gold issue depicts Oesho while a separate Buddhist monument names a royal-era donor, what is the strongest inference?
+
+- A. The dynasty officially prohibited Buddhist donations.
+- B. Oesho proves the ruler personally worshipped only Shiva.
+- C. The donor inscription proves the gold coin was minted for that monument.
+- D. Royal imagery and Buddhist donations can coexist; neither alone reveals uniform private belief or a universal patronage policy.
+
+#### Q37
+
+Which source-to-question matching best separates political assertion from independently secured territorial control?
+
+- A. Rabatak’s list of eastern cities → a dynastic claim requiring independent local corroboration; coin hoards → evidence of circulation before sovereignty.
+- B. Rabatak’s city list → precise census of garrisons; coin hoards → exact map of taxation.
+- C. Rabatak → the date of the Shaka era’s foundation; coins → proof of Mahayana origins.
+- D. Rabatak → all later Sanskrit court poetry; coins → biography of every issuer.
+
+#### Q38
+
+A textbook states that Kushana cavalry brought the fully developed paired stirrup to India and thereby created Indian mounted warfare. Which correction is most defensible?
+
+- A. All Kushana armies fought without horses.
+- B. Mounted warfare and innovations in horse equipment are relevant, but claiming first introduction of the true paired stirrup here exceeds the evidence.
+- C. A royal statue wearing boots is direct proof of paired stirrups.
+- D. The invention can be dated from Kanishka’s debated accession year.
+
+#### Q39
+
+Which observation would best test a claim that Gandhara and Mathura Buddha images both emerged under a single imported Greek workshop?
+
+- A. Only the ethnicity of one later pilgrim.
+- B. The modern market price of a Gandhara sculpture.
+- C. Independent dated inscriptions, material and workshop sequences in both regions, comparing donor contexts and iconographic forms.
+- D. The presence of wavy hair on one Gandhara head alone.
+
+#### Q40
+
+Which finding would most directly challenge the inference “Kushana gold coins imply equal prosperity throughout the empire”?
+
+- A. An isolated royal gold portrait at Mathura.
+- B. A single mention of Silk Road caravans.
+- C. A new deity type on one Kushana coin.
+- D. Regional disparity between high-value gold issues and local copper circulation, tax records or settlement patterns indicating uneven access.
+
+## VERIFIED AND ADJACENT PYQ PROMPTS; ORIGINAL MAINS PROMPTS
+
+### PYQ 01 — 2019 GS-I Mains Q1: Gandhara art
+
+**Verified question:** “Highlight the Central Asian and Greco-Bactrian elements in the Gandhara art.” (10 marks; 150 words)
+
+### Adjacent PYQ 02 — 2020 Prelims GS-I Q22: Buddhist schools
+
+**Verified question form:** Consider the statements: (1) Sthaviravadins belong to Mahayana Buddhism; (2) Lokottaravadin was an offshoot of the Mahasanghika sect; (3) the deification of Buddha by Mahasanghikas fostered Mahayana Buddhism. Which statements are correct?
+
+- A. 1 and 2 only
+- B. 2 and 3 only
+- C. 3 only
+- D. 1, 2 and 3
+
+### Adjacent PYQ 03 — 2023 Prelims GS-I Q46: Milinda-panha attribution
+
+**Verified question form:** The official question matches *Devichandraguptam*, *Hammira-Mahakavya*, *Milinda-panha* and *Nitivakyamrita* with named figures and asks how many pairs are correct.
+
+### ORIGINAL MAINS 10-MARKER 1 — Distinct frontier polities
+
+**Question:** Distinguish the Indo-Greeks, Shakas, Pahlavas and Kushanas by origin, political form and evidence. (10 marks; maximum 150 words)
+
+### ORIGINAL MAINS 10-MARKER 2 — Menander and the Milindapanha
+
+**Question:** Assess the historical value and limitations of the Milindapanha for understanding Menander. (10 marks; maximum 150 words)
+
+### ORIGINAL MAINS 15-MARKER 1 — Shaka satrapal rule
+
+**Question:** Analyse Shaka satrapal rule with special reference to Maues, Nahapana and Rudradaman. (15 marks; maximum 250 words)
+
+### ORIGINAL MAINS 15-MARKER 2 — Kushana formation and imperial geography
+
+**Question:** Explain the formation and political geography of the Kushana Empire from Kujula Kadphises to Vasudeva. (15 marks; maximum 250 words)
+
+### ORIGINAL MAINS 20-MARKER 1 — Mutual impact
+
+**Question:** ‘Central Asian contacts transformed post-Mauryan India through interaction rather than invasion alone.’ Discuss. (20 marks; maximum 250 words)
+
+### ORIGINAL MAINS 20-MARKER 2 — Sources, chronology and limits
+
+**Question:** Why are the chronology and political geography of the Indo-Greeks, Shakas and Kushanas difficult to reconstruct? Evaluate the available sources. (20 marks; maximum 250 words)
+
+## SEPARATE ANSWER KEY AND SOLVED PRACTICE
+
+### MCQ KEY, OPTION-WISE REASONS AND EXAMINER TRAPS
+
+#### Q1
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -33,14 +400,6 @@ Which frame best describes post-Mauryan Central Asian contacts?
 > **Examiner trap 1:** Do not collapse all foreign-origin rulers into one dynasty or one invasion wave.
 
 #### Q2
-
-For reconstructing fragmented Indo-Greek dynasties, which evidence is most diagnostic?
-
-- A. Later Puranic lists without corroboration.
-- B. Named portrait coins with legends, monograms, weights and overstrike sequences.
-- C. The distribution of one pottery type treated as a political map.
-- D. A single Buddhist dialogue read as a court chronicle.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -53,14 +412,6 @@ For reconstructing fragmented Indo-Greek dynasties, which evidence is most diagn
 > **Examiner trap 2:** A coin findspot indicates circulation; it does not by itself prove territorial rule.
 
 #### Q3
-
-Demetrius is most safely associated with which development?
-
-- A. The repair of the Sudarshana lake recorded at Junagadh.
-- B. The foundation of the Shaka era in 78 CE.
-- C. An early second-century BCE Bactrian Greek movement south of the Hindu Kush.
-- D. The final unification of the five Yuezhi principalities.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -73,14 +424,6 @@ Demetrius is most safely associated with which development?
 > **Examiner trap 3:** Demetrius is an Indo-Greek chronological anchor, not proof of a Bactria-to-Pataliputra empire.
 
 #### Q4
-
-Which statement about Menander is best supported?
-
-- A. He was the author of the Milindapanha.
-- B. He was a Kardamaka Mahakshatrapa.
-- C. His entire biography is fixed by contemporary inscriptions.
-- D. He was an Indo-Greek ruler securely known from coins and remembered as Milinda in Buddhist dialogue tradition.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -93,14 +436,6 @@ Which statement about Menander is best supported?
 > **Examiner trap 4:** Menander's coins and the Milindapanha are complementary sources, not interchangeable proof.
 
 #### Q5
-
-The Milindapanha is most useful when treated as:
-
-- A. A layered Buddhist dialogue illuminating reasoning and Menander's cultural memory.
-- B. An official verbatim transcript of Menander's court.
-- C. A contemporary Greek military dispatch.
-- D. Conclusive proof that every Indo-Greek subject became Buddhist.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -113,14 +448,6 @@ The Milindapanha is most useful when treated as:
 > **Examiner trap 5:** Nagasena is the interlocutor; Nagarjuna is a different figure and not the work's author.
 
 #### Q6
-
-What does the Heliodorus pillar at Besnagar directly establish?
-
-- A. Menander founded a monastery at Mathura.
-- B. An envoy of Antialcidas identified as a Bhagavata and dedicated a Garuda pillar to Vasudeva.
-- C. All Indo-Greeks collectively converted to Vaishnavism.
-- D. The Kushanas governed Vidisha through a satrap.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -133,14 +460,6 @@ What does the Heliodorus pillar at Besnagar directly establish?
 > **Examiner trap 6:** Use Heliodorus for diplomacy and cultural agency, never for mass-conversion claims.
 
 #### Q7
-
-Which pairing best preserves early Shaka chronology in the north-west?
-
-- A. Maues—Guishuang unification; Azes—Rabatak genealogy.
-- B. Maues—Junagadh Sanskrit prashasti; Azes—Mathura devakula.
-- C. Maues—Taxila/Gandhara coins and inscriptional evidence; Azes—later north-western coin sequence and debated era association.
-- D. Maues—Satavahana matronymics; Azes—Ashokan dhamma.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -153,14 +472,6 @@ Which pairing best preserves early Shaka chronology in the north-west?
 > **Examiner trap 7:** The Azes–Vikrama-era equation is debated; never present it as settled chronology.
 
 #### Q8
-
-How should Shaka political history be organised?
-
-- A. As one dynasty ruling Taxila, Mathura and western India simultaneously.
-- B. As a purely nomadic phase with no settled institutions.
-- C. As a short interval without regional continuities.
-- D. As several regional branches whose dates and authority overlapped with Indo-Greek, Pahlava, Satavahana and Kushana powers.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -173,14 +484,6 @@ How should Shaka political history be organised?
 > **Examiner trap 8:** A broad succession chart must not erase parallel rulers and region-specific chronologies.
 
 #### Q9
-
-The titles kshatrapa and mahakshatrapa are best understood as:
-
-- A. Flexible satrapal titles whose actual powers varied and could support delegated rule or regional sovereignty.
-- B. Fixed equivalents of modern district magistrate and governor.
-- C. Exclusively Buddhist monastic ranks.
-- D. Titles used only by Kushana kings at Purushapura.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -193,14 +496,6 @@ The titles kshatrapa and mahakshatrapa are best understood as:
 > **Examiner trap 9:** A title reveals claimed rank, not a complete constitutional job description.
 
 #### Q10
-
-Which evidence most securely links Nahapana's displacement to Gautamiputra Satakarni?
-
-- A. A later legend of Kanishka's council.
-- B. Gautamiputra's overstrikes on Nahapana's silver coins.
-- C. The Heliodorus pillar.
-- D. A Chinese account of Yuezhi migration.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -213,14 +508,6 @@ Which evidence most securely links Nahapana's displacement to Gautamiputra Satak
 > **Examiner trap 10:** Overstrikes show displacement but do not map every campaign or date every locality.
 
 #### Q11
-
-Rudradaman I's Junagadh inscription is especially valuable because it:
-
-- A. Is a neutral census of every Western Kshatrapa district.
-- B. Proves Sanskrit instantly replaced Prakrit across India.
-- C. Combines a dated Shaka-era record, Sudarshana-lake repair, genealogy, conquest claims and courtly Sanskrit.
-- D. Shows Rudradaman was a Satavahana ruler.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -233,14 +520,6 @@ Rudradaman I's Junagadh inscription is especially valuable because it:
 > **Examiner trap 11:** Shaka year 72 dates the inscription; it does not identify the founder of the Shaka era.
 
 #### Q12
-
-Gondophares should be placed in which political formation?
-
-- A. The Indo-Greek house of Menander.
-- B. The Kardamaka Western Kshatrapas.
-- C. The Kushana line after Vasudeva.
-- D. The Indo-Parthian or Pahlava layer, known through coins and inscriptions such as Takht-i-Bahi.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -253,14 +532,6 @@ Gondophares should be placed in which political formation?
 > **Examiner trap 12:** The Acts of Thomas association is later tradition and cannot verify every journey detail.
 
 #### Q13
-
-The Great Yuezhi movement is reconstructed chiefly by correlating:
-
-- A. Chinese historical accounts with Central Asian archaeology, coins and later Kushana evidence.
-- B. Only the Junagadh inscription.
-- C. Only the Milindapanha.
-- D. Sangam poems with Gupta land grants.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -273,14 +544,6 @@ The Great Yuezhi movement is reconstructed chiefly by correlating:
 > **Examiner trap 13:** Yuezhi is the wider confederation; Kushana was the Guishuang branch that gained predominance.
 
 #### Q14
-
-Kujula Kadphises is best associated with:
-
-- A. Founding the Shaka era beyond dispute.
-- B. Early Kushana consolidation and expansion south of the Hindu Kush, visible mainly through coins.
-- C. Composing the Buddhacharita.
-- D. Issuing the Junagadh prashasti.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -293,14 +556,6 @@ Kujula Kadphises is best associated with:
 > **Examiner trap 14:** Do not project Kanishka's later imperial reach backward onto Kujula's entire reign.
 
 #### Q15
-
-Which description of Vima Kadphises is most defensible?
-
-- A. He issued no gold and used only Buddhist imagery.
-- B. He was the Indo-Parthian king linked to St Thomas.
-- C. His gold and copper issues display expanding monetary capacity and Shiva/Oesho-related iconography.
-- D. He is known only from the Milindapanha.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -313,14 +568,6 @@ Which description of Vima Kadphises is most defensible?
 > **Examiner trap 15:** Kushana gold cannot be explained solely by Roman trade; tribute, bullion and fiscal choices also mattered.
 
 #### Q16
-
-Which chronology statement is safest?
-
-- A. Kanishka certainly founded the Shaka era in 78 CE.
-- B. Every Kushana inscription uses the same undisputed era.
-- C. Kanishka's accession can be dated to one exact year without debate.
-- D. The Shaka era begins in 78 CE, while a major modern chronology places Kanishka around 127 CE and keeps the association contested.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -333,14 +580,6 @@ Which chronology statement is safest?
 > **Examiner trap 16:** Never equate 78 CE automatically with Kanishka's accession.
 
 #### Q17
-
-Why is the Rabatak inscription central to Kushana history?
-
-- A. It gives a Bactrian-in-Greek-script royal text with genealogy, titulature, deity language and eastern city claims.
-- B. It is a Greek-language biography of Menander.
-- C. It is the official transcript of Kanishka's Buddhist council.
-- D. It proves uniform Kushana taxation throughout the Ganga delta.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -353,14 +592,6 @@ Why is the Rabatak inscription central to Kushana history?
 > **Examiner trap 17:** Rabatak clarifies ruler order and claims; it does not turn every named city into uniformly governed territory.
 
 #### Q18
-
-Kushana political geography is best represented as:
-
-- A. A maritime kingdom with no Central Asian core.
-- B. A multi-centred network linking Bactria, Kapisa/Begram, Purushapura, Taxila and Mathura through varied tiers of control.
-- C. A uniform province system centred only at Pataliputra.
-- D. An empire whose borders equal all Kushana coin findspots.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -373,14 +604,6 @@ Kushana political geography is best represented as:
 > **Examiner trap 18:** Purushapura, Mathura and Bactria were major centres; avoid declaring one exclusive capital for every phase.
 
 #### Q19
-
-What does a Kushana coin found far east of the strongest imperial core prove first?
-
-- A. Direct annexation and taxation of the findspot.
-- B. The location of the issuing mint.
-- C. Circulation, exchange or deposition that requires contextual interpretation.
-- D. A permanent Kushana garrison.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -393,14 +616,6 @@ What does a Kushana coin found far east of the strongest imperial core prove fir
 > **Examiner trap 19:** Rule, influence and coin circulation are three different map layers.
 
 #### Q20
-
-The Kushana titles shaonano shao and devaputra most directly express:
-
-- A. Guild membership and monastic rank.
-- B. Abolition of regional intermediaries.
-- C. A modern doctrine of popular sovereignty.
-- D. King-of-kings and son-of-god claims that exalted royal authority across cultural idioms.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -413,14 +628,6 @@ The Kushana titles shaonano shao and devaputra most directly express:
 > **Examiner trap 20:** Divine royal titles show ideology; they do not by themselves prove literal universal king-worship.
 
 #### Q21
-
-Which description of the Silk Routes is most accurate for this topic?
-
-- A. Changing overland corridors connected China, the Tarim Basin, Bactria, Gandhara and India, while maritime routes linked western ports to West Asia and Rome.
-- B. One paved road was owned continuously by Kanishka.
-- C. Only Chinese silk travelled and no Indian goods moved.
-- D. Sea trade made caravan cities irrelevant.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -433,14 +640,6 @@ Which description of the Silk Routes is most accurate for this topic?
 > **Examiner trap 21:** Write Silk Routes in the plural and identify nodes, actors and changing control.
 
 #### Q22
-
-What is the strongest inference from Kushana gold coinage?
-
-- A. Every peasant household used gold daily.
-- B. The state and elite circuits possessed substantial high-value monetary and bullion capacity.
-- C. Rome politically controlled the Kushana Empire.
-- D. Copper and barter disappeared from the economy.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -453,14 +652,6 @@ What is the strongest inference from Kushana gold coinage?
 > **Examiner trap 22:** Monetisation was differentiated by denomination, region and social use.
 
 #### Q23
-
-Which statement about cavalry and the stirrup is historically safest?
-
-- A. Central Asian rulers invented every Indian military technique.
-- B. Kushanas certainly introduced the modern iron stirrup across India in the first century CE.
-- C. Mounted warfare, saddles, horse gear and trousered cavalry gained visibility, but the secure dating and diffusion of true stirrups require separate archaeological proof.
-- D. Coins showing horsemen prove identical battlefield practice in every province.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -473,14 +664,6 @@ Which statement about cavalry and the stirrup is historically safest?
 > **Examiner trap 23:** Credit stronger cavalry and horse gear cautiously; do not make the stirrup a certain Kushana invention.
 
 #### Q24
-
-Kushana coin pantheons are best interpreted as:
-
-- A. Proof that the population practised one uniform syncretic religion.
-- B. Random decoration without political communication.
-- C. Evidence that Kanishka was exclusively Buddhist.
-- D. Plural royal iconography addressing varied constituencies through Iranian, Greek, Indian and Buddhist divine forms.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -493,14 +676,6 @@ Kushana coin pantheons are best interpreted as:
 > **Examiner trap 24:** A deity on a coin proves representation and policy more securely than personal conversion.
 
 #### Q25
-
-Which statement best distinguishes Kanishka's patronage from Mahayana origins?
-
-- A. Kanishka was a major Buddhist patron, but Mahayana developed through longer textual, monastic and social processes.
-- B. Kanishka wrote every Mahayana sutra.
-- C. The fourth council is documented by a contemporary official transcript.
-- D. Buddhist transmission to Central Asia depended only on royal missions.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -513,14 +688,6 @@ Which statement best distinguishes Kanishka's patronage from Mahayana origins?
 > **Examiner trap 25:** Treat the Kashmir council and Mahayana claims as traditions with source labels, not uncontested events.
 
 #### Q26
-
-Gandhara art is most accurately described as:
-
-- A. Pure Greek sculpture transplanted unchanged into India.
-- B. A Buddhist artistic tradition of north-western workshops combining Hellenistic, Iranian, Central Asian and Indic resources.
-- C. A copy of Mathura with no regional material base.
-- D. A Gupta invention unrelated to Kushana patronage.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -533,14 +700,6 @@ Gandhara art is most accurately described as:
 > **Examiner trap 26:** Style is not ethnicity: Hellenised form does not prove that every sculptor was Greek.
 
 #### Q27
-
-Which contrast between Mathura and Gandhara is strongest?
-
-- A. Mathura produced no Buddhist images.
-- B. Gandhara alone created anthropomorphic Buddha images beyond dispute.
-- C. Mathura used red sandstone and older local idioms across Buddhist, Jaina, Brahmanical and royal images, while Gandhara favoured north-western schist/stucco traditions.
-- D. Mathura merely copied Roman marble sculpture.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -553,14 +712,6 @@ Which contrast between Mathura and Gandhara is strongest?
 > **Examiner trap 27:** Do not reduce Gandhara to foreign and Mathura to isolated indigenous purity.
 
 #### Q28
-
-Which language-script pairing is correct?
-
-- A. Rabatak—Sanskrit in Kharoshthi.
-- B. Indo-Greek coins—Latin in Brahmi.
-- C. Junagadh—Bactrian in Greek script.
-- D. Rabatak—Bactrian in Greek script; many Indo-Greek issues—Greek and Prakrit legends using Greek and Kharoshthi.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -573,14 +724,6 @@ Which language-script pairing is correct?
 > **Examiner trap 28:** Greek script does not always mean Greek language; Bactrian is the key Kushana example.
 
 #### Q29
-
-How should claims about calendars, clothing and science be framed?
-
-- A. As selective, evidence-specific exchanges: the Shaka era is distinct from Kanishka's disputed accession; tunics/trousers appear in contact-zone imagery; astronomical vocabulary moved without proving wholesale importation.
-- B. Every calendar, garment and scientific idea in India arrived with one invasion.
-- C. The national Shaka calendar proves Kanishka founded the era.
-- D. Royal dress on one statue establishes the clothing of every social class.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -593,14 +736,6 @@ How should claims about calendars, clothing and science be framed?
 > **Examiner trap 29:** Separate transmission from invention, and modern calendar use from ancient era-founder debates.
 
 #### Q30
-
-Which formulation best captures social assimilation?
-
-- A. Foreign-origin elites instantly lost all previous cultural forms.
-- B. Integration was negotiated through titles, language, marriage, donation, guilds and cults, while identities and power remained unequal and regionally varied.
-- C. Brahmanical labels provide a complete census of lived status.
-- D. Only kings participated in cultural exchange.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -613,14 +748,6 @@ Which formulation best captures social assimilation?
 > **Examiner trap 30:** Prefer cosmopolitan synthesis or negotiated adaptation to a simple one-way Indianisation story.
 
 #### Q31
-
-Which account of Kushana decline is most defensible?
-
-- A. One invasion ended all Kushana authority, trade and Buddhism at once.
-- B. Gold coinage stopped everywhere on a single date.
-- C. Dynastic division, Sasanian pressure, regional successors and changing fiscal-route conditions produced staggered contraction with cultural continuities.
-- D. The Western Kshatrapas vanished before Kushana formation.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -633,14 +760,6 @@ Which account of Kushana decline is most defensible?
 > **Examiner trap 31:** Use ended–persisted–transformed, not a single-cause dark-age narrative.
 
 #### Q32
-
-Which method gives the most reliable overall reconstruction?
-
-- A. Treat every later legend as literal history.
-- B. Draw borders from the widest coin distribution.
-- C. Assume art style reveals the ethnicity of each sculptor.
-- D. Triangulate coins, inscriptions, archaeology, Chinese/classical texts and Buddhist traditions, grading each claim by date, genre, region and scale.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -652,8 +771,112 @@ Which method gives the most reliable overall reconstruction?
 
 > **Examiner trap 32:** The archive is fragmented, not useless; qualification increases rather than weakens an answer.
 
+#### Q33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct. Heliodorus belongs to the late second century BCE, Gondophares to the early first century CE, Kanishka broadly to the second century CE, and Junagadh is dated Shaka year 72 (150 CE). [Q33-A]
+- **B:** Incorrect. The Besnagar dedication predates Gondophares; Junagadh is later than the usual placement of Rabatak/Kanishka. [Q33-B]
+- **C:** Incorrect. Gondophares precedes Kanishka rather than succeeding him. [Q33-C]
+- **D:** Incorrect. Kanishka cannot be placed before the Besnagar envoy. [Q33-D]
+
+> **Examiner trap 33:** Era-number arithmetic cannot replace historically grounded dating of individual inscriptions.
+
+#### Q34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** A coin legend alone cannot establish Greek territorial possession. [Q34-A]
+- **B:** Correct. Bilingual legends express an adapted monetary-political idiom, while population language cannot be read directly from coin design. [Q34-B]
+- **C:** Script identification does not locate a mint at Pataliputra. [Q34-C]
+- **D:** Bilingual currency speaks to exchange and authority, not a compulsory common cult. [Q34-D]
+
+> **Examiner trap 34:** Distinguish the intended audience of a coin from the identity of all its users.
+
+#### Q35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** The inscription does describe reservoir repair, so excluding 1 is unsound. [Q35-A]
+- **B:** The record has retrospective layers as well as repair; 2 is not neutral reportage. [Q35-B]
+- **C:** Correct. The inscription records repair and an earlier construction/works sequence, but its political encomium requires critical reading. [Q35-C]
+- **D:** The prashasti character of the record prevents treating its campaign claims as an independent audit. [Q35-D]
+
+> **Examiner trap 35:** Separate datable inscriptional claims about public works from political claims within a prashasti.
+
+#### Q36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** The Buddhist donation itself contradicts a universal prohibition. [Q36-A]
+- **B:** Oesho is a coin-iconographic category; personal exclusive devotion is not evidenced by that design. [Q36-B]
+- **C:** An unrelated donation cannot prove the purpose or minting context of a coin. [Q36-C]
+- **D:** Correct. Different media document distinct political and religious activities at different scales. [Q36-D]
+
+> **Examiner trap 36:** Do not convert iconography plus an unrelated donation into a single ruler’s psychological profile.
+
+#### Q37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct. The Bactrian inscription is a royal claim; coins travel and must be contextualised before assigning sovereignty. [Q37-A]
+- **B:** The inscription supplies no garrison census and hoard distribution cannot map direct fiscal authority. [Q37-B]
+- **C:** Neither era foundation nor doctrinal genesis follows from these sources. [Q37-C]
+- **D:** These media do not furnish comprehensive literary genealogy or issuer biographies. [Q37-D]
+
+> **Examiner trap 37:** The verb “lists” is not equivalent to “administered continuously”.
+
+#### Q38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Horse and mounted movement are well attested and cannot be deleted wholesale. [Q38-A]
+- **B:** Correct. Different forms of riding equipment must be distinguished from secure evidence for paired load-bearing stirrups. [Q38-B]
+- **C:** Booted dress does not document stirrup manufacture or deployment. [Q38-C]
+- **D:** A contested dynastic date cannot date a technological invention. [Q38-D]
+
+> **Examiner trap 38:** Do not substitute boots, saddles or toe loops for securely attested paired stirrups.
+
+#### Q39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Pilgrims’ later identity does not establish origin of two regional workshops. [Q39-A]
+- **B:** Antiquities prices are not evidence of ancient iconogenesis. [Q39-B]
+- **C:** Correct. Converging archaeological context and dated regional production could assess simultaneity and agency. [Q39-C]
+- **D:** A stylistic feature cannot settle chronological priority or the provenance of another region. [Q39-D]
+
+> **Examiner trap 39:** A style resemblance is not a proof of common workshop or first invention.
+
+#### Q40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** A portrait does not reveal distribution of purchasing power. [Q40-A]
+- **B:** Caravan traffic alone measures neither local income nor distribution. [Q40-B]
+- **C:** Iconographic diversity does not quantify universal material welfare. [Q40-C]
+- **D:** Correct. Regional and denominational evidence tests the leap from elite currency to general prosperity. [Q40-D]
+
+> **Examiner trap 40:** Gold coin abundance is not a household-income survey.
 
 ## PYQS AND ANSWER PRACTICE
+
 
 ### PYQ 01 — 2019 GS-I Mains Q1: Gandhara art
 

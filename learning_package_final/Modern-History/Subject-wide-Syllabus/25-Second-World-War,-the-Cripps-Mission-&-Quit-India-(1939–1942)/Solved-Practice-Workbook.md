@@ -6,821 +6,158 @@ topic_key: modern-indian-history-25
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Unconsulted belligerency, 3 September 1939?
+### Q1. What did India's entry into the Second World War expose about the Government of India Act, 1935?
 
-A. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-D. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
+A. Provincial autonomy did not give elected ministries a veto over imperial war policy.
+B. Provincial autonomy transferred defence and external affairs to elected provincial cabinets.
+C. The Federal Court had to authorise each declaration of war involving India.
+D. The Act required a referendum in every province before participation in a European war.
 
-**Answer: A.**
-**Explanation:** The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q2. Place the following in chronological order: Congress ministries resign; League observes Deliverance Day; Lahore Resolution.
 
-### Q2. Which chronology card should be filed under Unconsulted belligerency, 3 September 1939?
+A. Lahore Resolution → resignations → Deliverance Day.
+B. Resignations → Deliverance Day → Lahore Resolution.
+C. Deliverance Day → Lahore Resolution → resignations.
+D. Resignations → Lahore Resolution → Deliverance Day.
 
-A. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-B. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-C. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-D. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
+### Q3. Which proposal belongs to the August Offer rather than the Cripps Mission?
 
-**Answer: B.**
-**Explanation:** The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Allowing provinces to refuse the new constitution and retain their existing position.
+B. Proposing a post-war constituent body with ruler-nominated princely representation.
+C. Enlarging the Viceroy's Executive Council while postponing constitution-making until after the war.
+D. Retaining British wartime control of defence alongside a provincial non-accession clause.
 
-### Q3. Which option should a candidate retain when revising Unconsulted belligerency, 3 September 1939?
+### Q4. Why did the August Offer's minority provision impede a simple majority settlement?
 
-A. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-B. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-C. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
+A. It immediately gave every province a statutory right to secede.
+B. It transferred defence to a cabinet chosen by Congress and the League together.
+C. It abolished separate electorates for the duration of the war.
+D. It conditioned the adoption of a future constitution on minority consent.
 
-**Answer: C.**
-**Explanation:** The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q5. A 1940 campaign selected individual protesters to affirm a right to speak against involuntary war participation. Identify its first two named satyagrahis.
 
-### Q4. Which statement avoids a common matching trap about Unconsulted belligerency, 3 September 1939?
+A. Vinoba Bhave followed by Jawaharlal Nehru.
+B. Jawaharlal Nehru followed by Aruna Asaf Ali.
+C. Jayaprakash Narayan followed by Ram Manohar Lohia.
+D. Usha Mehta followed by Vinoba Bhave.
 
-A. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-B. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-C. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-D. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
+### Q6. Which contrast between Individual Satyagraha and Quit India best explains their different mobilisation?
 
-**Answer: D.**
-**Explanation:** The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Both were directed continuously by Gandhi from prison through elected provincial ministries.
+B. The former limited participation to selected anti-war protesters; the latter saw mass local initiative after national leaders were arrested.
+C. The former sought a provincial non-accession option; the latter proposed an expanded Executive Council.
+D. Both won an immediate transfer of defence control from the British.
 
-### Q5. Which statement correctly identifies Resignation to Lahore Resolution chain?
+### Q7. Which constitutional combination most precisely describes the Cripps proposals?
 
-A. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
+A. Immediate republic, universal adult franchise and compulsory accession of all princely states.
+B. Wartime national cabinet, transfer of defence and abolition of provincial autonomy.
+C. Post-war dominion status, a constituent body and a British Indian province's option not to accept the new constitution.
+D. Permanent 1935 Act federation, no new constitution and automatic princely election.
 
-**Answer: A.**
-**Explanation:** Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q8. What is the strongest inference from a province's Cripps-era right to refuse the new constitution?
 
-### Q6. Which chronology card should be filed under Resignation to Lahore Resolution chain?
+A. The Muslim League had already received an unconditional sovereign Pakistan in 1942.
+B. The 1935 provincial ministries were thereby reinstated before the war ended.
+C. Princely states were thereby compelled to join whichever union their neighbouring province chose.
+D. Post-war constitutional unity was conditional rather than guaranteed by the offer.
 
-A. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-B. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-C. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
+### Q9. Why did ruler-nominated representatives in the proposed constituent body matter politically?
 
-**Answer: B.**
-**Explanation:** Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Representation of princely states would not rest on popular election by their subjects.
+B. Every British Indian province would be represented solely by hereditary rulers.
+C. The League was guaranteed all princely-state seats by communal quota.
+D. The princely states would be excluded from constitution-making altogether.
 
-### Q7. Which option should a candidate retain when revising Resignation to Lahore Resolution chain?
+### Q10. Why did Congress reject the Cripps offer despite its constitutional promise?
 
-A. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-B. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-C. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
+A. It offered an immediate elected national cabinet controlling defence.
+B. The decisive wartime power, including defence, stayed British and the offer deferred responsible government.
+C. It required Congress to accept instant independence without any constituent assembly.
+D. It granted every minority a seat only if its provincial ministry remained in office.
 
-**Answer: C.**
-**Explanation:** Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q11. Why was Muslim League rejection of Cripps different from Congress rejection?
 
-### Q8. Which statement avoids a common matching trap about Resignation to Lahore Resolution chain?
+A. Congress demanded the immediate partition that the League refused.
+B. Both parties rejected an already elected sovereign constituent assembly exercising wartime defence power.
+C. Cripps did not guarantee Pakistan, whereas Congress also objected to deferral and the threat to unity.
+D. The League opposed an offer abolishing provinces, while Congress opposed immediate Dominion status.
 
-A. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-B. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-C. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-D. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
+### Q12. To which offer does Gandhi's 'post-dated cheque' criticism belong, and what was its point?
 
-**Answer: D.**
-**Explanation:** Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. August Offer: an already independent India had no need for a constitution.
+B. Cabinet Mission: its grouping plan had already partitioned British India.
+C. Quit India resolution: it postponed British withdrawal until after the war.
+D. Cripps: post-war promised power could not substitute for immediate authority.
 
-### Q9. Which statement correctly identifies August Offer's constitution-making promise?
+### Q13. Which sequence distinguishes the two stages of the Quit India resolution?
 
-A. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-B. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-C. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-D. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
+A. Congress Working Committee at Wardha in July 1942 → AICC at Bombay on 8 August 1942.
+B. AICC at Bombay in July → Working Committee at Wardha after 9 August arrests.
+C. Cripps at Wardha on 8 August → League at Bombay on 9 August.
+D. Congress provincial ministries at Bombay in 1939 → Cabinet Mission at Wardha in 1942.
 
-**Answer: A.**
-**Explanation:** The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q14. A student puts Gandhi's 'Do or Die' call and the leadership arrests on the same date. What correction is required?
 
-### Q10. Which chronology card should be filed under August Offer's constitution-making promise?
+A. The arrests occurred before the July Working Committee approved the resolution.
+B. The call accompanied 8 August 1942 AICC proceedings; arrests began early on 9 August.
+C. Both events happened during the March Cripps negotiations.
+D. The speech was delivered after the parallel government at Satara had ended.
 
-A. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
+### Q15. Which pairing of wartime underground work and person is defensible?
 
-**Answer: B.**
-**Explanation:** The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q11. Which option should a candidate retain when revising August Offer's constitution-making promise?
-
-A. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-B. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-C. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-D. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-
-**Answer: C.**
-**Explanation:** The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q12. Which statement avoids a common matching trap about August Offer's constitution-making promise?
-
-A. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-B. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-C. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-D. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-
-**Answer: D.**
-**Explanation:** The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q13. Which statement correctly identifies August Offer's minority-consent veto?
-
-A. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-B. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-C. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-D. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-
-**Answer: A.**
-**Explanation:** The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q14. Which chronology card should be filed under August Offer's minority-consent veto?
-
-A. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-B. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-C. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-D. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-
-**Answer: B.**
-**Explanation:** The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q15. Which option should a candidate retain when revising August Offer's minority-consent veto?
-
-A. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-B. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-C. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-D. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-
-**Answer: C.**
-**Explanation:** The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q16. Which statement avoids a common matching trap about August Offer's minority-consent veto?
-
-A. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-B. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-C. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-D. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-
-**Answer: D.**
-**Explanation:** The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q17. Which statement correctly identifies Individual Satyagraha's October 1940 sequence?
-
-A. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-B. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-C. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-D. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-
-**Answer: A.**
-**Explanation:** Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q18. Which chronology card should be filed under Individual Satyagraha's October 1940 sequence?
-
-A. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-B. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-C. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-D. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-
-**Answer: B.**
-**Explanation:** Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q19. Which option should a candidate retain when revising Individual Satyagraha's October 1940 sequence?
-
-A. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-B. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-C. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-D. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-
-**Answer: C.**
-**Explanation:** Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q20. Which statement avoids a common matching trap about Individual Satyagraha's October 1940 sequence?
-
-A. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-B. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-C. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-
-**Answer: D.**
-**Explanation:** Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q21. Which statement correctly identifies Individual Satyagraha's limited objective?
-
-A. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-B. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-C. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-D. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-
-**Answer: A.**
-**Explanation:** Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q22. Which chronology card should be filed under Individual Satyagraha's limited objective?
-
-A. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-B. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-C. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-D. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-
-**Answer: B.**
-**Explanation:** Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q23. Which option should a candidate retain when revising Individual Satyagraha's limited objective?
-
-A. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-B. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-C. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-D. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-
-**Answer: C.**
-**Explanation:** Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q24. Which statement avoids a common matching trap about Individual Satyagraha's limited objective?
-
-A. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-B. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-C. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-D. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-
-**Answer: D.**
-**Explanation:** Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q25. Which statement correctly identifies Cripps Mission arrival and proposals, March 1942?
-
-A. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-B. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-C. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-D. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-
-**Answer: A.**
-**Explanation:** Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q26. Which chronology card should be filed under Cripps Mission arrival and proposals, March 1942?
-
-A. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-B. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-C. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-D. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-
-**Answer: B.**
-**Explanation:** Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q27. Which option should a candidate retain when revising Cripps Mission arrival and proposals, March 1942?
-
-A. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-B. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-C. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-D. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-
-**Answer: C.**
-**Explanation:** Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q28. Which statement avoids a common matching trap about Cripps Mission arrival and proposals, March 1942?
-
-A. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-B. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-C. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-D. Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended.
-
-**Answer: D.**
-**Explanation:** Sir Stafford Cripps arrived in India in March 1942 and announced his proposals in late March 1942, offering Dominion status after the war and a constitution-making body to be convened once the war ended. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q29. Which statement correctly identifies Cripps opt-out and non-accession clause?
-
-A. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-B. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-C. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-D. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-
-**Answer: A.**
-**Explanation:** The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q30. Which chronology card should be filed under Cripps opt-out and non-accession clause?
-
-A. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-B. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-C. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-D. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-
-**Answer: B.**
-**Explanation:** The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q31. Which option should a candidate retain when revising Cripps opt-out and non-accession clause?
-
-A. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-B. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-C. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-D. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-
-**Answer: C.**
-**Explanation:** The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q32. Which statement avoids a common matching trap about Cripps opt-out and non-accession clause?
-
-A. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-D. The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create.
-
-**Answer: D.**
-**Explanation:** The Cripps proposals allowed any province, or any princely state, to opt out of, or not accede to, the new Indian union that the post-war constitution-making body might create. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q33. Which statement correctly identifies Princely nomination in the Cripps scheme?
-
-A. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-B. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-C. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-D. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-
-**Answer: A.**
-**Explanation:** Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q34. Which chronology card should be filed under Princely nomination in the Cripps scheme?
-
-A. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-B. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-C. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-D. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-
-**Answer: B.**
-**Explanation:** Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q35. Which option should a candidate retain when revising Princely nomination in the Cripps scheme?
-
-A. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-D. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-
-**Answer: C.**
-**Explanation:** Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Princely nomination in the Cripps scheme?
-
-A. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-D. Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process.
-
-**Answer: D.**
-**Explanation:** Princely states would be represented in the proposed constitution-making body by members nominated by their rulers rather than by any popularly elected process. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies British wartime control and no immediate cabinet?
-
-A. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-B. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-C. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-D. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-
-**Answer: A.**
-**Explanation:** The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under British wartime control and no immediate cabinet?
-
-A. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-B. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-C. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-D. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-
-**Answer: B.**
-**Explanation:** The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising British wartime control and no immediate cabinet?
-
-A. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-D. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-
-**Answer: C.**
-**Explanation:** The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about British wartime control and no immediate cabinet?
-
-A. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet.
-
-**Answer: D.**
-**Explanation:** The Cripps proposals kept defence and the general conduct of the war under British control for the war's duration and offered no immediate responsible national cabinet. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Multi-party rejection of the Cripps proposals?
-
-A. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-B. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-C. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-D. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-
-**Answer: A.**
-**Explanation:** Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Multi-party rejection of the Cripps proposals?
-
-A. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-B. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-C. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-D. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-
-**Answer: B.**
-**Explanation:** Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Multi-party rejection of the Cripps proposals?
-
-A. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-D. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-
-**Answer: C.**
-**Explanation:** Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Multi-party rejection of the Cripps proposals?
-
-A. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning.
-
-**Answer: D.**
-**Explanation:** Congress objected to the deferred and conditional nature of the offer, the League objected that it did not guarantee Pakistan, and Sikh, Hindu Mahasabha and some princely opinion raised separate objections, so the rejection was multi-party and not uniform in its reasoning. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Post-dated cheque phrase and its provenance?
-
-A. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-B. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-C. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-D. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-
-**Answer: A.**
-**Explanation:** Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Post-dated cheque phrase and its provenance?
-
-A. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-B. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-
-**Answer: B.**
-**Explanation:** Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Post-dated cheque phrase and its provenance?
-
-A. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-D. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-
-**Answer: C.**
-**Explanation:** Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Post-dated cheque phrase and its provenance?
-
-A. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-B. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-C. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-D. Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer.
-
-**Answer: D.**
-**Explanation:** Gandhi's remark that the offer was like a post-dated cheque is commonly quoted in its short form; the longer phrase adding a 'crashing bank' is widely repeated but its exact wording and occasion carry uncertain provenance, so this package uses only the shorter, better-attested phrase and applies it solely to the Cripps proposals, never to the August Offer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Quit India's two-stage resolution?
-
-A. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-
-**Answer: A.**
-**Explanation:** The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Quit India's two-stage resolution?
-
-A. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-B. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-C. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-D. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-
-**Answer: B.**
-**Explanation:** The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Quit India's two-stage resolution?
-
-A. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-B. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-C. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-D. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-
-**Answer: C.**
-**Explanation:** The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Quit India's two-stage resolution?
-
-A. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-D. The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date.
-
-**Answer: D.**
-**Explanation:** The Quit India resolution was adopted in two stages: the Congress Working Committee approved it at Wardha on 14 July 1942, and the All-India Congress Committee ratified it at Bombay on 8 August 1942 — a two-stage process that should never be collapsed into a single date. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Operation Zero Hour timing?
-
-A. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-D. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-
-**Answer: A.**
-**Explanation:** Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Operation Zero Hour timing?
-
-A. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-B. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-
-**Answer: B.**
-**Explanation:** Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Operation Zero Hour timing?
-
-A. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-D. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-
-**Answer: C.**
-**Explanation:** Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Operation Zero Hour timing?
-
-A. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-B. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-C. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-D. Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution.
-
-**Answer: D.**
-**Explanation:** Mass arrests under what the government called Operation Zero Hour began early on 9 August 1942, one day after, not on the same day as, the Bombay resolution. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Do or Die and the Gowalia Tank flag?
-
-A. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-
-**Answer: A.**
-**Explanation:** Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Do or Die and the Gowalia Tank flag?
-
-A. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-B. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-C. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-D. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-
-**Answer: B.**
-**Explanation:** Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Do or Die and the Gowalia Tank flag?
-
-A. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-B. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-C. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-D. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-
-**Answer: C.**
-**Explanation:** Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Do or Die and the Gowalia Tank flag?
-
-A. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-B. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-C. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-D. Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest.
-
-**Answer: D.**
-**Explanation:** Gandhi's 8 August 1942 call to 'Do or Die' set the movement's tone, and Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leadership's arrest. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Underground resistance networks?
-
-A. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-D. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-
-**Answer: A.**
-**Explanation:** Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Underground resistance networks?
-
-A. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-B. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-C. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-D. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-
-**Answer: B.**
-**Explanation:** Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Underground resistance networks?
-
-A. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-B. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-C. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-D. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-
-**Answer: C.**
-**Explanation:** Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Underground resistance networks?
-
-A. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-B. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-C. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-D. Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested.
-
-**Answer: D.**
-**Explanation:** Underground resistance included Usha Mehta's secret Congress Radio broadcasts and the clandestine organising of Jayaprakash Narayan and Ram Manohar Lohia after most senior leaders were arrested. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Parallel national governments?
-
-A. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-B. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-C. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-D. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-
-**Answer: A.**
-**Explanation:** Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Parallel national governments?
-
-A. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-B. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-C. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-D. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-
-**Answer: B.**
-**Explanation:** Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Parallel national governments?
-
-A. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-B. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-C. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-D. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-
-**Answer: C.**
-**Explanation:** Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Parallel national governments?
-
-A. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-B. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-C. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-D. Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down.
-
-**Answer: D.**
-**Explanation:** Parallel national governments were declared at Ballia, at Tamluk in Midnapore as the Jatiya Sarkar, and at Satara as the Prati Sarkar, each surviving for a different duration before being suppressed or wound down. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Movement's social base and repression caution?
-
-A. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-B. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-C. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-D. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-
-**Answer: A.**
-**Explanation:** The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Movement's social base and repression caution?
-
-A. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-B. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-C. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-D. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-
-**Answer: B.**
-**Explanation:** The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Movement's social base and repression caution?
-
-A. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-D. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-
-**Answer: C.**
-**Explanation:** The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Movement's social base and repression caution?
-
-A. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-D. The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals.
-
-**Answer: D.**
-**Explanation:** The movement combined student, worker and peasant participation with regional variation in intensity and included both sabotage of communication lines and Congress's own non-violent creed; repression was harsh, but this package avoids stating unsupported exact casualty or arrest totals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Political alignments during Quit India?
-
-A. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-B. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-C. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-D. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-
-**Answer: A.**
-**Explanation:** The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Political alignments during Quit India?
-
-A. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-B. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-C. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-D. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-
-**Answer: B.**
-**Explanation:** The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Political alignments during Quit India?
-
-A. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-B. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-C. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-D. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-
-**Answer: C.**
-**Explanation:** The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Political alignments during Quit India?
-
-A. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-D. The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation.
-
-**Answer: D.**
-**Explanation:** The Muslim League remained aloof from or opposed the movement, the Communist Party of India followed a People's War line supporting the British war effort after June 1941, and the Hindu Mahasabha and many princely rulers stayed distant from or opposed the agitation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Quit India's results and the 2024 Mains anchor?
-
-A. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-B. The Viceroy declared war on Germany on 3 September 1939; the Viceroy simultaneously declared India a belligerent without consulting any Indian political leader or elected legislature.
-C. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-D. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-
-**Answer: A.**
-**Explanation:** Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Quit India's results and the 2024 Mains anchor?
-
-A. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-B. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-C. Congress ministries resigned between October and November 1939 in protest; the Muslim League observed 22 December 1939 as a Deliverance Day, and the Lahore Resolution of March 1940 followed as one link in a chain of connected party responses rather than one simple cause.
-D. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-
-**Answer: B.**
-**Explanation:** Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Quit India's results and the 2024 Mains anchor?
-
-A. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-B. The August Offer of 8 August 1940 proposed an expanded, more representative body for post-war constitution-making and promised that minority views would be given full weight, but it did not offer an immediate national government.
-C. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-D. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-
-**Answer: C.**
-**Explanation:** Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Quit India's results and the 2024 Mains anchor?
-
-A. Individual Satyagraha pursued a limited anti-war free-speech objective — the right to publicly oppose India's forced participation in the war — and must not be described as a mass movement.
-B. Individual Satyagraha began on 17 October 1940 with Vinoba Bhave offering civil disobedience first, followed by Jawaharlal Nehru as the second satyagrahi, each individually courting arrest rather than launching mass action.
-C. The August Offer's constitution-making promise carried a minority-consent condition: no future constitution would be adopted without the consent of India's minorities, giving minority communities an effective veto over any post-war settlement.
-D. Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor.
-
-**Answer: D.**
-**Explanation:** Quit India was suppressed by the government within months through mass arrests and force, and it did not by itself win India's independence, but it demonstrated the depth of popular anti-colonial sentiment; a verified 2024 Mains GS-I question asks what events led to the Quit India Movement and its results, and this package treats that question as its primary anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Semantic-completeness coverage drills — Topic 25
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Why replace Greater India with connected history? | real transmission → local selection → translation → hybrid result → return flow | passive colonies |
-| B | How should a Sanskrit inscription abroad be used? | date/place/donor → local political purpose → script/language limit | Indian sovereignty |
-| C | Compare land and maritime routes. | Gandhara-oasis-China versus port-monsoon-straits → agents/institutions | one diffusion route |
-| D | Distinguish Buddhist transmissions. | Theravada/Sri Lanka → Mahayana/Central-East Asia → later Vajrayana/Himalaya | one council or chronology |
-| E | Test traveller knowledge. | Kumarajiva, Faxian, Xuanzang and Yijing by route, purpose and date | neutral universal eyewitness |
-| F | Explain Southeast Asian localization. | Funan/Champa → Srivijaya/Sailendra → local scripts, courts and monuments | Indian-built replicas |
-| G | What can coins, ceramics and ships prove? | context → circulation/use → alternative explanation → limit | coin/import equals rule |
-| H | Demonstrate reciprocity. | foreign communities/motifs/technologies → effects in India → unequal regional exchange | one-way cultural export |
-
-**PYQ status drill:** all seven retained PYQs are adjacent or boundary-owned;
-none is routed directly to Topic 25.
+A. Vinoba Bhave — commanding the Royal Indian Navy ratings' 1946 strike.
+B. Aruna Asaf Ali — authoring the 1942 Cripps constitutional offer.
+C. Usha Mehta — secret Congress Radio broadcasts after August 1942.
+D. Stafford Cripps — founding the Tamluk Jatiya Sarkar.
+
+### Q16. Which set correctly matches all three commonly cited Quit India parallel governments?
+
+A. Lahore (Prati Sarkar); Delhi (Jatiya Sarkar); Ballia (Azad Hind).
+B. Tamluk (Prati Sarkar); Satara (Jatiya Sarkar); Goa (Azad Hind).
+C. Bombay (Jatiya Sarkar); Wardha (Prati Sarkar); Singapore (Ballia).
+D. Ballia; Tamluk in Midnapore (Jatiya Sarkar); Satara (Prati Sarkar).
+
+### Q17. Which interpretation of Quit India's violence respects the evidence?
+
+A. Congress's non-violent programme coexisted with local sabotage and attacks on colonial infrastructure after leaders' arrest.
+B. Every attack on telegraph lines had been ordered personally by Gandhi in August 1942.
+C. No railway, telegraph or police-station attacks occurred because non-violence was official policy.
+D. All districts followed an identical sequence of urban and rural rebellion.
+
+### Q18. Which party-alignment inference about Quit India is supported?
+
+A. The League and Communists jointly adopted the AICC resolution in Bombay.
+B. The League stayed aloof and Communists opposed the movement on a People's War line after the attack on the USSR.
+C. Communists supported Quit India because Germany's June 1941 invasion made them oppose the Allied war.
+D. The League's opposition proved all Muslim individuals abstained from all local protests.
+
+### Q19. Which assessment best separates Quit India's immediate and later outcomes?
+
+A. It alone secured independence and partition in August 1942.
+B. It remained a centrally run constitutional negotiation without a mass phase.
+C. It was suppressed as an open campaign, yet demonstrated anti-colonial mobilisation and fed into the post-war legitimacy crisis.
+D. It forced immediate British acceptance of the 1946 Cabinet Mission grouping plan.
+
+### Q20. For a 150-word answer on the events leading to Quit India and its results, which evidence selection best meets both demands?
+
+A. A list of 1946 election returns followed by a discussion of the Mountbatten Plan alone.
+B. A biography of Cripps with no wartime grievance or movement outcome.
+C. An account of parallel governments alone without causes or an immediate verdict.
+D. 1939 unconsulted war, August Offer, failed Cripps negotiations; then 8–9 August action, repression and lasting mass impact.
+
+### Source-and-interpretation coverage drills — Modern Topic 25
+
+| Drill | Required evidence and reasoning | Fatal trap |
+|---|---|---|
+| War and ministries | Unconsulted September 1939 declaration → ministries resign → competing party responses | Treat provincial autonomy as sovereignty |
+| August Offer | Future settlement, enlarged council and minority consent; compare with Cripps | Equate minority veto with provincial non-accession |
+| Individual Satyagraha | Vinoba first, Nehru second; anti-war speech through selected protests | Call it a mass uprising |
+| Cripps design | Post-war dominion and constituent body; provincial option, rulers' nominations and British wartime defence | Claim an immediate national cabinet |
+| Cripps rejection | Congress: deferral and unity; League: no guarantee of Pakistan | Assume identical reasons for rejection |
+| Quit India chronology | Wardha Working Committee → 8 August Bombay AICC → 9 August arrests | Collapse approval and arrest dates |
+| Quit India character | Gandhi's call and official creed contrasted with leaderless sabotage, underground radio and regional parallel governments | Assume constant national command or uniform violence |
+| Results | Immediate suppression versus longer political significance; answer both clauses of the routed 2024 GS-I question | Claim 1942 alone achieved independence |
 
 ### Semantic-completeness coverage drills — Modern Topic 25
 
@@ -1093,3 +430,165 @@ none is routed directly to Topic 25.
 **Why this earns marks:** The answer obeys the directive, distinguishes dates and policy stages, connects evidence to mechanism, recognises regional/social variation and avoids teleology or hero worship.
 
 **How to improve this answer:** For “Trace the full chain of developments from India's forced entry into the Second World War to…”, replace the weakest generalisation with one additional named primary/official record or attributed scholarly interpretation and state exactly what it cannot prove.
+
+## MCQ ANSWER KEY AND OPTION-SPECIFIC EXPLANATIONS
+
+### Q1 — A
+
+- **A:** War was declared without consultation of elected Indian representatives.
+- **B:** Defence was not devolved to provinces.
+- **C:** The Court did not decide entry into war.
+- **D:** No wartime referendum provision existed.
+- **Trap:** Do not infer sovereignty from provincial office.
+
+### Q2 — B
+
+- **A:** Lahore came later, not first.
+- **B:** The sequence runs from late 1939 to March 1940.
+- **C:** Resignations preceded the League's celebration.
+- **D:** March 1940 followed December 1939.
+- **Trap:** Chronology does not prove one event alone caused another.
+
+### Q3 — C
+
+- **A:** Provincial non-accession was a Cripps feature.
+- **B:** The princely representation provision belonged to Cripps.
+- **C:** Linlithgow's offer promised council expansion, minority safeguards and a future constitutional settlement.
+- **D:** These two linked clauses identify Cripps, not the August Offer.
+- **Trap:** Neither offer created immediate responsible government.
+
+### Q4 — D
+
+- **A:** Provincial non-accession is a different Cripps mechanism.
+- **B:** Immediate responsible government was not conceded.
+- **C:** Separate electorates were not abolished by the Offer.
+- **D:** The effective veto could constrain any constituent majority.
+- **Trap:** Distinguish consent veto from territorial opt-out.
+
+### Q5 — A
+
+- **A:** Vinoba began in October 1940; Nehru came second.
+- **B:** Nehru was second and Aruna is associated with Quit India.
+- **C:** The pair were underground Quit India organisers.
+- **D:** Usha Mehta operated secret Congress Radio in 1942.
+- **Trap:** Individual protest was not an all-India mass call.
+
+### Q6 — B
+
+- **A:** Congress ministers had already resigned; 1942 leadership was imprisoned.
+- **B:** Individual selection and the 1942 leadership vacuum imply distinct tactics.
+- **C:** These were constitutional-offer provisions, not movement objectives.
+- **D:** Britain retained defence during the war.
+- **Trap:** Compare programme, leadership and observed forms separately.
+
+### Q7 — C
+
+- **A:** Neither an immediate republic nor compulsory accession was offered.
+- **B:** Defence remained British-controlled.
+- **C:** These are distinct parts of the 1942 offer.
+- **D:** A constitution-making body was proposed; princes nominated representatives.
+- **Trap:** A future promise is not wartime self-government.
+
+### Q8 — D
+
+- **A:** The offer did not guarantee the League's demand.
+- **B:** The proposal did not restore Congress ministries.
+- **C:** Rulers' accession decisions were treated separately.
+- **D:** Non-accession carried a potential territorial-fragmentation risk.
+- **Trap:** A possible break-up is not the same as a partition already accomplished.
+
+### Q9 — A
+
+- **A:** Nomination gave rulers, rather than their populations, the selection power.
+- **B:** Provinces and princely states followed different tracks.
+- **C:** No blanket League allocation is established.
+- **D:** Cripps envisaged princely participation, not exclusion.
+- **Trap:** Check who selects a representative before calling a body fully representative.
+
+### Q10 — B
+
+- **A:** That is what was withheld, not offered.
+- **B:** Deferred dominion status could not answer a present demand for responsible power.
+- **C:** A constituent body was a central proposal.
+- **D:** The claimed requirement is not a Cripps provision.
+- **Trap:** Separate wartime executive power from post-war constitutional design.
+
+### Q11 — C
+
+- **A:** The positions are reversed.
+- **B:** Neither such sovereign assembly nor such defence transfer existed.
+- **C:** Opposition converged but the parties' desired outcomes differed.
+- **D:** The offer did not abolish provinces or grant immediate dominion.
+- **Trap:** Shared rejection does not imply shared rationale.
+
+### Q12 — D
+
+- **A:** The August Offer was also deferred but is not the attributed target.
+- **B:** Cabinet Mission belongs to 1946; grouping was not partition.
+- **C:** Quit India demanded withdrawal, not postponement.
+- **D:** The phrase criticises the deferred Cripps promise.
+- **Trap:** Attribution is as important as identifying a generic delay.
+
+### Q13 — A
+
+- **A:** Working Committee approval preceded all-India ratification.
+- **B:** Both the order and venues are reversed.
+- **C:** Cripps was a British envoy, not Congress's resolution-making body.
+- **D:** The Cabinet Mission belongs to 1946.
+- **Trap:** Name both institution and date, not merely 'Bombay 1942'.
+
+### Q14 — B
+
+- **A:** The Wardha resolution preceded the arrests.
+- **B:** The 24-hour sequence explains the ensuing leadership vacuum.
+- **C:** Cripps preceded Quit India by months.
+- **D:** The later local government cannot precede the call in this manner.
+- **Trap:** Never collapse approval, speech and arrests into one moment.
+
+### Q15 — C
+
+- **A:** Vinoba was the first Individual Satyagrahi, not a naval strike commander.
+- **B:** Aruna is linked to the Gowalia Tank flag, not drafting Cripps.
+- **C:** Clandestine radio sustained communication after arrests.
+- **D:** Cripps was the British envoy, not a parallel-government founder.
+- **Trap:** Identify role and political side before memorising names.
+
+### Q16 — D
+
+- **A:** These titles and locations have been wrongly reassigned.
+- **B:** The Tamluk and Satara names are transposed.
+- **C:** The resolution venues and overseas centre are not these parallel governments.
+- **D:** The source distinguishes both place and name for Tamluk and Satara.
+- **Trap:** Local alternatives to Raj rule differed in duration and reach.
+
+### Q17 — A
+
+- **A:** The distinction between declared method and observed acts matters.
+- **B:** A universal central order contradicts leadership decapitation.
+- **C:** Official creed does not erase reported attacks.
+- **D:** Mobilisation varied by region and phase.
+- **Trap:** Neither romanticise every action nor erase inconvenient evidence.
+
+### Q18 — B
+
+- **A:** Neither joined Congress in passing the resolution.
+- **B:** These different positions limited Congress's all-party coalition.
+- **C:** The invasion changed Communist policy toward supporting the anti-fascist war.
+- **D:** Party leadership positions do not establish every individual's conduct.
+- **Trap:** Distinguish organisations' positions from communal participation claims.
+
+### Q19 — C
+
+- **A:** Independence occurred in 1947, not 1942.
+- **B:** Mass local action followed mass arrests.
+- **C:** Military suppression and political significance are not contradictory.
+- **D:** The Cabinet Mission belongs to a different post-war conjuncture.
+- **Trap:** Do not attribute all 1947 outcomes solely to 1942.
+
+### Q20 — D
+
+- **A:** Later developments cannot replace the asked 1939–42 chain.
+- **B:** One individual and no result cannot answer both clauses.
+- **C:** Parallel governments are only one dimension of the results.
+- **D:** The sequence covers causal triggers and both immediate and qualified consequences.
+- **Trap:** The 2024 GS-I question asks both 'events' and 'results'.

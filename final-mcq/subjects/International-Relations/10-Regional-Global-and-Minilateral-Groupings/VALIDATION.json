@@ -1,0 +1,36 @@
+{
+  "topic": "international-relations-10",
+  "title": "Regional, Global and Minilateral Groupings",
+  "date": "2026-10-04",
+  "status": "complete",
+  "banks": [
+    {
+      "revision": 1,
+      "questions": 45,
+      "answers": 45,
+      "coverage_rows": 45,
+      "status": "complete"
+    },
+    {
+      "revision": 2,
+      "questions": 45,
+      "answers": 45,
+      "coverage_rows": 45,
+      "status": "complete"
+    },
+    {
+      "revision": 3,
+      "questions": 45,
+      "answers": 45,
+      "coverage_rows": 45,
+      "status": "complete"
+    }
+  ],
+  "root_rows": 45,
+  "exact_pyqs_live": 0,
+  "pyq_rights_hold": true,
+  "provisional_key_hold": true,
+  "institutional_status_hold": true,
+  "hostile_audit": "pass",
+  "structural_audit": "pass"
+}

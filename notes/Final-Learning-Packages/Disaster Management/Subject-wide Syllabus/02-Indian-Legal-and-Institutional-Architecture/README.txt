@@ -5,15 +5,20 @@ Topic: Indian Legal and Institutional Architecture
 Subject: Disaster Management
 Section: Subject-wide Syllabus
 Catalogue number: 02
-Source record ID: disaster-management-02:learner-v2:g3
-Source generation: 3
-Approval: Approval pending
+Approval: Independently accepted
 
 Deliverables
 ------------
 1. Complete Learning Session — PDF
 2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
+3. ASCII Master Flowchart — standalone PDF and authored text
+
+Omitted deliverable
+--------------------
+Graphical flowchart intentionally omitted by user export preference.
 
 Navigation command: Open final package: Disaster Management — Subject-wide Syllabus — Indian Legal and Institutional Architecture
+
+Validation: see VALIDATION-LEDGER.md in this folder for current checks and approval status.
+
+Approval: approved: true.

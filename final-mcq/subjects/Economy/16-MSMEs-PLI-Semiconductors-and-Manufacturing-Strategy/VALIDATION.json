@@ -1,0 +1,58 @@
+{
+  "topic": "16-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 17,
+        "C": 6,
+        "D": 10,
+        "B": 9
+      },
+      "fingerprint": "e4b434ddd588d52a"
+    },
+    {
+      "bank": 2,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 13,
+        "C": 9,
+        "D": 10,
+        "B": 10
+      },
+      "fingerprint": "b8ac47c017b032f9"
+    },
+    {
+      "bank": 3,
+      "questions": 42,
+      "answers": 42,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 14,
+        "C": 9,
+        "B": 12,
+        "A": 7
+      },
+      "fingerprint": "60767ce24262dbdf"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

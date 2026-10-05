@@ -1,0 +1,9 @@
+# CSAT — final MCQ bank
+
+| Catalogue order | Topic | Status | Revisions |
+|---|---|---|---|
+| csat-01 | [Reading Comprehension](01-Reading-Comprehension/COVERAGE.md) | in_progress (exact official-PYQ provenance/rights hold only) | Original-only revisions 1/2/3: complete after independent recheck on 2026-10-01 (24/25/25); all 74 keys, statement patterns, final discriminators, single-support items and option balance rechecked without concrete blockers. Learner attempts are next year, not a release gate. |
+| csat-02 | [Number Systems and Number Sense](02-Number-Systems-and-Number-Sense/COVERAGE.md) | in_progress (exact official-PYQ provenance/rights hold only) | Original-only revisions 1/2/3: independently accepted (65/63/63); all 191 IDs reviewed for mathematical uniqueness, comparable A–D options and meaningful competing errors, with R1-Q40/Q49 and Q45 rationale repaired; all 16 owner rows independently covered ([audit](02-Number-Systems-and-Number-Sense/AUDIT.md)). Held original IDs: none. First remaining: full official Series-A paper, authenticated published UPSC-hosted same-series key and reproduction permission. |
+| csat-03 | [Arithmetic and Commercial Math](03-Arithmetic-and-Commercial-Math/COVERAGE.md) | in_progress (provisional originals; exact PYQs held) | Revision 1/2/3: 40/42/42 original candidates. Row 11 now numerically checks compounding frequency and exact two-year annual-only CI−SI shortcut in distinct keyed decisions ([audit](03-Arithmetic-and-Commercial-Math/AUDIT.md)); first unchecked owner detail is row 12 alligation endpoint/feasibility across revisions, including the R2-Q12 difficulty hold. Earlier R1-Q20/R3-Q24 and full-bank qualitative review remain held. Exact PYQs withheld pending official same-series key/provenance and reproduction permission. |
+
+This pass adds only `csat-03`; the accepted original-only `csat-01` and `csat-02` entries are preserved. The global index remains outside this pass.

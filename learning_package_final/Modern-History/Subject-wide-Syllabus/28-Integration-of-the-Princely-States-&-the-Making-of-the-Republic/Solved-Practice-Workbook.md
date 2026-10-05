@@ -6,805 +6,354 @@ topic_key: modern-indian-history-28
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Attlee's paramountcy announcement of 20 February 1947?
+### Retained coverage evidence from the former MCQ bank
+
+The following 20 non-duplicated source cards retain the former bank’s distinct claims and qualifications; the rewritten questions below test them without recycling the former fourfold option bank. ✅ denotes a claim grounded in the existing local workbook/source; ⚠️ denotes an analytical distinction tested in the new questions.
+
+- **Attlee's paramountcy announcement of 20 February 1947** — The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
+- **The divided princely response of April 1947** — A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
+- **Jinnah's declaration of 18 June 1947** — M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
+- **The States Department created on 27 June 1947** — Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
+- **The three-subject accession formula** — The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
+- **Paramountcy lapsed rather than being transferred** — British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
+- **The counting discipline of more than 560 states** — There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
+- **All but three acceded by the transfer of power** — Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
+- **Junagadh: a ruler at odds with his own people** — Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
+- **Kashmir: invasion in October 1947 before accession** — Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
+- **Sheikh Abdullah and the National Conference** — Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
+- **Hyderabad's standstill agreement of November 1947** — The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
+- **The reference to the United Nations on 30 December 1947** — The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
+- **The second stage of integration from December 1947** — The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
+- **The Junagadh plebiscite of February 1948** — A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
+- **Operation Polo and Hyderabad in September 1948** — Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
+- **Unions, mergers and the making of administrable units** — Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
+- **Privy purses as a continuing cost, not an immediate abolition** — Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
+- **Adoption on 26 November 1949 and commencement on 26 January 1950** — The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
+- **The Sardar Patel 150th anniversary commemoration** — The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
 
-A. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-B. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-C. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-D. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
+### Questions — answer key follows all questions
 
-**Answer: A.**
-**Explanation:** The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q1. What follows from Attlee's 20 February 1947 statement about paramountcy?
 
-### Q2. Which chronology card should be filed under Attlee's paramountcy announcement of 20 February 1947?
+A. It would lapse without passing automatically to an Indian successor government.
+B. It would devolve on the Constituent Assembly once the Constitution was adopted.
+C. It was transferred to the States Department at independence.
+D. It remained vested in the Crown until every merger agreement was signed.
 
-A. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-B. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-C. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-D. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
+#### Q2. In April 1947, what is the best reading of princely participation in the Constituent Assembly?
 
-**Answer: B.**
-**Explanation:** The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All rulers had already acceded to India by joining the Assembly.
+B. Some states participated while many stayed away and leading rulers sought independence.
+C. Participation meant an unconditional transfer of internal administration.
+D. No state had engaged with the Assembly before 15 August.
 
-### Q3. Which option should a candidate retain when revising Attlee's paramountcy announcement of 20 February 1947?
+#### Q3. How did Jinnah's June 1947 position complicate negotiation with princes?
 
-A. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-B. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-C. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-D. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
+A. He prescribed compulsory accession to the geographically adjacent Dominion.
+B. He pledged that Pakistan would inherit paramountcy over every state.
+C. He publicly defended the possibility of independent sovereign states after lapse.
+D. He signed the merger covenants for states entering India.
 
-**Answer: C.**
-**Explanation:** The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q4. Which assignment of responsibilities matches the States Department established in June 1947?
 
-### Q4. Which statement avoids a common matching trap about Attlee's paramountcy announcement of 20 February 1947?
+A. Menon was States Minister and Patel chaired the Drafting Committee.
+B. The Viceroy's political department became the elected Indian legislature.
+C. Patel served only as a provincial premier while Menon commanded the army.
+D. Patel held the additional States portfolio, with V.P. Menon as Secretary.
 
-A. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-B. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-C. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-D. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
+#### Q5. A ruler signed the initial Instrument of Accession. Which jurisdictional reading is defensible?
 
-**Answer: D.**
-**Explanation:** The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Union received Defence, External Affairs and Communications, not every domestic subject.
+B. Only police, irrigation and local justice were ceded initially.
+C. The instrument itself abolished royal titles and privy purses.
+D. The accession automatically created a linguistically organised province.
 
-### Q5. Which statement correctly identifies The divided princely response of April 1947?
+#### Q6. Which legal premise explains why Indian leaders had to obtain agreements from rulers?
 
-A. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-B. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-C. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-D. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
+A. The Crown unilaterally extended its treaties to the Union.
+B. Paramountcy expired without being assigned to India or Pakistan.
+C. The Constituent Assembly declared each ruler a hereditary Union governor.
+D. The United Nations transferred sovereignty to the new Dominions.
 
-**Answer: A.**
-**Explanation:** A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q7. Which quantitative claim is safest when the classification of princely states varies?
 
-### Q6. Which chronology card should be filed under The divided princely response of April 1947?
+A. Exactly 562 states signed on the transfer date.
+B. Exactly 565 independent republics emerged from paramountcy.
+C. There were more than 560 states; 562 and 565 reflect different counting conventions.
+D. The variation proves that the States Department's records were fraudulent.
 
-A. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-B. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-C. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-D. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
+#### Q8. Which interpretation of accession by 15 August avoids making the exceptions the rule?
 
-**Answer: B.**
-**Explanation:** A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Junagadh, Hyderabad and Kashmir represented the ordinary path taken by most rulers.
+B. All three had already been merged into neighbouring provinces.
+C. No accession was secured until after the Junagadh plebiscite.
+D. The overwhelming majority acceded; the three difficult cases need separate analysis.
 
-### Q7. Which option should a candidate retain when revising The divided princely response of April 1947?
+#### Q9. Why is Junagadh a different accession crisis from Hyderabad?
 
-A. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-B. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-C. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-D. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
+A. Its ruler chose Pakistan despite a Hindu-majority population and problematic contiguity.
+B. Its ruler waited for tribal invasion before signing for India.
+C. It had a standstill agreement before Operation Polo.
+D. Its people were consulted only during constitutional adoption in 1949.
 
-**Answer: C.**
-**Explanation:** A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q10. Which order fits the Kashmir crisis in October 1947?
 
-### Q8. Which statement avoids a common matching trap about The divided princely response of April 1947?
+A. Plebiscite, police action, standstill agreement, accession.
+B. Tribal invasion, ruler's accession, Indian military assistance.
+C. Linguistic merger, UN arbitration, invasion, instrument.
+D. Indian republican commencement, invasion, ruler's accession.
 
-A. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-B. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-C. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-D. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
+#### Q11. What is a defensible inference about Sheikh Abdullah's National Conference in Kashmir?
 
-**Answer: D.**
-**Explanation:** A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It exercised British paramountcy on behalf of the Crown.
+B. It was identical to the Nizam's Razakars in Hyderabad.
+C. It supplied a local popular-political dimension alongside the ruler's accession.
+D. It signed the Instrument of Accession instead of Hari Singh.
 
-### Q9. Which statement correctly identifies Jinnah's declaration of 18 June 1947?
+#### Q12. What does the Hyderabad standstill agreement of November 1947 establish?
 
-A. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-B. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-C. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-D. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
+A. Operation Polo had ended before negotiations began.
+B. The Nizam ceded all domestic powers under a merger covenant.
+C. Hyderabad had already been constitutionally reorganised in 1956.
+D. A negotiated interim arrangement preceded the September 1948 police action.
 
-**Answer: A.**
-**Explanation:** M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q13. Which claim about India's Kashmir reference to the UN is anchored to this workbook's chronology?
 
-### Q10. Which chronology card should be filed under Jinnah's declaration of 18 June 1947?
+A. India took the issue to the Security Council on 30 December 1947 over aggression.
+B. India referred Junagadh's plebiscite to the UN in February 1948.
+C. The Security Council ordered the Constitution adopted on 26 November 1949.
+D. The referral settled every later constitutional question about Kashmir.
 
-A. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-B. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-C. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-D. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
+#### Q14. What began in the second, harder phase of integration from December 1947?
 
-**Answer: B.**
-**Explanation:** M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Signing the Indian Independence Act for each separate state.
+B. Merger of smaller states and construction of larger administrable unions.
+C. Transferring British paramountcy through the Constituent Assembly.
+D. Abolition of every title and privy purse before the republic.
 
-### Q11. Which option should a candidate retain when revising Jinnah's declaration of 18 June 1947?
+#### Q15. How should the February 1948 Junagadh plebiscite be reported?
 
-A. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-B. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-C. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-D. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
+A. It took place in 1947 and endorsed accession to Pakistan.
+B. It legally replaced the Instrument of Accession in all states.
+C. It favoured India; avoid inventing an unaudited vote percentage.
+D. It established the princely states' uniform constitutional citizenship.
 
-**Answer: C.**
-**Explanation:** M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q16. Which event is correctly associated with Operation Polo?
 
-### Q12. Which statement avoids a common matching trap about Jinnah's declaration of 18 June 1947?
+A. Junagadh's February 1948 popular vote.
+B. Kashmir's October 1947 tribal invasion.
+C. The June 1947 creation of a States Department.
+D. Hyderabad's September 1948 police action and the Nizam's surrender.
 
-A. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-B. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-C. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-D. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
+#### Q17. Which set illustrates unions made from smaller princely units?
 
-**Answer: D.**
-**Explanation:** M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Madhya Bharat, Rajasthan, PEPSU, Saurashtra and Travancore-Cochin.
+B. Mysore, Hyderabad and Jammu and Kashmir, each dissolved into PEPSU.
+C. Madras, Bombay and Bengal, all created from Hyderabad in 1948.
+D. Junagadh, Kashmir and Hyderabad, each merged by the same plebiscite.
 
-### Q13. Which statement correctly identifies The States Department created on 27 June 1947?
+#### Q18. What is the correct temporal assessment of privy purses?
 
-A. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-B. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-C. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-D. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
+A. They were abolished as soon as the first instruments were signed.
+B. They were part of a negotiated transition; abolition came in 1971.
+C. They were granted exclusively to states that held plebiscites.
+D. They were a United Nations compensation scheme for Kashmir.
 
-**Answer: A.**
-**Explanation:** Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q19. Which institutional and chronological pairing makes the republican transition intelligible?
 
-### Q14. Which chronology card should be filed under The States Department created on 27 June 1947?
+A. Ambedkar presided over the Assembly, which commenced the Constitution in 1947.
+B. Rajendra Prasad chaired the Drafting Committee, which adopted it in 1950.
+C. Rajendra Prasad presided over the Assembly; Ambedkar chaired drafting; adoption preceded commencement.
+D. Patel chaired the Assembly while Menon enacted the Constitution in 1956.
 
-A. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-B. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-C. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-D. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
+#### Q20. Which use of recent commemorations preserves their historical evidentiary limits?
 
-**Answer: B.**
-**Explanation:** Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The 2024 commemoration proves every prince signed accession on 31 October.
+B. Rashtriya Ekta Diwas was inaugurated by the Constituent Assembly in 1949.
+C. The 2025 PIB backgrounder changes the date of Operation Polo to October.
+D. The Ministry of Culture's 2024 Patel anniversary programme and PIB's 2025 Ekta Diwas note are memory anchors, not evidence of 1947 legal acts.
 
-### Q15. Which option should a candidate retain when revising The States Department created on 27 June 1947?
+### Answer key, four-option analysis and item-specific traps
 
-A. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-B. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-C. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-D. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
+#### Q1 — A
 
-**Answer: C.**
-**Explanation:** Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** This reproduces the announced refusal to transfer paramountcy obligations.
+- **B:** The Assembly's later constitutional role did not make it successor to British paramountcy.
+- **C:** That department was constituted later and could not receive a British automatic transfer.
+- **D:** The announcement contemplated no such indefinite Crown sovereignty.
 
-### Q16. Which statement avoids a common matching trap about The States Department created on 27 June 1947?
+**Trap:** Do not turn the lapse of British paramountcy into automatic Indian succession.
 
-A. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-B. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-C. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-D. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
+#### Q2 — B
 
-**Answer: D.**
-**Explanation:** Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Assembly participation was neither universal nor synonymous with accession.
+- **B:** The source records a minority joining and Travancore, Bhopal and Hyderabad expressing separatist ambitions.
+- **C:** A seat or participation did not itself transfer all domestic powers.
+- **D:** The divided response was visible before independence.
 
-### Q17. Which statement correctly identifies The three-subject accession formula?
+**Trap:** Distinguish an Assembly seat from a signed instrument.
 
-A. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-B. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-C. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-D. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
+#### Q3 — C
 
-**Answer: A.**
-**Explanation:** The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Neither compulsory accession nor automatic transfer was Jinnah's declared position.
+- **B:** He invoked freedom after lapse, not inheritance of Crown obligations.
+- **C:** His 18 June statement encouraged rulers contemplating independence.
+- **D:** Merger covenants were a separate Indian integration mechanism.
 
-### Q18. Which chronology card should be filed under The three-subject accession formula?
+**Trap:** A declaration about post-lapse choice is not a legal merger instrument.
 
-A. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-B. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-C. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-D. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
+#### Q4 — D
 
-**Answer: B.**
-**Explanation:** The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Patel, not Menon, assumed the additional ministerial charge.
+- **B:** The department and the constitutional drafting body had different functions.
+- **C:** Neither actor held the roles asserted here.
+- **D:** The 27 June minister-secretary pairing explains coordinated negotiation.
 
-### Q19. Which option should a candidate retain when revising The three-subject accession formula?
+**Trap:** Avoid the one-man narrative: minister and secretary had distinct roles.
 
-A. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-B. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-C. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-D. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
+#### Q5 — A
 
-**Answer: C.**
-**Explanation:** The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Three designated external/strategic fields formed the initial accession offer.
+- **B:** Local policing was not the three-subject accession formula.
+- **C:** Dignities and purses belonged to later bargains and eventual reform.
+- **D:** Reorganisation of units followed accession rather than being effected by its signature.
 
-### Q20. Which statement avoids a common matching trap about The three-subject accession formula?
+**Trap:** Do not confuse limited accession with full administrative merger.
 
-A. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-B. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-C. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-D. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
+#### Q6 — B
 
-**Answer: D.**
-**Explanation:** The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Continuity of British treaties cannot simply be presumed.
+- **B:** Lapse created the need to construct Union authority by consent and pressure.
+- **C:** Neither constitution-making nor hereditary governorship supplied initial title.
+- **D:** The UN did not perform the accession process.
 
-### Q21. Which statement correctly identifies Paramountcy lapsed rather than being transferred?
+**Trap:** Lapse does not mean accession was unnecessary.
 
-A. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-B. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-C. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-D. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
+#### Q7 — C
 
-**Answer: A.**
-**Explanation:** British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** An exact total depends on classification and cannot be universalised.
+- **B:** The competing familiar totals are not rival independence outcomes.
+- **C:** The qualified more-than-560 formulation preserves the source's uncertainty.
+- **D:** A counting convention is not evidence of falsified records.
 
-### Q22. Which chronology card should be filed under Paramountcy lapsed rather than being transferred?
+**Trap:** Do not convert variant totals into rival historical events.
 
-A. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-B. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-C. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-D. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
+#### Q8 — D
 
-**Answer: B.**
-**Explanation:** British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Those three cases stand out precisely because most rulers agreed.
+- **B:** Merger and accession were different stages; the cases were unresolved.
+- **C:** Negotiations and accessions were underway before 1948.
+- **D:** The exceptional crisis sequence should not erase early mass accessions.
 
-### Q23. Which option should a candidate retain when revising Paramountcy lapsed rather than being transferred?
+**Trap:** Do not confuse famous exceptions with the overall pace.
 
-A. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-B. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-C. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-D. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
+#### Q9 — A
 
-**Answer: C.**
-**Explanation:** British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Ruler-population mismatch and geography defined this particular dispute.
+- **B:** The invasion-triggered accession concerns Kashmir.
+- **C:** The standstill-then-force sequence concerns Hyderabad.
+- **D:** The February 1948 plebiscite preceded the Constitution's adoption.
 
-### Q24. Which statement avoids a common matching trap about Paramountcy lapsed rather than being transferred?
+**Trap:** Check ruler choice, population and geography together.
 
-A. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-B. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-C. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-D. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
+#### Q10 — B
 
-**Answer: D.**
-**Explanation:** British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The February plebiscite was Junagadh's, while Polo was Hyderabad's.
+- **B:** The source links the invasion to Hari Singh's decision and troop dispatch.
+- **C:** The UN reference followed the immediate invasion/accession crisis.
+- **D:** India became a republic much later in January 1950.
 
-### Q25. Which statement correctly identifies The counting discipline of more than 560 states?
+**Trap:** Keep invasion, instrument and military assistance in their distinct order.
 
-A. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-B. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-C. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-D. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
+#### Q11 — C
 
-**Answer: A.**
-**Explanation:** There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Neither Abdullah nor his party inherited paramountcy.
+- **B:** The National Conference was a Kashmir political organisation, not Hyderabad's militia.
+- **C:** Popular political agency matters, but does not replace the ruler's legal signature.
+- **D:** Hari Singh signed the instrument; popular legitimacy is another analytical axis.
 
-### Q26. Which chronology card should be filed under The counting discipline of more than 560 states?
+**Trap:** Popular support and formal accession are not interchangeable.
 
-A. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-B. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-C. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-D. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
+#### Q12 — D
 
-**Answer: B.**
-**Explanation:** There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Military action was in September 1948, after the agreement.
+- **B:** Standstill did not itself complete merger and democratisation.
+- **C:** The linguistic reorganisation belongs to another period and policy.
+- **D:** Negotiation came before coercion; do not flatten the sequence.
 
-### Q27. Which option should a candidate retain when revising The counting discipline of more than 560 states?
+**Trap:** Standstill was neither final accession nor proof force was immediate.
 
-A. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-B. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-C. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
-D. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
+#### Q13 — A
 
-**Answer: C.**
-**Explanation:** There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The local source gives the 30 December date and the aggression framing.
+- **B:** The Junagadh plebiscite was a separate process.
+- **C:** Constitution-making was a Constituent Assembly act, not a Security Council command.
+- **D:** The referral cannot support invented conclusions about later contested issues.
 
-### Q28. Which statement avoids a common matching trap about The counting discipline of more than 560 states?
+**Trap:** A dated referral is not a blanket verdict on all later disputes.
 
-A. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-B. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-C. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-D. There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure.
+#### Q14 — B
 
-**Answer: D.**
-**Explanation:** There were more than 560 princely states at independence, and the familiar totals of 562 and 565 differ by counting convention rather than by historical fact, so a safe answer writes more than 560 and never asserts either total as the single correct figure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The Independence Act was not individually signed as an accession instrument.
+- **B:** Merger and administrative consolidation advanced beyond limited accession.
+- **C:** The initial legal lapse, not transfer, is the governing distinction.
+- **D:** Privy-purse abolition came much later than initial mergers.
 
-### Q29. Which statement correctly identifies All but three acceded by the transfer of power?
+**Trap:** Accessions were an opening move, not the entire integration.
 
-A. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-B. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-C. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-D. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
+#### Q15 — C
 
-**Answer: A.**
-**Explanation:** Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Its date and outcome are incorrectly inverted in the first claim.
+- **B:** One state's vote is not the universal mechanism for princely integration.
+- **C:** The source supports the outcome but not a precise percentage here.
+- **D:** Single citizenship came through constitutional change, not one plebiscite.
 
-### Q30. Which chronology card should be filed under All but three acceded by the transfer of power?
+**Trap:** An overwhelming result is not permission to fabricate a numerical share.
 
-A. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-B. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-C. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-D. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
+#### Q16 — D
 
-**Answer: B.**
-**Explanation:** Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** The plebiscite followed Junagadh's accession controversy.
+- **B:** The invasion precipitated Kashmir's accession.
+- **C:** The department provided negotiation machinery, not this named operation.
+- **D:** Polo names the coercive culmination after Hyderabad negotiations failed.
 
-### Q31. Which option should a candidate retain when revising All but three acceded by the transfer of power?
+**Trap:** Do not transpose Operation Polo to Kashmir or Junagadh.
 
-A. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-B. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-C. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
-D. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
+#### Q17 — A
 
-**Answer: C.**
-**Explanation:** Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** These named unions exemplify post-accession consolidation.
+- **B:** Those three retained separate forms rather than all disappearing into PEPSU.
+- **C:** The named former provinces do not describe the mergers claimed.
+- **D:** The three hard cases were addressed through different mechanisms.
 
-### Q32. Which statement avoids a common matching trap about All but three acceded by the transfer of power?
+**Trap:** A union of states is not identical to any single exceptional accession case.
 
-A. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-B. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession.
+#### Q18 — B
 
-**Answer: D.**
-**Explanation:** Every state except Junagadh, Jammu and Kashmir and Hyderabad had acceded to India by 15 August 1947, so the three famous crisis cases were exceptions inside an overwhelmingly successful negotiation and not the normal pattern of accession. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Early abolition is incompatible with their continued payment.
+- **B:** The initial settlement protected privileges while integration proceeded; later reform ended them.
+- **C:** A plebiscite was not a prerequisite for negotiated dignities.
+- **D:** Privy purses were domestic bargains, not UN awards.
 
-### Q33. Which statement correctly identifies Junagadh: a ruler at odds with his own people?
+**Trap:** Do not project the 1971 abolition backward into 1947–50.
 
-A. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-B. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-C. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-D. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
+#### Q19 — C
 
-**Answer: A.**
-**Explanation:** Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** Those two offices are reversed and the commencement date is wrong.
+- **B:** The drafting and presiding offices are reversed; adoption occurred in 1949.
+- **C:** Adopted on 26 November 1949, effective 26 January 1950: legal stages differ.
+- **D:** Neither ministry leadership nor 1956 state reorganisation was constitutional adoption.
 
-### Q34. Which chronology card should be filed under Junagadh: a ruler at odds with his own people?
+**Trap:** Keep office-holders and adoption/commencement separate.
 
-A. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-B. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-C. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-D. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
+#### Q20 — D
 
-**Answer: B.**
-**Explanation:** Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A:** A commemorative programme cannot rewrite the accession chronology.
+- **B:** The observance first celebrated in 2014 is not a 1949 Assembly institution.
+- **C:** A contemporary account of observance is not a correction of the 1948 action.
+- **D:** The dated institutional sources support commemoration only; integration facts require their own evidence.
 
-### Q35. Which option should a candidate retain when revising Junagadh: a ruler at odds with his own people?
-
-A. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-B. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-C. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-D. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-
-**Answer: C.**
-**Explanation:** Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Junagadh: a ruler at odds with his own people?
-
-A. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-B. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene.
-
-**Answer: D.**
-**Explanation:** Junagadh was a small Saurashtra state surrounded by Indian territory and without geographical contiguity with Pakistan, yet its Nawab announced accession to Pakistan, its overwhelmingly Hindu population organised a movement that forced him to flee, and its Dewan Shah Nawaz Bhutto then invited the Government of India to intervene. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies Kashmir: invasion in October 1947 before accession?
-
-A. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-B. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-C. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-D. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-
-**Answer: A.**
-**Explanation:** Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under Kashmir: invasion in October 1947 before accession?
-
-A. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-B. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-C. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-D. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-
-**Answer: B.**
-**Explanation:** Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising Kashmir: invasion in October 1947 before accession?
-
-A. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-B. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-C. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-D. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-
-**Answer: C.**
-**Explanation:** Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about Kashmir: invasion in October 1947 before accession?
-
-A. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-B. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift.
-
-**Answer: D.**
-**Explanation:** Tribal invaders entered Kashmir in October 1947 and pushed towards Srinagar, Maharaja Hari Singh appealed to India for military assistance, and troops were flown in only after the Instrument of Accession had been signed, so invasion preceded accession and accession preceded the airlift. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Sheikh Abdullah and the National Conference?
-
-A. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-B. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-C. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-D. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-
-**Answer: A.**
-**Explanation:** Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Sheikh Abdullah and the National Conference?
-
-A. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-B. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-
-**Answer: B.**
-**Explanation:** Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Sheikh Abdullah and the National Conference?
-
-A. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-B. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-C. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-D. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-
-**Answer: C.**
-**Explanation:** Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Sheikh Abdullah and the National Conference?
-
-A. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-B. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-C. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-D. Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi.
-
-**Answer: D.**
-**Explanation:** Kashmir's principal popular political force, the National Conference under Sheikh Abdullah, favoured accession to India and Abdullah was installed as head of the state's administration, which is why the Kashmir case cannot be reduced to a private transaction between a Maharaja and New Delhi. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Hyderabad's standstill agreement of November 1947?
-
-A. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-B. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-
-**Answer: A.**
-**Explanation:** The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Hyderabad's standstill agreement of November 1947?
-
-A. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-B. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-
-**Answer: B.**
-**Explanation:** The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Hyderabad's standstill agreement of November 1947?
-
-A. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-B. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-C. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-D. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-
-**Answer: C.**
-**Explanation:** The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Hyderabad's standstill agreement of November 1947?
-
-A. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-B. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-C. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-D. The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement.
-
-**Answer: D.**
-**Explanation:** The Government of India signed a standstill agreement with the Nizam of Hyderabad in November 1947 in the hope that negotiation and representative government inside the state would make merger easier, so force in Hyderabad came after, and not instead of, a documented attempt at settlement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies The reference to the United Nations on 30 December 1947?
-
-A. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-B. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-
-**Answer: A.**
-**Explanation:** The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under The reference to the United Nations on 30 December 1947?
-
-A. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-B. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-C. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-D. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-
-**Answer: B.**
-**Explanation:** The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising The reference to the United Nations on 30 December 1947?
-
-A. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-B. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-C. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-D. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-
-**Answer: C.**
-**Explanation:** The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about The reference to the United Nations on 30 December 1947?
-
-A. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-B. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-C. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-D. The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim.
-
-**Answer: D.**
-**Explanation:** The Government of India referred the Kashmir problem to the Security Council of the United Nations on 30 December 1947 asking for vacation of aggression, and this package records that referral and the fighting that followed without narrating any later contested political or constitutional claim. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies The second stage of integration from December 1947?
-
-A. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-B. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-C. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-D. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-
-**Answer: A.**
-**Explanation:** The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under The second stage of integration from December 1947?
-
-A. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-B. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-C. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-D. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-
-**Answer: B.**
-**Explanation:** The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising The second stage of integration from December 1947?
-
-A. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-B. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-C. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-D. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-
-**Answer: C.**
-**Explanation:** The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about The second stage of integration from December 1947?
-
-A. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-B. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-C. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-D. The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration.
-
-**Answer: D.**
-**Explanation:** The second and harder stage of full integration began in December 1947, when smaller states were merged with neighbouring provinces or grouped into new unions, so accession was only the first of two distinct achievements and never the whole of integration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies The Junagadh plebiscite of February 1948?
-
-A. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-B. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-C. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-D. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-
-**Answer: A.**
-**Explanation:** A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under The Junagadh plebiscite of February 1948?
-
-A. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-B. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-C. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-D. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-
-**Answer: B.**
-**Explanation:** A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising The Junagadh plebiscite of February 1948?
-
-A. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-B. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-C. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-D. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-
-**Answer: C.**
-**Explanation:** A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about The Junagadh plebiscite of February 1948?
-
-A. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-B. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-C. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-D. A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository.
-
-**Answer: D.**
-**Explanation:** A plebiscite held in Junagadh in February 1948 went in favour of joining India, and although the local source describes that result as overwhelming, this package states no percentage because no audited polling figure is held anywhere in the repository. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies Operation Polo and Hyderabad in September 1948?
-
-A. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-B. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-C. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-D. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-
-**Answer: A.**
-**Explanation:** Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under Operation Polo and Hyderabad in September 1948?
-
-A. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-B. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-C. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-D. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-
-**Answer: B.**
-**Explanation:** Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising Operation Polo and Hyderabad in September 1948?
-
-A. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-B. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-C. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-D. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-
-**Answer: C.**
-**Explanation:** Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about Operation Polo and Hyderabad in September 1948?
-
-A. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-B. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-C. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-D. Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here.
-
-**Answer: D.**
-**Explanation:** Hyderabad was integrated in September 1948 through the operation commonly called Operation Polo or the Police Action, after which the Nizam surrendered and acceded to the Indian Union, and no casualty or troop figure for that episode is asserted here. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Unions, mergers and the making of administrable units?
-
-A. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-B. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-C. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-D. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-
-**Answer: A.**
-**Explanation:** Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Unions, mergers and the making of administrable units?
-
-A. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-B. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-C. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-D. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-
-**Answer: B.**
-**Explanation:** Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Unions, mergers and the making of administrable units?
-
-A. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-B. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-C. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-D. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-
-**Answer: C.**
-**Explanation:** Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Unions, mergers and the making of administrable units?
-
-A. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-B. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-C. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-D. Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union.
-
-**Answer: D.**
-**Explanation:** Large numbers of small states were consolidated into new unions such as Madhya Bharat, Rajasthan, the Patiala and East Punjab States Union, Saurashtra and Travancore-Cochin, while Mysore, Hyderabad and Jammu and Kashmir retained their original form as separate states of the Union. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Privy purses as a continuing cost, not an immediate abolition?
-
-A. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-B. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-C. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-D. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-
-**Answer: A.**
-**Explanation:** Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Privy purses as a continuing cost, not an immediate abolition?
-
-A. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-B. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-C. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-D. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-
-**Answer: B.**
-**Explanation:** Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Privy purses as a continuing cost, not an immediate abolition?
-
-A. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-B. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-C. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-D. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-
-**Answer: C.**
-**Explanation:** Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Privy purses as a continuing cost, not an immediate abolition?
-
-A. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-B. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-C. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-D. Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse.
-
-**Answer: D.**
-**Explanation:** Rulers who surrendered power received privy purses and retained titles, succession and ceremonial privileges, and these settlements were not abolished during the initial integration; the repository owner dates their abolition to 1971, and this package asserts no amount for any purse. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-B. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-C. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-D. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-
-**Answer: A.**
-**Explanation:** The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-B. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-C. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-D. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-
-**Answer: B.**
-**Explanation:** The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-B. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-C. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-D. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-
-**Answer: C.**
-**Explanation:** The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Adoption on 26 November 1949 and commencement on 26 January 1950?
-
-A. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-B. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-C. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-D. The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens.
-
-**Answer: D.**
-**Explanation:** The Constituent Assembly, presided over by Dr Rajendra Prasad with B.R. Ambedkar chairing the Drafting Committee, adopted the Constitution on 26 November 1949 and it came into force on 26 January 1950, which is the date on which India became a republic and princely subjects became citizens. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies The Sardar Patel 150th anniversary commemoration?
-
-A. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-B. The local OCR text of *India After Independence* records Clement Attlee's announcement of 20 February 1947 that His Majesty's Government did not intend to hand over their powers and obligations under paramountcy to any government of British India, a statement that several large princes read as a licence to claim sovereignty for themselves.
-C. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-D. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-
-**Answer: A.**
-**Explanation:** The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under The Sardar Patel 150th anniversary commemoration?
-
-A. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-B. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-C. A minority of states showed realism by joining the Constituent Assembly in April 1947 while the majority stayed away, and Travancore, Bhopal and Hyderabad publicly announced a desire for independent status, so princely opinion was already divided before any instrument was signed.
-D. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-
-**Answer: B.**
-**Explanation:** The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising The Sardar Patel 150th anniversary commemoration?
-
-A. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-B. M.A. Jinnah publicly declared on 18 June 1947 that the states would be independent sovereign states on the termination of paramountcy and were free to remain independent if they so desired, which encouraged the largest princes and made speed indispensable on the Indian side.
-C. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-D. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-
-**Answer: C.**
-**Explanation:** The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about The Sardar Patel 150th anniversary commemoration?
-
-A. The Instrument of Accession asked acceding states to transfer only three subjects - Defence, External Affairs and Communications - a deliberately narrow demand that covered precisely what no princely state could exercise for itself while leaving internal administration untouched for the moment.
-B. Sardar Vallabhbhai Patel assumed additional charge of the newly created States Department on 27 June 1947 with V.P. Menon as its Secretary, so integration was the work of a named minister, a named secretary and a department, and never of one man acting alone.
-C. British paramountcy over the princely states lapsed when British rule ended on 15 August 1947 and it was never transferred to India or Pakistan, so the Union's authority over princely India had to be constructed by agreement and pressure rather than inherited by legal succession.
-D. The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014.
-
-**Answer: D.**
-**Explanation:** The Ministry of Culture records a two-year commemoration of Sardar Vallabhbhai Patel's 150th birth anniversary launched at the Statue of Unity on 31 October 2024, and a PIB Backgrounder of 30 October 2025 records that Rashtriya Ekta Diwas is observed annually on 31 October and was first celebrated in 2014. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Do not use a memorial date as an accession date.
 
 ### Semantic-completeness coverage drills — Modern Topic 28
 

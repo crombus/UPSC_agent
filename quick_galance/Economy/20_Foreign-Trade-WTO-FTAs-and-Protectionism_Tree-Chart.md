@@ -126,4 +126,6 @@ Legal access -> origin and standards -> firm utilisation -> additional exports/v
 5. Test trade creation, utilisation, value addition and resilience.
 6. Conclude with predictable openness plus targeted, reviewable support.
 
-**Cross-links:** Exchange rate and BoP -> Topic 19 | IMF/World Bank/global governance -> Topic 21 | detailed farm subsidy law -> Topic 28.
+**Cross-links:** Exchange rate and BoP -> Topic 19
+| IMF/World Bank/global governance -> Topic 21
+| detailed farm subsidy law -> Topic 28.

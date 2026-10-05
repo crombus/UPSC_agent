@@ -1,0 +1,58 @@
+{
+  "topic": "12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 44,
+      "answers": 44,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 11,
+        "D": 10,
+        "C": 9,
+        "B": 14
+      },
+      "fingerprint": "53ddff523e07301d"
+    },
+    {
+      "bank": 2,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 10,
+        "D": 11,
+        "B": 9,
+        "C": 10
+      },
+      "fingerprint": "1c6f4579d5ea07cf"
+    },
+    {
+      "bank": 3,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "D": 13,
+        "C": 14,
+        "A": 6,
+        "B": 7
+      },
+      "fingerprint": "51c10f3e1de662a3"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

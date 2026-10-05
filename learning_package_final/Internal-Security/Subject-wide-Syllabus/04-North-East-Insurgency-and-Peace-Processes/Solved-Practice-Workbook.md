@@ -4,1130 +4,500 @@ topic_key: internal-security-04
 ---
 # North-East Insurgency and Peace Processes — Solved Practice Workbook
 
+> **Scope:** GS-III internal security. These 24 distinct MCQs cover history, identity, constitutional accommodation, border governance, accountable security and the peace-instrument ladder. The count follows those demands rather than an 80-question quota. Attempt all questions before the separate answer key. PYQ models are independent practice, not official UPSC solutions.
+>
+> **Evidence:** `upsc-ai-kit\knowledge\Internal-Security\basic\04_North-East-Insurgency-and-Peace-Processes.md` and its Advanced companion; audited GS-III PYQ routing; Ashok Kumar Singh, *Challenges to Internal Security of India*, PDF pp. 31–33, 44–50. The 2025 accord map is grounded in the Core owner's dated MHA mapping. Official pages checked during this repair returned no usable text; a signed accord, expired SoO or policy announcement is not presented as evidence of current implementation.
+
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Historical-isolation condition?
+### Questions — attempt before consulting the key
 
-A. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-B. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-C. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-D. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
+#### MCQ 1. Historical condition versus destiny
 
-**Answer: A.**
-**Explanation:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Why is British-era administrative isolation relevant to later identity politics without being a complete explanation for insurgency?
 
-### Q2. Which option preserves the legal or institutional boundary of Historical-isolation condition?
+A. Limited contact with the wider freedom struggle shaped later alienation, but subsequent language policy, autonomy choices and governance also affected outcomes.
+B. It establishes that every tribal community had identical political goals after Independence.
+C. It proves the North-East never had social connections across any border.
+D. It makes later public policy and political accommodation irrelevant.
 
-A. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-B. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-C. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-D. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
+#### MCQ 2. A proximate policy trigger
 
-**Answer: B.**
-**Explanation:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+What does tribal-district opposition to the 1960 Assamese official-language decision best illustrate?
 
-### Q3. Which statement uses Historical-isolation condition without changing its institution, law or status?
+A. The Sixth Schedule was repealed in 1960.
+B. Fear of assimilation can turn an historical identity concern into a specific demand for political accommodation.
+C. Assamese became the official language of every North-Eastern State in the same year.
+D. Language claims are necessarily disguised disputes about foreign borders.
 
-A. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-D. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
+#### MCQ 3. Statehood as one accommodation
 
-**Answer: C.**
-**Explanation:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which chronology preserves the historical statehood sequence recorded in Core?
 
-### Q4. Which option avoids the standard UPSC close-option trap about Historical-isolation condition?
+A. Mizoram 1963; Nagaland 1972; Meghalaya 1987.
+B. Meghalaya, Manipur and Tripura 1963; Nagaland 1987.
+C. Nagaland 1963; Meghalaya, Manipur and Tripura 1972; Mizoram and Arunachal Pradesh 1987.
+D. All seven North-Eastern States were created simultaneously in 1972.
 
-A. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-D. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
+#### MCQ 4. Do not universalise the Sixth Schedule
 
-**Answer: D.**
-**Explanation:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which statement accurately describes its territorial scope?
 
-### Q5. Which statement correctly identifies Assamisation trigger?
+A. It applies identically throughout the North-East, including all of Nagaland.
+B. It applies only to the India–Myanmar international boundary.
+C. It replaced every special provision in Part XXI of the Constitution.
+D. It provides autonomous district or regional councils for designated tribal areas of Assam, Meghalaya, Tripura and Mizoram.
 
-A. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-B. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-C. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-D. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
+#### MCQ 5. Constitutional instruments are not interchangeable
 
-**Answer: A.**
-**Explanation:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A candidate describes Article 371A for Nagaland, Article 371C for Manipur and the Sixth Schedule as one uniform council system. What is the correction?
 
-### Q6. Which option preserves the legal or institutional boundary of Assamisation trigger?
+A. They are distinct constitutional arrangements with different territories and functions; naming the State and instrument matters.
+B. Article 371A created the Sixth Schedule's district councils in all North-Eastern States.
+C. Manipur and Nagaland have no constitutionally relevant special arrangements.
+D. The Sixth Schedule is an ordinary Union ministry scheme rather than part of the Constitution.
 
-A. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-B. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-C. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-D. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
+#### MCQ 6. Several pathways, not one regional diagnosis
 
-**Answer: B.**
-**Explanation:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which explanation best avoids treating North-East insurgencies as a single phenomenon?
 
-### Q7. Which statement uses Assamisation trigger without changing its institution, law or status?
+A. A shared regional label proves the same group, demand and settlement are present everywhere.
+B. Identity and autonomy demands, inter-ethnic tensions, cross-border links and governance deficits combine differently across States and groups.
+C. The only important driver in every State is the same measured income gap.
+D. A peace accord with one faction binds every other faction automatically.
 
-A. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-D. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
+#### MCQ 7. A historical external link
 
-**Answer: C.**
-**Explanation:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Why does the India–Myanmar border matter to analysis without proving a present sanctuary claim?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Assamisation trigger?
+A. Every shared ethnicity implies membership of an armed group.
+B. A difficult border excludes cross-border movement entirely.
+C. Historical ethnic ties, terrain and border movement can affect security and livelihoods; present group activity requires dated evidence.
+D. Border fencing alone settles underlying autonomy disputes.
 
-A. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-B. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-C. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-D. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
+#### MCQ 8. Decision versus operative border regime
 
-**Answer: D.**
-**Explanation:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+MHA announced a decision on 8 February 2024 to scrap the India–Myanmar Free Movement Regime (FMR). Which subsequent claim needs further evidence?
 
-### Q9. Which statement correctly identifies Statehood accommodation?
+A. That a policy announcement was made.
+B. That the announcement concerned cross-border movement.
+C. That border communities can have kinship and livelihood interests.
+D. That the FMR was operationally abolished everywhere, exactly as announced, without checking the governing notification.
 
-A. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-D. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
+#### MCQ 9. A mandate is not an outcome
 
-**Answer: A.**
-**Explanation:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which account of Assam Rifles is most appropriate in an India–Myanmar border answer?
 
-### Q10. Which option preserves the legal or institutional boundary of Statehood accommodation?
+A. Name its border-guarding role and the tension with counter-insurgency tasks, without inventing current deployments or treating the force alone as a peace process.
+B. Treat it as the only agency authorised to negotiate every insurgent accord.
+C. Infer from its existence that all border crossing is illicit.
+D. Use an old book's unit numbers as today's force disposition.
 
-A. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-B. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-C. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-D. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
+#### MCQ 10. AFSPA's entry condition
 
-**Answer: B.**
-**Explanation:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+What activates the Armed Forces (Special Powers) Act, 1958 in an area under its Section 3?
 
-### Q11. Which statement uses Statehood accommodation without changing its institution, law or status?
+A. The mere existence of an ethnic grievance anywhere in a State.
+B. A competent authority's disturbed-area declaration; application depends on the notified place and period.
+C. Signature of any peace framework agreement.
+D. The existence of an Autonomous District Council.
 
-A. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-D. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
+#### MCQ 11. Powers and prosecution safeguard
 
-**Answer: C.**
-**Explanation:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which combination correctly separates the statutory provisions?
 
-### Q12. Which option avoids the standard UPSC close-option trap about Statehood accommodation?
+A. Section 3 authorises council elections; Section 4 repeals the Act; Section 6 establishes State boundaries.
+B. Section 3 confers blanket immunity; Section 4 requires a referendum; Section 6 creates a ceasefire.
+C. Section 3 addresses disturbed-area declaration, Section 4 specified operational powers, and Section 6 previous Central sanction for prosecution under the Act.
+D. Section 4 alone makes every disputed use of force lawful and unreviewable.
 
-A. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-B. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-C. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-D. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
+#### MCQ 12. Notification versus repeal
 
-**Answer: D.**
-**Explanation:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+The notified disturbed-area footprint shrinks. What follows?
 
-### Q13. Which statement correctly identifies Sixth Schedule boundary?
+A. Parliament has necessarily repealed AFSPA.
+B. All allegations arising during past operations become non-investigable.
+C. Every peace agreement in the region has been fully implemented.
+D. AFSPA ceases to operate in the de-notified area under that notification; the statute remains unless repealed.
 
-A. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-D. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
+#### MCQ 13. Accountable exercise of power
 
-**Answer: A.**
-**Explanation:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which reading of *Naga People's Movement of Human Rights* (1997) and *EEVFAM* (2016) is supportable?
 
-### Q14. Which option preserves the legal or institutional boundary of Sixth Schedule boundary?
+A. AFSPA's constitutionality can coexist with binding safeguards; allegations of excessive force are not covered by absolute immunity.
+B. The judgments together repealed AFSPA throughout India.
+C. Courts declared every use of force under AFSPA inherently unlawful.
+D. Section 6 means no allegation can ever be investigated.
 
-A. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-B. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-C. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-D. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
+#### MCQ 14. The first rung of a peace process
 
-**Answer: B.**
-**Explanation:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+If a group accepts a Suspension of Operations (SoO), what can be concluded?
 
-### Q15. Which statement uses Sixth Schedule boundary without changing its institution, law or status?
+A. Its cadres have necessarily been fully rehabilitated.
+B. Hostilities are suspended on agreed ground rules; political settlement and verified implementation remain separate questions.
+C. Its constitutional demands are automatically adopted.
+D. Every rival faction is included in the same agreement.
 
-A. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-B. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-C. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-D. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
+#### MCQ 15. What a framework leaves open
 
-**Answer: C.**
-**Explanation:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+The NSCN (IM) Framework Agreement was signed in 2015. What is the precise status claim?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Sixth Schedule boundary?
+A. It finally resolved every Naga political question in August 2015.
+B. It is identical to a time-bound SoO with no political principles.
+C. It records agreed principles for further negotiation; final terms and implementation cannot be inferred from signature.
+D. It amended the Sixth Schedule for every North-Eastern State.
 
-A. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-B. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-C. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-D. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
+#### MCQ 16. An accord and its implementation
 
-**Answer: D.**
-**Explanation:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A government signs an accord promising council changes, funds and reintegration. Which observation would be evidence of *implementation* rather than signature?
 
-### Q17. Which statement correctly identifies Articles 371A-371C boundary?
+A. An announcement that talks will begin.
+B. The signing photograph alone.
+C. The number of previous agreements in other States.
+D. Verified council action, financial release and individual reintegration under the agreed terms.
 
-A. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-B. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-C. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-D. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
+#### MCQ 17. A past-decade map, not an undifferentiated list
 
-**Answer: A.**
-**Explanation:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which comparison accurately classifies two instruments relevant to the 2025 PYQ?
 
-### Q18. Which option preserves the legal or institutional boundary of Articles 371A-371C boundary?
+A. NSCN (IM), 2015: framework agreement; Bodo, 2020: signed settlement with commitments whose implementation must be checked separately.
+B. NSCN (IM), 2015: final settlement fully implemented; Bodo, 2020: merely an informal press note.
+C. Both are withdrawals of AFSPA notifications.
+D. Neither can be named because an agreement is never a permissible PYQ example.
 
-A. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-B. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-C. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-D. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
+#### MCQ 18. Assam agreement versus boundary agreement
 
-**Answer: B.**
-**Explanation:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Why should an Assam–Meghalaya inter-State boundary agreement not be counted as an insurgent-group accord?
 
-### Q19. Which statement uses Articles 371A-371C boundary without changing its institution, law or status?
+A. Boundaries are never relevant to peace-building.
+B. Parties and subject matter differ: inter-State boundary settlement can matter to regional peace, but it is not a disarmament or political settlement with an armed faction.
+C. Any agreement between two States automatically changes the Sixth Schedule.
+D. Every regional agreement has the same legal instrument and effect.
 
-A. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-B. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-C. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-D. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
+#### MCQ 19. UPF/KNO status and time
 
-**Answer: C.**
-**Explanation:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+The Core dates revised UPF/KNO SoO ground rules from 4 September 2025 to 3 September 2026. As of 28 September 2026, which claim is justified without a new source?
 
-### Q20. Which option avoids the standard UPSC close-option trap about Articles 371A-371C boundary?
+A. The agreement is necessarily still operative on identical terms.
+B. It was a fully implemented final settlement in 2025.
+C. It was a time-limited SoO; continuation beyond the stated end date needs a later official record.
+D. The date proves every armed organisation in Manipur signed the same instrument.
 
-A. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-B. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-C. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-D. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
+#### MCQ 20. Identity tensions and evidence
 
-**Answer: D.**
-**Explanation:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+How should the 2012 Bodo–Muslim clashes and related fear-driven messaging be used in an answer?
 
-### Q21. Which statement correctly identifies Insurgency-driver matrix?
+A. As proof that every migrant committed an offence.
+B. As a current violence count for the entire North-East.
+C. As evidence that development alone resolves inter-ethnic conflict.
+D. As a historical example of identity/demographic anxieties and communication-amplified harm, without generalising blame to a community.
 
-A. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-B. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-C. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-D. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
+#### MCQ 21. Composite response
 
-**Answer: A.**
-**Explanation:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which policy logic follows the Core's account of the Government's approach?
 
-### Q22. Which option preserves the legal or institutional boundary of Insurgency-driver matrix?
+A. Negotiate with groups renouncing violence, act lawfully against continuing violence, and connect settlements to development and political accommodation.
+B. Sign one accord with one faction and treat every other claim as settled.
+C. Replace constitutional autonomy with road projects alone.
+D. Treat all questioning of AFSPA as support for insurgency.
 
-A. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-B. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-C. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-D. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
+#### MCQ 22. Status after an accord
 
-**Answer: B.**
-**Explanation:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A press release reports fewer incidents after a settlement. What cannot be inferred from that statistic alone?
 
-### Q23. Which statement uses Insurgency-driver matrix without changing its institution, law or status?
+A. The reported series shows fewer incidents over its stated comparison period.
+B. Every accord commitment has been carried out and relations among local communities have been reconciled.
+C. Conflict reduction can be a meaningful security outcome.
+D. Its date and denominator matter when comparing trends.
 
-A. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-B. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-C. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-D. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
+#### MCQ 23. Evaluate AFSPA without a false binary
 
-**Answer: C.**
-**Explanation:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which answer best combines security necessity and rights accountability?
 
-### Q24. Which option avoids the standard UPSC close-option trap about Insurgency-driver matrix?
+A. Any disturbed-area declaration establishes that all official acts are immune from inquiry.
+B. Rights safeguards require that no State institution ever protect threatened residents.
+C. Specify the notification's scope and operational need while insisting on necessity, lawful conduct, investigation of excess and meaningful remedy.
+D. Reducing a notified area automatically resolves the legitimacy of every earlier operation.
 
-A. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-B. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-C. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-D. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
+#### MCQ 24. A complete answer to the 2025 “map” directive
 
-**Answer: D.**
-**Explanation:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which outline is most responsive to both parts of the question?
 
-### Q25. Which statement correctly identifies Myanmar-border linkage?
+A. List armed groups alphabetically, with no locations, instruments or dates.
+B. Describe AFSPA exclusively, without any accord examples.
+C. Give a decade's worth of signatures and conclude every conflict has ended.
+D. Differentiate challenge families; map dated State/faction-specific SoOs, frameworks and settlements; assess implementation separately.
+
+### MCQ answer key, option explanations and remedial traps
 
-A. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-B. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-C. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-D. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-
-**Answer: A.**
-**Explanation:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q26. Which option preserves the legal or institutional boundary of Myanmar-border linkage?
-
-A. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-B. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-C. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-D. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-
-**Answer: B.**
-**Explanation:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q27. Which statement uses Myanmar-border linkage without changing its institution, law or status?
-
-A. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-B. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-C. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-D. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-
-**Answer: C.**
-**Explanation:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q28. Which option avoids the standard UPSC close-option trap about Myanmar-border linkage?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-C. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-D. Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-
-**Answer: D.**
-**Explanation:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q29. Which statement correctly identifies Composite strategy?
-
-A. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-B. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-C. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-D. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-
-**Answer: A.**
-**Explanation:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q30. Which option preserves the legal or institutional boundary of Composite strategy?
-
-A. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-B. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-
-**Answer: B.**
-**Explanation:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q31. Which statement uses Composite strategy without changing its institution, law or status?
-
-A. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-B. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-C. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-D. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-
-**Answer: C.**
-**Explanation:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q32. Which option avoids the standard UPSC close-option trap about Composite strategy?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-
-**Answer: D.**
-**Explanation:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q33. Which statement correctly identifies SoO boundary?
-
-A. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-B. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-C. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-D. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-
-**Answer: A.**
-**Explanation:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q34. Which option preserves the legal or institutional boundary of SoO boundary?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-
-**Answer: B.**
-**Explanation:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q35. Which statement uses SoO boundary without changing its institution, law or status?
-
-A. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-D. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-
-**Answer: C.**
-**Explanation:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q36. Which option avoids the standard UPSC close-option trap about SoO boundary?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-D. A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-
-**Answer: D.**
-**Explanation:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q37. Which statement correctly identifies Framework-agreement boundary?
-
-A. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-B. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-
-**Answer: A.**
-**Explanation:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q38. Which option preserves the legal or institutional boundary of Framework-agreement boundary?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-
-**Answer: B.**
-**Explanation:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q39. Which statement uses Framework-agreement boundary without changing its institution, law or status?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-D. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-
-**Answer: C.**
-**Explanation:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q40. Which option avoids the standard UPSC close-option trap about Framework-agreement boundary?
-
-A. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-D. A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-
-**Answer: D.**
-**Explanation:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q41. Which statement correctly identifies Settlement boundary?
-
-A. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-
-**Answer: A.**
-**Explanation:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q42. Which option preserves the legal or institutional boundary of Settlement boundary?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-C. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-D. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-
-**Answer: B.**
-**Explanation:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q43. Which statement uses Settlement boundary without changing its institution, law or status?
-
-A. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-D. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-
-**Answer: C.**
-**Explanation:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Settlement boundary?
-
-A. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-B. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-C. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-D. A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-
-**Answer: D.**
-**Explanation:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q45. Which statement correctly identifies Implementation boundary?
-
-A. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-B. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-C. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-D. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-
-**Answer: A.**
-**Explanation:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q46. Which option preserves the legal or institutional boundary of Implementation boundary?
-
-A. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-B. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-C. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-D. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-
-**Answer: B.**
-**Explanation:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q47. Which statement uses Implementation boundary without changing its institution, law or status?
-
-A. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-B. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-C. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-D. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-
-**Answer: C.**
-**Explanation:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Implementation boundary?
-
-A. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-B. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-C. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-D. Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-
-**Answer: D.**
-**Explanation:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q49. Which statement correctly identifies Past-decade accord map?
-
-A. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-B. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-C. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-D. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-
-**Answer: A.**
-**Explanation:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q50. Which option preserves the legal or institutional boundary of Past-decade accord map?
-
-A. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-B. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-C. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-D. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-
-**Answer: B.**
-**Explanation:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q51. Which statement uses Past-decade accord map without changing its institution, law or status?
-
-A. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-B. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-C. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-D. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-
-**Answer: C.**
-**Explanation:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Past-decade accord map?
-
-A. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-D. The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-
-**Answer: D.**
-**Explanation:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q53. Which statement correctly identifies UPF-KNO SoO status?
-
-A. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-B. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-C. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-D. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-
-**Answer: A.**
-**Explanation:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q54. Which option preserves the legal or institutional boundary of UPF-KNO SoO status?
-
-A. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-B. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-C. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-D. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-
-**Answer: B.**
-**Explanation:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q55. Which statement uses UPF-KNO SoO status without changing its institution, law or status?
-
-A. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-D. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-
-**Answer: C.**
-**Explanation:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about UPF-KNO SoO status?
-
-A. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-B. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-C. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-D. Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-
-**Answer: D.**
-**Explanation:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q57. Which statement correctly identifies AFSPA sections?
-
-A. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-B. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-C. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-D. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-
-**Answer: A.**
-**Explanation:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q58. Which option preserves the legal or institutional boundary of AFSPA sections?
-
-A. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-B. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-C. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-D. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-
-**Answer: B.**
-**Explanation:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q59. Which statement uses AFSPA sections without changing its institution, law or status?
-
-A. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-D. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-
-**Answer: C.**
-**Explanation:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about AFSPA sections?
-
-A. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-D. Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-
-**Answer: D.**
-**Explanation:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q61. Which statement correctly identifies Notification-repeal firewall?
-
-A. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-D. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-
-**Answer: A.**
-**Explanation:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q62. Which option preserves the legal or institutional boundary of Notification-repeal firewall?
-
-A. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-B. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-C. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-D. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Answer: B.**
-**Explanation:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q63. Which statement uses Notification-repeal firewall without changing its institution, law or status?
-
-A. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-B. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-C. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-D. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-
-**Answer: C.**
-**Explanation:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Notification-repeal firewall?
-
-A. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-B. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-C. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-D. Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-
-**Answer: D.**
-**Explanation:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q65. Which statement correctly identifies AFSPA judicial boundary?
-
-A. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-D. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-
-**Answer: A.**
-**Explanation:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q66. Which option preserves the legal or institutional boundary of AFSPA judicial boundary?
-
-A. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-B. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-C. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-D. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-
-**Answer: B.**
-**Explanation:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q67. Which statement uses AFSPA judicial boundary without changing its institution, law or status?
-
-A. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-B. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-C. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-D. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-
-**Answer: C.**
-**Explanation:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about AFSPA judicial boundary?
-
-A. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-B. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-C. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-D. Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-
-**Answer: D.**
-**Explanation:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q69. Which statement correctly identifies FMR decision boundary?
-
-A. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-B. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-C. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-D. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Answer: A.**
-**Explanation:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q70. Which option preserves the legal or institutional boundary of FMR decision boundary?
-
-A. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-B. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-C. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-D. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Answer: B.**
-**Explanation:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q71. Which statement uses FMR decision boundary without changing its institution, law or status?
-
-A. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-B. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-C. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-D. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-
-**Answer: C.**
-**Explanation:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about FMR decision boundary?
-
-A. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-B. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-C. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-D. MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-
-**Answer: D.**
-**Explanation:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q73. Which statement correctly identifies Assam-Rifles mandate issue?
-
-A. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-B. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-C. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-D. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Answer: A.**
-**Explanation:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q74. Which option preserves the legal or institutional boundary of Assam-Rifles mandate issue?
-
-A. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-B. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-C. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-D. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-
-**Answer: B.**
-**Explanation:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q75. Which statement uses Assam-Rifles mandate issue without changing its institution, law or status?
-
-A. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-B. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-C. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-D. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-
-**Answer: C.**
-**Explanation:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Assam-Rifles mandate issue?
-
-A. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-B. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-C. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-D. The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-
-**Answer: D.**
-**Explanation:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q77. Which statement correctly identifies Peace-process end-state?
-
-A. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-B. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-C. British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-D. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-
-**Answer: A.**
-**Explanation:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q78. Which option preserves the legal or institutional boundary of Peace-process end-state?
-
-A. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-B. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-C. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-D. The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-
-**Answer: B.**
-**Explanation:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q79. Which statement uses Peace-process end-state without changing its institution, law or status?
-
-A. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-B. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-C. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-D. Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-
-**Answer: C.**
-**Explanation:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Peace-process end-state?
-
-A. Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-B. Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule.
-C. The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-D. Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Answer: D.**
-**Explanation:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+#### MCQ 1 — A
+- **A:** Correct. Isolation helps explain later concerns but does not predetermine every subsequent conflict.
+- **B:** Incorrect. Distinct communities and political trajectories rule out a uniform goal.
+- **C:** Incorrect. Cross-border ethnic ties are part of the historical record.
+- **D:** Incorrect. The 1960 language response shows the importance of later policy.
+**Trap:** Historical condition is not a deterministic cause.
+
+#### MCQ 2 — B
+- **A:** Incorrect. Opposition to language policy did not repeal the Constitution.
+- **B:** Correct. A policy shock can activate an older concern about identity and autonomy.
+- **C:** Incorrect. The claim improperly universalises an Assam-specific episode.
+- **D:** Incorrect. Language and representation have direct political salience.
+**Trap:** Identify the proximate trigger and the deeper condition separately.
+
+#### MCQ 3 — C
+- **A:** Incorrect. Nagaland, not Mizoram, became a State in 1963.
+- **B:** Incorrect. The 1963 and 1987 groupings are transposed.
+- **C:** Correct. These are the historical dates in the Core owner.
+- **D:** Incorrect. Statehood was staggered rather than simultaneous.
+**Trap:** Statehood dates show accommodation, not proof of completed peace.
+
+#### MCQ 4 — D
+- **A:** Incorrect. The Schedule does not apply throughout Nagaland.
+- **B:** Incorrect. It is an autonomy framework, not an international-border regime.
+- **C:** Incorrect. Special constitutional provisions remain distinct.
+- **D:** Correct. The four-State, designated-tribal-area limit matters.
+**Trap:** Councils' functions do not make the Schedule universal across the region.
+
+#### MCQ 5 — A
+- **A:** Correct. Instrument, territorial scope and competence must be specified.
+- **B:** Incorrect. Article 371A does not create all Sixth Schedule councils.
+- **C:** Incorrect. Articles 371A and 371C are relevant special provisions.
+- **D:** Incorrect. The Schedule is constitutional, not a ministry programme.
+**Trap:** A familiar autonomy label cannot replace exact constitutional ownership.
+
+#### MCQ 6 — B
+- **A:** Incorrect. A regional umbrella obscures different factions and demands.
+- **B:** Correct. It analyses interacting causes without assuming uniformity.
+- **C:** Incorrect. Single-variable poverty cannot explain distinct trajectories.
+- **D:** Incorrect. Factional participation in negotiations must be specified.
+**Trap:** Map State, faction and grievance before proposing a response.
+
+#### MCQ 7 — C
+- **A:** Incorrect. Shared kinship does not establish armed affiliation.
+- **B:** Incorrect. Difficult terrain does not eliminate movement.
+- **C:** Correct. Historical link and present intelligence claim have different evidentiary status.
+- **D:** Incorrect. Physical border measures cannot alone resolve political disputes.
+**Trap:** Do not turn book-period sanctuary claims into today's group map.
+
+#### MCQ 8 — D
+- **A:** Incorrect. The announcement itself is reported in the Core.
+- **B:** Incorrect. Its subject was the cross-border movement regime.
+- **C:** Incorrect. Community ties are a separate, recognised concern.
+- **D:** Correct. An announced decision is not an independently verified operational order.
+**Trap:** For current FMR status, cite the later governing notification, not the 2024 headline.
+
+#### MCQ 9 — A
+- **A:** Correct. Mandate analysis differs from a claim about force numbers or final peace.
+- **B:** Incorrect. Border guarding does not make Assam Rifles the sole negotiating body.
+- **C:** Incorrect. A guarding role does not establish the legality of every crossing.
+- **D:** Incorrect. Current deployment requires current official evidence.
+**Trap:** Do not conflate guarding, counter-insurgency and political negotiation.
+
+#### MCQ 10 — B
+- **A:** Incorrect. A grievance is not a Section 3 notification.
+- **B:** Correct. The notified area and period delimit the Act's application.
+- **C:** Incorrect. A framework agreement has a different legal function.
+- **D:** Incorrect. Council status does not itself trigger AFSPA.
+**Trap:** State the declaration and its authority, not just the Act's name.
+
+#### MCQ 11 — C
+- **A:** Incorrect. None of these descriptions matches the three sections.
+- **B:** Incorrect. An SoO and referendum are not AFSPA provisions.
+- **C:** Correct. It distinguishes territorial activation, specified powers and sanction.
+- **D:** Incorrect. Statutory power remains subject to safeguards and judicial review.
+**Trap:** Prior sanction for prosecution is not a declaration of absolute immunity.
+
+#### MCQ 12 — D
+- **A:** Incorrect. Executive de-notification is not legislative repeal.
+- **B:** Incorrect. Allegations remain subject to the applicable legal process.
+- **C:** Incorrect. A narrower notification is not an accord-implementation audit.
+- **D:** Correct. The Act can remain in force elsewhere.
+**Trap:** Attach any current footprint claim to an exact dated notification.
+
+#### MCQ 13 — A
+- **A:** Correct. The two judgments support a reading attentive to power and accountability together.
+- **B:** Incorrect. Neither judgment repealed the Act.
+- **C:** Incorrect. Constitutionality was upheld with safeguards.
+- **D:** Incorrect. *EEVFAM* rejects absolute immunity for excessive force.
+**Trap:** Judicial checks and operational powers are not logically incompatible.
+
+#### MCQ 14 — B
+- **A:** Incorrect. Stopping hostilities is not completed rehabilitation.
+- **B:** Correct. SoO is an initial, conditional rung, not a final accord.
+- **C:** Incorrect. A ceasefire does not enact constitutional change.
+- **D:** Incorrect. Group and faction coverage must be verified.
+**Trap:** Do not label an SoO “disarmament” or “settlement.”
+
+#### MCQ 15 — C
+- **A:** Incorrect. Signature does not settle all substantive terms.
+- **B:** Incorrect. A framework states political principles, unlike a bare cessation of hostilities.
+- **C:** Correct. It preserves the negotiation and implementation boundary.
+- **D:** Incorrect. A framework is not automatically a constitutional amendment.
+**Trap:** Name NSCN (IM), the date and the framework's status, not simply “Naga accord.”
+
+#### MCQ 16 — D
+- **A:** Incorrect. Intention to negotiate precedes signature.
+- **B:** Incorrect. Signing is an event, not delivery of commitments.
+- **C:** Incorrect. Other agreements do not prove this one's implementation.
+- **D:** Correct. It tests the commitments rather than counting signatures.
+**Trap:** Name the evidence needed for each promised result.
+
+#### MCQ 17 — A
+- **A:** Correct. Framework and settlement are different rungs, with different remaining tasks.
+- **B:** Incorrect. It overstates the first and mislabels the second.
+- **C:** Incorrect. Neither is an AFSPA disturbed-area notification.
+- **D:** Incorrect. Verified agreements are precisely what the mapping directive seeks.
+**Trap:** A map must classify agreements, not merely count them.
+
+#### MCQ 18 — B
+- **A:** Incorrect. Boundary disputes may affect relations even when not insurgent accords.
+- **B:** Correct. It keeps negotiating parties and commitments separate.
+- **C:** Incorrect. An agreement does not automatically amend the Constitution.
+- **D:** Incorrect. Different instruments have different effects.
+**Trap:** Do not mix an inter-State agreement into a tally of settlements with armed groups.
+
+#### MCQ 19 — C
+- **A:** Incorrect. The stated validity period ended before the question's date.
+- **B:** Incorrect. The agreement was a SoO, not a final political settlement.
+- **C:** Correct. Expiry makes a fresh status check necessary.
+- **D:** Incorrect. It concerned named signatories, not every group in Manipur.
+**Trap:** A dated SoO cannot silently be carried forward as a current one.
+
+#### MCQ 20 — D
+- **A:** Incorrect. Historical communal conflict cannot establish collective criminality.
+- **B:** Incorrect. It is not a 2026 regional statistic.
+- **C:** Incorrect. The example shows identity, information and security interacting.
+- **D:** Correct. It illustrates a mechanism without assigning collective blame.
+**Trap:** Qualify historical examples by place, period and scope.
+
+#### MCQ 21 — A
+- **A:** Correct. The response combines conditional negotiation, lawful security and political development.
+- **B:** Incorrect. One faction's accord cannot bind all others.
+- **C:** Incorrect. Connectivity does not replace representation and autonomy.
+- **D:** Incorrect. Accountability concerns are legitimate and do not imply support for violence.
+**Trap:** Composite strategy is neither “talks only” nor “force only.”
+
+#### MCQ 22 — B
+- **A:** Incorrect. A properly dated series can show the specified reduction.
+- **B:** Correct. Security incidence is not a complete implementation or reconciliation measure.
+- **C:** Incorrect. A decline can be significant even if insufficient by itself.
+- **D:** Incorrect. Comparability depends on reporting scope and period.
+**Trap:** A signature, a quieter period and durable political peace are three different claims.
+
+#### MCQ 23 — C
+- **A:** Incorrect. A notification does not remove judicial safeguards.
+- **B:** Incorrect. Legitimate protection and accountability can coexist.
+- **C:** Correct. It evaluates purpose, scope and constraints together.
+- **D:** Incorrect. De-notification does not retrospectively judge every action.
+**Trap:** Discuss Section 3, Section 4 and Section 6 with judicial limits.
+
+#### MCQ 24 — D
+- **A:** Incorrect. It neither diagnoses challenges nor classifies peace instruments.
+- **B:** Incorrect. AFSPA is only one dimension.
+- **C:** Incorrect. Signature alone cannot demonstrate implementation.
+- **D:** Correct. It addresses “challenges” and “map” as separate demands.
+**Trap:** The 2025 PYQ has two limbs; answer both.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+The 2019 stem below is the audited ledger's **neutral demand rendering**, not a purported transcription. The 2025 question is reproduced verbatim in the canonical Core owner. Model answers are independent learner practice; date and instrument-status claims are bounded to cited Core evidence.
 
-The audited GS-III ledgers route the 2019 India-Myanmar-border demand and the 2025 North-East challenges-and-accord-map demand here. Every instrument retains its date, State or faction and legal/status rung; signature is never rewritten as implementation.
+### PYQ 1 — 2019 GS-III, Q20 · 15 marks · 250 words
 
-### PYQ DEMAND CARD 1 — 2019 GS-III
+**Audited demand:** Examine India–Myanmar border-security challenges and their links with North-East insurgency.
 
-**Demand:** India-Myanmar border security challenges and their connection with insurgency in the North-East.
+**Model answer:** The India–Myanmar border is simultaneously a security interface and a zone of longstanding kinship and livelihoods. Difficult terrain and communities living across the boundary complicate regulated movement. Singh's book-period account identifies historical cross-border connections and possible sanctuary, but it cannot establish which group is active where today. Smuggling and armed networks may exploit weak coordination; those risks do not make border residents collectively suspect.
 
-**Status:** Audited neutral rendering; Examine · 15 marks · 250 words.
+Management must therefore combine guarding with lawful mobility. Assam Rifles has a border-guarding role alongside counter-insurgency demands; coordination with State police and civil officials helps distinguish cross-border offences from legitimate community needs. Intelligence sharing and regulated entry should support prevention without treating an alert as proof of an individual's guilt. Connectivity and accountable local administration matter because distrust or unavailable services can weaken cooperation with border institutions.
 
-**Model solution:** **Insurgency-driver matrix:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Myanmar-border linkage:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Composite strategy:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **FMR decision boundary:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Assam-Rifles mandate issue:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Peace-process end-state:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The Free Movement Regime reflected cross-border community ties, but its existence did not make every movement benign. Regulation should protect legitimate community interests alongside border security. Wider peace also needs State- and faction-specific talks, political autonomy where constitutionally appropriate, and implementation of any signed commitments. Fencing alone cannot settle identity and representation claims. The test is whether border control protects communities and reduces illicit movement while preserving lawful participation and trust.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2019 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Examiner focus:** Explain a cross-border mechanism and allocate responsibilities; do not recite a book-period list of active groups or mistake the FMR announcement for an operative order.
 
-**Detailed examiner-grade model answer:**
+**Current-status extension (outside the 2019 exam answer):** MHA announced on 8 February 2024 a decision to scrap the FMR; the announcement does not by itself establish the exact later operational regime without its governing notification.
 
-**Introduction and thesis:** **Insurgency-driver matrix:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Myanmar-border linkage:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Composite strategy:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **FMR decision boundary:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Assam-Rifles mandate issue:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Peace-process end-state:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### PYQ 2 — 2025 GS-III, Q19 · 15 marks · 250 words
 
-**Analytical body:**
+**Verified question:** “What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade.”
 
-1. **Claim:** Demand: India-Myanmar border security challenges and their connection with insurgency in the North-East. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Audited neutral rendering; Examine · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Model answer:** North-Eastern conflicts cannot be treated as one insurgency. Identity and autonomy claims differ by State and faction; inter-ethnic tensions, perceived demographic change, poor governance and cross-border connections can deepen distrust. AFSPA's contested use adds a security–accountability challenge. The response must match each grievance to an instrument, not equate an agreement with its implementation.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**A past-decade map (2015–2025):** the **2015 NSCN (IM) Framework Agreement** set negotiating principles, not a final Naga settlement. The **2019 NLFT(SD) agreement** concerns Tripura. **2020** brought the Bodo accord in Assam and the Bru–Reang settlement concerning Tripura; the **2021 Karbi Anglong agreement** addressed another Assam-specific demand. **2023** saw DNLA and pro-talks ULFA agreements in Assam and an agreement with UNLF in Manipur. A **2024 TIPRA Motha tripartite agreement** belongs to Tripura's political-accommodation map. The revised **UPF/KNO SoO ground rules of September 2025** were a time-limited ceasefire instrument, not a Manipur settlement; the stated period ended on 3 September 2026, so their later status needs a new record. An Assam–Meghalaya boundary agreement is inter-State, not an insurgent-group accord.
 
-**Qualified conclusion:** **Insurgency-driver matrix:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Myanmar-border linkage:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Composite strategy:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **FMR decision boundary:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Assam-Rifles mandate issue:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Peace-process end-state:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The Sixth Schedule and State-specific provisions offer autonomy routes, while negotiation, lawful security, connectivity and inter-ethnic trust-building must accompany them. For each accord, test separately whether promised council powers, funding and reintegration were delivered. The 1986 Mizo Accord shows why sustained political follow-through, rather than signature alone, is the meaningful benchmark.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Examiner focus:** Cover both “challenges” and “map”; distinguish framework, settlement, SoO and implementation by State, faction and date.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2019 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+#### Original 1 · 10 marks · about 150 words
 
-### PYQ DEMAND CARD 2 — 2025 GS-III
+**Question:** Explain how historical isolation and identity formation contributed to insurgency in the North-East.
 
-**Demand:** "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade."
+**Model answer:** British-era excluded-area administration restricted contact between some tribal areas and the wider Indian freedom struggle while allowing other administrative and missionary influences. This history shaped distinct political identities; it did not predetermine insurgency in every community. After Independence, debates about language, representation and control over customary institutions gave those identities concrete political stakes.
 
-**Status:** Verbatim owner-preserved question; Map · 15 marks · 250 words.
+The reaction to Assam's 1960 official-language decision illustrates a proximate trigger: tribal-district fears of assimilation sharpened calls for autonomy and statehood. The subsequent creation of Nagaland, Meghalaya, Manipur, Tripura, Mizoram and Arunachal Pradesh at different dates shows how political accommodation could respond without making all demands identical. The Sixth Schedule offers councils only in designated tribal areas of four States; Nagaland and Manipur have different special constitutional provisions. Insurgency also requires attention to governance, inter-ethnic conflict and cross-border ties. History explains a vulnerability, but institutions and choices shape whether it becomes sustained violence.
 
-**Model solution:** **Historical-isolation condition:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Sixth Schedule boundary:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Articles 371A-371C boundary:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. **Insurgency-driver matrix:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Myanmar-border linkage:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **SoO boundary:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Framework-agreement boundary:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Settlement boundary:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Implementation boundary:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Past-decade accord map:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **UPF-KNO SoO status:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **AFSPA sections:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Notification-repeal firewall:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Peace-process end-state:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Why it meets the directive:** Links an historical condition to a later policy trigger, then qualifies the causal claim with distinct accommodations.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2025 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+#### Original 2 · 10 marks · about 150 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Distinguish a Suspension of Operations agreement from a political settlement and implementation.
 
-**Introduction and thesis:** **Historical-isolation condition:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Sixth Schedule boundary:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Articles 371A-371C boundary:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. **Insurgency-driver matrix:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Myanmar-border linkage:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **SoO boundary:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Framework-agreement boundary:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Settlement boundary:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Implementation boundary:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Past-decade accord map:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **UPF-KNO SoO status:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **AFSPA sections:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Notification-repeal firewall:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Peace-process end-state:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer:** A Suspension of Operations is a conditional halt to hostilities under agreed ground rules. It can create space for negotiations, but does not by itself resolve autonomy demands, disarm every faction or establish civilian rehabilitation. The UPF/KNO ground rules signed in September 2025 illustrate this rung; their stated validity ended in September 2026, and any continuation needs later evidence.
 
-**Analytical body:**
+A framework agreement, such as the 2015 NSCN (IM) instrument, instead records principles for negotiations; it still leaves final political terms open. A signed settlement, such as the 2020 Bodo accord, names specific commitments but cannot establish that they were carried out. **Implementation** must be shown separately through functioning institutions, fulfilled funding or legal obligations, and reintegration where promised. Counting all signatures as “peace achieved” obscures both ongoing negotiations and unmet commitments. A durable end-state also needs community confidence and lawful security, not merely a quieter interval.
 
-1. **Claim:** Demand: "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade." **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Verbatim owner-preserved question; Map · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Why it meets the directive:** Identifies each rung's effect and supplies dated, correctly classified examples.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+#### Original 3 · 15 marks · about 250 words
 
-**Qualified conclusion:** **Historical-isolation condition:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Sixth Schedule boundary:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Articles 371A-371C boundary:** Nagaland's special constitutional protection operates through Article 371A, while Manipur's hill-area mechanism is linked to Article 371C; these are not substitutes for the Sixth Schedule. **Insurgency-driver matrix:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Myanmar-border linkage:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **SoO boundary:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Framework-agreement boundary:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Settlement boundary:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Implementation boundary:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Past-decade accord map:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **UPF-KNO SoO status:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **AFSPA sections:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Notification-repeal firewall:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Peace-process end-state:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Question:** Examine India–Myanmar border-security challenges and their links with North-East insurgency.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Model answer:** The India–Myanmar border cannot be treated simply as a barrier between hostile and friendly territory. Shared ethnicity and kinship, difficult terrain and local trade provide legitimate reasons for movement, while armed and illicit networks may exploit the same conditions. Historical accounts such as Singh's identify Myanmar as an important external link; present claims about specific groups, camps or flows require contemporary evidence. The challenge is to distinguish illicit activity from the ordinary life of border communities.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+Assam Rifles' guarding mandate meets a counter-insurgency task as well, making coordination with State police, civil administration and border institutions essential. Regulation, intelligence and lawful investigation can reduce misuse, but a security alert is not proof of criminal guilt. Better roads and accessible public services can support effective governance, while exclusionary measures without consultation can weaken trust.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2025 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+MHA's decision announced on 8 February 2024 to scrap the Free Movement Regime highlights a genuine trade-off: tighter control may reduce one route of misuse yet disrupt longstanding community access. Without the governing operative notification, an answer should not claim precisely how the regime currently functions. Finally, border management is not a full peace settlement. Political accommodation through the relevant autonomy arrangements, negotiations with named factions and verified accord implementation remain necessary. Evaluate success through protected residents, lawful access, lower illicit harm and confidence in public institutions, not fencing alone.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Why it meets the directive:** Analyses the border's dual use, identifies actors and limits, and connects border policy to political peace.
 
-**Question:** Explain how historical isolation and identity formation contributed to insurgency in the North-East. Answer in about 150 words.
+#### Original 4 · 15 marks · about 250 words
 
-**Model thesis:** **Claim:** Historical-isolation condition. **Named evidence/example:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assamisation trigger. **Named evidence/example:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Question:** Map the major internal-security challenges and peace instruments in the North-East over the past decade.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:** An examiner needs two maps. The **challenge map** distinguishes identity and autonomy claims from inter-ethnic or demographic tensions, border-linked illicit movement, governance gaps, and the legitimacy problem surrounding security powers such as AFSPA. These do not combine identically in Nagaland, Assam, Manipur and Tripura. An effective response must therefore be tailored rather than described as a single regional insurgency.
 
-- British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East.
-- The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition.
-- Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-- The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-- Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
+The **instrument map** separates an SoO, a framework, a signed settlement and its implementation. NSCN (IM)'s 2015 framework is a negotiating basis, not a final settlement. The 2019 NLFT(SD) agreement concerns Tripura; 2020 brought Bodo and Bru–Reang settlements; 2021 Karbi Anglong addresses an Assam-specific dispute. In 2023, DNLA, pro-talks ULFA and UNLF agreements involved different Assam and Manipur constituencies. The 2024 TIPRA Motha instrument belongs to Tripura's accommodation process. The UPF/KNO arrangement revised in 2025 was a time-limited SoO, whose stated period ended in September 2026; later validity requires verification.
 
-**Qualified conclusion:** **Claim:** Historical-isolation condition. **Named evidence/example:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assamisation trigger. **Named evidence/example:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The map needs a **third column** for implementation: which council changes, funding commitments, political safeguards or rehabilitation measures can be independently observed? The Sixth Schedule and Articles 371A/371C offer different autonomy frameworks, but constitutional availability is not evidence that every grievance is settled. A signature is progress only if continuing security, political representation and reconciliation make it effective for communities.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain how historical isolation and identity formation contributed to insurgency in the…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Why it meets the directive:** Organises the two requested maps and states what evidence would turn an accord list into an assessment.
 
-**Detailed examiner-grade model answer:**
+#### Original 5 · 20 marks · about 300 words
 
-**Introduction and thesis:** **Claim:** Historical-isolation condition. **Named evidence/example:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assamisation trigger. **Named evidence/example:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Question:** Critically evaluate AFSPA's operational necessity and accountability architecture in the North-East.
 
-**Analytical body:**
+**Model answer:** AFSPA, 1958 creates exceptional powers in a legally notified “disturbed area”; it does not place every security action beyond scrutiny. Section 3 governs the declaration, Section 4 specifies powers including use of force, arrest and search, and Section 6 requires prior Central sanction for prosecution for acts under the statute. The geographical and temporal terms of the notification are therefore part of the legal question. A reduced notification footprint limits operation locally without repealing the Act.
 
-1. **Claim:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+The argument for exceptional powers is that continuing armed violence can put civilians and officers at risk and frustrate normal policing. Timely protection and investigation may be difficult under ordinary conditions. Singh gives weight to this operational case but also warns that rights violations undermine legitimacy. The counterargument is not merely abstract: disproportionate or unaccountable force may deepen alienation and weaken cooperation with institutions needed for durable peace.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+The constitutional settlement is more nuanced than either blanket immunity or automatic repeal. In *Naga People's Movement of Human Rights v. Union of India* (1997), the Supreme Court upheld the Act while requiring observance of safeguards. In *EEVFAM v. Union of India* (2016), it rejected an absolute-immunity reading for alleged excessive or retaliatory force. A sound answer therefore examines the necessity and proportionate exercise of powers, recording and investigation, effective remedies and review of disturbed-area notifications alongside protection needs.
 
-**Qualified conclusion:** **Claim:** Historical-isolation condition. **Named evidence/example:** British excluded-area policy, limited links with the wider freedom struggle and distinct missionary and administrative experiences shaped later identity and alienation in the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assamisation trigger. **Named evidence/example:** The 1960 Assamese official-language decision generated strong tribal-district resistance and fear of identity loss, illustrating how a proximate policy trigger can activate a deeper historical condition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+AFSPA alone cannot negotiate autonomy, deliver services or reconcile communities. Equally, announcing that notification coverage has shrunk does not establish that every past allegation has been addressed. **Verdict:** legal authorisation for exceptional security powers is conditional; their legitimacy depends on accountable use, regularly justified territorial scope and the simultaneous strengthening of ordinary policing and political institutions.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Why it meets the directive:** States the strongest security case, tests the rights objection and uses statute, notifications and judicial limits as distinct controls.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+#### Original 6 · 20 marks · about 300 words
 
-**How to improve this answer:** For ‘Explain how historical isolation and identity formation contributed to insurgency in the…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Question:** Assess whether the North-East peace process has moved from accords to durable implementation and inter-ethnic reconciliation.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+**Model answer:** An accord is not an outcome. The North-East contains distinct State and factional demands, so the first step is to classify each peace instrument. A Suspension of Operations can reduce hostilities but leave political demands unsettled; NSCN (IM)'s 2015 framework records negotiating principles; agreements such as Bodo (2020), Karbi Anglong (2021) and the 2023 pro-talks ULFA instrument set out commitments. None proves implementation merely by being signed.
 
-**Question:** Distinguish a Suspension of Operations agreement from a political settlement and implementation. Answer in about 150 words.
+An implementation audit should ask whether promised councils or autonomy arrangements function, allocated funds reach intended services, former cadres gain safe livelihoods and affected communities can use grievance institutions. The Mizo Accord of 1986 is frequently cited as an example of political follow-through, but it cannot be transferred unchanged to conflicts with different factions or inter-ethnic relations. A fall in incident counts may evidence security progress without measuring whether boundary disputes, demographic anxieties or unequal access to representation have been resolved.
 
-**Model thesis:** **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Manipur's UPF/KNO ground rules signed in September 2025 show the evidentiary problem sharply: they constituted a time-limited SoO, not a final settlement. Its stated validity ended on 3 September 2026; no later renewal should be presumed. By contrast, constitutional tools such as the Sixth Schedule and State-specific provisions can institutionalise autonomy where applicable, yet may leave competing community claims and local implementation disputes. Protection must be lawful and accountable: shrinking an AFSPA disturbed-area notification is not repeal, nor does its continuation establish public consent.
 
-**Claim → named evidence → analysis → qualification:**
+**Verdict:** the region has multiple genuine negotiation and accommodation instruments, but a claim of *durable* peace requires evidence at the last rung—implemented commitments, sustained civilian security, inclusive representation and inter-ethnic reconciliation. Report each by State, faction, instrument and date rather than announcing one undifferentiated regional success.
 
-- A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-- A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-- A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-- Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-- Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-
-**Qualified conclusion:** **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish a Suspension of Operations agreement from a political settlement and…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Distinguish a Suspension of Operations agreement from a political settlement and…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Examine India-Myanmar border-security challenges and their links with North-East insurgency. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Myanmar-border linkage. **Named evidence/example:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-- Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence.
-- The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-- MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-- The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-- Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Qualified conclusion:** **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Myanmar-border linkage. **Named evidence/example:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine India-Myanmar border-security challenges and their links with North-East insurgency.…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Myanmar-border linkage. **Named evidence/example:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Myanmar-border linkage. **Named evidence/example:** Shared ethnic ties, terrain and cross-border movement make Myanmar a major external linkage for North-East insurgency; current sanctuary or group claims require dated official evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Examine India-Myanmar border-security challenges and their links with North-East insurgency.…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Map the major internal-security challenges and peace instruments in the North-East over the past decade. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-- Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States.
-- The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-- A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-- A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-- A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-- Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-- The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-- Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-
-**Qualified conclusion:** **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on ‘Map the major internal-security challenges and peace instruments in the North-East over the…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Insurgency-driver matrix. **Named evidence/example:** Identity and autonomy claims, inter-ethnic tension, demographic anxieties, underdevelopment, weak governance, difficult terrain, arms or narcotics routes and cross-border sanctuary interact differently across States. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Map the major internal-security challenges and peace instruments in the North-East over the…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Critically evaluate AFSPA's operational necessity and accountability architecture in the North-East. Answer in about 300 words.
-
-**Model thesis:** **Claim:** AFSPA sections. **Named evidence/example:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Notification-repeal firewall. **Named evidence/example:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** AFSPA judicial boundary. **Named evidence/example:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution.
-- Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace.
-- Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation.
-- Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Qualified conclusion:** **Claim:** AFSPA sections. **Named evidence/example:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Notification-repeal firewall. **Named evidence/example:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** AFSPA judicial boundary. **Named evidence/example:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Critically evaluate AFSPA's operational necessity and accountability architecture in the…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** AFSPA sections. **Named evidence/example:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Notification-repeal firewall. **Named evidence/example:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** AFSPA judicial boundary. **Named evidence/example:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** AFSPA sections. **Named evidence/example:** Under AFSPA 1958, section 3 governs disturbed-area declaration, section 4 confers specified powers in a notified area, and section 6 requires previous Central Government sanction before prosecution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Notification-repeal firewall. **Named evidence/example:** Shrinking or withdrawing a disturbed-area notification ends AFSPA's operation only in the de-notified area for that notification period; it neither repeals the Act nor proves final peace. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** AFSPA judicial boundary. **Named evidence/example:** Naga People's Movement of Human Rights (1997) upheld AFSPA with binding safeguards, while EEVFAM (2016) rejected absolute immunity and kept alleged excessive force open to investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Critically evaluate AFSPA's operational necessity and accountability architecture in the…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Assess whether the North-East peace process has moved from accords to durable implementation and inter-ethnic reconciliation. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation.
-- The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East.
-- The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements.
-- A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation.
-- A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement.
-- A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration.
-- Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit.
-- The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status.
-- Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement.
-- MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification.
-- The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification.
-- Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone.
-
-**Qualified conclusion:** **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Demand decoding:** The directive **assess** requires a direct position on ‘Assess whether the North-East peace process has moved from accords to durable implementation…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-10. **Claim:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-11. **Claim:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-12. **Claim:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Statehood accommodation. **Named evidence/example:** Nagaland became a State in 1963; Meghalaya, Manipur and Tripura in 1972; Mizoram and Arunachal Pradesh in 1987, showing political accommodation through territorial reorganisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sixth Schedule boundary. **Named evidence/example:** The Sixth Schedule under Articles 244(2) and 275(1) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram through Autonomous District and Regional Councils; it does not cover the entire North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Composite strategy. **Named evidence/example:** The Government's composite approach combines talks with groups abjuring violence, lawful action against continuing violence, development and connectivity, and political or autonomy arrangements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** SoO boundary. **Named evidence/example:** A Suspension of Operations agreement is a renewable, revocable cessation-of-hostilities arrangement with ground rules; it is not disarmament, a final political settlement or verified rehabilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Framework-agreement boundary. **Named evidence/example:** A framework agreement records agreed principles for future negotiation but leaves competencies, territory or implementation open; the NSCN (IM) Framework Agreement of 3 August 2015 is not a final settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Settlement boundary. **Named evidence/example:** A Memorandum of Settlement or accord records specified commitments, but signature alone does not prove council formation, legal amendment, package disbursement, disbandment or reintegration. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Implementation boundary. **Named evidence/example:** Implementation is the separate rung where constitutional, statutory, financial and rehabilitation commitments are verified; accord counts cannot substitute for an implementation audit. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Past-decade accord map. **Named evidence/example:** The owner maps the 2019 NLFT(SD), 2020 Bodo and Bru-Reang, 2021 Karbi Anglong, 2022 boundary and Adivasi-group, 2023 DNLA, UNLF and ULFA pro-talks, and 2024 TIPRA Motha instruments, each requiring exact status. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UPF-KNO SoO status. **Named evidence/example:** Revised tripartite Suspension of Operations ground rules with UPF and KNO were signed on 4 September 2025 and stated to run through 3 September 2026; this is a ceasefire rung, not a Manipur settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FMR decision boundary. **Named evidence/example:** MHA announced on 8 February 2024 a decision to scrap the India-Myanmar Free Movement Regime; an announcement must not be stated as the complete operational regime without the governing notification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Assam-Rifles mandate issue. **Named evidence/example:** The owner identifies a border-guarding versus counter-insurgency mandate tension for Assam Rifles along the Myanmar border; current deployments and force numbers require dated official verification. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Peace-process end-state. **Named evidence/example:** Durable peace requires State- and faction-specific accommodation, lawful and accountable security, inter-ethnic reconciliation, border governance and verified implementation rather than signatures alone. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Assess whether the North-East peace process has moved from accords to durable implementation…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Why it meets the directive:** Contrasts genuine progress with the unresolved test of implementation and proposes evidence for reconciliation rather than relying on accord counts.

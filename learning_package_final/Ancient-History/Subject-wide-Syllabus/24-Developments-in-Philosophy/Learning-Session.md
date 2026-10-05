@@ -1,7 +1,7 @@
 ---
 title: "Developments in Philosophy — Learner-v2 Refreshed"
 topic_key: ancient-indian-history-24
-cover_image: assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png
+cover_image: ../../../../upsc-ai-kit/knowledge/Learner-v2-Refreshed/Ancient-Indian-History/Subject-Wide-Syllabus/learning-sessions/ancient-indian-history-24/g5/assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png
 ---
 # Developments in Philosophy - Complete Topic Package
 
@@ -52,14 +52,14 @@ cover_image: assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png
 
 
 
-![Refreshed teaching navigation](assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png)
+![Refreshed teaching navigation](upsc-ai-kit/knowledge/Learner-v2-Refreshed/Ancient-Indian-History/Subject-Wide-Syllabus/learning-sessions/ancient-indian-history-24/g5/assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png)
 
 *Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
 
 #### Package counts, provenance and honest limitations
 
-- Learning sections: 22; learning MCQ loops: 16.
-- Workbook content: 3 verified/routed/adjacent PYQs; 32 broad MCQs; 12 remedials; 6 original solved Mains questions; final register modules: 8.
+- Learning sections: 23; a distinct 16-question `ABCD`-rotated learning-check loop lives once, in this main session.
+- Workbook content (standalone bank, held once in the workbook, not duplicated here): 3 verified/routed/adjacent PYQs; 32 original hard MCQs with strict `ABCD` rotation repeated eight times, 128 option-level explanations and 32 unique examiner traps (remediation is folded into the 32 at every fourth item); 6 original solved Mains questions; final register modules: 8.
 - Original PNG visuals: 20. All diagrams are explanatory schematics, not decorative pseudo-art, and avoid fabricated portraits, false maps or invented manuscript imagery.
 - Exact local wording is securely available for 2024 Prelims GS-I Q58 through the checked official paper/key workflow already validated inside Topic 09. Topic 24 therefore reuses the verified statement-level logic without reopening a settled route.
 - The 2022 Prelims GS-I scholar-identification demand is locally preserved in the official paper, but the preserved page is Hindi; the workbook therefore uses a faithful English rendering and clearly marks the absence of a locally held official key.
@@ -109,8 +109,8 @@ cover_image: assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png
 - **Scope**
 - **chronology**
 - **evidence discipline**
-- **Mains angle**
-- **Study link**
+- **sutra systematisation**
+- **doxography caution**
 - **Vedic and late Vedic**
 
 **How to use them:** Frame the answer through Scope; define chronology, connect evidence discipline with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -121,7 +121,7 @@ cover_image: assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png
 
 [DEBATE] This is not Philosophy Optional in disguise. Optional-level doctrinal refinements matter only where they clarify an Ancient History question. The owner priority here is chronology, context, inter-school contact, textual form and source criticism.
 
-![01. Scope, chronology and evidence discipline](assets/01_intellectual_chronology_spine.png)
+![01. Scope, chronology and evidence discipline](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/01_intellectual_chronology_spine.png)
 
 *Original deterministic chronology spine. It separates earliest textual hints from later sutra systematisation and later scholastic elaboration.*
 
@@ -148,6 +148,10 @@ cover_image: assets/ancient-indian-history-24_Teaching-Navigation_2026-08-30.png
 - "Six orthodox systems" is a later grouping applied to older, uneven traditions.
 - Upanishadic philosophy belongs within the Vedic corpus even where it transforms its emphasis.
 - Ajivika and Charvaka must be handled with stronger source caution than Buddhism, Jainism or Nyaya.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Topic 24 must be taught as a layered chronology, not a flat list of six schools. **Named evidence:** the Nasadiya Sukta's questioning stance, the early Upanishads' turn toward brahman-atman inquiry, and the later sutra compression of Nyaya, Vaisheshika and Mimamsa belong to different, successive centuries. **Analysis:** treating these as simultaneous erases the actual sequence of Vedic speculation, Upanishadic interiorisation, the shramana challenge and scholastic systematisation. **Qualification:** exact dates remain debated, so the safe claim is relative sequence and thematic shift, not fixed-year precision.
 
 #### UPSC traps
 
@@ -184,7 +188,7 @@ ANSWER-GRABBING FORMULATION: The owner priority here is chronology, context, int
 
 **Plain-language definition:** Upinder Singh notes that the indigenous word darshana literally means "view." Another important term is anviksiki, literally "looking at," which later came to mean critical inquiry and logical reasoning.
 
-**Technical definition:** Technically, What counted as philosophy: darshana, anviksiki and an argumentative civilisation is analysed by relating What counted as philosophy to darshana, then testing the relationship through anviksiki and an argumentative civilisation.
+**Technical definition:** `Darshana` (view/standpoint) and `anviksiki` (critical inquiry) are the two indigenous terms that mark philosophy as a recognised field in ancient India; Kautilya's fourfold classification places `anviksiki` alongside Vedic learning (`trayi`), economics (`varta`) and statecraft (`dandaniti`) as a named branch of knowledge.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -196,8 +200,8 @@ ANSWER-GRABBING FORMULATION: The owner priority here is chronology, context, int
 - **darshana**
 - **anviksiki**
 - **an argumentative civilisation**
-- **Mains angle**
-- **Study link**
+- **trayi-varta-dandaniti**
+- **shastric debate**
 
 **How to use them:** Frame the answer through What counted as philosophy; define darshana, connect anviksiki with an argumentative civilisation to explain the mechanism, and use Mains angle for the decisive comparison or qualification.
 
@@ -231,6 +235,10 @@ ANSWER-GRABBING FORMULATION: The owner priority here is chronology, context, int
 - `Darshana` is view, not merely a list of schools.
 - `Anviksiki` marks philosophical reasoning as a named mode of inquiry.
 - Ancient Indian philosophy often integrates epistemology, ethics and release rather than separating them sharply.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** ancient Indian philosophy is best entered through its own vocabulary, not a borrowed Western category. **Named evidence:** `darshana` (view) and `anviksiki` (inquiry), the latter listed by Kautilya alongside `trayi`, `varta` and `dandaniti`. **Analysis:** this shows reasoning was a recognised, named branch of knowledge integrated with governance and economy, not an isolated abstract pursuit. **Qualification:** the Arthashastra's own chronology is layered, so this classification anchors a field, not one fixed Mauryan-year curriculum.
 
 #### UPSC traps
 
@@ -267,7 +275,7 @@ ANSWER-GRABBING FORMULATION: Upinder Singh notes that the indigenous word darsha
 
 **Plain-language definition:** They are important for speculative questioning and cosmic-sacrificial imagination, but they do not amount to finished later systems such as Vedanta, Samkhya or materialism.
 
-**Technical definition:** Technically, Vedic background: rta, sacrifice and speculative questioning is analysed by relating Vedic background to rta, then testing the relationship through sacrifice and speculative questioning.
+**Technical definition:** `Rta` (cosmic-ritual order) and the sacrificial system supplied the conceptual vocabulary that later speculative hymns, above all the Nasadiya Sukta, turned into open questioning about origins and causation without yet producing a finished philosophical school.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -279,8 +287,8 @@ ANSWER-GRABBING FORMULATION: Upinder Singh notes that the indigenous word darsha
 - **rta**
 - **sacrifice**
 - **speculative questioning**
-- **Mains angle**
-- **Study link**
+- **Nasadiya Sukta**
+- **Purusha Sukta**
 
 **How to use them:** Frame the answer through Vedic background; define rta, connect sacrifice with speculative questioning to explain the mechanism, and use Mains angle for the decisive comparison or qualification.
 
@@ -290,7 +298,7 @@ ANSWER-GRABBING FORMULATION: Upinder Singh notes that the indigenous word darsha
 
 [LIMIT] The Nasadiya Sukta and Purusha Sukta should be read with restraint. They are important for speculative questioning and cosmic-sacrificial imagination, but they do not amount to finished later systems such as Vedanta, Samkhya or materialism.
 
-![03. Vedic background and transition pressure](assets/02_vedic_to_upanishadic_transition.png)
+![03. Vedic background and transition pressure](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/02_vedic_to_upanishadic_transition.png)
 
 *The diagram tracks movement from ritual order to symbolic interiorisation and then to Upanishadic inquiry, while keeping the Book-10 caution explicit.*
 
@@ -316,6 +324,10 @@ ANSWER-GRABBING FORMULATION: Upinder Singh notes that the indigenous word darsha
 - `Rta` and sacrificial thought are crucial background categories.
 - Book 10 hymns invite speculation, but do not by themselves settle later metaphysical debates.
 - The Aranyakas and Brahmanas are transition zones, not dead appendices.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Vedic and late Vedic material supplies raw conceptual vocabulary rather than a finished philosophy. **Named evidence:** `rta` as cosmic-ritual order, the sacrificial system, and the Nasadiya Sukta's open questioning about origins. **Analysis:** these texts pose questions and supply categories that later Upanishadic and darshana traditions develop, without themselves constituting Samkhya, Vedanta or materialism. **Qualification:** reading a later school back into these hymns converts open questioning into settled doctrine it does not yet contain.
 
 #### UPSC traps
 
@@ -377,7 +389,7 @@ ANSWER-GRABBING FORMULATION: They are important for speculative questioning and 
 
 [LIMIT] The Upanishads are within shruti and cannot be cleanly detached from the Vedic world. Yet they do redirect prestige from outer sacrifice toward deeper knowing and interiorisation.
 
-![04. Upanishadic developments](assets/02_vedic_to_upanishadic_transition.png)
+![04. Upanishadic developments](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/02_vedic_to_upanishadic_transition.png)
 
 *The same transition visual is reused here because Topic 24 depends on seeing continuity and redirection together.*
 
@@ -404,6 +416,10 @@ ANSWER-GRABBING FORMULATION: They are important for speculative questioning and 
 - Early Upanishads belong to the later Vedic horizon and predate the Puranic compilatory world.
 - The Upanishads do use stories, analogies, dialogues and paradoxes.
 - Internal diversity is an exam-safe qualifier, not a weakness.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the Upanishads transform Vedic religion from within rather than rejecting it. **Named evidence:** the Brihadaranyaka and Chandogya Upanishads' dialogues, such as Yajnavalkya's teaching and Uddalaka's instruction to Shvetaketu on brahman, atman, karma, rebirth and release. **Analysis:** authority shifts from ritual efficacy alone toward reflective knowledge and liberation, using narrative and paradox as pedagogy. **Qualification:** the Upanishads remain shruti and are internally plural; no single passage gives one final systematic doctrine.
 
 #### UPSC traps
 
@@ -450,8 +466,8 @@ ANSWER-GRABBING FORMULATION: Explain Upanishadic thought as interiorisation plus
 
 - **Shramana milieu**
 - **the second urbanisation**
-- **Mains angle**
-- **Study link**
+- **itinerant renouncers**
+- **donor patronage**
 - **Towns and trade routes**
 - **teacher mobility, donor networks, wider audiences**
 
@@ -463,7 +479,7 @@ ANSWER-GRABBING FORMULATION: Explain Upanishadic thought as interiorisation plus
 
 [FACT] The shramana field is best understood as a dense argumentative ecology. Traditions disagreed sharply, yet also shared techniques of mendicancy, debate, memory, institutional discipline and ethical self-fashioning.
 
-![05. Shramana challenge and second urbanisation](assets/03_shramana_second_urbanisation_ecosystem.png)
+![05. Shramana challenge and second urbanisation](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/03_shramana_second_urbanisation_ecosystem.png)
 
 *The ecosystem map shows enabling conditions without collapsing doctrine into economy alone.*
 
@@ -489,6 +505,10 @@ ANSWER-GRABBING FORMULATION: Explain Upanishadic thought as interiorisation plus
 - The shramana field is connected to, but not exhausted by, the second urbanisation.
 - Renunciation, debate and patronage are shared structural features.
 - Buddhism, Jainism, Ajivikas and materialist currents are not interchangeable heterodoxy.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the second urbanisation widened the stage for philosophical debate without single-handedly authoring its content. **Named evidence:** growing towns, trade routes, courts and donor networks that supported itinerant teachers and renouncer communities. **Analysis:** this context explains audience, patronage and mobility, but Buddhism, Jainism, Ajivikas and materialist critique remain conceptually distinct responses that need their own doctrinal history. **Qualification:** a monocausal "economy explains doctrine" claim collapses real intellectual differences into one social reflex.
 
 #### UPSC traps
 
@@ -536,8 +556,8 @@ ANSWER-GRABBING FORMULATION: The shramana field is connected to, but not exhaust
 - **Buddhism**
 - **early conceptual core**
 - **philosophical orientation**
-- **Mains angle**
-- **Study link**
+- **dependent origination**
+- **anatman**
 - **Four truths**
 
 **How to use them:** Frame the answer through Buddhism; define early conceptual core, connect philosophical orientation with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -548,7 +568,7 @@ ANSWER-GRABBING FORMULATION: The shramana field is connected to, but not exhaust
 
 [ANALYSIS] The philosophical importance of early Buddhism lies in how it redefined the person as process, suffering as conditioned, and liberation as an achieved discipline rather than as union with an eternal self.
 
-![06. Buddhist conceptual field](assets/15_buddhist_madhyamaka_yogacar-2d460482ca.png)
+![06. Buddhist conceptual field](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/15_buddhist_madhyamaka_yogacara_development.png)
 
 *The later development map is introduced here because even early Buddhist categories set the baseline for later scholastic refinement.*
 
@@ -575,6 +595,10 @@ ANSWER-GRABBING FORMULATION: The shramana field is connected to, but not exhaust
 - Dependent origination, impermanence and non-self are the central conceptual triad.
 - Early Buddhism is path-centred, not merely doctrine-centred.
 - The middle way is ethical and epistemic, not just lifestyle advice.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** early Buddhism is a path-centred, not merely doctrine-centred, teaching. **Named evidence:** the four noble truths, the eightfold path and the doctrine of `anatman` (non-self) built on dependent origination and impermanence. **Analysis:** together these reframe suffering as conditioned and treatable through practice rather than metaphysical speculation for its own sake. **Qualification:** denying a permanent self is not a denial of conventional persons, karma or ethical responsibility.
 
 #### UPSC traps
 
@@ -609,7 +633,7 @@ ANSWER-GRABBING FORMULATION: Early Buddhism is path-centred, not merely doctrine
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Buddhism after the early canon: Abhidharma, Mahayana, Madhyamaka, Yogacara and late logic comprises Buddhism after the early canon, Abhidharma and Mahayana as its core connected dimensions.
+**Plain-language definition:** After the earliest teaching layer, Buddhist thought grew through systematic scholastic analysis (Abhidharma), a broader devotional-philosophical expansion (Mahayana), a rigorous critique of inherent existence (Madhyamaka), a school of consciousness and representation (Yogacara) and formal logic (Dignaga and later logicians).
 
 **Technical definition:** Mahayana is best taught as a historically cumulative expansion, not a rejection of every earlier Buddhist commitment. [DEBATE] Relations among Mahasanghika, Mahayana and later schools are debated and regionally complex.
 
@@ -634,7 +658,7 @@ ANSWER-GRABBING FORMULATION: Early Buddhism is path-centred, not merely doctrine
 
 [ANALYSIS] Ancient History needs a bounded, chronology-aware treatment: early teaching -> school analysis -> Mahayana tendencies -> Madhyamaka/Yogacara -> later logic. This prevents two distortions at once: reducing Buddhism to one early sermon set, or exploding Topic 24 into a full Buddhist philosophy optional paper.
 
-![07. Buddhist scholastic developments](assets/15_buddhist_madhyamaka_yogacar-2d460482ca.png)
+![07. Buddhist scholastic developments](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/15_buddhist_madhyamaka_yogacara_development.png)
 
 *The development map distinguishes early teaching, school analysis, Mahayana tendencies and later epistemic refinement.*
 
@@ -661,6 +685,10 @@ ANSWER-GRABBING FORMULATION: Early Buddhism is path-centred, not merely doctrine
 - Aryadeva and Dignaga are Buddhist, not Jaina or Vaishnava.
 - Shunyata means emptiness of inherent existence, not nothingness.
 - Yogacara should be described in its own Buddhist terms, not crudely as Western-style idealism.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** post-canonical Buddhist thought expanded cumulatively rather than breaking cleanly from the earliest teaching. **Named evidence:** Abhidharma's systematic categorisation, Mahayana's devotional-philosophical widening, Madhyamaka's `shunyata` critique of inherent existence, and Yogacara's analysis of consciousness. **Analysis:** each layer builds technical and institutional depth onto the earlier teaching rather than replacing it outright. **Qualification:** relations among these schools are debated and regionally uneven, so a tidy single-line succession should not be assumed.
 
 #### UPSC traps
 
@@ -720,7 +748,7 @@ ANSWER-GRABBING FORMULATION: Use Madhyamaka and Yogacara only to show later Budd
 
 [ANALYSIS] Jain thought matters historically because it joins austere ethics with a sophisticated theory of qualified knowing. It neither dissolves truth into relativism nor reduces knowledge to one rigid absolute standpoint.
 
-![08. Jain philosophical relation map](assets/16_jain_anekanta_syadvada_nayavada.png)
+![08. Jain philosophical relation map](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/16_jain_anekanta_syadvada_nayavada.png)
 
 *The diagram shows many-sided reality, standpoints and qualified predication without collapsing them into "anything goes."*
 
@@ -747,6 +775,10 @@ ANSWER-GRABBING FORMULATION: Use Madhyamaka and Yogacara only to show later Budd
 - Jiva-ajiva and karmic matter are foundational Jaina categories.
 - Anekantavada, nayavada and syadvada are related but not identical.
 - Ahimsa has metaphysical and epistemic grounding, not only ethical appeal.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Jain philosophy combines a rigorous metaphysics of bondage with a disciplined epistemic humility. **Named evidence:** the `jiva`-`ajiva` (soul-matter) framework, karmic bondage theory, and the `anekantavada`/`syadvada`/`nayavada` cluster of many-sidedness, conditional assertion and partial viewpoints. **Analysis:** this pairs a strong metaphysical claim about souls with a careful method for making qualified judgements about a many-sided reality. **Qualification:** later, more systematic formulations of these doctrines should not be projected unchanged onto the earliest Jaina horizon.
 
 #### UPSC traps
 
@@ -795,8 +827,8 @@ ANSWER-GRABBING FORMULATION: Anekantavada, nayavada and syadvada are related but
 - **niyati**
 - **asceticism**
 - **the hostile-source problem**
-- **Mains angle**
-- **Study link**
+- **Makkhali Gosala**
+- **Barabar caves**
 
 **How to use them:** Frame the answer through Ajivikas; define niyati, connect asceticism with the hostile-source problem to explain the mechanism, and use Mains angle for the decisive comparison or qualification.
 
@@ -806,7 +838,7 @@ ANSWER-GRABBING FORMULATION: Anekantavada, nayavada and syadvada are related but
 
 [ANALYSIS] Ajivikas matter for Topic 24 not because we possess a clean internal philosophical canon, but because their thin, adversarial archive teaches how ancient intellectual history must work under conditions of loss.
 
-![09. Ajivika source-criticism panel](assets/17_ajivika_charvaka_source_criticism.png)
+![09. Ajivika source-criticism panel](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/17_ajivika_charvaka_source_criticism.png)
 
 *The panel separates secure anchors from reconstructions and shows why source caution is part of the content itself.*
 
@@ -831,6 +863,10 @@ ANSWER-GRABBING FORMULATION: Anekantavada, nayavada and syadvada are related but
 - Ajivika evidence is thinner and more hostile than Buddhist or Jaina evidence.
 - Niyati is the central exam anchor.
 - Barabar / Nagarjuni patronage provides a rare hard historical anchor.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the Ajivikas are historically real but must be reconstructed with unusual caution. **Named evidence:** the doctrine of `niyati` (fate/determinism) associated with Makkhali Gosala, known mainly through hostile Buddhist and Jaina sources, alongside Mauryan-era Barabar-Nagarjuni cave patronage. **Analysis:** the combination of adversarial testimony and rare material patronage gives a real but thin evidentiary base. **Qualification:** opponents' summaries may caricature the doctrine, so confidence in fine detail must stay lower than for better-preserved traditions.
 
 #### UPSC traps
 
@@ -878,8 +914,8 @@ ANSWER-GRABBING FORMULATION: Ajivikas were a distinct shramana current associate
 - **Lokayata / Charvaka**
 - **materialism**
 - **sceptical critique**
-- **Mains angle**
-- **Study link**
+- **Brihaspati Sutra**
+- **anti-ritual critique**
 - **Charvaka privileged perception**
 
 **How to use them:** Frame the answer through Lokayata / Charvaka; define materialism, connect sceptical critique with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -890,7 +926,7 @@ ANSWER-GRABBING FORMULATION: Ajivikas were a distinct shramana current associate
 
 [LIMIT] No secure foundational Charvaka text survives in a form comparable to the major preserved sources of Buddhism or Nyaya. Brihaspati attribution is conventional and unstable.
 
-![10. Charvaka and Ajivika source panel](assets/17_ajivika_charvaka_source_criticism.png)
+![10. Charvaka and Ajivika source panel](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/17_ajivika_charvaka_source_criticism.png)
 
 *The same panel is reused because the chief teaching problem is reconstruction from fragmentary and adversarial survival.*
 
@@ -915,6 +951,10 @@ ANSWER-GRABBING FORMULATION: Ajivikas were a distinct shramana current associate
 - Charvaka / Lokayata is heterodox, not one of the six orthodox schools.
 - Perception is its most secure epistemic anchor.
 - Source survival is the biggest methodological caution.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Charvaka/Lokayata represents a genuine materialist current within ancient Indian thought. **Named evidence:** its privileging of perception and its rejection of unseen ritual and afterlife claims, preserved mainly through hostile doxographies rather than an intact founding text. **Analysis:** this shows ancient India was not uniformly other-worldly; a sceptical, this-worldly critique coexisted with salvation-seeking traditions. **Qualification:** because Charvaka survives chiefly through opponents, its positions should be stated as "associated with" rather than quoted as a secure internal scripture.
 
 #### UPSC traps
 
@@ -949,7 +989,7 @@ ANSWER-GRABBING FORMULATION: Charvaka / Lokayata is heterodox, not one of the si
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Astika, nastika and the late doxography problem comprises Astika, nastika and the late doxography problem as its core connected dimensions.
+**Plain-language definition:** `Astika` and `nastika` are historical classificatory labels, not a simple theist/atheist split, and the tidy "six orthodox systems" list that sorts schools under these labels is itself a later doxographical construction layered onto older, individually diverse traditions.
 
 **Technical definition:** Astika / nastika is not a simple God / no-God opposition.
 
@@ -962,8 +1002,8 @@ ANSWER-GRABBING FORMULATION: Charvaka / Lokayata is heterodox, not one of the si
 - **Astika**
 - **nastika**
 - **the late doxography problem**
-- **Mains angle**
-- **Study link**
+- **Veda-acceptance criterion**
+- **heterodox classification**
 - **Brahmanical doxography**
 
 **How to use them:** Frame the answer through Astika; define nastika, connect the late doxography problem with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -974,7 +1014,7 @@ ANSWER-GRABBING FORMULATION: Charvaka / Lokayata is heterodox, not one of the si
 
 [ANALYSIS] This section is exam-critical because modern shorthand often produces three errors together: astika equals believer, nastika equals atheist, and six-school grouping equals timeless Vedic canon. All three are unsafe.
 
-![11. Astika-nastika caution](assets/04_astika_nastika_classification_caveat.png)
+![11. Astika-nastika caution](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/04_astika_nastika_classification_caveat.png)
 
 *The panel shows changing criteria and highlights the central caution: classification is historical and polemical, not timeless and innocent.*
 
@@ -999,6 +1039,10 @@ ANSWER-GRABBING FORMULATION: Charvaka / Lokayata is heterodox, not one of the si
 - Astika / nastika is not a simple God / no-God opposition.
 - The six-school grouping is later than the origins of individual schools.
 - Paired school names are teaching conveniences, not proof of simultaneous birth.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the astika/nastika division is a historical classificatory tool, not a theist/atheist test. **Named evidence:** Buddhism and Jainism are `nastika` because they reject Vedic authority, while Samkhya and Mimamsa are `astika` despite not requiring a personal creator god in their earliest form. **Analysis:** the operative criterion is acceptance or rejection of Vedic/Brahmanical textual authority and related frameworks, not belief in a deity. **Qualification:** the neat six-system `astika` canon that uses this label is itself a later doxographical grouping, not a Vedic-age fact.
 
 #### UPSC traps
 
@@ -1048,7 +1092,7 @@ ANSWER-GRABBING FORMULATION: Astika and nastika also do not simply mean theist a
 - **prakriti**
 - **gunas**
 - **real transformation**
-- **Mains angle**
+- **satkaryavada**
 
 **How to use them:** Frame the answer through Samkhya; define purusha, connect prakriti with gunas to explain the mechanism, and use real transformation for the decisive comparison or qualification.
 
@@ -1058,7 +1102,7 @@ ANSWER-GRABBING FORMULATION: Astika and nastika also do not simply mean theist a
 
 [ANALYSIS] Samkhya matters because it offers a systematic cosmology without requiring a creator-God as its primary explanatory device. This is one reason it disrupts the lazy equation of astika with theism.
 
-![12. Samkhya tattva map](assets/09_samkhya_tattva_map.png)
+![12. Samkhya tattva map](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/09_samkhya_tattva_map.png)
 
 *The tattva map shows prakriti's evolution, the branches of mental and material development, and purusha as witness rather than product.*
 
@@ -1084,6 +1128,10 @@ ANSWER-GRABBING FORMULATION: Astika and nastika also do not simply mean theist a
 - Purusha and prakriti are the central pair.
 - Samkhya is dualist and explanatory, not primarily devotional.
 - Satkaryavada is a major Ancient History-safe technical term.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Samkhya supplies one of ancient India's most influential dualist metaphysical models. **Named evidence:** the `purusha`-`prakriti` distinction, the three `gunas`, and `satkaryavada` (the effect pre-exists in its cause). **Analysis:** this lets Samkhya explain the world's diversity through real transformation of one primordial nature under a plurality of witnessing consciousnesses, without needing a creator deity. **Qualification:** Samkhya's dualism should not be conflated with later non-dualist Vedanta merely because both discuss ultimate reality.
 
 #### UPSC traps
 
@@ -1118,7 +1166,7 @@ ANSWER-GRABBING FORMULATION: Its core teaching distinguishes purusha (witness-co
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Yoga: citta-vritti-nirodha, disciplined practice and the eight limbs comprises Yoga, citta-vritti-nirodha and disciplined practice as its core connected dimensions.
+**Plain-language definition:** Yoga defines its goal as `citta-vritti-nirodha`, the stilling of the fluctuations of the mind, and reaches it through the disciplined eight-limbed practice (`ashtanga`) rather than through metaphysical argument alone.
 
 **Technical definition:** Yoga shares Samkhya's broad distinction between consciousness and nature, but its contribution is the disciplined route by which that distinction becomes experiential.
 
@@ -1132,8 +1180,8 @@ ANSWER-GRABBING FORMULATION: Its core teaching distinguishes purusha (witness-co
 - **citta-vritti-nirodha**
 - **disciplined practice**
 - **the eight limbs**
-- **Mains angle**
-- **Study link**
+- **ashtanga**
+- **samadhi**
 
 **How to use them:** Frame the answer through Yoga; define citta-vritti-nirodha, connect disciplined practice with the eight limbs to explain the mechanism, and use Mains angle for the decisive comparison or qualification.
 
@@ -1143,7 +1191,7 @@ ANSWER-GRABBING FORMULATION: Its core teaching distinguishes purusha (witness-co
 
 [ANALYSIS] In Topic 24, Yoga should be treated not as modern posture culture, but as a historical discipline that transformed cosmology into embodied practice.
 
-![13. Yoga discipline flow](assets/10_yoga_eight_limb_mind_discipline_flow.png)
+![13. Yoga discipline flow](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/10_yoga_eight_limb_mind_discipline_flow.png)
 
 *The flowchart makes the practical ladder visible and keeps Yoga tied to Samkhya without collapsing the two.*
 
@@ -1170,6 +1218,10 @@ ANSWER-GRABBING FORMULATION: Its core teaching distinguishes purusha (witness-co
 - Yoga is the practical partner of Samkhya in the classical pairing.
 - `Citta-vritti-nirodha` is the key phrase.
 - The eight limbs show that ancient Yoga is ethical, mental and contemplative, not merely physical.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Yoga converts Samkhya-style dualism into a practical discipline of liberation. **Named evidence:** the formula `citta-vritti-nirodha` (stilling the mind's fluctuations) and the eight-limbed path (`ashtanga`) from ethical restraint through concentration to absorption. **Analysis:** Yoga's distinctive contribution is method: a graded practice by which the purusha-prakriti distinction becomes experientially real rather than merely argued. **Qualification:** the eight limbs form a specific traditional sequence; reciting the names without the sequence loses the discipline's actual logic.
 
 #### UPSC traps
 
@@ -1204,7 +1256,7 @@ ANSWER-GRABBING FORMULATION: The eight limbs show that ancient Yoga is ethical, 
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Nyaya: pramanas, inference and public reasoning comprises Nyaya, pramanas and public reasoning as its core connected dimensions.
+**Plain-language definition:** Nyaya builds a formal theory of valid knowledge (`pramana`) around perception, inference, comparison and testimony, and turns inference into public, checkable method through its five-membered syllogism.
 
 **Technical definition:** "Nyaya = logic" is useful as shorthand, but the school also addresses self, error, liberation and epistemic trust.
 
@@ -1217,8 +1269,8 @@ ANSWER-GRABBING FORMULATION: The eight limbs show that ancient Yoga is ethical, 
 - **Nyaya**
 - **pramanas**
 - **public reasoning**
-- **Mains angle**
-- **Study link**
+- **five-member inference**
+- **anumana**
 - **Pratyaksha**
 
 **How to use them:** Frame the answer through Nyaya; define pramanas, connect public reasoning with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -1229,7 +1281,7 @@ ANSWER-GRABBING FORMULATION: The eight limbs show that ancient Yoga is ethical, 
 
 [ANALYSIS] Nyaya matters historically because it formalised the conditions under which a claim can be defended in public argument. This gave ancient India an explicit debate grammar shared across inter-school contest.
 
-![14. Nyaya inference structure](assets/11_nyaya_five_member_inference.png)
+![14. Nyaya inference structure](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/11_nyaya_five_member_inference.png)
 
 *The inference structure is shown through the classic smoke-fire example because UPSC usually tests form plus significance, not isolated technical jargon.*
 
@@ -1255,6 +1307,10 @@ ANSWER-GRABBING FORMULATION: The eight limbs show that ancient Yoga is ethical, 
 - Nyaya is the premier logical-epistemological school in the classical list.
 - Inference and debate are its best exam anchors.
 - The five-member structure is a high-yield Prelims and short-note device.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Nyaya turns philosophical proof into public, checkable method. **Named evidence:** the four `pramanas` (perception, inference, comparison, testimony) and the five-membered syllogism (`pratijna, hetu, udaharana, upanaya, nigamana`). **Analysis:** this formalises how a claim is established or refuted in open debate, extending Nyaya's reach into error, liberation and epistemic trust, not only narrow logic-puzzles. **Qualification:** "Nyaya = logic" is a useful shorthand but understates its wider epistemological and soteriological scope.
 
 #### UPSC traps
 
@@ -1303,8 +1359,8 @@ ANSWER-GRABBING FORMULATION: Use Nyaya to show that ancient Indian philosophy pr
 - **categories**
 - **substances**
 - **atomism**
-- **Mains angle**
-- **Study link**
+- **padartha**
+- **paramanu**
 
 **How to use them:** Frame the answer through Vaisheshika; define categories, connect substances with atomism to explain the mechanism, and use Mains angle for the decisive comparison or qualification.
 
@@ -1314,7 +1370,7 @@ ANSWER-GRABBING FORMULATION: Use Nyaya to show that ancient Indian philosophy pr
 
 [ANALYSIS] If Nyaya asks how claims are proved, Vaisheshika asks what kinds of things exist. Together they shape one of the most durable realist-intellectual formations in Indian philosophy.
 
-![15. Vaisheshika ontology map](assets/12_vaisheshika_category_atomism_map.png)
+![15. Vaisheshika ontology map](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/12_vaisheshika_category_atomism_map.png)
 
 *The map foregrounds categories and atomism rather than later formula-memorisation.*
 
@@ -1340,6 +1396,10 @@ ANSWER-GRABBING FORMULATION: Use Nyaya to show that ancient Indian philosophy pr
 - Vaisheshika is the category-and-atomism school.
 - It is realist and classificatory.
 - Padartha is the key technical term.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Vaisheshika complements Nyaya by classifying what kinds of things exist rather than how claims are proved. **Named evidence:** the `padartha` categories (substance, quality, action, universality, particularity, inherence) and an atomistic (`paramanu`) theory of matter. **Analysis:** where Nyaya supplies method, Vaisheshika supplies ontology, and the historical pairing of the two schools should not collapse them into one undifferentiated system. **Qualification:** atomism here is a categorial-realist device, not an early anticipation of modern physical atomic theory.
 
 #### UPSC traps
 
@@ -1376,7 +1436,7 @@ ANSWER-GRABBING FORMULATION: Vaisheshika is the great classificatory-realist sch
 
 **Plain-language definition:** Purva Mimamsa is the great school of ritual exegesis and dharma.
 
-**Technical definition:** Technically, Purva Mimamsa: Vedic authority, dharma and ritual hermeneutics is analysed by relating Purva Mimamsa to Vedic authority, then testing the relationship through dharma and ritual hermeneutics.
+**Technical definition:** Purva Mimamsa, associated with Jaimini's Mimamsa Sutra, treats the Veda as authorless and eternally valid (`apaurusheya`) testimony, and develops a technical hermeneutic of injunction (`vidhi`) to fix the meaning and performance of ritual duty (`dharma`).
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -1388,8 +1448,8 @@ ANSWER-GRABBING FORMULATION: Vaisheshika is the great classificatory-realist sch
 - **Vedic authority**
 - **dharma**
 - **ritual hermeneutics**
-- **Mains angle**
-- **Study link**
+- **Jaimini**
+- **apaurusheya Veda**
 
 **How to use them:** Frame the answer through Purva Mimamsa; define Vedic authority, connect dharma with ritual hermeneutics to explain the mechanism, and use Mains angle for the decisive comparison or qualification.
 
@@ -1399,7 +1459,7 @@ ANSWER-GRABBING FORMULATION: Vaisheshika is the great classificatory-realist sch
 
 [ANALYSIS] Mimamsa matters historically because it shows that ancient Indian philosophy did not move in one straight line from ritual to anti-ritual. Powerful traditions defended sacrificial and textual authority at a highly technical level.
 
-![16. Mimamsa hermeneutic-action chain](assets/13_mimamsa_hermeneutic_action_chain.png)
+![16. Mimamsa hermeneutic-action chain](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/13_mimamsa_hermeneutic_action_chain.png)
 
 *The chain keeps the school tied to injunction, dharma and performance instead of reducing it to generic "ritualism."*
 
@@ -1425,6 +1485,10 @@ ANSWER-GRABBING FORMULATION: Vaisheshika is the great classificatory-realist sch
 - Mimamsa is the dharma-and-ritual interpretation school.
 - It defends Vedic authority through hermeneutics, not only through inherited prestige.
 - It is a major counterweight to shramana anti-ritual pressure.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** Purva Mimamsa turns Vedic ritual interpretation itself into a rigorous philosophical discipline. **Named evidence:** Jaimini's Mimamsa Sutra, the doctrine of the Veda as authorless and eternally valid (`apaurusheya`), and a technical hermeneutic of injunction (`vidhi`) governing `dharma`. **Analysis:** this makes textual interpretation and ritual duty, not metaphysical speculation, the school's central philosophical problem. **Qualification:** Mimamsa's ritual-hermeneutic focus should not be confused with the metaphysical concerns of its later-paired school, Vedanta.
 
 #### UPSC traps
 
@@ -1472,8 +1536,8 @@ ANSWER-GRABBING FORMULATION: Purva Mimamsa is the great school of ritual exegesi
 - **Early Vedanta / Uttara Mimamsa**
 - **textual core**
 - **chronological boundaries**
-- **Mains angle**
-- **Study link**
+- **Badarayana**
+- **Brahma Sutra boundary**
 - **Ancient textual base**
 
 **How to use them:** Frame the answer through Early Vedanta / Uttara Mimamsa; define textual core, connect chronological boundaries with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -1484,7 +1548,7 @@ ANSWER-GRABBING FORMULATION: Purva Mimamsa is the great school of ritual exegesi
 
 [LIMIT] Later Advaita, Vishishtadvaita and Dvaita are indispensable for long-term Indian intellectual history, but full doctrinal ownership lies beyond the ancient-core frame of Topic 24. They should be signposted, not projected backward as if already fully settled in the early Upanishadic age.
 
-![17. Early Vedanta boundary diagram](assets/14_vedanta_textual_triangle_boundary.png)
+![17. Early Vedanta boundary diagram](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/14_vedanta_textual_triangle_boundary.png)
 
 *The triangle emphasises texts and boundaries, not later sectarian back-projection.*
 
@@ -1508,6 +1572,10 @@ ANSWER-GRABBING FORMULATION: Purva Mimamsa is the great school of ritual exegesi
 - Brahma Sutra / Badarayana is the key textual anchor.
 - Vedanta means the "end" or culmination of Vedic / Upanishadic inquiry.
 - Later Advaita, Vishishtadvaita and Dvaita are boundary markers, not the whole ancient story.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the ancient core of Vedanta is textual and exegetical, not identical with any one later sectarian system. **Named evidence:** the principal Upanishads and the Brahma Sutra tradition attributed to Badarayana, read before Shankara, Ramanuja or Madhva's much later commentaries. **Analysis:** treating early Vedanta as textual synthesis around brahman and atman keeps Topic 24 bounded to Ancient History rather than importing medieval doctrinal detail. **Qualification:** the root Brahma Sutra's own date is debated, and later commentators reshape rather than merely transmit it.
 
 #### UPSC traps
 
@@ -1542,7 +1610,7 @@ ANSWER-GRABBING FORMULATION: Vedanta or Uttara Mimamsa grows from the Upanishadi
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Grammar, language and philosophy: Panini, Katyayana, Patanjali and the language turn comprises Grammar, language and philosophy as its core connected dimensions.
+**Plain-language definition:** Panini's generative grammar, Katyayana's critical commentary (`varttika`) and Patanjali's Mahabhashya show that precise analysis of Sanskrit itself became a major and continuing site of ancient Indian philosophical labour, later extending toward the philosophy-of-language boundary marked by Bhartrhari's `sphota` theory.
 
 **Technical definition:** Panini, Katyayana and Patanjali show that language itself became a major site of ancient Indian intellectual labour.
 
@@ -1567,7 +1635,7 @@ ANSWER-GRABBING FORMULATION: Vedanta or Uttara Mimamsa grows from the Upanishadi
 
 [ANALYSIS] Language mattered because exegesis, debate, memory, law, kingship, ritual and philosophy all depended on controlled verbal precision.
 
-![18. Language, grammar and philosophy network](assets/18_language_grammar_philosophy_network.png)
+![18. Language, grammar and philosophy network](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/18_language_grammar_philosophy_network.png)
 
 *The network shows grammar as an intellectual infrastructure connecting commentary, debate and social order.*
 
@@ -1592,6 +1660,10 @@ ANSWER-GRABBING FORMULATION: Vedanta or Uttara Mimamsa grows from the Upanishadi
 - Panini, Katyayana and Patanjali form the major grammar chain.
 - Grammar is a philosophical infrastructure, not a side topic.
 - Language precision underwrites ritual interpretation and logical debate alike.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** language analysis was a major and continuing site of ancient Indian philosophical labour, not a separate technical subject. **Named evidence:** Panini's generative grammar, Katyayana's critical `varttika` commentary, and Patanjali's Mahabhashya. **Analysis:** this chain shows increasingly rigorous engagement with meaning and reference in Sanskrit, later extending toward the philosophy-of-language boundary marked by Bhartrhari's `sphota` theory. **Qualification:** Bhartrhari belongs at a late-ancient/early-medieval threshold and should be treated as a bounded extension, not the topic's core body.
 
 #### UPSC traps
 
@@ -1638,8 +1710,8 @@ ANSWER-GRABBING FORMULATION: Panini, Katyayana and Patanjali show that language 
 
 - **Epistemology in comparison**
 - **pramanas across schools**
-- **Mains angle**
-- **Study link**
+- **pramana matrix**
+- **testimony acceptance**
 - **Charvaka**
 - **perception privileged**
 
@@ -1651,7 +1723,7 @@ ANSWER-GRABBING FORMULATION: Panini, Katyayana and Patanjali show that language 
 
 [LIMIT] Mature six-pramana lists are later scholastic formulations. Do not back-project them into the earliest Vedic or shramana horizon without qualification.
 
-![19. Pramana comparison matrix](assets/06_pramana_comparison_matrix.png)
+![19. Pramana comparison matrix](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/06_pramana_comparison_matrix.png)
 
 *The matrix is intentionally comparative and flagged with an anachronism warning so that the learner does not flatten chronology.*
 
@@ -1678,6 +1750,10 @@ ANSWER-GRABBING FORMULATION: Panini, Katyayana and Patanjali show that language 
 - Pramana means valid means of knowledge.
 - Perception and inference are the most widely contested anchors.
 - Nyaya is the strongest gateway school for comparative epistemology.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** comparing pramanas across schools reveals real, testable disagreement, not one shared epistemology. **Named evidence:** Charvaka accepts only perception; Nyaya accepts perception, inference, comparison and testimony; Buddhist epistemology (via Dignaga) restricts valid means more narrowly than Nyaya. **Analysis:** these differences are not cosmetic; they determine what each school can and cannot claim to know, including about ritual authority and the afterlife. **Qualification:** a comparison table is useful only if chronology is preserved; treating all schools' pramana lists as simultaneous erases real historical development.
 
 #### UPSC traps
 
@@ -1714,7 +1790,7 @@ ANSWER-GRABBING FORMULATION: Once the learner knows each school's preferred pram
 
 **Plain-language definition:** Selfhood is the cleanest comparison axis: atman, purusha, jiva, anatman and materialist anti-afterlife positions cannot be collapsed into one vocabulary.
 
-**Technical definition:** Technically, Metaphysics in comparison: self, causation, substance, process and reality is analysed by relating Metaphysics in comparison to self, then testing the relationship through causation and substance.
+**Technical definition:** Placed side by side, the schools give incompatible answers to the same metaphysical questions: `atman`/`brahman` as changeless self, `purusha` as pure witness-consciousness distinct from active `prakriti`, `jiva` as a real bound soul, `anatman` as denial of any permanent self, and Vaisheshika's plural, categorised substances undergoing real causal change.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -1727,7 +1803,7 @@ ANSWER-GRABBING FORMULATION: Once the learner knows each school's preferred pram
 - **causation**
 - **substance**
 - **reality**
-- **Mains angle**
+- **satkaryavada vs asatkaryavada**
 
 **How to use them:** Frame the answer through Metaphysics in comparison; define self, connect causation with substance to explain the mechanism, and use reality for the decisive comparison or qualification.
 
@@ -1735,11 +1811,11 @@ ANSWER-GRABBING FORMULATION: Once the learner knows each school's preferred pram
 
 [ANALYSIS] This is where students often write vague words like "spirituality." A better answer compares schools across a few hard axes: self/no-self, causation, substance/process and universal/particular.
 
-![20. Self / no-self map](assets/07_self_no_self_metaphysics_map.png)
+![20. Self / no-self map](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/07_self_no_self_metaphysics_map.png)
 
 *This map visually separates eternal self, witness-self, karmic soul, no-self and materialist body-centred lines.*
 
-![20. Causation comparison](assets/08_causation_theories_comparison.png)
+![20. Causation comparison](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/08_causation_theories_comparison.png)
 
 *The causation panel prevents one-school causation language from being imposed on the rest.*
 
@@ -1767,6 +1843,10 @@ ANSWER-GRABBING FORMULATION: Once the learner knows each school's preferred pram
 - Self / no-self is an exam-high-yield contrast.
 - Samkhya causation is not Buddhist dependent origination.
 - Jaina many-sided realism is different from both Vedantic identity and Buddhist no-self.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** ancient Indian schools give incompatible answers to the same question of selfhood and causation, not variations on one idea. **Named evidence:** Samkhya's witness-`purusha`, Buddhism's `anatman`, Jainism's bound `jiva`, and Vaisheshika's plural substances undergoing real causal change. **Analysis:** placed side by side, these positions cannot be harmonised into one "Indian view of self"; each solves a different problem about permanence, agency and causation. **Qualification:** superficial similarity (all discuss self or causation) should not be mistaken for doctrinal agreement.
 
 #### UPSC traps
 
@@ -1814,8 +1894,8 @@ ANSWER-GRABBING FORMULATION: This is where students often write vague words like
 - **Debate institutions**
 - **transmission**
 - **patronage**
-- **Mains angle**
-- **Study link**
+- **Nalanda and Valabhi**
+- **royal assemblies**
 - **Household and lineage teaching**
 
 **How to use them:** Frame the answer through Debate institutions; define transmission, connect patronage with Mains angle to explain the mechanism, and use Study link for the decisive comparison or qualification.
@@ -1826,7 +1906,7 @@ ANSWER-GRABBING FORMULATION: This is where students often write vague words like
 
 [ANALYSIS] Institutions matter because they explain how ideas persisted, specialised, recruited followers and competed for authority. They also explain why some traditions are text-rich while others survive only in rivals' accounts.
 
-![21. Institutions and patronage network](assets/19_institutions_patronage_network.png)
+![21. Institutions and patronage network](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/19_institutions_patronage_network.png)
 
 *The network diagram shows courts, monasteries, donors, textual chains and debate as interacting supports of intellectual life.*
 
@@ -1853,6 +1933,10 @@ ANSWER-GRABBING FORMULATION: This is where students often write vague words like
 - Sutra -> commentary -> sub-commentary is a major historical pattern.
 - Institutions of debate and patronage shaped visibility and survival.
 - Monasteries, courts and lineages all matter; no single institutional model explains the whole field.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** philosophical traditions survived and competed through identifiable institutions, not through purely private contemplation. **Named evidence:** monastic universities such as Nalanda and Valabhi, household and lineage teaching, and royal assemblies of the Kannauj type. **Analysis:** these institutions explain transmission, specialisation, recruitment of followers and inter-school competition for royal and public authority. **Qualification:** surviving accounts of these debates are often written by the eventual winners, so institutional success should not be read as automatic doctrinal superiority.
 
 #### UPSC traps
 
@@ -1902,7 +1986,7 @@ ANSWER-GRABBING FORMULATION: Oral transmission and sutra compression help explai
 - **pluralism**
 - **historiography**
 - **owner boundaries**
-- **Mains angle**
+- **purushartha synthesis**
 
 **How to use them:** Frame the answer through Ethics; define liberation, connect pluralism with historiography to explain the mechanism, and use owner boundaries for the decisive comparison or qualification.
 
@@ -1912,7 +1996,7 @@ ANSWER-GRABBING FORMULATION: Oral transmission and sutra compression help explai
 
 [DEBATE] This pluralism must still be written carefully. "Hindu philosophy" is a retrospective shorthand; astika/nastika is historically variable; later school-boundaries are cleaner on paper than in long historical formation; philosophical ideals often diverged from lived social practice.
 
-![22. GS-I answer spine and historiography matrix](assets/20_gs1_answer_historiography_matrix.png)
+![22. GS-I answer spine and historiography matrix](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/20_gs1_answer_historiography_matrix.png)
 
 *The answer spine converts the entire topic into a scoring method: chronology, comparison, source caution, significance and boundary-control.*
 
@@ -1938,6 +2022,10 @@ ANSWER-GRABBING FORMULATION: Oral transmission and sutra compression help explai
 - Ancient Indian philosophy is plural, argumentative and institutionally sustained.
 - School boundaries are historically layered.
 - Owner boundaries protect the answer from drifting into Bhakti, medieval Vedanta or optional-level doctrinal overload.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the purushartha framework (dharma, artha, kama, moksha) integrates worldly goals with liberation rather than treating them as opposites. **Named evidence:** the layered addition of moksha to an earlier three-goal formulation, alongside the visible plurality of schools debating self, causation and authority. **Analysis:** this shows ancient Indian ethics as socially embedded, not purely other-worldly, while the field's pluralism resists any single summarising doctrine. **Qualification:** a doctrine of liberation or equality in one school does not prove uniform social transformation across ancient Indian society.
 
 #### UPSC traps
 
@@ -1974,7 +2062,7 @@ ANSWER-GRABBING FORMULATION: Purushartha language - dharma, artha, kama, moksha 
 
 **Plain-language definition:** They provide bounded manuscript-preservation, digitisation and access context; they do not establish ancient dates or settle philosophical interpretation.
 
-**Technical definition:** Technically, Bounded live linkage is analysed by relating The UN India to World, then testing the relationship through Bhagavadgita and Natyashastra.
+**Technical definition:** The 2025 UNESCO Memory of the World inscription of the Bhagavadgita and Natyashastra manuscripts, and the Ministry of Culture's 2026 Gyan Bharatam update, are contemporary preservation and access events; they document manuscript custody, not ancient dates or settled philosophical interpretation.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -1994,6 +2082,10 @@ ANSWER-GRABBING FORMULATION: Purushartha language - dharma, artha, kama, moksha 
 The UN India report on the April 2025 Memory of the World inscription of Bhagavadgita and Natyashastra manuscripts and the Ministry of Culture's February 2026 Gyan Bharatam update were rechecked on 30 August 2026. They provide bounded manuscript-preservation, digitisation and access context; they do not establish ancient dates or settle philosophical interpretation.
 
 This linkage does not override repository chronology, OCR-searchable book evidence, verified PYQ routing or the source limitations printed throughout.
+
+#### PARAGRAPH DEMONSTRATION — CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+**Claim:** the 2025 UNESCO Memory of the World inscription and the 2026 Gyan Bharatam update are legitimate but narrowly bounded current-affairs anchors for this topic. **Named evidence:** the dated UN India report on the Bhagavadgita/Natyashastra manuscript inscription and the Ministry of Culture's manuscript-preservation update, both rechecked on 30 August 2026. **Analysis:** these events document contemporary manuscript custody, digitisation and access, which is a genuine but limited "afterlife of transmission" fact. **Qualification:** neither event establishes ancient dates or settles any disputed philosophical interpretation, and neither should override the chronology and evidence hierarchy taught in Sessions 1-22.
 
 #### CLOSING RECALL FLOW — BOUNDED LIVE LINKAGE
 
@@ -2280,492 +2372,6 @@ The safest final line for a GS-I answer on ancient Indian philosophy is:
 
 **Answer: D.** That conclusion captures plurality, institutions and historical significance without forcing sameness.
 
-#### Workbook MCQ 01
-
-The safest meaning of `darshana` in ancient Indian philosophy is:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** `Darshana` literally means view. It is best handled as a philosophical standpoint rather than as a mere exam list.
-
-#### Workbook MCQ 02
-
-In the Arthashastra tradition, anviksiki is placed alongside:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** The classification marks inquiry as a distinct knowledge-branch next to Vedic learning, economic activity and governance.
-
-#### Workbook MCQ 03
-
-The safest reading of the Nasadiya Sukta is that it:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** Its importance lies in radical questioning and epistemic restraint, not in supplying a ready-made later doctrine.
-
-#### Workbook MCQ 04
-
-Early Upanishads are best understood as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** They remain within shruti even while transforming the meaning of ritual and authority.
-
-#### Workbook MCQ 05
-
-Which feature most strongly supports the statement that the Upanishads do contain parabolic or narrative teaching?
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** Narrative pedagogy is a real feature of early Upanishadic instruction.
-
-#### Workbook MCQ 06
-
-The best statement about the second urbanisation as a philosophical background is that it:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** It is enabling background, not an all-purpose explanation of content.
-
-#### Workbook MCQ 07
-
-In early Buddhism, `anatman` most directly means:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** Buddhism denies a fixed self-substance, not the practical existence of persons and consequences.
-
-#### Workbook MCQ 08
-
-Abhidharma is best described as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** It signals the growth of systematic Buddhist analysis after the earliest teaching layer.
-
-#### Workbook MCQ 09
-
-Which statement about Madhyamaka is safest?
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** Shunyata is a critique of inherent existence, not a claim that all reality is nullity.
-
-#### Workbook MCQ 10
-
-Yogacara is most safely introduced in Ancient History as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** Topic 24 needs the bounded historical idea, not a caricature or optional-level expansion.
-
-#### Workbook MCQ 11
-
-`Anekantavada` in Jain philosophy means:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** It insists that reality exceeds one rigid, one-sided verbal capture.
-
-#### Workbook MCQ 12
-
-`Syadvada` is best described as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** It disciplines judgement through the language of conditional assertion.
-
-#### Workbook MCQ 13
-
-Which is the strongest secure Ajivika anchor?
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** Ajivikas are historically real, but the archive is thin and often adversarial.
-
-#### Workbook MCQ 14
-
-Charvaka / Lokayata is most strongly associated with:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** Perception and anti-supernatural critique are its safest markers.
-
-#### Workbook MCQ 15
-
-Why is `astika = theist` an unsafe formula?
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** The labels are classificatory and polemical; they are not simple God/no-God badges.
-
-#### Workbook MCQ 16
-
-The neat list of six orthodox systems should be treated as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** The traditions are old, but the neat grouped canon is later.
-
-#### Workbook MCQ 17
-
-The central Samkhya pair is:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** Witness-consciousness and primordial nature are the foundational Samkhya distinction.
-
-#### Workbook MCQ 18
-
-`Satkaryavada` means that:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** This is Samkhya's best-known causation marker.
-
-#### Workbook MCQ 19
-
-`Citta-vritti-nirodha` is most directly linked to:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** The formula expresses Yoga's project of disciplining the mind toward release.
-
-#### Workbook MCQ 20
-
-Nyaya is most distinctively remembered for:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** Nyaya's historical strength is public reasoning and proof.
-
-#### Workbook MCQ 21
-
-Vaisheshika is best described as the school of:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** If Nyaya proves, Vaisheshika classifies what kinds of things exist.
-
-#### Workbook MCQ 22
-
-Purva Mimamsa is most closely associated with:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** It is the major interpretive school of Vedic authority and action.
-
-#### Workbook MCQ 23
-
-The safest Ancient History description of Vedanta is:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** Topic 24 owns the ancient textual base and must signpost later full doctrines as later developments.
-
-#### Workbook MCQ 24
-
-The Panini -> Katyayana -> Patanjali chain is important because it shows:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** This chain underwrites exegesis, memory and verbal precision across schools.
-
-#### Workbook MCQ 25
-
-In the 2022 routed scholar-identification demand, Dignaga is correctly identified as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** Dignaga belongs to the Buddhist scholastic and logical tradition at the late-ancient boundary.
-
-#### Workbook MCQ 26
-
-Nathamuni is correctly identified as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** He is connected with collecting the Alvar hymns into the Nalayira Divya Prabandham.
-
-#### Workbook MCQ 27
-
-The safest caution when using pramana tables is that:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** Comparative clarity is valuable, but chronology still matters.
-
-#### Workbook MCQ 28
-
-Dependent origination differs from Ajivika `niyati` because dependent origination:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** It is relational and conditional, not deterministic in the Ajivika sense.
-
-#### Workbook MCQ 29
-
-The sequence `sutra -> bhashya -> vritti -> tika` most strongly indicates:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: A.** Compression and commentary are key reasons why school identities deepen over time.
-
-#### Workbook MCQ 30
-
-Nalanda and Valabhi should be used in Topic 24 as:
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: B.** They matter, but they cannot replace the diversity of institutions across traditions.
-
-#### Workbook MCQ 31
-
-Which closing statement best captures the significance of ancient Indian philosophy?
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: C.** That line preserves plurality, institutions and the historical force of debate.
-
-#### Workbook MCQ 32
-
-Which topic most clearly lies outside the core owner boundary of Topic 24?
-
-- A. philosophy had no relation to institutions
-- B. all schools said the same thing
-- C. only spirituality mattered
-- D. ancient India developed a plural argumentative civilisation sustained by debate, texts and patronage
-
-**Answer: D.** Later Vedantic system-detail should be signposted, not absorbed wholesale into this ancient-core package.
-
-### Remedial MCQs for common confusions
-
-#### Remedial MCQ 01
-
-Which statement about the Upanishads and the Puranas is safest?
-
-- A. The earliest Upanishads are earlier than the Puranic compilatory world.
-- B. All Puranas are earlier than the Upanishads.
-- C. Neither belongs to textual history.
-- D. Both were composed at one fixed date.
-
-**Answer: A.** This is the exact chronological discriminator tested in the 2024 Prelims route.
-
-#### Remedial MCQ 02
-
-The Purusha Sukta should be used in Topic 24 mainly as:
-
-- A. a Buddhist sermon
-- B. a cosmic-sacrificial hymn that later thinkers could reinterpret, not a finished social philosophy textbook
-- C. a Mimamsa commentary
-- D. a complete medieval caste constitution
-
-**Answer: B.** It is important, but over-reading it into a total later system is unsafe.
-
-#### Remedial MCQ 03
-
-The safest sentence about Mahayana is that it:
-
-- A. began after the Gupta period only
-- B. had nothing to do with monastic institutions
-- C. grew through layered doctrinal and devotional expansions rather than one overnight break from all earlier Buddhism
-- D. rejected the Buddha completely
-
-**Answer: C.** A layered expansion model is historically safer than the crude "single schism" model.
-
-#### Remedial MCQ 04
-
-In Topic 24, `shunyata` should be explained as:
-
-- A. proof of soul-substance
-- B. creator-God doctrine
-- C. denial of ethics
-- D. absence of inherent independent existence
-
-**Answer: D.** This guards against the common error of calling Madhyamaka nihilism.
-
-#### Remedial MCQ 05
-
-Why should Yogacara not be reduced to "simple solipsism"?
-
-- A. Because it is a Buddhist analysis of consciousness and representation within a wider soteriological framework.
-- B. Because it rejects all cognition.
-- C. Because it is a Vedic ritual school.
-- D. Because it is identical with Charvaka.
-
-**Answer: A.** Ancient-history treatment should stay conceptually accurate and bounded.
-
-#### Remedial MCQ 06
-
-Which statement best corrects the misuse of `anekantavada`?
-
-- A. It proves that no judgement is ever possible.
-- B. It requires qualified, standpoint-aware judgement rather than careless contradiction.
-- C. It denies karmic bondage.
-- D. It abolishes truth.
-
-**Answer: B.** Jain epistemic humility is disciplined, not chaotic.
-
-#### Remedial MCQ 07
-
-Which contrast is correct?
-
-- A. Ajivika = eightfold path; Charvaka = karma-matter
-- B. Ajivika = Vedic ritual; Charvaka = bodhisattva ideal
-- C. Ajivika = niyati-heavy ascetic current; Charvaka = perception-centred materialist critique
-- D. Ajivika = Upanishadic self-knowledge; Charvaka = Vaishnava bhakti
-
-**Answer: C.** This is the cleanest way to prevent the two heterodox streams from being blurred together.
-
-#### Remedial MCQ 08
-
-Which distinction best separates Samkhya from early Vedanta?
-
-- A. Samkhya alone uses Sanskrit.
-- B. Samkhya alone values liberation.
-- C. Samkhya alone uses dialogue.
-- D. Samkhya is a purusha-prakriti dualism, whereas early Vedanta is an Upanishad-centred exegetical field around brahman and atman.
-
-**Answer: D.** This is a much safer distinction than "one is spiritual and the other is not."
-
-#### Remedial MCQ 09
-
-Which pair is correctly matched?
-
-- A. Purva Mimamsa - ritual hermeneutics; Vedanta - Upanishadic / Brahma-Sutra exegesis
-- B. Purva Mimamsa - cave architecture; Vedanta - grammar
-- C. Purva Mimamsa - atomism; Vedanta - non-self
-- D. Purva Mimamsa - fate; Vedanta - skepticism
-
-**Answer: A.** The Purva / Uttara Mimamsa distinction is one of the most testable owner-boundary lines in the topic.
-
-#### Remedial MCQ 10
-
-The cleanest shorthand for Nyaya and Vaisheshika together is:
-
-- A. fate and ritual
-- B. proof and ontology
-- C. mythology and architecture
-- D. devotion and renunciation
-
-**Answer: B.** Nyaya foregrounds reasoning; Vaisheshika foregrounds what kinds of things exist.
-
-#### Remedial MCQ 11
-
-The best owner-safe sentence on Bhartrhari is:
-
-- A. He founded Mimamsa.
-- B. He fully belongs to the earliest Vedic phase.
-- C. He signals a late-ancient / early-medieval philosophy-of-language threshold and should be treated as a bounded extension, not as the core body of Topic 24.
-- D. He is irrelevant to philosophy.
-
-**Answer: C.** That preserves usefulness without letting a boundary figure take over the package.
-
-#### Remedial MCQ 12
-
-The best structure for a GS-I answer on ancient Indian philosophy is:
-
-- A. school list only
-- B. only socio-economic background
-- C. only a spiritual conclusion
-- D. chronology -> concepts -> inter-school comparison -> source caution -> significance
-
-**Answer: D.** That structure delivers both coverage and historical discipline.
-
 ## PYQS AND ANSWER PRACTICE
 
 ### Solved topic-specific MCQs
@@ -2787,6 +2393,12 @@ Which statement(s) is/are correct?
 
 **Why this earns marks:** It answers at the level of both statement logic and source chronology, which is exactly what the Prelims trap is testing.
 
+**Demand decoding:** This is a two-statement objective item: each statement must be checked independently as true or false against the Upanishads' actual teaching method and relative chronology before the two verdicts are combined into one of the four standard combination options; it is a verification task, not a free-form analytical one.
+
+**Executable exam-length answer / compression plan:** Test statement 1 against the Upanishads' dialogic/parabolic teaching style (Yajnavalkya's exposition, Uddalaka's instruction to Shvetaketu); test statement 2 against the relative chronology of the early Upanishadic corpus versus later Puranic compilation; select the option that keeps only statement 2.
+
+**How to improve this answer:** Name one additional specific parable, such as Uddalaka's "salt dissolved in water" analogy, so the rebuttal of statement 1 is anchored to a checkable textual example rather than a general claim about "dialogue."
+
 ### Routed PYQ 2 - Prelims GS-I 2022 Q56 (faithful English rendering from locally preserved Hindi paper; official key unavailable locally)
 
 Consider the following pairs:
@@ -2807,13 +2419,11 @@ How many pairs given above are correctly matched?
 
 **Why this earns marks:** It solves the exact conceptual demand honestly without inventing a missing official key or pretending that the English wording was locally preserved when it was not.
 
-**Demand decoding:** Treat “Routed PYQ 2 - Prelims GS-I 2022 Q56 (faithful English rendering from locally preserved…” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**Demand decoding:** This is a three-pair matching item: each named scholar (Aryadeva, Dignaga, Nathamuni) must be checked independently against his correct school or tradition, and the demand is a count of correctly matched pairs, not a judgement on the passage as a whole.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** Verify Aryadeva against Buddhist Madhyamaka (not Jaina, the tempting mismatch); verify Dignaga against the Buddhist logical tradition; verify Nathamuni against the Vaishnava bhakti tradition; count two correct pairs and select "only two."
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**How to improve this answer:** For “Routed PYQ 2 - Prelims GS-I 2022 Q56 (faithful English rendering from locally preserved…”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**How to improve this answer:** Name the Nalayira Divya Prabandham explicitly as Nathamuni's compilation, so the Vaishnava identification is anchored to a specific text rather than a bare label.
 
 ### Adjacent PYQ 3 - GS-I Mains 2020 Q11 (adjacent owner route, verbatim demand preserved in Art and Culture owner)
 
@@ -2821,105 +2431,93 @@ Indian philosophy and tradition played a significant role in conceiving and shap
 
 **Status:** This demand is owner-routed to Indian Art and Culture Topic 13, not to Topic 24. It is included here because a student preparing Topic 24 should still understand how philosophical concepts move outward into artistic form without collapsing art history into pure doctrine.
 
-**Model answer:** [CLAIM] Indian monuments and art were not mechanically "designed by philosophy," but philosophical traditions strongly shaped their symbolic programmes, ritual use and visual logic. [NAMED EVIDENCE -> MECHANISM] Buddhist ideas of relic veneration, sacred presence and the path generated the stupa form, circumambulation and narrative reliefs. Jaina ideals of renunciation, tirthankara veneration and ordered cosmology informed cave shrines and later iconographic discipline. Brahmanical and Upanishadic-Vedantic currents shaped temple iconography through cosmic ordering, sacred axis, image as embodied divinity and the integration of dharma, artha, kama and moksha within sacred space. Bhakti and sectarian theology later deepened this logic through Shaiva and Vaishnava image programmes. [QUALIFICATION] Yet philosophy was never the sole cause: patronage, craft skill, materials, regional politics and donor communities also mattered. [VERDICT] Indian philosophy and tradition therefore shaped monument conception most strongly at the level of sacred meaning, symbolic programme and ritual use, while actual built form emerged through interaction with society, patronage and technology.
+**Model answer:** Indian monuments and art were not mechanically "designed by philosophy," but philosophical traditions strongly shaped their symbolic programmes, ritual use and visual logic. Buddhist ideas of relic veneration, sacred presence and the path generated the stupa form, circumambulation and narrative reliefs. Jaina ideals of renunciation, tirthankara veneration and ordered cosmology informed cave shrines and later iconographic discipline. Brahmanical and Upanishadic-Vedantic currents shaped temple iconography through cosmic ordering, sacred axis, image as embodied divinity and the integration of dharma, artha, kama and moksha within sacred space. Bhakti and sectarian theology later deepened this logic through Shaiva and Vaishnava image programmes. Yet philosophy was never the sole cause: patronage, craft skill, materials, regional politics and donor communities also mattered. Indian philosophy and tradition therefore shaped monument conception most strongly at the level of sacred meaning, symbolic programme and ritual use, while actual built form emerged through interaction with society, patronage and technology.
 
 **Why this earns marks:** It links concept to monument without making the false claim that one doctrine mechanically "produced" one form.
 
-### Original solved Mains questions
+**Verified format:** UPSC GS-I Mains 2020 Q11 is a 15-mark question with a 250-word limit under the directive **discuss**, as confirmed against the locally held 2020 GS-I paper; this package retains that exact marks/word-limit pairing rather than substituting a generic value.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Adjacent PYQ 3 - GS-I Mains 2020 Q11 (adjacent owner route, verbatim demand preserved in…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive **discuss** requires presenting how philosophy shaped monuments across more than one tradition (Buddhist, Jain, Brahmanical-Vedantic, bhakti-sectarian) while also weighing the non-philosophical causes (patronage, craft, materials, politics) that the demand implicitly invites a candidate to test against, not a single-line assertion that "philosophy shaped art."
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 15-mark, 250-word answer, open with a two-sentence thesis distinguishing symbolic shaping from mechanical causation; cover four named tradition-to-form links (stupa/circumambulation, cave shrines, temple iconography, bhakti image programmes) as evidence units; close with the patronage/craft/politics qualification and a bounded verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Adjacent PYQ 3 - GS-I Mains 2020 Q11 (adjacent owner route, verbatim demand preserved in…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name one specific monument per tradition (for example Sanchi for the stupa form, Ellora or Elephanta for cave shrines, and a named temple such as Khajuraho or the Lingaraja temple) so each evidence unit is anchored to a checkable site rather than a general category.
 
 ### Original Mains Question 1 - 10 marks - 150 words
 
 How did early Upanishadic speculation transform the meaning of Vedic ritual without simply rejecting the Vedic world?
 
-**Model answer:** [CLAIM] Early Upanishadic thought transformed rather than simply discarded the Vedic world. [NAMED EVIDENCE -> MECHANISM] The Brahmanas and Aranyakas had already begun symbolic interpretation of sacrifice; the early Upanishads pushed this further by shifting prestige toward knowledge of brahman, atman, karma, rebirth and release. Dialogues such as Yajnavalkya's and the teaching of Uddalaka to Shvetaketu show that inner knowledge, not only outer performance, became central. [ANALYSIS] Ritual language was re-read rather than erased: sacrifice became interiorised, equivalence-seeking and philosophically charged. [LIMIT] This was not a total break. The Upanishads remain within shruti, and they do not uniformly denounce Vedic ritual. [VERDICT] The transformation therefore lies in redirection of authority from external efficacy alone toward reflective knowing and liberation while preserving continuity with the Vedic textual world.
+**Model answer:** Early Upanishadic thought transformed rather than simply discarded the Vedic world. The Brahmanas and Aranyakas had already begun symbolic interpretation of sacrifice; the early Upanishads pushed this further by shifting prestige toward knowledge of brahman, atman, karma, rebirth and release. Dialogues such as Yajnavalkya's and the teaching of Uddalaka to Shvetaketu show that inner knowledge, not only outer performance, became central. Ritual language was re-read rather than erased: sacrifice became interiorised, equivalence-seeking and philosophically charged. This was not a total break. The Upanishads remain within shruti, and they do not uniformly denounce Vedic ritual. The transformation therefore lies in redirection of authority from external efficacy alone toward reflective knowing and liberation while preserving continuity with the Vedic textual world.
 
 **Why this earns marks:** It gives continuity plus change, names the transition texts and avoids the simplistic "anti-Vedic revolt" line.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains Question 1 - 10 marks - 150 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The implicit directive is **explain**: "how did X transform Y" requires the mechanism of change (continuity plus redirection), not merely an assertion that a transformation occurred.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 10-mark, 150-word answer, open with a one-sentence thesis on redirection of authority from ritual efficacy to knowledge; name three evidence units (Brahmana/Aranyaka symbolic groundwork, the Yajnavalkya and Uddalaka-Shvetaketu dialogues, the shruti-continuity limit); close with the "redirection, not rejection" verdict.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Mains Question 1 - 10 marks - 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name the Brihadaranyaka and Chandogya Upanishads explicitly as the source texts for the cited dialogues, so each evidence unit is anchored to a specific work rather than "the Upanishads" in general.
 
 ### Original Mains Question 2 - 10 marks - 150 words
 
 Why must Ajivikas and Charvakas be studied with stronger source criticism than Buddhism or Nyaya?
 
-**Model answer:** [CLAIM] Ajivikas and Charvakas require stronger source criticism because their internal archives survive far more poorly than those of Buddhism, Jainism, Nyaya or Mimamsa. [NAMED EVIDENCE -> MECHANISM] Ajivikas are known largely through hostile Buddhist and Jaina accounts, with rare hard anchors such as Mauryan cave patronage and the doctrine of niyati. Charvaka or Lokayata is preserved mostly through later doxographies and rival refutations, not through a secure foundational text. [ANALYSIS] This means historians often know these schools through the language of opponents, who may caricature determinism, hedonism or anti-ritual critique. [LIMIT] Source-poverty does not make the schools unreal. It simply lowers the confidence with which details should be stated. [VERDICT] Strong source criticism is therefore part of the actual content of these traditions, not an external methodological extra.
+**Model answer:** Ajivikas and Charvakas require stronger source criticism because their internal archives survive far more poorly than those of Buddhism, Jainism, Nyaya or Mimamsa. Ajivikas are known largely through hostile Buddhist and Jaina accounts, with rare hard anchors such as Mauryan cave patronage and the doctrine of niyati. Charvaka or Lokayata is preserved mostly through later doxographies and rival refutations, not through a secure foundational text. This means historians often know these schools through the language of opponents, who may caricature determinism, hedonism or anti-ritual critique. Source-poverty does not make the schools unreal. It simply lowers the confidence with which details should be stated. Strong source criticism is therefore part of the actual content of these traditions, not an external methodological extra.
 
 **Why this earns marks:** It explains not only that evidence is thin, but why that changes the form of historical judgement.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains Question 2 - 10 marks - 150 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive **justify** requires giving the specific evidentiary reason (differential source survival and hostile transmission) rather than a general claim that "the evidence is old."
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 10-mark, 150-word answer, open with a one-sentence thesis on unequal source survival; name three evidence units (hostile Buddhist/Jaina testimony on the Ajivikas, Charvaka's transmission through doxography rather than a founding text, the resulting caricature risk); close with the verdict that source criticism is part of the content, not an external add-on.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Mains Question 2 - 10 marks - 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name Barabar-Nagarjuni cave patronage explicitly as the one surviving material anchor for the Ajivikas, balancing the textual-absence argument with a concrete counter-example.
 
 ### Original Mains Question 3 - 15 marks - 250 words
 
 Discuss how the shramana challenge reshaped the intellectual field of ancient India without being reducible to urbanisation alone.
 
-**Model answer:** [CLAIM] The shramana challenge reshaped ancient Indian thought by relocating debate from sacrificial centrality toward suffering, bondage, discipline, karma, selfhood and liberation, but this shift cannot be reduced to a simple by-product of urban growth. [NAMED EVIDENCE -> MECHANISM] Buddhism recast the human problem through dependent origination, impermanence and non-self. Jainism developed a rigorous soul-karmic bondage model alongside anekantavada and syadvada. Ajivikas were remembered for niyati, while materialist currents challenged scriptural and afterlife claims. These traditions flourished in a wider world of towns, trade routes, kings, gana-sanghas and patronage, which made itinerant debate and renouncer communities more viable. [ANALYSIS] Urbanisation mattered because it widened audiences, donors and social mobility. Yet doctrines were not mechanically caused by commerce. Buddhist non-self, Jaina karmic materialism and Ajivika determinism are conceptually distinct responses to shared existential and social pressures. [QUALIFICATION] Nor did the shramana field annihilate the Vedic world; Mimamsa and Vedanta show strong Brahmanical philosophical continuities. [VERDICT] The shramana challenge is therefore best understood as an argumentative reconfiguration of ancient Indian thought within a changing social landscape, not as an economic reflex.
+**Model answer:** The shramana challenge reshaped ancient Indian thought by relocating debate from sacrificial centrality toward suffering, bondage, discipline, karma, selfhood and liberation, but this shift cannot be reduced to a simple by-product of urban growth. Buddhism recast the human problem through dependent origination, impermanence and non-self. Jainism developed a rigorous soul-karmic bondage model alongside anekantavada and syadvada. Ajivikas were remembered for niyati, while materialist currents challenged scriptural and afterlife claims. These traditions flourished in a wider world of towns, trade routes, kings, gana-sanghas and patronage, which made itinerant debate and renouncer communities more viable. Urbanisation mattered because it widened audiences, donors and social mobility. Yet doctrines were not mechanically caused by commerce. Buddhist non-self, Jaina karmic materialism and Ajivika determinism are conceptually distinct responses to shared existential and social pressures. Nor did the shramana field annihilate the Vedic world; Mimamsa and Vedanta show strong Brahmanical philosophical continuities. The shramana challenge is therefore best understood as an argumentative reconfiguration of ancient Indian thought within a changing social landscape, not as an economic reflex.
 
 **Why this earns marks:** It combines context and doctrine, gives named evidence from multiple traditions and closes with a balanced causal qualification.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains Question 3 - 15 marks - 250 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive **discuss** requires balancing the shramana challenge's doctrinal content against its urbanisation context, explicitly rejecting a monocausal economic explanation while still crediting context as enabling.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 15-mark, 250-word answer, open with a two-sentence thesis separating enabling context from doctrinal cause; name five evidence units (Buddhism's non-self, Jainism's karmic bondage, Ajivika niyati, materialist critique, urban/patronage context); close with the Mimamsa/Vedanta continuity qualification and a bounded verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Mains Question 3 - 15 marks - 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one named example of the urban/trade setting (such as a specific gana-sangha capital or trade route town) so the urbanisation claim is concrete rather than a background generalisation.
 
 ### Original Mains Question 4 - 15 marks - 250 words
 
 Compare Nyaya, Vaisheshika, Mimamsa and Vedanta as distinct answers to knowledge, world and authority.
 
-**Model answer:** [CLAIM] These four schools answer different leading questions, which is why grouping them all as "orthodox philosophy" hides their real intellectual diversity. [NAMED EVIDENCE -> MECHANISM] Nyaya asks how truth-claims are established through pramanas such as perception, inference, comparison and testimony; its five-member inference turns proof into public method. Vaisheshika asks what kinds of things exist and builds a realist ontology through padarthas and atomism. Mimamsa treats Vedic injunction, dharma and ritual interpretation as the core problem, turning hermeneutics into philosophy. Vedanta re-centres inquiry on the Upanishads, brahman, atman and the Brahma Sutra, trying to synthesise a metaphysical-exegetical field. [ANALYSIS] Thus Nyaya privileges epistemic procedure, Vaisheshika ontological categories, Mimamsa textual-action authority and Vedanta ultimate reality through scripture. [QUALIFICATION] Later histories pair Nyaya with Vaisheshika and Mimamsa with Vedanta, but the pairings should not erase their distinct original emphases. [VERDICT] The comparison shows that ancient Indian philosophy was not one doctrinal bloc; even within the so-called orthodox field, proof, world, duty and ultimate reality were separately and rigorously argued.
+**Model answer:** These four schools answer different leading questions, which is why grouping them all as "orthodox philosophy" hides their real intellectual diversity. Nyaya asks how truth-claims are established through pramanas such as perception, inference, comparison and testimony; its five-member inference turns proof into public method. Vaisheshika asks what kinds of things exist and builds a realist ontology through padarthas and atomism. Mimamsa treats Vedic injunction, dharma and ritual interpretation as the core problem, turning hermeneutics into philosophy. Vedanta re-centres inquiry on the Upanishads, brahman, atman and the Brahma Sutra, trying to synthesise a metaphysical-exegetical field. Thus Nyaya privileges epistemic procedure, Vaisheshika ontological categories, Mimamsa textual-action authority and Vedanta ultimate reality through scripture. Later histories pair Nyaya with Vaisheshika and Mimamsa with Vedanta, but the pairings should not erase their distinct original emphases. The comparison shows that ancient Indian philosophy was not one doctrinal bloc; even within the so-called orthodox field, proof, world, duty and ultimate reality were separately and rigorously argued.
 
 **Why this earns marks:** It compares by problem-type rather than by memorised label and therefore produces analytical depth quickly.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains Question 4 - 15 marks - 250 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive **compare** requires matching each school to the specific problem it answers (proof, ontology, ritual authority, ultimate reality) rather than listing four definitions in isolation.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 15-mark, 250-word answer, open with a two-sentence thesis on differing leading questions; name four evidence units (Nyaya's pramanas and five-member inference, Vaisheshika's padarthas, Mimamsa's vidhi-hermeneutics, Vedanta's Upanishadic-Brahma Sutra synthesis); close with the later-pairing qualification and a verdict on real intellectual diversity within the "orthodox" label.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Mains Question 4 - 15 marks - 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name the founding sutra text for each school (Nyaya Sutra, Vaisheshika Sutra, Mimamsa Sutra, Brahma Sutra) so the comparison is textually anchored rather than only conceptual.
 
 ### Original Mains Question 5 - 20 marks - 250 words
 
 Ancient Indian philosophy was a plural argumentative field rather than a single spiritual consensus. Examine.
 
-**Model answer:** [CLAIM] Ancient Indian philosophy was indeed plural and argumentative; describing it as one spiritual consensus erases the very debates that made the tradition historically powerful. [NAMED EVIDENCE -> MECHANISM] The Upanishads shifted authority toward self-knowledge and liberation but did so in internally diverse ways. Buddhism denied a permanent self and explained existence through dependent origination. Jainism defended real souls, karmic bondage and many-sided knowing. Ajivikas were remembered for niyati, while Charvaka challenged Vedic authority and unseen metaphysical claims. Among the astika schools, Samkhya offered purusha-prakriti dualism, Yoga disciplined mind toward release, Nyaya built public reasoning, Vaisheshika classified being, Mimamsa defended ritual-hermeneutic authority and Vedanta systematised Upanishadic metaphysics. [ANALYSIS] These are not variations of one identical spiritual message. They disagree about self, causation, proof, scripture and liberation. Yet the field is not chaotic: debate, commentary and institutions created shared argumentative rules. [QUALIFICATION] "Plural" does not mean every school was equally preserved; doxography and hostile sources create distortions. [VERDICT] Ancient Indian philosophy is therefore best described as an argumentative civilisation in which rivalry, borrowing and commentary produced long-lived intellectual plurality.
+**Model answer:** Ancient Indian philosophy was indeed plural and argumentative; describing it as one spiritual consensus erases the very debates that made the tradition historically powerful. The Upanishads shifted authority toward self-knowledge and liberation but did so in internally diverse ways. Buddhism denied a permanent self and explained existence through dependent origination. Jainism defended real souls, karmic bondage and many-sided knowing. Ajivikas were remembered for niyati, while Charvaka challenged Vedic authority and unseen metaphysical claims. Among the astika schools, Samkhya offered purusha-prakriti dualism, Yoga disciplined mind toward release, Nyaya built public reasoning, Vaisheshika classified being, Mimamsa defended ritual-hermeneutic authority and Vedanta systematised Upanishadic metaphysics. These are not variations of one identical spiritual message. They disagree about self, causation, proof, scripture and liberation. Yet the field is not chaotic: debate, commentary and institutions created shared argumentative rules. "Plural" does not mean every school was equally preserved; doxography and hostile sources create distortions. Ancient Indian philosophy is therefore best described as an argumentative civilisation in which rivalry, borrowing and commentary produced long-lived intellectual plurality.
 
 **Why this earns marks:** It uses range without becoming a list, and it ties plurality to actual points of doctrinal disagreement plus institutional form.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains Question 5 - 20 marks - 250 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive **examine** requires testing the "plural argumentative field" claim against named counter-positions from across the astika/nastika spectrum, rather than merely asserting plurality.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 20-mark, 250-word answer, open with a two-sentence thesis rejecting "one spiritual consensus"; name seven evidence units spanning the Upanishads, Buddhism, Jainism, the Ajivikas, Charvaka and the six astika schools; close with the doxography/hostile-source qualification and a verdict describing an argumentative civilisation.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Mains Question 5 - 20 marks - 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one named cross-school debate or refutation (for example a Buddhist logician's critique of a Nyaya position) to show argumentative interaction rather than a parallel list of schools.
 
 ### Original Mains Question 6 - 20 marks - 250 words
 
 Trace the movement from late Vedic speculation to classical darshana systematisation, bringing out both continuity and rupture.
 
-**Model answer:** [CLAIM] The movement from late Vedic speculation to classical darshana systematisation involved both continuity of vocabulary and rupture in emphasis, method and institutional location. [NAMED EVIDENCE -> MECHANISM] Vedic and later Vedic texts supplied categories such as rta, sacrifice, sacred speech and speculative questioning. Aranyakas and early Upanishads interiorised ritual and developed brahman, atman, karma, rebirth and moksha through dialogue and paradox. The shramana field then radicalised the debate: Buddhism reframed bondage through non-self and conditioned arising; Jainism through soul and karmic matter; Ajivikas through fate; materialists through perceptual critique. Over time, sutra traditions such as Nyaya, Vaisheshika, Mimamsa, Yoga and the Brahma Sutra compressed and systematised distinctive positions. Grammar, commentary and public disputation deepened the field further. [ANALYSIS] Continuity lies in long concern with order, duty, speech, liberation and knowledge. Rupture lies in new critiques of ritual centrality, sharper school identities and more technical epistemological and metaphysical debate. [QUALIFICATION] The process was uneven, and later six-school doxography can falsely tidy it up. [VERDICT] Ancient Indian philosophy thus moved from layered speculative beginnings to increasingly explicit schools without ever losing the marks of cumulative borrowing and contest.
+**Model answer:** The movement from late Vedic speculation to classical darshana systematisation involved both continuity of vocabulary and rupture in emphasis, method and institutional location. Vedic and later Vedic texts supplied categories such as rta, sacrifice, sacred speech and speculative questioning. Aranyakas and early Upanishads interiorised ritual and developed brahman, atman, karma, rebirth and moksha through dialogue and paradox. The shramana field then radicalised the debate: Buddhism reframed bondage through non-self and conditioned arising; Jainism through soul and karmic matter; Ajivikas through fate; materialists through perceptual critique. Over time, sutra traditions such as Nyaya, Vaisheshika, Mimamsa, Yoga and the Brahma Sutra compressed and systematised distinctive positions. Grammar, commentary and public disputation deepened the field further. Continuity lies in long concern with order, duty, speech, liberation and knowledge. Rupture lies in new critiques of ritual centrality, sharper school identities and more technical epistemological and metaphysical debate. The process was uneven, and later six-school doxography can falsely tidy it up. Ancient Indian philosophy thus moved from layered speculative beginnings to increasingly explicit schools without ever losing the marks of cumulative borrowing and contest.
 
 **Why this earns marks:** It is chronological, comparative and source-aware, which is exactly what a long GS-I answer on this topic requires.
 
@@ -2936,13 +2534,11 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 - For 2022 Q56, remember the pairing triangle: Aryadeva and Dignaga are Buddhist; Nathamuni is Vaishnava.
 - End with plural argumentative civilisation, not with spiritual homogenisation.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains Question 6 - 20 marks - 250 words”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** The directive **trace**, combined with "bringing out both continuity and rupture," requires a chronological sequence from late Vedic speculation to classical darshana systematisation while explicitly separating what continues (vocabulary, concern with order and liberation) from what changes (ritual centrality, sharper school identity, technical debate).
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable exam-length answer / compression plan:** For this 20-mark, 250-word answer, open with a two-sentence thesis on continuity-plus-rupture; name six evidence units in chronological order (Vedic categories, Aranyaka/Upanishadic interiorisation, shramana doctrines, sutra systematisation, grammar/commentary, public disputation); close with the caution against a falsely tidy six-school doxography and a bounded verdict.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Mains Question 6 - 20 marks - 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one explicit date-range marker per phase (for example "mid-first-millennium BCE" for the shramana phase) to sharpen the chronological trace an examiner rewards.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -3036,7 +2632,7 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] Learn Topic 24 as a sequence of argumentative enlargements, not as one static list.
 
-![Final Register 1/8 - Chronology and the shape of the field](assets/01_intellectual_chronology_spine.png)
+![Final Register 1/8 - Chronology and the shape of the field](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/01_intellectual_chronology_spine.png)
 
 #### Core teaching / solved analysis
 
@@ -3060,7 +2656,7 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] The strongest early movement is from ritual centrality toward interiorised knowledge without total civilisational rupture.
 
-![Final Register 2/8 - Vedic to Upanishadic transition](assets/02_vedic_to_upanishadic_transition.png)
+![Final Register 2/8 - Vedic to Upanishadic transition](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/02_vedic_to_upanishadic_transition.png)
 
 #### Core teaching / solved analysis
 
@@ -3084,7 +2680,7 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] Social change widened the stage; doctrines still had to be argued separately.
 
-![Final Register 3/8 - Shramana reconfiguration](assets/03_shramana_second_urbanisation_ecosystem.png)
+![Final Register 3/8 - Shramana reconfiguration](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/03_shramana_second_urbanisation_ecosystem.png)
 
 #### Core teaching / solved analysis
 
@@ -3108,9 +2704,9 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] Remember the heterodox field by its contrasting answers to self, knowledge and causation.
 
-![Final Register 4/8 - Buddhist development map](assets/15_buddhist_madhyamaka_yogacar-2d460482ca.png)
+![Final Register 4/8 - Buddhist development map](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/15_buddhist_madhyamaka_yogacara_development.png)
 
-![Final Register 4/8 - Ajivika and Charvaka caution](assets/17_ajivika_charvaka_source_criticism.png)
+![Final Register 4/8 - Ajivika and Charvaka caution](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/17_ajivika_charvaka_source_criticism.png)
 
 #### Core teaching / solved analysis
 
@@ -3135,7 +2731,7 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] The grouped canon is late, but the comparative map is still useful if handled historically.
 
-![Final Register 5/8 - Six darshanas](assets/05_six_darshana_comparison_matrix.png)
+![Final Register 5/8 - Six darshanas](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/05_six_darshana_comparison_matrix.png)
 
 #### Core teaching / solved analysis
 
@@ -3162,9 +2758,9 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] Two efficient answer axes are "how do they know?" and "what do they think exists?"
 
-![Final Register 6/8 - Pramana comparison](assets/06_pramana_comparison_matrix.png)
+![Final Register 6/8 - Pramana comparison](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/06_pramana_comparison_matrix.png)
 
-![Final Register 6/8 - Self / no-self comparison](assets/07_self_no_self_metaphysics_map.png)
+![Final Register 6/8 - Self / no-self comparison](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/07_self_no_self_metaphysics_map.png)
 
 #### Core teaching / solved analysis
 
@@ -3188,9 +2784,9 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] Philosophy survived because it was taught, argued, compressed and commented on.
 
-![Final Register 7/8 - Language and institutions](assets/18_language_grammar_philosophy_network.png)
+![Final Register 7/8 - Language and institutions](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/18_language_grammar_philosophy_network.png)
 
-![Final Register 7/8 - Patronage and institutions](assets/19_institutions_patronage_network.png)
+![Final Register 7/8 - Patronage and institutions](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/19_institutions_patronage_network.png)
 
 #### Core teaching / solved analysis
 
@@ -3214,7 +2810,7 @@ Trace the movement from late Vedic speculation to classical darshana systematisa
 
 [ANALYSIS] Topic 24 scores best when it stays chronological, comparative and source-aware.
 
-![Final Register 8/8 - Historiography and answer spine](assets/20_gs1_answer_historiography_matrix.png)
+![Final Register 8/8 - Historiography and answer spine](notes/Ancient-Indian-History/assets/24_Developments-in-Philosophy/20_gs1_answer_historiography_matrix.png)
 
 #### Core teaching / solved analysis
 

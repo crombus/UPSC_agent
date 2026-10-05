@@ -6,1100 +6,775 @@ topic_key: medieval-indian-history-25
 
 ## BASIC MCQS / REMEDIATION
 
-### Learning MCQs (20; key rotation A -> B -> C -> D repeated five times)
-
-Correct options are deliberately rotated by actual option placement, not by relabeling: A -> B -> C -> D through the full set. Read the explanation after attempting each item.
+Exactly forty MCQs, one flat set (no sub-banks), distinct from the Learning Session's own sixteen. Correct options are deliberately rotated by actual option placement: A -> B -> C -> D repeated ten times through the full set. All practice questions appear first, then a separate solved key with four option-wise explanations and a specific trap per item.
 
 ![Visual 34: UPSC traps -- common misreadings vs the defensible position](assets/34_34_upsc_traps_grid.png)
 
-*Visual 34: UPSC traps -- common misreadings vs the defensible position. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+*Visual 34: UPSC traps -- common misreadings vs the defensible position. Schematic maps are NOT TO SCALE where marked.*
 
-#### Q1. What is this topic's own core chronological window?
+#### Q1. Jadunath Sarkar's historiographical strand on Mughal decline is chiefly built on:
 
-- A. 1707 to 1761.
+- A. Court-chronicle and character-focused evidence emphasising Aurangzeb's personal responsibility and religious policy.
+- B. Jama-hasil and jagir-transfer administrative-fiscal records.
+- C. Trade, credit and regional-court patronage records.
+- D. UNESCO and ASI heritage-management documentation.
 
-- B. 1761 to 1857.
+#### Q2. Bahadur Shah I's (1707-1712) policy toward Rajput rulers and Shahu's Marathas is best described as:
 
-- C. 1526 to 1707.
+- A. Uniformly hostile and confrontational toward both groups.
+- B. Broadly conciliatory, though less successful against the Sikh rebellion under Banda Bahadur.
+- C. A direct continuation of Aurangzeb's Deccan military campaigns.
+- D. Entirely focused on suppressing the Sayyid Brothers.
 
-- D. 1600 to 1657.
+#### Q3. In jagirdari terminology, jama refers to:
+
+- A. Revenue actually realised from an assignment.
+- B. A noble's mansab-linked military obligation.
+- C. The formally assessed revenue figure for a jagir.
+- D. Land available or awaiting assignment.
+
+#### Q4. In jagirdari terminology, hasil refers to:
+
+- A. Land or revenue awaiting assignment.
+- B. The formally assessed revenue figure.
+- C. A mansabdar's rank-linked cavalry quota.
+- D. Revenue actually realised or collected from an assignment.
+
+#### Q5. Be-jagiri, in this topic's account, names the condition of:
+
+- A. A mansabdar lacking a productive jagir assignment despite holding rank.
+- B. A zamindar refusing to pay any revenue at all.
+- C. An emperor ruling without an active wazir.
+- D. A jagir being permanently confiscated by the state.
+
+#### Q6. The Deccan wars' fiscal legacy fed into the jagirdari crisis chiefly by:
+
+- A. Reducing the number of nobles entitled to a jagir.
+- B. Enlarging the pool of jagir claimants while reducing the pool of undamaged, readily assignable revenue-yielding land.
+- C. Ending the mansabdari system entirely by 1707.
+- D. Creating an immediate revenue surplus for the imperial treasury.
+
+#### Q7. The 1720 noble coalition that defeated the Sayyid Brothers prominently included which noble, who later withdrew to found the Hyderabad Nizamat?
+
+- A. Murshid Quli Khan.
+- B. Saadat Khan (Burhan-ul-Mulk).
+- C. Nizam-ul-Mulk (Chin Qilich Khan).
+- D. Sadashivrao Bhau.
+
+#### Q8. Bengal, Awadh and Hyderabad's routes to autonomy are best compared as:
+
+- A. Identical methods producing identical outcomes.
+- B. Three unrelated developments with no shared feature at all.
+- C. Purely military conquests with no fiscal dimension.
+- D. Three distinct mechanisms (revenue-farming, zamindar accommodation, subedar-to-sovereignty conversion) converging on a shared outcome of real autonomy with retained formal Mughal legitimacy.
+
+#### Q9. Saadat Khan (Burhan-ul-Mulk), Awadh's subedar from 1722, built the province's autonomy chiefly through:
+
+- A. Accommodation with local zamindars and taluqdars rather than confrontation.
+- B. A stabilised revenue-farming (ijaradari) settlement identical to Bengal's.
+- C. Military conquest of Hyderabad's Deccan territory.
+- D. Direct alliance with Ahmad Shah Abdali against the Mughal centre.
+
+#### Q10. Nizam-ul-Mulk secured effective Deccan autonomy after defeating a rival Mughal-appointed governor at which 1724 battle?
+
+- A. The Third Battle of Panipat.
+- B. The Battle of Shakar Kheda.
+- C. The Battle of Karnal.
+- D. The Battle of Buxar.
+
+#### Q11. The Jat formation around Agra-Mathura, whose base at Bharatpur became a significant eighteenth-century power, was consolidated under leaders including:
+
+- A. Murshid Quli Khan and Saadat Khan.
+- B. Najib-ud-Daulah and the Dal Khalsa misls.
+- C. Churaman, Badan Singh and later Suraj Mal.
+- D. Sadashivrao Bhau and Vishwasrao.
+
+#### Q12. Rohilla Afghan chiefs, prominently including Najib-ud-Daulah, carved out a separate regional power base known as:
+
+- A. The Nizamat of Hyderabad.
+- B. The Dal Khalsa confederacy.
+- C. Bharatpur.
+- D. Rohilkhand.
+
+#### Q13. The Maratha polity's own succession contest, resolved through Shahu's ascendancy and his Peshwa Balaji Vishwanath, was a dispute between Shahu and:
+
+- A. His aunt Tarabai's rival camp.
+- B. Nizam-ul-Mulk's Hyderabad claimants.
+- C. The Sayyid Brothers.
+- D. Ahmad Shah Abdali.
+
+#### Q14. By well-established tradition, the treasure Nadir Shah carried back to Persia after his 1739 raid is said to have included:
+
+- A. The Kohinoor diamond alone, with no other named item.
+- B. The Peacock Throne and the Koh-i-Noor diamond.
+- C. The original Quwwat-ul-Islam mosque inscriptions.
+- D. Shah Jahan's original manuscript library only.
+
+#### Q15. Ahmad Shah Abdali's invasions across 1748-1767 are best described as a contest for the Punjab frontier involving:
+
+- A. Only the Mughal centre and Abdali, with no other claimant.
+- B. Only the Marathas and the Sikh misls, with the Mughal centre absent entirely.
+- C. Mughal governors' remnants, rising Sikh power, and eventually the Marathas, all contesting the vacuum simultaneously.
+- D. A single unified Indian coalition against Abdali throughout the period.
+
+#### Q16. At the Third Battle of Panipat (1761), the Maratha commander Sadashivrao Bhau was accompanied by which figure who was killed in the battle?
+
+- A. Nizam-ul-Mulk.
+- B. Najib-ud-Daulah.
+- C. Murshid Quli Khan.
+- D. Vishwasrao, the Peshwa's young heir.
+
+#### Q17. Maratha power after the 1761 defeat at Panipat is best described as:
+
+- A. Substantially restored within about a decade under Peshwa Madhavrao I, in the Deccan/Malwa/central India rather than a Punjab return.
+- B. Permanently and completely destroyed with no recovery.
+- C. Immediately restored to full strength within the same year, including in the Punjab.
+- D. Transferred entirely to British control immediately after the battle.
+
+#### Q18. The regional/agrarian-focused historiography (named in the source material as Alam and Subrahmanyam) is used in this topic chiefly to caution against:
+
+- A. Overstating the Sayyid Brothers' administrative competence.
+- B. Reading eighteenth-century “decline” as a uniform, empire-wide economic and cultural collapse.
+- C. Understating Aurangzeb's role in the Deccan wars.
+- D. Accepting Satish Chandra's fiscal framework at all.
+
+#### Q19. Bengal's Jagat Seth banking and credit house is cited in this topic as evidence for:
+
+- A. The complete absence of any credit institution in the eighteenth century.
+- B. A purely political, non-economic form of continuity.
+- C. Continuing economic activity (banking and credit) across the eighteenth century despite political fragmentation.
+- D. The Maratha confederacy's own internal fiscal structure.
+
+#### Q20. The relationship between agrarian cultivation and eighteenth-century trade-route disruption, in this topic's account, is best described as:
+
+- A. Total disruption of both cultivation and trade routes everywhere at once.
+- B. Total continuity of both cultivation and trade routes, with no disruption anywhere.
+- C. Cultivation collapsing while trade routes remained entirely undisturbed.
+- D. Cultivation mostly continuing while specific trade routes suffered real, localised disruption during active campaign seasons such as Abdali's Punjab corridor and the Panipat marches.
+
+#### Q21. Cultural patronage in the eighteenth century, as central Mughal patronage contracted, is described in this topic as chiefly sustained by:
+
+- A. Regional successor courts, including Awadh's Lucknow establishment and Hyderabad's Deccani court.
+- B. The British East India Company's own cultural institutions.
+- C. No institution at all - patronage simply ceased.
+- D. The Sayyid Brothers' wizarat administration.
+
+#### Q22. Before 1757, the English East India Company's political and military footprint in the subcontinent is best described in this topic as:
+
+- A. Already extending inland across most of northern India as the dominant political power.
+- B. Already fighting the inland Carnatic Wars (from the 1740s) alongside regional claimants, but not yet a dominant inland political power or a formal territorial ruler.
+- C. Non-existent, since the Company had no presence in India before 1757.
+- D. Exercised through direct annexation of the Mughal court at Delhi.
+
+#### Q23. Reading Mughal decline as a story that reads history backward from the known outcome of British rule is an example of which wrong framing this topic explicitly names and rejects?
+
+- A. The religious-monocausal framing.
+- B. The centre-region spectrum framing.
+- C. Teleology.
+- D. The convergence-causation framing.
+
+#### Q24. Ignoring the fiscal-administrative, political and external-shock evidence examined across this topic in favour of a single-cause explanation centred only on religious policy is an example of which wrong framing?
+
+- A. The centre-region spectrum.
+- B. Teleology.
+- C. The layered-fiscal-sovereignty framing.
+- D. The religious-monocausal framing.
+
+#### Q25. Alivardi Khan's containment of the Maratha bargi raids into Bengal during the 1740s is best read in this topic as evidence that:
+
+- A. Regional successor states could sustain meaningful state capacity and negotiated/military resilience even under external pressure, not simply collapse passively.
+- B. Bengal had already been annexed by the Marathas by the 1740s.
+- C. The Mughal centre in Delhi directly organised Bengal's defence against the raids.
+- D. The raids were entirely repelled through British East India Company intervention.
+
+#### Q26. At the Third Battle of Panipat (1761), Awadh's Nawab Shuja-ud-Daulah is recorded in this topic as:
+
+- A. Fighting on the Maratha side against Ahmad Shah Abdali's coalition.
+- B. Fighting alongside Ahmad Shah Abdali's coalition, extending Awadh's frontier role beyond fiscal-administrative autonomy.
+- C. Remaining entirely neutral and uninvolved in the battle.
+- D. Leading the Maratha army in place of Sadashivrao Bhau.
+
+#### Q27. Bahadur Shah I's reign (1707-1712) is followed in the court succession spine by which emperor (1712-1713), dominated by his patron Zulfiqar Khan?
+
+- A. Farrukhsiyar.
+- B. Muhammad Shah.
+- C. Jahandar Shah.
+- D. Shah Alam II.
+
+#### Q28. During Muhammad Shah's long reign (1719-1748), which development involving Nizam-ul-Mulk occurred?
+
+- A. He was executed by the Sayyid Brothers.
+- B. He negotiated the 1719 chauth-sardeshmukhi settlement with the Marathas.
+- C. He was killed at the Battle of Karnal in 1739.
+- D. He effectively withdrew to the Deccan and founded what became the independent Nizamat of Hyderabad.
+
+#### Q29. Farrukhsiyar's 1719 deposition and killing by the Sayyid Brothers is cited in this topic as the clearest evidence that:
+
+- A. The Mughal throne had become a prize contested by noble coalitions, not merely a hereditary office weakly filled.
+- B. Mughal succession had returned to strict primogeniture by 1719.
+- C. The Marathas had by this point annexed Delhi outright.
+- D. Nadir Shah had already invaded by this date.
+
+#### Q30. The Sayyid-dominated administration's 1713 abolition of jizyah occurred alongside which other significant development named in this topic?
+
+- A. The Third Battle of Panipat.
+- B. A settlement recognising Maratha chauth and sardeshmukhi claims over the Deccan subahs.
+- C. Nadir Shah's sack of Delhi.
+- D. The founding of the Hyderabad Nizamat.
+
+#### Q31. The centre-region spectrum's key point about Bengal, Awadh and Hyderabad is that all three, despite real autonomy, continued for varying periods to:
+
+- A. Reject any nominal link to the Mughal centre.
+- B. Pay full assessed jama revenue directly to Delhi without any local retention.
+- C. Seek formal Mughal confirmation of their governors' authority.
+- D. Submit their armies to direct Mughal command.
+
+#### Q32. This topic's convergence-causation framing explicitly rejects reducing Mughal decline to:
+
+- A. A single administrative-fiscal mechanism.
+- B. A combination of succession, fiscal and external-shock factors.
+- C. Regional-power fragmentation as a contributing factor.
+- D. Aurangzeb's personal religious policy alone.
+
+#### Q33. Which sequence keeps the brief Sayyid-backed reigns in their correct court setting?
+
+- A. Farrukhsiyar's removal in 1719 was followed by Rafi-ud-Darajat and Shah Jahan II before Muhammad Shah's accession.
+- B. Rafi-ud-Darajat ruled before Bahadur Shah I and installed Farrukhsiyar in 1707.
+- C. Shah Jahan II defeated Nadir Shah and thereby restored Farrukhsiyar.
+- D. Muhammad Shah preceded Jahandar Shah and directly crowned Rafi-ud-Darajat.
+
+#### Q34. After the Sayyid Brothers fell in 1720, why did the imperial seal remain valuable to autonomous provincial elites?
+
+- A. A seal instantly made every Bengal revenue assessment equal to cash collection.
+- B. Legitimacy, titles and appointments could still be negotiated through Mughal forms without direct Delhi control.
+- C. All provinces resumed uniform direct imperial military control.
+- D. A Mughal appointment extinguished every pre-existing zamindari right.
+
+#### Q35. Match the successor state with its source-supported consolidation strategy.
+
+- A. Bengal: Nizam-ul-Mulk after Shakarkheda; Hyderabad: Murshid Quli Khan's revenue reorganisation; Awadh: Rohilla migration.
+- B. Bengal: Saadat Khan's Ganga plain; Awadh: Sindhudurg navy; Hyderabad: Banda Bahadur.
+- C. Bengal: Murshid Quli Khan and revenue control; Awadh: Saadat Khan and zamindar management; Hyderabad: Nizam-ul-Mulk and Deccan provincial-military power.
+- D. All three: immediate declarations of independence with repudiation of Mughal titles.
+
+#### Q36. What distinguishes the Sikh misls' emergence from the earlier Banda Bahadur phase in an eighteenth-century synthesis?
+
+- A. They were a Mughal-appointed single uniform regiment controlling all provinces in 1707.
+- B. The misls were identical to Shivaji's Ashtapradhan.
+- C. Sikh political history stopped completely after Banda Bahadur.
+- D. Repression and reorganisation preceded the growth of multiple armed Sikh centres in the Punjab, later associated with Dal Khalsa.
+
+#### Q37. A claimed high paibaqi pool and low realised hasil appear in different provincial records. What should the historian conclude?
+
+- A. Awaiting-assignment revenue cannot be assumed to yield productive jagirs or collected cash; compare assignment and collection evidence.
+- B. A large paibaqi pool proves be-jagiri impossible in every province.
+- C. Paibaqi is the synonym of assessed jama and therefore equals hasil.
+- D. All Mughal agrarian production must have ceased after 1707.
+
+#### Q38. Which causal comparison of Nadir Shah and Ahmad Shah Abdali avoids collapsing separate shocks?
+
+- A. Nadir Shah's 1739 raid began the 1761 Panipat campaign; Abdali first invaded in 1707.
+- B. Karnal and Delhi in 1739 exposed Mughal weakness; Abdali's repeated 1748-67 frontier interventions culminated in the 1761 north Indian coalition conflict.
+- C. Both remained to govern all Indian successor states continuously from 1739.
+- D. Both raids occurred before Muhammad Shah and before provincial autonomy emerged.
+
+#### Q39. Consider the 1761 Panipat outcome: 1. Abdali's coalition defeated Maratha forces. 2. The Mughal emperor led the principal opposing army. 3. Defeat automatically ended all Maratha power. Which is correct?
+
+- A. 1 and 2 only
+- B. 2 and 3 only
+- C. 1 only
+- D. 1, 2 and 3
+
+#### Q40. A historian compares an East India Company trading ledger, a court chronicle and an Awadh revenue document. Which method best avoids teleology?
+
+- A. Assume that because Plassey occurred, all three records already describe a colonial state.
+- B. Use the company ledger as a complete history of peasant livelihoods and ignore other genres.
+- C. Infer that Delhi's reduced power removed all provincial institutions.
+- D. Read each record for its own institutional viewpoint; explain eighteenth-century regional continuity and reserve later Company conquest mechanisms for Modern History.
+
+## SOLVED MCQ KEY - OPTION-WISE EXPLANATIONS AND TRAPS
+
+#### Q1.
 
 **Answer: A.**
-**Explanation:** The topic's core window runs from Aurangzeb's death to the Third Battle of Panipat; earlier and later periods are named only as bounded inheritance or hand-off.
 
-#### Q2. Aurangzeb's Deccan campaigns (1687-1707) are treated in this topic as:
+**Option-wise explanations:**
+- **A.** Correct - Sarkar's early-twentieth-century account reads decline chiefly through Aurangzeb's own conduct and choices.
+- **B.** Incorrect - this is Satish Chandra's evidence base, not Sarkar's.
+- **C.** Incorrect - this is the regional/agrarian-continuity strand associated with Alam and Subrahmanyam.
+- **D.** Incorrect - heritage-policy material is a bounded modern bridge, never historiographical evidence for eighteenth-century causation.
 
-- A. Evidence that decline began only after 1761.
+**Trap:** Do not credit Sarkar's strand with the fiscal-administrative evidence base that actually belongs to Chandra's framework.
 
-- B. An inherited fiscal-administrative legacy feeding be-jagiri, owned in military detail by Topics 22-23.
-
-- C. Irrelevant background with no bearing on the jagirdari crisis.
-
-- D. This topic's central battle-by-battle content.
+#### Q2.
 
 **Answer: B.**
-**Explanation:** This topic summarises the Deccan wars only as a structural input; their full military narrative belongs to Topics 22-23.
 
-#### Q3. Jadunath Sarkar's historiographical strand is chiefly associated with:
+**Option-wise explanations:**
+- **A.** Incorrect - his approach was broadly conciliatory, not confrontational, toward Rajputs and Shahu's Marathas.
+- **B.** Correct - conciliation worked with Rajputs and Shahu's camp but did not succeed against Banda Bahadur's rebellion.
+- **C.** Incorrect - Bahadur Shah I's reign followed Aurangzeb's death and was not itself a continuation of the Deccan wars.
+- **D.** Incorrect - the Sayyid Brothers' rise to power came under Farrukhsiyar (1713-19), after Bahadur Shah I's reign.
 
-- A. A regional/agrarian-continuity account questioning the decline label.
+**Trap:** Do not assume a single uniformly hostile or uniformly successful policy line across all three groups at once.
 
-- B. A jama-hasil administrative-fiscal framework.
-
-- C. An early account emphasising Aurangzeb's personal responsibility and religious policy.
-
-- D. A revenue-farming account of Bengal.
+#### Q3.
 
 **Answer: C.**
-**Explanation:** Sarkar's early-twentieth-century account is one strand among three on the historiography ladder, not a settled final verdict.
 
-#### Q4. Satish Chandra's explanatory framework for Mughal decline is best summarised as:
+**Option-wise explanations:**
+- **A.** Incorrect - this is hasil, not jama.
+- **B.** Incorrect - jama is a fiscal-assessment term, not a military-rank term.
+- **C.** Correct - jama is the assessed, on-paper revenue figure, distinct from what was actually collected.
+- **D.** Incorrect - this is paibaqi, a distinct term for assignable land.
 
-- A. An account centred on the Third Battle of Panipat alone.
+**Trap:** Do not swap jama (assessed figure) with hasil (realised figure) - the gap between them is the crisis's measurable core.
 
-- B. A colonial-era teleological account read backward from British success.
-
-- C. A purely religious-policy account.
-
-- D. An administrative-fiscal account built substantially on jama-hasil and jagir-transfer evidence.
+#### Q4.
 
 **Answer: D.**
-**Explanation:** Chandra's framework is this topic's central explanatory thread, evidenced through revenue and jagir-transfer records rather than a moral verdict on any ruler.
 
-#### Q5. Bahadur Shah I's policy toward Rajputs and Shahu's Marathas after 1707 is best described as:
+**Option-wise explanations:**
+- **A.** Incorrect - this is paibaqi.
+- **B.** Incorrect - this is jama.
+- **C.** Incorrect - hasil is a fiscal-collection term, not a rank or military term.
+- **D.** Correct - hasil is the realised, collected figure, which frequently fell short of jama.
 
-- A. Broadly conciliatory.
+**Trap:** Do not treat hasil as a synonym for jama - the whole crisis depends on the two being different, measurable figures.
 
-- B. Uniformly confrontational.
-
-- C. Identical to his conflict with Banda Bahadur's Sikh rebellion.
-
-- D. Focused solely on the Deccan.
+#### Q5.
 
 **Answer: A.**
-**Explanation:** Bahadur Shah I pursued conciliation with Rajput rulers and Shahu, in contrast with his more difficult conflict with Banda Bahadur.
 
-#### Q6. Farrukhsiyar's 1719 deposition and killing is the clearest documented evidence for:
+**Option-wise explanations:**
+- **A.** Correct - be-jagiri describes rank-holders without an adequately productive assignment, a direct symptom of the paibaqi shortage.
+- **B.** Incorrect - this describes a form of resistance, not be-jagiri specifically.
+- **C.** Incorrect - be-jagiri is a fiscal-assignment condition, not a description of the court's administrative structure.
+- **D.** Incorrect - be-jagiri describes an unassigned or inadequately assigned mansabdar, not a confiscation act.
 
-- A. Nadir Shah's intervention in Mughal succession.
+**Trap:** Do not confuse be-jagiri (a mansabdar's own condition of insufficient assignment) with a zamindar's revenue default.
 
-- B. Noble kingmaking, since the same Sayyid Brothers who elevated him in 1713 removed him in 1719.
-
-- C. A stable, undivided royal authority after 1707.
-
-- D. Direct Maratha capture of Delhi.
+#### Q6.
 
 **Answer: B.**
-**Explanation:** Farrukhsiyar's rise and fall at Sayyid hands is this topic's strongest single case of noble control over the throne.
 
-#### Q7. The Sayyid-dominated administration abolished jizyah in:
+**Option-wise explanations:**
+- **A.** Incorrect - absorption of Deccani and Maratha nobles increased, not reduced, the pool of jagir claimants.
+- **B.** Correct - this dual effect (more claimants, less usable land) is the specific mechanism linking the Deccan legacy to the jagirdari crisis.
+- **C.** Incorrect - the mansabdari system continued well beyond 1707; it was strained, not abolished.
+- **D.** Incorrect - the Deccan wars' legacy was a fiscal strain, not a surplus.
 
-- A. 1707.
+**Trap:** Do not describe the Deccan legacy as simply reducing noble numbers - it is the mismatch between more claimants and less usable land that matters.
 
-- B. 1761.
-
-- C. 1713.
-
-- D. 1739.
+#### Q7.
 
 **Answer: C.**
-**Explanation:** Jizyah's abolition in 1713 shows the post-1707 administration actively revising, not merely continuing, Aurangzeb's policy.
 
-#### Q8. Muhammad Shah's long reign (1719-1748) is best characterised as a period when:
+**Option-wise explanations:**
+- **A.** Incorrect - Murshid Quli Khan is Bengal's Diwan/Nawab, not part of the 1720 coalition against the Sayyids.
+- **B.** Incorrect - Saadat Khan became Awadh's subedar in 1722, distinct from the 1720 anti-Sayyid coalition's most prominent member.
+- **C.** Correct - Nizam-ul-Mulk was a prominent member of the 1720 coalition and later founded the Hyderabad Nizamat.
+- **D.** Incorrect - Sadashivrao Bhau commanded the Maratha army at Panipat in 1761, decades after the 1720 coalition.
 
-- A. The empire had already formally dissolved.
+**Trap:** Do not attribute the Hyderabad founding to whichever noble the question names first - it is specifically Nizam-ul-Mulk, verified by his later Shakar Kheda victory.
 
-- B. Jizyah was reimposed empire-wide.
-
-- C. Central authority was fully restored and regional autonomy reversed.
-
-- D. Continuing factional competition and growing regional autonomy (including the Nizam's Deccan withdrawal) coexisted with a nominally intact imperial centre.
+#### Q8.
 
 **Answer: D.**
-**Explanation:** Muhammad Shah's reign illustrates devolution proceeding under, not instead of, continuing nominal Mughal authority.
 
-#### Q9. In jagirdari terminology, jama refers to:
+**Option-wise explanations:**
+- **A.** Incorrect - the three states used genuinely different mechanisms, not one identical method.
+- **B.** Incorrect - despite different mechanisms, they share the outcome of converting real control into durable power while retaining a formal Mughal link.
+- **C.** Incorrect - Bengal's route was fiscal (revenue-farming), not primarily military.
+- **D.** Correct - this is the topic's own explicit three-way comparison, naming a shared outcome despite different specific mechanisms.
 
-- A. The assessed or paper revenue of a territorial unit.
+**Trap:** Do not treat 'successor state' as one undifferentiated method - name each state's own specific mechanism.
 
-- B. Revenue actually collected in a given year.
-
-- C. Crown land held in reserve.
-
-- D. The condition of a mansabdar without a suitable jagir.
+#### Q9.
 
 **Answer: A.**
-**Explanation:** Jama is the administrative assessment figure, distinct from hasil, the amount actually realised.
 
-#### Q10. In jagirdari terminology, hasil refers to:
+**Option-wise explanations:**
+- **A.** Correct - Saadat Khan negotiated revenue terms with existing zamindars, leaving local landed power intact, and this was continued by Safdarjung.
+- **B.** Incorrect - this is Bengal's route under Murshid Quli Khan, a distinct mechanism from Awadh's zamindar accommodation.
+- **C.** Incorrect - Awadh's autonomy did not rest on conquering Hyderabad.
+- **D.** Incorrect - Awadh's Nawab Shuja-ud-Daulah later fought alongside Shah Alam II against the British at Buxar (1764), not alongside Abdali against Delhi.
 
-- A. Crown land held in reserve.
+**Trap:** Do not collapse Awadh's zamindar-accommodation route into Bengal's separate revenue-farming route - they are two distinct mechanisms.
 
-- B. Revenue actually collected in a given year, which could fall short of the jama.
-
-- C. The reserve pool for new jagir grants.
-
-- D. A mansabdar's sanctioned rank.
+#### Q10.
 
 **Answer: B.**
-**Explanation:** The jama-hasil gap, not either figure alone, is the measurable core of the jagirdari crisis.
 
-#### Q11. In jagirdari terminology, paibaqi refers to:
+**Option-wise explanations:**
+- **A.** Incorrect - Panipat III was fought in 1761 against Abdali's coalition, unrelated to Nizam-ul-Mulk's Deccan consolidation.
+- **B.** Correct - Nizam-ul-Mulk defeated a rival governor at Shakar Kheda in 1724, establishing what became the Nizamat of Hyderabad.
+- **C.** Incorrect - Karnal (1739) was Nadir Shah's victory over Muhammad Shah's forces, not Nizam-ul-Mulk's Deccan battle.
+- **D.** Incorrect - Buxar (1764) belongs to the Company-era transition, Modern History's material.
 
-- A. A mansabdar's shortage of a suitable jagir.
+**Trap:** Do not substitute a better-known later battle (Panipat, Karnal, Buxar) for Nizam-ul-Mulk's own specific 1724 Deccan victory.
 
-- B. The gap between assessed and collected revenue.
-
-- C. Crown land held in reserve, not currently assigned as jagir to any mansabdar.
-
-- D. A regional ruler's fiscal claim layered over Mughal revenue.
+#### Q11.
 
 **Answer: C.**
-**Explanation:** Paibaqi is the pool from which new or transferred jagir assignments were meant to be made; its shrinkage is a specific bottleneck, not a general "land shortage."
 
-#### Q12. In jagirdari terminology, be-jagiri refers to:
+**Option-wise explanations:**
+- **A.** Incorrect - these are Bengal's and Awadh's successor-state figures, not Jat leaders.
+- **B.** Incorrect - Najib-ud-Daulah is a Rohilla Afghan chief and the Dal Khalsa is the Sikh misls' umbrella, both distinct from the Jat formation.
+- **C.** Correct - these leaders consolidated the agrarian, peasant-rooted Jat zamindari base culminating in Suraj Mal's Bharatpur state.
+- **D.** Incorrect - these are Maratha commanders at Panipat, not Jat leaders.
 
-- A. A fiscal claim layered over Mughal revenue.
+**Trap:** Do not substitute Rohilla, Sikh or Maratha named leaders for the Jat formation's own specific leadership line.
 
-- B. A reserve land pool.
-
-- C. A revenue-farming settlement.
-
-- D. The condition of a mansabdar being without a suitable, revenue-adequate jagir.
+#### Q12.
 
 **Answer: D.**
-**Explanation:** Be-jagiri is the symptom that names the whole crisis: too many claimants relative to the available paibaqi pool.
 
-#### Q13. The absorption of Deccani and Maratha nobles into the Mughal mansabdari system after the Deccan campaigns had the structural effect of:
+**Option-wise explanations:**
+- **A.** Incorrect - this is Nizam-ul-Mulk's Deccan successor state, unrelated to the Rohillas.
+- **B.** Incorrect - the Dal Khalsa is the Sikh misls' shared umbrella, not the Rohilla base.
+- **C.** Incorrect - Bharatpur is the Jat state's base under Suraj Mal.
+- **D.** Correct - the Rohilla Afghan chiefs, with Najib-ud-Daulah prominent among them, established Rohilkhand as their separate power base.
 
-- A. Increasing claimants for a shrinking pool of productive, assignable jagir land.
+**Trap:** Do not confuse Rohilkhand (the Rohilla Afghan base) with the Sikh Dal Khalsa or the Jat Bharatpur state - all three arose from the same broader collapse of central authority but are three distinct formations.
 
-- B. Eliminating the need for jagir transfers.
-
-- C. Ending noble factionalism at court.
-
-- D. Reducing the number of jagir claimants.
+#### Q13.
 
 **Answer: A.**
-**Explanation:** More claimants chasing a smaller effective paibaqi pool is the precise mechanism linking Deccan exhaustion to be-jagiri.
 
-#### Q14. Zamindar and peasant resistance to jagirdar extraction is best analysed as:
+**Option-wise explanations:**
+- **A.** Correct - the Shahu-Tarabai succession dispute, following Shivaji's line splitting, was resolved through Shahu's ascendancy and consolidated through Balaji Vishwanath.
+- **B.** Incorrect - Nizam-ul-Mulk is a Mughal noble turned Hyderabad's founder, unrelated to the internal Maratha succession dispute.
+- **C.** Incorrect - the Sayyid Brothers controlled the Mughal wizarat at Delhi, a separate contest from the Maratha polity's own internal succession.
+- **D.** Incorrect - Abdali is the Afghan invader who fought the Marathas decades later at Panipat, not a party to their internal succession dispute.
 
-- A. Evidence exclusive to Bengal alone.
+**Trap:** Do not confuse the Maratha polity's own internal Shahu-Tarabai succession dispute with the separate Mughal-centre succession disputes examined earlier in this topic.
 
-- B. A structural response to extraction pressure created by the jagirdari feedback loop.
-
-- C. Simple lawlessness unconnected to fiscal pressure.
-
-- D. Proof that no central authority existed anywhere in India.
+#### Q14.
 
 **Answer: B.**
-**Explanation:** Reading resistance only as disorder erases its structural origin in short-tenure, high-extraction jagir administration.
 
-#### Q15. The centre-region spectrum described in this topic is best used to:
+**Option-wise explanations:**
+- **A.** Incorrect - tradition names both the Peacock Throne and the Koh-i-Noor together, not the diamond alone.
+- **B.** Correct - both items are named together by well-established tradition as part of Nadir Shah's plunder.
+- **C.** Incorrect - this is unrelated Sultanate-era material, not part of Nadir Shah's 1739 plunder.
+- **D.** Incorrect - the traditionally cited items are the Peacock Throne and Koh-i-Noor, not a manuscript library.
 
-- A. Replace the historiography ladder entirely.
+**Trap:** Do not name only one of the two traditionally cited items - the Peacock Throne and the Koh-i-Noor are cited together.
 
-- B. Force a binary choice between "the empire still ruled" and "the empire had ended."
-
-- C. Place a given province between close central control and merely symbolic Mughal legitimacy, justified by a specific administrative or fiscal fact.
-
-- D. Describe only Bengal.
+#### Q15.
 
 **Answer: C.**
-**Explanation:** The spectrum framing avoids the false binary and requires a specific justifying fact for any placement.
 
-#### Q16. Murshid Quli Khan's principal contribution to Bengal's eighteenth-century autonomy was:
+**Option-wise explanations:**
+- **A.** Incorrect - at least three regional claimants contested the vacuum, not just two parties.
+- **B.** Incorrect - Mughal remnants, Sikh power and the Marathas were all simultaneously contesting the frontier alongside Abdali.
+- **C.** Correct - this three-way (at least) simultaneous contest is the specific point this topic makes about the frontier's collapse.
+- **D.** Incorrect - the various regional claimants did not act as one unified coalition across the whole 1748-1767 span.
 
-- A. Winning the Third Battle of Panipat.
+**Trap:** Do not reduce Abdali's invasions to a simple two-sided Mughal-versus-Abdali contest - name the multiple simultaneous regional claimants.
 
-- B. Founding the Sikh misls.
-
-- C. Abolishing jizyah empire-wide.
-
-- D. A revenue-farming (ijaradari) settlement that reduced disruptive jagir turnover.
+#### Q16.
 
 **Answer: D.**
-**Explanation:** This fiscal mechanism, distinct from a standard jagir assignment, is Bengal's specific route to stabilised autonomy.
 
-#### Q17. Saadat Khan (Burhan-ul-Mulk) built Awadh's autonomous base chiefly through:
+**Option-wise explanations:**
+- **A.** Incorrect - Nizam-ul-Mulk died decades earlier and was not present at Panipat.
+- **B.** Incorrect - Najib-ud-Daulah was a Rohilla chief fighting on Abdali's side, not the Peshwa's heir killed alongside Bhau.
+- **C.** Incorrect - Murshid Quli Khan is Bengal's Nawab, unconnected to the Panipat campaign.
+- **D.** Correct - Vishwasrao accompanied Sadashivrao Bhau and was killed in the battle, among many other heavy Maratha casualties.
 
-- A. Accommodation with local zamindars and taluqdars.
+**Trap:** Do not name a Mughal-court or Rohilla figure as the Peshwa's heir killed at Panipat - it is specifically Vishwasrao.
 
-- B. An alliance with Nadir Shah.
-
-- C. A revenue-farming settlement identical to Bengal's.
-
-- D. Direct military conquest of Delhi.
+#### Q17.
 
 **Answer: A.**
-**Explanation:** Awadh's mechanism is accommodation with existing landed power, distinct from Bengal's revenue-farming overhaul.
 
-#### Q18. Nizam-ul-Mulk (Asaf Jah) secured effective Deccan autonomy after defeating a rival governor at:
+**Option-wise explanations:**
+- **A.** Correct - this is the topic's own qualified account of recovery, specifying both the timeframe and the region of restored strength.
+- **B.** Incorrect - the topic explicitly frames Panipat as a check, not a terminal collapse, and records recovery under Madhavrao I.
+- **C.** Incorrect - recovery took about a decade, and it occurred in the Deccan/Malwa/central India, not as a Punjab return.
+- **D.** Incorrect - no automatic transfer of Maratha power to British control followed directly from Panipat.
 
-- A. Panipat, in 1761.
+**Trap:** Do not claim either total destruction or an instant same-year recovery - the topic specifies a roughly decade-long recovery in a different region (not Punjab).
 
-- B. Shakar Kheda, in 1724.
-
-- C. Plassey, in 1757.
-
-- D. Karnal, in 1739.
+#### Q18.
 
 **Answer: B.**
-**Explanation:** The 1724 victory at Shakar Kheda is the specific, datable turning point after which Hyderabad's autonomy went effectively unchallenged from Delhi.
 
-#### Q19. Nadir Shah's 1739 invasion is best described as:
+**Option-wise explanations:**
+- **A.** Incorrect - this caution concerns reading eighteenth-century decline as uniform economic-cultural collapse, not the Sayyids' competence specifically.
+- **B.** Correct - this is precisely the caution this named historiographical strand supplies to the central fragmentation-versus-continuity thesis.
+- **C.** Incorrect - this concerns economic-cultural continuity, not Aurangzeb's Deccan role specifically.
+- **D.** Incorrect - the regional/agrarian strand supplements rather than rejects Chandra's framework; they are read alongside each other.
 
-- A. A joint operation with Ahmad Shah Abdali.
+**Trap:** Do not attach this specific historiographical caution to the wrong target - it concerns uniform economic-cultural collapse, not any single ruler's competence.
 
-- B. An event with no lasting consequence for Mughal finances.
-
-- C. A raid for plunder and prestige that withdrew the same year, leaving a severe fiscal shock.
-
-- D. A permanent annexation of Delhi and its surrounding territory.
+#### Q19.
 
 **Answer: C.**
-**Explanation:** Nadir Shah plundered Delhi and left in 1739; he did not attempt to hold or annex Mughal territory.
 
-#### Q20. The Third Battle of Panipat was fought on:
+**Option-wise explanations:**
+- **A.** Incorrect - Jagat Seth is cited as a surviving, active institution, not evidence of absence.
+- **B.** Incorrect - Jagat Seth is specifically economic (banking/credit) evidence, not a political example.
+- **C.** Correct - Jagat Seth is the most frequently cited named example of continuing economic institutions financing both regional-court and trading-company activity.
+- **D.** Incorrect - Jagat Seth is a Bengal-based banking house, not part of the Maratha confederacy's structure.
 
-- A. 23 June 1757.
+**Trap:** Do not cite Jagat Seth as evidence of absence or political continuity - it is specifically named economic (banking/credit) continuity evidence.
 
-- B. 14 January 1757.
-
-- C. 22 October 1739.
-
-- D. 14 January 1761.
+#### Q20.
 
 **Answer: D.**
-**Explanation:** Panipat III, fought on 14 January 1761 between Abdali's coalition and Sadashivrao Bhau's Maratha army, is this topic's closing event.
 
-### Broad MCQs (44; key rotation A -> A -> C -> D repeated eleven times)
+**Option-wise explanations:**
+- **A.** Incorrect - cultivation mostly continued; disruption was specific to certain trade routes, not universal.
+- **B.** Incorrect - specific trade routes did suffer real, localised disruption during active campaign seasons.
+- **C.** Incorrect - this reverses the actual pattern; it is cultivation that mostly continued.
+- **D.** Correct - continuity and disruption coexisted rather than one uniformly displacing the other, which is the topic's precise nuance on this point.
 
-Correct options are deliberately rotated by actual option placement, not by relabeling: A -> A -> C -> D through the full set. Read the explanation after attempting each item.
+**Trap:** Do not flatten this into either total continuity or total collapse - the topic's own nuance is that cultivation and route disruption coexisted unevenly.
 
-![Visual 5 repeat: decline-causation system map, previewed before broad practice](assets/05_05_decline_causation_map.png)
-
-*Visual 5 repeat: decline-causation system map, previewed before broad practice. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### Q21. Jahandar Shah's brief reign (1712-13) was chiefly dominated by:
-
-- A. His noble patron Zulfiqar Khan.
-
-- B. A stable, factionalism-free court.
-
-- C. Direct Maratha administration.
-
-- D. Nadir Shah's regency.
+#### Q21.
 
 **Answer: A.**
-**Explanation:** Jahandar Shah's short, patron-dominated reign is further evidence of noble control over the throne before Farrukhsiyar's overthrow of him in 1713.
 
-#### Q22. The 1719 Sayyid-Maratha settlement is best described as:
+**Option-wise explanations:**
+- **A.** Correct - these regional courts took up literary, architectural and artistic patronage as the political centre's own patronage contracted.
+- **B.** Incorrect - Company cultural patronage belongs to Modern History, not this topic's eighteenth-century continuity evidence.
+- **C.** Incorrect - the topic's point is precisely that patronage continued via regional courts, not that it ceased.
+- **D.** Incorrect - the Sayyid wizarat (1713-1720) predates the broader eighteenth-century patronage shift to regional successor courts.
 
-- A. A purely religious concordat.
+**Trap:** Do not credit the Sayyid wizarat or an outside institution for a continuity that this topic specifically attributes to regional successor courts.
 
-- B. A settlement recognising Shahu's chauth and sardeshmukhi claims in the Deccan in exchange for military support against Farrukhsiyar.
-
-- C. A treaty ending all Maratha claims in the Deccan.
-
-- D. An agreement signed after Panipat III.
+#### Q22.
 
 **Answer: B.**
-**Explanation:** This 1719 bargain is the clearest formal evidence of the imperial centre institutionalising a regional power's fiscal claim.
 
-#### Q23. Rafi-ud-Darajat and Rafi-ud-Daulah (Shah Jahan II), installed by the Sayyid Brothers in 1719, are significant chiefly because:
+**Option-wise explanations:**
+- **A.** Incorrect - inland political dominance came only after Plassey (1757) and the Company's subsequent territorial expansion, not before it.
+- **B.** Correct - before 1757 the Company was already militarily engaged inland through the Carnatic Wars, but formal Company territorial rule (from the Bengal Diwani of 1765 onward) still lay ahead; its presence was real and partly inland, but not yet dominant political paramountcy.
+- **C.** Incorrect - the Company had traded from coastal settlements since the seventeenth century and had already fought the inland Carnatic Wars from the 1740s; its presence was real, not absent.
+- **D.** Incorrect - no such annexation occurred before 1757; the Mughal court at Delhi remained under indigenous/regional control.
 
-- A. They abolished chauth.
+**Trap:** Do not conflate the Company's later inland political paramountcy (post-1757 annexation and Diwani) with its earlier, already-inland-fighting but not-yet-dominant Carnatic Wars-era presence; equally, do not claim it was coastal-only, which ignores the Carnatic Wars.
 
-- B. They led the empire's recovery after Nadir Shah's invasion.
-
-- C. Their brief, short-lived reigns illustrate how completely the Sayyid Brothers controlled succession in 1719.
-
-- D. They each reigned for several decades.
+#### Q23.
 
 **Answer: C.**
-**Explanation:** Two puppet emperors installed and lost within the same year is strong evidence of noble-controlled kingmaking at its peak.
 
-#### Q24. The Sayyid Brothers' wizarat ended in 1720 when:
+**Option-wise explanations:**
+- **A.** Incorrect - this is a separate wrong framing (blaming religious policy alone), not the backward-reading error.
+- **B.** Incorrect - the centre-region spectrum is this topic's own valid analytical tool, not a wrong framing to reject.
+- **C.** Correct - teleology names precisely this error of reading history backward from a known outcome, which this topic explicitly rejects.
+- **D.** Incorrect - convergence-causation is this topic's own preferred, valid framing, not a wrong one.
 
-- A. Aurangzeb returned to power.
+**Trap:** Do not confuse this topic's own valid analytical frames (centre-region spectrum, convergence-causation) with the wrong framings it explicitly names and rejects (teleology, religious monocausality).
 
-- B. Nadir Shah annexed Delhi.
-
-- C. Shah Alam II was blinded.
-
-- D. A wider noble coalition, including Nizam-ul-Mulk, overthrew them and installed Muhammad Shah.
+#### Q24.
 
 **Answer: D.**
-**Explanation:** The Sayyids were removed by a rival coalition, not by a restoration of undivided royal authority - factionalism replaced factionalism.
 
-#### Q25. The decline-causation system map used in this topic frames Mughal decline as:
+**Option-wise explanations:**
+- **A.** Incorrect - this is a valid analytical tool used in this topic, not a wrong framing.
+- **B.** Incorrect - teleology is the separate error of reading history backward from a known outcome.
+- **C.** Incorrect - this describes Maratha chauth/sardeshmukhi claims, an accurate description, not a wrong framing.
+- **D.** Correct - reducing decline to religious policy alone, while ignoring the fiscal-administrative, political and external-shock evidence, is exactly the religious-monocausal error this topic explicitly rejects.
 
-- A. A converging structural crisis across fiscal, political, military, social and external strands, rather than one dominant cause.
+**Trap:** Do not mistake this topic's own valid descriptive frames for the specific wrong framing being tested - the religious-monocausal error is about ignoring multiple evidenced strands in favour of one.
 
-- B. Entirely explained by Aurangzeb's religious policy.
-
-- C. A sudden single-year collapse.
-
-- D. Entirely explained by Nadir Shah's invasion.
+#### Q25.
 
 **Answer: A.**
-**Explanation:** The system-map framing explicitly rejects both monocausal and single-date readings of decline.
 
-#### Q26. In the jagirdari feedback loop, short-tenure extraction leads next to:
+**Option-wise explanations:**
+- **A.** Correct - Alivardi Khan's mixed negotiated-payment/military response shows a successor state retaining real administrative-military capacity, consistent with this topic's continuity thesis.
+- **B.** Incorrect - the bargi raids were incursions and tribute pressure, not a territorial annexation of Bengal.
+- **C.** Incorrect - Bengal's autonomous Nawabi, not the Mughal centre, organised its own response.
+- **D.** Incorrect - the Company's major Bengal political role began later, after 1757, not through repelling the 1740s bargi raids.
 
-- A. Increased long-term investment in jagir land.
+**Trap:** Do not read the bargi raids as either a Maratha annexation of Bengal or as evidence of Company/Mughal-centre intervention - Bengal's own Nawabi handled it.
 
-- B. Under-investment in the jagir's long-term productivity.
-
-- C. Immediate abolition of the mansabdari system.
-
-- D. Automatic promotion to wazir.
+#### Q26.
 
 **Answer: B.**
-**Explanation:** Short expected tenure removes the incentive to invest in irrigation or protect cultivators from over-assessment, the loop's second stage.
 
-#### Q27. Frequent jagir transfers primarily discouraged mansabdars from:
+**Option-wise explanations:**
+- **A.** Incorrect - Shuja-ud-Daulah fought alongside Abdali's coalition, not the Maratha side.
+- **B.** Correct - his participation alongside Abdali's coalition extended Awadh's regional role from fiscal-administrative autonomy into frontier military alignment.
+- **C.** Incorrect - Awadh was not neutral; Shuja-ud-Daulah actively fought in the coalition.
+- **D.** Incorrect - Sadashivrao Bhau led the Maratha side; Shuja-ud-Daulah fought against, not in place of, him.
 
-- A. Extracting revenue quickly.
+**Trap:** Do not confuse Awadh's earlier fiscal-administrative autonomy (Saadat Khan/Safdarjung) with its later, distinct frontier-military role under Shuja-ud-Daulah at Panipat.
 
-- B. Seeking new assignments.
-
-- C. Investing in the long-term productivity of any single jagir.
-
-- D. Competing for scarce good jagirs.
+#### Q27.
 
 **Answer: C.**
-**Explanation:** An assignee with no guarantee of holding the same jagir for long had every incentive to extract rather than invest.
 
-#### Q28. Deccan exhaustion is best treated in a decline answer as:
+**Option-wise explanations:**
+- **A.** Incorrect - Farrukhsiyar (1713-1719) followed Jahandar Shah, not Bahadur Shah I directly.
+- **B.** Incorrect - Muhammad Shah's reign began in 1719, several emperors later.
+- **C.** Correct - Jahandar Shah (1712-13), dominated by his noble patron Zulfiqar Khan, directly followed Bahadur Shah I and was overthrown by Farrukhsiyar in 1713.
+- **D.** Incorrect - Shah Alam II's reign began only in 1759, decades after Bahadur Shah I.
 
-- A. Irrelevant to the jagirdari crisis.
+**Trap:** Do not skip ahead to a later emperor - the court succession spine's immediate next name after Bahadur Shah I is specifically Jahandar Shah.
 
-- B. Proof of Aurangzeb's personal religious motives alone.
-
-- C. The sole and sufficient cause of Mughal decline.
-
-- D. A serious contributing input feeding directly into be-jagiri and factionalism, not a sufficient standalone explanation.
+#### Q28.
 
 **Answer: D.**
-**Explanation:** Treating Deccan exhaustion as one structural input among several avoids both erasing it and overstating it as the single cause.
 
-#### Q29. Rival noble blocs contesting the wizarat after 1707 included:
+**Option-wise explanations:**
+- **A.** Incorrect - Nizam-ul-Mulk was part of the coalition that defeated the Sayyid Brothers, not their victim.
+- **B.** Incorrect - that settlement is associated with the Sayyid Brothers' administration, not specifically Nizam-ul-Mulk.
+- **C.** Incorrect - Nizam-ul-Mulk survived Karnal; it was Muhammad Shah's forces that were defeated there by Nadir Shah, not a battle that killed the Nizam.
+- **D.** Correct - this withdrawal and the 1724 Shakar Kheda victory occurred during Muhammad Shah's reign, alongside continuing factional competition at court and Nadir Shah's 1739 raid.
 
-- A. Turani, Irani, Hindustani/Afghan and Barha-Sayyid groupings.
+**Trap:** Do not attach unrelated events (the Sayyids' execution, the 1719 Maratha settlement, death at Karnal) to Nizam-ul-Mulk - his own specific development is the Deccan withdrawal and Hyderabad's founding.
 
-- B. Only a single unified noble class.
-
-- C. Only Rajput clans.
-
-- D. Exclusively European trading-company factions.
+#### Q29.
 
 **Answer: A.**
-**Explanation:** These identifiable rival blocs built competing coalitions inside the court, repeatedly determining who held the throne.
 
-#### Q30. The zamindar-resistance spectrum described in this topic ranges from:
+**Option-wise explanations:**
+- **A.** Correct - this is exactly the significance this topic attaches to Farrukhsiyar's fate at the Sayyids' hands.
+- **B.** Incorrect - the episode shows the opposite: kingmaking by noble coalitions, not orderly primogeniture.
+- **C.** Incorrect - the Marathas gained a fiscal settlement (chauth/sardeshmukhi) around this time, not territorial annexation of Delhi.
+- **D.** Incorrect - Nadir Shah's invasion came twenty years later, in 1739.
 
-- A. Only legal petitions to Delhi.
+**Trap:** Do not read Farrukhsiyar's fate as evidence of restored orderly succession - it demonstrates the opposite, that the throne was a contested prize.
 
-- B. Passive non-compliance and revenue arrears to organised regional assertion of autonomy.
-
-- C. Only violent rebellion.
-
-- D. Total submission to total independence with nothing in between.
+#### Q30.
 
 **Answer: B.**
-**Explanation:** The spectrum captures graded, locally variable responses to extraction pressure, not a single uniform type of resistance.
 
-#### Q31. On the centre-region spectrum, Bengal, Awadh and Hyderabad are best placed:
+**Option-wise explanations:**
+- **A.** Incorrect - Panipat III occurred in 1761, decades after the 1713 jizyah abolition.
+- **B.** Correct - both the jizyah abolition (1713) and the Maratha fiscal settlement (formalised in 1719 under continuing Sayyid dominance) are cited together as evidence the Sayyid period was not uniformly destructive.
+- **C.** Incorrect - Nadir Shah's raid came in 1739, well after the Sayyid period ended in 1720.
+- **D.** Incorrect - Hyderabad's founding followed Nizam-ul-Mulk's 1724 Shakar Kheda victory, after the Sayyid wizarat had already fallen in 1720.
 
-- A. At the closely-controlled, frequently-rotated-governor end.
+**Trap:** Do not pair the 1713 jizyah abolition with a later, unrelated event - the topic pairs it specifically with the Maratha chauth-sardeshmukhi settlement to show the Sayyid period's mixed record.
 
-- B. Entirely outside any Mughal-derived legitimacy framework.
-
-- C. At the middle-to-far end, retaining formal deference while exercising substantial real autonomy.
-
-- D. At a point identical in mechanism to each other.
+#### Q31.
 
 **Answer: C.**
-**Explanation:** All three continued to seek nominal Mughal confirmation while running their own administration, revenue and military affairs.
 
-#### Q32. What single feature unites Bengal, Awadh and Hyderabad as "successor states" despite their different mechanisms?
+**Option-wise explanations:**
+- **A.** Incorrect - this is precisely what the three states did not do; they retained a nominal link.
+- **B.** Incorrect - the point is about seeking formal confirmation of authority, not about revenue-remittance practice.
+- **C.** Correct - this is the specific continuing link the centre-region spectrum highlights even as real power devolved to the regions.
+- **D.** Incorrect - the states each built and controlled their own military forces; only nominal legitimacy, not military command, remained linked to Delhi.
 
-- A. All three abolished jizyah independently.
+**Trap:** Do not claim the three states rejected all formal Mughal linkage - the spectrum's whole point is that nominal confirmation-seeking persisted alongside devolved real power.
 
-- B. All three fought at Panipat III.
-
-- C. All three were founded through open armed rebellion against Mughal forces.
-
-- D. Each converted real administrative and fiscal control into durable regional power while retaining formal Mughal legitimacy for as long as useful.
+#### Q32.
 
 **Answer: D.**
-**Explanation:** This shared outcome, achieved through different specific mechanisms, is what makes "successor state" the accurate term rather than "rebel state."
 
-#### Q33. Which of the following successor-state founders is correctly matched with his province?
+**Option-wise explanations:**
+- **A.** Incorrect - the fiscal-administrative (jagirdari) strand is one legitimate contributing input in the convergence, not the framing's rejected target.
+- **B.** Incorrect - this combination is exactly what the convergence framing affirms, not rejects.
+- **C.** Incorrect - regional fragmentation is affirmed as a genuine strand in the convergence, not rejected.
+- **D.** Correct - the source book explicitly frames decline as a convergence of causes and explicitly rejects reducing it to Aurangzeb's personal religious policy alone.
 
-- A. Murshid Quli Khan - Bengal.
+**Trap:** Do not mistake one of the convergence framing's affirmed contributing strands for the single-cause explanation it explicitly rejects.
 
-- B. Saadat Khan - Hyderabad.
-
-- C. Nizam-ul-Mulk - Awadh.
-
-- D. Alivardi Khan - Awadh.
+#### Q33.
 
 **Answer: A.**
-**Explanation:** Murshid Quli Khan is Bengal's founding Nawab-Diwan figure; the other pairings mismatch province and founder.
 
-#### Q34. Alivardi Khan's Bengal faced repeated incursions in the 1740s from:
+**Option-wise explanations:**
+- **A.** The two brief reigns belong between Farrukhsiyar's overthrow and Muhammad Shah.
+- **B.** These reigns followed the events of 1707-19, not preceded them.
+- **C.** Nadir Shah's 1739 raid came during Muhammad Shah, not Shah Jahan II.
+- **D.** Muhammad Shah ruled after, not before, Jahandar Shah.
 
-- A. Ahmad Shah Abdali's forces.
+**Trap:** Short-lived monarchs cannot be omitted when tracing who controlled succession.
 
-- B. Maratha (bargi) raiders.
-
-- C. Sikh misls.
-
-- D. Nadir Shah's army.
+#### Q34.
 
 **Answer: B.**
-**Explanation:** Alivardi Khan substantially contained repeated Maratha bargi incursions through negotiation and military resistance without losing Bengal.
 
-#### Q35. Awadh's autonomy under Saadat Khan rested chiefly on:
+**Option-wise explanations:**
+- **A.** Assessment and actual collection remain separate even when an official seal survives.
+- **B.** Political devolution could coexist with continuing symbolic and administrative vocabulary.
+- **C.** The fall of the Sayyids did not restore uncontested central rule.
+- **D.** Local landed claims were negotiated and could resist imperial appointments.
 
-- A. A revenue-farming settlement copied directly from Bengal.
+**Trap:** Formal allegiance is not equivalent to provincial obedience.
 
-- B. Direct annexation of Mughal crown land.
-
-- C. Negotiated accommodation with local zamindars and taluqdars.
-
-- D. Naval control of the Ganga.
+#### Q35.
 
 **Answer: C.**
-**Explanation:** Accommodation, not revenue-farming, is Awadh's distinguishing mechanism relative to Bengal.
 
-#### Q36. Awadh's Nawab Shuja-ud-Daulah is directly linked to this topic's narrative through his:
+**Option-wise explanations:**
+- **A.** The named founders and state mechanisms are mismatched.
+- **B.** These place names and actors belong to different political histories.
+- **C.** The comparison distinguishes routes to autonomy while preserving Mughal-era continuity.
+- **D.** Regional powers often retained titles and forms rather than repudiating them.
 
-- A. Founding of the Sikh misls.
+**Trap:** Autonomy took several institutional paths; do not demand one model for all provinces.
 
-- B. Abolition of jizyah.
-
-- C. Victory at Shakar Kheda.
-
-- D. Role fighting alongside Abdali's coalition at the Third Battle of Panipat, 1761.
+#### Q36.
 
 **Answer: D.**
-**Explanation:** Shuja-ud-Daulah's frontier alignment with Abdali at Panipat directly connects Awadh's history to this topic's closing event.
 
-#### Q37. Nizam-ul-Mulk (Chin Qilich Khan, later Asaf Jah) held which senior Mughal office before his Deccan withdrawal?
+**Option-wise explanations:**
+- **A.** The Sikh formations were not an empire-wide single imperial regiment.
+- **B.** A Punjabi armed confederative development is not the Maratha royal council.
+- **C.** The source explicitly describes later reorganisation and growth.
+- **D.** The chronology and plural local bases matter more than a false instant transition.
 
-- A. Wazir under Muhammad Shah.
+**Trap:** Do not collapse successive Sikh organisational phases into one event.
 
-- B. Commander at Panipat.
-
-- C. Diwan of Bengal.
-
-- D. Subedar of Awadh.
+#### Q37.
 
 **Answer: A.**
-**Explanation:** His prior standing as a top-ranking central noble and wazir is directly relevant to Part IV's factionalism analysis before his Deccan withdrawal.
 
-#### Q38. Succession disputes among Asaf Jah's sons after his death eventually drew in:
+**Option-wise explanations:**
+- **A.** Unsettled or awaiting assignment resources need not translate into viable receipts.
+- **B.** Quantity on paper does not settle productivity or competition for suitable assignments.
+- **C.** Available/awaiting resources, assessed value and collected sums are distinct.
+- **D.** Fiscal strain did not imply universal cessation of agriculture.
 
-- A. The Sikh misls directly.
+**Trap:** Paper availability, viable assignment and actual yield are three different things.
 
-- B. French and British trading companies through the Carnatic Wars.
-
-- C. Nadir Shah's forces.
-
-- D. The Jat state of Bharatpur.
-
-**Answer: B.**
-**Explanation:** This development belongs to Modern History and is named here only as a bounded forward pointer, not analysed in depth.
-
-#### Q39. Suraj Mal's Bharatpur state was built on which social base?
-
-- A. A Sikh confederacy (misl) base.
-
-- B. A maritime trading base.
-
-- C. An agrarian, peasant-rooted Jat zamindari base around Agra-Mathura.
-
-- D. A Deccani-Persianate courtly base.
-
-**Answer: C.**
-**Explanation:** The Jat formation's base is agrarian and locally rooted, distinct from the Sikh misls' confederacy structure or Hyderabad's courtly base.
-
-#### Q40. Banda Bahadur's armed rebellion against Mughal authority lasted approximately:
-
-- A. 1719-1720.
-
-- B. 1761-1770.
-
-- C. 1739-1748.
-
-- D. 1708-1715, ending with his capture and execution in 1716.
-
-**Answer: D.**
-**Explanation:** Banda Bahadur's rebellion and its suppression is the first major Sikh armed challenge in this topic's window, preceding the later rise of the misls.
-
-#### Q41. The Sikh misls that consolidated power across Punjab in the mid-eighteenth century were best described as:
-
-- A. Armed confederacies.
-
-- B. A single unified monarchy from the outset.
-
-- C. A department of the Mughal wizarat.
-
-- D. A revenue-farming arrangement.
-
-**Answer: A.**
-**Explanation:** The misls' confederate structure, later consolidated by Ranjit Singh in the early nineteenth century, is outside this topic's own bounded window.
-
-#### Q42. Maratha chauth and sardeshmukhi claims over Mughal-assessed revenue are best described as:
-
-- A. Exclusively confined to Bengal.
-
-- B. Fiscal claims layered over a continuing Mughal-derived revenue assessment.
-
-- C. A one-time payment with no recurring basis.
-
-- D. A complete replacement of Mughal administration.
+#### Q38.
 
 **Answer: B.**
-**Explanation:** "Layered claim," not "replacement," is the precise description this topic requires for chauth and sardeshmukhi.
 
-#### Q43. By the mid-eighteenth century, Maratha fiscal and military reach extended as far as:
+**Option-wise explanations:**
+- **A.** The attacks occurred in different phases; neither timing is supported.
+- **B.** The raid and the later repeated frontier contests had distinct chronologies and political effects.
+- **C.** Nadir did not stay to annex and govern India; Abdali's interventions were not uniform direct rule.
+- **D.** The 1739 event occurred during Muhammad Shah after provincial autonomy had grown.
 
-- A. Only Punjab.
+**Trap:** A single invasion is not the original cause of an earlier structural crisis.
 
-- B. Only the immediate Deccan.
-
-- C. Bengal (the 1740s bargi raids), Malwa, Gujarat and the Gangetic north.
-
-- D. Only Hyderabad's territory.
-
-**Answer: C.**
-**Explanation:** This wide reach explains how the Marathas came into direct confrontation with Abdali's coalition at Panipat in 1761.
-
-#### Q44. At the Battle of Karnal (1739), Muhammad Shah's army:
-
-- A. Did not engage Nadir Shah at all.
-
-- B. Was smaller than Nadir Shah's force but won.
-
-- C. Was commanded personally by the Nizam.
-
-- D. Was considerably larger than Nadir Shah's force yet was decisively defeated.
-
-**Answer: D.**
-**Explanation:** A larger force's defeat at Karnal is stronger evidence of military hollowness than a bare comparison of army sizes.
-
-#### Q45. Treasure traditionally said to have been carried off by Nadir Shah in 1739 includes:
-
-- A. The Peacock Throne and the Koh-i-Noor diamond.
-
-- B. The Jagat Seth ledgers.
-
-- C. The Ashtapradhan records.
-
-- D. The Hazarduari Palace collection.
-
-**Answer: A.**
-**Explanation:** These are the traditionally cited items of plunder; a precise answer avoids asserting an exact, unverified total value for the wider indemnity.
-
-#### Q46. Nadir Shah's 1739 occupation of Delhi should be distinguished from annexation because:
-
-- A. He formally merged the Mughal and Persian thrones.
-
-- B. He withdrew to Persia the same year without attempting to hold Mughal territory.
-
-- C. He installed a permanent Persian governor at Delhi.
-
-- D. He remained in India until 1748.
-
-**Answer: B.**
-**Explanation:** The raid-versus-conquest distinction is essential; Nadir Shah plundered and left, unlike a would-be annexing power.
-
-#### Q47. Ahmad Shah Abdali (Durrani) had earlier served as:
-
-- A. A Mughal wazir.
-
-- B. Bengal's Diwan.
-
-- C. A commander under Nadir Shah before founding his own Afghan kingdom.
-
-- D. A Maratha sardar.
+#### Q39.
 
 **Answer: C.**
-**Explanation:** Abdali's prior service under Nadir Shah connects the two external-shock episodes in this topic's Part VII.
 
-#### Q48. Abdali's invasions into north-western India recurred across approximately which span?
+**Option-wise explanations:**
+- **A.** The Mughal emperor was not the principal opposing belligerent.
+- **B.** Both the Mughal-command and total-collapse claims fail.
+- **C.** The result checked north Indian Peshwa ambitions without annihilating Maratha power.
+- **D.** The second and third statements are not supported.
 
-- A. 1707-1713.
+**Trap:** A checked bid for supremacy is not extinction of a regional confederacy.
 
-- B. 1757-1765.
-
-- C. 1719-1724.
-
-- D. 1748-1761.
-
-**Answer: D.**
-**Explanation:** This roughly thirteen-year span of repeated invasions shows a persistently contested, not a passively vacant, frontier.
-
-#### Q49. At the Third Battle of Panipat, the Maratha army was commanded by:
-
-- A. Sadashivrao Bhau, accompanied by the Peshwa's heir Vishwasrao.
-
-- B. Suraj Mal.
-
-- C. Madhavrao I.
-
-- D. Najib-ud-Daulah.
-
-**Answer: A.**
-**Explanation:** Both were prominent casualties of the battle, making the defeat a dynastic as well as military crisis.
-
-#### Q50. On Abdali's side at the Third Battle of Panipat fought:
-
-- A. The Sikh misls.
-
-- B. Najib-ud-Daulah's Rohilla Afghans and Awadh's Shuja-ud-Daulah.
-
-- C. Alivardi Khan and the Bengal Nawabi.
-
-- D. Suraj Mal's Jat forces.
-
-**Answer: B.**
-**Explanation:** Panipat III was a multi-actor coalition contest, not simply "Marathas versus Afghans."
-
-#### Q51. The Maratha confederacy's wider power after the 1761 defeat at Panipat was:
-
-- A. Never seriously affected at all.
-
-- B. Restored immediately through a renewed advance into the Punjab.
-
-- C. Substantially restored within about a decade under Peshwa Madhavrao I.
-
-- D. Permanently ended.
-
-**Answer: C.**
-**Explanation:** The recovery was chiefly Deccan-, Malwa- and central-India-centred, not a return to the same Punjab position as before.
-
-#### Q52. This topic's central thesis about the eighteenth century is that:
-
-- A. Political fragmentation caused total, uniform economic and cultural collapse.
-
-- B. No political fragmentation occurred at all.
-
-- C. Economic and cultural life collapsed before political fragmentation began.
-
-- D. Political fragmentation and considerable economic-cultural continuity ran side by side.
+#### Q40.
 
 **Answer: D.**
-**Explanation:** This qualified, non-uniform thesis is drawn from the source material's own historiography ladder and evidenced in subtopics 21-22.
 
-#### Q53. Which institution is most frequently cited as evidence of continuing eighteenth-century banking and credit activity?
+**Option-wise explanations:**
+- **A.** Later victory cannot be projected backward into earlier records.
+- **B.** Company records privilege company transactions and cannot stand for all rural society.
+- **C.** Regional institutions could thrive despite imperial contraction.
+- **D.** Cross-genre comparison preserves contingency and the topic boundary.
 
-- A. The Jagat Seth firm in Bengal.
-
-- B. The Sayyid wizarat.
-
-- C. The Ashtapradhan.
-
-- D. The Nizamat treasury alone.
-
-**Answer: A.**
-**Explanation:** Jagat Seth's continued, expanding operation through political fragmentation is a specific, citable continuity example.
-
-#### Q54. Continuity evidence for the eighteenth-century economy, beyond banking, includes:
-
-- A. Total abandonment of maritime trade.
-
-- B. Continuing craft production and urban centres under regional-court patronage.
-
-- C. Complete cessation of all trade networks.
-
-- D. Uniform collapse of all regional urban centres.
-
-**Answer: B.**
-**Explanation:** Regional courts sustained craft and urban economic activity even as central Mughal political authority fragmented.
-
-#### Q55. Which regional centre is cited in this topic as a major example of continuing eighteenth-century cultural patronage?
-
-- A. Karnal.
-
-- B. Shakar Kheda.
-
-- C. Awadh's Lucknow establishment.
-
-- D. Kala Amb.
-
-**Answer: C.**
-**Explanation:** Lucknow's literary, architectural and artistic patronage is the topic's specific named example of regional-court cultural continuity.
-
-#### Q56. Alongside Awadh's Lucknow establishment, this topic names which other court as a centre of continuing regional cultural patronage?
-
-- A. Bharatpur's Jat court.
-
-- B. The Sikh misls' court.
-
-- C. The Sayyid Brothers' household.
-
-- D. Hyderabad's Deccani court.
-
-**Answer: D.**
-**Explanation:** Hyderabad's Deccani court is the topic's second named example, alongside Lucknow, of regional cultural continuity.
-
-#### Q57. The non-inevitability argument in this topic holds that:
-
-- A. Mughal fragmentation created a genuinely open, multi-polar order with more than one plausible regional outcome.
-
-- B. Only the Marathas could plausibly have succeeded the Mughals.
-
-- C. No successor power was ever strong enough to matter.
-
-- D. British rule was clearly destined from 1707 onward.
-
-**Answer: A.**
-**Explanation:** This is the specific, qualified claim this topic makes about non-inevitability, avoiding both teleology and understating British contingency.
-
-#### Q58. The specific institutional and military innovations that produced British paramountcy are:
-
-- A. Irrelevant to any discussion of non-inevitability.
-
-- B. Owned in detail by Modern History Topics 01, 02 and 05, and only named here as a bounded bridge.
-
-- C. Identical to the Mughal jagirdari system.
-
-- D. Fully explained within this topic's own 1707-1761 evidence.
-
-**Answer: B.**
-**Explanation:** Respecting this ownership boundary is what keeps this topic's non-inevitability argument honest rather than overreaching into material it does not teach in depth.
-
-#### Q59. "Teleological framing," as this topic uses the term, refers to:
-
-- A. A purely chronological list of dates.
-
-- B. A historiography strand based on jama-hasil evidence.
-
-- C. Presenting events as steps toward a foreordained outcome already known from hindsight.
-
-- D. A visual showing successor-state comparison.
-
-**Answer: C.**
-**Explanation:** This topic explicitly names and rejects teleological framing as one of two wrong framings in decline answers.
-
-#### Q60. This topic explicitly rejects monocausal-religious framing because:
-
-- A. Aurangzeb's reign is outside this topic's scope entirely.
-
-- B. Religious policy is entirely irrelevant to Mughal history.
-
-- C. Jizyah was never reimposed.
-
-- D. A converging, multi-strand structural crisis cannot be reduced to one ruler's personal religious policy as a sufficient explanation.
-
-**Answer: D.**
-**Explanation:** The fiscal-administrative, political and external-shock evidence across Parts II-VII does not support a religious-policy-only account.
-
-#### Q61. Detailed institutional treatment of the Mughal provincial hierarchy (Suba-Sarkar-Pargana) is owned by:
-
-- A. Medieval Topic 16.
-
-- B. Modern History Topic 02.
-
-- C. Modern History Topic 05.
-
-- D. Medieval Topic 24.
-
-**Answer: A.**
-**Explanation:** Topic 16 (State and Government under Akbar) owns this administrative-hierarchy material; this topic only references the hierarchy where its own argument requires it.
-
-#### Q62. The Mughal empire's own economy, society and cultural patronage at its institutional peak is owned in full depth by:
-
-- A. Modern History Topic 05.
-
-- B. Medieval Topic 24.
-
-- C. Modern History Topic 01.
-
-- D. Medieval Topic 16.
-
-**Answer: B.**
-**Explanation:** This topic summarises only eighteenth-century continuity evidence (subtopics 21-22); Topic 24 owns the empire's peak-era economy and culture in depth.
-
-#### Q63. "Indian States and Society" on the eve of colonialism, examined from a forward-looking Modern History vantage, is owned by:
-
-- A. Modern History Topic 05.
-
-- B. Medieval Topic 22.
-
-- C. Modern History Topic 02.
-
-- D. Medieval Topic 23.
-
-**Answer: C.**
-**Explanation:** Topic 02 examines the same successor-state material this topic teaches, but from Modern History's own forward-looking vantage.
-
-#### Q64. The military-fiscal explanation for East India Company victories over larger Indian armies is owned in detail by:
-
-- A. Medieval Topic 23.
-
-- B. Modern History Topic 02.
-
-- C. Medieval Topic 16.
-
-- D. Modern History Topic 05.
-
-**Answer: D.**
-**Explanation:** Topic 05 (British Territorial Expansion) owns this explanation in depth; this topic names it only as a forward bridge for the non-inevitability theme.
-
-### Remedial MCQs (16; key rotation A -> C -> B -> D repeated four times)
-
-Correct options are deliberately rotated by actual option placement, not by relabeling: A -> C -> B -> D through the full set. Read the explanation after attempting each item.
-
-![Visual 28 repeat: two wrong framings, previewed before remedial practice](assets/28_28_teleology_caution.png)
-
-*Visual 28 repeat: two wrong framings, previewed before remedial practice. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
-
-#### Q65. Which statement correctly avoids the "instant collapse" trap?
-
-- A. The empire's real power devolved unevenly across 1707-1761 while a recognised emperor still sat at Delhi until 1857.
-
-- B. There was no meaningful change in Mughal authority between 1707 and 1761.
-
-- C. The Mughal empire legally ended the day Aurangzeb died in 1707.
-
-- D. Decline happened entirely in a single year, 1739.
-
-**Answer: A.**
-**Explanation:** Compressing 150 years into one dramatic moment is a periodisation error this topic explicitly corrects.
-
-#### Q66. Which statement correctly avoids the "monocausal religious" trap?
-
-- A. Aurangzeb's religious policy alone fully explains Mughal decline.
-
-- B. Decline resulted from a converging fiscal, political, military, social and external crisis, of which religious policy is not treated as the sufficient explanation.
-
-- C. Religious policy is entirely absent from any credible account of this period.
-
-- D. Jizyah's reimposition alone caused the empire's fall.
-
-**Answer: B.**
-**Explanation:** A single-cause religious account cannot support the fiscal-administrative and political evidence examined across Parts II-IV.
-
-#### Q67. Which statement correctly distinguishes jama from hasil?
-
-- A. Jama and hasil are interchangeable terms for the same figure.
-
-- B. Jama refers only to Bengal's revenue-farming settlement.
-
-- C. Jama is the assessed/paper revenue figure, while hasil is the revenue actually collected, which could fall short of it.
-
-- D. Hasil is always larger than jama.
-
-**Answer: C.**
-**Explanation:** Confusing these two terms undermines any attempt to explain the jagirdari crisis mechanically.
-
-#### Q68. Which statement correctly describes Maratha chauth and sardeshmukhi claims?
-
-- A. They abolished all Mughal revenue assessment in the Deccan.
-
-- B. They were purely religious donations.
-
-- C. They applied only after 1761.
-
-- D. They were fiscal claims layered over a continuing Mughal-derived revenue base, not a wholesale replacement of Mughal administration.
-
-**Answer: D.**
-**Explanation:** "Marathas replaced the Mughals in the Deccan" overstates a layered fiscal-claim relationship as a total administrative takeover.
-
-#### Q69. Which statement correctly frames zamindar and peasant resistance to extraction?
-
-- A. It is best read as a structural response to extraction pressure created by the jagirdari feedback loop.
-
-- B. It is simply lawlessness with no connection to fiscal pressure.
-
-- C. It occurred only in Bengal.
-
-- D. It disproves the existence of any jagirdari crisis.
-
-**Answer: A.**
-**Explanation:** Labelling this resistance mere "lawlessness" erases its documented structural origin.
-
-#### Q70. Which statement correctly describes Nadir Shah's 1739 invasion?
-
-- A. It was launched jointly with Ahmad Shah Abdali.
-
-- B. It was a raid for plunder and prestige, with withdrawal to Persia the same year.
-
-- C. It merged the Persian and Mughal thrones.
-
-- D. It was an attempted permanent annexation of Mughal territory.
-
-**Answer: B.**
-**Explanation:** Treating the invasion as a conquest attempt confuses a raid's severe fiscal shock with an intent to annex and hold territory.
-
-#### Q71. Which statement correctly frames the Third Battle of Panipat's long-term significance for the Marathas?
-
-- A. It ended Maratha power permanently.
-
-- B. It transferred Maratha power directly to the British.
-
-- C. It was a serious check with heavy losses, after which wider Maratha power was substantially restored within about a decade under Madhavrao I.
-
-- D. It had no lasting effect of any kind on Maratha power.
-
-**Answer: C.**
-**Explanation:** "Panipat ended the Marathas" is a common overstatement corrected by the documented post-1761 recovery.
-
-#### Q72. Which statement correctly reconciles Mughal nominal survival to 1857 with the "decline" argument?
-
-- A. The empire's formal survival means all provinces remained centrally administered until 1857.
-
-- B. Nominal survival to 1857 proves decline never really happened.
-
-- C. Nominal survival is proof that Nadir Shah's invasion had no consequences.
-
-- D. Formal survival (khutba, sikka, a recognised emperor) coexisted with substantially devolved real administrative and fiscal power - the two are not contradictory.
-
-**Answer: D.**
-**Explanation:** Treating nominal 1857 survival as disproving "decline" ignores the symbolic-versus-real authority distinction this topic establishes.
-
-#### Q73. Which statement correctly distinguishes Bengal's mechanism from Awadh's?
-
-- A. Bengal rested on revenue-farming (ijaradari) under Murshid Quli Khan, while Awadh rested on accommodation with zamindars and taluqdars under Saadat Khan - two distinct mechanisms producing broadly comparable autonomy.
-
-- B. Bengal and Awadh used an identical revenue-farming mechanism.
-
-- C. Awadh's mechanism was militarily imposed annexation of Bengal.
-
-- D. Neither state achieved any real autonomy from Delhi.
-
-**Answer: A.**
-**Explanation:** Conflating the two provinces' mechanisms loses the comparative point this topic's Part V is built to demonstrate.
-
-#### Q74. Which statement correctly frames the non-inevitability of British rule?
-
-- A. No regional power besides the British could ever have consolidated power in this period.
-
-- B. Mughal fragmentation created an open, multi-polar regional order; British paramountcy required its own contingent institutional and military sequence, owned by Modern History.
-
-- C. Mughal fragmentation alone predetermined British paramountcy with no other possible outcome.
-
-- D. British rule began immediately in 1707.
-
-**Answer: B.**
-**Explanation:** Assuming automatic inevitability is the teleological trap this topic's subtopic 23 explicitly rejects.
-
-#### Q75. Which statement correctly reflects this topic's PYQ-ownership discipline?
-
-- A. PYQ ownership does not matter as long as the content is thematically close.
-
-- B. Any PYQ mentioning the eighteenth century may be freely claimed as "this topic's own," regardless of the repository's routing ledgers.
-
-- C. A PYQ correctly routed to another topic by the repository's ledgers should be used here, if at all, only as a clearly disclaimed adjacent/bridge item naming its true owner.
-
-- D. This topic should invent a plausible-sounding PYQ if none is verified.
-
-**Answer: C.**
-**Explanation:** Misrouting a PYQ to the wrong "owner" topic violates the source-discipline this package is built on.
-
-#### Q76. Which statement correctly reflects this topic's answer-key discipline?
-
-- A. An unverified answer should simply be omitted rather than attempted.
-
-- B. Official answer keys may be approximated from memory without verification.
-
-- C. Any plausible-sounding answer may be presented as officially confirmed.
-
-- D. An answer not confirmed by a locally verified official key must be labelled INFERRED ANSWER - NOT OFFICIALLY VERIFIED, with confidence and elimination reasoning given.
-
-**Answer: D.**
-**Explanation:** Inventing or silently guessing an official key would violate this package's explicit verification mandate.
-
-#### Q77. Which statement correctly frames eighteenth-century economic and cultural continuity evidence?
-
-- A. Continuity evidence (banking, trade, regional-court patronage) shows fragmentation and continuity ran side by side; it does not mean political decline "never happened."
-
-- B. Continuity evidence applies only to Delhi itself.
-
-- C. Continuity evidence contradicts the jagirdari-crisis argument and should replace it.
-
-- D. Continuity evidence proves that no political fragmentation occurred anywhere in this period.
-
-**Answer: A.**
-**Explanation:** Overreading continuity evidence to deny any decline at all is as imprecise as ignoring it altogether.
-
-#### Q78. Which statement correctly balances the Sayyid Brothers' historical role?
-
-- A. They had no role in Farrukhsiyar's rise or fall.
-
-- B. Alongside their kingmaking and Farrukhsiyar's killing, they also abolished jizyah in 1713 and negotiated the constructive 1719 Maratha settlement - a mixed record, not a simple villain narrative.
-
-- C. They should be presented only as villains who destabilised the empire, with no constructive acts.
-
-- D. They ruled as emperors in their own name.
-
-**Answer: B.**
-**Explanation:** A one-sided "villain" framing of the Sayyid Brothers omits documented constructive administrative acts.
-
-#### Q79. Which statement correctly bounds this topic's treatment of the Marathas?
-
-- A. This topic should ignore the Marathas entirely since Topic 23 owns them.
-
-- B. This topic should describe the Maratha confederacy's Peshwa-led structure in full institutional depth.
-
-- C. This topic gives only a bounded eighteenth-century political snapshot (fiscal claims, geographic reach, Panipat), leaving Shivaji-era institutional detail to Topic 23.
-
-- D. This topic should re-teach Shivaji's Ashtapradhan and full institutional structure in detail, since Marathas are central to the eighteenth century.
-
-**Answer: C.**
-**Explanation:** Re-teaching Topic 23's owned material would blur this topic's own analytical boundary.
-
-#### Q80. Which statement correctly bounds this topic's own chronological scope?
-
-- A. This topic's narrative should extend in full analytical depth through Buxar (1764) and the Diwani (1765).
-
-- B. This topic's scope is identical to Modern History Topic 05's scope.
-
-- C. This topic's scope begins only after 1761.
-
-- D. This topic ends its own narrative at the Third Battle of Panipat (1761), naming Buxar and the Diwani only as a bounded forward hand-off to Modern History.
-
-**Answer: D.**
-**Explanation:** Extending this topic's own depth of analysis past 1761 would encroach on Modern History's owned material.
-
-### Semantic-completeness coverage drills — Medieval Topic 25
-
-| Drill | Minimum route | Fatal trap |
-|---|---|---|
-| Periodise | 1707-1761 core; 1687-1707 prehistory; post-1761 bridge | collapse in one date |
-| Court | emperor-by-emperor + wizarat/noble coalition | weak rulers alone |
-| Jagirdari | paibaqi/be-jagiri/jama-hasil/transfer/local resistance | no jagirs existed |
-| Aurangzeb | choices + inherited structures | religion/one ruler alone |
-| Successor states | Bengal/Awadh/Hyderabad mechanisms + nominal continuity | declarations of independence |
-| Regional powers | Jats/Sikhs/Rohillas separately | one anti-Mughal bloc |
-| Marathas | Shahu/Peshwa/confederate houses + fiscal claims | uniform direct empire |
-| Nadir | Karnal/Delhi shock and exposure | conquest/structural origin |
-| Abdali/Panipat | invasions + coalition/logistics | Mughals vs Marathas/British result |
-| Economy/culture | regional continuity plus disruption | dark age |
-| Historiography | Sarkar/Chandra/agrarian/regional synthesis | supersession ladder |
-| Colonial bridge | fragmentation permissive, not sufficient | British inevitability |
-
-**PYQ:** zero direct verified Topic-25 CSE routes, 2018-2026; Mains has no key.
+**Trap:** A later outcome is not a cause of every earlier event.
 
 ## PYQS AND ANSWER PRACTICE
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q75. Which statement correctly reflects this topic's PYQ-ownership discipline?”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
-
-**How to improve this answer:** For “Q75. Which statement correctly reflects this topic's PYQ-ownership discipline?”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 ### PART X - SOURCES, PYQ AUDIT AND PRACTICE
 
@@ -1109,7 +784,11 @@ Correct options are deliberately rotated by actual option placement, not by rela
 
 **Audit result:** `PYQ-INTEGRATION-AUDIT-2018-2023.md`, `PYQ-INTEGRATION-AUDIT-2024-2025.md` and `PYQ-INTEGRATION-AUDIT-2026.md` each explicitly list Medieval Topic 25 basic and advanced files as owning no routed question across their respective windows. No Prelims or Mains question in any checked ledger is routed to Topic 25.
 
-**Workbook/session policy consequence:** because this topic owns zero verified PYQs, this package does not fabricate a "Topic 25 PYQ list." Instead, three thematically adjacent items - each verified for exact wording against reliable sources, and each explicitly routed elsewhere by this repository's own ledgers - are presented below strictly as bounded bridge illustrations. Their solved treatment appears later in this Part, clearly labelled with true ownership in every instance.
+**2026 provenance, stated separately:** `_PYQ-ROUTING-PRELIMS-2026.md` (the official 2026 Set-A scan's own routing record) lists zero Medieval-Indian-History rows of any kind, so Topic 25 owns no 2026 Prelims Set-A question. The governing 2026 Mains ledger `_PYQ-GS1-2026.md` lists no Topic-25-routed 2026 Mains GS-I item; its own Q11 ("Vijayanagara architecture exemplifies the amalgamation of past traditions with contemporary practices") is explicitly routed to Indian Art & Culture Topic 03 (Temple Architecture and Chandella-Khajuraho), not to Topic 25. So Topic 25 owns no 2026 Mains GS-I question either. These two absences are independent findings from separate ledger types, and both ledgers agree with each other.
+
+**No other medieval Mains item is borrowed:** the only Vijayanagara-adjacent Mains item anywhere near this audit's scope is the 2026 ledger's Q11, on Vijayanagara **architecture** (not Vijayanagara-Bahmani political/administrative history) - it is routed by `_PYQ-GS1-2026.md` to **Indian Art & Culture Topic 03**, not to Medieval History Topic 09 and not to Topic 25, so it falls outside this topic's 1707-1761 window and is not used as a bridge illustration here. The single Mains item this package does use as a bridge (Mains 1, below) is the verified 2022 Mains GS-I Company-armies question, owned by Modern History Topic 05, not by any medieval topic.
+
+**Workbook/session policy consequence:** because this topic owns zero verified PYQs, this package does not fabricate a "Topic 25 PYQ list." Instead, three thematically adjacent items - each verified for exact wording against reliable sources, and each explicitly routed elsewhere by this repository's own ledgers - are presented below strictly as bounded bridge illustrations. Only one of the three (the 2022 Mains GS-I Company-armies item) receives solved treatment in this workbook; the other two are named only as one-line boundary reminders and are not worked as solved questions here.
 
 **Adjacent evidence is not substitution:** an adjacent PYQ illustrates a related concept; it is never claimed as "this topic's own question," and a candidate should not cite it in an answer as if Topic 25 were its subject. The three items are:
 
@@ -1119,37 +798,37 @@ Correct options are deliberately rotated by actual option placement, not by rela
 
 No further PYQ is claimed for this topic. Where this package's own original MCQs and Mains questions appear below, they are clearly original practice material, not represented as previous UPSC questions.
 
-### Examiner-grade solved Mains practice (12 answers)
+### Examiner-grade solved Mains practice (1 verified adjacent PYQ + 6 original answers)
 
 ![Visual 31: answer spine -- 10-mark: structural decline in four moves](assets/31_31_answer_spine_10.png)
 
-*Visual 31: answer spine -- 10-mark: structural decline in four moves. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+*Visual 31: answer spine -- 10-mark: structural decline in four moves. Schematic maps are NOT TO SCALE where marked.*
 
 #### Mains 1 - 10 marks | 150 words
 
 **ADJACENT VERIFIED PYQ - not owned by Topic 25:** this is the repository's routing ledgers' own record of 2022 Mains GS-I Q2, owned by Modern History Topic 05 (British Territorial Expansion). It is reproduced here, with exact verified wording, only as a bounded forward-bridge illustration for this topic's non-inevitability theme; the solved answer below is original practice by this package, not an official UPSC model answer.
 
-**Question:** Why did the armies of the British East India company - mostly comprising of Indian soldiers - win consistently against the more numerous and better equipped armies of the then Indian rulers? Give reasons.
+**Question:** Why did the armies of the British East India Company - mostly comprising of Indian soldiers - win consistently against the more numerous and better equipped armies of the then Indian rulers? Give reasons.
 
 **Directive alignment:** Give reasons for a consistent pattern, without retelling any single battle narrative.
 
-**Introduction:** By the mid-to-late eighteenth century, Company armies staffed mainly by Indian sepoys repeatedly defeated larger, well-equipped forces of Indian successor states - a pattern this topic's own evidence helps explain only in its preconditions, since the specific military-fiscal mechanism is Modern History Topic 05's material.
+**Introduction:** By the mid-to-late eighteenth century, Company armies staffed mainly by Indian sepoys repeatedly defeated larger Indian successor-state forces - a pattern this topic can only explain via its preconditions, not the mechanism itself.
 
-**Claim - evidence - analysis:** First, the successor states this topic examines (Bengal, Awadh, Hyderabad) and the Maratha confederacy were regionally strong but mutually rivalrous, not a unified front - the multi-cornered frontier contest traced in Part VII (Nadir Shah, Abdali, Panipat) shows how thoroughly Indian powers were already contesting each other before the Company became a major land power. Second, standing local rivalries gave the Company openings to ally with one regional power against another, a diplomatic-military opportunity structure that Topic 25's own successor-state fragmentation (Part V) had already created.
+**Claim - evidence - analysis:** First, Bengal, Awadh, Hyderabad and the Marathas were regionally strong but rivalrous, not united - the Nadir Shah, Abdali and Panipat contests show Indian powers already fighting each other before the Company rose. Second, these rivalries let the Company ally with one power against another, an opportunity this topic's own fragmentation had created.
 
-**Qualification:** The Company's specific disciplined-infantry drill, artillery integration and revenue-funded standing army - the actual decisive military-fiscal mechanism - belongs to Modern History Topic 05 and is not re-derived here.
+**Qualification:** The Company's disciplined infantry, artillery and revenue-funded army - the actual mechanism - belongs to Topic 05, not here.
 
-**Verdict:** This topic's contribution is precondition, not mechanism: eighteenth-century regional fragmentation created the rivalrous, multi-polar landscape the Company could exploit; the winning military-fiscal method itself is Topic 05's material.
+**Verdict:** This topic supplies precondition, not mechanism: fragmentation created the rivalrous landscape the Company exploited; the winning method is Topic 05's material.
 
 **Why this earns marks:** It answers the "give reasons" directive from this topic's own bounded vantage, cites the precondition it can defensibly supply, and explicitly hands off the mechanism to its correct owner rather than overreaching.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why did the armies of the British East India company - mostly comprising of Indian soldiers…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This is a "give reasons" causal-explanation demand: it requires a mechanism-level answer to why the winning pattern is consistent across successor states, explicitly bounded to what this topic can supply versus what belongs to Topic 05.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer functions as a precondition-level supplement to Modern History Topic 05's own military-fiscal explanation; use it only to establish the pre-1757 regional landscape, never as a substitute for Topic 05's actual winning mechanism.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 150 words: one line naming the pattern, two sentences of named evidence on rivalrous successor states and the Company's alliance-exploitation, one explicit hand-off line to Topic 05's mechanism, and a closing one-line verdict.
 
-**How to improve this answer:** For “Why did the armies of the British East India company - mostly comprising of Indian soldiers…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name one additional specific Company alliance against a named successor state to sharpen the "opportunity structure" claim beyond a general statement of rivalry.
 
 #### Mains 2 - 10 marks | 150 words
 
@@ -1159,21 +838,21 @@ No further PYQ is claimed for this topic. Where this package's own original MCQs
 
 **Introduction:** The jagirdari crisis is best explained as a measurable fiscal mismatch, not a story about individual noble failings.
 
-**Claim - evidence - analysis:** Jama, the assessed revenue figure, frequently ran ahead of hasil, the revenue actually realised, because of local resistance, poor harvests, or an assignee's weak control. This gap widened as the Deccan campaigns swelled the mansabdari ranks with new claimants while damaging the very Deccan lands that might otherwise have supplied fresh paibaqi (reserve, assignable land). Facing be-jagiri, mansabdars extracted aggressively from short-tenure jagirs, discouraging investment and provoking the zamindar resistance that further widened the jama-hasil gap - a self-reinforcing feedback loop, not a one-off shortfall.
+**Claim - evidence - analysis:** Jama, the assessed revenue figure, frequently ran ahead of hasil, the revenue actually realised, because of local resistance, poor harvests, or an assignee's weak control. This gap widened as the Deccan campaigns swelled the mansabdari ranks while damaging the lands that might otherwise have supplied fresh paibaqi (reserve, assignable land). Facing be-jagiri, mansabdars extracted aggressively from short-tenure jagirs, discouraging investment and provoking zamindar resistance that further widened the gap - a self-reinforcing loop, not a one-off shortfall.
 
-**Qualification:** This is a structural-administrative account; it should be presented alongside, not as a replacement for, the political (noble factionalism) and external-shock (Nadir Shah, Abdali) strands that fed the same crisis.
+**Qualification:** This is a structural-administrative account; present it alongside, not as a replacement for, the political (noble factionalism) and external-shock (Nadir Shah, Abdali) strands feeding the same crisis.
 
 **Verdict:** The jama-hasil gap is the crisis's measurable core, and the feedback loop is what made it self-sustaining rather than self-correcting.
 
 **Why this earns marks:** It defines every technical term before using it, states the feedback mechanism explicitly, and avoids collapsing a structural argument into a moral one.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the jama-hasil gap and its structural role in the eighteenth-century jagirdari…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This definitional "explain" demand requires jama, hasil, be-jagiri and paibaqi to be used as distinct technical terms feeding one mechanism, not folded into a general narrative of "fiscal decline."
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer's jama-hasil mechanism is this topic's own core material and may be used directly, without any cross-topic hand-off, since jagirdari mechanics are wholly owned here.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 150 words: define jama and hasil in one line each, state the widening-gap mechanism in two sentences, and close with the be-jagiri feedback-loop verdict.
 
-**How to improve this answer:** For “Explain the jama-hasil gap and its structural role in the eighteenth-century jagirdari…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add one named illustrative instance of a jagir subjected to be-jagiri-driven aggressive extraction to move the answer from definition toward applied evidence.
 
 #### Mains 3 - 10 marks | 150 words
 
@@ -1181,57 +860,29 @@ No further PYQ is claimed for this topic. Where this package's own original MCQs
 
 **Directive alignment:** Distinguish "accelerant" from "origin" explicitly, rather than treating 1739 as decline's starting point.
 
-**Introduction:** By 1739 the jagirdari crisis and noble factionalism examined in Parts III-IV were already well advanced; Nadir Shah's raid intensified rather than initiated this structural weakness.
+**Introduction:** By 1739 the jagirdari crisis and noble factionalism were already well advanced; Nadir Shah's raid intensified rather than initiated this weakness.
 
-**Claim - evidence - analysis:** Nadir Shah's defeat of a considerably larger Mughal force at Karnal exposed a military hollowness that had built up over three decades of post-1707 factional competition for scarce resources, not a sudden new failure. His plunder of Delhi's treasury and the indemnity extracted created a severe, lasting fiscal shock that deepened the existing be-jagiri crisis by further reducing the resources available for jagir assignment, directly intensifying the very feedback loop described in subtopic 6.
+**Claim - evidence - analysis:** Nadir Shah's defeat of a substantially larger Mughal force at Karnal (exact comparative figures are not independently verifiable here) exposed a military hollowness built over three decades of post-1707 factional competition, not a sudden new failure. His plunder of Delhi's treasury and the indemnity extracted deepened the existing be-jagiri crisis by cutting resources available for jagir assignment, intensifying the same feedback loop.
 
-**Qualification:** Describing Nadir Shah's raid as decline's "cause" would wrongly compress thirty years of prior structural erosion into a single 1739 event; his invasion is best read as a stress test that revealed and worsened an existing condition.
+**Qualification:** Calling the raid decline's "cause" would wrongly compress thirty prior years of structural erosion into one 1739 event; it is a stress test that revealed and worsened an existing condition.
 
-**Verdict:** Nadir Shah's invasion accelerated and exposed a structural crisis already in motion; it was a severe shock to an already-weakened system, not the system's origin.
+**Verdict:** Nadir Shah's invasion accelerated and exposed a crisis already in motion; it was a severe shock to an already-weakened system, not the system's origin.
 
 **Why this earns marks:** It uses the Karnal evidence precisely, names the specific fiscal mechanism by which the raid worsened an existing crisis, and avoids the trap of treating 1739 as decline's starting point.
 
 ![Visual 32: answer spine -- 15-mark: three strands, monocausality rejected](assets/32_32_answer_spine_15.png)
 
-*Visual 32: answer spine -- 15-mark: three strands, monocausality rejected. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+*Visual 32: answer spine -- 15-mark: three strands, monocausality rejected. Schematic maps are NOT TO SCALE where marked.*
 
-**Demand decoding:** The directive **answer** requires a direct position on “In what ways was Nadir Shah's 1739 invasion an accelerant of Mughal decline rather than its…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This "in what ways" demand requires the accelerant-versus-origin distinction to be argued explicitly, using the Karnal evidence to show exposure of a pre-existing weakness rather than a fresh cause.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer's Karnal evidence and fiscal-shock mechanism are this topic's own material and may be used directly.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 150 words: one sentence placing decline before 1739, two sentences on the Karnal exposure and treasury/indemnity shock, and a closing sentence naming the be-jagiri feedback link.
 
-**How to improve this answer:** For “In what ways was Nadir Shah's 1739 invasion an accelerant of Mughal decline rather than its…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name the specific pattern of post-1707 factional competition more precisely to sharpen the "already in motion" claim.
 
 #### Mains 4 - 15 marks | 250 words
-
-**Question:** Examine the historiographical debate on the decline of the Mughal empire, distinguishing Jadunath Sarkar's, Satish Chandra's and regional/agrarian-focused perspectives.
-
-**Directive alignment:** Examine means weighing each strand's evidentiary basis and limits, not simply listing three names.
-
-**Introduction:** Mughal decline has been read through at least three overlapping historiographical strands, each resting on a distinct evidence type rather than a single agreed narrative.
-
-**The Sarkar strand:** Jadunath Sarkar's early-twentieth-century account emphasised Aurangzeb's personal responsibility, overextension and religious policy, drawing chiefly on court-chronicle and character-focused reading. Its strength is a detailed narrative account; its limit is an over-reliance on one ruler's personality to explain a multi-decade structural process.
-
-**The Chandra strand:** Satish Chandra's administrative-fiscal account, built from jama-hasil and jagir-transfer evidence, explains the jagirdari crisis - be-jagiri, short-tenure extraction, and the feedback loop connecting fiscal shortage to noble factionalism - as a structural mechanism independent of any one ruler's character. This is the source material's own central explanatory thread.
-
-**The regional/agrarian strand:** More recent historians (named in the source material as Alam and Subrahmanyam) draw on trade, credit and regional-court patronage evidence to argue that regional economies and cultures often continued or reorganised, cautioning against reading the eighteenth century only as uniform imperial collapse.
-
-**Qualification:** These strands should be read as overlapping emphases on a shared evidence base, not a ladder in which each later view simply cancels the one before it; a defensible answer names each strand's evidence type rather than picking one "winner."
-
-**Verdict:** A complete historiographical account uses Sarkar's narrative detail, Chandra's structural-fiscal mechanism, and the regional strand's continuity evidence together, each qualified by its own evidentiary basis.
-
-**Why this earns marks:** It names each strand's evidence type explicitly, avoids treating any strand as the sole truth, and ends with an integrative rather than a partisan verdict.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the historiographical debate on the decline of the Mughal empire, distinguishing…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Examine the historiographical debate on the decline of the Mughal empire, distinguishing…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 5 - 15 marks | 250 words
 
 **Question:** Discuss the mechanisms through which Bengal, Awadh and Hyderabad each achieved substantial autonomy from Mughal central authority in the eighteenth century.
 
@@ -1251,43 +902,15 @@ No further PYQ is claimed for this topic. Where this package's own original MCQs
 
 **Why this earns marks:** It names each state's specific mechanism with a founding figure and a dated or specific event, and closes with the shared-outcome-versus-distinct-mechanism distinction this topic's comparative method requires.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the mechanisms through which Bengal, Awadh and Hyderabad each achieved substantial…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This "discuss" demand requires three separately named mechanisms - Bengal's revenue-farming, Awadh's zamindar accommodation, Hyderabad's personal-military conversion - not a single shared "they became autonomous" claim.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer's three mechanism-paragraphs are this topic's own comparative-method material and may be used directly, one paragraph per successor state.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 250 words: one thesis sentence, three named-mechanism paragraphs (Bengal, Awadh, Hyderabad) each with a founding figure and a dated event, and a closing shared-outcome-versus-distinct-mechanism verdict.
 
-**How to improve this answer:** For “Discuss the mechanisms through which Bengal, Awadh and Hyderabad each achieved substantial…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Add Shuja-ud-Daulah's later frontier military role as a second-generation example to extend the Awadh paragraph beyond its founding mechanism.
 
-#### Mains 6 - 15 marks | 250 words
-
-**Question:** Assess the significance of the Third Battle of Panipat (1761) for Maratha power and for the wider eighteenth-century political order.
-
-**Directive alignment:** Assess requires weighing both the battle's severity and its limits, not a one-sided verdict.
-
-**Introduction:** Panipat III, fought on 14 January 1761 between Sadashivrao Bhau's Maratha army and Ahmad Shah Abdali's coalition, was a major military and dynastic event whose significance is best assessed as serious but bounded.
-
-**Immediate severity:** The battle inflicted very heavy Maratha casualties, including the deaths of the Peshwa's heir Vishwasrao and the commanding general Sadashivrao Bhau, and halted further Maratha expansion into the Punjab and the north for a period.
-
-**Coalition character:** The battle was fought between two broad alignments - Abdali's Afghan force joined by Najib-ud-Daulah's Rohillas and Awadh's Shuja-ud-Daulah, against the Maratha confederacy - showing it as a multi-actor contest for control of the frontier, not a simple two-power duel.
-
-**Limits of the defeat:** Within about a decade, the confederacy's wider power was substantially restored under Peshwa Madhavrao I, chiefly through consolidation in the Deccan, Malwa and central India, showing that the defeat reshaped rather than terminated Maratha power.
-
-**Qualification:** Reading Panipat as clearing the way for British paramountcy overstates one battle's causal reach; the later, contingent Company-driven sequence in Bengal and the Gangetic north (Modern History's material) is what actually proved decisive for the empire's fate.
-
-**Verdict:** Panipat III was a severe check to Maratha northward ambition and a serious dynastic loss, but not a terminal collapse of Maratha power, and its wider political significance should not be overstated into inevitability.
-
-**Why this earns marks:** It balances severity against recovery with named evidence for both, and explicitly rejects the overreach of treating the battle as decisive for British rule.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the significance of the Third Battle of Panipat (1761) for Maratha power and for the…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess the significance of the Third Battle of Panipat (1761) for Maratha power and for the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 7 - 15 marks | 250 words
+#### Mains 5 - 15 marks | 250 words
 
 **Question:** "Eighteenth-century India witnessed political fragmentation but not economic or cultural collapse." Examine this statement with reference to specific evidence.
 
@@ -1307,103 +930,47 @@ No further PYQ is claimed for this topic. Where this package's own original MCQs
 
 **Why this earns marks:** It treats the statement's two halves separately with distinct named evidence for each, and qualifies the continuity claim rather than overstating it into "no decline occurred."
 
-**Demand decoding:** The directive **examine** requires a direct position on “"Eighteenth-century India witnessed political fragmentation but not economic or cultural…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “"Eighteenth-century India witnessed political fragmentation but not economic or cultural…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 8 - 15 marks | 250 words
-
-**Question:** Examine the post-1707 Mughal succession crisis and the role of the Sayyid Brothers' wizarat in it.
-
-**Directive alignment:** Examine a sequence of events and an institutional role together, not a bare king-list.
-
-**Introduction:** The four decades following Aurangzeb's death in 1707 saw repeated contested successions in which noble coalitions, rather than settled hereditary procedure, determined who held the throne.
-
-**The succession sequence:** Bahadur Shah I (1707-12) prevailed in an initial war of succession; Jahandar Shah (1712-13), dominated by his patron Zulfiqar Khan, was overthrown by Farrukhsiyar, whose own 1713 rise depended on the military backing of the Sayyid Brothers.
-
-**The Sayyid wizarat:** Abdullah Khan and Hussain Ali Khan Barha controlled the empire's highest offices from 1713, abolished jizyah in 1713, and negotiated the 1719 settlement recognising Shahu's Maratha chauth and sardeshmukhi claims in exchange for military support - before deposing and killing Farrukhsiyar in 1719 when he tried to act independently, then briefly installing and losing two further emperors the same year.
-
-**The 1720 turn:** A wider noble coalition, including Nizam-ul-Mulk, overthrew the Sayyid Brothers in 1720 and installed Muhammad Shah, itself a further instance of factional kingmaking rather than a restoration of undivided royal authority.
-
-**Qualification:** The Sayyid period was not uniformly destructive; its jizyah abolition and Maratha settlement were substantive administrative acts, alongside its more disruptive kingmaking.
-
-**Verdict:** The 1707-1720 succession sequence is the clearest documented evidence that the Mughal throne had become a prize contested by noble coalitions, with the Sayyid wizarat as its most concentrated expression.
-
-**Why this earns marks:** It sequences the succession crisis precisely with named actors and dates, treats the Sayyid Brothers' record in a balanced rather than one-sided way, and reaches a verdict tied directly to the evidence presented.
-
 ![Visual 33: answer spine -- 20-mark: full historiography-weighted verdict](assets/33_33_answer_spine_20.png)
 
-*Visual 33: answer spine -- 20-mark: full historiography-weighted verdict. Original deterministic study visual; schematic maps are NOT TO SCALE where marked.*
+*Visual 33: answer spine -- 20-mark: full historiography-weighted verdict. Schematic maps are NOT TO SCALE where marked.*
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the post-1707 Mughal succession crisis and the role of the Sayyid Brothers' wizarat…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This "examine" demand tests a two-part statement; it requires distinct, separately evidenced treatment of the fragmentation half and the continuity half, not one blended paragraph.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer's three evidence paragraphs - political, economic, cultural - are this topic's own thesis material and may be used directly, each addressing one half of the statement.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 250 words: one thesis sentence, one fragmentation-evidence paragraph, one economic-continuity paragraph, one cultural-continuity paragraph, and a closing qualified verdict.
 
-**How to improve this answer:** For “Examine the post-1707 Mughal succession crisis and the role of the Sayyid Brothers' wizarat…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name one additional regional court beyond Lucknow and Hyderabad to broaden the cultural-continuity evidence base.
 
-#### Mains 9 - 20 marks | 250 words
-
-**Question:** Critically analyse the jagirdari crisis as a structural explanation for Mughal decline, without reducing the process to any single cause.
-
-**Directive alignment:** Critically analyse a structural mechanism and its limits, explicitly rejecting monocausal readings on both sides.
-
-**Introduction:** The jagirdari crisis is the source material's central structural-fiscal explanation for post-1707 Mughal decline, but it operates as one converging strand among several, not as a sufficient standalone cause.
-
-**The mechanism:** Prolonged Deccan campaigning swelled the mansabdari ranks with newly absorbed Deccani and Maratha nobles while damaging the Deccan's productive capacity, shrinking the paibaqi (reserve land) pool relative to a growing claimant base. The resulting be-jagiri drove short-tenure jagir holders toward aggressive extraction, discouraging investment, provoking zamindar resistance, and further reducing hasil relative to jama - a self-reinforcing feedback loop rather than a one-time shortfall.
-
-**Feeding into the political strand:** This fiscal shortage directly intensified noble factionalism, since scarce productive jagirs and the wazir's patronage power became objects of intensified competition, helping to explain the succession contests and Sayyid kingmaking examined elsewhere in this topic.
-
-**Its limits as a sole explanation:** The jagirdari crisis alone does not explain the timing or severity of external shocks like Nadir Shah's invasion or Abdali's repeated raids, nor does it fully account for why some successor states (Bengal's revenue-farming, for instance) found administrative solutions that reduced the crisis's local severity.
-
-**Qualification against the opposite error:** Rejecting jagirdari-crisis explanation entirely in favour of a purely religious or purely military account would be equally reductive; the structural-fiscal mechanism is necessary but not sufficient on its own.
-
-**Verdict:** The jagirdari crisis is the single most important structural mechanism in this topic's causation map, but a complete account requires it to be read alongside political, military and external strands as a converging system, not a stand-alone final cause.
-
-**Why this earns marks:** It gives the mechanism in full causal sequence, connects it explicitly to a second strand (factionalism), states its explanatory limits honestly, and closes with an integrative rather than reductive verdict.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Critically analyse the jagirdari crisis as a structural explanation for Mughal decline,…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Critically analyse the jagirdari crisis as a structural explanation for Mughal decline,…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 10 - 20 marks | 250 words
+#### Mains 6 - 20 marks | 250 words
 
 **Question:** "The rise of Jats, Sikhs and Marathas in the eighteenth century represented not a collapse of order but a redistribution of political power." Discuss.
 
 **Directive alignment:** Discuss a reframing claim, testing it against each of the three named cases individually.
 
-**Introduction:** Read through this topic's zamindar-resistance and centre-region-spectrum framework, the rise of the Jats, Sikhs and Marathas is better described as a redistribution of political power along existing social fault lines than as a simple collapse into disorder.
+**Introduction:** Read through this topic's zamindar-resistance and centre-region-spectrum framework, the rise of the Jats, Sikhs and Marathas is better described as a redistribution of political power along existing social fault lines than a simple collapse into disorder.
 
-**The Jat case:** Consolidated under leaders including Churaman, Badan Singh and Suraj Mal around Agra-Mathura, the Jat state grew from an agrarian, peasant-rooted zamindari base resisting extraction, hardening over time into Bharatpur's organised regional power - redistribution from imperial to local-agrarian control, not anarchy.
+**The Jat case:** Consolidated under leaders including Churaman, Badan Singh and Suraj Mal around Agra-Mathura, the Jat state grew from an agrarian, peasant-rooted zamindari base resisting extraction, hardening into Bharatpur's organised regional power - redistribution from imperial to local-agrarian control, not anarchy.
 
-**The Sikh case:** Passing through Banda Bahadur's armed rebellion (1708-1715, suppressed by 1716) and later re-emerging as the mid-century Sikh misls, this trajectory shows redistribution of power to a religious-military confederacy structure in Punjab, distinct in form from the Jat case but following the same underlying pattern of local resistance consolidating into durable regional power.
+**The Sikh case:** Passing through Banda Bahadur's rebellion (1708-1716) and later re-emerging as the mid-century Sikh misls, this shows redistribution to a religious-military confederacy in Punjab, distinct in form from the Jat case but following the same pattern of local resistance consolidating into durable regional power.
 
-**The Maratha case:** Already an established regional state by 1707, the Marathas layered chauth and sardeshmukhi fiscal claims over the continuing Mughal revenue base (formalised in the 1719 Sayyid settlement) and projected power as far as Bengal and the Punjab, redistributing fiscal sovereignty across a wide geography while the underlying agrarian-fiscal base persisted.
+**The Maratha case:** Already an established regional state by 1707, the Marathas layered chauth and sardeshmukhi claims over the continuing Mughal revenue base (formalised in the 1719 Sayyid settlement) and projected power as far as Bengal and the Punjab, redistributing fiscal sovereignty over a wide geography while the agrarian-fiscal base persisted.
 
 **Qualification:** These three formations differed sharply in social base and mechanism and should not be collapsed into one undifferentiated "resistance" category; each requires its own named evidence.
 
-**Verdict:** In all three cases, the evidence supports "redistribution" over "collapse": political authority moved to new, locally rooted centres of power operating over a continuing agrarian-fiscal base, rather than dissolving into an absence of order.
+**Verdict:** In all three cases, the evidence supports "redistribution" over "collapse": political authority moved to new, locally rooted centres of power over a continuing agrarian-fiscal base, rather than dissolving into an absence of order.
 
 **Why this earns marks:** It tests the reframing claim against three distinct, individually evidenced cases rather than asserting it in general terms, and explicitly guards against collapsing distinct formations into one category.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “"The rise of Jats, Sikhs and Marathas in the eighteenth century represented not a collapse…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This "discuss" demand requires the redistribution-versus-collapse reframing to be tested against each of the three named cases individually, not asserted as one general claim.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer's three case-paragraphs - Jat, Sikh, Maratha - are this topic's own comparative material and may be used directly, each with its own named leaders and dates.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 250 words: one thesis sentence, three case paragraphs (Jat, Sikh, Maratha) each with named leaders and dates, and a closing verdict distinguishing redistribution from collapse.
 
-**How to improve this answer:** For “"The rise of Jats, Sikhs and Marathas in the eighteenth century represented not a collapse…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name one additional Maratha fiscal detail, such as the 1719 chauth and sardeshmukhi settlement, directly inside the Maratha case paragraph to strengthen its evidentiary anchor.
 
-#### Mains 11 - 20 marks | 250 words
+#### Mains 7 - 20 marks | 250 words
 
 **Question:** "The decline of the Mughal empire made British colonial rule in India inevitable." Critically examine this proposition.
 
@@ -1411,48 +978,20 @@ No further PYQ is claimed for this topic. Where this package's own original MCQs
 
 **Introduction:** This proposition claims a direct, necessary causal line from Mughal fragmentation to British paramountcy; this topic's own evidence supports a more qualified position.
 
-**Evidence that could support the proposition:** Mughal fragmentation - the jagirdari crisis, noble factionalism, and the rise of autonomous successor states and regional powers examined across Parts II-VII - did create a genuinely weakened, multi-polar political landscape in which no single Indian power held unchallenged paramountcy, an environment an ambitious external actor could exploit.
+**Evidence that could support the proposition:** Mughal fragmentation - the jagirdari crisis, noble factionalism, and the rise of autonomous successor states and regional powers - did create a genuinely weakened, multi-polar political landscape in which no single Indian power held unchallenged paramountcy, an environment an ambitious external actor could exploit.
 
-**Evidence against inevitability:** This same fragmented landscape contained several substantial regional powers - Bengal's Nawabi, Awadh, Hyderabad, the Maratha confederacy, and Jat and Sikh formations - any of which represented a plausible alternative regional trajectory; nothing in this topic's own 1707-1761 evidence uniquely predicts British success over, say, a Maratha-led or Bengal-centred outcome. British paramountcy additionally required its own specific, contingent institutional innovations - a disciplined sepoy-based standing army, a subsidiary-alliance diplomatic method, and a distinctive Bengal revenue-extraction model built after 1757-1765 - which belong to Modern History Topics 01, 02 and 05 and are not derivable from Mughal fragmentation alone.
+**Evidence against inevitability:** This same fragmented landscape contained several substantial regional powers - Bengal's Nawabi, Awadh, Hyderabad, the Maratha confederacy, and Jat and Sikh formations - any of which represented a plausible alternative regional trajectory; nothing in this topic's 1707-1761 evidence uniquely predicts British success over, say, a Maratha-led or Bengal-centred outcome. British paramountcy additionally required its own contingent institutional innovations - a disciplined sepoy army, a subsidiary-alliance method, and a Bengal revenue-extraction model built after 1757-1765 - which belong to Modern History and are not derivable from Mughal fragmentation alone.
 
 **Qualification:** Denying any connection at all would also be wrong; fragmentation is a necessary permissive condition without which the Company's later gains would have been far harder, even though it is not a sufficient cause by itself.
 
-**Verdict:** Mughal decline created the open, contested conditions under which British paramountcy became possible, but the proposition's claim of inevitability overreaches; the specific outcome required Modern History's own contingent sequence of events and institutions, not a predetermined path from a single starting condition.
+**Verdict:** Mughal decline created the open, contested conditions under which British paramountcy became possible, but the proposition's claim of inevitability overreaches; the specific outcome required Modern History's own contingent sequence of events and institutions, not a predetermined path.
 
 **Why this earns marks:** It weighs both directions of the argument with specific named evidence, correctly separates "permissive condition" from "sufficient cause," and reaches a critical, non-teleological verdict rather than simply agreeing or disagreeing.
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “"The decline of the Mughal empire made British colonial rule in India inevitable."…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** This "critically examine" demand requires both supporting and opposing evidence for the inevitability claim before a qualified verdict, not a one-sided agreement or rejection.
 
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
+**Detailed examiner-grade model status:** This answer's for/against paragraphs are this topic's own non-inevitability material; the institutional-innovation clause must stay hedged as this topic's own bounded hand-off to Modern History.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Executable exam-length answer / compression plan:** In 250 words: one thesis sentence, one supporting-evidence paragraph, one opposing-evidence paragraph naming specific alternative regional powers, and a closing critical verdict separating permissive condition from sufficient cause.
 
-**How to improve this answer:** For “"The decline of the Mughal empire made British colonial rule in India inevitable."…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Mains 12 - 20 marks | 250 words
-
-**Question:** Discuss the nature of centre-region relations in eighteenth-century India, and examine whether "successor state" is a more defensible description than "independent kingdom" for Bengal, Awadh and Hyderabad.
-
-**Directive alignment:** Discuss a general framework, then examine a specific terminological choice against named evidence.
-
-**Introduction:** Eighteenth-century centre-region relations are best understood as a spectrum rather than a binary, and this framework directly determines which terminology - "successor state" or "independent kingdom" - is defensible for Bengal, Awadh and Hyderabad.
-
-**The centre-region spectrum:** At one end lay provinces under close central control with rotated, supervised governors; in the middle, provinces where a governor built a durable local base while still seeking Delhi's confirmation of title; at the far end, regions where Mughal authority survived mainly as legitimating formality - the khutba and sikka - while real power was locally determined.
-
-**Testing "successor state" against the evidence:** Bengal, Awadh and Hyderabad each occupy the middle-to-far zone: Murshid Quli Khan's Bengal, Saadat Khan's Awadh, and Asaf Jah's Hyderabad each built real administrative, fiscal and military autonomy while continuing, for a considerable period, to hold or seek Mughal-derived titles and formal recognition - Hyderabad's Nizams continuing to use Mughal-derived titulature long after 1724 is the clearest single illustration.
-
-**Why "independent kingdom" is less defensible:** That term implies a clean severance from Mughal legitimacy that the evidence does not support; all three continued to derive symbolic value from Mughal recognition even at their most autonomous, which "successor state" captures and "independent kingdom" erases.
-
-**Qualification:** The degree of real deference did decline over time and varied by state, so "successor state" should be understood as naming a spectrum position, not a static or identical condition across all three.
-
-**Verdict:** "Successor state" is the more defensible term because it captures both the real devolution of power and the continued, evidenced use of Mughal legitimacy, which "independent kingdom" would misrepresent as a complete break.
-
-**Why this earns marks:** It builds the general spectrum framework first, then tests the specific terminological question against three named pieces of evidence, and reaches a verdict that explains why the rejected term specifically fails.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the nature of centre-region relations in eighteenth-century India, and examine…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its named evidence, causal logic, counterpoint and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Discuss the nature of centre-region relations in eighteenth-century India, and examine…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** Name one additional regional power's contingent strength beyond Bengal, Awadh and Hyderabad to sharpen the "plausible alternative trajectory" claim.

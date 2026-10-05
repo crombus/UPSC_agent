@@ -1,0 +1,23 @@
+{
+  "topic": "06 Digital Public Infrastructure and Data Governance",
+  "status": "complete for original banks with explicit holds",
+  "counts": {
+    "revision-1": 45,
+    "revision-2": 45,
+    "revision-3": 45,
+    "total": 135
+  },
+  "owner_focus_count": 23,
+  "all_owner_rows_affirmative_in_each_bank": true,
+  "exact_pyqs_live": 0,
+  "holds_visible": true,
+  "audits": {
+    "structural": "PASS",
+    "option_balance": "PASS",
+    "leakage": "PASS",
+    "distinctness": "PASS",
+    "source_date": "PASS",
+    "institutional": "PASS",
+    "hostile": "PASS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "topic_key": "indian-society-08",
+  "title": "Social Empowerment",
+  "status": "complete_for_original_banks",
+  "revisions": {
+    "revision-1": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "D": 12,
+        "A": 12,
+        "B": 12,
+        "C": 12
+      },
+      "roots": 48,
+      "stems": 48
+    },
+    "revision-2": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "D": 12,
+        "A": 12,
+        "C": 12,
+        "B": 12
+      },
+      "roots": 48,
+      "stems": 48
+    },
+    "revision-3": {
+      "questions": 48,
+      "answers": 48,
+      "keys": {
+        "B": 12,
+        "A": 12,
+        "C": 12,
+        "D": 12
+      },
+      "roots": 48,
+      "stems": 48
+    }
+  },
+  "coverage_roots": 48,
+  "pyqs_included": 0,
+  "exact_pyq_status": "held_for_provenance_and_reproduction_rights",
+  "learner_blind_review": "pending",
+  "source_order": [
+    "canonical Markdown Basic owner",
+    "canonical Markdown Advanced owner",
+    "learner-v2 package and solved practice source",
+    "official NITI Aayog dated MPI anchor",
+    "cross-owner constitutional/statutory boundaries"
+  ]
+}

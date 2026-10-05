@@ -1,0 +1,54 @@
+{
+  "topic": "geography-12",
+  "title": "The Oceans Currents Tides Salinity Indian Ocean and IOD",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "banks": {
+    "1": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "D": 11,
+        "B": 11,
+        "C": 11,
+        "A": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "2": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "C": 11,
+        "D": 11,
+        "B": 11,
+        "A": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "3": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "D": 11,
+        "B": 11,
+        "C": 11,
+        "A": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    }
+  },
+  "total_originals": 132,
+  "exact_pyqs": 0,
+  "cross_bank_exact_stem_overlap": 0,
+  "option_length_cues": 0,
+  "generic_rationale_findings": 0,
+  "pyq_status": "held for provenance and reproduction rights",
+  "source_digest": "3bc9e35cf02132ad4cb7c3d2ed56868076f3fc37add20c1f4e5135605e92c809"
+}

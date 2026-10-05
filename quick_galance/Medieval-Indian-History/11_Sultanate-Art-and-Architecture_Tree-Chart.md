@@ -113,7 +113,7 @@ MIHRAB / MINBAR / MINAR:
 prayer-direction niche / pulpit / tower.
                               |
                               v
-MADRASa / KHANQAH / DARGAH:
+MADRASA / KHANQAH / DARGAH:
 learning / Sufi residence / saint-tomb shrine.
                               |
                               v
@@ -521,3 +521,8 @@ into new technical and aesthetic languages. Its monuments are strongest
 when read as evidence of power, labour and adaptation, not as simple
 symbols of either rupture or harmony.
 ```
+
+
+2026 ROUTING CHECK:
+no Topic 11-owned 2026 UPSC item verified locally;
+GS-I 2026 architecture item is Vijayanagara-owned and stays with Topic 09.

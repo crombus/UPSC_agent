@@ -6,806 +6,712 @@ topic_key: modern-indian-history-13
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Imperial defensive ring?
+All questions are presented before the separate answer-and-remediation key. Historical claims follow the canonical Basic and Advanced topic owners; analytical deductions are identified in their explanations.
 
-A. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-B. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-C. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-D. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
+### Q1. Select the correct chronological sequence of these frontier developments: Nepal settlement, first Burma settlement, Kabul retreat, second Burma annexation.
 
-**Answer: A.**
-**Explanation:** British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Sagauli → Yandabo → Kabul retreat → Lower Burma annexation
+B. Yandabo → Sagauli → Lower Burma annexation → Kabul retreat
+C. Sagauli → Kabul retreat → Yandabo → Lower Burma annexation
+D. Kabul retreat → Sagauli → Yandabo → Lower Burma annexation
 
-### Q2. Which chronology card should be filed under Imperial defensive ring?
+### Q2. Which treaty-war pairing survives scrutiny when the First Anglo-Burmese and Anglo-Nepalese wars are distinguished?
 
-A. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-B. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-C. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-D. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
+A. Yandabo—Anglo-Nepalese; Sagauli—First Anglo-Burmese
+B. Yandabo—First Anglo-Burmese; Sagauli—Anglo-Nepalese
+C. Gandamak—First Anglo-Burmese; Sagauli—Second Anglo-Afghan
+D. Durand agreement—Anglo-Nepalese; Yandabo—Tibet mission
 
-**Answer: B.**
-**Explanation:** British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. A historian finds a British Residency and a recruitment channel but no annexation after a Himalayan war. Which case fits?
 
-### Q3. Which option should a candidate retain when revising Imperial defensive ring?
+A. Upper Burma after the Third Anglo-Burmese War
+B. Lower Burma after the Second Anglo-Burmese War
+C. Nepal after the Treaty of Sagauli
+D. Afghanistan after the First Anglo-Afghan War
 
-A. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-B. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-C. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-D. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
+### Q4. Which inference from the Kabul retreat is strongest without treating all later policy as identical?
 
-**Answer: C.**
-**Explanation:** British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The retreat ended the Great Game permanently
+B. The retreat converted Afghanistan into an annexed Indian province
+C. The retreat immediately created the North-West Frontier Province
+D. Direct military intervention in Afghanistan could imperil the buffer strategy it purported to secure
 
-### Q4. Which statement avoids a common matching trap about Imperial defensive ring?
+### Q5. Arrange the Afghan-frontier developments from earliest to latest: Kabul retreat, Gandamak, Durand agreement, NWFP creation.
 
-A. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-B. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-C. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-D. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
+A. Kabul retreat → Gandamak → Durand agreement → NWFP creation
+B. Gandamak → Kabul retreat → NWFP creation → Durand agreement
+C. Kabul retreat → Durand agreement → Gandamak → NWFP creation
+D. NWFP creation → Kabul retreat → Gandamak → Durand agreement
 
-**Answer: D.**
-**Explanation:** British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Which description best differentiates the close-border approach from an Afghan forward policy?
 
-### Q5. Which statement correctly identifies Great Game?
+A. Create new posts beyond settled limits to pre-empt a rival
+B. Hold settled limits without permanent advance beyond them
+C. Annex Upper Burma to strengthen commercial access
+D. Control another state's external affairs through war and treaty
 
-A. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-B. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-C. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-D. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
+### Q7. A question calls the Great Game a British-Burmese trade contest. What correction is essential?
 
-**Answer: A.**
-**Explanation:** The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It denotes the competition between Nepal and Bhutan for Gurkha recruits
+B. It denotes Curzon's contest with Dalhousie over annexing Upper Burma
+C. It denotes Anglo-Russian strategic rivalry centred on Central Asia and Afghanistan
+D. It denotes Anglo-French rivalry within the Bengal Presidency
 
-### Q6. Which chronology card should be filed under Great Game?
+### Q8. Which combination correctly identifies the governor-general/viceroy and result of the Second Anglo-Burmese War?
 
-A. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-B. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-C. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-D. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
+A. Dufferin; annexation of Lower Burma
+B. Dalhousie; annexation of Upper Burma
+C. Lytton; Treaty of Yandabo
+D. Dalhousie; annexation of Lower Burma
 
-**Answer: B.**
-**Explanation:** The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. Which sequence correctly represents the three Burmese wars by their distinct outcomes?
 
-### Q7. Which option should a candidate retain when revising Great Game?
+A. Yandabo settlement → Lower Burma annexation → Upper Burma annexation
+B. Upper Burma annexation → Yandabo settlement → Lower Burma annexation
+C. Lower Burma annexation → Upper Burma annexation → Yandabo settlement
+D. Yandabo settlement → Upper Burma annexation → Lower Burma annexation
 
-A. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-B. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-C. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-D. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
+### Q10. Which inference is justified by Burma's 1937 separation from British India?
 
-**Answer: C.**
-**Explanation:** The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Third Anglo-Burmese War was fought to achieve Burmese independence
+B. Administrative separation did not itself mean the end of British rule in Burma
+C. The Yandabo treaty ended all British administrative involvement in Burma
+D. British India had never governed Burmese territory before separation
 
-### Q8. Which statement avoids a common matching trap about Great Game?
+### Q11. In a matching question, which treaty should be attached to the Second Anglo-Afghan War rather than the first?
 
-A. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-B. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-C. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-D. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
+A. Treaty of Yandabo
+B. Treaty of Sagauli
+C. Treaty of Gandamak
+D. Lhasa Convention
 
-**Answer: D.**
-**Explanation:** The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. Which statement about the Durand agreement keeps its historical claim within the evidence?
 
-### Q9. Which statement correctly identifies Close-border policy?
+A. It settled the present legal status of every Himalayan boundary
+B. It annexed Upper Burma under Dufferin
+C. It was the Lhasa Convention after Younghusband's mission
+D. It marked an Afghan frontier sphere in 1893, without settling present-day legal claims
 
-A. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-B. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-C. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-D. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
+### Q13. Which policy-action attribution is correct for the North-West Frontier Province?
 
-**Answer: A.**
-**Explanation:** Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Curzon created the province in 1901 as a frontier administrative response
+B. Dalhousie created it after annexing Lower Burma
+C. Auckland created it after the Kabul retreat
+D. Dufferin created it while annexing Upper Burma
 
-### Q10. Which chronology card should be filed under Close-border policy?
+### Q14. A source names Lytton and a treaty affecting Afghan external relations. Identify the correct war and settlement.
 
-A. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-B. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-C. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-D. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
+A. First Anglo-Afghan War; Treaty of Yandabo
+B. Second Anglo-Afghan War; Treaty of Gandamak
+C. Anglo-Nepalese War; Treaty of Sagauli
+D. Third Anglo-Burmese War; Lhasa Convention
 
-**Answer: B.**
-**Explanation:** Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. What does the Nepal-Burma comparison reveal about the limits of calling frontier policy uniform annexation?
 
-### Q11. Which option should a candidate retain when revising Close-border policy?
+A. Nepal and Burma were both annexed immediately after their first wars
+B. Burma supplied the Gurkha recruiting base while Nepal was divided into provinces
+C. Nepal remained a treaty-influenced buffer; Burma was absorbed through successive wars
+D. Neither Nepal nor Burma entered the Raj's security calculations
 
-A. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-B. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-C. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-D. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
+### Q16. Which account of the Younghusband mission correctly separates theatre, sponsor and outcome?
 
-**Answer: C.**
-**Explanation:** Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Lytton-backed Burma mission; Yandabo followed
+B. Dalhousie-backed Nepal mission; Sagauli followed
+C. Dufferin-backed Afghan mission; Gandamak followed
+D. Curzon-backed Tibet mission; Lhasa Convention followed
 
-### Q12. Which statement avoids a common matching trap about Close-border policy?
+### Q17. Which interpretation of forward policy avoids equating all forward moves with territorial annexation?
 
-A. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-B. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-C. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-D. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
+A. Posts, missions or leverage over external affairs could project influence without incorporating the neighbour
+B. Every forward mission automatically converted its destination into a British Indian district
+C. Forward policy required closing every mission beyond the settled border
+D. Forward policy prohibited treaties as instruments of frontier control
 
-**Answer: D.**
-**Explanation:** Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. How should Sikkim and Bhutan be situated relative to Britain's Himalayan frontier strategy?
 
-### Q13. Which statement correctly identifies Forward policy?
+A. Both were annexed during the first Anglo-Burmese War
+B. Treaty and protectorate-style influence helped create Himalayan buffers
+C. Both signed the Treaty of Gandamak after Lytton's Afghan war
+D. Both ceased being frontier considerations when NWFP was created
 
-A. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-B. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-C. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-D. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
+### Q19. Which evidence most directly challenges an exclusively defensive reading of the Raj's neighbour policy?
 
-**Answer: A.**
-**Explanation:** Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Nepal retained its separate existence after Sagauli
+B. Close-border restraint limited permanent advance in one doctrine
+C. The staged annexation of Burma under Dalhousie and Dufferin
+D. The Great Game raised concern about Russia near Afghanistan
 
-### Q14. Which chronology card should be filed under Forward policy?
+### Q20. A Mains answer calls Afghan policy wholly successful after 1879. What limiting evidence should it include?
 
-A. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-B. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-C. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-D. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
+A. Burma's 1937 separation proves Afghanistan was annexed
+B. Yandabo created a permanent Afghan settlement
+C. Sagauli abolished Russia's influence in Central Asia
+D. The 1839–42 Kabul disaster and continued need for frontier management
 
-**Answer: B.**
-**Explanation:** Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Select the chronological order of these late frontier measures: third Burmese annexation, Durand agreement, NWFP creation, Tibet mission.
 
-### Q15. Which option should a candidate retain when revising Forward policy?
+A. Upper Burma annexation → Durand agreement → NWFP creation → Younghusband mission
+B. Durand agreement → Upper Burma annexation → Younghusband mission → NWFP creation
+C. NWFP creation → Upper Burma annexation → Durand agreement → Younghusband mission
+D. Upper Burma annexation → Younghusband mission → Durand agreement → NWFP creation
 
-A. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-B. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-C. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-D. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
+### Q22. Which inference about frontier spending is defensible without inventing fiscal statistics?
 
-**Answer: C.**
-**Explanation:** Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The sources establish that half of Indian revenue funded the frontier
+B. Imperial frontier wars and garrisons could burden Indian revenue even when the objective was imperial
+C. Every border treaty eliminated subsequent military expenditure
+D. Only British parliamentary revenue ever paid for the Raj's frontier wars
 
-### Q16. Which statement avoids a common matching trap about Forward policy?
+### Q23. Which case best illustrates a forward military action in the Himalayan rather than Afghan frontier?
 
-A. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-B. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-C. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-D. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
+A. Lytton's Second Anglo-Afghan War
+B. Dalhousie's annexation of Lower Burma
+C. Younghusband's entry into Tibet under Curzon
+D. Auckland's First Anglo-Afghan War
 
-**Answer: D.**
-**Explanation:** Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. A student labels the Durand agreement and Lhasa Convention as the same settlement. How should the error be corrected?
 
-### Q17. Which statement correctly identifies First Anglo-Afghan War?
+A. Durand settled Nepal; Lhasa ended the first Burmese war
+B. Both documents followed the Anglo-Nepalese War
+C. Both documents formally annexed Upper Burma
+D. Durand concerns the Afghan sphere; Lhasa followed the Tibet mission
 
-A. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-B. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-C. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-D. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
+### Q25. Which source-based reading explains why Nepal could supply Gurkhas without becoming a Raj province?
 
-**Answer: A.**
-**Explanation:** The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Sagauli settlement tied Nepal to a Residency and recruitment while preserving it as a buffer
+B. Yandabo annexed Nepal and created the Gurkha recruiting establishment
+C. Gandamak converted Nepal into an Afghan dependency
+D. The Lhasa Convention transferred Nepal into the NWFP
 
-### Q18. Which chronology card should be filed under First Anglo-Afghan War?
+### Q26. Which contrast best identifies how treaty outcomes differed across Nepal and Afghanistan?
 
-A. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-B. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-C. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-D. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
+A. Sagauli partitioned Upper Burma; Gandamak separated Burma in 1937
+B. Sagauli brought a Residency and recruitment link; Gandamak increased British control over Afghan external affairs
+C. Sagauli created NWFP; Gandamak launched the Tibet mission
+D. Sagauli ended the Second Afghan War; Gandamak ended the Nepal war
 
-**Answer: B.**
-**Explanation:** The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. Which proposition about regional variation is consistent with the core evidence?
 
-### Q19. Which option should a candidate retain when revising First Anglo-Afghan War?
+A. The Raj annexed Afghanistan, Nepal and Tibet on the Burmese pattern
+B. The Raj avoided every treaty in favour of direct government
+C. The Raj combined eastern annexation, Afghan buffer management and Himalayan treaty influence
+D. The Raj applied only close-border doctrine in all frontier theatres
 
-A. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-B. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-C. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-D. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
+### Q28. Which historical claim about the First Anglo-Afghan War is supported without transplanting a later treaty?
 
-**Answer: C.**
-**Explanation:** The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It produced the Treaty of Gandamak during Lytton's tenure
+B. It ended with the 1893 Durand agreement
+C. It annexed Lower Burma under Dalhousie
+D. Its disastrous retreat from Kabul exposed the dangers of attempted intervention
 
-### Q20. Which statement avoids a common matching trap about First Anglo-Afghan War?
+### Q29. What is the strongest cautious inference about the post-1947 significance of colonial frontier arrangements?
 
-A. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-B. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-C. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-D. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
+A. Independent states inherited boundary and administrative questions shaped under imperial security priorities
+B. The Durand agreement alone determines all modern South Asian frontier claims
+C. Burma's 1937 separation erased all later neighbourhood problems
+D. The Lhasa Convention conclusively fixes every present India-China border claim
 
-**Answer: D.**
-**Explanation:** The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Which combination accurately assigns the two nineteenth-century eastern annexations?
 
-### Q21. Which statement correctly identifies Second Anglo-Afghan War?
+A. Lower Burma—Dufferin; Upper Burma—Dalhousie
+B. Lower Burma—Dalhousie; Upper Burma—Dufferin
+C. Lower Burma—Auckland; Upper Burma—Lytton
+D. Lower Burma—Curzon; Upper Burma—Younghusband
 
-A. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-B. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-C. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-D. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
+### Q31. A note says buffer status means a neighbouring government had no British interference whatsoever. Which revision is required?
 
-**Answer: A.**
-**Explanation:** The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Buffers were defined only by formal annexation into Bengal
+B. Buffers necessarily avoided every British diplomatic mission
+C. Buffers could remain unannexed while treaty diplomacy or external-affairs leverage limited autonomy
+D. Buffers were exclusively commercial ports on the Burmese coast
 
-### Q22. Which chronology card should be filed under Second Anglo-Afghan War?
+### Q32. Which reading correctly differentiates the Durand Line from creation of the NWFP?
 
-A. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-B. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-C. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-D. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
+A. Both are treaties ending the Second Anglo-Afghan War
+B. Both are provinces annexed after the Third Anglo-Burmese War
+C. The former resulted from the Younghusband mission; the latter from Yandabo
+D. The former is an Afghan frontier agreement; the latter a Curzon-era administrative province
 
-**Answer: B.**
-**Explanation:** The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33. What explains the strategic ring's tendency to create further frontier dilemmas?
 
-### Q23. Which option should a candidate retain when revising Second Anglo-Afghan War?
+A. Securing one perimeter by influence or advance could expose a farther perimeter and generate new costs
+B. Each successful treaty ended every possible future strategic rivalry
+C. Annexation of Burma automatically removed Russian influence from Central Asia
+D. Administration of Burma as part of India eliminated all Himalayan buffer concerns
 
-A. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-B. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-C. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-D. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
+### Q34. Which statement-set is fully supported: (1) Gandamak belongs to the second Afghan war; (2) Upper Burma was annexed under Dufferin; (3) Younghusband reached Tibet under Curzon?
 
-**Answer: C.**
-**Explanation:** The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Statements 1 and 2 only; Younghusband entered Afghanistan
+B. Statements 1, 2 and 3
+C. Statements 2 and 3 only; Gandamak ended the first Burmese war
+D. Statement 3 only; both Gandamak and Upper Burma are misplaced
 
-### Q24. Which statement avoids a common matching trap about Second Anglo-Afghan War?
+### Q35. Which statement-set correctly describes the frontier doctrines: (1) close-border avoids lasting advance beyond settled limits; (2) forward policy may seek influence without annexation; (3) either doctrine automatically removes frontier expenditure?
 
-A. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-B. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-C. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-D. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
+A. Statements 1 and 3 only; forward policy requires annexation
+B. Statements 2 and 3 only; close-border requires advance
+C. Statements 1 and 2 only
+D. All three statements, including automatic fiscal savings
 
-**Answer: D.**
-**Explanation:** The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36. How does the 1904 Tibet mission illustrate the difference between stated fear and established fact?
 
-### Q25. Which statement correctly identifies Treaty of Gandamak?
+A. Russian annexation of Tibet is established merely by the mission's occurrence
+B. Tibet was a Burmese province by 1904, requiring renewed annexation
+C. The Great Game was entirely absent from British Himalayan thinking
+D. Concern about Russian influence helped motivate Curzon, but a perceived threat is not proof of actual Russian control
 
-A. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-B. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-C. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-D. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
+### Q37. When writing about imperial costs, what distinguishes a qualified assessment from unsupported quantification?
 
-**Answer: A.**
-**Explanation:** The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Relate frontier wars and garrisons to Indian revenue without specifying an unsourced percentage
+B. Assert a fixed annual percentage for Afghan warfare without documentary accounts
+C. Assume that treaty-governed neighbours imposed no continuing defence costs
+D. Treat annexation alone as proof that all frontier expenditure benefited Indians
 
-### Q26. Which chronology card should be filed under Treaty of Gandamak?
+## ANSWER KEY AND TARGETED REMEDIATION
 
-A. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-B. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-C. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-D. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
+### Q1 — A
 
-**Answer: B.**
-**Explanation:** The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** The Nepal treaty precedes Yandabo, the Afghan disaster and Dalhousie's eastern annexation.
 
-### Q27. Which option should a candidate retain when revising Treaty of Gandamak?
+**Option-by-option explanation:**
+- **A:** The Nepal treaty precedes Yandabo, the Afghan disaster and Dalhousie's eastern annexation.
+- **B:** Yandabo followed, not preceded, the 1816 Nepal settlement.
+- **C:** The Burmese treaty preceded the retreat from Kabul.
+- **D:** The Kabul retreat did not occur before either early treaty.
 
-A. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-B. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-C. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
-D. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
+**Trap:** Yandabo followed, not preceded, the 1816 Nepal settlement.
 
-**Answer: C.**
-**Explanation:** The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q2 — B
 
-### Q28. Which statement avoids a common matching trap about Treaty of Gandamak?
+**Answer: B.** The two settlements belong to different wars and theatres.
 
-A. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-B. Burma remained administratively part of British India until its separation in 1937.
-C. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-D. The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs.
+**Option-by-option explanation:**
+- **A:** This reverses the Nepal and Burma settlements.
+- **B:** The two settlements belong to different wars and theatres.
+- **C:** Gandamak belongs to Afghanistan; Sagauli to Nepal.
+- **D:** Neither agreement belongs to the war or mission paired here.
 
-**Answer: D.**
-**Explanation:** The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded British influence over Afghan external affairs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Gandamak belongs to Afghanistan; Sagauli to Nepal.
 
-### Q29. Which statement correctly identifies Durand Line?
+### Q3 — C
 
-A. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-B. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-C. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-D. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
+**Answer: C.** Nepal remained a buffer while Residency and Gurkha recruitment developed.
 
-**Answer: A.**
-**Explanation:** The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Upper Burma was annexed rather than retained as a non-annexed buffer.
+- **B:** Lower Burma was annexed under Dalhousie.
+- **C:** Nepal remained a buffer while Residency and Gurkha recruitment developed.
+- **D:** The Kabul retreat is not the Nepalese Residency-and-recruitment settlement.
 
-### Q30. Which chronology card should be filed under Durand Line?
+**Trap:** The Kabul retreat is not the Nepalese Residency-and-recruitment settlement.
 
-A. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-B. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-C. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-D. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
+### Q4 — D
 
-**Answer: B.**
-**Explanation:** The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: D.** The disastrous retreat exposed the cost of forward intervention, not the disappearance of rivalry.
 
-### Q31. Which option should a candidate retain when revising Durand Line?
+**Option-by-option explanation:**
+- **A:** Rival-power anxieties remained after the first war.
+- **B:** Afghanistan was not annexed like Burma.
+- **C:** Curzon's provincial creation came much later.
+- **D:** The disastrous retreat exposed the cost of forward intervention, not the disappearance of rivalry.
 
-A. Burma remained administratively part of British India until its separation in 1937.
-B. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-C. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
-D. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
+**Trap:** Afghanistan was not annexed like Burma.
 
-**Answer: C.**
-**Explanation:** The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q5 — A
 
-### Q32. Which statement avoids a common matching trap about Durand Line?
+**Answer: A.** These belong respectively to the first war, second war, frontier agreement and Curzon's administrative reorganisation.
 
-A. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-B. Burma remained administratively part of British India until its separation in 1937.
-C. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-D. The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure.
+**Option-by-option explanation:**
+- **A:** These belong respectively to the first war, second war, frontier agreement and Curzon's administrative reorganisation.
+- **B:** Gandamak cannot precede the first war's retreat.
+- **C:** The Afghan treaty predates the Durand agreement.
+- **D:** The province was not the first of these developments.
 
-**Answer: D.**
-**Explanation:** The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Gandamak cannot precede the first war's retreat.
 
-### Q33. Which statement correctly identifies North-West Frontier Province?
+### Q6 — B
 
-A. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-B. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-C. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-D. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
+**Answer: B.** Close-border restraint contrasts with extending posts, missions or political influence.
 
-**Answer: A.**
-**Explanation:** Curzon created the North-West Frontier Province in 1901 as a special frontier administration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** That is a forward-policy instrument, not close-border restraint.
+- **B:** Close-border restraint contrasts with extending posts, missions or political influence.
+- **C:** Burmese annexation is not a definition of north-west close-border doctrine.
+- **D:** That is an instrument of forward influence, not mere defence of settled limits.
 
-### Q34. Which chronology card should be filed under North-West Frontier Province?
+**Trap:** That is a forward-policy instrument, not close-border restraint.
 
-A. Burma remained administratively part of British India until its separation in 1937.
-B. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-C. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-D. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
+### Q7 — C
 
-**Answer: B.**
-**Explanation:** Curzon created the North-West Frontier Province in 1901 as a special frontier administration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: C.** Russia, not Burma, supplies the great-power threat in this frontier framework.
 
-### Q35. Which option should a candidate retain when revising North-West Frontier Province?
+**Option-by-option explanation:**
+- **A:** This is not the Anglo-Russian strategic contest.
+- **B:** The two viceroys governed different periods and this is not the Great Game.
+- **C:** Russia, not Burma, supplies the great-power threat in this frontier framework.
+- **D:** That does not identify this Central Asian strategic setting.
 
-A. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-B. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-C. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
-D. Burma remained administratively part of British India until its separation in 1937.
+**Trap:** This is not the Anglo-Russian strategic contest.
 
-**Answer: C.**
-**Explanation:** Curzon created the North-West Frontier Province in 1901 as a special frontier administration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q8 — D
 
-### Q36. Which statement avoids a common matching trap about North-West Frontier Province?
+**Answer: D.** The second war in 1852 led to Lower Burma's annexation under Dalhousie.
 
-A. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-B. Burma remained administratively part of British India until its separation in 1937.
-C. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-D. Curzon created the North-West Frontier Province in 1901 as a special frontier administration.
+**Option-by-option explanation:**
+- **A:** Dufferin belongs to the 1885 annexation of Upper Burma.
+- **B:** Upper Burma was annexed in the third war under Dufferin.
+- **C:** Yandabo followed the first Burmese war, not Lytton's Afghan policy.
+- **D:** The second war in 1852 led to Lower Burma's annexation under Dalhousie.
 
-**Answer: D.**
-**Explanation:** Curzon created the North-West Frontier Province in 1901 as a special frontier administration. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Yandabo followed the first Burmese war, not Lytton's Afghan policy.
 
-### Q37. Which statement correctly identifies First Anglo-Burmese War?
+### Q9 — A
 
-A. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-B. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-C. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-D. Burma remained administratively part of British India until its separation in 1937.
+**Answer: A.** The wars ended in treaty settlement, then eastern staged annexations.
 
-**Answer: A.**
-**Explanation:** The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The wars ended in treaty settlement, then eastern staged annexations.
+- **B:** Upper Burma was the last of these stages, not first.
+- **C:** Yandabo preceded both later annexations.
+- **D:** Lower Burma was annexed before Upper Burma.
 
-### Q38. Which chronology card should be filed under First Anglo-Burmese War?
+**Trap:** Upper Burma was the last of these stages, not first.
 
-A. Burma remained administratively part of British India until its separation in 1937.
-B. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-C. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-D. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
+### Q10 — B
 
-**Answer: B.**
-**Explanation:** The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** Burma ceased being administered as part of British India but remained a British possession.
 
-### Q39. Which option should a candidate retain when revising First Anglo-Burmese War?
+**Option-by-option explanation:**
+- **A:** The war resulted in Upper Burma's annexation.
+- **B:** Burma ceased being administered as part of British India but remained a British possession.
+- **C:** Two further wars and staged annexations followed Yandabo.
+- **D:** Burma had been administered as part of India until 1937.
 
-A. Burma remained administratively part of British India until its separation in 1937.
-B. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-C. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
-D. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
+**Trap:** Two further wars and staged annexations followed Yandabo.
 
-**Answer: C.**
-**Explanation:** The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q11 — C
 
-### Q40. Which statement avoids a common matching trap about First Anglo-Burmese War?
+**Answer: C.** Gandamak of 1879 followed the second Afghan war and extended British leverage over Afghan external affairs.
 
-A. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-B. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-C. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-D. The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.
+**Option-by-option explanation:**
+- **A:** Yandabo ended the first Burmese war.
+- **B:** Sagauli followed the Anglo-Nepalese War.
+- **C:** Gandamak of 1879 followed the second Afghan war and extended British leverage over Afghan external affairs.
+- **D:** The convention followed the Tibet mission, not an Afghan war.
 
-**Answer: D.**
-**Explanation:** The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** The convention followed the Tibet mission, not an Afghan war.
 
-### Q41. Which statement correctly identifies Second Anglo-Burmese War?
+### Q12 — D
 
-A. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-B. Burma remained administratively part of British India until its separation in 1937.
-C. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-D. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
+**Answer: D.** The source supports the historical agreement and date, not a modern legal verdict.
 
-**Answer: A.**
-**Explanation:** The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The Afghan frontier agreement cannot decide modern Himalayan legal status.
+- **B:** That outcome belongs to the third Burmese war.
+- **C:** That is a different treaty and theatre.
+- **D:** The source supports the historical agreement and date, not a modern legal verdict.
 
-### Q42. Which chronology card should be filed under Second Anglo-Burmese War?
+**Trap:** The Afghan frontier agreement cannot decide modern Himalayan legal status.
 
-A. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-B. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-C. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-D. Burma remained administratively part of British India until its separation in 1937.
+### Q13 — A
 
-**Answer: B.**
-**Explanation:** The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** This is a provincial-administration step, not an Afghan treaty or Burmese annexation.
 
-### Q43. Which option should a candidate retain when revising Second Anglo-Burmese War?
+**Option-by-option explanation:**
+- **A:** This is a provincial-administration step, not an Afghan treaty or Burmese annexation.
+- **B:** Dalhousie's Burmese annexation and Curzon's NWFP belong to different periods.
+- **C:** The First Afghan War did not establish the later NWFP.
+- **D:** Dufferin's 1885 Burmese action does not date the 1901 province.
 
-A. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-B. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-C. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
-D. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
+**Trap:** The First Afghan War did not establish the later NWFP.
 
-**Answer: C.**
-**Explanation:** The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q14 — B
 
-### Q44. Which statement avoids a common matching trap about Second Anglo-Burmese War?
+**Answer: B.** Lytton's war is associated with the 1879 treaty and British influence over external relations.
 
-A. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-B. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-C. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-D. The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie.
+**Option-by-option explanation:**
+- **A:** Yandabo belongs to the first Burmese, not first Afghan, war.
+- **B:** Lytton's war is associated with the 1879 treaty and British influence over external relations.
+- **C:** The Nepal war and treaty do not identify Lytton's Afghan intervention.
+- **D:** Neither the Burmese war nor Tibet's convention belongs to this Afghan episode.
 
-**Answer: D.**
-**Explanation:** The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under Dalhousie. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Yandabo belongs to the first Burmese, not first Afghan, war.
 
-### Q45. Which statement correctly identifies Third Anglo-Burmese War?
+### Q15 — C
 
-A. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-B. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-C. Burma remained administratively part of British India until its separation in 1937.
-D. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
+**Answer: C.** Distinct instruments served imperial goals without identical sovereignty outcomes.
 
-**Answer: A.**
-**Explanation:** The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Nepal was not annexed; Burmese annexation came in stages.
+- **B:** This reverses the recruitment and annexation models.
+- **C:** Distinct instruments served imperial goals without identical sovereignty outcomes.
+- **D:** Both were theatres of frontier strategy.
 
-### Q46. Which chronology card should be filed under Third Anglo-Burmese War?
+**Trap:** Nepal was not annexed; Burmese annexation came in stages.
 
-A. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-B. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-C. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-D. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
+### Q16 — D
 
-**Answer: B.**
-**Explanation:** The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: D.** Tibet, Curzon and the 1904 convention belong together.
 
-### Q47. Which option should a candidate retain when revising Third Anglo-Burmese War?
+**Option-by-option explanation:**
+- **A:** Yandabo predates Lytton and the Tibet expedition.
+- **B:** Sagauli belongs to the much earlier Nepal war.
+- **C:** Gandamak belongs to Lytton's second Afghan war.
+- **D:** Tibet, Curzon and the 1904 convention belong together.
 
-A. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-B. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-C. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
-D. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
+**Trap:** Yandabo predates Lytton and the Tibet expedition.
 
-**Answer: C.**
-**Explanation:** The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q17 — A
 
-### Q48. Which statement avoids a common matching trap about Third Anglo-Burmese War?
+**Answer: A.** Afghanistan and Tibet demonstrate intervention short of Burma-style annexation.
 
-A. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-B. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-C. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-D. The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin.
+**Option-by-option explanation:**
+- **A:** Afghanistan and Tibet demonstrate intervention short of Burma-style annexation.
+- **B:** Tibet and Afghanistan were not annexed as such districts.
+- **C:** Closure would resemble close-border restraint rather than forward influence.
+- **D:** Treaties are prominent instruments in this frontier record.
 
-**Answer: D.**
-**Explanation:** The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under Dufferin. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Tibet and Afghanistan were not annexed as such districts.
 
-### Q49. Which statement correctly identifies Burma and British India?
+### Q18 — B
 
-A. Burma remained administratively part of British India until its separation in 1937.
-B. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-C. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-D. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
+**Answer: B.** The core source identifies influence, not Burmese-style conquest, in this belt.
 
-**Answer: A.**
-**Explanation:** Burma remained administratively part of British India until its separation in 1937. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** The Burmese war did not annex these Himalayan polities.
+- **B:** The core source identifies influence, not Burmese-style conquest, in this belt.
+- **C:** Gandamak is an Afghan treaty, not a Sikkim-Bhutan settlement.
+- **D:** Creation of a north-west province did not erase Himalayan strategy.
 
-### Q50. Which chronology card should be filed under Burma and British India?
+**Trap:** The Burmese war did not annex these Himalayan polities.
 
-A. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-B. Burma remained administratively part of British India until its separation in 1937.
-C. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-D. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
+### Q19 — C
 
-**Answer: B.**
-**Explanation:** Burma remained administratively part of British India until its separation in 1937. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: C.** Territorial absorption and commercial interests complicate a purely buffer-security explanation.
 
-### Q51. Which option should a candidate retain when revising Burma and British India?
+**Option-by-option explanation:**
+- **A:** Buffer autonomy alone does not show annexationist expansion.
+- **B:** Restraint is not itself direct evidence of commercial annexation.
+- **C:** Territorial absorption and commercial interests complicate a purely buffer-security explanation.
+- **D:** Threat perception supports rather than directly refutes defensive rhetoric.
 
-A. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-B. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-C. Burma remained administratively part of British India until its separation in 1937.
-D. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
+**Trap:** Buffer autonomy alone does not show annexationist expansion.
 
-**Answer: C.**
-**Explanation:** Burma remained administratively part of British India until its separation in 1937. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q20 — D
 
-### Q52. Which statement avoids a common matching trap about Burma and British India?
+**Answer: D.** Gandamak did not erase earlier intervention costs or later governance dilemmas.
 
-A. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-B. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-C. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-D. Burma remained administratively part of British India until its separation in 1937.
+**Option-by-option explanation:**
+- **A:** A Burmese administrative change cannot establish Afghan annexation.
+- **B:** Yandabo belongs to Burma, not Afghanistan.
+- **C:** A Nepal treaty did not settle great-power rivalry.
+- **D:** Gandamak did not erase earlier intervention costs or later governance dilemmas.
 
-**Answer: D.**
-**Explanation:** Burma remained administratively part of British India until its separation in 1937. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** A Burmese administrative change cannot establish Afghan annexation.
 
-### Q53. Which statement correctly identifies Anglo-Nepalese War?
+### Q21 — A
 
-A. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-B. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-C. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-D. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
+**Answer: A.** These developments trace the late eastern, Afghan, administrative and Himalayan stages.
 
-**Answer: A.**
-**Explanation:** The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** These developments trace the late eastern, Afghan, administrative and Himalayan stages.
+- **B:** The Burmese annexation precedes Durand and NWFP precedes the Tibet mission.
+- **C:** The frontier province was created after both the Burmese annexation and Durand agreement.
+- **D:** The Tibet mission came after both Durand and NWFP.
 
-### Q54. Which chronology card should be filed under Anglo-Nepalese War?
+**Trap:** The Burmese annexation precedes Durand and NWFP precedes the Tibet mission.
 
-A. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-B. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-C. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-D. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
+### Q22 — B
 
-**Answer: B.**
-**Explanation:** The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** The source identifies incidence and beneficiaries, not a precise budget percentage.
 
-### Q55. Which option should a candidate retain when revising Anglo-Nepalese War?
+**Option-by-option explanation:**
+- **A:** No percentage or total is supplied by these owners.
+- **B:** The source identifies incidence and beneficiaries, not a precise budget percentage.
+- **C:** Frontier garrisons and wars remained a cost.
+- **D:** The source specifically notes charges on Indian revenue.
 
-A. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-B. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-C. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
-D. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
+**Trap:** Frontier garrisons and wars remained a cost.
 
-**Answer: C.**
-**Explanation:** The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q23 — C
 
-### Q56. Which statement avoids a common matching trap about Anglo-Nepalese War?
+**Answer: C.** The 1904 mission and subsequent Lhasa Convention reflect Himalayan forward activism.
 
-A. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-B. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-C. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-D. The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli.
+**Option-by-option explanation:**
+- **A:** This is north-west Afghan, not Tibetan, intervention.
+- **B:** This belongs to eastern territorial expansion.
+- **C:** The 1904 mission and subsequent Lhasa Convention reflect Himalayan forward activism.
+- **D:** This was Afghan intervention, not a Himalayan Tibet mission.
 
-**Answer: D.**
-**Explanation:** The Anglo-Nepalese War of 1814-16 ended with the Treaty of Sagauli. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** This is north-west Afghan, not Tibetan, intervention.
 
-### Q57. Which statement correctly identifies Nepal settlement?
+### Q24 — D
 
-A. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-B. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-C. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-D. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
+**Answer: D.** Distinct theatres and moments must be kept separate.
 
-**Answer: A.**
-**Explanation:** The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** Nepal and Burma have different named treaties.
+- **B:** Sagauli is the Nepal settlement.
+- **C:** Upper Burma followed the third Burmese war.
+- **D:** Distinct theatres and moments must be kept separate.
 
-### Q58. Which chronology card should be filed under Nepal settlement?
+**Trap:** Nepal and Burma have different named treaties.
 
-A. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-B. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-C. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-D. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
+### Q25 — A
 
-**Answer: B.**
-**Explanation:** The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** Recruitment and influence do not logically require formal annexation.
 
-### Q59. Which option should a candidate retain when revising Nepal settlement?
+**Option-by-option explanation:**
+- **A:** Recruitment and influence do not logically require formal annexation.
+- **B:** Yandabo concerns Burma, not Nepal.
+- **C:** Gandamak belongs to Afghanistan.
+- **D:** Tibet's convention did not incorporate Nepal into the frontier province.
 
-A. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-B. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-C. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
-D. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
+**Trap:** Yandabo concerns Burma, not Nepal.
 
-**Answer: C.**
-**Explanation:** The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q26 — B
 
-### Q60. Which statement avoids a common matching trap about Nepal settlement?
+**Answer: B.** The two treaties served differing channels of indirect imperial influence.
 
-A. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-B. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-C. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-D. The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation.
+**Option-by-option explanation:**
+- **A:** Neither treaty had the Burmese outcomes alleged.
+- **B:** The two treaties served differing channels of indirect imperial influence.
+- **C:** The province and mission belong to later Curzon-era actions.
+- **D:** The war-to-treaty associations are reversed.
 
-**Answer: D.**
-**Explanation:** The Nepal settlement combined a British Residency, buffer-state influence and Gurkha recruitment without annexation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** The province and mission belong to later Curzon-era actions.
 
-### Q61. Which statement correctly identifies Younghusband Mission?
+### Q27 — C
 
-A. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-B. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-C. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-D. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
+**Answer: C.** These are different instruments, not a single mechanical doctrine.
 
-**Answer: A.**
-**Explanation:** Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** These polities were not annexed on that pattern.
+- **B:** Yandabo, Sagauli, Gandamak and Lhasa contradict this.
+- **C:** These are different instruments, not a single mechanical doctrine.
+- **D:** Forward policy and Burmese conquest contradict that claim.
 
-### Q62. Which chronology card should be filed under Younghusband Mission?
+**Trap:** These polities were not annexed on that pattern.
 
-A. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-B. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-C. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-D. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
+### Q28 — D
 
-**Answer: B.**
-**Explanation:** Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: D.** Gandamak belongs to the second war, not the first.
 
-### Q63. Which option should a candidate retain when revising Younghusband Mission?
+**Option-by-option explanation:**
+- **A:** That combines the second war with the first.
+- **B:** Durand postdates the first war by decades.
+- **C:** This is a separate eastern campaign.
+- **D:** Gandamak belongs to the second war, not the first.
 
-A. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-B. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-C. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
-D. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
+**Trap:** That combines the second war with the first.
 
-**Answer: C.**
-**Explanation:** Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q29 — A
 
-### Q64. Which statement avoids a common matching trap about Younghusband Mission?
+**Answer: A.** Inheritance is historically plausible; it does not itself decide today's legal disputes.
 
-A. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-B. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-C. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-D. Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention.
+**Option-by-option explanation:**
+- **A:** Inheritance is historically plausible; it does not itself decide today's legal disputes.
+- **B:** One historical instrument cannot settle every modern legal issue.
+- **C:** Administrative separation did not erase historical legacies.
+- **D:** The source does not support such a present-day legal conclusion.
 
-**Answer: D.**
-**Explanation:** Curzon's Younghusband Mission entered Tibet in 1904 and produced the Lhasa Convention. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** One historical instrument cannot settle every modern legal issue.
 
-### Q65. Which statement correctly identifies Sikkim and Bhutan?
+### Q30 — B
 
-A. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-B. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-C. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-D. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
+**Answer: B.** The 1852 and 1885 stages had different rulers and territories.
 
-**Answer: A.**
-**Explanation:** Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** These rulers and annexations are exchanged.
+- **B:** The 1852 and 1885 stages had different rulers and territories.
+- **C:** Auckland and Lytton anchor Afghan rather than the two Burmese annexation stages.
+- **D:** Curzon and Younghusband belong to later frontier and Tibet policy.
 
-### Q66. Which chronology card should be filed under Sikkim and Bhutan?
+**Trap:** Auckland and Lytton anchor Afghan rather than the two Burmese annexation stages.
 
-A. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-B. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-C. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-D. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
+### Q31 — C
 
-**Answer: B.**
-**Explanation:** Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: C.** Nepal's Residency and Afghan external-relations influence refute an absolute absence of interference.
 
-### Q67. Which option should a candidate retain when revising Sikkim and Bhutan?
+**Option-by-option explanation:**
+- **A:** Annexation and continued separate statehood cannot be treated as synonyms.
+- **B:** Residency and frontier missions were instruments of influence.
+- **C:** Nepal's Residency and Afghan external-relations influence refute an absolute absence of interference.
+- **D:** The Afghan and Himalayan examples are not Burmese ports.
 
-A. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-B. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-C. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
-D. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
+**Trap:** Annexation and continued separate statehood cannot be treated as synonyms.
 
-**Answer: C.**
-**Explanation:** Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q32 — D
 
-### Q68. Which statement avoids a common matching trap about Sikkim and Bhutan?
+**Answer: D.** One is an 1893 agreement, the other a 1901 administrative formation.
 
-A. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-B. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-C. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-D. Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system.
+**Option-by-option explanation:**
+- **A:** NWFP is a province; Gandamak, not Durand, followed that war.
+- **B:** Neither item was an Upper Burma province.
+- **C:** These linkages mix four different theatres and periods.
+- **D:** One is an 1893 agreement, the other a 1901 administrative formation.
 
-**Answer: D.**
-**Explanation:** Treaties and protectorate-style influence drew Sikkim and Bhutan into the Himalayan buffer system. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** NWFP is a province; Gandamak, not Durand, followed that war.
 
-### Q69. Which statement correctly identifies Buffer versus annexation?
+### Q33 — A
 
-A. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-B. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-C. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-D. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
+**Answer: A.** This is a qualified inference from oscillating doctrine and repeated interventions.
 
-**Answer: A.**
-**Explanation:** Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** This is a qualified inference from oscillating doctrine and repeated interventions.
+- **B:** Repeated Afghan and other frontier interventions disprove final closure.
+- **C:** An eastern annexation did not resolve the north-west Great Game.
+- **D:** Administrative integration in one theatre did not settle another.
 
-### Q70. Which chronology card should be filed under Buffer versus annexation?
+**Trap:** An eastern annexation did not resolve the north-west Great Game.
 
-A. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-B. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-C. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-D. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
+### Q34 — B
 
-**Answer: B.**
-**Explanation:** Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: B.** All three preserve the Afghan, Burmese and Tibetan matches in the source.
 
-### Q71. Which option should a candidate retain when revising Buffer versus annexation?
+**Option-by-option explanation:**
+- **A:** Statement 3 is true; the mission went to Tibet.
+- **B:** All three preserve the Afghan, Burmese and Tibetan matches in the source.
+- **C:** Statement 1 is true; Yandabo ended the first Burmese war.
+- **D:** Both statements 1 and 2 also have the correct treaty-war and ruler-territory matches.
 
-A. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-B. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-C. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
-D. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
+**Trap:** Statement 1 is true; Yandabo ended the first Burmese war.
 
-**Answer: C.**
-**Explanation:** Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q35 — C
 
-### Q72. Which statement avoids a common matching trap about Buffer versus annexation?
+**Answer: C.** The doctrines differ in advance and restraint; neither guarantees an end to expenditure.
 
-A. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-B. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-C. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-D. Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages.
+**Option-by-option explanation:**
+- **A:** Statement 3 is false and forward influence need not entail annexation.
+- **B:** Statement 1 is true while statement 3 is ungrounded.
+- **C:** The doctrines differ in advance and restraint; neither guarantees an end to expenditure.
+- **D:** Neither doctrine automatically eliminates frontier costs.
 
-**Answer: D.**
-**Explanation:** Afghanistan and Nepal were managed mainly as buffers, whereas Burma was conquered and annexed in stages. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Trap:** Statement 3 is false and forward influence need not entail annexation.
 
-### Q73. Which statement correctly identifies Indian revenue burden?
+### Q36 — D
 
-A. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-B. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-C. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-D. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
+**Answer: D.** Source evidence establishes the fear and mission, not a proved Russian takeover.
 
-**Answer: A.**
-**Explanation:** Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Option-by-option explanation:**
+- **A:** A British intervention does not establish Russian annexation.
+- **B:** The Tibet mission is not a Burmese provincial campaign.
+- **C:** Curzon's stated fear of rival influence undercuts that denial.
+- **D:** Source evidence establishes the fear and mission, not a proved Russian takeover.
 
-### Q74. Which chronology card should be filed under Indian revenue burden?
+**Trap:** A British intervention does not establish Russian annexation.
 
-A. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-B. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-C. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-D. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
+### Q37 — A
 
-**Answer: B.**
-**Explanation:** Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+**Answer: A.** Incidence is supported; precise totals require separate financial evidence.
 
-### Q75. Which option should a candidate retain when revising Indian revenue burden?
+**Option-by-option explanation:**
+- **A:** Incidence is supported; precise totals require separate financial evidence.
+- **B:** No such numerical share is established by these owners.
+- **C:** Treaty influence and frontier garrisons could coexist.
+- **D:** Imperial benefit and Indian fiscal incidence must be separately assessed.
 
-A. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-B. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-C. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-D. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-
-**Answer: C.**
-**Explanation:** Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Indian revenue burden?
-
-A. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-B. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-C. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-D. Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial.
-
-**Answer: D.**
-**Explanation:** Frontier wars and garrisons were charged to Indian revenue even when their strategic purpose was imperial. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Boundary legacy?
-
-A. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-B. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-C. British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire.
-D. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-
-**Answer: A.**
-**Explanation:** Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Boundary legacy?
-
-A. The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan.
-B. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-C. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-D. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-
-**Answer: B.**
-**Explanation:** Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Boundary legacy?
-
-A. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-B. Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.
-C. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-D. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-
-**Answer: C.**
-**Explanation:** Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Boundary legacy?
-
-A. The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from Kabul.
-B. Forward policy used missions, posts, subsidies, war and political control to pre-empt perceived rival influence.
-C. The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.
-D. Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent.
-
-**Answer: D.**
-**Explanation:** Independent India inherited frontier lines and administrative habits designed for empire rather than national democratic consent. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
+**Trap:** No such numerical share is established by these owners.
 ### Semantic-completeness coverage drills — Modern Topic 13
 
 | Control | Required answer route | Fatal trap |

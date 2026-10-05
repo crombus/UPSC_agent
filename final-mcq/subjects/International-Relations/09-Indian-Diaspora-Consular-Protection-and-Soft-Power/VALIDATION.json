@@ -1,0 +1,69 @@
+{
+  "topic_key": "international-relations-09",
+  "title": "Indian Diaspora, Consular Protection and Soft Power",
+  "status": "complete",
+  "audit_date": "2026-10-04",
+  "revisions": [
+    {
+      "revision": 1,
+      "questions": 47,
+      "answers": 47,
+      "coverage_rows": 47,
+      "status": "complete",
+      "keys": {
+        "A": 6,
+        "B": 9,
+        "C": 14,
+        "D": 18
+      }
+    },
+    {
+      "revision": 2,
+      "questions": 47,
+      "answers": 47,
+      "coverage_rows": 47,
+      "status": "complete",
+      "keys": {
+        "A": 10,
+        "B": 13,
+        "C": 9,
+        "D": 15
+      }
+    },
+    {
+      "revision": 3,
+      "questions": 47,
+      "answers": 47,
+      "coverage_rows": 47,
+      "status": "complete",
+      "keys": {
+        "A": 11,
+        "B": 21,
+        "C": 9,
+        "D": 6
+      }
+    }
+  ],
+  "pyq": {
+    "routed_mains": [
+      "2020 GS-II Q10",
+      "2023 GS-II Q10"
+    ],
+    "objective": "none directly routed",
+    "exact_wording_reproduced": false
+  },
+  "institutional_dimensions": [
+    "origin",
+    "mandate",
+    "headquarters",
+    "membership",
+    "reports/frequency",
+    "funding holds",
+    "leadership",
+    "committees",
+    "timeline",
+    "India linkage"
+  ],
+  "nobel_or_major_awards": "not required by authoritative sources",
+  "approved": false
+}

@@ -6,805 +6,429 @@ topic_key: world-history-01
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Age of Reason and Enlightenment?
+### Questions (answer-free; attempt before consulting the key)
 
-A. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-B. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
+#### Q1. An essay attributes the Enlightenment to one united anti-religious party. What is the strongest correction?
 
-**Answer: A.**
-**Explanation:** Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness. The remaining options belong to different chronology, actor or analytical categories.
+A. It was a plural European intellectual climate challenging inherited authority through reason, not a single organisation or exclusively anti-religious campaign.
+B. It was a French electoral coalition committed to immediate universal adult suffrage.
+C. It was solely an economic response to nineteenth-century industrial unemployment.
+D. It was identical to the legal abolition of feudal dues across Europe in 1789.
 
-### Q2. Which chronology card should be filed under Age of Reason and Enlightenment?
+#### Q2. A government claims its hereditary title alone exempts it from explaining taxation. Which Enlightenment response challenges its claim most directly?
 
-A. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-B. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-C. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-D. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
+A. Economic freedom entails abolishing every public levy without exception.
+B. Consent-based authority and rights require an account of taxation to those governed.
+C. Popular sovereignty authorises every tax passed by an unelected ministry.
+D. Separation of powers means fiscal decisions are immune from public scrutiny.
 
-**Answer: B.**
-**Explanation:** Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness. The remaining options belong to different chronology, actor or analytical categories.
+#### Q3. Which chronological sequence keeps intellectual publications separate from revolutionary events?
 
-### Q3. Which option preserves the source-bounded meaning of Age of Reason and Enlightenment?
+A. Locke (1689) → French Revolution (1789) → Montesquieu (1748) → Rousseau (1762) → America (1776).
+B. Montesquieu (1748) → Locke (1689) → Rousseau (1762) → French Revolution (1789) → America (1776).
+C. Locke's *Two Treatises* (1689) → Montesquieu's *Spirit of Laws* (1748) → Rousseau's *Social Contract* (1762) → American Declaration (1776) → French Revolution (1789).
+D. Rousseau (1762) → Locke (1689) → American Declaration (1776) → Montesquieu (1748) → France (1789).
 
-A. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-B. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-C. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-D. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
+#### Q4. A constitution distributes executive, legislative and judicial authority. Which thinker is the best institutional anchor, without assuming a verbatim borrowed clause?
 
-**Answer: C.**
-**Explanation:** Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness. The remaining options belong to different chronology, actor or analytical categories.
+A. Rousseau: the general will itself prescribes three precisely specified branches.
+B. Voltaire: critique of clerical authority directly drafted the branches.
+C. The Physiocrats: defence of property implies judicial supremacy over parliament.
+D. Montesquieu: dividing power is an institutional check against arbitrary rule.
 
-### Q4. Which statement avoids a close-option trap about Age of Reason and Enlightenment?
+#### Q5. Under which condition would Locke's argument most clearly justify resistance?
 
-A. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-B. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-C. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-D. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
+A. When a government entrusted to protect natural rights instead violates them.
+B. Whenever an election fails to produce an absolute majority of property holders.
+C. Only when a monarch permits church authorities to publish criticism.
+D. Whenever popular sovereignty is interpreted as identical to unchecked executive power.
 
-**Answer: D.**
-**Explanation:** Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness. The remaining options belong to different chronology, actor or analytical categories.
+#### Q6. A popular assembly calls every measure it passes the general will. What is the defensible assessment?
 
-### Q5. Which statement correctly identifies Locke, 1689?
+A. The doctrine identifies taxation alone as the sole source of legitimate popular action.
+B. Rousseau grounds sovereignty in the people, but general-will claims can be used coercively against dissent.
+C. Rousseau's theory establishes that sovereignty always belongs to a hereditary monarch.
+D. The general will necessarily gives each dissenter a separate veto on legislation.
 
-A. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-B. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+#### Q7. Why does Voltaire's attack on clerical dogma not by itself prove support for mass democracy?
 
-**Answer: A.**
-**Explanation:** John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible. The remaining options belong to different chronology, actor or analytical categories.
+A. Separation of powers is the same concept as religious toleration.
+B. Anti-clerical arguments necessarily put productive property into state hands.
+C. Secular public criticism addresses authority over thought; it need not settle who receives the franchise.
+D. Clerical dogma was completely eliminated wherever his works were read.
 
-### Q6. Which chronology card should be filed under Locke, 1689?
+#### Q8. A pamphlet opposes arbitrary taxes and privileges while defending economic freedom and property. Which current best fits?
 
-A. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-B. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+A. The Communist International, demanding a single planned economy.
+B. The post-1815 Concert of Europe, favouring congress diplomacy.
+C. Chartism, which began in reaction to the 1935 Social Security Act.
+D. Physiocrats, whose fiscal-consent argument intersects anti-privilege politics.
 
-**Answer: B.**
-**Explanation:** John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible. The remaining options belong to different chronology, actor or analytical categories.
+#### Q9. Which causal claim best explains why rights ideas became revolutionary at particular moments?
 
-### Q7. Which option preserves the source-bounded meaning of Locke, 1689?
+A. Ideas legitimised grievances; fiscal and social crisis affected timing; organised groups determined depth.
+B. Publishing a new political text automatically removed an old regime at once.
+C. Fiscal distress alone predetermined identical political outcomes in both Atlantic cases.
+D. The emergence of industrial trade unions caused the American break from Britain.
 
-A. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-B. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-C. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+#### Q10. A historian writes that the American Revolution *caused* the French Revolution. Which narrower proposition is supported?
 
-**Answer: C.**
-**Explanation:** John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible. The remaining options belong to different chronology, actor or analytical categories.
+A. The American republic emerged only after the French Republic was founded.
+B. Both inherited Enlightenment debates, while the American example influenced and encouraged later French actors.
+C. French social restructuring supplied the earlier template for the Declaration of Independence.
+D. The two movements were the same uprising against feudal village dues.
 
-### Q8. Which statement avoids a close-option trap about Locke, 1689?
+#### Q11. Why would an account of the French Revolution centred only on separation from a foreign ruler miss its distinctive social dimension?
 
-A. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-B. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-C. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-D. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
+A. The American colonies dismantled an identical French seigneurial order first.
+B. The French Revolution occurred before the American declaration and therefore could not share its rights vocabulary.
+C. French revolutionaries also attacked internal seigneurial burdens and legal privilege.
+D. French peasants were never subject to dues or exemptions.
 
-**Answer: D.**
-**Explanation:** John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible. The remaining options belong to different chronology, actor or analytical categories.
+#### Q12. Two rights declarations invoke general equality. Which conclusion survives the exclusion test?
 
-### Q9. Which statement correctly identifies Montesquieu, 1748?
+A. Every inhabitant received an equal vote as soon as rights were declared.
+B. Slavery was permanently abolished in both Atlantic settlements immediately.
+C. All colonial subjects enjoyed the same political standing as metropolitan voters.
+D. Universal-sounding claims coexisted with limits imposed on women, enslaved people and the propertyless.
 
-A. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-B. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+#### Q13. What is the most precise distinction between liberalism and nationalism?
 
-**Answer: A.**
-**Explanation:** Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority. The remaining options belong to different chronology, actor or analytical categories.
+A. Liberalism tests constraints on power and individual rights; nationalism identifies the people entitled to sovereignty.
+B. Liberalism requires ethnic unity; nationalism requires independent courts.
+C. Both necessarily establish universal suffrage as their founding condition.
+D. Nationalism requires state ownership; liberalism necessarily abolishes markets.
 
-### Q10. Which chronology card should be filed under Montesquieu, 1748?
+#### Q14. A post-Napoleonic ruler restores dynastic monarchy but also uses interstate consultation to prevent war. What combination best characterises this?
 
-A. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-B. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-C. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+A. Congress diplomacy proved that all monarchies had accepted popular sovereignty.
+B. Conservatism could link restored order with Concert diplomacy, while repressing liberal-national dissent.
+C. Abolition of inherited institutions was the necessary conservative first step.
+D. The Holy Alliance's sole purpose was universal franchise for workers.
 
-**Answer: B.**
-**Explanation:** Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority. The remaining options belong to different chronology, actor or analytical categories.
+#### Q15. Which example demonstrates that nationalism is politically mobile rather than invariably liberal?
 
-### Q11. Which option preserves the source-bounded meaning of Montesquieu, 1748?
+A. All nationalist movements required the same social base and electoral franchise.
+B. National allegiance forbids a state from pursuing an imperial project.
+C. Later conservative state-building and anti-colonial mobilisation could each appropriate national claims.
+D. Nationalism never appeared until the mid-twentieth century.
 
-A. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-B. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-C. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-D. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
+#### Q16. Which definition allows comparisons between laissez-faire, New Deal reform and state-directed industrialisation?
 
-**Answer: C.**
-**Explanation:** Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority. The remaining options belong to different chronology, actor or analytical categories.
+A. Capitalism ceases to exist whenever any insurance law is enacted.
+B. Capitalism requires that every enterprise be directly administered by a planning party.
+C. Capitalism means a society with no wage labour or markets.
+D. Capitalism has private ownership and profit orientation but can coexist with different degrees of state direction and welfare.
 
-### Q12. Which statement avoids a close-option trap about Montesquieu, 1748?
+#### Q17. A student defines socialism as 'whatever the USSR implemented'. What correction is required?
 
-A. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-B. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-C. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-D. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
+A. Separate collective-control arguments from any regime's record and distinguish revolutionary from parliamentary methods.
+B. Define all socialist thought solely by Soviet party membership.
+C. Assume a welfare provision under capitalism proves the USSR had multiparty elections.
+D. Replace ownership and method with an account of eighteenth-century clerical privilege.
 
-**Answer: D.**
-**Explanation:** Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority. The remaining options belong to different chronology, actor or analytical categories.
+#### Q18. Early critics of industrial capitalism propose cooperative reorganisation; Marxian critics assert a historical class transformation. What is the key distinction?
 
-### Q13. Which statement correctly identifies Rousseau, 1762?
+A. Marxian socialism is defined by defending landlords' exclusive factory ownership.
+B. Moral/model reform differs from a claimed structural class process, though both contest private productive control.
+C. Both approaches necessarily demand constitutional monarchy as their final destination.
+D. Early socialist criticism was caused by the 2008 financial crisis.
 
-A. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-B. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-C. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+#### Q19. A party retains competing elections, private firms and redistribution through social insurance. Which placement is most defensible?
 
-**Answer: A.**
-**Explanation:** Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge. The remaining options belong to different chronology, actor or analytical categories.
+A. Unmodified laissez-faire: no labour or social protection.
+B. Physiocracy: identical to a twentieth-century mass workers' party.
+C. Social democracy: democratic regulation and social provision without requiring abolition of all capitalist production.
+D. Soviet communism: exclusive single-party direction of every planned enterprise.
 
-### Q14. Which chronology card should be filed under Rousseau, 1762?
+#### Q20. What most sharply tests the mismatch between classical proletarian expectation and communist revolutions in Russia and China?
 
-A. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-B. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-C. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-D. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
+A. Both were first governed by universal-franchise social-democratic parliaments.
+B. Neither developed a revolutionary party or a central planning argument.
+C. Their conflict was over whether Montesquieu published before Locke.
+D. Their societies were predominantly peasant, despite the theory's industrial-working-class emphasis.
 
-**Answer: B.**
-**Explanation:** Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge. The remaining options belong to different chronology, actor or analytical categories.
+#### Q21. Chinese communists denounce Khrushchev as a 'revisionist'. What is the sourced dispute?
 
-### Q15. Which option preserves the source-bounded meaning of Rousseau, 1762?
+A. They objected to peaceful coexistence and to claims that communism might be reached without violent revolution.
+B. They accused him of restoring eighteenth-century feudal dues in France.
+C. They argued that all labour reform required strict defence of private ownership.
+D. They demanded a United States-style separation of powers within the Soviet party.
 
-A. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-B. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
+#### Q22. Which chain shows socialism influencing society even without winning national government?
 
-**Answer: C.**
-**Explanation:** Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge. The remaining options belong to different chronology, actor or analytical categories.
+A. Trade unions were first permitted in England in 1942 after the Social Security Act.
+B. US socialist pressure put hours, child-labour limits, women's votes and insurance on other parties' reform agendas.
+C. The small socialist vote logically proves all industrial abuses ceased without legislation.
+D. American reform was introduced only after the Beveridge wartime report.
 
-### Q16. Which statement avoids a close-option trap about Rousseau, 1762?
+#### Q23. English anti-union restrictions were repealed in 1824; Chartism followed in the 1830s–40s. Which distinction matters?
 
-A. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-B. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-C. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-D. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
+A. Chartism immediately won every demand including universal adult suffrage.
+B. Both were imposed by the twentieth-century Soviet Politburo.
+C. Legal scope for collective organisation differed from a working-class movement seeking constitutional representation.
+D. The repeal was itself the 1942 blueprint for the welfare state.
 
-**Answer: D.**
-**Explanation:** Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge. The remaining options belong to different chronology, actor or analytical categories.
+#### Q24. What does the fate of German Social Democrats under the Nazis show about the claim that socialism necessarily rejects opposition parties?
 
-### Q17. Which statement correctly identifies Voltaire and secular criticism?
+A. The SPD authored the Enabling Act as a plan for cooperative industry.
+B. The SPD and Nazi Party were identical because both invoked popular politics.
+C. All German socialist parties held the same view of parliamentary participation.
+D. The SPD operated electorally and opposed the Enabling Act; its repression illustrates a socialist tradition committed to pluralism.
 
-A. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-B. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-C. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-D. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
+#### Q25. One historian credits socialism alone for welfare; another credits war alone. Which comparison uses both time horizons?
 
-**Answer: A.**
-**Explanation:** Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy. The remaining options belong to different chronology, actor or analytical categories.
+A. Pre-war labour demands shaped the programme; depression and total war expanded the opportunity for enactment.
+B. Beveridge's 1942 plan caused the already enacted US Social Security Act of 1935.
+C. The 1935 Act proves there were no reform proposals before 1914.
+D. Wartime planning shows all social-democratic proposals had ceased to exist.
 
-### Q18. Which chronology card should be filed under Voltaire and secular criticism?
+#### Q26. Which pair most accurately captures the twentieth-century argument over the extent of welfare obligations?
 
-A. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-B. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-C. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-D. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+A. Rawls formulated the 1689 *Two Treatises*; Nozick authored the 1762 *Social Contract*.
+B. Rawls defended redistribution through taxation; Nozick defended strict property rights and a minimal state, as reported by Lowe.
+C. Nozick advocated a centrally planned economy; Rawls denied any social-contract role.
+D. Hayek authored *A Theory of Justice*; Friedman wrote *Anarchy, State and Utopia*.
 
-**Answer: B.**
-**Explanation:** Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy. The remaining options belong to different chronology, actor or analytical categories.
+#### Q27. Which evidence most effectively refutes the assertion that free markets automatically secure workers against insecurity?
 
-### Q19. Which option preserves the source-bounded meaning of Voltaire and secular criticism?
+A. The 2008 crisis proved the USSR had abolished all market economies.
+B. Chartism directly created the post-war American Fair Deal in 1838.
+C. The Great Depression alongside subsequent US social insurance demonstrates the role of public correction.
+D. The 1935 Social Security Act established that capitalist recessions were impossible.
 
-A. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-B. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-C. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-D. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
+#### Q28. Which claim about India uses the overview's comparative vocabulary without inventing a direct intellectual transmission?
 
-**Answer: C.**
-**Explanation:** Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy. The remaining options belong to different chronology, actor or analytical categories.
+A. Every Indian anticolonial action copied one precise clause of Rousseau's 1762 text.
+B. The French Revolution directly enacted India's constitutional rights in 1789.
+C. Physiocratic land theory was the sole cause of Indian independence.
+D. Ideas of representation, citizenship and sovereignty can frame a comparison with Indian constitutional politics; transmission needs separate evidence.
 
-### Q20. Which statement avoids a close-option trap about Voltaire and secular criticism?
+### Separate key, elimination and remediation
 
-A. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-B. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-C. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-D. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+#### Q1 — A
 
-**Answer: D.**
-**Explanation:** Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: Britannica's reason, nature, humanity, freedom and happiness describe a plural intellectual movement.
+- **B:** No such unified electoral programme or universal franchise belongs to the Enlightenment.
+- **C:** The eighteenth-century intellectual shift precedes much nineteenth-century factory politics.
+- **D:** The French rupture was one political outcome, not the definition of the whole movement.
+- **Trap / remediation:** Distinguish intellectual climate from a revolution's legislation.
 
-### Q21. Which statement correctly identifies Physiocrats, consent and property?
+#### Q2 — B
 
-A. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-B. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-C. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-D. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+- **A:** Neither rights nor Physiocratic fiscal argument asserts that no tax may exist.
+- **B:** Correct: Locke and the Physiocrats connect authority and fiscal consent.
+- **C:** Rousseau's popular sovereignty does not validate unelected ministerial immunity.
+- **D:** Montesquieu's distributed powers constrain rather than exempt fiscal authority.
+- **Trap / remediation:** Consent to taxation is distinct from a prohibition on taxation.
 
-**Answer: A.**
-**Explanation:** The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics. The remaining options belong to different chronology, actor or analytical categories.
+#### Q3 — C
 
-### Q22. Which chronology card should be filed under Physiocrats, consent and property?
+- **A:** The French Revolution did not precede the two middle eighteenth-century texts.
+- **B:** The American Declaration preceded, rather than followed, the French rupture.
+- **C:** Correct: the three texts precede both specified Atlantic ruptures.
+- **D:** Rousseau followed Locke; this reverses a key publication sequence.
+- **Trap / remediation:** A standard period label such as c.1776–1848 is not a publication date.
 
-A. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-B. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-C. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-D. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
+#### Q4 — D
 
-**Answer: B.**
-**Explanation:** The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Popular sovereignty and the general will concern legitimacy, not this precise design.
+- **B:** Anti-clerical public debate is different from constitutional branch allocation.
+- **C:** Their taxation and property ideas do not establish that specific hierarchy.
+- **D:** Correct: *Spirit of Laws* (1748) anchors separation and constitutional balance.
+- **Trap / remediation:** Idea-to-institution linkage is defensible; direct clause authorship requires evidence.
 
-### Q23. Which option preserves the source-bounded meaning of Physiocrats, consent and property?
+#### Q5 — A
 
-A. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-B. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-C. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-D. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+- **A:** Correct: limited rule and consent make rights-violating government contestable.
+- **B:** No such absolute-majority electoral threshold occurs in the sourced Locke account.
+- **C:** Clerical publication is not Locke's test for forfeiting legitimate authority.
+- **D:** Popular sovereignty is Rousseau's distinct emphasis, not unchecked Lockeian executive power.
+- **Trap / remediation:** Locke's seventeenth-century setting is not evidence of modern universal voting.
 
-**Answer: C.**
-**Explanation:** The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics. The remaining options belong to different chronology, actor or analytical categories.
+#### Q6 — B
 
-### Q24. Which statement avoids a close-option trap about Physiocrats, consent and property?
+- **A:** Taxation is a possible conflict, not a complete theory of sovereignty.
+- **B:** Correct: distinguish the popular basis of authority from the danger of coercive invocation.
+- **C:** Hereditary dynastic authority is precisely what popular sovereignty contests.
+- **D:** Unanimous personal veto is not the general-will position in the source.
+- **Trap / remediation:** Do not equate popular sovereignty either with universal suffrage already achieved or with immunity from abuse.
 
-A. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-B. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-C. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-D. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
+#### Q7 — C
 
-**Answer: D.**
-**Explanation:** The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Institutional checks belong chiefly to Montesquieu, not an identity with toleration.
+- **B:** Collective ownership is a different social and economic proposition.
+- **C:** Correct: civil-liberty and secular criticism do not entail universal electoral rights.
+- **D:** Publication or influence never demonstrates complete institutional elimination.
+- **Trap / remediation:** Source expressly warns that Voltaire was not a democrat.
 
-### Q25. Which statement correctly identifies Ideas, crisis and mobilisation?
+#### Q8 — D
 
-A. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-B. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-C. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-D. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
+- **A:** Communist central planning is later and opposed to this property premise.
+- **B:** The Concert belongs to later conservative interstate order, not this fiscal theory.
+- **C:** Chartism precedes 1935 and addresses working-class constitutional representation.
+- **D:** Correct: the source connects Physiocrats with consent, property and economic freedom.
+- **Trap / remediation:** A minority Physiocratic current is not the complete Enlightenment.
 
-**Answer: A.**
-**Explanation:** The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force. The remaining options belong to different chronology, actor or analytical categories.
+#### Q9 — A
 
-### Q26. Which chronology card should be filed under Ideas, crisis and mobilisation?
+- **A:** Correct: this is the owner's balanced form–timing–depth synthesis.
+- **B:** Decades elapsed between the canonical texts and both revolutions.
+- **C:** America and France differed in target and social depth despite shared language.
+- **D:** Industrial labour politics is not the trigger of colonial independence.
+- **Trap / remediation:** Use ideology, structure and agency jointly; do not substitute one for all three.
 
-A. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-B. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-C. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-D. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+#### Q10 — B
 
-**Answer: B.**
-**Explanation:** The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** American independence preceded France's later republican transition.
+- **B:** Correct: parallel intellectual ancestry plus influence respects sequence and differing contexts.
+- **C:** French 1789 follows the American 1776 declaration.
+- **D:** Imperial rupture in America differs from France's internal privileged order.
+- **Trap / remediation:** Influence is not a sufficient or exclusive causal explanation.
 
-### Q27. Which option preserves the source-bounded meaning of Ideas, crisis and mobilisation?
+#### Q11 — C
 
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-C. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-D. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
+- **A:** The colonies' primary rupture was with imperial authority, not identical village burdens.
+- **B:** 1789 follows 1776; the common language does not imply identical social targets.
+- **C:** Correct: internal social/legal hierarchy is central to the French case.
+- **D:** The source expressly identifies dues and privileged exemptions as targets.
+- **Trap / remediation:** Shared Atlantic rights language does not erase unlike institutional starting points.
 
-**Answer: C.**
-**Explanation:** The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force. The remaining options belong to different chronology, actor or analytical categories.
+#### Q12 — D
 
-### Q28. Which statement avoids a close-option trap about Ideas, crisis and mobilisation?
+- **A:** Property and sex restrictions survived initial constitutional settlements.
+- **B:** Slavery survived American independence and the French trajectory was reversible.
+- **C:** Colonial exclusion makes such an immediate equivalence historically unsound.
+- **D:** Correct: a universal grammar could be administered through a restricted electorate.
+- **Trap / remediation:** Evaluate actual rights-bearers, not declarations in isolation.
 
-A. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-B. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-C. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-D. The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
+#### Q13 — A
 
-**Answer: D.**
-**Explanation:** The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: questions of how government is limited and who forms the polity are different.
+- **B:** The proposed defining predicates are crossed and over-narrowed.
+- **C:** Early liberal settlements excluded many adults from the vote.
+- **D:** Ownership systems are not the distinguishing issue between these two doctrines.
+- **Trap / remediation:** They may ally against dynastic rule without becoming synonyms.
 
-### Q29. Which statement correctly identifies American Declaration, 1776?
+#### Q14 — B
 
-A. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-B. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-C. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-D. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+- **A:** Interstate peace neither proves nor requires popular sovereignty.
+- **B:** Correct: the Vienna/Concert case combines great-power peace with political repression.
+- **C:** Conservatism prioritised inherited institutions and organic change.
+- **D:** The Holy Alliance cannot be identified with workers' franchise.
+- **Trap / remediation:** Conservatism was adaptive as well as repressive, not simply resistance to every change.
 
-**Answer: A.**
-**Explanation:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. The remaining options belong to different chronology, actor or analytical categories.
+#### Q15 — C
 
-### Q30. Which chronology card should be filed under American Declaration, 1776?
+- **A:** Constituencies and institutions varied historically.
+- **B:** Nationalism has also been combined with exclusionary and imperial agendas.
+- **C:** Correct: the owner's Italian/German and anti-colonial links show distinct political coalitions.
+- **D:** Old NCERT already links nationalism to the eighteenth-century ideological shift.
+- **Trap / remediation:** Neither later racial appropriation nor early liberal alliances exhaust the concept.
 
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-C. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-D. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
+#### Q16 — D
 
-**Answer: B.**
-**Explanation:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The New Deal is an example of regulated capitalism, not its negation.
+- **B:** Single-party central ownership describes a different model.
+- **C:** Factory wage labour and market exchange are historically characteristic, not forbidden.
+- **D:** Correct: Lowe's ownership criterion does not prescribe a single regulatory regime.
+- **Trap / remediation:** Do not identify capitalism with the absence of government.
 
-### Q31. Which option preserves the source-bounded meaning of American Declaration, 1776?
+#### Q17 — A
 
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-C. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
+- **A:** Correct: doctrine is broader than Soviet practice; social democracy is also a socialist family form.
+- **B:** A single regime cannot exhaust a heterogeneous doctrine.
+- **C:** Welfare spending gives no evidence for Soviet pluralism.
+- **D:** Anti-clericalism cannot answer the socialism-versus-regime distinction.
+- **Trap / remediation:** Distinguish social ownership, revolutionary method and political pluralism.
 
-**Answer: C.**
-**Explanation:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. The remaining options belong to different chronology, actor or analytical categories.
+#### Q18 — B
 
-### Q32. Which statement avoids a close-option trap about American Declaration, 1776?
+- **A:** Marxian criticism targets, rather than sanctifies, concentrated private ownership.
+- **B:** Correct: the owner's early/Marxian comparison concerns rationale and method.
+- **C:** No monarchy is the defining programme of either.
+- **D:** Early socialism arose in the nineteenth-century industrial setting.
+- **Trap / remediation:** Do not mislabel Huey Long as an early European utopian theorist.
 
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-C. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-D. The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
+#### Q19 — C
 
-**Answer: D.**
-**Explanation:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** A regulated welfare economy cannot be described as entirely unregulated.
+- **B:** Eighteenth-century Physiocratic fiscal thought is not this later party form.
+- **C:** Correct: method and pluralism distinguish the parliamentary variant.
+- **D:** Single-party central planning contradicts electoral competition and private firms.
+- **Trap / remediation:** Socialism is the broad family; do not make social democracy and communism synonyms.
 
-### Q33. Which statement correctly identifies French Revolution, 1789?
+#### Q20 — D
 
-A. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-B. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-C. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-D. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
+- **A:** This invented common electoral sequence does not describe the revolutionary origins.
+- **B:** Party organisation and planned-economy claims were prominent.
+- **C:** Publication order cannot explain this social-class mismatch.
+- **D:** Correct: social base in practice diverged from the theoretical industrial proletariat.
+- **Trap / remediation:** Explain difference between doctrinal constituency and actual revolutionary mobilisation.
 
-**Answer: A.**
-**Explanation:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. The remaining options belong to different chronology, actor or analytical categories.
+#### Q21 — A
 
-### Q34. Which chronology card should be filed under French Revolution, 1789?
+- **A:** Correct: Lowe reports the Chinese charge as revision of Marxism–Leninism.
+- **B:** French seigneurial dues do not define the Sino-Soviet quarrel.
+- **C:** The charge concerns communist method and orthodoxy, not this proposition.
+- **D:** No such demand for the US constitutional model grounds the named dispute.
+- **Trap / remediation:** Revisionism here is an attributed Sino-Soviet charge, not a synonym for all reformism.
 
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-C. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
+#### Q22 — B
 
-**Answer: B.**
-**Explanation:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** English anti-union repeal is dated 1824; the US Act is 1935.
+- **B:** Correct: Lowe links socialist advocacy to later mainstream reforms.
+- **C:** A small vote does not establish no policy impact or instant relief.
+- **D:** The Progressive agenda predates Beveridge's 1942 report.
+- **Trap / remediation:** Policy influence and direct exercise of government are different measures of success.
 
-### Q35. Which option preserves the source-bounded meaning of French Revolution, 1789?
+#### Q23 — C
 
-A. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-B. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-C. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
+- **A:** The source explicitly says Chartism failed to achieve its immediate aims.
+- **B:** Both movements began in nineteenth-century England, not Soviet administration.
+- **C:** Correct: trade-union legality and political franchise campaigns were related, not identical.
+- **D:** Beveridge's wartime report is much later.
+- **Trap / remediation:** Industrial workers could gain organisational rights before full political equality.
 
-**Answer: C.**
-**Explanation:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. The remaining options belong to different chronology, actor or analytical categories.
+#### Q24 — D
 
-### Q36. Which statement avoids a close-option trap about French Revolution, 1789?
+- **A:** Opposition to the Act is the opposite of authoring it.
+- **B:** Nazi persecution refutes an asserted political identity.
+- **C:** Communist refusal to cooperate with the SPD demonstrates division over method.
+- **D:** Correct: the SPD alone voted against the Enabling Act and suffered imprisonment.
+- **Trap / remediation:** Party history tests doctrine-versus-regime and the communist/social-democratic split.
 
-A. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-D. The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+#### Q25 — A
 
-**Answer: D.**
-**Explanation:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: the source balances programme, enabling crisis and administration.
+- **B:** Later documents cannot cause earlier legislation.
+- **C:** Earlier socialist and labour agendas predate Depression-era enactment.
+- **D:** Wartime state capacity and labour pressure are compatible explanations.
+- **Trap / remediation:** Distinguish 1935 US Act from Britain's wartime 1942 Beveridge report.
 
-### Q37. Which statement correctly identifies Atlantic comparison?
+#### Q26 — B
 
-A. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-B. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-C. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
+- **A:** Locke and Rousseau wrote the early texts, not twentieth-century theorists.
+- **B:** Correct: Lowe juxtaposes liberal social-contract provision and minimal-state property defence.
+- **C:** Both positions are reversed and falsely attributed.
+- **D:** The sourced books belong to Rawls and Nozick respectively.
+- **Trap / remediation:** Report theorists' positions in paraphrase; the owner does not hold verbatim text from their books.
 
-**Answer: A.**
-**Explanation:** America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth. The remaining options belong to different chronology, actor or analytical categories.
+#### Q27 — C
 
-### Q38. Which chronology card should be filed under Atlantic comparison?
+- **A:** A financial crisis cannot logically establish that sweeping historical proposition.
+- **B:** A British nineteenth-century reform campaign did not enact a twentieth-century US programme.
+- **C:** Correct: instability and a later welfare response distinguish markets from security guarantees.
+- **D:** The Act addressed vulnerability, not the physical impossibility of future crises.
+- **Trap / remediation:** Judge institutional outcomes, not a binary capitalism/socialism slogan.
 
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-C. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
+#### Q28 — D
 
-**Answer: B.**
-**Explanation:** America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Atlantic comparison?
-
-A. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-
-**Answer: C.**
-**Explanation:** America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Atlantic comparison?
-
-A. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-D. America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-
-**Answer: D.**
-**Explanation:** America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Universal grammar, restricted membership?
-
-A. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-B. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-C. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-D. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-
-**Answer: A.**
-**Explanation:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Universal grammar, restricted membership?
-
-A. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-B. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-C. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-D. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-
-**Answer: B.**
-**Explanation:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Universal grammar, restricted membership?
-
-A. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-B. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-C. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-D. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-
-**Answer: C.**
-**Explanation:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Universal grammar, restricted membership?
-
-A. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-B. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-C. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-D. Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-
-**Answer: D.**
-**Explanation:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Liberalism?
-
-A. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-
-**Answer: A.**
-**Explanation:** Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Liberalism?
-
-A. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-B. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-C. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-D. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-
-**Answer: B.**
-**Explanation:** Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Liberalism?
-
-A. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-D. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-
-**Answer: C.**
-**Explanation:** Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Liberalism?
-
-A. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-B. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-C. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-D. Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-
-**Answer: D.**
-**Explanation:** Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Conservatism?
-
-A. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-B. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-C. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-D. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-
-**Answer: A.**
-**Explanation:** Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Conservatism?
-
-A. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-B. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-C. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-D. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-
-**Answer: B.**
-**Explanation:** Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Conservatism?
-
-A. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-B. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-C. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-D. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-
-**Answer: C.**
-**Explanation:** Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Conservatism?
-
-A. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-B. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-C. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-D. Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-
-**Answer: D.**
-**Explanation:** Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Nationalism?
-
-A. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-D. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-
-**Answer: A.**
-**Explanation:** Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Nationalism?
-
-A. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-B. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-C. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-D. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-
-**Answer: B.**
-**Explanation:** Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Nationalism?
-
-A. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-B. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-C. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-D. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-
-**Answer: C.**
-**Explanation:** Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Nationalism?
-
-A. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-B. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-C. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-D. Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-
-**Answer: D.**
-**Explanation:** Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Capitalism?
-
-A. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-B. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-C. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-D. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-
-**Answer: A.**
-**Explanation:** Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Capitalism?
-
-A. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-B. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-C. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-D. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-
-**Answer: B.**
-**Explanation:** Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Capitalism?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-C. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-D. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-
-**Answer: C.**
-**Explanation:** Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Capitalism?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-C. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-D. Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-
-**Answer: D.**
-**Explanation:** Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Socialism?
-
-A. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-B. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-C. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-D. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-
-**Answer: A.**
-**Explanation:** Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Socialism?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-C. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-D. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-
-**Answer: B.**
-**Explanation:** Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Socialism?
-
-A. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-B. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-C. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-D. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-
-**Answer: C.**
-**Explanation:** Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Socialism?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-C. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-D. Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-
-**Answer: D.**
-**Explanation:** Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Communism?
-
-A. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-B. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-C. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-D. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-
-**Answer: A.**
-**Explanation:** Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Communism?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-C. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-D. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-
-**Answer: B.**
-**Explanation:** Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Communism?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-C. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-D. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-
-**Answer: C.**
-**Explanation:** Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Communism?
-
-A. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-B. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-C. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-D. Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-
-**Answer: D.**
-**Explanation:** Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Social democracy?
-
-A. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-B. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-C. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-D. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-
-**Answer: A.**
-**Explanation:** Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Social democracy?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-C. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-D. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-
-**Answer: B.**
-**Explanation:** Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Social democracy?
-
-A. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-B. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-C. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-D. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-
-**Answer: C.**
-**Explanation:** Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Social democracy?
-
-A. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-B. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-
-**Answer: D.**
-**Explanation:** Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Trade unions and Chartism?
-
-A. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-B. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-C. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-D. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-
-**Answer: A.**
-**Explanation:** England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Trade unions and Chartism?
-
-A. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-B. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-C. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-D. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-
-**Answer: B.**
-**Explanation:** England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Trade unions and Chartism?
-
-A. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-B. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-C. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-D. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-
-**Answer: C.**
-**Explanation:** England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Trade unions and Chartism?
-
-A. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-B. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-C. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-D. England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-
-**Answer: D.**
-**Explanation:** England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Welfare-state synthesis?
-
-A. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-B. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-C. Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-D. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-
-**Answer: A.**
-**Explanation:** Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Welfare-state synthesis?
-
-A. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-B. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-C. John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-D. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-
-**Answer: B.**
-**Explanation:** Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Welfare-state synthesis?
-
-A. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-B. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-C. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-D. Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-
-**Answer: C.**
-**Explanation:** Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Welfare-state synthesis?
-
-A. Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
-B. Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-C. The Physiocrats connected taxation with consent and defended property and economic freedom, linking fiscal grievance to anti-privilege politics.
-D. Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
-
-**Answer: D.**
-**Explanation:** Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** This specifies an undocumented direct transmission.
+- **B:** The Indian Constitution was not enacted by eighteenth-century France.
+- **C:** A single European intellectual current cannot explain India's multifactorial struggle.
+- **D:** Correct: shared political vocabulary is an analytical linkage, not proof of borrowing.
+- **Trap / remediation:** India-centric links must mark analogy versus demonstrable causal influence.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -816,248 +440,82 @@ No direct UPSC PYQ is verified as owned solely by this overview in the local 201
 
 **Question:** How did Enlightenment thought challenge arbitrary political authority? Answer in about 150 words.
 
-**Model thesis:** It replaced inherited authority with tests of rights, consent, institutional limitation and public reason, while stopping short of modern universal democracy.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Enlightenment thinkers challenged hereditary authority with tests a ruler could fail: rights, consent, public reason and institutional restraint.
 
-- John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-- Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-- Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-- Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy.
+John Locke's *Two Treatises* (1689) made government answerable for natural rights: when it violated its trust, subjects could justify resistance rather than merely submit. Montesquieu's *Spirit of Laws* (1748) argued for separating powers; distributing authority made arbitrary decision-making harder to defend or sustain. Rousseau's *Social Contract* (1762) located sovereignty in the people, so obedience required a political account of collective self-rule rather than deference to a dynasty. Voltaire challenged clerical dogma through reasoned criticism, widening the space for civil liberty and secular debate. The Physiocrats' insistence on consent in taxation connected these arguments to practical fiscal power.
 
-**Qualified conclusion:** It replaced inherited authority with tests of rights, consent, institutional limitation and public reason, while stopping short of modern universal democracy.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How did Enlightenment thought challenge arbitrary political authority? Answer in about 150…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “How did Enlightenment thought challenge arbitrary political authority? Answer in about 150…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** It replaced inherited authority with tests of rights, consent, institutional limitation and public reason, while stopping short of modern universal democracy.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Voltaire's critique of clerical authority elevated reason over dogma and widened secular public debate, but anti-clericalism must not be equated automatically with democracy. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** It replaced inherited authority with tests of rights, consent, institutional limitation and public reason, while stopping short of modern universal democracy.
+These were distinct proposals, not a democratic manifesto: Rousseau's general will could suppress dissent, Voltaire's anti-clericalism did not make him a democrat, and early settlements restricted participation. Nevertheless, arbitrary power faced a burden of justification.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Distinguish liberalism from nationalism in the Age of Revolutions. Answer in about 150 words.
 
-**Model thesis:** Liberalism asked how power should be limited and rights secured; nationalism asked which people should possess sovereignty, and their temporary alliance never made them identical.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Liberalism asked *how* authority could be limited and rights protected; nationalism asked *whose* sovereignty a state should express.
 
-- Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise.
-- Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
-- Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
+Locke's natural rights and consent, Montesquieu's separation of powers and the liberal attack on inherited privilege supported constitutional limits, legal equality and representative institutions. Such protections could be demanded within an existing state. Nationalists, by contrast, asserted that the *nation*, not a dynasty or external empire, was the proper political community. The 1776 American break with empire linked self-government and rights; the French Revolution linked citizenship and popular sovereignty to the nation while challenging privilege. Opposition to absolutism explains their alliance without collapsing their aims.
 
-**Qualified conclusion:** Liberalism asked how power should be limited and rights secured; nationalism asked which people should possess sovereignty, and their temporary alliance never made them identical.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish liberalism from nationalism in the Age of Revolutions. Answer in about 150 words.”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise three named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Distinguish liberalism from nationalism in the Age of Revolutions. Answer in about 150 words.”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Liberalism asked how power should be limited and rights secured; nationalism asked which people should possess sovereignty, and their temporary alliance never made them identical.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Liberalism made consent, limited government, legal equality, rights and representative institutions its core political tests, without initially implying universal franchise. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Liberalism asked how power should be limited and rights secured; nationalism asked which people should possess sovereignty, and their temporary alliance never made them identical.
+Neither movement guaranteed inclusive democracy. Property qualifications narrowed early liberal representation; women, enslaved people, colonial subjects and many propertyless men remained excluded. Nationalism later served conservative, racial and anti-colonial projects as well as liberal ones. Institutional restraint and the identity of the sovereign people remain different aims.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** The Enlightenment supplied the language, not the entire cause, of revolution. Discuss. Answer in about 250 words.
 
-**Model thesis:** Ideas converted grievance into rights-claims, but fiscal crisis, social conflict and political opportunity determined timing, leadership and depth.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The Enlightenment supplied a language in which grievances became claims against illegitimate power; it did not itself create the fiscal emergencies or social coalitions that brought revolutions about. Old NCERT calls eighteenth-century Europe the Age of Reason; its emphasis on reason, nature, humanity, freedom and happiness challenged clerical authority, hereditary privilege and autocracy.
 
-- Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness.
-- The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force.
-- The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-- The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
+Locke's account of consent and natural rights turned taxation and repression into questions of lawful government. Montesquieu made restraints on authority institutionally imaginable; Rousseau made popular sovereignty a political alternative to dynasty. The Physiocrats linked taxation to consent and property rights. These different arguments offered protestors a vocabulary of rights, not a single coordinated programme.
 
-**Qualified conclusion:** Ideas converted grievance into rights-claims, but fiscal crisis, social conflict and political opportunity determined timing, leadership and depth.
+Why did revolt follow only at particular moments? After Britain's post-1763 war debt, colonial taxation and representation became a constitutional confrontation. The American Declaration of 1776 translated rights claims into an imperial break and a written constitutional order. In France, monarchical financial distress and a bread crisis converged with a social structure of seigneurial dues and unequal privilege. The 1789 revolution thus moved beyond a dispute over government to make citizenship, the nation and the abolition of legal privilege mass political questions. Bourgeois demands, peasant grievances and urban mobilisation did not have identical goals; their interaction determined the revolution's depth and volatility.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “The Enlightenment supplied the language, not the entire cause, of revolution. Discuss. Answer…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “The Enlightenment supplied the language, not the entire cause, of revolution. Discuss. Answer…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Ideas converted grievance into rights-claims, but fiscal crisis, social conflict and political opportunity determined timing, leadership and depth.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Old NCERT describes eighteenth-century Europe as the Age of Reason or Enlightenment, an intellectual climate centred on reason, nature, humanity, freedom and happiness. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The balanced causal formula is that ideas supplied legitimacy, fiscal and social crises supplied momentum, and mobilised groups supplied revolutionary force. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Ideas converted grievance into rights-claims, but fiscal crisis, social conflict and political opportunity determined timing, leadership and depth.
+Ideas were indispensable to the *form* of the argument, crisis to its *timing*, and organised social conflict to its *reach*. Enlightened language also circulated without revolution, while both revolutionary settlements excluded many women, enslaved people and the propertyless. To call ideas the sole cause mistakes justification for the whole causal process.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Compare the uses of Enlightenment ideas in the American and French Revolutions. Answer in about 250 words.
 
-**Model thesis:** Both used rights and sovereignty, but America constitutionalised independence while France destroyed internal privilege and made citizenship and nationhood socially transformative.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The American and French Revolutions shared Enlightenment language about rights, consent and sovereignty, but put it to work against different objects of power. They should be compared as parallel applications, not as a simple chain in which America caused France.
 
-- The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-- The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-- America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth.
-- Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
+In British North America, Locke's consent principle gave colonial objections to imperial taxation a claim about legitimate government. The Declaration of Independence (1776) argued for separation from external imperial authority. Written constitutionalism, federal republican institutions and the Bill of Rights then sought to secure the new political order. Colonists were breaking a political link, not dismantling a pervasive seigneurial order in their own villages.
 
-**Qualified conclusion:** Both used rights and sovereignty, but America constitutionalised independence while France destroyed internal privilege and made citizenship and nationhood socially transformative.
+In France, attacks on hereditary exemption, clerical authority and feudal dues met an internal fiscal and bread crisis. Rousseau's popular sovereignty and the 1789 rights language helped redefine subjects as citizens of a nation; the assault on legal privilege reached peasant society as well as political institutions. Unlike the more durable American federal settlement, the French sequence passed through republic, Terror (1793–94), Directory and Napoleonic empire, though legal equality survived. War and counter-revolution help explain this radicalisation better than an automatic effect of any philosopher's writings.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare the uses of Enlightenment ideas in the American and French Revolutions. Answer in…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+Claims of universal rights were sharply limited in both cases. Slavery survived American independence; French revolutionaries attempted abolition but Napoleon reversed it. Women and many propertyless people remained outside effective citizenship, while colonial subjects faced the contradiction between rights and empire.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise five named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Compare the uses of Enlightenment ideas in the American and French Revolutions. Answer in…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Both used rights and sovereignty, but America constitutionalised independence while France destroyed internal privilege and made citizenship and nationhood socially transformative.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** America broke an imperial link and institutionalised a federal republic; France dismantled an internal structure of feudal and dynastic privilege with much greater social depth. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Both used rights and sovereignty, but America constitutionalised independence while France destroyed internal privilege and made citizenship and nationhood socially transformative.
+Thus shared intellectual resources encouraged both revolutions, but an imperial independence struggle and an attack on France's internal hierarchy produced different social depth and institutional trajectories.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Examine the forms and social effects of capitalism, socialism and communism. Answer in about 300 words.
 
-**Model thesis:** The doctrines differed over ownership, decision-making and method; their effects varied through wage labour, revolution, regulation and welfare rather than following slogans mechanically.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The three traditions must be compared by ownership, control and political method, then by the institutions through which they changed social life. Neither a market nor a regime claiming socialism is a sufficient definition of an entire doctrine.
 
-- Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation.
-- Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms.
-- Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged.
-- Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation.
-- England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics.
-- Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report.
+**Capitalism** organises production around private ownership, profit, contract and wage labour. Laissez-faire gave owners wide discretion, expanding production while leaving workers exposed to insecure wages and conditions. This is not capitalism's only form: New Deal regulation and post-war welfare modified market outcomes; Japan's state-directed industrialisation illustrates another route. The late-twentieth-century deregulated form and the 2008 crisis likewise caution against assuming markets automatically provide security.
 
-**Qualified conclusion:** The doctrines differed over ownership, decision-making and method; their effects varied through wage labour, revolution, regulation and welfare rather than following slogans mechanically.
+**Socialism** demands social ownership or control of productive wealth and distribution attentive to need, but encompasses cooperative, parliamentary and revolutionary programmes. Industrial workers' organisation changed the bargaining relation: England's anti-union restrictions were repealed in 1824, enabling unions to grow; Chartism in the 1830s–40s carried working-class demands into constitutional politics. The latter sought political voice, not simply higher wages. Socialist and labour pressure helped set the agenda for social insurance and public responsibility.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the forms and social effects of capitalism, socialism and communism. Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
+**Communism**, in the revolutionary form realised by one-party states, pursued collective ownership and central planning through seizure of state power. Soviet, Chinese and Yugoslav paths differed: a Soviet regime's methods cannot define all socialism. Planning promised security and directed resources, but concentrating economic and political decisions also restricted pluralism. Social democracy instead retained private enterprise and competing elections while extending labour protections, redistribution and welfare through bargaining and legislation.
 
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Examine the forms and social effects of capitalism, socialism and communism. Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The doctrines differed over ownership, decision-making and method; their effects varied through wage labour, revolution, regulation and welfare rather than following slogans mechanically.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Capitalism concentrated productive wealth in private hands and organised production through profit, contract and wage labour; its social effects depended heavily on regulation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Socialism argued that productive wealth should be socially owned or controlled and distribution should serve need, ranging from cooperative and parliamentary to revolutionary forms. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Communism joined collective ownership and central planning to revolutionary seizure of power and, in practice, one-party rule, while differing Soviet, Chinese and Yugoslav forms emerged. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Social democracy retained capitalist production but sought democratic regulation, redistribution, labour rights and welfare through elections, bargaining and legislation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** England's anti-union laws were repealed in 1824, enabling union growth, while Chartism in the 1830s and 1840s carried working-class demands into constitutional politics. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Socialist and labour pressure supplied much of the welfare programme, while depression and total war created the political and administrative opening represented by the 1935 Social Security Act and the 1942 Beveridge Report. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** The doctrines differed over ownership, decision-making and method; their effects varied through wage labour, revolution, regulation and welfare rather than following slogans mechanically.
+Depression and total war were openings as well as labour pressure: the 1935 Social Security Act and the 1942 Beveridge Report exemplify concrete welfare proposals, not proof that any single doctrine created them unaided. The social effects of these philosophies therefore turn on form, institutions and historical pressure; neither private ownership nor collective ownership alone guarantees freedom, equality or security.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Why is the Age of Revolutions a turning point in modern political legitimacy? Answer in about 300 words.
 
-**Model thesis:** After the revolutionary era, inherited power had to answer claims of rights, consent, nation and citizenship, even though the early rights-bearing public remained sharply restricted.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The Age of Revolutions changed the test of legitimate rule. Dynastic authority survived, but claims based on rights, consent and the political nation demanded an answer. This changed the *grounds of justification*, not the extent of democracy overnight.
 
-- John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible.
-- Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority.
-- Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge.
-- The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government.
-- The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions.
-- Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements.
-- Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism.
-- Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects.
+Before the upheavals, Locke's *Two Treatises* (1689) had made the protection of natural rights a condition of government: violation could legitimise resistance. Montesquieu's *Spirit of Laws* (1748) gave restraint an institutional form in separated powers. Rousseau's *Social Contract* (1762) placed sovereignty in the people rather than the ruler, although invoking a general will could also justify coercion. Voltaire's critique of clerical dogma and the Physiocrats' argument that taxation required consent challenged other props of arbitrary power.
 
-**Qualified conclusion:** After the revolutionary era, inherited power had to answer claims of rights, consent, nation and citizenship, even though the early rights-bearing public remained sharply restricted.
+Revolution made those tests public and consequential. The 1776 American Declaration used rights to justify an imperial break and subsequently a written federal constitutional republic: colonial obedience was no longer owed merely because a crown asserted it. France in 1789 pressed further against internal feudal and dynastic privilege. Rights, citizenship and the nation became issues for mass politics, not merely reforms at court. Liberalism turned consent, legal equality and limited power into durable constitutional questions; nationalism raised the distinct question of which people could claim sovereignty, subsequently serving liberal, conservative, racial or anti-colonial purposes.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why is the Age of Revolutions a turning point in modern political legitimacy? Answer in about…”, every clause and time boundary, chronological-causal organisation, named evidence, a counter-position and a qualified global verdict.
-
-**Detailed examiner-grade model status:** The solved content above is the executable answer base. Preserve its thesis, named chronology, spatial evidence, causal mechanism, counter-position and qualification rather than replacing it with a generic narrative.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis and a spatial-temporal frame; organise six to eight named events, treaties, actors, regions, institutions or attributed interpretations as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes structure, trigger and outcome, connects evidence to mechanism, includes non-European agency and avoids teleology, presentism and monocausal explanation.
-
-**How to improve this answer:** For “Why is the Age of Revolutions a turning point in modern political legitimacy? Answer in about…”, replace the weakest generalisation with one additional named treaty, regional case, primary record or attributed scholarly position and state what that evidence cannot prove.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** After the revolutionary era, inherited power had to answer claims of rights, consent, nation and citizenship, even though the early rights-bearing public remained sharply restricted.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** John Locke's 1689 rights-and-government formulation linked natural rights, consent and limited government, making resistance to rights-violating rule politically defensible. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Montesquieu's 1748 institutional argument connected constitutionalism with separation of powers as a restraint on arbitrary authority. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Rousseau's 1762 social-contract argument placed popular sovereignty in the people, while its general-will logic also carried a possible coercive edge. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** The 1776 American Declaration translated rights-language into a durable republican break with empire and a precedent for written constitutional government. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The French Revolution of 1789 made rights, citizenship, the nation and the destruction of legal privilege mass political questions. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** Enlightenment rights-language claimed universality, but women, enslaved people, colonial subjects and many propertyless men remained outside early political settlements. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** Conservatism defended order, religion, property and inherited institutions through gradual change; the Vienna system combined great-power peace with repression of liberal nationalism. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-8. **Claim and named evidence:** Nationalism treated the nation as the proper unit of sovereignty, but later combined variously with liberal, conservative, racial and anti-colonial projects. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** After the revolutionary era, inherited power had to answer claims of rights, consent, nation and citizenship, even though the early rights-bearing public remained sharply restricted.
+The reaction itself shows the turn's limits and force. Conservatism defended religion, property, order and gradual change; the Vienna settlement combined great-power consultation for peace with suppression of liberal nationalism. Restoration could contain revolutionary politics but could not erase its challenge to the grounds of rule. Nor were the new standards universally applied: women, enslaved people, colonial subjects and many propertyless men were excluded; property qualifications limited the electorate. The turning point lay in making rulers justify *who* governed, *by what right* and *under which restraints*, while leaving a contested struggle over who counted as the people.

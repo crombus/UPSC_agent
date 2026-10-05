@@ -5,8 +5,12 @@
 > graphical at-a-glance package; it is the thirty-second refresher that carries
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
-> **Syllabus, verbatim:** *Kant: Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God.*
-> **Terminology:** English concept first, the German term immediately after in parentheses; every English sentence attributed to Kant is a translation, cited by A/B pagination.
+> **Syllabus, verbatim:** *Kant: Possibility of Synthetic a priori Judgments;
+> Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs
+> for the Existence of God.*
+> **Terminology:** English concept first, the German term immediately after in
+> parentheses; every English sentence attributed to Kant is a translation,
+> cited by A/B pagination.
 
 ## Quick-Glance Tree Chart
 

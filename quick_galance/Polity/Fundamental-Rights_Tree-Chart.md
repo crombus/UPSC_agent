@@ -102,4 +102,6 @@ UPSC 2024 Prelims Q76 = D; fourteen other objective answer letters withheld.
 - Ninth Schedule placement is not absolute immunity.
 - Article 359 suspends specified enforcement and can never include Articles 20-21.
 
-**Qualified conclusion:** Fundamental Rights are transformative and enforceable, but their force depends on exact beneficiary language, text-bound restriction, named doctrine, effective remedy and carefully confined exceptional power.
+**Qualified conclusion:** Fundamental Rights are transformative and enforceable,
+but their force depends on exact beneficiary language, text-bound restriction,
+named doctrine, effective remedy and carefully confined exceptional power.

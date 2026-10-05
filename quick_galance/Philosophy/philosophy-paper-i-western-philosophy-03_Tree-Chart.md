@@ -5,8 +5,10 @@
 > graphical at-a-glance package; it is the thirty-second refresher that carries
 > the central thesis, the exact examinable data, the traps and the PYQ answer
 > routes.
-> **Syllabus, verbatim:** *Empiricism (Locke, Berkeley, Hume) : Theory of Knowledge; Substance and Qualities; Self and God; Scepticism.*
-> **Terminology:** English concept first, the original Latin term immediately after in parentheses, with later labels marked as later labels.
+> **Syllabus, verbatim:** *Empiricism (Locke, Berkeley, Hume): Theory of
+> Knowledge; Substance and Qualities; Self and God; Scepticism.*
+> **Terminology:** English concept first, the original Latin term immediately
+> after in parentheses, with later labels marked as later labels.
 
 ## Quick-Glance Tree Chart
 

@@ -1,6 +1,7 @@
 # UNION TERRITORIES - QUICK-GLANCE TREE
 
-**Control date:** 7 September 2026 | **Core idea:** Union responsibility is common; territorial institutions are asymmetric.
+**Control date:** 7 September 2026 | **Core idea:** Union responsibility is common; territorial institutions are
+   asymmetric.
 
 ```text
 UNION TERRITORIES
@@ -118,14 +119,18 @@ UNION TERRITORIES
 
 ## DECODED AUTHORITIES
 
-- **Seventh Amendment (1956):** replaced the Part C/D arrangement with the modern UT framework and repealed Article 242.
+- **Seventh Amendment (1956):** replaced the Part C/D arrangement with the modern UT framework and repealed
+   Article 242.
 - **Fourteenth Amendment (1962):** inserted Article 239A, enabling Puducherry's legislature/CoM by parliamentary law.
 - **Sixty-ninth Amendment (1991):** inserted Articles 239AA and 239AB for Delhi.
-- **106th Amendment (2023):** inserted Delhi women's-reservation clauses; Article 334A postpones operation to census-linked delimitation.
-- **Government of UT Act 1963:** statutory constitution of Puducherry's Assembly, CoM, legislative field and Union supervision.
+- **106th Amendment (2023):** inserted Delhi women's-reservation clauses; Article 334A postpones operation to
+   census-linked delimitation.
+- **Government of UT Act 1963:** statutory constitution of Puducherry's Assembly, CoM, legislative field and
+   Union supervision.
 - **GNCTD Act 1991:** implements Delhi's special constitutional scheme.
 - **GNCTD Amendment Act 2023:** creates NCCSA and the current statutory services process.
-- **J&K Reorganisation Act 2019:** creates J&K with legislature and Ladakh without one; defines fields, LG powers, finance and common High Court.
+- **J&K Reorganisation Act 2019:** creates J&K with legislature and Ladakh without one; defines fields, LG
+   powers, finance and common High Court.
 - **Delhi 2018:** representative government, aid/advice and exceptional reference.
 - **Delhi services 2023:** Entry 41 control and triple-chain accountability before the later Act.
 - **K. Lakshminarayanan (2018):** validates Central nomination and full voting rights of Puducherry nominees.
@@ -133,4 +138,5 @@ UNION TERRITORIES
 
 ## QUALIFIED CONCLUSION
 
-UT asymmetry is constitutionally legitimate when Union powers remain traceable, limited and reviewable, and when elected institutions possess enough authority to answer for the fields entrusted to them.
+UT asymmetry is constitutionally legitimate when Union powers remain traceable, limited and reviewable, and when
+   elected institutions possess enough authority to answer for the fields entrusted to them.

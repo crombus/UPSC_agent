@@ -1,0 +1,25 @@
+{
+  "topic": "02",
+  "title": "Government Policy Design and Implementation",
+  "status": "complete_for_original_banks_with_explicit_holds",
+  "banks": {
+    "revision-1": 50,
+    "revision-2": 50,
+    "revision-3": 50
+  },
+  "owner_rows": 54,
+  "affirmative_owner_coverage": {
+    "revision-1": 50,
+    "revision-2": 50,
+    "revision-3": 50
+  },
+  "exact_pyqs_reproduced": 0,
+  "holds": [
+    "UPSC reproduction permission and objective-PYQ provenance/key",
+    "later Central-Government examination-authority notifications",
+    "live dashboard validation and district ranks",
+    "RIA uniform mandatory status",
+    "project-level PPP/GatiShakti outcomes and figures"
+  ],
+  "approved": false
+}

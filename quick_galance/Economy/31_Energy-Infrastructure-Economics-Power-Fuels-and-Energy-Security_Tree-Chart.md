@@ -97,4 +97,8 @@ ENERGY INFRASTRUCTURE ECONOMICS
     -> verdict: least-cost reliable service, not headline capacity
 ```
 
-**Qualified conclusion:** India needs a diversified and financially viable energy system in which generation, networks, storage, demand flexibility and social protection are planned together. Progress must be measured by reliable delivered energy, full system cost, fiscal durability, emissions and import resilience.
+**Qualified conclusion:** India needs a diversified and financially viable
+energy system in which generation, networks, storage, demand flexibility and
+social protection are planned together. Progress must be measured by reliable
+delivered energy, full system cost, fiscal durability, emissions and import
+resilience.

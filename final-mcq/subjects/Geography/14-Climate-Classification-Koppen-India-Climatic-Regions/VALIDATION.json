@@ -1,0 +1,54 @@
+{
+  "topic": "geography-14",
+  "title": "Climate Classification Koppen India Climatic Regions",
+  "audit_date": "2026-10-04",
+  "status": "complete",
+  "banks": {
+    "1": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "B": 11,
+        "D": 11,
+        "C": 11,
+        "A": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "2": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "D": 11,
+        "C": 11,
+        "A": 11,
+        "B": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    },
+    "3": {
+      "questions": 44,
+      "answers": 44,
+      "exact_pyqs": 0,
+      "keys": {
+        "A": 11,
+        "D": 11,
+        "C": 11,
+        "B": 11
+      },
+      "source_date_control": "2026-10-04",
+      "independent_coverage": 44
+    }
+  },
+  "total_originals": 132,
+  "exact_pyqs": 0,
+  "cross_bank_exact_stem_overlap": 0,
+  "option_length_cues": 0,
+  "generic_rationale_findings": 0,
+  "pyq_status": "held for provenance and reproduction rights",
+  "source_digest": "84ac08c2fb7a4e671fa58476e7eee042795aa13d7ff00a6be5b8a86dd82e1724"
+}

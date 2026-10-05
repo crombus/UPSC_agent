@@ -15,24 +15,28 @@ variant: learner-v2
 
 | Component | Count |
 |---|---:|
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
-| Question-specific option explanations | 128 |
-| Unique examiner traps | 32 |
-| Directly owned verified PYQs solved in full, 2018–2025 | 6 |
-| Original solved Mains models — two each at 10, 15 and 20 marks | 6 |
+| Baseline diagnostic MCQs | 32 |
+| Question-specific option explanations (all MCQs) | 132 |
+| Examiner traps (all MCQs) | 33 |
+| Supplementary 2026 conceptual MCQs (four option explanations and a trap) | 1 |
+| Total MCQs (baseline plus coverage-driven supplements; not a quota) | 33 |
+| Directly owned verified PYQs solved in full, 2018–2026 | 7 |
+| Original solved Mains models — six baseline plus targeted syllabus-gap practice | 8 |
 
 ### How to use it
 
-1. Attempt the twenty-four core MCQs without notes, then read every option explanation, including those for the options you rejected. The key sequence is **unpatterned** — each answer was fixed independently — so no cycle can be guessed, and option lengths are matched so that the answer cannot be spotted by shape.
+1. Attempt all diagnostic and supplementary MCQs without notes; read every option explanation after attempting the question.
 2. Work the eight remedial drills only after the core set. They target consultation mistaken for empowerment, the technology stem answered as an unresolved balance, the skill-education stem answered with employment material, the Gandhian answer written without Ambedkar, enactment or compensation treated as reconciliation, degrowth applied uniformly, duties to future persons asserted without meeting the non-identity problem, and the importation of another owner's doctrine.
 3. Attempt each previous-year part under time before reading its solution. **Decide the stem's logic first**: two of the six owned parts are modal or relational, one is causal, one evaluative, one expository-critical and one a reconciliation stem. ⚠️ Not one of the six asks for a definition of development.
-4. Write the six original models in full. Two are 10-mark, two 15-mark and two 20-mark, and each sits inside the declared word band — **10 marks about 150 to 220 words, 15 marks about 250 to 330, 20 marks about 330 to 400**.
+4. Write all eight original models, including the targeted syllabus-gap questions; prioritise directive, argument and evidence rather than a preset length limit. The number of practice models follows coverage, not a marks quota.
 5. Check every answer against the sixteen traps: treating growth, development, human development and progress as synonyms; asserting unqualified necessity and sufficiency; reducing Sen to income plus welfare; confusing capability with achieved functioning; treating a composite index as a theory of progress; assuming technology creates ethical progress; reducing skill education to employment; romanticising tribal culture or the village; reading enactment as implementation; using a statute or judgment as philosophical proof; treating an indicator as a theory; presenting modernisation as neutral inevitability; calling every change progress; equating consultation with empowerment; importing unsourced figures; and importing another owner's full doctrine.
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+**Count rationale (33; not a fixed target):** The baseline separates growth, human development, capability and social progress; tests adaptive preference, modernisation, conversion, participation, technology/skill, tribal development and ecological limits. An additional 2026 case distinguishes aggregate growth from democratic capability losses. Seven primary-owned PYQs and eight original Mains models supply deeper skill and displacement arguments. Some early definition checks are easier; later tests require applying a criterion rather than recalling an index.
 
-**Answer placement:** each correct option was fixed **independently**, so the key sequence is unpatterned rather than rotated and no cycle such as `ABCD` — or its reverse — can be used to guess. Options are matched for length, specificity, grammar and visible formatting so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+### Baseline MCQs — core diagnostics and remedial error-targeting drills
+
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
 
 **Coverage:** the twenty-four core questions run across the whole printed clause — *Development and Social Progress* — together with the five-rung ladder and the discriminating test, the descriptive and normative dimensions, the seven informational spaces and the three blind spots, the economistic model and its conversion premise, modernisation's five assumptions with the objection-to-assumption mapping, the human-development shift and its residual concealments, Sen's five terms with the three kinds of conversion factor, freedom in its constitutive and instrumental roles with the interlocking instrumental freedoms, adaptive preference and the paternalism danger, Nussbaum's dignity threshold and the Sen–Nussbaum dispute, dependency against post-development, sustainable development's four bases and four specifications, the five bounded evaluative lenses with the ownership fence, weak against strong teleology and the four conceptions of progress, the seven criteria with the necessary and sufficient tests, and redistribution against recognition. The eight remedial drills attack the errors that cost marks every year on this clause: equating consultation with empowerment, answering the technology stem with an unresolved balance, answering the skill-education stem with employment material, omitting Ambedkar from a Gandhian answer, treating compensation or enactment as reconciliation, applying degrowth uniformly, asserting duties to future persons without meeting the non-identity problem, and importing another owner's doctrine.
 
@@ -40,101 +44,354 @@ variant: learner-v2
 
 A script opens by writing that economic growth, economic development, human development and social progress are "broadly the same process viewed from different angles". On the account developed in this package, what has that opening cost the answer?
 
-A. It has cost nothing analytically, since the four terms do converge in the long run, and the script is free to distinguish them later in the answer when the question specifically requires it.
-
-B. It has cost the script its evidence base, because national statistical systems record each of the four separately and an answer must follow the categories used by those systems.
-
-C. It has cost the script the gaps between the rungs, which is where the whole argument of this clause lives, since no rung entails the one above it and the marks lie in that failure of entailment.
-
-D. It has cost the script only its opening line, since the substantive argument can be reconstructed later and examiners assess the body of the answer rather than its introduction.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: convergence is exactly what the clause denies. Growth can rise while unfreedom and ecological destruction intensify, so the four are not one process seen from different angles.
-- **B:** Incorrect: the distinction is philosophical rather than statistical, and this owner requires no figures at all, so no statistical system settles which concepts are distinct.
-- **C:** Correct: each rung answers a different question in a different informational space, and the absence of automatic entailment upward is what generates every owned question in this clause.
-- **D:** Incorrect: the opening fixes the framework, and a script that has identified the terms cannot afterwards adjudicate between them without contradicting its own premise.
-
-**Examiner trap 1:** Treating the distinctions as preliminary decoration to be cleared before the "real" answer begins is the commonest structural failure here, because in the 2022 and 2024 stems the distinction *is* the answer rather than its preface.
+A. It has cost the script the gaps between the rungs, which is where the whole argument of this clause lives, since no rung entails the one above it and the marks lie in that failure of entailment.
+B. It has cost the script only its opening line, since the substantive argument can be reconstructed later and examiners assess the body of the answer rather than its introduction.
+C. It has cost nothing analytically, since the four terms do converge in the long run, and the script is free to distinguish them later in the answer when the question specifically requires it.
+D. It has cost the script its evidence base, because national statistical systems record each of the four separately and an answer must follow the categories used by those systems.
 
 #### MCQ 2. What both halves of the concept do
 
 Why is it insufficient to define development purely as structural change in production, technology, institutions and social relations?
 
-A. Because that supplies only the descriptive dimension, and the concept also carries a normative one — the judgment that the change improves lives — without which a transformation is recorded but never evaluated.
-
-B. Because structural change is a term drawn from economics, and philosophical usage requires terminology that has been defined inside the discipline rather than borrowed from a neighbouring field of study.
-
-C. Because such a definition omits the ecological dimension, and no account of development is complete unless the biophysical limits within which the change occurs are stated clearly at the outset.
-
-D. Because structural change is too rare to serve as a definition, and most societies experience continuity rather than transformation, so the definition would leave ordinary cases entirely unclassified.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: development is descriptive and normative at once; the descriptive half records what changed and the normative half judges whether it improved lives, and dropping either produces a recognisable kind of bad answer.
-- **B:** Incorrect: the disciplinary origin of a term is irrelevant to whether the definition is complete, and philosophy borrows descriptive vocabulary freely where it is accurate.
-- **C:** Incorrect: ecological limits are a criterion applied within the normative dimension rather than a third dimension of the concept, and naming them does not repair a definition that lacks evaluation.
-- **D:** Incorrect: frequency is not the issue; a definition can be correct about a rare phenomenon, and the defect identified here is evaluative rather than statistical.
-
-**Examiner trap 2:** Supplying only the normative half produces the mirror error — an essay of aspirations with no object — so the correction is to write both dimensions rather than to swap one for the other.
+A. Because structural change is too rare to serve as a definition, and most societies experience continuity rather than transformation, so the definition would leave ordinary cases entirely unclassified.
+B. Because that supplies only the descriptive dimension, and the concept also carries a normative one — the judgment that the change improves lives — without which a transformation is recorded but never evaluated.
+C. Because structural change is a term drawn from economics, and philosophical usage requires terminology that has been defined inside the discipline rather than borrowed from a neighbouring field of study.
+D. Because such a definition omits the ecological dimension, and no account of development is complete unless the biophysical limits within which the change occurs are stated clearly at the outset.
 
 #### MCQ 3. What an output measure cannot see
 
 On the account of informational spaces taught here, which omission is *intrinsic* to an output or income measure rather than a corrigible defect of a particular index?
 
-A. The omission of political freedom, which could be repaired by adding a governance component to the index without altering the space in which the measure operates.
-
-B. The omission of longevity and schooling, which could be repaired by constructing a composite of the kind associated with the human-development framework and its dimensions.
-
-C. The omission of regional detail, which could be repaired by disaggregating the same measure by district, group or gender and reporting the resulting distribution.
-
-D. The omission of unpaid work, since an output measure sees only what is bought and sold, so a society can appear to grow merely by monetising labour that was already being performed.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: this describes an addition of a different informational space rather than a defect intrinsic to output measurement, and the option itself concedes that the space is unaltered.
-- **B:** Incorrect: adding longevity and schooling changes the measure into a human-development composite, which is a change of unit of account rather than a repair of the output measure.
-- **C:** Incorrect: disaggregation is precisely the corrigible case, since the same measure can be reported by group without any change in what it is capable of seeing.
-- **D:** Correct: unpaid labour lies outside the market boundary that defines the measure, so no refinement of an output metric can register it and the monetisation artefact follows directly.
-
-**Examiner trap 3:** Ranking indices — asserting that one is "better" than another — earns almost nothing without naming the informational space each occupies, which is what determines what the measure can register at all.
+A. The omission of longevity and schooling, which could be repaired by constructing a composite of the kind associated with the human-development framework and its dimensions.
+B. The omission of regional detail, which could be repaired by disaggregating the same measure by district, group or gender and reporting the resulting distribution.
+C. The omission of unpaid work, since an output measure sees only what is bought and sold, so a society can appear to grow merely by monetising labour that was already being performed.
+D. The omission of political freedom, which could be repaired by adding a governance component to the index without altering the space in which the measure operates.
 
 #### MCQ 4. What adaptive preference actually claims
 
 A candidate writes that Sen's adaptive-preference argument shows that deprived people "do not know what is good for them". What has gone wrong?
 
-A. Nothing has gone wrong, since the argument does hold that long deprivation distorts judgment, and the candidate has simply expressed an uncomfortable conclusion in blunt and direct language.
-
-B. The claim has been converted from a methodological point about what a satisfaction metric can record into a condescending claim about the competence of the deprived, which the argument never makes.
-
-C. The claim has been attributed to the wrong author, since the adaptive-preference argument belongs to the human-development framework rather than to the capability approach developed by Sen.
-
-D. The claim has been overstated in scope, since adaptation affects only material preferences and leaves political and social preferences untouched by any process of downward adjustment.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the argument concerns what reported satisfaction can be used to measure, not whether the deprived understand their own lives, and the blunt formulation changes the thesis rather than expressing it.
-- **B:** Correct: the point is that a welfare metric will under-record deprivation once expectations have adjusted, which is why the disciplined response changes the evaluative space rather than overriding the report.
-- **C:** Incorrect: the argument is Sen's and is central to the capability approach; the human-development framework is a distinct informational shift developed by Mahbub ul Haq and the UNDP.
-- **D:** Incorrect: no such restriction is claimed, and the argument's force lies precisely in the fact that expectations about health, schooling and voice can adjust downward too.
-
-**Examiner trap 4:** Answering the paternalism objection by asserting that experts should override stated preferences reintroduces the very paternalism the framework exists to avoid; the disciplined reply shifts the space to opportunity and leaves the choosing to the agent.
+A. The claim has been attributed to the wrong author, since the adaptive-preference argument belongs to the human-development framework rather than to the capability approach developed by Sen.
+B. The claim has been overstated in scope, since adaptation affects only material preferences and leaves political and social preferences untouched by any process of downward adjustment.
+C. Nothing has gone wrong, since the argument does hold that long deprivation distorts judgment, and the candidate has simply expressed an uncomfortable conclusion in blunt and direct language.
+D. The claim has been converted from a methodological point about what a satisfaction metric can record into a condescending claim about the competence of the deprived, which the argument never makes.
 
 #### MCQ 5. Where the economistic model is vulnerable
 
 Stated at its strongest, the economistic argument runs from material scarcity, through the expansion of the resource base, to the conclusion that economic development is an important enabling condition. Where is it most effectively attacked?
 
 A. At its unstated premise that resources can be converted into broadly shared welfare through institutions, since that is an assumption about institutional quality rather than a finding about production.
-
 B. At its first step, since material scarcity does not in fact constrain health, education and choice, and societies with very little have often achieved high levels of each of the three.
-
 C. At its conclusion, since economic development is not an enabling condition of anything and the developmental value of production has been substantially overstated in the literature.
-
 D. At its third step, since structural transformation never raises employment or state capacity and the historical record shows that transformation and capacity vary independently.
+
+#### MCQ 6. What makes modernisation a theory rather than a description
+
+Which set correctly names the assumptions that convert the description of industrialisation, urbanisation and mass schooling into modernisation *theory*?
+
+A. Secularisation, individualism, rationalisation, bureaucratisation and disenchantment, together with the claim that inherited belief systems dissolve once formal schooling becomes general.
+B. Linear sequence, convergence, the traditional/modern contrast, diffusion and expert direction, together with the claim that planners can identify obstacles and accelerate the transition.
+C. Capital deepening, technology transfer, import substitution, planning and state capacity, together with the claim that transformation must be financed before institutions can be reformed.
+D. Scarcity, accumulation, specialisation, exchange and the division of labour, together with the claim that these processes are jointly sufficient for a rise in aggregate productive capacity.
+
+#### MCQ 7. Which critique attacks which assumption
+
+A candidate asserts that dependency and post-development both show that modernisation is Eurocentric. What is the analytically superior formulation?
+
+A. That both critiques are versions of the Marxist objection, since each traces the condition of poorer societies to the ownership of production and to the appropriation of the resulting surplus.
+B. That both critiques reject industrialisation itself, dependency on economic grounds and post-development on cultural grounds, so the two converge on a common rejection of productive transformation.
+C. That dependency denies the linear-sequence and convergence assumptions by holding that underdevelopment is produced, while post-development denies the expert-direction assumption by questioning the authority to diagnose.
+D. That dependency denies the diffusion assumption while post-development denies the convergence assumption, so between them they exhaust the theory's five commitments without further argument.
+
+#### MCQ 8. What the human-development shift achieved
+
+Which formulation states most precisely what the human-development framework accomplished?
+
+A. It established that health and education are more important than income, and thereby fixed the correct ordering of developmental priorities for societies at every level of material provision.
+B. It demonstrated that composite indices are superior to single indicators, and thereby resolved the long-standing methodological dispute about how development ought to be measured.
+C. It proved that political freedom belongs among the dimensions of development, and thereby brought the assessment of regimes within the scope of developmental measurement itself.
+D. It changed the unit of account from the economy to the person, and thereby broke the identity between income and well-being that an output measure had silently presupposed.
+
+#### MCQ 9. Why human development is not yet the capability approach
+
+In what two respects does the human-development framework fall short of the capability approach?
+
+A. It records achieved states rather than real opportunities, and it counts people as beneficiaries whose outcomes are noted rather than as agents whose reasoning is part of the good measured.
+B. It relies on national data rather than household data, and it reports averages rather than distributions, so it cannot identify which groups within a population have been left behind.
+C. It omits ecological indicators and intergenerational effects, so it cannot register the drawing down of stocks that financed the improvement it records for the present generation.
+D. It measures too few dimensions and aggregates them with equal weights, so it understates both the range of relevant achievements and the disagreement about their relative importance.
+
+#### MCQ 10. Fasting and starving
+
+Two persons are equally undernourished; one has food available and declines it, the other has none. What does the case establish?
+
+A. That conversion factors differ between persons, since the two bodies may metabolise identical quantities of food differently and therefore require different provision to reach the same state.
+B. That capability is an opportunity set rather than an achieved outcome, so a metric confined to functionings cannot distinguish the two and therefore cannot be a metric of freedom at all.
+C. That utility is an unreliable measure of well-being, since the two persons may report similar levels of satisfaction despite occupying entirely different material and social circumstances.
+D. That resources are a poor proxy for development, since the person with food available holds more resources yet has achieved exactly the same nutritional outcome as the other.
+
+#### MCQ 11. The three kinds of conversion factor
+
+Which grouping correctly names the three kinds of conversion factor and thereby explains why equal resources yield unequal freedom?
+
+A. Physical, economic and cultural — covering the body, the household budget and the inherited traditions that determine how a resource is understood and used within a community.
+B. Individual, collective and institutional — covering the person, the community to which she belongs and the formal organisations through which resources reach her in practice.
+C. Personal, environmental and social — covering body, age and impairment; climate, terrain and infrastructure; and norms, safety, discrimination and public provision.
+D. Material, informational and motivational — covering what a person holds, what she knows about it and how strongly she is disposed to make use of what she holds.
+
+#### MCQ 12. The clause in the definition of agency that scripts drop
+
+Which element completes the definition of agency as it is used in this owner?
+
+A. The ability to make choices that are internally consistent over time, so that a person's decisions at different moments can be interpreted as expressing one coherent underlying plan.
+B. The ability to convert resources into functionings efficiently, so that a person achieves more from a given endowment than another person with the same endowment would achieve.
+C. The ability to participate in formal decision procedures, so that a person's preferences are registered by the institutions that allocate resources and set the terms of collective life.
+D. The ability to pursue goals one has reason to value, including goals that lie beyond one's own welfare, so that a well-provided person may still fail to be an agent in the relevant sense.
+
+#### MCQ 13. Why the instrumental defence of freedom is not enough
+
+Why must the constitutive role of freedom be written alongside the instrumental role?
+
+A. Because a purely instrumental defence makes freedom tradeable, so it can be suspended whenever a larger output is available without it — which is exactly the authoritarian-development argument.
+B. Because the instrumental role is empirically contested, and no reliable demonstration exists that political freedoms improve the informational quality or the accountability of public decisions.
+C. Because the constitutive role is the older of the two in the literature, and an answer that omits it will appear to rest on a recent restatement rather than on the original formulation.
+D. Because the instrumental role concerns only political freedoms, whereas the constitutive role extends the argument to economic facilities and to the social opportunities that support them.
+
+#### MCQ 14. What the interlocking of the instrumental freedoms shows
+
+On the account taught here, what follows from the claim that political freedoms, economic facilities, social opportunities, transparency guarantees and protective security reinforce one another?
+
+A. That the five are ranked in order of importance, with political freedoms first because they generate the public pressure that produces the social opportunities and the protective security.
+B. That development cannot be modelled as a trade-off in which liberty is exchanged for output, since each freedom raises the value of the others rather than competing with them for a fixed budget.
+C. That any one of the five may be substituted for the others, so a society that performs strongly on economic facilities need not perform strongly on the remaining four to develop.
+D. That the five should be measured by a single composite index, since mutual reinforcement implies that they vary together and can therefore be summarised by one aggregate figure.
+
+#### MCQ 15. The reply that makes a capability threshold defensible
+
+Which reply answers the objection that a specified list of central capabilities imposes one conception of the good life?
+
+A. That the list is derived from a survey of what people in many societies actually value, so its content is empirical rather than philosophical and no conception has been imposed by any theorist.
+B. That the objection applies equally to every normative theory, so it cannot count specifically against a capability threshold and may therefore be set aside without further argument.
+C. That capabilities protect opportunities rather than compelling functionings, so the threshold secures options without requiring anyone to exercise them, and its specification stays open to democratic interpretation.
+D. That the list is provisional and revisable, so any element found objectionable in a given society may be removed from it without affecting the structure of the remaining requirements.
+
+#### MCQ 16. What the Sen–Nussbaum disagreement is actually about
+
+Which statement identifies the disagreement correctly?
+
+A. It concerns the measurement of capabilities, with Sen preferring direct observation of opportunity sets and Nussbaum preferring inference from achieved functionings within a population.
+B. It concerns the scope of application, with Sen addressing developing societies and Nussbaum addressing affluent ones where basic material provision can already be taken for granted.
+C. It concerns the number of capabilities that matter, with Sen holding that the relevant set is small and Nussbaum holding that it is considerably larger and more finely differentiated.
+D. It concerns the role of the framework — an evaluative space whose content is settled by public reasoning, against a determinate constitutional minimum owed to each person as a matter of justice.
+
+#### MCQ 17. Two critiques, two different targets
+
+Why does it matter, in practice, whether a critique of modernisation is a dependency critique or a post-development critique?
+
+A. It matters because they generate different remedies: one points to the terms of incorporation and ownership of gains, the other to who decides and whose account of their interests counts.
+B. It matters only for attribution, since both reach the same conclusion about the failure of the modernisation programme and differ solely in the vocabulary that each has adopted.
+C. It matters because dependency is a normative claim while post-development is a descriptive one, so only the first can be used to evaluate a project or a policy proposal.
+D. It matters because dependency applies to formerly colonised societies while post-development applies to all societies, so the two have different geographical ranges of application.
+
+#### MCQ 18. The romanticism objection and its reply
+
+Both dependency and post-development face the objection that they romanticise local life. What is the disciplined reply?
+
+A. That the objection is unanswerable, so the critiques should be abandoned in favour of a modernisation account modified to include cultural sensitivity in its programme of transformation.
+B. That the strongest form of each rejects imposed uniformity rather than material improvement, so local voice must be joined to universal dignity rather than substituted for it.
+C. That internal hierarchy is a matter for each community to resolve, so external observers have no standing to raise the objection in the first place and it may be dismissed.
+D. That the objection misdescribes the critiques, which have never claimed anything about local communities and confine themselves entirely to the analysis of external economic relations.
+
+#### MCQ 19. What "sustainable" must be given before it does any work
+
+Which set of specifications converts sustainable development from an adjective into an argument?
+
+A. Efficiency, substitution, innovation and adaptation, without which the requirement would forbid growth altogether and impose costs no society could reasonably be asked to bear.
+B. Consultation, compensation, resettlement and rehabilitation, without which affected populations bear costs they have not agreed to and the arrangement cannot be called sustainable.
+C. Thresholds, distribution, participation and non-substitutable ecological limits, without which the word can be attached to whatever course of action was already intended.
+D. Targets, timelines, financing and monitoring, without which the commitment cannot be verified and the concept remains an aspiration rather than an operational obligation.
+
+#### MCQ 20. Using the perspective map without breaching the fence
+
+A candidate answering a development stem devotes a long paragraph to Marx's theory of surplus value. What is the error?
+
+A. The material is superseded, since the Marxist lens has been absorbed into the capability approach and no longer supplies an independent criterion for evaluating development.
+B. The material is irrelevant, since class and production have no bearing on the evaluation of development and no version of the Marxist criterion belongs in this clause at all.
+C. The material is inaccurate as stated, and a development answer would require a far more careful reconstruction of the theory than a single paragraph could reasonably contain.
+D. The map supplies evaluation criteria rather than complete ideologies, so the Marxist lens contributes a criterion — class power and control of surplus — while the doctrine is routed elsewhere.
+
+#### MCQ 21. What kind of claim "this is progress" makes
+
+Which characterisation of the claim is correct on the account taught here?
+
+A. It is weakly teleological: it judges movement toward a better condition and therefore requires stated ends, but it does not assert that history moves in that direction by itself.
+B. It is strongly teleological: reason, science and productive capacity carry societies forward, so the claim reports a tendency that operates independently of anyone's intentions.
+C. It is a descriptive claim about the direction of historical change, verifiable by comparing the condition of a society at two points in time and observing which way the difference runs.
+D. It is an emotive expression of approval, since evaluative vocabulary carries no cognitive content and disagreements about progress are therefore not genuine disagreements at all.
+
+#### MCQ 22. Adjudicating between the four conceptions of progress
+
+Which combination correctly pairs a conception of progress with its characteristic failure?
+
+A. Linear with fatalism; cyclical with relativism; dialectical with complacency; plural with the mistaking of productive capacity for moral improvement in the assessment of change.
+B. Linear with mistaking capacity for moral improvement; cyclical with fatalism; dialectical with imposing a single historical direction; plural with relativism and the loss of common standards.
+C. Linear with the loss of common standards; cyclical with a single historical direction; dialectical with fatalism; plural with the conversion of technical capacity into moral advance.
+D. Linear with imposing a single direction; cyclical with the mistaking of capacity for improvement; dialectical with relativism; plural with an understating of the possibility of reform.
+
+#### MCQ 23. Answering the modal stem in its own vocabulary
+
+How should the claim that economic development is necessary for social progress be stated so that it survives examination?
+
+A. As a denial of necessity, since progress is a matter of relations and institutions and can be achieved at any material level provided only that the relations are arranged justly.
+B. As a claim about correlation, since economic development and social progress are observed together often enough to justify treating the first as a practical precondition of the second.
+C. As a threshold claim: adequate material capabilities are necessary, since severe deprivation restricts health, education and agency, while no particular institutional form of development is indispensable.
+D. As an unqualified necessity, since without economic development no society has ever achieved improvement in health, schooling, security or the standing of its disadvantaged members.
+
+#### MCQ 24. Redistribution and recognition
+
+A programme delivers resources to a group whose members continue to be treated as social inferiors. On the account taught here, how is the case classified?
+
+A. As symbolic equality: standing without means, in which equal status is declared while the resources needed to act on it are withheld from the people to whom it has been declared.
+B. As compounded disadvantage: the absence of both resources and recognition, which is the condition the programme was designed to relieve and has therefore failed to alter in any respect.
+C. As progress on this axis: the material dimension has improved and the attitudinal dimension will follow once the group's economic position has been secured over a sufficient period.
+D. As paternalism: provision without standing, in which goods reach persons who remain objects of policy rather than fellow citizens, so redistribution has occurred while recognition has not.
+
+### Remedial drills — eight errors that cost marks every year
+
+#### MCQ 25. Consultation is not empowerment
+
+A project report states that affected persons were invited to meetings, that attendance was high, and that the community was therefore empowered. What is the error, and what test exposes it?
+
+A. The report has confused consultation with empowerment, and the test is whether affected persons could dissent, exit, organise and demand reasons — and whether the decision could have been different.
+B. The report has confused information with consultation, and the test is whether reasons were given in an intelligible form rather than merely announced after the decision had been taken.
+C. The report has confused representation with attendance, and the test is whether those present were selected by the community rather than nominated by the implementing authority.
+D. The report has confused participation with co-decision, and the test is whether affected persons held a continuing role in implementation and review as well as in the initial design.
+
+#### MCQ 26. The technology stem answered without a criterion
+
+A script lists benefits and harms of technological change and concludes that technology has "both positive and negative effects on society". Why does this score poorly on the 2019-pattern stem?
+
+A. Because the harms outweigh the benefits, and a script that presents them as balanced has misjudged the weight of evidence that the question expects it to assess.
+B. Because the stem is a causal claim requiring a mechanism and a defeater, and an unresolved balance supplies neither — control, access and purpose fix the direction of the effect.
+C. Because the list is incomplete, and a full answer would need to cover a considerably wider range of technologies than the four domains that the script has chosen to discuss.
+D. Because the stem asked for a historical account, and the script has produced a conceptual one that does not engage with the actual sequence of technological change.
+
+#### MCQ 27. The skill-education stem answered as an employment question
+
+Which omission most damages an answer to the 2023-pattern stem on skill education?
+
+A. The role of employers in curriculum design, without which training cannot be aligned to demand and the resulting qualifications will not be recognised in the labour market.
+B. The history of technical education, which supplies the context in which contemporary emphasis on skilling should be assessed and explains why the emphasis has re-emerged.
+C. Frustrated capability — the case where competence is created and then blocked because decent work is unavailable, which is the sharpest of the four limits and the one that makes the verdict conditional.
+D. The distinction between vocational and general education, which determines the level at which the discussion of skills should be pitched and the institutions through which they are delivered.
+
+#### MCQ 28. The Gandhian answer written without Ambedkar
+
+Why is Ambedkar's criticism of the village described in this package as indispensable rather than optional in a Gandhian development answer?
+
+A. Because Gandhi accepted the criticism, so an exposition that omits it misrepresents his position and attributes to him a view he had already revised in response to it.
+B. Because Ambedkar and Gandhi are always examined together, so any answer mentioning one is expected by convention to mention the other regardless of what the stem asks.
+C. Because Ambedkar's constitutional programme is the only available alternative to Gandhian decentralisation, so an answer must choose between them before it can reach a verdict.
+D. Because decentralisation is defensible only with equal rights and anti-domination, so an answer that omits the objection has praised a scheme that may hand power to local hierarchy.
+
+#### MCQ 29. Enactment, judgment and implementation
+
+A script cites PESA of 1996, the Forest Rights Act of 2006 and the 2013 Supreme Court judgment as evidence that development and tribal values have been reconciled. What is wrong?
+
+A. Enactment is not notification, notification is not implementation, and a judgment is not legislation — so the items establish institutional recognition and nothing beyond it.
+B. The items are wrongly dated, and an answer that misstates the year of a statute or judgment will be treated as unreliable on the remainder of its factual claims.
+C. The items belong to Polity rather than to Philosophy, so citing them at all takes the answer outside this syllabus clause and into a different paper's territory altogether.
+D. The items are too few, and a reconciliation claim of this kind would require a wider survey of the legislative and judicial record than three instances can provide.
+
+#### MCQ 30. Applying the degrowth argument correctly
+
+Which statement applies the degrowth argument as this package requires?
+
+A. Aggregate output should be reduced everywhere, since the biophysical limits are global and any exemption undermines the collective restraint on which the whole argument depends.
+B. Reduction is required where consumption stands far above any defensible threshold and expansion is required where it stands far below, since the argument concerns the distribution of ecological burdens.
+C. Growth should continue until a global threshold is reached, after which all societies should contract together at a uniform rate determined by the remaining ecological capacity.
+D. The argument applies only to affluent societies and has no implications at all for societies below the deprivation threshold, which may disregard ecological considerations entirely.
+
+#### MCQ 31. Duties to future persons, argued rather than asserted
+
+A script asserts that the present generation owes duties of justice to future generations and moves directly to policy conclusions. Which problem has it failed to meet?
+
+A. The motivation problem, since future people cannot vote or sanction, which shows that the duty cannot be enforced and therefore cannot be a duty of justice at all.
+B. The discounting problem, since standard appraisal reduces the present weight of distant costs, which shows that the duty is real but that its content is a matter for economists.
+C. The non-identity problem, since different policies produce different future people, so a person whose existence depends on the degrading policy cannot claim to have been made worse off.
+D. The uncertainty problem, since future preferences and technologies are unknown, which shows that no specific obligation can be identified and that the duty is therefore empty.
+
+#### MCQ 32. Staying inside the fence
+
+Which of the following would take a development answer outside this owner's syllabus clause?
+
+A. Citing the Forest Rights Act as a dated statute while stating expressly that enactment establishes recognition rather than implementation or successful capability expansion.
+B. Using the Marxist warning that growth can reproduce exploitation as one criterion within the perspective map while leaving the underlying theory of value entirely undeveloped.
+C. Invoking the dignity threshold to bound a community's authority over its own members in a stem concerning development and the values of a particular community group.
+D. Developing a full account of justice as fairness, of the annihilation of caste or of multicultural recognition, rather than using the corresponding criterion and routing the doctrine.
+
+### Supplementary 2026 conceptual diagnostic — 1 MCQ
+
+#### MCQ 33. Democracy and two senses of development
+
+Which finding would most directly challenge the claim that a policy promotes *social* development even if it increases output?
+
+A. Affected households lost secure livelihoods and meaningful opportunity to challenge displacement.
+B. Consultation delayed a project with potential public benefits, though affected people retained effective voice.
+C. Production and employment rose, but the distribution of gains has not yet been established.
+D. Public deliberation changed the site and imposed transitional costs on the implementing agency.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: each rung answers a different question in a different informational space, and the absence of automatic entailment upward is what generates every owned question in this clause.
+- **B:** Incorrect: the opening fixes the framework, and a script that has identified the terms cannot afterwards adjudicate between them without contradicting its own premise.
+- **C:** Incorrect: convergence is exactly what the clause denies. Growth can rise while unfreedom and ecological destruction intensify, so the four are not one process seen from different angles.
+- **D:** Incorrect: the distinction is philosophical rather than statistical, and this owner requires no figures at all, so no statistical system settles which concepts are distinct.
+
+**Examiner trap 1:** Treating the distinctions as preliminary decoration to be cleared before the "real" answer begins is the commonest structural failure here, because in the 2022 and 2024 stems the distinction *is* the answer rather than its preface.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: frequency is not the issue; a definition can be correct about a rare phenomenon, and the defect identified here is evaluative rather than statistical.
+- **B:** Correct: development is descriptive and normative at once; the descriptive half records what changed and the normative half judges whether it improved lives, and dropping either produces a recognisable kind of bad answer.
+- **C:** Incorrect: the disciplinary origin of a term is irrelevant to whether the definition is complete, and philosophy borrows descriptive vocabulary freely where it is accurate.
+- **D:** Incorrect: ecological limits are a criterion applied within the normative dimension rather than a third dimension of the concept, and naming them does not repair a definition that lacks evaluation.
+
+**Examiner trap 2:** Supplying only the normative half produces the mirror error — an essay of aspirations with no object — so the correction is to write both dimensions rather than to swap one for the other.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: adding longevity and schooling changes the measure into a human-development composite, which is a change of unit of account rather than a repair of the output measure.
+- **B:** Incorrect: disaggregation is precisely the corrigible case, since the same measure can be reported by group without any change in what it is capable of seeing.
+- **C:** Correct: unpaid labour lies outside the market boundary that defines the measure, so no refinement of an output metric can register it and the monetisation artefact follows directly.
+- **D:** Incorrect: this describes an addition of a different informational space rather than a defect intrinsic to output measurement, and the option itself concedes that the space is unaltered.
+
+**Examiner trap 3:** Ranking indices — asserting that one is "better" than another — earns almost nothing without naming the informational space each occupies, which is what determines what the measure can register at all.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the argument is Sen's and is central to the capability approach; the human-development framework is a distinct informational shift developed by Mahbub ul Haq and the UNDP.
+- **B:** Incorrect: no such restriction is claimed, and the argument's force lies precisely in the fact that expectations about health, schooling and voice can adjust downward too.
+- **C:** Incorrect: the argument concerns what reported satisfaction can be used to measure, not whether the deprived understand their own lives, and the blunt formulation changes the thesis rather than expressing it.
+- **D:** Correct: the point is that a welfare metric will under-record deprivation once expectations have adjusted, which is why the disciplined response changes the evaluative space rather than overriding the report.
+
+**Examiner trap 4:** Answering the paternalism objection by asserting that experts should override stated preferences reintroduces the very paternalism the framework exists to avoid; the disciplined reply shifts the space to opportunity and leaves the choosing to the agent.
+
+#### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -146,61 +403,31 @@ D. At its third step, since structural transformation never raises employment or
 
 **Examiner trap 5:** Attacking a straw version — that some people think money is everything — leaves the strong four-step argument untouched, and it is the strong version that the examiner is testing.
 
-#### MCQ 6. What makes modernisation a theory rather than a description
-
-Which set correctly names the assumptions that convert the description of industrialisation, urbanisation and mass schooling into modernisation *theory*?
-
-A. Scarcity, accumulation, specialisation, exchange and the division of labour, together with the claim that these processes are jointly sufficient for a rise in aggregate productive capacity.
-
-B. Secularisation, individualism, rationalisation, bureaucratisation and disenchantment, together with the claim that inherited belief systems dissolve once formal schooling becomes general.
-
-C. Linear sequence, convergence, the traditional/modern contrast, diffusion and expert direction, together with the claim that planners can identify obstacles and accelerate the transition.
-
-D. Capital deepening, technology transfer, import substitution, planning and state capacity, together with the claim that transformation must be financed before institutions can be reformed.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: these are descriptive features of an industrialising economy rather than the theoretical commitments that make modernisation contestable as a theory of development.
-- **B:** Incorrect: these are associated sociological themes rather than the five assumptions identified here, and none of them is the target of dependency or post-development criticism.
-- **C:** Correct: these five are what each hostile critique attacks — dependency at sequence and convergence, post-development at expert direction, cultural critique at the traditional/modern contrast, Marxist critique at convergence and diffusion.
-- **D:** Incorrect: these are policy instruments associated with a period rather than the assumptions of the theory, and criticising them would not touch its linearity or its expert warrant.
-
-**Examiner trap 6:** Writing that societies "naturally become modern as they develop" concedes three of the five assumptions in a single sentence and leaves the critique with nothing left to deny.
-
-#### MCQ 7. Which critique attacks which assumption
-
-A candidate asserts that dependency and post-development both show that modernisation is Eurocentric. What is the analytically superior formulation?
-
-A. That both critiques reject industrialisation itself, dependency on economic grounds and post-development on cultural grounds, so the two converge on a common rejection of productive transformation.
-
-B. That dependency denies the linear-sequence and convergence assumptions by holding that underdevelopment is produced, while post-development denies the expert-direction assumption by questioning the authority to diagnose.
-
-C. That dependency denies the diffusion assumption while post-development denies the convergence assumption, so between them they exhaust the theory's five commitments without further argument.
-
-D. That both critiques are versions of the Marxist objection, since each traces the condition of poorer societies to the ownership of production and to the appropriation of the resulting surplus.
+#### MCQ 6 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: neither critique rejects material improvement as such, and the strongest form of each rejects imposed uniformity while conceding demands for schooling, health and mobility.
-- **B:** Correct: naming the assumption each critique denies converts a slogan about Eurocentrism into an argument and shows why the two generate different remedies.
-- **C:** Incorrect: the pairing is wrong in both halves, and even if it were right, denying two assumptions would not exhaust a theory that rests on five.
-- **D:** Incorrect: the Marxist objection about ownership and surplus is a distinct fourth critique, and post-development in particular is an epistemic rather than an economic claim.
+- **A:** Incorrect: these are associated sociological themes rather than the five assumptions identified here, and none of them is the target of dependency or post-development criticism.
+- **B:** Correct: these five are what each hostile critique attacks — dependency at sequence and convergence, post-development at expert direction, cultural critique at the traditional/modern contrast, Marxist critique at convergence and diffusion.
+- **C:** Incorrect: these are policy instruments associated with a period rather than the assumptions of the theory, and criticising them would not touch its linearity or its expert warrant.
+- **D:** Incorrect: these are descriptive features of an industrialising economy rather than the theoretical commitments that make modernisation contestable as a theory of development.
+
+**Examiner trap 6:** Writing that societies "naturally become modern as they develop" concedes three of the five assumptions in a single sentence and leaves the critique with nothing left to deny.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the Marxist objection about ownership and surplus is a distinct fourth critique, and post-development in particular is an epistemic rather than an economic claim.
+- **B:** Incorrect: neither critique rejects material improvement as such, and the strongest form of each rejects imposed uniformity while conceding demands for schooling, health and mobility.
+- **C:** Correct: naming the assumption each critique denies converts a slogan about Eurocentrism into an argument and shows why the two generate different remedies.
+- **D:** Incorrect: the pairing is wrong in both halves, and even if it were right, denying two assumptions would not exhaust a theory that rests on five.
 
 **Examiner trap 7:** "Dependency and post-development criticise modernisation" is a sentence about the literature; naming the assumption each denies is a sentence about the argument, and only the second is scored.
 
-#### MCQ 8. What the human-development shift achieved
-
-Which formulation states most precisely what the human-development framework accomplished?
-
-A. It established that health and education are more important than income, and thereby fixed the correct ordering of developmental priorities for societies at every level of material provision.
-
-B. It demonstrated that composite indices are superior to single indicators, and thereby resolved the long-standing methodological dispute about how development ought to be measured.
-
-C. It proved that political freedom belongs among the dimensions of development, and thereby brought the assessment of regimes within the scope of developmental measurement itself.
-
-D. It changed the unit of account from the economy to the person, and thereby broke the identity between income and well-being that an output measure had silently presupposed.
+#### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -212,61 +439,31 @@ D. It changed the unit of account from the economy to the person, and thereby br
 
 **Examiner trap 8:** Reducing the framework to a comparison of two indices loses the achievement entirely, and quoting an index value is an unsourceable discipline failure in a package that requires no figures.
 
-#### MCQ 9. Why human development is not yet the capability approach
-
-In what two respects does the human-development framework fall short of the capability approach?
-
-A. It measures too few dimensions and aggregates them with equal weights, so it understates both the range of relevant achievements and the disagreement about their relative importance.
-
-B. It records achieved states rather than real opportunities, and it counts people as beneficiaries whose outcomes are noted rather than as agents whose reasoning is part of the good measured.
-
-C. It relies on national data rather than household data, and it reports averages rather than distributions, so it cannot identify which groups within a population have been left behind.
-
-D. It omits ecological indicators and intergenerational effects, so it cannot register the drawing down of stocks that financed the improvement it records for the present generation.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: dimension count and weighting are technical features; the shortfall identified here is conceptual, concerning what kind of thing is being measured.
-- **B:** Correct: achieved functionings are not opportunity sets, and treating persons as recipients rather than agents is precisely the gap the capability approach was built to close.
-- **C:** Incorrect: this describes a corrigible aggregation defect that disaggregation can address, and it does not distinguish the two frameworks conceptually.
-- **D:** Incorrect: ecological dependence is one of the residual concealments, but it is not what separates the framework from the capability approach in kind.
-
-**Examiner trap 9:** Presenting human development and capability as the same approach discards conversion, agency and the opportunity/outcome distinction at once, and it is a distinction the 2022 stem specifically requires.
-
-#### MCQ 10. Fasting and starving
-
-Two persons are equally undernourished; one has food available and declines it, the other has none. What does the case establish?
-
-A. That capability is an opportunity set rather than an achieved outcome, so a metric confined to functionings cannot distinguish the two and therefore cannot be a metric of freedom at all.
-
-B. That utility is an unreliable measure of well-being, since the two persons may report similar levels of satisfaction despite occupying entirely different material and social circumstances.
-
-C. That resources are a poor proxy for development, since the person with food available holds more resources yet has achieved exactly the same nutritional outcome as the other.
-
-D. That conversion factors differ between persons, since the two bodies may metabolise identical quantities of food differently and therefore require different provision to reach the same state.
+#### MCQ 9 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: the contrast isolates the opportunity/outcome distinction, which is the point of the example and the distinction on which most capability questions turn.
-- **B:** Incorrect: the case says nothing about reported satisfaction, and the adaptive-preference argument is a separate objection to utility metrics.
-- **C:** Incorrect: the resource point is real but is not what the example isolates, since the two differ in available options rather than merely in holdings.
-- **D:** Incorrect: conversion is illustrated by different persons needing different resources for the same functioning, which is not the structure of this case.
+- **A:** Correct: achieved functionings are not opportunity sets, and treating persons as recipients rather than agents is precisely the gap the capability approach was built to close.
+- **B:** Incorrect: this describes a corrigible aggregation defect that disaggregation can address, and it does not distinguish the two frameworks conceptually.
+- **C:** Incorrect: ecological dependence is one of the residual concealments, but it is not what separates the framework from the capability approach in kind.
+- **D:** Incorrect: dimension count and weighting are technical features; the shortfall identified here is conceptual, concerning what kind of thing is being measured.
+
+**Examiner trap 9:** Presenting human development and capability as the same approach discards conversion, agency and the opportunity/outcome distinction at once, and it is a distinction the 2022 stem specifically requires.
+
+#### MCQ 10 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: conversion is illustrated by different persons needing different resources for the same functioning, which is not the structure of this case.
+- **B:** Correct: the contrast isolates the opportunity/outcome distinction, which is the point of the example and the distinction on which most capability questions turn.
+- **C:** Incorrect: the case says nothing about reported satisfaction, and the adaptive-preference argument is a separate objection to utility metrics.
+- **D:** Incorrect: the resource point is real but is not what the example isolates, since the two differ in available options rather than merely in holdings.
 
 **Examiner trap 10:** Confusing capability with achieved functioning collapses the framework into an outcome measure, and the fasting-and-starving contrast exists precisely to keep the two apart in one line.
 
-#### MCQ 11. The three kinds of conversion factor
-
-Which grouping correctly names the three kinds of conversion factor and thereby explains why equal resources yield unequal freedom?
-
-A. Physical, economic and cultural — covering the body, the household budget and the inherited traditions that determine how a resource is understood and used within a community.
-
-B. Individual, collective and institutional — covering the person, the community to which she belongs and the formal organisations through which resources reach her in practice.
-
-C. Personal, environmental and social — covering body, age and impairment; climate, terrain and infrastructure; and norms, safety, discrimination and public provision.
-
-D. Material, informational and motivational — covering what a person holds, what she knows about it and how strongly she is disposed to make use of what she holds.
+#### MCQ 11 — solution
 
 **Answer: C.**
 
@@ -278,17 +475,7 @@ D. Material, informational and motivational — covering what a person holds, wh
 
 **Examiner trap 11:** Treating conversion as a single vague idea leaves the argument asserted rather than shown, whereas naming the three kinds allows a specific claim about the case in the stem.
 
-#### MCQ 12. The clause in the definition of agency that scripts drop
-
-Which element completes the definition of agency as it is used in this owner?
-
-A. The ability to make choices that are internally consistent over time, so that a person's decisions at different moments can be interpreted as expressing one coherent underlying plan.
-
-B. The ability to convert resources into functionings efficiently, so that a person achieves more from a given endowment than another person with the same endowment would achieve.
-
-C. The ability to participate in formal decision procedures, so that a person's preferences are registered by the institutions that allocate resources and set the terms of collective life.
-
-D. The ability to pursue goals one has reason to value, including goals that lie beyond one's own welfare, so that a well-provided person may still fail to be an agent in the relevant sense.
+#### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -300,17 +487,7 @@ D. The ability to pursue goals one has reason to value, including goals that lie
 
 **Examiner trap 12:** Without the non-welfare clause the argument for participation loses its constitutive half, and an answer can then be pushed into treating voice as a mere instrument of better outcomes.
 
-#### MCQ 13. Why the instrumental defence of freedom is not enough
-
-Why must the constitutive role of freedom be written alongside the instrumental role?
-
-A. Because a purely instrumental defence makes freedom tradeable, so it can be suspended whenever a larger output is available without it — which is exactly the authoritarian-development argument.
-
-B. Because the instrumental role is empirically contested, and no reliable demonstration exists that political freedoms improve the informational quality or the accountability of public decisions.
-
-C. Because the constitutive role is the older of the two in the literature, and an answer that omits it will appear to rest on a recent restatement rather than on the original formulation.
-
-D. Because the instrumental role concerns only political freedoms, whereas the constitutive role extends the argument to economic facilities and to the social opportunities that support them.
+#### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -322,39 +499,19 @@ D. Because the instrumental role concerns only political freedoms, whereas the c
 
 **Examiner trap 13:** Listing the five instrumental freedoms without stating that each raises the value of the others records the index and loses the argument, since the interlocking is what defeats the trade-off model.
 
-#### MCQ 14. What the interlocking of the instrumental freedoms shows
+#### MCQ 14 — solution
 
-On the account taught here, what follows from the claim that political freedoms, economic facilities, social opportunities, transparency guarantees and protective security reinforce one another?
-
-A. That any one of the five may be substituted for the others, so a society that performs strongly on economic facilities need not perform strongly on the remaining four to develop.
-
-B. That the five should be measured by a single composite index, since mutual reinforcement implies that they vary together and can therefore be summarised by one aggregate figure.
-
-C. That the five are ranked in order of importance, with political freedoms first because they generate the public pressure that produces the social opportunities and the protective security.
-
-D. That development cannot be modelled as a trade-off in which liberty is exchanged for output, since each freedom raises the value of the others rather than competing with them for a fixed budget.
-
-**Answer: D.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: reinforcement is the opposite of substitutability, and the argument's point is that the freedoms are complements rather than alternatives to one another.
-- **B:** Incorrect: mutual reinforcement does not entail statistical co-movement, and this owner in any case treats aggregation as concealing the weights that are the normative question.
-- **C:** Incorrect: no ranking is asserted; the claim is about the relation between the five rather than about an order of priority among them.
-- **D:** Correct: the interlocking undermines the exchange model on which the authoritarian-development argument depends, which is why it is stated as part of the argument rather than as a list.
+- **A:** Incorrect: no ranking is asserted; the claim is about the relation between the five rather than about an order of priority among them.
+- **B:** Correct: the interlocking undermines the exchange model on which the authoritarian-development argument depends, which is why it is stated as part of the argument rather than as a list.
+- **C:** Incorrect: reinforcement is the opposite of substitutability, and the argument's point is that the freedoms are complements rather than alternatives to one another.
+- **D:** Incorrect: mutual reinforcement does not entail statistical co-movement, and this owner in any case treats aggregation as concealing the weights that are the normative question.
 
 **Examiner trap 14:** Using the interlocking claim to argue that all five must be secured simultaneously overstates it; the claim is that each raises the value of the others, not that partial progress is worthless.
 
-#### MCQ 15. The reply that makes a capability threshold defensible
-
-Which reply answers the objection that a specified list of central capabilities imposes one conception of the good life?
-
-A. That the list is derived from a survey of what people in many societies actually value, so its content is empirical rather than philosophical and no conception has been imposed by any theorist.
-
-B. That the objection applies equally to every normative theory, so it cannot count specifically against a capability threshold and may therefore be set aside without further argument.
-
-C. That capabilities protect opportunities rather than compelling functionings, so the threshold secures options without requiring anyone to exercise them, and its specification stays open to democratic interpretation.
-
-D. That the list is provisional and revisable, so any element found objectionable in a given society may be removed from it without affecting the structure of the remaining requirements.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -366,148 +523,79 @@ D. That the list is provisional and revisable, so any element found objectionabl
 
 **Examiner trap 15:** Stating the imposition objection without its reply leaves the threshold undefended and converts an adjudication into a survey, which is the difference between a controlled answer and a description.
 
-#### MCQ 16. What the Sen–Nussbaum disagreement is actually about
-
-Which statement identifies the disagreement correctly?
-
-A. It concerns the number of capabilities that matter, with Sen holding that the relevant set is small and Nussbaum holding that it is considerably larger and more finely differentiated.
-
-B. It concerns the role of the framework — an evaluative space whose content is settled by public reasoning, against a determinate constitutional minimum owed to each person as a matter of justice.
-
-C. It concerns the measurement of capabilities, with Sen preferring direct observation of opportunity sets and Nussbaum preferring inference from achieved functionings within a population.
-
-D. It concerns the scope of application, with Sen addressing developing societies and Nussbaum addressing affluent ones where basic material provision can already be taken for granted.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: enumeration is a consequence of the disagreement rather than its content, and Sen's resistance is to fixing a final canonical list at all rather than to length.
-- **B:** Correct: the dispute is about what the framework is for, which is why each position is strongest exactly where the other is weakest.
-- **C:** Incorrect: no such methodological division is asserted, and both treat measurement as difficult rather than as the point of divergence.
-- **D:** Incorrect: neither position is restricted by the material circumstances of the society, and the threshold claim is explicitly universal in scope.
-
-**Examiner trap 16:** Describing Nussbaum as "Sen with a list" misses the dignity threshold and the justice claim, and it leaves an answer unable to explain why the two positions have different vulnerabilities.
-#### MCQ 17. Two critiques, two different targets
-
-Why does it matter, in practice, whether a critique of modernisation is a dependency critique or a post-development critique?
-
-A. It matters only for attribution, since both reach the same conclusion about the failure of the modernisation programme and differ solely in the vocabulary that each has adopted.
-
-B. It matters because dependency is a normative claim while post-development is a descriptive one, so only the first can be used to evaluate a project or a policy proposal.
-
-C. It matters because dependency applies to formerly colonised societies while post-development applies to all societies, so the two have different geographical ranges of application.
-
-D. It matters because they generate different remedies: one points to the terms of incorporation and ownership of gains, the other to who decides and whose account of their interests counts.
+#### MCQ 16 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: they deny different assumptions of the theory and fail in different ways, so the difference is analytical rather than terminological.
-- **B:** Incorrect: both carry normative force, and post-development's challenge to the authority to diagnose is a normative claim about who may speak for whom.
-- **C:** Incorrect: no such restriction of range is asserted, and the distinction lies in what each denies rather than in where it applies.
-- **D:** Correct: the structural claim and the epistemic claim point to different repairs, and a tribal-development stem engages both at once for exactly that reason.
+- **A:** Incorrect: no such methodological division is asserted, and both treat measurement as difficult rather than as the point of divergence.
+- **B:** Incorrect: neither position is restricted by the material circumstances of the society, and the threshold claim is explicitly universal in scope.
+- **C:** Incorrect: enumeration is a consequence of the disagreement rather than its content, and Sen's resistance is to fixing a final canonical list at all rather than to length.
+- **D:** Correct: the dispute is about what the framework is for, which is why each position is strongest exactly where the other is weakest.
 
-**Examiner trap 17:** Merging the two produces a single undifferentiated complaint about Western imposition, which cannot explain why some remedies address ownership and others address decision-making authority.
+**Examiner trap 16:** Describing Nussbaum as "Sen with a list" misses the dignity threshold and the justice claim, and it leaves an answer unable to explain why the two positions have different vulnerabilities.
 
-#### MCQ 18. The romanticism objection and its reply
-
-Both dependency and post-development face the objection that they romanticise local life. What is the disciplined reply?
-
-A. That the objection misdescribes the critiques, which have never claimed anything about local communities and confine themselves entirely to the analysis of external economic relations.
-
-B. That the objection is unanswerable, so the critiques should be abandoned in favour of a modernisation account modified to include cultural sensitivity in its programme of transformation.
-
-C. That the strongest form of each rejects imposed uniformity rather than material improvement, so local voice must be joined to universal dignity rather than substituted for it.
-
-D. That internal hierarchy is a matter for each community to resolve, so external observers have no standing to raise the objection in the first place and it may be dismissed.
-
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: post-development does make claims about the standing of local accounts, so the objection has a genuine target and cannot be deflected on this ground.
-- **B:** Incorrect: the objection is answerable, and abandoning the critiques would surrender both the structural insight and the challenge to expert authority.
-- **C:** Correct: rejecting imposed uniformity while conceding demands for schooling, health and mobility is what makes the position defensible and generates the middle path.
-- **D:** Incorrect: this concedes the romanticism charge by insulating internal hierarchy from criticism, which is precisely the failure the objection identifies.
-
-**Examiner trap 18:** Concluding that all development is Western imposition forfeits the reply, cannot explain why poor communities demand clinics and schools, and is defeated by the internal-hierarchy point in a single line.
-
-#### MCQ 19. What "sustainable" must be given before it does any work
-
-Which set of specifications converts sustainable development from an adjective into an argument?
-
-A. Thresholds, distribution, participation and non-substitutable ecological limits, without which the word can be attached to whatever course of action was already intended.
-
-B. Targets, timelines, financing and monitoring, without which the commitment cannot be verified and the concept remains an aspiration rather than an operational obligation.
-
-C. Efficiency, substitution, innovation and adaptation, without which the requirement would forbid growth altogether and impose costs no society could reasonably be asked to bear.
-
-D. Consultation, compensation, resettlement and rehabilitation, without which affected populations bear costs they have not agreed to and the arrangement cannot be called sustainable.
+#### MCQ 17 — solution
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: these four are the specifications the package requires, and each blocks a different way in which the word can be emptied of content.
-- **B:** Incorrect: these are implementation and verification requirements belonging to policy administration rather than to the philosophical specification of the concept.
-- **C:** Incorrect: substitution is precisely what the concept limits, so treating it as a specification reverses one of the four philosophical bases.
-- **D:** Incorrect: these are project-level procedures; they matter, but they do not supply the thresholds and limits that give the concept its content.
+- **A:** Correct: the structural claim and the epistemic claim point to different repairs, and a tribal-development stem engages both at once for exactly that reason.
+- **B:** Incorrect: they deny different assumptions of the theory and fail in different ways, so the difference is analytical rather than terminological.
+- **C:** Incorrect: both carry normative force, and post-development's challenge to the authority to diagnose is a normative claim about who may speak for whom.
+- **D:** Incorrect: no such restriction of range is asserted, and the distinction lies in what each denies rather than in where it applies.
 
-**Examiner trap 19:** Writing "development must be sustainable" as a closing line states an aspiration where the examiner asked for a condition, and it is the commonest weak ending on any ecology-adjacent stem.
+**Examiner trap 17:** Merging the two produces a single undifferentiated complaint about Western imposition, which cannot explain why some remedies address ownership and others address decision-making authority.
 
-#### MCQ 20. Using the perspective map without breaching the fence
-
-A candidate answering a development stem devotes a long paragraph to Marx's theory of surplus value. What is the error?
-
-A. The material is inaccurate as stated, and a development answer would require a far more careful reconstruction of the theory than a single paragraph could reasonably contain.
-
-B. The map supplies evaluation criteria rather than complete ideologies, so the Marxist lens contributes a criterion — class power and control of surplus — while the doctrine is routed elsewhere.
-
-C. The material is superseded, since the Marxist lens has been absorbed into the capability approach and no longer supplies an independent criterion for evaluating development.
-
-D. The material is irrelevant, since class and production have no bearing on the evaluation of development and no version of the Marxist criterion belongs in this clause at all.
+#### MCQ 18 — solution
 
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: the defect is not accuracy but ownership; a correct exposition of the doctrine would breach the fence just as thoroughly as an incorrect one.
-- **B:** Correct: liberal and Marxist lenses are comparison only in this owner, and the criterion is to be applied while the full doctrine is routed to Political Ideologies.
-- **C:** Incorrect: the criterion remains independent and useful, and nothing in the capability approach absorbs the question of who controls production.
-- **D:** Incorrect: the criterion is explicitly included in the perspective map, and its warning — that growth can reproduce exploitation — is directly usable.
+- **A:** Incorrect: the objection is answerable, and abandoning the critiques would surrender both the structural insight and the challenge to expert authority.
+- **B:** Correct: rejecting imposed uniformity while conceding demands for schooling, health and mobility is what makes the position defensible and generates the middle path.
+- **C:** Incorrect: this concedes the romanticism charge by insulating internal hierarchy from criticism, which is precisely the failure the objection identifies.
+- **D:** Incorrect: post-development does make claims about the standing of local accounts, so the objection has a genuine target and cannot be deflected on this ground.
 
-**Examiner trap 20:** Naming all five lenses and working none produces a catalogue; two lenses fully applied, one as the standard and one as the counterweight, is what the comparative paragraph rewards.
+**Examiner trap 18:** Concluding that all development is Western imposition forfeits the reply, cannot explain why poor communities demand clinics and schools, and is defeated by the internal-hierarchy point in a single line.
 
-#### MCQ 21. What kind of claim "this is progress" makes
-
-Which characterisation of the claim is correct on the account taught here?
-
-A. It is a descriptive claim about the direction of historical change, verifiable by comparing the condition of a society at two points in time and observing which way the difference runs.
-
-B. It is an emotive expression of approval, since evaluative vocabulary carries no cognitive content and disagreements about progress are therefore not genuine disagreements at all.
-
-C. It is weakly teleological: it judges movement toward a better condition and therefore requires stated ends, but it does not assert that history moves in that direction by itself.
-
-D. It is strongly teleological: reason, science and productive capacity carry societies forward, so the claim reports a tendency that operates independently of anyone's intentions.
+#### MCQ 19 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: comparison of two states cannot by itself establish improvement, since improvement requires a standard against which the difference is assessed.
-- **B:** Incorrect: this is a meta-ethical position the package does not adopt, and it would make the seven criteria of progress unintelligible as criteria.
-- **C:** Correct: the weak form claims direction relative to stated ends and denies any automatic law, which is why progress must be achieved through agency, institutions and judgment.
-- **D:** Incorrect: the strong form is defeated by the twentieth century, in which capacity grew alongside war, genocide and ecological damage.
+- **A:** Incorrect: substitution is precisely what the concept limits, so treating it as a specification reverses one of the four philosophical bases.
+- **B:** Incorrect: these are project-level procedures; they matter, but they do not supply the thresholds and limits that give the concept its content.
+- **C:** Correct: these four are the specifications the package requires, and each blocks a different way in which the word can be emptied of content.
+- **D:** Incorrect: these are implementation and verification requirements belonging to policy administration rather than to the philosophical specification of the concept.
+
+**Examiner trap 19:** Writing "development must be sustainable" as a closing line states an aspiration where the examiner asked for a condition, and it is the commonest weak ending on any ecology-adjacent stem.
+
+#### MCQ 20 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the criterion remains independent and useful, and nothing in the capability approach absorbs the question of who controls production.
+- **B:** Incorrect: the criterion is explicitly included in the perspective map, and its warning — that growth can reproduce exploitation — is directly usable.
+- **C:** Incorrect: the defect is not accuracy but ownership; a correct exposition of the doctrine would breach the fence just as thoroughly as an incorrect one.
+- **D:** Correct: liberal and Marxist lenses are comparison only in this owner, and the criterion is to be applied while the full doctrine is routed to Political Ideologies.
+
+**Examiner trap 20:** Naming all five lenses and working none produces a catalogue; two lenses fully applied, one as the standard and one as the counterweight, is what the comparative paragraph rewards.
+
+#### MCQ 21 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the weak form claims direction relative to stated ends and denies any automatic law, which is why progress must be achieved through agency, institutions and judgment.
+- **B:** Incorrect: the strong form is defeated by the twentieth century, in which capacity grew alongside war, genocide and ecological damage.
+- **C:** Incorrect: comparison of two states cannot by itself establish improvement, since improvement requires a standard against which the difference is assessed.
+- **D:** Incorrect: this is a meta-ethical position the package does not adopt, and it would make the seven criteria of progress unintelligible as criteria.
 
 **Examiner trap 21:** Calling every social change progress omits the word "justified" from the definition, and an answer that does so has no way to distinguish progress from regress or from mere movement.
 
-#### MCQ 22. Adjudicating between the four conceptions of progress
-
-Which combination correctly pairs a conception of progress with its characteristic failure?
-
-A. Linear with fatalism; cyclical with relativism; dialectical with complacency; plural with the mistaking of productive capacity for moral improvement in the assessment of change.
-
-B. Linear with mistaking capacity for moral improvement; cyclical with fatalism; dialectical with imposing a single historical direction; plural with relativism and the loss of common standards.
-
-C. Linear with the loss of common standards; cyclical with a single historical direction; dialectical with fatalism; plural with the conversion of technical capacity into moral advance.
-
-D. Linear with imposing a single direction; cyclical with the mistaking of capacity for improvement; dialectical with relativism; plural with an understating of the possibility of reform.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -519,173 +607,91 @@ D. Linear with imposing a single direction; cyclical with the mistaking of capac
 
 **Examiner trap 22:** Surveying the four conceptions without adjudicating leaves the marks unclaimed; the scored move is to keep the useful half of each and name the failure that the remaining half generates.
 
-#### MCQ 23. Answering the modal stem in its own vocabulary
-
-How should the claim that economic development is necessary for social progress be stated so that it survives examination?
-
-A. As an unqualified necessity, since without economic development no society has ever achieved improvement in health, schooling, security or the standing of its disadvantaged members.
-
-B. As a denial of necessity, since progress is a matter of relations and institutions and can be achieved at any material level provided only that the relations are arranged justly.
-
-C. As a claim about correlation, since economic development and social progress are observed together often enough to justify treating the first as a practical precondition of the second.
-
-D. As a threshold claim: adequate material capabilities are necessary, since severe deprivation restricts health, education and agency, while no particular institutional form of development is indispensable.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the unqualified form overreaches, since "economic development" is a broad institutional phrase and no particular form of it is logically indispensable.
-- **B:** Incorrect: this denies the enabling role that severe deprivation makes undeniable, and it forfeits the argument that distinguishes a threshold from an absence.
-- **C:** Incorrect: correlation is not a modal relation, and answering a necessity question with a claim about co-occurrence evades the vocabulary of the stem.
-- **D:** Correct: the threshold formulation preserves the argument while conceding that necessity attaches to material capability rather than to a named economic process.
-
-**Examiner trap 23:** Answering that economic development "is very important" addresses neither necessity nor sufficiency, and it is the single commonest failure on the modal stem in this clause.
-
-#### MCQ 24. Redistribution and recognition
-
-A programme delivers resources to a group whose members continue to be treated as social inferiors. On the account taught here, how is the case classified?
-
-A. As paternalism: provision without standing, in which goods reach persons who remain objects of policy rather than fellow citizens, so redistribution has occurred while recognition has not.
-
-B. As symbolic equality: standing without means, in which equal status is declared while the resources needed to act on it are withheld from the people to whom it has been declared.
-
-C. As compounded disadvantage: the absence of both resources and recognition, which is the condition the programme was designed to relieve and has therefore failed to alter in any respect.
-
-D. As progress on this axis: the material dimension has improved and the attitudinal dimension will follow once the group's economic position has been secured over a sufficient period.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: resources present with recognition absent is the paternalism cell of the four-way grid, and the corruption is precisely that provision reaches objects rather than citizens.
-- **B:** Incorrect: symbolic equality is the mirror case, in which standing is declared and the means to exercise it are missing.
-- **C:** Incorrect: resources have in fact been delivered, so the case is not the both-absent cell of the grid.
-- **D:** Incorrect: the sequencing claim is rejected in both directions — humiliation does not end with prosperity, and provision without standing entrenches the relation it was meant to relieve.
-
-**Examiner trap 24:** Using "inclusion" to cover both demands conceals the distinction the examiner is testing, since inclusion without resources is symbolic and inclusion without standing is paternalist.
-
-### Remedial drills — eight errors that cost marks every year
-
-#### MCQ 25. Consultation is not empowerment
-
-A project report states that affected persons were invited to meetings, that attendance was high, and that the community was therefore empowered. What is the error, and what test exposes it?
-
-A. The report has confused participation with co-decision, and the test is whether affected persons held a continuing role in implementation and review as well as in the initial design.
-
-B. The report has confused consultation with empowerment, and the test is whether affected persons could dissent, exit, organise and demand reasons — and whether the decision could have been different.
-
-C. The report has confused information with consultation, and the test is whether reasons were given in an intelligible form rather than merely announced after the decision had been taken.
-
-D. The report has confused representation with attendance, and the test is whether those present were selected by the community rather than nominated by the implementing authority.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: this identifies a real distinction two rungs lower and stops short of empowerment, which requires durable institutional power rather than a continuing role.
-- **B:** Correct: empowerment is control over the conditions of action, it cannot be inferred from attendance, and the counterfactual test is the fastest way to expose the claim.
-- **C:** Incorrect: intelligible reasons distinguish information from mere announcement, which is a rung-one issue and not the error in the report.
-- **D:** Incorrect: selection method matters for representativeness but does not by itself establish decision-power, so the test would leave the central claim unexamined.
-
-**Examiner trap 25:** Inferring empowerment from attendance or nominal representation is a checkable error, because the operative question is not who was in the room but whether anyone in it could have said no.
-
-#### MCQ 26. The technology stem answered without a criterion
-
-A script lists benefits and harms of technological change and concludes that technology has "both positive and negative effects on society". Why does this score poorly on the 2019-pattern stem?
-
-A. Because the list is incomplete, and a full answer would need to cover a considerably wider range of technologies than the four domains that the script has chosen to discuss.
-
-B. Because the stem asked for a historical account, and the script has produced a conceptual one that does not engage with the actual sequence of technological change.
-
-C. Because the harms outweigh the benefits, and a script that presents them as balanced has misjudged the weight of evidence that the question expects it to assess.
-
-D. Because the stem is a causal claim requiring a mechanism and a defeater, and an unresolved balance supplies neither — control, access and purpose fix the direction of the effect.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: coverage is not the defect; adding domains to an unresolved list produces a longer list with the same absence of adjudication.
-- **B:** Incorrect: the stem asks whether technological development leads to ethical progress, which is a conceptual and causal question rather than a historical one.
-- **C:** Incorrect: the package asserts no such weighing, and an answer that simply reversed the balance would still lack the criterion the stem requires.
-- **D:** Correct: the optimist and critical pairs are one structural argument made four times, and the conversion conditions supply the verdict the balance was missing.
-
-**Examiner trap 26:** Naming technologies, platforms, companies or episodes breaches this package's evidence discipline and weakens the answer, because a named case invites a counter-case while the structural point does not.
-
-#### MCQ 27. The skill-education stem answered as an employment question
-
-Which omission most damages an answer to the 2023-pattern stem on skill education?
-
-A. Frustrated capability — the case where competence is created and then blocked because decent work is unavailable, which is the sharpest of the four limits and the one that makes the verdict conditional.
-
-B. The distinction between vocational and general education, which determines the level at which the discussion of skills should be pitched and the institutions through which they are delivered.
-
-C. The role of employers in curriculum design, without which training cannot be aligned to demand and the resulting qualifications will not be recognised in the labour market.
-
-D. The history of technical education, which supplies the context in which contemporary emphasis on skilling should be assessed and explains why the emphasis has re-emerged.
-
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: frustrated capability names a distinctive harm rather than an absence of benefit, and it is what converts an administrative answer into a philosophical one.
-- **B:** Incorrect: this is a curricular distinction rather than an evaluative standard, and it does not tell the examiner what the answer is measuring skills against.
-- **C:** Incorrect: this belongs to programme design and lies outside this owner, which supplies no employment data and assesses skills against capability.
-- **D:** Incorrect: historical context is not owned here, and the stem asks for evaluation against a standard rather than for a background narrative.
-
-**Examiner trap 27:** Answering with employment figures, scheme names or outlays produces an Economy answer inside a Philosophy paper, and none of that material can be sourced within this owner.
-
-#### MCQ 28. The Gandhian answer written without Ambedkar
-
-Why is Ambedkar's criticism of the village described in this package as indispensable rather than optional in a Gandhian development answer?
-
-A. Because Ambedkar and Gandhi are always examined together, so any answer mentioning one is expected by convention to mention the other regardless of what the stem asks.
-
-B. Because Ambedkar's constitutional programme is the only available alternative to Gandhian decentralisation, so an answer must choose between them before it can reach a verdict.
-
-C. Because decentralisation is defensible only with equal rights and anti-domination, so an answer that omits the objection has praised a scheme that may hand power to local hierarchy.
-
-D. Because Gandhi accepted the criticism, so an exposition that omits it misrepresents his position and attributes to him a view he had already revised in response to it.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: convention is not a reason; the objection is indispensable because it identifies a defect in the position rather than because of examination habit.
-- **B:** Incorrect: the package does not present the two as exclusive alternatives, and the resolution conditions decentralisation rather than replacing it.
-- **C:** Correct: the reply is that local self-government is progressive only where constitutional rights, mobility and anti-caste safeguards transform local power.
-- **D:** Incorrect: no such claim about acceptance or revision is asserted here, and attributing one would exceed what this package's sources support.
+- **A:** Incorrect: this denies the enabling role that severe deprivation makes undeniable, and it forfeits the argument that distinguishes a threshold from an absence.
+- **B:** Incorrect: correlation is not a modal relation, and answering a necessity question with a claim about co-occurrence evades the vocabulary of the stem.
+- **C:** Correct: the threshold formulation preserves the argument while conceding that necessity attaches to material capability rather than to a named economic process.
+- **D:** Incorrect: the unqualified form overreaches, since "economic development" is a broad institutional phrase and no particular form of it is logically indispensable.
 
-**Examiner trap 28:** Expanding the objection into the full Gandhi–Ambedkar caste debate breaches the fence in the opposite direction; here the criticism functions as a bounded criterion and the doctrine is routed.
+**Examiner trap 23:** Answering that economic development "is very important" addresses neither necessity nor sufficiency, and it is the single commonest failure on the modal stem in this clause.
 
-#### MCQ 29. Enactment, judgment and implementation
-
-A script cites PESA of 1996, the Forest Rights Act of 2006 and the 2013 Supreme Court judgment as evidence that development and tribal values have been reconciled. What is wrong?
-
-A. The items are wrongly dated, and an answer that misstates the year of a statute or judgment will be treated as unreliable on the remainder of its factual claims.
-
-B. The items belong to Polity rather than to Philosophy, so citing them at all takes the answer outside this syllabus clause and into a different paper's territory altogether.
-
-C. The items are too few, and a reconciliation claim of this kind would require a wider survey of the legislative and judicial record than three instances can provide.
-
-D. Enactment is not notification, notification is not implementation, and a judgment is not legislation — so the items establish institutional recognition and nothing beyond it.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: the dates as given are the ones this package uses, and the defect lies in the inference drawn from the items rather than in their dating.
-- **B:** Incorrect: they are legitimately usable here as dated institutional illustrations, provided each is classified before use and none is treated as proof.
-- **C:** Incorrect: adding instances would not repair the inference, since the same gap between recognition and outcome would apply to every additional item.
-- **D:** Correct: the four-step disclaimer is what the package requires, and without it a legal fact is being used as evidence for a philosophical conclusion.
+- **A:** Incorrect: symbolic equality is the mirror case, in which standing is declared and the means to exercise it are missing.
+- **B:** Incorrect: resources have in fact been delivered, so the case is not the both-absent cell of the grid.
+- **C:** Incorrect: the sequencing claim is rejected in both directions — humiliation does not end with prosperity, and provision without standing entrenches the relation it was meant to relieve.
+- **D:** Correct: resources present with recognition absent is the paternalism cell of the four-way grid, and the corruption is precisely that provision reaches objects rather than citizens.
+
+**Examiner trap 24:** Using "inclusion" to cover both demands conceals the distinction the examiner is testing, since inclusion without resources is symbolic and inclusion without standing is paternalist.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: empowerment is control over the conditions of action, it cannot be inferred from attendance, and the counterfactual test is the fastest way to expose the claim.
+- **B:** Incorrect: intelligible reasons distinguish information from mere announcement, which is a rung-one issue and not the error in the report.
+- **C:** Incorrect: selection method matters for representativeness but does not by itself establish decision-power, so the test would leave the central claim unexamined.
+- **D:** Incorrect: this identifies a real distinction two rungs lower and stops short of empowerment, which requires durable institutional power rather than a continuing role.
+
+**Examiner trap 25:** Inferring empowerment from attendance or nominal representation is a checkable error, because the operative question is not who was in the room but whether anyone in it could have said no.
+
+#### MCQ 26 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the package asserts no such weighing, and an answer that simply reversed the balance would still lack the criterion the stem requires.
+- **B:** Correct: the optimist and critical pairs are one structural argument made four times, and the conversion conditions supply the verdict the balance was missing.
+- **C:** Incorrect: coverage is not the defect; adding domains to an unresolved list produces a longer list with the same absence of adjudication.
+- **D:** Incorrect: the stem asks whether technological development leads to ethical progress, which is a conceptual and causal question rather than a historical one.
+
+**Examiner trap 26:** Naming technologies, platforms, companies or episodes breaches this package's evidence discipline and weakens the answer, because a named case invites a counter-case while the structural point does not.
+
+#### MCQ 27 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: this belongs to programme design and lies outside this owner, which supplies no employment data and assesses skills against capability.
+- **B:** Incorrect: historical context is not owned here, and the stem asks for evaluation against a standard rather than for a background narrative.
+- **C:** Correct: frustrated capability names a distinctive harm rather than an absence of benefit, and it is what converts an administrative answer into a philosophical one.
+- **D:** Incorrect: this is a curricular distinction rather than an evaluative standard, and it does not tell the examiner what the answer is measuring skills against.
+
+**Examiner trap 27:** Answering with employment figures, scheme names or outlays produces an Economy answer inside a Philosophy paper, and none of that material can be sourced within this owner.
+
+#### MCQ 28 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: no such claim about acceptance or revision is asserted here, and attributing one would exceed what this package's sources support.
+- **B:** Incorrect: convention is not a reason; the objection is indispensable because it identifies a defect in the position rather than because of examination habit.
+- **C:** Incorrect: the package does not present the two as exclusive alternatives, and the resolution conditions decentralisation rather than replacing it.
+- **D:** Correct: the reply is that local self-government is progressive only where constitutional rights, mobility and anti-caste safeguards transform local power.
+
+**Examiner trap 28:** Expanding the objection into the full Gandhi–Ambedkar caste debate breaches the fence in the opposite direction; here the criticism functions as a bounded criterion and the doctrine is routed.
+
+#### MCQ 29 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the four-step disclaimer is what the package requires, and without it a legal fact is being used as evidence for a philosophical conclusion.
+- **B:** Incorrect: the dates as given are the ones this package uses, and the defect lies in the inference drawn from the items rather than in their dating.
+- **C:** Incorrect: they are legitimately usable here as dated institutional illustrations, provided each is classified before use and none is treated as proof.
+- **D:** Incorrect: adding instances would not repair the inference, since the same gap between recognition and outcome would apply to every additional item.
 
 **Examiner trap 29:** Answering a reconciliation stem with compensation fails the second of the four tests, because participation must extend to the decision and not only to the payment that follows it.
 
-#### MCQ 30. Applying the degrowth argument correctly
-
-Which statement applies the degrowth argument as this package requires?
-
-A. Aggregate output should be reduced everywhere, since the biophysical limits are global and any exemption undermines the collective restraint on which the whole argument depends.
-
-B. Reduction is required where consumption stands far above any defensible threshold and expansion is required where it stands far below, since the argument concerns the distribution of ecological burdens.
-
-C. Growth should continue until a global threshold is reached, after which all societies should contract together at a uniform rate determined by the remaining ecological capacity.
-
-D. The argument applies only to affluent societies and has no implications at all for societies below the deprivation threshold, which may disregard ecological considerations entirely.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
@@ -697,17 +703,7 @@ D. The argument applies only to affluent societies and has no implications at al
 
 **Examiner trap 30:** Presenting degrowth without conceding its weakest link — that a non-growing economy can maintain employment, services and stability — overstates a case whose central presupposition remains undemonstrated.
 
-#### MCQ 31. Duties to future persons, argued rather than asserted
-
-A script asserts that the present generation owes duties of justice to future generations and moves directly to policy conclusions. Which problem has it failed to meet?
-
-A. The motivation problem, since future people cannot vote or sanction, which shows that the duty cannot be enforced and therefore cannot be a duty of justice at all.
-
-B. The discounting problem, since standard appraisal reduces the present weight of distant costs, which shows that the duty is real but that its content is a matter for economists.
-
-C. The non-identity problem, since different policies produce different future people, so a person whose existence depends on the degrading policy cannot claim to have been made worse off.
-
-D. The uncertainty problem, since future preferences and technologies are unknown, which shows that no specific obligation can be identified and that the duty is therefore empty.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
@@ -719,34 +715,37 @@ D. The uncertainty problem, since future preferences and technologies are unknow
 
 **Examiner trap 31:** Reproducing the Brundtland formulation verbatim breaches this package's citation discipline; the formulation is to be paraphrased, and the argument for the duty must be supplied separately.
 
-#### MCQ 32. Staying inside the fence
+#### MCQ 32 — solution
 
-Which of the following would take a development answer outside this owner's syllabus clause?
-
-A. Developing a full account of justice as fairness, of the annihilation of caste or of multicultural recognition, rather than using the corresponding criterion and routing the doctrine.
-
-B. Citing the Forest Rights Act as a dated statute while stating expressly that enactment establishes recognition rather than implementation or successful capability expansion.
-
-C. Using the Marxist warning that growth can reproduce exploitation as one criterion within the perspective map while leaving the underlying theory of value entirely undeveloped.
-
-D. Invoking the dignity threshold to bound a community's authority over its own members in a stem concerning development and the values of a particular community group.
-
-**Answer: A.**
+**Answer: D.**
 
 **Option explanations:**
-- **A:** Correct: these are the doctrines owned by Social and Political Ideals, Caste Discrimination and Humanism, Secularism and Multiculturalism; here they supply criteria and are routed rather than developed.
-- **B:** Incorrect: this is the correct use of a classified dated illustration and is expressly permitted, provided the four-step disclaimer accompanies it.
-- **C:** Incorrect: this is exactly how the perspective map is to be used — criterion applied, doctrine routed — and it stays inside the fence.
-- **D:** Incorrect: the threshold's bounding of community authority is developed within this owner as the mechanism that prevents recognition from freezing internal hierarchy.
+- **A:** Incorrect: this is the correct use of a classified dated illustration and is expressly permitted, provided the four-step disclaimer accompanies it.
+- **B:** Incorrect: this is exactly how the perspective map is to be used — criterion applied, doctrine routed — and it stays inside the fence.
+- **C:** Incorrect: the threshold's bounding of community authority is developed within this owner as the mechanism that prevents recognition from freezing internal hierarchy.
+- **D:** Correct: these are the doctrines owned by Social and Political Ideals, Caste Discrimination and Humanism, Secularism and Multiculturalism; here they supply criteria and are routed rather than developed.
 
 **Examiner trap 32:** A correct exposition of another owner's doctrine breaches the fence just as thoroughly as an incorrect one, because the defect is ownership rather than accuracy — and the examiner marks the clause, not the content.
+
+#### MCQ 33 — solution
+
+**Answer: A.** **Option explanations:**
+- **A:** Correct: lost capability and voice challenge development understood as substantive freedom.
+- **B:** Wrong: delays carry costs, but retained effective voice is not itself evidence of declining social capability.
+- **C:** Wrong: uncertain distribution warrants investigation, not a finding of lost substantive freedom.
+- **D:** Wrong: institutional costs can be justified when affected people can reshape harmful plans.
+
+**Examiner trap 33:** Neither elections nor fast aggregate growth is sufficient evidence of inclusive progress.
+
+---
+
 ## PYQS AND ANSWER PRACTICE
 
 ### Practice status and source discipline — read once, applies to every solution below
 
 > Every model answer here is independent learner practice and is **never** an official UPSC key; UPSC publishes no descriptive model answer for Philosophy Paper II. Question wording is reproduced exactly as printed in the official papers, including the 2024 paper's split marking **[10+5=15]** and its four-option modal formulation **"a necessary condition, sufficient condition, both or neither"**, the 2022 paper's **"does not on its own lead to"**, and the 2025 paper's phrase **"to bring social and economic progress"** — all preserved verbatim inside the question lines. The 2018 to 2025 Paper II texts are held locally, and the English wording of every part below follows the repository's verified Socio-Political PYQ ledger. Works are cited by author and title only: **Sen, *Development as Freedom*** and ***Commodities and Capabilities***; **Nussbaum, *Creating Capabilities*** and ***Women and Human Development***; **Mahbub ul Haq, *Reflections on Human Development*** with the UNDP framework; **Gandhi, *Hind Swaraj*** and his writings on trusteeship, self-rule (*swarāj*) and welfare of all (*sarvodaya*); **Ambedkar's** writings on caste, democracy and the Indian village; **O. P. Gauba, *An Introduction to Political Theory***; **Guha and Martinez-Alier, *Varieties of Environmentalism*** (**1997**); and the World Commission on Environment and Development, ***Our Common Future***, the **Brundtland Report** (**1987**). No page, chapter, edition or verbatim wording is asserted for any of them, and no author is quoted anywhere in this package. Seven dated facts appear, each classified before use — **Naess's shallow/deep distinction (1973)**; the **Brundtland Report (1987)**, paraphrased and never quoted; **Guha and Martinez-Alier (1997)**; **PESA, 1996**, an enacted statute; the **Forest Rights Act, 2006**, an enacted rights-recognition statute; ***Orissa Mining Corporation v. Ministry of Environment & Forest* (2013)**, a Supreme Court judgment; and **Articles 48A and 51A(g)**, both non-justiciable. ⚠️ Interpretive disputes — whether a specified capability list can be defended without paternalism, whether a non-growing economy can maintain employment and public services, whether duties to future persons survive the non-identity problem, and where the material threshold of necessity should be set — are flagged as contested rather than settled. ❌ **No growth rate, income figure, poverty count, index score, emission quantum, target, scheme, project, company, movement, region or country is named anywhere**, and no statute, judgment or constitutional provision is used as evidence for or against a philosophical thesis.
 
-**Answer-length convention used throughout this package.** UPSC Philosophy Paper II parts are written longer than General Studies answers. The working bands used here are **10 marks — about 150 to 220 words**, **15 marks — about 250 to 330 words**, and **20 marks — about 330 to 400 words**. Every solution below sits inside its declared band, and the demand decoding, the "why this earns marks" notes and the "how to improve this answer" notes are teaching apparatus that sit **outside** the timed word count.
+**Timed-practice convention.** Scale time and detail to the marks and directive, but do not impose a preset word limit on these learning models. Demand decoding and examiner notes are study aids; no answer earns marks merely by reaching a length.
 
 **Coverage.** ⚠️ **Corpus signal:** this clause owns **6 of 112** Socio-Political question-parts in the 2018–2025 corpus, distributed **2018: 0, 2019: 1, 2020: 1, 2021: 0, 2022: 1, 2023: 1, 2024: 1, 2025: 1**. All six are solved in full below, followed by **six original solved Mains models**, two each at 10, 15 and 20 marks. The internal profile is more instructive than the volume: **not one** owned part asks for a definition of development. Two are **modal or relational** (2022 on whether economic development leads on its own to human development and social progress; 2024 on necessity and sufficiency), one is **causal** (2019 on technology and ethical standards), one is **evaluative** (2023 on skill education), one is **expository-critical** (2020 on the Gandhian conception), and one is a **reconciliation** stem (2025 on tribal values). Preparation that stops at definitions reaches none of them. ⚠️ Ownership discipline: justice, equality and liberty as ideals belong to **Social and Political Ideals**; full ideologies to **Political Ideologies**; cultural recognition to **Humanism, Secularism and Multiculturalism**; women's empowerment as a doctrine to **Gender Discrimination**; caste doctrine to **Caste Discrimination: Gandhi and Ambedkar**; rights and state legitimacy to **Individual and State**. None of those is counted here. ❌ Do not route every occurrence of the words "development", "progress" or "empowerment" to this owner: ownership turns on the evaluation of development itself.
 
@@ -784,7 +783,7 @@ D. Invoking the dignity threshold to bound a community's authority over its own 
 
 **Answer-writing focus:** a "does X lead to Y" stem is scored on whether a **mechanism** and a **defeater** are supplied. Scripts that list advantages and disadvantages and conclude that technology is a double-edged sword have described the phenomenon without adjudicating it. Naming control, access and purpose as the variables that fix the direction converts the same material into an argument.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position one line; the optimist mechanism two lines; the four paired cases four lines; the structural point two lines; the four conversion conditions one line; the reshaping concession two lines; the link to non-inevitability two lines. Compression plan if short of time: reduce the four pairs to two and keep the conversion conditions and the concession, which are what distinguish this from a balanced list.
+**Timed answer route — 15 marks (adapt to the directive):** position one line; the optimist mechanism two lines; the four paired cases four lines; the structural point two lines; the four conversion conditions one line; the reshaping concession two lines; the link to non-inevitability two lines. Compression plan if short of time: reduce the four pairs to two and keep the conversion conditions and the concession, which are what distinguish this from a balanced list.
 
 - **Structure:** position → optimist mechanism → structural defeater → what the symmetry shows → conversion conditions → concession → link to progress.
 - **Doctrine:** technology as capacity without ends; ethical progress as institutionally and evaluatively conditioned.
@@ -834,7 +833,7 @@ Add one sentence noting that some artefacts carry a **built-in tendency** — a 
 
 **Answer-writing focus:** "state and examine" is two instructions and both are scored. The commonest failure is an admiring exposition with a single sentence of criticism appended. The second commonest is an Indian answer that omits Ambedkar. Reconstructing Gandhi as an **argument** with stated premises is what makes the examination possible, because premises can be tested and ideals cannot.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** statement two lines; five-step argument four lines; presuppositions two lines; three objections with replies eight lines; comparison two lines; verdict two lines. Compression plan if short of time: keep all three objections and shorten the presuppositions, since the objections carry the "examine" half.
+**Timed answer route — 20 marks (adapt to the directive):** statement two lines; five-step argument four lines; presuppositions two lines; three objections with replies eight lines; comparison two lines; verdict two lines. Compression plan if short of time: keep all three objections and shorten the presuppositions, since the objections carry the "examine" half.
 
 - **Structure:** statement → argument → presuppositions → three objections with replies → comparison → conditioned verdict.
 - **Doctrine:** welfare of all (*sarvodaya*), self-rule (*swarāj*), trusteeship, restraint of wants, dignity of labour, means shaping ends.
@@ -882,7 +881,7 @@ Add one sentence linking the Gandhian restraint argument to the ecological mater
 
 **Answer-writing focus:** the stem contains the words "on its own", and those three words are the question. The scored move is to show that the inference is **conditional** and then to name the conditions. Scripts that argue growth is bad, or that list problems of growth without a standard, have not engaged the modal structure of the claim.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** position two lines; the three-standard distinction three lines; four reasons ten lines; qualification two lines; verdict two lines. Compression plan if short of time: retain reasons one and three, which carry conversion and recognition, and compress two and four into a single line each.
+**Timed answer route — 20 marks (adapt to the directive):** position two lines; the three-standard distinction three lines; four reasons ten lines; qualification two lines; verdict two lines. Compression plan if short of time: retain reasons one and three, which carry conversion and recognition, and compress two and four into a single line each.
 
 - **Structure:** qualified agreement → three standards → four reasons → threshold qualification → conversion verdict.
 - **Doctrine:** the five-rung ladder; conversion; redistribution and recognition; agency.
@@ -930,7 +929,7 @@ Add one sentence naming the **aggregation point**: no single composite settles t
 
 **Answer-writing focus:** "Evaluate" requires a named standard. The single most common failure is to answer with labour-market material, which produces an Economy answer inside a Philosophy paper and cannot be sourced within this owner. Naming capability as the standard and bargaining power as the test converts the same question into philosophy.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position and standard two lines; positive argument three lines; four limits eight lines; two mirror errors two lines; verdict two lines. Compression plan if short of time: keep limits one and four, which carry frustrated capability and adaptability, and reduce the mirror errors to a single sentence.
+**Timed answer route — 15 marks (adapt to the directive):** position and standard two lines; positive argument three lines; four limits eight lines; two mirror errors two lines; verdict two lines. Compression plan if short of time: keep limits one and four, which carry frustrated capability and adaptability, and reduce the mirror errors to a single sentence.
 
 - **Structure:** standard → positive capability argument → four limits → two mirror errors → conditional verdict.
 - **Doctrine:** capability requires effective means; conversion; agency; dignity of labour.
@@ -974,7 +973,7 @@ Add one sentence noting that adaptability is not an ornament attached to skillin
 
 **Answer-writing focus:** the four options are exhaustive and the examiner is checking whether the candidate can select one and defend it in modal vocabulary. The two most damaging failures are answering with importance and asserting unqualified necessity. Writing the word **threshold** is what makes the necessity claim survivable.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** logical frame two lines; necessity test five lines; sufficiency test four lines; the conversion explanation three lines; conceptual point two lines; graded verdict two lines. Compression plan if short of time: keep both tests complete and shorten the conversion explanation, since the tests are where the ten marks sit.
+**Timed answer route — 15 marks (adapt to the directive):** logical frame two lines; necessity test five lines; sufficiency test four lines; the conversion explanation three lines; conceptual point two lines; graded verdict two lines. Compression plan if short of time: keep both tests complete and shorten the conversion explanation, since the tests are where the ten marks sit.
 
 - **Structure:** logical frame → necessity test → sufficiency test → why the gap exists → identity against enabling → graded verdict.
 - **Doctrine:** the seven criteria; the threshold formulation; conversion; redistribution against recognition.
@@ -1020,7 +1019,7 @@ Add one sentence pre-empting the objection that a threshold-plus-insufficiency v
 
 **Answer-writing focus:** a reconciliation stem is scored on **conditions**. A script that concludes "a balance must be struck between development and tribal culture" has decided nothing. The four tests, stated as jointly required, are the mark-bearing structure, and test (ii) — decision rather than compensation — is the one most often missing.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position one line; reframing four lines; description discipline two lines; four tests six lines; internal justice two lines; classified illustration two lines; verdict one line. Compression plan if short of time: keep the four tests and the classification, and reduce the reframing to the single Guha and Martinez-Alier sentence.
+**Timed answer route — 15 marks (adapt to the directive):** position one line; reframing four lines; description discipline two lines; four tests six lines; internal justice two lines; classified illustration two lines; verdict one line. Compression plan if short of time: keep the four tests and the classification, and reduce the reframing to the single Guha and Martinez-Alier sentence.
 
 - **Structure:** conditional position → distributive reframing → description discipline → four joint tests → internal justice → classified illustration → agency verdict.
 - **Doctrine:** the seven-step reconciliation model compressed into four tests; the capability ledger; the dignity threshold as a bound on community authority.
@@ -1032,9 +1031,41 @@ Add one sentence pre-empting the objection that a threshold-plus-insufficiency v
 
 Add one sentence applying the **productivism** point — that the project's growth objective is itself examinable, not only its compensation package — because it prevents the answer from conceding the terms of the dispute before it begins. If two further lines are available, state the epistemic reply to eco-authoritarianism: dispersed local ecological knowledge of soils, water, seasons and species is not dispensable, which answers the "whose knowledge counts" question with an argument rather than a sentiment. Do **not** name any project, company, movement or region; the analysis is stronger at the level of criteria and naming breaches the package's evidence discipline.
 
+### 2026 verified primary-owned PYQ — supplementary solution
+
+The official-paper supplement `_PYQ-SocioPolitical-2026-Supplement.md` routes this part here, additionally to the six 2018–2025 parts. This is an independent model rather than an official UPSC key.
+
+#### Solved PYQ 7 · 2026 · Q4(c) · 15 marks
+
+**Printed question:** “Examine the relationship between democracy and development. Does democracy promote or hinder development ?”
+
+**Demand:** Treat the relationship and the promote/hinder verdict separately; specify what counts as development.
+
+**Model solution:** If development is equated only with short-run output growth, concentrated decision-making can seem attractive: a government unconstrained by consultation might build infrastructure or redirect resources quickly. Democracy can delay decisions through bargaining, elections and legal review. Yet *development* should also include health, education, capability, dignity, distribution and the freedom to participate in shaping priorities. Sen's capability approach asks what people are effectively able to do and be; a growth figure alone cannot tell us whether excluded groups gained real agency. Democratic debate, a free press and accountable representatives can reveal deprivation and make decision-makers answerable for it. For example, a local development project gains legitimacy if affected households can challenge displacement and negotiate fair provision; an unconsulted project may increase aggregate output while destroying livelihoods. Conversely, clientelism, low administrative capacity and short election horizons can make democratic authorisation a weak predictor of actual services. The relationship is two-way: education and material security make participation more effective, while meaningful participation can reshape spending and inclusion. **Verdict:** democracy is neither a sufficient condition for growth nor an intrinsic obstacle to it. Under capable administration, enforceable rights and credible public accountability it better promotes *inclusive social development*; without these mediating conditions, elections alone do not deliver progress.
+
+**Why this earns marks:** Defines development, concedes the strongest efficiency objection, articulates both causal directions and offers a conditional verdict.
+
+### ADDITIONAL ORIGINAL MAINS PRACTICE — uncovered syllabus demands
+
+#### Gap practice A · 20 marks · development, displacement and tribal agency
+
+**Question:** A project raises regional output but displaces a tribal community. Evaluate its claim to count as “social progress” using capabilities, cultural autonomy and ecological justice.
+
+**Independent model solution:** Aggregate output can rise even when some people lose effective freedom. Sen's capability approach asks whether affected persons retain genuine opportunities for livelihood, health, education, political voice and the ways of life they have reason to value. If land gives a community not only income but identity, ecological knowledge and an intergenerational basis for work, a cash award may fail to restore its capabilities. Social progress also demands attention to agency: participation before decisions and credible avenues to contest them cannot be replaced by information issued after a project is fixed. The project's defenders can reasonably point to energy, employment and services that help others, including poorer households. The question is not therefore settled by romanticising every inherited practice or declaring all construction unjust. One must compare feasible alternatives, including changed site, scale and resource allocation, and assign ecological costs to those who impose rather than merely those least able to move. A capability floor for each person also limits any appeal to the community's authority to silence women or internal dissenters. Gandhian suspicion of centralised, high-consumption development is a useful challenge to the assumed identification of speed with progress, though local autonomy alone cannot guarantee medical or educational access. **Verdict:** the project's growth can be real without its being social progress; it qualifies only if the distribution of burdens is defensible, capabilities are effectively restored or expanded, ecological harm is constrained, and affected persons can participate as agents rather than being counted as compensation recipients.
+
+**Why this earns marks:** Tests the output claim against conversion, rights, ecology and internal plurality; avoids both anti-development and pro-growth shortcuts.
+
+#### Gap practice B · 15 marks · skill education and the meaning of progress
+
+**Question:** Critically examine the claim that vocational and skill education promotes development only when learners can choose and revise their own life plans.
+
+**Independent model solution:** Skill education can raise productive capacity, access to work and the competence needed to use new technology; these are genuine developmental goods, not merely instruments of growth. Yet training a person for a vacancy without asking whether the work is safe, fairly paid or chosen confuses a functioning imposed by circumstances with a capability to choose among valuable functionings. A girl channelled exclusively into low-paid care work may acquire a certificate while unequal expectations and restricted mobility remain unchanged. Sen's capability perspective values educational opportunity and agency together. Employers' immediate demand matters, but so do broad literacy, critical reasoning, transferable skills and the possibility of changing occupations. A defender of narrowly targeted training may reply that rapid employment is more urgent than expansive curricular ideals for a person facing deprivation. That objection has force: access to a decent initial income can itself expand choice. However, it argues for integrating employable training with rights, foundational learning and pathways for further study, not for treating workers as fixed inputs to a production plan. **Verdict:** vocational provision promotes social progress when it enlarges effective options, not simply when it raises the number of trained workers or their aggregate earnings; test it by actual access, decent work and the ability to exit and retrain.
+
+**Why this earns marks:** Distinguishes skill, functioning and agency and answers the urgency objection without denying employment's value.
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-> Six original questions in the paper's own idiom — two at 10 marks, two at 15 and two at 20 — each solved to the same standard as the previous-year parts above. None reproduces an owned stem; each targets a route the corpus has tested indirectly or is likely to test again. **Modernisation, the measurement dispute and the ecological limits of development are deliberately represented here**, since each is printed inside this owner's material and none carries a directly owned part in the 2018–2025 cycle.
+> The six baseline originals plus tribal displacement and skill-education questions give eight independent solved models, chosen by syllabus coverage rather than quota. **Modernisation, measurement and ecological limits** are deliberately represented because the baseline PYQs do not independently exhaust these owner demands.
 
 #### Original 1 · 10 marks
 
@@ -1054,7 +1085,7 @@ Add one sentence applying the **productivism** point — that the project's grow
 
 **Answer-writing focus:** a "distinguish and say why it matters" stem needs consequences rather than three definitions. The informational-space point is the sharpest, because it explains *why* the entailment fails rather than merely asserting that it does.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** three concepts four lines; informational spaces three lines; three consequences three lines; verdict one line.
+**Timed answer route — 10 marks (adapt to the directive):** three concepts four lines; informational spaces three lines; three consequences three lines; verdict one line.
 
 - **Structure:** three definitions → three informational spaces → three consequences → verdict.
 - **Doctrine:** the five-rung ladder, compressed to the three the stem names.
@@ -1088,7 +1119,7 @@ Add the observation that ascending the ladder buys evaluative richness and pays 
 
 **Answer-writing focus:** a "comment" stem on a true statement is scored on the **reason** supplied. The weighting argument is the reason, because it shows a structural impossibility rather than a practical shortcoming.
 
-**Exam-length execution — 10 marks, about 150 to 220 words:** position one line; what an index is three lines; the weighting argument three lines; three concealments three lines; qualification two lines; verdict one line.
+**Timed answer route — 10 marks (adapt to the directive):** position one line; what an index is three lines; the weighting argument three lines; three concealments three lines; qualification two lines; verdict one line.
 
 - **Structure:** position → informational spaces → the weighting argument → three concealments → qualification → verdict.
 - **Doctrine:** the seven measure families and the aggregation problem.
@@ -1124,7 +1155,7 @@ Add one line noting that the weights problem is not removed by adding dimensions
 
 **Answer-writing focus:** "merely… or partly" is a stem about the **kind** of value, so the answer must classify rather than praise. The tradeability consequence is what makes the classification matter, and stating it is what separates an argument from an endorsement.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position one line; instrumental case two lines; constitutive case three lines; consequences three lines; ladder four lines; objection and reply four lines; verdict two lines.
+**Timed answer route — 15 marks (adapt to the directive):** position one line; instrumental case two lines; constitutive case three lines; consequences three lines; ladder four lines; objection and reply four lines; verdict two lines.
 
 - **Structure:** both-and position → instrumental → constitutive → why it matters → the ladder → objection and reply → qualified verdict.
 - **Doctrine:** the two roles of freedom; the five-rung agency ladder; empowerment as control over the conditions of action.
@@ -1158,7 +1189,7 @@ Add the counterfactual test — could the decision have been different, and coul
 
 **Answer-writing focus:** "critically examine" requires the position to be reconstructed accurately before it is attacked. Naming the five assumptions is what makes the attack specific; without them, "modernisation is Eurocentric" is a slogan with no identified target.
 
-**Exam-length execution — 15 marks, about 250 to 330 words:** position one line; what is accurate two lines; five assumptions four lines; four objections plus the Ambedkarite question six lines; counter-objection and reply three lines; verdict two lines.
+**Timed answer route — 15 marks (adapt to the directive):** position one line; what is accurate two lines; five assumptions four lines; four objections plus the Ambedkarite question six lines; counter-objection and reply three lines; verdict two lines.
 
 - **Structure:** two-sided position → accurate description → five assumptions → located objections → counter-objection → verdict.
 - **Doctrine:** modernisation as theory; plural development under universal constraints.
@@ -1192,7 +1223,7 @@ Add one line conceding that the universal floor is easier to state than to speci
 
 **Answer-writing focus:** a quotation stem is scored on how precisely the candidate agrees and disagrees. Conceding that the *formula* is empty while showing that the *concept* rests on statable philosophical claims is the structure that earns both halves.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** position two lines; moral standing six lines; depth of questioning two lines; future persons six lines; distribution four lines; verdict three lines. Compression plan if short of time: retain the three orientations, the non-identity problem and the asymmetry, and compress the Naess material to one line.
+**Timed answer route — 20 marks (adapt to the directive):** position two lines; moral standing six lines; depth of questioning two lines; future persons six lines; distribution four lines; verdict three lines. Compression plan if short of time: retain the three orientations, the non-identity problem and the asymmetry, and compress the Naess material to one line.
 
 - **Structure:** two-sided position → standing → depth of questioning → future duties → distribution of burdens → specification verdict.
 - **Doctrine:** the three orientations; shallow against deep ecology; intergenerational justice; productivism and degrowth.
@@ -1228,7 +1259,7 @@ Add the **capability bridge**: if development is expansion of capability rather 
 
 **Answer-writing focus:** "Evaluate… with particular reference to" is two demands: a standard applied to the approach as a whole, and a specific treatment of the named dispute. Presenting the dispute as **live**, with each position's strength paired to the other's weakness, is what demonstrates control.
 
-**Exam-length execution — 20 marks, about 330 to 400 words:** position two lines; the claims five lines; comparison with alternatives three lines; the dispute five lines; the reply three lines; criticisms three lines; verdict two lines.
+**Timed answer route — 20 marks (adapt to the directive):** position two lines; the claims five lines; comparison with alternatives three lines; the dispute five lines; the reply three lines; criticisms three lines; verdict two lines.
 
 - **Structure:** position → the approach stated → why it outperforms rivals → the dispute → the defensive reply → general criticisms → open verdict.
 - **Doctrine:** functioning, capability, conversion, utility, agency; the dignity threshold.

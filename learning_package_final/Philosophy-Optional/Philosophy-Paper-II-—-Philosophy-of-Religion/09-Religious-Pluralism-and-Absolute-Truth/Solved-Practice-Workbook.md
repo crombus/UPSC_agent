@@ -10,7 +10,7 @@ variant: learner-v2
 
 ### How to use this workbook
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap. The previous-year questions reproduce the official printed wording exactly; **the model answers are independent learner practice and are never official UPSC keys.**
+The two added entailment/truth-conflict discriminators fill coverage gaps, not a fixed MCQ quota. Read four explanations and the examiner trap per item. Previous-year stems reproduce audited printed wording; **model answers are independent practice, not official UPSC keys.**
 
 ### What is inside
 
@@ -18,15 +18,16 @@ Attempt every item before reading its key. The correct option position was fixed
 |---|---|---:|
 | 1 | Core diagnostic MCQs | 24 |
 | 2 | Remedial diagnostic MCQs | 8 |
-| — | Question-specific option explanations | 128 |
-| — | Unique examiner traps | 32 |
-| 3 | Verified previous-year questions, fully solved | 12 |
-| 4 | Original solved Mains models (2 × 10, 2 × 15, 2 × 20) | 6 |
+| — | Additional hard pluralism discriminators | 2 |
+| — | Question-specific option explanations | 136 |
+| — | Unique examiner traps | 34 |
+| 3 | Verified previous-year questions, fully solved (2018–2026) | 14 |
+| 4 | Original solved Mains models (six baseline; Heim extension) | 7 |
 | 5 | Question-shaped timed-paper compression plan | 12 rows |
 
 ### Marking and timing conventions
 
-- Word bands: 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words.
+- Plan timed attempts around the marks and directive; do not cap the depth of worked PYQ solutions.
 - Every model answer follows **claim → named evidence → analysis → qualification**.
 - Every model answer closes with a decided verdict, and the twenty-mark models additionally name the **defeater** that would change that verdict.
 - **Standing penalties in this clause:** defining pluralism as "all religions say the same thing"; merging inclusivism with pluralism; presenting exclusivism only as bigotry; citing *ekaṃ sat* without its native context or its bridging argument; quoting *extra ecclesiam nulla salus* as Cyprian's own words; omitting the 1965 qualification; treating "tolerance" as one thing; answering the conflict-history stem with a list of wars; and citing Huntington as a finding rather than as a thesis under sustained criticism.
@@ -37,27 +38,29 @@ English-first throughout. The English concept leads; the accurate Sanskrit, Pali
 
 ### Self-scoring table
 
-| Band | Diagnostics correct (of 32) | What the Mains attempts show |
+| Band | Diagnostics correct (of 34) | What the Mains attempts show |
 |---|---:|---|
 | Weak | 0–14 | "All religions lead to the same God"; the triad named but not distinguished |
 | Average | 15–20 | Triad distinguished; Hick and Vivekananda present; exclusivism shown only as bigotry |
 | Good | 21–25 | Truth, salvation, access and coexistence separated; one objection answered |
 | Strong | 26–29 | Plantinga stated and met; RV 1.164.46 and Cyprian handled correctly; many-sidedness used as a logic |
-| Top | 30–32 | All the above, plus one discriminating distinction and an explicit acknowledgement of hard contradictions |
+| Top | 30–34 | All the above, plus one discriminating distinction and an explicit acknowledgement of hard contradictions |
 
 ### Trap census
 
-The thirty-two examiner traps below are distinct and non-repeating. Twelve of them correspond directly to the owner's printed trap list; the remaining twenty are answer-execution faults observed in this clause's directives.
+The baseline thirty-two examiner traps are supplemented by two more for moral entailment and literal truth-conflict. Twelve of the baseline traps correspond directly to the owner's printed trap list; the other twenty target answer-execution faults.
 
 ### Independence note
 
-Every model answer, original question, diagnostic item and option explanation in this workbook is **independent learner practice**. None reproduces an official mark scheme. Only the twelve previous-year questions are reproduced verbatim, from the audited repository ledger, and they are reproduced for practice routing.
+Every model answer, original question, diagnostic item and option explanation in this workbook is **independent learner practice**. None reproduces an official mark scheme. The twelve 2018–2025 stems and two supplemented 2026 stems reproduce the audited repository banks.
 
 ## BASIC MCQS / REMEDIATION
 
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
+
 ### Practice protocol
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap.
+MCQs 33–34 separately test the alleged *necessity* of relativism and the reconciliation of same-respect truth claims. Explain why each rejected option fails.
 
 #### CORE DIAGNOSTIC MCQS — 24
 
@@ -65,36 +68,324 @@ Attempt every item before reading its key. The correct option position was fixed
 
 A candidate is asked whether religious pluralism is defensible. Which statement expresses the **alethic** version of the pluralist thesis rather than one of the other three axes?
 
-A. Public institutions should neither privilege nor penalise any citizen on account of the religious community into which that citizen happens to have been born and raised.
-
-B. Discovering that informed and thoughtful people disagree about religion is a reason for holding one's own religious convictions with reduced confidence.
-
-C. Several traditions may state genuinely true things about ultimate reality, because no finite formulation of the absolute exhausts what it formulates.
-
-D. Adherents of more than one tradition are in fact liberated or saved by the discipline that their own tradition prescribes for them.
-
-**Answer: C.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is the **political coexistence** axis, and it can be held by an exclusivist who thinks every other religion false; it says nothing about the truth-value of doctrines.
-- **B:** Incorrect: this is the **epistemic access** axis, specifically the conciliationist answer to peer disagreement; it concerns confidence rather than truth.
-- **C:** Correct: the alethic axis asks which claims are true, and the pluralist answer is one absolute referent with non-exhaustive formulations, which is exactly what this option states.
-- **D:** Incorrect: this is the **soteriological** axis, which concerns efficacy in liberating or saving and is separable from the truth of the doctrines involved.
-
-**Examiner trap 1:** A script that never names which of the four axes it is discussing cannot be graded above the average band, however many thinkers it cites; name the axis in the opening sentence and hold to it throughout.
+A. Several traditions may state genuinely true things about ultimate reality, because no finite formulation of the absolute exhausts what it formulates.
+B. Adherents of more than one tradition are in fact liberated or saved by the discipline that their own tradition prescribes for them.
+C. Public institutions should neither privilege nor penalise any citizen on account of the religious community into which that citizen happens to have been born and raised.
+D. Discovering that informed and thoughtful people disagree about religion is a reason for holding one's own religious convictions with reduced confidence.
 
 #### MCQ 2. What distinguishes pluralism from relativism?
 
 Which statement gives the correct differentia between religious pluralism and relativism?
 
 A. Pluralism restricts its attention to the great post-axial traditions, whereas relativism extends exactly the same generosity to every religious movement of any period without historical restriction.
-
 B. Pluralism typically affirms that there is a truth of the matter and denies that any finite formulation exhausts it, whereas relativism denies that there is any truth of the matter.
-
 C. Pluralism is a theory about how citizens should behave toward one another, whereas relativism is a theory about the semantics of the sentences that citizens use.
-
 D. Pluralism requires that religious claims be interpreted symbolically, whereas relativism permits them to be interpreted literally wherever the believer prefers that reading.
+
+#### MCQ 3. Whether exclusivism is a truth claim or a posture toward persons
+
+An exclusivist argues that incompatible first-order claims cannot both be true in the same respect. Which evaluation takes that argument seriously without inferring that its defender must deny religious freedom to others?
+
+A. The point is empty once Hick distinguishes the Real and appearances, because this proves that each incompatible first-order proposition was literally true all along.
+B. The point establishes exclusive salvation even if one grants that those outside the tradition can be saved through an unknown relation to the tradition's ultimate reality.
+C. The logical point blocks *literal same-respect agreement*, but gives no direct warrant for coercion or for the additional thesis that only one tradition's adherents can be saved.
+D. The logical point entails that anyone defending a tradition's unique truth must oppose others' civil liberty, because political toleration presupposes identical doctrines.
+
+#### MCQ 4. What the 1965 documents did to the position
+
+What is the correct significance of *Lumen Gentium* 16 and *Nostra Aetate* for an answer on religious exclusivism?
+
+A. They confine the exclusivist principle to matters of ecclesiastical discipline while leaving its soteriological content entirely untouched and fully operative.
+B. They constitute the first formal statement of the exclusivist principle, which had until then circulated only as an informal patristic sentiment.
+C. They abolish the distinction between exclusivism and inclusivism by declaring that the question of salvation outside the Church is unanswerable.
+D. They move the Roman Catholic position decisively toward inclusivism, so that citing the exclusivist tag as the settled Christian view is a factual error.
+
+#### MCQ 5. The differentia between inclusivism and pluralism
+
+Which sentence states the difference between inclusivism and pluralism most exactly?
+
+A. On inclusivism others are included on terms set by the privileged tradition, whereas pluralism refuses to let any first-order tradition supply the adjudicating framework.
+B. On inclusivism other religions are held to be false, whereas on pluralism other religions are held to be true in every respect in which they make any claim at all.
+C. On inclusivism salvation is confined to one community, whereas on pluralism salvation is extended to sincere adherents of every community without exception.
+D. On inclusivism religious language is symbolic, whereas on pluralism religious language is literal and therefore capable of straightforward comparison across traditions.
+
+#### MCQ 6. Stating the standard inclusivist model accurately
+
+Which formulation of Rahner's "anonymous Christians" is accurate rather than a caricature?
+
+A. Adherents of other religions are of interest only in so far as their traditions can be shown to contain doctrines materially identical with Christian ones.
+B. Adherents of other religions who respond to grace are, on the home tradition's own account, already related to the reality that the home tradition names.
+C. Adherents of other religions are secretly enrolled members of the Christian Church without having been informed of that enrolment by any ecclesiastical authority.
+D. Adherents of other religions will be saved only if they convert before death, so the description "anonymous" refers to the period preceding that conversion.
+
+#### MCQ 7. What pluralism affirms and what it denies
+
+Which pair correctly matches pluralism's central affirmation with its central denial?
+
+A. It affirms that traditions should merge into a single global faith; it denies that historical particularity has value in the religious life.
+B. It affirms that religious language is wholly non-cognitive in character; it denies that religious claims can be assessed for truth or falsity by any philosophical procedure at all.
+C. It affirms that several traditions are authentic responses to ultimate reality or attain different real ends; it denies that any finite tradition exhaustively possesses the absolute.
+D. It affirms that all religions produce the same moral fruits; it denies that any doctrinal difference between traditions is of philosophical significance.
+
+#### MCQ 8. Reconstructing Hick's argument
+
+Which sequence reproduces the argument for the pluralistic hypothesis in the order Hick gives it?
+
+A. Religious language is symbolic; symbols cannot conflict; therefore apparent doctrinal conflicts between traditions are merely verbal and dissolve on analysis.
+B. Every tradition produces saints; saints agree in their reports; therefore the traditions are describing one experience under different cultural vocabularies.
+C. No tradition can demonstrate its own claims; claims that cannot be demonstrated are all equally probable; therefore each tradition should be assigned exactly the same credence as every other tradition.
+D. Diversity is persistent and birth-linked; multiple traditions transform people; equal divine concern resists arbitrary exclusivism; therefore one Real may be experienced through different schemes.
+
+#### MCQ 9. What "transcategorial" means in Hick
+
+What does Hick's description of the Real as transcategorial commit him to?
+
+A. Personal and non-personal predicates apply to the Real's humanly experienced manifestations rather than literally to the Real as it is independently of human schemes.
+B. The Real is unknowable in the sense that no proposition about it can be asserted, including the proposition that the traditions are responses to it.
+C. The Real is a personal being whose attributes exceed human comprehension in degree while remaining of the same kind as human attributes.
+D. The Real is identical with the aggregate of all the religious experiences that the traditions have historically reported and preserved in their scriptures and commentarial literature.
+
+#### MCQ 10. Hick's use of Kant, and his departure from it
+
+In what respect does Hick's use of the appearance/reality distinction depart from Kant's own position?
+
+A. Hick applies the distinction to moral rather than to theoretical judgements, so that the Real functions as a postulate of practical reason.
+B. Hick treats the noumenal Real as causally related to religious experience, which is a stronger commitment than the analogy by itself licenses.
+C. Hick denies that human conceptual schemes shape experience, holding instead that religious experience is a direct and unmediated apprehension.
+D. Hick restricts the distinction to non-theistic traditions, leaving theistic claims about God to be assessed in straightforwardly literal terms.
+
+#### MCQ 11. The noumenal objection, stated exactly
+
+What exactly does the noumenal objection allege against Hick's hypothesis?
+
+A. That the Real cannot be worshipped, so the hypothesis leaves religious practice without an intelligible object of devotion in any tradition.
+B. That the hypothesis is unfalsifiable, since no observation could count against the claim that the traditions respond to one ultimate Reality.
+C. That if the Real is beyond all categories, then existence, causality and goodness are being illicitly predicated of it by the hypothesis itself.
+D. That the traditions do not in fact report experiences of a single underlying reality, so the hypothesis is refuted by the very comparative evidence that it invokes in support of itself.
+
+#### MCQ 12. The exact scope of the transformation criterion
+
+What does Hick's soteriological criterion establish, and what does it leave undecided?
+
+A. It establishes that the traditions' doctrines are jointly true; it leaves undecided which tradition produces the greater number of transformed adherents.
+B. It establishes that religious experience is veridical; it leaves undecided whether the Real is personal or non-personal in its own nature.
+C. It establishes that the traditions aim at the same end; it leaves undecided whether that end is correctly described as communion or as cessation.
+D. It establishes that a tradition is an authentic response to the Real; it leaves undecided which of the traditions' contradictory doctrines are true.
+
+#### MCQ 13. The concern traditions themselves raise
+
+Which objection to Hick's pluralism is the one that the traditions themselves characteristically make?
+
+A. That being redescribed as culturally limited appearances erases their self-understanding and weakens their witness or mission.
+B. That the hypothesis cannot accommodate traditions which arose before the axial period and therefore excludes most of recorded religious history.
+C. That the transformation criterion is too permissive, since it counts as authentic any movement whose adherents report an improvement in their conduct.
+D. That the hypothesis is a form of natural theology and therefore requires a proof of God's existence that Hick nowhere supplies in his writings.
+
+#### MCQ 14. Plantinga's reply to the arbitrariness charge
+
+How does Plantinga answer the charge that the exclusivist selects a tradition arbitrarily?
+
+A. By conceding the charge outright and relocating the exclusivist's confidence in a religious experience that is self-authenticating and beyond all public assessment.
+B. By observing that the pluralist also holds a contested belief that the exclusivist rejects, so at the meta-level both occupy the same position.
+C. By showing that the exclusivist's tradition can be independently verified through historical evidence unavailable to the traditions competing with it.
+D. By arguing that the charge of arbitrariness is harmless, because religious belief is simply not the kind of belief that requires grounds of any sort at all.
+
+#### MCQ 15. What the parity replies do and do not establish
+
+If Plantinga's three replies succeed, what follows?
+
+A. That religious disagreement is resolvable in principle, since the parties can be shown to share the standards by which warrant is assessed.
+B. That the pluralist position is incoherent, since it applies to first-order traditions a standard that its own second-order claim cannot satisfy.
+C. That exclusivism is rationally permissible, though nothing follows about its truth and the contingency-of-birth objection remains unanswered.
+D. That awareness of disagreement is epistemically inert, so a believer's confidence should be unaffected by discovering informed dissent.
+
+#### MCQ 16. D'Costa's charge against the pluralist paradigm
+
+What is the substance of D'Costa's objection to Hick?
+
+A. That pluralism cannot explain why religious traditions have historically produced conflict as well as reconciliation between their adherents.
+B. That pluralism depends on a comparative study of religions that is too incomplete to support the generalisations it needs to make.
+C. That pluralism confuses the psychological and social benefits of religious practice with genuine evidence for the existence of a transcendent reality behind that practice.
+D. That pluralism makes its own second-order account uniquely true and reinterprets every tradition against that tradition's self-understanding.
+
+#### MCQ 17. Identifying differential pluralism
+
+Which claim is distinctive of S. Mark Heim's position in *Salvations* rather than of Hick's?
+
+A. Communion, non-dual realisation and cessation are three destinations, not three descriptions of one destination.
+B. The traditions are culturally conditioned responses to one transcategorial Reality that is not itself describable in the traditions' categories.
+C. Religious traditions should be assessed by the transformation they effect from self-centredness to Reality-centredness in their adherents.
+D. Dialogue between traditions should aim at the mutual transformation of both parties rather than at their subsumption under a neutral hypothesis.
+
+#### MCQ 18. Citing the Vedic verse with discipline
+
+Which use of *ekaṃ sad viprā bahudhā vadanti* satisfies the clause's attribution requirements?
+
+A. Cite it without a reference, since the line is sufficiently well known that a precise location would add nothing to an examination answer.
+B. Cite it as Ṛgveda 1.164.46, note that its native subject is the naming of Vedic deities, and argue rather than assume the extension to inter-religious pluralism.
+C. Cite it as the Vedic teaching that all religions are equally valid paths to the same God, which the tradition has held continuously since the hymn was composed.
+D. Cite it as a late interpolation whose authority is disputed, and therefore use it only to illustrate what Indian pluralists have wrongly believed about their own texts.
+
+#### MCQ 19. Vivekananda's demand, stated in his own terms
+
+What does Vivekananda demand at the Parliament of the World's Religions, and why?
+
+A. Doctrinal convergence, on the ground that the surviving differences between religions are verbal rather than substantive once analysed.
+B. Institutional unification, on the ground that separate religious organisations inevitably compete for adherents and therefore generate conflict.
+C. Acceptance rather than mere toleration, on the ground that toleration still condescends to the tradition it permits to exist.
+D. Tolerance, on the ground that a plural society cannot survive without a settled legal framework for the peaceful management of religious difference.
+
+#### MCQ 20. The status of the assimilation objection
+
+How should the charge that Vivekananda's model is covertly neo-Vedāntic inclusivism be handled?
+
+A. Deferred to the Advanced block, because the objection concerns interpretive controversy rather than the doctrine an examination answer requires.
+B. Dismissed, because Vivekananda explicitly affirms that distinctive religious forms are preserved and that harmony does not require homogenisation.
+C. Accepted, because any position that supplies a metaphysical ground for religious plurality is by definition an inclusivism about the traditions it grounds.
+D. Stated with its reply and then left contested, since whether the metaphysical hierarchy remains inclusivist is not settled by the preservation of forms.
+
+#### MCQ 21. Radhakrishnan's criterion and its characteristic risk
+
+Which pairing correctly matches Radhakrishnan's criterion with the objection his position characteristically attracts?
+
+A. Criterion: integral experience — Risk: perennialist reduction, in which doctrines are demoted to variant readings of one underlying experience.
+B. Criterion: soteriological transformation — Risk: an empty Real, since the terminus of transformation cannot be described in any tradition's categories.
+C. Criterion: conditional predication — Risk: hard contradictions, since some claims conflict on the same question in the same respect.
+D. Criterion: fidelity to self-understanding — Risk: the surrender of a single ultimate reality behind the plurality of religious ends.
+
+#### MCQ 22. Why conditional predication is not relativism
+
+Why does the Jain apparatus of standpoint-indexed assertion avoid the charge of relativism?
+
+A. Because it applies only to claims about material substances and their properties, leaving claims about liberation, karma and the soul entirely outside its declared scope.
+B. Because the respects under which incompatible predicates are asserted are stated explicitly, so the assertions remain determinate and checkable.
+C. Because it is a monastic discipline for debate rather than a philosophical doctrine about the truth-conditions of assertions.
+D. Because it denies that finite knowers can make assertions at all, replacing assertion with a practice of principled silence.
+
+#### MCQ 23. The premise that carries the 2022 inference
+
+The inference from "there is one Absolute Truth" to "religious exclusivism follows" is valid only if a further premise is supplied. Which premise is it?
+
+A. That religious traditions in fact make contradictory claims about the nature of ultimate reality rather than merely appearing to do so.
+B. That the state has an interest in the truth of religious doctrines and is therefore entitled to prefer one tradition over others.
+C. That a finite formulation can exhaust the absolute, so that one tradition's statement of it can be the whole truth about it.
+D. That religious experience is veridical, so that at least one tradition's reports about the absolute must be accepted as accurate.
+
+#### MCQ 24. The control on hard contradiction
+
+Which statement expresses the hard-contradiction control correctly?
+
+A. Contradictions between traditions show that at most one tradition is authentic, so pluralism is refuted wherever a genuine contradiction can be located.
+B. Contradictions between traditions are irrelevant to pluralism, which is a thesis about salvation rather than a thesis about the truth of doctrines.
+C. Contradictions between traditions are always apparent, since every apparent conflict can be resolved by distinguishing level, symbol, standpoint or soteriological end.
+D. Pluralism may reinterpret level, symbol, standpoint or end, but must acknowledge whatever contradiction remains rather than harmonising it.
+
+#### REMEDIAL DIAGNOSTIC MCQS — 8
+
+#### MCQ 25. Peer disagreement against deep disagreement
+
+What distinguishes deep disagreement in Fogelin's technical sense from ordinary peer disagreement?
+
+A. Deep disagreement obtains when the parties do not share the framework propositions against which evidence would count at all.
+B. Deep disagreement concerns religious questions specifically, whereas peer disagreement concerns questions in the empirical sciences.
+C. Deep disagreement occurs between parties of unequal competence, whereas peer disagreement requires the parties to be equally competent.
+D. Deep disagreement is about values while peer disagreement is about facts, so the two require different methods of resolution.
+
+#### MCQ 26. What unresolvability does and does not show
+
+If inter-religious disagreement is deep in the technical sense, what follows?
+
+A. That relativism about religious truth is thereby established, since a disagreement that argument cannot settle can have no fact of the matter standing behind it.
+B. That unresolvability is epistemic rather than alethic: one party may still be right, and what fails is our ability to demonstrate which.
+C. That dialogue is pointless, since parties who share no framework cannot communicate about the matters on which they differ.
+D. That pluralism is vindicated, since the persistence of disagreement is exactly what the pluralist hypothesis predicts.
+
+#### MCQ 27. What makes an attitude toleration
+
+Which set of conditions is jointly necessary for an attitude to count as toleration?
+
+A. Approval of what is tolerated, a legal duty not to interfere, and a settled expectation that the other party will reciprocate in due course.
+B. Uncertainty about what is tolerated, willingness to revise one's own view, and a commitment to submit the disagreement to public argument.
+C. Objection to what is tolerated, reasons that outweigh but do not cancel the objection, and the power to interfere combined with deliberate restraint.
+D. Indifference to what is tolerated, absence of any power to interfere, and a general disposition to avoid conflict with one's neighbours.
+
+#### MCQ 28. Grading a historical example on Forst's ladder
+
+A ruling majority permits a religious minority to practise its faith on sufferance, reserving the right to withdraw the permission. Where does this fall on Forst's ladder, and what follows?
+
+A. Coexistence, since the arrangement is a pragmatic settlement designed to avoid conflict between the two communities.
+B. Esteem, since permitting practice acknowledges that the minority's beliefs contain something worthwhile.
+C. Respect, since the minority is being recognised as entitled to practise its faith without interference.
+D. Permission, which is what most historical toleration actually was and which is not compatible with equal citizenship.
+
+#### MCQ 29. The scope of Popper's paradox
+
+How should Popper's paradox of tolerance be stated in an examination answer?
+
+A. As the claim that unlimited tolerance destroys tolerance, with the right to refuse tolerance reserved for those who answer argument with violence.
+B. As an argument that tolerance is impossible in a plural society, since every act of toleration presupposes a power that will eventually be abused.
+C. As a rejection of Mill's harm principle, on the ground that harm is too vague a criterion to bear the weight of political limitation.
+D. As a general principle that a society may suppress any doctrine which the majority of its citizens judges to be false or harmful.
+
+#### MCQ 30. The hardest problem in religious freedom
+
+Which problem does the owner identify as the single most examinable tension in the religious-freedom question?
+
+A. Whether freedom of conscience extends to the refusal of medical treatment on religious grounds.
+B. Whether group rights granted to protect a community can entrench its dominant members over its own weaker members.
+C. Whether propagation should be permitted in public spaces or restricted to premises owned by the propagating community.
+D. Whether the state should fund religious institutions on the same terms as comparable secular institutions.
+
+#### MCQ 31. The analytic move in the conflict-history question
+
+Which distinction is the one that earns marks in answering whether the history of religions is the history of conflicts?
+
+A. Religion as institutional and as personal, since institutions generate conflict whereas individual belief is politically inert.
+B. Religion as monotheistic and as non-monotheistic, since exclusive truth-claims arise only where a single deity is affirmed.
+C. Religion as cause, as marker of an antagonism generated otherwise, as mobiliser of grievance, and as legitimiser of a decision taken on other grounds.
+D. Religion as ancient and as modern, since pre-modern conflicts were fought over territory and dynastic succession while modern ones are fought over group identity.
+
+#### MCQ 32. The shape of the answer on religion as a unifier
+
+Which verdict on religion as a uniting force in a globalising world matches what the directive is buying?
+
+A. Religion unites, because every major tradition contains a version of the golden rule and a doctrine of universal moral standing.
+B. Religion divides, because Durkheimian integration is in-group integration and globalisation produces reactive and fundamentalist forms as readily as cosmopolitan ones.
+C. The question cannot be answered at all, because "religion" is not a stable independent variable that can be isolated from politics, land, economics and group identity.
+D. Religion unites conditionally: when its ethics are universalist in scope, its epistemology fallibilist enough for dialogue, and its identity not politically monopolised.
+
+#### Hard coverage extensions — MCQs 33–34
+
+#### MCQ 33. Which possible view disproves the assertion that religious pluralism *necessarily* entails moral relativism?
+
+A. Multiple religions may offer genuine spiritual paths while a practice that coerces dissent remains wrong by a cross-tradition ethical standard.
+B. Hick's transformation criterion can be applied only within each tradition, so no harmful practice can be judged across traditions.
+C. A cross-tradition moral standard is available only if all traditions affirm the *same* first-order account of God and salvation.
+D. Pluralism is merely permission for private belief under law, leaving the truth of each religious path wholly outside its scope.
+
+#### MCQ 34. How does Hick's Real/appearances account handle a strict contradiction between “the ultimate is a personal creator” and “the ultimate is not a personal creator”?
+
+A. The personal-creator claim remains a literal account of the Real while the impersonal claim alone becomes a context-bound symbolic appearance.
+B. It can reconstrue both as context-shaped phenomenal descriptions of the Real, but thus revises their unqualified first-order literal claims.
+C. Because the Real is ineffable, the apparent reports cannot be religiously significant descriptions of its various phenomenal manifestations.
+D. Both first-order claims remain unqualified literal descriptions of the Real, since conflicting phenomenal reports are true in the same respect.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: the alethic axis asks which claims are true, and the pluralist answer is one absolute referent with non-exhaustive formulations, which is exactly what this option states.
+- **B:** Incorrect: this is the **soteriological** axis, which concerns efficacy in liberating or saving and is separable from the truth of the doctrines involved.
+- **C:** Incorrect: this is the **political coexistence** axis, and it can be held by an exclusivist who thinks every other religion false; it says nothing about the truth-value of doctrines.
+- **D:** Incorrect: this is the **epistemic access** axis, specifically the conciliationist answer to peer disagreement; it concerns confidence rather than truth.
+
+**Examiner trap 1:** A script that never names which of the four axes it is discussing cannot be graded above the average band, however many thinkers it cites; name the axis in the opening sentence and hold to it throughout.
+
+#### MCQ 2 — solution
 
 **Answer: B.**
 
@@ -107,63 +398,33 @@ D. Pluralism requires that religious claims be interpreted symbolically, whereas
 
 **Examiner trap 2:** The relativism confusion is the commonest single failure in this clause; pre-empt it in the definition itself by writing that pluralism denies exhaustive possession of the absolute rather than denying that there is an absolute.
 
-#### MCQ 3. Citing the exclusivist formula correctly
-
-Which statement handles the classical soteriological-exclusivist tag with the attribution discipline the clause requires?
-
-A. *Extra ecclesiam nulla salus* is the later standard phrasing of a doctrine traced to Cyprian, whose own wording in *Epistle* 73 is *salus extra ecclesiam non est*.
-
-B. *Extra ecclesiam nulla salus* is Cyprian's own formulation in *Epistle* 73 and was reaffirmed without alteration by the Second Vatican Council in 1965.
-
-C. *Extra ecclesiam nulla salus* originates with the Fourth Lateran Council of 1215 and has no earlier patristic ancestry of any kind in the Latin tradition.
-
-D. *Extra ecclesiam nulla salus* is a modern scholarly reconstruction with no conciliar standing, and it should therefore be omitted from an examination answer.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: the compressed tag is the later standard phrasing; Cyprian's own wording is *salus extra ecclesiam non est*, and he also writes that one cannot have God as Father without the Church as mother.
-- **B:** Incorrect on two counts: the tag is not Cyprian's wording, and Vatican II's *Lumen Gentium* 16 and *Nostra Aetate* moved the position decisively toward inclusivism rather than reaffirming it.
-- **C:** Incorrect: Lateran IV in 1215 is part of the conciliar hardening of the formula, together with *Unam Sanctam* in 1302 and Florence in 1442, but the doctrine is traced to Cyprian in the third century.
-- **D:** Incorrect: the formula has substantial conciliar standing, and omitting it would remove the classical statement of soteriological exclusivism from the answer altogether.
-
-**Examiner trap 3:** Quoting the compressed Latin tag as Cyprian's own words is a factual error that an examiner can mark down directly; state the chain — Cyprian's wording, the later formula, the three councils, the 1965 qualification — and the citation becomes evidence of command.
-
-#### MCQ 4. What the 1965 documents did to the position
-
-What is the correct significance of *Lumen Gentium* 16 and *Nostra Aetate* for an answer on religious exclusivism?
-
-A. They constitute the first formal statement of the exclusivist principle, which had until then circulated only as an informal patristic sentiment.
-
-B. They abolish the distinction between exclusivism and inclusivism by declaring that the question of salvation outside the Church is unanswerable.
-
-C. They move the Roman Catholic position decisively toward inclusivism, so that citing the exclusivist tag as the settled Christian view is a factual error.
-
-D. They confine the exclusivist principle to matters of ecclesiastical discipline while leaving its soteriological content entirely untouched and fully operative.
+#### MCQ 3 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: the exclusivist principle had already been given conciliar form at Lateran IV, in *Unam Sanctam* and at Florence, so 1965 is a qualification rather than a first statement.
-- **B:** Incorrect: the documents do not declare the question unanswerable; they answer it in an inclusivist direction, which is a substantive position rather than an abstention.
-- **C:** Correct: this is precisely the qualification the owner's discipline table requires, and omitting it turns a defensible citation into a factual error about the tradition's own teaching.
-- **D:** Incorrect: the movement is soteriological rather than disciplinary, which is why the documents are the standard reference for the institutional shift toward inclusivism.
+- **A:** Incorrect. Hick's second-order reconciliation *revises* incompatible literal descriptions rather than proving both literally true.
+- **B:** Incorrect. Inclusive salvation outside a tradition's visible boundaries is logically compatible with affirming that its ultimate reality is true.
+- **C:** Correct. Distinguish alethic exclusivity, exclusive salvation and a political denial of liberty; one does not entail the other two.
+- **D:** Incorrect. Civil rights can protect people whose beliefs one regards as false; toleration does not require agreement about truth.
+
+**Examiner trap 3:** Logical non-contradiction alone proves neither exclusive salvation nor a licence to suppress religious opponents.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the movement is soteriological rather than disciplinary, which is why the documents are the standard reference for the institutional shift toward inclusivism.
+- **B:** Incorrect: the exclusivist principle had already been given conciliar form at Lateran IV, in *Unam Sanctam* and at Florence, so 1965 is a qualification rather than a first statement.
+- **C:** Incorrect: the documents do not declare the question unanswerable; they answer it in an inclusivist direction, which is a substantive position rather than an abstention.
+- **D:** Correct: this is precisely the qualification the owner's discipline table requires, and omitting it turns a defensible citation into a factual error about the tradition's own teaching.
 
 **Examiner trap 4:** Candidates frequently cite the Latin tag to establish that religions are inherently exclusivist and stop there; the same tradition supplies the counter-evidence, and using both halves of the chain demonstrates the historical control the strong band requires.
 
-#### MCQ 5. The differentia between inclusivism and pluralism
-
-Which sentence states the difference between inclusivism and pluralism most exactly?
-
-A. On inclusivism others are included on terms set by the privileged tradition, whereas pluralism refuses to let any first-order tradition supply the adjudicating framework.
-
-B. On inclusivism other religions are held to be false, whereas on pluralism other religions are held to be true in every respect in which they make any claim at all.
-
-C. On inclusivism salvation is confined to one community, whereas on pluralism salvation is extended to sincere adherents of every community without exception.
-
-D. On inclusivism religious language is symbolic, whereas on pluralism religious language is literal and therefore capable of straightforward comparison across traditions.
+#### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -176,63 +437,33 @@ D. On inclusivism religious language is symbolic, whereas on pluralism religious
 
 **Examiner trap 5:** In the 2018 "distinguish" question the entire mark scheme is the three-way differentia; write one sentence per position that names **who sets the terms**, and the classification is complete before any thinker is discussed.
 
-#### MCQ 6. Stating the standard inclusivist model accurately
-
-Which formulation of Rahner's "anonymous Christians" is accurate rather than a caricature?
-
-A. Adherents of other religions are secretly enrolled members of the Christian Church without having been informed of that enrolment by any ecclesiastical authority.
-
-B. Adherents of other religions will be saved only if they convert before death, so the description "anonymous" refers to the period preceding that conversion.
-
-C. Adherents of other religions are of interest only in so far as their traditions can be shown to contain doctrines materially identical with Christian ones.
-
-D. Adherents of other religions who respond to grace are, on the home tradition's own account, already related to the reality that the home tradition names.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is the standard caricature, and it makes the position look absurd by converting a claim about the operation of grace into a claim about covert institutional membership.
-- **B:** Incorrect: this reverts to exclusivism, since it makes salvation depend on conversion and therefore abandons the inclusivist extension that defines the position.
-- **C:** Incorrect: doctrinal identity is not required by inclusivism, which grants **partial** truth and interprets it through the home tradition rather than demanding material coincidence.
-- **D:** Correct: the claim is that the grace to which the other responds is, on the home tradition's account, the same grace it names differently, which is exactly the inclusivist structure.
-
-**Examiner trap 6:** Refuting a caricature scores nothing; state the position in the form its defenders accept, and then press the asymmetry objection, namely that the home tradition is never itself redescribed in the other's categories.
-
-#### MCQ 7. What pluralism affirms and what it denies
-
-Which pair correctly matches pluralism's central affirmation with its central denial?
-
-A. It affirms that religious language is wholly non-cognitive in character; it denies that religious claims can be assessed for truth or falsity by any philosophical procedure at all.
-
-B. It affirms that several traditions are authentic responses to ultimate reality or attain different real ends; it denies that any finite tradition exhaustively possesses the absolute.
-
-C. It affirms that all religions produce the same moral fruits; it denies that any doctrinal difference between traditions is of philosophical significance.
-
-D. It affirms that traditions should merge into a single global faith; it denies that historical particularity has value in the religious life.
+#### MCQ 6 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: non-cognitivism about religious language is a separate thesis owned elsewhere, and pluralism as such takes religious claims to be truth-apt.
-- **B:** Correct: this is the affirmation and denial as the owner states them, and the denial is what does the philosophical work in every subsequent argument.
-- **C:** Incorrect: uniformity of moral fruits is neither claimed nor needed, and the claim that doctrinal differences are insignificant is the caricature pluralism exists to avoid.
-- **D:** Incorrect: this describes syncretism, which every serious pluralism rejects, since Hick keeps the schemes distinct and Heim keeps the ends distinct.
+- **A:** Incorrect: doctrinal identity is not required by inclusivism, which grants **partial** truth and interprets it through the home tradition rather than demanding material coincidence.
+- **B:** Correct: the claim is that the grace to which the other responds is, on the home tradition's account, the same grace it names differently, which is exactly the inclusivist structure.
+- **C:** Incorrect: this is the standard caricature, and it makes the position look absurd by converting a claim about the operation of grace into a claim about covert institutional membership.
+- **D:** Incorrect: this reverts to exclusivism, since it makes salvation depend on conversion and therefore abandons the inclusivist extension that defines the position.
+
+**Examiner trap 6:** Refuting a caricature scores nothing; state the position in the form its defenders accept, and then press the asymmetry objection, namely that the home tradition is never itself redescribed in the other's categories.
+
+#### MCQ 7 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this describes syncretism, which every serious pluralism rejects, since Hick keeps the schemes distinct and Heim keeps the ends distinct.
+- **B:** Incorrect: non-cognitivism about religious language is a separate thesis owned elsewhere, and pluralism as such takes religious claims to be truth-apt.
+- **C:** Correct: this is the affirmation and denial as the owner states them, and the denial is what does the philosophical work in every subsequent argument.
+- **D:** Incorrect: uniformity of moral fruits is neither claimed nor needed, and the claim that doctrinal differences are insignificant is the caricature pluralism exists to avoid.
 
 **Examiner trap 7:** Defining pluralism positively as "all religions lead to the same God" places the script in the weak band immediately; define it by the denial of exhaustive possession, and the definition itself blocks four standard objections.
 
-#### MCQ 8. Reconstructing Hick's argument
-
-Which sequence reproduces the argument for the pluralistic hypothesis in the order Hick gives it?
-
-A. Religious language is symbolic; symbols cannot conflict; therefore apparent doctrinal conflicts between traditions are merely verbal and dissolve on analysis.
-
-B. Every tradition produces saints; saints agree in their reports; therefore the traditions are describing one experience under different cultural vocabularies.
-
-C. No tradition can demonstrate its own claims; claims that cannot be demonstrated are all equally probable; therefore each tradition should be assigned exactly the same credence as every other tradition.
-
-D. Diversity is persistent and birth-linked; multiple traditions transform people; equal divine concern resists arbitrary exclusivism; therefore one Real may be experienced through different schemes.
+#### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -245,40 +476,20 @@ D. Diversity is persistent and birth-linked; multiple traditions transform peopl
 
 **Examiner trap 8:** Describing Hick's position without reconstructing his argument caps the answer at the average band; number the premises, and then observe that premise three is theological and therefore unavailable against a non-theistic exclusivist.
 
-#### MCQ 9. What "transcategorial" means in Hick
+#### MCQ 9 — solution
 
-What does Hick's description of the Real as transcategorial commit him to?
-
-A. The Real is a personal being whose attributes exceed human comprehension in degree while remaining of the same kind as human attributes.
-
-B. The Real is identical with the aggregate of all the religious experiences that the traditions have historically reported and preserved in their scriptures and commentarial literature.
-
-C. Personal and non-personal predicates apply to the Real's humanly experienced manifestations rather than literally to the Real as it is independently of human schemes.
-
-D. The Real is unknowable in the sense that no proposition about it can be asserted, including the proposition that the traditions are responses to it.
-
-**Answer: C.**
+**Answer: A.**
 
 **Option explanations:**
 
-- **A:** Incorrect: this makes the Real a personal being with superlative attributes, which is the classical theistic account that Hick's transcategoriality is designed to relativise.
-- **B:** Incorrect: identifying the Real with the totality of religious experience would collapse the distinction between the Real and its manifestations that the hypothesis requires.
-- **C:** Correct: this is exactly the doctrine — the personal and non-personal characterisations attach to manifestations, not to the Real as it is independently of the schemes.
-- **D:** Incorrect: Hick does assert propositions about the Real, which is precisely why the noumenal objection about illicit predication arises rather than being pre-empted.
+- **A:** Correct: this is exactly the doctrine — the personal and non-personal characterisations attach to manifestations, not to the Real as it is independently of the schemes.
+- **B:** Incorrect: Hick does assert propositions about the Real, which is precisely why the noumenal objection about illicit predication arises rather than being pre-empted.
+- **C:** Incorrect: this makes the Real a personal being with superlative attributes, which is the classical theistic account that Hick's transcategoriality is designed to relativise.
+- **D:** Incorrect: identifying the Real with the totality of religious experience would collapse the distinction between the Real and its manifestations that the hypothesis requires.
 
 **Examiner trap 9:** Treating transcategoriality as simple unknowability makes the noumenal objection unanswerable and the hypothesis unstatable; the accurate formulation locates the predicates on the manifestations and leaves the objection where it actually bites.
 
-#### MCQ 10. Hick's use of Kant, and his departure from it
-
-In what respect does Hick's use of the appearance/reality distinction depart from Kant's own position?
-
-A. Hick applies the distinction to moral rather than to theoretical judgements, so that the Real functions as a postulate of practical reason.
-
-B. Hick treats the noumenal Real as causally related to religious experience, which is a stronger commitment than the analogy by itself licenses.
-
-C. Hick denies that human conceptual schemes shape experience, holding instead that religious experience is a direct and unmediated apprehension.
-
-D. Hick restricts the distinction to non-theistic traditions, leaving theistic claims about God to be assessed in straightforwardly literal terms.
+#### MCQ 10 — solution
 
 **Answer: B.**
 
@@ -291,247 +502,137 @@ D. Hick restricts the distinction to non-theistic traditions, leaving theistic c
 
 **Examiner trap 10:** Stating the Kantian analogy without stating the departure makes the noumenal objection look unmotivated; name the causal claim, and the objection follows from Hick's own commitments rather than from the critic's preference.
 
-#### MCQ 11. The noumenal objection, stated exactly
-
-What exactly does the noumenal objection allege against Hick's hypothesis?
-
-A. That the traditions do not in fact report experiences of a single underlying reality, so the hypothesis is refuted by the very comparative evidence that it invokes in support of itself.
-
-B. That the Real cannot be worshipped, so the hypothesis leaves religious practice without an intelligible object of devotion in any tradition.
-
-C. That the hypothesis is unfalsifiable, since no observation could count against the claim that the traditions respond to one ultimate Reality.
-
-D. That if the Real is beyond all categories, then existence, causality and goodness are being illicitly predicated of it by the hypothesis itself.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is an empirical objection about comparative reports, whereas the noumenal objection is internal and concerns the consistency of the hypothesis with its own transcategoriality.
-- **B:** Incorrect: the worship worry is a genuine but distinct concern, and Hick answers it by holding that the personal and non-personal manifestations are authentically encountered.
-- **C:** Incorrect: unfalsifiability is a separate methodological complaint, and it does not turn on the transcategorial status of the Real at all.
-- **D:** Correct: this is the objection as the owner states it, and it bites because the hypothesis needs the Real to exist, to cause experience and to be worth being oriented toward.
-
-**Examiner trap 11:** The strongest form of this objection concedes that Hick can reply by treating the predications as formal rather than substantive, and then observes that the reply preserves consistency at the cost of informativeness — which is more accurate than declaring the hypothesis refuted.
-
-#### MCQ 12. The exact scope of the transformation criterion
-
-What does Hick's soteriological criterion establish, and what does it leave undecided?
-
-A. It establishes that a tradition is an authentic response to the Real; it leaves undecided which of the traditions' contradictory doctrines are true.
-
-B. It establishes that the traditions' doctrines are jointly true; it leaves undecided which tradition produces the greater number of transformed adherents.
-
-C. It establishes that religious experience is veridical; it leaves undecided whether the Real is personal or non-personal in its own nature.
-
-D. It establishes that the traditions aim at the same end; it leaves undecided whether that end is correctly described as communion or as cessation.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: the criterion assesses traditions for authenticity as responses and, in Hick's own statement, does not make contradictory doctrines jointly true.
-- **B:** Incorrect: this is exactly what the criterion does **not** do, and the owner states the point explicitly to block the inference.
-- **C:** Incorrect: the veridicality of religious experience is settled elsewhere and is presupposed rather than established by the soteriological test.
-- **D:** Incorrect: whether the ends coincide is the very question Heim reopens, and the criterion is compatible with the ends differing rather than settling that they are one.
-
-**Examiner trap 12:** Writing that transformation shows the traditions to be equally true concedes the relativism charge in a single sentence; the criterion is about traditions and the truth question is about propositions, and keeping them apart is what protects the answer.
-
-#### MCQ 13. The concern traditions themselves raise
-
-Which objection to Hick's pluralism is the one that the traditions themselves characteristically make?
-
-A. That the transformation criterion is too permissive, since it counts as authentic any movement whose adherents report an improvement in their conduct.
-
-B. That the hypothesis is a form of natural theology and therefore requires a proof of God's existence that Hick nowhere supplies in his writings.
-
-C. That being redescribed as culturally limited appearances erases their self-understanding and weakens their witness or mission.
-
-D. That the hypothesis cannot accommodate traditions which arose before the axial period and therefore excludes most of recorded religious history.
+#### MCQ 11 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: permissiveness is a real weakness of the criterion, but it is a philosopher's complaint about precision rather than the traditions' own objection.
-- **B:** Incorrect: Hick's hypothesis is second-order and does not rest on a proof of God's existence, so this misidentifies the kind of claim being made.
-- **C:** Correct: this is the identity and mission concern, and the owner's instruction is that dialogue requires hearing it rather than declaring it solved.
-- **D:** Incorrect: the restriction to post-axial traditions is a scope decision within the hypothesis, not the objection that adherents themselves press against it.
+- **A:** Incorrect: the worship worry is a genuine but distinct concern, and Hick answers it by holding that the personal and non-personal manifestations are authentically encountered.
+- **B:** Incorrect: unfalsifiability is a separate methodological complaint, and it does not turn on the transcategorial status of the Real at all.
+- **C:** Correct: this is the objection as the owner states it, and it bites because the hypothesis needs the Real to exist, to cause experience and to be worth being oriented toward.
+- **D:** Incorrect: this is an empirical objection about comparative reports, whereas the noumenal objection is internal and concerns the consistency of the hypothesis with its own transcategoriality.
 
-**Examiner trap 13:** The three objections to Hick are one objection at three levels — metaphysical thinness, epistemic parity and existential redescription — and organising them that way is worth more than listing them as three separate complaints.
+**Examiner trap 11:** The strongest form of this objection concedes that Hick can reply by treating the predications as formal rather than substantive, and then observes that the reply preserves consistency at the cost of informativeness — which is more accurate than declaring the hypothesis refuted.
 
-#### MCQ 14. Plantinga's reply to the arbitrariness charge
-
-How does Plantinga answer the charge that the exclusivist selects a tradition arbitrarily?
-
-A. By showing that the exclusivist's tradition can be independently verified through historical evidence unavailable to the traditions competing with it.
-
-B. By arguing that the charge of arbitrariness is harmless, because religious belief is simply not the kind of belief that requires grounds of any sort at all.
-
-C. By conceding the charge outright and relocating the exclusivist's confidence in a religious experience that is self-authenticating and beyond all public assessment.
-
-D. By observing that the pluralist also holds a contested belief that the exclusivist rejects, so at the meta-level both occupy the same position.
+#### MCQ 12 — solution
 
 **Answer: D.**
 
 **Option explanations:**
 
-- **A:** Incorrect: no such independent verification is claimed, and the defence is epistemological rather than evidential in that historical sense.
-- **B:** Incorrect: Plantinga does not treat religious belief as groundless; his framework is about warrant, and warrant is not the absence of grounds.
-- **C:** Incorrect: the reply is not a concession relocated to private experience, and it does not appeal to self-authentication as a means of escaping the charge.
-- **D:** Correct: this is the parity reply — the pluralist's own denial of unique truth is itself contested, so the exclusivist is not uniquely arbitrary in holding a disputed belief.
+- **A:** Incorrect: this is exactly what the criterion does **not** do, and the owner states the point explicitly to block the inference.
+- **B:** Incorrect: the veridicality of religious experience is settled elsewhere and is presupposed rather than established by the soteriological test.
+- **C:** Incorrect: whether the ends coincide is the very question Heim reopens, and the criterion is compatible with the ends differing rather than settling that they are one.
+- **D:** Correct: the criterion assesses traditions for authenticity as responses and, in Hick's own statement, does not make contradictory doctrines jointly true.
 
-**Examiner trap 14:** Presenting Plantinga's replies without the two counters — that permissibility is not truth and that the contingency-of-birth problem remains untouched — makes the answer read as advocacy rather than assessment.
+**Examiner trap 12:** Writing that transformation shows the traditions to be equally true concedes the relativism charge in a single sentence; the criterion is about traditions and the truth question is about propositions, and keeping them apart is what protects the answer.
 
-#### MCQ 15. What the parity replies do and do not establish
+#### MCQ 13 — solution
 
-If Plantinga's three replies succeed, what follows?
+**Answer: A.**
 
-A. That the pluralist position is incoherent, since it applies to first-order traditions a standard that its own second-order claim cannot satisfy.
+**Option explanations:**
 
-B. That exclusivism is rationally permissible, though nothing follows about its truth and the contingency-of-birth objection remains unanswered.
+- **A:** Correct: this is the identity and mission concern, and the owner's instruction is that dialogue requires hearing it rather than declaring it solved.
+- **B:** Incorrect: the restriction to post-axial traditions is a scope decision within the hypothesis, not the objection that adherents themselves press against it.
+- **C:** Incorrect: permissiveness is a real weakness of the criterion, but it is a philosopher's complaint about precision rather than the traditions' own objection.
+- **D:** Incorrect: Hick's hypothesis is second-order and does not rest on a proof of God's existence, so this misidentifies the kind of claim being made.
 
-C. That awareness of disagreement is epistemically inert, so a believer's confidence should be unaffected by discovering informed dissent.
+**Examiner trap 13:** The three objections to Hick are one objection at three levels — metaphysical thinness, epistemic parity and existential redescription — and organising them that way is worth more than listing them as three separate complaints.
 
-D. That religious disagreement is resolvable in principle, since the parties can be shown to share the standards by which warrant is assessed.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: that is D'Costa's separate charge against pluralism, not a consequence of Plantinga's replies, which establish parity rather than incoherence.
-- **B:** Correct: the replies establish permissibility, and the owner records explicitly that they do not establish truth and do not address the contingency of birth.
-- **C:** Incorrect: Plantinga's third reply concedes that awareness of disagreement may **reduce** warrant, and only denies that it extinguishes it.
-- **D:** Incorrect: resolvability is precisely what the deep-disagreement literature denies, and nothing in the parity replies establishes a shared standard of assessment.
+- **A:** Incorrect: the reply is not a concession relocated to private experience, and it does not appeal to self-authentication as a means of escaping the charge.
+- **B:** Correct: this is the parity reply — the pluralist's own denial of unique truth is itself contested, so the exclusivist is not uniquely arbitrary in holding a disputed belief.
+- **C:** Incorrect: no such independent verification is claimed, and the defence is epistemological rather than evidential in that historical sense.
+- **D:** Incorrect: Plantinga does not treat religious belief as groundless; his framework is about warrant, and warrant is not the absence of grounds.
 
-**Examiner trap 15:** The verdict ladder places "Plantinga's defence stated **and met**" in the strong band; stating it without meeting it, or meeting it without stating it, both fall short of what the band requires.
+**Examiner trap 14:** Presenting Plantinga's replies without the two counters — that permissibility is not truth and that the contingency-of-birth problem remains untouched — makes the answer read as advocacy rather than assessment.
 
-#### MCQ 16. D'Costa's charge against the pluralist paradigm
-
-What is the substance of D'Costa's objection to Hick?
-
-A. That pluralism makes its own second-order account uniquely true and reinterprets every tradition against that tradition's self-understanding.
-
-B. That pluralism cannot explain why religious traditions have historically produced conflict as well as reconciliation between their adherents.
-
-C. That pluralism depends on a comparative study of religions that is too incomplete to support the generalisations it needs to make.
-
-D. That pluralism confuses the psychological and social benefits of religious practice with genuine evidence for the existence of a transcendent reality behind that practice.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: this is the covert-exclusivism charge, which the owner records as the strongest single objection to Hick and which Hick's second-order reply does not fully escape.
-- **B:** Incorrect: explaining the historical record is the business of the conflict-history module, and it is not what D'Costa's objection turns on.
-- **C:** Incorrect: incompleteness of comparative data is a methodological worry of a different kind, and it is not the objection recorded here.
-- **D:** Incorrect: this is a naturalistic objection to religious experience generally, owned elsewhere, and it does not target the pluralist paradigm specifically.
-
-**Examiner trap 16:** Hick's reply that his is a philosophical hypothesis rather than a rival creed should be stated, and then answered by noting that a second-order theory which tells traditions what they are really doing exercises exactly the authority it denies them.
-
-#### MCQ 17. Identifying differential pluralism
-
-Which claim is distinctive of S. Mark Heim's position in *Salvations* rather than of Hick's?
-
-A. The traditions are culturally conditioned responses to one transcategorial Reality that is not itself describable in the traditions' categories.
-
-B. Religious traditions should be assessed by the transformation they effect from self-centredness to Reality-centredness in their adherents.
-
-C. Dialogue between traditions should aim at the mutual transformation of both parties rather than at their subsumption under a neutral hypothesis.
-
-D. Communion, non-dual realisation and cessation are three destinations, not three descriptions of one destination.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is Hick's identist pluralism, and it is precisely the position Heim's differential pluralism is constructed as an alternative to.
-- **B:** Incorrect: the soteriological transformation criterion is Hick's, and Heim's criterion is fidelity to the traditions' own self-understanding.
-- **C:** Incorrect: mutual transformation is the Panikkar and Cobb proposal, which changes the aim of dialogue rather than the metaphysics of religious ends.
-- **D:** Correct: differential pluralism holds that the ends themselves are plural, which is why the owner records it as preserving the traditions' self-understanding better than Hick does.
-
-**Examiner trap 17:** Heim is more faithful to the traditions **and** surrenders the single ultimate that made pluralism attractive; writing only the first half turns an assessment into an endorsement.
-
-#### MCQ 18. Citing the Vedic verse with discipline
-
-Which use of *ekaṃ sad viprā bahudhā vadanti* satisfies the clause's attribution requirements?
-
-A. Cite it as Ṛgveda 1.164.46, note that its native subject is the naming of Vedic deities, and argue rather than assume the extension to inter-religious pluralism.
-
-B. Cite it as the Vedic teaching that all religions are equally valid paths to the same God, which the tradition has held continuously since the hymn was composed.
-
-C. Cite it as a late interpolation whose authority is disputed, and therefore use it only to illustrate what Indian pluralists have wrongly believed about their own texts.
-
-D. Cite it without a reference, since the line is sufficiently well known that a precise location would add nothing to an examination answer.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: these are the owner's four disciplines in operation — precise reference, native subject, argued extension — and they are what convert a slogan into evidence.
-- **B:** Incorrect: the claim of continuous inter-religious application is false, since the extension is a nineteenth- and twentieth-century development requiring argument.
-- **C:** Incorrect: the verse is not treated as a disputed interpolation, and dismissing it would discard the strongest short Indian text for the pluralist case.
-- **D:** Incorrect: vague citation is the specific fault the discipline note targets, and it signals that the candidate has met the line only as a slogan.
-
-**Examiner trap 18:** The verse earns marks because it separates one referent from many namings, and that separation is exactly what breaks the inference from absolute truth to exclusivism; used as a decorative quotation it earns nothing.
-
-#### MCQ 19. Vivekananda's demand, stated in his own terms
-
-What does Vivekananda demand at the Parliament of the World's Religions, and why?
-
-A. Tolerance, on the ground that a plural society cannot survive without a settled legal framework for the peaceful management of religious difference.
-
-B. Doctrinal convergence, on the ground that the surviving differences between religions are verbal rather than substantive once analysed.
-
-C. Institutional unification, on the ground that separate religious organisations inevitably compete for adherents and therefore generate conflict.
-
-D. Acceptance rather than mere toleration, on the ground that toleration still condescends to the tradition it permits to exist.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: toleration is precisely what he regards as insufficient, so attributing that demand to him inverts his position.
-- **B:** Incorrect: he preserves distinctive forms and denies homogenisation, so treating the differences as merely verbal misrepresents the model.
-- **C:** Incorrect: institutional unification is not proposed; the model derives plural paths from plural temperaments and expects them to persist.
-- **D:** Correct: this is his own emphasis at Chicago in 1893, and read against Forst's ladder it is a refusal of permission-level toleration.
-
-**Examiner trap 19:** The 2025 stem names the thinker, so the mark scheme is fidelity to his own theses — the temperament argument, the four disciplines and the acceptance demand — rather than generic Vedāntic pluralism.
-
-#### MCQ 20. The status of the assimilation objection
-
-How should the charge that Vivekananda's model is covertly neo-Vedāntic inclusivism be handled?
-
-A. Dismissed, because Vivekananda explicitly affirms that distinctive religious forms are preserved and that harmony does not require homogenisation.
-
-B. Accepted, because any position that supplies a metaphysical ground for religious plurality is by definition an inclusivism about the traditions it grounds.
-
-C. Stated with its reply and then left contested, since whether the metaphysical hierarchy remains inclusivist is not settled by the preservation of forms.
-
-D. Deferred to the Advanced block, because the objection concerns interpretive controversy rather than the doctrine an examination answer requires.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: preservation of distinctive forms answers part of the charge but does not settle whether Vedānta supplies the final adjudicating framework.
-- **B:** Incorrect: supplying a metaphysical ground is not by itself inclusivism, since a second-order account may claim to privilege no first-order tradition.
-- **C:** Correct: the owner's instruction is to keep the status contested, and the Advanced dossier records the same objection and reply without resolving them.
-- **D:** Incorrect: the objection is directly examinable in the 2025 question and belongs in the core answer rather than in optional enrichment.
+- **A:** Incorrect: resolvability is precisely what the deep-disagreement literature denies, and nothing in the parity replies establishes a shared standard of assessment.
+- **B:** Incorrect: that is D'Costa's separate charge against pluralism, not a consequence of Plantinga's replies, which establish parity rather than incoherence.
+- **C:** Correct: the replies establish permissibility, and the owner records explicitly that they do not establish truth and do not address the contingency of birth.
+- **D:** Incorrect: Plantinga's third reply concedes that awareness of disagreement may **reduce** warrant, and only denies that it extinguishes it.
+
+**Examiner trap 15:** The verdict ladder places "Plantinga's defence stated **and met**" in the strong band; stating it without meeting it, or meeting it without stating it, both fall short of what the band requires.
+
+#### MCQ 16 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: explaining the historical record is the business of the conflict-history module, and it is not what D'Costa's objection turns on.
+- **B:** Incorrect: incompleteness of comparative data is a methodological worry of a different kind, and it is not the objection recorded here.
+- **C:** Incorrect: this is a naturalistic objection to religious experience generally, owned elsewhere, and it does not target the pluralist paradigm specifically.
+- **D:** Correct: this is the covert-exclusivism charge, which the owner records as the strongest single objection to Hick and which Hick's second-order reply does not fully escape.
+
+**Examiner trap 16:** Hick's reply that his is a philosophical hypothesis rather than a rival creed should be stated, and then answered by noting that a second-order theory which tells traditions what they are really doing exercises exactly the authority it denies them.
+
+#### MCQ 17 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: differential pluralism holds that the ends themselves are plural, which is why the owner records it as preserving the traditions' self-understanding better than Hick does.
+- **B:** Incorrect: this is Hick's identist pluralism, and it is precisely the position Heim's differential pluralism is constructed as an alternative to.
+- **C:** Incorrect: the soteriological transformation criterion is Hick's, and Heim's criterion is fidelity to the traditions' own self-understanding.
+- **D:** Incorrect: mutual transformation is the Panikkar and Cobb proposal, which changes the aim of dialogue rather than the metaphysics of religious ends.
+
+**Examiner trap 17:** Heim is more faithful to the traditions **and** surrenders the single ultimate that made pluralism attractive; writing only the first half turns an assessment into an endorsement.
+
+#### MCQ 18 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: vague citation is the specific fault the discipline note targets, and it signals that the candidate has met the line only as a slogan.
+- **B:** Correct: these are the owner's four disciplines in operation — precise reference, native subject, argued extension — and they are what convert a slogan into evidence.
+- **C:** Incorrect: the claim of continuous inter-religious application is false, since the extension is a nineteenth- and twentieth-century development requiring argument.
+- **D:** Incorrect: the verse is not treated as a disputed interpolation, and dismissing it would discard the strongest short Indian text for the pluralist case.
+
+**Examiner trap 18:** The verse earns marks because it separates one referent from many namings, and that separation is exactly what breaks the inference from absolute truth to exclusivism; used as a decorative quotation it earns nothing.
+
+#### MCQ 19 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: he preserves distinctive forms and denies homogenisation, so treating the differences as merely verbal misrepresents the model.
+- **B:** Incorrect: institutional unification is not proposed; the model derives plural paths from plural temperaments and expects them to persist.
+- **C:** Correct: this is his own emphasis at Chicago in 1893, and read against Forst's ladder it is a refusal of permission-level toleration.
+- **D:** Incorrect: toleration is precisely what he regards as insufficient, so attributing that demand to him inverts his position.
+
+**Examiner trap 19:** The 2025 stem names the thinker, so the mark scheme is fidelity to his own theses — the temperament argument, the four disciplines and the acceptance demand — rather than generic Vedāntic pluralism.
+
+#### MCQ 20 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the objection is directly examinable in the 2025 question and belongs in the core answer rather than in optional enrichment.
+- **B:** Incorrect: preservation of distinctive forms answers part of the charge but does not settle whether Vedānta supplies the final adjudicating framework.
+- **C:** Incorrect: supplying a metaphysical ground is not by itself inclusivism, since a second-order account may claim to privilege no first-order tradition.
+- **D:** Correct: the owner's instruction is to keep the status contested, and the Advanced dossier records the same objection and reply without resolving them.
 
 **Examiner trap 20:** Declaring the assimilation objection solved is as costly as ignoring it; the mature move is to state the reply, name what it does not settle, and let the contested status stand as the answer's evaluative conclusion.
 
-#### MCQ 21. Radhakrishnan's criterion and its characteristic risk
-
-Which pairing correctly matches Radhakrishnan's criterion with the objection his position characteristically attracts?
-
-A. Criterion: integral experience — Risk: perennialist reduction, in which doctrines are demoted to variant readings of one underlying experience.
-
-B. Criterion: soteriological transformation — Risk: an empty Real, since the terminus of transformation cannot be described in any tradition's categories.
-
-C. Criterion: conditional predication — Risk: hard contradictions, since some claims conflict on the same question in the same respect.
-
-D. Criterion: fidelity to self-understanding — Risk: the surrender of a single ultimate reality behind the plurality of religious ends.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -544,17 +645,7 @@ D. Criterion: fidelity to self-understanding — Risk: the surrender of a single
 
 **Examiner trap 21:** Radhakrishnan and Vivekananda are routinely merged; their criteria differ — integral experience against realisation — and so do their recorded risks, and separating them demonstrates control that a general "Indian pluralism" paragraph cannot.
 
-#### MCQ 22. Why conditional predication is not relativism
-
-Why does the Jain apparatus of standpoint-indexed assertion avoid the charge of relativism?
-
-A. Because it applies only to claims about material substances and their properties, leaving claims about liberation, karma and the soul entirely outside its declared scope.
-
-B. Because the respects under which incompatible predicates are asserted are stated explicitly, so the assertions remain determinate and checkable.
-
-C. Because it is a monastic discipline for debate rather than a philosophical doctrine about the truth-conditions of assertions.
-
-D. Because it denies that finite knowers can make assertions at all, replacing assertion with a practice of principled silence.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -567,17 +658,7 @@ D. Because it denies that finite knowers can make assertions at all, replacing a
 
 **Examiner trap 22:** Describing the elephant parable is worth markedly less than stating the apparatus as a logic that marks framework-relativity inside the proposition, which is what makes it a genuine contribution to the deep-disagreement problem.
 
-#### MCQ 23. The premise that carries the 2022 inference
-
-The inference from "there is one Absolute Truth" to "religious exclusivism follows" is valid only if a further premise is supplied. Which premise is it?
-
-A. That religious traditions in fact make contradictory claims about the nature of ultimate reality rather than merely appearing to do so.
-
-B. That the state has an interest in the truth of religious doctrines and is therefore entitled to prefer one tradition over others.
-
-C. That a finite formulation can exhaust the absolute, so that one tradition's statement of it can be the whole truth about it.
-
-D. That religious experience is veridical, so that at least one tradition's reports about the absolute must be accepted as accurate.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
@@ -590,65 +671,33 @@ D. That religious experience is veridical, so that at least one tradition's repo
 
 **Examiner trap 23:** The 2022 stem is graded on whether the inference is tested rather than on whether the candidate agrees with it; concede the reading on which it succeeds, then deny the premise and the inference fails without any appeal to tolerance.
 
-#### MCQ 24. The control on hard contradiction
-
-Which statement expresses the hard-contradiction control correctly?
-
-A. Contradictions between traditions are always apparent, since every apparent conflict can be resolved by distinguishing level, symbol, standpoint or soteriological end.
-
-B. Pluralism may reinterpret level, symbol, standpoint or end, but must acknowledge whatever contradiction remains rather than harmonising it.
-
-C. Contradictions between traditions show that at most one tradition is authentic, so pluralism is refuted wherever a genuine contradiction can be located.
-
-D. Contradictions between traditions are irrelevant to pluralism, which is a thesis about salvation rather than a thesis about the truth of doctrines.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this overstates the four reinterpretive moves into a universal solvent, which is exactly the rhetorical harmonisation the control forbids.
-- **B:** Correct: the four moves are legitimate where a difference of respect can be specified, and the residue must be acknowledged; this is the owner's control verbatim in substance.
-- **C:** Incorrect: a contradiction shows that at most one party is right **about that claim**, which is compatible with soteriological and political pluralism elsewhere.
-- **D:** Incorrect: pluralism has an alethic dimension as well as a soteriological one, so contradictions between doctrines are directly relevant to it.
-
-**Examiner trap 24:** The top band explicitly rewards acknowledging the contradictions pluralism cannot dissolve; a script that harmonises everything is not more generous than one that concedes the residue, it is simply less defensible.
-
-#### REMEDIAL DIAGNOSTIC MCQS — 8
-
-#### MCQ 25. Peer disagreement against deep disagreement
-
-What distinguishes deep disagreement in Fogelin's technical sense from ordinary peer disagreement?
-
-A. Deep disagreement concerns religious questions specifically, whereas peer disagreement concerns questions in the empirical sciences.
-
-B. Deep disagreement occurs between parties of unequal competence, whereas peer disagreement requires the parties to be equally competent.
-
-C. Deep disagreement is about values while peer disagreement is about facts, so the two require different methods of resolution.
-
-D. Deep disagreement obtains when the parties do not share the framework propositions against which evidence would count at all.
+#### MCQ 24 — solution
 
 **Answer: D.**
 
 **Option explanations:**
 
-- **A:** Incorrect: the distinction is structural rather than topical, and Fogelin's analysis is not restricted to religious subject matter.
-- **B:** Incorrect: inequality of competence is not the criterion; parties to a deep disagreement may be perfectly matched in ability and evidence.
-- **C:** Incorrect: the fact–value distinction does not track the difference, since framework divergence can arise about matters of fact as readily as about values.
-- **D:** Correct: this is Fogelin's criterion, connected to Wittgenstein's hinge propositions in *On Certainty*, and it is why the same evidence is not evidence for the same thing.
+- **A:** Incorrect: a contradiction shows that at most one party is right **about that claim**, which is compatible with soteriological and political pluralism elsewhere.
+- **B:** Incorrect: pluralism has an alethic dimension as well as a soteriological one, so contradictions between doctrines are directly relevant to it.
+- **C:** Incorrect: this overstates the four reinterpretive moves into a universal solvent, which is exactly the rhetorical harmonisation the control forbids.
+- **D:** Correct: the four moves are legitimate where a difference of respect can be specified, and the residue must be acknowledged; this is the owner's control verbatim in substance.
+
+**Examiner trap 24:** The top band explicitly rewards acknowledging the contradictions pluralism cannot dissolve; a script that harmonises everything is not more generous than one that concedes the residue, it is simply less defensible.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: this is Fogelin's criterion, connected to Wittgenstein's hinge propositions in *On Certainty*, and it is why the same evidence is not evidence for the same thing.
+- **B:** Incorrect: the distinction is structural rather than topical, and Fogelin's analysis is not restricted to religious subject matter.
+- **C:** Incorrect: inequality of competence is not the criterion; parties to a deep disagreement may be perfectly matched in ability and evidence.
+- **D:** Incorrect: the fact–value distinction does not track the difference, since framework divergence can arise about matters of fact as readily as about values.
 
 **Examiner trap 25:** Peer disagreement assumes a shared framework and asks what to do about a peer; deep disagreement denies the shared framework, and conflating them makes both the conciliationist and the steadfast position unstatable.
 
-#### MCQ 26. What unresolvability does and does not show
-
-If inter-religious disagreement is deep in the technical sense, what follows?
-
-A. That relativism about religious truth is thereby established, since a disagreement that argument cannot settle can have no fact of the matter standing behind it.
-
-B. That unresolvability is epistemic rather than alethic: one party may still be right, and what fails is our ability to demonstrate which.
-
-C. That dialogue is pointless, since parties who share no framework cannot communicate about the matters on which they differ.
-
-D. That pluralism is vindicated, since the persistence of disagreement is exactly what the pluralist hypothesis predicts.
+#### MCQ 26 — solution
 
 **Answer: B.**
 
@@ -661,132 +710,72 @@ D. That pluralism is vindicated, since the persistence of disagreement is exactl
 
 **Examiner trap 26:** The four consequences of deep disagreement cut in both directions — they protect the exclusivist from a charge of irrationality and deny the pluralist an easy argument — and using only the half that suits the script is visible to an examiner.
 
-#### MCQ 27. What makes an attitude toleration
-
-Which set of conditions is jointly necessary for an attitude to count as toleration?
-
-A. Objection to what is tolerated, reasons that outweigh but do not cancel the objection, and the power to interfere combined with deliberate restraint.
-
-B. Indifference to what is tolerated, absence of any power to interfere, and a general disposition to avoid conflict with one's neighbours.
-
-C. Approval of what is tolerated, a legal duty not to interfere, and a settled expectation that the other party will reciprocate in due course.
-
-D. Uncertainty about what is tolerated, willingness to revise one's own view, and a commitment to submit the disagreement to public argument.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: objection, acceptance and power are the three components, and removing the first yields indifference while removing the third yields mere endurance.
-- **B:** Incorrect: indifference removes the objection component, which is precisely what makes toleration a moral achievement rather than an absence of concern.
-- **C:** Incorrect: approval removes the objection component in the other direction, and a legal duty removes the deliberate restraint that the power component requires.
-- **D:** Incorrect: this describes fallibilism and a commitment to public reason, which are valuable but are not what toleration means.
-
-**Examiner trap 27:** In the 2020 tolerance question the definition does the work; define toleration by its three components first, and the importance the stem asks about follows from the definition instead of having to be asserted.
-
-#### MCQ 28. Grading a historical example on Forst's ladder
-
-A ruling majority permits a religious minority to practise its faith on sufferance, reserving the right to withdraw the permission. Where does this fall on Forst's ladder, and what follows?
-
-A. Esteem, since permitting practice acknowledges that the minority's beliefs contain something worthwhile.
-
-B. Respect, since the minority is being recognised as entitled to practise its faith without interference.
-
-C. Permission, which is what most historical toleration actually was and which is not compatible with equal citizenship.
-
-D. Coexistence, since the arrangement is a pragmatic settlement designed to avoid conflict between the two communities.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: esteem requires positively valuing the other's beliefs, and a revocable sufferance expresses no such valuation.
-- **B:** Incorrect: respect requires reciprocal recognition as equal moral-political persons, which a unilateral and revocable permission by definition withholds.
-- **C:** Correct: sufferance granted unilaterally by the powerful is Forst's first conception, and only respect and esteem are compatible with equal citizenship.
-- **D:** Incorrect: coexistence is mutual and pragmatic, whereas the arrangement described is asymmetrical and dependent on the majority's continuing choice.
+- **A:** Incorrect: approval removes the objection component in the other direction, and a legal duty removes the deliberate restraint that the power component requires.
+- **B:** Incorrect: this describes fallibilism and a commitment to public reason, which are valuable but are not what toleration means.
+- **C:** Correct: objection, acceptance and power are the three components, and removing the first yields indifference while removing the third yields mere endurance.
+- **D:** Incorrect: indifference removes the objection component, which is precisely what makes toleration a moral achievement rather than an absence of concern.
+
+**Examiner trap 27:** In the 2020 tolerance question the definition does the work; define toleration by its three components first, and the importance the stem asks about follows from the definition instead of having to be asserted.
+
+#### MCQ 28 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: coexistence is mutual and pragmatic, whereas the arrangement described is asymmetrical and dependent on the majority's continuing choice.
+- **B:** Incorrect: esteem requires positively valuing the other's beliefs, and a revocable sufferance expresses no such valuation.
+- **C:** Incorrect: respect requires reciprocal recognition as equal moral-political persons, which a unilateral and revocable permission by definition withholds.
+- **D:** Correct: sufferance granted unilaterally by the powerful is Forst's first conception, and only respect and esteem are compatible with equal citizenship.
 
 **Examiner trap 28:** Grade every historical example on the ladder before praising it; the habit converts a list of tolerant rulers into an argument, and it is what allows Vivekananda's demand for acceptance to be located precisely rather than merely admired.
 
-#### MCQ 29. The scope of Popper's paradox
+#### MCQ 29 — solution
 
-How should Popper's paradox of tolerance be stated in an examination answer?
+**Answer: A.**
 
-A. As a general principle that a society may suppress any doctrine which the majority of its citizens judges to be false or harmful.
+**Option explanations:**
 
-B. As the claim that unlimited tolerance destroys tolerance, with the right to refuse tolerance reserved for those who answer argument with violence.
+- **A:** Correct: Popper's own formulation in the note to chapter 7 reserves the refusal for those who refuse rational argument and answer with violence.
+- **B:** Incorrect: the paradox is a limit on tolerance rather than an argument for its impossibility, and Popper is defending the open society rather than despairing of it.
+- **C:** Incorrect: the paradox is not a rejection of the harm principle; harm and reciprocity are precisely the criteria by which the limits should be drawn.
+- **D:** Incorrect: this is the misuse the owner's trap list targets, since limits drawn by doctrinal content reproduce the intolerance they were meant to prevent.
 
-C. As an argument that tolerance is impossible in a plural society, since every act of toleration presupposes a power that will eventually be abused.
+**Examiner trap 29:** Quoting Popper as a licence to suppress the intolerant is the single most misused citation in this clause; state the restriction in the same sentence as the paradox, and the citation becomes an argument rather than a slogan.
 
-D. As a rejection of Mill's harm principle, on the ground that harm is too vague a criterion to bear the weight of political limitation.
+#### MCQ 30 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: this is the misuse the owner's trap list targets, since limits drawn by doctrinal content reproduce the intolerance they were meant to prevent.
-- **B:** Correct: Popper's own formulation in the note to chapter 7 reserves the refusal for those who refuse rational argument and answer with violence.
-- **C:** Incorrect: the paradox is a limit on tolerance rather than an argument for its impossibility, and Popper is defending the open society rather than despairing of it.
-- **D:** Incorrect: the paradox is not a rejection of the harm principle; harm and reciprocity are precisely the criteria by which the limits should be drawn.
+- **A:** Incorrect: this is an instance of the practice/belief asymmetry, which is a listed hard problem but not the one singled out.
+- **B:** Correct: this is Shachar's paradox of multicultural vulnerability, which the owner records as the single most examinable tension in the clause.
+- **C:** Incorrect: the propagation question is a listed hard problem whose principled line is coercion and fraud, but it is not the one identified as central.
+- **D:** Incorrect: funding questions are downstream of the neutrality models and are not identified as the central tension.
 
-**Examiner trap 29:** Quoting Popper as a licence to suppress the intolerant is the single most misused citation in this clause; state the restriction in the same sentence as the paradox, and the citation becomes an argument rather than a slogan.
+**Examiner trap 30:** Answering a religious-freedom question with a list of constitutional articles leaves the philosophy untouched; the marks are in the asymmetry, the conversion line, the internal-minorities paradox, the two neutrality models and the state-as-arbiter-of-theology problem.
 
-#### MCQ 30. The hardest problem in religious freedom
-
-Which problem does the owner identify as the single most examinable tension in the religious-freedom question?
-
-A. Whether the state should fund religious institutions on the same terms as comparable secular institutions.
-
-B. Whether freedom of conscience extends to the refusal of medical treatment on religious grounds.
-
-C. Whether group rights granted to protect a community can entrench its dominant members over its own weaker members.
-
-D. Whether propagation should be permitted in public spaces or restricted to premises owned by the propagating community.
+#### MCQ 31 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: funding questions are downstream of the neutrality models and are not identified as the central tension.
-- **B:** Incorrect: this is an instance of the practice/belief asymmetry, which is a listed hard problem but not the one singled out.
-- **C:** Correct: this is Shachar's paradox of multicultural vulnerability, which the owner records as the single most examinable tension in the clause.
-- **D:** Incorrect: the propagation question is a listed hard problem whose principled line is coercion and fraud, but it is not the one identified as central.
-
-**Examiner trap 30:** Answering a religious-freedom question with a list of constitutional articles leaves the philosophy untouched; the marks are in the asymmetry, the conversion line, the internal-minorities paradox, the two neutrality models and the state-as-arbiter-of-theology problem.
-
-#### MCQ 31. The analytic move in the conflict-history question
-
-Which distinction is the one that earns marks in answering whether the history of religions is the history of conflicts?
-
-A. Religion as cause, as marker of an antagonism generated otherwise, as mobiliser of grievance, and as legitimiser of a decision taken on other grounds.
-
-B. Religion as ancient and as modern, since pre-modern conflicts were fought over territory and dynastic succession while modern ones are fought over group identity.
-
-C. Religion as institutional and as personal, since institutions generate conflict whereas individual belief is politically inert.
-
-D. Religion as monotheistic and as non-monotheistic, since exclusive truth-claims arise only where a single deity is affirmed.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: this is the four-role distinction the owner identifies as the analytic move that earns marks, and most historical cases fall into the last three roles.
-- **B:** Incorrect: a chronological split is the kind of periodisation Armstrong's argument complicates, and it does not isolate religion as a variable.
-- **C:** Incorrect: the institutional/personal split does not track the causal question, and treating personal belief as inert begs the question at issue.
-- **D:** Incorrect: exclusive truth-claims are not confined to monotheism, and the classification would prejudge the causal question by construction.
+- **A:** Incorrect: the institutional/personal split does not track the causal question, and treating personal belief as inert begs the question at issue.
+- **B:** Incorrect: exclusive truth-claims are not confined to monotheism, and the classification would prejudge the causal question by construction.
+- **C:** Correct: this is the four-role distinction the owner identifies as the analytic move that earns marks, and most historical cases fall into the last three roles.
+- **D:** Incorrect: a chronological split is the kind of periodisation Armstrong's argument complicates, and it does not isolate religion as a variable.
 
 **Examiner trap 31:** A list of wars answers a different question from the one printed; grade the claim into its three versions, apply the four roles, then supply the counter-evidence, since a history that counts only the wars is a selected history.
 
-#### MCQ 32. The shape of the answer on religion as a unifier
-
-Which verdict on religion as a uniting force in a globalising world matches what the directive is buying?
-
-A. Religion unites, because every major tradition contains a version of the golden rule and a doctrine of universal moral standing.
-
-B. Religion divides, because Durkheimian integration is in-group integration and globalisation produces reactive and fundamentalist forms as readily as cosmopolitan ones.
-
-C. The question cannot be answered at all, because "religion" is not a stable independent variable that can be isolated from politics, land, economics and group identity.
-
-D. Religion unites conditionally: when its ethics are universalist in scope, its epistemology fallibilist enough for dialogue, and its identity not politically monopolised.
+#### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -799,11 +788,37 @@ D. Religion unites conditionally: when its ethics are universalist in scope, its
 
 **Examiner trap 32:** A conditional verdict is only an answer if the conditions are specified and independently checkable; "it depends" without the three conditions reads as evasion, while the three conditions read as analysis.
 
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. Its consistency is a counterexample to the alleged *necessary* entailment.
+- **B:** Incorrect. It assumes the relativist restriction in dispute rather than furnishing a counterexample; Hick's proposed transformation criterion is cross-tradition, even if contestable.
+- **C:** Incorrect. Sharing a norm against coercion does not logically require identical theological accounts.
+- **D:** Incorrect as a countermodel to the specified *religious standing* thesis: it changes the claim to political tolerance and leaves its moral entailment untested.
+
+**Examiner trap 33:** Refuting necessity with one countermodel does not settle how easy its shared moral standard is to defend.
+
+#### MCQ 34 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect. Hick reinterprets *both* personal and impersonal representations, without selecting one as an exhaustive literal account of the Real.
+- **B:** Correct. The revised account reconciles some appearances at a doctrinal cost.
+- **C:** Incorrect. Ineffability restricts literal predicates of the Real, not the religious significance of historically conditioned appearances.
+- **D:** Incorrect. Hick's reconciliation needs a revised phenomenal reading; literal same-respect contradictions do not both survive intact.
+
+**Examiner trap 34:** Reconciling *reinterpreted* claims does not prove both unqualified assertions literally true.
+
+**Coverage decision (34, not a quota):** Alethic/soteriological/political axes, the E–I–P triad, Hick and Indian pluralist replies, absolute truth, freedom and coexistence all appear in distinct questions. The additional items test whether pluralism *entails* moral relativism and how conflicting literal truth claims might be revised, the two non-identical 2026 demands. Fourteen primary-owned parts are routed.
+
 ## PYQS AND ANSWER PRACTICE
 
-### Verified previous-year questions — 12 complete solutions
+### Verified 2018–2025 previous-year questions — 12 complete solutions (plus two 2026 supplements)
 
-**Word bands used throughout.** 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words. Every question below is reproduced in its **exact printed wording** from the audited Philosophy of Religion previous-year ledger, 2018–2025, in which this clause owns **twelve question-parts out of 112** — two in each of 2018, 2019, 2020 and 2021, and one in each of 2022, 2023, 2024 and 2025. **The model answers are independent learner practice and are never official UPSC keys.**
+**Timed-paper planning, not an answer cap.** The twelve baseline stems reproduce the audited 2018–2025 ledger (two each in 2018–2021, one each in 2022–2025). Two further primary-owned 2026 stems are solved after the original practice. Models are independent learner practice, never official UPSC keys.
 
 **Timing skeleton.** 10 marks — 1 minute to decode, 1 to outline, 6 to write, 1 to check. 15 marks — 1 / 2 / 10 / 2. 20 marks — 2 / 3 / 13 / 2. **Standing penalties in this clause:** defining pluralism as "all religions say the same thing"; merging inclusivism with pluralism; presenting exclusivism only as bigotry; citing *ekaṃ sat* without its context or its bridging argument; quoting *extra ecclesiam nulla salus* as Cyprian's own words; treating "tolerance" as one thing; answering the conflict-history stem with a list of wars; and citing Huntington as a finding.
 
@@ -831,7 +846,7 @@ Plantinga defends exclusivism by parity — the pluralist's own denial is contes
 - Distinguishes two varieties of pluralism, which most scripts treat as one.
 - Closes with the parity exchange, converting classification into assessment.
 
-**Upgrade route for this answer:** the compressible part is the conciliar chain — at 350 words, keep Cyprian's wording and the 1965 qualification and drop the three council dates. What must never be cut is the "who sets the terms" formula, because it is the differentia the directive is grading.
+**Timed-practice route for this answer:** compress the conciliar chronology if time presses, but retain Cyprian's wording and the 1965 qualification. Preserve the "who sets the terms" formula: it is the differentia the directive tests.
 
 #### PYQ 2 — 2018, Q6(b), 15 marks
 
@@ -853,7 +868,7 @@ The statement therefore supports humility and equal respect in India, but not "a
 - Answers the context clause with a determinate Indian application, including Sen.
 - Concedes the hard-contradiction limit, which is what "critically" is buying.
 
-**Upgrade route for this answer:** at 250 words, compress the Jain apparatus to one sentence naming *syāt* and standpoint-indexing. What must never be cut is the context clause, since omitting the Indian application forfeits marks the directive explicitly allocates.
+**Timed-practice route for this answer:** compress the Jain apparatus while retaining *syāt* and standpoint-indexing. Preserve the context clause: the directive explicitly requires the Indian application.
 
 #### PYQ 3 — 2019, Q5(b), 10 marks
 
@@ -875,7 +890,7 @@ Religion unites humanity only when three conditions hold: its ethics are univers
 - Names three checkable conditions rather than gesturing at complexity.
 - Ends with the amplitude formula, the clause's signature line for this stem.
 
-**Upgrade route for this answer:** at 150 words, cut the list of universalist doctrines to one example and compress Roy to a clause. What must never be cut is the three-condition synthesis, because the conditions *are* the answer the directive is buying.
+**Timed-practice route for this answer:** prioritise one telling universalist example and a concise account of Roy if time presses. Preserve the three-condition synthesis: those conditions answer the directive.
 
 #### PYQ 4 — 2019, Q7(a), 20 marks
 
@@ -903,7 +918,7 @@ The central problem is therefore not which side is more generous but whether neu
 - Adds the deep-disagreement layer, which the verdict ladder places in the strong band.
 - Converts the stalemate into a determinate conclusion about corrigibility.
 
-**Upgrade route for this answer:** at 350 words, compress Hick's four steps to two clauses. What must never be cut is the pairing of Plantinga with D'Costa, since a script with only one of them reads as advocacy rather than as an account of a *problem*.
+**Timed-practice route for this answer:** condense Hick's steps without losing their argumentative link. Preserve the Plantinga–D'Costa comparison: only one side reads as advocacy rather than an account of a *problem*.
 
 #### PYQ 5 — 2020, Q5(c), 10 marks
 
@@ -925,7 +940,7 @@ Hence distinguish religion as **cause, marker, mobiliser or legitimiser**. Most 
 - Supplies counter-evidence, making the refutation historical as well as conceptual.
 - Concedes a narrow truth, which is what "discuss" is buying.
 
-**Upgrade route for this answer:** at 150 words, reduce the counter-evidence list to three items. What must never be cut is the four-role distinction, because without it the answer becomes the list of wars the trap list forbids.
+**Timed-practice route for this answer:** select representative counter-evidence if time presses. Preserve the four-role distinction; without it the answer becomes the list of wars the trap list forbids.
 
 #### PYQ 6 — 2020, Q5(e), 10 marks
 
@@ -947,7 +962,7 @@ Forst's ladder—permission, coexistence, respect, esteem—shows the limit: tol
 - Applies Forst's ladder as a grading instrument rather than a list.
 - Closes with the indispensable-but-insufficient verdict, naming both reasons.
 
-**Upgrade route for this answer:** at 150 words, keep the three components, Locke, Aśoka and the ladder; compress Mill, Rawls and Popper into one clause. What must never be cut is the power component, since the closing verdict depends on it.
+**Timed-practice route for this answer:** prioritise the three components, Locke, Aśoka and the ladder; abbreviate the supporting comparisons if time presses. Preserve the power component, since the closing verdict depends on it.
 
 #### PYQ 7 — 2021, Q5(b), 10 marks
 
@@ -969,7 +984,7 @@ The view assumes that truth permits partial adequacy or non-literal mediation. I
 - Names the presupposition the position itself makes.
 - Concedes the hard-contradiction residue in the same answer.
 
-**Upgrade route for this answer:** at 150 words, keep the four-way separation and one denial of the premise. What must never be cut is the closing distinction between a single referent inexhaustibly formulated and a finite formulation held absolutely, since that sentence is the possibility claim.
+**Timed-practice route for this answer:** prioritise the four-way separation and an argued denial of the premise. Preserve the closing distinction between a single referent inexhaustibly formulated and a finite formulation held absolutely: that is the possibility claim.
 
 #### PYQ 8 — 2021, Q5(c), 10 marks
 
@@ -991,7 +1006,7 @@ The hardest issue is Shachar's **multicultural vulnerability**: group protection
 - Contrasts two neutrality models and explains what principled distance permits.
 - Ends with a qualified verdict that names the residual cost.
 
-**Upgrade route for this answer:** at 150 words, compress the four justifications to Locke plus one. What must never be cut is the internal-minorities paradox, since it is the discriminator between an average and a good script on this stem.
+**Timed-practice route for this answer:** if time presses, select Locke and another relevant justification rather than listing all four. Preserve the internal-minorities paradox, which makes the evaluation substantive.
 
 #### PYQ 9 — 2022, Q7(a), 20 marks
 
@@ -1019,7 +1034,7 @@ The entailment therefore fails. Ontological absolutism entails epistemic exclusi
 - Separates the three theses explicitly, blocking the tolerance-from-metaphysics slide.
 - Concedes both limits, which is what the top band rewards.
 
-**Upgrade route for this answer:** at 350 words, compress the three denials to Advaita plus Jainism. What must never be cut is the formal reconstruction, since the whole answer depends on exhibiting a premise the quotation leaves unstated.
+**Timed-practice route for this answer:** foreground Advaita and Jainism when time presses, rather than merely listing three denials. Preserve the formal reconstruction, since the answer depends on exhibiting the premise the quotation leaves unstated.
 
 #### PYQ 10 — 2023, Q8(b), 15 marks
 
@@ -1045,7 +1060,7 @@ Pluralism need neither invite conflict nor destroy truth, but only if it retains
 - Concedes the hard-contradiction residue and the identity objection.
 - Ends with the relocation formula and its qualification.
 
-**Upgrade route for this answer:** at 250 words, compress the four-role analysis to a single clause. What must never be cut is the explicit separation of the two charges, since a merged answer forfeits the structure the directive is grading.
+**Timed-practice route for this answer:** compress the four-role analysis if time presses, but explicitly separate the two charges; merging them loses the structure the directive tests.
 
 #### PYQ 11 — 2024, Q5(b), 10 marks
 
@@ -1067,7 +1082,7 @@ Thus ontological absolutism does not entail epistemic monopoly or political priv
 - Uses *nirguṇa*/*saguṇa* as a tradition's own internal marking of the point.
 - Closes with the discipline that keeps absoluteness on the referent.
 
-**Upgrade route for this answer:** at 150 words, drop one of the two consequences. What must never be cut is the four-way separation, since it is the analysis the notion-question is asking for.
+**Timed-practice route for this answer:** state both consequences concisely if time presses. Preserve the four-way separation, which supplies the analysis the notion-question demands.
 
 #### PYQ 12 — 2025, Q7(a), 20 marks
 
@@ -1095,15 +1110,39 @@ The Vedāntic view therefore addresses conflicting truth-claims by relocating ab
 - Places the model against Hick and Heim, which converts exposition into assessment.
 - Leaves the assimilation objection contested, as the owner requires.
 
-**Upgrade route for this answer:** at 350 words, compress the Jain addition to one clause. What must never be cut is the assimilation objection with its reply and its contested status, since that is the evaluative move the 20-mark band is grading.
+**Timed-practice route for this answer:** keep the Jain addition concise if time presses. Preserve the assimilation objection, its reply and contested status: these carry the evaluation demanded by the question.
 
-### Original solved Mains practice — 6 models
+### 2026 primary-owned PYQ supplement — two solved parts (2018–2026 total: 14)
 
-These six questions are **learner-written practice**, not previous-year questions. They are constructed to drill the demands the printed corpus has not yet combined.
+The following stems reproduce the verified 2026 Section B supplement. Model answers are independent practice; 2026 Q6(c) is about *moral entailment*, while Q7(c) is about *conflicting truth claims*, so they demand different arguments.
+
+#### 2026 Q6(c) · 15 marks
+
+> Does the idea of Religious Pluralism necessarily entail moral relativism? Critically discuss.
+
+**Model solution.** No **necessary entailment** follows. Religious pluralism grants serious religious standing to more than one tradition, or on a stronger Hickian reading understands traditions as diverse human responses to the transcategorial Real. Moral relativism holds that the truth or justification of a moral judgment is wholly relative to a cultural or religious framework, with no cross-framework criticism. Acceptance of the first proposition does not logically require the second: traditions could have different routes to a shared truth, or conflicting yet objective reasons that remain open to criticism.
+
+Hick supplies a possible countermodel by testing religious transformation from self-centredness toward Reality-centredness as a common criterion. That test is itself normative: it can criticise a tradition's cruelty rather than exempt cruelty because the practice is traditional. Indian many-sidedness (anekāntavāda) can require standpoint qualification without declaring contradictory or harmful practices equally true. A society can likewise protect equal freedom of conscience while judging coercion wrong for everyone.
+
+**Counterpressure:** Hick's criterion may covertly privilege a liberal moral standard, and a general “all paths equally valid” slogan can make it difficult to condemn oppression justified by a religious authority. Religious differences can also embody substantive disagreements about gender, violence and duty. These problems expose the difficulty of *defending and applying* an objective criterion; they do not establish that pluralism entails its denial. **Verdict:** A reflective pluralism can consistently combine multiple religious paths with non-relative moral constraints, provided it explains those constraints and retains the right to criticise harmful practices.
+
+#### 2026 Q7(c) · 15 marks
+
+> Can conflicting truth claims among religions be reconciled within the framework of religious pluralism? Critically discuss.
+
+**Model solution.** Reconciliation requires specifying *which* claims conflict. “A personal creator exists” and “there is no personal creator” cannot both be literally true **in the same respect**. Religious pluralism may advocate peaceful coexistence without settling this logical issue; tolerating believers is not reconciling doctrines.
+
+Hick distinguishes an ineffable Real from historically conditioned religious appearances; diverse traditions may respond to one ultimate reality while describing it in culturally different personal or impersonal terms. This reconciles some orientation and salvation claims but reinterprets, rather than preserves intact, first-order doctrines that insist their creator or revelation is literally unique. D'Costa objects that Hick's metatheory itself imposes a substantive exclusivist verdict on traditions' self-understandings, and the Real's epistemic accessibility needs justification. Jain standpoint qualification (anekāntavāda) resolves some *apparent* contradictions by locating claims under different respects, but does not make strict same-respect contradictions true. The Vedic “one reality spoken of variously” (Ṛgveda 1.164.46) must be read in its context, not treated as a proof that every later doctrine is identical. Vivekananda's convergence claim and Heim's proposal of genuinely different religious ends expose a further choice: one ultimate destination or several irreducible aims.
+
+**Verdict:** Pluralism can reconcile qualified descriptions and support reciprocal recognition; it cannot simply erase incompatible literal truth claims. Its philosophical strength depends on declaring what it redescribes, what it leaves unresolved and why its second-order criterion merits assent.
+
+### Original solved Mains practice — six baseline models plus a Heim comparison
+
+These seven questions are **learner-written practice**, not previous-year questions. They are constructed to drill the demands the printed corpus has not yet combined.
 
 #### Original 1 · 10 marks
 
-**Question:** Distinguish between alethic and soteriological religious pluralism, and state one consequence of the distinction. *(Answer in about 150 words.)*
+**Question:** Distinguish between alethic and soteriological religious pluralism, and state one consequence of the distinction. *(10 marks.)*
 
 **Model answer:**
 Alethic pluralism concerns the **truth** of religious claims: it holds that several traditions state genuine truths about ultimate reality, because no finite formulation exhausts what it formulates. Soteriological pluralism concerns **efficacy**: it holds that several traditions really transform, liberate or save their adherents.
@@ -1116,7 +1155,7 @@ The consequence is decisive for the standard argument. Hick's soteriological cri
 
 #### Original 2 · 10 marks
 
-**Question:** "Toleration granted by the strong to the weak is permission, not equality." Examine. *(Answer in about 150 words.)*
+**Question:** "Toleration granted by the strong to the weak is permission, not equality." Examine. *(10 marks.)*
 
 **Model answer:**
 The statement is correct, and its force comes from the **power component** in the concept of toleration itself.
@@ -1131,7 +1170,7 @@ Vivekananda reaches the same conclusion from the other direction, demanding acce
 
 #### Original 3 · 15 marks
 
-**Question:** Assess the claim that Hick's pluralistic hypothesis is a covert exclusivism. *(Answer in about 250 words.)*
+**Question:** Assess the claim that Hick's pluralistic hypothesis is a covert exclusivism. *(15 marks.)*
 
 **Model answer:**
 D'Costa's charge is the strongest single objection to Hick. Hick treats major traditions as culturally conditioned responses to the transcategorial Real, judged by transformation from self-centredness to Reality-centredness. He calls this a **second-order** philosophical hypothesis, not another creed.
@@ -1146,7 +1185,7 @@ Hickian pluralism is therefore not neutral, but neither is its rival. The decisi
 
 #### Original 4 · 15 marks
 
-**Question:** How far does Jain many-sidedness (*anekāntavāda*) resolve the problem of conflicting religious truth-claims? *(Answer in about 250 words.)*
+**Question:** How far does Jain many-sidedness (*anekāntavāda*) resolve the problem of conflicting religious truth-claims? *(15 marks.)*
 
 **Model answer:**
 It resolves a substantial part of the problem and leaves a residue that must be conceded.
@@ -1163,7 +1202,7 @@ Its limit is exact. The apparatus works wherever a difference of aspect, level o
 
 #### Original 5 · 20 marks
 
-**Question:** "Political coexistence between religions neither requires nor follows from agreement about religious truth." Critically discuss with reference to both Western and Indian resources. *(Answer in about 350 words.)*
+**Question:** "Political coexistence between religions neither requires nor follows from agreement about religious truth." Critically discuss with reference to both Western and Indian resources. *(20 marks.)*
 
 **Model answer:**
 The statement contains two claims, and both are defensible.
@@ -1182,7 +1221,7 @@ Political coexistence therefore depends on respect, reciprocity, exit and harm-l
 
 #### Original 6 · 20 marks
 
-**Question:** Examine whether the epistemology of deep disagreement strengthens or weakens the case for religious pluralism. *(Answer in about 350 words.)*
+**Question:** Examine whether the epistemology of deep disagreement strengthens or weakens the case for religious pluralism. *(20 marks.)*
 
 **Model answer:**
 It does both, and the balance is what makes it examinable.
@@ -1226,4 +1265,14 @@ If two consecutive attempts land below **Good**, return to Sessions 1, 14 and 15
 
 ### Independence note
 
-Every model answer, original question, diagnostic item and option explanation in this package is **independent learner practice**. None reproduces an official mark scheme, and none should be presented as one. Only the twelve previous-year questions are reproduced verbatim, from the audited repository ledger, and they are reproduced for practice routing.
+Every model answer, original question, diagnostic item and option explanation in this package is **independent learner practice**. None reproduces an official mark scheme, and none should be presented as one. Twelve previous-year questions above reproduce the 2018–2025 audited repository ledger, and two further printed stems from the 2026 supplement are solved below.
+
+#### Further original Mains practice — plurality of ends rather than appearances
+
+**Original 7 · 15 marks — Compare Hick's Real-centred pluralism with S. Mark Heim's proposal of genuinely different religious ends. Which view better respects incompatible soteriologies?**
+
+**Model solution.** Hick treats major religious traditions as historically conditioned responses to the ineffable Real and describes their salvific significance through transformation from self-centredness to Reality-centredness. This offers a shared explanatory centre without granting exclusive salvation to one tradition. Yet believers may claim not merely distinct *pictures* of one end but genuinely incompatible final ends: union with a personal God, release without a creator, or enduring distinct communion with the Lord. Reclassifying these as different appearances of one destination risks redescribing the traditions against their own testimony.
+
+Heim's “differential” pluralism proposes that religions can pursue genuinely different ultimate ends rather than competing for one identical salvation. It respects their positive divergence better than assimilative convergence; it also prevents cheap claims that every tradition affirms the same proposition under a different name. But if ends differ substantially, saying all are equally saving needs a criterion of value that does not simply reinstall a preferred religious judgment. Moreover, if one tradition asserts that its end is the uniquely true ultimate, accommodating that assertion alongside incompatible ends remains difficult. Neither model makes same-respect contradictory claims literally compatible.
+
+**Verdict:** Heim better preserves plurality of religious aims, while Hick offers a stronger common comparison through transformation. A careful pluralist must distinguish agreement on human flourishing, diverse final ends and equality of *truth*; none follows automatically from respect for persons of other religions.

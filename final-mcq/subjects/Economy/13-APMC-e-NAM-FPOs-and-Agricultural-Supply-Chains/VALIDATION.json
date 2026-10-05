@@ -1,0 +1,58 @@
+{
+  "topic": "13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains",
+  "audit_date": "2026-10-04",
+  "status": "PASS",
+  "findings": [],
+  "revisions": [
+    {
+      "bank": 1,
+      "questions": 43,
+      "answers": 43,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "A": 10,
+        "C": 8,
+        "D": 9,
+        "B": 16
+      },
+      "fingerprint": "71035340538ef84a"
+    },
+    {
+      "bank": 2,
+      "questions": 41,
+      "answers": 41,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "C": 12,
+        "A": 8,
+        "D": 11,
+        "B": 10
+      },
+      "fingerprint": "230012d4b12914ed"
+    },
+    {
+      "bank": 3,
+      "questions": 40,
+      "answers": 40,
+      "max_option_spread": 30,
+      "min_rationale_markers": 4,
+      "distribution": {
+        "B": 8,
+        "A": 15,
+        "C": 8,
+        "D": 9
+      },
+      "fingerprint": "ace5b7eaa6992bee"
+    }
+  ],
+  "checks": {
+    "answer_free_questions": true,
+    "detailed_separate_answers": true,
+    "source_date_holds": true,
+    "pyq_holds": true,
+    "independent_banks": true,
+    "balanced_options": true
+  }
+}

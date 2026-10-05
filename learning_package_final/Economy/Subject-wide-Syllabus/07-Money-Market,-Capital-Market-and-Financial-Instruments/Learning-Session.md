@@ -188,20 +188,30 @@ UNSECURED WHOLESALE FUNDS
       +-- NOTICE MONEY: over 1 day and up to 14 days
       `-- TERM MONEY: over 14 days and up to 1 year
 
+RBI OPERATING CORRIDOR
+MSF ceiling
+    |
+policy repo rate
+    |
+SDF floor
+
+WACR = transaction-value-weighted overnight unsecured call rate
+       and the operating target of monetary policy
+
 Eligible borrowers/lenders under RBI Directions:
 SCBs (except LABs) + Payments Banks + SFBs + RRBs
 + State/District/Urban co-operative banks + Primary Dealers
 ```
 
-*Visual reading:* RBI's Directions dated 1 April 2021 and updated 8 June 2023 define call money as overnight, notice money as beyond overnight through fourteen days, and term money as above fourteen days through one year. Eligible two-way participants are specified banks, co-operative banks and Primary Dealers; this is not an unrestricted retail market. Transactions can occur over authorised electronic trading platforms or over the counter, with reporting and prudential limits. The weighted average call rate is important for monetary-policy operating conditions, but a market rate is not itself the policy repo rate.
+*Visual reading:* RBI's Directions dated 1 April 2021 and updated 8 June 2023 define call money as overnight, notice money as beyond overnight through fourteen days, and term money as above fourteen days through one year. Eligible two-way participants are specified banks, co-operative banks and Primary Dealers; this is not an unrestricted retail market. Transactions can occur over authorised electronic trading platforms or over the counter, with reporting and prudential limits. The weighted average call rate (WACR) is the transaction-value-weighted overnight unsecured rate and RBI's operating target. The Standing Deposit Facility supplies the corridor floor, the Marginal Standing Facility supplies the ceiling, and the policy repo rate lies between them. WACR remains market-determined rather than being identical to the policy repo rate.
 
 #### DEFINITION
 
-Call, notice and term money are unsecured borrowing and lending segments distinguished by tenor.
+Call, notice and term money are unsecured borrowing and lending segments distinguished by tenor. WACR summarises overnight call transactions and is guided toward the policy repo rate through RBI's liquidity operations and standing-facility corridor.
 
 > **ANSWER-GRABBING LINE:** Because these loans are unsecured, counterparty quality and prudential limits—not collateral management—anchor the market.
 
-**MUST-WRITE KEYWORDS:** call money, notice money, term money, overnight, unsecured, NDS-CALL, eligible participants.
+**MUST-WRITE KEYWORDS:** call money, notice money, term money, overnight, unsecured, WACR, SDF, MSF, policy corridor.
 
 #### HOW TO WRITE THE ANSWER PARAGRAPH
 
@@ -217,7 +227,7 @@ Call, notice and term money are unsecured borrowing and lending segments disting
 
 #### PRELIMS TRAP
 
-Notice money excludes overnight borrowing; term money begins only after fourteen days.
+Notice money excludes overnight borrowing; term money begins only after fourteen days. SDF and MSF are corridor facilities, whereas WACR is a market rate and the operating target.
 
 #### MAINS USE
 
@@ -225,7 +235,7 @@ Use this segment to explain the first link from RBI liquidity operations to bank
 
 #### MINI RECAP
 
-['Call is overnight.', 'Notice is over one day to fourteen days.', 'Term is over fourteen days to one year.']
+['Call is overnight.', 'Notice is over one day to fourteen days.', 'Term is over fourteen days to one year.', 'SDF is the floor, MSF the ceiling and WACR the operating target.']
 
 ### CORE SESSION 4 — Repo, reverse repo and TREPS
 
@@ -343,18 +353,24 @@ SHORT-TERM CLAIMS
 `-- COMMERCIAL BILL: trade receivable / bill of exchange
     supplier discounts with bank -> bank may rediscount
 
+TReDS
+accepted MSME invoice -> financiers bid -> MSME receives early cash
+                      -> buyer pays selected financier at maturity
+
 CP/CD rules are dated; trade bills arise from genuine commerce
 ```
 
-*Visual reading:* RBI's CP and short-term NCD Directions dated 3 January 2024, effective 1 April 2024, define CP as unsecured promissory-note money-market paper with tenor from seven days to one year, minimum denomination Rs 5 lakh and rating at least A3. The CD Directions dated 4 June 2021/effective 7 June 2021 permit Scheduled Commercial Banks, RRBs and SFBs to issue dematerialised CDs of seven days to one year in Rs 5 lakh minimum denomination; AIFI resource rules are separate. Both have disclosure, reporting and settlement requirements. Commercial bills instead originate in sale of goods: a bank discounts the bill before maturity and may rediscount it to obtain liquidity.
+*Visual reading:* RBI's CP and short-term NCD Directions dated 3 January 2024, effective 1 April 2024, define CP as unsecured promissory-note money-market paper with tenor from seven days to one year, minimum denomination Rs 5 lakh and rating at least A3. The CD Directions dated 4 June 2021/effective 7 June 2021 permit Scheduled Commercial Banks, RRBs and SFBs to issue dematerialised CDs of seven days to one year in Rs 5 lakh minimum denomination; AIFI resource rules are separate. Both have disclosure, reporting and settlement requirements. Commercial bills instead originate in sale of goods: a bank discounts the bill before maturity and may rediscount it to obtain liquidity. TReDS applies the receivables-finance idea through an RBI-regulated electronic platform: an MSME uploads an invoice, the buyer accepts it, financiers bid to discount the accepted receivable, the MSME receives early funds and the buyer pays the selected financier on the due date.
 
 #### DEFINITION
 
 Commercial Paper is unsecured market borrowing by eligible issuers; a Certificate of Deposit is a negotiable unsecured instrument against funds deposited with an eligible bank; a commercial bill represents a trade claim that may be discounted and rediscounted.
 
+**TReDS mechanism:** TReDS is not a stock exchange, credit-rating agency or repo platform. It competitively finances accepted MSME receivables, generally without recourse to the MSME under the framework. Its effectiveness depends on buyer onboarding, timely invoice acceptance and financier participation. TREPS is triparty repo; TReDS is trade-receivables discounting.
+
 > **ANSWER-GRABBING LINE:** CP funds an issuer, CD funds a bank, and bill discounting monetises a trade receivable: similar short tenors do not make the underlying claims identical.
 
-**MUST-WRITE KEYWORDS:** Commercial Paper, Certificate of Deposit, commercial bill, promissory note, discounting, rediscounting, IPA, DvP.
+**MUST-WRITE KEYWORDS:** Commercial Paper, Certificate of Deposit, commercial bill, TReDS, accepted invoice, discounting, rediscounting, DvP.
 
 #### HOW TO WRITE THE ANSWER PARAGRAPH
 
@@ -370,7 +386,7 @@ Commercial Paper is unsecured market borrowing by eligible issuers; a Certificat
 
 #### PRELIMS TRAP
 
-CP is not secured by definition; CD is not corporate equity; a commercial bill is not a Treasury Bill.
+CP is not secured by definition; CD is not corporate equity; a commercial bill is not a Treasury Bill. TReDS must not be confused with TREPS.
 
 #### MAINS USE
 
@@ -378,7 +394,7 @@ Compare purpose, issuer, backing and cash flow before discussing money-market de
 
 #### MINI RECAP
 
-['CP is unsecured issuer borrowing.', 'CD is a negotiable bank deposit claim.', 'Commercial bills monetise trade receivables.']
+['CP is unsecured issuer borrowing.', 'CD is a negotiable bank deposit claim.', 'Commercial bills monetise trade receivables.', 'TReDS competitively discounts accepted MSME invoices.']
 
 ### CORE SESSION 7 — Government securities and State Development Loans
 
@@ -653,11 +669,19 @@ FIRM FINANCING CLAIM
 RETURN, CONTROL, PRIORITY AND LOSS-BEARING DIFFER
 ```
 
-*Visual reading:* Debt usually promises coupon or interest and principal, with creditors ranking ahead of ordinary shareholders in insolvency subject to law and security. Equity has no contractual repayment date and captures residual upside and downside, often with voting rights. Preference shares can carry preferential dividend or repayment features, while convertible debentures begin as debt and may convert under stated terms. Labels do not erase contract detail: perpetual debt is not ordinary equity, and a convertible instrument is not an equity share before conversion merely because conversion is possible.
+*Visual reading:* Debt usually promises coupon or interest and principal, with creditors ranking ahead of ordinary shareholders in insolvency subject to law and security. Equity has no contractual repayment date and captures residual upside and downside, often with voting rights. Preference shares remain share capital but receive priority over ordinary equity for dividend and repayment of capital. Cumulative preference dividends can carry forward when unpaid; non-cumulative dividends normally do not. Convertible preference shares may become equity, redeemable preference shares return capital under their terms, and participating preference shares may share additional surplus. Preference shareholders ordinarily have more limited voting rights than ordinary equity holders. Convertible debentures begin as debt and may convert under stated terms.
 
 #### DEFINITION
 
 Debt creates a contractual creditor claim, equity creates a residual ownership claim, and a hybrid combines selected characteristics of both.
+
+| Preference-share form | Examiner-ready meaning |
+|---|---|
+| Cumulative | Unpaid preference dividend accumulates |
+| Non-cumulative | Missed dividend normally does not accumulate |
+| Convertible | Can become equity under stated terms |
+| Redeemable | Capital is repaid according to the issue terms |
+| Participating | May share additional surplus beyond the preference amount |
 
 > **ANSWER-GRABBING LINE:** Capital-market instruments allocate not only return but control, maturity, priority and loss-bearing.
 
@@ -703,15 +727,22 @@ Issuer -> debenture trustee/arranger -> investors
           disclosure + rating + covenant monitoring
 ```
 
-*Visual reading:* A secured debenture creates a charge over specified assets, giving enforcement rights subject to law; an unsecured debenture relies on the issuer's general credit. A non-convertible debenture remains debt, whereas a convertible debenture can become equity on contractual terms. Public or listed debt requires disclosure, rating, trustee and continuing-compliance architecture under applicable company and SEBI rules. RBI's 2024 Direction separately governs CP and NCDs of original or initial maturity up to one year; longer listed debt principally sits in the SEBI securities-market perimeter.
+*Visual reading:* A secured debenture creates a charge over specified assets, giving enforcement rights subject to law; an unsecured debenture relies on the issuer's general credit. A non-convertible debenture remains debt, whereas a convertible debenture can become equity on contractual terms. Public or listed debt requires disclosure, rating, trustee and continuing-compliance architecture under applicable company and SEBI rules. A rating is an opinion on relative credit risk, not insurance or a recommendation. A downgrade normally raises the yield investors demand, lowers the existing bond's price and widens its spread over a comparable G-Sec. The issuer-pays model creates a potential conflict of interest, making SEBI regulation, disclosure and surveillance important. A debenture trustee monitors covenants and security and can act collectively for dispersed holders, but does not guarantee repayment. RBI's 2024 Direction separately governs CP and NCDs of original or initial maturity up to one year; longer listed debt principally sits in the SEBI securities-market perimeter.
 
 #### DEFINITION
 
 A corporate bond or debenture acknowledges company indebtedness. Security determines collateral backing; convertibility determines whether and how the claim can become equity.
 
+```text
+RATING DOWNGRADE
+      -> perceived credit risk rises
+      -> required yield / credit spread rises
+      -> existing bond price falls
+```
+
 > **ANSWER-GRABBING LINE:** Secured, unsecured and convertible are separate axes: a bond can be secured yet non-convertible, or unsecured yet convertible.
 
-**MUST-WRITE KEYWORDS:** corporate bond, debenture, secured, unsecured, convertible, non-convertible, debenture trustee, credit rating.
+**MUST-WRITE KEYWORDS:** corporate bond, debenture, secured, unsecured, convertible, debenture trustee, credit rating, downgrade, credit spread.
 
 #### HOW TO WRITE THE ANSWER PARAGRAPH
 
@@ -727,7 +758,7 @@ A corporate bond or debenture acknowledges company indebtedness. Security determ
 
 #### PRELIMS TRAP
 
-`Debenture` does not automatically mean secured, and `convertible` does not mean current equity ownership.
+`Debenture` does not automatically mean secured, `convertible` does not mean current equity ownership, and a credit rating does not guarantee repayment.
 
 #### MAINS USE
 
@@ -746,22 +777,31 @@ EQUITY ISSUANCE ROUTES
 |
 +-- IPO: unlisted issuer's first public offer -> listing
 +-- FPO: already-listed issuer's further public offer
-`-- RIGHTS ISSUE: offer to existing holders on record date
-                  usually in proportion to holdings
++-- RIGHTS ISSUE: offer to existing holders on record date
+|                  usually in proportion to holdings
+`-- BONUS ISSUE: reserves capitalised into share capital
+                 no fresh cash enters the company
 
 Fresh issue -> funds to company
 Offer for sale -> proceeds to selling holders
+Book building -> bids within price band -> issue-price discovery
 ```
 
-*Visual reading:* Under SEBI's ICDR Regulations, 2018, amended through 21 March 2026, an IPO can include a fresh issue, an offer for sale, or both, by an unlisted issuer. An FPO is a public offer by an already listed issuer. A rights issue gives existing shareholders an entitlement based on the record date and issue ratio, normally protecting their opportunity to maintain proportionate ownership if exercised. A fresh issue expands issued capital and brings funds to the company; an offer for sale transfers existing securities and proceeds to the seller.
+*Visual reading:* Under SEBI's ICDR Regulations, 2018, amended through 21 March 2026, an IPO can include a fresh issue, an offer for sale, or both, by an unlisted issuer. An FPO is a public offer by an already listed issuer. A rights issue gives existing shareholders an entitlement based on the record date and issue ratio, normally protecting their opportunity to maintain proportionate ownership if exercised. A fresh issue expands issued capital and brings funds to the company; an offer for sale transfers existing securities and proceeds to the seller. In book building, investors bid within a disclosed price band and the demand book helps determine the issue price; it cannot guarantee a listing gain. A bonus issue distributes additional shares proportionately by capitalising reserves into share capital: no new cash enters, proportional ownership initially remains unchanged and market price ordinarily adjusts for the larger number of shares.
 
 #### DEFINITION
 
 An IPO is the first public offer by an unlisted issuer, an FPO is a further public offer by a listed issuer, and a rights issue offers securities to existing holders under the applicable terms.
 
+| Route | Fresh cash to company? | Immediate ownership effect |
+|---|---|---|
+| Fresh public/rights issue | Yes | Non-subscribers may be diluted |
+| Offer for sale | No | Existing shares change owners |
+| Bonus issue | No | Proportionate ownership normally unchanged |
+
 > **ANSWER-GRABBING LINE:** Public-offer labels identify issuer status and investor constituency; they do not by themselves show whether money reaches the company or a selling shareholder.
 
-**MUST-WRITE KEYWORDS:** IPO, FPO, rights issue, fresh issue, offer for sale, record date, listing, dilution.
+**MUST-WRITE KEYWORDS:** IPO, FPO, rights issue, fresh issue, offer for sale, bonus issue, book building, dilution.
 
 #### HOW TO WRITE THE ANSWER PARAGRAPH
 
@@ -777,7 +817,7 @@ An IPO is the first public offer by an unlisted issuer, an FPO is a further publ
 
 #### PRELIMS TRAP
 
-An IPO is not necessarily all fresh capital, and a rights entitlement is not a guaranteed gain.
+An IPO is not necessarily all fresh capital, a rights entitlement is not a guaranteed gain, and a bonus issue does not create immediate additional wealth.
 
 #### MAINS USE
 
@@ -785,7 +825,7 @@ Use route, recipient of proceeds, investor set and dilution to structure an issu
 
 #### MINI RECAP
 
-['IPO is first public access by an unlisted issuer.', 'FPO follows listing.', 'Rights issues privilege existing holders.']
+['IPO is first public access by an unlisted issuer.', 'FPO follows listing.', 'Rights issues privilege existing holders.', 'Bonus issues capitalise reserves without fresh funds.', 'Book building discovers the issue price within a price band.']
 
 ### CORE SESSION 15 — Private placement and Qualified Institutions Placement
 
@@ -1110,19 +1150,23 @@ FUNCTIONAL REGULATION
 |   public/listed securities issuance | exchanges | brokers
 |   corporate debt | MIIs | depositories | investor protection
 |
++-- IFSCA
+|   unified regulator for banking | capital markets | insurance
+|   and fund management within GIFT IFSC
+|
 `-- OVERLAP/EDGE
     instrument + issuer + maturity + venue + activity decide the rule
 ```
 
-*Visual reading:* RBI regulates money-market instruments and government securities under the RBI Act and Government Securities Act framework, authorises relevant electronic trading platforms and oversees payment/settlement systems within its remit. SEBI regulates the securities market, public and listed issues, recognised stock exchanges, clearing corporations, depositories and intermediaries under its statutes. A short-term NCD up to one year can fall under RBI's 2024 money-market direction, while listed corporate-debt issuance and trading also engage SEBI rules. The Government remains issuer of its debt; an exchange, CCP or depository does not become the regulator.
+*Visual reading:* RBI regulates money-market instruments and government securities under the RBI Act and Government Securities Act framework, authorises relevant electronic trading platforms and oversees payment/settlement systems within its remit. SEBI regulates the securities market, public and listed issues, recognised stock exchanges, clearing corporations, depositories and intermediaries under its statutes. The International Financial Services Centres Authority is the unified regulator for banking, capital-market, insurance and fund-management activity within GIFT IFSC at Gandhinagar. It does not replace RBI, SEBI, IRDAI or PFRDA throughout India. A short-term NCD up to one year can fall under RBI's 2024 money-market direction, while listed corporate-debt issuance and trading also engage SEBI rules. The Government remains issuer of its debt; an exchange, CCP or depository does not become the regulator.
 
 #### DEFINITION
 
-Indian financial-market jurisdiction is functional: RBI and SEBI mandates intersect at boundaries, so the applicable rule depends on the instrument and activity rather than one universal institutional label.
+Indian financial-market jurisdiction is functional: RBI and SEBI mandates intersect at boundaries, while IFSCA supplies a unified perimeter inside GIFT IFSC. The applicable rule depends on the location, instrument and activity rather than one universal institutional label.
 
 > **ANSWER-GRABBING LINE:** Regulation, issuance, trading, clearing and settlement can involve different authorities in the same transaction chain.
 
-**MUST-WRITE KEYWORDS:** RBI, SEBI, Government Securities Act, SEBI Act, SCRA, Depositories Act, market perimeter.
+**MUST-WRITE KEYWORDS:** RBI, SEBI, IFSCA, GIFT IFSC, Government Securities Act, SEBI Act, SCRA, market perimeter.
 
 #### HOW TO WRITE THE ANSWER PARAGRAPH
 
@@ -1138,7 +1182,7 @@ Indian financial-market jurisdiction is functional: RBI and SEBI mandates inters
 
 #### PRELIMS TRAP
 
-RBI and SEBI can both matter to a corporate-debt transaction at different stages.
+RBI and SEBI can both matter to a corporate-debt transaction at different stages. IFSCA's unified jurisdiction is confined to the IFSC perimeter.
 
 #### MAINS USE
 
@@ -1146,7 +1190,7 @@ Assign issuer, regulator, trading venue, clearing institution and custodian sepa
 
 #### MINI RECAP
 
-['RBI leads money/G-Sec regulation.', 'SEBI leads securities-market regulation.', 'Perimeter follows activity, instrument and law.']
+['RBI leads money/G-Sec regulation.', 'SEBI leads domestic securities-market regulation.', 'IFSCA is unified regulator within GIFT IFSC.', 'Perimeter follows location, activity, instrument and law.']
 
 ### CORE SESSION 22 — Liquidity, price discovery, risk transfer and capital formation
 
@@ -1419,13 +1463,13 @@ Under RBI's dated definitions, call money is:
 
 ### MCQ 4
 
-Match the unsecured segment with its tenor:
+Consider the following statements about RBI's operating framework:
 
-1. Call money — overnight
-2. Notice money — over one day and up to fourteen days
-3. Term money — over fourteen days and up to one year
+1. WACR is a transaction-value-weighted overnight unsecured market rate.
+2. The Standing Deposit Facility forms the lower boundary of the operating corridor.
+3. The Marginal Standing Facility forms the upper boundary of the operating corridor.
 
-Which option is correct?
+Which of the statements given above are correct?
 
 - A. 1 only
 - B. 1 and 2 only
@@ -1436,12 +1480,12 @@ Which option is correct?
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** Notice and term money are also correctly matched to the RBI's explicit tenor boundaries.
-- **B - Incorrect:** Term money is correctly stated as exceeding fourteen days and extending through one year.
-- **C - Incorrect:** Call money is correctly matched with overnight unsecured borrowing and lending.
-- **D - Correct:** All three matches follow the RBI Directions dated 1 April 2021 and updated 8 June 2023.
+- **A - Incorrect:** Statements 2 and 3 also correctly identify the corridor boundaries.
+- **B - Incorrect:** MSF is also correctly placed as the ceiling.
+- **C - Incorrect:** WACR is correctly described as the weighted overnight unsecured market rate and operating target.
+- **D - Correct:** WACR is the operating target, with SDF as floor and MSF as ceiling; the market rate is guided toward, but is not identical to, the policy repo rate.
 
-**Examiner trap 4:** Fourteen days belongs to notice money; term money begins beyond fourteen days.
+**Examiner trap 4:** Do not confuse a market-determined WACR with the policy repo rate or the standing corridor facilities.
 
 ### MCQ 5
 
@@ -1557,23 +1601,23 @@ How many pairs are correctly matched?
 
 ### MCQ 10
 
-Bills discounting and rediscounting are best understood as:
+Which statement best describes TReDS?
 
-- A. Issue of an equity claim to existing shareholders
-- B. Conversion of a trade receivable evidenced by a bill into finance before maturity
-- C. Auction of a zero-coupon sovereign instrument
-- D. Unsecured overnight borrowing between eligible banks
+- A. It is a triparty-repo platform using securities as collateral
+- B. It enables financiers to bid for accepted MSME receivables so that the MSME receives funds before invoice maturity
+- C. It is a credit-rating platform that guarantees MSME invoices
+- D. It converts every disputed invoice into compulsory buyer payment
 
 **Answer: B.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** That is a rights issue and has no underlying trade bill.
-- **B - Correct:** The first discount gives the seller early funds; rediscounting lets the holder obtain liquidity against the bill.
-- **C - Incorrect:** That describes T-Bill issuance rather than financing a commercial receivable.
-- **D - Incorrect:** That describes call money, not a goods-backed payment claim.
+- **A - Incorrect:** That describes TREPS, not TReDS.
+- **B - Correct:** Buyer acceptance creates a financeable receivable; competing financiers quote discounts and the selected financier pays the MSME early.
+- **C - Incorrect:** TReDS facilitates financing but neither rates nor guarantees the buyer's obligation.
+- **D - Incorrect:** Buyer acceptance and an undisputed receivable remain essential; the platform cannot compel acceptance of a disputed invoice.
 
-**Examiner trap 10:** A commercial bill arises from trade, whereas a Treasury Bill evidences government borrowing.
+**Examiner trap 10:** TReDS is trade-receivables finance; TREPS is triparty repo.
 
 ### MCQ 11
 
@@ -1750,33 +1794,33 @@ Which of the statements given above are correct?
 
 ### MCQ 19
 
-Which statement correctly contrasts debt and equity?
+Which statement about preference shares is correct?
 
-- A. Equity always promises principal repayment at maturity
-- B. Debt necessarily carries voting control over the company
-- C. Debt creates a contractual creditor claim; equity is a residual ownership claim
-- D. Both rank identically in insolvency
+- A. They are always secured debt instruments
+- B. Their dividend is a guaranteed bank-deposit return
+- C. They remain share capital but receive preference over ordinary equity for dividend and repayment of capital
+- D. They always carry the same voting rights as ordinary equity shares
 
 **Answer: C.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** Ordinary equity has no contractual maturity or promised principal repayment.
-- **B - Incorrect:** Creditors may have covenants, but ordinary corporate voting ownership belongs to shareholders.
-- **C - Correct:** The two claims allocate cash flow, control, priority and loss-bearing differently.
-- **D - Incorrect:** Creditor and shareholder priority differ, subject to applicable insolvency law.
+- **A - Incorrect:** Preference shares are legally share capital even when their economics resemble fixed-income claims.
+- **B - Incorrect:** Preference dividend remains subject to the legal and issue terms; it is not deposit insurance or an unconditional bank promise.
+- **C - Correct:** Priority over ordinary equity defines the preference, while cumulative, convertible, redeemable and participating features depend on the terms.
+- **D - Incorrect:** Preference shareholders ordinarily have more limited voting rights than ordinary equity holders.
 
-**Examiner trap 19:** A perpetual or convertible instrument may blur features but does not erase its contract.
+**Examiner trap 19:** Fixed or preferential economic rights do not automatically convert a preference share into debt.
 
 ### MCQ 20
 
-Match the attribute with the instrument:
+Consider the following statements about corporate-bond credit ratings:
 
-1. Secured debenture — charge over specified assets
-2. Unsecured debenture — relies on general issuer credit
-3. Convertible debenture — may become equity under stated terms
+1. A rating is an opinion on relative credit risk rather than a repayment guarantee.
+2. A downgrade can raise the required yield and reduce the price of an existing bond.
+3. The issuer-pays model creates a potential conflict that requires regulation and disclosure.
 
-Which option is correct?
+Which of the statements given above are correct?
 
 - A. 1 only
 - B. 1 and 2 only
@@ -1787,32 +1831,32 @@ Which option is correct?
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** The unsecured and convertible descriptions are also correct and concern different dimensions.
-- **B - Incorrect:** Convertibility is correctly described as a contractual route into equity.
-- **C - Incorrect:** A secured debenture is correctly linked to a charge over specified assets.
-- **D - Correct:** Security and convertibility are independent contractual axes, and all three pairs are correctly matched.
+- **A - Incorrect:** Statements 2 and 3 are also correct consequences and institutional concerns.
+- **B - Incorrect:** The issuer-pays conflict in statement 3 is also real even though regulation seeks to contain it.
+- **C - Incorrect:** Statement 1 is essential: a rating is not insurance or a sovereign guarantee.
+- **D - Correct:** A downgrade normally widens the credit spread and lowers price, while the rating remains an opinion produced within a regulated but potentially conflicted model.
 
-**Examiner trap 20:** Do not assume every debenture is secured or that conversion has already occurred.
+**Examiner trap 20:** High rating, collateral and trustee oversight reduce particular risks but do not guarantee payment.
 
 ### MCQ 21
 
-An Initial Public Offer differs from a Further Public Offer because:
+Which statement correctly distinguishes bonus issues and book building?
 
-- A. An IPO is the first public offer by an unlisted issuer; an FPO is by an already listed issuer
-- B. An IPO can contain only an offer for sale
-- C. An FPO is offered only to existing shareholders
-- D. An FPO is necessarily a private placement
+- A. A bonus issue capitalises reserves without bringing fresh cash, while book building uses bids within a price band to discover an issue price
+- B. A bonus issue is an offer for sale whose proceeds go to promoters
+- C. Book building guarantees that the post-listing market price will rise
+- D. A bonus issue necessarily reduces every shareholder's proportionate ownership
 
 **Answer: A.**
 
 **Option-specific explanations:**
 
-- **A - Correct:** Issuer listing status at the time of the public offer supplies the core distinction.
-- **B - Incorrect:** An IPO can include a fresh issue, an offer for sale, or both.
-- **C - Incorrect:** A rights issue, not an FPO as such, is directed to existing holders on the record date.
-- **D - Incorrect:** An FPO is a public offer by a listed issuer.
+- **A - Correct:** Bonus shares reclassify reserves into share capital, while book building records demand at prices within the announced band.
+- **B - Incorrect:** An offer for sale transfers existing shares for cash; a bonus issue distributes additional shares without sale proceeds.
+- **C - Incorrect:** Price discovery cannot guarantee a listing gain or eliminate valuation risk.
+- **D - Incorrect:** A proportionate bonus issue normally leaves relative ownership unchanged immediately after issue.
 
-**Examiner trap 21:** Public-offer label alone does not show whether proceeds go to the company or selling holders.
+**Examiner trap 21:** More shares after a bonus issue do not mean immediate additional company value or investor wealth.
 
 ### MCQ 22
 
@@ -1970,21 +2014,21 @@ How many statements are correct?
 
 Which regulatory map is most accurate?
 
-- A. RBI leads money markets and G-Secs; SEBI leads public/listed securities markets and market infrastructure, with boundary coordination
+- A. RBI leads money markets and G-Secs, SEBI leads domestic public/listed securities markets, and IFSCA is the unified regulator within GIFT IFSC
 - B. RBI regulates every debt security and SEBI regulates only shares
-- C. SEBI issues Government of India securities
-- D. Stock exchanges regulate banks' prudential capital
+- C. IFSCA replaces RBI, SEBI, IRDAI and PFRDA throughout India
+- D. Stock exchanges regulate banks' prudential capital and GIFT IFSC banking units
 
 **Answer: A.**
 
 **Option-specific explanations:**
 
-- **A - Correct:** Statutes allocate functions by instrument, issuer, maturity, venue and activity rather than one debt-equity slogan.
+- **A - Correct:** Functional regulation depends on instrument and activity, while IFSCA supplies a unified perimeter specifically inside GIFT IFSC.
 - **B - Incorrect:** Corporate debt and short-term money-market debt can cross functional perimeters.
-- **C - Incorrect:** The Government is issuer and RBI manages auctions under the public-debt framework.
-- **D - Incorrect:** Bank capital regulation belongs to RBI, not an exchange.
+- **C - Incorrect:** IFSCA's unified role is geographically and legally confined to the IFSC.
+- **D - Incorrect:** Exchanges are trading venues; prudential regulation is not transferred to them.
 
-**Examiner trap 29:** The same transaction chain can involve an issuer, RBI or SEBI, an exchange/ETP, a CCP and a depository.
+**Examiner trap 29:** Unified IFSC regulation does not mean one regulator governs every financial activity throughout India.
 
 ### MCQ 30
 
@@ -2221,11 +2265,11 @@ The mechanism matters for monetary transmission. Expected short rates and liquid
 **Demand plan:** define the relevant mechanism, attach named Indian evidence, explain the causal link,
 then qualify the conclusion with a concrete risk or boundary.
 
-**Model answer (221 native-body words):**
+**Model answer (236 native-body words):**
 
 India's market architecture divides responsibility by instrument, issuer, maturity, venue and activity. The Reserve Bank of India leads money markets, Government securities, foreign exchange and payment systems under its statutory mandates. It issues directions for call, notice and term money, Certificates of Deposit, Commercial Paper, repo and the Negotiated Dealing System-Order Matching platform. It also manages government borrowing and supervises regulated participants.
 
-The Securities and Exchange Board of India leads public issuance and trading in equity and corporate securities, recognised stock exchanges, clearing corporations, depositories and listed-market conduct. The Companies Act and government borrowing framework add issuer-side rules. Exchanges organise trading, clearing corporations manage counterparty and settlement risk, and depositories maintain electronic ownership records; none should be described as the other.
+The Securities and Exchange Board of India leads public issuance and trading in equity and corporate securities, recognised stock exchanges, clearing corporations, depositories and listed-market conduct. Within GIFT IFSC, IFSCA is the unified regulator for banking, securities, insurance and fund-management activity. The Companies Act and government borrowing framework add issuer-side rules. Exchanges organise trading, clearing corporations manage counterparty and settlement risk, and depositories maintain electronic ownership records; none should be described as the other.
 
 Functional mapping is necessary because simple formulas fail. `Debt equals RBI` is false: listed corporate bonds fall substantially within SEBI's perimeter, while short-term Commercial Paper is an RBI-regulated money-market instrument. An electronic platform may facilitate an over-the-counter market, and a single transaction can involve a regulator, venue, central counterparty and depository.
 
@@ -2255,9 +2299,9 @@ Stability therefore requires more than a fast cycle. Regulators need robust part
 **Demand plan:** define the relevant mechanism, attach named Indian evidence, explain the causal link,
 then qualify the conclusion with a concrete risk or boundary.
 
-**Model answer (227 native-body words):**
+**Model answer (232 native-body words):**
 
-Financial markets convert heterogeneous savings into claims suited to different financing needs. Treasury Bills and Cash Management Bills meet short Central Government cash requirements, while dated Government securities and State Development Loans fund longer public obligations. Commercial Paper finances short corporate needs; Certificates of Deposit mobilise negotiable bank funding; corporate bonds create contractual medium- or long-term debt. Equity supplies residual risk capital, and hybrids combine contractual features.
+Financial markets convert heterogeneous savings into claims suited to different financing needs. Treasury Bills and Cash Management Bills meet short Central Government cash requirements, while dated Government securities and State Development Loans fund longer public obligations. Commercial Paper finances short corporate needs; Certificates of Deposit mobilise negotiable bank funding; corporate bonds create contractual medium- or long-term debt. TReDS discounts accepted MSME invoices. Equity supplies residual risk capital, and hybrids combine contractual features.
 
 Issuance design determines who receives funds and under what disclosure process. An Initial Public Offer brings an unlisted issuer to the public market; a Further Public Offer is made by an already listed issuer. A rights issue gives existing shareholders a proportionate opportunity. Private placement addresses a selected group, while a Qualified Institutions Placement is a specific listed-issuer route to Qualified Institutional Buyers. Fresh issue must be separated from offer for sale because only the former ordinarily finances the company.
 
@@ -2360,8 +2404,8 @@ The same twelve-panel source is exported independently as TXT/PDF and drives the
 +----------------------------------------------------------------------------------------------+
 | CALL = overnight       NOTICE = >1 day to 14 days                                            |
 | TERM = >14 days to 1 year                                                                    |
-| RBI Directions: 1 Apr 2021; updated 8 Jun 2023                                               |
-| Trap: call/notice/term are unsecured; repo is collateralised.                                |
+| SDF floor -> policy repo influence -> MSF ceiling; WACR is operating target                  |
+| Trap: WACR is a market rate; call/notice/term are unsecured.                                 |
 +----------------------------------------------------------------------------------------------+
 +----------------------------------------------------------------------------------------------+
 | PANEL 4/12 — COLLATERALISED LIQUIDITY                                                        |
@@ -2377,7 +2421,7 @@ The same twelve-panel source is exported independently as TXT/PDF and drives the
 | GoI: T-Bill 91/182/364d | CMB <91d                                                           |
 | Firm: CP 7d-1y, unsecured | short-term NCD 90d-1y, secured definition                        |
 | Bank: CD 7d-1y, demat; minimum Rs 5 lakh                                                     |
-| Trade: commercial bill = receivable; not a Treasury Bill.                                    |
+| TReDS: accepted MSME invoice -> financier bids -> early cash; not TREPS.                      |
 +----------------------------------------------------------------------------------------------+
 +----------------------------------------------------------------------------------------------+
 | PANEL 6/12 — SOVEREIGN DEBT AND YIELDS                                                       |
@@ -2399,9 +2443,9 @@ The same twelve-panel source is exported independently as TXT/PDF and drives the
 | PANEL 8/12 — CLAIMS AND ISSUANCE                                                             |
 +----------------------------------------------------------------------------------------------+
 | DEBT: contractual creditor claim | EQUITY: residual ownership                                |
-| SECURED / UNSECURED and CONVERTIBLE / NON-CONVERTIBLE are separate axes                      |
-| IPO first public offer | FPO listed issuer | RIGHTS existing holders                         |
-| PRIVATE PLACEMENT selected group | QIP listed issuer -> QIBs                                 |
+| PREFERENCE: priority rights; cumulative/convertible/redeemable terms vary                     |
+| IPO/FPO/RIGHTS | BOOK BUILDING discovers issue price                                         |
+| BONUS capitalises reserves, no fresh cash | QIP listed issuer -> QIBs                        |
 +----------------------------------------------------------------------------------------------+
 +----------------------------------------------------------------------------------------------+
 | PANEL 9/12 — TRANSACTION CHAIN                                                               |
@@ -2422,7 +2466,7 @@ The same twelve-panel source is exported independently as TXT/PDF and drives the
 +----------------------------------------------------------------------------------------------+
 | PANEL 11/12 — REGULATION AND SETTLEMENT                                                      |
 +----------------------------------------------------------------------------------------------+
-| RBI: money market + G-Sec + payments | SEBI: public/listed securities                        |
+| RBI: money/G-Sec | SEBI: domestic securities | IFSCA: unified GIFT-IFSC perimeter            |
 | T+1 = standard equity cash settlement                                                        |
 | Optional T+0: 28 Mar 2024 beta; 10 Dec 2024 expansion framework                              |
 | 30 Oct 2025: QSB timeline extended; T+0 is not universal instant settlement.                 |
@@ -2432,7 +2476,7 @@ The same twelve-panel source is exported independently as TXT/PDF and drives the
 +----------------------------------------------------------------------------------------------+
 | CLAIM -> named dated rule/institution -> causal analysis -> qualification                    |
 | BENEFITS: liquidity | price discovery | transmission | capital formation                     |
-| RISKS: credit | duration | rollover | leverage | CCP/cyber concentration                     |
+| RISKS: credit/rating | duration | rollover | leverage | CCP/cyber concentration              |
 | VERDICT: deepen access, disclosure and settlement resilience together.                       |
 +----------------------------------------------------------------------------------------------+
 ```
@@ -2475,6 +2519,8 @@ CP / CD / commercial bills                      Public issues / rights / placeme
 | Call money | Unsecured overnight funds | RBI-specified eligible institutions | Directions 1 Apr 2021, updated 8 Jun 2023 |
 | Notice money | Unsecured, over one day to 14 days | Same framework | Day 14 is notice, not term |
 | Term money | Unsecured, over 14 days to one year | Same framework | Do not confuse with corporate bonds |
+| WACR | Transaction-value-weighted overnight unsecured call rate | Market transactions; RBI operating target | Not identical to the policy repo rate |
+| SDF / MSF | Standing corridor floor / ceiling | RBI liquidity framework | Facilities, not market instruments |
 | Market repo | Collateralised sale-repurchase finance | Eligible entities and collateral under directions | 11 Nov 2025; excludes RBI LAF/MSF operations |
 | TREPS | Triparty-repo dealing and settlement mechanism | Members under platform rules; CCIL supports CCP clearing | Current successor to CBLO |
 | T-Bill | Central Government discount security; 91/182/364 days | Government of India; RBI auction | No coupon; par redemption |
@@ -2483,6 +2529,7 @@ CP / CD / commercial bills                      Public issues / rights / placeme
 | Short-term NCD | Secured instrument under the 2024 directions; 90 days-1 year | Eligible issuers | Do not generalise this special definition to every NCD |
 | CD | Negotiable unsecured money-market instrument; bank CD 7 days-1 year | SCBs, RRBs and SFBs; AIFI rules separate | 4 Jun 2021; demat; Rs 5 lakh; primary T+1 |
 | Commercial bill | Trade receivable embodied in a bill | Buyer-seller-bank chain | Distinct from a Treasury Bill |
+| TReDS | Electronic discounting of accepted MSME receivables | MSME seller, buyer and competing financiers | Not TREPS; buyer acceptance is essential |
 
 **Settlement thresholds:** CP/short-term NCD primary settlement no later than T+4; OTC secondary
 settlement T+0/T+1. CD primary issue T+1; OTC secondary settlement T+0/T+1 through DvP.
@@ -2509,13 +2556,15 @@ settlement T+0/T+1. CD primary issue T+1; OTC secondary settlement T+0/T+1 throu
 |---|---|
 | Debt | Contractual creditor claim with promised service and priority |
 | Equity | Residual ownership and loss-bearing claim; no promised maturity |
-| Preference share | Preferential economic rights but legally equity |
+| Preference share | Preferential economic rights but legally equity; may be cumulative, convertible, redeemable or participating |
 | Secured debenture | Charge over specified assets |
 | Unsecured debenture | Relies on general issuer credit |
 | Convertible debenture | Debt can convert into equity under contractual terms |
 | IPO | First public offer by an unlisted issuer |
 | FPO | Public offer by an already listed issuer |
 | Rights issue | Offer to existing holders on record date under entitlement |
+| Book building | Investors bid within a price band to support issue-price discovery |
+| Bonus issue | Reserves capitalised into share capital; no fresh funds and no immediate proportionate dilution |
 | Private placement | Offer to a selected group within the legal cap |
 | QIP | Listed issuer places eligible securities with Qualified Institutional Buyers |
 | Fresh issue | Proceeds ordinarily reach issuer |
@@ -2545,6 +2594,8 @@ retains all rights and liabilities. **NDS-OM current status:** Directions dated 
   systems, regulated financial entities and public-debt operations within statute.
 - **SEBI — Securities and Exchange Board of India:** public/listed securities, recognised exchanges,
   clearing corporations, depositories, intermediaries, disclosure and market conduct.
+- **IFSCA — International Financial Services Centres Authority:** unified regulator for banking,
+  capital-market, insurance and fund-management activity within GIFT IFSC; not the regulator for all India.
 - **CCIL — Clearing Corporation of India Limited:** central-counterparty and settlement functions in
   covered G-Sec, repo and related markets.
 - **NSE/BSE:** National Stock Exchange / BSE Limited, recognised stock exchanges.
@@ -2570,7 +2621,7 @@ retains all rights and liabilities. **NDS-OM current status:** Directions dated 
 RBI liquidity / expected policy path / inflation outlook
                          |
                          v
-             overnight and money-market rates
+       SDF floor <- WACR / policy repo influence -> MSF ceiling
                          |
                          v
         T-Bill rates -> G-Sec yield curve -> debt benchmark
@@ -2600,6 +2651,11 @@ weaken or redirect transmission.
 14. CCP risk management is not a price guarantee.
 15. T+0 is optional same-day settlement, not universal real-time settlement.
 16. Retail access is not suitability, liquidity or return insurance.
+17. WACR is a market operating target; SDF and MSF form corridor boundaries.
+18. TReDS discounts accepted MSME invoices; TREPS is triparty repo.
+19. A bonus issue capitalises reserves but brings no fresh cash or instant wealth.
+20. IFSCA's unified jurisdiction applies within GIFT IFSC, not throughout India.
+21. A rating downgrade can widen credit spread and lower bond price; a rating is not insurance.
 
 ### K. Mains architecture
 
@@ -2616,4 +2672,3 @@ Topic 7 owns cash-market instruments, issuance routes, G-Sec mechanics, infrastr
 regulatory perimeter. Topic 8 owns detailed futures, options, swaps, mutual funds, exchange-traded funds,
 alternative investment funds and hedging strategy. Topic 7 may name them only to classify a claim or mark
 a boundary.
-

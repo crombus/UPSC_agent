@@ -1,0 +1,166 @@
+```
+ASCII MASTER FLOW -- TOPIC 23: THE MARATHAS, SHIVAJI & AURANGZEB'S DECCAN; JAGIRDARI CRISIS (16 panels)
+
+[1] DEFINITION & SETTING
+  Topic 23 = Marathas' regional state formation under Shivaji (to 1680) + Aurangzeb's Deccan
+  annexation and prolonged war (1680s-1707) + the jagirdari fiscal-administrative crisis that
+  followed.
+  Sahyadri ridge + Maval upland valleys + Konkan coastal creeks -> distributed base:
+    ridge = passes/mobility | Maval = forts/supply | Konkan = customs/coastal contact/rival powers
+  CAUTION: terrain enabled, but did not by itself create, Maratha state power (no geography-
+  determinism).
+
+[2] DECCAN SERVICE FIELD & SHAHJI BHONSLE
+  Nizam Shahi Ahmadnagar (collapsing) -> Bijapur / Mughal / Golconda-adjacent service world.
+  Shahji Bhonsle: mobile service politics, incl. support for a Nizam Shahi claimant -> Poona
+  jagir/household. NOT a hereditary anti-Mughal crusade; NOT proto-nationalism.
+  Jija Bai = household legitimacy/local authority (bounded); Dadoji Konddev = secure
+  administrative actor in the Poona setting (not sole state-architect).
+
+[3] STATE FORMATION: JAVLI -> FORTS -> AFZAL KHAN
+  Javli, 1656: the More family's position removed -> Maval-Satara-Konkan routes opened
+  (territorial capacity gained, not abolition of all hereditary rights).
+  First forts, 1645-47 -> expanding fort-anchored base.
+  Afzal Khan's death, Pratapgad, 1659: secure core (mutual suspicion, his death, Maratha
+  gains) is certain; the exact first-blow sequence is bakhar-genre dependent, not primary
+  certainty.
+
+[4] MUGHAL CONTACT: SHAISTA KHAN -> SURAT -> PURANDAR -> AGRA
+  1663: Poona night raid on Shaista Khan (bold strike, dents Mughal prestige; not a war-
+  ending blow).
+  1664: first sack of Surat (commercial disruption; factory records = merchant source, not
+  a neutral or administrative one).
+  1665: Jai Singh's siege+diplomacy -> Treaty of Purandar: 23/35 forts transferred, 12
+  retained, Sambhaji granted mansab 5000 (incorporation attempt, NOT a final or
+  unconditional surrender).
+  1666: Agra detention -> prestige/rank crisis -> escape (secure); the basket-escape DETAIL
+  is a popular-narrative element whose provenance is separately flagged, not an
+  administrative record.
+
+[5] SOVEREIGNTY: CORONATION & LEGITIMACY
+  1674 Raigad coronation: Gaga Bhatta validates Kshatriya status -> Rajyabhisheka Shaka
+  (royal era used on later documents/coins = bounded dating evidence, not a modern
+  calendar reform).
+  Legitimacy idiom = Hindu royal symbolism + Persianate administrative institutions + Muslim
+  officers together -> plural legitimacy, NOT an exclusive Hindu-state formula.
+
+[6] ADMINISTRATION: ASHTAPRADHAN & FORT-LOCAL CHECKS
+  Ashtapradhan (8 offices: Peshwa, Amatya/Mazumdar, Sachiv, Mantri/Waqia-navis, Sumant/Dabir,
+  Senapati, Nyayadhish, Panditrao) -> each individually ruler-responsible (NOT a collective
+  cabinet answerable to a legislature); several offices combine civil+military duties.
+  Fort level: Havaldar/sabnis command-store-record roles = a local administrative check.
+  Village/provincial level: patils, kulkarnis, deshmukhs retained (illegal exactions curbed,
+  hereditary local rights NOT abolished).
+
+[7] REVENUE & FISCAL CLAIMS
+  Annaji Datto's assessment, c.1679: strengthens jama (assessed demand) estimation; jama is
+  not the same as hasil (realised collection) -- the gap is source-specific, not a universal
+  rate.
+  Chauth = one-fourth protection-linked claim (origin) -> widened into a political/fiscal
+  claim over time.
+  Sardeshmukhi = a separate ten-per-cent superior-deshmukh claim.
+  Chauth and sardeshmukhi must stay distinct (different rate AND rationale); collection is
+  not the same as settled sovereignty.
+
+[8] MILITARY, NAVAL & FORT NETWORK
+  Cavalry: bargir (state-provided horse) + silhedar (own horse); Mavali infantry; fort
+  garrisons; intelligence networks.
+  Remuneration MIXED: cash pay + plunder shares + local (mokasa-type) assignments -- not
+  all-cash, not all-plunder.
+  Ganimi kava = a repertoire of surprise, information, supply-disruption and avoidance of
+  unfavourable battle; it COEXISTED with siege-holding (Panhala) and pitched battle (Salher)
+  -- it does not exclude conventional warfare.
+  Navy: gunboats, grabs, gallivats + trading/supply craft, based at Sindhudurg/Vijaydurg --
+  a REGIONAL LITTORAL force (coastal defence, anti-Sidi operations, trade protection), NOT a
+  blue-water empire navy.
+  Fort network: storage + observation + signalling + short-radius movement across linked
+  (not isolated) nodes.
+
+[9] SUCCESSORS: SAMBHAJI -> RAJARAM/GINGEE -> TARABAI
+  Sambhaji (r.1680-89): succession constrained by Prince Akbar's alliance and Mughal
+  pressure; captured at Sangameshwar, executed 1689 -- this removed a recognised
+  negotiating head but did NOT end resistance; it shifted resistance toward dispersed
+  commanders, forts and fiscal claims.
+  Rajaram: escaped to Gingee (Jinji) for strategic depth; the fort itself fell only in
+  1698, AFTER Rajaram had already escaped -- a fort's fall is not the same as its ruler's
+  capture.
+  Santaji Ghorpade, Dhanaji Jadhav, Ramchandra Pant Amatya and Shankaraji Narayan sustained
+  command, fiscal and administrative functions through decentralisation (not one
+  frictionless organisation).
+  Rajaram d.1700 -> Tarabai becomes regent for her son Shivaji II.
+
+[10] AURANGZEB'S ANNEXATION & PROLONGED WAR
+  Bijapur annexed 1686 -> Golconda annexed 1687: removed buffer states that had mediated
+  Deccan politics; added territory, revenue claims and nobles, but ALSO required garrisons,
+  administration and long, disturbed communications.
+  'Aurangzeb won Bijapur and Golconda but lost the Deccan' = an analytical paradox
+  distinguishing MAP-CONQUEST from governable, revenue-realising authority -- not a
+  contemporary court verdict, and not proof the annexations achieved nothing.
+  1700-05: a repetitive siege-recapture dynamic around Gingee and other forts --
+  operational success with weak strategic return.
+
+[11] JAGIRDARI CRISIS MECHANISMS (multi-causal, NOT one single cause)
+  Rank inflation: Mughal khanazads + absorbed Deccani nobles/soldiers + Maratha-origin
+  mansabdars all compete for a limited pool of productive jagirs.
+  Be-jagiri = a shortage of assignable productive jagirs (claimant pressure).
+  Jama-hasil gap = assessed revenue exceeding what is actually collected (the illustrative
+  worked example 'jama 100, hasil 55' is a TEACHING MODEL, not a verified district
+  statistic).
+  Paibaqi = land recorded as unassigned/awaiting assignment; paper status does not equal
+  realised income.
+  Short jagirdar tenure/frequent transfers: meant to prevent entrenchment, instead
+  encouraged quick extraction, bribery and factional competition -- weakening troop
+  maintenance.
+  War disruption (long Deccan campaigns) -> lower realised hasil -> poorer jagir quality ->
+  weaker troop maintenance -> more campaigning needed -> loop repeats.
+
+[12] LOCAL POWER & MULTI-CAUSAL CONSEQUENCES
+  Zamindars, deshmukhs and local armed groups = neither pure officials nor simple landlords
+  -- they bargained, resisted, or struck private pacts amid PARALLEL Mughal jama-hasil gaps
+  and Maratha chauth claims in the same district, making sovereignty negotiable in practice.
+  Consequence chain: long communications raise logistics costs -> campaigning disturbs
+  hasil -> poorer jagir quality weakens troop maintenance -> troop shortfalls make
+  campaigning harder -> repeated campaigns intensify the disturbance (a closed loop, not a
+  single 1707 event).
+  Matured under the Deccan war; interacts with Topic 22's Rajput rupture/religious-policy
+  legitimacy issues; feeds the post-1707 transition that Topic 25 analyses in full
+  (boundary, not scope creep).
+
+[13] SOURCES, HISTORIOGRAPHY & FACT-RISK LEDGER
+  Genres show different things: Sabhasad Bakhar (courtly Maratha memory) | Mughal Persian
+  chronicles (imperial perception; 'rebel/bandit' vocabulary is state perspective, not
+  neutral description) | European factory records (commercial disruption/rumour, not
+  Maratha ledgers) | forts/coins/inscriptions (capacity, legitimacy, spatial organisation).
+  Historiographical frames (nationalist / communal / Marxist-peasant / regional-state) must
+  be tied to evidence, not asserted as automatically complete.
+  FACT-RISK LEDGER (six items needing qualified language): early-fort action wording;
+  Afzal Khan's exact first blow; Agra's basket-escape detail; revenue-incidence figures;
+  Hindavi Swarajya's provenance; navy size (must not be inflated).
+
+[14] PYQ STATUS, ANSWER SPINE & TRAPS
+  No verified DIRECT Topic-23 Prelims PYQ exists for 2018-2026; the 2018/2019/2022/2024
+  items are ROUTED to other topics (a Modern-History keyword hit; Topic 24 Mughal
+  administration; Modern-era European settlements; Topic 09 Indian-Ocean trade/ports) on
+  subject-matter grounds -- marks are NOT item-stated in the official record, so a fixed
+  mark value should not be asserted.
+  ANSWER SPINE: (1) frame geography as enabling, not determining -> (2) state formation via
+  forts, revenue and legitimacy, not romantic myth -> (3) plural legitimacy plus a real
+  administrative structure -> (4) a multi-causal jagirdari crisis, not 'too many
+  mansabdars' alone -> (5) qualify contested details using the fact-risk ledger.
+  RECURRING TRAPS: geography-determinism; treating Purandar or the coronation as final;
+  collapsing chauth/sardeshmukhi into one claim; inflating the navy to blue-water scale;
+  single-cause jagirdari-crisis claims; conflating a fort's fall with its ruler's capture.
+
+[15] HERITAGE & CURRENT LINKAGE (dated, bounded; not historical proof)
+  2025: UNESCO's 'Maratha Military Landscapes' listing names twelve component forts --
+  present-day heritage recognition, usable as a bounded bridge into the historical
+  argument, NOT primary evidence for any specific seventeenth-century battle or force size.
+  2026: a PIB conservation/site-management release -- a separate, later, administratively
+  distinct item; it must not be merged with the 2025 listing or treated as seventeenth-
+  century evidence.
+
+[16] TOPIC BOUNDARY (scope discipline)
+  Topic 18 = Mughal policy through 1657 | Topic 22 = religion/Rajput/North India |
+  Topic 23 (HERE) = Marathas/Shivaji/Aurangzeb's Deccan/jagirdari crisis |
+  Topic 24 = society/economy/culture | Topic 25 = post-1707 confederate period.
+```

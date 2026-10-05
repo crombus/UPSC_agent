@@ -1,0 +1,13 @@
+# Medieval History MCQ continuation pipeline
+
+**Queue:** Fix and finish Topic 09, then Topic 10, then Topics 11–25 in catalogue order. This supersedes the earlier deferral of Topic 09. Topics 01–08 retain the independent official-PYQ holds recorded in their own ledgers. Do not call the subject complete until *all* topic and historical release holds are addressed.
+
+At the start of **every** scheduled or interactive continuation:
+
+1. Read `AGENTS.md`, `AGENT_MEMORY.md`, `final-mcq/INSTRUCTIONS.md`, this pipeline and the active topic's `COVERAGE.md`. Run `python final-mcq/tools/medieval_pipeline.py`; obey its `NEXT` topic and address any structural errors before adding questions. If pending, read its full Basic owner, then Advanced, workbook/PYQ records and relevant OCR PDFs before writing.
+2. Pick the first uncovered decision in the active topic's ledger. Save a substantial, source-checked batch of distinct original questions, separate A–D explanations and examiner traps in the three revision folders. Preserve answer-free question papers. When one source fact is disputed, document the hold and choose other substantiated decisions; never stall the entire subject solely to force that fact into an answer.
+3. Update the three revision ledgers, root ledger and index with **actual** status and the first remaining gap. Run the progress command again and inspect its findings. A mechanical 1:1 match does not demonstrate blind difficulty, factual correctness, full coverage, independent editorial approval or PYQ rights.
+4. Advance to the next topic only after each revision independently covers the topic and passes source, distractor, cross-set-duplication and answer-free blind review. The official-PYQ census and exact-reproduction rights must be verified or explicitly held; do not insert exact protected questions or invent keys. If a hold prevents completion, keep `in_progress`/`blocked`, name the precise hold, and keep working on other grounded decisions. Never silently skip an unfinished topic or mark it complete to make the queue advance.
+5. A CLI reply ends its turn; continuation depends on the **active repeating schedule**, not the prose promise to keep working. The scheduled prompt must rerun this pipeline, make actual file progress rather than send status-only replies, and stop itself only when every release gate is genuinely met. If scheduling is unavailable, explicitly report that autonomous continuation is unavailable.
+
+The command is a read-only resume/structural gate. It cannot author questions, authenticate official UPSC keys, grant reproduction permission, or certify a finished set. Schedule cadence is configured in the CLI, not by this Markdown file.

@@ -43,8 +43,8 @@ ALLAHABAD / DIWANI 1765 -> LEGAL-FISCAL TITLE: revenue authority institutionalis
 RULE -> Plassey alone did not complete Company sovereignty over Bengal.
 
 ASCII MASTER FLOW — PANEL 8/12: Allahabad, Diwani, Nizamat and the Awadh buffer
-SHAH ALAM II SETTLEMENT -> Company receives Diwani of Bengal, Bihar and Orissa
-SHUJA-UD-DAULA SETTLEMENT -> Awadh restored as a strategic buffer, not annexed
+12 AUG 1765, SHAH ALAM II -> Company receives Diwani of Bengal, Bihar and Orissa
+16 AUG 1765, SHUJA-UD-DAULA -> Awadh restored as a strategic buffer, not annexed
 DIWANI -> revenue / civil side | NIZAMAT -> nominal police, criminal and military side
 CAUTION -> Diwani was not Nawabship and the legal split was not equal power-sharing.
 
@@ -58,7 +58,7 @@ ASCII MASTER FLOW — PANEL 10/12: Famine, accountability and the 1772 terminati
 1770 FAMINE -> harvest failure / drought and disease create the natural shock
 DUAL GOVERNMENT -> revenue rigidity and administrative confusion amplify vulnerability
 CAUTION -> Company policy mattered but did not alone cause drought or the catastrophe
-HASTINGS 1772 -> ends Dual Government; direct administration bridges to Topic 06.
+HASTINGS 1772 -> ends Dual Government; direct administration precedes later constitutional regulation.
 CLOSE DISTINCTION: Plassey enabled political leverage through conspiracy and finance; Buxar
   established a broader military-fiscal superiority against Mir Qasim, Shuja-ud-Daula and Shah
   Alam II.
@@ -67,12 +67,12 @@ ASCII MASTER FLOW — PANEL 11/12: Company-state, early drain mechanism and hist
 TRADE PRIVILEGE -> kingmaking -> Diwani -> revenue funds purchases and armies
 INDIAN AGENCY -> collaboration, resistance and administration operate under unequal power
 LENSES -> nationalist extraction | collaboration | corporate-fiscal state | Bengal continuity
-2026 MEMORY ANCHOR -> revisit Plassey beyond betrayal; static causation remains book-grounded.
+MEMORY ANCHOR -> read Plassey through finance, faction and force, not betrayal alone.
 EVIDENCE LIMIT: Company records and later nationalist accounts must be checked against Bengal
   court, banking and revenue evidence; conquest was contingent, collaborative and coercive.
 
-ASCII MASTER FLOW — PANEL 12/12: Topic 04 answer spine and boundaries
+ASCII MASTER FLOW — PANEL 12/12: Answer spine and chapter boundaries
 OPEN -> sovereignty conflict over privilege, private trade, fortification and jurisdiction
 TRACE -> conspiracy / client regime -> reform and war -> Buxar -> Diwani -> Dual Government
 WEIGH -> collaboration + Company capacity; famine is multicausal; reject false precision
-CLOSE -> 1772 ends this topic; expansion and 1773+ regulation pass to Topics 05-06.
+CLOSE -> 1772 ends this chapter; wider expansion and 1773+ regulation follow.

@@ -10,7 +10,7 @@ variant: learner-v2
 
 ### How to use this workbook
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap. The previous-year questions reproduce the official printed wording exactly; **the model answers are independent learner practice and are never official UPSC keys.**
+Coverage, not an arbitrary fixed quota, determines the 33 diagnostics; evaluate all four explanations and the examiner trap. Previous-year stems reproduce the audited printed wording; **model answers are independent practice, never official UPSC keys.**
 
 ### What is inside
 
@@ -18,14 +18,15 @@ Attempt every item before reading its key. The correct option position was fixed
 |---|---|---:|
 | 1 | Core diagnostic MCQs | 24 |
 | 2 | Remedial diagnostic MCQs | 8 |
-| — | Question-specific option explanations | 128 |
-| — | Unique examiner traps | 32 |
+| — | Additional hard boundary discriminator | 1 |
+| — | Question-specific option explanations | 132 |
+| — | Unique examiner traps | 33 |
 | 3 | Verified previous-year questions, fully solved | 7 |
-| 4 | Original solved Mains models (2 × 10, 2 × 15, 2 × 20) | 6 |
+| 4 | Original solved Mains models (six baseline; Cārvāka–Mīmāṃsā extension) | 7 |
 
 ### Marking and timing conventions
 
-- Word bands: 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words.
+- Plan timed attempts around the marks and directive; full PYQ solutions have no prescribed word ceiling.
 - Every model answer follows **claim → named evidence → analysis → qualification**.
 - Every model answer closes with a decided verdict, and the twenty-mark models additionally name the **defeater** that would change that verdict.
 - **Standing penalties in this clause:** an answer with no stated definition of religion; "atheistic" written where "non-theistic" is meant; Cārvāka offered as an instance rather than as the limit; the Mīmāṃsā Veda called revelation; and any invented year for Smart, Feuerbach, Freud or Comte.
@@ -36,161 +37,394 @@ English-first throughout. The English concept leads; the accurate Sanskrit, Pali
 
 ## BASIC MCQS / REMEDIATION
 
+Attempt the full MCQ set before consulting the answer key and option explanations at the end of this section.
+
 ### Practice protocol
 
-Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap.
+The final discriminator among 33 tests criteria for classifying religion without a creator. Examine each option and its examiner trap.
 
 #### CORE DIAGNOSTIC MCQS — 24
 
-#### MCQ 1. The definition that decides the whole clause
+#### MCQ 1. A definition that begs the question against creatorless traditions
 
-Which kind of definition of religion, once adopted in an answer's opening lines, by itself settles whether religion without God is possible?
+An examiner offers Buddhism's path of liberation and Mīmāṃsā's ritual obligation as apparent cases of religion without a creator. Which proposed *reply* avoids merely stipulating them out of the category while still allowing a substantive assessment?
 
-A. A family-resemblance definition, which needs one feature that every member of the religious family must possess before it can classify at all.
-
-B. A substantive definition, which fixes religion by the kind of object affirmed and can therefore build a personal creator into the concept itself.
-
-C. A multidimensional definition, on which Smart's doctrinal, mythic, ethical, ritual, experiential, social and material dimensions are jointly compulsory.
-
-D. A functional definition, which fixes religion by orientation, practice, community and liberation and therefore rules non-theistic traditions out.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: a family-resemblance account expressly denies that any single feature must be shared by every member, which is precisely why it cannot make belief in a creator necessary.
-- **B:** Correct: substantive definitions identify religion by its object, so a God- centred version makes theism analytically necessary and decides the clause by stipulation rather than by evidence drawn from actual traditions.
-- **C:** Incorrect: Smart's dimensions are the standard argument against creator- necessity, and belief in a creator God does not appear on his essential list at all, so this reverses the point of citing him.
-- **D:** Incorrect: functional definitions do the opposite work, since orientation, practice, community and liberation are all available to Buddhism, Jainism and classical Mimamsa without any creator.
-
-**Examiner trap 1:** Scripts that never state which definition of religion they are using lose the clause in the first paragraph; announce the definition, defend it in one line, then apply it consistently to every case you cite.
+A. State the proposed criterion of religious life independently—practices directed at an ultimate order and liberation—then test both traditions on that criterion while separately asking which functions truly require a personal God.
+B. Require every tradition to instantiate all of Smart's dimensions, including theistic worship, and treat absence of any single dimension as disqualifying evidence.
+C. Accept any institution demanding sacrifice and providing community as a religion, since this guarantees the two examples' inclusion without further discriminating criteria.
+D. Define religion as belief in a world-creator, then cite the two traditions' lack of a creator as independent proof that they are not religions.
 
 #### MCQ 2. Repairing an over-broad functionalism
 
 A functional definition is challenged on the ground that it makes nationalism a religion. Which repair keeps the Indian non-theistic cases in and ideology out?
 
-A. Add a disciplined, socially embodied relation to an ultimate or sacred order together with a transformative or soteriological practice.
-
-B. Add that any commitment demanding sacrifice, generating solidarity and organising collective observance already counts as religious.
-
-C. Add a historical restriction confining religion to traditions founded before the modern period and possessing continuous institutional life.
-
-D. Add a requirement of belief in miracles or supernatural intervention, while leaving the question of a personal creator open for each tradition.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: this is the owner's working sufficient cluster; the non-theistic traditions all possess a sacred order and a liberation-directed discipline, while commitments that merely supply meaning and belonging do not.
-- **B:** Incorrect: this widens the definition further rather than narrowing it, because sacrifice, solidarity and a calendar of collective observance are exactly what nationalism already supplies.
-- **C:** Incorrect: an age test tracks nothing conceptual, would admit ancient non-religious ideologies and would arbitrarily expel later religious movements that meet every substantive criterion.
-- **D:** Incorrect: a miracle test is both too narrow, since Mimamsa's ritual efficacy is law-like rather than miraculous, and simply irrelevant to the over-breadth complaint that has been raised.
-
-**Examiner trap 2:** Do not answer the nationalism objection by abandoning functionalism; the mark is earned by adding the sacred-order and soteriological conditions, not by retreating to a God-centred definition.
+A. Add a requirement of belief in miracles or supernatural intervention, while leaving the question of a personal creator open for each tradition.
+B. Add a disciplined, socially embodied relation to an ultimate or sacred order together with a transformative or soteriological practice.
+C. Add that any commitment demanding sacrifice, generating solidarity and organising collective observance already counts as religious.
+D. Add a historical restriction confining religion to traditions founded before the modern period and possessing continuous institutional life.
 
 #### MCQ 3. The function that really does need a deity
 
 On the owner's table of religious functions, which one most clearly does require a personal deity, so that a candid answer has to concede it?
 
-A. Liberation or salvation, since release from the human predicament must be bestowed by an agent who is genuinely able to grant it.
-
-B. Ritual efficacy, since an unseen potency released by correct performance cannot operate unless an intelligent agent supervises the sequence.
-
-C. Moral motivation, since obligation collapses into mere preference unless a commanding will attaches reward and punishment to conduct.
-
-D. Petitionary prayer, since a responsive addressee who can hear, choose and grant is built into the structure of petition itself.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: liberation as a generic function is exactly what nirvana, Jain liberation and Samkhya-Yoga isolation deliver without a creator; only grace in its personal-agency sense requires a giver.
-- **B:** Incorrect: Mimamsa's unseen ritual potency (apurva) secures efficacy with no supervising agent at all, and Buddhist and Jain disciplines are held to be efficacious without one either.
-- **C:** Incorrect: compassion, non-injury, karma, vows, insight and human flourishing all supply motivation here, and the full dependence question is routed to the Religion and Morality owner in any case.
-- **D:** Correct: petition is relational by structure, so meditation, aspiration and recitation perform other work without being petition in the same sense; conceding this separates a strong script from a sweeping one.
-
-**Examiner trap 3:** Answering that God is required for nothing whatever looks bolder but scores lower; name petition, grace and covenant as genuinely theistic goods and then show that religion as such does not depend on them.
+A. Ritual efficacy, since an unseen potency released by correct performance cannot operate unless an intelligent agent supervises the sequence.
+B. Moral motivation, since obligation collapses into mere preference unless a commanding will attaches reward and punishment to conduct.
+C. Petitionary prayer, since a responsive addressee who can hear, choose and grant is built into the structure of petition itself.
+D. Liberation or salvation, since release from the human predicament must be bestowed by an agent who is genuinely able to grant it.
 
 #### MCQ 4. Non-theism, atheism and the firewall between them
 
 Which statement draws the distinction between non-theism and atheism with the precision this clause demands?
 
-A. Non-theism denies every god, spirit and sacred being, while atheism denies only the single omnipotent creator of classical monotheistic religion.
-
-B. Non-theism means a creator is absent from a tradition's diagnosis and path, whereas atheism is the positive denial that God exists at all.
-
-C. Non-theism is a politer name for atheism, adopted so that Buddhism and Jainism can be described without giving needless offence to their living practitioners.
-
-D. Non-theism holds that God's existence is unknown or unknowable, while atheism merely suspends judgement until further evidence happens to arrive.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this inverts the scope of both terms, since the whole purpose of the non-theistic label is that it leaves lesser deities and devotional practice entirely untouched.
-- **B:** Correct: the owner's firewall is that rejecting a creator does not entail denying every deity, sacred being, devotional act or transcendent value, so absence from the path and denial of existence are different claims.
-- **C:** Incorrect: the distinction is doctrinal rather than diplomatic, since Theravada Buddhism admits cosmological gods while denying both their creatorhood and their salvific ultimacy.
-- **D:** Incorrect: this swaps the standard definitions of agnosticism and atheism and then attaches the wrong one to non-theism, collapsing three separate positions into a single confusion.
-
-**Examiner trap 4:** Writing 'Buddhism is atheistic' in the opening line concedes the theist's framing and invites the reply that a godless system cannot be a religion; write 'non-theistic' and state what the word leaves standing.
+A. Non-theism is a politer name for atheism, adopted so that Buddhism and Jainism can be described without giving needless offence to their living practitioners.
+B. Non-theism holds that God's existence is unknown or unknowable, while atheism merely suspends judgement until further evidence happens to arrive.
+C. Non-theism denies every god, spirit and sacred being, while atheism denies only the single omnipotent creator of classical monotheistic religion.
+D. Non-theism means a creator is absent from a tradition's diagnosis and path, whereas atheism is the positive denial that God exists at all.
 
 #### MCQ 5. Both deliverables of the agnosticism question
 
 The 2023 question asks what agnosticism is and how agnostics conceptualise the relation between religion and God. Which answer supplies both halves?
 
-A. The claim that the word 'God' carries no determinate meaning, together with the view that the existence question cannot even be coherently formulated.
-
-B. Indifference to the question of God, together with the view that religion is an aesthetic preference comparable to a private taste in music or in painting.
-
-C. Suspension of judgement about God, subdivided into weak and strong forms, with continued valuing of religion's ethical and experiential dimensions.
-
-D. Denial of God's existence on evidential grounds, together with the view that religion is a purely social institution that carries no cognitive content whatever.
-
-**Answer: C.**
-
-**Option explanations:**
-
-- **A:** Incorrect: that is the meaning-first position sometimes labelled ignosticism, whereas agnosticism accepts the question as intelligible and reports it to be unsettled or unsettleable.
-- **B:** Incorrect: indifference is a fourth position that the owner tells you to keep apart from suspension of judgement, which is an epistemic stance held for stated reasons about evidence.
-- **C:** Correct: the stem prints a definition task and a positional task, so the answer must define, sub-divide into 'not known' and 'unknowable', and then state the graded religiosity that withholds assent while retaining practice.
-- **D:** Incorrect: denial is atheism rather than agnosticism, and the reduction of religion to a social institution is a further thesis that suspension of judgement does not by itself entail.
-
-**Examiner trap 5:** Half-answers that define agnosticism and stop forfeit the second printed deliverable; the stem asks how agnostics relate religion and God, so the graded-religiosity paragraph is compulsory.
+A. Suspension of judgement about God, subdivided into weak and strong forms, with continued valuing of religion's ethical and experiential dimensions.
+B. Denial of God's existence on evidential grounds, together with the view that religion is a purely social institution that carries no cognitive content whatever.
+C. The claim that the word 'God' carries no determinate meaning, together with the view that the existence question cannot even be coherently formulated.
+D. Indifference to the question of God, together with the view that religion is an aesthetic preference comparable to a private taste in music or in painting.
 
 #### MCQ 6. Why the creator hypothesis is idle in Buddhism
 
 In the Buddhist account, what makes the creator hypothesis explanatorily unnecessary for the problem the tradition sets itself?
 
-A. Dependent origination with karma explains how suffering arises from conditions and ceases when they go, so a maker adds no step to that sequence.
-
-B. The Buddha demonstrated by inference that no first cause of the world can exist, which closes the cosmological route to God permanently.
-
-C. The monastic community allocates karmic fruits to practitioners, taking over the task a divine superintendent would otherwise have to perform.
-
-D. Liberation itself functions as an impersonal first cause from which the conditioned world is derived, so the explanatory role is occupied.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: craving and ignorance condition suffering and the path removes the conditions, so a creator neither enters the diagnosis nor performs work in the cure, which makes the hypothesis idle rather than refuted.
-- **B:** Incorrect: no such demonstration is claimed anywhere in the owner; the case is that the creator hypothesis is idle for the therapeutic problem, not that its impossibility has been proved.
-- **C:** Incorrect: no community allocates karmic results in this account; the Sangha sustains practice and transmission, while the moral-causal order operates as law rather than as administration.
-- **D:** Incorrect: nirvana is the goal of the path rather than a cosmological origin, and treating it as a first cause quietly reimports the very creator structure that Buddhism manages without.
-
-**Examiner trap 6:** Do not argue that Buddhism disproves God; argue that it dispenses with God, since the printed stems ask whether religion is possible without God, not whether God has been refuted.
+A. Liberation itself functions as an impersonal first cause from which the conditioned world is derived, so the explanatory role is occupied.
+B. Dependent origination with karma explains how suffering arises from conditions and ceases when they go, so a maker adds no step to that sequence.
+C. The Buddha demonstrated by inference that no first cause of the world can exist, which closes the cosmological route to God permanently.
+D. The monastic community allocates karmic fruits to practitioners, taking over the task a divine superintendent would otherwise have to perform.
 
 #### MCQ 7. The undeclared questions, used at their real scope
 
 What is the correct examination use of the Buddha's undeclared questions (avyakata) in a religion-without-God answer?
 
 A. They show that the Buddha treated all religious language as meaningless, anticipating the verification principle by more than two millennia.
-
 B. They record the Buddha's own uncertainty, so Buddhism is best classified as a developed form of strong agnosticism about the divine.
-
 C. They concern particular speculative issues the path does not require, and must not be offered as the whole Buddhist case against a creator.
-
 D. They are a formal declaration that no divine being of any kind exists, which is why Buddhism is properly classified as an atheistic religion.
+
+#### MCQ 8. Gods inside the cosmology, and devotional Mahayana
+
+Which statement handles gods within Buddhism, and later devotional Mahayana, without conceding the theist's point?
+
+A. Devotional Mahayana shows that Buddhism became straightforwardly theistic, so only the earliest Buddhism can still count as evidence against creator-necessity.
+B. Because gods appear in the cosmology, Buddhism is covertly monotheistic and its non-theism is really a modern Western reconstruction of the living tradition.
+C. Buddhist teaching requires denial of every god, so any text that mentions them must be treated as a later devotional corruption of the original doctrine.
+D. Gods and Brahma figures remain impermanent beings inside rebirth, and Buddhas and bodhisattvas may carry devotional functions without becoming a creator.
+
+#### MCQ 9. What orients Buddhist religious life
+
+Which formulation of what organises Buddhist religious life, in the absence of a creator, is the most defensible in an answer?
+
+A. Teaching, community and liberation organise doctrine, practice and value without working as one-for-one substitutes for a personal creator.
+B. Dharma occupies the place of God, the Sangha the place of the church and nirvana the place of heaven, so the two religious structures map onto each other one to one.
+C. Meditative attainment alone organises Buddhist life, since ethics and community are later cultural additions rather than constitutive parts of the path.
+D. The Four Noble Truths function as revealed propositions from an authority whose reliability has first to be accepted on faith before practice can begin.
+
+#### MCQ 10. The Jain case against a creator
+
+Which pair of considerations captures the Jain argument against a creator God as the owner states it?
+
+A. The world is eternal and uncreated, and consciousness emerges from the body, so no soul survives that would require a maker to account for it.
+B. A perfect being has no unfulfilled motive that creating could satisfy, and an embodied creator would be limited by the embodiment that action requires.
+C. Scripture is authorless and therefore needs no divine speaker, so the whole argument from the reliability of a speaker collapses at once.
+D. Only momentary events exist, so there is no persisting agent capable of performing a single sustained act of world-creation at any point whatever.
+
+#### MCQ 11. Authorless scripture is not revelation
+
+Why must the Mimamsa Veda never be described in an answer as revelation?
+
+A. Because Mimamsa treats the Veda as literally false yet pragmatically useful for organising the ritual life of a community.
+B. Because it was composed by human seers whose insight is treated as authoritative only within the boundaries of the ritual tradition.
+C. Because it is held to be authorless, so its authority does not depend on the reliability of any speaker, whether divine or human.
+D. Because revelation there is delivered through the deities named in the mantras, who dictate the injunctions to the priesthood.
+
+#### MCQ 12. How Mimamsa defines what it studies
+
+Jaimini's Mimamsa-sutra 1.1.2 defines dharma. Which reading of that definition is accurate and examinable?
+
+A. Dharma is the eternal moral law inscribed in the nature of things and therefore knowable by unaided human reason working from the observed order of things.
+B. Dharma is whatever produces the greatest welfare, so injunctions may be revised whenever their consequences turn out on inspection to be harmful in ordinary ritual practice.
+C. Dharma is the command of a supreme being, transmitted through the Veda and enforced by the fruits that are assigned to agents in a life after death.
+D. Dharma is what is characterised by Vedic injunction and is beneficial, so it is known from injunction alone and never from perception or inference.
+
+#### MCQ 13. The argument that generates apurva
+
+Which reconstruction of the Mimamsa argument for the unseen potency (apurva) is correct in both its structure and its epistemic status?
+
+A. A momentary act cannot produce a much later fruit, so a persisting potency is postulated to bridge them and admitted as a postulate, not as something observed.
+B. A supervising deity records each performance and assigns the promised fruit at the appropriate time, and the technical term simply names the record that is kept in this way.
+C. The promised fruit is purely psychological, consisting in the confidence the performer gains from having discharged the standing injunction properly and in order.
+D. Ritual acts are observed to generate a subtle physical residue in the performer, and that residue is then directly perceived by sufficiently advanced practitioners.
+
+#### MCQ 14. Kumarila against Prabhakara
+
+How do the two classical Mimamsa schools differ in their treatment of the injunction and its fruit?
+
+A. Kumarila accepts a creator God as the guarantor of ritual efficacy, whereas Prabhakara rejects any such divine guarantor of the system entirely.
+B. Kumarila treats the unseen potency as a power in the act or agent linking deed to fruit; Prabhakara recentres the analysis on the sheer ought-to-be- done.
+C. Kumarila regards ritual as symbolic self-expression, while Prabhakara regards the ritual act itself as genuinely and causally efficacious.
+D. Kumarila holds that the Veda has a divine author while Prabhakara holds that it is authorless, which is why only the second of the two schools genuinely avoids theism.
+
+#### MCQ 15. Answering Nyaya's superintendent argument
+
+Nyaya objects that an unconscious potency cannot select the right fruit for the right agent at the right time. What is the Mimamsa reply?
+
+A. That the question of allocation is unanswerable and should be set aside in the manner of the questions the Buddha left formally undeclared.
+B. That fruits are allotted by liberated souls who have completed the ritual path and and who now supervise the operation of that path on behalf of others.
+C. That the relation is law-like rather than deliberative, and that the objection begs the question by assuming only agents can produce determinate outcomes.
+D. That the deities named in the mantras perform the selection, so an intelligent allocator is quietly retained within the ritual system after all.
+
+#### MCQ 16. Samkhya, Yoga and the non-creating Isvara
+
+Which statement handles classical Samkhya and Yoga correctly inside a religion-without-God answer?
+
+A. Both reduce liberation to the cessation of the material world itself, so the stated goal is cosmic dissolution rather than any individual release at all.
+B. Samkhya treats consciousness as a product of material evolution, which is why it needs no creator at all to explain the first arising of conscious awareness.
+C. Both systems posit a creator who superintends the evolution of nature, so neither of the two can serve as a genuine case of religion without God.
+D. Samkhya derives evolution from nature in proximity to plural selves and seeks isolation, while Yoga's special self is not straightforwardly a creator.
+
+#### MCQ 17. The route the 2025 directive is buying
+
+The 2025 question asks for Carvaka's critique of belief in suprasensible entities. Which route through the material does the directive actually buy?
+
+A. The epistemological route: perception alone is a means of knowledge, and inference fails because invariable concomitance cannot itself be established.
+B. The historical route: the school documents that religious institutions arose to secure ritual income, which explains belief in unseen entities.
+C. The ethical route: since pleasure and wealth are the only real human ends, religious goods stand exposed as fabrications serving established priestly interests.
+D. The linguistic route: terms for suprasensible entities fail a criterion of meaning, so claims that involve them turn out to be neither true nor false.
+
+#### MCQ 18. The concomitance problem, stated in full
+
+Which statement gives the Carvaka attack on inference completely, including the residue that survives however often the concomitance is observed?
+
+A. Inference is invalid because the mark and the inferred object are never once present together within any one single and complete act of perception.
+B. Concomitance is unreachable by perception, by inference and by testimony, and an unnoticed conditioning factor can never be conclusively excluded.
+C. Concomitance is known by repeated observation, but observation is unreliable because the senses are frequently deceived by illusion, by dream and by defect.
+D. Inference is valid for the supersensible but invalid for ordinary matters, since everyday judgements are contaminated by practical interest.
+
+#### MCQ 19. Self-refutation, and the two replies that are required
+
+The claim that no inference is valid looks self-refuting. Which pair of replies does the owner require an answer to supply?
+
+A. The appeal to scriptural silence, since no accepted text asserts the validity of inference anywhere in so many words, or in any equivalent formula.
+B. The appeal to practical success, since the school's followers manifestly survive and prosper in daily life while relying upon perception alone.
+C. The dialectical reading, on which the denial is pressed from inside the opponent's own commitments, and the reported strand admitting ordinary inference only.
+D. The appeal to Nyaya's devices, since repeated uncontradicted observation and hypothetical reasoning are conceded by both parties to the dispute.
+
+#### MCQ 20. Consciousness, order and the four elements
+
+Which set of Carvaka applications to religion is correctly matched to the device that supports it?
+
+A. Consciousness is a mode of one single substance, nature, and order follows from the necessity with which that single substance's own attributes unfold.
+B. Consciousness is a stream of momentary events, and order is explained by dependent conditioning that holds among those very momentary events themselves.
+C. Consciousness is an eternal substance temporarily housed in the body, and cosmic order is explained by the slow and gradual ripening of deeds performed in past lives.
+D. Consciousness emerges from the body, illustrated by intoxicating power arising from combined ingredients, and order follows from things acting by their own nature.
+
+#### MCQ 21. Why Carvaka is the limiting case
+
+Why is it a mark-earning move to deny that Carvaka is itself an instance of religion without God?
+
+A. Because it has no soteriology, sacred order, community of practice or ultimate concern, and so shows what non-theistic religions actually retain.
+B. Because its texts survive only in the works of opponents, and a tradition without its own surviving scripture cannot properly be counted as a religion.
+C. Because it denies rebirth, and any system without rebirth falls outside the recognised Indian category of religion altogether and at once.
+D. Because it is a school of philosophy rather than a tradition, and philosophy is never counted as religion within the classical Indian doxographic context.
+
+#### MCQ 22. Nietzsche's diagnosis, and who owns the question
+
+Which handling of Nietzsche is correct both philosophically and in terms of syllabus ownership?
+
+A. It is a theological thesis about divine self-emptying, so Nietzsche's target turns out to be only one particular Christian doctrine of God among many.
+B. It is a cultural diagnosis of a collapsed value horizon, and the printed question coupling religion with morality belongs to the Religion and Morality owner.
+C. It is a compressed argument for atheism, establishing by inference from the problem of evil that no deity of the traditional theistic kind exists at all.
+D. It is a historical report of declining church attendance in nineteenth- century Europe, and it therefore belongs to sociology rather than to philosophy proper.
+
+#### MCQ 23. Dewey and Dworkin on religion within nature
+
+Which pairing of thinker and thesis in religious naturalism is accurate as the owner states it?
+
+A. Dewey identifies God with the natural universe taken as a single substance, while Dworkin identifies God with humanity's own idealised and projected essence.
+B. Both hold that religious naturalism requires abandoning ritual and community, since both of these are held to be inseparable from supernatural belief.
+C. Dewey separates religion as institution from the religious as a unifying quality of experience; Dworkin rests religious atheism on value and cosmic sublimity.
+D. Dewey argues that religious language is non-assertoric make-believe, while Dworkin defends a personal God stripped of the attribute of omnipotence.
+
+#### MCQ 24. Fictionalism, error theory and non-cognitivism
+
+Which set of distinctions among the modern non-theistic positions is correct?
+
+A. Non-cognitivism and fictionalism agree that religious sentences lack truth-conditions and differ only over which of the inherited rituals ought to be retained.
+B. Fictionalism and error theory agree that the claims are false and differ only over whether that falsity ought in honesty to be publicised to ordinary worshippers.
+C. All three are versions of religious naturalism, differing only in how much reverence each of them recommends towards the natural world as it stands.
+D. Error theory calls the claims false and abandons them, non-cognitivism denies they have truth-conditions, and fictionalism grants these and declines to assert.
+
+#### REMEDIAL DIAGNOSTIC MCQS — 8
+
+#### MCQ 25. Remedial — “Buddhism is an atheistic religion”
+
+Which correction is best?
+
+A. It is better described as non-theistic, since a creator is absent from the diagnosis and path while impermanent gods and devotional practice are not denied.
+B. It is theistic in its later forms, so no single label applies and the classification question should simply be left open for each separate school.
+C. It is atheistic in the strict sense, since the undeclared questions amount to a formal doctrinal denial that any divine being whatever exists at all.
+D. It is agnostic rather than atheistic, since the Buddha suspended judgement on a creator for want of sufficient evidence pointing decisively in either direction.
+
+#### MCQ 26. Remedial — “Carvaka is the clearest religion without God”
+
+Which correction is best?
+
+A. It cannot be classified either way, because its own texts survive only inside the summaries written by its philosophical opponents.
+B. It is the limiting case, not an instance, since it lacks soteriology, sacred order, community of practice and ultimate concern, and ends in no religion at all.
+C. It is an instance, since rejecting God is the only condition that a religion without God has to satisfy before it can qualify in the first place.
+D. It is an instance, because its this-worldly ends function as a soteriology aimed at securing ordinary human flourishing within the limits of the present life.
+
+#### MCQ 27. Remedial — “the Mimamsa Veda is divine revelation”
+
+Which correction is best?
+
+A. It is a human composition whose authority rests on long communal acceptance rather than on the personal standing of any one particular speaker or author.
+B. It is revelation, but of an impersonal rather than a personal deity, so the school remains theistic in at least a weak, indirect and heavily attenuated sense.
+C. The Veda is authorless and therefore not the speech of any God, which is why arguments from the reliability of a divine speaker get no purchase on it.
+D. It is revelation given to the seers, whose authority the school then treats as intrinsically valid and therefore immune from any further external challenge.
+
+#### MCQ 28. Remedial — “apurva is an unseen force we observe in ritual”
+
+Which correction is best?
+
+A. It is a metaphor for the psychological confidence produced by having properly discharged a standing duty, and it therefore carries no ontological weight at all.
+B. It is inferred from repeated observation of ritual outcomes, in the same way that the presence of fire is regularly inferred from the observation of rising smoke.
+C. It is directly perceived by the officiating priest, which is why only properly qualified performers are permitted to conduct the rite on another's behalf.
+D. It is a postulate introduced to explain a delayed fruit, and the two schools differ over whether it is a power in the act or the sheer ought-to-be-done.
+
+#### MCQ 29. Remedial — “Nietzsche proved that God does not exist”
+
+Which correction is best?
+
+A. The declaration diagnoses that belief has become unbelievable and that dependent values now face nihilism; it is not a demonstration of non- existence.
+B. It is a proof, though an inductive rather than a deductive one, resting on the observed historical failure of the great religious institutions.
+C. It is a report that the deity of Christianity once existed in fact and has at some later point in European history ceased to exist altogether.
+D. It is a claim that the word 'God' is meaningless, so that the question of existence never actually arises for serious philosophical discussion.
+
+#### MCQ 30. Remedial — “agnosticism is a hesitant form of atheism”
+
+Which correction is best?
+
+A. Agnosticism denies God's existence but withholds public assertion of that denial for broadly social, professional and prudential reasons of an entirely personal kind.
+B. Agnosticism suspends judgement rather than denying, and subdivides into the weak claim that the matter is not known and the strong claim that it is unknowable.
+C. Agnosticism is indifference to religious questions and therefore has no bearing on the separate question of whether religion without God is possible.
+D. Agnosticism holds that religious statements are neither true nor false, so belief and disbelief turn out to be equally confused responses to them.
+
+#### MCQ 31. Remedial — “dharma and nirvana are God under other names”
+
+Which correction is best?
+
+A. The objection is correct, and non-theistic religions are therefore covert theisms that have simply changed their working vocabulary over the intervening centuries.
+B. The objection fails because dharma and nirvana perform no religious functions whatever, being purely philosophical categories of a technical kind.
+C. Functional replacement does not establish ontological identity: impersonal law is not an omniscient person, and liberation by insight is not grace bestowed.
+D. The objection fails because every religion, theistic or not, ultimately refers to to one and the same finally indeterminate ultimate reality.
+
+#### MCQ 32. Remedial — “naturalism and fictionalism are one position”
+
+Which correction is best?
+
+A. Both are versions of the two-level Indian device, and differ only over which of the two levels ought in the end to be described as the ultimate one.
+B. Both accept that religious claims are false, and differ only over whether ritual practice should nevertheless be retained by the community afterwards.
+C. Both hold that religious language lacks truth-conditions, and differ only over the role that a community ought to play in a continuing religious life.
+D. The naturalist asserts that ultimacy and reverence lie within nature; the fictionalist declines to assert the claims and participates non- assertorically.
+
+#### Hard coverage extension — MCQ 33
+
+#### MCQ 33. Which distinction best resists both “all non-theists are atheists” and “every godless ethic is a religion”?
+
+A. Buddhism's creator-denial can coexist with a path of liberation, ritual and communal discipline, whereas a purely secular moral project needs further religious features before classification.
+B. Jain devotion to perfected souls shows that a religion without a creator can *still* venerate exemplary beings, but therefore every moral admiration of a hero is religious.
+C. Agnostic participation in an inherited ritual tradition can constitute religious life, so agnosticism alone is a sufficient criterion for religion.
+D. Mīmāṃsā's authorless Veda establishes duty without a creator, but its use of unseen ritual efficacy makes it covertly creator-theistic.
+
+### MCQ ANSWER KEY AND EXPLANATIONS
+
+#### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct. The independent functional/multidimensional test includes creatorless practices without automatically admitting all secular commitments; deity-dependent functions remain open to assessment.
+- **B:** Incorrect. Smart's dimensions need not each be compulsory, and deity-worship cannot silently be installed as one universal condition.
+- **C:** Incorrect. This overinclusive functionalism also admits nationalism or a sports club; a criterion of sacred or ultimate order and transformative path remains needed.
+- **D:** Incorrect. The stipulated creator criterion settles the issue by definition; repeating the examples' lack of a creator supplies no independent reason to exclude them.
+
+**Examiner trap 1:** Defining “religion” as creator-belief and then proving a creatorless practice “non-religious” is circular; equally, community alone does not constitute religion.
+
+#### MCQ 2 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: a miracle test is both too narrow, since Mimamsa's ritual efficacy is law-like rather than miraculous, and simply irrelevant to the over-breadth complaint that has been raised.
+- **B:** Correct: this is the owner's working sufficient cluster; the non-theistic traditions all possess a sacred order and a liberation-directed discipline, while commitments that merely supply meaning and belonging do not.
+- **C:** Incorrect: this widens the definition further rather than narrowing it, because sacrifice, solidarity and a calendar of collective observance are exactly what nationalism already supplies.
+- **D:** Incorrect: an age test tracks nothing conceptual, would admit ancient non-religious ideologies and would arbitrarily expel later religious movements that meet every substantive criterion.
+
+**Examiner trap 2:** Do not answer the nationalism objection by abandoning functionalism; the mark is earned by adding the sacred-order and soteriological conditions, not by retreating to a God-centred definition.
+
+#### MCQ 3 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: Mimamsa's unseen ritual potency (apurva) secures efficacy with no supervising agent at all, and Buddhist and Jain disciplines are held to be efficacious without one either.
+- **B:** Incorrect: compassion, non-injury, karma, vows, insight and human flourishing all supply motivation here, and the full dependence question is routed to the Religion and Morality owner in any case.
+- **C:** Correct: petition is relational by structure, so meditation, aspiration and recitation perform other work without being petition in the same sense; conceding this separates a strong script from a sweeping one.
+- **D:** Incorrect: liberation as a generic function is exactly what nirvana, Jain liberation and Samkhya-Yoga isolation deliver without a creator; only grace in its personal-agency sense requires a giver.
+
+**Examiner trap 3:** Answering that God is required for nothing whatever looks bolder but scores lower; name petition, grace and covenant as genuinely theistic goods and then show that religion as such does not depend on them.
+
+#### MCQ 4 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the distinction is doctrinal rather than diplomatic, since Theravada Buddhism admits cosmological gods while denying both their creatorhood and their salvific ultimacy.
+- **B:** Incorrect: this swaps the standard definitions of agnosticism and atheism and then attaches the wrong one to non-theism, collapsing three separate positions into a single confusion.
+- **C:** Incorrect: this inverts the scope of both terms, since the whole purpose of the non-theistic label is that it leaves lesser deities and devotional practice entirely untouched.
+- **D:** Correct: the owner's firewall is that rejecting a creator does not entail denying every deity, sacred being, devotional act or transcendent value, so absence from the path and denial of existence are different claims.
+
+**Examiner trap 4:** Writing 'Buddhism is atheistic' in the opening line concedes the theist's framing and invites the reply that a godless system cannot be a religion; write 'non-theistic' and state what the word leaves standing.
+
+#### MCQ 5 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: the stem prints a definition task and a positional task, so the answer must define, sub-divide into 'not known' and 'unknowable', and then state the graded religiosity that withholds assent while retaining practice.
+- **B:** Incorrect: denial is atheism rather than agnosticism, and the reduction of religion to a social institution is a further thesis that suspension of judgement does not by itself entail.
+- **C:** Incorrect: that is the meaning-first position sometimes labelled ignosticism, whereas agnosticism accepts the question as intelligible and reports it to be unsettled or unsettleable.
+- **D:** Incorrect: indifference is a fourth position that the owner tells you to keep apart from suspension of judgement, which is an epistemic stance held for stated reasons about evidence.
+
+**Examiner trap 5:** Half-answers that define agnosticism and stop forfeit the second printed deliverable; the stem asks how agnostics relate religion and God, so the graded-religiosity paragraph is compulsory.
+
+#### MCQ 6 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: nirvana is the goal of the path rather than a cosmological origin, and treating it as a first cause quietly reimports the very creator structure that Buddhism manages without.
+- **B:** Correct: craving and ignorance condition suffering and the path removes the conditions, so a creator neither enters the diagnosis nor performs work in the cure, which makes the hypothesis idle rather than refuted.
+- **C:** Incorrect: no such demonstration is claimed anywhere in the owner; the case is that the creator hypothesis is idle for the therapeutic problem, not that its impossibility has been proved.
+- **D:** Incorrect: no community allocates karmic results in this account; the Sangha sustains practice and transmission, while the moral-causal order operates as law rather than as administration.
+
+**Examiner trap 6:** Do not argue that Buddhism disproves God; argue that it dispenses with God, since the printed stems ask whether religion is possible without God, not whether God has been refuted.
+
+#### MCQ 7 — solution
 
 **Answer: C.**
 
@@ -203,17 +437,7 @@ D. They are a formal declaration that no divine being of any kind exists, which 
 
 **Examiner trap 7:** The poisoned-arrow parable illustrates the urgency of removing suffering, not the non-existence of gods; use it to explain why speculation is deferred, never as proof of atheism.
 
-#### MCQ 8. Gods inside the cosmology, and devotional Mahayana
-
-Which statement handles gods within Buddhism, and later devotional Mahayana, without conceding the theist's point?
-
-A. Devotional Mahayana shows that Buddhism became straightforwardly theistic, so only the earliest Buddhism can still count as evidence against creator-necessity.
-
-B. Because gods appear in the cosmology, Buddhism is covertly monotheistic and its non-theism is really a modern Western reconstruction of the living tradition.
-
-C. Buddhist teaching requires denial of every god, so any text that mentions them must be treated as a later devotional corruption of the original doctrine.
-
-D. Gods and Brahma figures remain impermanent beings inside rebirth, and Buddhas and bodhisattvas may carry devotional functions without becoming a creator.
+#### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -226,17 +450,7 @@ D. Gods and Brahma figures remain impermanent beings inside rebirth, and Buddhas
 
 **Examiner trap 8:** Examiners reward the sentence separating religious function from ontological status: devotion to a Buddha performs some of what worship performs without installing an omnipotent maker.
 
-#### MCQ 9. What orients Buddhist religious life
-
-Which formulation of what organises Buddhist religious life, in the absence of a creator, is the most defensible in an answer?
-
-A. Teaching, community and liberation organise doctrine, practice and value without working as one-for-one substitutes for a personal creator.
-
-B. Dharma occupies the place of God, the Sangha the place of the church and nirvana the place of heaven, so the two religious structures map onto each other one to one.
-
-C. Meditative attainment alone organises Buddhist life, since ethics and community are later cultural additions rather than constitutive parts of the path.
-
-D. The Four Noble Truths function as revealed propositions from an authority whose reliability has first to be accepted on faith before practice can begin.
+#### MCQ 9 — solution
 
 **Answer: A.**
 
@@ -249,109 +463,59 @@ D. The Four Noble Truths function as revealed propositions from an authority who
 
 **Examiner trap 9:** The examiner is watching for the phrase 'not a one-for-one substitute'; without it your own Buddhist paragraph hands the theist the reply he needs.
 
-#### MCQ 10. The Jain case against a creator
-
-Which pair of considerations captures the Jain argument against a creator God as the owner states it?
-
-A. Scripture is authorless and therefore needs no divine speaker, so the whole argument from the reliability of a speaker collapses at once.
-
-B. Only momentary events exist, so there is no persisting agent capable of performing a single sustained act of world-creation at any point whatever.
-
-C. The world is eternal and uncreated, and consciousness emerges from the body, so no soul survives that would require a maker to account for it.
-
-D. A perfect being has no unfulfilled motive that creating could satisfy, and an embodied creator would be limited by the embodiment that action requires.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: that is the Mimamsa route through the authorless Veda, which is a different counterexample resting on a different mechanism from the Jain motive and embodiment arguments.
-- **B:** Incorrect: momentariness is a Buddhist thesis, while Jain metaphysics is explicitly substantialist about souls and matter and could not use this premise without abandoning its own ontology.
-- **C:** Incorrect: the second half is Carvaka's materialist thesis, whereas Jainism affirms innumerable eternal souls and a genuine liberation, both of which materialism denies outright.
-- **D:** Correct: motive and limitation are the two Jain pressures, and the same argument family reappears in Kumarila's attack on the possibility of a bodiless agent acting upon matter.
-
-**Examiner trap 10:** Never describe the liberated Jain soul as a creator God under another name; it is an achieved perfection rather than a governing one, and that difference defeats the hidden-God objection.
-
-#### MCQ 11. Authorless scripture is not revelation
-
-Why must the Mimamsa Veda never be described in an answer as revelation?
-
-A. Because it was composed by human seers whose insight is treated as authoritative only within the boundaries of the ritual tradition.
-
-B. Because it is held to be authorless, so its authority does not depend on the reliability of any speaker, whether divine or human.
-
-C. Because revelation there is delivered through the deities named in the mantras, who dictate the injunctions to the priesthood.
-
-D. Because Mimamsa treats the Veda as literally false yet pragmatically useful for organising the ritual life of a community.
+#### MCQ 10 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: human composition is exactly what the doctrine denies, since a composed text would inherit its author's fallibility and the school's whole case rests on avoiding that.
-- **B:** Correct: revelation presupposes a revealer, and the Mimamsa claim is that eternal, unauthored injunction needs no speaker whose trustworthiness would first have to be established by some further argument.
-- **C:** Incorrect: those deities function as elements within the ritual structure, the dative to which the oblation is offered, and are not agents who hear, choose, dictate or grant anything.
-- **D:** Incorrect: this imports modern fictionalism into a school whose injunctions are held to be intrinsically valid, and intrinsic validity is incompatible with treating them as useful falsehoods.
+- **A:** Incorrect: the second half is Carvaka's materialist thesis, whereas Jainism affirms innumerable eternal souls and a genuine liberation, both of which materialism denies outright.
+- **B:** Correct: motive and limitation are the two Jain pressures, and the same argument family reappears in Kumarila's attack on the possibility of a bodiless agent acting upon matter.
+- **C:** Incorrect: that is the Mimamsa route through the authorless Veda, which is a different counterexample resting on a different mechanism from the Jain motive and embodiment arguments.
+- **D:** Incorrect: momentariness is a Buddhist thesis, while Jain metaphysics is explicitly substantialist about souls and matter and could not use this premise without abandoning its own ontology.
 
-**Examiner trap 11:** One careless sentence calling the Veda 'revealed' surrenders the whole Mimamsa counterexample, because revelation reinstates the divine speaker the school has just removed.
+**Examiner trap 10:** Never describe the liberated Jain soul as a creator God under another name; it is an achieved perfection rather than a governing one, and that difference defeats the hidden-God objection.
 
-#### MCQ 12. How Mimamsa defines what it studies
-
-Jaimini's Mimamsa-sutra 1.1.2 defines dharma. Which reading of that definition is accurate and examinable?
-
-A. Dharma is what is characterised by Vedic injunction and is beneficial, so it is known from injunction alone and never from perception or inference.
-
-B. Dharma is the eternal moral law inscribed in the nature of things and therefore knowable by unaided human reason working from the observed order of things.
-
-C. Dharma is whatever produces the greatest welfare, so injunctions may be revised whenever their consequences turn out on inspection to be harmful in ordinary ritual practice.
-
-D. Dharma is the command of a supreme being, transmitted through the Veda and enforced by the fruits that are assigned to agents in a life after death.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: the sutra reads codana-laksano 'rtho dharmah, and the epistemic consequence is the reason for citing it, since injunction is made the sole source of the knowledge of dharma.
-- **B:** Incorrect: natural-law knowability is exactly what Mimamsa denies, because perception and inference are held to be incapable of reaching dharma at all, which is why injunction is required.
-- **C:** Incorrect: this converts a scriptural criterion into a consequentialist one and loses the school's distinctive claim that injunction is epistemically prior to any assessment of outcomes.
-- **D:** Incorrect: this is divine-command theory, and it reinstates both the divine speaker and the divine dispenser that classical Mimamsa argues at length are entirely unnecessary.
-
-**Examiner trap 12:** If you cite the sutra, cite it for the epistemic point that dharma is knowable only from injunction; quoting it as decoration without that consequence earns no marks at all.
-
-#### MCQ 13. The argument that generates apurva
-
-Which reconstruction of the Mimamsa argument for the unseen potency (apurva) is correct in both its structure and its epistemic status?
-
-A. The promised fruit is purely psychological, consisting in the confidence the performer gains from having discharged the standing injunction properly and in order.
-
-B. Ritual acts are observed to generate a subtle physical residue in the performer, and that residue is then directly perceived by sufficiently advanced practitioners.
-
-C. A momentary act cannot produce a much later fruit, so a persisting potency is postulated to bridge them and admitted as a postulate, not as something observed.
-
-D. A supervising deity records each performance and assigns the promised fruit at the appropriate time, and the technical term simply names the record that is kept in this way.
+#### MCQ 11 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: the promised results are objective states of affairs in the school's own account, and a psychological reading dissolves the very problem that the postulate was introduced to solve.
-- **B:** Incorrect: nothing whatever is claimed to be perceived here, and treating the potency as an observed entity is a listed trap that misstates the school's own account of how it is known.
-- **C:** Correct: the injunction promises a delayed result, the act perishes, a perished cause cannot produce a later effect, and the school's own epistemology licenses postulation to explain an otherwise inexplicable fact.
-- **D:** Incorrect: this is the Nyaya superintendent that the postulate exists to make unnecessary, so the reading inverts the argument and hands the theist back the function Mimamsa has removed.
+- **A:** Incorrect: this imports modern fictionalism into a school whose injunctions are held to be intrinsically valid, and intrinsic validity is incompatible with treating them as useful falsehoods.
+- **B:** Incorrect: human composition is exactly what the doctrine denies, since a composed text would inherit its author's fallibility and the school's whole case rests on avoiding that.
+- **C:** Correct: revelation presupposes a revealer, and the Mimamsa claim is that eternal, unauthored injunction needs no speaker whose trustworthiness would first have to be established by some further argument.
+- **D:** Incorrect: those deities function as elements within the ritual structure, the dative to which the oblation is offered, and are not agents who hear, choose, dictate or grant anything.
+
+**Examiner trap 11:** One careless sentence calling the Veda 'revealed' surrenders the whole Mimamsa counterexample, because revelation reinstates the divine speaker the school has just removed.
+
+#### MCQ 12 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: natural-law knowability is exactly what Mimamsa denies, because perception and inference are held to be incapable of reaching dharma at all, which is why injunction is required.
+- **B:** Incorrect: this converts a scriptural criterion into a consequentialist one and loses the school's distinctive claim that injunction is epistemically prior to any assessment of outcomes.
+- **C:** Incorrect: this is divine-command theory, and it reinstates both the divine speaker and the divine dispenser that classical Mimamsa argues at length are entirely unnecessary.
+- **D:** Correct: the sutra reads codana-laksano 'rtho dharmah, and the epistemic consequence is the reason for citing it, since injunction is made the sole source of the knowledge of dharma.
+
+**Examiner trap 12:** If you cite the sutra, cite it for the epistemic point that dharma is knowable only from injunction; quoting it as decoration without that consequence earns no marks at all.
+
+#### MCQ 13 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: the injunction promises a delayed result, the act perishes, a perished cause cannot produce a later effect, and the school's own epistemology licenses postulation to explain an otherwise inexplicable fact.
+- **B:** Incorrect: this is the Nyaya superintendent that the postulate exists to make unnecessary, so the reading inverts the argument and hands the theist back the function Mimamsa has removed.
+- **C:** Incorrect: the promised results are objective states of affairs in the school's own account, and a psychological reading dissolves the very problem that the postulate was introduced to solve.
+- **D:** Incorrect: nothing whatever is claimed to be perceived here, and treating the potency as an observed entity is a listed trap that misstates the school's own account of how it is known.
 
 **Examiner trap 13:** State all five steps or none; a bare assertion that ritual generates apurva, without the perished-cause problem, reads as vocabulary rather than as argument.
 
-#### MCQ 14. Kumarila against Prabhakara
-
-How do the two classical Mimamsa schools differ in their treatment of the injunction and its fruit?
-
-A. Kumarila accepts a creator God as the guarantor of ritual efficacy, whereas Prabhakara rejects any such divine guarantor of the system entirely.
-
-B. Kumarila treats the unseen potency as a power in the act or agent linking deed to fruit; Prabhakara recentres the analysis on the sheer ought-to-be- done.
-
-C. Kumarila regards ritual as symbolic self-expression, while Prabhakara regards the ritual act itself as genuinely and causally efficacious.
-
-D. Kumarila holds that the Veda has a divine author while Prabhakara holds that it is authorless, which is why only the second of the two schools genuinely avoids theism.
+#### MCQ 14 — solution
 
 **Answer: B.**
 
@@ -364,17 +528,7 @@ D. Kumarila holds that the Veda has a divine author while Prabhakara holds that 
 
 **Examiner trap 14:** Naming Kumarila and Prabhakara without stating the deontology-versus- desert consequence is name-dropping; the distinction earns marks only when the ethical payoff is spelt out.
 
-#### MCQ 15. Answering Nyaya's superintendent argument
-
-Nyaya objects that an unconscious potency cannot select the right fruit for the right agent at the right time. What is the Mimamsa reply?
-
-A. That the question of allocation is unanswerable and should be set aside in the manner of the questions the Buddha left formally undeclared.
-
-B. That fruits are allotted by liberated souls who have completed the ritual path and and who now supervise the operation of that path on behalf of others.
-
-C. That the relation is law-like rather than deliberative, and that the objection begs the question by assuming only agents can produce determinate outcomes.
-
-D. That the deities named in the mantras perform the selection, so an intelligent allocator is quietly retained within the ritual system after all.
+#### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -387,17 +541,7 @@ D. That the deities named in the mantras perform the selection, so an intelligen
 
 **Examiner trap 15:** Do not answer Nyaya by attacking theism in general; answer the specific allocation argument, because that is where a fifteen-mark script separates itself from a ten-mark one.
 
-#### MCQ 16. Samkhya, Yoga and the non-creating Isvara
-
-Which statement handles classical Samkhya and Yoga correctly inside a religion-without-God answer?
-
-A. Both reduce liberation to the cessation of the material world itself, so the stated goal is cosmic dissolution rather than any individual release at all.
-
-B. Samkhya treats consciousness as a product of material evolution, which is why it needs no creator at all to explain the first arising of conscious awareness.
-
-C. Both systems posit a creator who superintends the evolution of nature, so neither of the two can serve as a genuine case of religion without God.
-
-D. Samkhya derives evolution from nature in proximity to plural selves and seeks isolation, while Yoga's special self is not straightforwardly a creator.
+#### MCQ 16 — solution
 
 **Answer: D.**
 
@@ -410,63 +554,33 @@ D. Samkhya derives evolution from nature in proximity to plural selves and seeks
 
 **Examiner trap 16:** The objection that unconscious principles cannot organise ends is answered by denying that observed regularity must be modelled on artefact production; the milk-and-calf analogy does exactly that work.
 
-#### MCQ 17. The route the 2025 directive is buying
+#### MCQ 17 — solution
 
-The 2025 question asks for Carvaka's critique of belief in suprasensible entities. Which route through the material does the directive actually buy?
+**Answer: A.**
 
-A. The linguistic route: terms for suprasensible entities fail a criterion of meaning, so claims that involve them turn out to be neither true nor false.
+**Option explanations:**
 
-B. The epistemological route: perception alone is a means of knowledge, and inference fails because invariable concomitance cannot itself be established.
+- **A:** Correct: the directive asks for the argument of the critique rather than its conclusions, so the analysis of the means of knowledge, not the hedonist slogans, is what the examiner is paying for.
+- **B:** Incorrect: a sociological genealogy is not what the reported Carvaka argument offers, and the surviving verses are doxographic quotations rather than historical evidence of any kind.
+- **C:** Incorrect: the reduction of human ends is a consequence of the epistemology, so an answer built on hedonism misses the printed demand for the argument of the critique itself.
+- **D:** Incorrect: that is verificationism, owned by the Religious Language clause, whereas Carvaka grants that the claims are meaningful and denies only that they can ever be known.
 
-C. The historical route: the school documents that religious institutions arose to secure ritual income, which explains belief in unseen entities.
+**Examiner trap 17:** The hedonist couplet and the verses attributed to Brhaspati survive only in opponents' doxographies, chiefly Madhava's Sarvadarsanasamgraha; report them as such, and never build the answer on them.
 
-D. The ethical route: since pleasure and wealth are the only real human ends, religious goods stand exposed as fabrications serving established priestly interests.
+#### MCQ 18 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: that is verificationism, owned by the Religious Language clause, whereas Carvaka grants that the claims are meaningful and denies only that they can ever be known.
-- **B:** Correct: the directive asks for the argument of the critique rather than its conclusions, so the analysis of the means of knowledge, not the hedonist slogans, is what the examiner is paying for.
-- **C:** Incorrect: a sociological genealogy is not what the reported Carvaka argument offers, and the surviving verses are doxographic quotations rather than historical evidence of any kind.
-- **D:** Incorrect: the reduction of human ends is a consequence of the epistemology, so an answer built on hedonism misses the printed demand for the argument of the critique itself.
-
-**Examiner trap 17:** The hedonist couplet and the verses attributed to Brhaspati survive only in opponents' doxographies, chiefly Madhava's Sarvadarsanasamgraha; report them as such, and never build the answer on them.
-
-#### MCQ 18. The concomitance problem, stated in full
-
-Which statement gives the Carvaka attack on inference completely, including the residue that survives however often the concomitance is observed?
-
-A. Concomitance is known by repeated observation, but observation is unreliable because the senses are frequently deceived by illusion, by dream and by defect.
-
-B. Inference is valid for the supersensible but invalid for ordinary matters, since everyday judgements are contaminated by practical interest.
-
-C. Inference is invalid because the mark and the inferred object are never once present together within any one single and complete act of perception.
-
-D. Concomitance is unreachable by perception, by inference and by testimony, and an unnoticed conditioning factor can never be conclusively excluded.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: this is the parity argument used by critics against Carvaka rather than the Carvaka case, and it concedes at the outset that concomitance can in fact be known.
-- **B:** Incorrect: this exactly reverses the reported Purandara position, which admits ordinary inference while denying it for what lies beyond the reach of the senses altogether.
-- **C:** Incorrect: co-presence in particular cases is exactly what the argument grants; the difficulty lies in the leap from observed particulars to an unrestricted universal covering unobserved cases.
-- **D:** Correct: the three closed routes plus the conditioning-factor residue constitute the whole argument, and it is the residue that reduces inference from certainty to mere probability.
+- **A:** Incorrect: co-presence in particular cases is exactly what the argument grants; the difficulty lies in the leap from observed particulars to an unrestricted universal covering unobserved cases.
+- **B:** Correct: the three closed routes plus the conditioning-factor residue constitute the whole argument, and it is the residue that reduces inference from certainty to mere probability.
+- **C:** Incorrect: this is the parity argument used by critics against Carvaka rather than the Carvaka case, and it concedes at the outset that concomitance can in fact be known.
+- **D:** Incorrect: this exactly reverses the reported Purandara position, which admits ordinary inference while denying it for what lies beyond the reach of the senses altogether.
 
 **Examiner trap 18:** An answer saying only that 'Carvaka rejects inference', without the concomitance analysis and the conditioning-factor residue, has stated a conclusion and omitted the argument the directive demanded.
 
-#### MCQ 19. Self-refutation, and the two replies that are required
-
-The claim that no inference is valid looks self-refuting. Which pair of replies does the owner require an answer to supply?
-
-A. The appeal to scriptural silence, since no accepted text asserts the validity of inference anywhere in so many words, or in any equivalent formula.
-
-B. The appeal to practical success, since the school's followers manifestly survive and prosper in daily life while relying upon perception alone.
-
-C. The dialectical reading, on which the denial is pressed from inside the opponent's own commitments, and the reported strand admitting ordinary inference only.
-
-D. The appeal to Nyaya's devices, since repeated uncontradicted observation and hypothetical reasoning are conceded by both parties to the dispute.
+#### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -479,157 +593,85 @@ D. The appeal to Nyaya's devices, since repeated uncontradicted observation and 
 
 **Examiner trap 19:** Leaving the self-refutation charge unanswered forfeits the evaluation marks; give the dialectical reading and the reported moderate strand, and flag that the evidence for the latter is fragmentary.
 
-#### MCQ 20. Consciousness, order and the four elements
-
-Which set of Carvaka applications to religion is correctly matched to the device that supports it?
-
-A. Consciousness emerges from the body, illustrated by intoxicating power arising from combined ingredients, and order follows from things acting by their own nature.
-
-B. Consciousness is a mode of one single substance, nature, and order follows from the necessity with which that single substance's own attributes unfold.
-
-C. Consciousness is a stream of momentary events, and order is explained by dependent conditioning that holds among those very momentary events themselves.
-
-D. Consciousness is an eternal substance temporarily housed in the body, and cosmic order is explained by the slow and gradual ripening of deeds performed in past lives.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: emergence removes survival, transmigration and liberation together, while the own-nature explanation removes any need for a designer of the thorn's sharpness or the peacock's colour.
-- **B:** Incorrect: that is Spinoza's apparatus, which the owner names as the historical ancestor of religious naturalism rather than as anything belonging to Carvaka materialism.
-- **C:** Incorrect: momentariness and dependent conditioning are Buddhist doctrines, and Buddhism retains exactly the supersensible order that Carvaka's epistemology closes off completely.
-- **D:** Incorrect: both halves are exactly what Carvaka denies, since an eternal conscious substance and karmic ripening are among the supersensible postulates directly under attack.
-
-**Examiner trap 20:** The four gross elements exhaust reality on this view and ether is rejected as imperceptible; getting that list wrong signals that the epistemology behind it has not been understood.
-
-#### MCQ 21. Why Carvaka is the limiting case
-
-Why is it a mark-earning move to deny that Carvaka is itself an instance of religion without God?
-
-A. Because its texts survive only in the works of opponents, and a tradition without its own surviving scripture cannot properly be counted as a religion.
-
-B. Because it denies rebirth, and any system without rebirth falls outside the recognised Indian category of religion altogether and at once.
-
-C. Because it is a school of philosophy rather than a tradition, and philosophy is never counted as religion within the classical Indian doxographic context.
-
-D. Because it has no soteriology, sacred order, community of practice or ultimate concern, and so shows what non-theistic religions actually retain.
+#### MCQ 20 — solution
 
 **Answer: D.**
 
 **Option explanations:**
 
-- **A:** Incorrect: the transmission problem is a source-discipline point governing how the verses may be quoted, and it is not a criterion of religious status at all.
-- **B:** Incorrect: rebirth is not the criterion in play here, and adopting it would wrongly expel non-Indian non-theistic positions by applying a purely local test to them.
-- **C:** Incorrect: Samkhya and Mimamsa are also philosophical schools yet function as religious systems in this clause, so the philosophy label does not settle the classification question.
-- **D:** Correct: the contrast is the point, since Buddhism, Jainism and Mimamsa survive the loss of God while Carvaka closes the epistemic route to any supersensible object and ends in no religion at all.
+- **A:** Incorrect: that is Spinoza's apparatus, which the owner names as the historical ancestor of religious naturalism rather than as anything belonging to Carvaka materialism.
+- **B:** Incorrect: momentariness and dependent conditioning are Buddhist doctrines, and Buddhism retains exactly the supersensible order that Carvaka's epistemology closes off completely.
+- **C:** Incorrect: both halves are exactly what Carvaka denies, since an eternal conscious substance and karmic ripening are among the supersensible postulates directly under attack.
+- **D:** Correct: emergence removes survival, transmigration and liberation together, while the own-nature explanation removes any need for a designer of the thorn's sharpness or the peacock's colour.
 
-**Examiner trap 21:** The verdict formula is that the critique succeeds exactly as far as its epistemology does: the strong thesis is self-refuting and unliveable, the moderate thesis is unrefuted and fatal to inference-based natural theology.
+**Examiner trap 20:** The four gross elements exhaust reality on this view and ether is rejected as imperceptible; getting that list wrong signals that the epistemology behind it has not been understood.
 
-#### MCQ 22. Nietzsche's diagnosis, and who owns the question
-
-Which handling of Nietzsche is correct both philosophically and in terms of syllabus ownership?
-
-A. It is a historical report of declining church attendance in nineteenth- century Europe, and it therefore belongs to sociology rather than to philosophy proper.
-
-B. It is a theological thesis about divine self-emptying, so Nietzsche's target turns out to be only one particular Christian doctrine of God among many.
-
-C. It is a cultural diagnosis of a collapsed value horizon, and the printed question coupling religion with morality belongs to the Religion and Morality owner.
-
-D. It is a compressed argument for atheism, establishing by inference from the problem of evil that no deity of the traditional theistic kind exists at all.
-
-**Answer: C.**
-
-**Option explanations:**
-
-- **A:** Incorrect: reducing the declaration to an empirical event is a listed trap, since the claim concerns the unbelievability of an entire framework rather than attendance statistics.
-- **B:** Incorrect: no source in this clause supports that reading, and it dissolves a cultural diagnosis into a theological doctrine that Nietzsche is certainly not defending.
-- **C:** Correct: this clause keeps Nietzsche as a critique of theistic religion and as the bridge to post-theistic value, while the full genealogical dossier is routed to the neighbouring owner file.
-- **D:** Incorrect: it is not an existence proof at all, and attaching it to the problem of evil confuses two separate clauses with two quite different owners and demands.
-
-**Examiner trap 22:** Nietzsche mourns a horizon that Buddhism and Jainism never possessed; using him as a general spokesman for religion without God confuses post- theism with non-theism.
-
-#### MCQ 23. Dewey and Dworkin on religion within nature
-
-Which pairing of thinker and thesis in religious naturalism is accurate as the owner states it?
-
-A. Dewey separates religion as institution from the religious as a unifying quality of experience; Dworkin rests religious atheism on value and cosmic sublimity.
-
-B. Dewey argues that religious language is non-assertoric make-believe, while Dworkin defends a personal God stripped of the attribute of omnipotence.
-
-C. Dewey identifies God with the natural universe taken as a single substance, while Dworkin identifies God with humanity's own idealised and projected essence.
-
-D. Both hold that religious naturalism requires abandoning ritual and community, since both of these are held to be inseparable from supernatural belief.
+#### MCQ 21 — solution
 
 **Answer: A.**
 
 **Option explanations:**
 
-- **A:** Correct: Dewey proposes using the word God for the active relation between the ideal and the actual, and Dworkin makes value realism rather than theism the core of what is religious about religion.
-- **B:** Incorrect: non-assertoric participation is fictionalism rather than naturalism, and Dworkin's position is explicitly atheistic about any personal God whatever.
-- **C:** Incorrect: the first formula is Spinoza's and the second is Feuerbach's projection thesis, so neither belongs to the thinker to whom it has here been attached.
-- **D:** Incorrect: naturalists defend themselves precisely by pointing to reverence, communal practice and self-transformation as the religious elements that survive the loss of supernatural ontology.
+- **A:** Correct: the contrast is the point, since Buddhism, Jainism and Mimamsa survive the loss of God while Carvaka closes the epistemic route to any supersensible object and ends in no religion at all.
+- **B:** Incorrect: the transmission problem is a source-discipline point governing how the verses may be quoted, and it is not a criterion of religious status at all.
+- **C:** Incorrect: rebirth is not the criterion in play here, and adopting it would wrongly expel non-Indian non-theistic positions by applying a purely local test to them.
+- **D:** Incorrect: Samkhya and Mimamsa are also philosophical schools yet function as religious systems in this clause, so the philosophy label does not settle the classification question.
 
-**Examiner trap 23:** The objection that this is ethics and aesthetics in religious vocabulary is met by naming ultimacy, reverence, community and transformation, and by noting that demanding a supernatural person merely restates theism.
+**Examiner trap 21:** The verdict formula is that the critique succeeds exactly as far as its epistemology does: the strong thesis is self-refuting and unliveable, the moderate thesis is unrefuted and fatal to inference-based natural theology.
 
-#### MCQ 24. Fictionalism, error theory and non-cognitivism
-
-Which set of distinctions among the modern non-theistic positions is correct?
-
-A. All three are versions of religious naturalism, differing only in how much reverence each of them recommends towards the natural world as it stands.
-
-B. Error theory calls the claims false and abandons them, non-cognitivism denies they have truth-conditions, and fictionalism grants these and declines to assert.
-
-C. Non-cognitivism and fictionalism agree that religious sentences lack truth-conditions and differ only over which of the inherited rituals ought to be retained.
-
-D. Fictionalism and error theory agree that the claims are false and differ only over whether that falsity ought in honesty to be publicised to ordinary worshippers.
+#### MCQ 22 — solution
 
 **Answer: B.**
 
 **Option explanations:**
 
-- **A:** Incorrect: naturalism asserts its claims about ultimacy within nature and therefore stands apart from all three, and merging the four is expressly listed among the clause's traps.
-- **B:** Correct: fictionalism is defined by the refusal to assert rather than by a verdict on meaning or by abandonment of the practice, which is why it stands as a genuinely distinct third position.
-- **C:** Incorrect: the fictionalist grants that religious sentences have truth- conditions, which is the entire point of declining to assert them rather than denying that they mean anything.
-- **D:** Incorrect: the difference has nothing to do with publicity and everything to do with whether the practice is abandoned or accepted and continued in a non-assertoric spirit.
+- **A:** Incorrect: no source in this clause supports that reading, and it dissolves a cultural diagnosis into a theological doctrine that Nietzsche is certainly not defending.
+- **B:** Correct: this clause keeps Nietzsche as a critique of theistic religion and as the bridge to post-theistic value, while the full genealogical dossier is routed to the neighbouring owner file.
+- **C:** Incorrect: it is not an existence proof at all, and attaching it to the problem of evil confuses two separate clauses with two quite different owners and demands.
+- **D:** Incorrect: reducing the declaration to an empirical event is a listed trap, since the claim concerns the unbelievability of an entire framework rather than attendance statistics.
 
-**Examiner trap 24:** Advaita's everyday level is not fictionalism: sublation is not falsification, and the two-level device preserves the practitioner's sincerity in a way explicit make-believe cannot.
+**Examiner trap 22:** Nietzsche mourns a horizon that Buddhism and Jainism never possessed; using him as a general spokesman for religion without God confuses post- theism with non-theism.
 
-#### REMEDIAL DIAGNOSTIC MCQS — 8
-
-#### MCQ 25. Remedial — “Buddhism is an atheistic religion”
-
-Which correction is best?
-
-A. It is atheistic in the strict sense, since the undeclared questions amount to a formal doctrinal denial that any divine being whatever exists at all.
-
-B. It is agnostic rather than atheistic, since the Buddha suspended judgement on a creator for want of sufficient evidence pointing decisively in either direction.
-
-C. It is better described as non-theistic, since a creator is absent from the diagnosis and path while impermanent gods and devotional practice are not denied.
-
-D. It is theistic in its later forms, so no single label applies and the classification question should simply be left open for each separate school.
+#### MCQ 23 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: silence about a set of speculative questions is not denial of their subject matter, and the undeclared questions have a deliberately restricted scope.
-- **B:** Incorrect: agnosticism is an epistemic verdict about evidence, whereas the Buddhist point is that the creator question is idle for the therapeutic path being prescribed.
-- **C:** Correct: it repairs the label and states what the label leaves standing, which is exactly what the owner's firewall between non-theism and atheism requires of a script.
-- **D:** Incorrect: devotional development does not install an omnipotent creator, and refusing any label evades the very discrimination the examiner is testing in this clause.
+- **A:** Incorrect: the first formula is Spinoza's and the second is Feuerbach's projection thesis, so neither belongs to the thinker to whom it has here been attached.
+- **B:** Incorrect: naturalists defend themselves precisely by pointing to reverence, communal practice and self-transformation as the religious elements that survive the loss of supernatural ontology.
+- **C:** Correct: Dewey proposes using the word God for the active relation between the ideal and the actual, and Dworkin makes value realism rather than theism the core of what is religious about religion.
+- **D:** Incorrect: non-assertoric participation is fictionalism rather than naturalism, and Dworkin's position is explicitly atheistic about any personal God whatever.
+
+**Examiner trap 23:** The objection that this is ethics and aesthetics in religious vocabulary is met by naming ultimacy, reverence, community and transformation, and by noting that demanding a supernatural person merely restates theism.
+
+#### MCQ 24 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the fictionalist grants that religious sentences have truth- conditions, which is the entire point of declining to assert them rather than denying that they mean anything.
+- **B:** Incorrect: the difference has nothing to do with publicity and everything to do with whether the practice is abandoned or accepted and continued in a non-assertoric spirit.
+- **C:** Incorrect: naturalism asserts its claims about ultimacy within nature and therefore stands apart from all three, and merging the four is expressly listed among the clause's traps.
+- **D:** Correct: fictionalism is defined by the refusal to assert rather than by a verdict on meaning or by abandonment of the practice, which is why it stands as a genuinely distinct third position.
+
+**Examiner trap 24:** Advaita's everyday level is not fictionalism: sublation is not falsification, and the two-level device preserves the practitioner's sincerity in a way explicit make-believe cannot.
+
+#### MCQ 25 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: it repairs the label and states what the label leaves standing, which is exactly what the owner's firewall between non-theism and atheism requires of a script.
+- **B:** Incorrect: devotional development does not install an omnipotent creator, and refusing any label evades the very discrimination the examiner is testing in this clause.
+- **C:** Incorrect: silence about a set of speculative questions is not denial of their subject matter, and the undeclared questions have a deliberately restricted scope.
+- **D:** Incorrect: agnosticism is an epistemic verdict about evidence, whereas the Buddhist point is that the creator question is idle for the therapeutic path being prescribed.
 
 **Examiner trap 25:** Correcting the label without saying what non-theism permits leaves half the error standing; name the impermanent gods and the devotional practice in the same sentence.
 
-#### MCQ 26. Remedial — “Carvaka is the clearest religion without God”
-
-Which correction is best?
-
-A. It cannot be classified either way, because its own texts survive only inside the summaries written by its philosophical opponents.
-
-B. It is the limiting case, not an instance, since it lacks soteriology, sacred order, community of practice and ultimate concern, and ends in no religion at all.
-
-C. It is an instance, since rejecting God is the only condition that a religion without God has to satisfy before it can qualify in the first place.
-
-D. It is an instance, because its this-worldly ends function as a soteriology aimed at securing ordinary human flourishing within the limits of the present life.
+#### MCQ 26 — solution
 
 **Answer: B.**
 
@@ -642,149 +684,103 @@ D. It is an instance, because its this-worldly ends function as a soteriology ai
 
 **Examiner trap 26:** The reward here is the sentence that religion can survive the loss of God but not the loss of a sacred order; write it explicitly rather than leaving it implied.
 
-#### MCQ 27. Remedial — “the Mimamsa Veda is divine revelation”
-
-Which correction is best?
-
-A. The Veda is authorless and therefore not the speech of any God, which is why arguments from the reliability of a divine speaker get no purchase on it.
-
-B. It is revelation given to the seers, whose authority the school then treats as intrinsically valid and therefore immune from any further external challenge.
-
-C. It is a human composition whose authority rests on long communal acceptance rather than on the personal standing of any one particular speaker or author.
-
-D. It is revelation, but of an impersonal rather than a personal deity, so the school remains theistic in at least a weak, indirect and heavily attenuated sense.
-
-**Answer: A.**
-
-**Option explanations:**
-
-- **A:** Correct: it names the doctrine, draws the consequence and shows exactly why the counterexample to creator-necessity survives the objection being pressed.
-- **B:** Incorrect: intrinsic validity attaches to the injunction itself and not to the reliability of any recipient, transmitter or inspired individual seer.
-- **C:** Incorrect: human composition is denied as firmly as divine authorship, because a composed text would inherit the fallibility of whoever composed it.
-- **D:** Incorrect: an impersonal revealer is still a revealer, whereas the doctrine denies that there is any author whatsoever standing behind the text.
-
-**Examiner trap 27:** Watch your own vocabulary: 'revealed', 'scripture given by God' and 'divine word' all silently reinstate the speaker the school has just removed.
-
-#### MCQ 28. Remedial — “apurva is an unseen force we observe in ritual”
-
-Which correction is best?
-
-A. It is directly perceived by the officiating priest, which is why only properly qualified performers are permitted to conduct the rite on another's behalf.
-
-B. It is a postulate introduced to explain a delayed fruit, and the two schools differ over whether it is a power in the act or the sheer ought-to-be-done.
-
-C. It is a metaphor for the psychological confidence produced by having properly discharged a standing duty, and it therefore carries no ontological weight at all.
-
-D. It is inferred from repeated observation of ritual outcomes, in the same way that the presence of fire is regularly inferred from the observation of rising smoke.
-
-**Answer: B.**
-
-**Option explanations:**
-
-- **A:** Incorrect: nothing is perceived on this account, and the qualification rules concern ritual competence rather than any privileged perceptual access to a potency.
-- **B:** Correct: it corrects the epistemic status and adds the Kumarila-Prabhakara discrimination that a strong script carries into the objection-and-reply stage.
-- **C:** Incorrect: it is introduced precisely to do ontological work, bridging a perished act and a much later fruit, so a metaphorical reading dissolves the problem it answers.
-- **D:** Incorrect: the promised results typically mature long after the act and often after death, so the observational base such an inference would require simply does not exist.
-
-**Examiner trap 28:** A postulate explaining an otherwise inexplicable fact is a licensed move in this school's own epistemology; say so, or the charge of arbitrary invention goes unanswered.
-
-#### MCQ 29. Remedial — “Nietzsche proved that God does not exist”
-
-Which correction is best?
-
-A. It is a proof, though an inductive rather than a deductive one, resting on the observed historical failure of the great religious institutions.
-
-B. It is a report that the deity of Christianity once existed in fact and has at some later point in European history ceased to exist altogether.
-
-C. It is a claim that the word 'God' is meaningless, so that the question of existence never actually arises for serious philosophical discussion.
-
-D. The declaration diagnoses that belief has become unbelievable and that dependent values now face nihilism; it is not a demonstration of non- existence.
-
-**Answer: D.**
-
-**Option explanations:**
-
-- **A:** Incorrect: recasting a cultural diagnosis as an induction still treats it as an argument about existence, which is exactly the misreading being corrected.
-- **B:** Incorrect: reading the declaration as an empirical event is a listed trap and makes nonsense of the genealogical project it introduces in Nietzsche's own writing.
-- **C:** Incorrect: that is a semantic thesis owned by another clause entirely, whereas Nietzsche's concern is the collapse of a framework of values and what follows from it.
-- **D:** Correct: it identifies the kind of claim being made and names its consequence, which is the demand for revaluation rather than any inference to a metaphysical conclusion.
-
-**Examiner trap 29:** Follow the diagnosis with its consequence: inherited values depended on the framework, its collapse threatens nihilism, and overcoming it requires revaluation and self-creation.
-
-#### MCQ 30. Remedial — “agnosticism is a hesitant form of atheism”
-
-Which correction is best?
-
-A. Agnosticism holds that religious statements are neither true nor false, so belief and disbelief turn out to be equally confused responses to them.
-
-B. Agnosticism denies God's existence but withholds public assertion of that denial for broadly social, professional and prudential reasons of an entirely personal kind.
-
-C. Agnosticism suspends judgement rather than denying, and subdivides into the weak claim that the matter is not known and the strong claim that it is unknowable.
-
-D. Agnosticism is indifference to religious questions and therefore has no bearing on the separate question of whether religion without God is possible.
+#### MCQ 27 — solution
 
 **Answer: C.**
 
 **Option explanations:**
 
-- **A:** Incorrect: that is non-cognitivism about religious language, which is a claim about meaning rather than a claim about what can or cannot be known.
-- **B:** Incorrect: this is atheism with a communication strategy attached, and it erases the epistemic content that makes agnosticism a distinct position at all.
-- **C:** Correct: it separates suspension from denial and supplies the weak-strong subdivision that the printed question expects an answer to provide.
-- **D:** Incorrect: indifference is a fourth position, and agnostics may value religion's ethical and experiential dimensions while still withholding assent on the existence of God.
+- **A:** Incorrect: human composition is denied as firmly as divine authorship, because a composed text would inherit the fallibility of whoever composed it.
+- **B:** Incorrect: an impersonal revealer is still a revealer, whereas the doctrine denies that there is any author whatsoever standing behind the text.
+- **C:** Correct: it names the doctrine, draws the consequence and shows exactly why the counterexample to creator-necessity survives the objection being pressed.
+- **D:** Incorrect: intrinsic validity attaches to the injunction itself and not to the reliability of any recipient, transmitter or inspired individual seer.
 
-**Examiner trap 30:** Kant's practical faith and Spencer's Unknowable are agnostic-adjacent and show that suspending theoretical judgement is compatible with a continuing religious life.
+**Examiner trap 27:** Watch your own vocabulary: 'revealed', 'scripture given by God' and 'divine word' all silently reinstate the speaker the school has just removed.
 
-#### MCQ 31. Remedial — “dharma and nirvana are God under other names”
-
-Which correction is best?
-
-A. The objection fails because every religion, theistic or not, ultimately refers to to one and the same finally indeterminate ultimate reality.
-
-B. The objection is correct, and non-theistic religions are therefore covert theisms that have simply changed their working vocabulary over the intervening centuries.
-
-C. The objection fails because dharma and nirvana perform no religious functions whatever, being purely philosophical categories of a technical kind.
-
-D. Functional replacement does not establish ontological identity: impersonal law is not an omniscient person, and liberation by insight is not grace bestowed.
+#### MCQ 28 — solution
 
 **Answer: D.**
 
 **Option explanations:**
 
-- **A:** Incorrect: that is a pluralist thesis owned by another clause, and it answers a quite different question from the one the hidden-God objection actually raises.
-- **B:** Incorrect: this concedes an inference from similar role to identical entity, which is exactly the step the owner rejects when it answers the hidden-God objection.
-- **C:** Incorrect: they plainly do organise doctrine, practice and value, and denying that would abandon the very case for calling these traditions religions in the first place.
-- **D:** Correct: it names the fallacy inside the hidden-God objection and supplies the two discriminations that are needed to defeat it in a single sentence.
+- **A:** Incorrect: it is introduced precisely to do ontological work, bridging a perished act and a much later fruit, so a metaphorical reading dissolves the problem it answers.
+- **B:** Incorrect: the promised results typically mature long after the act and often after death, so the observational base such an inference would require simply does not exist.
+- **C:** Incorrect: nothing is perceived on this account, and the qualification rules concern ritual competence rather than any privileged perceptual access to a potency.
+- **D:** Correct: it corrects the epistemic status and adds the Kumarila-Prabhakara discrimination that a strong script carries into the objection-and-reply stage.
 
-**Examiner trap 31:** Do not let your own exposition invite this objection: avoid saying that dharma 'takes the place of' God, and state instead what work it does and does not do.
+**Examiner trap 28:** A postulate explaining an otherwise inexplicable fact is a licensed move in this school's own epistemology; say so, or the charge of arbitrary invention goes unanswered.
 
-#### MCQ 32. Remedial — “naturalism and fictionalism are one position”
-
-Which correction is best?
-
-A. The naturalist asserts that ultimacy and reverence lie within nature; the fictionalist declines to assert the claims and participates non- assertorically.
-
-B. Both are versions of the two-level Indian device, and differ only over which of the two levels ought in the end to be described as the ultimate one.
-
-C. Both accept that religious claims are false, and differ only over whether ritual practice should nevertheless be retained by the community afterwards.
-
-D. Both hold that religious language lacks truth-conditions, and differ only over the role that a community ought to play in a continuing religious life.
+#### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option explanations:**
 
-- **A:** Correct: assertion is the dividing line, and stating it also keeps error theory, which abandons the discourse altogether, separate from both of the other positions.
-- **B:** Incorrect: the Indian device sublates rather than falsifies, which is precisely why it preserves the practitioner's sincerity in a way that fictionalism struggles to do.
-- **C:** Incorrect: the naturalist asserts claims she takes to be true about value and about nature, so the shared-falsity premise is mistaken from the very beginning.
-- **D:** Incorrect: the missing-truth-conditions thesis is non-cognitivism, and neither religious naturalism nor religious fictionalism is defined by holding it.
+- **A:** Correct: it identifies the kind of claim being made and names its consequence, which is the demand for revaluation rather than any inference to a metaphysical conclusion.
+- **B:** Incorrect: recasting a cultural diagnosis as an induction still treats it as an argument about existence, which is exactly the misreading being corrected.
+- **C:** Incorrect: reading the declaration as an empirical event is a listed trap and makes nonsense of the genealogical project it introduces in Nietzsche's own writing.
+- **D:** Incorrect: that is a semantic thesis owned by another clause entirely, whereas Nietzsche's concern is the collapse of a framework of values and what follows from it.
+
+**Examiner trap 29:** Follow the diagnosis with its consequence: inherited values depended on the framework, its collapse threatens nihilism, and overcoming it requires revaluation and self-creation.
+
+#### MCQ 30 — solution
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this is atheism with a communication strategy attached, and it erases the epistemic content that makes agnosticism a distinct position at all.
+- **B:** Correct: it separates suspension from denial and supplies the weak-strong subdivision that the printed question expects an answer to provide.
+- **C:** Incorrect: indifference is a fourth position, and agnostics may value religion's ethical and experiential dimensions while still withholding assent on the existence of God.
+- **D:** Incorrect: that is non-cognitivism about religious language, which is a claim about meaning rather than a claim about what can or cannot be known.
+
+**Examiner trap 30:** Kant's practical faith and Spencer's Unknowable are agnostic-adjacent and show that suspending theoretical judgement is compatible with a continuing religious life.
+
+#### MCQ 31 — solution
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this concedes an inference from similar role to identical entity, which is exactly the step the owner rejects when it answers the hidden-God objection.
+- **B:** Incorrect: they plainly do organise doctrine, practice and value, and denying that would abandon the very case for calling these traditions religions in the first place.
+- **C:** Correct: it names the fallacy inside the hidden-God objection and supplies the two discriminations that are needed to defeat it in a single sentence.
+- **D:** Incorrect: that is a pluralist thesis owned by another clause, and it answers a quite different question from the one the hidden-God objection actually raises.
+
+**Examiner trap 31:** Do not let your own exposition invite this objection: avoid saying that dharma 'takes the place of' God, and state instead what work it does and does not do.
+
+#### MCQ 32 — solution
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the Indian device sublates rather than falsifies, which is precisely why it preserves the practitioner's sincerity in a way that fictionalism struggles to do.
+- **B:** Incorrect: the naturalist asserts claims she takes to be true about value and about nature, so the shared-falsity premise is mistaken from the very beginning.
+- **C:** Incorrect: the missing-truth-conditions thesis is non-cognitivism, and neither religious naturalism nor religious fictionalism is defined by holding it.
+- **D:** Correct: assertion is the dividing line, and stating it also keeps error theory, which abandons the discourse altogether, separate from both of the other positions.
 
 **Examiner trap 32:** The comparative sentence worth writing is that Indian systems offer graded truth where Western fictionalism offers pretence, which is why sincerity is easier to preserve on the Indian model.
 
+#### MCQ 33 — solution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct. Creator-belief and the practices constituting a religion are separate classification questions.
+- **B:** Incorrect. It moves from a true Jain counterexample to an overinclusive criterion that turns every secular veneration into religion.
+- **C:** Incorrect. Agnostic individuals can participate in religion, but the *epistemic position by itself* supplies neither ritual nor soteriology.
+- **D:** Incorrect. Unseen efficacy (*apūrva*) is not a conscious world-creator; Mīmāṃsā's non-theism remains a substantial case.
+
+**Examiner trap 33:** “Without God” need not deny every deity or every form of ultimacy.
+
+**Coverage decision (33, not a quota):** The set tests the definition argument, Buddhist and Jain creator denial, authorless Mīmāṃsā ritual, Cārvāka criticism, agnosticism and theist counterarguments. The added classification item separates non-theistic religion from a merely secular ethic without defining either away. These cover seven primary-owned 2018–2025 parts; the verified 2026 section contains none.
+
 ## PYQS AND ANSWER PRACTICE
 
-### Verified previous-year questions — 7 complete solutions
+### Verified 2018–2025 previous-year questions — 7 complete solutions (none primary-owned in 2026)
 
-**Word bands used throughout.** 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words. Every question below is reproduced in its **exact printed wording** from the audited Philosophy of Religion previous-year ledger, 2018–2025, in which this clause owns seven question-parts and is absent as a primary owner only in 2022. **The model answers are independent learner practice and are never official UPSC keys.**
+**Timed-paper planning, not an answer cap.** The seven stems below reproduce the audited 2018–2025 ledger; none is primary-owned in 2026. Models are independent learner practice, never official UPSC keys.
 
 **Timing skeleton.** 10 marks — 1 minute to decode, 1 to outline, 6 to write, 1 to check. 15 marks — 1 / 2 / 10 / 2. 20 marks — 2 / 3 / 13 / 2. **Standing penalties in this clause:** an answer with no stated definition of religion; "atheistic" used where "non-theistic" is meant; Cārvāka offered as an instance rather than as the limit; the Mīmāṃsā Veda called revelation; and any invented year for Smart, Feuerbach, Freud or Comte.
 
@@ -948,7 +944,7 @@ Two replies are required. The charge of self-refutation is met by reading the de
 - Supplies both replies to self-refutation and flags the reported strand as reported.
 - Ends with the verdict formula tying the critique's success to its epistemology.
 
-### Original solved Mains practice — 6 models
+### Original solved Mains practice — six baseline models plus a Cārvāka–Mīmāṃsā comparison
 
 The following are original, independently prepared practice questions and model answers, not previous-year questions or official solutions.
 
@@ -1092,15 +1088,25 @@ This clause owns seven parts across 2018–2025 and is absent as a primary owner
 
 ### Self-scoring and next steps
 
-| Diagnostic score (out of 32) | Reading it | What to do next |
+| Diagnostic score (out of 33) | Reading it | What to do next |
 |---:|---|---|
-| 28–32 | the discriminations are secure | practise under time: a 15-marker and a 20-marker back to back, 45 minutes total |
+| 28–33 | the discriminations are secure | practise under time: a 15-marker and a 20-marker back to back, 45 minutes total |
 | 22–27 | content is present, discriminations are soft | re-run the traps for every item missed, then rewrite one model answer from memory |
 | 15–21 | the definition test is not yet automatic | re-read register cards 1–3 and the graded verdict ladder before attempting more questions |
 | below 15 | non-theism, atheism and agnosticism are being confused | return to the learning session's Basic block, Sessions 1–4; do not attempt timed answers yet |
 
-**Trap census by cluster.** Of the thirty-two examiner traps in this workbook, six concern the definition test and the criteria cluster, five concern the Buddhist material and the devotional complication, six concern Mīmāṃsā (authorless scripture, the sūtra, the postulate and the two schools), six concern Cārvāka (the concomitance argument, attribution discipline, the replies and the classification), three concern Jainism and Sāṃkhya–Yoga, three concern the four negative positions and agnosticism's two deliverables, and three concern the modern naturalism/fictionalism discriminations. A candidate who repeatedly misses one cluster should revise that cluster rather than attempt more mixed practice.
+**Trap census by cluster.** Of the first thirty-two examiner traps in this workbook, six concern the definition test and the criteria cluster, five concern the Buddhist material and the devotional complication, six concern Mīmāṃsā (authorless scripture, the sūtra, the postulate and the two schools), six concern Cārvāka (the concomitance argument, attribution discipline, the replies and the classification), three concern Jainism and Sāṃkhya–Yoga, three concern the four negative positions and agnosticism's two deliverables, and three concern the modern naturalism/fictionalism discriminations. A candidate who repeatedly misses one cluster should revise that cluster rather than attempt more mixed practice.
 
 ### Independence note
 
-Every model answer in Parts 3 and 4 is independent learner practice written to the repository's examiner-grade standard. UPSC does not publish official Mains answers or marking keys, and nothing here should be presented as one. The previous-year stems themselves are reproduced verbatim from the audited 2018–2025 Philosophy of Religion ledger, in which this clause owns seven question-parts and is absent as a primary owner only in 2022.
+Every model answer in Parts 3 and 4 is independent learner practice written to the repository's examiner-grade standard. UPSC does not publish official Mains answers or marking keys, and nothing here should be presented as one. The previous-year stems are reproduced verbatim from the audited 2018–2025 Philosophy of Religion ledger; this clause owns seven parts in that interval and none in 2026. The verified 2026 supplement routes Q5(e) to Reason, Revelation and Faith and Q7(b) to Notions of God, not to this clause; 2022 and 2026 are the years without a primary-owned question in 2018–2026.
+
+#### Further original Mains practice — two non-creator routes with different warrants
+
+**Original 7 · 20 marks — Compare the Cārvāka challenge to unseen gods with Mīmāṃsā's account of authorless Vedic duty. Does rejection of a creator have the same philosophical basis and religious consequences in both?**
+
+**Model solution.** Both can reject the inference that world order requires a personal author, but not for the same reason. The Cārvāka challenges attempts to establish an unperceived creator by inference: observed concomitance between familiar products and human makers does not supply a universal warrant that the *whole world* has an analogous maker. Perception is the key evidential control, though attribution must be careful: particular Cārvāka accounts of inference differ, and “no reliable inference to this unseen cause” is more defensible than “no inference about anything is ever allowed”. A critic can answer that ordinary knowledge itself relies on extrapolation, but the Cārvāka rejoinder is that a world-creator is not a familiar repeatable case.
+
+Classical Mīmāṃsā, by contrast, accepts authoritative authorless scripture (*apauruṣeya Veda*) and ritual duty (dharma) known through injunction. Its account of ritual efficacy invokes an unseen connection (*apūrva*) without needing an intelligent divine dispenser of each fruit. The lack of a human or divine author protects the Veda from an author's defects; but the school's critic can ask how authorlessness yields reliability or resolves interpretive disagreements. Mīmāṃsā's response locates normative validity in the enduring injunctional tradition, rather than Cārvāka's sensory restriction.
+
+Thus Cārvāka's refusal of the creator is chiefly an epistemic criticism of unsupported inference, with a broader critique of ritual authority; Mīmāṃsā's is an economy argument *inside* a ritual religion whose norms and fruits already have an account. **Verdict:** They converge on dispensability of a maker but diverge sharply in what counts as knowledge, what constitutes dharma and whether non-theism supports or contests an organised religious life.

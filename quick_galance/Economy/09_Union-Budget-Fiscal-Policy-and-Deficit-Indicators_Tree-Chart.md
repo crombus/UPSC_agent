@@ -1,6 +1,6 @@
 # Economy Topic 9 — Union Budget, Fiscal Policy and Deficit Indicators
 
-**Current-law/data cutoff:** 9 September 2026  
+**Current-law/data cutoff:** 9 September 2026
 **Budget publication anchor:** Union Budget 2026-27, presented 1 February 2026.
 
 ```text
@@ -23,7 +23,8 @@ CONSTITUTION -> FUNDS -> RECEIPTS/EXPENDITURE -> DEFICITS
 | Fund | Decode | Withdrawal boundary |
 |---|---|---|
 | CFI | Consolidated Fund of India: revenue, loans raised and loan recoveries | Appropriation required |
-| Public Account | Trust-like, repayable balances such as provident funds and small savings | Routine repayment does not need appropriation |
+| Public Account | Trust-like, repayable balances such as provident funds and small savings | Routine repayment
+   does not need appropriation |
 | Contingency Fund | Imprest for urgent unforeseen expenditure | Advance first; ex-post approval and recoupment |
 
 **Current dated fact:** the Key to Budget Documents 2026 states a Rs 30,000 crore Contingency Fund

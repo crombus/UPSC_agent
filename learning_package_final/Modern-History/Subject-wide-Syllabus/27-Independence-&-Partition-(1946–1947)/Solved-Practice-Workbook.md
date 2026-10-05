@@ -6,821 +6,186 @@ topic_key: modern-indian-history-27
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Cabinet Mission attempted unity?
+### Q1. What is the correct relationship between Cabinet Mission grouping and the June 1947 partition decision?
 
-A. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-D. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
+A. The Mission sought a united constitutional framework with groups; the later 3 June Plan accepted partition after that compromise failed.
+B. The Mission itself granted two sovereign dominions and Radcliffe drew their borders in May 1946.
+C. The 3 June Plan restored the Mission's undivided union with compulsory grouping.
+D. The Mission abolished provinces, making the 1947 division of Punjab legally impossible.
 
-**Answer: A.**
-**Explanation:** The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q2. Why is calling the 1945–46 elections 'a national plebiscite for Partition' misleading?
 
-### Q2. Which chronology card should be filed under Cabinet Mission attempted unity?
+A. The ballots asked all adults directly whether the 3 June Plan should be enacted.
+B. Voting occurred under restricted franchise and separate electorates, not a universal territorial referendum.
+C. The polls were conducted after the July 1947 Independence Act had created the dominions.
+D. Only princely rulers voted, with no candidates in provincial constituencies.
 
-A. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-B. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-C. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-D. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
+### Q3. Which counterexample weakens the claim that partition was inevitable immediately after the 1945–46 electoral verdict?
 
-**Answer: B.**
-**Explanation:** The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The Radcliffe award was published before the 1946 election.
+B. Punjab and Bengal had already been divided by the 1935 Act.
+C. Congress and League each accepted a form of the Cabinet Mission's united-India scheme during 1946.
+D. Wavell cancelled the Simla Conference before it opened in 1945.
 
-### Q3. Which option should a candidate retain when revising Cabinet Mission attempted unity?
+### Q4. Which chronology most directly documents how the 1946 compromise unravelled?
 
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-D. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
+A. Congress-only Interim Government → Direct Action Day → League withdrawal → Nehru's July position.
+B. 3 June partition plan → Simla Conference → Direct Action Day → Assembly inauguration.
+C. Indian Independence Act → League's acceptance of Cabinet Mission → Calcutta violence → 1945 elections.
+D. Nehru's July AICC position → League's withdrawal in late July → Direct Action Day → Congress-only Interim Government.
 
-**Answer: C.**
-**Explanation:** The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q5. What does the geographical spread of 1946–47 violence indicate?
 
-### Q4. Which statement avoids a common matching trap about Cabinet Mission attempted unity?
+A. Calcutta was followed by violence in Noakhali, Bihar and Punjab, requiring analysis of different local settings.
+B. All killings happened on one day in Calcutta and nowhere else.
+C. Violence occurred only along boundaries already published by Radcliffe in 1946.
+D. Noakhali was a referendum on accession of princely states.
 
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-C. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-D. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
+### Q6. Which distinction prevents conflating the League's Direct Action call and the Interim Government?
 
-**Answer: D.**
-**Explanation:** The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The League joined the Interim Government before calling Direct Action in August.
+B. Direct Action Day was 16 August 1946; a Congress-only Interim Government took office on 2 September 1946.
+C. The Interim Government was created by the July 1947 Independence Act.
+D. Direct Action was the legally required inaugural session of the Constituent Assembly.
 
-### Q5. Which statement correctly identifies Direct Action Day, 16 August 1946?
+### Q7. Which statement correctly describes the December 1946 Constituent Assembly opening?
 
-A. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-B. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-C. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-D. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
+A. It convened in January 1945 with Jinnah as unanimous president.
+B. It was identical to the Cabinet Mission's three visiting ministers.
+C. It first met on 9 December without League participation despite Britain's 6 December clarification of compulsory grouping.
+D. It met only after India became an independent republic in 1950.
 
-**Answer: A.**
-**Explanation:** Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q8. Which Attlee statement fixed the final British withdrawal deadline?
 
-### Q6. Which chronology card should be filed under Direct Action Day, 16 August 1946?
+A. On 15 March 1946, immediate transfer on the same day was enacted.
+B. On 3 June 1947, Attlee enacted the Radcliffe boundary award.
+C. In July 1947, he promised to keep British paramountcy permanently.
+D. On 20 February 1947, transfer of power was promised no later than June 1948.
 
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-C. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-D. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
+### Q9. Why did a compressed 1947 timetable matter for administrative outcomes?
 
-**Answer: B.**
-**Explanation:** Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. A quick transfer left less time to prepare for migration, violence and demarcation; it did not alone cause every conflict.
+B. It made borders known years before the 1946 communal violence.
+C. It guaranteed an orderly, fully staffed cross-border evacuation before any awards.
+D. It suspended the British withdrawal decision indefinitely.
 
-### Q7. Which option should a candidate retain when revising Direct Action Day, 16 August 1946?
+### Q10. What is the role of the 3 June 1947 Plan in the legal-historical sequence?
 
-A. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-B. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-C. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-D. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
+A. The parliamentary statute that by itself appointed Cyril Radcliffe judge of every princely state.
+B. A political plan accepting partition, with provincial division and referendums, later enacted through parliamentary legislation.
+C. The 1946 plan that kept a weak common centre and three provincial sections.
+D. The public disclosure of final district boundary lines in Punjab and Bengal.
 
-**Answer: C.**
-**Explanation:** Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q11. Which 3 June Plan process involved referendums rather than simply assuming every province voted alike?
 
-### Q8. Which statement avoids a common matching trap about Direct Action Day, 16 August 1946?
+A. A national adult-franchise referendum held across all of British India.
+B. Only a referendum for Bombay and Madras, with no arrangements for Bengal.
+C. Referendums for the North-West Frontier Province and Sylhet alongside partition decisions for Punjab and Bengal.
+D. A plebiscite of all princely-state subjects to choose the Governor-General.
 
-A. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-B. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-C. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-D. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
+### Q12. Why should an exam answer separate the 3 June Plan from the Indian Independence Act?
 
-**Answer: D.**
-**Explanation:** Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Both were identical instruments passed by the Constituent Assembly on 9 December 1946.
+B. The Act rejected partition and reinstated the Cabinet Mission grouping.
+C. The plan legally ended British paramountcy in 1946 and the Act reversed it.
+D. The former stated the partition policy; the latter created two dominions through British legislation in July.
 
-### Q9. Which statement correctly identifies Regional violence of 1946-47 without collective guilt?
+### Q13. What did the July 1947 Indian Independence Act provide concerning princely states?
 
-A. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-D. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
+A. British paramountcy lapsed rather than transferring automatically to the Indian Dominion.
+B. All princely states were absorbed automatically into India by an express Radcliffe order.
+C. British paramountcy continued permanently under the Governor-General of Pakistan.
+D. Each ruler was made a voting member of the British House of Commons.
 
-**Answer: A.**
-**Explanation:** Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q14. Which legal change took effect from 15 August 1947 under the Independence Act?
 
-### Q10. Which chronology card should be filed under Regional violence of 1946-47 without collective guilt?
+A. India alone became a sovereign republic with a constitution already in force.
+B. Two dominions came into existence and British authority over princely states ceased through lapse of paramountcy.
+C. The Cabinet Mission union began exercising defence for both dominions indefinitely.
+D. Radcliffe's published boundary award had been disclosed to all refugees months earlier.
 
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-C. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-D. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
+### Q15. What task did Cyril Radcliffe perform in 1947?
 
-**Answer: B.**
-**Explanation:** Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Proposed the 1946 Cabinet Mission grouping of provinces as a British minister.
+B. Led the INA's military campaign in Imphal and Kohima.
+C. Chaired boundary commissions for partition of Punjab and Bengal, rather than deciding whether India should partition.
+D. Drafted the 1940 Lahore Resolution for the Muslim League.
 
-### Q11. Which option should a candidate retain when revising Regional violence of 1946-47 without collective guilt?
+### Q16. Why does publication timing of the Radcliffe award matter to accounts of violence and migration?
 
-A. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-B. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-C. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-D. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
+A. Its boundaries were announced in full before the 1945–46 elections.
+B. Its disclosure eliminated all subsequent communal violence by settling every minority claim.
+C. It was published only after the Constitution of India came into force in 1950.
+D. Its public disclosure after transfer left communities facing crucial territorial uncertainty at independence.
 
-**Answer: C.**
-**Explanation:** Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q17. What follows from describing displacement as 'around 10–15 million' in the local source?
 
-### Q12. Which statement avoids a common matching trap about Regional violence of 1946-47 without collective guilt?
+A. It is a broad estimate; neither a precise death toll nor an exact migrant count follows from it.
+B. Exactly 15 million were killed and no one migrated.
+C. Everyone displaced was recorded by a single complete August 1947 census.
+D. The range proves migration affected only Punjab and not Bengal.
 
-A. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-B. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-C. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-D. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
+### Q18. Which regional comparison is most defensible for partition's impacts?
 
-**Answer: D.**
-**Explanation:** Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All regions experienced identical boundary commissions and identical migration patterns.
+B. Punjab and Bengal underwent territorial division and mass displacement; other regions faced political and minority-status questions without the same border division.
+C. Bombay and Madras were partitioned into equal shares under Radcliffe's two commissions.
+D. Bengal alone had population displacement, while Punjab remained undivided.
 
-### Q13. Which statement correctly identifies Attlee's statement of 20 February 1947?
+### Q19. What interpretation of Gandhi's location at independence is source-consistent?
 
-A. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-B. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-C. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-D. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
+A. He presided over the Punjab boundary commission on 15 August.
+B. He delivered Nehru's 'Tryst with Destiny' speech in Delhi.
+C. He was in Bengal working for communal peace rather than participating in celebrations in Delhi.
+D. He led the inaugural sitting of the Constituent Assembly in December 1946.
 
-**Answer: A.**
-**Explanation:** Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q20. Which causal analysis of partition best avoids an 'ancient hatreds' explanation?
 
-### Q14. Which chronology card should be filed under Attlee's statement of 20 February 1947?
+A. Partition followed automatically from ancient religious doctrine without modern political agency.
+B. Only the February 1947 deadline mattered; all earlier electoral structures were irrelevant.
+C. The League's 1946 election mandate legally mandated precise Punjab and Bengal boundaries.
+D. Long-run separate-electorate institutions, wartime party realignment, failed 1946 negotiations and 1947 accelerated transfer interacted.
 
-A. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-D. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
+### Q21. How should a student assess the League's 1946 Muslim-constituency success without exaggeration?
 
-**Answer: B.**
-**Explanation:** Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It made exclusion from negotiations unrealistic but neither measured every Muslim view nor constitutionally decided partition.
+B. It proved every individual Muslim supported the same Pakistan map.
+C. It elected the League to every provincial seat, including every general constituency.
+D. It automatically dissolved Congress and all provincial legislatures.
 
-### Q15. Which option should a candidate retain when revising Attlee's statement of 20 February 1947?
+### Q22. Which allocation of agency avoids blaming religious communities as such for partition?
 
-A. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-B. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-C. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-D. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
+A. Attribute every act of violence to every member of one faith.
+B. Specify British institutional policy, League leadership strategy, Congress choices and communal organisations' mobilisation, with constraints on each.
+C. Treat 1947 as a single British order without Indian party participation.
+D. Assume Congress leaders had endorsed every feature of the final settlement since 1916.
 
-**Answer: C.**
-**Explanation:** Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q23. Which comparison correctly characterises the fate of the Lahore Resolution and Cabinet Mission compromise?
 
-### Q16. Which statement avoids a common matching trap about Attlee's statement of 20 February 1947?
+A. Both were July 1947 British statutes legally creating the dominions.
+B. The Lahore Resolution imposed Radcliffe's Punjab line before the Mission reached India.
+C. The 1940 resolution articulated separate-state demands; the 1946 Mission sought a united union with groups, neither document itself fixed the 1947 boundary.
+D. The Mission guaranteed an independent Pakistan that the League rejected for wanting unity.
 
-A. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-B. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
+### Q24. For a 20-mark 'triumph and tragedy' answer, which architecture best covers both registers?
 
-**Answer: D.**
-**Explanation:** Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Independence-day speech alone, with no mention of migration or borders.
+B. Only a precise unsourced death toll followed by collective blame of one community.
+C. Boundary drawing as the sole cause of every preceding political conflict.
+D. Constitutional transfer and lapse of paramountcy → migration, communal violence and uneven regional effects → a qualified institutional legacy.
 
-### Q17. Which statement correctly identifies Mountbatten as the last Viceroy?
+### Source-and-interpretation coverage drills — Modern Topic 27
 
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-C. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-D. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-
-**Answer: A.**
-**Explanation:** Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q18. Which chronology card should be filed under Mountbatten as the last Viceroy?
-
-A. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-B. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-C. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-D. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-
-**Answer: B.**
-**Explanation:** Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q19. Which option should a candidate retain when revising Mountbatten as the last Viceroy?
-
-A. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-B. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-C. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-D. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-
-**Answer: C.**
-**Explanation:** Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q20. Which statement avoids a common matching trap about Mountbatten as the last Viceroy?
-
-A. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-B. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-
-**Answer: D.**
-**Explanation:** Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q21. Which statement correctly identifies The 3 June Plan as a political plan?
-
-A. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-B. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-C. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-D. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-
-**Answer: A.**
-**Explanation:** The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q22. Which chronology card should be filed under The 3 June Plan as a political plan?
-
-A. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-B. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-
-**Answer: B.**
-**Explanation:** The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q23. Which option should a candidate retain when revising The 3 June Plan as a political plan?
-
-A. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-B. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-C. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-D. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-
-**Answer: C.**
-**Explanation:** The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q24. Which statement avoids a common matching trap about The 3 June Plan as a political plan?
-
-A. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-
-**Answer: D.**
-**Explanation:** The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q25. Which statement correctly identifies Assembly votes divided Punjab and Bengal?
-
-A. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-B. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-C. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-D. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-
-**Answer: A.**
-**Explanation:** The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q26. Which chronology card should be filed under Assembly votes divided Punjab and Bengal?
-
-A. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-B. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-
-**Answer: B.**
-**Explanation:** The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q27. Which option should a candidate retain when revising Assembly votes divided Punjab and Bengal?
-
-A. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-D. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-
-**Answer: C.**
-**Explanation:** The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q28. Which statement avoids a common matching trap about Assembly votes divided Punjab and Bengal?
-
-A. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-D. The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum.
-
-**Answer: D.**
-**Explanation:** The decision to divide Punjab and Bengal was taken by separate votes of the notional Hindu-majority and Muslim-majority halves of each provincial legislative assembly, a legislative mechanism entirely distinct from a popular referendum. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q29. Which statement correctly identifies Referendums in the North-West Frontier Province and Sylhet?
-
-A. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-B. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-C. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-D. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-
-**Answer: A.**
-**Explanation:** The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q30. Which chronology card should be filed under Referendums in the North-West Frontier Province and Sylhet?
-
-A. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-B. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-
-**Answer: B.**
-**Explanation:** The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q31. Which option should a candidate retain when revising Referendums in the North-West Frontier Province and Sylhet?
-
-A. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-D. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-
-**Answer: C.**
-**Explanation:** The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q32. Which statement avoids a common matching trap about Referendums in the North-West Frontier Province and Sylhet?
-
-A. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-B. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-C. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-D. The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases.
-
-**Answer: D.**
-**Explanation:** The North-West Frontier Province and the Sylhet district of Assam decided their future by referendum under the 3 June Plan, and both results took them into Pakistan; the Congress-aligned boycott of the North-West Frontier Province poll is standard knowledge rather than a claim drawn from the local owner files, and the referendum route applied only to these two cases. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q33. Which statement correctly identifies Indian Independence Act: assent and commencement?
-
-A. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-B. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-C. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-D. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-
-**Answer: A.**
-**Explanation:** The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q34. Which chronology card should be filed under Indian Independence Act: assent and commencement?
-
-A. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-B. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-C. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-D. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-
-**Answer: B.**
-**Explanation:** The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q35. Which option should a candidate retain when revising Indian Independence Act: assent and commencement?
-
-A. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-B. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-C. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-D. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-
-**Answer: C.**
-**Explanation:** The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q36. Which statement avoids a common matching trap about Indian Independence Act: assent and commencement?
-
-A. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-B. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-C. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-D. The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement.
-
-**Answer: D.**
-**Explanation:** The Indian Independence Act received Royal Assent on 18 July 1947 and legally created the two independent dominions of India and Pakistan from 15 August 1947; Pakistan's later observance of 14 August as its national day is a separate commemorative fact and must never be presented as the Act's date of commencement. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q37. Which statement correctly identifies The lapse of British paramountcy?
-
-A. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-D. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-
-**Answer: A.**
-**Explanation:** The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q38. Which chronology card should be filed under The lapse of British paramountcy?
-
-A. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-B. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-C. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-D. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-
-**Answer: B.**
-**Explanation:** The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q39. Which option should a candidate retain when revising The lapse of British paramountcy?
-
-A. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-B. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-C. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-D. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-
-**Answer: C.**
-**Explanation:** The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q40. Which statement avoids a common matching trap about The lapse of British paramountcy?
-
-A. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-B. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-C. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-D. The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically.
-
-**Answer: D.**
-**Explanation:** The Act provided that British paramountcy over the princely states would lapse; paramountcy lapsed and did not pass wholesale to India or to Pakistan, which is precisely why accession had to be negotiated state by state rather than inherited automatically. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q41. Which statement correctly identifies Two Radcliffe boundary commissions?
-
-A. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-D. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-
-**Answer: A.**
-**Explanation:** Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q42. Which chronology card should be filed under Two Radcliffe boundary commissions?
-
-A. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-B. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-C. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-D. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-
-**Answer: B.**
-**Explanation:** Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q43. Which option should a candidate retain when revising Two Radcliffe boundary commissions?
-
-A. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-B. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-C. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-D. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-
-**Answer: C.**
-**Explanation:** Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q44. Which statement avoids a common matching trap about Two Radcliffe boundary commissions?
-
-A. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-B. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-C. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-D. Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman.
-
-**Answer: D.**
-**Explanation:** Two separate boundary commissions, one for Punjab and one for Bengal, were chaired by Cyril Radcliffe, a British lawyer with no prior Indian experience; each commission had an equal number of Congress-nominated and League-nominated judges, so when those members divided the decisions fell to the chairman. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q45. Which statement correctly identifies Radcliffe awards published on 17 August 1947?
-
-A. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-B. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-C. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-D. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-
-**Answer: A.**
-**Explanation:** The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q46. Which chronology card should be filed under Radcliffe awards published on 17 August 1947?
-
-A. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-B. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-C. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-D. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-
-**Answer: B.**
-**Explanation:** The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q47. Which option should a candidate retain when revising Radcliffe awards published on 17 August 1947?
-
-A. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-B. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-C. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-D. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-
-**Answer: C.**
-**Explanation:** The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q48. Which statement avoids a common matching trap about Radcliffe awards published on 17 August 1947?
-
-A. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-B. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-C. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-D. The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn.
-
-**Answer: D.**
-**Explanation:** The Radcliffe awards were published on 17 August 1947, after the transfer of power, so people in many border districts did not know which state they were in when independence came; that delay aggravated uncertainty and flight, but the award alone did not cause all the violence, which had begun long before the line was drawn. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q49. Which statement correctly identifies Three instruments, three functions?
-
-A. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-B. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-C. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-D. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-
-**Answer: A.**
-**Explanation:** The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q50. Which chronology card should be filed under Three instruments, three functions?
-
-A. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-B. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-C. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-D. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-
-**Answer: B.**
-**Explanation:** The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q51. Which option should a candidate retain when revising Three instruments, three functions?
-
-A. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-B. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-C. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-D. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-
-**Answer: C.**
-**Explanation:** The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q52. Which statement avoids a common matching trap about Three instruments, three functions?
-
-A. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-B. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-C. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-D. The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism.
-
-**Answer: D.**
-**Explanation:** The three instruments of 1947 performed different functions and were separated in time and authority: the 3 June Plan was the political decision, the Indian Independence Act was the legal enactment, and the two Radcliffe awards were the boundary mechanism. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q53. Which statement correctly identifies Congress acceptance as reluctant pragmatism?
-
-A. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-B. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-C. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-D. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-
-**Answer: A.**
-**Explanation:** Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q54. Which chronology card should be filed under Congress acceptance as reluctant pragmatism?
-
-A. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-B. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-C. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-D. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-
-**Answer: B.**
-**Explanation:** Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q55. Which option should a candidate retain when revising Congress acceptance as reluctant pragmatism?
-
-A. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-B. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-C. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-D. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-
-**Answer: C.**
-**Explanation:** Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q56. Which statement avoids a common matching trap about Congress acceptance as reluctant pragmatism?
-
-A. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-D. Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy.
-
-**Answer: D.**
-**Explanation:** Congress acceptance of Partition was reluctant and pragmatic rather than programmatic: it followed the constitutional deadlock of 1946, escalating violence and the leadership's judgement that a weak centre with compulsory grouping would produce an ungovernable state, and it must never be presented as long-standing Congress policy. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q57. Which statement correctly identifies Partition was not inevitable in 1906, 1940 or 1946?
-
-A. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-B. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-C. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-D. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-
-**Answer: A.**
-**Explanation:** Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q58. Which chronology card should be filed under Partition was not inevitable in 1906, 1940 or 1946?
-
-A. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-B. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-C. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-D. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-
-**Answer: B.**
-**Explanation:** Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q59. Which option should a candidate retain when revising Partition was not inevitable in 1906, 1940 or 1946?
-
-A. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-D. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-
-**Answer: C.**
-**Explanation:** Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q60. Which statement avoids a common matching trap about Partition was not inevitable in 1906, 1940 or 1946?
-
-A. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-B. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-C. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-D. Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict.
-
-**Answer: D.**
-**Explanation:** Partition was not made inevitable by the founding of the Muslim League in 1906, by the Lahore Resolution of 1940 or by the elections of 1945-46; it is best explained as cumulative structure plus contingent decisions, and both parties accepted the Cabinet Mission scheme in some form in June and July 1946, after the electoral verdict. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q61. Which statement correctly identifies No single-villain explanation?
-
-A. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-B. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-C. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-D. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-
-**Answer: A.**
-**Explanation:** No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q62. Which chronology card should be filed under No single-villain explanation?
-
-A. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-B. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-C. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-D. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-
-**Answer: B.**
-**Explanation:** No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q63. Which option should a candidate retain when revising No single-villain explanation?
-
-A. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-B. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-C. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-D. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-
-**Answer: C.**
-**Explanation:** No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q64. Which statement avoids a common matching trap about No single-villain explanation?
-
-A. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-D. No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation.
-
-**Answer: D.**
-**Explanation:** No single-villain explanation survives scrutiny: colonial constitutional engineering from the separate electorates of 1909 onwards and the hasty withdrawal of 1947, the Muslim League's strategy after 1940, Congress calculations about a strong centre, communal organisations on every side, mass fear and violence, and distinct regional dynamics in Punjab, Bengal and the United Provinces each carry part of the explanation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q65. Which statement correctly identifies Displacement as a broad estimate, deaths contested?
-
-A. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-D. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-
-**Answer: A.**
-**Explanation:** Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under Displacement as a broad estimate, deaths contested?
-
-A. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-B. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-C. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-D. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-
-**Answer: B.**
-**Explanation:** Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising Displacement as a broad estimate, deaths contested?
-
-A. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-D. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-
-**Answer: C.**
-**Explanation:** Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about Displacement as a broad estimate, deaths contested?
-
-A. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-B. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-C. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-D. Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer.
-
-**Answer: D.**
-**Explanation:** Displacement across the new border is commonly estimated at around 10 to 15 million people, and that figure may be used only as a broad estimate; death tolls are contested across a wide range and must not be stated with false precision in any answer. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Gandhi in Calcutta, not celebrating in Delhi?
-
-A. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-B. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-C. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-D. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-
-**Answer: A.**
-**Explanation:** At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Gandhi in Calcutta, not celebrating in Delhi?
-
-A. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-B. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-C. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-D. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-
-**Answer: B.**
-**Explanation:** At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Gandhi in Calcutta, not celebrating in Delhi?
-
-A. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-B. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-C. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-D. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-
-**Answer: C.**
-**Explanation:** At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Gandhi in Calcutta, not celebrating in Delhi?
-
-A. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-B. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-C. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-D. At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant.
-
-**Answer: D.**
-**Explanation:** At independence Gandhi was in Calcutta and Bengal working for communal peace, not celebrating in Delhi, while Jawaharlal Nehru delivered the 'Tryst with Destiny' speech in the Constituent Assembly; the contrast between the two locations is itself the clearest statement of what that moment meant. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies Three simultaneous registers of independence?
-
-A. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-D. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-
-**Answer: A.**
-**Explanation:** Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q74. Which chronology card should be filed under Three simultaneous registers of independence?
-
-A. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-B. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-C. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-D. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-
-**Answer: B.**
-**Explanation:** Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q75. Which option should a candidate retain when revising Three simultaneous registers of independence?
-
-A. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-D. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-
-**Answer: C.**
-**Explanation:** Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q76. Which statement avoids a common matching trap about Three simultaneous registers of independence?
-
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-C. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-D. Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated.
-
-**Answer: D.**
-**Explanation:** Legal transfer, political triumph and humanitarian catastrophe are analytically simultaneous: the same weeks produced an unprecedented constitutional transfer in the colonial world, the fulfilment of a mass national movement, and mass displacement and killing that the transfer's speed and its unpoliced boundary directly aggravated. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies Aftermath, institutions and public remembrance?
-
-A. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-B. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-C. The Cabinet Mission of 1946 rejected a sovereign Pakistan and proposed a united three-tier scheme of Union, groups and provinces; it attempted to preserve unity and did not partition India, so Partition must be explained by the collapse of that scheme and by what followed it rather than by the Mission itself.
-D. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-
-**Answer: A.**
-**Explanation:** Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under Aftermath, institutions and public remembrance?
-
-A. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-B. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-C. Direct Action Day on 16 August 1946 was a Muslim League political call issued after the constitutional deadlock; in Calcutta it was followed by the killings remembered as the Great Calcutta Killings, and the political call, the Calcutta violence and the later regional violence are three separable things that a careful answer keeps distinct.
-D. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-
-**Answer: B.**
-**Explanation:** Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising Aftermath, institutions and public remembrance?
-
-A. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-D. Communal violence spread through Noakhali, Bihar and the Punjab in 1946-47 in reciprocal waves driven by organisations, local leaderships, rumour and armed bands; agency must be assigned to those organisations and leaderships and never to whole communities, and no religious community may be described as collectively guilty.
-
-**Answer: C.**
-**Explanation:** Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about Aftermath, institutions and public remembrance?
-
-A. The Mountbatten Plan announced on 3 June 1947 was a political plan: it accepted Partition and provided for the division of Punjab and Bengal, referendums in the North-West Frontier Province and Sylhet, and boundary commissions; it was not an Act of Parliament and did not by itself transfer power.
-B. Attlee announced on 20 February 1947 that Britain would transfer power to responsible Indian hands not later than June 1948, an announcement that must be distinguished from his earlier statement of 15 March 1946 that a minority would not be allowed to place a veto on the progress of the majority.
-C. Lord Mountbatten arrived in March 1947 as the last Viceroy and converted the June 1948 outer limit into a far shorter timetable; the acceleration is an analytical fact about how Partition was executed and about the disorder that followed, not an explanation of why Partition was chosen.
-D. Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor.
-
-**Answer: D.**
-**Explanation:** Partition's aftermath became the new state's first administrative test — refugee rehabilitation, a divided army, civil service and treasury, disrupted rivers, railways and trade, and minority questions on both sides — and it strengthened the constitutional case for a strong centre and for secularism as a state commitment; the Ministry of Culture's observance of Partition Horrors Remembrance Day on 13 and 14 August 2026 in Delhi, Amritsar and Kolkata, with exhibitions, documentaries, survivor testimonies and silent marches, is this package's only current-affairs anchor. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Semantic-completeness coverage drills — Topic 27
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | How should conquest inscriptions be used? | claim/date/target → rival/material evidence → duration limit | audited empire map |
-| B | Was the Chola state centralized? | royal command/survey → intermediaries/local bodies → three models → graded verdict | bureaucracy versus autonomy binary |
-| C | What does Uttaramerur prove? | brahmadeya scope → eligibility/disqualification → kudavolai/variyam → exclusion | universal democracy |
-| D | Explain the agrarian base. | Kaveri/tanks/canals → land rights/survey/tax/labour → hierarchy | ecological determinism |
-| E | Reconstruct social dependence. | inscriptional term/settlement → labour and legal context → slavery caution | modern chattel equivalence |
-| F | Explain temple power. | ritual + land + labour + redistribution + craft + education/archive → variation | temple command economy |
-| G | Assess merchant and naval power. | guild/port/commodity → state interaction → Sri Lanka/Srivijaya distinction | colonization |
-| H | Build the culture answer. | three temples → bronzes/Nataraja → Tamil/Sanskrit → labour/patronage limit | monuments equal universal prosperity |
-
-**PYQ self-check:** 2020 Q24, 2022 GS-I Q12, 2024 GS-I Q11 and 2025 Q16
-must all be executable from chronology, culture and maritime evidence.
+| Drill | Required evidence and reasoning | Fatal trap |
+|---|---|---|
+| Long versus immediate causes | Communal representation and party rivalry → failed Cabinet grouping → violence → hurried transfer | Describe division as timeless or inevitable since antiquity |
+| The 1946 mandate | Separate electorates and restricted franchise, strong rival party results and unresolved territorial choice | Label it a national plebiscite on borders |
+| Dated collapse | July statements and League withdrawal → 16 August violence → September government → December boycott | Reverse Direct Action and Interim Government |
+| Transfer timetable | 20 February latest June 1948 deadline → Mountbatten arrival → earlier 3 June partition decision | Treat announced deadline as actual transfer day |
+| Three instruments | 3 June political plan → July parliamentary Act → Radcliffe commissions and later boundary disclosure | Treat a political plan as statute or award |
+| Princely states | Act's lapse of paramountcy and subsequent accession problem | Assume British paramountcy automatically vested in India |
+| Human consequences | Uneven regional migration and communal violence; label broad displacement estimates | Invent an exact death toll or uniform regional experience |
+| PYQ provenance | Retain routed language-movement question as unkeyed until separately sourced; preserve solved Mains analysis | Invent a provisional official answer |
 
 ### Semantic-completeness coverage drills — Modern Topic 27
 
@@ -1054,3 +419,197 @@ must all be executable from chronology, culture and maritime evidence.
 **Why this earns marks:** The answer obeys the directive, distinguishes dates and policy stages, connects evidence to mechanism, recognises regional/social variation and avoids teleology or hero worship.
 
 **How to improve this answer:** For “Discuss why independence and Partition must be assessed together as legal transfer,…”, replace the weakest generalisation with one additional named primary/official record or attributed scholarly interpretation and state exactly what it cannot prove.
+
+## MCQ ANSWER KEY AND OPTION-SPECIFIC EXPLANATIONS
+
+### Q1 — A
+
+- **A:** Distinct constitutional strategies belong to successive stages.
+- **B:** The Mission rejected Pakistan and did not commission Radcliffe's boundaries.
+- **C:** Partition replaced the failed union compromise.
+- **D:** Provinces remained central to both schemes.
+- **Trap:** Do not attribute a 1947 decision to a 1946 scheme.
+
+### Q2 — B
+
+- **A:** The plan had not yet been proposed.
+- **B:** Rival party mandates did not decide borders or transfer sovereignty.
+- **C:** The elections preceded the Act.
+- **D:** Provincial party elections did take place.
+- **Trap:** League campaign framing does not change the poll's constitutional form.
+
+### Q3 — C
+
+- **A:** Radcliffe worked on the later boundary.
+- **B:** The 1935 Act did not partition these provinces.
+- **C:** A constitutional compromise remained on the table after the elections.
+- **D:** Simla met and failed over representation.
+- **Trap:** Acceptance of different readings was fragile, not proof of settled unity.
+
+### Q4 — D
+
+- **A:** Interim Government started in September, after August violence.
+- **B:** Simla was 1945 and the 3 June plan 1947.
+- **C:** The Act followed all of these 1946 events.
+- **D:** The order connects grouping disagreement to conflict and executive polarisation.
+- **Trap:** Sequence alone does not mean one actor caused all communal violence.
+
+### Q5 — A
+
+- **A:** Violence extended beyond a single metropolitan outbreak.
+- **B:** Other named regions saw grave violence.
+- **C:** Radcliffe's boundary decision was later.
+- **D:** Noakhali's violence was not a princely accession poll.
+- **Trap:** Avoid attributing identical dynamics to every region.
+
+### Q6 — B
+
+- **A:** The League joined later, in October.
+- **B:** Political mobilisation preceded the initial executive formation.
+- **C:** Government began in 1946, before that Act.
+- **D:** The Assembly first met in December.
+- **Trap:** A political call was not a Cabinet Mission constitutional requirement.
+
+### Q7 — C
+
+- **A:** The date and leadership are wrong.
+- **B:** A representative constitution-making body is not a British ministerial delegation.
+- **C:** The boycott shows that clarifying a clause did not settle rival sovereign claims.
+- **D:** Its opening preceded independence and republic.
+- **Trap:** Executive participation and Assembly attendance are separate.
+
+### Q8 — D
+
+- **A:** The March 1946 statement concerned the minority veto, not immediate transfer.
+- **B:** 3 June announced the partition plan; Radcliffe's boundary came later.
+- **C:** Paramountcy was to lapse under the Act.
+- **D:** The February announcement set a latest date that was later advanced.
+- **Trap:** The announced latest deadline is not the actual August transfer date.
+
+### Q9 — A
+
+- **A:** Speed interacted with existing communal and institutional crises.
+- **B:** Radcliffe's award was disclosed after independence.
+- **C:** The human emergency was not so neatly pre-managed.
+- **D:** Transfer was accelerated, not abandoned.
+- **Trap:** Treat accelerated timing as a contributing factor, not a sole cause.
+
+### Q10 — B
+
+- **A:** The Indian Independence Act was enacted in July.
+- **B:** The plan set political terms, not itself the final legal instrument.
+- **C:** This describes the Cabinet Mission framework.
+- **D:** Radcliffe's award set boundary details separately.
+- **Trap:** Decision, statute and boundary award have distinct functions.
+
+### Q11 — C
+
+- **A:** There was no universal partition vote.
+- **B:** The named referendums concern NWFP and Sylhet.
+- **C:** The plan differentiated regional procedures.
+- **D:** Princes and paramountcy raise a different problem.
+- **Trap:** Do not confuse district, provincial and sub-provincial decisions.
+
+### Q12 — D
+
+- **A:** Both events came in 1947 and had distinct authorship.
+- **B:** The Act established the dominions.
+- **C:** Paramountcy lapsed under the Act, not an earlier 1946 plan.
+- **D:** Political agreement and statutory enactment are different thresholds.
+- **Trap:** Parliamentary law does not by itself settle the precise boundary line.
+
+### Q13 — A
+
+- **A:** The lapse created a separate accession problem for the new dominions.
+- **B:** Radcliffe drew provincial boundaries, not an automatic accession decree.
+- **C:** The imperial relationship ended, not continued permanently.
+- **D:** Parliament did not confer such membership.
+- **Trap:** Do not substitute later integration outcomes for the Act's text.
+
+### Q14 — B
+
+- **A:** The Indian republic commenced in 1950.
+- **B:** Dominion status and lapse must be distinguished from the later republic.
+- **C:** The union compromise had failed.
+- **D:** Final award disclosure followed transfer.
+- **Trap:** Independence and republican constitution-making were not the same date.
+
+### Q15 — C
+
+- **A:** Radcliffe was not a Mission minister.
+- **B:** INA leadership was unrelated.
+- **C:** The boundary decision operationalised a prior political decision.
+- **D:** Lahore Resolution preceded his assignment.
+- **Trap:** A boundary award is not the political plan for partition.
+
+### Q16 — D
+
+- **A:** Radcliffe's work belongs to 1947.
+- **B:** A border did not remove human vulnerability.
+- **C:** Disclosure occurred soon after independence, not in 1950.
+- **D:** Uncertainty and rushed administration could intensify dislocation.
+- **Trap:** Distinguish award's making, its disclosure and its effects.
+
+### Q17 — A
+
+- **A:** The source cautions against false precision and separate unsupported mortality figures.
+- **B:** Displacement and deaths are different quantities.
+- **C:** A complete count is not evidenced here.
+- **D:** Movement affected more than one region.
+- **Trap:** Label estimates explicitly and never convert them into precise mortality.
+
+### Q18 — B
+
+- **A:** Border drawing was not identical nationwide.
+- **B:** Institutional and humanitarian consequences varied across regions.
+- **C:** Radcliffe commissions covered Punjab and Bengal.
+- **D:** Punjab was partitioned and experienced major upheaval.
+- **Trap:** Distinguish a countrywide constitutional change from region-specific boundary violence.
+
+### Q19 — C
+
+- **A:** Radcliffe chaired the boundary work.
+- **B:** Nehru gave that address.
+- **C:** His actions underscore the contrast between independence and partition violence.
+- **D:** Gandhi did not preside over the Assembly's first meeting.
+- **Trap:** Do not reduce independence to either triumph or tragedy alone.
+
+### Q20 — D
+
+- **A:** This erases colonial and Indian political decisions.
+- **B:** The deadline came after decades of political change.
+- **C:** Electoral mandate neither drew nor legislated boundaries.
+- **D:** Layered institutions, politics and contingencies support a qualified explanation.
+- **Trap:** A multi-causal answer specifies mechanisms, not collective blame.
+
+### Q21 — A
+
+- **A:** Electoral mandate constrained negotiation without eliminating later alternatives.
+- **B:** The franchise was restricted and proposals for Pakistan were not uniform.
+- **C:** Congress swept the general seats; Punjab showed variation.
+- **D:** Congress continued to negotiate and govern.
+- **Trap:** Distinguish strength of representation from inevitability of one settlement.
+
+### Q22 — B
+
+- **A:** Individual and community behaviour varied.
+- **B:** Responsibility concerns political actors and structures, not collective guilt.
+- **C:** Indian party strategy mattered alongside British policy.
+- **D:** Earlier electoral concessions did not fix the precise 1947 outcome.
+- **Trap:** Do not convert party claims into communal identities.
+
+### Q23 — C
+
+- **A:** Neither was the Independence Act.
+- **B:** The boundary was drawn much later.
+- **C:** Claims to sovereignty and attempts at compromise were distinct.
+- **D:** The Mission explicitly rejected partition into Pakistan.
+- **Trap:** Avoid projecting a final map into earlier claims.
+
+### Q24 — D
+
+- **A:** Constitutional rhetoric alone suppresses partition's human cost.
+- **B:** Unsupported statistics and collective guilt weaken evidence and ethics.
+- **C:** A 1947 boundary cannot explain all prior developments.
+- **D:** Balancing law, lived experience and aftermath addresses the directive.
+- **Trap:** Include a cautious estimate only when labelled as such.

@@ -1,0 +1,17 @@
+# Caste Discrimination: Gandhi and Ambedkar — MCQ Practice
+
+- **Subject:** Philosophy Optional
+- **Section:** Philosophy Paper II — Socio-Political Philosophy
+- **Topic key:** `philosophy-paper-ii-socio-political-philosophy-10`
+- **Available MCQs:** 32
+- **Source learning session:** `learning_package_final\Philosophy-Optional\Philosophy-Paper-II-—-Socio-Political-Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\Learning-Session.md`
+- **Source workbook:** `learning_package_final\Philosophy-Optional\Philosophy-Paper-II-—-Socio-Political-Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\Solved-Practice-Workbook.md`
+
+## Practice command
+
+`Start MCQ Practice: Philosophy Optional — Caste Discrimination: Gandhi and Ambedkar`
+
+The assistant must ask one hard MCQ at a time, independently randomize the correct
+answer position, balance option length/detail, record the learner response, and then
+provide statement-wise analysis, full forms, objectives/functions, timelines,
+examples and trap logic before proceeding.

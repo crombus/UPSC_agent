@@ -4,16 +4,15 @@ topic_key: ancient-indian-history-17
 ---
 # The Satavahanas and the Deccan — Solved Practice Workbook
 
-> **Practice contract:** exactly 32 original hard MCQs precede the verified PYQ block; strict A → B → C → D rotation repeats eight times; 128 unique option explanations and 32 unique examiner traps are separately identifiable. Four verified/routed PYQs preserve wording and key-status discipline. Six original Mains questions are independently isolated: 2 × 10 marks (≤150 words), 2 × 15 marks and 2 × 20 marks (each ≤250 words).
+> **Practice contract:** 40 original hard MCQs and all PYQ/Mains prompts precede the separate answer key; strict A → B → C → D rotation repeats ten times; 160 option explanations and 40 examiner traps are separately identifiable. Four verified/routed PYQs preserve wording and key-status discipline. Six original Mains questions are independently isolated: 2 × 10 marks (≤150 words), 2 × 15 marks and 2 × 20 marks (each ≤250 words).
 
-## BASIC MCQS / REMEDIATION
+## PRACTICE QUESTIONS — ATTEMPT BEFORE CONSULTING THE KEY
 
-### 32 ORIGINAL HARD MCQS
+### 40 ORIGINAL HARD MCQS
 
-> Exactly 32 original questions appear before the PYQ block. Correct keys rotate A → B → C → D eight times. Each question has four separately identifiable, unique option explanations and one unique examiner trap.
+> Original questions, not UPSC PYQs. Correct keys rotate A → B → C → D ten times.
 
 #### Q1
-
 Which formulation best places the Satavahanas in the post-Mauryan Deccan?
 
 - A. They built a long-lived regional polity by connecting agrarian zones, routes, chiefs, towns and religious institutions.
@@ -21,6 +20,402 @@ Which formulation best places the Satavahanas in the post-Mauryan Deccan?
 - C. They ruled only the lower Krishna delta and never the western Deccan.
 - D. They were merely a merchant association without dynastic kingship.
 
+#### Q2
+Which source strategy is safest for Satavahana chronology?
+
+- A. Treat the longest Puranic king-list as a complete contemporary annal.
+- B. Triangulate Puranic lists with inscriptions, coins, overstrikes, archaeology and bounded literary evidence.
+- C. Use coin findspots alone as exact frontiers and regnal dates.
+- D. Accept later literary attributions as court records without textual criticism.
+
+#### Q3
+How should the labels Andhra, Andhra-Bhritya and Satavahana be handled?
+
+- A. They prove that every Andhra-speaking population belonged to one dynasty.
+- B. Andhra-Bhritya certainly means servants of the Andhras and settles political origin.
+- C. The conventional identification is useful, but the labels come from different source traditions and do not settle homeland or ethnicity.
+- D. Satavahana appears only in the Puranas, while Andhra appears only in inscriptions.
+
+#### Q4
+Which statement about Simuka is most defensible?
+
+- A. He securely ruled from Amaravati in 78 CE.
+- B. He defeated Rudradaman and overstruck his silver coins.
+- C. He is known only from a Roman trade manual.
+- D. He is the conventional founder, but his absolute date, predecessor and earliest territorial base remain debated.
+
+#### Q5
+What makes Satakarni I and Naganika central to early Satavahana history?
+
+- A. The Naneghat inscription and portraits connect genealogy, royal sacrifice, gifts and a strategic coast-plateau pass.
+- B. Their record abolishes Brahmanical ritual in favour of exclusive Buddhism.
+- C. They are known chiefly from the Junagadh Sanskrit prashasti.
+- D. Their matronymics prove succession through women.
+
+#### Q6
+Which evidence combination best supports Gautamiputra Satakarni's western recovery?
+
+- A. Only the Puranic total of kings.
+- B. Gautami Balashri's Nashik prashasti, Gautamiputra's records and Nahapana overstrikes read together.
+- C. Only ship-motif coins from the eastern coast.
+- D. Only the later Gatha Saptashati tradition.
+
+#### Q7
+What is the strongest inference from the Jogalthembi hoard of Nahapana coins overstruck by Gautamiputra?
+
+- A. All Shakas were exterminated throughout India.
+- B. Every overstruck coin was produced on the day of one battle.
+- C. A political takeover was accompanied by revalidation and reuse of an existing silver currency stock.
+- D. The Satavahanas used only silver coinage.
+
+#### Q8
+How should Rudradaman's claim of twice defeating a Satakarni but sparing him because of kinship be used?
+
+- A. As proof that the Satavahanas became permanent Kshatrapa subjects.
+- B. As a neutral official record jointly issued by both dynasties.
+- C. As proof that marriage ended all warfare.
+- D. As rival prashasti evidence for repeated conflict coexisting with matrimonial diplomacy.
+
+#### Q9
+Which statement about Vashishthiputra Pulumavi is safest?
+
+- A. His inscriptions and coins mark a strong eastern Deccan phase while western connections and conflicts continued.
+- B. He founded the dynasty before Simuka.
+- C. He permanently annexed the whole Western Kshatrapa realm.
+- D. He composed the Naneghat inscription of Naganika.
+
+#### Q10
+Yajna Sri Satakarni's ship-motif coins most securely indicate:
+
+- A. A documented conquest of the Roman Empire.
+- B. Maritime symbolism within a later Satavahana coastal-commercial setting.
+- C. The disappearance of inland caravan trade.
+- D. A navy whose exact size is known from inscriptions.
+
+#### Q11
+Which statement best handles Satavahana capitals?
+
+- A. Amaravati was the uncontested capital under every ruler.
+- B. Pratishthana was irrelevant once eastern coins appeared.
+- C. Pratishthana/Paithan was a major western centre, while Amaravati-Dharanikota claims require phase-specific and evidence-bounded wording.
+- D. The dynasty had no political centres because its court was mobile.
+
+#### Q12
+In Satavahana records, an ahara is best understood as:
+
+- A. A guild treasury.
+- B. A Vedic horse sacrifice.
+- C. A Buddhist congregational hall.
+- D. A territorial-revenue or administrative division whose exact reach could vary.
+
+#### Q13
+What do maharathis and mahabhojas reveal about Satavahana rule?
+
+- A. Powerful regional chiefs could be donors, marriage partners and intermediaries within a layered polity.
+- B. They were salaried clerks with identical duties in every ahara.
+- C. They were Roman governors of Deccan ports.
+- D. Their appearance proves that the king had no authority.
+
+#### Q14
+What is the soundest inference from names such as Gautamiputra and Vashishthiputra?
+
+- A. Women alone inherited the throne.
+- B. Maternal gotra or lineage affiliation mattered in legitimacy and alliance within a basically patrilineal dynasty.
+- C. The Satavahana state was matriarchal.
+- D. Kings rejected paternal genealogy.
+
+#### Q15
+How should early Satavahana land grants and tax immunities be interpreted?
+
+- A. They were symbolic gifts without fiscal content.
+- B. They began only after the Gupta age.
+- C. They mark early transfers of revenue rights and exemptions, but not an already standardized mature feudal order.
+- D. They were made exclusively to maritime merchants.
+
+#### Q16
+Which agrarian formulation is most defensible for the Satavahana Deccan?
+
+- A. Irrigation alone explains every town and dynasty.
+- B. Agriculture remained technologically unchanged after the megalithic phase.
+- C. Only plantation crops supported the state.
+- D. Iron tools, paddy transplantation in suitable zones, cotton, wells/tanks and expanding settlements supported uneven regional growth.
+
+#### Q17
+What is the best evidence-based description of shrenis in the Satavahana economy?
+
+- A. Guild-like occupational bodies could organize production, identity and endowments, including deposits whose income supported religious institutions.
+- B. They were hereditary royal armies.
+- C. They eliminated household production everywhere.
+- D. They were identical to modern corporations with limited liability.
+
+#### Q18
+Which statement accurately describes Satavahana coinage?
+
+- A. It consisted only of Roman gold aurei.
+- B. Regional issues used lead prominently, along with potin, copper and some silver; motifs and legends varied.
+- C. Every coin carried a ship and a royal portrait.
+- D. Coin finds map exact administrative borders.
+
+#### Q19
+How should Roman contact be incorporated into Satavahana economic history?
+
+- A. As proof that all Deccan prosperity depended on Rome.
+- B. As evidence that Roman officials governed Satavahana ports.
+- C. As one component of wider inland and Indian Ocean exchange, visible in imports and coin finds but insufficient to prove universal prosperity.
+- D. As irrelevant because inland trade alone existed.
+
+#### Q20
+Which route statement is most accurate?
+
+- A. Bharukachchha, Sopara and Kalyana were continuously controlled by one Satavahana ruler.
+- B. Tagara was a seaport in the lower Krishna delta.
+- C. Naneghat connected only Buddhist monasteries and had no commercial role.
+- D. Western ports and passes linked with Pratishthana and Tagara, while eastern routes reached the Krishna-Godavari centres under shifting political control.
+
+#### Q21
+Gautamiputra's claim to uphold or restore varna order should be read primarily as:
+
+- A. Royal Brahmanical ideology that must be compared with evidence of occupational diversity and social mobility.
+- B. A demographic census proving complete endogamy.
+- C. A Buddhist monastic regulation.
+- D. Proof that foreign groups disappeared.
+
+#### Q22
+What does the adoption of Indian names, languages, donations and kinship by Yavana or Shaka-linked persons show?
+
+- A. Instant disappearance of all foreign identities.
+- B. Selective assimilation and participation in regional institutions rather than one-way or total cultural absorption.
+- C. A ban on non-Indian religious practices.
+- D. Uniform legal status across the Deccan.
+
+#### Q23
+What is the strongest conclusion from inscriptions naming queens, nuns, household women and occupational donors?
+
+- A. Women controlled every guild and monastery.
+- B. The society was fully egalitarian.
+- C. Women and non-royal donors had visible religious and social agency, though the archive favours people able to make recorded gifts.
+- D. Patriarchal constraints disappeared.
+
+#### Q24
+Which language-literature statement is accurate?
+
+- A. Satavahana inscriptions were normally Sanskrit in Kharoshthi.
+- B. The Gatha Saptashati is a contemporary administrative code.
+- C. Prakrit was absent from royal and donative records.
+- D. Prakrit in Brahmi dominates inscriptions, while the Gatha Saptashati tradition is attributed to Hala but textually layered.
+
+#### Q25
+Which formulation best captures Satavahana religious patronage?
+
+- A. Brahmanical sacrifices and claims coexisted with substantial Buddhist cave and stupa patronage by rulers, elites and occupational donors.
+- B. The state legally imposed exclusive Buddhism.
+- C. Vedic sacrifice disappeared after Satakarni I.
+- D. Buddhist monuments received donations only from kings.
+
+#### Q26
+Which site-evidence match is correct?
+
+- A. Kanheri—Naganika's early royal genealogy.
+- B. Nashik—Satavahana and Kshatrapa inscriptions; Karla/Karle and Kanheri—multi-donor cave networks on western routes.
+- C. Karla/Karle—Rudradaman's Junagadh prashasti.
+- D. Nashik—only Gupta-period records.
+
+#### Q27
+How should Amaravati be used in a Satavahana answer?
+
+- A. As proof that every sculptural phase was commissioned by one Satavahana king.
+- B. As a purely political capital with no religious landscape.
+- C. As a major lower Krishna Buddhist centre with a long multi-phase history, linked to Satavahana-era networks but continuing beyond the dynasty.
+- D. As a Gandharan monastery in the north-west.
+
+#### Q28
+Which source-limit pairing is correct?
+
+- A. Prashasti—neutral census; coin—exact border; archaeology—named dynasty automatically; Purana—contemporary annal.
+- B. Prashasti—useless propaganda; coin—only metal; archaeology—no chronology; literature—no historical value.
+- C. All sources have identical evidentiary strengths once translated.
+- D. Prashasti—claim and ideology; coin—issuer/circulation; archaeology—material context; Purana/literature—layered memory requiring corroboration.
+
+#### Q29
+Which account of Satavahana decline is most defensible?
+
+- A. Regional fragmentation produced successors such as Ikshvakus, Abhiras and Chutus while trade, settlements and religious institutions continued unevenly.
+- B. One Roman embargo instantly erased every Deccan town.
+- C. The dynasty merged peacefully into the Kushana Empire.
+- D. A single battle ended Satavahana authority everywhere on the same date.
+
+#### Q30
+Which boundary best separates Topic 17 from the Sangam south?
+
+- A. All peninsular trade and ports belong only to Satavahana history.
+- B. Topic 17 centres the Deccan Satavahana polity; Tamilakam's Chera-Chola-Pandya society and Sangam corpus belong to Topic 18, with only route links cross-referenced.
+- C. Amaravati was a Sangam capital.
+- D. The Satavahanas ruled the whole deep south uniformly.
+
+#### Q31
+Which ruler-title-site-inscription-coin combination is correctly matched?
+
+- A. Nahapana—Satavahana—Naneghat genealogy—ship coin.
+- B. Rudradaman—Kshaharata—Nashik maternal prashasti—lead coin.
+- C. Gautamiputra Satakarni—Satavahana—Nashik/Gautami Balashri—Nahapana overstrikes.
+- D. Yajna Sri—Kardamaka—Junagadh inscription—Roman aureus.
+
+#### Q32
+Which broad chronology is best ordered from earlier to later?
+
+- A. Yajna Sri → Simuka → Satakarni I → Gautamiputra.
+- B. Gautamiputra → Naganika/Satakarni I → Simuka → Pulumavi.
+- C. Rudradaman → Nahapana → Simuka → Yajna Sri.
+- D. Simuka → Satakarni I/Naganika → Gautamiputra → Vashishthiputra Pulumavi → Yajna Sri.
+
+#### Q33
+
+A Naneghat inscription names a queen and enumerates royal sacrifices, while coin portraits show a king and queen. What is the strongest joint historical use of these media?
+
+- A. They show public dynastic legitimation and a visible queen, without proving female-line succession.
+- B. They prove every royal office was held by women.
+- C. They identify Naganika as the sole author of all Satavahana inscriptions.
+- D. They show that Vedic ritual replaced all Buddhist patronage.
+
+#### Q34
+
+An inscription grants a field and specifies exemptions from particular dues. Which reading of Satavahana-era agrarian change is strongest?
+
+- A. It proves every Deccan village was exempt from all taxes.
+- B. It documents specific transferable fiscal privileges, but neither universal land alienation nor a fully formed medieval feudal order follows.
+- C. It shows the grantee owned the entire river basin.
+- D. It is evidence that monetised urban trade had ceased.
+
+#### Q35
+
+A cave record at Nashik refers to an endowment under Kshaharata authority; later records there praise Gautamiputra. Which reconstruction is methodologically sound?
+
+- A. Both texts prove uninterrupted Satavahana control over the cave.
+- B. The first record is invalid because a later dynasty left a record at the same site.
+- C. A donor-site sequence registers changing regional patrons and possibly political control; it does not date every military engagement.
+- D. The cave must have been moved physically after the conflict.
+
+#### Q36
+
+A merchant guild deposits funds whose interest pays for monks’ robes. What can be inferred most securely?
+
+- A. The monastery owned every Deccan workshop.
+- B. All guild members were monks.
+- C. Interest was identical in every city and century.
+- D. Guild capital and recurring religious expenditure could be linked, but the arrangement does not demonstrate universal banking or uniformly prosperous artisans.
+
+#### Q37
+
+Which pair of interpretations best distinguishes direct evidence from literary attribution?
+
+- A. Hala–Gatha Saptashati: traditional attribution with a layered transmission; Periplus: outsider trade description requiring geographical and archaeological checks.
+- B. Hala–Gatha Saptashati: autograph with fixed original text; Periplus: Satavahana court tax ledger.
+- C. Hala–Gatha Saptashati: an Ashokan edict; Periplus: Gautami Balashri’s Nashik prashasti.
+- D. Hala–Gatha Saptashati: proof of universal literacy; Periplus: proof of Roman sovereignty over the Deccan.
+
+#### Q38
+
+A ship appears on a Yajna Sri Satakarni coin and Roman objects appear at coastal sites. What added evidence would be needed to substantiate a claim of a Satavahana state navy?
+
+- A. Another coin with a ship engraved on it.
+- B. Dated records of naval command, ship maintenance or state maritime operations tied to the dynasty.
+- C. A Mediterranean coin found inland without context.
+- D. The word “port” in an unrelated classical geography.
+
+#### Q39
+
+A label calls the Satavahanas “Andhra”, and an early inscription lies in the western Deccan. Which historical conclusion is warranted?
+
+- A. The western inscription proves that all Puranic references to Andhra are false.
+- B. The Puranic ethnonym proves that the first capital was Dhanyakataka.
+- C. Ethnonym, early inscription distribution and later eastern expansion must be correlated; neither one proves a single undisputed homeland.
+- D. Both records document a conquest of Kalinga by Simuka.
+
+#### Q40
+
+An art history essay calls every Amaravati railing slab a work commissioned personally by a Satavahana king. Which test most directly corrects that claim?
+
+- A. Assume a royal commission because of the site’s fame.
+- B. Date the entire stupa by the life of one ruler.
+- C. Discard all panels because some were relocated.
+- D. Compare phase-specific inscriptions, donor names, archaeological contexts and style before assigning patrons or dates.
+
+## VERIFIED PYQ AND ORIGINAL MAINS PROMPTS
+
+### Verified PYQ 1 — UPSC Prelims 2026, Set A, Q13: Amaravati
+
+**Question:** Which statements on the Amaravati Stupa and its relief sculpture are correct? (1) It was located in the lower Krishna valley. (2) In India, it was next only to the Sanchi Stupa in size. (3) The Amaravati school made a lasting impact on later South Indian sculpture, and its products were carried to Sri Lanka and Southeast Asia.
+
+- A. 2 and 3 only
+- B. 1 only
+- C. 1 and 3 only
+- D. 1, 2 and 3
+
+### Verified PYQ 2 — UPSC Prelims 2023, Q41: Dhanyakataka
+
+**Question:** In which region was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?
+
+- A. Andhra
+- B. Gandhara
+- C. Kalinga
+- D. Magadha
+
+### Verified PYQ 3 — UPSC GS-I Mains 2020, Q1: rock-cut architecture
+
+**Question:** The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss. (10 marks, 150 words)
+
+
+
+### Verified PYQ 4 — UPSC Prelims 2023, Q42: stupa origin and function
+
+**Question:** With reference to ancient India, consider: (1) the concept of Stupa is Buddhist in origin; (2) Stupa was generally a repository of relics; (3) Stupa was a votive and commemorative structure in Buddhist tradition. How many statements are correct?
+
+- A. Only one
+- B. Only two
+- C. All three
+- D. None
+
+#### Original Mains 1 — 10 marks
+
+**Question:** Assess the historical value of Gautamiputra Satakarni's overstrikes on Nahapana's coins. (Answer in 150 words.)
+
+
+
+#### Original Mains 2 — 10 marks
+
+**Question:** What do Satavahana matronymics and inscriptions reveal about royal women? (Answer in 150 words.)
+
+
+
+#### Original Mains 3 — 15 marks
+
+**Question:** Why is the Satavahana state better described as a layered network polity than as a uniformly centralized empire? (Answer in 250 words.)
+
+
+
+#### Original Mains 4 — 15 marks
+
+**Question:** Analyse the agrarian, craft and commercial bases of Satavahana power without overstating Roman trade. (Answer in 250 words.)
+
+
+
+#### Original Mains 5 — 20 marks
+
+**Question:** How do inscriptions, coins, archaeology and literary traditions together reconstruct Satavahana history, and where do they leave uncertainty? (Answer in 250 words.)
+
+
+
+#### Original Mains 6 — 20 marks
+
+**Question:** Discuss Satavahana social and religious formation through varna claims, occupational donors and plural patronage. (Answer in 250 words.)
+
+
+
+## SEPARATE ANSWER KEY AND SOLVED PRACTICE
+
+### MCQ KEY, FOUR REASONS AND EXAMINER TRAPS
+
+#### Q1
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -33,14 +428,6 @@ Which formulation best places the Satavahanas in the post-Mauryan Deccan?
 > **Examiner trap 1:** Do not convert the useful 'network polity' model into either statelessness or Mauryan-style centralization.
 
 #### Q2
-
-Which source strategy is safest for Satavahana chronology?
-
-- A. Treat the longest Puranic king-list as a complete contemporary annal.
-- B. Triangulate Puranic lists with inscriptions, coins, overstrikes, archaeology and bounded literary evidence.
-- C. Use coin findspots alone as exact frontiers and regnal dates.
-- D. Accept later literary attributions as court records without textual criticism.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -53,14 +440,6 @@ Which source strategy is safest for Satavahana chronology?
 > **Examiner trap 2:** A neat date table is a modern reconstruction; label secure anchors, broad ranges and disputed links separately.
 
 #### Q3
-
-How should the labels Andhra, Andhra-Bhritya and Satavahana be handled?
-
-- A. They prove that every Andhra-speaking population belonged to one dynasty.
-- B. Andhra-Bhritya certainly means servants of the Andhras and settles political origin.
-- C. The conventional identification is useful, but the labels come from different source traditions and do not settle homeland or ethnicity.
-- D. Satavahana appears only in the Puranas, while Andhra appears only in inscriptions.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -73,14 +452,6 @@ How should the labels Andhra, Andhra-Bhritya and Satavahana be handled?
 > **Examiner trap 3:** Never use a Puranic dynastic label as automatic proof of language, ethnicity, original homeland or continuous territory.
 
 #### Q4
-
-Which statement about Simuka is most defensible?
-
-- A. He securely ruled from Amaravati in 78 CE.
-- B. He defeated Rudradaman and overstruck his silver coins.
-- C. He is known only from a Roman trade manual.
-- D. He is the conventional founder, but his absolute date, predecessor and earliest territorial base remain debated.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -93,14 +464,6 @@ Which statement about Simuka is most defensible?
 > **Examiner trap 4:** Simuka is a sequence anchor, not permission to invent a precise accession year, capital or all-Deccan empire.
 
 #### Q5
-
-What makes Satakarni I and Naganika central to early Satavahana history?
-
-- A. The Naneghat inscription and portraits connect genealogy, royal sacrifice, gifts and a strategic coast-plateau pass.
-- B. Their record abolishes Brahmanical ritual in favour of exclusive Buddhism.
-- C. They are known chiefly from the Junagadh Sanskrit prashasti.
-- D. Their matronymics prove succession through women.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -113,14 +476,6 @@ What makes Satakarni I and Naganika central to early Satavahana history?
 > **Examiner trap 5:** Repeated use of the name Satakarni complicates ruler identification; always attach the ruler to the named inscription and context.
 
 #### Q6
-
-Which evidence combination best supports Gautamiputra Satakarni's western recovery?
-
-- A. Only the Puranic total of kings.
-- B. Gautami Balashri's Nashik prashasti, Gautamiputra's records and Nahapana overstrikes read together.
-- C. Only ship-motif coins from the eastern coast.
-- D. Only the later Gatha Saptashati tradition.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -133,14 +488,6 @@ Which evidence combination best supports Gautamiputra Satakarni's western recove
 > **Examiner trap 6:** Prashasti and overstrike together strengthen an event claim, but neither yields a permanent border for the whole reign.
 
 #### Q7
-
-What is the strongest inference from the Jogalthembi hoard of Nahapana coins overstruck by Gautamiputra?
-
-- A. All Shakas were exterminated throughout India.
-- B. Every overstruck coin was produced on the day of one battle.
-- C. A political takeover was accompanied by revalidation and reuse of an existing silver currency stock.
-- D. The Satavahanas used only silver coinage.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -153,14 +500,6 @@ What is the strongest inference from the Jogalthembi hoard of Nahapana coins ove
 > **Examiner trap 7:** Overstrike evidence is excellent for succession of authority and monetary practice, but weaker for battle date, duration and total territorial extent.
 
 #### Q8
-
-How should Rudradaman's claim of twice defeating a Satakarni but sparing him because of kinship be used?
-
-- A. As proof that the Satavahanas became permanent Kshatrapa subjects.
-- B. As a neutral official record jointly issued by both dynasties.
-- C. As proof that marriage ended all warfare.
-- D. As rival prashasti evidence for repeated conflict coexisting with matrimonial diplomacy.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -173,14 +512,6 @@ How should Rudradaman's claim of twice defeating a Satakarni but sparing him bec
 > **Examiner trap 8:** Do not identify Rudradaman's unnamed Satakarni with certainty when scholarly reconstruction remains debated.
 
 #### Q9
-
-Which statement about Vashishthiputra Pulumavi is safest?
-
-- A. His inscriptions and coins mark a strong eastern Deccan phase while western connections and conflicts continued.
-- B. He founded the dynasty before Simuka.
-- C. He permanently annexed the whole Western Kshatrapa realm.
-- D. He composed the Naneghat inscription of Naganika.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -193,14 +524,6 @@ Which statement about Vashishthiputra Pulumavi is safest?
 > **Examiner trap 9:** Eastern coin concentration indicates presence and circulation; it does not by itself prove a single capital or uniform direct rule.
 
 #### Q10
-
-Yajna Sri Satakarni's ship-motif coins most securely indicate:
-
-- A. A documented conquest of the Roman Empire.
-- B. Maritime symbolism within a later Satavahana coastal-commercial setting.
-- C. The disappearance of inland caravan trade.
-- D. A navy whose exact size is known from inscriptions.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -213,14 +536,6 @@ Yajna Sri Satakarni's ship-motif coins most securely indicate:
 > **Examiner trap 10:** A ship on a coin is an iconographic clue, not a quantified naval history.
 
 #### Q11
-
-Which statement best handles Satavahana capitals?
-
-- A. Amaravati was the uncontested capital under every ruler.
-- B. Pratishthana was irrelevant once eastern coins appeared.
-- C. Pratishthana/Paithan was a major western centre, while Amaravati-Dharanikota claims require phase-specific and evidence-bounded wording.
-- D. The dynasty had no political centres because its court was mobile.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -233,14 +548,6 @@ Which statement best handles Satavahana capitals?
 > **Examiner trap 11:** Separate political centre, mint zone, inscription findspot, religious centre and later tradition.
 
 #### Q12
-
-In Satavahana records, an ahara is best understood as:
-
-- A. A guild treasury.
-- B. A Vedic horse sacrifice.
-- C. A Buddhist congregational hall.
-- D. A territorial-revenue or administrative division whose exact reach could vary.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -253,14 +560,6 @@ In Satavahana records, an ahara is best understood as:
 > **Examiner trap 12:** Shared administrative terminology does not establish institutional identity across dynasties.
 
 #### Q13
-
-What do maharathis and mahabhojas reveal about Satavahana rule?
-
-- A. Powerful regional chiefs could be donors, marriage partners and intermediaries within a layered polity.
-- B. They were salaried clerks with identical duties in every ahara.
-- C. They were Roman governors of Deccan ports.
-- D. Their appearance proves that the king had no authority.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -273,14 +572,6 @@ What do maharathis and mahabhojas reveal about Satavahana rule?
 > **Examiner trap 13:** Use 'feudatory' as cautious analytical shorthand, not as proof of a fully formed medieval feudal constitution.
 
 #### Q14
-
-What is the soundest inference from names such as Gautamiputra and Vashishthiputra?
-
-- A. Women alone inherited the throne.
-- B. Maternal gotra or lineage affiliation mattered in legitimacy and alliance within a basically patrilineal dynasty.
-- C. The Satavahana state was matriarchal.
-- D. Kings rejected paternal genealogy.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -293,14 +584,6 @@ What is the soundest inference from names such as Gautamiputra and Vashishthiput
 > **Examiner trap 14:** Matronymic is a naming and legitimacy clue; matriliny, matrilocality and matriarchy are separate propositions requiring separate proof.
 
 #### Q15
-
-How should early Satavahana land grants and tax immunities be interpreted?
-
-- A. They were symbolic gifts without fiscal content.
-- B. They began only after the Gupta age.
-- C. They mark early transfers of revenue rights and exemptions, but not an already standardized mature feudal order.
-- D. They were made exclusively to maritime merchants.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -313,14 +596,6 @@ How should early Satavahana land grants and tax immunities be interpreted?
 > **Examiner trap 15:** Do not jump from one early immunity clause to a complete all-India model of Indian feudalism.
 
 #### Q16
-
-Which agrarian formulation is most defensible for the Satavahana Deccan?
-
-- A. Irrigation alone explains every town and dynasty.
-- B. Agriculture remained technologically unchanged after the megalithic phase.
-- C. Only plantation crops supported the state.
-- D. Iron tools, paddy transplantation in suitable zones, cotton, wells/tanks and expanding settlements supported uneven regional growth.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -333,14 +608,6 @@ Which agrarian formulation is most defensible for the Satavahana Deccan?
 > **Examiner trap 16:** Agrarian expansion was regionally differentiated; do not project Krishna-Godavari wet-rice conditions over the whole plateau.
 
 #### Q17
-
-What is the best evidence-based description of shrenis in the Satavahana economy?
-
-- A. Guild-like occupational bodies could organize production, identity and endowments, including deposits whose income supported religious institutions.
-- B. They were hereditary royal armies.
-- C. They eliminated household production everywhere.
-- D. They were identical to modern corporations with limited liability.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -353,14 +620,6 @@ What is the best evidence-based description of shrenis in the Satavahana economy
 > **Examiner trap 17:** A donation by a guild reveals organized capacity, not the total share of guild production in the economy.
 
 #### Q18
-
-Which statement accurately describes Satavahana coinage?
-
-- A. It consisted only of Roman gold aurei.
-- B. Regional issues used lead prominently, along with potin, copper and some silver; motifs and legends varied.
-- C. Every coin carried a ship and a royal portrait.
-- D. Coin finds map exact administrative borders.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -373,14 +632,6 @@ Which statement accurately describes Satavahana coinage?
 > **Examiner trap 18:** Metal, motif, legend, findspot and overstrike answer different questions; never treat them as one undifferentiated map.
 
 #### Q19
-
-How should Roman contact be incorporated into Satavahana economic history?
-
-- A. As proof that all Deccan prosperity depended on Rome.
-- B. As evidence that Roman officials governed Satavahana ports.
-- C. As one component of wider inland and Indian Ocean exchange, visible in imports and coin finds but insufficient to prove universal prosperity.
-- D. As irrelevant because inland trade alone existed.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -393,14 +644,6 @@ How should Roman contact be incorporated into Satavahana economic history?
 > **Examiner trap 19:** Roman objects may mark trade, redistribution, imitation or elite consumption; context must decide which inference is warranted.
 
 #### Q20
-
-Which route statement is most accurate?
-
-- A. Bharukachchha, Sopara and Kalyana were continuously controlled by one Satavahana ruler.
-- B. Tagara was a seaport in the lower Krishna delta.
-- C. Naneghat connected only Buddhist monasteries and had no commercial role.
-- D. Western ports and passes linked with Pratishthana and Tagara, while eastern routes reached the Krishna-Godavari centres under shifting political control.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -413,14 +656,6 @@ Which route statement is most accurate?
 > **Examiner trap 20:** A trade text names commercial nodes, not a timeless dynastic map.
 
 #### Q21
-
-Gautamiputra's claim to uphold or restore varna order should be read primarily as:
-
-- A. Royal Brahmanical ideology that must be compared with evidence of occupational diversity and social mobility.
-- B. A demographic census proving complete endogamy.
-- C. A Buddhist monastic regulation.
-- D. Proof that foreign groups disappeared.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -433,14 +668,6 @@ Gautamiputra's claim to uphold or restore varna order should be read primarily a
 > **Examiner trap 21:** Normative varna language and lived social formation are related but not identical archives.
 
 #### Q22
-
-What does the adoption of Indian names, languages, donations and kinship by Yavana or Shaka-linked persons show?
-
-- A. Instant disappearance of all foreign identities.
-- B. Selective assimilation and participation in regional institutions rather than one-way or total cultural absorption.
-- C. A ban on non-Indian religious practices.
-- D. Uniform legal status across the Deccan.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -453,14 +680,6 @@ What does the adoption of Indian names, languages, donations and kinship by Yava
 > **Examiner trap 22:** Avoid both extremes: permanent foreign isolation and complete, instantaneous assimilation.
 
 #### Q23
-
-What is the strongest conclusion from inscriptions naming queens, nuns, household women and occupational donors?
-
-- A. Women controlled every guild and monastery.
-- B. The society was fully egalitarian.
-- C. Women and non-royal donors had visible religious and social agency, though the archive favours people able to make recorded gifts.
-- D. Patriarchal constraints disappeared.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -473,14 +692,6 @@ What is the strongest conclusion from inscriptions naming queens, nuns, househol
 > **Examiner trap 23:** Donor visibility is evidence of participation, not a representative census of all women or workers.
 
 #### Q24
-
-Which language-literature statement is accurate?
-
-- A. Satavahana inscriptions were normally Sanskrit in Kharoshthi.
-- B. The Gatha Saptashati is a contemporary administrative code.
-- C. Prakrit was absent from royal and donative records.
-- D. Prakrit in Brahmi dominates inscriptions, while the Gatha Saptashati tradition is attributed to Hala but textually layered.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -493,14 +704,6 @@ Which language-literature statement is accurate?
 > **Examiner trap 24:** Attribution to Hala does not prove that the surviving anthology is an unchanged single-author court text.
 
 #### Q25
-
-Which formulation best captures Satavahana religious patronage?
-
-- A. Brahmanical sacrifices and claims coexisted with substantial Buddhist cave and stupa patronage by rulers, elites and occupational donors.
-- B. The state legally imposed exclusive Buddhism.
-- C. Vedic sacrifice disappeared after Satakarni I.
-- D. Buddhist monuments received donations only from kings.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -513,14 +716,6 @@ Which formulation best captures Satavahana religious patronage?
 > **Examiner trap 25:** Patronage can express merit, legitimacy and route society; it is not automatic proof of exclusive personal conversion.
 
 #### Q26
-
-Which site-evidence match is correct?
-
-- A. Kanheri—Naganika's early royal genealogy.
-- B. Nashik—Satavahana and Kshatrapa inscriptions; Karla/Karle and Kanheri—multi-donor cave networks on western routes.
-- C. Karla/Karle—Rudradaman's Junagadh prashasti.
-- D. Nashik—only Gupta-period records.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -533,14 +728,6 @@ Which site-evidence match is correct?
 > **Examiner trap 26:** Spellings vary—Karla/Karle and Nasik/Nashik—but site, inscription and dynasty must remain correctly paired.
 
 #### Q27
-
-How should Amaravati be used in a Satavahana answer?
-
-- A. As proof that every sculptural phase was commissioned by one Satavahana king.
-- B. As a purely political capital with no religious landscape.
-- C. As a major lower Krishna Buddhist centre with a long multi-phase history, linked to Satavahana-era networks but continuing beyond the dynasty.
-- D. As a Gandharan monastery in the north-west.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -553,14 +740,6 @@ How should Amaravati be used in a Satavahana answer?
 > **Examiner trap 27:** Art-historical phase, dynastic chronology and later restoration must be separated before assigning patronage.
 
 #### Q28
-
-Which source-limit pairing is correct?
-
-- A. Prashasti—neutral census; coin—exact border; archaeology—named dynasty automatically; Purana—contemporary annal.
-- B. Prashasti—useless propaganda; coin—only metal; archaeology—no chronology; literature—no historical value.
-- C. All sources have identical evidentiary strengths once translated.
-- D. Prashasti—claim and ideology; coin—issuer/circulation; archaeology—material context; Purana/literature—layered memory requiring corroboration.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -573,14 +752,6 @@ Which source-limit pairing is correct?
 > **Examiner trap 28:** Source criticism is not source rejection; use each archive for the question it can actually answer.
 
 #### Q29
-
-Which account of Satavahana decline is most defensible?
-
-- A. Regional fragmentation produced successors such as Ikshvakus, Abhiras and Chutus while trade, settlements and religious institutions continued unevenly.
-- B. One Roman embargo instantly erased every Deccan town.
-- C. The dynasty merged peacefully into the Kushana Empire.
-- D. A single battle ended Satavahana authority everywhere on the same date.
-
 **Answer: A.**
 
 **Option-wise explanation:**
@@ -593,14 +764,6 @@ Which account of Satavahana decline is most defensible?
 > **Examiner trap 29:** Decline of a dynasty is not identical to collapse of economy, towns, Buddhism or Deccan connectivity.
 
 #### Q30
-
-Which boundary best separates Topic 17 from the Sangam south?
-
-- A. All peninsular trade and ports belong only to Satavahana history.
-- B. Topic 17 centres the Deccan Satavahana polity; Tamilakam's Chera-Chola-Pandya society and Sangam corpus belong to Topic 18, with only route links cross-referenced.
-- C. Amaravati was a Sangam capital.
-- D. The Satavahanas ruled the whole deep south uniformly.
-
 **Answer: B.**
 
 **Option-wise explanation:**
@@ -613,14 +776,6 @@ Which boundary best separates Topic 17 from the Sangam south?
 > **Examiner trap 30:** Do not import Sangam poems, tinai ecology or Tamil dynastic details into the Satavahana core answer.
 
 #### Q31
-
-Which ruler-title-site-inscription-coin combination is correctly matched?
-
-- A. Nahapana—Satavahana—Naneghat genealogy—ship coin.
-- B. Rudradaman—Kshaharata—Nashik maternal prashasti—lead coin.
-- C. Gautamiputra Satakarni—Satavahana—Nashik/Gautami Balashri—Nahapana overstrikes.
-- D. Yajna Sri—Kardamaka—Junagadh inscription—Roman aureus.
-
 **Answer: C.**
 
 **Option-wise explanation:**
@@ -633,14 +788,6 @@ Which ruler-title-site-inscription-coin combination is correctly matched?
 > **Examiner trap 31:** UPSC often cross-wires one correct ruler, one correct site and one correct object from different dynasties.
 
 #### Q32
-
-Which broad chronology is best ordered from earlier to later?
-
-- A. Yajna Sri → Simuka → Satakarni I → Gautamiputra.
-- B. Gautamiputra → Naganika/Satakarni I → Simuka → Pulumavi.
-- C. Rudradaman → Nahapana → Simuka → Yajna Sri.
-- D. Simuka → Satakarni I/Naganika → Gautamiputra → Vashishthiputra Pulumavi → Yajna Sri.
-
 **Answer: D.**
 
 **Option-wise explanation:**
@@ -652,7 +799,112 @@ Which broad chronology is best ordered from earlier to later?
 
 > **Examiner trap 32:** Sequence questions test relative order; do not smuggle disputed exact dates into otherwise secure ruler ordering.
 
+#### Q33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct. Ritual self-representation and coin iconography support royal female visibility but not a matriarchal succession rule. [Q33-A]
+- **B:** Neither an inscription nor coin portrait is a census of officeholding. [Q33-B]
+- **C:** A Naneghat record cannot establish authorship of inscriptions from other places and phases. [Q33-C]
+- **D:** Ritual display does not eliminate the documented cave-donation networks. [Q33-D]
+
+> **Examiner trap 33:** Separate representation of a queen from the mechanism of inheritance.
+
+#### Q34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** A local grant cannot establish uniform immunity across the Deccan. [Q34-A]
+- **B:** Correct. Read the clause and beneficiary in its own inscriptional and regional setting. [Q34-B]
+- **C:** A bounded field grant is not title to an entire basin. [Q34-C]
+- **D:** Land grants and urban exchange could coexist; the document does not cancel trade evidence. [Q34-D]
+
+> **Examiner trap 34:** Immunity clauses must be read individually, not projected across centuries.
+
+#### Q35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** An earlier Kshaharata inscription contradicts uninterrupted Satavahana exclusivity. [Q35-A]
+- **B:** Later patronage does not retrospectively erase an earlier source. [Q35-B]
+- **C:** Correct. Stratified inscriptional contexts illuminate rivalry, but do not supply a full campaign diary. [Q35-C]
+- **D:** Changes in recorded patrons require no physical relocation of the monument. [Q35-D]
+
+> **Examiner trap 35:** A shared sacred site can preserve rival regimes without a continuous occupation log.
+
+#### Q36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** A specified deposit does not confer ownership of all workshops. [Q36-A]
+- **B:** An endowment from lay producers does not change their monastic status. [Q36-B]
+- **C:** One contract cannot establish a uniform rate across places or periods. [Q36-C]
+- **D:** Correct. A documented credit-and-donation mechanism has local institutional significance and limited scale. [Q36-D]
+
+> **Examiner trap 36:** Use a guild endowment as evidence of a mechanism, not an economy-wide interest rate.
+
+#### Q37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct. Both sources illuminate contexts but genre and redaction constrain identification, dates and scale. [Q37-A]
+- **B:** Neither an original autograph nor an official Satavahana ledger follows from these traditions. [Q37-B]
+- **C:** These misidentify both the literary anthology and a Greek-language maritime text. [Q37-C]
+- **D:** Literary circulation and foreign trade notice establish neither universal literacy nor foreign rule. [Q37-D]
+
+> **Examiner trap 37:** Attribution of an anthology to Hala is not an unbroken manuscript provenance.
+
+#### Q38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Repeated symbolic depiction remains iconography, not an operational register. [Q38-A]
+- **B:** Correct. Organisational and operational documentation is required to move from motif to state institution. [Q38-B]
+- **C:** A stray foreign coin is not evidence of a navy. [Q38-C]
+- **D:** Generic port geography cannot establish a particular state’s naval administration. [Q38-D]
+
+> **Examiner trap 38:** Maritime orientation is not interchangeable with proof of a central navy.
+
+#### Q39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** An inscription’s western location does not invalidate a later dynastic designation. [Q39-A]
+- **B:** A group label is not a contemporary document specifying a first capital. [Q39-B]
+- **C:** Correct. Genre, findspot and dynastic phase must be differentiated before inferring origins. [Q39-C]
+- **D:** No such event follows from either a dynastic name or a findspot. [Q39-D]
+
+> **Examiner trap 39:** Do not equate a later dynastic label with a securely known original capital.
+
+#### Q40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Later reputation does not identify ancient patrons. [Q40-A]
+- **B:** A long-lived monument cannot be collapsed into one ruler’s reign. [Q40-B]
+- **C:** Displacement complicates context but does not render all evidence unusable. [Q40-C]
+- **D:** Correct. A long artistic sequence includes non-royal donors and phases extending beyond one dynasty. [Q40-D]
+
+> **Examiner trap 40:** The duration of a monument is not the reign-length of its most famous patron.
+
 ## PYQS AND ANSWER PRACTICE
+
 
 ### Verified PYQ 1 — UPSC Prelims 2026, Set A, Q13: Amaravati
 

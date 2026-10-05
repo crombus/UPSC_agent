@@ -1,6 +1,6 @@
 # Economy Topic 8 — Securities, Bonds, Equity, Derivatives and Investment Funds
 
-**Current-law cutoff:** 9 September 2026  
+**Current-law cutoff:** 9 September 2026
 **Central thesis:** classify the legal claim, cash flow, priority, optionality, leverage, liquidity promise
 and regulator before comparing return. This is education, not investment advice.
 
@@ -52,7 +52,7 @@ and embedded-option risk.
 | Masala | Rupee-denominated debt issued overseas | Direct INR risk lies with overseas investor |
 | Green debt | Proceeds linked to eligible environmental uses | Label != credit guarantee |
 
-**SEBI green-debt disclosure/anti-greenwashing framework:** 6 February 2023.  
+**SEBI green-debt disclosure/anti-greenwashing framework:** 6 February 2023.
 **ECB = External Commercial Borrowing; INR = Indian rupee.** Current Masala-bond thresholds must be
 checked in the live RBI ECB framework rather than memorised from old circulars.
 

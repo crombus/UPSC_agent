@@ -6,835 +6,729 @@ topic_key: modern-indian-history-38
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies The economic model: IPRs and the Mahalanobis strategy, 1948-56?
+Choose the single best answer. Solutions follow **after all questions**; the four alternatives in each item test a specific historical distinction.
 
-A. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
+### Q1. Which policy sequence built the public-sector 'commanding heights' in early independent India?
 
-**Answer: A.**
-**Explanation:** The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Industrial Policy Resolutions of 1948 and 1956 followed by the Mahalanobis Second Plan's heavy-industry priority
+B. The 1991 reform package followed by the 1980 Shetkari Sangathana
+C. The 1955 Hindu Marriage Act followed by the 1969 CPI(ML)
+D. Bhoodan at Pochampalli followed by the 1990 Mandal order
 
-### Q2. Which chronology card should be filed under The economic model: IPRs and the Mahalanobis strategy, 1948-56?
+### Q2. Which judgment about planned growth avoids both a success myth and a failure myth?
 
-A. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-B. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-C. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-D. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
+A. The 1991 crisis itself enacted the 1948 resolution
+B. The economy grew at four per cent every year from independence to 1991 without changing
+C. Roughly four per cent annual growth to the mid-1960s exceeded the colonial record, while licensing impeded efficiency
+D. Planning yielded no heavy-industrial capacity at all
 
-**Answer: B.**
-**Explanation:** The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q3. Why does the Mahalanobis strategy indicate more than a generic commitment to 'development'?
 
-### Q3. Which option should a candidate retain when revising The economic model: IPRs and the Mahalanobis strategy, 1948-56?
+A. The Second Plan prioritised capital goods and heavy industry so India could build domestic productive capacity
+B. It abolished intermediaries in land ownership through Bhoodan
+C. It prioritised only export agriculture and eliminated the public sector
+D. It created the 1990 OBC employment quota
 
-A. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-B. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-C. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-D. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
+### Q4. What is the most defensible account of the 1991 policy break?
 
-**Answer: C.**
-**Explanation:** The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Rajiv Gandhi enacted the break before leaving office in 1989
+B. The balance-of-payments crisis proved public heavy industry had never existed
+C. Rao and Finance Minister Manmohan Singh liberalised amid a payments crisis, altering instruments while not necessarily abandoning growth and self-reliance goals
+D. Rao and Manmohan Singh restored all licence controls to resolve the external crisis
 
-### Q4. Which statement avoids a common matching trap about The economic model: IPRs and the Mahalanobis strategy, 1948-56?
+### Q5. Why was zamindari abolition more successful than subsequent land reforms?
 
-A. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-B. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-C. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-D. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
+A. Intermediaries were politically vulnerable and abolition had backing; about 20 million superior tenants became owners by the mid-1950s
+B. It depended exclusively on voluntary donation at Pochampalli
+C. It made every landless labourer an owner by 1956
+D. It eliminated tenancy and ceiling evasion by recording every plot
 
-**Answer: D.**
-**Explanation:** The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q6. Which constitutional sequence belongs to the protection of early land-reform legislation?
 
-### Q5. Which statement correctly identifies Growth and the licence-permit raj?
+A. Hindu Marriage and Succession Acts of 1955 and 1956
+B. 52nd Amendment in 1985 followed by Mandal in 1990
+C. First Amendment in 1951 and Fourth Amendment in 1955
+D. 73rd and 74th Amendments followed by Bhoodan in 1951
 
-A. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-B. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
+### Q7. Why can an apparent fall in recorded tenancy area not by itself prove successful tenancy reform?
 
-**Answer: A.**
-**Explanation:** Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Concealed/oral tenancy could go unrecorded and some decline came from eviction
+B. The estimates concerned only factory employment
+C. All oral agreements were registered in a comprehensive census
+D. Only land donated through Bhoodan was counted
 
-### Q6. Which chronology card should be filed under Growth and the licence-permit raj?
+### Q8. Which combination most clearly obstructed tenancy and ceiling implementation?
 
-A. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-D. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
+A. Automatic distribution of all Bhoodan land
+B. Industrial licensing and import substitution alone
+C. Oral tenancies, benami transfers and family partitions, coupled with the rural power of those targeted
+D. Reliable land records and a state willing to expropriate its strongest rural supporters
 
-**Answer: B.**
-**Explanation:** Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q9. What did Vinoba Bhave's Bhoodan at Pochampalli represent in 1951?
 
-### Q7. Which option should a candidate retain when revising Growth and the licence-permit raj?
+A. A voluntary land-gift initiative that could not replace structural reform when much donated land was not effectively distributed
+B. A compulsory national land ceiling enforced without evasion
+C. The industrial Second Plan adopted in 1956
+D. The 1967 uprising in Darjeeling
 
-A. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-B. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-C. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-D. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
+### Q10. Which verdict best disaggregates the word 'land reform'?
 
-**Answer: C.**
-**Explanation:** Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Tenancy succeeded fully while abolition alone failed
+B. Zamindari abolition, tenancy and ceilings all had identical success rates
+C. Abolition of intermediaries largely succeeded; protection of tenants and effective ceilings faced evasion
+D. Only Bhoodan was legally enacted as the 1956 Industrial Policy Resolution
 
-### Q8. Which statement avoids a common matching trap about Growth and the licence-permit raj?
+### Q11. Which pairing identifies the Green Revolution's early package and geography?
 
-A. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-B. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-C. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-D. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
+A. HYV package from the mid-1960s, initially wheat in Punjab, Haryana and western Uttar Pradesh
+B. Exclusive reliance on Bhoodan donations in Punjab
+C. Rice-only seed adoption throughout India in 1951
+D. Land-ceiling redistribution in all eastern districts by 1960
 
-**Answer: D.**
-**Explanation:** Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q12. What does a defensible assessment of Green Revolution distribution require?
 
-### Q9. Which statement correctly identifies Zamindari abolition, largely by 1956?
+A. State as Chandra's claim that permanent nationwide polarisation was inevitable
+B. Equate food security with identical access to irrigation and credit
+C. Attribute Chandra's diffusion/scale-neutrality argument and separately identify critics' unequal-access, regional and ecological concerns
+D. Treat Chandra's diffusion thesis as proof there were no ecological costs
 
-A. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-B. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-C. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-D. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
+### Q13. Which development is consistent with Chandra's diffusion argument without falsifying the initial pattern?
 
-**Answer: A.**
-**Explanation:** Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. HYV practices later reached rice regions and other states after a north-western wheat start
+B. All regions had equal irrigation at the outset
+C. HYV cultivation began after the 1991 reforms
+D. The Green Revolution never included wheat
 
-### Q10. Which chronology card should be filed under Zamindari abolition, largely by 1956?
+### Q14. Why is 'scale-neutral seed' not the same claim as equal realised benefits?
 
-A. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-B. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-C. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-D. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
+A. It proves tenancy reform succeeded nationwide
+B. Seeds are legally restricted to large landlords
+C. Adoption and returns still depend on unequal credit, irrigation and other complementary resources
+D. Regional ecology no longer matters once seeds are supplied
 
-**Answer: B.**
-**Explanation:** Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q15. Which chronology situates Naxalite organisation relative to the uprising?
 
-### Q11. Which option should a candidate retain when revising Zamindari abolition, largely by 1956?
+A. Naxalbari erupted in 1967 in Darjeeling district; CPI(ML) formed in 1969
+B. Telangana began after the 1991 crisis
+C. CPI(ML) formed in 1951 and caused Bhoodan
+D. Naxalbari began in 1986 in Sisauli
 
-A. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-B. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
+### Q16. What distinction between Naxalbari/Telangana and 1980s farmers' organisations is essential?
 
-**Answer: C.**
-**Explanation:** Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. All pursued precisely the same tenancy demand in the same regions
+B. The rich-farmer organisations of the 1980s led landless anti-landlord struggles
+C. Earlier landless/tenant struggles contrasted with surplus-producer movements for prices, inputs and credit
+D. Both sets were simply industrial trade unions without rural participants
 
-### Q12. Which statement avoids a common matching trap about Zamindari abolition, largely by 1956?
+### Q17. Which pair correctly identifies leadership and place for the 1980s rich-farmer movements?
 
-A. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-B. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-C. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-D. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
+A. Sharad Joshi's Shetkari Sangathana at Nasik (1980); Mahendra Singh Tikait's BKU at Sisauli (1986)
+B. Tikait's CPI(ML) at Darjeeling (1980); Joshi's Bhoodan at Pochampalli (1986)
+C. Joshi's BKU at Sisauli (1967); Tikait's Shetkari Sangathana at Nasik (1969)
+D. Both began at Pochampalli in 1951 under Vinoba Bhave
 
-**Answer: D.**
-**Explanation:** Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q18. How was the proposed Hindu Code enacted?
 
-### Q13. Which statement correctly identifies Tenancy and ceiling reform, largely failed?
+A. Through the 1956 Industrial Policy Resolution
+B. As a single undivided Act adopted in 1948 with universal religious scope
+C. Marriage Act in 1955 and Succession, Minority and Guardianship, and Adoptions and Maintenance Acts in 1956
+D. Only a 1990 Mandal employment order
 
-A. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-B. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-C. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-D. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
+### Q19. What qualified inference follows from the 1955–56 Hindu-law reforms?
 
-**Answer: A.**
-**Explanation:** Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. They substantially extended women's rights within Hindu personal law, without establishing complete legal or social equality
+B. They substituted price supports for marriage law
+C. Every woman in India gained identical rights and social standing immediately
+D. They repealed all marriage and succession rights
 
-### Q14. Which chronology card should be filed under Tenancy and ceiling reform, largely failed?
+### Q20. How did women's mobilisation change from the 1970s to the 1990s?
 
-A. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-B. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-C. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-D. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
+A. It proved that the Hindu Code had achieved complete equality
+B. It began only after the 1999 NDA election
+C. New campaigns addressed dowry, rape and domestic violence beyond the earlier personal-law expansion
+D. It dealt solely with the 1948 industrial resolution
 
-**Answer: B.**
-**Explanation:** Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q21. Which trajectory identifies post-independence Dalit and backward-caste political assertion without equating every movement?
 
-### Q15. Which option should a candidate retain when revising Tenancy and ceiling reform, largely failed?
+A. Ambedkar, Dalit Panthers, BSP and Mandal implementation in 1990 mark successive forms of rights and representation
+B. Bhoodan, the 1956 IPR and the 1991 reforms are all caste parties
+C. Mandal was implemented in 1955 as a Hindu Marriage amendment
+D. Untouchability's legal abolition rendered Dalit mobilisation unnecessary
 
-A. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-B. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-C. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-D. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
+### Q22. Which statement keeps the Mandal policy within its historical scope?
 
-**Answer: C.**
-**Explanation:** Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. It abolished all existing reservations for SCs and STs
+B. It gave 27 per cent of all farm land to tenant cultivators
+C. V.P. Singh implemented 27 per cent OBC reservation in central government employment in 1990
+D. It replaced the 1956 Hindu Succession Act in every state
 
-### Q16. Which statement avoids a common matching trap about Tenancy and ceiling reform, largely failed?
+### Q23. Why does formal abolition of untouchability not settle the caste-history question?
 
-A. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-B. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-C. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-D. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
+A. Reservations and later Dalit/BSP/Mandal organising reveal a gap between legal rights and lived power
+B. It prevented any organisation of backward castes
+C. It closed every gap in caste hierarchy on enactment
+D. It applied only to the 1991 balance-of-payments crisis
 
-**Answer: D.**
-**Explanation:** Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q24. Which description of communalism respects the source's level of analysis?
 
-### Q17. Which statement correctly identifies Bhoodan could not substitute for structural reform?
+A. It disappeared permanently after independence
+B. It was created in 1991 by the balance-of-payments crisis alone
+C. It revived from the 1960s, entrenched after the late 1970s, and requires ideological as well as event-level analysis
+D. Riots alone fully define it, so underlying belief systems are irrelevant
 
-A. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-B. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-C. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-D. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
+### Q25. How should an answer use the phrase 'Indian version of fascism' about communalism?
 
-**Answer: A.**
-**Explanation:** The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Attribute the phrase to Nehru/Chandra as an interpretive judgment rather than present it as an uncontested legal classification
+B. Treat it as the official title of the 1985 Anti-Defection Act
+C. Use it to prove all riots shared an identical cause
+D. Say it was an IPR 1956 provision on heavy industry
 
-### Q18. Which chronology card should be filed under Bhoodan could not substitute for structural reform?
+### Q26. Which sequence best illustrates the changing CONTENT of self-reliance rather than its unchanging slogan?
 
-A. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-B. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-C. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-D. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
+A. Self-reliance always meant banning all foreign trade in every phase
+B. 1991 competitiveness preceded 1905 Swadeshi and 1956 capital goods
+C. Swadeshi enterprise, Gandhian khadi, planned capital-goods capacity, licence-era insulation and post-1991 competitiveness
+D. Bhoodan, CPI(ML) and the 1990 rath yatra were identical versions of khadi
 
-**Answer: B.**
-**Explanation:** The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q27. How does Gandhian khadi differ from the planning-era self-reliance strategy?
 
-### Q19. Which option should a candidate retain when revising Bhoodan could not substitute for structural reform?
+A. Khadi expressed village production and moral discipline; planning sought domestic capital-goods capacity through the state
+B. Planning replaced the need for any machinery with charkhas
+C. Khadi was the Second Plan's heavy-industry allocation
+D. Both were exclusively post-1991 trade policies
 
-A. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-B. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-C. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-D. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
+### Q28. Which pair represents nationalist economic demands before independence rather than a 1991 reform?
 
-**Answer: C.**
-**Explanation:** The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Hindu-law acts and farm price support
+B. Mandal implementation and the 1969 CPI(ML)
+C. Protective tariffs and a lower rupee–sterling ratio in nationalist demands of the 1928–39 period
+D. OBC employment reservation and Vajpayee's NDA
 
-### Q20. Which statement avoids a common matching trap about Bhoodan could not substitute for structural reform?
+### Q29. What caused the meaning of 'self-reliance' to shift again after the planned capital-goods era?
 
-A. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-B. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-C. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-D. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
+A. Crisis and inefficiency altered the value of insulation, while food-security gains and the 1991 payments crisis encouraged an external-solvency/competitiveness interpretation
+B. Swadeshi stores became the 1999 NDA ministries without intermediate change
+C. The 1955 Hindu Marriage Act abolished capital goods
+D. The 1879 agrarian relief law itself liberalised India's 1991 trade regime
 
-**Answer: D.**
-**Explanation:** The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q30. Which evidence connects 1857's rural participation to a subsequent colonial realignment?
 
-### Q21. Which statement correctly identifies The Green Revolution's HYV package, mid-1960s?
+A. Indigo planters received the 1956 industrial commanding heights
+B. The Revolt was led only by 1980s market-oriented farmers
+C. Taluqdar dispossession in Awadh helped mobilise civil support; subsequent restoration made taluqdars a rural base for the Raj
+D. The 1990 Mandal order restored Awadh taluqdars
 
-A. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-B. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-C. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-D. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
+### Q31. Why did Indigo, Pabna and Deccan distress not by itself produce regime change?
 
-**Answer: A.**
-**Explanation:** The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Localised revolt and remedial legislation, exemplified by the 1879 Deccan Agriculturists' Relief Act, differed from a legitimacy crisis capable of regime change
+B. There was no agrarian grievance in any of them
+C. Every agitation ended in the 1991 liberalisation package
+D. They all occurred after the 1977 election
 
-### Q22. Which chronology card should be filed under The Green Revolution's HYV package, mid-1960s?
+### Q32. Which agrarian sequence connects grievance to nationalist mass participation in 1917–22?
 
-A. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-B. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-C. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-D. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
+A. Shetkari Sangathana and the BKU
+B. Bardoli alone followed the 1991 economic crisis
+C. Champaran, Kheda, Awadh Kisan Sabha and Eka turned specific cultivation, revenue and rent grievances into wider mobilisation
+D. Bhoodan, Mandal and the NDA
 
-**Answer: B.**
-**Explanation:** The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q33. Which agrarian agitation belongs to 1928 and the revenue-enhancement phase?
 
-### Q23. Which option should a candidate retain when revising The Green Revolution's HYV package, mid-1960s?
+A. Bardoli, followed by no-tax/no-rent campaigns during Civil Disobedience
+B. Naxalbari in Darjeeling
+C. Bhoodan at Pochampalli
+D. The Deccan riots
 
-A. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-B. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-C. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-D. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
+### Q34. What is the political context of Tebhaga and Telangana in the synthesis thread?
 
-**Answer: C.**
-**Explanation:** The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. They were direct products of the 1991 balance-of-payments crisis
+B. They were the 1986 market-price campaigns of the BKU
+C. Sharecropping and landlord-power struggles at the moment of transfer in 1946–47 influenced the new state's land agenda
+D. They were the IPRs of 1948 and 1956
 
-### Q24. Which statement avoids a common matching trap about The Green Revolution's HYV package, mid-1960s?
+### Q35. Which comparison links agrarian crisis to party-system change after independence?
 
-A. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-D. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
+A. Harvest failures, food-aid dependence and devaluation preceded the 1967 elections in which Congress lost eight states
+B. The 1967 outcome restored unbroken single-party control of all states
+C. The 1965–67 harvest failures directly created the 1985 Anti-Defection Act in 1967
+D. The 1972–77 drought caused the 1951 Bhoodan campaign
 
-**Answer: D.**
-**Explanation:** The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q36. Why does the 1972–77 agrarian-distress episode differ from an isolated crop failure?
 
-### Q25. Which statement correctly identifies The Green Revolution debate: diffusion versus inequality?
+A. It ended in the 1879 Relief Act alone
+B. It began with the 1999 NDA victory
+C. Failed monsoons, inflation and the oil shock intersected with JP mobilisation, the Emergency and Congress's 1977 defeat
+D. It was resolved by the 1857 restoration of taluqdars
 
-A. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-B. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-C. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-D. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
+### Q37. Which generalisation best fits the agrarian distress–regime change comparisons?
 
-**Answer: A.**
-**Explanation:** Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. Regime change is more plausible when distress overlaps a crisis of political legitimacy; without that conjunction, relief laws or local revolt can follow
+B. Every drought automatically removes the incumbent government
+C. Remedial legislation alone proves a regime was overthrown
+D. Colonial and postcolonial states never responded to rural grievance
 
-### Q26. Which chronology card should be filed under The Green Revolution debate: diffusion versus inequality?
+### Q38. What recurring response is identified across the agrarian thread's three regimes?
 
-A. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-B. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-C. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-D. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
+A. Every government abolished agricultural markets
+B. All three distributed land equally to tenants immediately
+C. Relief or technology often displaced redistribution, from the 1879 Act to HYV and price support
+D. All three introduced the 1990 Mandal employment order
 
-**Answer: B.**
-**Explanation:** Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q39. Which example most directly illustrates a law-versus-society gap?
 
-### Q27. Which option should a candidate retain when revising The Green Revolution debate: diffusion versus inequality?
+A. Rights and reservations advanced formally while continuing caste and gender mobilisation pressed for actual access and safety
+B. Industrial planning immediately guaranteed equal landownership
+C. Land ceilings were perfectly enforced through oral tenancies
+D. Hindu Code reforms ended all gender-based harms by 1956
 
-A. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-B. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-C. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
-D. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
+### Q40. Which institutional sequence supports Chandra's 'crisis of governability' thesis?
 
-**Answer: C.**
-**Explanation:** Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The PMO was created by the 2019 land-reform PYQ
+B. Parliament ceased to exist in 1969 and elections stopped
+C. The Supreme Court administered all local police forces after Bhoodan
+D. Parliamentary decline from the late 1960s, Cabinet erosion by a dominant PMO from 1969 and anti-defection legislation in 1985
 
-### Q28. Which statement avoids a common matching trap about The Green Revolution debate: diffusion versus inequality?
+### Q41. How should a synthesis answer treat judiciary and bureaucracy alongside continued elections?
 
-A. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-D. Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs.
+A. Delay-ridden courts and unreformed coercive administration prove the franchise ended
+B. Chandra identifies judicial delay and bureaucratic/police limits while democracy survived and deepened
+C. The 52nd Amendment eliminated all implementation deficits immediately
+D. The 1991 crisis abolished all courts
 
-**Answer: D.**
-**Explanation:** Bipan Chandra argues that the Green Revolution later spread to rice regions and other states, that its technology was broadly scale-neutral, and that early predictions of general class polarisation were overstated, while critics continue to stress unequal access, regional lags and ecological costs. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q42. Which PYQ ownership classification is correctly bounded?
 
-### Q29. Which statement correctly identifies Naxalbari, 1967, and CPI(ML), 1969?
+A. The 2018 labour founders item is proved by an industrial-policy table
+B. The 2019 land-reform question must be answered as a sports current-affairs item
+C. All nine routed Prelims items have fully verified official answers in this workbook
+D. The 2019 land-reform demand is covered; a 2018 Hind Mazdoor Sabha founders item is an evidence gap; seven other routes are current-affairs artefacts
 
-A. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-B. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-C. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-D. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
+### Q43. Why must a solver not supply the founders of Hind Mazdoor Sabha from this owner's material?
 
-**Answer: A.**
-**Explanation:** The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. The local routing ledger marks the item a verified sports question
+B. The 2018 question is historical but the precise founder fact is unattested in held source books
+C. The 1956 resolution lists every labour-union founder
+D. The BKU at Sisauli was the Hind Mazdoor Sabha in 1948
 
-### Q30. Which chronology card should be filed under Naxalbari, 1967, and CPI(ML), 1969?
+### Q44. Which classification keeps the seven mis-routed items out of this Modern History owner?
 
-A. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-B. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-C. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-D. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
+A. They are all settled by the 1955 Hindu Marriage Act
+B. They are all direct Modern History Mains demands
+C. They are all parts of the 2019 land-reform Prelims stem
+D. Military exercise, peace-prize jury and sports event/award questions require contemporary verification, not nineteenth- or twentieth-century land-reform facts
 
-**Answer: B.**
-**Explanation:** The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q45. Which evidence use is valid for the 2019 land-reform PYQ demand without manufacturing an official key?
 
-### Q31. Which option should a candidate retain when revising Naxalbari, 1967, and CPI(ML), 1969?
+A. Quote an option letter derived from the 2024 sports ledger
+B. Explain the component-specific legislative history of abolition, tenancy and ceilings, while leaving the unavailable 2019 official key unclaimed
+C. Claim Bhoodan legally guaranteed redistribution of every donated parcel
+D. Treat a direct history question as a no-evidence current-affairs artefact
 
-A. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-B. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-C. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
-D. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
+### Q46. Which comparison best explains the Nehruvian state's mixed record?
 
-**Answer: C.**
-**Explanation:** The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+A. A free press guaranteed perfect implementation of ceilings
+B. It never built industry and immediately achieved universal equality
+C. Economic liberalisation began in 1948 and ended in 1956
+D. It built industrial and food capacity but avoided fully confronting rural property and later governance weaknesses
 
-### Q32. Which statement avoids a common matching trap about Naxalbari, 1967, and CPI(ML), 1969?
+### Q47. Which analytical verdict about 1991 is best grounded in the advanced synthesis?
 
-A. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-D. The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle.
+A. It was enacted through the 1951 Bhoodan movement
+B. Liberalisation corrected excessive dirigisme while the meaning of self-reliance shifted toward external solvency and competitiveness
+C. It repudiated the very goal of reducing poverty under every interpretation
+D. It proved colonial growth exceeded planned-era growth
 
-**Answer: D.**
-**Explanation:** The Naxalbari uprising of 1967 launched the Naxalite movement, and the CPI(ML) was formed in 1969, following the earlier Telangana agrarian struggle. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+### Q48. Which final synthesis respects the topic's distinct strands?
 
-### Q33. Which statement correctly identifies The farmers' movements of the 1980s?
+A. The Green Revolution alone erased caste and land hierarchy
+B. The 1991 reforms happened before the 1948 industrial resolutions
+C. Institutional decay means no Indian elections took place after 1969
+D. Post-1947 India changed its economy and competitive politics profoundly while land, caste and gender inequalities persisted and institutions weakened despite democracy's survival
 
-A. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-D. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
+### ANSWER KEY AND ITEM-SPECIFIC ELIMINATION
 
-**Answer: A.**
-**Explanation:** The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q1 — A
 
-### Q34. Which chronology card should be filed under The farmers' movements of the 1980s?
+- **A (correct):** These measures define the mixed economy's public-sector core
+- **B (eliminate):** Both belong to a later period and different policies
+- **C (eliminate):** Personal law and radical organisation are not industrial policy
+- **D (eliminate):** Neither established heavy-industry planning
+- **Trap:** Pair public-sector institution with industrial policy, not unrelated social reforms.
 
-A. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-B. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-C. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-D. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
+#### Q2 — B
 
-**Answer: B.**
-**Explanation:** The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** A later crisis cannot enact an earlier policy
+- **B (correct):** The source bounds that approximation to the mid-1960s
+- **C (eliminate):** The achievement and the control-system limit coexist
+- **D (eliminate):** Heavy industry was a central achievement
+- **Trap:** Never project a period-bounded growth estimate over subsequent decades.
 
-### Q35. Which option should a candidate retain when revising The farmers' movements of the 1980s?
+#### Q3 — C
 
-A. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
-D. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
+- **A (eliminate):** This captures the self-reliance mechanism
+- **B (eliminate):** Industrial capital-goods policy differs from land reform
+- **C (correct):** The source identifies public heavy industry
+- **D (eliminate):** Mandal belongs to social representation
+- **Trap:** Name the chosen production priority, not merely a slogan.
 
-**Answer: C.**
-**Explanation:** The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q4 — D
 
-### Q36. Which statement avoids a common matching trap about The farmers' movements of the 1980s?
+- **A (eliminate):** The reforms began under Rao in 1991
+- **B (eliminate):** The early industrial base is source-backed
+- **C (eliminate):** Crisis, agents and correction-versus-repudiation all matter
+- **D (correct):** The reforms reduced the older control regime
+- **Trap:** Changing policy instruments does not prove abandonment of every developmental goal.
 
-A. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-B. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-C. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-D. The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana.
+#### Q5 — A
 
-**Answer: D.**
-**Explanation:** The rich-farmer movements of the 1980s, Sharad Joshi's Shetkari Sangathana at Nasik in 1980 and Mahendra Singh Tikait's Bharatiya Kisan Union at Sisauli in 1986, pursued market demands of prices, inputs and credit, a class content opposed to the landless and tenant struggles of Naxalbari and Telangana. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (correct):** This states target, support and bounded outcome
+- **B (eliminate):** Voluntary Bhoodan was another instrument
+- **C (eliminate):** Superior tenants, not all rural workers, are the identified beneficiaries
+- **D (eliminate):** The other reforms remained uneven
+- **Trap:** Superior tenant ownership is not universal peasant proprietorship.
 
-### Q37. Which statement correctly identifies The Hindu Code Bill?
+#### Q6 — B
 
-A. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-B. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-C. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-D. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
+- **A (eliminate):** These reform family law, not land-legislation protection
+- **B (correct):** These concern defections and OBC reservation
+- **C (eliminate):** The advanced owner links both to legal protection for land reform
+- **D (eliminate):** Later local-government provisions cannot precede Bhoodan
+- **Trap:** Constitutional enabling is not evidence that every land reform succeeded on the ground.
 
-**Answer: A.**
-**Explanation:** The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q7 — C
 
-### Q38. Which chronology card should be filed under The Hindu Code Bill?
+- **A (eliminate):** Both change observed tenancy without securing tenants' rights
+- **B (eliminate):** The data describe land tenancy
+- **C (correct):** The advanced owner says oral tenancy was undercounted
+- **D (eliminate):** Recorded tenancy and donated land are not identical
+- **Trap:** A statistical decline may encode displacement rather than protection.
 
-A. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-B. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-C. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-D. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
+#### Q8 — D
 
-**Answer: B.**
-**Explanation:** The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** The movement did not achieve that result
+- **B (eliminate):** These do not identify the land-record and political-evasion mechanisms
+- **C (eliminate):** Administrative and political obstacles compounded one another
+- **D (correct):** These would mitigate rather than explain failure
+- **Trap:** Do not explain agrarian implementation failure solely as defective legal drafting.
 
-### Q39. Which option should a candidate retain when revising The Hindu Code Bill?
+#### Q9 — A
 
-A. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-B. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-C. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
-D. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
+- **A (correct):** Distinguish gesture and delivered tenure change
+- **B (eliminate):** Bhoodan relied on donation
+- **C (eliminate):** Its subject and date differ
+- **D (eliminate):** Naxalbari is a later radical struggle
+- **Trap:** Promised or donated land is not necessarily land transferred to cultivators.
 
-**Answer: C.**
-**Explanation:** The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q10 — B
 
-### Q40. Which statement avoids a common matching trap about The Hindu Code Bill?
+- **A (eliminate):** This reverses the documented pattern
+- **B (correct):** Their outcomes differ in the owner
+- **C (eliminate):** The component-by-component verdict follows evidence
+- **D (eliminate):** Voluntary land gifts are not industrial policy
+- **Trap:** Analyse institutional targets rather than grading the whole programme as one measure.
 
-A. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-B. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-C. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-D. The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality.
+#### Q11 — C
 
-**Answer: D.**
-**Explanation:** The proposed Hindu Code was enacted through the Hindu Marriage Act, 1955, and the Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts, 1956. These measures substantially expanded women's rights within Hindu personal law but did not create complete legal or social equality. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** This fixes timing, crop and region
+- **B (eliminate):** HYV production was technological, not voluntary land reform
+- **C (correct):** The initial wave was later and concentrated in wheat areas
+- **D (eliminate):** This is a different reform and geography
+- **Trap:** Later diffusion does not erase initial regional concentration.
 
-### Q41. Which statement correctly identifies The women's movement, 1970s-90s?
+#### Q12 — D
 
-A. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-D. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
+- **A (eliminate):** He argues the contrary
+- **B (eliminate):** Output and distribution are distinct
+- **C (eliminate):** The source assigns the opposing claims accurately
+- **D (correct):** Critics identify costs; diffusion does not refute them
+- **Trap:** Do not attribute the inequality critique to the scholar who challenges it.
 
-**Answer: A.**
-**Explanation:** A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q13 — A
 
-### Q42. Which chronology card should be filed under The women's movement, 1970s-90s?
+- **A (correct):** Temporal expansion and initial concentration can coexist
+- **B (eliminate):** Initial concentration contradicts this
+- **C (eliminate):** It began in the mid-1960s
+- **D (eliminate):** Wheat was initially central
+- **Trap:** Distinguish 'later expanded' from 'uniform from the beginning'.
 
-A. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-B. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-C. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-D. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
+#### Q14 — B
 
-**Answer: B.**
-**Explanation:** A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** Seeds do not alter ownership by themselves
+- **B (correct):** The source calls the technology broadly scale-neutral
+- **C (eliminate):** Input access can mediate an agronomic property
+- **D (eliminate):** Ecological and regional concerns remain
+- **Trap:** Technology's potential applicability does not settle distributional outcomes.
 
-### Q43. Which option should a candidate retain when revising The women's movement, 1970s-90s?
+#### Q15 — C
 
-A. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-B. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-C. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
-D. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
+- **A (eliminate):** Movement and subsequent party formation are distinct
+- **B (eliminate):** The earlier agrarian struggle predates it
+- **C (correct):** Both sequence and causal claim are wrong
+- **D (eliminate):** Sisauli marks a different farmers' movement
+- **Trap:** Never date CPI(ML)'s formation to Naxalbari's outbreak year.
 
-**Answer: C.**
-**Explanation:** A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q16 — D
 
-### Q44. Which statement avoids a common matching trap about The women's movement, 1970s-90s?
+- **A (eliminate):** The source stresses different class bases
+- **B (eliminate):** Their demands centred on markets
+- **C (eliminate):** Changing rural class interest explains divergent agendas
+- **D (correct):** All concern agrarian politics
+- **Trap:** 'Farmers' cannot be treated as a single political-economic class.
 
-A. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-B. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-C. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-D. A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56.
+#### Q17 — A
 
-**Answer: D.**
-**Explanation:** A new women's movement from the 1970s to the 1990s took up dowry, rape and domestic violence, building on the the major but incomplete Hindu-law reforms of 1955–56. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (correct):** Actors, associations, places and dates match
+- **B (eliminate):** Organisations and decades are crossed
+- **C (eliminate):** This swaps leaders and imports Naxalite dates
+- **D (eliminate):** Bhoodan has a different leader and agenda
+- **Trap:** Close-option tests often swap the two leaders and organisational bases.
 
-### Q45. Which statement correctly identifies Caste: from Ambedkar to Mandal, 1990?
+#### Q18 — B
 
-A. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-B. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-C. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-D. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
+- **A (eliminate):** Industry policy did not enact personal-law rights
+- **B (correct):** The owner records four Hindu-law Acts in 1955–56
+- **C (eliminate):** Four statutes, not one code, expanded rights
+- **D (eliminate):** Reservation policy is not family-law reform
+- **Trap:** Four Acts and their unequal-year split are both examinable.
 
-**Answer: A.**
-**Explanation:** Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q19 — C
 
-### Q46. Which chronology card should be filed under Caste: from Ambedkar to Mandal, 1990?
+- **A (eliminate):** The scope and limit are both essential
+- **B (eliminate):** That describes a different policy domain
+- **C (correct):** Scope and enforcement were incomplete
+- **D (eliminate):** The reforms expanded these rights
+- **Trap:** Legal advance does not establish universal coverage or transformed lived conditions.
 
-A. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-B. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-C. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-D. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
+#### Q20 — D
 
-**Answer: B.**
-**Explanation:** Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** Persistent claims contradict that
+- **B (eliminate):** The source dates it from the 1970s
+- **C (eliminate):** Rights legislation and later mobilisation form distinct stages
+- **D (correct):** Women's mobilisation addressed social and legal harms
+- **Trap:** An earlier legal reform need not exhaust later movement demands.
 
-### Q47. Which option should a candidate retain when revising Caste: from Ambedkar to Mandal, 1990?
+#### Q21 — A
 
-A. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-B. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-C. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
-D. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
+- **A (correct):** The sequence reflects different organisations and instruments
+- **B (eliminate):** They belong to land and industrial policy
+- **C (eliminate):** The measure came in 1990 and concerned employment
+- **D (eliminate):** Continuing inequality shaped organising
+- **Trap:** A trajectory of mobilisation does not mean the same organisation led every phase.
 
-**Answer: C.**
-**Explanation:** Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q22 — B
 
-### Q48. Which statement avoids a common matching trap about Caste: from Ambedkar to Mandal, 1990?
+- **A (eliminate):** The OBC provision did not erase them
+- **B (correct):** Mandal was not land redistribution
+- **C (eliminate):** Rate, category, scope and date are correctly bounded
+- **D (eliminate):** Reservation and succession are separate
+- **Trap:** Specify employment and OBCs rather than saying '27 per cent for everyone'.
 
-A. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-B. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-C. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-D. Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990.
+#### Q23 — C
 
-**Answer: D.**
-**Explanation:** Untouchability was abolished and reservations extended, and caste became central to politics along a trajectory running from Ambedkar through the Dalit Panthers and the BSP to the Mandal Commission's implementation in 1990. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** Continued assertion is historically meaningful
+- **B (eliminate):** Mandal politics contradicts that
+- **C (correct):** Formal change is not total social change
+- **D (eliminate):** These are unrelated topics
+- **Trap:** Do not infer a complete social outcome from a constitutional norm alone.
 
-### Q49. Which statement correctly identifies Communalism: revival and endemism?
+#### Q24 — D
 
-A. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-B. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-C. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-D. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
+- **A (eliminate):** The owner documents later revival
+- **B (eliminate):** The revival predates reforms
+- **C (eliminate):** Chronology and conceptual level are both preserved
+- **D (correct):** The owner treats communalism as ideology
+- **Trap:** Separate the ideology from its episodic violent manifestations.
 
-**Answer: A.**
-**Explanation:** Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q25 — A
 
-### Q50. Which chronology card should be filed under Communalism: revival and endemism?
+- **A (correct):** The advanced source flags the attribution
+- **B (eliminate):** This is not a statute title
+- **C (eliminate):** A phrase alone cannot establish episode-level causation
+- **D (eliminate):** It is unrelated to industrial policy
+- **Trap:** Attribution matters especially for evaluative historical labels.
 
-A. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-B. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-C. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-D. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
+#### Q26 — B
 
-**Answer: B.**
-**Explanation:** Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** The source records changing meanings
+- **B (correct):** The order is reversed
+- **C (eliminate):** Institutions and objectives changed across periods
+- **D (eliminate):** These movements differ in object
+- **Trap:** Continuity of a word is not continuity of the instruments it denotes.
 
-### Q51. Which option should a candidate retain when revising Communalism: revival and endemism?
+#### Q27 — C
 
-A. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-B. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-C. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
-D. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
+- **A (eliminate):** Different scales and institutional agents
+- **B (eliminate):** The Second Plan prioritised machinery-making
+- **C (correct):** Khadi was village production
+- **D (eliminate):** Both predate the 1991 turn
+- **Trap:** Distinguish local constructive work from state-led machine-producing industry.
 
-**Answer: C.**
-**Explanation:** Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q28 — D
 
-### Q52. Which statement avoids a common matching trap about Communalism: revival and endemism?
+- **A (eliminate):** These are post-independence domains
+- **B (eliminate):** Neither is a pre-independence fiscal demand
+- **C (eliminate):** Both sought fiscal and monetary autonomy before state power transferred
+- **D (correct):** These are later political events
+- **Trap:** Do not backdate liberalisation to every earlier economic demand.
 
-A. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-B. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-C. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-D. Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots.
+#### Q29 — A
 
-**Answer: D.**
-**Explanation:** Communalism revived from the 1960s and turned endemic after the late 1970s, and is analysed as an ideology rather than merely a sequence of riots. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (correct):** This connects changed constraints with changed policy tools
+- **B (eliminate):** This skips most of the causal sequence
+- **C (eliminate):** Personal law is unrelated
+- **D (eliminate):** A colonial-era relief law cannot do so
+- **Trap:** Identify the pressure that reshaped a policy instrument, not just another date.
 
-### Q53. Which statement correctly identifies 1991 economic liberalisation?
+#### Q30 — B
 
-A. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-B. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-C. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-D. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
+- **A (eliminate):** Neither institution nor period matches
+- **B (correct):** Wrong century and class context
+- **C (eliminate):** Grievance and post-revolt adjustment are linked
+- **D (eliminate):** Mandal concerned OBC employment
+- **Trap:** A state's response after revolt can differ from the revolt's initial grievance.
 
-**Answer: A.**
-**Explanation:** A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q31 — C
 
-### Q54. Which chronology card should be filed under 1991 economic liberalisation?
+- **A (eliminate):** Distress alone was insufficient
+- **B (eliminate):** Planter coercion, rent and debt were central
+- **C (correct):** These are colonial disputes
+- **D (eliminate):** They occurred in the nineteenth century
+- **Trap:** Distinguish response to distress from overthrow of a political regime.
 
-A. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-B. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-C. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-D. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
+#### Q32 — D
 
-**Answer: B.**
-**Explanation:** A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** These were 1980s rich-farmer organisations
+- **B (eliminate):** Bardoli was in 1928
+- **C (eliminate):** The examples match the period and mechanism
+- **D (correct):** All occurred later
+- **Trap:** Do not use one peasant movement as a timeless proxy for all regions.
 
-### Q55. Which option should a candidate retain when revising 1991 economic liberalisation?
+#### Q33 — A
 
-A. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-B. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-C. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
-D. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
+- **A (correct):** The thread separates the initial campaign and later broader phase
+- **B (eliminate):** That began in 1967
+- **C (eliminate):** That began in 1951
+- **D (eliminate):** They occurred in 1875
+- **Trap:** Resist attaching a depression-era phase to a nineteenth-century event.
 
-**Answer: C.**
-**Explanation:** A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q34 — B
 
-### Q56. Which statement avoids a common matching trap about 1991 economic liberalisation?
+- **A (eliminate):** They preceded independence
+- **B (correct):** They were earlier and had different class bases
+- **C (eliminate):** This links agrarian radicalism to state-building
+- **D (eliminate):** Land struggles are not industrial resolutions
+- **Trap:** Relate an agitation's class claims to its moment of state transition.
 
-A. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-B. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-C. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-D. A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals.
+#### Q35 — C
 
-**Answer: D.**
-**Explanation:** A balance-of-payments crisis in 1991 forced economic liberalisation under Narasimha Rao and Manmohan Singh, a corrective to the earlier control raj rather than an abandonment of the model's original goals. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** Distress intersected with a wider political turning point
+- **B (eliminate):** Losses in eight states point the other way
+- **C (correct):** The amendment came much later
+- **D (eliminate):** Chronology is impossible
+- **Trap:** Economic distress needs a political bridge to explain an election.
 
-### Q57. Which statement correctly identifies The self-reliance thread's changing content?
+#### Q36 — D
 
-A. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-B. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-C. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-D. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
+- **A (eliminate):** That Act belongs to an earlier colonial crisis
+- **B (eliminate):** Chronology is reversed
+- **C (eliminate):** Distress accompanied a legitimacy crisis
+- **D (correct):** Wrong period and mechanism
+- **Trap:** Neither drought nor inflation alone is a sufficient explanation of regime change.
 
-**Answer: A.**
-**Explanation:** The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q37 — A
 
-### Q58. Which chronology card should be filed under The self-reliance thread's changing content?
+- **A (correct):** The cross-period inference is conditional
+- **B (eliminate):** The thread explicitly rejects automatic regime change
+- **C (eliminate):** The 1879 example contradicts this
+- **D (eliminate):** Relief and technology are documented responses
+- **Trap:** A cross-period pattern must preserve counterexamples.
 
-A. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-B. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-C. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-D. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
+#### Q38 — B
 
-**Answer: B.**
-**Explanation:** The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** The 1980s farmers' price demands contradict this
+- **B (correct):** The land-reform limits contradict this
+- **C (eliminate):** This captures continuity in policy responses without claiming identical regimes
+- **D (eliminate):** Mandal belongs to one postcolonial moment
+- **Trap:** A mirror pattern is interpretive, not an assertion that all policies were identical.
 
-### Q59. Which option should a candidate retain when revising The self-reliance thread's changing content?
+#### Q39 — C
 
-A. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-B. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-C. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
+- **A (eliminate):** Formal law and lived outcomes differ
+- **B (eliminate):** Industry and land have distinct institutions
+- **C (correct):** The records were unreliable
+- **D (eliminate):** Later mobilisation addressed harms
+- **Trap:** Do not treat statutory entitlement as measured social transformation.
 
-**Answer: C.**
-**Explanation:** The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q40 — D
 
-### Q60. Which statement avoids a common matching trap about The self-reliance thread's changing content?
+- **A (eliminate):** PYQ routing cannot create an institution
+- **B (eliminate):** Democracy endured despite institutional decay
+- **C (eliminate):** No such institutional transfer is sourced
+- **D (correct):** Different institutions and dates form the argument
+- **Trap:** Institutional weakening is not identical to democratic collapse.
 
-A. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-B. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-C. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-D. The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage.
+#### Q41 — A
 
-**Answer: D.**
-**Explanation:** The idea of self-reliance runs continuously from the Swadeshi movement of 1905 through Gandhian khadi, nationalist fiscal demands, Nehruvian capital-goods capacity and licence-era insulation, to food self-reliance from the mid-1960s and finally to post-1991 competitiveness, with its content changing at each stage. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (correct):** Democracy persisted
+- **B (eliminate):** Separate institutional effectiveness from political survival
+- **C (eliminate):** Defection control is narrower
+- **D (eliminate):** No such institutional change is sourced
+- **Trap:** Governance deficits and democratic resilience are not logically exclusive.
 
-### Q61. Which statement correctly identifies The agrarian distress-regime change thread?
+#### Q42 — B
 
-A. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-B. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-C. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-D. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
+- **A (eliminate):** The owner says its specific founders are unattested
+- **B (correct):** Land reform is a genuine historical demand
+- **C (eliminate):** The audit expressly avoids unsupported keys
+- **D (eliminate):** This reproduces the audited 1+1+7 partition
+- **Trap:** Demand routing is not proof that an answer is evidenced.
 
-**Answer: A.**
-**Explanation:** Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q43 — C
 
-### Q62. Which chronology card should be filed under The agrarian distress-regime change thread?
+- **A (eliminate):** It marks a historical gap
+- **B (eliminate):** Keep it open rather than inventing a keyed response
+- **C (correct):** It concerns industry policy
+- **D (eliminate):** Different body and time
+- **Trap:** Knowing a body's era is not enough to certify names from absent evidence.
 
-A. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-B. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-C. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-D. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
+#### Q44 — D
 
-**Answer: B.**
-**Explanation:** Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** That Act cannot answer contemporary event facts
+- **B (eliminate):** The audit records zero direct Mains routes
+- **C (eliminate):** Separate routed demands are being conflated
+- **D (correct):** The routes are current-affairs artefacts
+- **Trap:** A topic folder's routing metadata must not be mistaken for source coverage.
 
-### Q63. Which option should a candidate retain when revising The agrarian distress-regime change thread?
+#### Q45 — A
 
-A. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-B. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-C. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
+- **A (correct):** Neither key nor subject matches
+- **B (eliminate):** The source bank supports the demand, not a guessed official answer
+- **C (eliminate):** The source explicitly says much land was not distributed
+- **D (eliminate):** Land reforms are covered here
+- **Trap:** A solved historical demand and an authenticated official option key are different assertions.
 
-**Answer: C.**
-**Explanation:** Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+#### Q46 — B
 
-### Q64. Which statement avoids a common matching trap about The agrarian distress-regime change thread?
+- **A (eliminate):** Democratic institutions did not remove rural evasion
+- **B (correct):** Both halves contradict the source
+- **C (eliminate):** The decisive turn belongs to 1991
+- **D (eliminate):** Disaggregating outcomes explains the qualified verdict
+- **Trap:** Assess outputs, distribution and institutional capacity separately.
 
-A. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-B. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-C. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-D. Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879.
+#### Q47 — C
 
-**Answer: D.**
-**Explanation:** Agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, and produced remedial legislation or localised revolt alone when it did not, as after 1879. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** A land-gift campaign is unrelated
+- **B (eliminate):** Changing means and continuity of ends are both argued
+- **C (correct):** The source describes retained goals
+- **D (eliminate):** The source states the opposite for the early period
+- **Trap:** Avoid treating the end of a control regime as the end of all development aims.
 
-### Q65. Which statement correctly identifies The law-versus-society synthesis engine?
+#### Q48 — D
 
-A. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-B. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-C. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-
-**Answer: A.**
-**Explanation:** A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q66. Which chronology card should be filed under The law-versus-society synthesis engine?
-
-A. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-B. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-C. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-
-**Answer: B.**
-**Explanation:** A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q67. Which option should a candidate retain when revising The law-versus-society synthesis engine?
-
-A. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-D. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-
-**Answer: C.**
-**Explanation:** A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q68. Which statement avoids a common matching trap about The law-versus-society synthesis engine?
-
-A. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-B. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone.
-
-**Answer: D.**
-**Explanation:** A recurring law-versus-society gap runs through this topic: formal legal reform began early for tenants, Dalits and women, social transformation lagged behind, and excluded groups organised politically rather than remaining content with legislation alone. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q69. Which statement correctly identifies Institutional decay amid democratic survival?
-
-A. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-B. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-C. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-
-**Answer: A.**
-**Explanation:** Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q70. Which chronology card should be filed under Institutional decay amid democratic survival?
-
-A. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-B. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-C. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-
-**Answer: B.**
-**Explanation:** Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q71. Which option should a candidate retain when revising Institutional decay amid democratic survival?
-
-A. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-D. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-
-**Answer: C.**
-**Explanation:** Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q72. Which statement avoids a common matching trap about Institutional decay amid democratic survival?
-
-A. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened.
-
-**Answer: D.**
-**Explanation:** Bipan Chandra documents a 'crisis of governability': the decline of Parliament from the late 1960s, the erosion of the Cabinet by a dominant Prime Minister's Office from 1969, defection politics curbed only by the 1985 Anti-Defection Act, and a delay-ridden judiciary and unreformed bureaucracy and police, even as democracy itself endured and deepened. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q73. Which statement correctly identifies The land-reforms PYQ demand, 2019: a covered demand?
-
-A. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-D. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-
-**Answer: A.**
-**Explanation:** The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q73. Which statement correctly identifies The land-reforms PYQ demand, 2019: a covered…”, coverage of every clause, chronological-causal analysis, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its exact chronology, named evidence, causal logic, counter-position and qualification.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named Acts, events, organisations, regions, primary records or scholarly positions as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes dates and policy stages, connects evidence to mechanism, recognises regional/social variation and avoids teleology or hero worship.
-
-**How to improve this answer:** For “Q73. Which statement correctly identifies The land-reforms PYQ demand, 2019: a covered…”, replace the weakest generalisation with one additional named primary/official record or attributed scholarly interpretation and state exactly what it cannot prove.
-
-### Q74. Which chronology card should be filed under The land-reforms PYQ demand, 2019: a covered demand?
-
-A. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-B. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-C. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-D. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-
-**Answer: B.**
-**Explanation:** The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q74. Which chronology card should be filed under The land-reforms PYQ demand, 2019: a…”, coverage of every clause, chronological-causal analysis, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its exact chronology, named evidence, causal logic, counter-position and qualification.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named Acts, events, organisations, regions, primary records or scholarly positions as claim → evidence → analysis → qualification; reserve the final lines for a graded conclusion.
-
-**Why this earns marks:** The answer obeys the directive, distinguishes dates and policy stages, connects evidence to mechanism, recognises regional/social variation and avoids teleology or hero worship.
-
-**How to improve this answer:** For “Q74. Which chronology card should be filed under The land-reforms PYQ demand, 2019: a…”, replace the weakest generalisation with one additional named primary/official record or attributed scholarly interpretation and state exactly what it cannot prove.
-
-### Q75. Which option should a candidate retain when revising The land-reforms PYQ demand, 2019: a covered demand?
-
-A. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-B. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-C. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-D. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-
-**Answer: C.**
-**Explanation:** The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-**Demand decoding:** Treat “Q75. Which option should a candidate retain when revising The land-reforms PYQ demand,…” as a statement-level chronology and attribution problem: verify every date, Act/provision, person, organisation, region and causal claim independently, without inventing an official key.
-
-**Detailed examiner-grade model status:** The solved analysis above is the executable content base. Preserve its exact chronology, named evidence, causal logic, counter-position and qualification.
-
-**Executable exam-length answer / compression plan:** Fix the tested time window; separate event/enactment/commencement; match each actor and provision; eliminate the closest distractor with one named record, treaty, session or regional fact.
-
-**Why this earns marks:** It preserves exact chronology and answer-text mapping, uses named evidence and keeps inferred elimination distinct from an official key.
-
-**How to improve this answer:** For “Q75. Which option should a candidate retain when revising The land-reforms PYQ demand,…”, add one explicit line showing why the nearest distractor fails on date, legal status, geography, attribution or degree.
-
-### Q76. Which statement avoids a common matching trap about The land-reforms PYQ demand, 2019: a covered demand?
-
-A. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-B. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank.
-
-**Answer: D.**
-**Explanation:** The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is a genuine history demand and is covered by this topic's land-reform bank. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q77. Which statement correctly identifies The Hind Mazdoor Sabha gap and the current-affairs routing artefacts?
-
-A. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-B. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-C. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-D. The Industrial Policy Resolutions of 1948 and 1956, together with the Mahalanobis-designed Second Plan of 1956, gave the public sector the 'commanding heights' of the economy, especially in heavy industry.
-
-**Answer: A.**
-**Explanation:** The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q78. Which chronology card should be filed under The Hind Mazdoor Sabha gap and the current-affairs routing artefacts?
-
-A. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-B. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-C. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-D. Growth of about 4 per cent a year to the mid-1960s far exceeded the colonial rate, but a maze of licences and controls, the 'licence-permit raj', throttled efficiency.
-
-**Answer: B.**
-**Explanation:** The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q79. Which option should a candidate retain when revising The Hind Mazdoor Sabha gap and the current-affairs routing artefacts?
-
-A. Zamindari abolition was largely complete by 1956 and made about 20 million superior tenants into owners, succeeding because it targeted a politically weak class with strong political backing behind the reform.
-B. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-C. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-D. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-
-**Answer: C.**
-**Explanation:** The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
-
-### Q80. Which statement avoids a common matching trap about The Hind Mazdoor Sabha gap and the current-affairs routing artefacts?
-
-A. The Bhoodan movement, led by Vinoba Bhave and begun at Pochampalli in 1951, could not substitute for structural land reform because much of the donated land was never effectively distributed.
-B. The Green Revolution's high-yielding-variety seed package, introduced from the mid-1960s, was initially concentrated in Punjab, Haryana and western Uttar Pradesh and in wheat cultivation.
-C. Tenancy and ceiling legislation largely failed because oral and concealed tenancies were poorly recorded and evasion through benami transfers and family partition was common, since the rural classes targeted were the state's own political base.
-D. The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic.
-
-**Answer: D.**
-**Explanation:** The 2018 Prelims GS-I Q70 demand on the founders of the Hind Mazdoor Sabha, 1948, is historical but unattested in the local source books and is recorded as an explicit single-fact gap, while seven further routed demands, Exercise Mitra Shakti-2023, the Gandhi Peace Prize jury, the first Kho Kho World Cup, the 45th Chess Olympiad records, the Laureus World Sports Awards, the Tokyo 2020 Olympics motto and new sports, and the ICC World Test Championship finalist criteria, are contemporary current-affairs routing artefacts with no modern-history content and are not answered from this topic. This distinction preserves the source-backed chronology and prevents cross-matching errors in UPSC elimination.
+- **A (eliminate):** Output increase did not ensure social equality
+- **B (eliminate):** Chronology is reversed
+- **C (eliminate):** Democracy continued
+- **D (correct):** This is the owner's qualified long-view thesis
+- **Trap:** Economic, social and political evidence must be weighed rather than collapsed into one verdict.
 
 ### Semantic-completeness coverage drills — Modern Topic 38
 

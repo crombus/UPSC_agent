@@ -4,807 +4,595 @@ topic_key: world-history-15
 ---
 # Cold War and International Relations — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## SOURCE-REVIEWED MCQS AND REMEDIATION
+Grounding: paired basic/advanced knowledge chapters (Norman Lowe, chapters 7–8 and 11). Interpretations remain attributed; regional agency is not reduced to a superpower proxy label. Attempt before opening the key.
 
-### Q1. Which statement correctly identifies Cold War defined?
+### Q1. Why is the term 'Cold War' not equivalent to peace?
 
-A. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-B. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-C. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-D. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
+A. The USA and USSR avoided a direct general war but competed through arms, alliances, propaganda and limited wars.
+B. Both superpowers disarmed entirely and avoided all regional crises.
+C. Only European diplomatic conferences mattered after 1945.
+D. It was a single uninterrupted conventional war between the USA and USSR.
 
-**Answer: A.**
-**Explanation:** The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. Which causal formulation respects the mutual security dilemma after WWII?
 
-### Q2. Which chronology card should be filed under Cold War defined?
+A. Both powers agreed that eastern European elections were irrelevant and tension disappeared.
+B. Soviet security claims in eastern Europe and Western fear of expansion reinforced each other's suspicions.
+C. American possession of nuclear weapons eliminated all mistrust at Yalta.
+D. The conflict resulted only from a dispute about the 1975 Helsinki text.
 
-A. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-B. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-C. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-D. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
+### Q3. Which mapping of Cold War origin schools follows the advanced source?
 
-**Answer: B.**
-**Explanation:** The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them. The remaining options belong to different chronology, actor or analytical categories.
+A. Orthodox: US expansion alone; revisionist: Soviet innocence proved; post-revisionist: neither side acted.
+B. Orthodox: Japan's 1931 invasion; revisionist: D-Day; post-revisionist: Korean reunification.
+C. Orthodox: Soviet expansion; revisionist: US economic and atomic leverage; post-revisionist: interacting responsibilities.
+D. All three deny that ideology and insecurity mattered.
 
-### Q3. Which option preserves the source-bounded meaning of Cold War defined?
+### Q4. How should Kennan and William Appleman Williams be distinguished?
 
-A. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-B. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-C. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-D. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
+A. Kennan wrote the revisionist explanation of US economic hegemony; Williams led NATO in 1949.
+B. Both authored the 1972 SALT I agreement.
+C. Williams explained only the 1990–91 Gulf War; Kennan only 1905 Russia.
+D. Kennan is linked with the orthodox containment argument; Williams emphasises US economic hegemony and atomic leverage.
 
-**Answer: C.**
-**Explanation:** The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. What made the Yalta and Potsdam negotiations an imperfect transition to peace?
 
-### Q4. Which statement avoids a close-option trap about Cold War defined?
+A. Partial agreement coexisted with tension over Poland, Germany and eastern Europe's future.
+B. Both conferences created a binding permanent US–Soviet military alliance.
+C. Both were convened after the USSR had disintegrated.
+D. Both directly ended the Korean War in 1953.
 
-A. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-B. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-C. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-D. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
+### Q6. Which statement separates the Truman Doctrine from the Marshall Plan?
 
-**Answer: D.**
-**Explanation:** The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them. The remaining options belong to different chronology, actor or analytical categories.
+A. The Truman Doctrine founded the Warsaw Pact; the Marshall Plan built the Berlin Wall.
+B. The former pledged support against communist pressure; the latter offered European economic recovery with political as well as humanitarian purposes.
+C. Both were Soviet programmes to control eastern Europe.
+D. Both required Japan to surrender in 1945.
 
-### Q5. Which statement correctly identifies Security dilemma after 1945?
+### Q7. What was Stalin's response to the Western recovery-and-containment challenge?
 
-A. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-B. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-C. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-D. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
+A. He introduced the 1921 NEP throughout Western Europe.
+B. He dissolved every Soviet-supported government in eastern Europe.
+C. He established Cominform and tightened Soviet control over eastern Europe.
+D. He signed the INF Treaty with Reagan in 1947.
 
-**Answer: A.**
-**Explanation:** Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. Which 1948 event intensified Western fears of the 'Iron Curtain' separately from the Berlin blockade?
 
-### Q6. Which chronology card should be filed under Security dilemma after 1945?
+A. The construction of the Berlin Wall.
+B. The signing of the Helsinki Agreement.
+C. The Soviet withdrawal from Afghanistan.
+D. The communist takeover of power in Czechoslovakia.
 
-A. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-B. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-C. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-D. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
+### Q9. What distinguished the Western reaction to the 1948–49 Berlin blockade?
 
-**Answer: B.**
-**Explanation:** Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive. The remaining options belong to different chronology, actor or analytical categories.
+A. An airlift supplied West Berlin rather than an immediate land war with Soviet forces.
+B. NATO bombed Moscow before forming as an alliance.
+C. The USSR airlifted Western troops out of Berlin.
+D. The Berlin Wall was dismantled before it was constructed.
 
-### Q7. Which option preserves the source-bounded meaning of Security dilemma after 1945?
+### Q10. What combined developments made 1949 pivotal to early Cold War bipolarity?
 
-A. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-B. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-C. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-D. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
+A. The Warsaw Pact dissolved and the INF Treaty was signed.
+B. NATO formed, the USSR tested an atomic bomb, and communist victory in China widened US concerns.
+C. The Cuban missiles were withdrawn and SALT I was completed.
+D. The USSR abandoned nuclear research and China joined NATO.
 
-**Answer: C.**
-**Explanation:** Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. Why did the UN authorise intervention in Korea in 1950?
 
-### Q8. Which statement avoids a close-option trap about Security dilemma after 1945?
+A. South Korea invaded the North and China presided over NATO.
+B. The 1975 Helsinki Agreement explicitly required a Korean invasion.
+C. North Korea invaded the South and the Soviet delegation was absent during the relevant Security Council decision.
+D. The Berlin blockade destroyed the UN Charter and ended collective security.
 
-A. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-B. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-C. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-D. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
+### Q12. What made the Korean War more than a simple USA–USSR bilateral confrontation?
 
-**Answer: D.**
-**Explanation:** Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive. The remaining options belong to different chronology, actor or analytical categories.
+A. Soviet and American regular armies fought a declared general war in Europe.
+B. The USSR annexed the entire peninsula in the 1953 armistice.
+C. The conflict happened only after Gorbachev's 1987 arms treaty.
+D. UN troops led by Americans moved north, China intervened, and Korean divisions remained near the 38th parallel.
 
-### Q9. Which statement correctly identifies Ideology, atomic asymmetry and wartime mistrust?
+### Q13. What was the strategic result of Korea by 1953?
 
-A. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-B. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-C. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-D. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
+A. A roughly restored frontier accompanied deeper Asian bloc militarisation and containment.
+B. A reunified peninsula removed all US security commitments in Asia.
+C. NATO ceased to exist because it had lost a Pacific battle.
+D. The Berlin Wall was removed at the armistice.
 
-**Answer: A.**
-**Explanation:** Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. Which pairing supports a limited post-1953 thaw?
 
-### Q10. Which chronology card should be filed under Ideology, atomic asymmetry and wartime mistrust?
+A. Hungary's repression and the 1961 Berlin Wall as proof of uninterrupted reconciliation.
+B. Korean armistice and Austrian State Treaty, alongside language of peaceful coexistence.
+C. The 1948 blockade and Czechoslovak takeover as post-Stalin events.
+D. The 1979 Afghanistan invasion and SS-20 tension as early thaw markers.
 
-A. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-B. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-C. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-D. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
+### Q15. What evidence most directly limits the claim that Khrushchev's peaceful coexistence ended coercion?
 
-**Answer: B.**
-**Explanation:** Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust. The remaining options belong to different chronology, actor or analytical categories.
+A. The Austrian State Treaty in 1955.
+B. The Marshall Plan of 1947.
+C. The Soviet crushing of the Hungarian rising in 1956.
+D. The INF Treaty of 1987.
 
-### Q11. Which option preserves the source-bounded meaning of Ideology, atomic asymmetry and wartime mistrust?
+### Q16. What does the Berlin Wall's construction in 1961 indicate?
 
-A. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-B. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-C. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-D. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
+A. The 1948–49 airlift was conducted after the Wall fell.
+B. It caused the Soviet atomic test of 1949.
+C. It was the negotiated peace treaty that ended the Korean War.
+D. The German question remained divided; the Wall froze one aspect rather than resolving it.
 
-**Answer: C.**
-**Explanation:** Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. Why is the 1962 Cuban missiles crisis an especially sharp example of nuclear deterrence?
 
-### Q12. Which statement avoids a close-option trap about Ideology, atomic asymmetry and wartime mistrust?
+A. Soviet missiles, an American blockade and last-minute compromise brought the powers close to direct war.
+B. It was resolved by an immediate American nuclear strike on Moscow.
+C. It predates the 1949 Soviet atomic test.
+D. It took place entirely inside the Warsaw Pact with no US role.
 
-A. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-B. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
+### Q18. Match the crisis with its dominant analytical mechanism: Berlin 1948–49; Korea; Cuba 1962.
 
-**Answer: D.**
-**Explanation:** Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust. The remaining options belong to different chronology, actor or analytical categories.
+A. Nuclear disarmament; European decolonisation; Soviet agricultural reform.
+B. Access and spheres; containment and escalation in Asia; nuclear brinkmanship.
+C. US–China rapprochement; SALT I; post-1991 nationalist conflict.
+D. All three ended in a formal general war between the superpowers.
 
-### Q13. Which statement correctly identifies Yalta and Potsdam, 1945?
+### Q19. What does Vietnam demonstrate within the wider Cold War framework?
 
-A. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-B. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-C. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-D. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
+A. The successful 1953 reunification of Korea.
+B. The immediate end of all US alliances after 1949.
+C. The limits of US military power against communist movements, without erasing local agency.
+D. A direct USSR–USA battlefield war in Europe.
 
-**Answer: A.**
-**Explanation:** Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. Why does Chile belong in a Cold War question even without a Berlin-style confrontation?
 
-### Q14. Which chronology card should be filed under Yalta and Potsdam, 1945?
+A. It was the site of the 1948–49 Berlin airlift.
+B. It hosted the 1975 Helsinki Agreement.
+C. It was a Soviet nuclear missile base during the 1962 Cuban crisis.
+D. It illustrates ideological fear, domestic political struggle and intervention beyond direct invasion.
 
-A. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-B. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-C. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-D. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
+### Q21. Which analytical frame best resists treating the Middle East as merely a proxy chessboard?
 
-**Answer: B.**
-**Explanation:** Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections. The remaining options belong to different chronology, actor or analytical categories.
+A. Combine Palestinian displacement, Israeli security, Arab nationalism, territorial disputes and oil with outside intervention.
+B. Explain every conflict exclusively as a Soviet order to local actors.
+C. Explain every conflict only as an unchanging ancient hostility.
+D. Exclude Suez and the 1973 war because they involved no international politics.
 
-### Q15. Which option preserves the source-bounded meaning of Yalta and Potsdam, 1945?
+### Q22. What followed the 1948–49 Arab–Israeli War according to the chapter?
 
-A. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-B. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-C. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-D. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
+A. Camp David ended the Palestinian question before it arose.
+B. Israel survived, while the Palestinian refugee question and Arab–Israeli hostility endured.
+C. Israel occupied the Sinai, Gaza and Golan Heights in one 1948 armistice.
+D. Egypt and Israel signed a final peace treaty in 1949.
 
-**Answer: C.**
-**Explanation:** Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections. The remaining options belong to different chronology, actor or analytical categories.
+### Q23. What sequence makes the 1956 Suez crisis a decolonisation case as well as a Cold War episode?
 
-### Q16. Which statement avoids a close-option trap about Yalta and Potsdam, 1945?
+A. Nasser invaded the USA and founded NATO to seize the canal.
+B. The 1973 oil shock forced a 1948 Berlin airlift at Suez.
+C. Nasser nationalised the canal; Britain, France and Israel attacked; US and USSR pressure exposed Europe's declining imperial leverage.
+D. Egypt and Israel signed Camp David before canal nationalisation.
 
-A. The Berlin Wall physicalised and stabilised division without resolving the German question.
-B. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
+### Q24. Which territorial change belongs specifically to the Six-Day War of 1967?
 
-**Answer: D.**
-**Explanation:** Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections. The remaining options belong to different chronology, actor or analytical categories.
+A. Immediate transfer of all occupied territories to a Palestinian state.
+B. Berlin's permanent reunification under Soviet control.
+C. Egypt–Israel peace was signed before the war began.
+D. Israeli occupation of Sinai, Gaza, West Bank, East Jerusalem and Golan Heights.
 
-### Q17. Which statement correctly identifies Truman Doctrine and Marshall Plan, 1947?
+### Q25. Which statement distinguishes 1973 from both 1967 and Camp David?
 
-A. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-B. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-C. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-D. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
+A. An Egyptian–Syrian attack restored some Arab leverage amid superpower tension and oil politics.
+B. Israel first occupied the West Bank in a 1973 surprise attack on Egypt.
+C. Nasser nationalised the canal in the 1973 war.
+D. Egypt and Israel signed their peace agreement at the battlefront in 1973.
 
-**Answer: A.**
-**Explanation:** The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy. The remaining options belong to different chronology, actor or analytical categories.
+### Q26. What did the Camp David process of 1978–79 achieve and leave unresolved?
 
-### Q18. Which chronology card should be filed under Truman Doctrine and Marshall Plan, 1947?
+A. It ended all future Middle Eastern disputes over land and statehood.
+B. Egypt–Israel peace advanced while the Palestinian question persisted.
+C. It caused Israel's 1967 capture of the Golan Heights.
+D. It founded the UN force for Korea in 1950.
 
-A. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-B. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
+### Q27. Why do the Iran–Iraq and 1990–91 Gulf wars complicate a purely Arab–Israeli Cold War narrative?
 
-**Answer: B.**
-**Explanation:** The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy. The remaining options belong to different chronology, actor or analytical categories.
+A. Both were settled by the 1947 Marshall Plan.
+B. Neither involved local state interests.
+C. Regional rivalry and oil security persisted beyond the earlier interstate Arab–Israeli war cycle.
+D. Both occurred before the 1956 Suez crisis.
 
-### Q19. Which option preserves the source-bounded meaning of Truman Doctrine and Marshall Plan, 1947?
+### Q28. Why did détente emerge in the 1970s according to the advanced source?
 
-A. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-B. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-C. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-D. The Berlin Wall physicalised and stabilised division without resolving the German question.
+A. The 1979 Soviet invasion of Afghanistan permanently ended all military competition.
+B. Both blocs had been dissolved by 1961.
+C. The Korean War directly signed SALT I in 1953.
+D. Nuclear fear, Soviet economic strain, US exhaustion after Vietnam and triangular diplomacy encouraged accommodation.
 
-**Answer: C.**
-**Explanation:** The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy. The remaining options belong to different chronology, actor or analytical categories.
+### Q29. Which set correctly identifies détente-era markers?
 
-### Q20. Which statement avoids a close-option trap about Truman Doctrine and Marshall Plan, 1947?
+A. SALT I in 1972, US–China opening and Helsinki in 1975.
+B. Truman Doctrine in 1947, Berlin blockade in 1948 and NATO in 1949.
+C. Cuban missiles in 1962, the Wall in 1961 and Hungary in 1956.
+D. INF in 1987, Afghanistan withdrawal and eastern European regime collapse.
 
-A. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-B. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-C. The Berlin Wall physicalised and stabilised division without resolving the German question.
-D. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
+### Q30. What is the most accurate interpretation of SALT I?
 
-**Answer: D.**
-**Explanation:** The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy. The remaining options belong to different chronology, actor or analytical categories.
+A. It destroyed every US and Soviet nuclear weapon in 1972.
+B. It was an arms-limitation marker of détente, not an end to nuclear rivalry.
+C. It created NATO in 1949.
+D. It was an Egypt–Israel peace agreement of 1978.
 
-### Q21. Which statement correctly identifies Czechoslovakia and Berlin, 1948-49?
+### Q31. What undermined the claim that détente permanently ended bloc confrontation?
 
-A. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-B. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-C. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-D. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
+A. Helsinki banned all national security disputes after 1975.
+B. The Warsaw Pact ceased to exist immediately after SALT I.
+C. Missile competition and the Soviet invasion of Afghanistan in 1979 renewed tensions.
+D. The Marshall Plan was introduced after the 1979 invasion.
 
-**Answer: A.**
-**Explanation:** Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war. The remaining options belong to different chronology, actor or analytical categories.
+### Q32. Which sequence accurately traces re-escalation and later easing?
 
-### Q22. Which chronology card should be filed under Czechoslovakia and Berlin, 1948-49?
+A. INF in 1947 → Soviet collapse in 1953 → the Korean invasion in 1987.
+B. Helsinki in 1991 → Marshall Plan in 1975 → Warsaw Pact in 1945.
+C. Cuban crisis in 1985 → Berlin airlift in 1962 → SALT I in 1948.
+D. 1970s détente → Soviet entry into Afghanistan in 1979 → Gorbachev's INF and Afghan withdrawal.
 
-A. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-B. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. The Berlin Wall physicalised and stabilised division without resolving the German question.
+### Q33. How did the INF Treaty of 1987 differ from general détente rhetoric?
 
-**Answer: B.**
-**Explanation:** Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war. The remaining options belong to different chronology, actor or analytical categories.
+A. It committed the superpowers to eliminating a class of intermediate-range nuclear missiles.
+B. It established the 1949 NATO collective-defence obligation.
+C. It transferred all eastern European states to US rule.
+D. It declared direct US–Soviet general war in Afghanistan.
 
-### Q23. Which option preserves the source-bounded meaning of Czechoslovakia and Berlin, 1948-49?
+### Q34. Why does Gorbachev matter to explanations of the Cold War's end without becoming its sole cause?
 
-A. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-B. The Berlin Wall physicalised and stabilised division without resolving the German question.
-C. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-D. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
+A. He invented the 1947 Truman Doctrine to fund Soviet reforms.
+B. His negotiations, arms reduction, Afghan withdrawal and refusal to enforce bloc control interacted with economic and legitimacy crises.
+C. He crushed Hungary's 1956 rising as Soviet leader.
+D. He alone caused every eastern European regime to fail with no local movements.
 
-**Answer: C.**
-**Explanation:** Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war. The remaining options belong to different chronology, actor or analytical categories.
+### Q35. Which late Cold War change most directly explains why the bloc could unravel without a repeat of 1956 Hungary?
 
-### Q24. Which statement avoids a close-option trap about Czechoslovakia and Berlin, 1948-49?
+A. The USSR had never intervened in Hungary.
+B. All eastern European states had joined NATO in 1949.
+C. Moscow did not deploy old-style force to preserve communist governments facing mass opposition.
+D. A Korean armistice in 1953 formally dissolved the Warsaw Pact.
 
-A. The Berlin Wall physicalised and stabilised division without resolving the German question.
-B. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-C. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-D. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
+### Q36. How should an answer characterize the period 1988–91?
 
-**Answer: D.**
-**Explanation:** Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war. The remaining options belong to different chronology, actor or analytical categories.
+A. The 1948–49 Berlin blockade began after the Soviet collapse.
+B. SALT I triggered a full European communist collapse in 1972.
+C. The USA and USSR fought a conventional general war to end the rivalry.
+D. Communist governments fell across eastern Europe and the Soviet Union itself dissolved; this did not end all nationalist conflicts.
 
-### Q25. Which statement correctly identifies NATO, Soviet bomb and China, 1949?
+### Q37. Which application of non-alignment to India avoids duplicating a separate India-foreign-policy chapter?
 
-A. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-B. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. The Berlin Wall physicalised and stabilised division without resolving the German question.
+A. Treat it as India's response to bloc pressure and cross-reference the dedicated India note for the detailed history.
+B. Claim India automatically joined the Warsaw Pact after 1955.
+C. Claim India had no interest in Asian security after Korea.
+D. Replace the Cold War sequence with an invented list of Indian interventions.
 
-**Answer: A.**
-**Explanation:** NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale. The remaining options belong to different chronology, actor or analytical categories.
+### Q38. Which periodisation is source-consistent?
 
-### Q26. Which chronology card should be filed under NATO, Soviet bomb and China, 1949?
+A. 1945–53 détente; 1953–62 Soviet disintegration; 1970s Korean War; 1985–91 Berlin blockade.
+B. 1945–53 hardening and Korea; 1953–62 partial thaw/crises; 1970s détente; 1979–85 renewed tensions; 1985–91 ending.
+C. 1950–53 Cuban crisis; 1962 Korea; 1979 Yalta; 1991 Marshall aid.
+D. All years after 1945 were identical periods of complete nuclear peace.
 
-A. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-B. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. The Berlin Wall physicalised and stabilised division without resolving the German question.
+### Q39. Which claim best balances global rivalry and regional agency across Korea, Cuba and the Middle East?
 
-**Answer: B.**
-**Explanation:** NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale. The remaining options belong to different chronology, actor or analytical categories.
+A. Every regional conflict was manufactured solely in Moscow.
+B. There was no superpower influence outside central Europe.
+C. Superpower intervention mattered, but Korean, Cuban and Middle Eastern actors and local grievances shaped distinct conflicts.
+D. The United Nations settled all three regions without further crises.
 
-### Q27. Which option preserves the source-bounded meaning of NATO, Soviet bomb and China, 1949?
+## MATCHING ANSWER KEY AND ITEM-SPECIFIC EXPLANATIONS
 
-A. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-B. The Berlin Wall physicalised and stabilised division without resolving the German question.
-C. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
-D. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
+### Q1 — A
 
-**Answer: C.**
-**Explanation:** NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Indirect conflict and nuclear danger coexist with the absence of a US–Soviet general war.
+- **B ✗:** Arms competition and proxy conflicts are defining features.
+- **C ✗:** Korea, Cuba and other non-European theatres were crucial.
+- **D ✗:** The two did not fight an open general war against each other.
+- **Trap:** Korea, Cuba and other non-European theatres were crucial.
 
-### Q28. Which statement avoids a close-option trap about NATO, Soviet bomb and China, 1949?
+### Q2 — B
 
-A. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-B. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-C. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-D. NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale.
+- **A ✗:** Control of eastern Europe was disputed.
+- **B ✓:** Both interpreted their own responses as defensive and the other's as threatening.
+- **C ✗:** The atomic factor sharpened suspicion.
+- **D ✗:** Postwar tensions began decades earlier.
+- **Trap:** Postwar tensions began decades earlier.
 
-**Answer: D.**
-**Explanation:** NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale. The remaining options belong to different chronology, actor or analytical categories.
+### Q3 — C
 
-### Q29. Which statement correctly identifies Korean War, 1950-53?
+- **A ✗:** This both reverses the orthodox focus and exaggerates the others.
+- **B ✗:** These events are not the three origin schools.
+- **C ✓:** These are competing interpretations, not three phases of the same alliance.
+- **D ✗:** The advanced source treats both as causally important.
+- **Trap:** This both reverses the orthodox focus and exaggerates the others.
 
-A. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-B. The Berlin Wall physicalised and stabilised division without resolving the German question.
-C. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-D. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
+### Q4 — D
 
-**Answer: A.**
-**Explanation:** North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The source assigns Williams the revisionist emphasis and does not make him NATO's leader.
+- **B ✗:** The historians' interpretation is not the 1972 arms agreement.
+- **C ✗:** Both appear in discussion of Cold War origins.
+- **D ✓:** Attribution prevents turning rival perspectives into unqualified facts.
+- **Trap:** The historians' interpretation is not the 1972 arms agreement.
 
-### Q30. Which chronology card should be filed under Korean War, 1950-53?
+### Q5 — A
 
-A. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-B. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-C. The Berlin Wall physicalised and stabilised division without resolving the German question.
-D. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
+- **A ✓:** Wartime cooperation did not settle postwar security and political control.
+- **B ✗:** The alliance dissolved into rivalry.
+- **C ✗:** They took place in 1945.
+- **D ✗:** Korea's armistice came later.
+- **Trap:** Korea's armistice came later.
 
-**Answer: B.**
-**Explanation:** North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel. The remaining options belong to different chronology, actor or analytical categories.
+### Q6 — B
 
-### Q31. Which option preserves the source-bounded meaning of Korean War, 1950-53?
+- **A ✗:** The Warsaw Pact was Soviet-led in 1955; the Wall came in 1961.
+- **B ✓:** Security commitment and economic aid were different instruments of containment.
+- **C ✗:** Both were US initiatives of 1947.
+- **D ✗:** They date from 1947, after Japan's surrender.
+- **Trap:** The Warsaw Pact was Soviet-led in 1955; the Wall came in 1961.
 
-A. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-B. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-C. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
-D. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
+### Q7 — C
 
-**Answer: C.**
-**Explanation:** North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** NEP was Lenin's earlier domestic policy.
+- **B ✗:** The source records consolidation, not voluntary dissolution.
+- **C ✓:** Organisational and political consolidation answered perceived Western pressure.
+- **D ✗:** Gorbachev signed INF in 1987.
+- **Trap:** The source records consolidation, not voluntary dissolution.
 
-### Q32. Which statement avoids a close-option trap about Korean War, 1950-53?
+### Q8 — D
 
-A. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-B. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-C. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-D. North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel.
+- **A ✗:** The Wall was built in 1961.
+- **B ✗:** That occurred in 1975.
+- **C ✗:** Withdrawal followed Gorbachev's later policy.
+- **D ✓:** It hardened perceptions of Soviet influence in eastern Europe.
+- **Trap:** Withdrawal followed Gorbachev's later policy.
 
-**Answer: D.**
-**Explanation:** North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel. The remaining options belong to different chronology, actor or analytical categories.
+### Q9 — A
 
-### Q33. Which statement correctly identifies Thaw and bloc enforcement, 1953-56?
+- **A ✓:** Logistical resistance preserved access without direct superpower battle.
+- **B ✗:** No such attack occurred; NATO formed in 1949.
+- **C ✗:** Western powers supplied the city by air.
+- **D ✗:** The Wall was not erected until 1961.
+- **Trap:** No such attack occurred; NATO formed in 1949.
 
-A. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-B. The Berlin Wall physicalised and stabilised division without resolving the German question.
-C. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-D. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
+### Q10 — B
 
-**Answer: A.**
-**Explanation:** The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Warsaw Pact began in 1955; INF was signed in 1987.
+- **B ✓:** Alliance, nuclear parity pressure and an Asian political shift altered strategic perceptions.
+- **C ✗:** Cuba's crisis was in 1962 and SALT I in 1972.
+- **D ✗:** The source states the opposite trajectories.
+- **Trap:** Cuba's crisis was in 1962 and SALT I in 1972.
 
-### Q34. Which chronology card should be filed under Thaw and bloc enforcement, 1953-56?
+### Q11 — C
 
-A. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-B. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-C. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-D. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
+- **A ✗:** The initial invasion was by the North; NATO did not authorise the UN force.
+- **B ✗:** The event occurred twenty-five years earlier.
+- **C ✓:** A Korean invasion triggered UN action under a specific diplomatic circumstance.
+- **D ✗:** The UN continued and acted in Korea.
+- **Trap:** The UN continued and acted in Korea.
 
-**Answer: B.**
-**Explanation:** The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits. The remaining options belong to different chronology, actor or analytical categories.
+### Q12 — D
 
-### Q35. Which option preserves the source-bounded meaning of Thaw and bloc enforcement, 1953-56?
+- **A ✗:** The Cold War did not become a direct general US–Soviet war.
+- **B ✗:** The frontier remained roughly near the earlier divide.
+- **C ✗:** Korea was fought in 1950–53.
+- **D ✓:** Regional agency and escalation risk complicate a two-power-only account.
+- **Trap:** The Cold War did not become a direct general US–Soviet war.
 
-A. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-B. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-C. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
-D. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
+### Q13 — A
 
-**Answer: C.**
-**Explanation:** The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** Territorial stalemate can still transform alliance priorities.
+- **B ✗:** The division continued.
+- **C ✗:** NATO remained a Western defence alliance.
+- **D ✗:** The Wall was not built until 1961.
+- **Trap:** NATO remained a Western defence alliance.
 
-### Q36. Which statement avoids a close-option trap about Thaw and bloc enforcement, 1953-56?
+### Q14 — B
 
-A. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-B. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-C. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-D. The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits.
+- **A ✗:** Both expose limits rather than proof of complete thaw.
+- **B ✓:** Specific settlements and rhetoric relaxed some tensions without abolishing rivalry.
+- **C ✗:** Both predate Stalin's death.
+- **D ✗:** Those belong to renewed later confrontation.
+- **Trap:** Those belong to renewed later confrontation.
 
-**Answer: D.**
-**Explanation:** The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits. The remaining options belong to different chronology, actor or analytical categories.
+### Q15 — C
 
-### Q37. Which statement correctly identifies Berlin Wall, 1961?
+- **A ✗:** That is evidence for limited easing, not for coercion.
+- **B ✗:** This was an earlier US aid policy.
+- **C ✓:** The thaw did not preclude force within the Soviet bloc.
+- **D ✗:** It belongs to the Gorbachev period.
+- **Trap:** That is evidence for limited easing, not for coercion.
 
-A. The Berlin Wall physicalised and stabilised division without resolving the German question.
-B. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-C. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-D. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
+### Q16 — D
 
-**Answer: A.**
-**Explanation:** The Berlin Wall physicalised and stabilised division without resolving the German question. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The airlift preceded its construction.
+- **B ✗:** The atomic test was twelve years earlier.
+- **C ✗:** Korean armistice and Berlin Wall are separate events.
+- **D ✓:** A physical barrier is evidence of unresolved geopolitical division.
+- **Trap:** The atomic test was twelve years earlier.
 
-### Q38. Which chronology card should be filed under Berlin Wall, 1961?
+### Q17 — A
 
-A. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-B. The Berlin Wall physicalised and stabilised division without resolving the German question.
-C. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-D. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
+- **A ✓:** Escalation danger made restraint and crisis diplomacy essential.
+- **B ✗:** There was no US–Soviet nuclear general war.
+- **C ✗:** Cuba's crisis came in 1962.
+- **D ✗:** The American response was central.
+- **Trap:** The American response was central.
 
-**Answer: B.**
-**Explanation:** The Berlin Wall physicalised and stabilised division without resolving the German question. The remaining options belong to different chronology, actor or analytical categories.
+### Q18 — B
 
-### Q39. Which option preserves the source-bounded meaning of Berlin Wall, 1961?
+- **A ✗:** None fits the three crises.
+- **B ✓:** Each involved rivalry but tested a different operational risk.
+- **C ✗:** These do not correspond to the named events.
+- **D ✗:** No such direct general war occurred.
+- **Trap:** None fits the three crises.
 
-A. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-B. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-C. The Berlin Wall physicalised and stabilised division without resolving the German question.
-D. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
+### Q19 — C
 
-**Answer: C.**
-**Explanation:** The Berlin Wall physicalised and stabilised division without resolving the German question. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Korea's armistice left division.
+- **B ✗:** US alliance-building continued.
+- **C ✓:** A regional struggle cannot be reduced to a mere transmission belt for superpower decisions.
+- **D ✗:** Vietnam was not a European superpower general war.
+- **Trap:** US alliance-building continued.
 
-### Q40. Which statement avoids a close-option trap about Berlin Wall, 1961?
+### Q20 — D
 
-A. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-B. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-C. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-D. The Berlin Wall physicalised and stabilised division without resolving the German question.
+- **A ✗:** Berlin is in Europe, not Chile.
+- **B ✗:** That agreement concerned European security diplomacy.
+- **C ✗:** Cuba, not Chile, was the site of that crisis.
+- **D ✓:** Rivalry also operated through internal politics in Latin America.
+- **Trap:** Cuba, not Chile, was the site of that crisis.
 
-**Answer: D.**
-**Explanation:** The Berlin Wall physicalised and stabilised division without resolving the German question. The remaining options belong to different chronology, actor or analytical categories.
+### Q21 — A
 
-### Q41. Which statement correctly identifies Cuban missiles crisis, 1962?
+- **A ✓:** Local causes and superpower policies interacted without being identical.
+- **B ✗:** This erases regional autonomy and specific causes.
+- **C ✗:** That neglects modern post-imperial state formation and policies.
+- **D ✗:** Both had international implications.
+- **Trap:** This erases regional autonomy and specific causes.
 
-A. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-B. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-C. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-D. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
+### Q22 — B
 
-**Answer: A.**
-**Explanation:** The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** Camp David came in 1978–79 and did not settle that issue.
+- **B ✓:** Military survival did not resolve Palestinian displacement.
+- **C ✗:** The territories named in the source's sequence belong to the 1967 war.
+- **D ✗:** Their peace followed Camp David decades later.
+- **Trap:** The territories named in the source's sequence belong to the 1967 war.
 
-### Q42. Which chronology card should be filed under Cuban missiles crisis, 1962?
+### Q23 — C
 
-A. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-B. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-C. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-D. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
+- **A ✗:** NATO was founded in 1949 and was not Nasser's organisation.
+- **B ✗:** This combines different dates and regions.
+- **C ✓:** Regional sovereignty and superpower pressure together explain the outcome.
+- **D ✗:** Camp David occurred in 1978–79.
+- **Trap:** Camp David occurred in 1978–79.
 
-**Answer: B.**
-**Explanation:** The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint. The remaining options belong to different chronology, actor or analytical categories.
+### Q24 — D
 
-### Q43. Which option preserves the source-bounded meaning of Cuban missiles crisis, 1962?
+- **A ✗:** The source describes occupation, not that outcome.
+- **B ✗:** Berlin is unrelated to the 1967 Arab–Israeli war.
+- **C ✗:** Their peace followed in the late 1970s.
+- **D ✓:** The war transformed the territorial stakes of subsequent diplomacy.
+- **Trap:** The source describes occupation, not that outcome.
 
-A. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-B. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-C. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
-D. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
+### Q25 — A
 
-**Answer: C.**
-**Explanation:** The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** The 1973 war changed bargaining conditions but did not itself settle Palestinian statehood.
+- **B ✗:** The major occupation change described in the source occurred in 1967.
+- **C ✗:** Suez nationalisation took place in 1956.
+- **D ✗:** Their peace followed Camp David in 1978–79.
+- **Trap:** Suez nationalisation took place in 1956.
 
-### Q44. Which statement avoids a close-option trap about Cuban missiles crisis, 1962?
+### Q26 — B
 
-A. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-B. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-C. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-D. The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint.
+- **A ✗:** The source explicitly states unresolved Palestinian issues.
+- **B ✓:** A bilateral breakthrough does not equal comprehensive regional settlement.
+- **C ✗:** The capture predates Camp David.
+- **D ✗:** The events are in different regions and decades.
+- **Trap:** The events are in different regions and decades.
 
-**Answer: D.**
-**Explanation:** The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint. The remaining options belong to different chronology, actor or analytical categories.
+### Q27 — C
 
-### Q45. Which statement correctly identifies Global Cold War theatres?
+- **A ✗:** The aid plan concerned postwar European recovery.
+- **B ✗:** The source foregrounds regional rivalries.
+- **C ✓:** The Middle East had multiple sources of war and intervention.
+- **D ✗:** They occurred in 1980–88 and 1990–91.
+- **Trap:** The aid plan concerned postwar European recovery.
 
-A. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-B. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-C. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-D. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
+### Q28 — D
 
-**Answer: A.**
-**Explanation:** Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** That invasion helped renew tensions.
+- **B ✗:** NATO and the Warsaw Pact persisted.
+- **C ✗:** SALT I was signed in 1972.
+- **D ✓:** Converging pressures motivated management of rivalry, not ideological merger.
+- **Trap:** NATO and the Warsaw Pact persisted.
 
-### Q46. Which chronology card should be filed under Global Cold War theatres?
+### Q29 — A
 
-A. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-B. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-C. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-D. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
+- **A ✓:** Arms limits, triangular diplomacy and European security diplomacy marked the phase.
+- **B ✗:** These are early Cold War hardening events.
+- **C ✗:** These reflect earlier crises and coercive thaw limits.
+- **D ✗:** These belong principally to the ending phase.
+- **Trap:** These belong principally to the ending phase.
 
-**Answer: B.**
-**Explanation:** Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation. The remaining options belong to different chronology, actor or analytical categories.
+### Q30 — B
 
-### Q47. Which option preserves the source-bounded meaning of Global Cold War theatres?
+- **A ✗:** SALT I did not achieve complete nuclear abolition.
+- **B ✓:** Limitation and negotiated coexistence do not imply total disarmament.
+- **C ✗:** NATO predates SALT I.
+- **D ✗:** That confuses arms control with Camp David.
+- **Trap:** SALT I did not achieve complete nuclear abolition.
 
-A. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-B. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-C. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
+### Q31 — C
 
-**Answer: C.**
-**Explanation:** Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** It did not eliminate competition.
+- **B ✗:** It continued into the later Cold War.
+- **C ✓:** Rivalry continued beneath negotiated arms and European security agreements.
+- **D ✗:** The Plan was launched in 1947.
+- **Trap:** It continued into the later Cold War.
 
-### Q48. Which statement avoids a close-option trap about Global Cold War theatres?
+### Q32 — D
 
-A. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-B. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-C. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-D. Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation.
+- **A ✗:** Each date is misplaced.
+- **B ✗:** These events belong to 1975, 1947 and 1955 respectively.
+- **C ✗:** The correct dates are 1962, 1948–49 and 1972.
+- **D ✓:** This separates détente, renewed confrontation and the late diplomatic turn.
+- **Trap:** The correct dates are 1962, 1948–49 and 1972.
 
-**Answer: D.**
-**Explanation:** Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation. The remaining options belong to different chronology, actor or analytical categories.
+### Q33 — A
 
-### Q49. Which statement correctly identifies Middle East retained local causes?
+- **A ✓:** Concrete arms elimination is narrower and more verifiable than a vague declaration of friendship.
+- **B ✗:** NATO predates INF by decades.
+- **C ✗:** No such territorial transfer followed INF.
+- **D ✗:** INF was a negotiated arms-control agreement.
+- **Trap:** NATO predates INF by decades.
 
-A. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-B. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-C. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-D. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
+### Q34 — B
 
-**Answer: A.**
-**Explanation:** Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** The Truman Doctrine was a US policy decades earlier.
+- **B ✓:** Leadership choices operated within structural strain and popular opposition.
+- **C ✗:** That event preceded his leadership.
+- **D ✗:** The advanced source includes popular opposition and loss of legitimacy.
+- **Trap:** That event preceded his leadership.
 
-### Q50. Which chronology card should be filed under Middle East retained local causes?
+### Q35 — C
 
-A. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-B. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-C. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-D. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
+- **A ✗:** It crushed the 1956 rising.
+- **B ✗:** They had not.
+- **C ✓:** Soviet restraint altered the capacity of regimes to survive popular challenges.
+- **D ✗:** The Pact began only in 1955.
+- **Trap:** The Pact began only in 1955.
 
-**Answer: B.**
-**Explanation:** Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened. The remaining options belong to different chronology, actor or analytical categories.
+### Q36 — D
 
-### Q51. Which option preserves the source-bounded meaning of Middle East retained local causes?
+- **A ✗:** The blockade was an early Cold War crisis.
+- **B ✗:** The collapse came later and was multi-causal.
+- **C ✗:** The conflict ended without such a war.
+- **D ✓:** End of bipolar confrontation is not the end of international conflict.
+- **Trap:** The blockade was an early Cold War crisis.
 
-A. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-B. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-C. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
+### Q37 — A
 
-**Answer: C.**
-**Explanation:** Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✓:** The advanced source recommends a bounded India linkage.
+- **B ✗:** That contradicts non-alignment.
+- **C ✗:** The regional setting mattered to states choosing not to enter blocs.
+- **D ✗:** The topic calls for source-grounded international-relations analysis.
+- **Trap:** The regional setting mattered to states choosing not to enter blocs.
 
-### Q52. Which statement avoids a close-option trap about Middle East retained local causes?
+### Q38 — B
 
-A. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-B. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-C. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-D. Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened.
+- **A ✗:** The named events are attached to wrong phases.
+- **B ✓:** The period labels reflect changes in mechanisms rather than one frozen half-century.
+- **C ✗:** Every event is displaced from its source chronology.
+- **D ✗:** The crises and re-escalations contradict that.
+- **Trap:** The crises and re-escalations contradict that.
 
-**Answer: D.**
-**Explanation:** Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened. The remaining options belong to different chronology, actor or analytical categories.
+### Q39 — C
 
-### Q53. Which statement correctly identifies Suez, 1956?
-
-A. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-B. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-C. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-
-**Answer: A.**
-**Explanation:** Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Suez, 1956?
-
-A. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-B. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-C. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-
-**Answer: B.**
-**Explanation:** Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Suez, 1956?
-
-A. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-B. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-C. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-
-**Answer: C.**
-**Explanation:** Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Suez, 1956?
-
-A. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-B. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-C. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-D. Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power.
-
-**Answer: D.**
-**Explanation:** Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Arab-Israeli sequence, 1967-79?
-
-A. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-B. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-C. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-D. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-
-**Answer: A.**
-**Explanation:** The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Arab-Israeli sequence, 1967-79?
-
-A. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-B. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-C. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-
-**Answer: B.**
-**Explanation:** The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Arab-Israeli sequence, 1967-79?
-
-A. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-B. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-C. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-D. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-
-**Answer: C.**
-**Explanation:** The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Arab-Israeli sequence, 1967-79?
-
-A. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-B. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-C. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-D. The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine.
-
-**Answer: D.**
-**Explanation:** The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Detente, 1972-75?
-
-A. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-B. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-C. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-D. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-
-**Answer: A.**
-**Explanation:** SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Detente, 1972-75?
-
-A. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-B. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-C. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-D. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-
-**Answer: B.**
-**Explanation:** SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Detente, 1972-75?
-
-A. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-B. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-C. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-D. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-
-**Answer: C.**
-**Explanation:** SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Detente, 1972-75?
-
-A. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-B. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-C. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-D. SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain.
-
-**Answer: D.**
-**Explanation:** SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Renewed confrontation after 1979?
-
-A. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-B. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-C. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-D. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-
-**Answer: A.**
-**Explanation:** Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Renewed confrontation after 1979?
-
-A. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-B. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-C. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-D. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-
-**Answer: B.**
-**Explanation:** Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Renewed confrontation after 1979?
-
-A. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-B. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-C. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-D. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-
-**Answer: C.**
-**Explanation:** Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Renewed confrontation after 1979?
-
-A. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-B. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-C. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-D. Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry.
-
-**Answer: D.**
-**Explanation:** Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Non-alignment and decolonised-world agency?
-
-A. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-B. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-C. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-D. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-
-**Answer: A.**
-**Explanation:** New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Non-alignment and decolonised-world agency?
-
-A. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-B. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-C. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-D. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-
-**Answer: B.**
-**Explanation:** New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Non-alignment and decolonised-world agency?
-
-A. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-B. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-C. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-D. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-
-**Answer: C.**
-**Explanation:** New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Non-alignment and decolonised-world agency?
-
-A. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-B. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-C. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-D. New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies.
-
-**Answer: D.**
-**Explanation:** New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Sino-Soviet fracture?
-
-A. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-B. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-C. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-D. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-
-**Answer: A.**
-**Explanation:** Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Sino-Soviet fracture?
-
-A. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-B. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-C. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-D. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-
-**Answer: B.**
-**Explanation:** Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Sino-Soviet fracture?
-
-A. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-B. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-C. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-D. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-
-**Answer: C.**
-**Explanation:** Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Sino-Soviet fracture?
-
-A. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-B. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-C. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-D. Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc.
-
-**Answer: D.**
-**Explanation:** Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Gorbachev and the end, 1985-91?
-
-A. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-B. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-C. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-D. The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them.
-
-**Answer: A.**
-**Explanation:** Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Gorbachev and the end, 1985-91?
-
-A. Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive.
-B. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-C. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-D. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-
-**Answer: B.**
-**Explanation:** Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Gorbachev and the end, 1985-91?
-
-A. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-B. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-C. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-D. Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust.
-
-**Answer: C.**
-**Explanation:** Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Gorbachev and the end, 1985-91?
-
-A. Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections.
-B. Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war.
-C. The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy.
-D. Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed.
-
-**Answer: D.**
-**Explanation:** Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed. The remaining options belong to different chronology, actor or analytical categories.
+- **A ✗:** This ignores the local drivers documented for each theatre.
+- **B ✗:** Asia, Latin America and the Middle East were major arenas.
+- **C ✓:** A global ideological framework does not erase autonomous local motivations.
+- **D ✗:** Continuing conflicts and recurrent crises contradict this.
+- **Trap:** This ignores the local drivers documented for each theatre.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -838,17 +626,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** A postwar security dilemma interacted with ideological hostility, atomic asymmetry and wartime mistrust; power created stakes and ideology made defensive acts appear aggressive.
+The Cold War arose from a post-1945 security dilemma intensified by ideology: the USA and USSR confronted each other without general war.
 
-**Analytical body:**
+After immense wartime losses Stalin wanted a protective belt in eastern Europe. Imposing pro-communist governments there looked defensive to Moscow but expansionist to Western leaders. At Yalta and Potsdam, agreement on some wartime issues coexisted with disputes over Poland, Germany, occupation and free elections. Earlier delay in opening a second front had already eroded Soviet confidence in its allies.
 
-1. **Claim and named evidence:** Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Capitalist and communist visions sharpened these interpretations: each side viewed its own measures as protective and the other's as threatening. The USA's initial atomic monopoly raised the stakes. In 1947 the Truman Doctrine offered support against communist pressure and the Marshall Plan made European recovery an instrument of containment as well as humanitarian assistance; Soviet control in the east tightened in response.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** A postwar security dilemma interacted with ideological hostility, atomic asymmetry and wartime mistrust; power created stakes and ideology made defensive acts appear aggressive.
+Ideology alone cannot explain the break, since the two systems had cooperated against Hitler. The contested postwar power settlement created the immediate conflict; incompatible principles and atomic asymmetry made compromise more difficult.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
@@ -874,15 +658,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Both sides accepted severe pressure but avoided direct combat, establishing limited confrontation under nuclear-era risk.
+The 1948–49 Berlin blockade revealed that bipolar rivals could confront each other without choosing direct war. Berlin tested Western access under Soviet pressure.
 
-**Analytical body:**
+The communist seizure of power in Czechoslovakia in 1948 had already hardened Western fears that Moscow intended to dominate eastern Europe. The blockade extended confrontation to Berlin. Rather than force a land route through Soviet-controlled territory and risk armed escalation, the Western powers supplied the city by airlift. Air transport kept their position viable and demonstrated a willingness to incur costs while avoiding a direct military clash.
 
-1. **Claim and named evidence:** Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+The episode exposed rigidity and restraint: rival spheres hardened, yet pressure replaced combat. NATO's formation in 1949 institutionalised Western collective defence. The USSR's first atomic bomb that year intensified the later nuclear dimension, but should not be projected backwards as a Soviet nuclear threat throughout the blockade.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** Both sides accepted severe pressure but avoided direct combat, establishing limited confrontation under nuclear-era risk.
+Berlin was not a final settlement of Germany's division. It established a pattern of hard confrontation under limits, not peaceful cooperation or an inevitable hot war.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
@@ -909,16 +691,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** UN, American, Chinese and Korean forces turned divided-state conflict into armed bloc confrontation and entrenched containment and rearmament in Asia.
+Korea militarised the Cold War by turning partition into armed confrontation involving the United States, China and a UN force. Avoiding direct US–Soviet war did not mean peace elsewhere.
 
-**Analytical body:**
+The rivalry was already hardening: NATO institutionalised Western defence in 1949, the Soviet atomic explosion opened an intensified nuclear competition, and communist victory in China that year widened American fears of expansion in Asia. Yet Korea was not simply an order issued by either superpower. North Korea invaded South Korea in June 1950, making division on the peninsula an immediate local cause of war.
 
-1. **Claim and named evidence:** NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+With the Soviet delegation absent, the UN authorised intervention; US forces formed the bulk of the force opposing the northern invasion. When UN troops moved north, Chinese forces entered, enlarging the conflict rather than allowing a quick settlement. This tested containment outside Europe and magnified local security fears through intervention.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+The 1953 armistice left the frontier roughly near the 38th parallel. Despite massive fighting, neither side obtained a decisive political reunification. Instead, containment, rearmament and bloc suspicion acquired a durable Asian dimension. The war illustrated a paradox of the nuclear era: the superpowers avoided fighting each other directly but supported large-scale conventional warfare involving allies and regional actors.
 
-**Qualified conclusion:** UN, American, Chinese and Korean forces turned divided-state conflict into armed bloc confrontation and entrenched containment and rearmament in Asia.
+Korea was thus both a divided-state war and a Cold War crisis. Calling it only a proxy conflict erases Korean and Chinese agency; calling it only a civil war misses its central role in the global militarisation of rivalry.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
@@ -946,17 +727,13 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** SALT, Helsinki and diplomatic realignment regulated nuclear competition, but missile rivalry and Afghanistan showed the underlying contest survived.
+The détente of the 1970s was an attempt to regulate Cold War competition, especially nuclear danger, not to settle the political and strategic disputes that generated it.
 
-**Analytical body:**
+The 1962 Cuban missiles crisis showed how close superpower confrontation could come to nuclear catastrophe. Its lesson encouraged restraint without removing either side's military capacity or distrust. Strategic and economic strains also gave Washington and Moscow reasons to negotiate rather than escalate indefinitely. SALT I in 1972 placed arms control on the diplomatic agenda; the Helsinki Agreement of 1975 advanced dialogue and norms in Europe. Summits made negotiation routine, while Nixon's 1972 opening to China reshaped diplomacy by exploiting a communist world already divided by the Sino-Soviet dispute. None of these developments dissolved NATO or the Warsaw Pact.
 
-1. **Claim and named evidence:** The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+Rivalry still continued outside summit rooms. Soviet SS-20 missile deployment and NATO's missile responses demonstrated renewed competition over European security. The Soviet invasion of Afghanistan in 1979 deepened East–West tension and showed that regional intervention remained possible despite years of negotiation. In the Middle East and other decolonising regions, local actors had their own goals even where superpowers supplied support; détente between capitals did not automatically pacify these conflicts.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
-
-**Qualified conclusion:** SALT, Helsinki and diplomatic realignment regulated nuclear competition, but missile rivalry and Afghanistan showed the underlying contest survived.
+The subsequent INF Treaty of 1987 belonged to a later phase under Gorbachev, not the original 1970s settlement. Détente mattered because it reduced some risks and opened diplomatic channels, but it did not create trust or end the Cold War: its reversibility is the measure of its limits.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
@@ -988,21 +765,15 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Asia, the Middle East and decolonised states had local causes and agency, while non-alignment and the Sino-Soviet split fractured bloc assumptions.
+The Cold War had European origins, but its conflicts extended worldwide and never formed two obedient, internally uniform blocs. Regional actors set agendas that Washington and Moscow often entered rather than created.
 
-**Analytical body:**
+North Korea invaded South Korea in 1950; UN intervention moved north, China entered, and the 1953 armistice left a frontier near the 38th parallel. The Korean dispute became a Cold War confrontation without losing its local stakes. Vietnam exposed limits of American military force; Chile showed ideological competition inside domestic politics, and the 1979 Soviet invasion of Afghanistan revived East–West tension.
 
-1. **Claim and named evidence:** North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-3. **Claim and named evidence:** Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-4. **Claim and named evidence:** Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-5. **Claim and named evidence:** The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-6. **Claim and named evidence:** New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-7. **Claim and named evidence:** Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+The Middle East likewise resists a pure proxy label. Arab nationalism, Israeli security fears, Palestinian displacement, decolonisation, oil and territory shaped conflicts independently of superpower interests. Nasser nationalised the Suez Canal in 1956; the British-French-Israeli attack and ensuing US and Soviet pressure exposed Europe's waning imperial power. Israel's occupation of Sinai, Gaza, the West Bank, East Jerusalem and the Golan Heights in 1967 transformed territorial claims. The 1973 war restored some Arab leverage; Camp David brought Egyptian–Israeli peace in 1978–79 but did not resolve Palestinian statehood.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+Newly independent states could also choose non-alignment, protecting sovereignty and seeking bargaining space rather than accepting either bloc's discipline. Nor was the communist world monolithic: after 1956 China disputed Soviet “peaceful coexistence” as revisionism, pressed territorial claims and lost Soviet economic aid. The rift enabled the 1972 US–China opening. In February 1979 China attacked Soviet-aligned Vietnam after Vietnam's intervention in Kampuchea, demonstrating that ideological kinship did not guarantee strategic unity.
 
-**Qualified conclusion:** Asia, the Middle East and decolonised states had local causes and agency, while non-alignment and the Sino-Soviet split fractured bloc assumptions.
+The superpowers still possessed exceptional military and economic influence; their aid, alliances and interventions internationalised local disputes. But bipolarity described the balance of power better than the motives of every government or movement within it.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
@@ -1029,13 +800,12 @@ No direct UPSC PYQ is verified as owned solely by this topic in the local routin
 
 **Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** Soviet economic weakness, reformist choices, arms control, Afghan withdrawal, eastern European mobilisation and the decisive refusal to use force converged.
+The Cold War ended not through a single summit or a military defeat in direct superpower combat, but because long-term Soviet strain met Gorbachev's reformist choices and popular challenges to communist rule.
 
-**Analytical body:**
+The 1970s détente reduced some risks through SALT I and the Helsinki Agreement without removing bloc rivalry. Soviet SS-20 deployments, NATO missile responses and the Soviet invasion of Afghanistan in 1979 showed how quickly confrontation could intensify again. Continuing competition imposed strategic and economic costs on a Soviet system already under pressure; the rival blocs had not reconciled their political orders.
 
-1. **Claim and named evidence:** Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
-2. **Claim and named evidence:** Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed. **Analysis:** Use this evidence to establish the mechanism asked in the directive, not merely to narrate the event. **Qualification:** Keep its chronological, regional and interpretive boundary explicit.
+From 1985 Gorbachev changed how Moscow responded to those costs. He sought arms reduction, signed the INF Treaty with Reagan in 1987 and withdrew Soviet forces from Afghanistan. Arms control reduced the risk and expense of confrontation; withdrawal removed one prominent arena of conflict. Neither measure alone ended the Cold War, but each signalled that Soviet policy need no longer defend every inherited strategic commitment.
 
-**Counter-position / limit:** No single actor, battle, treaty, ideology or economic pressure should be made sufficient where the evidence shows interaction among structures, triggers, agency and uneven regional outcomes.
+The decisive political shift concerned eastern Europe. Gorbachev declined to deploy old-style Soviet force to preserve communist governments there. This opened space for locally driven opposition and reform, rather than making change a gift from Washington or Moscow. Between 1988 and 1991 communist systems collapsed across eastern Europe and then in the USSR itself. Political agency thus interacted with economic weakness: strain made reform urgent, while refusal to impose the old order allowed popular challenges to succeed.
 
-**Qualified conclusion:** Soviet economic weakness, reformist choices, arms control, Afghan withdrawal, eastern European mobilisation and the decisive refusal to use force converged.
+Western policy, including arms competition, affected Soviet calculations, but claiming that pressure alone caused collapse neglects Soviet choices and eastern European mobilisation. Conversely, reform without structural strain might not have unfolded in the same way. The end of superpower hostility was a phased loss of bloc coercion and ideological confrontation, culminating in the Soviet collapse, not proof that détente had quietly ended the conflict decades earlier.

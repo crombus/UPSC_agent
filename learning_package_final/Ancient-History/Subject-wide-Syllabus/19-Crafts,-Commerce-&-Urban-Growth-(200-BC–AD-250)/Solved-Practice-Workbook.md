@@ -1,1003 +1,1122 @@
 ---
-title: "Crafts, Commerce & Urban Growth (200 BC–AD 250) — Solved Practice Workbook"
+title: "Crafts, Commerce and Urban Growth (200 BC–AD 250) — Solved Practice Workbook"
 topic_key: ancient-indian-history-19
 ---
-# Crafts, Commerce & Urban Growth (200 BC–AD 250) — Solved Practice Workbook
+# Crafts, Commerce and Urban Growth (200 BC–AD 250) — Solved Practice Workbook
+
+> **Practice contract:** 40 distinct original hard MCQs appear before the PYQ section. Correct options follow A -> B -> C -> D exactly ten times. Every keyed solution carries four separately identifiable option explanations, one unique examiner trap and a named remedial target, so remediation is built into the bank instead of being repeated as a cloned block. Four routed Prelims PYQs preserve exact wording and key status. Six original Mains questions (2 x 10, 2 x 15, 2 x 20) are independently isolated. No direct Mains PYQ is routed to this topic and none is invented.
 
 ## BASIC MCQS / REMEDIATION
 
-### 24. Learning MCQ loop 1-8
+### 40 ORIGINAL HARD MCQS — QUESTIONS ONLY
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+### ORIGINAL MCQ 01
 
-#### Core teaching / solved practice
+In assessing crafts and commerce between c. 200 BCE and 250 CE, which methodological rule is most defensible?
 
-#### MCQ 01 - Q1
+- A. Convergence of two independent source classes must precede any large economic claim
+- B. One large coin hoard is by itself sufficient to establish regional prosperity
+- C. Archaeological phase labels may be read directly as proof of dynastic rule
+- D. Absence of village craft evidence establishes that village crafts were unimportant
 
-Which statement best captures the relation between second urbanisation and c. 200 BCE-250 CE growth?
+### ORIGINAL MCQ 02
 
-- A. Post-Mauryan growth intensified an older urban base but followed regionally different paths
-- B. Only overseas trade created towns
-- C. The Deccan copied one Ganga model unchanged
-- D. Towns first appeared only after 200 BCE
+Consider the following statements about second urbanisation and the growth of c. 200 BCE–250 CE:
 
-**Answer: A** - The correct frame is continuity plus intensification, with regional variation.
+1. The NBPW phase had already produced towns, punch-marked coins, burnt bricks and ring wells.
+2. Deccan and deep-south early historic levels always rest on a prior NBPW urban phase.
+3. Some early historic towns have no known prehistoric antecedent.
 
-#### MCQ 02 - Q2
+Which of the statements given above are correct?
 
-Which evidence most directly supports specialised textile processing at Arikamedu and Uraiyur?
+- A. 1 and 2 only
+- B. 1 and 3 only
+- C. 2 and 3 only
+- D. 1, 2 and 3
 
-- A. Ring wells
-- B. Brick-built dyeing vats
-- C. Roman coins
-- D. Royal prashastis
+### ORIGINAL MCQ 03
 
-**Answer: B** - Dyeing vats are production installations; coins or ring wells are indirect.
+Sanghol's early-centuries-CE plant remains are most safely used to establish:
 
-#### MCQ 03 - Q3
+- A. the crop map of early historic India
+- B. that agrarian surplus automatically produced towns
+- C. a diversified agrarian base at one excavated site
+- D. state control of cropping patterns in the Punjab
 
-A mould producing repeated objects most safely indicates:
+### ORIGINAL MCQ 04
 
-- A. Hereditary caste closure
-- B. State monopoly
-- C. Batch production or standardisation
-- D. Export to Rome
+Which evidence most directly demonstrates specialised textile processing at Uraiyur and Arikamedu?
 
-**Answer: C** - Moulds show repeatability, not ownership, labour status or destination.
+- A. Mediterranean-linked coins recovered from hoards in the vicinity
+- B. Ring wells present within the early historic habitation levels
+- C. References to *sataka* cloth in the wider literary tradition
+- D. Brick-built dyeing vats of the first to third centuries CE
 
-#### MCQ 04 - Q4
+### ORIGINAL MCQ 05
 
-Which is the strongest caution about occupational clustering in a village?
+Which find class most securely localises craft production at a site?
 
-- A. It proves no specialisation
-- B. It proves all workers were slaves
-- C. It proves the settlement was a capital
-- D. It does not by itself prove guild membership or hereditary closure
+- A. Rough-outs, wasters, drills and furnace debris
+- B. Finished beads recovered from a burial deposit
+- C. Imported glass vessels in a habitation layer
+- D. Terracotta figurines from a shrine deposit
 
-**Answer: D** - Residence pattern, corporate membership and social status are distinct questions.
+### ORIGINAL MCQ 06
 
-#### MCQ 05 - Q5
+The Karimnagar village with separate quarters for carpenters, blacksmiths, goldsmiths and potters most safely proves:
 
-The Ahichchhatra expression kumhakara seniya is linked with:
+- A. hereditary caste closure among those four trades
+- B. a spatial pattern of specialised craft residence
+- C. membership of all four trades in a single *shreni*
+- D. royal allotment of workshop land to artisans
 
-- A. A potters' guild
-- B. A caravan tax
-- C. A royal mint
-- D. A monastic council
+### ORIGINAL MCQ 07
 
-**Answer: A** - The seal is used as evidence for a potters' corporate body.
+The Ahichchhatra expression *kumhakara seniya* is used as evidence for:
 
-#### MCQ 06 - Q6
+- A. a royal mint staffed by potters
+- B. a caravan toll levied on pottery
+- C. a potters' corporate body
+- D. a monastic council of lay artisans
 
-Why are Maharashtra guild deposits significant?
+### ORIGINAL MCQ 08
 
-- A. They prove state ownership of guilds
-- B. They show corporate bodies entrusted with recurring religious provision
-- C. They establish uniform interest rates
-- D. They prove universal banking
+Second-century-CE Maharashtra deposits with potter, oil-miller and weaver guilds establish all of the following EXCEPT:
 
-**Answer: B** - Deposits show trust and endowment roles, but not a full modern banking system.
+- A. custody of a principal sum by a corporate body
+- B. recurring provision for monastic necessities
+- C. corporate continuity beyond individual members
+- D. regulated reserves and uniform rates of interest
 
-#### MCQ 07 - Q7
+### ORIGINAL MCQ 09
 
-The route Taxila-Mathura-Ujjain-Bharuch primarily illustrates:
+Sangam references to *chattu* caravans carrying paddy, salt and pepper are most significant because they show:
 
-- A. A single Roman military road
-- B. A purely coastal route
-- C. An inland corridor linking the north-west to a western port
-- D. A Gupta pilgrimage circuit
+- A. organised inland movement of bulk goods
+- B. a documented pan-Indian caravan constitution
+- C. that luxury exports dominated internal trade
+- D. royal ownership of caravan transport animals
 
-**Answer: C** - It connects inland nodes to Bharuch; route lines remain schematic.
+### ORIGINAL MCQ 10
 
-#### MCQ 08 - Q8
+Within Sharma's reconstruction of the northern corridor, Ujjain is best described as:
 
-Which statement about caravans is least defensible?
+- A. the western terminus of the *Uttarapatha*
+- B. a junction that also received the Kaushambi line
+- C. a coastal customs station on the Gulf of Khambhat
+- D. a Kushana provincial capital on the Narmada
 
-- A. Sangam material mentions chattu
-- B. They moved inland goods
-- C. They could pool risk and transport
-- D. One uniform empire-wide caravan organisation is fully documented
+### ORIGINAL MCQ 11
 
-**Answer: D** - Evidence supports caravans, not a standard pan-Indian corporate form.
+Which statement about Arikamedu is most defensible?
 
+- A. It was a Roman colony administered from Ptolemaic-Roman Egypt
+- B. It is one of the ports named in the 2020 Gupta-period question
+- C. It was an Indian craft and exchange settlement with imported wares
+- D. Its occupation both began and ended with Mediterranean contact
 
-#### Must-know facts
+### ORIGINAL MCQ 12
 
-- Q1 key D: The correct frame is continuity plus intensification, with regional variation.
-- Q2 key D: Dyeing vats are production installations; coins or ring wells are indirect.
-- Q3 key D: Moulds show repeatability, not ownership, labour status or destination.
-- Q4 key D: Residence pattern, corporate membership and social status are distinct questions.
-- Q5 key D: The seal is used as evidence for a potters' corporate body.
-- Q6 key D: Deposits show trust and endowment roles, but not a full modern banking system.
-- Q7 key D: It connects inland nodes to Bharuch; route lines remain schematic.
-- Q8 key D: Evidence supports caravans, not a standard pan-Indian corporate form.
+Pliny's complaint about bullion flowing eastward is best treated as:
 
-#### UPSC traps
+- A. an audited statement of the Roman trade balance
+- B. proof of permanent Roman settlements in south India
+- C. evidence that India imported more than it exported
+- D. contemporary Roman elite anxiety about outflow
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+### ORIGINAL MCQ 13
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+Which inference drawn from a coin hoard is the least secure?
 
-**Study link:** Topic 19 learning session.
+- A. The region in which it was found enjoyed general prosperity
+- B. Coins of that issuer reached the area of the findspot
+- C. The metals and denominations represented were in use
+- D. The hoard was deposited at some point after the issues were struck
 
-### 25. Learning MCQ loop 9-16
+### ORIGINAL MCQ 14
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+Pali terms such as *kahapana*, *nikkha*, *kamsa* and *kakanika*, corroborated by mostly silver punch-marked coins, are associated with:
 
-#### Core teaching / solved practice
+- A. the transition to a money economy, but not the growth of urban life
+- B. both the emergence of urban life and the transition to a money economy
+- C. the emergence of urban life, but not any transition in monetary practice
+- D. neither the growth of urban life nor any transition to the use of money
 
-#### MCQ 09 - Q9
+### ORIGINAL MCQ 15
 
-A port-hinterland approach begins with:
+Which combination best justifies describing an early historic settlement as urban?
 
-- A. Agrarian and craft supply feeding the port
-- B. Imported amphorae alone
-- C. Foreign colonies
-- D. Royal capitals only
+- A. A fortification wall recorded on its own without other features
+- B. NBPW sherds together with a ring well and nothing further
+- C. Defences, streets, drains, shops, seals, coins and craft debris together
+- D. One imported amphora sherd found beside a stupa enclosure wall
 
-**Answer: A** - Ports depended on production, transport and inland consumption.
+### ORIGINAL MCQ 16
 
-#### MCQ 10 - Q10
+Which pairing of site and excavated evidence is correct?
 
-Which is the safest statement about the monsoon and maritime trade?
+- A. Sirsukh — the orderly street grid of the earliest Taxila city
+- B. Hastinapura — a large body of Yaudheya coin moulds
+- C. Sirkap — a substantial burnt-brick house with drainage and seals
+- D. Sunet — burnt-brick house with drainage, seals and coin moulds
 
-- A. Monsoon sailing eliminated coastal trade
-- B. Seasonal wind knowledge enabled direct crossings within long-evolving Indian Ocean expertise
-- C. It began only after 300 CE
-- D. A single foreign sailor taught India sea travel
+### ORIGINAL MCQ 17
 
-**Answer: B** - Avoid the one-discoverer myth and preserve accumulated regional knowledge.
+Which statement best captures Mathura's place in c. 200 BCE–250 CE?
 
-#### MCQ 11 - Q11
+- A. A combined route, craft, religious and political centre
+- B. Solely a religious centre of Buddhist and Jain patronage
+- C. A river port linked directly to Red Sea shipping
+- D. A Satavahana administrative capital located in Malwa
 
-Pliny's complaint about bullion outflow is best used as:
+### ORIGINAL MCQ 18
 
-- A. Proof of Roman rule in India
-- B. Proof that only pepper was traded
-- C. Evidence of Roman anxiety about luxury imports
-- D. A precise trade-balance statistic
+Pratishthana/Paithan and Tagara/Ter are best described as:
 
-**Answer: C** - It is rhetorical evidence, not a quantified balance sheet.
+- A. western coastal ports of the Satavahana realm
+- B. inland Deccan centres linked with western routes
+- C. Buddhist cave complexes on the lower Krishna
+- D. Pandya pearl-fishery settlements of the far south
 
-#### MCQ 12 - Q12
+### ORIGINAL MCQ 19
 
-Amphorae at an Indian site do NOT by themselves prove:
+Which formulation of the town–village relationship is most accurate for this period?
 
-- A. Elite consumption possibilities
-- B. Imported container circulation
-- C. Mediterranean-linked contact
-- D. A resident Roman colony
+- A. Towns extracted from villages with no return flow of goods
+- B. Villages and towns formed separate, self-contained economies
+- C. A genuine two-way flow combined with asymmetric bargaining power
+- D. Villages benefited equally from route and port demand everywhere
 
-**Answer: D** - Material contact and resident ethnicity are separate claims.
+### ORIGINAL MCQ 20
 
-#### MCQ 13 - Q13
+Donative inscriptions naming weavers, ivory workers and perfumers are best read as evidence of:
 
-Which pairing is correct?
+- A. the dissolution of varna hierarchy by commercial wealth
+- B. a matriarchal turn indicated by the presence of women donors
+- C. universal literacy among urban artisan populations
+- D. mobility operating within a persisting social hierarchy
 
-- A. Ujjain - agate and carnelian bead work
-- B. Tamralipti - north-western caravan capital
-- C. Mathura - Malabar pepper port
-- D. Taxila - Tamil pearl fishery
+### ORIGINAL MCQ 21
 
-**Answer: A** - Ujjain was a route junction and bead-working centre.
+The location of Nashik, Junnar and Karle on Deccan corridors most safely indicates:
 
-#### MCQ 14 - Q14
+- A. religious establishments sited within commercial landscapes
+- B. monastic control over the movement of caravans and their goods
+- C. that Buddhism was exclusively a religion of trading groups
+- D. state ownership and management of the excavated cave complexes
 
-Kushana coinage is especially associated with:
+### ORIGINAL MCQ 22
 
-- A. Roman imperial portraits only
-- B. Gold and abundant copper denominations
-- C. Only lead issues
-- D. No legends
+Which statement about political power and commerce is most defensible?
 
-**Answer: B** - Kushanas issued both high-value gold and low-denomination copper.
+- A. Political unity was a necessary condition for long-distance trade
+- B. States altered risk and transaction costs rather than creating trade
+- C. Rulers owned the principal craft workshops within their realms
+- D. Tolls uniformly suppressed exchange wherever they were levied
 
-#### MCQ 15 - Q15
+### ORIGINAL MCQ 23
 
-Why is gold coinage an incomplete measure of monetisation?
+Reduced imported ceramics in a third-century-CE port level most safely indicate:
 
-- A. Gold never circulated
-- B. Coins were only ritual
-- C. Everyday exchange could use lower denominations, kind or barter
-- D. Gold is archaeologically invisible
+- A. complete abandonment of the settlement
+- B. an imperial Roman prohibition on eastern trade
+- C. a change in the form or direction of exchange
+- D. the cessation of all craft production at the site
 
-**Answer: C** - Different transaction scales used different media.
+### ORIGINAL MCQ 24
 
-#### MCQ 16 - Q16
+The distinctive contribution of Upinder Singh's treatment, as used in this package, is:
 
-Which conclusion from city coins is excessive?
+- A. a single-cause materialist theory explaining early historic urban decline
+- B. the claim that Indo-Roman exchange formed one bilateral commercial pipeline
+- C. the dating of every Deccan cave donation to the second century CE
+- D. insistence on mixed evidence, regional profiles and multi-directional trade
 
-- A. Cities had political-economic identities
-- B. Coinage can reveal institutions
-- C. Urban authorities could issue coins
-- D. Every city had sovereign independence
+### ORIGINAL MCQ 25
 
-**Answer: D** - Issuing authority does not automatically equal full sovereignty.
+Which term–meaning pair is correctly matched?
 
+- A. *Sarthavaha* — leader of a long-distance caravan
+- B. *Nigama* — hereditary occupational group of oil pressers
+- C. *Shreni* — itinerant preacher attached to a monastery
+- D. *Setthi* — royal officer in charge of granaries
 
-#### Must-know facts
+### ORIGINAL MCQ 26
 
-- Q9 key D: Ports depended on production, transport and inland consumption.
-- Q10 key D: Avoid the one-discoverer myth and preserve accumulated regional knowledge.
-- Q11 key D: It is rhetorical evidence, not a quantified balance sheet.
-- Q12 key D: Material contact and resident ethnicity are separate claims.
-- Q13 key D: Ujjain was a route junction and bead-working centre.
-- Q14 key D: Kushanas issued both high-value gold and low-denomination copper.
-- Q15 key D: Different transaction scales used different media.
-- Q16 key D: Issuing authority does not automatically equal full sovereignty.
+Which site–evidence pair is correctly matched?
 
-#### UPSC traps
+- A. Ujjain — brick-built dyeing vats of the first to third centuries CE
+- B. Ujjain — large-scale agate, jasper and carnelian bead working
+- C. Arikamedu — a large body of Yaudheya coin moulds
+- D. Sanghol — the *shulaphalayikanam* corporate sealing
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+### ORIGINAL MCQ 27
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+Arrange the following in correct chronological sequence:
 
-**Study link:** Topic 19 learning session.
+1. Widespread NBPW towns associated with punch-marked coins
+2. Kushana gold and abundant copper issues
+3. Contraction of some Deccan and Tamil urban centres alongside changed Mediterranean-linked flows
 
-### 01. Workbook method and PYQ ownership
+Select the correct answer:
 
-[FACT] The workbook contains four locally routed Prelims PYQs, 32 broad original MCQs, eight remedials and six solved Mains questions.
+- A. 2 – 1 – 3
+- B. 1 – 3 – 2
+- C. 1 – 2 – 3
+- D. 3 – 1 – 2
 
-#### Core teaching / solved practice
+### ORIGINAL MCQ 28
 
-- [LIMIT] No directly owned Mains PYQ was located in the audited local ledgers.
-- [FACT] Original MCQs rotate A-B-C-D strictly across the 32-question broad sequence and again across the eight-question remedial sequence.
-- [LIMIT] Actual PYQ answer letters are preserved and are not altered to fit rotation.
+The irrigation device called *araghatta* is best described as:
 
-#### Must-know facts
+- A. a leather bag drawn over a pulley from a masonry well shaft
+- B. a masonry reservoir feeding a network of field channels
+- C. a hand-pulled bucket used along riverbanks and tank margins
+- D. a large wheel with earthen pots tied at the ends of its spokes
 
-- 2020 keys inferred; 2025 key official locally; 2026 key provisional.
+### ORIGINAL MCQ 29
 
-#### UPSC traps
+Which statement about the *hundi* is most accurate?
 
-- WRONG: Provisional or inferred means official.
-  CORRECT: Status labels remain visible.
+- A. It was a written credit instrument prominent in later sources
+- B. It was a silver coin issued by merchant corporations of towns
+- C. It was a toll levied on caravans entering fortified market towns
+- D. It was a standard weight unit used in the bullion trade
 
-**Mains angle:** Use explanations for elimination practice.
+### ORIGINAL MCQ 30
 
-**Study link:** Local routing ledgers.
+With reference to the Gupta period, Ghantasala, Kadura and Chaul were known as:
 
-### 03. Broad MCQs 1-8
+- A. capitals of regional dynasties
+- B. ports handling foreign trade
+- C. centres of monumental stone sculpture
+- D. Buddhist pilgrimage destinations
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+### ORIGINAL MCQ 31
 
-#### Core teaching / solved practice
+Which statement about Northern Black Polished Ware is correct?
 
-#### MCQ 17 - Q1
+- A. It is a coarse cooking ware confined to the middle Ganga plain of Bihar
+- B. Its presence alone is sufficient to define a settlement as urban
+- C. It is a fine deluxe ware whose distribution indicates inter-regional contact
+- D. It first appears only after the end of Kushana rule in northern India
 
-Which statement best captures the relation between second urbanisation and c. 200 BCE-250 CE growth?
+### ORIGINAL MCQ 32
 
-- A. Post-Mauryan growth intensified an older urban base but followed regionally different paths
-- B. Towns first appeared only after 200 BCE
-- C. Only overseas trade created towns
-- D. The Deccan copied one Ganga model unchanged
+Which verdict on post-Mauryan crafts, commerce and urban growth is best supported by the evidence?
 
-**Answer: A** - The correct frame is continuity plus intensification, with regional variation.
+- A. A uniform subcontinental boom driven by Mediterranean demand
+- B. A purely political achievement of Kushana and Satavahana states
+- C. An essentially agrarian order in which towns played no economic role
+- D. A networked, mutually reinforcing but regionally uneven intensification
 
-#### MCQ 18 - Q2
+### ORIGINAL MCQ 33
 
-Which evidence most directly supports specialised textile processing at Arikamedu and Uraiyur?
+An excavator finds rouletted ware in a coastal habitation, but has no compositional analysis or workshop debris. Which conclusion is warranted?
 
-- A. Royal prashastis
-- B. Brick-built dyeing vats
-- C. Ring wells
-- D. Roman coins
+- A. The site participated in a distribution network; the ware's production origin remains open
+- B. The site housed a resident Mediterranean pottery-making community
+- C. All vessels of this style arrived directly from the Mediterranean
+- D. The site's ruler maintained an exclusive monopoly over sea trade
 
-**Answer: B** - Dyeing vats are production installations; coins or ring wells are indirect.
+### ORIGINAL MCQ 34
 
-#### MCQ 19 - Q3
+Match the evidence to the inference it most directly supports: (1) coin mould and minting debris; (2) hoard of coins from several issuers; (3) an inscribed endowment held by weavers.
 
-A mould producing repeated objects most safely indicates:
+- A. (1) universal wages in cash; (2) sovereign rule by every issuer; (3) regulated banking
+- B. (1) local coin manufacture; (2) accumulation and deposition; (3) a specific income-bearing custodial arrangement
+- C. (1) long-distance export; (2) minting at the hoard site; (3) universal guild membership
+- D. (1) barter's disappearance; (2) uniform fiscal law; (3) an empire-wide interest rate
 
-- A. Export to Rome
-- B. State monopoly
-- C. Batch production or standardisation
-- D. Hereditary caste closure
+### ORIGINAL MCQ 35
 
-**Answer: C** - Moulds show repeatability, not ownership, labour status or destination.
+Which route–node–hinterland association is most consistent with the source's regional network model?
 
-#### MCQ 20 - Q4
+- A. Tamralipti — Narmada valley — western Arabian Sea gateway
+- B. Bharukachchha — Kaveri delta — Bay of Bengal outlet
+- C. Bharukachchha — Narmada corridor — western sea gateway
+- D. Arikamedu — Uttarapatha — upper Ganga river port
 
-Which is the strongest caution about occupational clustering in a village?
+### ORIGINAL MCQ 36
 
-- A. It proves all workers were slaves
-- B. It proves no specialisation
-- C. It proves the settlement was a capital
-- D. It does not by itself prove guild membership or hereditary closure
+Put the following developments in defensible relative order: (1) early northern NBPW-associated urban foundations; (2) expansion of varied regional networks during c. 200 BCE–250 CE; (3) regionally uneven changes after the third century.
 
-**Answer: D** - Residence pattern, corporate membership and social status are distinct questions.
+- A. 2 → 1 → 3, because the northern urban inheritance followed southern maritime expansion
+- B. 1 → 3 → 2, because contraction preceded the post-Mauryan florescence
+- C. 3 → 1 → 2, because early historic sequences everywhere begin with contraction
+- D. 1 → 2 → 3, without assuming that every region followed the same local sequence
 
-#### MCQ 21 - Q5
+### ORIGINAL MCQ 37
 
-The Ahichchhatra expression kumhakara seniya is linked with:
+An inscription names a woman artisan as a religious donor near a trade route. What is the narrowest defensible synthesis?
 
-- A. A potters' guild
-- B. A monastic council
-- C. A caravan tax
-- D. A royal mint
+- A. Women could act as named donors, while durable records underrepresent less-resourced workers
+- B. All women artisans belonged to guilds and controlled long-distance commerce
+- C. Every donation was made to obtain a commercial return
+- D. The donation proves that women and men had equal economic standing
 
-**Answer: A** - The seal is used as evidence for a potters' corporate body.
+### ORIGINAL MCQ 38
 
-#### MCQ 22 - Q6
+Which archaeological test would most directly distinguish imported glass objects from local glass manufacture at a coastal town?
 
-Why are Maharashtra guild deposits significant?
+- A. Count completed glass vessels alone and treat the largest assemblage as the oldest workshop
+- B. Compare furnaces, working debris and material composition with finished objects in secure contexts
+- C. Identify glass objects beside coins and infer that the coin issuer financed the furnace
+- D. Read literary references to glass and assign all vessels in the town to the named authors
 
-- A. They establish uniform interest rates
-- B. They show corporate bodies entrusted with recurring religious provision
-- C. They prove universal banking
-- D. They prove state ownership of guilds
+### ORIGINAL MCQ 39
 
-**Answer: B** - Deposits show trust and endowment roles, but not a full modern banking system.
+Suppose fewer Mediterranean-linked amphora fragments occur in a later port layer while local ceramics and hinterland craft debris persist. What follows most securely?
 
-#### MCQ 23 - Q7
+- A. Every nearby inland town collapsed simultaneously
+- B. The region ceased all overseas contact and monetary exchange
+- C. The assemblage indicates a shift in that port's recorded material connections, not universal urban collapse
+- D. Roman demand had been the sole cause of all earlier local craft production
 
-The route Taxila-Mathura-Ujjain-Bharuch primarily illustrates:
+### ORIGINAL MCQ 40
 
-- A. A single Roman military road
-- B. A Gupta pilgrimage circuit
-- C. An inland corridor linking the north-west to a western port
-- D. A purely coastal route
+Which combination best explains why a monsoon-linked coastal port could also be an inland market?
 
-**Answer: C** - It connects inland nodes to Bharuch; route lines remain schematic.
+- A. A seasonal sea wind eliminated the need for grain, craft labour and overland routes
+- B. An amphora find establishes exclusive royal control of local markets
+- C. Overseas demand replaced internal exchange and all agrarian production
+- D. Seasonal sailing interacted with hinterland corridors, craft supply, food provisioning and local buyers
 
-#### MCQ 24 - Q8
+### SEPARATE KEYED EXPLANATIONS AND REMEDIATION
 
-Which statement about caravans is least defensible?
+### KEYED EXPLANATION 01
 
-- A. Sangam material mentions chattu
-- B. They moved inland goods
-- C. They could pool risk and transport
-- D. One uniform empire-wide caravan organisation is fully documented
+**Answer: A.**
 
-**Answer: D** - Evidence supports caravans, not a standard pan-Indian corporate form.
+**Option-wise explanation:**
 
+- **A:** Correct: settlements, inscriptions, coins and ceramics each answer a different question, so convergence rather than abundance carries an economic argument. [Q01-A]
+- **B:** Incorrect: a hoard may record savings, concealment or bullion rather than routine market prosperity. [Q01-B]
+- **C:** Incorrect: 'Shunga-Kushana level' is stratigraphic shorthand and is used at sites where that dynasty never ruled. [Q01-C]
+- **D:** Incorrect: perishables, informal exchange and women's labour are systematically under-preserved, so silence is not proof. [Q01-D]
 
-#### Must-know facts
+> **Examiner trap 01:** A source-rich period still needs triangulation; volume of evidence is not the same as convergence of evidence.
 
-- Q1 key D: The correct frame is continuity plus intensification, with regional variation.
-- Q2 key D: Dyeing vats are production installations; coins or ring wells are indirect.
-- Q3 key D: Moulds show repeatability, not ownership, labour status or destination.
-- Q4 key D: Residence pattern, corporate membership and social status are distinct questions.
-- Q5 key D: The seal is used as evidence for a potters' corporate body.
-- Q6 key D: Deposits show trust and endowment roles, but not a full modern banking system.
-- Q7 key D: It connects inland nodes to Bharuch; route lines remain schematic.
-- Q8 key D: Evidence supports caravans, not a standard pan-Indian corporate form.
+**Remedial target:** Learners who treat any single spectacular find as an economic verdict.
 
-#### UPSC traps
+### KEYED EXPLANATION 02
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+**Answer: B.**
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+**Option-wise explanation:**
 
-**Study link:** Topic 19 learning session.
+- **A:** Incorrect: it accepts statement 2, which imposes one north Indian sequence on the peninsula. [Q02-A]
+- **B:** Correct: the NBPW base is real, and some early historic towns genuinely lack a known earlier phase. [Q02-B]
+- **C:** Incorrect: it rejects the well-attested NBPW urban base of statement 1. [Q02-C]
+- **D:** Incorrect: statement 2 fails because peninsular levels may instead overlap megalithic horizons. [Q02-D]
 
-### 04. Broad MCQs 9-16
+> **Examiner trap 02:** 'Second urbanisation' is a north Indian frame; exporting it wholesale to the Deccan and Tamilakam is the standard error.
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+**Remedial target:** Learners who assume one urban sequence diffused outward from the Ganga plain.
 
-#### Core teaching / solved practice
+### KEYED EXPLANATION 03
 
-#### MCQ 25 - Q9
+**Answer: C.**
 
-A port-hinterland approach begins with:
+**Option-wise explanation:**
 
-- A. Agrarian and craft supply feeding the port
-- B. Royal capitals only
-- C. Foreign colonies
-- D. Imported amphorae alone
+- **A:** Incorrect: archaeobotany is site-specific and cannot be generalised into a subcontinental crop map. [Q03-A]
+- **B:** Incorrect: storage, transport, security, demand and institutions must convert surplus before towns result. [Q03-B]
+- **C:** Correct: cereals, pulses, oilseeds, cotton, spices, fruits and a dye plant together document diversification at Sanghol. [Q03-C]
+- **D:** Incorrect: nothing in the plant record identifies who decided what was sown. [Q03-D]
 
-**Answer: A** - Ports depended on production, transport and inland consumption.
+> **Examiner trap 03:** A rich single-site assemblage tempts over-generalisation; state the site, then state its reach.
 
-#### MCQ 26 - Q10
+**Remedial target:** Learners who convert one excavated assemblage into a regional or national pattern.
 
-Which is the safest statement about the monsoon and maritime trade?
+### KEYED EXPLANATION 04
 
-- A. It began only after 300 CE
-- B. Seasonal wind knowledge enabled direct crossings within long-evolving Indian Ocean expertise
-- C. Monsoon sailing eliminated coastal trade
-- D. A single foreign sailor taught India sea travel
+**Answer: D.**
 
-**Answer: B** - Avoid the one-discoverer myth and preserve accumulated regional knowledge.
+**Option-wise explanation:**
 
-#### MCQ 27 - Q11
+- **A:** Incorrect: coins attest exchange or deposition, not on-site dyeing. [Q04-A]
+- **B:** Incorrect: ring wells are a general urban-infrastructure marker. [Q04-B]
+- **C:** Incorrect: *sataka* is associated with Mathura and is a textual product name, not processing evidence at these sites. [Q04-C]
+- **D:** Correct: a built vat is a fixed installation that cannot travel and therefore localises the processing stage. [Q04-D]
 
-Pliny's complaint about bullion outflow is best used as:
+> **Examiner trap 04:** Distinguish production evidence (installations, debris) from distribution evidence (finished or traded goods).
 
-- A. Proof of Roman rule in India
-- B. Proof that only pepper was traded
-- C. Evidence of Roman anxiety about luxury imports
-- D. A precise trade-balance statistic
+**Remedial target:** Learners who accept imported coins or wares as proof of local manufacture.
 
-**Answer: C** - It is rhetorical evidence, not a quantified balance sheet.
+### KEYED EXPLANATION 05
 
-#### MCQ 28 - Q12
+**Answer: A.**
 
-Amphorae at an Indian site do NOT by themselves prove:
+**Option-wise explanation:**
 
-- A. Imported container circulation
-- B. Elite consumption possibilities
-- C. Mediterranean-linked contact
-- D. A resident Roman colony
+- **A:** Correct: failed, unfinished and residue material has no trade value and therefore stays where the work was done. [Q05-A]
+- **B:** Incorrect: finished beads travel widely and indicate consumption, not manufacture. [Q05-B]
+- **C:** Incorrect: imported vessels attest contact and consumption possibility only. [Q05-C]
+- **D:** Incorrect: figurines may be locally made or brought in; the deposit alone does not decide. [Q05-D]
 
-**Answer: D** - Material contact and resident ethnicity are separate claims.
+> **Examiner trap 05:** The most attractive object is usually the least informative about where it was made.
 
-#### MCQ 29 - Q13
+**Remedial target:** Learners who argue from display objects instead of workshop debris.
 
-Which pairing is correct?
+### KEYED EXPLANATION 06
 
-- A. Ujjain - agate and carnelian bead work
-- B. Tamralipti - north-western caravan capital
-- C. Taxila - Tamil pearl fishery
-- D. Mathura - Malabar pepper port
+**Answer: B.**
 
-**Answer: A** - Ujjain was a route junction and bead-working centre.
+**Option-wise explanation:**
 
-#### MCQ 30 - Q14
+- **A:** Incorrect: residence says nothing about whether the occupation was hereditarily closed. [Q06-A]
+- **B:** Correct: quarters record where artisans lived, which is exactly what settlement layout can show. [Q06-B]
+- **C:** Incorrect: corporate membership requires *shreni* or comparable terminology, absent here. [Q06-C]
+- **D:** Incorrect: no grant, inscription or administrative record is attached to the layout. [Q06-D]
 
-Kushana coinage is especially associated with:
+> **Examiner trap 06:** Occupation, residence, corporate membership and social status are four separate variables and must be evidenced separately.
 
-- A. No legends
-- B. Gold and abundant copper denominations
-- C. Roman imperial portraits only
-- D. Only lead issues
+**Remedial target:** Learners who slide from clustering to caste or guild in a single step.
 
-**Answer: B** - Kushanas issued both high-value gold and low-denomination copper.
+### KEYED EXPLANATION 07
 
-#### MCQ 31 - Q15
+**Answer: C.**
 
-Why is gold coinage an incomplete measure of monetisation?
+**Option-wise explanation:**
 
-- A. Gold never circulated
-- B. Gold is archaeologically invisible
-- C. Everyday exchange could use lower denominations, kind or barter
-- D. Coins were only ritual
+- **A:** Incorrect: minting evidence comes from coin moulds and dies, not guild legends. [Q07-A]
+- **B:** Incorrect: tolls appear in fiscal and donative records, not in a craft seal legend. [Q07-B]
+- **C:** Correct: the first-century-CE seal names the guild of potters and gives corporate identity a documentary footing. [Q07-C]
+- **D:** Incorrect: monastic councils are religious institutions, unrelated to this craft legend. [Q07-D]
 
-**Answer: C** - Different transaction scales used different media.
+> **Examiner trap 07:** A named corporate legend proves that *this* trade was organised, not that every trade was.
 
-#### MCQ 32 - Q16
+**Remedial target:** Learners who cannot cite a specific record when asserting that guilds existed.
 
-Which conclusion from city coins is excessive?
+### KEYED EXPLANATION 08
 
-- A. Cities had political-economic identities
-- B. Urban authorities could issue coins
-- C. Coinage can reveal institutions
-- D. Every city had sovereign independence
+**Answer: D.**
 
-**Answer: D** - Issuing authority does not automatically equal full sovereignty.
+**Option-wise explanation:**
 
+- **A:** Incorrect as the exception: custody of the deposited principal is precisely what the records show. [Q08-A]
+- **B:** Incorrect as the exception: the endowments fund robes and other recurring monastic needs. [Q08-B]
+- **C:** Incorrect as the exception: attaching the obligation to a body is the point of the arrangement. [Q08-C]
+- **D:** Correct: nothing in these records establishes reserves, negotiable deposits, insurance or a uniform interest regime. [Q08-D]
 
-#### Must-know facts
+> **Examiner trap 08:** 'Endowment custodian' or 'financial intermediary' is safe; 'bank' imports institutions the evidence does not contain.
 
-- Q9 key D: Ports depended on production, transport and inland consumption.
-- Q10 key D: Avoid the one-discoverer myth and preserve accumulated regional knowledge.
-- Q11 key D: It is rhetorical evidence, not a quantified balance sheet.
-- Q12 key D: Material contact and resident ethnicity are separate claims.
-- Q13 key D: Ujjain was a route junction and bead-working centre.
-- Q14 key D: Kushanas issued both high-value gold and low-denomination copper.
-- Q15 key D: Different transaction scales used different media.
-- Q16 key D: Issuing authority does not automatically equal full sovereignty.
+**Remedial target:** Learners who describe *shrenis* as ancient banks.
 
-#### UPSC traps
+### KEYED EXPLANATION 09
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+**Answer: A.**
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+**Option-wise explanation:**
 
-**Study link:** Topic 19 learning session.
+- **A:** Correct: paddy and salt are bulk, low-value commodities whose movement implies regular demand and organised transport. [Q09-A]
+- **B:** Incorrect: leadership roles are attested, but no standard empire-wide corporate form is documented. [Q09-B]
+- **C:** Incorrect: the cargo listed is the opposite of a luxury basket. [Q09-C]
+- **D:** Incorrect: ownership of animals is nowhere specified in the reference. [Q09-D]
 
-### 05. Broad MCQs 17-24
+> **Examiner trap 09:** Overseas luxury lists are more famous; inland bulk movement was larger and is the better opening for an economy answer.
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+**Remedial target:** Learners who begin trade answers at the coast.
 
-#### Core teaching / solved practice
+### KEYED EXPLANATION 10
 
-#### MCQ 33 - Q17
+**Answer: B.**
 
-Which cluster most strongly supports an urban interpretation?
+**Option-wise explanation:**
 
-- A. Fortification, planned streets, drains, coins and craft debris together
-- B. One imported sherd
-- C. One gold coin outside context
-- D. One literary mention
+- **A:** Incorrect: the corridor continues past Ujjain to the port of Bharuch. [Q10-A]
+- **B:** Correct: Ujjain receives the Mathura line and the Kaushambi line and forwards traffic westward, which is why its bead industry had several outlets. [Q10-B]
+- **C:** Incorrect: Ujjain is an inland Malwa centre, not a coastal station. [Q10-C]
+- **D:** Incorrect: no such capital status is claimed for it in this account. [Q10-D]
 
-**Answer: A** - Urbanism is inferred from converging indicators.
+> **Examiner trap 10:** Junction status, not size alone, explains why a production centre survives the failure of any one market.
 
-#### MCQ 34 - Q18
+**Remedial target:** Learners who treat every named route city as a terminus.
 
-Taxila's Sirkap is notable for:
+### KEYED EXPLANATION 11
 
-- A. Only cave monasteries
-- B. Orderly street layout, fortifications and courtyard houses
-- C. No evidence of shops
-- D. A Chola dockyard
+**Answer: C.**
 
-**Answer: B** - Its morphology shows planned and differentiated urban space.
+**Option-wise explanation:**
 
-#### MCQ 35 - Q19
+- **A:** Incorrect: imported ceramics prove contact and consumption, never colonial administration. [Q11-A]
+- **B:** Incorrect: that question names Ghantasala, Kadura and Chaul. [Q11-B]
+- **C:** Correct: the site shows settlement, craft activity including dyeing installations, and Mediterranean-linked imports. [Q11-C]
+- **D:** Incorrect: occupation predates and outlasts the peak of that exchange. [Q11-D]
 
-Which statement about ring wells is correct?
+> **Examiner trap 11:** The colony claim is the single most penalised error in this topic; contact is not settlement and not sovereignty.
 
-- A. They are always ritual
-- B. They occur only in Tamilakam
-- C. They are one water/sanitation indicator requiring context
-- D. They prove a metropolis
+**Remedial target:** Learners who convert imported pottery into foreign residence.
 
-**Answer: C** - A ring well is useful but not sufficient for urban classification.
+### KEYED EXPLANATION 12
 
-#### MCQ 36 - Q20
+**Answer: D.**
 
-Which city should NOT be reduced to a single political-capital function?
+**Option-wise explanation:**
 
-- A. Mathura
-- B. Ujjain
-- C. Taxila
-- D. All of these
+- **A:** Incorrect: no ancient source compiled anything resembling balance-of-payments data. [Q12-A]
+- **B:** Incorrect: a complaint about money says nothing about resident communities. [Q12-B]
+- **C:** Incorrect: it suggests the reverse, and in any case is rhetoric rather than accounting. [Q12-C]
+- **D:** Correct: it records how a section of Roman opinion viewed expenditure on eastern goods. [Q12-D]
 
-**Answer: D** - Each combined route, craft, sacred, market or political roles.
+> **Examiner trap 12:** Testimony about a perception is not testimony about a quantity.
 
-#### MCQ 37 - Q21
+**Remedial target:** Learners who quote the 'drain' as an economic statistic.
 
-Paithan and Tagara are best placed in:
+### KEYED EXPLANATION 13
 
-- A. Inland Deccan commercial networks
-- B. The lower Indus delta
-- C. Roman Italy
-- D. The middle Ganga NBPW core only
+**Answer: A.**
 
-**Answer: A** - They connected Deccan production to western and other routes.
+**Option-wise explanation:**
 
-#### MCQ 38 - Q22
+- **A:** Correct as the least secure: a hoard may represent savings, concealment in crisis, bullion or ornament rather than general prosperity. [Q13-A]
+- **B:** Incorrect: physical presence at the findspot is the one thing a hoard does demonstrate. [Q13-B]
+- **C:** Incorrect: metal and denomination are directly observable from the coins. [Q13-C]
+- **D:** Incorrect: deposition necessarily postdates the striking of the latest coin present. [Q13-D]
 
-Arikamedu is best described as:
+> **Examiner trap 13:** Hoarding often rises in insecurity, so abundance of hoards can indicate the opposite of prosperity.
 
-- A. A securely proven Roman colony
-- B. An early historic settlement with craft and Mediterranean-linked trade evidence
-- C. Only a Buddhist pilgrimage site
-- D. A Gupta capital
+**Remedial target:** Learners who equate coin quantity with economic wellbeing.
 
-**Answer: B** - Settlement chronology and material contact are real; colony language overstates.
+### KEYED EXPLANATION 14
 
-#### MCQ 39 - Q23
+**Answer: B.**
 
-Urban-rural interdependence means:
+**Option-wise explanation:**
 
-- A. Villages only supplied tax
-- B. Towns were self-sufficient
-- C. Two-way flows linked food/raw materials with tools, markets and institutions
-- D. Cities replaced agriculture
+- **A:** Incorrect: it drops the urban dimension that the same evidence supports. [Q14-A]
+- **B:** Correct: the textual-archaeological pairing links denominated exchange with the growth of towns, which is the routed 2026 demand. [Q14-B]
+- **C:** Incorrect: it drops the monetary dimension indicated by the denominational terms. [Q14-C]
+- **D:** Incorrect: the corroboration of text by excavated coin is precisely why both are associated. [Q14-D]
 
-**Answer: C** - The relationship involved production, demand and redistribution in both directions.
+> **Examiner trap 14:** Association is not exclusive causation; punch-marked finds alone still do not reveal every monetary practice.
 
-#### MCQ 40 - Q24
+**Remedial target:** Learners who answer the 2026-style demand with only one of the two developments.
 
-Which claim about commercial mobility is excessive?
+### KEYED EXPLANATION 15
 
-- A. Donors gained visibility
-- B. Merchants could acquire prestige
-- C. Corporate identity could create standing
-- D. Commerce abolished hierarchy
+**Answer: C.**
 
-**Answer: D** - Commercial wealth complicated but did not erase social hierarchy.
+**Option-wise explanation:**
 
+- **A:** Incorrect: fortification occurs at settlements that were not towns. [Q15-A]
+- **B:** Incorrect: both markers are widely distributed and insufficient alone. [Q15-B]
+- **C:** Correct: each element indexes a different function, and only their co-occurrence indicates differentiated urban life. [Q15-C]
+- **D:** Incorrect: an import plus a monument proves contact and patronage, not urban status. [Q15-D]
 
-#### Must-know facts
+> **Examiner trap 15:** There is no single diagnostic marker of urbanism; examiners reward the bundle argument.
 
-- Q17 key D: Urbanism is inferred from converging indicators.
-- Q18 key D: Its morphology shows planned and differentiated urban space.
-- Q19 key D: A ring well is useful but not sufficient for urban classification.
-- Q20 key D: Each combined route, craft, sacred, market or political roles.
-- Q21 key D: They connected Deccan production to western and other routes.
-- Q22 key D: Settlement chronology and material contact are real; colony language overstates.
-- Q23 key D: The relationship involved production, demand and redistribution in both directions.
-- Q24 key D: Commercial wealth complicated but did not erase social hierarchy.
+**Remedial target:** Learners who define towns by one favourite indicator.
 
-#### UPSC traps
+### KEYED EXPLANATION 16
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+**Answer: D.**
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+**Option-wise explanation:**
 
-**Study link:** Topic 19 learning session.
+- **A:** Incorrect: Sirsukh is the later Kushana foundation; the orderly layout described belongs to Sirkap. [Q16-A]
+- **B:** Incorrect: Hastinapura's early historic phase yields burnt-brick houses, a ring well, tools, beads, terracottas, inscriptions and coins. [Q16-B]
+- **C:** Incorrect: this description belongs to Sunet, not to Sirkap. [Q16-C]
+- **D:** Correct: Sunet yielded a substantial burnt-brick house with drainage, seals and a large body of Yaudheya coin moulds. [Q16-D]
 
-### 06. Broad MCQs 25-32
+> **Examiner trap 16:** Taxila is not one city; Sirkap and Sirsukh are successive foundations with different profiles.
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+**Remedial target:** Learners who merge all Taxila phases into a single site description.
 
-#### Core teaching / solved practice
+### KEYED EXPLANATION 17
 
-#### MCQ 41 - Q25
+**Answer: A.**
 
-Buddhist cave donations most directly reveal:
+**Option-wise explanation:**
 
-- A. A diverse donor world including merchants and artisans
-- B. No economic role for religion
-- C. Absence of royal donors
-- D. Monastic control of every route
+- **A:** Correct: its inscriptions preserve artisan and endowment evidence alongside route, religious and political roles. [Q17-A]
+- **B:** Incorrect: religious prominence is one function among several documented there. [Q17-B]
+- **C:** Incorrect: Mathura is an inland Yamuna centre, not a maritime outlet. [Q17-C]
+- **D:** Incorrect: it is neither Satavahana nor in Malwa; Ujjain is the Malwa junction. [Q17-D]
 
-**Answer: A** - They connect religious patronage with multiple social groups.
+> **Examiner trap 17:** Single-label city descriptions lose marks; the examinable point is multifunctionality.
 
-#### MCQ 42 - Q26
+**Remedial target:** Learners who classify each city under one heading and compare nothing.
 
-Which formulation is safest?
+### KEYED EXPLANATION 18
 
-- A. Monks were customs officials
-- B. Monasteries were religious institutions embedded in economic landscapes
-- C. Buddhism was only a merchant religion
-- D. All guilds were Buddhist
+**Answer: B.**
 
-**Answer: B** - Economic embeddedness should not reduce religion to commerce.
+**Option-wise explanation:**
 
-#### MCQ 43 - Q27
+- **A:** Incorrect: they are interior centres, and the western ports are separate nodes. [Q18-A]
+- **B:** Correct: both were major inland Deccan production and market centres connected with western route systems. [Q18-B]
+- **C:** Incorrect: the lower Krishna religious-urban landscape is represented by Amaravati/Dhanyakataka and Nagarjunakonda. [Q18-C]
+- **D:** Incorrect: Korkai, not these, is associated with Pandya and pearl contexts. [Q18-D]
 
-The state-commerce relationship is best understood as:
+> **Examiner trap 18:** Peninsular commerce must be written as inland node plus corridor plus coastal outlet, never as ports alone.
 
-- A. No political role
-- B. State ownership of all trade
-- C. Enabling, extracting and participating in varying combinations
-- D. Uniform free trade
+**Remedial target:** Learners who reduce Deccan trade to coastal activity.
 
-**Answer: C** - Security, tolls, coinage and infrastructure could help or burden exchange.
+### KEYED EXPLANATION 19
 
-#### MCQ 44 - Q28
+**Answer: C.**
 
-Which statement is least defensible?
+**Option-wise explanation:**
 
-- A. Tamil rulers levied tolls/customs
-- B. Satavahana networks linked interiors and coasts
-- C. Kushana power affected route security
-- D. Political unity was necessary for all trade
+- **A:** Incorrect: tools, finished goods, coin and endowment services did move outward from towns. [Q19-A]
+- **B:** Incorrect: towns were concentrations of non-food producers and could not be self-contained. [Q19-B]
+- **C:** Correct: flows ran both ways while taxation, debt, price-setting and risk fell unequally. [Q19-C]
+- **D:** Incorrect: specialised cropping for route demand benefited some zones and bypassed others. [Q19-D]
 
-**Answer: D** - Trade also crossed political boundaries and survived divided sovereignty.
+> **Examiner trap 19:** Reject both the exploitative binary and the romantic harmony reading; the qualified middle is the answer.
 
-#### MCQ 45 - Q29
+**Remedial target:** Learners who pick one extreme of the town–village debate.
 
-What is the strongest first step in a decline answer?
+### KEYED EXPLANATION 20
 
-- A. Separate site-specific decline from wider transformation
-- B. Ignore archaeology
-- C. Blame Rome alone
-- D. Assume all towns vanished in 250 CE
+**Answer: D.**
 
-**Answer: A** - Define the spatial and evidentiary scope before explaining causes.
+**Option-wise explanation:**
 
-#### MCQ 46 - Q30
+- **A:** Incorrect: a second prestige register was added; varna, kinship and local rank persisted. [Q20-A]
+- **B:** Incorrect: women donors show bounded agency inside an unequal order, not matriarchy. [Q20-B]
+- **C:** Incorrect: sponsoring a record does not imply that the donor or his trade was literate. [Q20-C]
+- **D:** Correct: donation converted craft and commercial surplus into durable public standing without displacing older hierarchy. [Q20-D]
 
-Which factor should qualify the Roman-trade decline thesis?
+> **Examiner trap 20:** Write 'mobility within hierarchy'; a commercial social revolution is not supported.
 
-- A. Coins never changed
-- B. Internal, eastern and regional networks could continue
-- C. Ports had no hinterlands
-- D. No internal trade existed
+**Remedial target:** Learners who overstate social change from donor lists.
 
-**Answer: B** - A contraction in one circuit need not end all exchange.
+### KEYED EXPLANATION 21
 
-#### MCQ 47 - Q31
+**Answer: A.**
 
-A north-Deccan-deep south comparison should emphasise:
+**Option-wise explanation:**
 
-- A. Only dynastic lists
-- B. One uniform chronology
-- C. Different evidence combinations and pathways
-- D. No interaction between regions
+- **A:** Correct: route-side siting gave these establishments congregations, donors and possibly lodging roles. [Q21-A]
+- **B:** Incorrect: proximity is a locational fact and never establishes managerial authority. [Q21-B]
+- **C:** Incorrect: doctrinal, political, monastic and popular factors also shaped its spread. [Q21-C]
+- **D:** Incorrect: the donative records name merchants, artisans and elites rather than a state owner. [Q21-D]
 
-**Answer: C** - Comparison requires both regional specificity and interconnection.
+> **Examiner trap 21:** Mutual embedding runs in both directions; neither monastery nor market controlled the other.
 
-#### MCQ 48 - Q32
+**Remedial target:** Learners who describe Buddhism simply as a merchant religion.
 
-A high-scoring verdict should avoid:
+### KEYED EXPLANATION 22
 
-- A. Causal linkage
-- B. Regional qualification
-- C. Named evidence
-- D. A single-cause claim that foreign trade created and destroyed all towns
+**Answer: B.**
 
-**Answer: D** - The process was multi-causal and uneven.
+**Option-wise explanation:**
 
+- **A:** Incorrect: competing Indo-Greek, Shaka, Kushana and Satavahana polities traded across frontiers. [Q22-A]
+- **B:** Correct: security, coinage, weights and works lowered costs while tolls and dues raised or financed them. [Q22-B]
+- **C:** Incorrect: the state did not necessarily own production or control merchant bodies. [Q22-C]
+- **D:** Incorrect: tolls can finance the very security and infrastructure that circulation requires. [Q22-D]
 
-#### Must-know facts
+> **Examiner trap 22:** Political unity is neither necessary nor sufficient for commerce; empires may still contain weak local markets.
 
-- Q25 key D: They connect religious patronage with multiple social groups.
-- Q26 key D: Economic embeddedness should not reduce religion to commerce.
-- Q27 key D: Security, tolls, coinage and infrastructure could help or burden exchange.
-- Q28 key D: Trade also crossed political boundaries and survived divided sovereignty.
-- Q29 key D: Define the spatial and evidentiary scope before explaining causes.
-- Q30 key D: A contraction in one circuit need not end all exchange.
-- Q31 key D: Comparison requires both regional specificity and interconnection.
-- Q32 key D: The process was multi-causal and uneven.
+**Remedial target:** Learners who attribute commercial growth to one strong empire.
 
-#### UPSC traps
+### KEYED EXPLANATION 23
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+**Answer: C.**
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+**Option-wise explanation:**
 
-**Study link:** Topic 19 learning session.
+- **A:** Incorrect: abandonment requires stratigraphic evidence at that site, not an import count. [Q23-A]
+- **B:** Incorrect: no such prohibition is evidenced, and the causes proposed are multiple. [Q23-B]
+- **C:** Correct: fewer imports may reflect redirected circuits, altered demand or different carriers. [Q23-C]
+- **D:** Incorrect: craft production is evidenced independently by debris, installations and moulds. [Q23-D]
 
-### 07. Remedial MCQs 1-8
+> **Examiner trap 23:** Decline and transformation are distinct claims; only stratigraphy at a named site supports decline.
 
-[ANALYSIS] Original questions use strict A → B → C → D rotation. Each solution explains the tested distinction.
+**Remedial target:** Learners who treat every third-century change as collapse.
 
-#### Core teaching / solved practice
+### KEYED EXPLANATION 24
 
-#### MCQ 49 - Q1
+**Answer: D.**
 
-Roman coins at a site prove first and foremost:
+**Option-wise explanation:**
 
-- A. Contact, bullion flow or circulation in context
-- B. Roman sovereignty
-- C. A Roman colony
-- D. Latin-speaking majority
+- **A:** Incorrect: the single-cause macro-thesis in this topic belongs to the textbook decline argument, not to her source criticism. [Q24-A]
+- **B:** Incorrect: she explicitly stresses multi-directional exchange rather than one pipeline. [Q24-B]
+- **C:** Incorrect: no such uniform dating is proposed; chronologies remain site-specific. [Q24-C]
+- **D:** Correct: her contribution is evidentiary control — mixed sources, regional urban profiles and corporate records. [Q24-D]
 
-**Answer: A** - Start with the narrowest evidence-safe inference.
+> **Examiner trap 24:** Historiography is a disagreement about causation, evidence and scale, not a list of names.
 
-#### MCQ 50 - Q2
+**Remedial target:** Learners who cite historians without stating what each position rests on.
 
-A guild deposit proves:
+### KEYED EXPLANATION 25
 
-- A. Royal ownership
-- B. Entrusted corporate endowment activity
-- C. Uniform interest law
-- D. Modern deposit insurance
+**Answer: A.**
 
-**Answer: B** - The record supports custody/income provision, not a modern system.
+**Option-wise explanation:**
 
-#### MCQ 51 - Q3
+- **A:** Correct: the *sarthavaha* organised and led caravan exchange over long distances. [Q25-A]
+- **B:** Incorrect: *nigama* denotes a merchant or town corporation, visible on a few coins. [Q25-B]
+- **C:** Incorrect: *shreni* is an occupational corporate body of artisans or merchants. [Q25-C]
+- **D:** Incorrect: *setthi* denotes a trader or financier of substance, not a state granary officer. [Q25-D]
 
-Uttarapatha should be treated as:
+> **Examiner trap 25:** Terminology questions punish approximate glossing; fix each term to its institutional function.
 
-- A. A coastal shipping lane
-- B. A Gupta-only term
-- C. A broad and changing northern corridor/network
-- D. One surviving paved road
+**Remedial target:** Learners who use *shreni*, *nigama* and *setthi* interchangeably.
 
-**Answer: C** - Do not turn a route concept into one immutable line.
+### KEYED EXPLANATION 26
 
-#### MCQ 52 - Q4
+**Answer: B.**
 
-One coin hoard cannot by itself establish:
+**Option-wise explanation:**
 
-- A. A chronological clue
-- B. Coin presence
-- C. Metal composition
-- D. Total regional prosperity
+- **A:** Incorrect: the dyeing vats belong to Uraiyur/Tiruchirapalli and Arikamedu. [Q26-A]
+- **B:** Correct: Ujjain worked agate, jasper and carnelian after c. 200 BCE using Sipra-region raw material. [Q26-B]
+- **C:** Incorrect: the Yaudheya coin moulds come from Sunet. [Q26-C]
+- **D:** Incorrect: Sanghol is known here for its archaeobotanical record, not for that sealing. [Q26-D]
 
-**Answer: D** - Prosperity needs settlement and production evidence too.
+> **Examiner trap 26:** Site-and-evidence matching is where careless revision is exposed; attach every find to its own site.
 
-#### MCQ 53 - Q5
+**Remedial target:** Learners who remember the finds but detach them from their sites.
 
-The safest description of Pattanam is:
+### KEYED EXPLANATION 27
 
-- A. A strong but debated Muziris identification
-- B. Gupta capital
-- C. Inland Kushana mint
-- D. Secure Roman colony
+**Answer: C.**
 
-**Answer: A** - Keep the identification debate visible.
+**Option-wise explanation:**
 
-#### MCQ 54 - Q6
+- **A:** Incorrect: it places Kushana coinage before the NBPW urban base. [Q27-A]
+- **B:** Incorrect: it places third-century contraction before Kushana coinage. [Q27-B]
+- **C:** Correct: the second-urbanisation base precedes post-Mauryan Kushana coinage, which precedes third-century contraction. [Q27-C]
+- **D:** Incorrect: it inverts the sequence entirely by beginning with the contraction. [Q27-D]
 
-Araghatta belongs in this package mainly as:
+> **Examiner trap 27:** Sequence items are deliberately written without dates so that the ordering must come from understanding, not recall of years.
 
-- A. Proof of Roman technology
-- B. An adjacent routed PYQ with chronology caution
-- C. A coin type
-- D. A guild office
+**Remedial target:** Learners who can recite dates but cannot order processes.
 
-**Answer: B** - It is included because the local ledger routes it here.
+### KEYED EXPLANATION 28
 
-#### MCQ 55 - Q7
+**Answer: D.**
 
-Hundi should be described as:
+**Option-wise explanation:**
 
-- A. A c. 200 BCE coin
-- B. A Roman amphora
-- C. A post-Harsha credit/bill-of-exchange concept, not back-projected
-- D. A Satavahana tax
+- **A:** Incorrect: that describes a simple bag-and-pulley lift, a different mechanism. [Q28-A]
+- **B:** Incorrect: *araghatta* is a lifting device, not a storage or canal work. [Q28-B]
+- **C:** Incorrect: hand-pulled bucket lifting is not the wheel mechanism named. [Q28-C]
+- **D:** Correct: the device is a pot-bearing wheel used for repeated lifting, as the official 2025 Set-A key records. [Q28-D]
 
-**Answer: C** - Respect the later chronological owner.
+> **Examiner trap 28:** Do not substitute an assumed drive mechanism, such as animal power, for the mechanism the key actually describes.
 
-#### MCQ 56 - Q8
+**Remedial target:** Learners who confuse water-lifting devices with canals, dams or reservoirs.
 
-The best decline conclusion is:
+### KEYED EXPLANATION 29
 
-- A. Rome alone caused collapse
-- B. All cities vanished
-- C. Trade ended permanently
-- D. Urban systems transformed unevenly across regions
+**Answer: A.**
 
-**Answer: D** - Use decline only where site evidence supports it.
+**Option-wise explanation:**
 
+- **A:** Correct: it functions as a bill of exchange or promissory undertaking, attested chiefly from the post-Harsha period onward. [Q29-A]
+- **B:** Incorrect: it is emphatically not a coin; that confusion is the tested error. [Q29-B]
+- **C:** Incorrect: tolls and customs are fiscal levies, not credit instruments. [Q29-C]
+- **D:** Incorrect: weights and measures belong to a separate regulatory sphere. [Q29-D]
 
-#### Must-know facts
+> **Examiner trap 29:** The *hundi* is chronologically later than this topic's core window and must not be back-projected into it.
 
-- Q1 key D: Start with the narrowest evidence-safe inference.
-- Q2 key D: The record supports custody/income provision, not a modern system.
-- Q3 key D: Do not turn a route concept into one immutable line.
-- Q4 key D: Prosperity needs settlement and production evidence too.
-- Q5 key D: Keep the identification debate visible.
-- Q6 key D: It is included because the local ledger routes it here.
-- Q7 key D: Respect the later chronological owner.
-- Q8 key D: Use decline only where site evidence supports it.
+**Remedial target:** Learners who treat the routed 2020 *hundi* question as evidence for 200 BCE–250 CE credit practice.
 
-#### UPSC traps
+### KEYED EXPLANATION 30
 
-- WRONG: Memorise the option letter.
-  CORRECT: Revise the evidence distinction and elimination logic.
+**Answer: B.**
 
-**Mains angle:** Use errors to revisit the relevant teaching section.
+**Option-wise explanation:**
 
-**Study link:** Topic 19 learning session.
+- **A:** Incorrect: none of the three is presented as a dynastic capital. [Q30-A]
+- **B:** Correct: they are identified as ports engaged in foreign trade, which tests maritime continuity beyond this topic's window. [Q30-B]
+- **C:** Incorrect: sculpture centres are a separate category in Art and Culture. [Q30-C]
+- **D:** Incorrect: pilgrimage significance is not what the question tests. [Q30-D]
+
+> **Examiner trap 30:** The question belongs to the Gupta period; it shows relocation and continuity of maritime nodes, not that each port peaked before 250 CE.
+
+**Remedial target:** Learners who assume every routed PYQ describes the topic's own core window.
+
+### KEYED EXPLANATION 31
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: it is a well-fired deluxe ware, and its distribution is far wider than Bihar. [Q31-A]
+- **B:** Incorrect: urban status requires a bundle of indicators, not one ware. [Q31-B]
+- **C:** Correct: its fine quality and wide spread make it an indicator of contact within a broader urban material culture. [Q31-C]
+- **D:** Incorrect: NBPW belongs to the second-urbanisation phase, well before the Kushanas. [Q31-D]
+
+> **Examiner trap 31:** The word 'Northern' in the ware's name misleads; distribution must be read from finds, not from the label.
+
+**Remedial target:** Learners who infer geography or chronology from a ware's conventional name.
+
+### KEYED EXPLANATION 32
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: overseas demand was selective and cannot explain internal markets or every town. [Q32-A]
+- **B:** Incorrect: states shaped risk and costs, but merchants, guilds and producers retained agency. [Q32-B]
+- **C:** Incorrect: craft debris, corporate records, coinage and urban morphology show substantive town functions. [Q32-C]
+- **D:** Correct: production, institutions, circulation and urban concentration reinforced one another along asynchronous regional paths. [Q32-D]
+
+> **Examiner trap 32:** The verdict must carry both halves — mutual reinforcement and regional unevenness; dropping either is the common failure.
+
+**Remedial target:** Learners who close synthesis answers with a single-cause verdict.
+
+### KEYED EXPLANATION 33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: findspot establishes presence and possible exchange; provenance requires fabric/composition and production context. [Q33-A]
+- **B:** Incorrect: style neither identifies the potter's nationality nor proves a resident colony. [Q33-B]
+- **C:** Incorrect: rouletted decoration by itself does not establish overseas manufacture. [Q33-C]
+- **D:** Incorrect: a ceramic distribution pattern cannot establish the fiscal rules of a polity. [Q33-D]
+
+> **Examiner trap 33:** Imported-looking style is not a provenance test.
+
+**Remedial target:** Separating distribution evidence from compositional proof of manufacture.
+
+### KEYED EXPLANATION 34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: none of the three classes supports universal cash wages, coextensive political rule or regulated banks. [Q34-A]
+- **B:** Correct: manufacturing residues, depositional assemblage and a particular recorded transaction support these three bounded inferences respectively. [Q34-B]
+- **C:** Incorrect: a mould is not an export receipt, a hoard is not a mint, and an endowment does not count every artisan. [Q34-C]
+- **D:** Incorrect: none establishes the reach of non-cash exchange, uniform laws or uniform rates. [Q34-D]
+
+> **Examiner trap 34:** Different coin and inscription contexts answer different economic questions.
+
+**Remedial target:** Distinguishing manufacture, deposition and institutional transactions.
+
+### KEYED EXPLANATION 35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Tamralipti is an eastern Ganga/Bay of Bengal outlet, not the Narmada's western gateway. [Q35-A]
+- **B:** Incorrect: Bharukachchha's hinterland is connected to the Narmada, not the Kaveri delta. [Q35-B]
+- **C:** Correct: Barygaza/Bharukachchha linked western maritime exchange to the Narmada hinterland; the *Periplus* supplies an external commercial perspective. [Q35-C]
+- **D:** Incorrect: Arikamedu is a south-eastern coastal craft and exchange site, not an upper Ganga river port. [Q35-D]
+
+> **Examiner trap 35:** Do not exchange eastern and western port hinterlands because both entered Indian Ocean networks.
+
+**Remedial target:** Mapping port access to inland corridor rather than memorising isolated port names.
+
+### KEYED EXPLANATION 36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: the northern NBPW urban foundations predate the defined post-Mauryan window. [Q36-A]
+- **B:** Incorrect: post-third-century changes follow, not precede, the core-window florescence. [Q36-B]
+- **C:** Incorrect: later changes cannot be made the earliest phase; local trajectories also differ. [Q36-C]
+- **D:** Correct: this is a comparative chronological spine, not a claim that peninsular sites had NBPW predecessors. [Q36-D]
+
+> **Examiner trap 36:** A relative macro-chronology is not a site-by-site stratigraphic sequence.
+
+**Remedial target:** Distinguishing chronological inheritance from pan-Indian uniformity.
+
+### KEYED EXPLANATION 37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+
+- **A:** Correct: the named donor demonstrates agency, while inscriptional survival selects for those able to leave durable records. [Q37-A]
+- **B:** Incorrect: a named occupation and gift do not establish universal guild membership or control of commerce. [Q37-B]
+- **C:** Incorrect: merit, memory, identity and other motives cannot be excluded by proximity to a route. [Q37-C]
+- **D:** Incorrect: individual visibility does not measure population-wide equality. [Q37-D]
+
+> **Examiner trap 37:** Visible agency and general social equality are different historical propositions.
+
+**Remedial target:** Qualifying donor inscriptions for selection bias and multiple motives.
+
+### KEYED EXPLANATION 38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: finished goods can travel and quantity alone neither localises production nor dates a workshop. [Q38-A]
+- **B:** Correct: fixed facilities and waste support working at the site; composition helps test imported inputs and object origins. [Q38-B]
+- **C:** Incorrect: spatial association with a coin is not proof of financing or political supervision. [Q38-C]
+- **D:** Incorrect: literary mentions cannot attribute manufacture to a specific excavated layer without corroboration. [Q38-D]
+
+> **Examiner trap 38:** Raw-material import and local finishing may coexist; avoid a false all-imported/all-local binary.
+
+**Remedial target:** Combining production residues and compositional evidence.
+
+### KEYED EXPLANATION 39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: one port's imports do not establish synchronous inland settlement abandonment. [Q39-A]
+- **B:** Incorrect: fewer diagnostic fragments do not prove zero exchange, nor identify every means of payment. [Q39-B]
+- **C:** Correct: stratified imports show a local material change; continued local material complicates a simple collapse thesis. [Q39-C]
+- **D:** Incorrect: the evidence cannot erase internal demand and the agrarian-production base. [Q39-D]
+
+> **Examiner trap 39:** A fall in one imported ware is not a quantified total-trade series.
+
+**Remedial target:** Reading partial stratigraphic evidence against regional overreach.
+
+### KEYED EXPLANATION 40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: a sailing season does not feed a settlement or move all goods inland. [Q40-A]
+- **B:** Incorrect: foreign ceramics do not identify a ruler's market regulations. [Q40-B]
+- **C:** Incorrect: imports and exports coexisted with foundational inland production and exchange. [Q40-C]
+- **D:** Correct: the port function depended on reciprocal inland connections as well as sea access. [Q40-D]
+
+> **Examiner trap 40:** Neither monsoon knowledge nor overseas demand created self-sufficient ports.
+
+**Remedial target:** Integrating coastal seasonality with inland economic systems.
 
 ## PYQS AND ANSWER PRACTICE
 
-### 23. Verified PYQ audit and direct/adjacent ownership
+### Routed PYQ ownership audit
 
-[FACT] No directly owned UPSC Mains PYQ was found in the locally audited routing ledgers. Four routed Prelims demands are included; three are adjacent in chronology or technology.
+- **FACT:** Four Prelims questions are routed to Topic 19 in the audited local ledgers. Three of them are chronologically or technologically adjacent; only the 2026 money-economy demand sits inside the core window.
+- **LIMIT:** No directly owned UPSC Mains PYQ was located for this topic. The absence is stated rather than filled with an invented question, and all six Mains items below are explicitly original.
+- **Key-status rule:** only the locally held official 2025 Set-A key is described as official. The 2020 keys are inferred from authoritative subject knowledge because the official papers' keys are not held locally, and the 2026 key is provisional and **not officially verified**.
 
-#### Core teaching / solved practice
+### Solved verified/routed Prelims questions
 
-- UPSC Prelims 2020 Q25 - adjacent chronological owner: Which phrase defines the nature of the 'Hundi' generally referred to in sources of the post-Harsha period? Options included an advisory, a daily-account diary, a bill of exchange, and a feudal order. Answer: bill of exchange (option C in the locally held paper). [FACT] A hundi was a credit/remittance instrument, not a coin. [LIMIT] This PYQ concerns the post-Harsha period and is included only because the local routing ledger assigns it to Topic 19; it must not be back-projected as a fully developed instrument in c. 200 BCE-250 CE. Status: INFERRED FROM AUTHORITATIVE SUBJECT KNOWLEDGE - official 2020 key not held locally.
-- UPSC Prelims 2020 Q82 - adjacent Gupta-period owner: With reference to the Gupta period, Ghantasala, Kadura and Chaul were known as what? Options included ports handling foreign trade, capitals, stone-art centres and Buddhist pilgrimage centres. Answer: ports handling foreign trade (option A in the locally held paper). [ANALYSIS] The question tests continuity and relocation of maritime nodes beyond Topic 19's core window. [LIMIT] It is not evidence that every named port peaked before 250 CE. Status: INFERRED FROM AUTHORITATIVE SUBJECT KNOWLEDGE - official 2020 key not held locally.
-- UPSC Prelims 2025 Q13 - adjacent technology route: The irrigation device called Araghatta was: leather bag over a pulley; large wheel with earthen pots tied to the outer ends of its spokes; large earthen pot driven by bullocks; or hand-pulled bucket. Answer: a large wheel with earthen pots tied to the outer ends of its spokes (option B; official Set-A key is held locally). [LIMIT] The local canonical file places the term cautiously and notes that its exact earliest attestation is debated; it is not a core craft-commerce institution of 200 BCE-250 CE. Status: OFFICIALLY KEYED LOCALLY.
-- UPSC Prelims 2026 routed question - direct money-economy demand: Pali texts contain definite coin references such as kahapana, nikkha, kamsa and kakanika; archaeological punch-marked coins, mostly silver, corroborate the literary evidence. With which developments are these statements associated: emergence of urban life and/or transition to money economy? Answer: both emergence of urban life and transition to money economy (option C in the locally held provisional Set-A material). The textual-archaeological pairing is the key: terminology alone is not enough, and punch-marked finds alone do not reveal every monetary practice. Status: PROVISIONAL 2026 KEY - NOT OFFICIALLY VERIFIED.
+#### Solved PYQ 1 — 2020 Prelims GS-I Q25 (adjacent chronological owner)
 
-#### Must-know facts
+Which one of the following phrases defines the nature of the 'Hundi' generally referred to in the sources of the post-Harsha period?
 
-- Direct: 2026 Pali coin/money-economy demand.
-- Adjacent: 2020 Hundi, 2020 Gupta ports, 2025 Araghatta.
+- A. An advisory issued by the king to his subordinates
+- B. A diary to be maintained for daily accounts
+- C. A bill of exchange
+- D. An order from the feudal lord to his subordinates
 
-#### UPSC traps
+**Answer: C.** INFERRED FROM AUTHORITATIVE SUBJECT KNOWLEDGE — the official 2020 key is not held locally. A *hundi* is a credit and remittance instrument that allowed value to move without physical transfer of bullion; it is not a coin, a toll or a weight. **Chronology control:** the question concerns post-Harsha sources. It is included only because the local routing ledger assigns it here, and it must not be back-projected as a fully developed instrument of c. 200 BCE–250 CE. Confidence: high.
 
-- WRONG: Treat every routed question as core-window evidence.
-  CORRECT: Label actual owner and chronology explicitly.
+#### Solved PYQ 2 — 2020 Prelims GS-I Q82 (adjacent Gupta-period owner)
 
-**Mains angle:** Do not invent a direct Mains PYQ; use originals for answer writing.
+With reference to the period of the Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as
 
-**Study link:** Local Prelims routing ledgers 2018-2026.
+- A. ports handling foreign trade
+- B. capitals of powerful kingdoms
+- C. places of exquisite stone art and architecture
+- D. important Buddhist pilgrimage centres
 
-### 26. Solved Mains practice - 10, 15 and 20 marks
+**Answer: A.** INFERRED FROM AUTHORITATIVE SUBJECT KNOWLEDGE — the official 2020 key is not held locally. All three are maritime trading nodes. **Chronology control:** the question tests continuity and relocation of maritime nodes beyond Topic 19's core window, and is not evidence that each named port peaked before 250 CE. Confidence: high.
 
-[ANALYSIS] Each answer follows claim - named evidence - significance - limitation and ends with 'Why this earns marks'.
+#### Solved PYQ 3 — 2025 Prelims GS-I Q13 (adjacent technology route)
 
-#### Core teaching / solved practice
+The irrigation device called 'Araghatta' was
 
-- 10 marks / 150 words - Explain how agrarian surplus and craft specialisation reinforced early historic urban growth. Model solution: [ANALYSIS] Early historic towns were concentrations of non-food-producing groups, so urban growth required a productive countryside and mechanisms for converting surplus into specialised output. First, diversified agriculture supplied food and raw materials. [FACT] Sanghol's early-centuries-CE plant record includes cereals, pulses, oilseeds, cotton, spices and a dye plant; Deccan evidence supports cotton and paddy expansion. This sustained consumers and fed textile and dyeing chains. Second, specialisation multiplied value. [FACT] Ujjain's agate-carnelian working, Arikamedu/Uraiyur dyeing vats and Telangana iron artefacts show regionally distinct production. Third, towns and routes concentrated demand, exchange and skills, while moulds and repeated forms suggest batch production. [LIMIT] Surplus did not automatically create cities: political security, transport, institutions and market demand remained necessary, and site evidence is uneven. Thus agrarian production and craft specialisation formed a reciprocal rather than one-way urban system.
-Why this earns marks: It gives a direct causal thesis, four named evidence units, explains significance and ends with a qualification.
-- 15 marks / 250 words - Examine the relationship between internal trade routes and overseas exchange in c. 200 BCE-250 CE. Model solution: [ANALYSIS] Overseas exchange was the seaward extension of inland production and redistribution, not an autonomous 'Roman trade' enclave. [FACT] The Taxila-Mathura-Ujjain-Bharuch corridor linked the north-west and Malwa to a western port; Ujjain also received the Kaushambi route and worked agate-carnelian beads. [FACT] Deccan nodes such as Paithan and Tagara channelled agrarian and craft goods towards western and southern outlets. Sangam chattu caravans carried paddy, salt and pepper, showing inland movement behind coastal trade. At ports, [FACT] Bharuch, Muziris, Arikamedu, Puhar and Tamralipti aggregated goods, collected customs, enabled shipping and redistributed imports. Mediterranean-linked exchange moved pepper, textiles, beads, pearls, stones, ivory and iron/steel outward, while coins/bullion, amphorae, ceramics, glass and metals came inward. [ANALYSIS] Ports therefore depended on hinterland routes, while overseas demand could deepen selected craft specialisation and urban consumption. State security under Kushana and Satavahana polities and local toll/custom arrangements affected transaction costs. [LIMIT] Route maps are reconstructions, not fixed highways; imported ceramics do not prove foreign colonies; and luxury trade did not replace internal or subsistence exchange. The relationship was nested: village and craft cluster to market node, route junction, port and multi-nodal Indian Ocean circuit.
-Why this earns marks: It answers relationship rather than listing routes, uses six named nodes and goods, and qualifies maps, colony claims and trade composition.
-- 20 marks / 250 words - 'Crafts, commerce and urban growth formed a mutually reinforcing system in post-Mauryan India.' Critically discuss. Model solution: [ANALYSIS] The proposition is persuasive if treated as a networked, regionally uneven process rooted in an older agrarian-urban base. Production came first but was not isolated. [FACT] Sanghol's diversified crop record and Deccan cotton/paddy evidence supplied food and fibre; Ujjain bead working, Telangana iron, Arikamedu/Uraiyur dyeing vats, ivory, glass, pottery and coin moulds show specialised manufacture. Commerce connected these clusters. [FACT] Taxila-Mathura-Ujjain-Bharuch and Kaushambi-Ujjain corridors, Paithan-Tagara routes and Sangam caravans linked hinterlands to ports. Institutions reduced continuity and trust problems: [FACT] potter, oil-miller, weaver and flour-maker bodies received deposits for recurring religious provision; merchant and artisan donors appear at western Deccan caves. Coinage widened transaction options through Kushana gold/copper, Satavahana multi-metal issues, civic coins and Roman-linked bullion. Urban nodes concentrated consumers, workshops, rulers and religious establishments. [FACT] Sirkap's streets, fortifications, courtyard houses and possible shops, and Hastinapura's bricks, ring well, tools, beads and coins illustrate functional concentration. The loop was reinforcing: urban demand deepened crafts, commerce expanded markets, and surplus sustained non-producers.
-[LIMIT] It was not automatic or uniform. Guild evidence is local, monetisation incomplete, imported ceramics do not prove colonies, and foreign luxury trade cannot explain every town. From the third century, some regions contracted while others transformed, reflecting political and route change as well as overseas demand. The system therefore explains a major early-historic florescence, but only through regional comparison and source triangulation.
-Why this earns marks: It integrates production, institutions, routes, coins, morphology and decline with more than eight named evidence units and sustained qualification.
+- A. a leather bag pulled out of a well with the help of a pulley
+- B. a large wheel with earthen pots tied to the outer ends of its spokes
+- C. a large earthen pot driven by bullocks
+- D. a bucket pulled out of a well by hand
 
-#### Must-know facts
+**Answer: B (official Set-A key held locally).** OFFICIALLY KEYED LOCALLY. In the Set-A paper the pot-bearing wheel option occupies position B, and the *araghatta* is precisely that wheel-based lifting device. **Control:** the canonical owner places the term cautiously, notes that its exact earliest attestation is debated, and warns against substituting an assumed drive mechanism for the mechanism described. It is a water-lifting device, never a dam, canal or reservoir, and it is not a core craft-commerce institution of 200 BCE–250 CE.
 
-- 10M: 2-3 precise examples.
-- 15M: 4-6 examples.
-- 20M: 5-8 or more integrated evidence units.
+#### Solved PYQ 4 — 2026 Prelims GS-I Q6 (direct core-window money-economy demand)
 
-#### UPSC traps
+Pali texts contain definite references to coins such as *kahapana*, *nikkha*, *kamsa* and *kakanika*, and archaeological finds of punch-marked coins, mostly silver, corroborate the literary evidence. These statements are associated with which of the following developments?
 
-- WRONG: List sites without inference.
-  CORRECT: Explain what each named site or record proves and its limit.
+- A. The emergence of urban life only
+- B. The transition to a money economy only
+- C. Both the emergence of urban life and the transition to a money economy
+- D. Neither of the two developments
 
-**Mains angle:** Practise thesis, thematic body, counterpoint and graded verdict.
+**Answer: C.** PROVISIONAL 2026 KEY — **NOT OFFICIALLY VERIFIED**. The examinable point is the textual–archaeological pairing: denominational terminology alone would be insufficient, and punch-marked finds alone would not reveal every monetary practice, but together they connect the growth of towns with a transition toward coin-mediated exchange. **Control:** association is not exclusive causation and does not imply universal coin use.
 
-**Study link:** Answer spine.
+### Mains answer architecture
 
-### 02. Solved verified/routed Prelims PYQs
+```text
+DIRECT THESIS (networked, mutually reinforcing, regionally uneven)
+   -> period and source control
+   -> agrarian and raw-material base
+   -> crafts and corporate institutions
+   -> inland corridors, caravans and port-hinterland mechanism
+   -> coinage, urban morphology, religion and state
+   -> regional comparison and the decline/transformation debate
+   -> graded verdict
+```
 
-[FACT] Wording is taken from the locally held papers or their audited neutral rendering; ownership is labelled.
+Every body paragraph must be independently useful:
 
-#### Core teaching / solved practice
+> **Claim → named site/text/inscription/coin → what it proves → what it cannot prove.**
 
-- UPSC Prelims 2020 Q25 - adjacent chronological owner. Question: Which phrase defines the nature of the 'Hundi' generally referred to in sources of the post-Harsha period? Options included an advisory, a daily-account diary, a bill of exchange, and a feudal order. Solution: Answer: bill of exchange (option C in the locally held paper). [FACT] A hundi was a credit/remittance instrument, not a coin. [LIMIT] This PYQ concerns the post-Harsha period and is included only because the local routing ledger assigns it to Topic 19; it must not be back-projected as a fully developed instrument in c. 200 BCE-250 CE. Key status: INFERRED FROM AUTHORITATIVE SUBJECT KNOWLEDGE - official 2020 key not held locally.
-- UPSC Prelims 2020 Q82 - adjacent Gupta-period owner. Question: With reference to the Gupta period, Ghantasala, Kadura and Chaul were known as what? Options included ports handling foreign trade, capitals, stone-art centres and Buddhist pilgrimage centres. Solution: Answer: ports handling foreign trade (option A in the locally held paper). [ANALYSIS] The question tests continuity and relocation of maritime nodes beyond Topic 19's core window. [LIMIT] It is not evidence that every named port peaked before 250 CE. Key status: INFERRED FROM AUTHORITATIVE SUBJECT KNOWLEDGE - official 2020 key not held locally.
-- UPSC Prelims 2025 Q13 - adjacent technology route. Question: The irrigation device called Araghatta was: leather bag over a pulley; large wheel with earthen pots tied to the outer ends of its spokes; large earthen pot driven by bullocks; or hand-pulled bucket. Solution: Answer: a large wheel with earthen pots tied to the outer ends of its spokes (option B; official Set-A key is held locally). [LIMIT] The local canonical file places the term cautiously and notes that its exact earliest attestation is debated; it is not a core craft-commerce institution of 200 BCE-250 CE. Key status: OFFICIALLY KEYED LOCALLY.
-- UPSC Prelims 2026 routed question - direct money-economy demand. Question: Pali texts contain definite coin references such as kahapana, nikkha, kamsa and kakanika; archaeological punch-marked coins, mostly silver, corroborate the literary evidence. With which developments are these statements associated: emergence of urban life and/or transition to money economy? Solution: Answer: both emergence of urban life and transition to money economy (option C in the locally held provisional Set-A material). The textual-archaeological pairing is the key: terminology alone is not enough, and punch-marked finds alone do not reveal every monetary practice. Key status: PROVISIONAL 2026 KEY - NOT OFFICIALLY VERIFIED.
+### Original Mains practice — 10 marks
 
-#### Must-know facts
+#### Original Mains 1 — 10 marks / 150 words
 
-- Hundi = bill of exchange.
-- Ghantasala/Kadura/Chaul = foreign-trade ports.
-- Araghatta = wheel with earthen pots.
-- Pali evidence supports urban and money transitions.
+**Question:** Explain how agrarian surplus and craft specialisation reinforced early historic urban growth.
 
-#### UPSC traps
+Early historic towns were concentrations of non-food-producing groups, so urban growth required a productive countryside and mechanisms for converting surplus into specialised output. First, diversified agriculture supplied food and raw materials. [FACT] Sanghol's early-centuries-CE plant record includes cereals, pulses, oilseeds, cotton, spices and a dye plant; Deccan evidence supports cotton and paddy expansion. This sustained consumers and fed textile and dyeing chains. Second, specialisation multiplied value. [FACT] Ujjain's agate-carnelian working, Arikamedu and Uraiyur dyeing vats and Telangana iron artefacts show regionally distinct production. Third, towns and routes concentrated demand, exchange and skills, while moulds and repeated forms suggest batch production. [LIMIT] Surplus did not automatically create cities: political security, transport, institutions and market demand remained necessary, and site evidence is uneven. Thus agrarian production and craft specialisation formed a reciprocal rather than one-way urban system.
 
-- WRONG: Back-project later Hundi evidence.
-  CORRECT: Keep it post-Harsha.
+**Why this earns marks:** a direct causal thesis, four named evidence units, explicit significance and a closing qualification.
 
-**Mains angle:** Convert objective distinctions into source-aware notes.
+**How to improve this answer:** add one named corporate record — for example the Mathura flour-makers' endowment — to show institutional conversion of surplus, and state what that record cannot prove about wages.
 
-**Study link:** PYQ ledgers.
+#### Original Mains 2 — 10 marks / 150 words
 
-### 08. Solved 10-mark questions
+**Question:** Distinguish the evidence for guild corporate identity from claims about modern banking.
 
-[ANALYSIS] Two 150-word models with compact evidence density.
+*Shrenis* were occupational corporate bodies, but equating them with modern banks overstates the evidence. [FACT] The Ahichchhatra *kumhakara seniya* seal records a potters' guild; another sealing may refer to arrowhead or spearhead makers. These establish corporate identity. [FACT] Second-century-CE Maharashtra records entrusted money with potter, oil-miller and weaver guilds to provide monastic necessities, while a Mathura flour-makers' deposit funded recurring Brahmana service from monthly income. These show reputation, custody and income-bearing endowment functions. [ANALYSIS] Such arrangements reduced continuity risk by attaching an obligation to a body rather than to an individual. [LIMIT] The records do not establish universal deposits, regulated reserves, negotiable instruments, deposit insurance or uniform interest rates. *Nigama* coins similarly indicate limited merchant authority, not sovereignty. Therefore 'financial intermediary' or 'endowment custodian' is safer than 'bank'.
 
-#### Core teaching / solved practice
+**Why this earns marks:** it distinguishes concepts, names three records, explains institutional significance and explicitly controls the analogy.
 
-- 10 marks / 150 words - Explain how agrarian surplus and craft specialisation reinforced early historic urban growth. Model solution: [ANALYSIS] Early historic towns were concentrations of non-food-producing groups, so urban growth required a productive countryside and mechanisms for converting surplus into specialised output. First, diversified agriculture supplied food and raw materials. [FACT] Sanghol's early-centuries-CE plant record includes cereals, pulses, oilseeds, cotton, spices and a dye plant; Deccan evidence supports cotton and paddy expansion. This sustained consumers and fed textile and dyeing chains. Second, specialisation multiplied value. [FACT] Ujjain's agate-carnelian working, Arikamedu/Uraiyur dyeing vats and Telangana iron artefacts show regionally distinct production. Third, towns and routes concentrated demand, exchange and skills, while moulds and repeated forms suggest batch production. [LIMIT] Surplus did not automatically create cities: political security, transport, institutions and market demand remained necessary, and site evidence is uneven. Thus agrarian production and craft specialisation formed a reciprocal rather than one-way urban system.
-Why this earns marks: It gives a direct causal thesis, four named evidence units, explains significance and ends with a qualification.
-- 10 marks / 150 words - Distinguish evidence for guild corporate identity from claims about modern banking. Model solution: [ANALYSIS] Shrenis were occupational corporate bodies, but equating them with modern banks overstates the evidence. [FACT] The Ahichchhatra kumhakara seniya seal records a potters' guild; another sealing may refer to arrowhead/spearhead makers. These establish corporate identity. [FACT] Second-century-CE Maharashtra records entrusted money with potter, oil-miller and weaver guilds to provide monastic necessities, while a Mathura flour-makers' deposit funded recurring Brahmana service. These show reputation, custody and income-bearing endowment functions. [ANALYSIS] Such arrangements reduced continuity risk by attaching obligations to a body rather than an individual. [LIMIT] The records do not establish universal deposits, regulated reserves, negotiable instruments, deposit insurance or uniform interest rates. Nigama coins similarly indicate limited merchant authority, not sovereignty. Therefore 'financial intermediary' or 'endowment custodian' is safer than 'bank'.
-Why this earns marks: It distinguishes concepts, names three records, explains institutional significance and explicitly controls analogy.
+**How to improve this answer:** name the regional spread of the records to show why guild powers cannot be standardised across India.
 
-#### Must-know facts
+### Original Mains practice — 15 marks
 
-- Direct thesis; 2-3 precise examples; one explicit limit.
+#### Original Mains 3 — 15 marks / 250 words
 
-#### UPSC traps
+**Question:** Examine the relationship between internal trade routes and overseas exchange in c. 200 BCE–250 CE.
 
-- WRONG: Use a 20-mark structure for 10 marks.
-  CORRECT: Prioritise the causal core and concise qualification.
+Overseas exchange was the seaward extension of inland production and redistribution, not an autonomous 'Roman trade' enclave. [FACT] The Taxila–Mathura–Ujjain–Bharuch corridor linked the north-west and Malwa to a western port; Ujjain also received the Kaushambi route and worked agate-carnelian beads. [FACT] Deccan nodes such as Paithan and Tagara channelled agrarian and craft goods towards western and southern outlets. Sangam *chattu* caravans carried paddy, salt and pepper, showing inland movement behind coastal trade. At ports, [FACT] Bharuch, Muziris, Arikamedu, Puhar and Tamralipti aggregated goods, collected customs, enabled shipping and redistributed imports. Mediterranean-linked exchange moved pepper, textiles, beads, pearls, stones, ivory and iron or steel outward, while coins and bullion, amphorae, ceramics, glass and metals came inward. [ANALYSIS] Ports therefore depended on hinterland routes, while overseas demand could deepen selected craft specialisation and urban consumption. State security under Kushana and Satavahana polities and local toll arrangements affected transaction costs. [LIMIT] Route maps are reconstructions, not fixed highways; imported ceramics do not prove foreign colonies; and luxury trade did not replace internal or subsistence exchange. The relationship was nested: village and craft cluster to market node, route junction, port and multi-nodal Indian Ocean circuit.
 
-**Mains angle:** Rewrite each in 7 minutes.
+**Why this earns marks:** it answers *relationship* rather than listing routes, uses six named nodes and commodity classes, and qualifies maps, colony claims and trade composition.
 
-**Study link:** Production and guild sections.
+**How to improve this answer:** add one sentence on eastern Bay of Bengal and Southeast Asian links so the nesting is not read as west-facing only.
 
-### 09. Solved 15-mark questions
+#### Original Mains 4 — 15 marks / 250 words
 
-[ANALYSIS] Two 250-word models requiring relationship and critical assessment.
+**Question:** Critically assess coinage as evidence for monetisation and prosperity in this period.
 
-#### Core teaching / solved practice
+Coinage is indispensable evidence for authority, exchange and connectivity, but it is not a self-sufficient index of prosperity. [FACT] Indo-Greek bilingual and bi-script issues illuminate rulers otherwise poorly known; Kushanas issued gold and abundant copper; Satavahanas used silver, copper, lead and potin; Tamil dynastic issues and Mediterranean-linked coins widened the peninsular record. [FACT] City coins from Ujjayini, Kaushambi, Vidisha, Varanasi and Taxila and a few *negama* issues reveal civic and corporate authority. Coin moulds at sites such as Sunet demonstrate minting activity, while Pali terms such as *kahapana* and *kakanika* are corroborated by punch-marked silver finds. These data show multiple denominations, issuers and transaction spheres. Yet [LIMIT] hoards may represent savings, crisis concealment or bullion rather than routine market use; gold was unsuitable for most small transactions; coin survival is shaped by metal and excavation; and barter, payments in kind and customary obligations continued. Mediterranean coins may have circulated, been valued as bullion, imitated or counter-struck, so their exact use needs context. [ANALYSIS] Prosperity should therefore be tested through coinage plus settlement expansion, craft debris, inscriptions, route evidence and consumption patterns. Coinage demonstrates monetisation's reach and political symbolism, not a universal cash economy.
 
-- 15 marks / 250 words - Examine the relationship between internal trade routes and overseas exchange in c. 200 BCE-250 CE. Model solution: [ANALYSIS] Overseas exchange was the seaward extension of inland production and redistribution, not an autonomous 'Roman trade' enclave. [FACT] The Taxila-Mathura-Ujjain-Bharuch corridor linked the north-west and Malwa to a western port; Ujjain also received the Kaushambi route and worked agate-carnelian beads. [FACT] Deccan nodes such as Paithan and Tagara channelled agrarian and craft goods towards western and southern outlets. Sangam chattu caravans carried paddy, salt and pepper, showing inland movement behind coastal trade. At ports, [FACT] Bharuch, Muziris, Arikamedu, Puhar and Tamralipti aggregated goods, collected customs, enabled shipping and redistributed imports. Mediterranean-linked exchange moved pepper, textiles, beads, pearls, stones, ivory and iron/steel outward, while coins/bullion, amphorae, ceramics, glass and metals came inward. [ANALYSIS] Ports therefore depended on hinterland routes, while overseas demand could deepen selected craft specialisation and urban consumption. State security under Kushana and Satavahana polities and local toll/custom arrangements affected transaction costs. [LIMIT] Route maps are reconstructions, not fixed highways; imported ceramics do not prove foreign colonies; and luxury trade did not replace internal or subsistence exchange. The relationship was nested: village and craft cluster to market node, route junction, port and multi-nodal Indian Ocean circuit.
-Why this earns marks: It answers relationship rather than listing routes, uses six named nodes and goods, and qualifies maps, colony claims and trade composition.
-- 15 marks / 250 words - Critically assess coinage as evidence for monetisation and prosperity. Model solution: [ANALYSIS] Coinage is indispensable evidence for authority, exchange and connectivity, but it is not a self-sufficient index of prosperity. [FACT] Indo-Greek bilingual and bi-script issues illuminate rulers otherwise poorly known; Kushanas issued gold and abundant copper; Satavahanas used silver, copper, lead and potin; Tamil dynastic issues and Roman-linked coins widened the peninsular record. [FACT] City coins from Ujjayini, Kaushambi, Vidisha, Varanasi and Taxila and a few negama issues reveal civic and corporate authority. Coin moulds at sites such as Sunet demonstrate minting activity, while Pali terms such as kahapana and kakanika are corroborated by punch-marked silver finds. These data show multiple denominations, issuers and transaction spheres. Yet [LIMIT] hoards may represent savings, crisis concealment or bullion rather than routine market use; gold was unsuitable for most small transactions; coin survival is shaped by metal and excavation; and barter, kind payments and customary obligations continued. Roman coins may have circulated, been valued as bullion, imitated or counter-struck, so their exact use needs context. [ANALYSIS] Prosperity should therefore be tested through coinage plus settlement expansion, craft debris, inscriptions, route evidence and consumption patterns. Coinage demonstrates monetisation's reach and political symbolism, not a universal cash economy or ancient GDP.
-Why this earns marks: It balances six coin classes with four methodological limits and provides a clear corroboration protocol.
+**Why this earns marks:** it balances six coin classes against four methodological limits and supplies an explicit corroboration protocol.
 
-#### Must-know facts
+**How to improve this answer:** name one settlement where coin moulds and craft debris occur together, so the protocol is illustrated rather than only stated.
 
-- Use 4-6 examples and a clear counterpoint.
+### Original Mains practice — 20 marks
 
-#### UPSC traps
+#### Original Mains 5 — 20 marks / 250–300 words
 
-- WRONG: Route list without relationship.
-  CORRECT: Show how inland, port and overseas levels connect.
+**Question:** 'Crafts, commerce and urban growth formed a mutually reinforcing system in post-Mauryan India.' Critically discuss.
 
-**Mains angle:** Rewrite each in 11 minutes.
+The proposition is persuasive if treated as a networked, regionally uneven process rooted in an older agrarian-urban base. Production came first but was not isolated. [FACT] Sanghol's diversified crop record and Deccan cotton and paddy evidence supplied food and fibre; Ujjain bead working, Telangana iron, Arikamedu and Uraiyur dyeing vats, ivory, glass, pottery and coin moulds show specialised manufacture. Commerce connected these clusters. [FACT] The Taxila–Mathura–Ujjain–Bharuch and Kaushambi–Ujjain corridors, Paithan–Tagara routes and Sangam caravans linked hinterlands to ports. Institutions reduced continuity and trust problems: [FACT] potter, oil-miller, weaver and flour-maker bodies received deposits for recurring religious provision, and merchant and artisan donors appear at western Deccan caves. Coinage widened transaction options through Kushana gold and copper, Satavahana multi-metal issues, civic coins and Mediterranean-linked bullion. Urban nodes concentrated consumers, workshops, rulers and religious establishments. [FACT] Sirkap's streets, fortifications, courtyard houses and possible shops, and Hastinapura's bricks, ring well, tools, beads and coins illustrate functional concentration. The loop was reinforcing: urban demand deepened crafts, commerce expanded markets, and surplus sustained non-producers. [LIMIT] It was not automatic or uniform. Guild evidence is local, monetisation incomplete, imported ceramics do not prove colonies, and foreign luxury trade cannot explain every town. From the third century some regions contracted while others transformed, reflecting political and route change as well as overseas demand. The system therefore explains a major early-historic florescence, but only through regional comparison and source triangulation.
 
-**Study link:** Routes and coinage sections.
+**Why this earns marks:** it integrates production, institutions, routes, coins, morphology and decline with more than eight named evidence units and sustained qualification.
 
-### 10. Solved 20-mark questions
+**How to improve this answer:** convert one evidence cluster into an explicit counter-case — a town that grew without significant overseas linkage — to strengthen the critical element.
 
-[ANALYSIS] Two synthesis models integrate the whole topic and regional comparison.
+#### Original Mains 6 — 20 marks / 250–300 words
 
-#### Core teaching / solved practice
+**Question:** Compare the urban-commercial trajectories of north India, the Deccan and the deep south in c. 200 BCE–250 CE.
 
-- 20 marks / 250 words - 'Crafts, commerce and urban growth formed a mutually reinforcing system in post-Mauryan India.' Critically discuss. Model solution: [ANALYSIS] The proposition is persuasive if treated as a networked, regionally uneven process rooted in an older agrarian-urban base. Production came first but was not isolated. [FACT] Sanghol's diversified crop record and Deccan cotton/paddy evidence supplied food and fibre; Ujjain bead working, Telangana iron, Arikamedu/Uraiyur dyeing vats, ivory, glass, pottery and coin moulds show specialised manufacture. Commerce connected these clusters. [FACT] Taxila-Mathura-Ujjain-Bharuch and Kaushambi-Ujjain corridors, Paithan-Tagara routes and Sangam caravans linked hinterlands to ports. Institutions reduced continuity and trust problems: [FACT] potter, oil-miller, weaver and flour-maker bodies received deposits for recurring religious provision; merchant and artisan donors appear at western Deccan caves. Coinage widened transaction options through Kushana gold/copper, Satavahana multi-metal issues, civic coins and Roman-linked bullion. Urban nodes concentrated consumers, workshops, rulers and religious establishments. [FACT] Sirkap's streets, fortifications, courtyard houses and possible shops, and Hastinapura's bricks, ring well, tools, beads and coins illustrate functional concentration. The loop was reinforcing: urban demand deepened crafts, commerce expanded markets, and surplus sustained non-producers.
-[LIMIT] It was not automatic or uniform. Guild evidence is local, monetisation incomplete, imported ceramics do not prove colonies, and foreign luxury trade cannot explain every town. From the third century, some regions contracted while others transformed, reflecting political and route change as well as overseas demand. The system therefore explains a major early-historic florescence, but only through regional comparison and source triangulation.
-Why this earns marks: It integrates production, institutions, routes, coins, morphology and decline with more than eight named evidence units and sustained qualification.
-- 20 marks / 250 words - Compare the urban-commercial trajectories of north India, the Deccan and the deep south in c. 200 BCE-250 CE. Model solution: [ANALYSIS] The three zones participated in interconnected early-historic growth, but their starting points, evidence and political forms differed. North India built on the second-urbanisation legacy of NBPW, punch-marked coins and Ganga towns. [FACT] Taxila's successive cities, Mathura's route-religious-craft role, Ujjain's bead industry and junction position, and burnt-brick/ring-well levels at Hastinapura show established urban continuity intensified under Indo-Greek, Shaka and Kushana contexts. The Deccan combined agrarian expansion with inland-coastal routes and religious patronage. [FACT] Satavahana multi-metal coinage, Paithan and Tagara, western Deccan cave donors, guild deposits in Maharashtra and lower-Krishna centres such as Amaravati reveal a network polity and commercial landscape. The deep south grew from megalithic and chiefly backgrounds into literate port-centred systems. [FACT] Tamil-Brahmi at craft and Red Sea-linked sites, dynastic coins, Sangam caravans, Uraiyur dyeing, Arikamedu craft/import evidence and Muziris/Puhar traditions show production and maritime integration.
-[ANALYSIS] North India's route cities were more closely tied to older urban sequences; Deccan growth joined plateau interiors to two coasts; deep-south centres reveal strong port and literary visibility alongside emerging state structures. [LIMIT] These are tendencies, not sealed regions: routes and commodities crossed them, excavation is unequal, Sangam texts were later compiled, Pattanam-Muziris remains debated and dynastic archaeological labels can mislead. Thus comparison should recognise shared drivers - surplus, crafts, routes, institutions and coinage - while preserving distinct regional chronologies and evidence profiles.
-Why this earns marks: It uses a consistent comparative framework, gives named evidence in all three regions and avoids both uniformity and isolation.
+The three zones participated in interconnected early-historic growth, but their starting points, evidence and political forms differed. North India built on the second-urbanisation legacy of NBPW, punch-marked coins and Ganga towns. [FACT] Taxila's successive cities, Mathura's route-religious-craft role, Ujjain's bead industry and junction position, and burnt-brick and ring-well levels at Hastinapura show established urban continuity intensified under Indo-Greek, Shaka and Kushana contexts. The Deccan combined agrarian expansion with inland-coastal routes and religious patronage. [FACT] Satavahana multi-metal coinage, Paithan and Tagara, western Deccan cave donors, guild deposits in Maharashtra and lower-Krishna centres such as Amaravati reveal a network polity and commercial landscape. The deep south grew from megalithic and chiefly backgrounds into literate port-centred systems. [FACT] Tamil-Brahmi at craft and Red Sea-linked sites, dynastic coins, Sangam caravans, Uraiyur dyeing, Arikamedu craft and import evidence and the Muziris and Puhar traditions show production and maritime integration. [ANALYSIS] North India's route cities were more closely tied to older urban sequences; Deccan growth joined plateau interiors to two coasts; deep-south centres reveal strong port and literary visibility alongside emerging state structures. [LIMIT] These are tendencies, not sealed regions: routes and commodities crossed them, excavation is unequal, Sangam texts were later compiled, the Pattanam–Muziris identification remains debated and dynastic archaeological labels can mislead. Comparison should therefore recognise shared drivers — surplus, crafts, routes, institutions and coinage — while preserving distinct regional chronologies and evidence profiles.
 
-#### Must-know facts
+**Why this earns marks:** it applies one consistent comparative framework, supplies named evidence in all three regions and avoids both uniformity and isolation.
 
-- Use 5-8+ evidence units and a graded verdict.
-
-#### UPSC traps
-
-- WRONG: Foreign trade monocause.
-  CORRECT: Integrate production, institutions, circulation and regional limits.
-
-**Mains angle:** Rewrite each in 14 minutes.
-
-**Study link:** Historiography and answer architecture.
-
-
-### FINAL CONSOLIDATED REGISTER NOTES - PLACED LAST
-
-**Demand decoding:** The directive **answer** requires a direct position on “26. Solved Mains practice - 10, 15 and 20 marks”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “26. Solved Mains practice - 10, 15 and 20 marks”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**How to improve this answer:** add the third-century outcome for each region so the comparison ends with differentiated transformation rather than a static snapshot.
